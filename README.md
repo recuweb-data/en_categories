@@ -1,3 +1,3 @@
 #en_categories
-http://enrecuweb.com
+http://en.recuweb.com
 Alphabetical list of recuweb portals in english
