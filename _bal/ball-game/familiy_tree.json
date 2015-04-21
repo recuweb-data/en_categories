@@ -1,0 +1,52 @@
+{
+    "meta": {
+        "portal_name": "ball-game"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/ball-game/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/ball-game/ball-game/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/ball-game/ball-game/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/ball-game/ball-game/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ball-game": "sport/ball-game"
+        },
+        "children": {
+            "association-football": "sport/ball-game/association-football",
+            "baseball": "sport/ball-game/baseball",
+            "basketball": "sport/ball-game/basketball",
+            "golf": "sport/ball-game/golf",
+            "handball": "sport/ball-game/handball",
+            "hockey": "sport/ball-game/hockey",
+            "racquet-sports": "sport/ball-game/racquet-sports",
+            "rugby": "sport/ball-game/rugby",
+            "rugby-football": "sport/ball-game/rugby-football",
+            "volleyball": "sport/ball-game/volleyball"
+        },
+        "parents": {
+            "sport": "sport"
+        },
+        "sisters": {
+            "athletics": "sport/athletics",
+            "ball-game": "sport/ball-game",
+            "combat-sport": "sport/combat-sport",
+            "extreme-sport": "sport/extreme-sport",
+            "football": "sport/football",
+            "mind-sport": "sport/mind-sport",
+            "motorsport": "sport/motorsport",
+            "olympic-games": "sport/olympic-games",
+            "water-sports": "sport/water-sports"
+        },
+        "grandchildren": {
+            "american-football": "sport/ball-game/association-football/american-football",
+            "football-club": "sport/ball-game/association-football/football-club",
+            "field-hockey": "sport/ball-game/hockey/field-hockey",
+            "ice-hockey": "sport/ball-game/hockey/ice-hockey",
+            "roller-hockey": "sport/ball-game/hockey/roller-hockey",
+            "fronton": "sport/ball-game/racquet-sports/fronton",
+            "tennis": "sport/ball-game/racquet-sports/tennis",
+            "beach-volleyball": "sport/ball-game/volleyball/beach-volleyball"
+        }
+    }
+}
