@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "portal_name": "collecting"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/collecting/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/collecting/collecting/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/collecting/collecting/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/collecting/collecting/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "collecting": "lifestyle/hobbies/collecting"
+        },
+        "parents": {
+            "hobbies": "lifestyle/hobbies"
+        },
+        "sisters": {
+            "airsoft": "lifestyle/hobbies/airsoft",
+            "collecting": "lifestyle/hobbies/collecting",
+            "cooking": "lifestyle/hobbies/cooking",
+            "cosplay": "lifestyle/hobbies/cosplay",
+            "debating": "lifestyle/hobbies/debating",
+            "fandom": "lifestyle/hobbies/fandom",
+            "genealogy": "lifestyle/hobbies/genealogy",
+            "hacking": "lifestyle/hobbies/hacking",
+            "homebrewing": "lifestyle/hobbies/homebrewing",
+            "kites": "lifestyle/hobbies/kites",
+            "live-steam": "lifestyle/hobbies/live-steam",
+            "magic-tricks": "lifestyle/hobbies/magic-tricks",
+            "outdoor-recreation": "lifestyle/hobbies/outdoor-recreation",
+            "photography": "lifestyle/hobbies/photography",
+            "pyrotechnics": "lifestyle/hobbies/pyrotechnics"
+        }
+    }
+}
