@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "portal_name": "cosmology"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/cosmology/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/cosmology/cosmology/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/cosmology/cosmology/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/cosmology/cosmology/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "cosmology": "science/astronomy/cosmology"
+        },
+        "children": {
+            "big-bang": "science/astronomy/cosmology/big-bang",
+            "cosmos": "science/astronomy/cosmology/cosmos",
+            "dark-matter": "science/astronomy/cosmology/dark-matter",
+            "general-relativity": "science/astronomy/cosmology/general-relativity"
+        },
+        "parents": {
+            "astronomy": "science/astronomy"
+        },
+        "sisters": {
+            "cosmology": "science/astronomy/cosmology",
+            "galaxies": "science/astronomy/galaxies",
+            "nebulae": "science/astronomy/nebulae",
+            "planets": "science/astronomy/planets",
+            "satellites": "science/astronomy/satellites",
+            "solar-system": "science/astronomy/solar-system",
+            "spacecraft": "science/astronomy/spacecraft",
+            "spaceflight": "science/astronomy/spaceflight",
+            "stars": "science/astronomy/stars"
+        }
+    }
+}
