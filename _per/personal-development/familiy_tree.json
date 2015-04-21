@@ -1,0 +1,52 @@
+{
+    "meta": {
+        "portal_name": "personal-development"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/personal-development/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/personal-development/personal-development/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/personal-development/personal-development/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/personal-development/personal-development/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "personal-development": "society/psychology/human-development/personal-development"
+        },
+        "children": {
+            "disciplines": "lifestyle/personal-development/disciplines",
+            "kindness": "lifestyle/personal-development/kindness",
+            "life-coaching": "lifestyle/personal-development/life-coaching",
+            "positive-psychology": "lifestyle/personal-development/positive-psychology",
+            "survivalism": "lifestyle/personal-development/survivalism"
+        },
+        "parents": {
+            "lifestyle": "lifestyle",
+            "human-development": "society/psychology/human-development"
+        },
+        "sisters": {
+            "beverages": "lifestyle/beverages",
+            "employment": "lifestyle/employment",
+            "entertainment": "lifestyle/entertainment",
+            "foods": "lifestyle/foods",
+            "happiness": "lifestyle/happiness",
+            "hobbies": "lifestyle/hobbies",
+            "home": "lifestyle/home",
+            "honor": "lifestyle/honor",
+            "leisure": "lifestyle/leisure",
+            "love": "lifestyle/love",
+            "personal-development": "society/psychology/human-development/personal-development",
+            "pets": "lifestyle/pets",
+            "philosophy-of-life": "lifestyle/philosophy-of-life",
+            "privacy": "lifestyle/privacy",
+            "self-help": "lifestyle/self-help",
+            "simple-living": "lifestyle/simple-living",
+            "time-management": "lifestyle/time-management",
+            "video-game": "lifestyle/video-game",
+            "ageing": "society/psychology/human-development/ageing",
+            "auxology": "society/psychology/human-development/auxology",
+            "death": "society/psychology/human-development/death",
+            "parenting": "society/psychology/human-development/parenting",
+            "social-rejection": "society/psychology/human-development/social-rejection"
+        }
+    }
+}
