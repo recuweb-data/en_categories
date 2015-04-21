@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "portal_name": "athletics"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/athletics/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/athletics/athletics/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/athletics/athletics/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/athletics/athletics/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "athletics": "sport/athletics"
+        },
+        "children": {
+            "high-jump": "sport/athletics/high-jump",
+            "javelin-throw": "sport/athletics/javelin-throw",
+            "marathon": "sport/athletics/marathon",
+            "pole-vault": "sport/athletics/pole-vault",
+            "relay-race": "sport/athletics/relay-race",
+            "triathlon": "sport/athletics/triathlon",
+            "triple-jump": "sport/athletics/triple-jump"
+        },
+        "parents": {
+            "sport": "sport"
+        },
+        "sisters": {
+            "athletics": "sport/athletics",
+            "ball-game": "sport/ball-game",
+            "combat-sport": "sport/combat-sport",
+            "extreme-sport": "sport/extreme-sport",
+            "football": "sport/football",
+            "mind-sport": "sport/mind-sport",
+            "motorsport": "sport/motorsport",
+            "olympic-games": "sport/olympic-games",
+            "water-sports": "sport/water-sports"
+        }
+    }
+}
