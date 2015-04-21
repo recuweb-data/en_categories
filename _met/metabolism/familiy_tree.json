@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": "metabolism"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/metabolism/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/metabolism/metabolism/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/metabolism/metabolism/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/metabolism/metabolism/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "metabolism": "health/medicine/physiology/metabolism"
+        },
+        "parents": {
+            "physiology": "health/medicine/physiology"
+        },
+        "sisters": {
+            "biomechanics": "health/medicine/physiology/biomechanics",
+            "circadian-rhythm": "health/medicine/physiology/circadian-rhythm",
+            "electrophysiology": "health/medicine/physiology/electrophysiology",
+            "human-physiology": "health/medicine/physiology/human-physiology",
+            "metabolism": "health/medicine/physiology/metabolism",
+            "neurochemistry": "health/medicine/physiology/neurochemistry",
+            "neurophysiology": "health/medicine/physiology/neurophysiology",
+            "renal-physiology": "health/medicine/physiology/renal-physiology",
+            "respiratory-physiology": "health/medicine/physiology/respiratory-physiology",
+            "sleep-physiology": "health/medicine/physiology/sleep-physiology"
+        }
+    }
+}
