@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "portal_name": "climate-change"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/climate-change/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/climate-change/climate-change/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/climate-change/climate-change/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/climate-change/climate-change/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "climate-change": "economy/sustainability/climate-change"
+        },
+        "children": {
+            "climate-change-policy\u200e": "economy/sustainability/climate-change/climate-change-policy\u200e"
+        },
+        "parents": {
+            "sustainability": "economy/sustainability"
+        },
+        "sisters": {
+            "alternative-energy\u200e": "economy/sustainability/alternative-energy\u200e",
+            "climate-change": "economy/sustainability/climate-change",
+            "environmental-design": "economy/sustainability/environmental-design",
+            "environmental-economics": "economy/sustainability/environmental-economics",
+            "food-security": "economy/sustainability/food-security",
+            "recycling": "economy/sustainability/recycling",
+            "renewable-resources": "economy/sustainability/renewable-resources",
+            "sustainable-development\u200e": "economy/sustainability/sustainable-development\u200e",
+            "sustainable-technologies\u200e": "economy/sustainability/sustainable-technologies\u200e"
+        }
+    }
+}
