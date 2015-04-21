@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "portal_name": "engineering"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/engineering/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/engineering/engineering/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/engineering/engineering/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/engineering/engineering/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "engineering": "technology/engineering"
+        },
+        "children": {
+            "aerospace-engineering": "technology/engineering/aerospace-engineering",
+            "agricultural-engineering": "technology/engineering/agricultural-engineering",
+            "chemical-engineering": "technology/engineering/chemical-engineering",
+            "civil-engineering": "technology/engineering/civil-engineering",
+            "electromechanics": "technology/engineering/electromechanics",
+            "environmental-engineering": "technology/engineering/environmental-engineering",
+            "mechanical-engineering": "technology/engineering/mechanical-engineering",
+            "military-science": "technology/engineering/military-science"
+        },
+        "parents": {
+            "technology": "technology"
+        },
+        "sisters": {
+            "electric-energy": "technology/electric-energy",
+            "electronics": "technology/electronics",
+            "engineering": "technology/engineering",
+            "robotics": "technology/robotics",
+            "telecommunication": "technology/telecommunication"
+        },
+        "grandchildren": {
+            "aeronautics": "technology/engineering/aerospace-engineering/aeronautics",
+            "aircraft": "technology/engineering/aerospace-engineering/aircraft",
+            "fortification": "technology/engineering/military-science/fortification",
+            "military-tactics": "technology/engineering/military-science/military-tactics"
+        }
+    }
+}
