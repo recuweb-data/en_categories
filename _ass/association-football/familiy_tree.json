@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "portal_name": "association-football"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/association-football/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/association-football/association-football/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/association-football/association-football/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/association-football/association-football/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "association-football": "sport/ball-game/association-football"
+        },
+        "children": {
+            "american-football": "sport/ball-game/association-football/american-football",
+            "football-club": "sport/ball-game/association-football/football-club"
+        },
+        "parents": {
+            "ball-game": "sport/ball-game"
+        },
+        "sisters": {
+            "association-football": "sport/ball-game/association-football",
+            "baseball": "sport/ball-game/baseball",
+            "basketball": "sport/ball-game/basketball",
+            "golf": "sport/ball-game/golf",
+            "handball": "sport/ball-game/handball",
+            "hockey": "sport/ball-game/hockey",
+            "racquet-sports": "sport/ball-game/racquet-sports",
+            "rugby": "sport/ball-game/rugby",
+            "rugby-football": "sport/ball-game/rugby-football",
+            "volleyball": "sport/ball-game/volleyball"
+        },
+        "grandchildren": {
+            "afc-ajax": "sport/ball-game/association-football/football-club/afc-ajax",
+            "olympique-de-marseille": "sport/ball-game/association-football/football-club/olympique-de-marseille",
+            "olympique-lyonnais": "sport/ball-game/association-football/football-club/olympique-lyonnais",
+            "valencia-cf": "sport/ball-game/association-football/football-club/valencia-cf"
+        }
+    }
+}
