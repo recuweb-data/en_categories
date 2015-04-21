@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "disability-rights"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/disability-rights/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/disability-rights/disability-rights/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/disability-rights/disability-rights/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/disability-rights/disability-rights/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "disability-rights": "health/disability/disability-rights"
+        },
+        "parents": {
+            "disability": "health/disability"
+        },
+        "sisters": {
+            "disability-culture": "health/disability/disability-culture",
+            "disability-organizations": "health/disability/disability-organizations",
+            "disability-rights": "health/disability/disability-rights",
+            "disability-robots": "health/disability/disability-robots",
+            "disabled-sports": "health/disability/disabled-sports",
+            "mobility-devices": "health/disability/mobility-devices"
+        }
+    }
+}
