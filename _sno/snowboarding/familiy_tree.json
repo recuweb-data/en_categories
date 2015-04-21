@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "snowboarding"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/snowboarding/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/snowboarding/snowboarding/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/snowboarding/snowboarding/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/snowboarding/snowboarding/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "snowboarding": "sport/extreme-sport/snowboarding"
+        },
+        "parents": {
+            "extreme-sport": "sport/extreme-sport"
+        },
+        "sisters": {
+            "climbing": "sport/extreme-sport/climbing",
+            "escalada": "sport/extreme-sport/escalada",
+            "parachuting": "sport/extreme-sport/parachuting",
+            "skateboarding": "sport/extreme-sport/skateboarding",
+            "snowboarding": "sport/extreme-sport/snowboarding",
+            "surfing": "sport/extreme-sport/surfing"
+        }
+    }
+}
