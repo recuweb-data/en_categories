@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "artificial-life"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/artificial-life/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/artificial-life/artificial-life/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/artificial-life/artificial-life/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/artificial-life/artificial-life/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "artificial-life": "science/biology/life/artificial-life"
+        },
+        "parents": {
+            "life": "science/biology/life"
+        },
+        "sisters": {
+            "artificial-life": "science/biology/life/artificial-life",
+            "extraterrestrial-life": "science/biology/life/extraterrestrial-life",
+            "life-in-space": "science/biology/life/life-in-space",
+            "prehistoric-life": "science/biology/life/prehistoric-life",
+            "reproduction": "science/biology/life/reproduction",
+            "tree-of-life": "science/biology/life/tree-of-life"
+        }
+    }
+}
