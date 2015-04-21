@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "torero"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/torero/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/torero/torero/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/torero/torero/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/torero/torero/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "torero": "culture/popular-culture/bullfighting/torero"
+        },
+        "parents": {
+            "bullfighting": "culture/popular-culture/bullfighting"
+        },
+        "sisters": {
+            "rejoneos": "culture/popular-culture/bullfighting/rejoneos",
+            "running-of-the-bulls": "culture/popular-culture/bullfighting/running-of-the-bulls",
+            "toreros": "culture/popular-culture/bullfighting/toreros"
+        }
+    }
+}
