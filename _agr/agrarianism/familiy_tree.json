@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "agrarianism"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/agrarianism/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/agrarianism/agrarianism/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/agrarianism/agrarianism/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/agrarianism/agrarianism/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "agrarianism": "politics/social-movement/agrarianism"
+        },
+        "parents": {
+            "social-movement": "politics/social-movement"
+        },
+        "sisters": {
+            "agrarianism": "politics/social-movement/agrarianism",
+            "environmental-movement": "politics/social-movement/environmental-movement",
+            "environmentalism": "politics/social-movement/environmentalism",
+            "feminism": "politics/social-movement/feminism",
+            "indigenismo": "politics/social-movement/indigenismo",
+            "lobbying": "politics/social-movement/lobbying"
+        }
+    }
+}
