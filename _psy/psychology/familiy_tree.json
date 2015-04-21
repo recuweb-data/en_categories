@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "portal_name": "psychology"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/psychology/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/psychology/psychology/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/psychology/psychology/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/psychology/psychology/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "psychology": "society/psychology"
+        },
+        "children": {
+            "behaviorism": "society/psychology/behaviorism",
+            "cognitive-biases": "society/psychology/cognitive-biases",
+            "consciousness": "society/psychology/consciousness",
+            "emotion": "society/psychology/emotion",
+            "human-development": "society/psychology/human-development",
+            "mental-processes": "society/psychology/mental-processes",
+            "mind": "society/psychology/mind",
+            "perception": "society/psychology/perception",
+            "personality": "society/psychology/personality",
+            "psychiatry": "society/psychology/psychiatry",
+            "sexology": "society/psychology/sexology"
+        },
+        "parents": {
+            "society": "society"
+        },
+        "sisters": {
+            "anthropology": "society/anthropology",
+            "education": "society/education",
+            "history": "society/history",
+            "knowledge": "society/knowledge",
+            "law": "society/law",
+            "linguistics": "society/linguistics",
+            "psychology": "society/psychology",
+            "sociology": "society/sociology"
+        },
+        "grandchildren": {
+            "ageing": "society/psychology/human-development/ageing",
+            "auxology": "society/psychology/human-development/auxology",
+            "death": "society/psychology/human-development/death",
+            "parenting": "society/psychology/human-development/parenting",
+            "personal-development": "society/psychology/human-development/personal-development",
+            "social-rejection": "society/psychology/human-development/social-rejection"
+        }
+    }
+}
