@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "psychiatric-treatments"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/psychiatric-treatments/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/psychiatric-treatments/psychiatric-treatments/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/psychiatric-treatments/psychiatric-treatments/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/psychiatric-treatments/psychiatric-treatments/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "psychiatric-treatments": "health/medicine/medical-treatments/psychiatric-treatments"
+        },
+        "parents": {
+            "medical-treatments": "health/medicine/medical-treatments"
+        },
+        "sisters": {
+            "acne-treatments": "health/medicine/medical-treatments/acne-treatments",
+            "bioengineering": "health/medicine/medical-treatments/bioengineering",
+            "cancer-treatments": "health/medicine/medical-treatments/cancer-treatments",
+            "drugs": "health/medicine/medical-treatments/drugs",
+            "psychiatric-treatments": "health/medicine/medical-treatments/psychiatric-treatments",
+            "radiobiology": "health/medicine/medical-treatments/radiobiology",
+            "renal-dialysis": "health/medicine/medical-treatments/renal-dialysis",
+            "surgery": "health/medicine/medical-treatments/surgery",
+            "therapy": "health/medicine/medical-treatments/therapy"
+        }
+    }
+}
