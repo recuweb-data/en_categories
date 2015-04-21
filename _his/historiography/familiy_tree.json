@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "historiography"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/historiography/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/historiography/historiography/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/historiography/historiography/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/historiography/historiography/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "historiography": "society/history/historiography"
+        },
+        "parents": {
+            "history": "society/history"
+        },
+        "sisters": {
+            "archaeology": "society/history/archaeology",
+            "chronology": "society/history/chronology",
+            "historiography": "society/history/historiography",
+            "legacies": "society/history/legacies",
+            "local-history": "society/history/local-history",
+            "prehistory": "society/history/prehistory",
+            "pseudohistory": "society/history/pseudohistory"
+        }
+    }
+}
