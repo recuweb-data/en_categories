@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "portal_name": "web-services"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/web-services/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/web-services/web-services/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/web-services/web-services/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/web-services/web-services/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "web-services": "internet/web-services"
+        },
+        "children": {
+            "microblogging": "internet/web-services/microblogging",
+            "social-network": "internet/web-services/social-network"
+        },
+        "parents": {
+            "internet": "internet"
+        },
+        "sisters": {
+            "cybercrime": "internet/cybercrime",
+            "internet-activism": "internet/internet-activism",
+            "internet-celebrities": "internet/internet-celebrities",
+            "social-media": "internet/social-media",
+            "virtual-communities": "internet/virtual-communities",
+            "web-analytics": "internet/web-analytics",
+            "web-application": "internet/web-application",
+            "web-development": "internet/web-development",
+            "web-services": "internet/web-services"
+        },
+        "grandchildren": {
+            "tumblr": "internet/web-services/microblogging/tumblr",
+            "twitter": "internet/web-services/microblogging/twitter",
+            "facebook": "internet/web-services/social-network/facebook",
+            "flickr": "internet/web-services/social-network/flickr",
+            "linkedin": "internet/web-services/social-network/linkedin",
+            "tuenti": "internet/web-services/social-network/tuenti"
+        }
+    }
+}
