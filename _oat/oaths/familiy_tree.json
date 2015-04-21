@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "oaths"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/oaths/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/oaths/oaths/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/oaths/oaths/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/oaths/oaths/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "oaths": "society/law/oaths"
+        },
+        "parents": {
+            "law": "society/law"
+        },
+        "sisters": {
+            "jurisprudence": "society/law/jurisprudence",
+            "legal-reform": "society/law/legal-reform",
+            "oaths": "society/law/oaths",
+            "policy": "society/law/policy",
+            "rights": "society/law/rights",
+            "taxation": "society/law/taxation"
+        }
+    }
+}
