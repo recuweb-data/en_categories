@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "freethought"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/freethought/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/freethought/freethought/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/freethought/freethought/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/freethought/freethought/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "freethought": "politics/ethics/humanism/freethought"
+        },
+        "parents": {
+            "humanism": "politics/ethics/humanism"
+        },
+        "sisters": {
+            "freethought": "politics/ethics/humanism/freethought"
+        }
+    }
+}
