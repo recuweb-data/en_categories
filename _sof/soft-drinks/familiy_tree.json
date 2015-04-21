@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": "soft-drinks"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/soft-drinks/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/soft-drinks/soft-drinks/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/soft-drinks/soft-drinks/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/soft-drinks/soft-drinks/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "soft-drinks": "lifestyle/beverages/soft-drinks"
+        },
+        "parents": {
+            "beverages": "lifestyle/beverages"
+        },
+        "sisters": {
+            "alcoholic-beverages": "lifestyle/beverages/alcoholic-beverages",
+            "coffee": "lifestyle/beverages/coffee",
+            "cold-beverages": "lifestyle/beverages/cold-beverages",
+            "energy-drinks": "lifestyle/beverages/energy-drinks",
+            "fruit-juice": "lifestyle/beverages/fruit-juice",
+            "hot-beverages": "lifestyle/beverages/hot-beverages",
+            "milk": "lifestyle/beverages/milk",
+            "soft-drinks": "lifestyle/beverages/soft-drinks",
+            "sports-drinks": "lifestyle/beverages/sports-drinks",
+            "tea": "lifestyle/beverages/tea"
+        }
+    }
+}
