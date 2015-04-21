@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "school"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/school/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/school/school/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/school/school/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/school/school/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "school": "society/education/academic-institutions/school"
+        },
+        "parents": {
+            "academic-institutions": "society/education/academic-institutions"
+        },
+        "sisters": {
+            "academy": "society/education/academic-institutions/academy",
+            "college": "society/education/academic-institutions/college",
+            "institute": "society/education/academic-institutions/institute",
+            "school": "society/education/academic-institutions/school",
+            "think-tank": "society/education/academic-institutions/think-tank",
+            "university": "society/education/academic-institutions/university"
+        }
+    }
+}
