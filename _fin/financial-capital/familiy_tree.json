@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "portal_name": "financial-capital"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/financial-capital/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/financial-capital/financial-capital/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/financial-capital/financial-capital/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/financial-capital/financial-capital/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "financial-capital": "economy/finance/financial-capital"
+        },
+        "children": {
+            "capital-market": "economy/finance/financial-capital/capital-market",
+            "factoring": "economy/finance/financial-capital/factoring",
+            "financial-wealth": "economy/finance/financial-capital/financial-wealth",
+            "leasing": "economy/finance/financial-capital/leasing",
+            "money-market": "economy/finance/financial-capital/money-market",
+            "mortgage-loan": "economy/finance/financial-capital/mortgage-loan",
+            "project-finance": "economy/finance/financial-capital/project-finance",
+            "retained-profit": "economy/finance/financial-capital/retained-profit",
+            "share-capital": "economy/finance/financial-capital/share-capital",
+            "venture-capital": "economy/finance/financial-capital/venture-capital"
+        },
+        "parents": {
+            "finance": "economy/finance"
+        },
+        "sisters": {
+            "banking": "economy/finance/banking",
+            "corporate-finance": "economy/finance/corporate-finance",
+            "experimental-finance": "economy/finance/experimental-finance",
+            "financial-accounting": "economy/finance/financial-accounting",
+            "financial-capital": "economy/finance/financial-capital",
+            "financial-economics": "economy/finance/financial-economics",
+            "financial-markets": "economy/finance/financial-markets",
+            "financial-mathematics": "economy/finance/financial-mathematics",
+            "financial-services": "economy/finance/financial-services",
+            "personal-finance": "economy/finance/personal-finance",
+            "public-finance": "economy/finance/public-finance"
+        },
+        "grandchildren": {
+            "euro-bonds": "economy/finance/financial-capital/capital-market/euro-bonds",
+            "reserve-funds": "economy/finance/financial-capital/capital-market/reserve-funds"
+        }
+    }
+}
