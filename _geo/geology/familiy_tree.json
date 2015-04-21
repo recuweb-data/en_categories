@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "geology"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/geology/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/geology/geology/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/geology/geology/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/geology/geology/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "geology": "nature/earth/geology"
+        },
+        "parents": {
+            "earth": "nature/earth"
+        },
+        "sisters": {
+            "geography": "nature/earth/geography",
+            "geology": "nature/earth/geology",
+            "geophysics": "nature/earth/geophysics",
+            "oceanography": "nature/earth/oceanography"
+        }
+    }
+}
