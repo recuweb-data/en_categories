@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": "dubbing"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/dubbing/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/dubbing/dubbing/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/dubbing/dubbing/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/dubbing/dubbing/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "dubbing": "technology/telecommunication/video-technology/dubbing"
+        },
+        "parents": {
+            "translation": "society/linguistics/translation",
+            "video-technology": "technology/telecommunication/video-technology"
+        },
+        "sisters": {
+            "dubbing": "technology/telecommunication/video-technology/dubbing",
+            "internationalization": "society/linguistics/translation/internationalization",
+            "localization": "society/linguistics/translation/localization",
+            "subtitling": "society/linguistics/translation/subtitling",
+            "translators": "society/linguistics/translation/translators",
+            "music-video": "technology/telecommunication/video-technology/music-video",
+            "subtitle": "technology/telecommunication/video-technology/subtitle",
+            "television": "technology/telecommunication/video-technology/television",
+            "video-codec": "technology/telecommunication/video-technology/video-codec"
+        }
+    }
+}
