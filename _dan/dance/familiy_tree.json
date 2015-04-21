@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "dance"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/dance/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/dance/dance/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/dance/dance/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/dance/dance/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "dance": "lifestyle/entertainment/dance"
+        },
+        "parents": {
+            "entertainment": "lifestyle/entertainment"
+        },
+        "sisters": {
+            "adventure": "lifestyle/entertainment/adventure",
+            "cheerleading": "lifestyle/entertainment/cheerleading",
+            "comedy": "lifestyle/entertainment/comedy",
+            "comics": "lifestyle/entertainment/comics",
+            "dance": "lifestyle/entertainment/dance",
+            "films": "lifestyle/entertainment/films",
+            "gambling": "lifestyle/entertainment/gambling",
+            "humour": "lifestyle/entertainment/humour",
+            "music": "lifestyle/entertainment/music",
+            "nightlife": "lifestyle/entertainment/nightlife",
+            "television": "lifestyle/entertainment/television",
+            "theatre": "lifestyle/entertainment/theatre",
+            "toys": "lifestyle/entertainment/toys"
+        }
+    }
+}
