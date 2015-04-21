@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "portal_name": "financial-mathematics"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/financial-mathematics/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/financial-mathematics/financial-mathematics/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/financial-mathematics/financial-mathematics/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/financial-mathematics/financial-mathematics/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "financial-mathematics": "economy/finance/financial-mathematics"
+        },
+        "children": {
+            "financial-ratios\u200e": "economy/finance/financial-mathematics/financial-ratios\u200e",
+            "fixed-income-analysis\u200e": "economy/finance/financial-mathematics/fixed-income-analysis\u200e",
+            "fundamental-analysis": "economy/finance/financial-mathematics/fundamental-analysis",
+            "interest-rates\u200e": "economy/finance/financial-mathematics/interest-rates\u200e",
+            "market-trends": "economy/finance/financial-mathematics/market-trends",
+            "technical-analysis": "economy/finance/financial-mathematics/technical-analysis"
+        },
+        "parents": {
+            "finance": "economy/finance"
+        },
+        "sisters": {
+            "banking": "economy/finance/banking",
+            "corporate-finance": "economy/finance/corporate-finance",
+            "experimental-finance": "economy/finance/experimental-finance",
+            "financial-accounting": "economy/finance/financial-accounting",
+            "financial-capital": "economy/finance/financial-capital",
+            "financial-economics": "economy/finance/financial-economics",
+            "financial-markets": "economy/finance/financial-markets",
+            "financial-mathematics": "economy/finance/financial-mathematics",
+            "financial-services": "economy/finance/financial-services",
+            "personal-finance": "economy/finance/personal-finance",
+            "public-finance": "economy/finance/public-finance"
+        }
+    }
+}
