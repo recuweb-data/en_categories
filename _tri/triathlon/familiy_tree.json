@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "triathlon"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/triathlon/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/triathlon/triathlon/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/triathlon/triathlon/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/triathlon/triathlon/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "triathlon": "sport/athletics/triathlon"
+        },
+        "parents": {
+            "athletics": "sport/athletics"
+        },
+        "sisters": {
+            "high-jump": "sport/athletics/high-jump",
+            "javelin-throw": "sport/athletics/javelin-throw",
+            "marathon": "sport/athletics/marathon",
+            "pole-vault": "sport/athletics/pole-vault",
+            "relay-race": "sport/athletics/relay-race",
+            "triathlon": "sport/athletics/triathlon",
+            "triple-jump": "sport/athletics/triple-jump"
+        }
+    }
+}
