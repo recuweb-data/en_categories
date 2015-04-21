@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "transfer-payments"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/transfer-payments/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/transfer-payments/transfer-payments/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/transfer-payments/transfer-payments/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/transfer-payments/transfer-payments/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "transfer-payments": "economy/finance/public-finance/government-spending/transfer-payments"
+        },
+        "parents": {
+            "government-spending": "economy/finance/public-finance/government-spending"
+        },
+        "sisters": {
+            "government-consumption": "economy/finance/public-finance/government-spending/government-consumption",
+            "government-investment": "economy/finance/public-finance/government-spending/government-investment",
+            "government-operations": "economy/finance/public-finance/government-spending/government-operations",
+            "income-distribution": "economy/finance/public-finance/government-spending/income-distribution",
+            "transfer-payments": "economy/finance/public-finance/government-spending/transfer-payments"
+        }
+    }
+}
