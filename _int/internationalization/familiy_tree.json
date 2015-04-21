@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "internationalization"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/internationalization/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/internationalization/internationalization/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/internationalization/internationalization/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/internationalization/internationalization/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "internationalization": "society/linguistics/translation/internationalization\\npolitics/list-of-political-ideologies/internationalization"
+        },
+        "parents": {
+            "translation": "society/linguistics/translation",
+            "list-of-political-ideologies": "society/linguistics/translation/internationalization\\npolitics/list-of-political-ideologies"
+        },
+        "sisters": {
+            "dubbing": "society/linguistics/translation/dubbing",
+            "internationalization": "society/linguistics/translation/internationalization\\npolitics/list-of-political-ideologies/internationalization",
+            "localization": "society/linguistics/translation/localization",
+            "subtitling": "society/linguistics/translation/subtitling",
+            "translators": "society/linguistics/translation/translators"
+        }
+    }
+}
