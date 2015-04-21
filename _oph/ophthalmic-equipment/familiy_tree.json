@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": "ophthalmic-equipment"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/ophthalmic-equipment/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/ophthalmic-equipment/ophthalmic-equipment/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/ophthalmic-equipment/ophthalmic-equipment/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/ophthalmic-equipment/ophthalmic-equipment/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ophthalmic-equipment": "health/medicine/medical-equipment/ophthalmic-equipment"
+        },
+        "parents": {
+            "medical-equipment": "health/medicine/medical-equipment"
+        },
+        "sisters": {
+            "anesthetic-equipment": "health/medicine/medical-equipment/anesthetic-equipment",
+            "dental-equipment": "health/medicine/medical-equipment/dental-equipment",
+            "drug-delivery-devices": "health/medicine/medical-equipment/drug-delivery-devices",
+            "implants": "health/medicine/medical-equipment/implants",
+            "medical-devices": "health/medicine/medical-equipment/medical-devices",
+            "medical-imaging": "health/medicine/medical-equipment/medical-imaging",
+            "medical-pumps": "health/medicine/medical-equipment/medical-pumps",
+            "medical-robots": "health/medicine/medical-equipment/medical-robots",
+            "medical-technology": "health/medicine/medical-equipment/medical-technology",
+            "ophthalmic-equipment": "health/medicine/medical-equipment/ophthalmic-equipment",
+            "surgical-instruments": "health/medicine/medical-equipment/surgical-instruments"
+        }
+    }
+}
