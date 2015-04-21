@@ -1,0 +1,95 @@
+{
+    "meta": {
+        "portal_name": "astronomy"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/astronomy/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/astronomy/astronomy/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/astronomy/astronomy/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/astronomy/astronomy/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "astronomy": "science/astronomy"
+        },
+        "children": {
+            "cosmology": "science/astronomy/cosmology",
+            "galaxies": "science/astronomy/galaxies",
+            "nebulae": "science/astronomy/nebulae",
+            "planets": "science/astronomy/planets",
+            "satellites": "science/astronomy/satellites",
+            "solar-system": "science/astronomy/solar-system",
+            "spacecraft": "science/astronomy/spacecraft",
+            "spaceflight": "science/astronomy/spaceflight",
+            "stars": "science/astronomy/stars"
+        },
+        "parents": {
+            "science": "science"
+        },
+        "sisters": {
+            "astronomy": "science/astronomy",
+            "biology": "science/biology",
+            "chemistry": "science/chemistry",
+            "geography": "science/geography",
+            "mathematics": "science/mathematics",
+            "physics": "science/physics"
+        },
+        "grandchildren": {
+            "big-bang": "science/astronomy/cosmology/big-bang",
+            "cosmos": "science/astronomy/cosmology/cosmos",
+            "dark-matter": "science/astronomy/cosmology/dark-matter",
+            "general-relativity": "science/astronomy/cosmology/general-relativity",
+            "active-galaxies": "science/astronomy/galaxies/active-galaxies",
+            "barred-galaxies": "science/astronomy/galaxies/barred-galaxies",
+            "elliptical-galaxies": "science/astronomy/galaxies/elliptical-galaxies",
+            "galaxy-filaments": "science/astronomy/galaxies/galaxy-filaments",
+            "galaxy-superclusters": "science/astronomy/galaxies/galaxy-superclusters",
+            "intergalactic-media": "science/astronomy/galaxies/intergalactic-media",
+            "irregular-galaxies": "science/astronomy/galaxies/irregular-galaxies",
+            "lenticular-galaxies": "science/astronomy/galaxies/lenticular-galaxies",
+            "ring-galaxies": "science/astronomy/galaxies/ring-galaxies",
+            "spiral-galaxies": "science/astronomy/galaxies/spiral-galaxies",
+            "starburst-galaxies": "science/astronomy/galaxies/starburst-galaxies",
+            "dark-nebulae": "science/astronomy/nebulae/dark-nebulae",
+            "molecular-clouds": "science/astronomy/nebulae/molecular-clouds",
+            "planetary-nebulae": "science/astronomy/nebulae/planetary-nebulae",
+            "reflection-nebulae": "science/astronomy/nebulae/reflection-nebulae",
+            "atmosphere": "science/astronomy/planets/atmosphere",
+            "exoplanets": "science/astronomy/planets/exoplanets",
+            "giant-planets": "science/astronomy/planets/giant-planets",
+            "hypothetical-planets": "science/astronomy/planets/hypothetical-planets",
+            "pulsar-planets": "science/astronomy/planets/pulsar-planets",
+            "super-earths": "science/astronomy/planets/super-earths",
+            "terrestrial-planets": "science/astronomy/planets/terrestrial-planets",
+            "communications-satellites": "science/astronomy/satellites/communications-satellites",
+            "military-satellites": "science/astronomy/satellites/military-satellites",
+            "natural-satellite": "science/astronomy/satellites/natural-satellite",
+            "reconnaissance-satellites": "science/astronomy/satellites/reconnaissance-satellites",
+            "asteroids": "science/astronomy/solar-system/asteroids",
+            "celestial-objects": "science/astronomy/solar-system/celestial-objects",
+            "comets": "science/astronomy/solar-system/comets",
+            "dwarf-planets": "science/astronomy/solar-system/dwarf-planets",
+            "interplanetary-dust": "science/astronomy/solar-system/interplanetary-dust",
+            "meteoroids": "science/astronomy/solar-system/meteoroids",
+            "moon": "science/astronomy/solar-system/moon",
+            "sun": "science/astronomy/solar-system/sun",
+            "fictional-spacecraft": "science/astronomy/spaceflight/fictional-spacecraft",
+            "planetary-rovers": "science/astronomy/spaceflight/planetary-rovers",
+            "space-missions": "science/astronomy/spaceflight/space-missions",
+            "space-stations": "science/astronomy/spaceflight/space-stations",
+            "spacecraft-communication": "science/astronomy/spaceflight/spacecraft-communication",
+            "spacecraft-components": "science/astronomy/spaceflight/spacecraft-components",
+            "spacecraft-design": "science/astronomy/spaceflight/spacecraft-design",
+            "spacecraft-propulsion": "science/astronomy/spaceflight/spacecraft-propulsion",
+            "spaceplanes": "science/astronomy/spaceflight/spaceplanes",
+            "brown-dwarfs": "science/astronomy/stars/brown-dwarfs",
+            "compact-stars": "science/astronomy/stars/compact-stars",
+            "pole-stars": "science/astronomy/stars/pole-stars",
+            "red-giants": "science/astronomy/stars/red-giants",
+            "star-clusters": "science/astronomy/stars/star-clusters",
+            "star-systems": "science/astronomy/stars/star-systems",
+            "stellar-astronomy": "science/astronomy/stars/stellar-astronomy",
+            "stellar-groupings": "science/astronomy/stars/stellar-groupings"
+        }
+    }
+}
