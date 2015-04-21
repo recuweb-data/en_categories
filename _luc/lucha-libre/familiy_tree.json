@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "lucha-libre"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/lucha-libre/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/lucha-libre/lucha-libre/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/lucha-libre/lucha-libre/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/lucha-libre/lucha-libre/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "lucha-libre": "sport/combat-sport/lucha-libre"
+        },
+        "children": {
+            "greco-roman-wrestling": "sport/combat-sport/lucha-libre/greco-roman-wrestling"
+        },
+        "parents": {
+            "combat-sport": "sport/combat-sport"
+        },
+        "sisters": {
+            "boxing": "sport/combat-sport/boxing",
+            "fencing": "sport/combat-sport/fencing",
+            "lucha-libre": "sport/combat-sport/lucha-libre",
+            "martial-arts": "sport/combat-sport/martial-arts"
+        }
+    }
+}
