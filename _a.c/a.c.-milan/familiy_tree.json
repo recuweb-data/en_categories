@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "a.c.-milan"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/a.c.-milan/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/a.c.-milan/a.c.-milan/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/a.c.-milan/a.c.-milan/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/a.c.-milan/a.c.-milan/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "a.c.-milan": "sport/ball-game/association-football/football-club/a.c.-milan"
+        },
+        "parents": {
+            "football-club": "sport/ball-game/association-football/football-club"
+        },
+        "sisters": {
+            "afc-ajax": "sport/ball-game/association-football/football-club/afc-ajax",
+            "olympique-de-marseille": "sport/ball-game/association-football/football-club/olympique-de-marseille",
+            "olympique-lyonnais": "sport/ball-game/association-football/football-club/olympique-lyonnais",
+            "valencia-cf": "sport/ball-game/association-football/football-club/valencia-cf"
+        }
+    }
+}
