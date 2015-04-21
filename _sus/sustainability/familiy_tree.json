@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "portal_name": "sustainability"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/sustainability/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/sustainability/sustainability/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/sustainability/sustainability/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/sustainability/sustainability/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "sustainability": "economy/sustainability"
+        },
+        "children": {
+            "alternative-energy\u200e": "economy/sustainability/alternative-energy\u200e",
+            "climate-change": "economy/sustainability/climate-change",
+            "environmental-design": "economy/sustainability/environmental-design",
+            "environmental-economics": "economy/sustainability/environmental-economics",
+            "food-security": "economy/sustainability/food-security",
+            "recycling": "economy/sustainability/recycling",
+            "renewable-resources": "economy/sustainability/renewable-resources",
+            "sustainable-development\u200e": "economy/sustainability/sustainable-development\u200e",
+            "sustainable-technologies\u200e": "economy/sustainability/sustainable-technologies\u200e"
+        },
+        "parents": {
+            "economy": "economy"
+        },
+        "sisters": {
+            "business": "economy/business",
+            "finance": "economy/finance",
+            "macroeconomics": "economy/macroeconomics",
+            "microeconomics": "economy/microeconomics",
+            "property": "economy/property",
+            "sustainability": "economy/sustainability"
+        },
+        "grandchildren": {
+            "climate-change-policy\u200e": "economy/sustainability/climate-change/climate-change-policy\u200e",
+            "ecological-restoration\u200e": "economy/sustainability/environmental-design/ecological-restoration\u200e",
+            "civil-supplies": "economy/sustainability/food-security/civil-supplies",
+            "composting\u200e": "economy/sustainability/recycling/composting\u200e",
+            "recycling-industry": "economy/sustainability/recycling/recycling-industry"
+        }
+    }
+}
