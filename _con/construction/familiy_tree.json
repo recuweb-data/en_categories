@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "construction"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/construction/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/construction/construction/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/construction/construction/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/construction/construction/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "construction": "economy/property/real-estate/construction"
+        },
+        "parents": {
+            "real-estate": "economy/property/real-estate"
+        },
+        "sisters": {
+            "commercial-real-estate\u200e": "economy/property/real-estate/commercial-real-estate\u200e",
+            "construction": "economy/property/real-estate/construction",
+            "luxury-real-estate\u200e": "economy/property/real-estate/luxury-real-estate\u200e",
+            "real-estate-valuation": "economy/property/real-estate/real-estate-valuation"
+        }
+    }
+}
