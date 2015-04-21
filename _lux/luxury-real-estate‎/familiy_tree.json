@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "luxury-real-estate\u200e"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/luxury-real-estate\u200e/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/luxury-real-estate/luxury-real-estate/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/luxury-real-estate/luxury-real-estate/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/luxury-real-estate/luxury-real-estate/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "luxury-real-estate\u200e": "economy/property/real-estate/luxury-real-estate\u200e"
+        },
+        "parents": {
+            "real-estate": "economy/property/real-estate"
+        },
+        "sisters": {
+            "commercial-real-estate\u200e": "economy/property/real-estate/commercial-real-estate\u200e",
+            "construction": "economy/property/real-estate/construction",
+            "luxury-real-estate\u200e": "economy/property/real-estate/luxury-real-estate\u200e",
+            "real-estate-valuation": "economy/property/real-estate/real-estate-valuation"
+        }
+    }
+}
