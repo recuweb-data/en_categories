@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "non-tax-revenue"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/non-tax-revenue/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/non-tax-revenue/non-tax-revenue/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/non-tax-revenue/non-tax-revenue/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/non-tax-revenue/non-tax-revenue/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "non-tax-revenue": "economy/finance/public-finance/government-revenue/non-tax-revenue"
+        },
+        "parents": {
+            "government-revenue": "economy/finance/public-finance/government-revenue"
+        },
+        "sisters": {
+            "government-borrowing": "economy/finance/public-finance/government-revenue/government-borrowing",
+            "non-tax-revenue": "economy/finance/public-finance/government-revenue/non-tax-revenue",
+            "taxes": "economy/finance/public-finance/government-revenue/taxes"
+        }
+    }
+}
