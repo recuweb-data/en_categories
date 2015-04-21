@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "hard-disk-drive"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/hard-disk-drive/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/hard-disk-drive/hard-disk-drive/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/hard-disk-drive/hard-disk-drive/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/hard-disk-drive/hard-disk-drive/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "hard-disk-drive": "technology/electronics/electronic-device/computer-hardware/computer-data-storage/hard-disk-drive"
+        },
+        "parents": {
+            "computer-data-storage": "technology/electronics/electronic-device/computer-hardware/computer-data-storage"
+        },
+        "sisters": {
+            "flash-memory": "technology/electronics/electronic-device/computer-hardware/computer-data-storage/flash-memory",
+            "hard-disk-drive": "technology/electronics/electronic-device/computer-hardware/computer-data-storage/hard-disk-drive"
+        }
+    }
+}
