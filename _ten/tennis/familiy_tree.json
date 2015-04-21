@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "tennis"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/tennis/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/tennis/tennis/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/tennis/tennis/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/tennis/tennis/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "tennis": "sport/ball-game/racquet-sports/tennis"
+        },
+        "children": {
+            "table-tennis": "sport/ball-game/racquet-sports/tennis/table-tennis"
+        },
+        "parents": {
+            "racquet-sports": "sport/ball-game/racquet-sports"
+        },
+        "sisters": {
+            "fronton": "sport/ball-game/racquet-sports/fronton",
+            "tennis": "sport/ball-game/racquet-sports/tennis"
+        }
+    }
+}
