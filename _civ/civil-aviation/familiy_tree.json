@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "civil-aviation"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/civil-aviation/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/civil-aviation/civil-aviation/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/civil-aviation/civil-aviation/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/civil-aviation/civil-aviation/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "civil-aviation": "technology/engineering/aerospace-engineering/aeronautics/civil-aviation"
+        },
+        "parents": {
+            "aeronautics": "technology/engineering/aerospace-engineering/aeronautics"
+        },
+        "sisters": {
+            "air-navigation": "technology/engineering/aerospace-engineering/aeronautics/air-navigation",
+            "civil-aviation": "technology/engineering/aerospace-engineering/aeronautics/civil-aviation"
+        }
+    }
+}
