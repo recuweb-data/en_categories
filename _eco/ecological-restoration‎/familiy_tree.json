@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "ecological-restoration\u200e"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/ecological-restoration\u200e/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/ecological-restoration/ecological-restoration/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/ecological-restoration/ecological-restoration/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/ecological-restoration/ecological-restoration/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ecological-restoration\u200e": "economy/sustainability/environmental-design/ecological-restoration\u200e"
+        },
+        "parents": {
+            "environmental-design": "economy/sustainability/environmental-design"
+        },
+        "sisters": {
+            "ecological-restoration\u200e": "economy/sustainability/environmental-design/ecological-restoration\u200e"
+        }
+    }
+}
