@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "spelling"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/spelling/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/spelling/spelling/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/spelling/spelling/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/spelling/spelling/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "spelling": "society/linguistics/orthography/spelling"
+        },
+        "parents": {
+            "orthography": "society/linguistics/orthography"
+        },
+        "sisters": {
+            "diacritics": "society/linguistics/orthography/diacritics",
+            "graphemes": "society/linguistics/orthography/graphemes",
+            "spelling": "society/linguistics/orthography/spelling"
+        }
+    }
+}
