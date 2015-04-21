@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "portal_name": "religion"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/religion/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/religion/religion/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/religion/religion/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/religion/religion/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "religion": "culture/religion"
+        },
+        "children": {
+            "abrahamic-religions": "culture/religion/abrahamic-religions",
+            "eastern-religion": "culture/religion/eastern-religion",
+            "eastern-religions": "culture/religion/eastern-religions",
+            "religion-in-india": "culture/religion/religion-in-india"
+        },
+        "parents": {
+            "culture": "culture"
+        },
+        "sisters": {
+            "arts": "culture/arts",
+            "bullfighting": "culture/bullfighting",
+            "clothing": "culture/clothing",
+            "cultural-exchange": "culture/cultural-exchange",
+            "cultural-trends": "culture/cultural-trends",
+            "ephemeral-art": "culture/ephemeral-art",
+            "events": "culture/events",
+            "fine-art": "culture/fine-art",
+            "humanities": "culture/humanities",
+            "languages": "culture/languages",
+            "luxury": "culture/luxury",
+            "music": "culture/music",
+            "popular-culture": "culture/popular-culture",
+            "religion": "culture/religion",
+            "spirituality": "culture/spirituality"
+        },
+        "grandchildren": {
+            "bah\u00e1\u00ed-faith": "culture/religion/abrahamic-religions/bah\u00e1\u00ed-faith",
+            "christianity": "culture/religion/abrahamic-religions/christianity",
+            "islam": "culture/religion/abrahamic-religions/islam",
+            "judaism": "culture/religion/abrahamic-religions/judaism",
+            "zen": "culture/religion/eastern-religion/zen",
+            "confucianism": "culture/religion/eastern-religions/confucianism",
+            "buddhism": "culture/religion/religion-in-india/buddhism",
+            "hinduism": "culture/religion/religion-in-india/hinduism",
+            "jainism": "culture/religion/religion-in-india/jainism",
+            "sikhism": "culture/religion/religion-in-india/sikhism"
+        }
+    }
+}
