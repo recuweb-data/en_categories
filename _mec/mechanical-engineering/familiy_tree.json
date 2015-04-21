@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "mechanical-engineering"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/mechanical-engineering/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/mechanical-engineering/mechanical-engineering/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/mechanical-engineering/mechanical-engineering/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/mechanical-engineering/mechanical-engineering/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "mechanical-engineering": "technology/engineering/mechanical-engineering"
+        },
+        "parents": {
+            "engineering": "technology/engineering"
+        },
+        "sisters": {
+            "aerospace-engineering": "technology/engineering/aerospace-engineering",
+            "agricultural-engineering": "technology/engineering/agricultural-engineering",
+            "chemical-engineering": "technology/engineering/chemical-engineering",
+            "civil-engineering": "technology/engineering/civil-engineering",
+            "electromechanics": "technology/engineering/electromechanics",
+            "environmental-engineering": "technology/engineering/environmental-engineering",
+            "mechanical-engineering": "technology/engineering/mechanical-engineering",
+            "military-science": "technology/engineering/military-science"
+        }
+    }
+}
