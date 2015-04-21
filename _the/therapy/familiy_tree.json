@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "therapy"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/therapy/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/therapy/therapy/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/therapy/therapy/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/therapy/therapy/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "therapy": "health/medicine/medical-treatments/therapy"
+        },
+        "parents": {
+            "medical-treatments": "health/medicine/medical-treatments"
+        },
+        "sisters": {
+            "acne-treatments": "health/medicine/medical-treatments/acne-treatments",
+            "bioengineering": "health/medicine/medical-treatments/bioengineering",
+            "cancer-treatments": "health/medicine/medical-treatments/cancer-treatments",
+            "drugs": "health/medicine/medical-treatments/drugs",
+            "psychiatric-treatments": "health/medicine/medical-treatments/psychiatric-treatments",
+            "radiobiology": "health/medicine/medical-treatments/radiobiology",
+            "renal-dialysis": "health/medicine/medical-treatments/renal-dialysis",
+            "surgery": "health/medicine/medical-treatments/surgery",
+            "therapy": "health/medicine/medical-treatments/therapy"
+        }
+    }
+}
