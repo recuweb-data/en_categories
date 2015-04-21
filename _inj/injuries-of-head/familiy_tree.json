@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "injuries-of-head"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/injuries-of-head/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/injuries-of-head/injuries-of-head/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/injuries-of-head/injuries-of-head/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/injuries-of-head/injuries-of-head/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "injuries-of-head": "health/medicine/emergency-medicine/medical-emergencies/injuries-of-head"
+        },
+        "parents": {
+            "medical-emergencies": "health/medicine/emergency-medicine/medical-emergencies"
+        },
+        "sisters": {
+            "injuries-of-head": "health/medicine/emergency-medicine/medical-emergencies/injuries-of-head",
+            "sepsis": "health/medicine/emergency-medicine/medical-emergencies/sepsis",
+            "stroke": "health/medicine/emergency-medicine/medical-emergencies/stroke"
+        }
+    }
+}
