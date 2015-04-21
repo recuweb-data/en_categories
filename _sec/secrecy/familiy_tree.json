@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "secrecy"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/secrecy/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/secrecy/secrecy/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/secrecy/secrecy/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/secrecy/secrecy/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "secrecy": "lifestyle/privacy/secrecy"
+        },
+        "parents": {
+            "privacy": "lifestyle/privacy"
+        },
+        "sisters": {
+            "anonymity": "lifestyle/privacy/anonymity",
+            "biometrics": "lifestyle/privacy/biometrics",
+            "information-privacy": "lifestyle/privacy/information-privacy",
+            "privacy-organizations": "lifestyle/privacy/privacy-organizations",
+            "secrecy": "lifestyle/privacy/secrecy",
+            "surveillance": "lifestyle/privacy/surveillance"
+        }
+    }
+}
