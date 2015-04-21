@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "canyoning"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/canyoning/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/canyoning/canyoning/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/canyoning/canyoning/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/canyoning/canyoning/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "canyoning": "sport/extreme-sport/climbing/canyoning"
+        },
+        "parents": {
+            "climbing": "sport/extreme-sport/climbing"
+        },
+        "sisters": {
+            "canyoning": "sport/extreme-sport/climbing/canyoning",
+            "ice-climbing": "sport/extreme-sport/climbing/ice-climbing"
+        }
+    }
+}
