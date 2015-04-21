@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "management"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/management/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/management/management/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/management/management/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/management/management/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "management": "economy/business/management"
+        },
+        "parents": {
+            "business": "economy/business"
+        },
+        "sisters": {
+            "accounting": "economy/business/accounting",
+            "business-valuation": "economy/business/business-valuation",
+            "entrepreneurship": "economy/business/entrepreneurship",
+            "management": "economy/business/management",
+            "marketing": "economy/business/marketing"
+        }
+    }
+}
