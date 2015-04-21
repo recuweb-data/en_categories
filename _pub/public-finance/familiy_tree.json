@@ -1,0 +1,52 @@
+{
+    "meta": {
+        "portal_name": "public-finance"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/public-finance/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/public-finance/public-finance/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/public-finance/public-finance/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/public-finance/public-finance/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "public-finance": "economy/finance/public-finance"
+        },
+        "children": {
+            "federal-finance": "economy/finance/public-finance/federal-finance",
+            "financial-administration": "economy/finance/public-finance/financial-administration",
+            "fiscal-policy": "economy/finance/public-finance/fiscal-policy",
+            "government-revenue": "economy/finance/public-finance/government-revenue",
+            "government-spending": "economy/finance/public-finance/government-spending",
+            "monetary-policy": "economy/finance/public-finance/monetary-policy",
+            "public-debt": "economy/finance/public-finance/public-debt",
+            "trade-policy": "economy/finance/public-finance/trade-policy"
+        },
+        "parents": {
+            "finance": "economy/finance"
+        },
+        "sisters": {
+            "banking": "economy/finance/banking",
+            "corporate-finance": "economy/finance/corporate-finance",
+            "experimental-finance": "economy/finance/experimental-finance",
+            "financial-accounting": "economy/finance/financial-accounting",
+            "financial-capital": "economy/finance/financial-capital",
+            "financial-economics": "economy/finance/financial-economics",
+            "financial-markets": "economy/finance/financial-markets",
+            "financial-mathematics": "economy/finance/financial-mathematics",
+            "financial-services": "economy/finance/financial-services",
+            "personal-finance": "economy/finance/personal-finance",
+            "public-finance": "economy/finance/public-finance"
+        },
+        "grandchildren": {
+            "government-borrowing": "economy/finance/public-finance/government-revenue/government-borrowing",
+            "non-tax-revenue": "economy/finance/public-finance/government-revenue/non-tax-revenue",
+            "taxes": "economy/finance/public-finance/government-revenue/taxes",
+            "government-consumption": "economy/finance/public-finance/government-spending/government-consumption",
+            "government-investment": "economy/finance/public-finance/government-spending/government-investment",
+            "government-operations": "economy/finance/public-finance/government-spending/government-operations",
+            "income-distribution": "economy/finance/public-finance/government-spending/income-distribution",
+            "transfer-payments": "economy/finance/public-finance/government-spending/transfer-payments"
+        }
+    }
+}
