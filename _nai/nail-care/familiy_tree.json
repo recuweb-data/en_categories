@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "nail-care"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/nail-care/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/nail-care/nail-care/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/nail-care/nail-care/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/nail-care/nail-care/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "nail-care": "health/hygiene/nail-care"
+        },
+        "parents": {
+            "hygiene": "health/hygiene"
+        },
+        "sisters": {
+            "cleaning": "health/hygiene/cleaning",
+            "laundry": "health/hygiene/laundry",
+            "medical-hygiene": "health/hygiene/medical-hygiene",
+            "nail-care": "health/hygiene/nail-care",
+            "oral-hygiene": "health/hygiene/oral-hygiene",
+            "sanitation": "health/hygiene/sanitation",
+            "skin-care": "health/hygiene/skin-care"
+        }
+    }
+}
