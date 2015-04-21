@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "postgresql"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/postgresql/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/postgresql/postgresql/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/postgresql/postgresql/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "postgresql": "internet/web-development/database/postgresql"
+        },
+        "parents": {
+            "database": "internet/web-development/database"
+        },
+        "sisters": {
+            "mysql": "internet/web-development/database/mysql",
+            "postgresql": "internet/web-development/database/postgresql",
+            "sqlite": "internet/web-development/database/sqlite"
+        }
+    }
+}
