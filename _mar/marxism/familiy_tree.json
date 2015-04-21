@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "marxism"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/marxism/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/marxism/marxism/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/marxism/marxism/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/marxism/marxism/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "marxism": "politics/political-ideology/socialism/marxism"
+        },
+        "parents": {
+            "socialism": "politics/political-ideology/socialism"
+        },
+        "sisters": {
+            "communism": "politics/political-ideology/socialism/communism",
+            "marxism": "politics/political-ideology/socialism/marxism",
+            "social-democracy": "politics/political-ideology/socialism/social-democracy"
+        }
+    }
+}
