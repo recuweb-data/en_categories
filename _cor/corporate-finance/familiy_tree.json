@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "portal_name": "corporate-finance"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/corporate-finance/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/corporate-finance/corporate-finance/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/corporate-finance/corporate-finance/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/corporate-finance/corporate-finance/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "corporate-finance": "economy/finance/corporate-finance"
+        },
+        "children": {
+            "capital-management": "economy/finance/corporate-finance/capital-management",
+            "capital-structure": "economy/finance/corporate-finance/capital-structure",
+            "corporate-governance": "economy/finance/corporate-finance/corporate-governance",
+            "corporate-tax": "economy/finance/corporate-finance/corporate-tax",
+            "debt-capital": "economy/finance/corporate-finance/debt-capital",
+            "dividends": "economy/finance/corporate-finance/dividends",
+            "equity-capital": "economy/finance/corporate-finance/equity-capital",
+            "financial-risk": "economy/finance/corporate-finance/financial-risk",
+            "preferred-stock": "economy/finance/corporate-finance/preferred-stock",
+            "project-valuation": "economy/finance/corporate-finance/project-valuation",
+            "stock-valuation": "economy/finance/corporate-finance/stock-valuation"
+        },
+        "parents": {
+            "finance": "economy/finance"
+        },
+        "sisters": {
+            "banking": "economy/finance/banking",
+            "corporate-finance": "economy/finance/corporate-finance",
+            "experimental-finance": "economy/finance/experimental-finance",
+            "financial-accounting": "economy/finance/financial-accounting",
+            "financial-capital": "economy/finance/financial-capital",
+            "financial-economics": "economy/finance/financial-economics",
+            "financial-markets": "economy/finance/financial-markets",
+            "financial-mathematics": "economy/finance/financial-mathematics",
+            "financial-services": "economy/finance/financial-services",
+            "personal-finance": "economy/finance/personal-finance",
+            "public-finance": "economy/finance/public-finance"
+        },
+        "grandchildren": {
+            "offshore-finance": "economy/finance/corporate-finance/corporate-tax/offshore-finance",
+            "credit-risk": "economy/finance/corporate-finance/financial-risk/credit-risk",
+            "interest-rate-risk": "economy/finance/corporate-finance/financial-risk/interest-rate-risk",
+            "liquidity-risk": "economy/finance/corporate-finance/financial-risk/liquidity-risk",
+            "risk-management": "economy/finance/corporate-finance/financial-risk/risk-management",
+            "settlement-risk": "economy/finance/corporate-finance/financial-risk/settlement-risk",
+            "volatility-risk": "economy/finance/corporate-finance/financial-risk/volatility-risk"
+        }
+    }
+}
