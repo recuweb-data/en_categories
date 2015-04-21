@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "bah\u00e1\u00ed-faith"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/bah\u00e1\u00ed-faith/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/bah%C3%A1%C3%AD-faith/bah%C3%A1%C3%AD-faith/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/bah%C3%A1%C3%AD-faith/bah%C3%A1%C3%AD-faith/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/bah%C3%A1%C3%AD-faith/bah%C3%A1%C3%AD-faith/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "bah\u00e1\u00ed-faith": "culture/religion/abrahamic-religions/bah\u00e1\u00ed-faith"
+        },
+        "parents": {
+            "abrahamic-religions": "culture/religion/abrahamic-religions"
+        },
+        "sisters": {
+            "bah\u00e1\u00ed-faith": "culture/religion/abrahamic-religions/bah\u00e1\u00ed-faith",
+            "christianity": "culture/religion/abrahamic-religions/christianity",
+            "islam": "culture/religion/abrahamic-religions/islam",
+            "judaism": "culture/religion/abrahamic-religions/judaism"
+        }
+    }
+}
