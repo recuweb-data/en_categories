@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "electronic-device"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/electronic-device/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/electronic-device/electronic-device/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/electronic-device/electronic-device/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/electronic-device/electronic-device/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "electronic-device": "technology/electronics/electronic-device"
+        },
+        "children": {
+            "computer-hardware": "technology/electronics/electronic-device/computer-hardware",
+            "radar": "technology/electronics/electronic-device/radar"
+        },
+        "parents": {
+            "electronics": "technology/electronics"
+        },
+        "sisters": {
+            "electronic-device": "technology/electronics/electronic-device"
+        },
+        "grandchildren": {
+            "computer-data-storage": "technology/electronics/electronic-device/computer-hardware/computer-data-storage",
+            "computer-hardware-companies": "technology/electronics/electronic-device/computer-hardware/computer-hardware-companies",
+            "computer-peripheral": "technology/electronics/electronic-device/computer-hardware/computer-peripheral",
+            "ebook": "technology/electronics/electronic-device/computer-hardware/ebook",
+            "integrated-circuit": "technology/electronics/electronic-device/computer-hardware/integrated-circuit",
+            "motherboard": "technology/electronics/electronic-device/computer-hardware/motherboard"
+        }
+    }
+}
