@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "mortgage\u200e"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/mortgage\u200e/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/mortgage/mortgage/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/mortgage/mortgage/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/mortgage/mortgage/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "mortgage\u200e": "economy/finance/financial-services/retail-financial-services/mortgage\u200e"
+        },
+        "parents": {
+            "retail-financial-services": "economy/finance/financial-services/retail-financial-services"
+        },
+        "sisters": {
+            "credit-cards\u200e": "economy/finance/financial-services/retail-financial-services/credit-cards\u200e",
+            "debit-cards\u200e": "economy/finance/financial-services/retail-financial-services/debit-cards\u200e",
+            "mortgage\u200e": "economy/finance/financial-services/retail-financial-services/mortgage\u200e"
+        }
+    }
+}
