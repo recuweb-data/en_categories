@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "iso-3166"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/iso-3166/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/iso-3166/iso-3166/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/iso-3166/iso-3166/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/iso-3166/iso-3166/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "iso-3166": "science/geography/geographic-taxonomies/geocodes/iso-3166"
+        },
+        "parents": {
+            "geocodes": "science/geography/geographic-taxonomies/geocodes"
+        },
+        "sisters": {
+            "geolocation": "science/geography/geographic-taxonomies/geocodes/geolocation",
+            "iso-3166": "science/geography/geographic-taxonomies/geocodes/iso-3166"
+        }
+    }
+}
