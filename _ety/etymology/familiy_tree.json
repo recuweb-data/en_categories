@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "etymology"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/etymology/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/etymology/etymology/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/etymology/etymology/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/etymology/etymology/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "etymology": "society/linguistics/lexicology/etymology"
+        },
+        "children": {
+            "affixes": "society/linguistics/lexicology/etymology/affixes",
+            "eponyms": "society/linguistics/lexicology/etymology/eponyms",
+            "onomastics": "society/linguistics/lexicology/etymology/onomastics",
+            "toponymy": "society/linguistics/lexicology/etymology/toponymy"
+        },
+        "parents": {
+            "lexicology": "society/linguistics/lexicology"
+        },
+        "sisters": {
+            "dialects": "society/linguistics/lexicology/dialects",
+            "etymology": "society/linguistics/lexicology/etymology",
+            "homonymy": "society/linguistics/lexicology/homonymy",
+            "idioms": "society/linguistics/lexicology/idioms",
+            "lexicography": "society/linguistics/lexicology/lexicography",
+            "slang": "society/linguistics/lexicology/slang",
+            "vocabulary": "society/linguistics/lexicology/vocabulary"
+        }
+    }
+}
