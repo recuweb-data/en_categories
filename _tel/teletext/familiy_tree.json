@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "teletext"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/teletext/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/teletext/teletext/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/teletext/teletext/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/teletext/teletext/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "teletext": "technology/telecommunication/video-technology/subtitle/teletext"
+        },
+        "parents": {
+            "subtitle": "technology/telecommunication/video-technology/subtitle"
+        },
+        "sisters": {
+            "karaoke": "technology/telecommunication/video-technology/subtitle/karaoke",
+            "teletext": "technology/telecommunication/video-technology/subtitle/teletext",
+            "transcription": "technology/telecommunication/video-technology/subtitle/transcription"
+        }
+    }
+}
