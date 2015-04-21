@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": "cognitive-biases"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/cognitive-biases/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/cognitive-biases/cognitive-biases/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/cognitive-biases/cognitive-biases/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/cognitive-biases/cognitive-biases/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "cognitive-biases": "society/psychology/cognitive-biases"
+        },
+        "parents": {
+            "psychology": "society/psychology"
+        },
+        "sisters": {
+            "behaviorism": "society/psychology/behaviorism",
+            "cognitive-biases": "society/psychology/cognitive-biases",
+            "consciousness": "society/psychology/consciousness",
+            "emotion": "society/psychology/emotion",
+            "human-development": "society/psychology/human-development",
+            "mental-processes": "society/psychology/mental-processes",
+            "mind": "society/psychology/mind",
+            "perception": "society/psychology/perception",
+            "personality": "society/psychology/personality",
+            "psychiatry": "society/psychology/psychiatry",
+            "sexology": "society/psychology/sexology"
+        }
+    }
+}
