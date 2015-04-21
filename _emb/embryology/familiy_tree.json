@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "embryology"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/embryology/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/embryology/embryology/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/embryology/embryology/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/embryology/embryology/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "embryology": "health/medicine/anatomy/embryology"
+        },
+        "parents": {
+            "anatomy": "health/medicine/anatomy"
+        },
+        "sisters": {
+            "embryology": "health/medicine/anatomy/embryology",
+            "human-anatomy": "health/medicine/anatomy/human-anatomy",
+            "organs": "health/medicine/anatomy/organs"
+        }
+    }
+}
