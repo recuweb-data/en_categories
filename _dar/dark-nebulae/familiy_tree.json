@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "dark-nebulae"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/dark-nebulae/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/dark-nebulae/dark-nebulae/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/dark-nebulae/dark-nebulae/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/dark-nebulae/dark-nebulae/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "dark-nebulae": "science/astronomy/nebulae/dark-nebulae"
+        },
+        "parents": {
+            "nebulae": "science/astronomy/nebulae"
+        },
+        "sisters": {
+            "dark-nebulae": "science/astronomy/nebulae/dark-nebulae",
+            "molecular-clouds": "science/astronomy/nebulae/molecular-clouds",
+            "planetary-nebulae": "science/astronomy/nebulae/planetary-nebulae",
+            "reflection-nebulae": "science/astronomy/nebulae/reflection-nebulae"
+        }
+    }
+}
