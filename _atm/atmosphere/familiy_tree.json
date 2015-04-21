@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "atmosphere"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/atmosphere/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/atmosphere/atmosphere/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/atmosphere/atmosphere/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/atmosphere/atmosphere/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "atmosphere": "science/astronomy/planets/atmosphere"
+        },
+        "parents": {
+            "planets": "science/astronomy/planets"
+        },
+        "sisters": {
+            "atmosphere": "science/astronomy/planets/atmosphere",
+            "exoplanets": "science/astronomy/planets/exoplanets",
+            "giant-planets": "science/astronomy/planets/giant-planets",
+            "hypothetical-planets": "science/astronomy/planets/hypothetical-planets",
+            "pulsar-planets": "science/astronomy/planets/pulsar-planets",
+            "super-earths": "science/astronomy/planets/super-earths",
+            "terrestrial-planets": "science/astronomy/planets/terrestrial-planets"
+        }
+    }
+}
