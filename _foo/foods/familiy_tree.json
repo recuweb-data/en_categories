@@ -1,0 +1,64 @@
+{
+    "meta": {
+        "portal_name": "foods"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/foods/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/foods/foods/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/foods/foods/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/foods/foods/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "foods": "lifestyle/foods"
+        },
+        "children": {
+            "appetizers": "lifestyle/foods/appetizers",
+            "breads": "lifestyle/foods/breads",
+            "chocolate": "lifestyle/foods/chocolate",
+            "condiments": "lifestyle/foods/condiments",
+            "confectionery": "lifestyle/foods/confectionery",
+            "desserts": "lifestyle/foods/desserts",
+            "fast-food": "lifestyle/foods/fast-food",
+            "fruit": "lifestyle/foods/fruit",
+            "meat": "lifestyle/foods/meat",
+            "pasta": "lifestyle/foods/pasta",
+            "pastries": "lifestyle/foods/pastries",
+            "pies": "lifestyle/foods/pies",
+            "puddings": "lifestyle/foods/puddings",
+            "salads": "lifestyle/foods/salads",
+            "sandwiches": "lifestyle/foods/sandwiches",
+            "sauces": "lifestyle/foods/sauces",
+            "seafood": "lifestyle/foods/seafood",
+            "snack-foods": "lifestyle/foods/snack-foods",
+            "soups": "lifestyle/foods/soups"
+        },
+        "parents": {
+            "lifestyle": "lifestyle"
+        },
+        "sisters": {
+            "beverages": "lifestyle/beverages",
+            "employment": "lifestyle/employment",
+            "entertainment": "lifestyle/entertainment",
+            "foods": "lifestyle/foods",
+            "happiness": "lifestyle/happiness",
+            "hobbies": "lifestyle/hobbies",
+            "home": "lifestyle/home",
+            "honor": "lifestyle/honor",
+            "leisure": "lifestyle/leisure",
+            "love": "lifestyle/love",
+            "personal-development": "lifestyle/personal-development",
+            "pets": "lifestyle/pets",
+            "philosophy-of-life": "lifestyle/philosophy-of-life",
+            "privacy": "lifestyle/privacy",
+            "self-help": "lifestyle/self-help",
+            "simple-living": "lifestyle/simple-living",
+            "time-management": "lifestyle/time-management",
+            "video-game": "lifestyle/video-game"
+        },
+        "grandchildren": {
+            "candy": "lifestyle/foods/confectionery/candy",
+            "ice-cream": "lifestyle/foods/confectionery/ice-cream"
+        }
+    }
+}
