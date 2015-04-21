@@ -1,0 +1,43 @@
+{
+    "meta": {
+        "portal_name": "happiness"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/happiness/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/happiness/happiness/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/happiness/happiness/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/happiness/happiness/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "happiness": "lifestyle/self-help/happiness"
+        },
+        "parents": {
+            "lifestyle": "lifestyle",
+            "self-help": "lifestyle/self-help"
+        },
+        "sisters": {
+            "beverages": "lifestyle/beverages",
+            "employment": "lifestyle/employment",
+            "entertainment": "lifestyle/entertainment",
+            "foods": "lifestyle/foods",
+            "happiness": "lifestyle/self-help/happiness",
+            "hobbies": "lifestyle/hobbies",
+            "home": "lifestyle/home",
+            "honor": "lifestyle/honor",
+            "leisure": "lifestyle/leisure",
+            "love": "lifestyle/love",
+            "personal-development": "lifestyle/personal-development",
+            "pets": "lifestyle/pets",
+            "philosophy-of-life": "lifestyle/philosophy-of-life",
+            "privacy": "lifestyle/privacy",
+            "self-help": "lifestyle/self-help",
+            "simple-living": "lifestyle/simple-living",
+            "time-management": "lifestyle/time-management",
+            "video-game": "lifestyle/video-game",
+            "meditation": "lifestyle/self-help/meditation",
+            "prejudice": "lifestyle/self-help/prejudice",
+            "superstition": "lifestyle/self-help/superstition"
+        }
+    }
+}
