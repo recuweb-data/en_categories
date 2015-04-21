@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "portal_name": "navigation"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/navigation/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/navigation/navigation/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/navigation/navigation/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/navigation/navigation/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "navigation": "science/geography/navigation"
+        },
+        "parents": {
+            "geography": "science/geography"
+        },
+        "sisters": {
+            "exploration": "science/geography/exploration",
+            "geocodes": "science/geography/geocodes",
+            "geodemography": "science/geography/geodemography",
+            "geographic-taxonomies": "science/geography/geographic-taxonomies",
+            "geographical-technology": "science/geography/geographical-technology",
+            "geographical-zones": "science/geography/geographical-zones",
+            "landscape": "science/geography/landscape",
+            "military-geography": "science/geography/military-geography",
+            "navigation": "science/geography/navigation",
+            "places": "science/geography/places",
+            "political-geography": "science/geography/political-geography",
+            "surveying": "science/geography/surveying",
+            "topography": "science/geography/topography",
+            "toponymy": "science/geography/toponymy",
+            "transportation-geography": "science/geography/transportation-geography"
+        }
+    }
+}
