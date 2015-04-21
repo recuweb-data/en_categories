@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "financial-independence"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/financial-independence/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/financial-independence/financial-independence/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/financial-independence/financial-independence/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/financial-independence/financial-independence/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "financial-independence": "economy/finance/personal-finance/financial-independence"
+        },
+        "parents": {
+            "personal-finance": "economy/finance/personal-finance"
+        },
+        "sisters": {
+            "car-loan": "economy/finance/personal-finance/car-loan",
+            "credit-cards": "economy/finance/personal-finance/credit-cards",
+            "estate-planning": "economy/finance/personal-finance/estate-planning",
+            "financial-adviser": "economy/finance/personal-finance/financial-adviser",
+            "financial-independence": "economy/finance/personal-finance/financial-independence",
+            "financial-position": "economy/finance/personal-finance/financial-position",
+            "pension": "economy/finance/personal-finance/pension",
+            "refinancing": "economy/finance/personal-finance/refinancing",
+            "retirement-planning": "economy/finance/personal-finance/retirement-planning",
+            "salary": "economy/finance/personal-finance/salary",
+            "social-security": "economy/finance/personal-finance/social-security",
+            "student-loan": "economy/finance/personal-finance/student-loan",
+            "tax-planning": "economy/finance/personal-finance/tax-planning"
+        }
+    }
+}
