@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "government-consumption"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/government-consumption/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/government-consumption/government-consumption/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/government-consumption/government-consumption/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/government-consumption/government-consumption/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "government-consumption": "economy/finance/public-finance/government-spending/government-consumption"
+        },
+        "parents": {
+            "government-spending": "economy/finance/public-finance/government-spending"
+        },
+        "sisters": {
+            "government-consumption": "economy/finance/public-finance/government-spending/government-consumption",
+            "government-investment": "economy/finance/public-finance/government-spending/government-investment",
+            "government-operations": "economy/finance/public-finance/government-spending/government-operations",
+            "income-distribution": "economy/finance/public-finance/government-spending/income-distribution",
+            "transfer-payments": "economy/finance/public-finance/government-spending/transfer-payments"
+        }
+    }
+}
