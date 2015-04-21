@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "transcription"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/transcription/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/transcription/transcription/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/transcription/transcription/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/transcription/transcription/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "transcription": "society/linguistics/phonetics/transcription\\n/society/linguistics/phonetics/transcription"
+        },
+        "parents": {
+            "subtitle": "technology/telecommunication/video-technology/subtitle",
+            "phonetics": "society/linguistics/phonetics/transcription\\n/society/linguistics/phonetics"
+        },
+        "sisters": {
+            "karaoke": "technology/telecommunication/video-technology/subtitle/karaoke",
+            "teletext": "technology/telecommunication/video-technology/subtitle/teletext",
+            "transcription": "society/linguistics/phonetics/transcription\\n/society/linguistics/phonetics/transcription"
+        }
+    }
+}
