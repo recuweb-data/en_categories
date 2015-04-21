@@ -1,0 +1,47 @@
+{
+    "meta": {
+        "portal_name": "personal-finance"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/personal-finance/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/personal-finance/personal-finance/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/personal-finance/personal-finance/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/personal-finance/personal-finance/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "personal-finance": "economy/finance/personal-finance"
+        },
+        "children": {
+            "car-loan": "economy/finance/personal-finance/car-loan",
+            "credit-cards": "economy/finance/personal-finance/credit-cards",
+            "estate-planning": "economy/finance/personal-finance/estate-planning",
+            "financial-adviser": "economy/finance/personal-finance/financial-adviser",
+            "financial-independence": "economy/finance/personal-finance/financial-independence",
+            "financial-position": "economy/finance/personal-finance/financial-position",
+            "pension": "economy/finance/personal-finance/pension",
+            "refinancing": "economy/finance/personal-finance/refinancing",
+            "retirement-planning": "economy/finance/personal-finance/retirement-planning",
+            "salary": "economy/finance/personal-finance/salary",
+            "social-security": "economy/finance/personal-finance/social-security",
+            "student-loan": "economy/finance/personal-finance/student-loan",
+            "tax-planning": "economy/finance/personal-finance/tax-planning"
+        },
+        "parents": {
+            "finance": "economy/finance"
+        },
+        "sisters": {
+            "banking": "economy/finance/banking",
+            "corporate-finance": "economy/finance/corporate-finance",
+            "experimental-finance": "economy/finance/experimental-finance",
+            "financial-accounting": "economy/finance/financial-accounting",
+            "financial-capital": "economy/finance/financial-capital",
+            "financial-economics": "economy/finance/financial-economics",
+            "financial-markets": "economy/finance/financial-markets",
+            "financial-mathematics": "economy/finance/financial-mathematics",
+            "financial-services": "economy/finance/financial-services",
+            "personal-finance": "economy/finance/personal-finance",
+            "public-finance": "economy/finance/public-finance"
+        }
+    }
+}
