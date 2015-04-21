@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "fencing"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/fencing/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/fencing/fencing/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/fencing/fencing/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/fencing/fencing/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "fencing": "sport/combat-sport/fencing"
+        },
+        "parents": {
+            "combat-sport": "sport/combat-sport"
+        },
+        "sisters": {
+            "boxing": "sport/combat-sport/boxing",
+            "fencing": "sport/combat-sport/fencing",
+            "lucha-libre": "sport/combat-sport/lucha-libre",
+            "martial-arts": "sport/combat-sport/martial-arts"
+        }
+    }
+}
