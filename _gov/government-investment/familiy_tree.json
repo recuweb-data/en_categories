@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "government-investment"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/government-investment/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/government-investment/government-investment/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/government-investment/government-investment/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/government-investment/government-investment/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "government-investment": "economy/finance/public-finance/government-spending/government-investment"
+        },
+        "parents": {
+            "government-spending": "economy/finance/public-finance/government-spending"
+        },
+        "sisters": {
+            "government-consumption": "economy/finance/public-finance/government-spending/government-consumption",
+            "government-investment": "economy/finance/public-finance/government-spending/government-investment",
+            "government-operations": "economy/finance/public-finance/government-spending/government-operations",
+            "income-distribution": "economy/finance/public-finance/government-spending/income-distribution",
+            "transfer-payments": "economy/finance/public-finance/government-spending/transfer-payments"
+        }
+    }
+}
