@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "portal_name": "medical-tourism"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/medical-tourism/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/medical-tourism/medical-tourism/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/medical-tourism/medical-tourism/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/medical-tourism/medical-tourism/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "medical-tourism": "health/health-care/medical-tourism"
+        },
+        "parents": {
+            "health-care": "health/health-care"
+        },
+        "sisters": {
+            "health-economics": "health/health-care/health-economics",
+            "health-education": "health/health-care/health-education",
+            "health-fraud": "health/health-care/health-fraud",
+            "health-policy": "health/health-care/health-policy",
+            "healthcare-quality": "health/health-care/healthcare-quality",
+            "healthcare-reform": "health/health-care/healthcare-reform",
+            "healthcare-software": "health/health-care/healthcare-software",
+            "medical-monitoring": "health/health-care/medical-monitoring",
+            "medical-robotics": "health/health-care/medical-robotics",
+            "medical-tourism": "health/health-care/medical-tourism",
+            "primary-care": "health/health-care/primary-care",
+            "universal-healthcare": "health/health-care/universal-healthcare"
+        }
+    }
+}
