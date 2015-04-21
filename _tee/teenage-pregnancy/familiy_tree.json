@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "teenage-pregnancy"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/teenage-pregnancy/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/teenage-pregnancy/teenage-pregnancy/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/teenage-pregnancy/teenage-pregnancy/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/teenage-pregnancy/teenage-pregnancy/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "teenage-pregnancy": "health/youth-health/teenage-pregnancy"
+        },
+        "parents": {
+            "youth-health": "health/youth-health"
+        },
+        "sisters": {
+            "teenage-pregnancy": "health/youth-health/teenage-pregnancy"
+        }
+    }
+}
