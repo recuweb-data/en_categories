@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "portal_name": "financial-services"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/financial-services/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/financial-services/financial-services/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/financial-services/financial-services/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/financial-services/financial-services/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "financial-services": "economy/finance/financial-services"
+        },
+        "children": {
+            "asset-management": "economy/finance/financial-services/asset-management",
+            "auditing": "economy/finance/financial-services/auditing",
+            "business-incubation": "economy/finance/financial-services/business-incubation",
+            "corporate-services": "economy/finance/financial-services/corporate-services",
+            "fund-structuring": "economy/finance/financial-services/fund-structuring",
+            "hedge-funds": "economy/finance/financial-services/hedge-funds",
+            "insurance-broker": "economy/finance/financial-services/insurance-broker",
+            "private-placement": "economy/finance/financial-services/private-placement",
+            "property-management": "economy/finance/financial-services/property-management",
+            "retail-financial-services": "economy/finance/financial-services/retail-financial-services",
+            "wealth-management": "economy/finance/financial-services/wealth-management"
+        },
+        "parents": {
+            "finance": "economy/finance"
+        },
+        "sisters": {
+            "banking": "economy/finance/banking",
+            "corporate-finance": "economy/finance/corporate-finance",
+            "experimental-finance": "economy/finance/experimental-finance",
+            "financial-accounting": "economy/finance/financial-accounting",
+            "financial-capital": "economy/finance/financial-capital",
+            "financial-economics": "economy/finance/financial-economics",
+            "financial-markets": "economy/finance/financial-markets",
+            "financial-mathematics": "economy/finance/financial-mathematics",
+            "financial-services": "economy/finance/financial-services",
+            "personal-finance": "economy/finance/personal-finance",
+            "public-finance": "economy/finance/public-finance"
+        },
+        "grandchildren": {
+            "credit-cards\u200e": "economy/finance/financial-services/retail-financial-services/credit-cards\u200e",
+            "debit-cards\u200e": "economy/finance/financial-services/retail-financial-services/debit-cards\u200e",
+            "mortgage\u200e": "economy/finance/financial-services/retail-financial-services/mortgage\u200e"
+        }
+    }
+}
