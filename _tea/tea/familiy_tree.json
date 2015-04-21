@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": "tea"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/tea/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/tea/tea/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/tea/tea/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/tea/tea/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "tea": "lifestyle/beverages/tea"
+        },
+        "parents": {
+            "beverages": "lifestyle/beverages"
+        },
+        "sisters": {
+            "alcoholic-beverages": "lifestyle/beverages/alcoholic-beverages",
+            "coffee": "lifestyle/beverages/coffee",
+            "cold-beverages": "lifestyle/beverages/cold-beverages",
+            "energy-drinks": "lifestyle/beverages/energy-drinks",
+            "fruit-juice": "lifestyle/beverages/fruit-juice",
+            "hot-beverages": "lifestyle/beverages/hot-beverages",
+            "milk": "lifestyle/beverages/milk",
+            "soft-drinks": "lifestyle/beverages/soft-drinks",
+            "sports-drinks": "lifestyle/beverages/sports-drinks",
+            "tea": "lifestyle/beverages/tea"
+        }
+    }
+}
