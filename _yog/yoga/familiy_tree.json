@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "yoga"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/yoga/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/yoga/yoga/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/yoga/yoga/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/yoga/yoga/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "yoga": "lifestyle/self-help/meditation/yoga"
+        },
+        "parents": {
+            "meditation": "lifestyle/self-help/meditation"
+        },
+        "sisters": {
+            "yoga": "lifestyle/self-help/meditation/yoga"
+        }
+    }
+}
