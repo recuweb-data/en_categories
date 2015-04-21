@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "portal_name": "solar-system"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/solar-system/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/solar-system/solar-system/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/solar-system/solar-system/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/solar-system/solar-system/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "solar-system": "science/astronomy/solar-system"
+        },
+        "children": {
+            "asteroids": "science/astronomy/solar-system/asteroids",
+            "celestial-objects": "science/astronomy/solar-system/celestial-objects",
+            "comets": "science/astronomy/solar-system/comets",
+            "dwarf-planets": "science/astronomy/solar-system/dwarf-planets",
+            "interplanetary-dust": "science/astronomy/solar-system/interplanetary-dust",
+            "meteoroids": "science/astronomy/solar-system/meteoroids",
+            "moon": "science/astronomy/solar-system/moon",
+            "sun": "science/astronomy/solar-system/sun"
+        },
+        "parents": {
+            "astronomy": "science/astronomy"
+        },
+        "sisters": {
+            "cosmology": "science/astronomy/cosmology",
+            "galaxies": "science/astronomy/galaxies",
+            "nebulae": "science/astronomy/nebulae",
+            "planets": "science/astronomy/planets",
+            "satellites": "science/astronomy/satellites",
+            "solar-system": "science/astronomy/solar-system",
+            "spacecraft": "science/astronomy/spacecraft",
+            "spaceflight": "science/astronomy/spaceflight",
+            "stars": "science/astronomy/stars"
+        }
+    }
+}
