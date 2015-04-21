@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "portal_name": "extreme-sport"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/extreme-sport/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/extreme-sport/extreme-sport/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/extreme-sport/extreme-sport/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/extreme-sport/extreme-sport/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "extreme-sport": "sport/extreme-sport"
+        },
+        "children": {
+            "climbing": "sport/extreme-sport/climbing",
+            "escalada": "sport/extreme-sport/escalada",
+            "parachuting": "sport/extreme-sport/parachuting",
+            "skateboarding": "sport/extreme-sport/skateboarding",
+            "snowboarding": "sport/extreme-sport/snowboarding",
+            "surfing": "sport/extreme-sport/surfing"
+        },
+        "parents": {
+            "sport": "sport"
+        },
+        "sisters": {
+            "athletics": "sport/athletics",
+            "ball-game": "sport/ball-game",
+            "combat-sport": "sport/combat-sport",
+            "extreme-sport": "sport/extreme-sport",
+            "football": "sport/football",
+            "mind-sport": "sport/mind-sport",
+            "motorsport": "sport/motorsport",
+            "olympic-games": "sport/olympic-games",
+            "water-sports": "sport/water-sports"
+        },
+        "grandchildren": {
+            "canyoning": "sport/extreme-sport/climbing/canyoning",
+            "ice-climbing": "sport/extreme-sport/climbing/ice-climbing",
+            "bungee-jumping": "sport/extreme-sport/parachuting/bungee-jumping",
+            "paragliding": "sport/extreme-sport/parachuting/paragliding",
+            "kitesurfing": "sport/extreme-sport/surfing/kitesurfing",
+            "windsurfing": "sport/extreme-sport/surfing/windsurfing"
+        }
+    }
+}
