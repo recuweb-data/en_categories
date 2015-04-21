@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "portal_name": "feminism"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/feminism/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/feminism/feminism/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/feminism/feminism/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/feminism/feminism/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "feminism": "politics/social-movement/feminism"
+        },
+        "children": {
+            "femininity": "politics/social-movement/feminism/femininity",
+            "feminist-art": "politics/social-movement/feminism/feminist-art",
+            "feminist-events": "politics/social-movement/feminism/feminist-events",
+            "misogyny": "politics/social-movement/feminism/misogyny"
+        },
+        "parents": {
+            "social-movement": "politics/social-movement"
+        },
+        "sisters": {
+            "agrarianism": "politics/social-movement/agrarianism",
+            "environmental-movement": "politics/social-movement/environmental-movement",
+            "environmentalism": "politics/social-movement/environmentalism",
+            "feminism": "politics/social-movement/feminism",
+            "indigenismo": "politics/social-movement/indigenismo",
+            "lobbying": "politics/social-movement/lobbying"
+        },
+        "grandchildren": {
+            "ladyfest": "politics/social-movement/feminism/feminist-events/ladyfest"
+        }
+    }
+}
