@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "literature"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/literature/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/literature/literature/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/literature/literature/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/literature/literature/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "literature": "culture/fine-art/literature"
+        },
+        "parents": {
+            "fine-art": "culture/fine-art"
+        },
+        "sisters": {
+            "literature": "culture/fine-art/literature",
+            "music": "culture/fine-art/music",
+            "painting": "culture/fine-art/painting",
+            "photography": "culture/fine-art/photography"
+        }
+    }
+}
