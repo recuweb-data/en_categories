@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "portal_name": "esotericism"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/esotericism/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/esotericism/esotericism/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/esotericism/esotericism/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/esotericism/esotericism/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "esotericism": "culture/spirituality/esotericism"
+        },
+        "children": {
+            "astrology": "culture/spirituality/esotericism/astrology",
+            "clairvoyance": "culture/spirituality/esotericism/clairvoyance",
+            "demonology": "culture/spirituality/esotericism/demonology",
+            "magic": "culture/spirituality/esotericism/magic",
+            "numerology": "culture/spirituality/esotericism/numerology",
+            "occult": "culture/spirituality/esotericism/occult",
+            "spiritism": "culture/spirituality/esotericism/spiritism"
+        },
+        "parents": {
+            "spirituality": "culture/spirituality"
+        },
+        "sisters": {
+            "alternative-medicine": "culture/spirituality/alternative-medicine",
+            "esotericism": "culture/spirituality/esotericism",
+            "mysticism": "culture/spirituality/mysticism",
+            "mythology": "culture/spirituality/mythology",
+            "paganism": "culture/spirituality/paganism",
+            "supernatural": "culture/spirituality/supernatural"
+        },
+        "grandchildren": {
+            "horoscope": "culture/spirituality/esotericism/astrology/horoscope"
+        }
+    }
+}
