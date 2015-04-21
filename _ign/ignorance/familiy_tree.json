@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "ignorance"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/ignorance/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/ignorance/ignorance/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/ignorance/ignorance/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/ignorance/ignorance/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ignorance": "society/knowledge/belief/ignorance"
+        },
+        "parents": {
+            "belief": "society/knowledge/belief"
+        },
+        "sisters": {
+            "consensus\u200e": "society/knowledge/belief/consensus\u200e",
+            "doctrines\u200e": "society/knowledge/belief/doctrines\u200e",
+            "dogmatism": "society/knowledge/belief/dogmatism",
+            "doubt\u200e": "society/knowledge/belief/doubt\u200e",
+            "ignorance": "society/knowledge/belief/ignorance",
+            "persuasion\u200e": "society/knowledge/belief/persuasion\u200e",
+            "public-opinion": "society/knowledge/belief/public-opinion",
+            "superstitions\u200e": "society/knowledge/belief/superstitions\u200e",
+            "tradition\u200e": "society/knowledge/belief/tradition\u200e"
+        }
+    }
+}
