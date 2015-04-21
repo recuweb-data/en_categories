@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "territorial-evolution"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/territorial-evolution/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/territorial-evolution/territorial-evolution/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/territorial-evolution/territorial-evolution/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/territorial-evolution/territorial-evolution/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "territorial-evolution": "science/geography/political-geography/territorial-evolution"
+        },
+        "parents": {
+            "political-geography": "science/geography/political-geography"
+        },
+        "sisters": {
+            "borders": "science/geography/political-geography/borders",
+            "countries": "science/geography/political-geography/countries",
+            "divided-regions": "science/geography/political-geography/divided-regions",
+            "geopolitics": "science/geography/political-geography/geopolitics",
+            "international-relations": "science/geography/political-geography/international-relations",
+            "territorial-evolution": "science/geography/political-geography/territorial-evolution"
+        }
+    }
+}
