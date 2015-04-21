@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "interest-rate-risk"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/interest-rate-risk/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/interest-rate-risk/interest-rate-risk/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/interest-rate-risk/interest-rate-risk/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/interest-rate-risk/interest-rate-risk/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "interest-rate-risk": "economy/finance/corporate-finance/financial-risk/interest-rate-risk"
+        },
+        "parents": {
+            "financial-risk": "economy/finance/corporate-finance/financial-risk"
+        },
+        "sisters": {
+            "credit-risk": "economy/finance/corporate-finance/financial-risk/credit-risk",
+            "interest-rate-risk": "economy/finance/corporate-finance/financial-risk/interest-rate-risk",
+            "liquidity-risk": "economy/finance/corporate-finance/financial-risk/liquidity-risk",
+            "risk-management": "economy/finance/corporate-finance/financial-risk/risk-management",
+            "settlement-risk": "economy/finance/corporate-finance/financial-risk/settlement-risk",
+            "volatility-risk": "economy/finance/corporate-finance/financial-risk/volatility-risk"
+        }
+    }
+}
