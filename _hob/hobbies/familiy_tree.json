@@ -1,0 +1,74 @@
+{
+    "meta": {
+        "portal_name": "hobbies"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/hobbies/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/hobbies/hobbies/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/hobbies/hobbies/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/hobbies/hobbies/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "hobbies": "lifestyle/hobbies"
+        },
+        "children": {
+            "airsoft": "lifestyle/hobbies/airsoft",
+            "collecting": "lifestyle/hobbies/collecting",
+            "cooking": "lifestyle/hobbies/cooking",
+            "cosplay": "lifestyle/hobbies/cosplay",
+            "debating": "lifestyle/hobbies/debating",
+            "fandom": "lifestyle/hobbies/fandom",
+            "genealogy": "lifestyle/hobbies/genealogy",
+            "hacking": "lifestyle/hobbies/hacking",
+            "homebrewing": "lifestyle/hobbies/homebrewing",
+            "kites": "lifestyle/hobbies/kites",
+            "live-steam": "lifestyle/hobbies/live-steam",
+            "magic-tricks": "lifestyle/hobbies/magic-tricks",
+            "outdoor-recreation": "lifestyle/hobbies/outdoor-recreation",
+            "photography": "lifestyle/hobbies/photography",
+            "pyrotechnics": "lifestyle/hobbies/pyrotechnics"
+        },
+        "parents": {
+            "lifestyle": "lifestyle"
+        },
+        "sisters": {
+            "beverages": "lifestyle/beverages",
+            "employment": "lifestyle/employment",
+            "entertainment": "lifestyle/entertainment",
+            "foods": "lifestyle/foods",
+            "happiness": "lifestyle/happiness",
+            "hobbies": "lifestyle/hobbies",
+            "home": "lifestyle/home",
+            "honor": "lifestyle/honor",
+            "leisure": "lifestyle/leisure",
+            "love": "lifestyle/love",
+            "personal-development": "lifestyle/personal-development",
+            "pets": "lifestyle/pets",
+            "philosophy-of-life": "lifestyle/philosophy-of-life",
+            "privacy": "lifestyle/privacy",
+            "self-help": "lifestyle/self-help",
+            "simple-living": "lifestyle/simple-living",
+            "time-management": "lifestyle/time-management",
+            "video-game": "lifestyle/video-game"
+        },
+        "grandchildren": {
+            "birdwatching": "lifestyle/hobbies/outdoor-recreation/birdwatching",
+            "boardsports": "lifestyle/hobbies/outdoor-recreation/boardsports",
+            "camping": "lifestyle/hobbies/outdoor-recreation/camping",
+            "caving": "lifestyle/hobbies/outdoor-recreation/caving",
+            "climbing": "lifestyle/hobbies/outdoor-recreation/climbing",
+            "cycling": "lifestyle/hobbies/outdoor-recreation/cycling",
+            "fishing": "lifestyle/hobbies/outdoor-recreation/fishing",
+            "golf": "lifestyle/hobbies/outdoor-recreation/golf",
+            "hiking": "lifestyle/hobbies/outdoor-recreation/hiking",
+            "hunting": "lifestyle/hobbies/outdoor-recreation/hunting",
+            "motorcycling": "lifestyle/hobbies/outdoor-recreation/motorcycling",
+            "paintball": "lifestyle/hobbies/outdoor-recreation/paintball",
+            "parkour": "lifestyle/hobbies/outdoor-recreation/parkour",
+            "scouting": "lifestyle/hobbies/outdoor-recreation/scouting",
+            "skiing": "lifestyle/hobbies/outdoor-recreation/skiing",
+            "walking": "lifestyle/hobbies/outdoor-recreation/walking"
+        }
+    }
+}
