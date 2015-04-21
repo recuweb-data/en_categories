@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "natural-gas"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/natural-gas/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/natural-gas/natural-gas/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/natural-gas/natural-gas/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/natural-gas/natural-gas/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "natural-gas": "technology/electric-energy/non-renewable-energy/natural-gas"
+        },
+        "parents": {
+            "non-renewable-energy": "technology/electric-energy/non-renewable-energy"
+        },
+        "sisters": {
+            "natural-gas": "technology/electric-energy/non-renewable-energy/natural-gas",
+            "nuclear-power-plant": "technology/electric-energy/non-renewable-energy/nuclear-power-plant"
+        }
+    }
+}
