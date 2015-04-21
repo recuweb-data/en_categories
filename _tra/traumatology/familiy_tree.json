@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "traumatology"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/traumatology/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/traumatology/traumatology/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/traumatology/traumatology/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/traumatology/traumatology/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "traumatology": "health/medicine/emergency-medicine/traumatology"
+        },
+        "children": {
+            "injuries": "health/medicine/emergency-medicine/traumatology/injuries",
+            "trauma-surgery": "health/medicine/emergency-medicine/traumatology/trauma-surgery"
+        },
+        "parents": {
+            "emergency-medicine": "health/medicine/emergency-medicine"
+        },
+        "sisters": {
+            "coma": "health/medicine/emergency-medicine/coma",
+            "medical-emergencies": "health/medicine/emergency-medicine/medical-emergencies",
+            "traumatology": "health/medicine/emergency-medicine/traumatology"
+        }
+    }
+}
