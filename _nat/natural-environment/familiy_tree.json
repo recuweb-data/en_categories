@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "natural-environment"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/natural-environment/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/natural-environment/natural-environment/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/natural-environment/natural-environment/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/natural-environment/natural-environment/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "natural-environment": "politics/social-movement/environmentalism/natural-environment"
+        },
+        "parents": {
+            "environmentalism": "politics/social-movement/environmentalism"
+        },
+        "sisters": {
+            "ecology-orientated-meetings": "politics/social-movement/environmentalism/ecology-orientated-meetings",
+            "green-politics": "politics/social-movement/environmentalism/green-politics",
+            "natural-environment": "politics/social-movement/environmentalism/natural-environment"
+        }
+    }
+}
