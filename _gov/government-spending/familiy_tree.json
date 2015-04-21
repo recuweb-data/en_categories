@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "portal_name": "government-spending"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/government-spending/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/government-spending/government-spending/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/government-spending/government-spending/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/government-spending/government-spending/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "government-spending": "economy/finance/public-finance/government-spending"
+        },
+        "children": {
+            "government-consumption": "economy/finance/public-finance/government-spending/government-consumption",
+            "government-investment": "economy/finance/public-finance/government-spending/government-investment",
+            "government-operations": "economy/finance/public-finance/government-spending/government-operations",
+            "income-distribution": "economy/finance/public-finance/government-spending/income-distribution",
+            "transfer-payments": "economy/finance/public-finance/government-spending/transfer-payments"
+        },
+        "parents": {
+            "public-finance": "economy/finance/public-finance"
+        },
+        "sisters": {
+            "federal-finance": "economy/finance/public-finance/federal-finance",
+            "financial-administration": "economy/finance/public-finance/financial-administration",
+            "fiscal-policy": "economy/finance/public-finance/fiscal-policy",
+            "government-revenue": "economy/finance/public-finance/government-revenue",
+            "government-spending": "economy/finance/public-finance/government-spending",
+            "monetary-policy": "economy/finance/public-finance/monetary-policy",
+            "public-debt": "economy/finance/public-finance/public-debt",
+            "trade-policy": "economy/finance/public-finance/trade-policy"
+        },
+        "grandchildren": {
+            "employment-insurance": "economy/finance/public-finance/government-spending/income-distribution/employment-insurance",
+            "health-care": "economy/finance/public-finance/government-spending/income-distribution/health-care",
+            "income-security": "economy/finance/public-finance/government-spending/income-distribution/income-security"
+        }
+    }
+}
