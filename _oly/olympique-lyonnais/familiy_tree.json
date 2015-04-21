@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "olympique-lyonnais"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/olympique-lyonnais/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/olympique-lyonnais/olympique-lyonnais/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/olympique-lyonnais/olympique-lyonnais/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/olympique-lyonnais/olympique-lyonnais/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "olympique-lyonnais": "sport/ball-game/association-football/football-club/olympique-lyonnais"
+        },
+        "parents": {
+            "football-club": "sport/ball-game/association-football/football-club"
+        },
+        "sisters": {
+            "afc-ajax": "sport/ball-game/association-football/football-club/afc-ajax",
+            "olympique-de-marseille": "sport/ball-game/association-football/football-club/olympique-de-marseille",
+            "olympique-lyonnais": "sport/ball-game/association-football/football-club/olympique-lyonnais",
+            "valencia-cf": "sport/ball-game/association-football/football-club/valencia-cf"
+        }
+    }
+}
