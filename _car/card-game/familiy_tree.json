@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "card-game"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/card-game/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/card-game/card-game/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/card-game/card-game/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/card-game/card-game/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "card-game": "sport/mind-sport/card-game"
+        },
+        "children": {
+            "poker": "sport/mind-sport/card-game/poker"
+        },
+        "parents": {
+            "mind-sport": "sport/mind-sport"
+        },
+        "sisters": {
+            "card-game": "sport/mind-sport/card-game",
+            "tabletop-game": "sport/mind-sport/tabletop-game"
+        }
+    }
+}
