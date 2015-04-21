@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": "religion-in-india"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/religion-in-india/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/religion-in-india/religion-in-india/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/religion-in-india/religion-in-india/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/religion-in-india/religion-in-india/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "religion-in-india": "culture/religion/religion-in-india"
+        },
+        "children": {
+            "buddhism": "culture/religion/religion-in-india/buddhism",
+            "hinduism": "culture/religion/religion-in-india/hinduism",
+            "jainism": "culture/religion/religion-in-india/jainism",
+            "sikhism": "culture/religion/religion-in-india/sikhism"
+        },
+        "parents": {
+            "religion": "culture/religion"
+        },
+        "sisters": {
+            "abrahamic-religions": "culture/religion/abrahamic-religions",
+            "eastern-religion": "culture/religion/eastern-religion",
+            "eastern-religions": "culture/religion/eastern-religions",
+            "religion-in-india": "culture/religion/religion-in-india"
+        }
+    }
+}
