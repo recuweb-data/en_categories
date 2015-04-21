@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "catholicism"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/catholicism/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/catholicism/catholicism/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/catholicism/catholicism/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/catholicism/catholicism/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "catholicism": "culture/religion/abrahamic-religions/christianity/catholicism"
+        },
+        "parents": {
+            "christianity": "culture/religion/abrahamic-religions/christianity"
+        },
+        "sisters": {
+            "anglicanism": "culture/religion/abrahamic-religions/christianity/anglicanism",
+            "catholicism": "culture/religion/abrahamic-religions/christianity/catholicism",
+            "eastern-orthodox-church": "culture/religion/abrahamic-religions/christianity/eastern-orthodox-church",
+            "orthodox-church": "culture/religion/abrahamic-religions/christianity/orthodox-church",
+            "protestantism": "culture/religion/abrahamic-religions/christianity/protestantism"
+        }
+    }
+}
