@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "portal_name": "pasta"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/pasta/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/pasta/pasta/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/pasta/pasta/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/pasta/pasta/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "pasta": "lifestyle/foods/pasta"
+        },
+        "parents": {
+            "foods": "lifestyle/foods"
+        },
+        "sisters": {
+            "appetizers": "lifestyle/foods/appetizers",
+            "breads": "lifestyle/foods/breads",
+            "chocolate": "lifestyle/foods/chocolate",
+            "condiments": "lifestyle/foods/condiments",
+            "confectionery": "lifestyle/foods/confectionery",
+            "desserts": "lifestyle/foods/desserts",
+            "fast-food": "lifestyle/foods/fast-food",
+            "fruit": "lifestyle/foods/fruit",
+            "meat": "lifestyle/foods/meat",
+            "pasta": "lifestyle/foods/pasta",
+            "pastries": "lifestyle/foods/pastries",
+            "pies": "lifestyle/foods/pies",
+            "puddings": "lifestyle/foods/puddings",
+            "salads": "lifestyle/foods/salads",
+            "sandwiches": "lifestyle/foods/sandwiches",
+            "sauces": "lifestyle/foods/sauces",
+            "seafood": "lifestyle/foods/seafood",
+            "snack-foods": "lifestyle/foods/snack-foods",
+            "soups": "lifestyle/foods/soups"
+        }
+    }
+}
