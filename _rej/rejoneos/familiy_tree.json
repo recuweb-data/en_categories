@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "rejoneos"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/rejoneos/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/rejoneos/rejoneos/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/rejoneos/rejoneos/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/rejoneos/rejoneos/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "rejoneos": "culture/popular-culture/bullfighting/rejoneos"
+        },
+        "parents": {
+            "bullfighting": "culture/popular-culture/bullfighting"
+        },
+        "sisters": {
+            "rejoneos": "culture/popular-culture/bullfighting/rejoneos",
+            "running-of-the-bulls": "culture/popular-culture/bullfighting/running-of-the-bulls",
+            "toreros": "culture/popular-culture/bullfighting/toreros"
+        }
+    }
+}
