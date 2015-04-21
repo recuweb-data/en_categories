@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "muay-thai"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/muay-thai/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/muay-thai/muay-thai/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/muay-thai/muay-thai/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/muay-thai/muay-thai/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "muay-thai": "sport/combat-sport/boxing/muay-thai"
+        },
+        "parents": {
+            "boxing": "sport/combat-sport/boxing"
+        },
+        "sisters": {
+            "kickboxing": "sport/combat-sport/boxing/kickboxing",
+            "muay-thai": "sport/combat-sport/boxing/muay-thai"
+        }
+    }
+}
