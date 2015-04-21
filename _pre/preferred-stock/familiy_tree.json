@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": "preferred-stock"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/preferred-stock/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/preferred-stock/preferred-stock/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/preferred-stock/preferred-stock/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/preferred-stock/preferred-stock/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "preferred-stock": "economy/finance/corporate-finance/preferred-stock"
+        },
+        "parents": {
+            "corporate-finance": "economy/finance/corporate-finance"
+        },
+        "sisters": {
+            "capital-management": "economy/finance/corporate-finance/capital-management",
+            "capital-structure": "economy/finance/corporate-finance/capital-structure",
+            "corporate-governance": "economy/finance/corporate-finance/corporate-governance",
+            "corporate-tax": "economy/finance/corporate-finance/corporate-tax",
+            "debt-capital": "economy/finance/corporate-finance/debt-capital",
+            "dividends": "economy/finance/corporate-finance/dividends",
+            "equity-capital": "economy/finance/corporate-finance/equity-capital",
+            "financial-risk": "economy/finance/corporate-finance/financial-risk",
+            "preferred-stock": "economy/finance/corporate-finance/preferred-stock",
+            "project-valuation": "economy/finance/corporate-finance/project-valuation",
+            "stock-valuation": "economy/finance/corporate-finance/stock-valuation"
+        }
+    }
+}
