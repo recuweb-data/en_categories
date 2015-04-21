@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "royal-family"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/royal-family/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/royal-family/royal-family/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/royal-family/royal-family/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/royal-family/royal-family/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "royal-family": "politics/political-ideology/monarchism/royal-family"
+        },
+        "parents": {
+            "monarchism": "politics/political-ideology/monarchism"
+        },
+        "sisters": {
+            "empire": "politics/political-ideology/monarchism/empire",
+            "royal-family": "politics/political-ideology/monarchism/royal-family"
+        }
+    }
+}
