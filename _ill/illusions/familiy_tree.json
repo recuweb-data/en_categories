@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "illusions"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/illusions/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/illusions/illusions/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/illusions/illusions/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/illusions/illusions/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "illusions": "society/knowledge/perception/illusions\\n/society/knowledge/perception/illusions"
+        },
+        "parents": {
+            "perception": "society/knowledge/perception/illusions\\n/society/knowledge/perception"
+        },
+        "sisters": {
+            "aesthetics": "society/knowledge/observation/perception/aesthetics",
+            "apparitions": "society/knowledge/observation/perception/apparitions",
+            "auditory-perception": "society/knowledge/observation/perception/auditory-perception",
+            "illusions": "society/knowledge/perception/illusions\\n/society/knowledge/perception/illusions",
+            "pleasure": "society/knowledge/observation/perception/pleasure",
+            "senses": "society/knowledge/observation/perception/senses",
+            "visual-perception": "society/knowledge/observation/perception/visual-perception"
+        }
+    }
+}
