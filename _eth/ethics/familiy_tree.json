@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "portal_name": "ethics"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/ethics/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/ethics/ethics/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/ethics/ethics/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/ethics/ethics/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ethics": "politics/ethics"
+        },
+        "children": {
+            "egoism": "politics/ethics/egoism",
+            "hedonism": "politics/ethics/hedonism",
+            "humanism": "politics/ethics/humanism",
+            "nihilism": "politics/ethics/nihilism",
+            "objectivism": "politics/ethics/objectivism",
+            "pacifism": "politics/ethics/pacifism",
+            "utilitarianism": "politics/ethics/utilitarianism"
+        },
+        "parents": {
+            "politics": "politics"
+        },
+        "sisters": {
+            "ethics": "politics/ethics",
+            "globalization": "politics/globalization",
+            "list-of-political-ideologies": "politics/list-of-political-ideologies",
+            "political-ideologies": "politics/political-ideologies",
+            "political-ideology": "politics/political-ideology",
+            "social-movement": "politics/social-movement"
+        },
+        "grandchildren": {
+            "freethought": "politics/ethics/humanism/freethought"
+        }
+    }
+}
