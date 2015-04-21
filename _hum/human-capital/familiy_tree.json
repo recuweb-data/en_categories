@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "human-capital"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/human-capital/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/human-capital/human-capital/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/human-capital/human-capital/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/human-capital/human-capital/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "human-capital": "economy/microeconomics/human-capital"
+        },
+        "parents": {
+            "microeconomics": "economy/microeconomics"
+        },
+        "sisters": {
+            "human-capital": "economy/microeconomics/human-capital",
+            "market-failure": "economy/microeconomics/market-failure",
+            "markets": "economy/microeconomics/markets",
+            "production": "economy/microeconomics/production",
+            "public-sector": "economy/microeconomics/public-sector"
+        }
+    }
+}
