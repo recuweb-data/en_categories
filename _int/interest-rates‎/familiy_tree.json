@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "interest-rates\u200e"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/interest-rates\u200e/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/interest-rates/interest-rates/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/interest-rates/interest-rates/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/interest-rates/interest-rates/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "interest-rates\u200e": "economy/finance/financial-mathematics/interest-rates\u200e"
+        },
+        "parents": {
+            "financial-mathematics": "economy/finance/financial-mathematics"
+        },
+        "sisters": {
+            "financial-ratios\u200e": "economy/finance/financial-mathematics/financial-ratios\u200e",
+            "fixed-income-analysis\u200e": "economy/finance/financial-mathematics/fixed-income-analysis\u200e",
+            "fundamental-analysis": "economy/finance/financial-mathematics/fundamental-analysis",
+            "interest-rates\u200e": "economy/finance/financial-mathematics/interest-rates\u200e",
+            "market-trends": "economy/finance/financial-mathematics/market-trends",
+            "technical-analysis": "economy/finance/financial-mathematics/technical-analysis"
+        }
+    }
+}
