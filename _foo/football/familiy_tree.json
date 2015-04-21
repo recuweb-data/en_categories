@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "portal_name": "football"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/football/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/football/football/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/football/football/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/football/football/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "football": "sport/football"
+        },
+        "children": {
+            "realmadrid": "sport/football/realmadrid"
+        },
+        "parents": {
+            "sport": "sport"
+        },
+        "sisters": {
+            "athletics": "sport/athletics",
+            "ball-game": "sport/ball-game",
+            "combat-sport": "sport/combat-sport",
+            "extreme-sport": "sport/extreme-sport",
+            "football": "sport/football",
+            "mind-sport": "sport/mind-sport",
+            "motorsport": "sport/motorsport",
+            "olympic-games": "sport/olympic-games",
+            "water-sports": "sport/water-sports"
+        }
+    }
+}
