@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": "mortgage-loan"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/mortgage-loan/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/mortgage-loan/mortgage-loan/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/mortgage-loan/mortgage-loan/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/mortgage-loan/mortgage-loan/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "mortgage-loan": "economy/finance/financial-capital/mortgage-loan"
+        },
+        "parents": {
+            "financial-capital": "economy/finance/financial-capital"
+        },
+        "sisters": {
+            "capital-market": "economy/finance/financial-capital/capital-market",
+            "factoring": "economy/finance/financial-capital/factoring",
+            "financial-wealth": "economy/finance/financial-capital/financial-wealth",
+            "leasing": "economy/finance/financial-capital/leasing",
+            "money-market": "economy/finance/financial-capital/money-market",
+            "mortgage-loan": "economy/finance/financial-capital/mortgage-loan",
+            "project-finance": "economy/finance/financial-capital/project-finance",
+            "retained-profit": "economy/finance/financial-capital/retained-profit",
+            "share-capital": "economy/finance/financial-capital/share-capital",
+            "venture-capital": "economy/finance/financial-capital/venture-capital"
+        }
+    }
+}
