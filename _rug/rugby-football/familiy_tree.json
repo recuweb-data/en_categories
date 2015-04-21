@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": "rugby-football"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/rugby-football/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/rugby-football/rugby-football/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/rugby-football/rugby-football/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/rugby-football/rugby-football/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "rugby-football": "sport/ball-game/rugby-football"
+        },
+        "parents": {
+            "ball-game": "sport/ball-game"
+        },
+        "sisters": {
+            "association-football": "sport/ball-game/association-football",
+            "baseball": "sport/ball-game/baseball",
+            "basketball": "sport/ball-game/basketball",
+            "golf": "sport/ball-game/golf",
+            "handball": "sport/ball-game/handball",
+            "hockey": "sport/ball-game/hockey",
+            "racquet-sports": "sport/ball-game/racquet-sports",
+            "rugby": "sport/ball-game/rugby",
+            "rugby-football": "sport/ball-game/rugby-football",
+            "volleyball": "sport/ball-game/volleyball"
+        }
+    }
+}
