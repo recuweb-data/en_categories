@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": "web-formats"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/web-formats/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/web-formats/web-formats/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/web-formats/web-formats/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/web-formats/web-formats/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "web-formats": "internet/web-development/web-formats"
+        },
+        "children": {
+            "css": "internet/web-development/web-formats/css",
+            "html": "internet/web-development/web-formats/html",
+            "xml": "internet/web-development/web-formats/xml"
+        },
+        "parents": {
+            "web-development": "internet/web-development"
+        },
+        "sisters": {
+            "database": "internet/web-development/database",
+            "web-formats": "internet/web-development/web-formats",
+            "web-languages": "internet/web-development/web-languages"
+        },
+        "grandchildren": {
+            "html-element-frames": "internet/web-development/web-formats/html/html-element-frames"
+        }
+    }
+}
