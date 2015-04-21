@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "localization"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/localization/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/localization/localization/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/localization/localization/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/localization/localization/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "localization": "society/linguistics/translation/localization"
+        },
+        "parents": {
+            "translation": "society/linguistics/translation"
+        },
+        "sisters": {
+            "dubbing": "society/linguistics/translation/dubbing",
+            "internationalization": "society/linguistics/translation/internationalization",
+            "localization": "society/linguistics/translation/localization",
+            "subtitling": "society/linguistics/translation/subtitling",
+            "translators": "society/linguistics/translation/translators"
+        }
+    }
+}
