@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "portal_name": "computer-hardware-companies"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/computer-hardware-companies/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/computer-hardware-companies/computer-hardware-companies/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/computer-hardware-companies/computer-hardware-companies/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/computer-hardware-companies/computer-hardware-companies/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "computer-hardware-companies": "technology/electronics/electronic-device/computer-hardware/computer-hardware-companies"
+        },
+        "children": {
+            "apple-hardware": "technology/electronics/electronic-device/computer-hardware/computer-hardware-companies/apple-hardware"
+        },
+        "parents": {
+            "computer-hardware": "technology/electronics/electronic-device/computer-hardware"
+        },
+        "sisters": {
+            "computer-data-storage": "technology/electronics/electronic-device/computer-hardware/computer-data-storage",
+            "computer-hardware-companies": "technology/electronics/electronic-device/computer-hardware/computer-hardware-companies",
+            "computer-peripheral": "technology/electronics/electronic-device/computer-hardware/computer-peripheral",
+            "ebook": "technology/electronics/electronic-device/computer-hardware/ebook",
+            "integrated-circuit": "technology/electronics/electronic-device/computer-hardware/integrated-circuit",
+            "motherboard": "technology/electronics/electronic-device/computer-hardware/motherboard"
+        },
+        "grandchildren": {
+            "ipad": "technology/electronics/electronic-device/computer-hardware/computer-hardware-companies/apple-hardware/ipad",
+            "iphone": "technology/electronics/electronic-device/computer-hardware/computer-hardware-companies/apple-hardware/iphone",
+            "ipod": "technology/electronics/electronic-device/computer-hardware/computer-hardware-companies/apple-hardware/ipod",
+            "macintosh": "technology/electronics/electronic-device/computer-hardware/computer-hardware-companies/apple-hardware/macintosh"
+        }
+    }
+}
