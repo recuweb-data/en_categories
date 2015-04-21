@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "portal_name": "auto-racing"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/auto-racing/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/auto-racing/auto-racing/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/auto-racing/auto-racing/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/auto-racing/auto-racing/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "auto-racing": "sport/motorsport/auto-racing"
+        },
+        "children": {
+            "drifting": "sport/motorsport/auto-racing/drifting",
+            "kart-racing": "sport/motorsport/auto-racing/kart-racing",
+            "rallying": "sport/motorsport/auto-racing/rallying",
+            "road-racing": "sport/motorsport/auto-racing/road-racing"
+        },
+        "parents": {
+            "motorsport": "sport/motorsport"
+        },
+        "sisters": {
+            "aeronautics": "sport/motorsport/aeronautics",
+            "auto-racing": "sport/motorsport/auto-racing",
+            "motorcycle-sport": "sport/motorsport/motorcycle-sport",
+            "powerboating": "sport/motorsport/powerboating"
+        },
+        "grandchildren": {
+            "open-wheel-car": "sport/motorsport/auto-racing/road-racing/open-wheel-car",
+            "sports-prototype": "sport/motorsport/auto-racing/road-racing/sports-prototype",
+            "supercar": "sport/motorsport/auto-racing/road-racing/supercar"
+        }
+    }
+}
