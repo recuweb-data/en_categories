@@ -1,0 +1,87 @@
+{
+    "meta": {
+        "portal_name": "sport"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/sport/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/sport/sport/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/sport/sport/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/sport/sport/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "sport": "sport"
+        },
+        "children": {
+            "athletics": "sport/athletics",
+            "ball-game": "sport/ball-game",
+            "combat-sport": "sport/combat-sport",
+            "extreme-sport": "sport/extreme-sport",
+            "football": "sport/football",
+            "mind-sport": "sport/mind-sport",
+            "motorsport": "sport/motorsport",
+            "olympic-games": "sport/olympic-games",
+            "water-sports": "sport/water-sports"
+        },
+        "parents": {
+            "recuweb": ""
+        },
+        "sisters": {
+            "culture": "culture",
+            "economy": "economy",
+            "health": "health",
+            "internet": "internet",
+            "lifestyle": "lifestyle",
+            "nature": "nature",
+            "politics": "politics",
+            "science": "science",
+            "society": "society",
+            "sport": "sport",
+            "technology": "technology"
+        },
+        "grandchildren": {
+            "high-jump": "sport/athletics/high-jump",
+            "javelin-throw": "sport/athletics/javelin-throw",
+            "marathon": "sport/athletics/marathon",
+            "pole-vault": "sport/athletics/pole-vault",
+            "relay-race": "sport/athletics/relay-race",
+            "triathlon": "sport/athletics/triathlon",
+            "triple-jump": "sport/athletics/triple-jump",
+            "association-football": "sport/ball-game/association-football",
+            "baseball": "sport/ball-game/baseball",
+            "basketball": "sport/ball-game/basketball",
+            "golf": "sport/ball-game/golf",
+            "handball": "sport/ball-game/handball",
+            "hockey": "sport/ball-game/hockey",
+            "racquet-sports": "sport/ball-game/racquet-sports",
+            "rugby": "sport/ball-game/rugby",
+            "rugby-football": "sport/ball-game/rugby-football",
+            "volleyball": "sport/ball-game/volleyball",
+            "boxing": "sport/combat-sport/boxing",
+            "fencing": "sport/combat-sport/fencing",
+            "lucha-libre": "sport/combat-sport/lucha-libre",
+            "martial-arts": "sport/combat-sport/martial-arts",
+            "climbing": "sport/extreme-sport/climbing",
+            "escalada": "sport/extreme-sport/escalada",
+            "parachuting": "sport/extreme-sport/parachuting",
+            "skateboarding": "sport/extreme-sport/skateboarding",
+            "snowboarding": "sport/extreme-sport/snowboarding",
+            "surfing": "sport/extreme-sport/surfing",
+            "realmadrid": "sport/football/realmadrid",
+            "card-game": "sport/mind-sport/card-game",
+            "tabletop-game": "sport/mind-sport/tabletop-game",
+            "aeronautics": "sport/motorsport/aeronautics",
+            "auto-racing": "sport/motorsport/auto-racing",
+            "motorcycle-sport": "sport/motorsport/motorcycle-sport",
+            "powerboating": "sport/motorsport/powerboating",
+            "bodyboarding": "sport/water-sports/bodyboarding",
+            "canoeing": "sport/water-sports/canoeing",
+            "rafting": "sport/water-sports/rafting",
+            "recreational-fishing": "sport/water-sports/recreational-fishing",
+            "regatta": "sport/water-sports/regatta",
+            "swimming": "sport/water-sports/swimming",
+            "water-polo": "sport/water-sports/water-polo",
+            "waterskiing": "sport/water-sports/waterskiing"
+        }
+    }
+}
