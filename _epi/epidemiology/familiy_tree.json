@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": "epidemiology"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/epidemiology/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/epidemiology/epidemiology/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/epidemiology/epidemiology/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/epidemiology/epidemiology/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "epidemiology": "health/public-health/epidemiology"
+        },
+        "parents": {
+            "public-health": "health/public-health"
+        },
+        "sisters": {
+            "environmental-health": "health/public-health/environmental-health",
+            "epidemiology": "health/public-health/epidemiology",
+            "food-safety": "health/public-health/food-safety",
+            "global-health": "health/public-health/global-health",
+            "health-disasters": "health/public-health/health-disasters",
+            "health-promotion": "health/public-health/health-promotion",
+            "maternal-health": "health/public-health/maternal-health",
+            "prevention": "health/public-health/prevention",
+            "vaccination": "health/public-health/vaccination",
+            "water-treatment": "health/public-health/water-treatment"
+        }
+    }
+}
