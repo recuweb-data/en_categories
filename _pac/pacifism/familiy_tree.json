@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "pacifism"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/pacifism/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/pacifism/pacifism/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/pacifism/pacifism/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/pacifism/pacifism/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "pacifism": "politics/ethics/pacifism"
+        },
+        "parents": {
+            "ethics": "politics/ethics"
+        },
+        "sisters": {
+            "egoism": "politics/ethics/egoism",
+            "hedonism": "politics/ethics/hedonism",
+            "humanism": "politics/ethics/humanism",
+            "nihilism": "politics/ethics/nihilism",
+            "objectivism": "politics/ethics/objectivism",
+            "pacifism": "politics/ethics/pacifism",
+            "utilitarianism": "politics/ethics/utilitarianism"
+        }
+    }
+}
