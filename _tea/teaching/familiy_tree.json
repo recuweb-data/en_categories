@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "teaching"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/teaching/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/teaching/teaching/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/teaching/teaching/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/teaching/teaching/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "teaching": "society/education/teaching"
+        },
+        "parents": {
+            "education": "society/education"
+        },
+        "sisters": {
+            "academic-institutions": "society/education/academic-institutions",
+            "educational-materials": "society/education/educational-materials",
+            "higher-education": "society/education/higher-education",
+            "learning": "society/education/learning",
+            "students": "society/education/students",
+            "teaching": "society/education/teaching"
+        }
+    }
+}
