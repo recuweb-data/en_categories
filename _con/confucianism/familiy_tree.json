@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "confucianism"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/confucianism/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/confucianism/confucianism/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/confucianism/confucianism/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/confucianism/confucianism/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "confucianism": "culture/religion/eastern-religions/confucianism"
+        },
+        "parents": {
+            "eastern-religions": "culture/religion/eastern-religions"
+        },
+        "sisters": {
+            "confucianism": "culture/religion/eastern-religions/confucianism"
+        }
+    }
+}
