@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": "recreation"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/recreation/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/recreation/recreation/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/recreation/recreation/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/recreation/recreation/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "recreation": "lifestyle/leisure/recreation"
+        },
+        "children": {
+            "massage": "lifestyle/leisure/recreation/massage",
+            "naturism": "lifestyle/leisure/recreation/naturism",
+            "play": "lifestyle/leisure/recreation/play"
+        },
+        "parents": {
+            "leisure": "lifestyle/leisure"
+        },
+        "sisters": {
+            "bathing": "lifestyle/leisure/bathing",
+            "juggling": "lifestyle/leisure/juggling",
+            "recreation": "lifestyle/leisure/recreation",
+            "travel": "lifestyle/leisure/travel",
+            "twirling": "lifestyle/leisure/twirling"
+        }
+    }
+}
