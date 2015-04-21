@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "portal_name": "history"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/history/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/history/history/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/history/history/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/history/history/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "history": "society/history"
+        },
+        "children": {
+            "archaeology": "society/history/archaeology",
+            "chronology": "society/history/chronology",
+            "historiography": "society/history/historiography",
+            "legacies": "society/history/legacies",
+            "local-history": "society/history/local-history",
+            "prehistory": "society/history/prehistory",
+            "pseudohistory": "society/history/pseudohistory"
+        },
+        "parents": {
+            "society": "society"
+        },
+        "sisters": {
+            "anthropology": "society/anthropology",
+            "education": "society/education",
+            "history": "society/history",
+            "knowledge": "society/knowledge",
+            "law": "society/law",
+            "linguistics": "society/linguistics",
+            "psychology": "society/psychology",
+            "sociology": "society/sociology"
+        }
+    }
+}
