@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "computer-peripheral"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/computer-peripheral/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/computer-peripheral/computer-peripheral/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/computer-peripheral/computer-peripheral/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/computer-peripheral/computer-peripheral/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "computer-peripheral": "technology/electronics/electronic-device/computer-hardware/computer-peripheral"
+        },
+        "children": {
+            "computer-monitor": "technology/electronics/electronic-device/computer-hardware/computer-peripheral/computer-monitor",
+            "printer": "technology/electronics/electronic-device/computer-hardware/computer-peripheral/printer"
+        },
+        "parents": {
+            "computer-hardware": "technology/electronics/electronic-device/computer-hardware"
+        },
+        "sisters": {
+            "computer-data-storage": "technology/electronics/electronic-device/computer-hardware/computer-data-storage",
+            "computer-hardware-companies": "technology/electronics/electronic-device/computer-hardware/computer-hardware-companies",
+            "computer-peripheral": "technology/electronics/electronic-device/computer-hardware/computer-peripheral",
+            "ebook": "technology/electronics/electronic-device/computer-hardware/ebook",
+            "integrated-circuit": "technology/electronics/electronic-device/computer-hardware/integrated-circuit",
+            "motherboard": "technology/electronics/electronic-device/computer-hardware/motherboard"
+        },
+        "grandchildren": {
+            "touchscreen": "technology/electronics/electronic-device/computer-hardware/computer-peripheral/computer-monitor/touchscreen"
+        }
+    }
+}
