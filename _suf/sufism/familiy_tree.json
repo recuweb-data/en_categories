@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "sufism"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/sufism/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/sufism/sufism/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/sufism/sufism/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/sufism/sufism/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "sufism": "culture/religion/abrahamic-religions/islam/sufism"
+        },
+        "parents": {
+            "islam": "culture/religion/abrahamic-religions/islam"
+        },
+        "sisters": {
+            "shia-islam": "culture/religion/abrahamic-religions/islam/shia-islam",
+            "sufism": "culture/religion/abrahamic-religions/islam/sufism",
+            "sunni-islam": "culture/religion/abrahamic-religions/islam/sunni-islam"
+        }
+    }
+}
