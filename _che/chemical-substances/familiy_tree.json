@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "portal_name": "chemical-substances"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/chemical-substances/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/chemical-substances/chemical-substances/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/chemical-substances/chemical-substances/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/chemical-substances/chemical-substances/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "chemical-substances": "science/chemistry/chemical-substances"
+        },
+        "parents": {
+            "chemistry": "science/chemistry"
+        },
+        "sisters": {
+            "analytical-chemistry": "science/chemistry/analytical-chemistry",
+            "atomic-physics": "science/chemistry/atomic-physics",
+            "biochemistry": "science/chemistry/biochemistry",
+            "chemical-classification": "science/chemistry/chemical-classification",
+            "chemical-energy": "science/chemistry/chemical-energy",
+            "chemical-engineering": "science/chemistry/chemical-engineering",
+            "chemical-industry": "science/chemistry/chemical-industry",
+            "chemical-properties": "science/chemistry/chemical-properties",
+            "chemical-reactions": "science/chemistry/chemical-reactions",
+            "chemical-substances": "science/chemistry/chemical-substances",
+            "chemical-synthesis": "science/chemistry/chemical-synthesis",
+            "chemical-warfare": "science/chemistry/chemical-warfare",
+            "cheminformatics": "science/chemistry/cheminformatics",
+            "environmental-chemistry": "science/chemistry/environmental-chemistry",
+            "food-chemistry": "science/chemistry/food-chemistry",
+            "geochemistry": "science/chemistry/geochemistry",
+            "inorganic-chemistry": "science/chemistry/inorganic-chemistry",
+            "laboratory-techniques": "science/chemistry/laboratory-techniques",
+            "materials-science": "science/chemistry/materials-science",
+            "medicinal-chemistry": "science/chemistry/medicinal-chemistry",
+            "molecular-physics": "science/chemistry/molecular-physics",
+            "molecules": "science/chemistry/molecules",
+            "nuclear-chemistry": "science/chemistry/nuclear-chemistry",
+            "organic-chemistry": "science/chemistry/organic-chemistry",
+            "photochemistry": "science/chemistry/photochemistry",
+            "physical-chemistry": "science/chemistry/physical-chemistry",
+            "stereochemistry": "science/chemistry/stereochemistry",
+            "subatomic-particles": "science/chemistry/subatomic-particles",
+            "water-chemistry": "science/chemistry/water-chemistry"
+        }
+    }
+}
