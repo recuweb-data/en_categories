@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "css"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/css/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/css/css/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/css/css/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/css/css/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "css": "internet/web-development/web-formats/css"
+        },
+        "parents": {
+            "web-formats": "internet/web-development/web-formats"
+        },
+        "sisters": {
+            "css": "internet/web-development/web-formats/css",
+            "html": "internet/web-development/web-formats/html",
+            "xml": "internet/web-development/web-formats/xml"
+        }
+    }
+}
