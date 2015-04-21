@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "portal_name": "diseases-and-disorders"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/diseases-and-disorders/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/diseases-and-disorders/diseases-and-disorders/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/diseases-and-disorders/diseases-and-disorders/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/diseases-and-disorders/diseases-and-disorders/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "diseases-and-disorders": "health/medicine/diseases-and-disorders"
+        },
+        "children": {
+            "autoimmune-diseases": "health/medicine/diseases-and-disorders/autoimmune-diseases",
+            "blood-disorders": "health/medicine/diseases-and-disorders/blood-disorders",
+            "cancer": "health/medicine/diseases-and-disorders/cancer",
+            "cardiovascular-diseases": "health/medicine/diseases-and-disorders/cardiovascular-diseases",
+            "congenital-disorders": "health/medicine/diseases-and-disorders/congenital-disorders",
+            "cutaneous-conditions": "health/medicine/diseases-and-disorders/cutaneous-conditions",
+            "genetic-disorders": "health/medicine/diseases-and-disorders/genetic-disorders",
+            "infectious-diseases": "health/medicine/diseases-and-disorders/infectious-diseases",
+            "neoplasms": "health/medicine/diseases-and-disorders/neoplasms",
+            "neurological-disorders": "health/medicine/diseases-and-disorders/neurological-disorders",
+            "rare-diseases": "health/medicine/diseases-and-disorders/rare-diseases",
+            "sleep-disorders": "health/medicine/diseases-and-disorders/sleep-disorders",
+            "tumor": "health/medicine/diseases-and-disorders/tumor"
+        },
+        "parents": {
+            "medicine": "health/medicine"
+        },
+        "sisters": {
+            "anatomy": "health/medicine/anatomy",
+            "diseases-and-disorders": "health/medicine/diseases-and-disorders",
+            "emergency-medicine": "health/medicine/emergency-medicine",
+            "first-aid": "health/medicine/first-aid",
+            "medical-equipment": "health/medicine/medical-equipment",
+            "medical-treatments": "health/medicine/medical-treatments",
+            "pathology": "health/medicine/pathology",
+            "pharmacology": "health/medicine/pharmacology",
+            "physiology": "health/medicine/physiology"
+        }
+    }
+}
