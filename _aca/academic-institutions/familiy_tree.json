@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "portal_name": "academic-institutions"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/academic-institutions/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/academic-institutions/academic-institutions/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/academic-institutions/academic-institutions/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/academic-institutions/academic-institutions/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "academic-institutions": "society/education/academic-institutions"
+        },
+        "children": {
+            "academy": "society/education/academic-institutions/academy",
+            "college": "society/education/academic-institutions/college",
+            "institute": "society/education/academic-institutions/institute",
+            "school": "society/education/academic-institutions/school",
+            "think-tank": "society/education/academic-institutions/think-tank",
+            "university": "society/education/academic-institutions/university"
+        },
+        "parents": {
+            "education": "society/education"
+        },
+        "sisters": {
+            "academic-institutions": "society/education/academic-institutions",
+            "educational-materials": "society/education/educational-materials",
+            "higher-education": "society/education/higher-education",
+            "learning": "society/education/learning",
+            "students": "society/education/students",
+            "teaching": "society/education/teaching"
+        }
+    }
+}
