@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "temporary-employment"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/temporary-employment/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/temporary-employment/temporary-employment/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/temporary-employment/temporary-employment/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/temporary-employment/temporary-employment/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "temporary-employment": "lifestyle/employment/temporary-employment"
+        },
+        "parents": {
+            "employment": "lifestyle/employment"
+        },
+        "sisters": {
+            "job-interview": "lifestyle/employment/job-interview",
+            "recruitment": "lifestyle/employment/recruitment",
+            "temporary-employment": "lifestyle/employment/temporary-employment",
+            "unemployment": "lifestyle/employment/unemployment",
+            "working-time": "lifestyle/employment/working-time",
+            "workplace": "lifestyle/employment/workplace"
+        }
+    }
+}
