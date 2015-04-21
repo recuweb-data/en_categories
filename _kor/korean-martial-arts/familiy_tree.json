@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "korean-martial-arts"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/korean-martial-arts/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/korean-martial-arts/korean-martial-arts/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/korean-martial-arts/korean-martial-arts/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/korean-martial-arts/korean-martial-arts/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "korean-martial-arts": "sport/combat-sport/martial-arts/asian-martial-arts/korean-martial-arts"
+        },
+        "children": {
+            "hapkido": "sport/combat-sport/martial-arts/asian-martial-arts/korean-martial-arts/hapkido",
+            "taekwondo": "sport/combat-sport/martial-arts/asian-martial-arts/korean-martial-arts/taekwondo"
+        },
+        "parents": {
+            "asian-martial-arts": "sport/combat-sport/martial-arts/asian-martial-arts"
+        },
+        "sisters": {
+            "chinese-martial-arts": "sport/combat-sport/martial-arts/asian-martial-arts/chinese-martial-arts",
+            "japanese-martial-arts": "sport/combat-sport/martial-arts/asian-martial-arts/japanese-martial-arts",
+            "korean-martial-arts": "sport/combat-sport/martial-arts/asian-martial-arts/korean-martial-arts"
+        }
+    }
+}
