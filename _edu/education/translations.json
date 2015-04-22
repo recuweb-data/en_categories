@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "education",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/education/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/education/education/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/education/education/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/education/education/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Education",
+            "term_title_slug": "education"
+        },
+        "es": {
+            "term_title": "Educaci\u00f3n",
+            "term_title_slug": "educaci\u00f3n"
+        },
+        "fr": {
+            "term_title": "\u00c9ducation",
+            "term_title_slug": "\u00e9ducation"
+        }
+    }
+}
