@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "gravitation",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/gravitation/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/gravitation/gravitation/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/gravitation/gravitation/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/gravitation/gravitation/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Gravitation",
+            "term_title_slug": "gravitation"
+        },
+        "es": {
+            "term_title": "Gravedad",
+            "term_title_slug": "gravedad"
+        },
+        "fr": {
+            "term_title": "Gravitation",
+            "term_title_slug": "gravitation"
+        }
+    }
+}
