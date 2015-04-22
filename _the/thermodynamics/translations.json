@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "thermodynamics",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/thermodynamics/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/thermodynamics/thermodynamics/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/thermodynamics/thermodynamics/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/thermodynamics/thermodynamics/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Thermodynamics",
+            "term_title_slug": "thermodynamics"
+        },
+        "es": {
+            "term_title": "Termodin\u00e1mica",
+            "term_title_slug": "termodin\u00e1mica"
+        },
+        "fr": {
+            "term_title": "Thermodynamique",
+            "term_title_slug": "thermodynamique"
+        }
+    }
+}
