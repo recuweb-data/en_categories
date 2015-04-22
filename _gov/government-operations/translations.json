@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "government-operations",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/government-operations/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/government-operations/government-operations/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/government-operations/government-operations/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/government-operations/government-operations/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Government operations",
+            "term_title_slug": "government-operations"
+        }
+    }
+}
