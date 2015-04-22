@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "mediterranean",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/mediterranean/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/mediterranean/mediterranean/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/mediterranean/mediterranean/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/mediterranean/mediterranean/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Mediterranean",
+            "term_title_slug": "mediterranean"
+        },
+        "es": {
+            "term_title": "Mar Mediterr\u00e1neo",
+            "term_title_slug": "mar-mediterr\u00e1neo"
+        },
+        "fr": {
+            "term_title": "Mer M\u00e9diterran\u00e9e",
+            "term_title_slug": "mer-m\u00e9diterran\u00e9e"
+        }
+    }
+}
