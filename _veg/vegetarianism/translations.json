@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "vegetarianism",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/vegetarianism/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/vegetarianism/vegetarianism/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/vegetarianism/vegetarianism/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/vegetarianism/vegetarianism/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Vegetarianismo",
+            "term_title_slug": "vegetarianismo"
+        },
+        "en": {
+            "term_title": "Vegetarianism",
+            "term_title_slug": "vegetarianism"
+        },
+        "fr": {
+            "term_title": "V\u00e9g\u00e9tarisme",
+            "term_title_slug": "v\u00e9g\u00e9tarisme"
+        }
+    }
+}
