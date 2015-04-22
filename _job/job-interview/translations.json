@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "job-interview",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/job-interview/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/job-interview/job-interview/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/job-interview/job-interview/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/job-interview/job-interview/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Job interview",
+            "term_title_slug": "job-interview"
+        }
+    }
+}
