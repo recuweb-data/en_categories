@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "navigation",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/navigation/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/navigation/navigation/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/navigation/navigation/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/navigation/navigation/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Navigation",
+            "term_title_slug": "navigation"
+        },
+        "es": {
+            "term_title": "Navegaci\u00f3n mar\u00edtima",
+            "term_title_slug": "navegaci\u00f3n-mar\u00edtima"
+        },
+        "fr": {
+            "term_title": "Navigation",
+            "term_title_slug": "navigation"
+        }
+    }
+}
