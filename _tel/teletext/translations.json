@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "teletext",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/teletext/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/teletext/teletext/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/teletext/teletext/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/teletext/teletext/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Teletexto",
+            "term_title_slug": "teletexto"
+        },
+        "en": {
+            "term_title": "Teletext",
+            "term_title_slug": "teletext"
+        },
+        "fr": {
+            "term_title": "T\u00e9l\u00e9texte",
+            "term_title_slug": "t\u00e9l\u00e9texte"
+        }
+    }
+}
