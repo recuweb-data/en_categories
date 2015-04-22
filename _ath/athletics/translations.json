@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "athletics",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/athletics/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/athletics/athletics/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/athletics/athletics/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/athletics/athletics/blogs.json"
+    },
+    "translations": {
+        "fr": {
+            "term_title": "Athl\u00e9tisme",
+            "term_title_slug": "athl\u00e9tisme"
+        },
+        "es": {
+            "term_title": "Atletismo",
+            "term_title_slug": "atletismo"
+        },
+        "en": {
+            "term_title": "Athletics",
+            "term_title_slug": "athletics"
+        }
+    }
+}
