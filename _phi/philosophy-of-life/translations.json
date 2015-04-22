@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "philosophy-of-life",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/philosophy-of-life/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/philosophy-of-life/philosophy-of-life/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/philosophy-of-life/philosophy-of-life/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/philosophy-of-life/philosophy-of-life/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Libensfilosof\u00eda",
+            "term_title_slug": "libensfilosof\u00eda"
+        },
+        "fr": {
+            "term_title": "Lebensphilosophie",
+            "term_title_slug": "lebensphilosophie"
+        },
+        "en": {
+            "term_title": "Philosophy of life",
+            "term_title_slug": "philosophy-of-life"
+        }
+    }
+}
