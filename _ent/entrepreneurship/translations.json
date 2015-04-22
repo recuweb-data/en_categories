@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "entrepreneurship",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/entrepreneurship/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/entrepreneurship/entrepreneurship/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/entrepreneurship/entrepreneurship/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/entrepreneurship/entrepreneurship/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Entrepreneurship",
+            "term_title_slug": "entrepreneurship"
+        },
+        "es": {
+            "term_title": "Esp\u00edritu empresarial",
+            "term_title_slug": "esp\u00edritu-empresarial"
+        },
+        "fr": {
+            "term_title": "Entrepreneuriat",
+            "term_title_slug": "entrepreneuriat"
+        }
+    }
+}
