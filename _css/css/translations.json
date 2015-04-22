@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "css",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/css/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/css/css/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/css/css/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/css/css/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Css",
+            "term_title_slug": "css"
+        },
+        "es": {
+            "term_title": "Hoja de estilos en cascada",
+            "term_title_slug": "hoja-de-estilos-en-cascada"
+        },
+        "fr": {
+            "term_title": "Feuilles de style en cascade",
+            "term_title_slug": "feuilles-de-style-en-cascade"
+        }
+    }
+}
