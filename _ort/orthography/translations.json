@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "orthography",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/orthography/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/orthography/orthography/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/orthography/orthography/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/orthography/orthography/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Orthography",
+            "term_title_slug": "orthography"
+        },
+        "es": {
+            "term_title": "Ortograf\u00eda",
+            "term_title_slug": "ortograf\u00eda"
+        },
+        "fr": {
+            "term_title": "Orthographe",
+            "term_title_slug": "orthographe"
+        }
+    }
+}
