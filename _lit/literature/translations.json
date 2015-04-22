@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "literature",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/literature/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/literature/literature/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/literature/literature/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/literature/literature/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Literatura",
+            "term_title_slug": "literatura"
+        },
+        "en": {
+            "term_title": "Literature",
+            "term_title_slug": "literature"
+        },
+        "fr": {
+            "term_title": "Litt\u00e9rature",
+            "term_title_slug": "litterature"
+        }
+    }
+}
