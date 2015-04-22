@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "javascript",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/javascript/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/javascript/javascript/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/javascript/javascript/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/javascript/javascript/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "JavaScript",
+            "term_title_slug": "javascript"
+        },
+        "en": {
+            "term_title": "JavaScript",
+            "term_title_slug": "javascript"
+        },
+        "fr": {
+            "term_title": "JavaScript",
+            "term_title_slug": "javascript"
+        }
+    }
+}
