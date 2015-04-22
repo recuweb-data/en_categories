@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "ecological-crisis",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/ecological-crisis/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/ecological-crisis/ecological-crisis/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/ecological-crisis/ecological-crisis/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/ecological-crisis/ecological-crisis/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Ecological crisis",
+            "term_title_slug": "ecological-crisis"
+        }
+    }
+}
