@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "historiography",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/historiography/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/historiography/historiography/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/historiography/historiography/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/historiography/historiography/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Historiography",
+            "term_title_slug": "historiography"
+        },
+        "es": {
+            "term_title": "Historiograf\u00eda",
+            "term_title_slug": "historiograf\u00eda"
+        },
+        "fr": {
+            "term_title": "Historiographie",
+            "term_title_slug": "historiographie"
+        }
+    }
+}
