@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "eastern-orthodox-church",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/eastern-orthodox-church/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/eastern-orthodox-church/eastern-orthodox-church/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/eastern-orthodox-church/eastern-orthodox-church/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/eastern-orthodox-church/eastern-orthodox-church/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Iglesia ortodoxa",
+            "term_title_slug": "iglesia-ortodoxa"
+        },
+        "en": {
+            "term_title": "Eastern Orthodox Church",
+            "term_title_slug": "eastern-orthodox-church"
+        },
+        "fr": {
+            "term_title": "\u00c9glise orthodoxe",
+            "term_title_slug": "\u00e9glise-orthodoxe"
+        }
+    }
+}
