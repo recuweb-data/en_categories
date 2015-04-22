@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "hygiene",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/hygiene/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/hygiene/hygiene/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/hygiene/hygiene/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/hygiene/hygiene/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Hygiene",
+            "term_title_slug": "hygiene"
+        },
+        "es": {
+            "term_title": "Higiene",
+            "term_title_slug": "higiene"
+        },
+        "fr": {
+            "term_title": "Hygi\u00e8ne",
+            "term_title_slug": "hygi\u00e8ne"
+        }
+    }
+}
