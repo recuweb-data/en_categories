@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "non-renewable-energy",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/non-renewable-energy/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/non-renewable-energy/non-renewable-energy/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/non-renewable-energy/non-renewable-energy/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/non-renewable-energy/non-renewable-energy/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Non renewable energy",
+            "term_title_slug": "non-renewable-energy",
+            "branche": "technology/electric-energy/non-renewable-energy"
+        },
+        "es": {
+            "term_title": "Energ\u00eda no renovable",
+            "term_title_slug": "energ\u00eda-no-renovable",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "\u00e9nergie non renouvelable",
+            "term_title_slug": "\u00e9nergie-non-renouvelable"
+        }
+    }
+}
