@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "abrahamic-religions"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/abrahamic-religions/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/abrahamic-religions/abrahamic-religions/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/abrahamic-religions/abrahamic-religions/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/abrahamic-religions/abrahamic-religions/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Religiones abrah\u00e1micas",
+            "term_title_slug": "religiones-abrah\u00e1micas"
+        },
+        "fr": {
+            "term_title": "Religions abrahamiques",
+            "term_title_slug": "religions-abrahamiques"
+        },
+        "en": {
+            "term_title": "Abrahamic religions",
+            "term_title_slug": "abrahamic-religions"
+        }
+    }
+}
