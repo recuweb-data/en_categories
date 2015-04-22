@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "chemical-classification",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/chemical-classification/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/chemical-classification/chemical-classification/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/chemical-classification/chemical-classification/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/chemical-classification/chemical-classification/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Chemical classification",
+            "term_title_slug": "chemical-classification"
+        }
+    }
+}
