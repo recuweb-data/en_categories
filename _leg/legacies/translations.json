@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "legacies",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/legacies/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/legacies/legacies/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/legacies/legacies/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/legacies/legacies/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Legacies",
+            "term_title_slug": "legacies"
+        },
+        "es": {
+            "term_title": "Legacy (desambiguaci\u00f3n)",
+            "term_title_slug": "legacy"
+        },
+        "fr": {
+            "term_title": "Legacy",
+            "term_title_slug": "legacy"
+        }
+    }
+}
