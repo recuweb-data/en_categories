@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "water-polo",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/water-polo/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/water-polo/water-polo/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/water-polo/water-polo/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/water-polo/water-polo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Waterpolo",
+            "term_title_slug": "waterpolo"
+        },
+        "en": {
+            "term_title": "Water polo",
+            "term_title_slug": "water-polo"
+        },
+        "fr": {
+            "term_title": "Water-polo",
+            "term_title_slug": "water-polo"
+        }
+    }
+}
