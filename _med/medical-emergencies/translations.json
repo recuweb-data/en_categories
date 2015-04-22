@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "medical-emergencies",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/medical-emergencies/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/medical-emergencies/medical-emergencies/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/medical-emergencies/medical-emergencies/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/medical-emergencies/medical-emergencies/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Emergencias m\u00e9dicas",
+            "term_title_slug": "emergencias-m\u00e9dicas"
+        },
+        "fr": {
+            "term_title": "Urgences m\u00e9dicales",
+            "term_title_slug": "urgences-m\u00e9dicales"
+        },
+        "en": {
+            "term_title": "Medical emergencies",
+            "term_title_slug": "medical-emergencies"
+        }
+    }
+}
