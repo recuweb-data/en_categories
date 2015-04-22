@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "biomass",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/biomass/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/biomass/biomass/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/biomass/biomass/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/biomass/biomass/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Biomasa",
+            "term_title_slug": "biomasa"
+        },
+        "en": {
+            "term_title": "Biomass",
+            "term_title_slug": "biomass"
+        },
+        "fr": {
+            "term_title": "Biomasse (\u00e9nergie)",
+            "term_title_slug": "biomasse"
+        }
+    }
+}
