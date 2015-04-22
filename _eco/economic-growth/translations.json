@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "economic-growth",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/economic-growth/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/economic-growth/economic-growth/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/economic-growth/economic-growth/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/economic-growth/economic-growth/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Economic growth",
+            "term_title_slug": "economic-growth"
+        }
+    }
+}
