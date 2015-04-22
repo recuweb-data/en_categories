@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "ageing",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/ageing/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/ageing/ageing/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/ageing/ageing/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/ageing/ageing/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Ageing",
+            "term_title_slug": "ageing"
+        },
+        "es": {
+            "term_title": "Senescencia",
+            "term_title_slug": "senescencia"
+        },
+        "fr": {
+            "term_title": "Vieillissement",
+            "term_title_slug": "vieillissement"
+        }
+    }
+}
