@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "web-formats",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/web-formats/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/web-formats/web-formats/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/web-formats/web-formats/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/web-formats/web-formats/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Web formats",
+            "term_title_slug": "web-formats"
+        },
+        "es": {
+            "term_title": "Formatos web",
+            "term_title_slug": "formatos-web"
+        },
+        "fr": {
+            "term_title": "Formats web",
+            "term_title_slug": "formats-web"
+        }
+    }
+}
