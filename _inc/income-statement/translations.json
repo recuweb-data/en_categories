@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "income-statement",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/income-statement/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/income-statement/income-statement/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/income-statement/income-statement/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/income-statement/income-statement/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Income statement",
+            "term_title_slug": "income-statement"
+        }
+    }
+}
