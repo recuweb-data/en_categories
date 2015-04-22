@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "ecology-orientated-meetings",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/ecology-orientated-meetings/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/ecology-orientated-meetings/ecology-orientated-meetings/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/ecology-orientated-meetings/ecology-orientated-meetings/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/ecology-orientated-meetings/ecology-orientated-meetings/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Ecology orientated meetings",
+            "term_title_slug": "ecology-orientated-meetings"
+        },
+        "es": {
+            "term_title": "Eventos ecologistas",
+            "term_title_slug": "eventos-ecologistas"
+        },
+        "fr": {
+            "term_title": "Manifestations \u00e9cologiques",
+            "term_title_slug": "manifestations-\u00e9cologiques"
+        }
+    }
+}
