@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "social-issues",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/social-issues/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/social-issues/social-issues/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/social-issues/social-issues/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/social-issues/social-issues/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Social issues",
+            "term_title_slug": "social-issues"
+        }
+    }
+}
