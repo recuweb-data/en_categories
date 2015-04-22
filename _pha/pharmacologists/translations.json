@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "pharmacologists",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/pharmacologists/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/pharmacologists/pharmacologists/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/pharmacologists/pharmacologists/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/pharmacologists/pharmacologists/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Pharmacologists",
+            "term_title_slug": "pharmacologists"
+        }
+    }
+}
