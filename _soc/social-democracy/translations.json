@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "social-democracy",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/social-democracy/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/social-democracy/social-democracy/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/social-democracy/social-democracy/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/social-democracy/social-democracy/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Socialdemocracia",
+            "term_title_slug": "socialdemocracia"
+        },
+        "en": {
+            "term_title": "Social democracy",
+            "term_title_slug": "social-democracy"
+        },
+        "fr": {
+            "term_title": "Social-d\u00e9mocratie",
+            "term_title_slug": "social-d\u00e9mocratie"
+        }
+    }
+}
