@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "astronomy",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/astronomy/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/astronomy/astronomy/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/astronomy/astronomy/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/astronomy/astronomy/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Astronomy",
+            "term_title_slug": "astronomy"
+        },
+        "es": {
+            "term_title": "Astronom\u00eda",
+            "term_title_slug": "astronom\u00eda"
+        },
+        "fr": {
+            "term_title": "Astronomie",
+            "term_title_slug": "astronomie"
+        }
+    }
+}
