@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "birdwatching",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/birdwatching/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/birdwatching/birdwatching/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/birdwatching/birdwatching/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/birdwatching/birdwatching/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Birdwatching",
+            "term_title_slug": "birdwatching"
+        },
+        "es": {
+            "term_title": "Observaci\u00f3n de aves",
+            "term_title_slug": "observaci\u00f3n-de-aves"
+        },
+        "fr": {
+            "term_title": "Observation ornithologique",
+            "term_title_slug": "observation-ornithologique"
+        }
+    }
+}
