@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "semantic-search",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/semantic-search/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/semantic-search/semantic-search/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/semantic-search/semantic-search/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/semantic-search/semantic-search/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Semantic search",
+            "term_title_slug": "semantic-search"
+        }
+    }
+}
