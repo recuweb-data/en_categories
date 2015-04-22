@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "bodyboarding",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/bodyboarding/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/bodyboarding/bodyboarding/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/bodyboarding/bodyboarding/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/bodyboarding/bodyboarding/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Bodyboarding",
+            "term_title_slug": "bodyboarding"
+        },
+        "en": {
+            "term_title": "Bodyboarding",
+            "term_title_slug": "bodyboarding"
+        },
+        "fr": {
+            "term_title": "Bodyboard",
+            "term_title_slug": "bodyboard"
+        }
+    }
+}
