@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "boxing",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/boxing/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/boxing/boxing/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/boxing/boxing/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/boxing/boxing/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Boxeo",
+            "term_title_slug": "boxeo"
+        },
+        "en": {
+            "term_title": "Boxing",
+            "term_title_slug": "boxing"
+        },
+        "fr": {
+            "term_title": "Boxe anglaise",
+            "term_title_slug": "boxe-anglaise"
+        }
+    }
+}
