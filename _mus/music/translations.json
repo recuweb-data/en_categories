@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "music",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/music/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/music/music/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/music/music/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/music/music/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Music",
+            "term_title_slug": "music"
+        },
+        "es": {
+            "term_title": "M\u00fasica",
+            "term_title_slug": "m\u00fasica"
+        },
+        "fr": {
+            "term_title": "Musique",
+            "term_title_slug": "musique"
+        }
+    }
+}
