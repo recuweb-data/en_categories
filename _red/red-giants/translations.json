@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "red-giants",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/red-giants/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/red-giants/red-giants/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/red-giants/red-giants/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/red-giants/red-giants/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Red giants",
+            "term_title_slug": "red-giants"
+        }
+    }
+}
