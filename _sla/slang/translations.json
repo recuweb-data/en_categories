@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "slang",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/slang/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/slang/slang/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/slang/slang/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/slang/slang/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Slang",
+            "term_title_slug": "slang"
+        },
+        "es": {
+            "term_title": "Slang",
+            "term_title_slug": "slang"
+        },
+        "fr": {
+            "term_title": "Argot",
+            "term_title_slug": "argot"
+        }
+    }
+}
