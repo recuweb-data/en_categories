@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "fruit-juice",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/fruit-juice/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/fruit-juice/fruit-juice/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/fruit-juice/fruit-juice/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/fruit-juice/fruit-juice/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Fruit juice",
+            "term_title_slug": "fruit-juice"
+        }
+    }
+}
