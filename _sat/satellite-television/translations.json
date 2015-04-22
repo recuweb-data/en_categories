@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "satellite-television",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/satellite-television/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/satellite-television/satellite-television/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/satellite-television/satellite-television/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/satellite-television/satellite-television/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Satellite television",
+            "term_title_slug": "satellite-television"
+        }
+    }
+}
