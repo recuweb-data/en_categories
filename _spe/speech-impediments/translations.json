@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "speech-impediments",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/speech-impediments/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/speech-impediments/speech-impediments/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/speech-impediments/speech-impediments/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/speech-impediments/speech-impediments/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Speech impediments",
+            "term_title_slug": "speech-impediments"
+        }
+    }
+}
