@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "simple-living",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/simple-living/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/simple-living/simple-living/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/simple-living/simple-living/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/simple-living/simple-living/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Vida sencilla",
+            "term_title_slug": "vida-sencilla"
+        },
+        "en": {
+            "term_title": "Simple living",
+            "term_title_slug": "simple-living"
+        },
+        "fr": {
+            "term_title": "Simplicit\u00e9 volontaire",
+            "term_title_slug": "simplicit\u00e9-volontaire"
+        }
+    }
+}
