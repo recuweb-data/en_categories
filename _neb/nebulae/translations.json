@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "nebulae",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/nebulae/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/nebulae/nebulae/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/nebulae/nebulae/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/nebulae/nebulae/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Nebulae",
+            "term_title_slug": "nebulae"
+        },
+        "es": {
+            "term_title": "Nebulosa",
+            "term_title_slug": "nebulosa"
+        },
+        "fr": {
+            "term_title": "N\u00e9buleuse",
+            "term_title_slug": "n\u00e9buleuse"
+        }
+    }
+}
