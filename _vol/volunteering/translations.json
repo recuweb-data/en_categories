@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "volunteering",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/volunteering/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/volunteering/volunteering/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/volunteering/volunteering/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/volunteering/volunteering/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Voluntariado",
+            "term_title_slug": "voluntariado"
+        },
+        "en": {
+            "term_title": "Volunteering",
+            "term_title_slug": "volunteering"
+        },
+        "fr": {
+            "term_title": "B\u00e9n\u00e9volat",
+            "term_title_slug": "b\u00e9n\u00e9volat"
+        }
+    }
+}
