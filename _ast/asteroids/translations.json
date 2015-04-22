@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "asteroids",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/asteroids/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/asteroids/asteroids/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/asteroids/asteroids/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/asteroids/asteroids/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Asteroids",
+            "term_title_slug": "asteroids"
+        },
+        "es": {
+            "term_title": "Asteroide",
+            "term_title_slug": "asteroide"
+        },
+        "fr": {
+            "term_title": "Ast\u00e9ro\u00efde",
+            "term_title_slug": "ast\u00e9ro\u00efde"
+        }
+    }
+}
