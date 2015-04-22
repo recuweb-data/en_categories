@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "sustainability",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/sustainability/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/sustainability/sustainability/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/sustainability/sustainability/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/sustainability/sustainability/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Sustainability",
+            "term_title_slug": "sustainability"
+        },
+        "es": {
+            "term_title": "Sostenibilidad",
+            "term_title_slug": "sostenibilidad"
+        },
+        "fr": {
+            "term_title": "Durabilit\u00e9",
+            "term_title_slug": "durabilit\u00e9"
+        }
+    }
+}
