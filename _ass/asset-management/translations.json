@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "asset-management",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/asset-management/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/asset-management/asset-management/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/asset-management/asset-management/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/asset-management/asset-management/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Asset management",
+            "term_title_slug": "asset-management"
+        }
+    }
+}
