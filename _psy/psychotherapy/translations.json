@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "psychotherapy",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/psychotherapy/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/psychotherapy/psychotherapy/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/psychotherapy/psychotherapy/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/psychotherapy/psychotherapy/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Psychotherapy",
+            "term_title_slug": "psychotherapy"
+        },
+        "es": {
+            "term_title": "Psicoterapia",
+            "term_title_slug": "psicoterapia"
+        },
+        "fr": {
+            "term_title": "Psychoth\u00e9rapie",
+            "term_title_slug": "psychoth\u00e9rapie"
+        }
+    }
+}
