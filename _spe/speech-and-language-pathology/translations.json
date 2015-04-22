@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "speech-and-language-pathology",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/speech-and-language-pathology/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/speech-and-language-pathology/speech-and-language-pathology/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/speech-and-language-pathology/speech-and-language-pathology/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/speech-and-language-pathology/speech-and-language-pathology/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Speech and language pathology",
+            "term_title_slug": "speech-and-language-pathology"
+        }
+    }
+}
