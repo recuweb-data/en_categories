@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "property",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/property/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/property/property/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/property/property/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/property/property/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Property",
+            "term_title_slug": "property"
+        },
+        "es": {
+            "term_title": "Propiedad",
+            "term_title_slug": "propiedad"
+        },
+        "fr": {
+            "term_title": "Propri\u00e9t\u00e9",
+            "term_title_slug": "propri\u00e9t\u00e9"
+        }
+    }
+}
