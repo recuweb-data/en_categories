@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "financial-risk",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/financial-risk/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/financial-risk/financial-risk/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/financial-risk/financial-risk/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/financial-risk/financial-risk/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Financial risk",
+            "term_title_slug": "financial-risk"
+        }
+    }
+}
