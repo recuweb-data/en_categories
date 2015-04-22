@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "freestyle-motocross",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/freestyle-motocross/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/freestyle-motocross/freestyle-motocross/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/freestyle-motocross/freestyle-motocross/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/freestyle-motocross/freestyle-motocross/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Motociclismo estilo libre",
+            "term_title_slug": "motociclismo-estilo-libre"
+        },
+        "en": {
+            "term_title": "Freestyle Motocross",
+            "term_title_slug": "freestyle-motocross"
+        },
+        "fr": {
+            "term_title": "Freestyle motocross",
+            "term_title_slug": "freestyle-motocross"
+        }
+    }
+}
