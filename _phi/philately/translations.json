@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "philately",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/philately/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/philately/philately/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/philately/philately/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/philately/philately/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Filatelia",
+            "term_title_slug": "filatelia"
+        },
+        "en": {
+            "term_title": "Philately",
+            "term_title_slug": "philately"
+        },
+        "fr": {
+            "term_title": "Philat\u00e9lie",
+            "term_title_slug": "philat\u00e9lie"
+        }
+    }
+}
