@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "personality",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/personality/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/personality/personality/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/personality/personality/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/personality/personality/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Personality",
+            "term_title_slug": "personality"
+        },
+        "es": {
+            "term_title": "Personalidad",
+            "term_title_slug": "personalidad"
+        },
+        "fr": {
+            "term_title": "Personnalit\u00e9",
+            "term_title_slug": "personnalit\u00e9"
+        }
+    }
+}
