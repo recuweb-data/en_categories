@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "visual-perception",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/visual-perception/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/visual-perception/visual-perception/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/visual-perception/visual-perception/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/visual-perception/visual-perception/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Visual perception",
+            "term_title_slug": "visual-perception"
+        }
+    }
+}
