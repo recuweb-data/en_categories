@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "karaoke",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/karaoke/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/karaoke/karaoke/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/karaoke/karaoke/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/karaoke/karaoke/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Karaoke",
+            "term_title_slug": "karaoke"
+        },
+        "en": {
+            "term_title": "Karaoke",
+            "term_title_slug": "karaoke"
+        },
+        "fr": {
+            "term_title": "Karaok\u00e9",
+            "term_title_slug": "karaok\u00e9"
+        }
+    }
+}
