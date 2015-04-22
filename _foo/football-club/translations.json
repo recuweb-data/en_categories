@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "football-club",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/football-club/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/football-club/football-club/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/football-club/football-club/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/football-club/football-club/blogs.json"
+    },
+    "translations": {
+        "fr": {
+            "term_title": "Club de football",
+            "term_title_slug": "club-de-football"
+        },
+        "es": {
+            "term_title": "Club de f\u00fatbol",
+            "term_title_slug": "club-de-f\u00fatbol"
+        },
+        "en": {
+            "term_title": "Football club",
+            "term_title_slug": "football-club"
+        }
+    }
+}
