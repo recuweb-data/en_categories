@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "torero",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/torero/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/torero/torero/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/torero/torero/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/torero/torero/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Torero",
+            "term_title_slug": "torero"
+        },
+        "en": {
+            "term_title": "Torero",
+            "term_title_slug": "torero"
+        },
+        "fr": {
+            "term_title": "Torero",
+            "term_title_slug": "torero"
+        }
+    }
+}
