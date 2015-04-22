@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "motorsport",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/motorsport/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/motorsport/motorsport/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/motorsport/motorsport/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/motorsport/motorsport/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Deportes de motor",
+            "term_title_slug": "deportes-de-motor"
+        },
+        "en": {
+            "term_title": "Motorsport",
+            "term_title_slug": "motorsport"
+        },
+        "fr": {
+            "term_title": "Sport m\u00e9canique",
+            "term_title_slug": "sport-m\u00e9canique"
+        }
+    }
+}
