@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "butterfly-watching",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/butterfly-watching/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/butterfly-watching/butterfly-watching/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/butterfly-watching/butterfly-watching/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/butterfly-watching/butterfly-watching/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Butterfly watching",
+            "term_title_slug": "butterfly-watching"
+        }
+    }
+}
