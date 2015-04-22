@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "emotion",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/emotion/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/emotion/emotion/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/emotion/emotion/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/emotion/emotion/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Emotion",
+            "term_title_slug": "emotion"
+        },
+        "es": {
+            "term_title": "Emoci\u00f3n",
+            "term_title_slug": "emoci\u00f3n"
+        },
+        "fr": {
+            "term_title": "\u00c9motion",
+            "term_title_slug": "\u00e9motion"
+        }
+    }
+}
