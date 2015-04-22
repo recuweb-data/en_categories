@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "wiki",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/wiki/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/wiki/wiki/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/wiki/wiki/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/wiki/wiki/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Wiki",
+            "term_title_slug": "wiki"
+        },
+        "en": {
+            "term_title": "Wiki",
+            "term_title_slug": "wiki"
+        },
+        "fr": {
+            "term_title": "Wiki",
+            "term_title_slug": "wiki"
+        }
+    }
+}
