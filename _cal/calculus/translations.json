@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "calculus",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/calculus/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/calculus/calculus/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/calculus/calculus/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/calculus/calculus/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Calculus",
+            "term_title_slug": "calculus",
+            "branche": "science/mathematics/calculus"
+        },
+        "es": {
+            "term_title": "C\u00e1lculo",
+            "term_title_slug": "c\u00e1lculo",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Calcul infinit\u00e9simal",
+            "term_title_slug": "calcul-infinit\u00e9simal"
+        }
+    }
+}
