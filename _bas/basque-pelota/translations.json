@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "basque-pelota",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/basque-pelota/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/basque-pelota/basque-pelota/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/basque-pelota/basque-pelota/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/basque-pelota/basque-pelota/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Pelota vasca",
+            "term_title_slug": "pelota-vasca"
+        },
+        "en": {
+            "term_title": "Basque pelota",
+            "term_title_slug": "basque-pelota"
+        },
+        "fr": {
+            "term_title": "Pelote basque",
+            "term_title_slug": "pelote-basque"
+        }
+    }
+}
