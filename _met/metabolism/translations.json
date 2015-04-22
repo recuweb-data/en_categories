@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "metabolism",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/metabolism/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/metabolism/metabolism/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/metabolism/metabolism/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/metabolism/metabolism/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Metabolism",
+            "term_title_slug": "metabolism"
+        },
+        "es": {
+            "term_title": "Metabolismo",
+            "term_title_slug": "metabolismo"
+        },
+        "fr": {
+            "term_title": "M\u00e9tabolisme",
+            "term_title_slug": "m\u00e9tabolisme"
+        }
+    }
+}
