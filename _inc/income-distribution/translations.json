@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "income-distribution",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/income-distribution/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/income-distribution/income-distribution/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/income-distribution/income-distribution/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/income-distribution/income-distribution/blogs.json"
+    },
+    "translations": {
+        "fr": {
+            "term_title": "Redistribution des revenus",
+            "term_title_slug": "redistribution-des-revenus"
+        },
+        "es": {
+            "term_title": "Igualdad de ingresos",
+            "term_title_slug": "igualdad-de-ingresos"
+        },
+        "en": {
+            "term_title": "Income distribution",
+            "term_title_slug": "income-distribution"
+        }
+    }
+}
