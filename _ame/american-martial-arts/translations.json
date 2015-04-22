@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "american-martial-arts",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/american-martial-arts/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/american-martial-arts/american-martial-arts/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/american-martial-arts/american-martial-arts/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/american-martial-arts/american-martial-arts/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "American martial arts",
+            "term_title_slug": "american-martial-arts"
+        },
+        "es": {
+            "term_title": "Artes marciales americanos",
+            "term_title_slug": "artes-marciales-americanos"
+        },
+        "fr": {
+            "term_title": "Arts martiaux am\u00e9ricains",
+            "term_title_slug": "arts-martiaux-am\u00e9ricains"
+        }
+    }
+}
