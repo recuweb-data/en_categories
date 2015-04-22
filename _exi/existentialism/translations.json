@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "existentialism",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/existentialism/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/existentialism/existentialism/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/existentialism/existentialism/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/existentialism/existentialism/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Existentialism",
+            "term_title_slug": "existentialism"
+        },
+        "es": {
+            "term_title": "Existencialismo",
+            "term_title_slug": "existencialismo"
+        },
+        "fr": {
+            "term_title": "Existentialisme",
+            "term_title_slug": "existentialisme"
+        }
+    }
+}
