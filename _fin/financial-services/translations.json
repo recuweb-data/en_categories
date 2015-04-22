@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "financial-services",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/financial-services/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/financial-services/financial-services/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/financial-services/financial-services/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/financial-services/financial-services/blogs.json"
+    },
+    "translations": {
+        "fr": {
+            "term_title": "Services financiers",
+            "term_title_slug": "services-financiers"
+        },
+        "es": {
+            "term_title": "Servicios financieros",
+            "term_title_slug": "servicios-financieros"
+        },
+        "en": {
+            "term_title": "Financial services",
+            "term_title_slug": "financial-services"
+        }
+    }
+}
