@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "satellites",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/satellites/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/satellites/satellites/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/satellites/satellites/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/satellites/satellites/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Satellites",
+            "term_title_slug": "satellites"
+        },
+        "es": {
+            "term_title": "Sat\u00e9lite artificial",
+            "term_title_slug": "sat\u00e9lite-artificial"
+        },
+        "fr": {
+            "term_title": "Satellite artificiel",
+            "term_title_slug": "satellite-artificiel"
+        }
+    }
+}
