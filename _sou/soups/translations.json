@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "soups",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/soups/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/soups/soups/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/soups/soups/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/soups/soups/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Soups",
+            "term_title_slug": "soups"
+        },
+        "es": {
+            "term_title": "Sopa",
+            "term_title_slug": "sopa"
+        },
+        "fr": {
+            "term_title": "Soupe",
+            "term_title_slug": "soupe"
+        }
+    }
+}
