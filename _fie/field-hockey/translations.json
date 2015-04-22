@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "field-hockey",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/field-hockey/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/field-hockey/field-hockey/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/field-hockey/field-hockey/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/field-hockey/field-hockey/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Field hockey",
+            "term_title_slug": "field-hockey"
+        },
+        "es": {
+            "term_title": "Hockey sobre c\u00e9sped",
+            "term_title_slug": "hockey-sobre-c\u00e9sped"
+        },
+        "fr": {
+            "term_title": "Hockey sur gazon",
+            "term_title_slug": "hockey-sur-gazon"
+        }
+    }
+}
