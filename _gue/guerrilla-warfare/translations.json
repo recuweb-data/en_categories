@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "guerrilla-warfare",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/guerrilla-warfare/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/guerrilla-warfare/guerrilla-warfare/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/guerrilla-warfare/guerrilla-warfare/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/guerrilla-warfare/guerrilla-warfare/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Guerra de guerrillas",
+            "term_title_slug": "guerra-de-guerrillas"
+        },
+        "en": {
+            "term_title": "Guerrilla warfare",
+            "term_title_slug": "guerrilla-warfare"
+        },
+        "fr": {
+            "term_title": "Gu\u00e9rilla",
+            "term_title_slug": "gu\u00e9rilla"
+        }
+    }
+}
