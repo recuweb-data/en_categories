@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "volleyball",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/volleyball/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/volleyball/volleyball/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/volleyball/volleyball/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/volleyball/volleyball/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Voleibol",
+            "term_title_slug": "voleibol"
+        },
+        "en": {
+            "term_title": "Volleyball",
+            "term_title_slug": "volleyball"
+        },
+        "fr": {
+            "term_title": "Volley-ball",
+            "term_title_slug": "volley-ball"
+        }
+    }
+}
