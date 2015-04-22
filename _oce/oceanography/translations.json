@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "oceanography",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/oceanography/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/oceanography/oceanography/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/oceanography/oceanography/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/oceanography/oceanography/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Oceanography",
+            "term_title_slug": "oceanography"
+        },
+        "es": {
+            "term_title": "Oceanograf\u00eda",
+            "term_title_slug": "oceanograf\u00eda"
+        },
+        "fr": {
+            "term_title": "Oc\u00e9anographie",
+            "term_title_slug": "oc\u00e9anographie"
+        }
+    }
+}
