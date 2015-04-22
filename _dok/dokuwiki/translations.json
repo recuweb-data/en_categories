@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "dokuwiki",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/dokuwiki/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "DokuWiki",
+            "term_title_slug": "dokuwiki"
+        },
+        "en": {
+            "term_title": "DokuWiki",
+            "term_title_slug": "dokuwiki"
+        },
+        "fr": {
+            "term_title": "DokuWiki",
+            "term_title_slug": "dokuwiki"
+        }
+    }
+}
