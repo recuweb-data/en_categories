@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "humanities",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/humanities/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/humanities/humanities/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/humanities/humanities/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/humanities/humanities/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Humanities",
+            "term_title_slug": "humanities"
+        },
+        "es": {
+            "term_title": "Humanidades",
+            "term_title_slug": "humanidades"
+        },
+        "fr": {
+            "term_title": "Lettres (culture)",
+            "term_title_slug": "lettres"
+        }
+    }
+}
