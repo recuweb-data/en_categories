@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "search-engine",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/search-engine/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/search-engine/search-engine/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/search-engine/search-engine/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/search-engine/search-engine/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Search engine",
+            "term_title_slug": "search-engine"
+        },
+        "es": {
+            "term_title": "Buscador web",
+            "term_title_slug": "buscador-web"
+        },
+        "fr": {
+            "term_title": "Moteur de recherche",
+            "term_title_slug": "moteur-de-recherche"
+        }
+    }
+}
