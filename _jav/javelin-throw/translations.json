@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "javelin-throw",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/javelin-throw/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/javelin-throw/javelin-throw/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/javelin-throw/javelin-throw/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/javelin-throw/javelin-throw/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Lanzamiento de jabalina",
+            "term_title_slug": "lanzamiento-de-jabalina"
+        },
+        "en": {
+            "term_title": "Javelin throw",
+            "term_title_slug": "javelin-throw"
+        },
+        "fr": {
+            "term_title": "Lancer du javelot",
+            "term_title_slug": "lancer-du-javelot"
+        }
+    }
+}
