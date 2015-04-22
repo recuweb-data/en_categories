@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "capital-management",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/capital-management/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/capital-management/capital-management/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/capital-management/capital-management/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/capital-management/capital-management/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Capital management",
+            "term_title_slug": "capital-management"
+        }
+    }
+}
