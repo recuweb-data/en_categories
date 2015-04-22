@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "think-tank",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/think-tank/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/think-tank/think-tank/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/think-tank/think-tank/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/think-tank/think-tank/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Think tank",
+            "term_title_slug": "think-tank"
+        },
+        "es": {
+            "term_title": "Think tank",
+            "term_title_slug": "think-tank"
+        },
+        "fr": {
+            "term_title": "Think tank",
+            "term_title_slug": "think-tank"
+        }
+    }
+}
