@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "homebrewing",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/homebrewing/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/homebrewing/homebrewing/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/homebrewing/homebrewing/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/homebrewing/homebrewing/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Homebrewing",
+            "term_title_slug": "homebrewing"
+        },
+        "es": {
+            "term_title": "Elaboraci\u00f3n casera de bebidas alcoh\u00f3licas",
+            "term_title_slug": "elaboraci\u00f3n-casera-de-bebidas-alcoh\u00f3licas"
+        },
+        "fr": {
+            "term_title": "Brassage amateur",
+            "term_title_slug": "brassage-amateur"
+        }
+    }
+}
