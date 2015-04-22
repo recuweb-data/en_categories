@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "pleasure",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/pleasure/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/pleasure/pleasure/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/pleasure/pleasure/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/pleasure/pleasure/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Pleasure",
+            "term_title_slug": "pleasure"
+        },
+        "es": {
+            "term_title": "Placer",
+            "term_title_slug": "placer"
+        },
+        "fr": {
+            "term_title": "Plaisir",
+            "term_title_slug": "plaisir"
+        }
+    }
+}
