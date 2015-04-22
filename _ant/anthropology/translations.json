@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "anthropology",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/anthropology/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/anthropology/anthropology/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/anthropology/anthropology/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/anthropology/anthropology/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Anthropology",
+            "term_title_slug": "anthropology"
+        },
+        "es": {
+            "term_title": "Antropolog\u00eda",
+            "term_title_slug": "antropolog\u00eda"
+        },
+        "fr": {
+            "term_title": "Anthropologie",
+            "term_title_slug": "anthropologie"
+        }
+    }
+}
