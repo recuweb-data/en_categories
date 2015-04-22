@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "search-engine-optimization",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/search-engine-optimization/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/search-engine-optimization/search-engine-optimization/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/search-engine-optimization/search-engine-optimization/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/search-engine-optimization/search-engine-optimization/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Posicionamiento en buscadores",
+            "term_title_slug": "posicionamiento-en-buscadores"
+        },
+        "en": {
+            "term_title": "Search engine optimization",
+            "term_title_slug": "search-engine-optimization"
+        },
+        "fr": {
+            "term_title": "Optimisation pour les moteurs de recherche",
+            "term_title_slug": "optimisation-pour-les-moteurs-de-recherche"
+        }
+    }
+}
