@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "feminist-art",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/feminist-art/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/feminist-art/feminist-art/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/feminist-art/feminist-art/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/feminist-art/feminist-art/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Feminist art",
+            "term_title_slug": "feminist-art"
+        }
+    }
+}
