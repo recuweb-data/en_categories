@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "atmosphere",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/atmosphere/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/atmosphere/atmosphere/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/atmosphere/atmosphere/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/atmosphere/atmosphere/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Atmosphere",
+            "term_title_slug": "atmosphere"
+        },
+        "es": {
+            "term_title": "Atm\u00f3sfera",
+            "term_title_slug": "atm\u00f3sfera"
+        },
+        "fr": {
+            "term_title": "Atmosph\u00e8re (astronomie)",
+            "term_title_slug": "atmosph\u00e8re"
+        }
+    }
+}
