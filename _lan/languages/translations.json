@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "languages",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/languages/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/languages/languages/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/languages/languages/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/languages/languages/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Languages",
+            "term_title_slug": "languages"
+        },
+        "es": {
+            "term_title": "Lenguaje",
+            "term_title_slug": "lenguaje"
+        },
+        "fr": {
+            "term_title": "Langage",
+            "term_title_slug": "langage"
+        }
+    }
+}
