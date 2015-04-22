@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "lenticular-galaxies",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/lenticular-galaxies/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/lenticular-galaxies/lenticular-galaxies/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/lenticular-galaxies/lenticular-galaxies/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/lenticular-galaxies/lenticular-galaxies/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Lenticular galaxies",
+            "term_title_slug": "lenticular-galaxies"
+        }
+    }
+}
