@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "toxicology",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/toxicology/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/toxicology/toxicology/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/toxicology/toxicology/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/toxicology/toxicology/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Toxicology",
+            "term_title_slug": "toxicology"
+        },
+        "es": {
+            "term_title": "Toxicolog\u00eda",
+            "term_title_slug": "toxicolog\u00eda"
+        },
+        "fr": {
+            "term_title": "Toxicologie",
+            "term_title_slug": "toxicologie"
+        }
+    }
+}
