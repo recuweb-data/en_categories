@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "social-change",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/social-change/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/social-change/social-change/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/social-change/social-change/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/social-change/social-change/blogs.json"
+    },
+    "translations": {
+        "fr": {
+            "term_title": "Changement social",
+            "term_title_slug": "changement-social"
+        },
+        "es": {
+            "term_title": "Cambio social",
+            "term_title_slug": "cambio-social"
+        },
+        "en": {
+            "term_title": "Social change",
+            "term_title_slug": "social-change"
+        }
+    }
+}
