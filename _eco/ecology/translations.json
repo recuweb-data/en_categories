@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "ecology",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/ecology/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/ecology/ecology/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/ecology/ecology/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/ecology/ecology/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Ecology",
+            "term_title_slug": "ecology"
+        },
+        "es": {
+            "term_title": "Ecolog\u00eda",
+            "term_title_slug": "ecolog\u00eda"
+        },
+        "fr": {
+            "term_title": "\u00c9cologie",
+            "term_title_slug": "\u00e9cologie"
+        }
+    }
+}
