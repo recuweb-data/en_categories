@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "ninjutsu",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/ninjutsu/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/ninjutsu/ninjutsu/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/ninjutsu/ninjutsu/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/ninjutsu/ninjutsu/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Ninjutsu",
+            "term_title_slug": "ninjutsu"
+        },
+        "en": {
+            "term_title": "Ninjutsu",
+            "term_title_slug": "ninjutsu"
+        },
+        "fr": {
+            "term_title": "Ninjutsu",
+            "term_title_slug": "ninjutsu"
+        }
+    }
+}
