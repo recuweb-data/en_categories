@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "pasta",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/pasta/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/pasta/pasta/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/pasta/pasta/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/pasta/pasta/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Pasta",
+            "term_title_slug": "pasta"
+        },
+        "es": {
+            "term_title": "Pasta",
+            "term_title_slug": "pasta"
+        },
+        "fr": {
+            "term_title": "P\u00e2tes alimentaires",
+            "term_title_slug": "p\u00e2tes-alimentaires"
+        }
+    }
+}
