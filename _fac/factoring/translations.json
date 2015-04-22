@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "factoring",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/factoring/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/factoring/factoring/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/factoring/factoring/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/factoring/factoring/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Factoring",
+            "term_title_slug": "factoring"
+        }
+    }
+}
