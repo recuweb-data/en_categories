@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "computer-hardware-companies",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/computer-hardware-companies/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/computer-hardware-companies/computer-hardware-companies/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/computer-hardware-companies/computer-hardware-companies/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/computer-hardware-companies/computer-hardware-companies/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Computer hardware companies",
+            "term_title_slug": "computer-hardware-companies"
+        },
+        "es": {
+            "term_title": "Empresas de hardware",
+            "term_title_slug": "empresas-de-hardware"
+        },
+        "fr": {
+            "term_title": "Constructeur informatique",
+            "term_title_slug": "constructeur-informatique"
+        }
+    }
+}
