@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "civil-supplies",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/civil-supplies/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/civil-supplies/civil-supplies/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/civil-supplies/civil-supplies/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/civil-supplies/civil-supplies/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Civil supplies",
+            "term_title_slug": "civil-supplies"
+        }
+    }
+}
