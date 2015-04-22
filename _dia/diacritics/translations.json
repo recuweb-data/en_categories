@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "diacritics",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/diacritics/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/diacritics/diacritics/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/diacritics/diacritics/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/diacritics/diacritics/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Diacritics",
+            "term_title_slug": "diacritics"
+        },
+        "es": {
+            "term_title": "Signo diacr\u00edtico",
+            "term_title_slug": "signo-diacr\u00edtico"
+        },
+        "fr": {
+            "term_title": "Diacritique",
+            "term_title_slug": "diacritique"
+        }
+    }
+}
