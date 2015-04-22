@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "disciplines",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/disciplines/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/disciplines/disciplines/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/disciplines/disciplines/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/disciplines/disciplines/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Disciplines",
+            "term_title_slug": "disciplines"
+        },
+        "es": {
+            "term_title": "Discipline",
+            "term_title_slug": "discipline"
+        },
+        "fr": {
+            "term_title": "Discipline",
+            "term_title_slug": "discipline"
+        }
+    }
+}
