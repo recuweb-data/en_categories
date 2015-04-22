@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "banking",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/banking/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/banking/banking/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/banking/banking/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/banking/banking/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Banking",
+            "term_title_slug": "banking"
+        },
+        "es": {
+            "term_title": "Banco",
+            "term_title_slug": "banco"
+        },
+        "fr": {
+            "term_title": "Banque",
+            "term_title_slug": "banque"
+        }
+    }
+}
