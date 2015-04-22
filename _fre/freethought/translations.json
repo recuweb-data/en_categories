@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "freethought",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/freethought/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/freethought/freethought/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/freethought/freethought/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/freethought/freethought/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Librepensador",
+            "term_title_slug": "librepensador"
+        },
+        "en": {
+            "term_title": "Freethought",
+            "term_title_slug": "freethought"
+        },
+        "fr": {
+            "term_title": "Libre-pens\u00e9e",
+            "term_title_slug": "libre-pens\u00e9e"
+        }
+    }
+}
