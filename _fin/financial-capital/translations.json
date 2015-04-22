@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "financial-capital",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/financial-capital/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/financial-capital/financial-capital/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/financial-capital/financial-capital/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/financial-capital/financial-capital/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Capital financiero",
+            "term_title_slug": "capital-financiero"
+        },
+        "fr": {
+            "term_title": "Capital financier",
+            "term_title_slug": "capital-financier"
+        },
+        "en": {
+            "term_title": "Financial capital",
+            "term_title_slug": "financial-capital"
+        }
+    }
+}
