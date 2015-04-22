@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "motorcycle-speedway",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/motorcycle-speedway/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/motorcycle-speedway/motorcycle-speedway/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/motorcycle-speedway/motorcycle-speedway/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/motorcycle-speedway/motorcycle-speedway/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Speedway",
+            "term_title_slug": "speedway"
+        },
+        "en": {
+            "term_title": "Motorcycle speedway",
+            "term_title_slug": "motorcycle-speedway"
+        },
+        "fr": {
+            "term_title": "Speedway (moto)",
+            "term_title_slug": "speedway"
+        }
+    }
+}
