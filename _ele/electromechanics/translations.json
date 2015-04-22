@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "electromechanics",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/electromechanics/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/electromechanics/electromechanics/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/electromechanics/electromechanics/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/electromechanics/electromechanics/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Electromechanics",
+            "term_title_slug": "electromechanics"
+        },
+        "es": {
+            "term_title": "Electromec\u00e1nica",
+            "term_title_slug": "electromec\u00e1nica"
+        },
+        "fr": {
+            "term_title": "\u00c9lectrom\u00e9canique",
+            "term_title_slug": "\u00e9lectrom\u00e9canique"
+        }
+    }
+}
