@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "geology",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/geology/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/geology/geology/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/geology/geology/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/geology/geology/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Geology",
+            "term_title_slug": "geology"
+        },
+        "es": {
+            "term_title": "Geolog\u00eda",
+            "term_title_slug": "geolog\u00eda"
+        },
+        "fr": {
+            "term_title": "G\u00e9ologie",
+            "term_title_slug": "g\u00e9ologie"
+        }
+    }
+}
