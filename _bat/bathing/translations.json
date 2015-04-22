@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "bathing",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/bathing/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/bathing/bathing/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/bathing/bathing/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/bathing/bathing/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Ba\u00f1os",
+            "term_title_slug": "ba\u00f1os"
+        },
+        "en": {
+            "term_title": "Bathing",
+            "term_title_slug": "bathing"
+        },
+        "fr": {
+            "term_title": "Baignade",
+            "term_title_slug": "baignade"
+        }
+    }
+}
