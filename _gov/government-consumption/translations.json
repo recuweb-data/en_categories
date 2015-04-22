@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "government-consumption",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/government-consumption/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/government-consumption/government-consumption/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/government-consumption/government-consumption/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/government-consumption/government-consumption/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Government consumption",
+            "term_title_slug": "government-consumption"
+        }
+    }
+}
