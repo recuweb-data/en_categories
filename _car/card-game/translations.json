@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "card-game",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/card-game/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/card-game/card-game/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/card-game/card-game/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/card-game/card-game/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Juego de naipes",
+            "term_title_slug": "juego-de-naipes"
+        },
+        "en": {
+            "term_title": "Card game",
+            "term_title_slug": "card-game"
+        },
+        "fr": {
+            "term_title": "Jeu de cartes",
+            "term_title_slug": "jeu-de-cartes"
+        }
+    }
+}
