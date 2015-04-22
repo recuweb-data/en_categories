@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "technical-analysis",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/technical-analysis/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/technical-analysis/technical-analysis/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/technical-analysis/technical-analysis/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/technical-analysis/technical-analysis/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Technical analysis",
+            "term_title_slug": "technical-analysis"
+        }
+    }
+}
