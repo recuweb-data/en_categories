@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "medical-imaging",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/medical-imaging/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/medical-imaging/medical-imaging/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/medical-imaging/medical-imaging/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/medical-imaging/medical-imaging/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Medical imaging",
+            "term_title_slug": "medical-imaging"
+        }
+    }
+}
