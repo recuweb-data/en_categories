@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "social-security",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/social-security/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/social-security/social-security/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/social-security/social-security/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/social-security/social-security/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Social security",
+            "term_title_slug": "social-security"
+        }
+    }
+}
