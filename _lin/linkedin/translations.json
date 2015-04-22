@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "linkedin",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/linkedin/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/linkedin/linkedin/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/linkedin/linkedin/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/linkedin/linkedin/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "LinkedIn",
+            "term_title_slug": "linkedin"
+        },
+        "en": {
+            "term_title": "LinkedIn",
+            "term_title_slug": "linkedin"
+        },
+        "fr": {
+            "term_title": "LinkedIn",
+            "term_title_slug": "linkedin"
+        }
+    }
+}
