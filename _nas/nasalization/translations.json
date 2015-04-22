@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "nasalization",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/nasalization/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/nasalization/nasalization/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/nasalization/nasalization/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/nasalization/nasalization/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Nasalization",
+            "term_title_slug": "nasalization"
+        },
+        "es": {
+            "term_title": "Nasalizaci\u00f3n",
+            "term_title_slug": "nasalizaci\u00f3n"
+        },
+        "fr": {
+            "term_title": "Nasalisation",
+            "term_title_slug": "nasalisation"
+        }
+    }
+}
