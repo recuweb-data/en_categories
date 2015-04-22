@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "taxes",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/taxes/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/taxes/taxes/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/taxes/taxes/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/taxes/taxes/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Taxes",
+            "term_title_slug": "taxes",
+            "branche": "economy/finance/public-finance/government-revenue/taxes"
+        },
+        "es": {
+            "term_title": "Impuesto",
+            "term_title_slug": "impuesto",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Imp\u00f4t",
+            "term_title_slug": "imp\u00f4t"
+        }
+    }
+}
