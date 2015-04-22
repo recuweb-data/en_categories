@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "royal-family",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/royal-family/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/royal-family/royal-family/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/royal-family/royal-family/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/royal-family/royal-family/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Familia real",
+            "term_title_slug": "familia-real"
+        },
+        "en": {
+            "term_title": "Royal family",
+            "term_title_slug": "royal-family"
+        },
+        "fr": {
+            "term_title": "Liste de g\u00e9n\u00e9alogies imp\u00e9riales, royales et princi\u00e8res",
+            "term_title_slug": "liste-de-g\u00e9n\u00e9alogies-imp\u00e9riales-royales-et-princi\u00e8res"
+        }
+    }
+}
