@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "self-help",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/self-help/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/self-help/self-help/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/self-help/self-help/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/self-help/self-help/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Desarrollo personal",
+            "term_title_slug": "desarrollo-personal"
+        },
+        "en": {
+            "term_title": "Self-help",
+            "term_title_slug": "self-help"
+        },
+        "fr": {
+            "term_title": "D\u00e9veloppement personnel",
+            "term_title_slug": "d\u00e9veloppement-personnel"
+        }
+    }
+}
