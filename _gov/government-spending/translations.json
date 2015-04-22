@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "government-spending",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/government-spending/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/government-spending/government-spending/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/government-spending/government-spending/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/government-spending/government-spending/blogs.json"
+    },
+    "translations": {
+        "fr": {
+            "term_title": "D\u00e9penses publiques",
+            "term_title_slug": "d\u00e9penses-publiques"
+        },
+        "es": {
+            "term_title": "Gasto p\u00fablico",
+            "term_title_slug": "gasto-p\u00fablico"
+        },
+        "en": {
+            "term_title": "Government spending",
+            "term_title_slug": "government-spending"
+        }
+    }
+}
