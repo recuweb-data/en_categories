@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "energy-drinks",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/energy-drinks/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/energy-drinks/energy-drinks/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/energy-drinks/energy-drinks/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/energy-drinks/energy-drinks/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Energy drinks",
+            "term_title_slug": "energy-drinks"
+        }
+    }
+}
