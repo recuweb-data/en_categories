@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "spiritism",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/spiritism/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/spiritism/spiritism/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/spiritism/spiritism/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/spiritism/spiritism/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Espiritismo",
+            "term_title_slug": "espiritismo"
+        },
+        "en": {
+            "term_title": "Spiritism",
+            "term_title_slug": "spiritism"
+        },
+        "fr": {
+            "term_title": "Spiritisme (Allan Kardec)",
+            "term_title_slug": "spiritisme"
+        }
+    }
+}
