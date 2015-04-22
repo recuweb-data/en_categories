@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "public-health",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/public-health/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/public-health/public-health/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/public-health/public-health/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/public-health/public-health/blogs.json"
+    },
+    "translations": {
+        "fr": {
+            "term_title": "Sant\u00e9 publique",
+            "term_title_slug": "sant\u00e9-publique"
+        },
+        "es": {
+            "term_title": "Salud p\u00fablica",
+            "term_title_slug": "salud-p\u00fablica"
+        },
+        "en": {
+            "term_title": "Public health",
+            "term_title_slug": "public-health"
+        }
+    }
+}
