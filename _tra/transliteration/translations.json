@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "transliteration",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/transliteration/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/transliteration/transliteration/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/transliteration/transliteration/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/transliteration/transliteration/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Transliteration",
+            "term_title_slug": "transliteration"
+        },
+        "es": {
+            "term_title": "Transliteraci\u00f3n",
+            "term_title_slug": "transliteraci\u00f3n"
+        },
+        "fr": {
+            "term_title": "Transcription et translitt\u00e9ration",
+            "term_title_slug": "transcription-et-translitt\u00e9ration"
+        }
+    }
+}
