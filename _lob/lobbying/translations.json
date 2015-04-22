@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "lobbying",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/lobbying/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/lobbying/lobbying/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/lobbying/lobbying/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/lobbying/lobbying/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Lobby",
+            "term_title_slug": "lobby"
+        },
+        "en": {
+            "term_title": "Lobbying",
+            "term_title_slug": "lobbying"
+        },
+        "fr": {
+            "term_title": "Lobby",
+            "term_title_slug": "lobby"
+        }
+    }
+}
