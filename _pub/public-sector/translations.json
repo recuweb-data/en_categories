@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "public-sector",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/public-sector/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/public-sector/public-sector/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/public-sector/public-sector/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/public-sector/public-sector/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Public sector",
+            "term_title_slug": "public-sector"
+        },
+        "es": {
+            "term_title": "Sector p\u00fablico",
+            "term_title_slug": "sector-p\u00fablico"
+        },
+        "fr": {
+            "term_title": "Secteur public",
+            "term_title_slug": "secteur-public"
+        }
+    }
+}
