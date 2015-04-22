@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "renting",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/renting/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/renting/renting/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/renting/renting/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/renting/renting/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Renting",
+            "term_title_slug": "renting"
+        },
+        "es": {
+            "term_title": "Contrato de arrendamiento",
+            "term_title_slug": "contrato-de-arrendamiento"
+        },
+        "fr": {
+            "term_title": "Contrat de bail",
+            "term_title_slug": "contrat-de-bail"
+        }
+    }
+}
