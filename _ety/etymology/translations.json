@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "etymology",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/etymology/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/etymology/etymology/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/etymology/etymology/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/etymology/etymology/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Etymology",
+            "term_title_slug": "etymology"
+        },
+        "es": {
+            "term_title": "Etimolog\u00eda",
+            "term_title_slug": "etimolog\u00eda"
+        },
+        "fr": {
+            "term_title": "\u00c9tymologie",
+            "term_title_slug": "\u00e9tymologie"
+        }
+    }
+}
