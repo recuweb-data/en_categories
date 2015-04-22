@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "arguments",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/arguments/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/arguments/arguments/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/arguments/arguments/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/arguments/arguments/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Arguments",
+            "term_title_slug": "arguments"
+        },
+        "es": {
+            "term_title": "Argumento",
+            "term_title_slug": "argumento"
+        },
+        "fr": {
+            "term_title": "Argumentation",
+            "term_title_slug": "argumentation"
+        }
+    }
+}
