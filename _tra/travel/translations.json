@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "travel",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/travel/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/travel/travel/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/travel/travel/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/travel/travel/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Travel",
+            "term_title_slug": "travel"
+        },
+        "es": {
+            "term_title": "Viaje",
+            "term_title_slug": "viaje"
+        },
+        "fr": {
+            "term_title": "Voyage",
+            "term_title_slug": "voyage"
+        }
+    }
+}
