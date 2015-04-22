@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "hybrid-organisms",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/hybrid-organisms/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/hybrid-organisms/hybrid-organisms/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/hybrid-organisms/hybrid-organisms/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/hybrid-organisms/hybrid-organisms/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Hybrid organisms",
+            "term_title_slug": "hybrid-organisms"
+        }
+    }
+}
