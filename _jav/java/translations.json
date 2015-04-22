@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "java",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/java/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/java/java/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/java/java/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/java/java/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Java",
+            "term_title_slug": "java"
+        },
+        "en": {
+            "term_title": "Java (disambiguation)",
+            "term_title_slug": "java"
+        },
+        "fr": {
+            "term_title": "Java",
+            "term_title_slug": "java"
+        }
+    }
+}
