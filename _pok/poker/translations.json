@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "poker",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/poker/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/poker/poker/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/poker/poker/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/poker/poker/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Poker",
+            "term_title_slug": "poker"
+        },
+        "es": {
+            "term_title": "P\u00f3quer",
+            "term_title_slug": "p\u00f3quer"
+        },
+        "fr": {
+            "term_title": "Poker",
+            "term_title_slug": "poker"
+        }
+    }
+}
