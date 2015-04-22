@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "recreational-fishing",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/recreational-fishing/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/recreational-fishing/recreational-fishing/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/recreational-fishing/recreational-fishing/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/recreational-fishing/recreational-fishing/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Pesca deportiva",
+            "term_title_slug": "pesca-deportiva"
+        },
+        "en": {
+            "term_title": "Recreational fishing",
+            "term_title_slug": "recreational-fishing"
+        },
+        "fr": {
+            "term_title": "P\u00eache sportive",
+            "term_title_slug": "p\u00eache-sportive"
+        }
+    }
+}
