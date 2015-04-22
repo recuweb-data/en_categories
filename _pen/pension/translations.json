@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "pension",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/pension/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/pension/pension/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/pension/pension/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/pension/pension/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Pension",
+            "term_title_slug": "pension",
+            "branche": "economy/finance/personal-finance/pension"
+        },
+        "es": {
+            "term_title": "Pensi\u00f3n",
+            "term_title_slug": "pensi\u00f3n",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "\u00c9pargne retraite",
+            "term_title_slug": "\u00e9pargne-retraite"
+        }
+    }
+}
