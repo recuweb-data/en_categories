@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "business",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/business/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/business/business/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/business/business/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/business/business/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Business",
+            "term_title_slug": "business"
+        },
+        "es": {
+            "term_title": "Negocio",
+            "term_title_slug": "negocio"
+        },
+        "fr": {
+            "term_title": "Entreprise",
+            "term_title_slug": "entreprise"
+        }
+    }
+}
