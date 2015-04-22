@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "squash",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/squash/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/squash/squash/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/squash/squash/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/squash/squash/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Squash",
+            "term_title_slug": "squash"
+        },
+        "en": {
+            "term_title": "Squash (sport)",
+            "term_title_slug": "squash"
+        },
+        "fr": {
+            "term_title": "Squash",
+            "term_title_slug": "squash"
+        }
+    }
+}
