@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "web-languages",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/web-languages/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/web-languages/web-languages/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/web-languages/web-languages/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/web-languages/web-languages/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Web languages",
+            "term_title_slug": "web-languages"
+        },
+        "es": {
+            "term_title": "Lenguajes web",
+            "term_title_slug": "lenguajes-web"
+        },
+        "fr": {
+            "term_title": "Langages web",
+            "term_title_slug": "langages-web"
+        }
+    }
+}
