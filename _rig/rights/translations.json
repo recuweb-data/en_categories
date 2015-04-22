@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "rights",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/rights/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/rights/rights/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/rights/rights/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/rights/rights/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Rights",
+            "term_title_slug": "rights"
+        },
+        "es": {
+            "term_title": "Derechos",
+            "term_title_slug": "derechos"
+        },
+        "fr": {
+            "term_title": "Droits et libert\u00e9s",
+            "term_title_slug": "droits-et-libert\u00e9s"
+        }
+    }
+}
