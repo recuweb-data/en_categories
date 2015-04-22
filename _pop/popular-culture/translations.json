@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "popular-culture",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/popular-culture/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/popular-culture/popular-culture/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/popular-culture/popular-culture/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/popular-culture/popular-culture/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Cultura popular",
+            "term_title_slug": "cultura-popular"
+        },
+        "en": {
+            "term_title": "Popular culture",
+            "term_title_slug": "popular-culture"
+        },
+        "fr": {
+            "term_title": "Culture populaire",
+            "term_title_slug": "culture-populaire"
+        }
+    }
+}
