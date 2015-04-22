@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "medical-treatments",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/medical-treatments/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/medical-treatments/medical-treatments/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/medical-treatments/medical-treatments/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/medical-treatments/medical-treatments/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Tratamientos m\u00e9dicos",
+            "term_title_slug": "tratamientos-m\u00e9dicos"
+        },
+        "fr": {
+            "term_title": "Traitements m\u00e9dicaux",
+            "term_title_slug": "traitements-m\u00e9dicaux"
+        },
+        "en": {
+            "term_title": "Medical treatments",
+            "term_title_slug": "medical-treatments"
+        }
+    }
+}
