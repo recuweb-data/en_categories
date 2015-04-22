@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "social-movements",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/social-movements/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/social-movements/social-movements/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/social-movements/social-movements/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/social-movements/social-movements/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Social movements",
+            "term_title_slug": "social-movements"
+        }
+    }
+}
