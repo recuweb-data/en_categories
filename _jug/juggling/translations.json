@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "juggling",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/juggling/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/juggling/juggling/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/juggling/juggling/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/juggling/juggling/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Juggling",
+            "term_title_slug": "juggling"
+        },
+        "es": {
+            "term_title": "Malabarismo",
+            "term_title_slug": "malabarismo"
+        },
+        "fr": {
+            "term_title": "Jonglerie",
+            "term_title_slug": "jonglerie"
+        }
+    }
+}
