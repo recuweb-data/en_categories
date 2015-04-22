@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "furnishings",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/furnishings/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/furnishings/furnishings/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/furnishings/furnishings/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/furnishings/furnishings/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Furnishings",
+            "term_title_slug": "furnishings"
+        },
+        "es": {
+            "term_title": "Artes decorativas",
+            "term_title_slug": "artes-decorativas"
+        },
+        "fr": {
+            "term_title": "Arts d\u00e9coratifs",
+            "term_title_slug": "arts-d\u00e9coratifs"
+        }
+    }
+}
