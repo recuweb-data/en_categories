@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "liberism",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/liberism/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/liberism/liberism/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/liberism/liberism/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/liberism/liberism/blogs.json"
+    },
+    "items": {
+        "youtube.com/2008/01/glenn-beck-liberal-fascism": {
+            "title": "Glenn Beck: Liberal Fascism...",
+            "snippet": "Glenn Beck: Liberal Fascism glenn and a guest discuss how liberism and fascism are destroying our country. From: 1053fan Views: 3301 28 ratings Time: 08:36 More in People & Blogs...",
+            "date": "2008-01-20",
+            "author_name": "1053fan",
+            "categories": "liberism,fascism",
+            "recuweb_url": "http://en.recuweb.com/fascism/youtube.com/2008/01/glenn-beck-liberal-fascism",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=liberism&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=Ryr4o90odww&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Ryr4o90odww/0.jpg"
+        }
+    }
+}
