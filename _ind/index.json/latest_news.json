@@ -1,0 +1,109 @@
+{
+    "meta": {
+        "portal_name": "index.json",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/index.json/index.json",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/index.json/index.json/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/index.json/index.json/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/index.json/index.json/blogs.json"
+    },
+    "items": {
+        "i-programmer.info/2015/04/field-guide-to-hadoop-iprogrammer": {
+            "title": "Field Guide to Hadoop - iProgrammer...",
+            "snippet": "Field Guide to HadoopiProgrammerThis slim book sets out to provide an up-to-date overview of Hadoop and its various components, which seems a worthwhile aim. Hadoop is the most common platform for storing and analysing big data. This book aims to be...",
+            "date": "2015-04-22",
+            "tags": "platform,data",
+            "recuweb_url": "http://en.recuweb.com/i-programmer.info/2015/04/field-guide-to-hadoop-iprogrammer",
+            "resource_url": "http://news.google.com/?hl=en&q=index%2Bjson%2Bindex%2Bjson&output=atom&nord=1",
+            "source_url": "http://i-programmer.info/bookreviews/218-data-science/8513-field-guide-to-hadoop.html"
+        },
+        "index.hr/2015/04/sad-moete-vidjeti-sve-to-ste-ikada-traili-na-googleu-ako": {
+            "title": "Sad moete vidjeti sve to ste ikada traili na Googleu, ako ste dovoljno hrabri -...",
+            "snippet": "moete vidjeti sve to ste ikada traili na Googleu, ako ste dovoljno ih donosi kao JSON datoteke, koje nisu najjednostavnije za itanje, no postoje naini da ih prebacite u notepad kako biste ih lake itali, pie The Washington Post. Pojanjenje Googlea...",
+            "date": "2015-04-22",
+            "categories": "json",
+            "tags": "json",
+            "recuweb_url": "http://en.recuweb.com/json/index.hr/2015/04/sad-moete-vidjeti-sve-to-ste-ikada-traili-na-googleu-ako",
+            "resource_url": "http://news.google.com/?hl=en&q=index%2Bjson&output=atom&nord=1",
+            "source_url": "http://index.hr/black/clanak/sad-mozete-vidjeti-sve-sto-ste-ikada-trazili-na-googleu-ako-ste-dovoljno-hrabri/815882.aspx"
+        },
+        "pulseitmagazine.com.au/2015/04/orion-health-adds-fhir-to-rhapsody-6-1-pulse-it-magazine": {
+            "title": "Orion Health adds FHIR to Rhapsody 6.1 - Pulse IT Magazine...",
+            "snippet": "Orion Health adds FHIR to Rhapsody IT MagazineRhapsody 6.1 now includes support for the JSON data interchange format and the REST architecture approach, meaning organisations will be able to start implementing FHIR-based interfaces. Orion Health...",
+            "date": "2015-04-21",
+            "categories": "health,json",
+            "tags": "data,format,magazine,json",
+            "recuweb_url": "http://en.recuweb.com/json/pulseitmagazine.com.au/2015/04/orion-health-adds-fhir-to-rhapsody-6-1-pulse-it-magazine",
+            "resource_url": "http://news.google.com/?hl=en&q=index%2Bjson&output=atom&nord=1",
+            "source_url": "http://pulseitmagazine.com.au/index.php?option=com_content&view=article&id=2389:orion-health-adds-fhir-to-rhapsody-61&catid=16:australian-ehealth&Itemid=327"
+        },
+        "intl-spectrum.com/2015/04/parsing-json-data-in-multivalue": {
+            "title": "Parsing JSON data in MultiValue...",
+            "snippet": "JSON is a simple, text-based way to store and transmit structured data. By using a simple syntax, you can easily store anything from a single number through to strings, arrays, and objects using nothing but a string of delimited text. You can also...",
+            "date": "2015-04-18",
+            "categories": "syntax,json",
+            "tags": "using,text,data,json",
+            "recuweb_url": "http://en.recuweb.com/json/intl-spectrum.com/2015/04/parsing-json-data-in-multivalue",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=index%2Bjson&format=RSS&cc=us",
+            "source_url": "http://intl-spectrum.com/resource/397/Parsing-JSON-data-in-MultiValue.aspx"
+        },
+        "arstechnica.com/2015/04/just-released-minecraft-exploit-makes-it-easy-to-crash-game-servers": {
+            "title": "Just-released Minecraft exploit makes it easy to crash game servers - Ars Technica...",
+            "snippet": "Ars TechnicaJust-released Minecraft exploit makes it easy to crash game serversArs TechnicaThis, coupled with the NBT format's nesting allows us to craft a packet that is incredibly complex for the server to deserialize but trivial for us to...",
+            "date": "2015-04-16",
+            "tags": "makes,game,format",
+            "recuweb_url": "http://en.recuweb.com/arstechnica.com/2015/04/just-released-minecraft-exploit-makes-it-easy-to-crash-game-servers",
+            "resource_url": "http://news.google.com/?hl=en&q=index%2Bjson&output=atom&nord=1",
+            "source_url": "http://arstechnica.com/security/2015/04/just-released-minecraft-exploit-makes-it-easy-to-crash-game-servers/"
+        },
+        "appdevelopermagazine.com/2015/04/aws-releases-updates-to-lambda-platform-for-scaling-high-volume-app": {
+            "title": "AWS Releases Updates to Lambda Platform for Scaling High-Volume... - App Developer Magazine...",
+            "snippet": "App Developer MagazineAWS Releases Updates to Lambda Platform for Scaling High-Volume...App Developer MagazineAWS Lambda is a zero-admin compute platform that removes the need for developers to configure, launch, or monitor Amazon Elastic Compute...",
+            "date": "2015-04-14",
+            "tags": "platform,developer,magazine,high",
+            "recuweb_url": "http://en.recuweb.com/appdevelopermagazine.com/2015/04/aws-releases-updates-to-lambda-platform-for-scaling-high-volume-app",
+            "resource_url": "http://news.google.com/?hl=en&q=index%2Bjson&output=atom&nord=1",
+            "source_url": "http://appdevelopermagazine.com/2645/2015/4/14/AWS-Releases-Updates-to-Lambda-Platform-for-Scaling-High-Volume-Production-Applications/"
+        },
+        "sys-con.com/2015/04/announces-distribution-of-national-customer-satisfaction-sys-con-media-press-release": {
+            "title": "Announces Distribution of National Customer Satisfaction... - SYS-CON Media (press release)...",
+            "snippet": "Announces Distribution of National Customer Satisfaction...SYS-CON Media (press release)ROCKVILLE, Md., April 13, 2015/PRNewswire/-- As the leading distributor of market intelligence, is pleased to announce a business partnership with the National...",
+            "date": "2015-04-13",
+            "categories": "business",
+            "tags": "market",
+            "recuweb_url": "http://en.recuweb.com/business/sys-con.com/2015/04/announces-distribution-of-national-customer-satisfaction-sys-con-media-press-release",
+            "resource_url": "http://news.google.com/?hl=en&q=index%2Bjson&output=atom&nord=1",
+            "source_url": "http://sys-con.com/node/3323544"
+        },
+        "visualstudiomagazine.com/2015/04/data-platform-needs-foundation-not-just-planks-visual-studio-magazine": {
+            "title": "Data Platform Needs Foundation, Not Just Planks - Visual Studio Magazine...",
+            "snippet": "Visual Studio MagazineData Platform Needs Foundation, Not Just PlanksVisual Studio MagazineBut SQL Server 2008 R2 was essentially an update to the BI stack, 2012 added little more than columnstore indexes and high availability features and SQL...",
+            "date": "2015-04-08",
+            "tags": "features,than,sql,server,platform,magazine,data,indexes,high",
+            "recuweb_url": "http://en.recuweb.com/visualstudiomagazine.com/2015/04/data-platform-needs-foundation-not-just-planks-visual-studio-magazine",
+            "resource_url": "http://news.google.com/?hl=en&q=index%2Bjson%2Bindex%2Bjson&output=atom&nord=1",
+            "source_url": "http://visualstudiomagazine.com/articles/2015/04/07/data-platform-needs-foundation-sql.aspx"
+        },
+        "news.thewindowsclub.com/2015/04/microsoft-introduces-the-ie-diagnostics-adapter-for-third-party-developer-tools": {
+            "title": "Microsoft introduces the IE Diagnostics Adapter for third party developer tools - TWCN Tech News...",
+            "snippet": "TWCN Tech News (blog)Microsoft introduces the IE Diagnostics Adapter for third party developer toolsTWCN Tech News (blog)Firefox has been closely following Chrome and has superior features such as font inspector, JSON formatter, and 3D view for...",
+            "date": "2015-04-03",
+            "categories": "json",
+            "tags": "features,developer,json",
+            "recuweb_url": "http://en.recuweb.com/json/news.thewindowsclub.com/2015/04/microsoft-introduces-the-ie-diagnostics-adapter-for-third-party-developer-tools",
+            "resource_url": "http://news.google.com/?hl=en&q=index%2Bjson&output=atom&nord=1",
+            "source_url": "http://news.thewindowsclub.com/microsoft-introduces-ie-diagnostics-adapter-third-party-developer-tools-76152/"
+        },
+        "gamedev.net/2015/03/are-non-sql-databases-better-than": {
+            "title": "are non sql databases better than sql databases? -...",
+            "snippet": "are non sql databases better than sql databases? using redis for routine used data in y game on my server. i want to know are they really faster? how much? and i think the answer is absolutely yes if as its said it is on cache not on hard disk...",
+            "date": "2015-03-31",
+            "tags": "using,data,game,server,sql,than",
+            "recuweb_url": "http://en.recuweb.com/gamedev.net/2015/03/are-non-sql-databases-better-than",
+            "resource_url": "http://news.google.com/?hl=en&q=index%2Bjson%2Bindex%2Bjson&output=atom&nord=1",
+            "source_url": "http://gamedev.net/topic/667157-are-non-sql-databases-better-than-sql-databases/"
+        }
+    }
+}
