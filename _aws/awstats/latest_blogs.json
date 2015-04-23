@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "portal_name": "awstats",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/awstats/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/awstats/awstats/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/awstats/awstats/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/awstats/awstats/blogs.json"
+    },
+    "items": {
+        "forums.cpanel.net/2015/03/awstats-not-processing-for-account-cpanel-forums": {
+            "title": "AWStats not processing for account cPanel Forums...",
+            "snippet": "Hi, I had a request this morning to enable the AWStats for one account. So I advised the user to log in to his cPanel and select the \"Choose Log...",
+            "date": "2015-03-30",
+            "author_name": "BlueSteam",
+            "tags": "log,cpanel,awstats",
+            "recuweb_url": "http://en.recuweb.com/forums.cpanel.net/2015/03/awstats-not-processing-for-account-cpanel-forums",
+            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://forums.cpanel.net/threads/awstats-not-processing-for-account.462051/"
+        },
+        "habschned.com/2015/03/cpanel-obtaining-the-real-ip-for-awstats-when-using-varnish": {
+            "title": "cPanel - Obtaining the real IP for AWStats when using Varnish...",
+            "snippet": "Ever since i installed Varnish Cache on the server to speed up website delivery and overall performance i had no visitors showing up in AWStats except for one, the IP of the Varnish server. From the technical side of things...",
+            "date": "2015-03-28",
+            "author_name": "Habschned",
+            "tags": "technical,things,overall,performance,installed,cpanel,awstats,using,server,website,visitors",
+            "recuweb_url": "http://en.recuweb.com/habschned.com/2015/03/cpanel-obtaining-the-real-ip-for-awstats-when-using-varnish",
+            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://habschned.com/cpanel-obtaining-the-real-ip-for-awstats-when-using-varnish/"
+        },
+        "websitepanel.net/2015/03/topic-awstats-config-template-variables-websitepanel": {
+            "title": "Topic: AWStats config template variables WebsitePanel...",
+            "snippet": "Hi,. Got AW stats sort of working:D Yay I'm struggling with some variables though. This is the config template i'd want to use: LogType=W LogFormat=2 LogSeparator=DNSLookup=1 DirCgi=/awstats/cgi-bin...",
+            "date": "2015-03-16",
+            "author_name": "unknown",
+            "tags": "config,awstats,stats,want",
+            "recuweb_url": "http://en.recuweb.com/websitepanel.net/2015/03/topic-awstats-config-template-variables-websitepanel",
+            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://websitepanel.net/global-forums/topic/awstats-config-template-variables/"
+        },
+        "crybit.com/2015/02/awstats-not-updating-automatically-cpanel-crybit": {
+            "title": "AWStats not updating automatically - cPanel CryBit...",
+            "snippet": "AWStats is one of the most commonly using cPanel tool to analyse website traffic summary. You can analyse a lot of things from here like Number of visits,...",
+            "date": "2015-02-19",
+            "author_name": "Arun Lal",
+            "tags": "lot,things,tool,cpanel,awstats,using,website,traffic,summary,here,number",
+            "recuweb_url": "http://en.recuweb.com/crybit.com/2015/02/awstats-not-updating-automatically-cpanel-crybit",
+            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://crybit.com/awstats-not-updating-automatically/"
+        },
+        "thehostinghub.wordpress.com/2015/02/how-to-view-website-statistics-in-cpanel": {
+            "title": "How to View Website Statistics in cPanel...",
+            "snippet": "AWStats is one way you can keep track of how many people are visiting your site every month. Webalizer is a second way. hostgator's official definitions: Awstats Awstats produces visual statistics about...",
+            "date": "2015-02-08",
+            "author_name": "Johnathan Rapp",
+            "tags": "awstats,site,month,track,website,statistics,cpanel,many,people,webalizer,hostgator",
+            "recuweb_url": "http://en.recuweb.com/thehostinghub.wordpress.com/2015/02/how-to-view-website-statistics-in-cpanel",
+            "resource_url": "http://en.search.wordpress.com/?q=awstats%2Bawstats&f=feed&page=1",
+            "source_url": "http://thehostinghub.wordpress.com/2015/02/08/how-to-view-website-statistics-in-cpanel-using-awstats/"
+        },
+        "howtoforge.com/2015/01/solved-awstats-and-ispconfig-don-t-generate-html": {
+            "title": "SOLVED AWstats and ISPconfig don't generate html...",
+            "snippet": "Hi, I cannot run AWstats. Maybe i'm missing something.. Can someone help me?:) I've tested it on debian (squeeze and wheezy) without any success. My...",
+            "date": "2015-01-18",
+            "author_name": "Fabrizio",
+            "categories": "html",
+            "tags": "any,something,awstats",
+            "recuweb_url": "http://en.recuweb.com/html/howtoforge.com/2015/01/solved-awstats-and-ispconfig-don-t-generate-html",
+            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://howtoforge.com/community/threads/solved-awstats-and-ispconfig-3-0-5-4p5-dont-generate-html.68132/"
+        },
+        "yongitz.wordpress.com/2015/01/setup-awstats-on-centos-6-to-analyze-apache-logs-yong": {
+            "title": "Setup AWStats on CentOS 6 to analyze Apache Logs yonG's k\u00f4rNR...",
+            "snippet": "Environment: CentOS 6 64bit with Apache already installed AWStats is an opensource software that generates statistics graphically. For more info, visit awstats office website here. 1. Install Epel Repo rpm -Uvh...",
+            "date": "2015-01-15",
+            "author_name": "yongitz",
+            "categories": "environment",
+            "tags": "install,generates,installed,apache,logs,awstats,centos,analyze,software,statistics,graphically,website,here",
+            "recuweb_url": "http://en.recuweb.com/environment/yongitz.wordpress.com/2015/01/setup-awstats-on-centos-6-to-analyze-apache-logs-yong",
+            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://yongitz.wordpress.com/2015/01/15/setup-awstats-on-centos-6-to-analyze-apache-logs/"
+        },
+        "reddit.com/2014/12/best-web-stats-software": {
+            "title": "Best web stats software?",
+            "snippet": "I've been using awstats for a long time but am not seeing a whole lot of value in it anymore. Now that google masks referring URLs, I'm curious what people are using these days for analyzing web traffic. Is there any latest and greatest web stats...",
+            "date": "2014-12-11",
+            "categories": "google",
+            "tags": "any,days,analyzing,referring,lot,best,web,stats,software,using,awstats,google,people,traffic",
+            "recuweb_url": "http://en.recuweb.com/google/reddit.com/2014/12/best-web-stats-software",
+            "resource_url": "http://www.reddit.com/search.rss?q=awstats%2Bawstats&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/SEO/comments/2oz4wq/best_web_stats_software/"
+        },
+        "asknakesc.wordpress.com/2014/11/awstats-for-ubuntu-install": {
+            "title": "AWStats for ubuntu Install...",
+            "snippet": "A good place to start is here: However, if your site is also running under php-fpm then the apache config command: Options ExecCGI -MultiViews SymLinksIfOwnerMatch gives an error on apache restart...",
+            "date": "2014-11-25",
+            "author_name": "elicorrell",
+            "categories": "php",
+            "tags": "config,site,good,here,ubuntu,awstats,install,apache",
+            "recuweb_url": "http://en.recuweb.com/php/asknakesc.wordpress.com/2014/11/awstats-for-ubuntu-install",
+            "resource_url": "http://en.search.wordpress.com/?q=awstats%2Bawstats&f=feed&page=1",
+            "source_url": "http://asknakesc.wordpress.com/2014/11/25/awstats-for-ubuntu/"
+        },
+        "reddit.com/2014/09/apache-log-analysis-looking-for-webalizer-and-awstats-alternatives": {
+            "title": "Apache log analysis: Looking for Webalizer and AWStats alternatives.",
+            "snippet": "What's everyone using these days instead of Webalizer and AWStats? We use Google Analytics for pretty much everything, but I need granular information about bandwidth usage for which I need to fall back to Apache logs. Piwik is pretty nice, but it...",
+            "date": "2014-09-26",
+            "categories": "google",
+            "tags": "need,google,google_analytics,analytics,days,apache,log,analysis,looking,webalizer,awstats,using,information,logs",
+            "recuweb_url": "http://en.recuweb.com/google/reddit.com/2014/09/apache-log-analysis-looking-for-webalizer-and-awstats-alternatives",
+            "resource_url": "http://www.reddit.com/search.rss?q=awstats%2Bawstats&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/linuxadmin/comments/2hj0mq/apache_log_analysis_looking_for_webalizer_and/"
+        }
+    }
+}
