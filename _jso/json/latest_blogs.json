@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "portal_name": "json",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/json/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/json/json/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/json/json/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/json/json/blogs.json"
+    },
+    "items": {
+        "javacodegeeks.com/2015/04/spring-from-the-trenches-returning-git-commit-information-as-json": {
+            "title": "Spring From the Trenches: Returning Git Commit Information as JSON...",
+            "snippet": "... configuration beans and helps you to do it. Spring From the Trenches: Returning Runtime Configuration as JSON describes how you can write the runtime configuration of a web application to a log file and return it as JSON.",
+            "date": "2015-04-23",
+            "author_name": "unknown",
+            "categories": "json",
+            "tags": "application,file,configuration,write,information,json,web",
+            "recuweb_url": "http://en.recuweb.com/json/javacodegeeks.com/2015/04/spring-from-the-trenches-returning-git-commit-information-as-json",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://javacodegeeks.com/2015/04/spring-from-the-trenches-returning-git-commit-information-as-json.html"
+        },
+        "infoq.com/2015/04/google-proposes-to-enhance-json-with-jsonnet-infoq": {
+            "title": "Google Proposes to Enhance JSON with Jsonnet - InfoQ...",
+            "snippet": "Google has open sourced Jsonnet, a configuration language that supersedes JSON and adds new features without breaking backwards compatibility: comments, references, arithmetic and conditional operators, array and...",
+            "date": "2015-04-21",
+            "author_name": "ExplodingAds.com",
+            "categories": "json,google",
+            "tags": "operators,features,without,configuration,configuration-language,language,json,google,jsonnet,open",
+            "recuweb_url": "http://en.recuweb.com/google/infoq.com/2015/04/google-proposes-to-enhance-json-with-jsonnet-infoq",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://infoq.com/news/2015/04/jsonnet"
+        },
+        "google-opensource.blogspot.com/2015/04/jsonnet-a-more-elegant-language-for-composing-json": {
+            "title": "Jsonnet: a more elegant language for composing JSON...",
+            "snippet": "A few months ago, we quietly released Jsonnet: a simple yet rich configuration language (i.e., a programming language for specifying data). Many systems can be configured with JSON, but writing it by hand is troublesome.",
+            "date": "2015-04-20",
+            "author_name": "Open Source Programs Office",
+            "categories": "json",
+            "tags": "programming,language,configuration,configuration-language,few,jsonnet,json,data,many",
+            "recuweb_url": "http://en.recuweb.com/json/google-opensource.blogspot.com/2015/04/jsonnet-a-more-elegant-language-for-composing-json",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://google-opensource.blogspot.com/2015/04/jsonnet-more-elegant-language-for.html"
+        },
+        "blog.netspi.com/2015/04/playing-with-content-type-xxe-on-json-endpoints-netspi-blog": {
+            "title": "Playing with Content-Type XXE on JSON Endpoints - NetSPI Blog...",
+            "snippet": "Many web and mobile applications rely on web services communication for client-server interaction. Most common data formats for web services are XML, whether SOAP or RESTful, and JSON. While a web service may be...",
+            "date": "2015-04-20",
+            "author_name": "ExplodingAds.com",
+            "categories": "json,xml",
+            "tags": "services,formats,server,mobile,json,playing,many,web,data,xml",
+            "recuweb_url": "http://en.recuweb.com/xml/blog.netspi.com/2015/04/playing-with-content-type-xxe-on-json-endpoints-netspi-blog",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.netspi.com/playing-content-type-xxe-json-endpoints/"
+        },
+        "r-bloggers.com/2015/04/how-to-convert-an-r-json-bloggers": {
+            "title": "How to convert an R to JSON R-bloggers...",
+            "snippet": "I've been asked how to convert a to an XML or JSON. So here's the answer. Bear in mind that has not been built for this purpose, so we need to do a few extra steps and the code is not really beautiful.",
+            "date": "2015-04-18",
+            "author_name": "gluc",
+            "categories": "mind,json,xml",
+            "tags": "need,few,code,json,bloggers,xml,here",
+            "recuweb_url": "http://en.recuweb.com/xml/r-bloggers.com/2015/04/how-to-convert-an-r-json-bloggers",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://r-bloggers.com/how-to-convert-an-r-data-tree-to-json/"
+        },
+        "dgielis.blogspot.com/2015/04/dimitri-gielis-blog-oracle-application-express-apex-json": {
+            "title": "Dimitri Gielis Blog (Oracle Application Express - APEX): JSON for...",
+            "snippet": "If you're interested to read more about how to manipulate JSON in the database, have a look at the documentation, it contains a wealth on information with great examples. As you can basically query the JSON with SQL you...",
+            "date": "2015-04-17",
+            "author_name": "Dimitri Gielis",
+            "categories": "database,json",
+            "tags": "information,look,interested,application,json,read,sql",
+            "recuweb_url": "http://en.recuweb.com/json/dgielis.blogspot.com/2015/04/dimitri-gielis-blog-oracle-application-express-apex-json",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://dgielis.blogspot.com/2015/04/json-for-apex-developers-part-3.html"
+        },
+        "r-bloggers.com/2015/04/json-serialization-now-even-faster-and-prettier-r-bloggers": {
+            "title": "JSON serialization now even faster and prettier R-bloggers...",
+            "snippet": "The jsonlite package implements a robust, high performance JSON parser and generator for R, optimized for statistical data and the web. This week version.",
+            "date": "2015-04-13",
+            "author_name": "Jeroen Ooms",
+            "categories": "json",
+            "tags": "ized,json,serialization,bloggers,data,web,version",
+            "recuweb_url": "http://en.recuweb.com/json/r-bloggers.com/2015/04/json-serialization-now-even-faster-and-prettier-r-bloggers",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://r-bloggers.com/json-serialization-now-even-faster-and-prettier/"
+        },
+        "mysqlserverteam.com/2015/04/json-labs-release-overview-mysql-server-blog": {
+            "title": "JSON Labs Release: Overview MySQL Server Blog...",
+            "snippet": "We're very happy to announce that the MySQL JSON Labs release is now available on MySQL Labs! With this work, MySQL continues to grow as a hybrid SQL/NoSQL DBMS, one that can offer the best of both worlds to...",
+            "date": "2015-04-12",
+            "author_name": "Matt Lord",
+            "categories": "mysql,json",
+            "tags": "mysql,labs,mysql_json,json,json_labs,server,json_labs_release,labs_release,release,available,sql,best",
+            "recuweb_url": "http://en.recuweb.com/json/mysqlserverteam.com/2015/04/json-labs-release-overview-mysql-server-blog",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://mysqlserverteam.com/json-labs-release-overview/"
+        },
+        "mysqlserverteam.com/2015/04/json-labs-release-functions-part-2-querying-data": {
+            "title": "JSON Labs Release: JSON Functions, Part 2 Querying JSON Data...",
+            "snippet": "The MySQL JSON Lab release introduces a native JSON datatype. In part 1 of this blog post series, Rick Hillegas introduced the new functions for creating and manipulating JSON documents using the new native JSON...",
+            "date": "2015-04-10",
+            "author_name": "Dag Wanvik",
+            "categories": "mysql,json",
+            "tags": "functions,mysql,mysql_json,json,json_labs,data,json_labs_release,labs,labs_release,release,datatype",
+            "recuweb_url": "http://en.recuweb.com/json/mysqlserverteam.com/2015/04/json-labs-release-functions-part-2-querying-data",
+            "resource_url": "http://www.google.com/search?q=json&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://mysqlserverteam.com/mysql-5-7-lab-release-json-functions-part-2-querying-json-data/"
+        },
+        "clipizdecon.wordpress.com/2015/03/download-game-vba-json-library": {
+            "title": "Download game vba json library...",
+            "snippet": "DOWNLOAD I have a json like below: {\"sentences\": Role-playing Games; more (21) Mathematics; Cross Validated (stats) Theoretical Computer Science; Physics. Have difficulty with the downloads, If you are interested []...",
+            "date": "2015-03-26",
+            "author_name": "clipizdecon",
+            "categories": "science,json,mathematics,physics",
+            "tags": "interested,json,playing",
+            "recuweb_url": "http://en.recuweb.com/physics/clipizdecon.wordpress.com/2015/03/download-game-vba-json-library",
+            "resource_url": "http://en.search.wordpress.com/?q=json%2Bjson&f=feed&page=1",
+            "source_url": "http://clipizdecon.wordpress.com/2015/03/26/download-game-vba-json-library/"
+        }
+    }
+}
