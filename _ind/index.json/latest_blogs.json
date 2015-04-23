@@ -1,0 +1,122 @@
+{
+    "meta": {
+        "portal_name": "index.json",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/index.json/index.json",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/index.json/index.json/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/index.json/index.json/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/index.json/index.json/blogs.json"
+    },
+    "items": {
+        "stackoverflow.com/2015/04/javascript-json-object-retrieval-in-html-stack-overflow": {
+            "title": "javascript - JSON Object Retrieval in HTML - Stack Overflow...",
+            "snippet": "get json data from a url var urlString=\"/example/getdata\";.getJSON(urlString, function(obj) (\"demo\").innerHTML=\"UV INDEX\" \"br\" \"Zip code: \" \"br\" \"UV_INDEX: \"...",
+            "date": "2015-04-22",
+            "author_name": "Ria",
+            "categories": "json,javascript,html",
+            "tags": "index,code,stack,json,javascript,data,example",
+            "recuweb_url": "http://en.recuweb.com/html/stackoverflow.com/2015/04/javascript-json-object-retrieval-in-html-stack-overflow",
+            "resource_url": "http://www.google.com/search?q=index%2Bjson%2Bindex%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/29808155/json-object-retrieval-in-html"
+        },
+        "mysqlserverteam.com/2015/04/json-labs-release-effective-functional-indexes-in-innodb": {
+            "title": "JSON Labs Release: Effective Functional Indexes in InnoDB...",
+            "snippet": "In the new MySQL JSON Lab release, we have resolved all of these issues by implementing new features that not only allow users to create non-materialized virtual columns, but that also allow them to create indexes on...",
+            "date": "2015-04-09",
+            "author_name": "Jimmy Yang",
+            "categories": "mysql,json",
+            "tags": "non,implementing,mysql,json,indexes,release,features",
+            "recuweb_url": "http://en.recuweb.com/json/mysqlserverteam.com/2015/04/json-labs-release-effective-functional-indexes-in-innodb",
+            "resource_url": "http://www.google.com/search?q=index%2Bjson%2Bindex%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://mysqlserverteam.com/json-labs-release-effective-functional-indexes-in-innodb/"
+        },
+        "datatables.net/2015/04/how-to-put-index-column-in-datatable-datatables-forums": {
+            "title": "How to put index column in DataTable? - DataTables forums...",
+            "snippet": "Hello guys, I started with Datatable. I see at, as see it add one column with index to Datatable. I using data JSON in Datatable.Normal, I can load data from JSON to...",
+            "date": "2015-04-08",
+            "author_name": "headshot9x",
+            "categories": "json",
+            "tags": "index,using,data,json",
+            "recuweb_url": "http://en.recuweb.com/json/datatables.net/2015/04/how-to-put-index-column-in-datatable-datatables-forums",
+            "resource_url": "http://www.google.com/search?q=index%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://datatables.net/forums/discussion/27097/how-to-put-index-column-in-datatable"
+        },
+        "robots.thoughtbot.com/2015/03/build-and-test-a-blazing-fast-json-api-with-phoenix-an": {
+            "title": "Build and test a blazing fast JSON API with Phoenix, an Elixir...",
+            "snippet": "SQL setup do (Repo) on_exit fn - (Repo) end end test \"/index returns a list of contacts\" do contacts_as_json=%Contactname: \"Gumbo\", phone: \"(801) 555-5555\"...",
+            "date": "2015-03-20",
+            "author_name": "Paul Smith",
+            "categories": "json",
+            "tags": "json,sql,index",
+            "recuweb_url": "http://en.recuweb.com/json/robots.thoughtbot.com/2015/03/build-and-test-a-blazing-fast-json-api-with-phoenix-an",
+            "resource_url": "http://www.google.com/search?q=index%2Bjson%2Bindex%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api"
+        },
+        "reddit.com/2015/03/those-of-you-who-work-with-json-data": {
+            "title": "Those of you who work with JSON data, what's your preferred C library?",
+            "snippet": "There's a few out there, for example SimpleJSON, JSONObject and. Any preferences, or are they all pretty much the same? submitted by hugepedlar to Unity3D link 21 comments...",
+            "date": "2015-03-18",
+            "categories": "json",
+            "tags": "example,json,data",
+            "recuweb_url": "http://en.recuweb.com/json/reddit.com/2015/03/those-of-you-who-work-with-json-data",
+            "resource_url": "http://www.reddit.com/search.rss?q=index%2Bjson%2Bindex%2Bjson&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/Unity3D/comments/2zfv3n/those_of_you_who_work_with_json_data_whats_your/"
+        },
+        "swanhart.livejournal.com/2015/03/my-sql-dump-advanced-json-for-mysql-indexing": {
+            "title": "My SQL Dump - Advanced JSON for MySQL: indexing and...",
+            "snippet": "What is JSON JSON is an text based, human readable format for transmitting data between systems, for serializing objects and for storing document store data for documents that have different attributes/schema for each...",
+            "date": "2015-03-09",
+            "author_name": "Justin Swanhart",
+            "categories": "json,mysql",
+            "tags": "each,objects,storing,store,json,sql,mysql,text,format,data",
+            "recuweb_url": "http://en.recuweb.com/mysql/swanhart.livejournal.com/2015/03/my-sql-dump-advanced-json-for-mysql-indexing",
+            "resource_url": "http://www.google.com/search?q=index%2Bjson%2Bindex%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://swanhart.livejournal.com/138180.html"
+        },
+        "ourslibre.wordpress.com/2015/03/jquery-utilties-each-map-detach": {
+            "title": "jQuery Utilties,.each,.map,.detach()...",
+            "snippet": "In Level 4 of JQuery the Return Flight Course at Code school, I learned a few utility methods that I think will be useful. In the earlier levels I []...",
+            "date": "2015-03-09",
+            "author_name": "Larry Adames",
+            "categories": "jquery,school",
+            "tags": "jquery,each,code",
+            "recuweb_url": "http://en.recuweb.com/school/ourslibre.wordpress.com/2015/03/jquery-utilties-each-map-detach",
+            "resource_url": "http://en.search.wordpress.com/?q=index%2Bjson%2Bindex%2Bjson&f=feed&page=1",
+            "source_url": "http://ourslibre.wordpress.com/2015/03/09/jquery-utilties-getjson-each-map-detach/"
+        },
+        "pypi.python.org/2015/01/json-sempai-python-package-index": {
+            "title": "json-sempai: Python Package Index...",
+            "snippet": "Use JSON files as if they're python modules. Have you ever been kept awake at night, desperately feeling a burning desire to do nothing else but directly import JSON files as if they were python modules [1]? Now you can!",
+            "date": "2015-01-19",
+            "author_name": "unknown",
+            "categories": "json",
+            "tags": "nothing,json,index",
+            "recuweb_url": "http://en.recuweb.com/json/pypi.python.org/2015/01/json-sempai-python-package-index",
+            "resource_url": "http://www.google.com/search?q=index%2Bjson%2Bindex%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://pypi.python.org/pypi/json-sempai"
+        },
+        "reddit.com/2015/01/jplt-kanji-a-day-resource": {
+            "title": "JPLT Kanji A Day Resource...",
+            "snippet": "Hi all The other day I came across a comment on this subreddit where the individual was seeking a kanji-a-day resource. Found a couple hours of free time (was watching football), so I quickly put together a very basic website which displays one...",
+            "date": "2015-01-13",
+            "categories": "football",
+            "tags": "website,ing,free,across",
+            "recuweb_url": "http://en.recuweb.com/football/reddit.com/2015/01/jplt-kanji-a-day-resource",
+            "resource_url": "http://www.reddit.com/search.rss?q=index%2Bjson%2Bindex%2Bjson&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/LearnJapanese/comments/2s8yxx/jplt_kanji_a_day_resource/"
+        },
+        "martinwendt1973.wordpress.com/2014/12/bildschirmaufl%C3%B6sung-in-datenbank-loggen": {
+            "title": "Bildschirmaufl\u00f6sung in Datenbank loggen...",
+            "snippet": "Mit Javascript die Aufl\u00f6sung ermitteln: Per jQuery/Ajax an den Server schicken: In den Index-Controller eine resolutionAction anlegen: nicht vergessen, auch eine passende DB-Tabelle anlegen: Aufl\u00f6sung per SQL anzeigen lassen: Ergebniss: 1280x680 1...",
+            "date": "2014-12-16",
+            "author_name": "martinwendt1973",
+            "categories": "javascript,jquery",
+            "tags": "javascript,jquery,server,index,sql",
+            "recuweb_url": "http://en.recuweb.com/jquery/martinwendt1973.wordpress.com/2014/12/bildschirmaufl%C3%B6sung-in-datenbank-loggen",
+            "resource_url": "http://en.search.wordpress.com/?q=index%2Bjson%2Bindex%2Bjson&f=feed&page=1",
+            "source_url": "http://martinwendt1973.wordpress.com/2014/12/16/bildschirmauflosung-in-datenbank-loggen/"
+        }
+    }
+}
