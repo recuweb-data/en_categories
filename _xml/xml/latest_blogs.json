@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "portal_name": "xml",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/xml/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/xml/xml/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/xml/xml/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/xml/xml/blogs.json"
+    },
+    "items": {
+        "stackoverflow.com/2015/04/why-is-loop-of-xml-file-in-java-not-displaying": {
+            "title": "Why is loop of XML file in Java not displaying all nodes/children...",
+            "snippet": "I have a static Java function which is supposed to loop through all the children/nodes of a XML file. Unfortunately, it's not going further than the 1st level. How can I display all nodes, including those deep-level nested? Here is...",
+            "date": "2015-04-16",
+            "author_name": "user3621633",
+            "categories": "xml,java",
+            "tags": "nodes,why,xml,file,java,here",
+            "recuweb_url": "http://en.recuweb.com/java/stackoverflow.com/2015/04/why-is-loop-of-xml-file-in-java-not-displaying",
+            "resource_url": "http://www.google.com/search?q=xml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/29682144/why-is-loop-of-xml-file-in-java-not-displaying-all-nodes-children"
+        },
+        "stackoverflow.com/2015/04/c-read-xml-to-arraylist-stack-overflow": {
+            "title": "c - Read xml to arrayList - Stack Overflow...",
+            "snippet": "Customer List Class - public class CustomerList public ListCustomer customers get; set;. Customer Class - Serializable public class Customer public string Name get; set; public string Surname get; set; public string...",
+            "date": "2015-04-16",
+            "author_name": "user3075152",
+            "categories": "xml",
+            "tags": "customer,stack,stack_overflow,overflow,xml",
+            "recuweb_url": "http://en.recuweb.com/xml/stackoverflow.com/2015/04/c-read-xml-to-arraylist-stack-overflow",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/29668394/read-xml-to-arraylist"
+        },
+        "stackoverflow.com/2015/04/absolute-path-with-xml-parser-in-java-stack-overflow": {
+            "title": "Absolute path with XML parser in java - Stack Overflow...",
+            "snippet": "Well you can't because as you mentioned, getSystemResourceAsStream only searches the classpath. You may have to so something like this. Document document=null; if ((designPath)!",
+            "date": "2015-04-15",
+            "author_name": "mohsaied",
+            "categories": "java,xml",
+            "tags": "only,because,mentioned,stack,stack_overflow,overflow,java,xml,document",
+            "recuweb_url": "http://en.recuweb.com/xml/stackoverflow.com/2015/04/absolute-path-with-xml-parser-in-java-stack-overflow",
+            "resource_url": "http://www.google.com/search?q=xml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/29659947/absolute-path-with-xml-parser-in-java"
+        },
+        "cookbooks.ca.com/2015/04/how-to-use-the-xpath-xml-parameter-in-nsql-constructs-ca": {
+            "title": "How to Use the XPATH XML Parameter in NSQL Constructs CA...",
+            "snippet": "The application may have seeded, system-restricted lookups that contain XPATH XML constructs, but the use of these lookups are restricted and controlled by the application. Originally published as CA Support knowledge...",
+            "date": "2015-04-09",
+            "author_name": "Damon (CA Technologies)",
+            "categories": "xml",
+            "tags": "application,xml",
+            "recuweb_url": "http://en.recuweb.com/xml/cookbooks.ca.com/2015/04/how-to-use-the-xpath-xml-parameter-in-nsql-constructs-ca",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://cookbooks.ca.com/cacppm/2015/04/09/how-to-use-the-xpath-xml-parameter-in-nsql-constructs/"
+        },
+        "apswpa.blogspot.com/2015/04/exercise-set-on-xml": {
+            "title": "Exercise set on XML...",
+            "snippet": "Available an exercise set on XML and XML validation. Look at the sample code and use it as a guide to do your homework.",
+            "date": "2015-04-03",
+            "author_name": "(mlc)",
+            "categories": "xml",
+            "tags": "xml",
+            "recuweb_url": "http://en.recuweb.com/xml/apswpa.blogspot.com/2015/04/exercise-set-on-xml",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=xml%2Bxml&rss=1&lng=en",
+            "source_url": "http://apswpa.blogspot.com/2015/04/exercise-set-on-xml.html"
+        },
+        "qillknows.wordpress.com/2015/04/semantic-web-uri-xml-and-schema": {
+            "title": "Semantic Web: URI XML and XML Schema...",
+            "snippet": "The idea behind Semantic Web technology appeared when Berners-Lee, Hendler, & Lassila (2001) mentioned it in their paper, The semantic Web in 2001. The basic idea of Semantic Web is to present information that can be understood not only by human,...",
+            "date": "2015-04-01",
+            "author_name": "qill",
+            "categories": "technology,xml",
+            "tags": "only,mentioned,technology,behind,xml,schema",
+            "recuweb_url": "http://en.recuweb.com/xml/qillknows.wordpress.com/2015/04/semantic-web-uri-xml-and-schema",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=xml%2Bxml&rss=1&lng=en",
+            "source_url": "http://qillknows.wordpress.com/2015/04/01/semantic-web-uri-xml-and-xml-schema-2/"
+        },
+        "drupal.org/2015/03/xml-sitemap-http-cache": {
+            "title": "XML sitemap Http Cache...",
+            "snippet": "INTRODUCTION XML sitemap Http Cache (XHC). This module uses non blocking batch job requests for generating http cache pages for Nginx fastcgi and such, from files provided by the xmlsitemap module.",
+            "date": "2015-03-31",
+            "author_name": "B2F",
+            "categories": "xml",
+            "tags": "provided,module,http,gene,xml,sitemap,files",
+            "recuweb_url": "http://en.recuweb.com/xml/drupal.org/2015/03/xml-sitemap-http-cache",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://drupal.org/project/xhc"
+        },
+        "programmers.stackexchange.com/2015/03/why-is-xml-type-safe-programmers-stack-exchange": {
+            "title": "Why is XML type safe? - Programmers Stack Exchange...",
+            "snippet": "Why do they say that XML provides type safety and how is it expressed in the XML itself? How is it different from JSON (for example) which (as I understand) is not type safe?... Because of the XML Schema Definition (XSD).",
+            "date": "2015-03-28",
+            "author_name": "user3339411",
+            "categories": "xml,json",
+            "tags": "type,safe,example,stack,exchange,why,xml,json,because,schema",
+            "recuweb_url": "http://en.recuweb.com/json/programmers.stackexchange.com/2015/03/why-is-xml-type-safe-programmers-stack-exchange",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://programmers.stackexchange.com/questions/277620/why-is-xml-type-safe"
+        },
+        "blog.didierstevens.com/2015/03/oledump-and-xml-with-embedded-ole-object-didier-stevens": {
+            "title": "oledump And XML With Embedded OLE Object Didier Stevens...",
+            "snippet": "I updated oledump to handle a new type of malicious document: an XML file, not with VBA macros, but with an embedded OLE object that is a VBS file. And the man page is finished. Run -m to view the man page.",
+            "date": "2015-03-27",
+            "author_name": "Didier Stevens",
+            "categories": "xml",
+            "tags": "updated,type,document,xml,file",
+            "recuweb_url": "http://en.recuweb.com/xml/blog.didierstevens.com/2015/03/oledump-and-xml-with-embedded-ole-object-didier-stevens",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.didierstevens.com/2015/03/27/oledump-and-xml-with-embedded-ole-object/"
+        },
+        "drupal.org/2015/03/multi-domain-xml-sitemap": {
+            "title": "Multi-domain XML Sitemap...",
+            "snippet": "This is a simple module that builds on top of XML Sitemap module (v2.0). It allows generating for multiple domains that point to the same Drupal site. For example, you might have,,...",
+            "date": "2015-03-26",
+            "author_name": "danithaca",
+            "categories": "xml,drupal",
+            "tags": "multiple,gene,module,xml,sitemap,example",
+            "recuweb_url": "http://en.recuweb.com/drupal/drupal.org/2015/03/multi-domain-xml-sitemap",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://drupal.org/project/xmlsitemap_domain"
+        }
+    }
+}
