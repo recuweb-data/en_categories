@@ -1,0 +1,123 @@
+{
+    "meta": {
+        "portal_name": "sqlite",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/sqlite/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/sqlite/sqlite/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/sqlite/sqlite/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/sqlite/sqlite/blogs.json"
+    },
+    "items": {
+        "stackoverflow.com/2015/04/angularjs-insert-username-password-into-sqlite-on-login-if-not-exist": {
+            "title": "angularjs - insert username password into sqlite on login If not exist...",
+            "snippet": "ngCordova Supports a plugin called \"cordovaSQLite\". Go through this its actually very simple. Once Installed use this tutorial Blog...",
+            "date": "2015-04-22",
+            "author_name": "Sajith Estia",
+            "categories": "sqlite",
+            "tags": "once,very,called,sqlite,tutorial",
+            "recuweb_url": "http://en.recuweb.com/sqlite/stackoverflow.com/2015/04/angularjs-insert-username-password-into-sqlite-on-login-if-not-exist",
+            "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/29805610/insert-username-password-into-sqlite-on-login-if-not-exist"
+        },
+        "lcamtuf.blogspot.com/2015/04/lcamtuf-s-blog-finding-bugs-in-sqlite-the-easy-way": {
+            "title": "lcamtuf's blog: Finding bugs in SQLite, the easy way...",
+            "snippet": "SQLite is probably the most popular embedded database in use today; it is also known for being exceptionally well-tested and robust. In contrast to traditional SQL solutions, it does not rely on the usual network-based...",
+            "date": "2015-04-14",
+            "author_name": "Michal Zalewski",
+            "categories": "sqlite,database",
+            "tags": "probably,popular,easy,finding,sqlite,database,sql",
+            "recuweb_url": "http://en.recuweb.com/database/lcamtuf.blogspot.com/2015/04/lcamtuf-s-blog-finding-bugs-in-sqlite-the-easy-way",
+            "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://lcamtuf.blogspot.com/2015/04/finding-bugs-in-sqlite-easy-way.html"
+        },
+        "github.com/2015/04/almost-react-native-sqlite-github": {
+            "title": "almost/react-native-sqlite GitHub...",
+            "snippet": "SQLite3 bindings for React Native. Contribute to react-native-sqlite development by creating an account on GitHub.",
+            "date": "2015-04-12",
+            "author_name": "Onadvertise",
+            "categories": "sqlite",
+            "tags": "development,creating,almost,sqlite",
+            "recuweb_url": "http://en.recuweb.com/sqlite/github.com/2015/04/almost-react-native-sqlite-github",
+            "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://github.com/almost/react-native-sqlite"
+        },
+        "lovholm.net/2015/04/sql-setup-a-learning-workbench-with-sqlite-and-squirrel": {
+            "title": "SQL: Setup a Learning Workbench with SQLite and SQuirreL...",
+            "snippet": "Install SQLite. To download SQLite you only need to download a file from the project homepage of SQLite. Select download, and precompiled download for your prefered operating system. Unzip the folder with the binary, and...",
+            "date": "2015-04-04",
+            "author_name": "Ola L\u00f8vholm",
+            "categories": "learning,sqlite",
+            "tags": "only,need,sql,sqlite,install,file,select,system",
+            "recuweb_url": "http://en.recuweb.com/sqlite/lovholm.net/2015/04/sql-setup-a-learning-workbench-with-sqlite-and-squirrel",
+            "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://lovholm.net/2015/04/04/sql-setup-a-learning-workbench-with-sqlite-and-squirrel/"
+        },
+        "charlesleifer.com/2015/03/charles-leifer-meet-scout-a-search-server-powered-by-sqlite": {
+            "title": "charles leifer Meet Scout, a Search Server Powered by SQLite...",
+            "snippet": "In my continuing adventures with SQLite, I had the idea of writing a RESTful search server utilizing SQLite's full-text search extension. You might think of it as a poor man's ElasticSearch a very, very poor man. So what is this...",
+            "date": "2015-03-28",
+            "author_name": "charles leifer",
+            "categories": "sqlite",
+            "tags": "very,server,sqlite",
+            "recuweb_url": "http://en.recuweb.com/sqlite/charlesleifer.com/2015/03/charles-leifer-meet-scout-a-search-server-powered-by-sqlite",
+            "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://charlesleifer.com/blog/meet-scout-a-search-server-powered-by-sqlite/"
+        },
+        "reddit.com/2015/03/tifu-by-removing-sqlite": {
+            "title": "TIFU By removing sqlite...",
+            "snippet": "So, with great power comes great responsibility. Good thing it was only my laptop. Yum was giving me some weird errors that dependencies with sqlite can not be resolved. After some google and searching, I came by post that suggested (they were...",
+            "date": "2015-03-26",
+            "categories": "google,sqlite",
+            "tags": "google,only,sqlite,after",
+            "recuweb_url": "http://en.recuweb.com/sqlite/reddit.com/2015/03/tifu-by-removing-sqlite",
+            "resource_url": "http://www.reddit.com/search.rss?q=sqlite%2Bsqlite&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/linux/comments/30cz60/tifu_by_removing_sqlite/"
+        },
+        "ramblingcookiemonster.wordpress.com/2015/03/sqlite-and-powershell-rambling-cookie-monster": {
+            "title": "SQLite and PowerShell rambling cookie monster...",
+            "snippet": "Looking around, you'll stumble upon Jim Christopher's SQLite PowerShell Provider. If you like working with providers and PSDrives, this is probably as far as you need to go. There are other examples abound, including...",
+            "date": "2015-03-15",
+            "author_name": "ramblingcookiemonster",
+            "categories": "sqlite",
+            "tags": "other,probably,need,jim,sqlite",
+            "recuweb_url": "http://en.recuweb.com/sqlite/ramblingcookiemonster.wordpress.com/2015/03/sqlite-and-powershell-rambling-cookie-monster",
+            "resource_url": "http://www.google.com/search?q=sqlite&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ramblingcookiemonster.wordpress.com/2015/03/15/sqlite-and-powershell/"
+        },
+        "baltagy1.blogspot.com/2015/02/sqlite-expert-professional-portable": {
+            "title": "SQLite Expert Professional Portable...",
+            "snippet": "SQLite Expert: A powerful administration tool for your SQLite databases Are you developing SQLite3 databases and need an easy and powerful tool? SQLite Expert is the perfect choice. It is the most feature rich administration and development tool for...",
+            "date": "2015-02-26",
+            "author_name": "Omar Nour",
+            "categories": "sqlite",
+            "tags": "development,tool,choice,need,easy,powerful,sqlite,sqlite_expert,expert,professional,portable,databases",
+            "recuweb_url": "http://en.recuweb.com/sqlite/baltagy1.blogspot.com/2015/02/sqlite-expert-professional-portable",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=sqlite%2Bsqlite&rss=1&lng=en",
+            "source_url": "http://baltagy1.blogspot.com/2015/02/sqlite-expert-professional-v3571.html"
+        },
+        "code.tutsplus.com/2015/02/an-introduction-to-and-sqlite-tuts-code-tutorial": {
+            "title": "An Introduction to and SQLite - Tuts Code Tutorial...",
+            "snippet": "You have now seen the term SQLite a couple of times in this tutorial, it's time to get down to the meat. What exactly is SQLite? SQLite is a public domain, zero configuration, transactional SQL database engine. All this means is...",
+            "date": "2015-02-11",
+            "author_name": "Derek Jensen",
+            "categories": "meat,sqlite,database",
+            "tags": "down,code,tutorial,introduction,sqlite,sql,database,engine",
+            "recuweb_url": "http://en.recuweb.com/database/code.tutsplus.com/2015/02/an-introduction-to-and-sqlite-tuts-code-tutorial",
+            "resource_url": "http://www.google.com/search?q=sqlite&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://code.tutsplus.com/tutorials/an-introduction-to-xamarinforms-and-sqlite--cms-23020"
+        },
+        "blogs.gnome.org/2015/01/sqlite-vacuum-and-auto-jim-nelson-yorba": {
+            "title": "SQLite, VACUUM, and auto_vacuum Jim Nelson Yorba...",
+            "snippet": "The week before Christmas I hunkered down and took on a nagging issue in Geary I'm almost embarrassed to discuss. The long and short of it is, prior to this commit, Geary never deleted emails from its internal SQLite...",
+            "date": "2015-01-07",
+            "author_name": "Jim",
+            "categories": "sqlite",
+            "tags": "long,almost,down,jim,sqlite",
+            "recuweb_url": "http://en.recuweb.com/sqlite/blogs.gnome.org/2015/01/sqlite-vacuum-and-auto-jim-nelson-yorba",
+            "resource_url": "http://www.google.com/search?q=sqlite&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.gnome.org/jnelson/2015/01/06/sqlite-vacuum-and-auto_vacuum/"
+        }
+    }
+}
