@@ -1,0 +1,114 @@
+{
+    "meta": {
+        "portal_name": "mysql",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/mysql/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/mysql/mysql/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/mysql/mysql/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
+    },
+    "items": {
+        "blogs.msdn.com/2015/03/performance-tuning-mysql-database-on-azure-linux-vms": {
+            "title": "Performance Tuning MySQL Database on Azure Linux VMs...",
+            "snippet": "Please tune these settings in your Test/Staging environments and simulate load to see if it increases performance. These settings should not be applied directly in Production environment. You can also tune some of these settings to obtain higher...",
+            "date": "2015-03-27",
+            "categories": "environment,mysql,database,production",
+            "tags": "environments,environment,load,performance,mysql,database",
+            "recuweb_url": "http://en.recuweb.com/production/blogs.msdn.com/2015/03/performance-tuning-mysql-database-on-azure-linux-vms",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
+            "source_url": "http://blogs.msdn.com/b/azureossds/archive/2015/03/27/performance-tuning-mysql-database-on-azure-linux-vm-s.aspx"
+        },
+        "cbronline.com/2015/03/q&a-databases-open-source-&-virtualisation-with-ceo-vinay-joosery": {
+            "title": "Q&A: Databases, Open Source & Virtualisation with CEO Vinay Joosery...",
+            "snippet": "Adding PostgreSQL coverage to the solution has enabled IT operators to manage the three most popular open source databases - MySQL, MongoDB and PostgreSQL - from one ClusterControl platform. The upgrade also boosts increased monitoring capabilities...",
+            "date": "2015-03-26",
+            "categories": "mysql",
+            "tags": "increased,popular,popular-open,open,source,databases,gresql,mysql,mongodb",
+            "recuweb_url": "http://en.recuweb.com/mysql/cbronline.com/2015/03/q&a-databases-open-source-&-virtualisation-with-ceo-vinay-joosery",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
+            "source_url": "http://cbronline.com/news/it/software/qa-databases-open-source-virtualisation-with-ceo-vinay-joosery-4538250"
+        },
+        "sys-con.com/2015/03/7-quick-mysql-performance-tips-for-the-small-business-sys-con": {
+            "title": "7 quick MySQL performance tips for the small business - SYS-CON Media (press release)...",
+            "snippet": "7 quick MySQL performance tips for the small businessSYS-CON Media (press release)MySQL is the world's second most popular relational database management system (RDMS) and is the most popular open-source version of the database. It's easily...",
+            "date": "2015-03-25",
+            "categories": "management,business,mysql,database",
+            "tags": "source,popular,popular-open,open,management,world,performance,tips,release,mysql,database",
+            "recuweb_url": "http://en.recuweb.com/database/sys-con.com/2015/03/7-quick-mysql-performance-tips-for-the-small-business-sys-con",
+            "resource_url": "http://news.google.com/?hl=en&q=mysql%2Bmysql&output=atom&nord=1",
+            "source_url": "http://sys-con.com/node/3316524"
+        },
+        "infoq.com/2015/03/innodb-enhancements-for-mysql-5-7": {
+            "title": "InnoDB Enhancements for MySQL 5.7...",
+            "snippet": "MySQL 5.7 comes with over 20 enhancements to InnoDB. In this, the first of our reports on MySQL 5.7, we will cover some of the highlights such as temp table performance, spatial indexes, and full text search parsers. Normally changing the data type...",
+            "date": "2015-03-23",
+            "categories": "mysql",
+            "tags": "data,text,performance,first,innodb,mysql,reports",
+            "recuweb_url": "http://en.recuweb.com/mysql/infoq.com/2015/03/innodb-enhancements-for-mysql-5-7",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
+            "source_url": "http://infoq.com/news/2015/03/MySQL-InnoDB"
+        },
+        "businesscloudnews.com/2015/03/youtube-brings-vitess-mysql-scaling-magic-to-kubernetes": {
+            "title": "YouTube brings Vitess MySQL scaling magic to Kubernetes...",
+            "snippet": "YouTube is working to integrate Vitess, which improves the ability of MySQL databases to scale in containerised environments, with Kubernetes, an open source container deployment and management tool. Vitess, which is available as an open source...",
+            "date": "2015-03-23",
+            "categories": "management,environment,magic,mysql",
+            "tags": "open,source,management,environments,mysql,databases",
+            "recuweb_url": "http://en.recuweb.com/mysql/businesscloudnews.com/2015/03/youtube-brings-vitess-mysql-scaling-magic-to-kubernetes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
+            "source_url": "http://businesscloudnews.com/2015/03/23/youtube-brings-vitess-mysql-scaling-magic-to-kubernetes/"
+        },
+        "infotechlead.com/2015/03/walkover-web-dumps-mysql-and-taps-mongodb-infotech-lead-registration-blog": {
+            "title": "Walkover Web dumps MySQL and taps MongoDB - Infotech Lead (registration) (blog)...",
+            "snippet": "Walkover Web dumps MySQL and taps MongoDBInfotech Lead (registration) (blog)Walkover Web Solutions'MSG91 was built on MySQL but the company noticed that when the customer increased its demand for app, it could not provide beyond 500,000 messages per...",
+            "date": "2015-03-17",
+            "categories": "mysql",
+            "tags": "increased,mysql,mongodb",
+            "recuweb_url": "http://en.recuweb.com/mysql/infotechlead.com/2015/03/walkover-web-dumps-mysql-and-taps-mongodb-infotech-lead-registration-blog",
+            "resource_url": "http://news.google.com/?hl=en&q=mysql%2Bmysql&output=atom&nord=1",
+            "source_url": "http://infotechlead.com/software/walkover-web-dumps-mysql-and-taps-mongodb-28820"
+        },
+        "webpronews.com/2015/03/scalearc-announces-acid-compliant-caching-mechanism-for-mysql-sql-webpronews": {
+            "title": "ScaleArc Announces ACID-Compliant Caching Mechanism For MySQL, SQL... - WebProNews...",
+            "snippet": "WebProNewsScaleArc Announces ACID-Compliant Caching Mechanism For MySQL, SQL...WebProNewsDatabase load balancing software provider ScaleArt announced support for automatic cache invalidation, which it calls the world's first ACID-compliant caching...",
+            "date": "2015-03-16",
+            "categories": "mysql",
+            "tags": "first,world,support,load,mysql,sql,software",
+            "recuweb_url": "http://en.recuweb.com/mysql/webpronews.com/2015/03/scalearc-announces-acid-compliant-caching-mechanism-for-mysql-sql-webpronews",
+            "resource_url": "http://news.google.com/?hl=en&q=mysql%2Bmysql&output=atom&nord=1",
+            "source_url": "http://webpronews.com/scalearc-announces-acid-compliant-caching-mechanism-for-mysql-sql-server-oracle-2015-03"
+        },
+        "i-programmer.info/2015/03/improved-performance-in-mysql-developer-milestone-release-iprogrammer": {
+            "title": "Improved Performance In MySQL Developer Milestone Release - iProgrammer...",
+            "snippet": "Improved Performance In MySQL Developer Milestone ReleaseiProgrammerOracle has released MySQL developer milestone 16 and claims that its performance has improved by a factor of between two and three times compared to previous releases. The InnoDB...",
+            "date": "2015-03-12",
+            "categories": "mysql",
+            "tags": "performance,mysql,release,innodb",
+            "recuweb_url": "http://en.recuweb.com/mysql/i-programmer.info/2015/03/improved-performance-in-mysql-developer-milestone-release-iprogrammer",
+            "resource_url": "http://news.google.com/?hl=en&q=mysql%2Bmysql&output=atom&nord=1",
+            "source_url": "http://i-programmer.info/news/84-database/8374-improved-performance-in-mysql-developer-milestone-release.html"
+        },
+        "dbta.com/2015/03/percona-to-host-mysql-and-open-stack-conferences-april-12-16": {
+            "title": "Percona to Host MySQL and Open Stack Conferences April 12-16 in Santa Clara - Database Trends and...",
+            "snippet": "Percona to Host MySQL and Open Stack Conferences April 12-16 in Santa ClaraDatabase Trends and ApplicationsPercona, which provides MySQL consulting, support, managed services, and training as well as software, will be hosting its MySQL Conference...",
+            "date": "2015-03-10",
+            "categories": "database,mysql",
+            "tags": "database,open,mysql,support,training,software",
+            "recuweb_url": "http://en.recuweb.com/mysql/dbta.com/2015/03/percona-to-host-mysql-and-open-stack-conferences-april-12-16",
+            "resource_url": "http://news.google.com/?hl=en&q=mysql%2Bmysql&output=atom&nord=1",
+            "source_url": "http://dbta.com/Editorial/News-Flashes/Percona-to-Host-MySQL-and-Open-Stack-Conferences-April-12-16-in-Santa-Clara-102545.aspx"
+        },
+        "databasejournal.com/2015/03/mysql-fuzzy-text-searching-using-the-soundex-function-database-journal": {
+            "title": "MySQL Fuzzy Text Searching Using the SOUNDEX Function - Database Journal...",
+            "snippet": "MySQL Fuzzy Text Searching Using the SOUNDEX FunctionDatabase JournalNonetheless, I have found that as long as you are clear on what you are trying to accomplish, you can implement fuzzy text searching within your MySQL database by using a...",
+            "date": "2015-03-09",
+            "categories": "database,mysql",
+            "tags": "text,database,mysql",
+            "recuweb_url": "http://en.recuweb.com/mysql/databasejournal.com/2015/03/mysql-fuzzy-text-searching-using-the-soundex-function-database-journal",
+            "resource_url": "http://news.google.com/?hl=en&q=mysql%2Bmysql&output=atom&nord=1",
+            "source_url": "http://databasejournal.com/features/mysql/mysql-fuzzy-text-searching-using-the-soundex-function.html"
+        }
+    }
+}
