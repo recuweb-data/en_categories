@@ -1,0 +1,114 @@
+{
+    "meta": {
+        "portal_name": "sqlite",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/sqlite/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/sqlite/sqlite/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/sqlite/sqlite/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/sqlite/sqlite/blogs.json"
+    },
+    "items": {
+        "en.kioskea.net/2015/03/graphical-interfaces-for-sqlite": {
+            "title": "Graphical interfaces for SQLite...",
+            "snippet": "SQLite is a powerful database management engine found in a relatively small C programming library; it requires no monitoring and can be used with most programming languages (C, C, Java, Python). Unlike SQL (client server database system), the...",
+            "date": "2015-03-27",
+            "categories": "languages,management,sqlite,database,java",
+            "tags": "library,sqlite,database,sql",
+            "recuweb_url": "http://en.recuweb.com/java/en.kioskea.net/2015/03/graphical-interfaces-for-sqlite",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite%2Bsqlite&format=RSS&cc=us",
+            "source_url": "http://en.kioskea.net/faq/629-graphical-interfaces-for-sqlite"
+        },
+        "arcticstartup.com/2015/03/realm-raises-18-m-series-b-to-bring-databases-mobile-arcticstartup": {
+            "title": "Realm Raises 18 M series B to bring databases to Mobile - ArcticStartup...",
+            "snippet": "Realm Raises 18 M series B to bring databases to MobileArcticStartupIt uses a brand-new storage architecture, not SQLite, and an easier API designed for needs of modern mobile apps and smartphones. It is already used by tens of thousands of app...",
+            "date": "2015-03-25",
+            "categories": "sqlite",
+            "tags": "mobile,apps,storage,databases,realm,sqlite",
+            "recuweb_url": "http://en.recuweb.com/sqlite/arcticstartup.com/2015/03/realm-raises-18-m-series-b-to-bring-databases-mobile-arcticstartup",
+            "resource_url": "http://news.google.com/?hl=en&q=sqlite&output=atom&nord=1",
+            "source_url": "http://arcticstartup.com/2015/03/25/realm-raises-e18-m-series-b-to-bring-databases-to-mobile"
+        },
+        "businessinsider.com/2015/03/a-startup-launched-9-months-ago-by-these-former-nokia-engineers": {
+            "title": "A startup launched 9 months ago by these former Nokia engineers is going... - Business Insider...",
+            "snippet": "Business InsiderA startup launched 9 months ago by these former Nokia engineers is going...Business InsiderRealm wants to take down SQLite, which is the mobile database recommended by Apple for iOS and Google for Android. SQLite is a rare form of...",
+            "date": "2015-03-24",
+            "categories": "business,sqlite,database,google",
+            "tags": "mobile,sqlite,database,apple,ios,android",
+            "recuweb_url": "http://en.recuweb.com/google/businessinsider.com/2015/03/a-startup-launched-9-months-ago-by-these-former-nokia-engineers",
+            "resource_url": "http://news.google.com/?hl=en&q=sqlite&output=atom&nord=1",
+            "source_url": "http://businessinsider.com/realm-started-by-former-nokia-engineers-is-going-bonkers-2015-3"
+        },
+        "forbes.com/2015/03/realm-picks-up-20m-to-further-its-mobile-ambitions": {
+            "title": "Realm Picks Up 20M To Further Its Mobile Ambitions...",
+            "snippet": "Realm claims customer wins with Groupon, Intuit, and Zynga. Of course Realm has competitors in particular SQLite, a database that has a long history and is now adapted for mobile obviously Realm claims its solution is better, being specifically...",
+            "date": "2015-03-24",
+            "categories": "sqlite,database",
+            "tags": "mobile,realm,sqlite,database",
+            "recuweb_url": "http://en.recuweb.com/database/forbes.com/2015/03/realm-picks-up-20m-to-further-its-mobile-ambitions",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=us",
+            "source_url": "http://forbes.com/sites/benkepes/2015/03/24/realm-picks-up-20m-to-further-its-mobile-ambitions/"
+        },
+        "techfrag.com/2015/03/what-you-are-watching-privately-on-safari-is-not-as-private": {
+            "title": "What You Are Watching Privately On Safari, Is 'NOT'As Private As You Think - TechFrag...",
+            "snippet": "TechFragWhat You Are Watching Privately On Safari, Is 'NOT'As Private As You ThinkTechFragThe SQLite database can be opened using typical SQLite readers. Only if you have secured your MAC with FineVault, you can stop anyone from knowing which sites...",
+            "date": "2015-03-21",
+            "categories": "sqlite,database",
+            "tags": "using,private,sqlite,safari,database,mac",
+            "recuweb_url": "http://en.recuweb.com/database/techfrag.com/2015/03/what-you-are-watching-privately-on-safari-is-not-as-private",
+            "resource_url": "http://news.google.com/?hl=en&q=sqlite&output=atom&nord=1",
+            "source_url": "http://techfrag.com/2015/03/21/watching-privately-on-safari-is-not-as-private-as-you-think/"
+        },
+        "theregister.co.uk/2015/03/apple-safari-update-borked-private-browsing-the-register": {
+            "title": "Apple Safari update BORKED private browsing - The Register...",
+            "snippet": "The RegisterApple Safari update BORKED private browsingThe RegisterAs described by Macissues, users of recent Safari versions on the newest flavours of OSX are finding that so-called private URLs are turning up in the SQLite database that stores...",
+            "date": "2015-03-19",
+            "categories": "sqlite,database",
+            "tags": "private,safari,browsing,apple,urls,sqlite,database",
+            "recuweb_url": "http://en.recuweb.com/database/theregister.co.uk/2015/03/apple-safari-update-borked-private-browsing-the-register",
+            "resource_url": "http://news.google.com/?hl=en&q=sqlite%2Bsqlite&output=atom&nord=1",
+            "source_url": "http://theregister.co.uk/2015/03/18/apple_safari_update_borked_private_browsing/"
+        },
+        "fastcompany.com/2015/03/safari-private-browsing-history-is-not-forgotten-after-all-fast-company": {
+            "title": "Safari Private Browsing History Is Not Forgotten After All - Fast Company...",
+            "snippet": "Fast CompanySafari Private Browsing History Is Not Forgotten After AllFast CompanyTo find (and delete) your private browsing history, you need to access a database file and view it with a SQLite browser, as Lifehacker recommends. Other than being...",
+            "date": "2015-03-19",
+            "categories": "database,sqlite",
+            "tags": "file,private,private_browsing,browsing,fast,safari,find,access,database,sqlite,browser",
+            "recuweb_url": "http://en.recuweb.com/sqlite/fastcompany.com/2015/03/safari-private-browsing-history-is-not-forgotten-after-all-fast-company",
+            "resource_url": "http://news.google.com/?hl=en&q=sqlite&output=atom&nord=1",
+            "source_url": "http://fastcompany.com/3044018/fast-feed/safari-private-browsing-history-is-not-forgotten-after-all"
+        },
+        "forensicmag.com/2015/03/forensic-analysis-of-sqlite-databases-free-lists-write-ahead-log-unallocated": {
+            "title": "Forensic Analysis of SQLite Databases: Free Lists, Write Ahead Log, Unallocated Space and Carving...",
+            "snippet": "SQLite is a popular database format that is used extensively. Both iOS and Android employ SQLite as a storage format of choice, with built-in and third-party applications relying on SQLite to keep their data. A wide range of desktop and mobile Web...",
+            "date": "2015-03-17",
+            "categories": "sqlite,database",
+            "tags": "mobile,data,storage,sqlite,databases,free,database,ios,android",
+            "recuweb_url": "http://en.recuweb.com/database/forensicmag.com/2015/03/forensic-analysis-of-sqlite-databases-free-lists-write-ahead-log-unallocated",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=us",
+            "source_url": "http://forensicmag.com/articles/2015/03/forensic-analysis-sqlite-databases-free-lists-write-ahead-log-unallocated-space-and-carving"
+        },
+        "lifehacker.com/2015/03/safari-s-private-browsing-mode-saves-urls-in-an-easily-accessible": {
+            "title": "Safari's Private Browsing Mode Saves URLs In an Easily Accessible File...",
+            "snippet": "Safari saves all the favicon images and URLs you visit in the/Library/Safari/file. You can open that file with any SQLite browser. Once you do, you'll find a full list of all the URLs you've ever visited in Safari, private mode or...",
+            "date": "2015-03-17",
+            "categories": "sqlite",
+            "tags": "private,find,file,private_browsing,browsing,urls,safari,library,sqlite,browser",
+            "recuweb_url": "http://en.recuweb.com/sqlite/lifehacker.com/2015/03/safari-s-private-browsing-mode-saves-urls-in-an-easily-accessible",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=us",
+            "source_url": "http://lifehacker.com/safaris-private-browsing-mode-saves-urls-in-an-easily-a-1691944343?amp;amp"
+        },
+        "networkworld.com/2015/03/seven-killer-linux-apps-that-will-change-how-you-work": {
+            "title": "Seven killer Linux apps that will change how you work...",
+            "snippet": "Available as part of the Calligra office suite, Kexi is a visual database creator and user interface. Bundled with SQLite and compatible with MySQL and PostgreSQL databases (for both import and export), Kexi is fast and stable. A tool for migrating...",
+            "date": "2015-03-17",
+            "categories": "database,sqlite,mysql",
+            "tags": "fast,import,export,creator,part,apps,work,linux,database,sqlite,mysql,databases",
+            "recuweb_url": "http://en.recuweb.com/mysql/networkworld.com/2015/03/seven-killer-linux-apps-that-will-change-how-you-work",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=us",
+            "source_url": "http://networkworld.com/article/2898174/linux/seven-killer-linux-apps-that-will-change-how-you-work.html"
+        }
+    }
+}
