@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "portal_name": "mysql",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/mysql/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/mysql/mysql/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/mysql/mysql/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
+    },
+    "items": {
+        "mesosphere.com/2015/04/mysql-on-mesos-today-s-database-meets-tomorrow-datacenter": {
+            "title": "MySQL on Mesos: today's database meets tomorrow's datacenter...",
+            "snippet": "In case you missed it on Thursday, Twitter released some details of its large MySQL implementation and a proposal for a new Apache Software Foundation project called Mysos. As the pormanteau suggests, Mysos is a...",
+            "date": "2015-04-17",
+            "author_name": "ExplodingAds.com",
+            "categories": "mysql,database,twitter",
+            "tags": "software,released,mysql,today,database",
+            "recuweb_url": "http://en.recuweb.com/twitter/mesosphere.com/2015/04/mysql-on-mesos-today-s-database-meets-tomorrow-datacenter",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://mesosphere.com/blog/2015/04/17/mysql-on-mesos-todays-database-meets-tomorrows-datacenter/"
+        },
+        "blog.mclaughlinsoftware.com/2015/04/how-to-write-java-mysql-linux-programs-maclochlainns-weblog": {
+            "title": "How to write Java-MySQL Linux Programs - MacLochlainns Weblog...",
+            "snippet": "It turns out that configuring Perl wasn't the last step for my student instance. It appears that I neglected to configure my student instance to support Java connectivity to MySQL. This post reviews the configuration of Java to run...",
+            "date": "2015-04-17",
+            "author_name": "maclochlainn",
+            "categories": "mysql,java,perl",
+            "tags": "configuring,mysql,linux,java,support,run",
+            "recuweb_url": "http://en.recuweb.com/perl/blog.mclaughlinsoftware.com/2015/04/how-to-write-java-mysql-linux-programs-maclochlainns-weblog",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.mclaughlinsoftware.com/2015/04/17/java-mysql-program/"
+        },
+        "blogs.vmware.com/2015/04/introducing-vmware-continuent-4-0-mysql-clustering-and-real": {
+            "title": "Introducing VMware Continuent 4.0 MySQL Clustering and Real...",
+            "snippet": "It's with great pleasure we announce the general availability of VMware Continuent 4.0 a new suite of solutions for clustering and replication of MySQL to data warehouses. For those of you who follow VMware closely, you...",
+            "date": "2015-04-17",
+            "author_name": "vCloud Team",
+            "categories": "pleasure,mysql",
+            "tags": "solutions,replication,mysql,introducing,data",
+            "recuweb_url": "http://en.recuweb.com/mysql/blogs.vmware.com/2015/04/introducing-vmware-continuent-4-0-mysql-clustering-and-real",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.vmware.com/vcloud/2015/04/introducing-vmware-continuent-4-0-mysql-clustering-and-real-time-replication-to-data-warehouses.html"
+        },
+        "clusterdb.com/2015/04/mysql-cluster-7-4-new-features-webinar-replay-andrew-morgan": {
+            "title": "MySQL Cluster 7.4 New Features Webinar Replay Andrew Morgan...",
+            "snippet": "I recently hosted a webinar introducing MySQL Cluster and then looking into what's new in the latest version (MySQL Cluster 7.4) in some more detail. The replay of the MySQL Cluster 7.4 webinar is now available here.",
+            "date": "2015-04-16",
+            "author_name": "andrew",
+            "categories": "mysql",
+            "tags": "available,here,version,into,introducing,mysql",
+            "recuweb_url": "http://en.recuweb.com/mysql/clusterdb.com/2015/04/mysql-cluster-7-4-new-features-webinar-replay-andrew-morgan",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://clusterdb.com/mysql-cluster/mysql-cluster-7-4-new-features-webinar-replay"
+        },
+        "javacodegeeks.com/2015/04/docker-mysql-persistence-java-code-geeks": {
+            "title": "Docker MySQL Persistence Java Code Geeks...",
+            "snippet": "One of the recipes in 9 Docker recipes for Java developers is using MySQL container with WildFly. Docker containers are ephemeral, and so any state stored in them is gone after they are terminated and removed. So even...",
+            "date": "2015-04-16",
+            "author_name": "unknown",
+            "categories": "mysql,java",
+            "tags": "container,using,mysql,java",
+            "recuweb_url": "http://en.recuweb.com/java/javacodegeeks.com/2015/04/docker-mysql-persistence-java-code-geeks",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://javacodegeeks.com/2015/04/docker-mysql-persistence.html"
+        },
+        "securityweek.com/2015/04/oracle-security-update-contains-critical-patches-for-mysql-java-se": {
+            "title": "Oracle Security Update Contains Critical Patches for MySQL, Java SE...",
+            "snippet": "Oracle released a security update with a whopping 98 fixes, including 17 for Oracle Fusion Middleware and 26 for Oracle MySQL. The fixes arrived on Tuesday the same day as a bevy of patches from Microsoft and Adobe...",
+            "date": "2015-04-15",
+            "author_name": "Brian Prince",
+            "categories": "mysql,java",
+            "tags": "released,update,oracle,mysql,java",
+            "recuweb_url": "http://en.recuweb.com/java/securityweek.com/2015/04/oracle-security-update-contains-critical-patches-for-mysql-java-se",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://securityweek.com/oracle-security-update-contains-critical-patches-mysql-java-se"
+        },
+        "percona.com/2015/04/docstore-document-database-for-mysql-at-facebook-pdf-percona": {
+            "title": "DocStore: Document Database for MySQL at Facebook pdf - Percona...",
+            "snippet": "Overview of DocStore. What is DocStore? Stands for Document Store. A JSON document database built on top of MySQL. The goal of DocStore. To provide a easy-to-use, flexible, and schema-less storage solution. 3...",
+            "date": "2015-04-14",
+            "author_name": "blog.explodingads.com",
+            "categories": "database,mysql,facebook,json",
+            "tags": "solution,provide,easy,built,database,mysql,percona",
+            "recuweb_url": "http://en.recuweb.com/json/percona.com/2015/04/docstore-document-database-for-mysql-at-facebook-pdf-percona",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://percona.com/live/mysql-conference-2015/sites/default/files/slides/Facebook+DocStore+Percona+2015.pdf"
+        },
+        "mysqlhighavailability.com/2015/04/mysql-it-is-easier-to-switch-master-now-high": {
+            "title": "MySQL: It is easier to switch master now! MySQL High...",
+            "snippet": "Introduction. One of the primary objectives of MySQL replication is providing an easy failover process i.e. switching to a redundant system if the primary MySQL server fails. In MySQL this translates to switching to the most...",
+            "date": "2015-04-13",
+            "author_name": "Shivji Jha",
+            "categories": "mysql",
+            "tags": "system,replication,easy,mysql",
+            "recuweb_url": "http://en.recuweb.com/mysql/mysqlhighavailability.com/2015/04/mysql-it-is-easier-to-switch-master-now-high",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://mysqlhighavailability.com/mysql-5-7-6-it-is-easier-to-switch-master-now/"
+        },
+        "papitv.com/2015/04/learn-mysql-fundamentals-from-industry-leaders-at-the-largest-conference-2015": {
+            "title": "Learn MySQL Fundamentals from Industry Leaders at the Largest MySQL Conference 2015...",
+            "snippet": "Learn MySQL Fundamentals from Industry Leaders at the Largest MySQL Conference The 2015 Percona Live MySQL 101 Program: Learn MySQL Fundamentals from Industry Leaders at the Largest MySQL Conference Hello Silicon Valley Techies, More and more, our...",
+            "date": "2015-04-12",
+            "author_name": "KC Leung",
+            "categories": "mysql",
+            "tags": "hello,percona,mysql,conference,learn",
+            "recuweb_url": "http://en.recuweb.com/mysql/papitv.com/2015/04/learn-mysql-fundamentals-from-industry-leaders-at-the-largest-conference-2015",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=mysql%2Bmysql&rss=1&lng=en",
+            "source_url": "http://papitv.com/learn-mysql-fundamentals-from-industry-leaders-at-the-largest-mysql-conference"
+        },
+        "kotiravi.blogspot.com/2015/04/setting-password-for-new-mysql-database-on-mac": {
+            "title": "Setting Password for new Mysql database on MAC...",
+            "snippet": "Try the command FLUSH PRIVILEGES when you log into the MySQL terminal. If that doesn't work, try the following set of commands while in the MySQL terminal mysql -u root mysql use mysql; mysql update user set...",
+            "date": "2015-04-11",
+            "author_name": "(kotiravi)",
+            "categories": "mysql,database",
+            "tags": "update,try,into,setting,mysql,database",
+            "recuweb_url": "http://en.recuweb.com/database/kotiravi.blogspot.com/2015/04/setting-password-for-new-mysql-database-on-mac",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=mysql%2Bmysql&rss=1&lng=en",
+            "source_url": "http://kotiravi.blogspot.com/2015/04/setting-password-for-new-mysql-database.html"
+        }
+    }
+}
