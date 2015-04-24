@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "portal_name": "perl",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/perl/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/perl/perl/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/perl/perl/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/perl/perl/blogs.json"
+    },
+    "items": {
+        "blogs.perl.org/2015/04/exodist-perl-qa-2015-chad-granum": {
+            "title": "Exodist perl-qa 2015 Chad 'Exodist'Granum...",
+            "snippet": "I am finally home from the perl-qa hackathon in Berlin. For me personally I consider this hackathon a huge success. I think many things happened at this hackathon that will propel the perl5 ecosystem forward. Before diving...",
+            "date": "2015-04-21",
+            "author_name": "Chad 'Exodist' Granum",
+            "categories": "home,perl",
+            "tags": "many,things,hackathon,success,perl",
+            "recuweb_url": "http://en.recuweb.com/perl/blogs.perl.org/2015/04/exodist-perl-qa-2015-chad-granum",
+            "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.perl.org/users/chad_exodist_granum/2015/04/exodist-perl-qa-2015.html"
+        },
+        "blogs.perl.org/2015/04/amazon-development-center-is-sponsoring-the-perl-qa-hackathon": {
+            "title": "Amazon Development Center is sponsoring the Perl QA Hackathon...",
+            "snippet": "We would like to announce that Amazon Development Center Germany is sponsoring the Perl QA Hackathon.. The Amazon Development Center Germany is happy to sponsor the Perl QA Hackathon 2015.",
+            "date": "2015-04-19",
+            "author_name": "tinita",
+            "categories": "perl",
+            "tags": "sponsoring,perl,perl_qa_hackathon,hackathon,amazon,would",
+            "recuweb_url": "http://en.recuweb.com/perl/blogs.perl.org/2015/04/amazon-development-center-is-sponsoring-the-perl-qa-hackathon",
+            "resource_url": "http://www.google.com/search?q=perl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.perl.org/users/tinita/2015/04/amazon-development-center-is-sponsoring-the-perl-qa-hackathon-2015.html"
+        },
+        "blogs.perl.org/2015/04/affinitylive-is-sponsoring-the-perl-qa-hackathon-tinita": {
+            "title": "AffinityLive is sponsoring the Perl QA Hackathon tinita...",
+            "snippet": "What language do you use? Whether I'm talking to investors, prospective hires or just curious clients, many people are surprised to hear AffinityLive is written in Perl. Part of the reason was luck - I started hacking away on what...",
+            "date": "2015-04-18",
+            "author_name": "tinita",
+            "categories": "hacking,perl",
+            "tags": "many,curious,language,perl,perl_qa_hackathon,hackathon,sponsoring,part",
+            "recuweb_url": "http://en.recuweb.com/perl/blogs.perl.org/2015/04/affinitylive-is-sponsoring-the-perl-qa-hackathon-tinita",
+            "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.perl.org/users/tinita/2015/04/affinitylive-is-sponsoring-the-perl-qa-hackathon.html"
+        },
+        "blog.mclaughlinsoftware.com/2015/04/how-to-write-a-perl-query-against-mysql-maclochlainns-weblog": {
+            "title": "How to write a Perl Query against MySQL - MacLochlainns Weblog...",
+            "snippet": "Configuring Perl to work with MySQL is the last part creating a complete Fedora Linux LAMP stack for my students. Perl is already installed on Fedora Linux. I've also shown how to use PHP, Python, and Ruby languages to...",
+            "date": "2015-04-13",
+            "author_name": "maclochlainn",
+            "categories": "languages,students,perl,mysql,php",
+            "tags": "linux,stack,lamp,last,part,perl,write,mysql,work,php,python",
+            "recuweb_url": "http://en.recuweb.com/php/blog.mclaughlinsoftware.com/2015/04/how-to-write-a-perl-query-against-mysql-maclochlainns-weblog",
+            "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.mclaughlinsoftware.com/2015/04/13/perl-mysql-program/"
+        },
+        "blogs.perl.org/2015/04/how-perl-stickk-helped-me-get-organized-david-mertens-blogs": {
+            "title": "How Perl StickK helped me get organized David Mertens blogs...",
+            "snippet": "The last three months have been some of the most professionally productive months I've had in years. In true Perl fashion, it all boils down to a Perl-related \"hack\" with. StickK's philosophy is based on the known...",
+            "date": "2015-04-08",
+            "author_name": "David Mertens",
+            "categories": "perl",
+            "tags": "down,years,last,perl",
+            "recuweb_url": "http://en.recuweb.com/perl/blogs.perl.org/2015/04/how-perl-stickk-helped-me-get-organized-david-mertens-blogs",
+            "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.perl.org/users/david_mertens/2015/04/how-the-perl-stickk-helped-me-get-organized.html"
+        },
+        "blogs.perl.org/2015/03/tiny-games-with-perl-6-ovid": {
+            "title": "Tiny Games with Perl 6 Ovid...",
+            "snippet": "Note: due to positive feedback on the post and at a client, I've released DBIx::Class::Report to the CPAN. You can read the original announcement here. An offhand tweet about Perl 6, inspired by this ycombinator response,...",
+            "date": "2015-03-21",
+            "author_name": "Ovid",
+            "categories": "perl",
+            "tags": "perl,ovid,note",
+            "recuweb_url": "http://en.recuweb.com/perl/blogs.perl.org/2015/03/tiny-games-with-perl-6-ovid",
+            "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.perl.org/users/ovid/2015/03/tiny-games-with-perl-6.html"
+        },
+        "onionstand.blogspot.com/2015/03/how-to-add-online-code-badges-your-perl-projects": {
+            "title": "How to add online code badges to your Perl projects...",
+            "snippet": "If you hang around Github you might have seen a lot of projects adding extra information to their README files in the form of badges, like so: Not only do they make your project's Github page look cooler, they also help developers, from curious...",
+            "date": "2015-03-14",
+            "author_name": "garu",
+            "categories": "perl",
+            "tags": "files,around,perl,curious",
+            "recuweb_url": "http://en.recuweb.com/perl/onionstand.blogspot.com/2015/03/how-to-add-online-code-badges-your-perl-projects",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=perl%2Bperl&rss=1&lng=en",
+            "source_url": "http://onionstand.blogspot.com/2015/03/how-to-add-online-code-badges-to-your.html"
+        },
+        "blogs.perl.org/2015/03/fake-amazon-book-reviews-are-hurting-my-ovid": {
+            "title": "Fake Amazon Book Reviews Are Hurting My Book Ovid...",
+            "snippet": "My book has bounced around on the rankings, sometimes being 1 in Perl (not as often as I would like), but usually down a bit further past well-deserving books by great authors such as Randal Schwartz, Damian Conway,...",
+            "date": "2015-03-13",
+            "author_name": "Ovid",
+            "categories": "perl",
+            "tags": "book,great,down,well,around,ovid,amazon,perl,would",
+            "recuweb_url": "http://en.recuweb.com/perl/blogs.perl.org/2015/03/fake-amazon-book-reviews-are-hurting-my-ovid",
+            "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.perl.org/users/ovid/2015/03/fake-amazon-book-reviews-are-hurting-my-book.html"
+        },
+        "effectiveperl.com/2015/03/applying-perl-programming-in-websites": {
+            "title": "Applying Perl Programming in Websites...",
+            "snippet": "Perl is a powerful and versatile scripting language for both Windows and Linux. Within a few minutes any programmer can develop a script to carry out their desired operations, and this is made even easier when one of the myriad of available modules...",
+            "date": "2015-03-04",
+            "author_name": "claude",
+            "categories": "perl",
+            "tags": "made,any,language,perl,programming,linux",
+            "recuweb_url": "http://en.recuweb.com/perl/effectiveperl.com/2015/03/applying-perl-programming-in-websites",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=perl%2Bperl&rss=1&lng=en",
+            "source_url": "http://effectiveperl.com/applying-perl-programming-in-websites/"
+        },
+        "blogs.perl.org/2015/02/avoid-a-common-software-bug-by-using-perl-6-ovid": {
+            "title": "Avoid a Common Software Bug By Using Perl 6 Ovid...",
+            "snippet": "Back in the days of, I blogged about this hell almost every day. It was also, interestingly, the first project I wrote software tests for. The other main dev on the project was teaching me how Perl's testing tools worked...",
+            "date": "2015-02-22",
+            "author_name": "Ovid",
+            "categories": "teaching,perl",
+            "tags": "software,using,perl,ovid,first,other",
+            "recuweb_url": "http://en.recuweb.com/perl/blogs.perl.org/2015/02/avoid-a-common-software-bug-by-using-perl-6-ovid",
+            "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.perl.org/users/ovid/2015/02/avoid-a-common-software-bug-by-using-perl-6.html"
+        }
+    }
+}
