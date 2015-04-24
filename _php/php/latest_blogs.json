@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "portal_name": "php",
+        "language": "en"
+    },
+    "schema": {
+        "html:portal": "http://en.recuweb.com/php/",
+        "graph:videos": "http://en.recuweb.com/graph/v1.0/php/php/videos.json",
+        "graph:news": "http://en.recuweb.com/graph/v1.0/php/php/news.json",
+        "graph:blogs": "http://en.recuweb.com/graph/v1.0/php/php/blogs.json"
+    },
+    "items": {
+        "blog.astrumfutura.com/2015/04/tls-ssl-security-in-php-avoiding-the-lowest-common-insecure": {
+            "title": "TLS/SSL Security In PHP: Avoiding The Lowest Common Insecure...",
+            "snippet": "In the case of PHP users on Windows, this may include not having openssl or curl installed. Without either of these options, TLS verification in PHP becomes impossible without looking outside PHP (e.g. locally available...",
+            "date": "2015-04-23",
+            "author_name": "padraic",
+            "categories": "php",
+            "tags": "either,users,php,windows",
+            "recuweb_url": "http://en.recuweb.com/php/blog.astrumfutura.com/2015/04/tls-ssl-security-in-php-avoiding-the-lowest-common-insecure",
+            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.astrumfutura.com/2015/04/tlsssl-security-in-php-avoiding-the-lowest-common-insecure-denominator-trap/"
+        },
+        "stackoverflow.com/2015/04/apache-hard-links-between-php-files-in-different-directories": {
+            "title": "apache - hard links between php files in different directories, what...",
+            "snippet": "I have two websites that are identical in structure. The file needs to generate different content depending on the domain that the page is being served from. I am using apache 2.2 and created two virtual hosts using...",
+            "date": "2015-04-22",
+            "author_name": "user1279887",
+            "categories": "php",
+            "tags": "file,different,content,websites,apache,php,using",
+            "recuweb_url": "http://en.recuweb.com/php/stackoverflow.com/2015/04/apache-hard-links-between-php-files-in-different-directories",
+            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/29806175/hard-links-between-php-files-in-different-directories-what-should-be-the-expect"
+        },
+        "pakprogs.wordpress.com/2015/04/intro-to-php": {
+            "title": "Intro to PHP...",
+            "snippet": "There are two types of Language used in web development. Client Side Language Server Side Language Client side languages are those language which run on the end-user's system. Like HTML,CSS, JS(JavaScript).",
+            "date": "2015-04-18",
+            "author_name": "pakprogs",
+            "categories": "languages,php,html,css,javascript",
+            "tags": "languages,server,server-side,side,types,php,language,web,development,run,user,html,javascript",
+            "recuweb_url": "http://en.recuweb.com/javascript/pakprogs.wordpress.com/2015/04/intro-to-php",
+            "resource_url": "http://en.search.wordpress.com/?q=php%2Bphp&f=feed&page=1",
+            "source_url": "http://pakprogs.wordpress.com/2015/04/18/intro-to-php/"
+        },
+        "futuresearcher.wordpress.com/2015/04/php-renewed-the-new-face-of": {
+            "title": "PHP renewed: The new face of PHP...",
+            "snippet": "The New Face of PHP: Discover the new language features in much more. phpPHP renewed: The new face of PHPIn the first installment of a four-part series...",
+            "date": "2015-04-15",
+            "author_name": "Erman Akdogan",
+            "categories": "php",
+            "tags": "series,php,language,first",
+            "recuweb_url": "http://en.recuweb.com/php/futuresearcher.wordpress.com/2015/04/php-renewed-the-new-face-of",
+            "resource_url": "http://en.search.wordpress.com/?q=php%2Bphp&f=feed&page=1",
+            "source_url": "http://futuresearcher.wordpress.com/2015/04/15/php-renewed-the-new-face-of-php/"
+        },
+        "security.stackexchange.com/2015/04/malware-what-does-this-malicious-php-script-do-information": {
+            "title": "malware - What does this malicious PHP script do? - Information...",
+            "snippet": "Somebody hacked my site and uploaded this script () to my webroot and its content is:?php vIIJ30Y=Array('1'='F', '0'='j', '3'='s', '2'='l', '5'='M', '4'='0', '7'='W', '6'='L', '9'='Z', '8'='b', 'A'='i',...",
+            "date": "2015-04-15",
+            "author_name": "kenorb",
+            "categories": "php",
+            "tags": "content,site,script,php",
+            "recuweb_url": "http://en.recuweb.com/php/security.stackexchange.com/2015/04/malware-what-does-this-malicious-php-script-do-information",
+            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://security.stackexchange.com/questions/86094/what-does-this-malicious-php-script-do"
+        },
+        "ostraining.com/2015/04/absolute-beginners-guide-to-php-arrays-ostraining": {
+            "title": "Absolute Beginners Guide to PHP Arrays - OSTraining...",
+            "snippet": "Arrays are wonderful ways to organize and use data in PHP. Quite simply, an array is a list. Here's a quick example of an array of types of transportation: transportation=array('Planes', 'Trains', 'Automobiles');.",
+            "date": "2015-04-14",
+            "author_name": "Topher DeRosia",
+            "categories": "php",
+            "tags": "arrays,types,data,php,simply",
+            "recuweb_url": "http://en.recuweb.com/php/ostraining.com/2015/04/absolute-beginners-guide-to-php-arrays-ostraining",
+            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ostraining.com/blog/coding/arrays/"
+        },
+        "code.tutsplus.com/2015/04/building-your-startup-with-php-user-settings-profile-images": {
+            "title": "Building Your Startup With PHP: User Settings, Profile Images and...",
+            "snippet": "All of the code for Meeting Planner is written in the Yii2 Framework for PHP, which has built-in support for I18n. If you'd like to learn more about Yii2, check out our parallel series Programming With Yii2 at Tuts.",
+            "date": "2015-04-13",
+            "author_name": "Jeff Reifman",
+            "categories": "php",
+            "tags": "check,series,programming,built,code,user,php,framework,learn",
+            "recuweb_url": "http://en.recuweb.com/php/code.tutsplus.com/2015/04/building-your-startup-with-php-user-settings-profile-images",
+            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://code.tutsplus.com/tutorials/building-your-startup-with-php-user-settings-profile-images-and-contact-details--cms-23196"
+        },
+        "rkimiles.wordpress.com/2015/04/trying-out-reportico": {
+            "title": "Trying out Reportico...",
+            "snippet": "This days I needed a reporting solution. That's how I found Reportico. Reportico is an Open Source PHP web reporting tool. For more info in how to use it. Read...",
+            "date": "2015-04-12",
+            "author_name": "rokimiles",
+            "categories": "php",
+            "tags": "open,php,web,read",
+            "recuweb_url": "http://en.recuweb.com/php/rkimiles.wordpress.com/2015/04/trying-out-reportico",
+            "resource_url": "http://en.search.wordpress.com/?q=php&f=feed&page=1",
+            "source_url": "http://rkimiles.wordpress.com/2015/04/11/trying-out-reportico/"
+        },
+        "blog.jetbrains.com/2015/04/php-annotated-monthly-april-2015-jetbrains-phpstorm-blog": {
+            "title": "PHP Annotated Monthly April 2015 JetBrains PhpStorm Blog...",
+            "snippet": "Our April issue of PHP Annotated Monthly delivers updates on PHP, frameworks, tools, tips for coding, HHVM, news on RFCs for PHP 7, community, and much more. Read this month's digest curated by Mikhail Vink, PhpStorm...",
+            "date": "2015-04-09",
+            "author_name": "Mikhail Vink",
+            "categories": "php",
+            "tags": "month,php,read",
+            "recuweb_url": "http://en.recuweb.com/php/blog.jetbrains.com/2015/04/php-annotated-monthly-april-2015-jetbrains-phpstorm-blog",
+            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.jetbrains.com/phpstorm/2015/04/php-annotated-monthly-april-2015/"
+        },
+        "wpdevnotes.wordpress.com/2015/04/using-interfaces-effectively-in-php": {
+            "title": "Using Interfaces Effectively in PHP...",
+            "snippet": "Simply put: interfaces are contracts that some code implements and adheres to and other code depends upon. It allows us to have assurance that any given dependency will []...",
+            "date": "2015-04-02",
+            "author_name": "abrudtkuhl",
+            "categories": "php",
+            "tags": "code,using,php,simply",
+            "recuweb_url": "http://en.recuweb.com/php/wpdevnotes.wordpress.com/2015/04/using-interfaces-effectively-in-php",
+            "resource_url": "http://en.search.wordpress.com/?q=php%2Bphp&f=feed&page=1",
+            "source_url": "http://wpdevnotes.wordpress.com/2015/04/02/using-interfaces-effectively-in-php/"
+        }
+    }
+}
