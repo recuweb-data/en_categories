@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "furniture",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/furniture/",
@@ -10,29 +11,77 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/furniture/furniture/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/the-big-furniture-fair-2015": {
-            "title": "The BIG Furniture Fair 2015...",
-            "snippet": "The BIG Furniture Fair 2015 The Big Furniture Fair is back for the third year running! It is Singapore's most popular and one of the biggest home shows here! It's now on at Singapore Expo Hall 7, till April 26 it is... From: Media Full House Views:...",
-            "date": "2015-04-15",
-            "author_name": "Media Full House",
-            "categories": "home,furniture",
-            "tags": "here,big,furniture",
-            "recuweb_url": "http://en.recuweb.com/furniture/youtube.com/2015/04/the-big-furniture-fair-2015",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=furniture%2Bfurniture&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=VmAjB1E8zNE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/VmAjB1E8zNE/0.jpg"
-        },
-        "youtube.com/2015/04/movers-come-&-bring-over-my-furniture": {
-            "title": "MOVERS COME & BRING OVER MY FURNITURE...",
-            "snippet": "MOVERS COME & BRING OVER MY FURNITURE READ DESCRIPTION BEFORE ASKING ANYTHING follow me on Instagram&Twitter: taramassicotte Main Channel: OPEN FOR MORE INFO... From: Tara Michelle Vlogs Views: 28617 3894 ratings Time: 13:36 More in People & Blogs...",
-            "date": "2015-04-13",
-            "author_name": "Tara Michelle Vlogs",
+        "dailymotion.com/2015/04/how-to-make-your-own-furniture-and-wood-crafts-9000-plans": {
+            "title": "How To Make Your Own Furniture and Wood Crafts 9000 Plans With Furniture & Wood plans...",
+            "snippet": "How To Make Your Own Furniture and Wood Crafts 9000 Plans With Furniture & Wood plansAuthor: woodstyle1Tags: How To Make Your Own Furniture and Wood Crafts 9000 Plans With plans Posted: 26 April 2015Rating:: 0...",
+            "date": "2015-04-25",
+            "author_name": "woodstyle1",
             "categories": "furniture",
-            "tags": "furniture,come",
-            "recuweb_url": "http://en.recuweb.com/furniture/youtube.com/2015/04/movers-come-&-bring-over-my-furniture",
+            "tags": "furniture",
+            "recuweb_url": "http://en.recuweb.com/furniture/dailymotion.com/2015/04/how-to-make-your-own-furniture-and-wood-crafts-9000-plans",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/furniture+furniture/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nzjiu_how-to-make-your-own-furniture-and-wood-crafts-9000-plans-with-furniture-wood-plans_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nzjiu_how-to-make-your-own-furniture-and-wood-crafts-9000-plans-with-furniture-wood-plans_lifestyle"
+        },
+        "dailymotion.com/2015/04/dinning-table-furniture-by-hudson": {
+            "title": "Dinning Table Furniture By Hudson Furniture...",
+            "snippet": "As Sydney premier manufacturer of handmade mahogany furniture, Hudson Furniture takes great pride in producing the finest replica and custom pieces to suit all tastes. We meticulously handcraft each item to exacting standards, with all of the...",
+            "date": "2015-04-24",
+            "author_name": "hudsonfurniture359",
+            "categories": "furniture",
+            "tags": "furniture,handmade",
+            "recuweb_url": "http://en.recuweb.com/furniture/dailymotion.com/2015/04/dinning-table-furniture-by-hudson",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/furniture+furniture/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nstuh_dinning-table-furniture-by-hudson-furniture_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nstuh_dinning-table-furniture-by-hudson-furniture_lifestyle"
+        },
+        "youtube.com/2015/04/miniature-furniture-dining-chair-tutorial": {
+            "title": "Miniature Furniture; 'Dining Chair'Tutorial...",
+            "snippet": "Miniature Furniture; 'Dining Chair'Tutorial Hey Guys! I made these chairs a while back and since I'm kind of short of time due to the miniature fair I chose to edit these, as it was one of the shortest videos I had in stock. I used copper... From:...",
+            "date": "2015-04-23",
+            "author_name": "SugarCharmShop",
+            "categories": "furniture",
+            "tags": "chairs,chair,furniture",
+            "recuweb_url": "http://en.recuweb.com/furniture/youtube.com/2015/04/miniature-furniture-dining-chair-tutorial",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=furniture&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=v8_HoMQcNPk&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/v8_HoMQcNPk/0.jpg"
+        },
+        "youtube.com/2015/04/party-with-alisha-new-apartment-furniture": {
+            "title": "PARTY WITH ALISHA NEW APARTMENT FURNITURE!",
+            "snippet": "PARTY WITH ALISHA NEW APARTMENT FURNITURE! Day 52: April 22, 2015 We got some new furniture for our office in the apartment! Alisha comes over and we go to a party for Smashbox. Follow Us: ALEX Main Channel: From: Alex and Mia Views: 69062 6286...",
+            "date": "2015-04-23",
+            "author_name": "Alex and Mia",
+            "categories": "furniture",
+            "tags": "furniture,office",
+            "recuweb_url": "http://en.recuweb.com/furniture/youtube.com/2015/04/party-with-alisha-new-apartment-furniture",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=furniture%2Bfurniture&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=ULgAyR5H0Lw&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/ULgAyR5H0Lw/0.jpg"
+            "source_url": "http://youtube.com/watch?v=FXNMFa4pUwA&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/FXNMFa4pUwA/0.jpg"
+        },
+        "youtube.com/2015/04/making-a-slant-front-desk-by-doucette-and-wolfe-furniture-makers": {
+            "title": "Making a Slant Front Desk by Doucette and Wolfe Furniture Makers...",
+            "snippet": "Making a Slant Front Desk by Doucette and Wolfe Furniture Makers Slant Front Desk Building Process Video. This Slant Front Desk is Handmade of Solid Cherry with Shell Carved interior Drawers and Hand Cut Dovetail Joinery by Doucette and Wolfe Fine...",
+            "date": "2015-04-17",
+            "author_name": "Doucette and Wolfe Furniture Makers",
+            "categories": "furniture",
+            "tags": "furniture,handmade",
+            "recuweb_url": "http://en.recuweb.com/furniture/youtube.com/2015/04/making-a-slant-front-desk-by-doucette-and-wolfe-furniture-makers",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=furniture&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=gIRTAPxGoRY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/gIRTAPxGoRY/0.jpg"
+        },
+        "dailymotion.com/2015/04/raana-furniture-60-seconds-in-electronic-city-bangalore-pin-code": {
+            "title": "- Raana Furniture 60 Seconds Furniture in Electronic City - Bangalore - Pin Code...",
+            "snippet": "Official Website: is an online platform owned by PinCoTV Internet Private Limited. It was created to help people discover local stores and other useful places in their neighborhood. The platform enables its users to watch documentary videos, get...",
+            "date": "2015-04-15",
+            "author_name": "PinCodeTV",
+            "categories": "places,internet,furniture",
+            "tags": "online,furniture",
+            "recuweb_url": "http://en.recuweb.com/furniture/dailymotion.com/2015/04/raana-furniture-60-seconds-in-electronic-city-bangalore-pin-code",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/furniture+furniture/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2mpq81_pincodetv-com-raana-furniture-60-seconds-furniture-in-electronic-city-bangalore-pin-code-560100-indi_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mpq81_pincodetv-com-raana-furniture-60-seconds-furniture-in-electronic-city-bangalore-pin-code-560100-indi_lifestyle"
         },
         "dailymotion.com/2015/04/asnaghi-furniture-of": {
             "title": "Asnaghi Furniture Furniture of...",
@@ -52,7 +101,7 @@
             "date": "2015-04-02",
             "author_name": "ShellySandoval",
             "categories": "furniture,business",
-            "tags": "office,furniture,furnitureauthor",
+            "tags": "office,furniture",
             "recuweb_url": "http://en.recuweb.com/business/dailymotion.com/2015/04/align-office-furniture-collection-national-business",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/furniture+furniture/0?af=1",
             "source_url": "http://dailymotion.com/video/x2llzv6_align-office-furniture-collection-national-business-furniture_lifestyle",
@@ -60,11 +109,11 @@
         },
         "youtube.com/2015/03/restoring-furniture-for-profit-38-craigslist-hunter": {
             "title": "Restoring Furniture For Profit 38 Craigslist Hunter...",
-            "snippet": "Restoring Furniture For Profit 38 Craigslist Hunter How I turn a 3 chair from Goodwill in to a 200 profit. Super easy and fast way of furniture restoration. Step by step instruction. Fallow me on From: Craigslist Hunter Views: 1745 133 ratings Time:...",
+            "snippet": "Restoring Furniture For Profit 38 Craigslist Hunter How I turn a 3 chair from Goodwill in to a 200 profit. Super easy and fast way of furniture restoration. Step by step instruction. Fallow me on From: Craigslist Hunter Views: 2123 144 ratings Time:...",
             "date": "2015-03-24",
             "author_name": "Craigslist Hunter",
             "categories": "furniture",
-            "tags": "furniture",
+            "tags": "furniture,chair",
             "recuweb_url": "http://en.recuweb.com/furniture/youtube.com/2015/03/restoring-furniture-for-profit-38-craigslist-hunter",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=furniture%2Bfurniture&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=vevLBeaEPmo&feature=youtube_gdata",
@@ -76,59 +125,11 @@
             "date": "2015-03-19",
             "author_name": "dm_50b832b0932fa",
             "categories": "furniture",
-            "tags": "furniture,office,big,come",
+            "tags": "furniture,office,chairs,online",
             "recuweb_url": "http://en.recuweb.com/furniture/dailymotion.com/2015/03/big-&-tall-office-chairs-furniture-online",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/furniture+furniture/0?af=1",
             "source_url": "http://dailymotion.com/video/xvhml1_big-tall-office-chairs-furniture-online-office-furniture_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/xvhml1_big-tall-office-chairs-furniture-online-office-furniture_lifestyle"
-        },
-        "dailymotion.com/2015/02/how-to-make-doll-furniture-1st-part": {
-            "title": "How to Make Doll Furniture - (1st part)...",
-            "snippet": "Hi, this is Merve, I am the person who makes the crafts that you see here on simplekidscrafts. I have been saving these matchboxes since 2013 to make this particular craft, if you dont have matchboxes you can download the template to make your own...",
-            "date": "2015-02-24",
-            "author_name": "dpwcllc",
-            "categories": "furniture",
-            "tags": "template,template-to-make,make,make-your-own,own,dont,dont-have-matchboxes,matchboxes,make-this-particular,particular,particular-craft,crafts,saving,saving-these-matchboxes,person,person-who-makes,makes,makes-the-crafts,here,here-on-simplekidscrafts,simplekidscrafts,part,make_doll,make_doll_furniture,doll,doll_furniture,furniture,merve",
-            "recuweb_url": "http://en.recuweb.com/furniture/dailymotion.com/2015/02/how-to-make-doll-furniture-1st-part",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/furniture/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2hz3ld_how-to-make-doll-furniture-1st-part_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2hz3ld_how-to-make-doll-furniture-1st-part_lifestyle"
-        },
-        "dailymotion.com/2015/02/how-to-make-doll-furniture-2nd-part": {
-            "title": "How to Make Doll Furniture - (2nd part)...",
-            "snippet": "Hi, this is Merve, I am the person who makes the crafts that you see here on simplekidscrafts. I have been saving these matchboxes since 2013 to make this particular craft, if you dont have matchboxes you can download the template to make your own...",
-            "date": "2015-02-24",
-            "author_name": "dpwcllc",
-            "categories": "furniture",
-            "tags": "template,template-to-make,make,make-your-own,own,dont,dont-have-matchboxes,matchboxes,make-this-particular,particular,particular-craft,crafts,saving,saving-these-matchboxes,person,person-who-makes,makes,makes-the-crafts,here,here-on-simplekidscrafts,simplekidscrafts,part,make_doll,make_doll_furniture,doll,doll_furniture,furniture,merve",
-            "recuweb_url": "http://en.recuweb.com/furniture/dailymotion.com/2015/02/how-to-make-doll-furniture-2nd-part",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/furniture/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2hz8er_how-to-make-doll-furniture-2nd-part_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2hz8er_how-to-make-doll-furniture-2nd-part_lifestyle"
-        },
-        "youtube.com/2015/02/minecraft-m%C3%B3veis-mod-computador-privada-fog%C3%ADo-banheira-furniture-showcase": {
-            "title": "Minecraft: M\u00d3VEIS MOD (COMPUTADOR, PRIVADA, FOG\u00edO, BANHEIRA) FURNITURE Mod Showcase...",
-            "snippet": "Minecraft: M\u00d3VEIS MOD (COMPUTADOR, PRIVADA, FOG\u00edO, BANHEIRA) FURNITURE Mod Showcase Se Inscreva no canal: Camisetas RezendeEvil: PLAYLIST: Pr\u00f3ximo Epis\u00f3dio: Em Breve Epis\u00f3dio Anterior: go... From: rezendeevil Views: 287346 12520 ratings Time:...",
-            "date": "2015-02-12",
-            "author_name": "rezendeevil",
-            "categories": "furniture,play",
-            "tags": "furniture",
-            "recuweb_url": "http://en.recuweb.com/play/youtube.com/2015/02/minecraft-m%C3%B3veis-mod-computador-privada-fog%C3%ADo-banheira-furniture-showcase",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=furniture%2Bfurniture&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=mPPIjSblLYk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/mPPIjSblLYk/0.jpg"
-        },
-        "dailymotion.com/2015/02/matroshka-furniture-swedish-multifunctional": {
-            "title": "Matroshka Furniture - Swedish multifunctional furniture...",
-            "snippet": "Transformable FurnitureAuthor: smallspacesaddictionTags: Meuble furniture transformation Posted: 10 February 2015Rating:: 0...",
-            "date": "2015-02-10",
-            "author_name": "smallspacesaddiction",
-            "categories": "furniture",
-            "tags": "furniture,furnitureauthor",
-            "recuweb_url": "http://en.recuweb.com/furniture/dailymotion.com/2015/02/matroshka-furniture-swedish-multifunctional",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/furniture+furniture/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2gv4ip_matroshka-furniture-swedish-multifunctional-furniture_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2gv4ip_matroshka-furniture-swedish-multifunctional-furniture_lifestyle"
         }
     }
 }
