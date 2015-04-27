@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "health-policy",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/health-policy/",
@@ -10,38 +11,71 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/health-policy/health-policy/blogs.json"
     },
     "items": {
-        "thehill.com/2015/04/obamacare-court-fight-escalates-thehill": {
-            "title": "ObamaCare court fight escalates TheHill...",
-            "snippet": "It is appalling that President Obama would cut off federal healthcare dollars to Florida in an effort to force our state further into ObamaCare, Scott said last week. Healthcare Best.... Aviation Policy Summit: The Future of Flight...",
+        "healthindustrywashingtonwatch.com/2015/04/congressional-health-policy-hearings-industry-washington": {
+            "title": "Congressional Health Policy Hearings: Health Industry Washington...",
+            "snippet": "Congressional committees have held a number of hearings recently on health policy issues, include the following A House Energy and Commerce Health Sub.",
+            "date": "2015-04-24",
+            "author_name": "Debra A. McCurdy",
+            "categories": "commerce,health,health-policy,policy",
+            "tags": "health,recently,washington,health_policy,policy,issues",
+            "recuweb_url": "http://en.recuweb.com/policy/healthindustrywashingtonwatch.com/2015/04/congressional-health-policy-hearings-industry-washington",
+            "resource_url": "http://www.google.com/search?q=health%2Bpolicy%2Bhealth%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://healthindustrywashingtonwatch.com/2015/04/articles/legislative-developments/hearings-and-markups/congressional-health-policy-hearings/"
+        },
+        "blogs.law.harvard.edu/2015/04/the-place-of-human-rights-in-global-health-policy-bill": {
+            "title": "The Place of Human Rights in Global Health Policy Bill of Health...",
+            "snippet": "In an article published in the Lancet, Effy Vayena and I focus specifically on the place of human rights in global health policy. Understanding human rights in the first instance as universal moral rights, we argue for two main...",
+            "date": "2015-04-24",
+            "author_name": "Petrie-Flom Center",
+            "categories": "rights,global-health,health,health-policy,policy",
+            "tags": "global,published,global_health,global_health_policy,health,health_policy,policy",
+            "recuweb_url": "http://en.recuweb.com/policy/blogs.law.harvard.edu/2015/04/the-place-of-human-rights-in-global-health-policy-bill",
+            "resource_url": "http://www.google.com/search?q=health%2Bpolicy%2Bhealth%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.law.harvard.edu/billofhealth/2015/04/24/the-place-of-human-rights-in-global-health-policy/"
+        },
+        "channelstv.com/2015/04/prof-sonubi-tasks-fg-on-adequate-health-policy-funding": {
+            "title": "Prof Sonubi Tasks FG On Adequate Health Policy Funding...",
+            "snippet": "Former Chief Medical Director of OOUTH, Prof Olusola Sonubi, has tasked Nigerian government on adequate health policy that all stakeholders could buy into.",
+            "date": "2015-04-23",
+            "author_name": "TruBrotha",
+            "categories": "health,health-policy,policy",
+            "tags": "government,adequate,former,director,health,health_policy,policy,funding",
+            "recuweb_url": "http://en.recuweb.com/policy/channelstv.com/2015/04/prof-sonubi-tasks-fg-on-adequate-health-policy-funding",
+            "resource_url": "http://www.google.com/search?q=health%2Bpolicy%2Bhealth%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://channelstv.com/2015/04/23/prof-sonubi-tasks-fg-on-adequate-health-policy-funding/"
+        },
+        "ghcorps.org/2015/04/the-us-global-health-policy-agenda-where-are-we-headed": {
+            "title": "The US Global Health Policy Agenda: Where Are We Headed?",
+            "snippet": "For more than a century, the United States has supported health initiatives oversees as an element of its foreign aid and international development assistance portfolio. It also remains the largest funder and implementer of...",
+            "date": "2015-04-21",
+            "author_name": "Anjali Morgan",
+            "categories": "global-health,health,health-policy,policy",
+            "tags": "largest,global,global_health,global_health_policy,health,health_policy,policy,agenda",
+            "recuweb_url": "http://en.recuweb.com/policy/ghcorps.org/2015/04/the-us-global-health-policy-agenda-where-are-we-headed",
+            "resource_url": "http://www.google.com/search?q=health%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ghcorps.org/the-u-s-global-health-policy-agenda-where-are-we-headed/"
+        },
+        "healthblog.ncpa.org/2015/04/bipartisan-medicare-reform-debt-and-deficits-all-the-way-down": {
+            "title": "Bipartisan Medicare Reform: Debt and Deficits, All the Way Down...",
+            "snippet": "By John R. Graham Filed under Health Alerts on April 20, 2015 with 5 comments. The extremely flawed so-called.... From a larger policy point of view, the government should be encouraging decentralization rather than consolidation. Without...",
             "date": "2015-04-20",
-            "author_name": "admin",
-            "categories": "policy",
-            "tags": "policy,healthcare,said,state,further,into,would,federal,president,fight,obamacare,florida,scott",
-            "recuweb_url": "http://en.recuweb.com/policy/thehill.com/2015/04/obamacare-court-fight-escalates-thehill",
-            "resource_url": "http://www.google.com/search?q=health%2Bpolicy%2Bhealth%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://thehill.com/policy/healthcare/239404-obamacare-fight-escalates-as-texas-backs-florida-lawsuit"
-        },
-        "healthblog.ncpa.org/2015/04/health-prices-outpace-other-consumer-policy-blog": {
-            "title": "Health Prices Outpace Other Consumer Prices Health Policy Blog...",
-            "snippet": "Today's release of the Consumer Price Index (CPI) indicates that prices of health services are outpacing other consumer goods and services by a multiple. From.",
-            "date": "2015-04-17",
             "author_name": "John R. Graham",
-            "categories": "health,health-policy,policy",
-            "tags": "services,prices,price,health,health_policy,health_policy_blog,policy,policy_blog,today",
-            "recuweb_url": "http://en.recuweb.com/policy/healthblog.ncpa.org/2015/04/health-prices-outpace-other-consumer-policy-blog",
+            "categories": "health,policy",
+            "tags": "government,health,health_alerts,alerts,down,policy",
+            "recuweb_url": "http://en.recuweb.com/policy/healthblog.ncpa.org/2015/04/bipartisan-medicare-reform-debt-and-deficits-all-the-way-down",
             "resource_url": "http://www.google.com/search?q=health%2Bpolicy%2Bhealth%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://healthblog.ncpa.org/health-prices-outpace-other-consumer-prices/"
+            "source_url": "http://healthblog.ncpa.org/bipartisan-medicare-reform-debt-and-deficits-all-the-way-down/"
         },
-        "healthblog.ncpa.org/2015/04/hospitals-turbocharge-medicare-claims-health-policy-blog": {
-            "title": "Hospitals Turbocharge Medicare Claims Health Policy Blog...",
-            "snippet": "A Wall Street Journal analysis of Medicare claims data and financial filings from medical facilities shows that many hospitals increased prices faster than costs rose, affecting outlier payments. The Journal identified 2.6 billion...",
-            "date": "2015-04-17",
+        "healthblog.ncpa.org/2015/04/obamacare-s-medicaid-expansion-does-less-than-it-claims": {
+            "title": "Obamacare's Medicaid Expansion Does Less Than It Claims...",
+            "snippet": "I am still playing whack-a-mole with journalists and others who keep confusing Medicaid with health insurance. The latest is the... Published twice per week, Health Alerts are exclusive, in-depth analysis of health care policy.",
+            "date": "2015-04-20",
             "author_name": "John R. Graham",
-            "categories": "health,health-policy,policy",
-            "tags": "prices,medicare,health,health_policy,health_policy_blog,policy,policy_blog",
-            "recuweb_url": "http://en.recuweb.com/policy/healthblog.ncpa.org/2015/04/hospitals-turbocharge-medicare-claims-health-policy-blog",
+            "categories": "health,insurance,policy",
+            "tags": "health,health_alerts,alerts,confusing,obamacare,insurance,published,care,policy",
+            "recuweb_url": "http://en.recuweb.com/policy/healthblog.ncpa.org/2015/04/obamacare-s-medicaid-expansion-does-less-than-it-claims",
             "resource_url": "http://www.google.com/search?q=health%2Bpolicy%2Bhealth%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://healthblog.ncpa.org/hospitals-turbocharge-medicare-claims/"
+            "source_url": "http://healthblog.ncpa.org/obamacares-medicaid-expansion-does-less-than-it-claims/"
         },
         "healthblog.ncpa.org/2015/04/is-fda-reporting-drug-shortages-adequately-health-policy-blog": {
             "title": "IS FDA Reporting Drug Shortages Adequately? Health Policy Blog...",
@@ -49,43 +83,10 @@
             "date": "2015-04-17",
             "author_name": "John R. Graham",
             "categories": "health,health-policy,policy",
-            "tags": "health,health_affairs,affairs,health_policy,health_policy_blog,policy,policy_blog,drug,government",
+            "tags": "health,study,confusing,health_policy,policy,government",
             "recuweb_url": "http://en.recuweb.com/policy/healthblog.ncpa.org/2015/04/is-fda-reporting-drug-shortages-adequately-health-policy-blog",
             "resource_url": "http://www.google.com/search?q=health%2Bpolicy%2Bhealth%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://healthblog.ncpa.org/is-fda-reporting-drug-shortages-adequately/"
-        },
-        "healthblog.ncpa.org/2015/04/one-state-leads-the-fight-for-health-freedom-policy-blog": {
-            "title": "One State Leads the Fight for Health Freedom Health Policy Blog...",
-            "snippet": "When it comes to no-holds-barred, patient-centered health reform, one state is absolutely crushing it: Arizona. Governor Doug Ducey, a businessman with no.",
-            "date": "2015-04-17",
-            "author_name": "John R. Graham",
-            "categories": "health,health-policy,policy",
-            "tags": "state,health,health_policy,health_policy_blog,policy,policy_blog,fight",
-            "recuweb_url": "http://en.recuweb.com/policy/healthblog.ncpa.org/2015/04/one-state-leads-the-fight-for-health-freedom-policy-blog",
-            "resource_url": "http://www.google.com/search?q=health%2Bpolicy%2Bhealth%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://healthblog.ncpa.org/one-state-leads-the-fight-for-health-freedom/"
-        },
-        "healthblog.ncpa.org/2015/04/28-percent-of-federal-taxes-go-to-health-care-policy-blog": {
-            "title": "28 Percent of Federal Taxes Go To Health Care Health Policy Blog...",
-            "snippet": "In 2010, the year Obamacare passed and was signed into law, the healthcare percentage was. The following year, 2011, it dropped to 23.7 percent, and in 2012 dropped still further to percent. After this, however...",
-            "date": "2015-04-16",
-            "author_name": "John R. Graham",
-            "categories": "law,taxes,health,health-care,health-policy,policy",
-            "tags": "further,health_care,into,law,federal,health,care,health_policy,health_policy_blog,policy,policy_blog,obamacare,after",
-            "recuweb_url": "http://en.recuweb.com/policy/healthblog.ncpa.org/2015/04/28-percent-of-federal-taxes-go-to-health-care-policy-blog",
-            "resource_url": "http://www.google.com/search?q=health%2Bpolicy%2Bhealth%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://healthblog.ncpa.org/28-percent-of-federal-taxes-go-to-health-care/"
-        },
-        "healthblog.ncpa.org/2015/04/means-testing-medicare-premiums-health-policy-blog": {
-            "title": "Means Testing Medicare Premiums Health Policy Blog...",
-            "snippet": "Soon after House Speaker John Boehner and Minority Leader Nancy Pelosi surprised the House of Representatives with a so-called Medicare doc fix that would cement important Obamacare gains, NCPA sprang into action...",
-            "date": "2015-04-16",
-            "author_name": "John R. Graham",
-            "categories": "health,health-policy,policy",
-            "tags": "into,would,leader,medicare,health,health_policy,health_policy_blog,policy,policy_blog,after,obamacare",
-            "recuweb_url": "http://en.recuweb.com/policy/healthblog.ncpa.org/2015/04/means-testing-medicare-premiums-health-policy-blog",
-            "resource_url": "http://www.google.com/search?q=health%2Bpolicy%2Bhealth%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://healthblog.ncpa.org/means-testing-medicare-premiums/comment-page-1/"
         },
         "kff.org/2015/04/u-s-federal-funding-for-hiv-aids-the-president-fy-2016": {
             "title": "U.S. Federal Funding for HIV/AIDS: The President's FY 2016 Budget...",
@@ -93,7 +94,7 @@
             "date": "2015-04-13",
             "author_name": "unknown",
             "categories": "home,global-health,health,health-policy,policy,facebook,twitter",
-            "tags": "services,federal,health,health-policy,policy,email,funding,president,request,care",
+            "tags": "services,largest,global,global_health,health,health-policy,policy,funding,president,care",
             "recuweb_url": "http://en.recuweb.com/twitter/kff.org/2015/04/u-s-federal-funding-for-hiv-aids-the-president-fy-2016",
             "resource_url": "http://www.google.com/search?q=health%2Bpolicy%2Bhealth%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://kff.org/global-health-policy/fact-sheet/u-s-federal-funding-for-hivaids-the-presidents-fy-2016-budget-request/"
@@ -104,7 +105,7 @@
             "date": "2015-03-09",
             "author_name": "Phyllis Brown",
             "categories": "health,policy",
-            "tags": "health,health_center,center,system,senate,pro,pro-tempore,tempore,policy,director,professor",
+            "tags": "professor,health,center,advocacy,director,recently,former,mental,policy",
             "recuweb_url": "http://en.recuweb.com/policy/ucdmc.ucdavis.edu/2015/03/steinberg-to-present-two-lectures-on-mental-health-policy-in",
             "resource_url": "http://www.google.com/search?q=health%2Bpolicy%2Bhealth%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://ucdmc.ucdavis.edu/publish/news/newsroom/9790"
@@ -115,7 +116,7 @@
             "date": "2015-01-11",
             "author_name": "Rachel S. Karas",
             "categories": "health,health-policy,policy",
-            "tags": "subscription,coverage,washington,health,health_policy,policy",
+            "tags": "subscription,washington,service,health,health_policy,policy",
             "recuweb_url": "http://en.recuweb.com/policy/rkaras.com/2015/01/inside-health-policy",
             "resource_url": "http://en.search.wordpress.com/?q=health%2Bpolicy%2Bhealth%2Bpolicy&f=feed&page=1",
             "source_url": "http://rkaras.com/inside-health-policy/"
