@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "school",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/school/",
@@ -10,13 +11,24 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/school/school/blogs.json"
     },
     "items": {
+        "officialonlinegirl2015voice.blogspot.com/2015/04/it-s-that-time-of-year": {
+            "title": "It's That Time of Year...",
+            "snippet": "Hey Guys, So I have been back at school for 2 weeks exactly and all the teachers have gone on about is stupid END-OF-YEAR EXAMS!!!!! I really dislike them. They put so much pressure on you but what makes them even worse is I have to do a speaking...",
+            "date": "2015-04-25",
+            "author_name": "Online Girl",
+            "categories": "school",
+            "tags": "back,school",
+            "recuweb_url": "http://en.recuweb.com/school/officialonlinegirl2015voice.blogspot.com/2015/04/it-s-that-time-of-year",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=school%2Bschool&rss=1&lng=en",
+            "source_url": "http://officialonlinegirl2015voice.blogspot.com/2015/04/it-that-time-of-year.html"
+        },
         "fox59.com/2015/04/more-than-a-dozen-hurt-after-stage-collapses-during-play": {
             "title": "More than a dozen hurt after stage collapses during play at Westfield...",
             "snippet": "WESTFIELD, Ind. (April 22, 2015) More than a dozen people were injured in a stage collapse at Westfield High School's auditorium Thursday night. Photo of stage after collapse. One person was reported to be in critical...",
             "date": "2015-04-24",
             "author_name": "Greg Margason - Web Producer",
             "categories": "school,play",
-            "tags": "stage,high,high-school,school,people,collapses,during,after,westfield,ind,photo",
+            "tags": "reported,stage,collapse,high,school,dozen,hurt,collapses,during,westfield,ind,thursday",
             "recuweb_url": "http://en.recuweb.com/play/fox59.com/2015/04/more-than-a-dozen-hurt-after-stage-collapses-during-play",
             "resource_url": "http://www.google.com/search?q=school%2Bschool&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://fox59.com/2015/04/23/stage-collapse-reported-at-westfield-high-school/"
@@ -27,7 +39,7 @@
             "date": "2015-04-24",
             "author_name": "Eric Owens",
             "categories": "kitchen,school",
-            "tags": "parents,school,information,officials",
+            "tags": "officials,parents,school",
             "recuweb_url": "http://en.recuweb.com/school/dailycaller.com/2015/04/parents-angry-boy-brought-knife-to-school-the-daily-caller",
             "resource_url": "http://www.google.com/search?q=school%2Bschool&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://dailycaller.com/2015/04/24/parents-pillory-school-officials-who-acted-reasonably-when-boy-brought-kitchen-knife-to-school/"
@@ -38,7 +50,7 @@
             "date": "2015-04-24",
             "author_name": "unknown",
             "categories": "school,production,students",
-            "tags": "stage,westfield,high,high_school,school,chicago,collapses,during,ind,students,indianapolis",
+            "tags": "stage,westfield,high,high_school,school,performing,chicago,collapses,during,ind,students,indianapolis",
             "recuweb_url": "http://en.recuweb.com/students/nbcchicago.com/2015/04/stage-collapses-during-ind-high-school-production-nbc-chicago",
             "resource_url": "http://www.google.com/search?q=school%2Bschool&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://nbcchicago.com/news/local/westfield-high-school-stage-collapse-301169211.html"
@@ -49,7 +61,7 @@
             "date": "2015-04-24",
             "author_name": "Stephanie Scurlock",
             "categories": "school",
-            "tags": "principal,court,after,school",
+            "tags": "principal,something,prom,school",
             "recuweb_url": "http://en.recuweb.com/school/wreg.com/2015/04/no-prom-is-punishment-for-after-school-brawl",
             "resource_url": "http://www.google.com/search?q=school%2Bschool&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://wreg.com/2015/04/23/no-prom-is-punishment-for-after-school-brawl/"
@@ -60,10 +72,21 @@
             "date": "2015-04-23",
             "author_name": "asoleycerro",
             "categories": "school",
-            "tags": "angeles,police,middle,middle_school,school,near,said",
+            "tags": "said,police,middle,school",
             "recuweb_url": "http://en.recuweb.com/school/ktla.com/2015/04/allegedly-armed-man-shot-killed-near-sylmar-middle-school-lapd",
             "resource_url": "http://www.google.com/search?q=school%2Bschool&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://ktla.com/2015/04/23/gunshots-fired-in-front-of-sylmar-middle-school-lapd/"
+        },
+        "theblaze.com/2015/04/islamic-school-principal-denies-telling-female-students": {
+            "title": "Islamic School Principal Denies Telling Female Students They Might...",
+            "snippet": "Australian education officials are investigating after allegations that female students at an Islamic school were banned from running at sports events because the principal said it could cause them to lose their virginity, the...",
+            "date": "2015-04-23",
+            "author_name": "Sharona Schwartz",
+            "categories": "sport,events,education,school,students",
+            "tags": "because,principal,said,officials,school,students",
+            "recuweb_url": "http://en.recuweb.com/students/theblaze.com/2015/04/islamic-school-principal-denies-telling-female-students",
+            "resource_url": "http://www.google.com/search?q=school&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theblaze.com/stories/2015/04/23/islamic-school-principal-denies-telling-female-students-they-might-lose-their-virginity/"
         },
         "dailycaller.com/2015/04/little-girl-beats-cancer-gets-expelled-from-catholic-school": {
             "title": "Little Girl Beats Cancer, Gets Expelled From Catholic School FOR...",
@@ -71,7 +94,7 @@
             "date": "2015-04-23",
             "author_name": "Eric Owens",
             "categories": "cancer,school",
-            "tags": "old,girl,many,school,officials,middle,year",
+            "tags": "because,acute,acute-lymphoblastic,lymphoblastic,leukemia,cancer,battle,battle_creek,creek,catholic,school,gets,girl,officials,middle,old",
             "recuweb_url": "http://en.recuweb.com/school/dailycaller.com/2015/04/little-girl-beats-cancer-gets-expelled-from-catholic-school",
             "resource_url": "http://www.google.com/search?q=school%2Bschool&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://dailycaller.com/2015/04/23/little-girl-beats-cancer-gets-expelled-from-catholic-school-for-too-many-absences/"
@@ -81,9 +104,9 @@
             "snippet": "A 49-year-old Dallas Independent School District teacher has been arrested for having an improper relationship with one of her students. Dallas ISD Police Chief Craig Miller says Mary Todd Lowrance, an English teacher at...",
             "date": "2015-04-23",
             "author_name": "Robert Wilonsky",
-            "categories": "students,school",
-            "tags": "police,students,school,high,high_school,year,old,says",
-            "recuweb_url": "http://en.recuweb.com/school/crimeblog.dallasnews.com/2015/04/molina-high-school-english-teacher-arrested-for-having-improper",
+            "categories": "school,students",
+            "tags": "police,school,high,high_school,old,students",
+            "recuweb_url": "http://en.recuweb.com/students/crimeblog.dallasnews.com/2015/04/molina-high-school-english-teacher-arrested-for-having-improper",
             "resource_url": "http://www.google.com/search?q=school%2Bschool&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://crimeblog.dallasnews.com/2015/04/molina-high-school-english-teacher-arrested-for-having-improper-relationship-with-student.html/"
         },
@@ -92,33 +115,11 @@
             "snippet": "INDIANAPOLIS, Ind. (April 22, 2015) Southport High School parents received a call from Principal Barbara Brouwer Wednesday, informing them that some students and staff members have been exposed to tuberculosis (TB)...",
             "date": "2015-04-22",
             "author_name": "Greg Margason - Web Producer",
-            "categories": "students,school",
-            "tags": "students,staff,members,principal,parents,high,high_school,school,indianapolis,ind",
-            "recuweb_url": "http://en.recuweb.com/school/fox59.com/2015/04/some-southport-high-school-students-staff-exposed-to-tuberculosis",
+            "categories": "school,students",
+            "tags": "principal,high,high_school,school,students,indianapolis,ind,parents,received",
+            "recuweb_url": "http://en.recuweb.com/students/fox59.com/2015/04/some-southport-high-school-students-staff-exposed-to-tuberculosis",
             "resource_url": "http://www.google.com/search?q=school%2Bschool&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://fox59.com/2015/04/22/some-southport-high-school-students-staff-exposed-to-tuberculosis/"
-        },
-        "commoodle27.wordpress.com/2015/04/grade-school-online-programs": {
-            "title": "Grade School Online School Programs...",
-            "snippet": "Bridgeway Academy is a homeschool academy that provides a customized, fully supported and accredited homeschool program for parents who dont want to go it alone. We specialize in []...",
-            "date": "2015-04-15",
-            "author_name": "commoodle27",
-            "categories": "academy,school",
-            "tags": "parents,school",
-            "recuweb_url": "http://en.recuweb.com/school/commoodle27.wordpress.com/2015/04/grade-school-online-programs",
-            "resource_url": "http://en.search.wordpress.com/?q=school%2Bschool&f=feed&page=1",
-            "source_url": "http://commoodle27.wordpress.com/2015/04/15/grade-school-online-school-programs/"
-        },
-        "noonecancompete.wordpress.com/2015/03/comparing-public-school-to-christian": {
-            "title": "Comparing Public School to Christian School...",
-            "snippet": "Public schools are not near as bad as people think they are. Public schools don't make you take pointless classes. Public schools are allowed to talk about certain...",
-            "date": "2015-03-25",
-            "author_name": "lukep2015",
-            "categories": "school",
-            "tags": "near,people,schools,public",
-            "recuweb_url": "http://en.recuweb.com/school/noonecancompete.wordpress.com/2015/03/comparing-public-school-to-christian",
-            "resource_url": "http://en.search.wordpress.com/?q=school%2Bschool&f=feed&page=1",
-            "source_url": "http://noonecancompete.wordpress.com/2015/03/25/comparing-public-school-to-christian-school/"
         }
     }
 }
