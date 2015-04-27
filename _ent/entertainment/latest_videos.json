@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "entertainment",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/entertainment/",
@@ -10,29 +11,29 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/entertainment/entertainment/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/the-secret-to-success-in-entertainment-industry": {
+            "title": "the secret to success in the entertainment industry...",
+            "snippet": "the secret to success in the entertainment industry some stuff i don't know if you're supposed to say outloud. a message not just for writers. don't give up. the system is broken, all systems are broken. if you have a passion for it, just... From:...",
+            "date": "2015-04-24",
+            "author_name": "Uptomyknees",
+            "categories": "entertainment",
+            "tags": "entertainment",
+            "recuweb_url": "http://en.recuweb.com/entertainment/youtube.com/2015/04/the-secret-to-success-in-entertainment-industry",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=entertainment%2Bentertainment&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=sgwWVN-SnIw&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/sgwWVN-SnIw/0.jpg"
+        },
         "youtube.com/2015/04/yu-seungho-and-park-shinhye-s-sweet-date-entertainment-weekly": {
             "title": "Yu Seungho and Park Shinhye's sweet date (Entertainment Weekly/)...",
-            "snippet": "Yu Seungho and Park Shinhye's sweet date (Entertainment Weekly/) Yu Seungho and Park Shinhye's sweet date - For more info: ------------------------------------------------ Subscribe KBS World... From: KBS World TV Views: 26220 499 ratings Time:...",
+            "snippet": "Yu Seungho and Park Shinhye's sweet date (Entertainment Weekly/) Yu Seungho and Park Shinhye's sweet date - For more info: ------------------------------------------------ Subscribe KBS World... From: KBS World TV Views: 34709 603 ratings Time:...",
             "date": "2015-04-21",
             "author_name": "KBS World TV",
             "categories": "entertainment",
-            "tags": "kbs,kbs_world,world,subscribe,subscribe_kbs,subscribe_kbs_world,entertainment,entertainment_weekly,weekly,park,park_shinhye,shinhye,seungho",
+            "tags": "entertainment,entertainment_weekly,weekly,sweet,park,park_shinhye,shinhye,seungho",
             "recuweb_url": "http://en.recuweb.com/entertainment/youtube.com/2015/04/yu-seungho-and-park-shinhye-s-sweet-date-entertainment-weekly",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=entertainment%2Bentertainment&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=entertainment&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=74ZpFVjzwSs&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/74ZpFVjzwSs/0.jpg"
-        },
-        "youtube.com/2015/04/neil-patrick-harris-and-mayor-naheed-nenshi-at-calgary-comic-&": {
-            "title": "Neil Patrick Harris and Mayor Naheed Nenshi at Calgary Comic & Entertainment Expo...",
-            "snippet": "Neil Patrick Harris and Mayor Naheed Nenshi at Calgary Comic & Entertainment Expo At the Calgary Comic & Entertainment Expo today, Mayor Naheed Nenshi took the opportunity to thank NPH as well as the Expo itself for providing what they do for the...",
-            "date": "2015-04-18",
-            "author_name": "Crackmacs",
-            "categories": "entertainment",
-            "tags": "entertainment,today",
-            "recuweb_url": "http://en.recuweb.com/entertainment/youtube.com/2015/04/neil-patrick-harris-and-mayor-naheed-nenshi-at-calgary-comic-&",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=entertainment&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=E3fQiO2Ehts&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/E3fQiO2Ehts/0.jpg"
         },
         "youtube.com/2015/04/entertainment-weekly-exo-lee-sangyun-kim-jijun": {
             "title": "Entertainment Weekly - EXO, Lee Sangyun, Kim Jijun ()...",
@@ -40,7 +41,7 @@
             "date": "2015-04-17",
             "author_name": "KBS World TV",
             "categories": "entertainment",
-            "tags": "last,lee,lee_byunghun,byunghun,kim,entertainment,entertainment_hot,hot,entertainment_weekly,weekly,sungmin",
+            "tags": "lee,lee_byunghun,byunghun,kim,entertainment,entertainment_hot,hot,entertainment_weekly,weekly,sungmin",
             "recuweb_url": "http://en.recuweb.com/entertainment/youtube.com/2015/04/entertainment-weekly-exo-lee-sangyun-kim-jijun",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=entertainment%2Bentertainment&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=WpTKGV6hXdI&feature=youtube_gdata",
@@ -64,27 +65,15 @@
             "date": "2015-04-09",
             "author_name": "LinusTechTips",
             "categories": "entertainment",
-            "tags": "last,entertainment,today",
+            "tags": "entertainment",
             "recuweb_url": "http://en.recuweb.com/entertainment/youtube.com/2015/04/entertainment-center-cooling-mod-silence-upgrade-diy-project",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=entertainment%2Bentertainment&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=704tq8E7S1w&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/704tq8E7S1w/0.jpg"
         },
-        "youtube.com/2015/04/star-reporting-in-eunhyuk-and-donghae-entertainment-weekly": {
-            "title": "Star Reporting In - Eunhyuk and Donghae (Entertainment Weekly/)...",
-            "snippet": "Star Reporting In - Eunhyuk and Donghae (Entertainment Weekly/) Star Reporting In - Eunhyuk and Donghae - For more info: ------------------------------------------------ Subscribe KBS World... From: KBS World TV Views: 21113 1117 ratings Time: 06:29...",
-            "date": "2015-04-07",
-            "author_name": "KBS World TV",
-            "categories": "entertainment",
-            "tags": "kbs,kbs_world,world,subscribe,subscribe_kbs,subscribe_kbs_world,entertainment,entertainment_weekly,weekly",
-            "recuweb_url": "http://en.recuweb.com/entertainment/youtube.com/2015/04/star-reporting-in-eunhyuk-and-donghae-entertainment-weekly",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=entertainment&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=0MRXQpEnOEc&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/0MRXQpEnOEc/0.jpg"
-        },
         "youtube.com/2015/04/hmmm-unexpected-music-entertainment": {
             "title": "Hmmm - Unexpected Music Entertainment...",
-            "snippet": "Hmmm - Unexpected Music Entertainment Group members: Emann, Jojo, Devo and Sumo. From: emmanuel spearman Views: 670547 15532 ratings Time: 02:38 More in People & Blogs...",
+            "snippet": "Hmmm - Unexpected Music Entertainment Group members: Emann, Jojo, Devo and Sumo. From: emmanuel spearman Views: 824417 17823 ratings Time: 02:38 More in People & Blogs...",
             "date": "2015-04-01",
             "author_name": "emmanuel spearman",
             "categories": "music,entertainment",
@@ -93,18 +82,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=entertainment%2Bentertainment&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=-nNAtRPzd_o&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/-nNAtRPzd_o/0.jpg"
-        },
-        "youtube.com/2015/04/the-gift-trailer-stx-entertainment": {
-            "title": "The Gift Trailer STX Entertainment...",
-            "snippet": "The Gift Trailer STX Entertainment Simon (Jason Bateman) and Robyn (Rebecca Hall) are a young married couple whose life is going just as planned until a chance encounter with an acquaintance from Simon's high school sends... From: STX Entertainment...",
-            "date": "2015-04-01",
-            "author_name": "STX Entertainment",
-            "categories": "entertainment,school,life",
-            "tags": "entertainment",
-            "recuweb_url": "http://en.recuweb.com/life/youtube.com/2015/04/the-gift-trailer-stx-entertainment",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=entertainment%2Bentertainment&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=IjF5wdY8zE0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/IjF5wdY8zE0/0.jpg"
         },
         "youtube.com/2015/03/entertainment-weekly-kim-woobin-lee-junho-kang-haneul": {
             "title": "Entertainment Weekly - Kim Woobin, Lee Junho, Kang Haneul ()...",
@@ -118,6 +95,18 @@
             "source_url": "http://youtube.com/watch?v=XQhzig1DExg&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/XQhzig1DExg/0.jpg"
         },
+        "youtube.com/2015/03/salam-1394-biggest-entertainment-show-of-the-year": {
+            "title": "Salam 1394 biggest entertainment show of the year/1394!",
+            "snippet": "Salam 1394 biggest entertainment show of the year/1394! 1394! Salam 1394 biggest entertainment show of the year... From: TOLOTV Views: 118624 296 ratings Time: 02:27:13 More in Entertainment...",
+            "date": "2015-03-23",
+            "author_name": "TOLOTV",
+            "categories": "entertainment",
+            "tags": "entertainment",
+            "recuweb_url": "http://en.recuweb.com/entertainment/youtube.com/2015/03/salam-1394-biggest-entertainment-show-of-the-year",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=entertainment&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=sEVNpzZPOmU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/sEVNpzZPOmU/0.jpg"
+        },
         "dailymotion.com/2015/03/ebc-entertainment-day-news-13-2007-march-22-2015": {
             "title": "EBC Entertainment Day News- 13 2007._EBC Entertainment News,March 22 2015...",
             "snippet": "EBC Entertainment Day News- 13 2007._EBC Entertainment News, March 22 2015Author: EthiobestTags: EBC Entertainment Day News March 22 2015 Posted: 22 March 2015Rating:: 0...",
@@ -129,6 +118,18 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/entertainment+entertainment/0?af=1",
             "source_url": "http://dailymotion.com/video/x2k9xe6_ebc-entertainment-day-news-\u1218\u12dd\u1293\u129b-\u12dc\u1293-\u1218\u130b\u1262\u1275-13-\u1240\u1295-2007-\u12d3-\u121d-ebc-entertainment-news-march-22-2015_fun",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2k9xe6_ebc-entertainment-day-news-\u1218\u12dd\u1293\u129b-\u12dc\u1293-\u1218\u130b\u1262\u1275-13-\u1240\u1295-2007-\u12d3-\u121d-ebc-entertainment-news-march-22-2015_fun"
+        },
+        "youtube.com/2015/03/entertainment-weekly-seo-gangjun-kangnam-will-smith-kim-heeseon": {
+            "title": "Entertainment Weekly - Seo Gangjun, Kangnam, Will Smith, Kim Heeseon ()...",
+            "snippet": "Entertainment Weekly - Seo Gangjun, Kangnam, Will Smith, Kim Heeseon () Entertainment Hot Click: Bae Yongjoon's breakup/Sweet Sorrow In Sojin catches hit-and-run driver - Special: I Wish I Had a Hubby Like This - Stars that will shine in 2015:...",
+            "date": "2015-03-06",
+            "author_name": "KBS World TV",
+            "categories": "entertainment,stars",
+            "tags": "sweet,entertainment,entertainment_hot,hot,kim,entertainment_weekly,weekly",
+            "recuweb_url": "http://en.recuweb.com/stars/youtube.com/2015/03/entertainment-weekly-seo-gangjun-kangnam-will-smith-kim-heeseon",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=entertainment%2Bentertainment&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=EHfoaVh-nxQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/EHfoaVh-nxQ/0.jpg"
         }
     }
 }
