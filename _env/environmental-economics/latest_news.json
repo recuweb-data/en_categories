@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "environmental-economics",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/environmental-economics/",
@@ -10,104 +11,103 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/environmental-economics/environmental-economics/blogs.json"
     },
     "items": {
+        "sandiegofreepress.org/2015/04/is-san-diego-up-for-the-challenge-of-marrying-environmental": {
+            "title": "Is San Diego Up for the Challenge of Marrying Environmental and Economic... - San Diego Free Press...",
+            "snippet": "San Diego Free PressIs San Diego Up for the Challenge of Marrying Environmental and Economic...San Diego Free PressMore specifically, de Blasio's plan builds on the environmental work of the previous mayor, Michael Bloomberg, by adding a robust...",
+            "date": "2015-04-27",
+            "tags": "michael,work,environmental,specifically",
+            "recuweb_url": "http://en.recuweb.com/sandiegofreepress.org/2015/04/is-san-diego-up-for-the-challenge-of-marrying-environmental",
+            "resource_url": "http://news.google.com/?hl=en&q=environmental%2Beconomics%2Benvironmental%2Beconomics&output=atom&nord=1",
+            "source_url": "http://sandiegofreepress.org/2015/04/is-san-diego-up-for-the-challenge-of-marrying-environmental-and-economic-justice/"
+        },
+        "precision.agwired.com/2015/04/researchers-study-using-treated-wastewater-on-crops": {
+            "title": "Researchers Study Using Treated Wastewater on Crops...",
+            "snippet": "Kurt Schwabe, associate professor of environmental economics and policy and the projects principal investigator, said the team will review existing research on using treated wastewater to improve the reliability of local water supplies; study the...",
+            "date": "2015-04-27",
+            "categories": "policy",
+            "tags": "study,using,treated,treated_wastewater,wastewater,wastewater-to-improve,improve,improve-the-reliability,reliability,reliability-of-local,local,local-water,local-water-supplies,water,water-supplies,supplies,said,said-the-team,team,projects,projects-principal,projects-principal-investigator,principal,principal-investigator,investigator,associate,associate-professor,professor,kurt,kurt_schwabe,schwabe,crops,environmental,economics,policy,existing,research",
+            "recuweb_url": "http://en.recuweb.com/policy/precision.agwired.com/2015/04/researchers-study-using-treated-wastewater-on-crops",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=environmental%2Beconomics&format=RSS&cc=us",
+            "source_url": "http://precision.agwired.com/2015/04/27/researchers-study-using-treated-wastewater-on-crops/"
+        },
+        "phys.org/2015/04/startup-marries-digital-physical-worlds": {
+            "title": "Startup marries digital, physical worlds -...",
+            "snippet": "marries digital, physical... client, where it can trigger any of a range of interactions,\" says SnowShoe Stamp co-founder and CEO Claus Moberg, who obtained degrees in political science, economics, atmospheric science, and environmental studies...",
+            "date": "2015-04-27",
+            "categories": "science",
+            "tags": "science,economics,environmental",
+            "recuweb_url": "http://en.recuweb.com/science/phys.org/2015/04/startup-marries-digital-physical-worlds",
+            "resource_url": "http://news.google.com/?hl=en&q=environmental%2Beconomics&output=atom&nord=1",
+            "source_url": "http://phys.org/news/2015-04-startup-digital-physical-worlds.html"
+        },
+        "albawaba.com/2015/04/jordanian-assumes-top-un-coordination-role-in-libya": {
+            "title": "Jordanian assumes top UN coordination role in Libya...",
+            "snippet": "Zatari holds a diploma in environmental economics from Harvard University, a masters degree in social sciences from Syracuse University and a bachelors degree in Liberal Arts from Western Maryland College.",
+            "date": "2015-04-26",
+            "categories": "college,arts,university",
+            "tags": "western,liberal,liberal_arts,arts,bachelors,degree,syracuse,syracuse_university,university,masters,social,sciences,harvard,harvard_university,holds,diploma,zatari,environmental,economics",
+            "recuweb_url": "http://en.recuweb.com/university/albawaba.com/2015/04/jordanian-assumes-top-un-coordination-role-in-libya",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=environmental%2Beconomics&format=RSS&cc=us",
+            "source_url": "http://albawaba.com/news/jordanian-assumes-top-un-coordination-role-libya-686742"
+        },
+        "theconversation.com/2015/04/the-australian-consensus-centre-what-are-costs-and-benefits-to-uwa": {
+            "title": "The Australian Consensus Centre: what are the costs and benefits to UWA?",
+            "snippet": "However, others such as UWA Winthrop Professor David Pannell, Director of the Centre for Environmental Economics and Policy (CEEP) welcome the ACC. In his personal blog pannelldiscussions he suggests that much of the criticism of Lomborgs work is...",
+            "date": "2015-04-26",
+            "categories": "environmental-economics,policy",
+            "tags": "work,environmental,environmental_economics,economics,professor,benefits,policy",
+            "recuweb_url": "http://en.recuweb.com/policy/theconversation.com/2015/04/the-australian-consensus-centre-what-are-costs-and-benefits-to-uwa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=environmental%2Beconomics&format=RSS&cc=us",
+            "source_url": "http://theconversation.com/the-australian-consensus-centre-what-are-the-costs-and-benefits-to-uwa-40808"
+        },
+        "patch.com/2015/04/universities-to-examine-long-term-benefits-drawbacks-of-wastewater-use": {
+            "title": "Universities to Examine Long-Term Benefits, Drawbacks of Wastewater Use...",
+            "snippet": "Israel has been using treated municipal wastewater in agricultural environments for 15 to 20 years, said Kurt Schwabe, a UCR associate professor of environmental economics and policy. If we want to understand the relationship between treated...",
+            "date": "2015-04-26",
+            "categories": "environment,policy",
+            "tags": "between,treated,associate,associate-professor,professor,kurt,kurt_schwabe,schwabe,using,using-treated,wastewater,benefits,said,environmental,economics,policy",
+            "recuweb_url": "http://en.recuweb.com/policy/patch.com/2015/04/universities-to-examine-long-term-benefits-drawbacks-of-wastewater-use",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=environmental%2Beconomics&format=RSS&cc=us",
+            "source_url": "http://patch.com/california/banning-beaumont/universities-examine-long-term-benefits-drawbacks-wastewater-use-0"
+        },
+        "libyaherald.com/2015/04/unsmils-bernardino-leon-gets-new-deputy": {
+            "title": "UNSMILs Bernardino Leon gets new deputy...",
+            "snippet": "This will also be one of his responsibilities at UNSMIL. Zatari holds a Diploma in Environmental Economics from Harvard University, a Masters degree in Social Sciences from Syracuse University and a Bachelors degree in Liberal Arts from Western...",
+            "date": "2015-04-25",
+            "categories": "arts,university,environmental-economics",
+            "tags": "liberal,liberal_arts,arts,syracuse,syracuse_university,university,social,sciences,degree,harvard,harvard_university,environmental,environmental_economics,economics,holds,zatari,diploma,masters,bachelors,western",
+            "recuweb_url": "http://en.recuweb.com/environmental-economics/libyaherald.com/2015/04/unsmils-bernardino-leon-gets-new-deputy",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=environmental%2Beconomics&format=RSS&cc=us",
+            "source_url": "http://libyaherald.com/2015/04/25/unsmils-bernardino-leon-gets-new-deputy/"
+        },
+        "cicero.uio.no/2015/04/karianne-de-bruin": {
+            "title": "Karianne de Bruin...",
+            "snippet": "Environmental and development economics, specifically the economics of adaptation to climate change and decision-making under uncertainty. At CICERO she currently works on the linkage between micro-level and macro- level modelling in the context...",
+            "date": "2015-04-24",
+            "categories": "climate-change",
+            "tags": "between,specifically,development,environmental,economics",
+            "recuweb_url": "http://en.recuweb.com/climate-change/cicero.uio.no/2015/04/karianne-de-bruin",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=environmental%2Beconomics%2Benvironmental%2Beconomics&format=RSS&cc=us",
+            "source_url": "http://cicero.uio.no/employees/homepage.aspx?person_id=3315&lang=en"
+        },
+        "ucrtoday.ucr.edu/2015/04/grant-funds-research-on-use-of-treated-wastewater-crops": {
+            "title": "Grant Funds Research on Use of Treated Wastewater on Crops...",
+            "snippet": "Kurt Schwabe, associate professor of environmental economics and policy and the projects principal investigator, said the team will review existing research on using treated wastewater to improve the reliability of local water supplies; study the...",
+            "date": "2015-04-23",
+            "categories": "policy",
+            "tags": "study,using,using-treated,treated,treated_wastewater,wastewater,wastewater-to-improve,improve,improve-the-reliability,reliability,reliability-of-local,local,local-water,local-water-supplies,water,water-supplies,supplies,said,said-the-team,team,projects,projects-principal,projects-principal-investigator,principal,principal-investigator,investigator,associate,associate-professor,professor,kurt,kurt_schwabe,schwabe,research,crops,environmental,economics,policy,existing",
+            "recuweb_url": "http://en.recuweb.com/policy/ucrtoday.ucr.edu/2015/04/grant-funds-research-on-use-of-treated-wastewater-crops",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=environmental%2Beconomics&format=RSS&cc=us",
+            "source_url": "http://ucrtoday.ucr.edu/28746"
+        },
         "nature.com/2015/04/environmental-economics-pricing-the-planet": {
             "title": "Environmental economics: Pricing the planet...",
             "snippet": "Can economics help to save us from environmental catastrophe? In Natural Capital, economist Dieter Helm offers a timely reminder of the contribution that his discipline can make to understanding and solving environmental problems. The book hinges on...",
             "date": "2015-04-22",
-            "tags": "offers,natural,environmental,economics,economist,book",
+            "tags": "natural,environmental,economics,book",
             "recuweb_url": "http://en.recuweb.com/nature.com/2015/04/environmental-economics-pricing-the-planet",
             "resource_url": "http://www.bing.com/news/search?first=1&q=environmental%2Beconomics&format=RSS&cc=us",
             "source_url": "http://nature.com/nature/journal/v520/n7548/full/520434a.html"
-        },
-        "sundial.csun.edu/2015/04/fracking-could-be-contributing-to-california-drought": {
-            "title": "Fracking could be contributing to California drought...",
-            "snippet": "Fracking in California may actually use less water than it does nationwide, said Kent Hymel, CSUN professor of economics who has studied fracking as part of his environmental economics research. The geology in California is different than say in...",
-            "date": "2015-04-22",
-            "categories": "geology",
-            "tags": "said,economics,environmental,research",
-            "recuweb_url": "http://en.recuweb.com/geology/sundial.csun.edu/2015/04/fracking-could-be-contributing-to-california-drought",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=environmental%2Beconomics&format=RSS&cc=us",
-            "source_url": "http://sundial.csun.edu/2015/04/fracking-could-be-contributing-to-california-drought/"
-        },
-        "nytimes.com/2015/04/homes-try-to-reach-smart-switch-new-york-times": {
-            "title": "Homes Try to Reach Smart Switch - New York Times...",
-            "snippet": "New York TimesHomes Try to Reach Smart SwitchNew York TimesThe energy-saving promise of the smart home faces challenges of adoption and economics.... Regardless of the motivation coolness, environmental concerns or pocketbook savings sales of...",
-            "date": "2015-04-22",
-            "categories": "home",
-            "tags": "york,economics,environmental",
-            "recuweb_url": "http://en.recuweb.com/home/nytimes.com/2015/04/homes-try-to-reach-smart-switch-new-york-times",
-            "resource_url": "http://news.google.com/?hl=en&q=environmental%2Beconomics&output=atom&nord=1",
-            "source_url": "http://nytimes.com/2015/04/23/business/energy-environment/homes-try-to-reach-smart-switch.html"
-        },
-        "farmersadvance.com/2015/04/msu-science-fair-geek-in-glamour-s-top-10-college-women": {
-            "title": "MSU 'science fair geek'in Glamour's Top 10 College Women...",
-            "snippet": "EAST LANSING, MI --Michigan State University (MSU) environmental economics and policy junior Elizabeth Brajevich, a self-described science fair geek, never figured she would one day be in Glamour magazine. But that's exactly where she finds herself...",
-            "date": "2015-04-22",
-            "categories": "science,university,college,policy",
-            "tags": "science,fair,elizabeth,elizabeth_brajevich,brajevich,state,university,college,msu,glamour,top,environmental,economics,policy,junior,magazine",
-            "recuweb_url": "http://en.recuweb.com/policy/farmersadvance.com/2015/04/msu-science-fair-geek-in-glamour-s-top-10-college-women",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=environmental%2Beconomics&format=RSS&cc=us",
-            "source_url": "http://farmersadvance.com/article/20150422/NEWS/504220310/MSU-science-fair-geek-in-Glamour-s-Top-10-College-Women"
-        },
-        "statenews.com/2015/04/student-recognized-by-glamour-magazine-for-environmental-work-msu-state-news": {
-            "title": "Student recognized by Glamour Magazine for environmental work - MSU State News...",
-            "snippet": "Student recognized by Glamour Magazine for environmental workMSU State NewsWhile many MSU students spent these past few weekends basking the sun and dreaming of summer, environmental economics policy junior Elizabeth Brajevich was in New York...",
-            "date": "2015-04-22",
-            "categories": "students,sun,policy",
-            "tags": "york,elizabeth,elizabeth_brajevich,brajevich,students,state,msu,glamour,magazine,environmental,economics,policy,junior",
-            "recuweb_url": "http://en.recuweb.com/policy/statenews.com/2015/04/student-recognized-by-glamour-magazine-for-environmental-work-msu-state-news",
-            "resource_url": "http://news.google.com/?hl=en&q=environmental%2Beconomics&output=atom&nord=1",
-            "source_url": "http://statenews.com/article/2015/04/liz-b-profile"
-        },
-        "yosemite.epa.gov/2015/04/university-of-illinois-at-chicago-and-urbana-champaign-win-top-prizes": {
-            "title": "University of Illinois at Chicago and University of Illinois at Urbana-Champaign Win Top Prizes in...",
-            "snippet": "The Urbana-Champaign team was composed of 12 students from environmental economics, civil engineering, architecture and landscape architecture. The students won second prize for a plan to expand the current network of green infrastructure on campus...",
-            "date": "2015-04-22",
-            "categories": "students,landscape,civil-engineering,engineering,university",
-            "tags": "students,expand,network,top,university,environmental,economics",
-            "recuweb_url": "http://en.recuweb.com/university/yosemite.epa.gov/2015/04/university-of-illinois-at-chicago-and-urbana-champaign-win-top-prizes",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=environmental%2Beconomics&format=RSS&cc=us",
-            "source_url": "http://yosemite.epa.gov/opa/admpress.nsf/0/C524FEBD92CAA5D485257E2F0058F115"
-        },
-        "conncoll.edu/2015/04/world-of-opportunity-connecticut-college": {
-            "title": "World of opportunity - Connecticut College...",
-            "snippet": "World of opportunityConnecticut CollegeIn recent years, professors, advising staff and students have worked to expand the program; 12 such courses, in fields ranging from environmental studies to economics, are being offered this spring. Enabling...",
-            "date": "2015-04-22",
-            "categories": "students,college",
-            "tags": "students,expand,program,college,environmental,economics",
-            "recuweb_url": "http://en.recuweb.com/college/conncoll.edu/2015/04/world-of-opportunity-connecticut-college",
-            "resource_url": "http://news.google.com/?hl=en&q=environmental%2Beconomics&output=atom&nord=1",
-            "source_url": "http://conncoll.edu/news/news-archive/2015/world-of-opportunity.htm"
-        },
-        "collegian.com/2015/04/csu-sustainability-fair-offers-career-options-to-students": {
-            "title": "CSU Sustainability Fair offers career options to students...",
-            "snippet": "Jacob Kimiecik, a junior environmental economics major, helped to organize the fair. We have a culture around sustainability here, Kimiecik said. There are a lot of students that want to get jobs around here. Were lucky enough to live in a...",
-            "date": "2015-04-21",
-            "categories": "students,culture,sustainability",
-            "tags": "students,sustainability,fair,junior,offers,environmental,economics,major,said",
-            "recuweb_url": "http://en.recuweb.com/sustainability/collegian.com/2015/04/csu-sustainability-fair-offers-career-options-to-students",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=environmental%2Beconomics&format=RSS&cc=us",
-            "source_url": "http://collegian.com/2015/04/csu-sustainability-fair-offers-career-options-to-students/122677/"
-        },
-        "cityandstateny.com/2015/04/carbon-control-is-emissions-trading-working-in-the-northeast": {
-            "title": "Carbon Control: Is Emissions Trading Working in the Northeast?",
-            "snippet": "RGGI has had very, very small, virtually zero effect on emissions because it hasnt been binding, said Robert Stavins, an economist at Harvards Kennedy School of Government who directs both the universitys environmental economics program and...",
-            "date": "2015-04-21",
-            "categories": "university,school",
-            "tags": "program,economist,said,environmental,economics",
-            "recuweb_url": "http://en.recuweb.com/school/cityandstateny.com/2015/04/carbon-control-is-emissions-trading-working-in-the-northeast",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=environmental%2Beconomics&format=RSS&cc=us",
-            "source_url": "http://cityandstateny.com/2/83/energy-and-environment/regional-greenhouse-gas-initiative.html"
-        },
-        "dailyreckoning.com/2015/04/the-coming-may-oil-buy-signal": {
-            "title": "The Coming May Oil Buy Signal...",
-            "snippet": "He holds a degree from the University of Maryland with a double major in Business and Environmental Economics. Although always familiar with the financial markets, his main area of expertise stems from his background in the Agricultural and...",
-            "date": "2015-04-21",
-            "categories": "financial-markets,markets,environmental-economics,university,business",
-            "tags": "environmental,environmental_economics,economics,major,university",
-            "recuweb_url": "http://en.recuweb.com/business/dailyreckoning.com/2015/04/the-coming-may-oil-buy-signal",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=environmental%2Beconomics&format=RSS&cc=us",
-            "source_url": "http://dailyreckoning.com/the-coming-may-oil-buy-signal/"
         }
     }
 }
