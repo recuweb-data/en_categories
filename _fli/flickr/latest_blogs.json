@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "flickr",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/flickr/",
@@ -10,93 +11,82 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/flickr/flickr/blogs.json"
     },
     "items": {
+        "reason.com/2015/04/sheldon-richman-u-s-capitalism-isn-t-a-free-market-hit": {
+            "title": "Sheldon Richman: U.S. Capitalism Isn't a 'Free Market'- Hit & Run...",
+            "snippet": "jonseidman1988/Flickr. Libertarians of all people should understand that decadesindeed, centuriesof government intervention have distorted society and the economy considerably. It's safe to say that both would look...",
+            "date": "2015-04-26",
+            "author_name": "Reason.com",
+            "categories": "society,economy,capitalism,flickr",
+            "tags": "people,should,free,flickr",
+            "recuweb_url": "http://en.recuweb.com/flickr/reason.com/2015/04/sheldon-richman-u-s-capitalism-isn-t-a-free-market-hit",
+            "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://reason.com/blog/2015/04/26/sheldon-richman-freedom-in-markets"
+        },
+        "blog.flickr.net/2015/04/flickr-friday-into-the-wild-blog": {
+            "title": "Flickr Friday: Into The Wild Flickr Blog...",
+            "snippet": "Let yourself out of the urban days and embrace the nature a little. Go out of the city and IntoTheWild. In this week's Flickr Friday we invite you to take your best shot for this...",
+            "date": "2015-04-24",
+            "author_name": "Sol\u00e8ne",
+            "categories": "nature,flickr",
+            "tags": "city,nature,into,flickr,flickr_blog,flickr_friday,friday,week",
+            "recuweb_url": "http://en.recuweb.com/flickr/blog.flickr.net/2015/04/flickr-friday-into-the-wild-blog",
+            "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.flickr.net/en/2015/04/24/flickr-friday-into-the-wild/"
+        },
+        "blog.flickr.net/2015/04/flickr-friday-the-unexpected-detail-selection-blog": {
+            "title": "Flickr Friday: The Unexpected Detail selection Flickr Blog...",
+            "snippet": "Flickr Friday: The Unexpected Detail selection. April 24, 2015. The theme for last week's FlickrFriday was UnexpectedDetail. And we sure didn't expect so many great pictures! Thank you for your contributions! Here are some of our favorites,...",
+            "date": "2015-04-24",
+            "author_name": "Tatiana Criscione",
+            "categories": "flickr",
+            "tags": "pictures,didn,flickr,flickr_blog,flickr_friday,friday,week,here",
+            "recuweb_url": "http://en.recuweb.com/flickr/blog.flickr.net/2015/04/flickr-friday-the-unexpected-detail-selection-blog",
+            "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.flickr.net/en/2015/04/24/flickr-friday-the-unexpected-detail-selection/"
+        },
+        "consumerist.com/2015/04/consumerist-friday-flickr-finds": {
+            "title": "Consumerist Friday Flickr Finds Consumerist...",
+            "snippet": "Here are ten of the best photos that readers added to the Consumerist Flickr Pool in the last two weeks, picked for usability in a Consumerist post or for just plain neatness. (Jason Cook). (Patrick). (Renee Rendler-Kaplan).",
+            "date": "2015-04-24",
+            "author_name": "Laura Northrup",
+            "categories": "flickr",
+            "tags": "flickr,pool,readers,added,friday,here,photos",
+            "recuweb_url": "http://en.recuweb.com/flickr/consumerist.com/2015/04/consumerist-friday-flickr-finds",
+            "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://consumerist.com/2015/04/24/consumerist-friday-flickr-finds-285/"
+        },
+        "blog.flickr.net/2015/04/three-mothers-transform-a-photographer-s-prejudices-flickr-blog": {
+            "title": "Three mothers transform a photographer's prejudices Flickr Blog...",
+            "snippet": "My perception of ballerinas, as a feminist, was that they were starving themselves for their job, that they were doing what they did for a man that was telling them what to do, that they didn't want to grow up, says Lucy Gray.",
+            "date": "2015-04-24",
+            "author_name": "Ryan Fritzsche",
+            "categories": "perception,flickr",
+            "tags": "didn,flickr,flickr_blog",
+            "recuweb_url": "http://en.recuweb.com/flickr/blog.flickr.net/2015/04/three-mothers-transform-a-photographer-s-prejudices-flickr-blog",
+            "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.flickr.net/en/2015/04/24/three-mothers-transform-a-photographers-prejudices/"
+        },
         "blog.flickr.net/2015/04/happy-earth-day-flickr-blog": {
             "title": "Happy Earth Day! Flickr Blog...",
             "snippet": "Share your pictures Flickr today to celebrate our planet! EarthDay Bonne f\u00eate de la Terre! Partagez vos photos Flickr pour f\u00eater ce jour avec nous! EarthDay Happy Earth Day! Teilt eure Fotos von unserem sch\u00f6nen...",
             "date": "2015-04-22",
             "author_name": "Sol\u00e8ne",
             "categories": "flickr,earth",
-            "tags": "pictures,flickr,flickr_blog,day,share,photos,fotos",
+            "tags": "today,pictures,flickr,flickr_blog,happy,earth,day,share,photos,fotos",
             "recuweb_url": "http://en.recuweb.com/earth/blog.flickr.net/2015/04/happy-earth-day-flickr-blog",
             "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.flickr.net/en/2015/04/22/happy-earth-day/"
         },
-        "subtraction.com/2015/04/new-york-city-s-mta-on-flickr": {
-            "title": "New York City's MTA on Flickr...",
-            "snippet": "It seems almost quaint now to find a major organization maintaining one of these, but New York City's Metropolitan Transit Authority seems pretty committed to its Flickr account. I'm grateful for it, too; instead of relatively small,...",
-            "date": "2015-04-21",
-            "author_name": "Khoi",
-            "categories": "flickr",
-            "tags": "pretty,york,york_city,city,flickr",
-            "recuweb_url": "http://en.recuweb.com/flickr/subtraction.com/2015/04/new-york-city-s-mta-on-flickr",
-            "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://subtraction.com/2015/04/20/new-york-citys-mta-on-flickr/"
-        },
-        "blog.flickr.net/2015/04/tehran-flickr-blog": {
-            "title": "Tehran Flickr Blog...",
-            "snippet": "I'm a Data Scientist working at Flickr: I'm passionate about the art and science of photography, taking apart and building my own camera gear as well as regularly heading out to take pictures. You can see my photos on my...",
-            "date": "2015-04-21",
-            "author_name": "Bhautik Joshi",
-            "categories": "science,photography,flickr",
-            "tags": "well,pictures,art,flickr,flickr_blog,own,photos",
-            "recuweb_url": "http://en.recuweb.com/flickr/blog.flickr.net/2015/04/tehran-flickr-blog",
-            "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.flickr.net/en/2015/04/20/tehran/"
-        },
-        "blog.flickr.net/2015/04/flickr-friday-the-behind-lens-selection-blog": {
-            "title": "Flickr Friday: The Behind the lens selection Flickr Blog...",
-            "snippet": "Flickr Friday: The Behind the lens selection. April 17, 2015. You were truly inspired by our last FlickrFriday theme and we are really impressed by your submissions. There is a great universe behind your lens and once more you proved how...",
-            "date": "2015-04-17",
-            "author_name": "Sol\u00e8ne",
-            "categories": "flickr",
-            "tags": "great,theme,last,flickr,flickr_blog,selection,flickr_friday,friday,really",
-            "recuweb_url": "http://en.recuweb.com/flickr/blog.flickr.net/2015/04/flickr-friday-the-behind-lens-selection-blog",
-            "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.flickr.net/en/2015/04/17/flickr-friday-the-behind-the-lens-selection/"
-        },
-        "blog.flickr.net/2015/04/flickr-friday-unexpected-detail-blog": {
-            "title": "Flickr Friday: Unexpected Detail Flickr Blog...",
-            "snippet": "What makes our day, our life or our picture so different? It's the UnexpectedDetail that changes our perspective and makes our journey unique. In this week's Flickr Friday we...",
-            "date": "2015-04-17",
-            "author_name": "Sol\u00e8ne",
-            "categories": "life,flickr",
-            "tags": "week,picture,flickr,flickr_blog,flickr_friday,friday,makes,day",
-            "recuweb_url": "http://en.recuweb.com/flickr/blog.flickr.net/2015/04/flickr-friday-unexpected-detail-blog",
-            "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.flickr.net/en/2015/04/17/flickr-friday-unexpected-detail/"
-        },
-        "blog.flickr.net/2015/04/success-kid-s-dad-needs-your-help-flickr-blog": {
-            "title": "Success Kid's dad needs your help Flickr Blog...",
-            "snippet": "The Success Kid meme is one of the best-known on the internet and it all started with this photo from Flickr member Laney Griner. Success Kid is her son Sam, who was 11 months old when this photo was taken.",
-            "date": "2015-04-16",
-            "author_name": "Matthew Roth",
-            "categories": "internet,flickr",
-            "tags": "flickr,flickr_blog,best,photo",
-            "recuweb_url": "http://en.recuweb.com/flickr/blog.flickr.net/2015/04/success-kid-s-dad-needs-your-help-flickr-blog",
-            "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.flickr.net/en/2015/04/15/success-kids-dad-needs-your-help/"
-        },
-        "blog.flickr.net/2015/04/twitter-tuesday-the-bottle-selection-flickr-blog": {
-            "title": "Twitter Tuesday: the bottle selection Flickr Blog...",
-            "snippet": "We saw a lot of beautiful bottles thrown as a message into the Flickr sea for this TwitterTuesday. That was fantastic! Thank you all for your terrific contributions. Stay tuned for our next Twitter Tuesday's theme.",
-            "date": "2015-04-15",
-            "author_name": "Sol\u00e8ne",
-            "categories": "flickr,twitter",
-            "tags": "theme,flickr,flickr_blog,selection,into",
-            "recuweb_url": "http://en.recuweb.com/twitter/blog.flickr.net/2015/04/twitter-tuesday-the-bottle-selection-flickr-blog",
-            "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.flickr.net/en/2015/04/15/twitter-tuesday-the-bottle-selection/"
-        },
-        "searchenginewatch.com/2015/04/flickr-enhances-search-capabilities-sew": {
-            "title": "Flickr Enhances Search Capabilities SEW...",
-            "snippet": "Flickr has improved its search algorithm, and created a new interface to search for images, people, and groups. The revamped design comes with a better loading and scrolling performance, along with a new thumbnail view to...",
+        "searchengineland.com/2015/04/flickr-testing-improved-search-experience-photos": {
+            "title": "Flickr Testing Improved Search Experience PHOTOS...",
+            "snippet": "Some Flickr users should be seeing a new search interface that's described on the site as a \"beta\" and offers faster access to more content across Flickr.",
             "date": "2015-04-14",
-            "author_name": "Yuyu Chen",
+            "author_name": "Matt McGee",
             "categories": "flickr",
-            "tags": "created,flickr,images,people",
-            "recuweb_url": "http://en.recuweb.com/flickr/searchenginewatch.com/2015/04/flickr-enhances-search-capabilities-sew",
-            "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://searchenginewatch.com/sew/news/2404030/flickr-enhances-search-capabilities"
+            "tags": "site,offers,content,across,should,flickr,photos",
+            "recuweb_url": "http://en.recuweb.com/flickr/searchengineland.com/2015/04/flickr-testing-improved-search-experience-photos",
+            "resource_url": "http://www.google.com/search?q=flickr&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://searchengineland.com/flickr-testing-improved-search-experience-photos-218517"
         },
         "motherboard.vice.com/2015/03/the-spacex-copyright-saga-is-over-and-public-wins": {
             "title": "The SpaceX Copyright Saga Is Over, and the Public Wins...",
@@ -104,21 +94,32 @@
             "date": "2015-03-31",
             "author_name": "(Jason Koebler)",
             "categories": "rights,flickr",
-            "tags": "making,created,copyright,last,public,photos,photo,flickr,work",
+            "tags": "making,companies,public,copyright,photos,photo,flickr,work",
             "recuweb_url": "http://en.recuweb.com/flickr/motherboard.vice.com/2015/03/the-spacex-copyright-saga-is-over-and-public-wins",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=flickr%2Bflickr&rss=1&lng=en",
             "source_url": "http://motherboard.vice.com/read/the-spacex-photos-copyright-saga-is-over-and-the-public-wins"
         },
-        "youthinkyoucanblog.com/2015/03/landing-on-flickr-explore": {
-            "title": "Landing on Flickr Explore...",
-            "snippet": "Have you ever heard of Flickr Explore? No? Well, let me tell you, its a page of badassery as far as photographic images go. The best of the best. The boldest and brightest. The most UNBELIEVABLE photos uploaded to Flickr. They call it Explore. And...",
-            "date": "2015-03-24",
-            "author_name": "Angelia Sims",
+        "blog.flickr.net/2015/03/flickr-now-offers-public-domain-and-cc0-designations-blog": {
+            "title": "Flickr now offers Public Domain and CC0 designations Flickr Blog...",
+            "snippet": "Starting today, Flickr is happy to support Public Domain and Creative Commons 0 (CC0) works on our site.",
+            "date": "2015-03-30",
+            "author_name": "Rajiv Vaidyanathan",
             "categories": "flickr",
-            "tags": "uploaded,page,flickr,well,images,best,photos",
-            "recuweb_url": "http://en.recuweb.com/flickr/youthinkyoucanblog.com/2015/03/landing-on-flickr-explore",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=flickr%2Bflickr&rss=1&lng=en",
-            "source_url": "http://youthinkyoucanblog.com/2015/03/23/landing-on-flickr-explore/"
+            "tags": "site,creative,creative_commons,commons,happy,public,public_domain,domain,flickr,offers,today",
+            "recuweb_url": "http://en.recuweb.com/flickr/blog.flickr.net/2015/03/flickr-now-offers-public-domain-and-cc0-designations-blog",
+            "resource_url": "http://www.google.com/search?q=flickr&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.flickr.net/en/2015/03/30/flickr-now-offers-public-domain-and-cc0-designations/"
+        },
+        "blog.flickr.net/2015/03/flickr-tab-in-chrome-brings-beautiful-images-to-every-new": {
+            "title": "Flickr Tab in Chrome brings beautiful images to every new tab...",
+            "snippet": "At Flickr we love looking at amazing photos, and we feature some of the most popular content on the site every day in Explore. Many of us also open up dozens of new browser tabs each day. We were inspired to answer the...",
+            "date": "2015-03-18",
+            "author_name": "Hwan-Joon Choi",
+            "categories": "love,flickr",
+            "tags": "browser,day,content,site,love,flickr,images,looking,photos",
+            "recuweb_url": "http://en.recuweb.com/flickr/blog.flickr.net/2015/03/flickr-tab-in-chrome-brings-beautiful-images-to-every-new",
+            "resource_url": "http://www.google.com/search?q=flickr&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.flickr.net/en/2015/03/18/flickr-tab-in-google-chrome/"
         }
     }
 }
