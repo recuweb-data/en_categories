@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "refinancing",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/refinancing/",
@@ -10,62 +11,92 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/refinancing/refinancing/blogs.json"
     },
     "items": {
+        "seekingalpha.com/2015/04/5-graphs-to-watch-in-2015-1st-quarter-update": {
+            "title": "5 Graphs To Watch In 2015: 1st Quarter Update...",
+            "snippet": "Now that we have all of the reports for the first three months, let's take another look. 5. Mortgage refinancing After a mini surge at the end of January (light brown in the graph below), refinancing applications fell back to somnolence during...",
+            "date": "2015-04-26",
+            "categories": "refinancing",
+            "tags": "back,during,light,mortgage,refinancing",
+            "recuweb_url": "http://en.recuweb.com/refinancing/seekingalpha.com/2015/04/5-graphs-to-watch-in-2015-1st-quarter-update",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=refinancing&format=RSS&cc=us",
+            "source_url": "http://seekingalpha.com/article/3103136-5-graphs-to-watch-in-2015-1st-quarter-update"
+        },
+        "latimes.com/2015/04/cash-out-refinancing-is-making-a-comeback-as-home-equity-rises": {
+            "title": "Cash-out refinancing is making a comeback as home equity rises...",
+            "snippet": "Could it be time to cash out some home equity by refinancing your mortgage? For growing numbers of owners, the answer this year is an emphatic yes, at least according to new data from some major lenders. In a cash-out refinancing, you convert part...",
+            "date": "2015-04-26",
+            "categories": "home,refinancing",
+            "tags": "cash,major,major-lenders,lenders,least,data,answer,answer-this-year,emphatic,emphatic-yes,yes,growing,growing-numbers,numbers,numbers-of-owners,owners,cash-out,home,home-equity,equity,refinancing,mortgage",
+            "recuweb_url": "http://en.recuweb.com/refinancing/latimes.com/2015/04/cash-out-refinancing-is-making-a-comeback-as-home-equity-rises",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=refinancing&format=RSS&cc=us",
+            "source_url": "http://latimes.com/business/realestate/la-fi-harney-20150426-story.html"
+        },
+        "bostonherald.com/2015/04/mortgage-refinancing-cash-outs-coming-back-in-vogue-boston-herald": {
+            "title": "Mortgage refinancing cash-outs coming back in vogue - Boston Herald...",
+            "snippet": "The Real Deal MagazineMortgage refinancing cash-outs coming back in vogueBoston HeraldWASHINGTON Is it time to cash out some home equity by refinancing your mortgage? For many, the answer is an emphatic yes, at least according to new data from some...",
+            "date": "2015-04-26",
+            "categories": "home,refinancing",
+            "tags": "least,data,answer,emphatic,emphatic-yes,yes,cash,cash-out,home,home-equity,equity,back,deal,mortgage,refinancing",
+            "recuweb_url": "http://en.recuweb.com/refinancing/bostonherald.com/2015/04/mortgage-refinancing-cash-outs-coming-back-in-vogue-boston-herald",
+            "resource_url": "http://news.google.com/?hl=en&q=refinancing&output=atom&nord=1",
+            "source_url": "http://bostonherald.com/business/real_estate/2015/04/mortgage_refinancing_cash_outs_coming_back_in_vogue"
+        },
+        "huffingtonpost.com/2015/04/the-times-to-actively-manage-your-student-loans": {
+            "title": "The Times to Actively Manage Your Student Loans...",
+            "snippet": "This is also a good time to explore the refinancing process and see if you can lower your monthly payment. When you get a promotion Receiving a hard-earned raise or promotion with your employer is not only worth celebrating, but also a time to...",
+            "date": "2015-04-26",
+            "categories": "student-loan,refinancing",
+            "tags": "only,student,student_loans,loans,refinancing,lower",
+            "recuweb_url": "http://en.recuweb.com/refinancing/huffingtonpost.com/2015/04/the-times-to-actively-manage-your-student-loans",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=refinancing&format=RSS&cc=us",
+            "source_url": "http://huffingtonpost.com/stephen-dash/the-times-to-actively-man_b_7146830.html"
+        },
+        "huffingtonpost.com/2015/04/a-key-consideration-when-refinancing-your-student-loans-huffington": {
+            "title": "A Key Consideration When Refinancing Your Student Loans - Huffington Post...",
+            "snippet": "Huffington PostA Key Consideration When Refinancing Your Student LoansHuffington PostAs the outstanding student loan debt in the United States now easily surpasses 1 trillion, students across the country are exploring ways to be smarter with their...",
+            "date": "2015-04-25",
+            "categories": "students,refinancing,student-loan",
+            "tags": "student,debt,refinancing,student_loans,loans,loan",
+            "recuweb_url": "http://en.recuweb.com/student-loan/huffingtonpost.com/2015/04/a-key-consideration-when-refinancing-your-student-loans-huffington",
+            "resource_url": "http://news.google.com/?hl=en&q=refinancing&output=atom&nord=1",
+            "source_url": "http://huffingtonpost.com/stephen-dash/a-key-consideration-when_b_7142764.html"
+        },
+        "reuters.com/2015/04/acosta-s-loan-refinancing-tests-u-regulators": {
+            "title": "Acosta's loan refinancing tests U.S. regulators...",
+            "snippet": "The Federal Reserve, the Office of the Comptroller of the Currency (OCC) and Federal Deposit Insurance Corporation stepped up efforts to clamp down on new buyouts with higher leverage late last year, but the position on refinancing existing loans...",
+            "date": "2015-04-24",
+            "categories": "insurance,refinancing",
+            "tags": "down,federal,loans,refinancing",
+            "recuweb_url": "http://en.recuweb.com/refinancing/reuters.com/2015/04/acosta-s-loan-refinancing-tests-u-regulators",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=refinancing&format=RSS&cc=us",
+            "source_url": "http://reuters.com/article/2015/04/24/us-acosta-loans-idUSKBN0NF1Z220150424?virtualBrandChannel=11563"
+        },
         "therealdeal.com/2015/04/cash-out-refinances-on-the-rise-in": {
             "title": "Cash-out refinances on the rise in the US...",
             "snippet": "From the New York website: Could it be time to cash out some home equity by refinancing your mortgage? For growing numbers of owners, the answer this year is an emphatic yes, at least according to new data from some major lenders. In a cash-out...",
             "date": "2015-04-24",
             "categories": "home,refinancing",
-            "tags": "cash,answer,answer-this-year,year,growing,growing-numbers,numbers,numbers-of-owners,owners,cash-out,home,home-equity,equity,refinances,rise,could,refinancing,mortgage",
+            "tags": "cash,major,major-lenders,lenders,least,data,answer,answer-this-year,emphatic,emphatic-yes,yes,growing,growing-numbers,numbers,numbers-of-owners,owners,cash-out,home,home-equity,equity,refinancing,mortgage",
             "recuweb_url": "http://en.recuweb.com/refinancing/therealdeal.com/2015/04/cash-out-refinances-on-the-rise-in",
             "resource_url": "http://www.bing.com/news/search?first=1&q=refinancing&format=RSS&cc=us",
             "source_url": "http://therealdeal.com/miami/blog/2015/04/24/cash-out-refinances-on-the-rise-in-the-us/"
         },
-        "therealdeal.com/2015/04/cash-out-refinances-on-the-rise-in-us-real-deal-magazine": {
-            "title": "Cash-out refinances on the rise in the US - The Real Deal Magazine (blog)...",
-            "snippet": "The Real Deal Magazine (blog)Cash-out refinances on the rise in the USThe Real Deal Magazine (blog)In a cash-out refinancing, you convert part of your home equity into money, adding to your mortgage balance. Say you have a 400,000 home with a...",
-            "date": "2015-04-24",
-            "categories": "home,refinancing",
-            "tags": "home,home-equity,equity,cash,real,real_deal,real_deal_magazine,deal,deal_magazine,magazine,refinances,rise,refinancing,into,money,mortgage",
-            "recuweb_url": "http://en.recuweb.com/refinancing/therealdeal.com/2015/04/cash-out-refinances-on-the-rise-in-us-real-deal-magazine",
-            "resource_url": "http://news.google.com/?hl=en&q=refinancing%2Brefinancing&output=atom&nord=1",
-            "source_url": "http://therealdeal.com/blog/2015/04/24/cash-out-refinances-on-the-rise/"
-        },
-        "nonpareilonline.com/2015/04/county-to-save-219000-on-bond-refinancing-the-daily-nonpareil": {
-            "title": "County to save 219000 on bond refinancing - The Daily Nonpareil...",
-            "snippet": "The Daily NonpareilCounty to save 219000 on bond refinancingThe Daily NonpareilThe refinancing, or refunding as Drake described it, involved 5.6 million in bonds issued in 2007 and 9.6 million in bonds issued the following year to pay for...",
+        "totalmortgage.com/2015/04/common-refinancing-faqs": {
+            "title": "Common Refinancing FAQs...",
+            "snippet": "It seems like every bank and mortgage lender is pushing refinancing. As a result, you may feel nows the right time to refinance your mortgage loan. However, this isnt a decision to take lightly. Refinancing is an excellent way to lower your...",
             "date": "2015-04-24",
             "categories": "refinancing",
-            "tags": "year,million,bonds,bonds-issued,issued,daily,save,refinancing",
-            "recuweb_url": "http://en.recuweb.com/refinancing/nonpareilonline.com/2015/04/county-to-save-219000-on-bond-refinancing-the-daily-nonpareil",
-            "resource_url": "http://news.google.com/?hl=en&q=refinancing&output=atom&nord=1",
-            "source_url": "http://nonpareilonline.com/news/local/county-to-save-on-bond-refinancing/article_f42de0ff-8974-5db4-a75d-92d7a4ff0cf8.html"
-        },
-        "reuters.com/2015/04/fitch-affirms-moscow-region-at-bb-outlook-stable": {
-            "title": "Fitch Affirms Moscow Region at 'BB '; Outlook Stable...",
-            "snippet": "The region's medium-term refinancing pressure is low. For 2015-2016 it needs to repay of budget loans. Refinancing peaks in 2017-2018 when all its bank loans (62% of total debt stock) mature. Fitch does not expect the region to have any problem...",
-            "date": "2015-04-24",
-            "categories": "refinancing",
-            "tags": "any,debt,low,refinancing,loans",
-            "recuweb_url": "http://en.recuweb.com/refinancing/reuters.com/2015/04/fitch-affirms-moscow-region-at-bb-outlook-stable",
+            "tags": "refinancing,mortgage,refinance,loan,lower",
+            "recuweb_url": "http://en.recuweb.com/refinancing/totalmortgage.com/2015/04/common-refinancing-faqs",
             "resource_url": "http://www.bing.com/news/search?first=1&q=refinancing&format=RSS&cc=us",
-            "source_url": "http://reuters.com/article/2015/04/24/idUSFit92008320150424"
-        },
-        "theaustralian.com.au/2015/04/fortescue-pays-dearly-on-refinancing-to-stem-debt": {
-            "title": "Fortescue pays dearly on refinancing to stem debt...",
-            "snippet": "Shaw Stockbroking analyst Peter OConnor calculated that Fortescues annual interest bill would rise by US100 million (130m) a year to US563m as a result of the refinancing. But the higher interest costs will mean Fortescue does not have any debt...",
-            "date": "2015-04-24",
-            "categories": "refinancing",
-            "tags": "any,debt,year,rise,refinancing,interest,million",
-            "recuweb_url": "http://en.recuweb.com/refinancing/theaustralian.com.au/2015/04/fortescue-pays-dearly-on-refinancing-to-stem-debt",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=refinancing&format=RSS&cc=us",
-            "source_url": "http://theaustralian.com.au/business/mining-energy/fortescue-pays-dearly-on-refinancing-to-stem-debt/story-e6frg9df-1227317831496"
+            "source_url": "http://totalmortgage.com/blog/general/common-refinancing-faqs/27420"
         },
         "citizensvoice.com/2015/04/griffith-s-refinancing-challenge-dismissed-citizens-voice": {
             "title": "Griffith's refinancing challenge dismissed - Citizens Voice...",
             "snippet": "Citizens VoiceGriffith's refinancing challenge dismissedCitizens VoiceWILKES-BARRE May 14 could be a great day for Luzerne County, county Manager Robert Lawton said Thursday. Could because it could mark the start of a refinancing deal for a big...",
             "date": "2015-04-24",
             "categories": "refinancing",
-            "tags": "deal,deal-for-big,big,because,because-it-could,could,could-mark,mark,mark-the-start,start,manager,manager_robert,manager_robert_lawton,robert,robert_lawton,lawton,could-be-great,great,great-day,day,barre,barre_may,challenge,challenge-dismissed,dismissed,refinancing,luzerne,said,thursday",
+            "tags": "deal,deal-for-big,because,mark,mark-the-start,start,manager,manager_robert,manager_robert_lawton,robert,robert_lawton,lawton,great,great-day,day,barre,barre_may,challenge,challenge-dismissed,dismissed,refinancing,luzerne,said,thursday",
             "recuweb_url": "http://en.recuweb.com/refinancing/citizensvoice.com/2015/04/griffith-s-refinancing-challenge-dismissed-citizens-voice",
             "resource_url": "http://news.google.com/?hl=en&q=refinancing&output=atom&nord=1",
             "source_url": "http://citizensvoice.com/news/griffith-s-refinancing-challenge-dismissed-1.1869298"
@@ -75,40 +106,10 @@
             "snippet": "WILKES-BARRE May 14 could be a great day for Luzerne County, county Manager Robert Lawton said Thursday. Could because it could mark the start of a refinancing deal for a big chunk of county debt. But maybe not, Lawton noted. It could also mark...",
             "date": "2015-04-24",
             "categories": "refinancing",
-            "tags": "could,mark,debt,deal,deal-for-big,big,because,because-it-could,could-mark,mark-the-start,start,manager,manager_robert,manager_robert_lawton,robert,robert_lawton,lawton,could-be-great,great,great-day,day,barre,barre_may,plan,challenge,challenge-dismissed,dismissed,refinancing,luzerne,said,thursday",
+            "tags": "mark,debt,deal,deal-for-big,because,mark-the-start,start,manager,manager_robert,manager_robert_lawton,robert,robert_lawton,lawton,great,great-day,day,barre,barre_may,plan,challenge,challenge-dismissed,dismissed,refinancing,luzerne,said,thursday",
             "recuweb_url": "http://en.recuweb.com/refinancing/citizensvoice.com/2015/04/griffiths-refinancing-plan-challenge-dismissed",
             "resource_url": "http://www.bing.com/news/search?first=1&q=refinancing&format=RSS&cc=us",
             "source_url": "http://citizensvoice.com/news/griffith-s-refinancing-plan-challenge-dismissed-1.1869298"
-        },
-        "triblive.com/2015/04/homer-center-school-district-looks-to-save-167k-through-refinancing": {
-            "title": "Homer-Center School District looks to save 167K through refinancing...",
-            "snippet": "Officials at Homer-Center School District are hoping to save more than 160,000 by refinancing a series of bonds issued four years ago. The school board, at its April 16 monthly meeting, authorized district administrators to work with several...",
-            "date": "2015-04-24",
-            "categories": "school,refinancing",
-            "tags": "board,bonds,bonds-issued,issued,years,save,refinancing",
-            "recuweb_url": "http://en.recuweb.com/refinancing/triblive.com/2015/04/homer-center-school-district-looks-to-save-167k-through-refinancing",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=refinancing&format=RSS&cc=us",
-            "source_url": "http://triblive.com/news/indiana/8214974-74/center-homer-district"
-        },
-        "greenbaypressgazette.com/2015/04/kewaunee-pension-fund-refinancing-gets-state-approval-green-bay-press-gazette": {
-            "title": "Kewaunee pension fund refinancing gets state approval - Green Bay Press Gazette...",
-            "snippet": "Kewaunee pension fund refinancing gets state approvalGreen Bay Press GazetteThe Kewaunee City Council on April 2 approved a resolution to refinance its pension liability so that it will be paid off in 20 years. The refinancing at a rate of percent...",
-            "date": "2015-04-24",
-            "categories": "pension,refinancing",
-            "tags": "state,refinancing,refinance,years,rate",
-            "recuweb_url": "http://en.recuweb.com/refinancing/greenbaypressgazette.com/2015/04/kewaunee-pension-fund-refinancing-gets-state-approval-green-bay-press-gazette",
-            "resource_url": "http://news.google.com/?hl=en&q=refinancing%2Brefinancing&output=atom&nord=1",
-            "source_url": "http://greenbaypressgazette.com/story/news/local/kewaunee-county/2015/04/24/kewaunee-pension-fund-refinancing-gets-state-approval/26181901/"
-        },
-        "dailyherald.com/2015/04/more-homeowners-able-to-tap-equity-by-refinancing-chicago-daily-herald": {
-            "title": "More homeowners able to tap equity by refinancing - Chicago Daily Herald...",
-            "snippet": "The Real Deal Magazine (blog)More homeowners able to tap equity by refinancingChicago Daily HeraldWASHINGTON -- Could it be time to cash out some home equity by refinancing your mortgage? For growing numbers of owners, the answer this year is an...",
-            "date": "2015-04-24",
-            "categories": "home,refinancing",
-            "tags": "answer,answer-this-year,year,growing,growing-numbers,numbers,numbers-of-owners,owners,cash,cash-out,home,home-equity,equity,daily,real,real_deal,real_deal_magazine,deal,deal_magazine,magazine,chicago,able,refinancing,could,mortgage",
-            "recuweb_url": "http://en.recuweb.com/refinancing/dailyherald.com/2015/04/more-homeowners-able-to-tap-equity-by-refinancing-chicago-daily-herald",
-            "resource_url": "http://news.google.com/?hl=en&q=refinancing&output=atom&nord=1",
-            "source_url": "http://dailyherald.com/article/20150424/entlife/150429398/"
         }
     }
 }
