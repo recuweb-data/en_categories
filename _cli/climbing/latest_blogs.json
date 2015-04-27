@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "climbing",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/climbing/",
@@ -10,16 +11,60 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/climbing/climbing/blogs.json"
     },
     "items": {
-        "workerscompinsider.com/2015/04/workplace-suicides-are-climbing-highest-in-law-enforcement": {
-            "title": "Workplace suicides are climbing; Highest in law enforcement...",
-            "snippet": "Workplace suicides are climbing; Highest in law enforcement, farming, auto repair. \"Between 2003 and 2010, a total of 1,719 people died by suicide in the workplace. Workplace suicide rates generally decreased until 2007...",
-            "date": "2015-04-22",
-            "author_name": "Julie Ferguson",
-            "categories": "workplace,law,climbing",
-            "tags": "people,climbing,highest",
-            "recuweb_url": "http://en.recuweb.com/climbing/workerscompinsider.com/2015/04/workplace-suicides-are-climbing-highest-in-law-enforcement",
+        "edgeworksclimbing.com/2015/04/edgeworks-climbing-monthly-climbers-social": {
+            "title": "Edgeworks Climbing Monthly Climbers'Social...",
+            "snippet": "The FIRST TUESDAY of every month, we invite you to be part of the Edgeworks community: meet other climbers, share stories, get tips from our staff, and have fun. These events are also an opportunity for us to support the...",
+            "date": "2015-04-26",
+            "author_name": "Michelle Scheele",
+            "categories": "events,climbing",
+            "tags": "other,part,climbing,climbers",
+            "recuweb_url": "http://en.recuweb.com/climbing/edgeworksclimbing.com/2015/04/edgeworks-climbing-monthly-climbers-social",
             "resource_url": "http://www.google.com/search?q=climbing%2Bclimbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://workerscompinsider.com/2015/04/workplace-suici.html"
+            "source_url": "http://edgeworksclimbing.com/blog/aac-speakeasy-climb-hard-social-event/"
+        },
+        "fox6now.com/2015/04/fond-du-lac-man-survives-deadly-nepal-earthquake-while-climbing": {
+            "title": "Fond du Lac man survives deadly Nepal earthquake while climbing...",
+            "snippet": "The Wisconsin State Journal reports 52-year-old Andy Land, of Fond du Lac, and his climbing team guided by International Mountain Guides of Ashford, Washington, were in the Khumbu Icefall region near the mountain's...",
+            "date": "2015-04-25",
+            "author_name": "Megan Pospychala",
+            "categories": "climbing",
+            "tags": "near,mountain,guides,wisconsin,man,survives,deadly,nepal,earthquake,climbing",
+            "recuweb_url": "http://en.recuweb.com/climbing/fox6now.com/2015/04/fond-du-lac-man-survives-deadly-nepal-earthquake-while-climbing",
+            "resource_url": "http://www.google.com/search?q=climbing%2Bclimbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://fox6now.com/2015/04/25/fond-du-lac-man-survives-deadly-nepal-earthquake-while-climbing-mount-everest/"
+        },
+        "news.instyle.com/2015/04/yoko-ono-s-new-dance-track-is-climbing-the-charts-instyle": {
+            "title": "Yoko Ono's New Dance Track Is Climbing the Charts InStyle...",
+            "snippet": "Listen to Woman PowerYoko Ono's New Dance Track That's Climbing the Charts. Yoko Ono. Dimitrios Kambouris/Getty Images. April 25, 2015 7:00 pm. By: Claire Stern. 274 Shares. When Yoko Ono released Woman Power in 1973,...",
+            "date": "2015-04-25",
+            "author_name": "Claire Stern",
+            "categories": "dance,climbing",
+            "tags": "climbing",
+            "recuweb_url": "http://en.recuweb.com/climbing/news.instyle.com/2015/04/yoko-ono-s-new-dance-track-is-climbing-the-charts-instyle",
+            "resource_url": "http://www.google.com/search?q=climbing%2Bclimbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://news.instyle.com/2015/04/25/listen-up-yoko-ono-woman-power/"
+        },
+        "intelligenttravel.nationalgeographic.com/2015/04/adventure-101-climbing-in-the-colorado-rockies-intelligent-travel": {
+            "title": "Adventure 101: Climbing in the Colorado Rockies Intelligent Travel...",
+            "snippet": "Rocky Mountain National Park is an ideal alpine playground, complete with sheer rock walls, steep couloirs, and craggy peakseverything a budding climber needs to cut his or her teeth. Climbing is a surefire way to get...",
+            "date": "2015-04-24",
+            "author_name": "Avery Stonich",
+            "categories": "travel,adventure,climbing",
+            "tags": "climber,alpine,mountain,park,climbing,rock",
+            "recuweb_url": "http://en.recuweb.com/climbing/intelligenttravel.nationalgeographic.com/2015/04/adventure-101-climbing-in-the-colorado-rockies-intelligent-travel",
+            "resource_url": "http://www.google.com/search?q=climbing%2Bclimbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://intelligenttravel.nationalgeographic.com/2015/04/24/adventure-101-climbing-in-the-colorado-rockies/"
+        },
+        "atlantabraves.blog.ajc.com/2015/04/since-6-1-start-braves-era-climbing-risp-avg-declining-atlanta": {
+            "title": "Since 6-1 start, Braves'ERA climbing, RISP avg. declining Atlanta...",
+            "snippet": "NEW YORK The ERA is climbing, and it's no coincidence the Braves'record is easing back toward something closer to what had been predicted. Still a significantly better-than-expected 8-5, but with four losses in the past six...",
+            "date": "2015-04-22",
+            "author_name": "David O'Brien",
+            "categories": "climbing",
+            "tags": "york,start,climbing",
+            "recuweb_url": "http://en.recuweb.com/climbing/atlantabraves.blog.ajc.com/2015/04/since-6-1-start-braves-era-climbing-risp-avg-declining-atlanta",
+            "resource_url": "http://www.google.com/search?q=climbing%2Bclimbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://atlantabraves.blog.ajc.com/2015/04/22/since-6-1-start-braves-era-climbing-risp-avg-declining/"
         },
         "mensjournal.com/2015/04/are-climbing-gyms-the-new-crossfit": {
             "title": "Are Climbing Gyms the New CrossFit? -...",
@@ -27,83 +72,17 @@
             "date": "2015-04-21",
             "author_name": "unknown",
             "categories": "yoga,climbing",
-            "tags": "climbing,gyms,breed",
+            "tags": "massive,climbing,gyms",
             "recuweb_url": "http://en.recuweb.com/climbing/mensjournal.com/2015/04/are-climbing-gyms-the-new-crossfit",
             "resource_url": "http://www.google.com/search?q=climbing%2Bclimbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://mensjournal.com/health-fitness/exercise/are-climbing-gyms-the-new-crossfit-20150421"
-        },
-        "gearjunkie.com/2015/04/night-climbing-the-dawn-wall-gear-junkie": {
-            "title": "Night Climbing The Dawn Wall Gear Junkie...",
-            "snippet": "The Dawn Wall presented some unique challenges, one being the necessity to climb quite a bit during the dark of night. After the epic climb, battery-maker Duracell approached Jorgeson about a partnership; he had used the...",
-            "date": "2015-04-21",
-            "author_name": "Sean McCoy",
-            "categories": "climbing",
-            "tags": "epic,unique,wall,climbing,wall_gear,wall_gear_junkie,gear,gear_junkie,junkie,climb,after",
-            "recuweb_url": "http://en.recuweb.com/climbing/gearjunkie.com/2015/04/night-climbing-the-dawn-wall-gear-junkie",
-            "resource_url": "http://www.google.com/search?q=climbing%2Bclimbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://gearjunkie.com/dawn-wall-night-climbing-kevin-jorgeson"
-        },
-        "gearjunkie.com/2015/04/world-s-tallest-climbing-wall-gear-junkie": {
-            "title": "World's Tallest Climbing Wall Gear Junkie...",
-            "snippet": "You probably guessed, the world's tallest climbing wall isn't exactly purpose built for rock climbing. But artificial holds attached to the Emosson Dam in Switzerland create a 165-meter, 6 pitch form one very cool route. Climber...",
-            "date": "2015-04-21",
-            "author_name": "Sean McCoy",
-            "categories": "climbing",
-            "tags": "wall,world,climbing,wall_gear,wall_gear_junkie,gear,gear_junkie,junkie,rock,climber",
-            "recuweb_url": "http://en.recuweb.com/climbing/gearjunkie.com/2015/04/world-s-tallest-climbing-wall-gear-junkie",
-            "resource_url": "http://www.google.com/search?q=climbing%2Bclimbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://gearjunkie.com/worlds-tallest-climbing-wall"
-        },
-        "bikeportland.org/2015/04/if-climbing-hills-is-so-hard-why-are-all-these-people": {
-            "title": "If climbing hills is so hard why are all these people smiling...",
-            "snippet": "Right now hundreds of people are at work still feeling the pain in their legs after an epic Climbing Classics weekend in Portland (no one calls it that, I just made it up). Between Saturday and Sunday's De Ronde and La...",
-            "date": "2015-04-20",
-            "author_name": "Jonathan Maus (Publisher/Editor)",
-            "categories": "climbing",
-            "tags": "made,weekend,climbing,epic,people,after",
-            "recuweb_url": "http://en.recuweb.com/climbing/bikeportland.org/2015/04/if-climbing-hills-is-so-hard-why-are-all-these-people",
-            "resource_url": "http://www.google.com/search?q=climbing%2Bclimbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bikeportland.org/2015/04/20/climbing-hills-hard-people-smiling-139684"
-        },
-        "thechive.com/2015/04/snake-has-an-interesting-way-of-climbing-a-tree-thechive": {
-            "title": "Snake has an interesting way of climbing a tree: theCHIVE...",
-            "snippet": "Snake climbs tree in unique way.... Bad news guys, giant snakes are climbing trees now (Video). BY DOUGY Apr 20, 2015 IN: ANIMALS, VIDEO, WTF. Share on Facebook Share0 Share on Twitter Tweet0 Share0 Reddit0 Email0.",
-            "date": "2015-04-20",
-            "author_name": "Dougy",
-            "categories": "twitter,facebook,climbing,animals",
-            "tags": "guys,unique,way,climbing,tree",
-            "recuweb_url": "http://en.recuweb.com/animals/thechive.com/2015/04/snake-has-an-interesting-way-of-climbing-a-tree-thechive",
-            "resource_url": "http://www.google.com/search?q=climbing%2Bclimbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://thechive.com/2015/04/20/bad-news-guys-giant-snakes-are-climbing-trees-now-video/"
-        },
-        "bendsource.com/2015/04/local-climbing-competition-is-friendly-bent": {
-            "title": "Local Climbing Competition is Friendly Competition Bent The...",
-            "snippet": "A large crowd of parents, coaches, climbers and onlookers gather in the center of the Bend Rock Gym as Melina, a top female and overall competitor pulls, presses and grips her way up the 50-ft rock wall. She is poised to take...",
-            "date": "2015-04-14",
-            "author_name": "Delano Lavigne",
-            "categories": "climbing",
-            "tags": "way,rock,gym,local,climbing,wall",
-            "recuweb_url": "http://en.recuweb.com/climbing/bendsource.com/2015/04/local-climbing-competition-is-friendly-bent",
-            "resource_url": "http://www.google.com/search?q=climbing%2Bclimbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bendsource.com/Bent/archives/2015/04/14/local-climbing-competition-is-friendly-competition"
-        },
-        "sonnietrotter.com/2015/04/what-ive-learned-full-interview-r&i": {
-            "title": "What Ive Learned (full interview) R&I...",
-            "snippet": "Greetings from Spain, its been a while since Ive had the time to sit down and write anything substantial. Ive been more busy this year than ever before with family life, climbing, hang boards, traveling, training and taking pictures, and whatever...",
-            "date": "2015-04-12",
-            "author_name": "sonnie",
-            "categories": "life,climbing",
-            "tags": "training,year,ever,before,life,climbing",
-            "recuweb_url": "http://en.recuweb.com/climbing/sonnietrotter.com/2015/04/what-ive-learned-full-interview-r&i",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=climbing%2Bclimbing&rss=1&lng=en",
-            "source_url": "http://sonnietrotter.com/2015/04/12/what-ive-learned-full-interview-ri/"
         },
         "reddit.com/2015/03/you-guys-should-join-a-rock-climbing-gym": {
             "title": "You guys should join a rock climbing gym...",
             "snippet": "Seriously. You cannot physically do it if you're fat. If you're fat and you want to be even semi-good at climbing you need to do other types of workouts to get your weight under control and THEN start climbing. It's glorious. Rock climbing gyms have...",
             "date": "2015-03-12",
             "categories": "climbing",
-            "tags": "gyms,need,under,guys,rock,climbing,gym",
+            "tags": "gyms,other,rock,climbing,even,start",
             "recuweb_url": "http://en.recuweb.com/climbing/reddit.com/2015/03/you-guys-should-join-a-rock-climbing-gym",
             "resource_url": "http://www.reddit.com/search.rss?q=climbing%2Bclimbing&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/fatpeoplehate/comments/2yt9e8/you_guys_should_join_a_rock_climbing_gym/"
@@ -113,10 +92,31 @@
             "snippet": "In August of 2000, I went on a rock climbing expedition to the mountains of Kyrgyzstan. Asleep on the side of a mountain, my three partners and I were rudely awoken by some men shooting at us. We were subsequently taken captive and held hostage for...",
             "date": "2015-01-17",
             "categories": "climbing",
-            "tags": "mountains,week,before,climbing,rock",
+            "tags": "held,side,mountain,climbing,week,rock",
             "recuweb_url": "http://en.recuweb.com/climbing/reddit.com/2015/01/my-climbing-partners-and-i-were-kidnapped-held-hostage",
             "resource_url": "http://www.reddit.com/search.rss?q=climbing%2Bclimbing&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/IAmA/comments/2spmgu/my_climbing_partners_and_i_were_kidnapped_and/"
+        },
+        "reddit.com/2015/01/tommy-caldwell-and-kevin-jorgeson-have-just-completed-the-first-free": {
+            "title": "Tommy Caldwell and Kevin Jorgeson have just completed the first free ascent the Dawn Wall.",
+            "snippet": "/u/baffled88 managed to screen cap history News Link Route Info submitted by Fintann to climbing link 196 comments...",
+            "date": "2015-01-14",
+            "categories": "climbing",
+            "tags": "route,wall,tommy,tommy_caldwell,caldwell,climbing",
+            "recuweb_url": "http://en.recuweb.com/climbing/reddit.com/2015/01/tommy-caldwell-and-kevin-jorgeson-have-just-completed-the-first-free",
+            "resource_url": "http://www.reddit.com/search.rss?q=climbing%2Bclimbing&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/climbing/comments/2sgf72/tommy_caldwell_and_kevin_jorgeson_have_just/"
+        },
+        "odoo932.wordpress.com/2015/01/indoor-climbing-london-one-hour-beginner-s-course": {
+            "title": "Indoor Climbing London. One-hour Beginner's Indoor Climbing Course.",
+            "snippet": "View ProductIndoor Climbing London. One-hour Beginner's Indoor Climbing Course.- Find Lowest Price- List All Stores- Visit the basics of indoor climbing London. Improves mental and physical...",
+            "date": "2015-01-01",
+            "author_name": "rydiqaw",
+            "categories": "climbing",
+            "tags": "climbing",
+            "recuweb_url": "http://en.recuweb.com/climbing/odoo932.wordpress.com/2015/01/indoor-climbing-london-one-hour-beginner-s-course",
+            "resource_url": "http://en.search.wordpress.com/?q=climbing%2Bclimbing&f=feed&page=1",
+            "source_url": "http://odoo932.wordpress.com/2015/01/01/indoor-climbing-london-one-hour-beginners-indoor-climbing-course/"
         }
     }
 }
