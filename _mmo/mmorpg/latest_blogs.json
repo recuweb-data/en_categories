@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "mmorpg",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/mmorpg/",
@@ -10,16 +11,49 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/mmorpg/mmorpg/blogs.json"
     },
     "items": {
-        "en.rocketnews24.com/2015/03/korean-mmorpg-redefines-character-customization-with-adjustable": {
-            "title": "Korean MMORPG redefines character customization with adjustable...",
-            "snippet": "MMORPGs (massively multiplayer online role-playing games) immerse players in virtual worlds, places where thousands or millions are simultaneously engaged in forging new equipment, embarking on quests, or even just...",
-            "date": "2015-03-03",
-            "author_name": "ANDRES OLIVER",
-            "categories": "places,mmorpg",
-            "tags": "millions,massively,multiplayer,korean,korean_mmorpg,mmorpgs,online,role,playing,games,players",
-            "recuweb_url": "http://en.recuweb.com/mmorpg/en.rocketnews24.com/2015/03/korean-mmorpg-redefines-character-customization-with-adjustable",
+        "mmorpg.com/2015/04/closed-beta-3-underway-through-may-13th-skyforge-mmorpg": {
+            "title": "Closed Beta 3 Underway Through May 13th Skyforge MMORPG...",
+            "snippet": "The third closed beta phase for Skyforge is now underway. CBT 3 will last longer than the first two, running all the way until May 13th.",
+            "date": "2015-04-22",
+            "author_name": "news@mmorpg.com",
+            "categories": "mmorpg",
+            "tags": "way,longer,skyforge,mmorpg,closed,closed_beta,beta",
+            "recuweb_url": "http://en.recuweb.com/mmorpg/mmorpg.com/2015/04/closed-beta-3-underway-through-may-13th-skyforge-mmorpg",
             "resource_url": "http://www.google.com/search?q=mmorpg%2Bmmorpg&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://en.rocketnews24.com/2015/03/03/korean-mmorpg-redefines-character-customization-with-adjustable-wrinkles-bone-structure/"
+            "source_url": "http://mmorpg.com/gamelist.cfm/game/1071/view/news/read/34659/Closed-Beta-3-Underway-Through-May-13th.html"
+        },
+        "droidgamers.com/2015/04/mmorpg-eternal-fate-has-left-beta-and-is-now-available-on": {
+            "title": "MMORPG Eternal Fate has left beta and is now available on Google...",
+            "snippet": "Released by Escalation Studios, Eternal Fate is an MMORPG that's free to play and cross-platform with iOS. Players can join guilds, collect and evolve heroes, all on the way to saving the world by defeating The Corruption...",
+            "date": "2015-04-03",
+            "author_name": "unknown",
+            "categories": "mmorpg,google,play",
+            "tags": "way,world,heroes,fate,mmorpg,beta,google,released,free,play,ios,players",
+            "recuweb_url": "http://en.recuweb.com/play/droidgamers.com/2015/04/mmorpg-eternal-fate-has-left-beta-and-is-now-available-on",
+            "resource_url": "http://www.google.com/search?q=mmorpg&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://droidgamers.com/index.php/game-news/android-game-news/8784-mmorpg-eternal-fate-has-left-beta-and-is-now-available-on-google-play"
+        },
+        "macgamerhq.com/2015/04/the-20-best-mmorpgs-for-mac-gamer-hq": {
+            "title": "The 20 Best MMORPGs for Mac Mac Gamer HQ...",
+            "snippet": "The Massive Multiplayer Online genre is constantly evolving. It's never easy to stay on top of all the trends, changes and newcomers, but with this guide, you will know everything there is to know about MMORPG for Mac.",
+            "date": "2015-04-02",
+            "author_name": "Resident Author",
+            "categories": "mmorpg",
+            "tags": "changes,multiplayer,online,gamer,mmorpgs,mmorpg,top",
+            "recuweb_url": "http://en.recuweb.com/mmorpg/macgamerhq.com/2015/04/the-20-best-mmorpgs-for-mac-gamer-hq",
+            "resource_url": "http://www.google.com/search?q=mmorpg%2Bmmorpg&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://macgamerhq.com/guides/best-mmorpg-mac/"
+        },
+        "mmorpg.com/2015/03/cabal-2-an-exclusive-look-at-the-cloth-classes-mmorpg": {
+            "title": "Cabal 2 An Exclusive Look at the Cloth Classes MMORPG...",
+            "snippet": "The original Cabal Online was something of a cult hit across the MMO universe, and Cabal 2 certainly looks like a worthy successor to the original Action Combat MMORPG. Not shy to be a theme-park MMORPG based...",
+            "date": "2015-03-26",
+            "author_name": "editor@mmorpg.com",
+            "categories": "mmorpg",
+            "tags": "mmorpg,original,look,online,mmo",
+            "recuweb_url": "http://en.recuweb.com/mmorpg/mmorpg.com/2015/03/cabal-2-an-exclusive-look-at-the-cloth-classes-mmorpg",
+            "resource_url": "http://www.google.com/search?q=mmorpg%2Bmmorpg&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://mmorpg.com/gamelist.cfm/game/1260/feature/9538/An-Exclusive-Look-at-the-Cloth-Classes.html"
         },
         "mmorpg.com/2015/03/world-of-warcraft-play-to-for-free-mmorpg": {
             "title": "World of Warcraft Play to Play for Free MMORPG...",
@@ -27,21 +61,10 @@
             "date": "2015-03-02",
             "author_name": "editor@mmorpg.com",
             "categories": "mmorpg,play",
-            "tags": "purchase,today,free,free_mmorpg,mmorpg,play,world,big,players,announced,game,wildstar",
+            "tags": "soon,system,today,free,free_mmorpg,mmorpg,play,world,players,announced,game",
             "recuweb_url": "http://en.recuweb.com/play/mmorpg.com/2015/03/world-of-warcraft-play-to-for-free-mmorpg",
             "resource_url": "http://www.google.com/search?q=mmorpg%2Bmmorpg&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://mmorpg.com/gamelist.cfm/game/15/feature/9448/World-of-Warcraft-Play-to-Play-for-Free.html"
-        },
-        "eurogamer.net/2015/02/mmorpg-neverwinter-gets-xbox-one-release-date": {
-            "title": "MMORPG Neverwinter gets Xbox One release date...",
-            "snippet": "Massively-multiplayer online role-player Neverwinter will be available to play on Xbox One from 31st Dungeons & Dragons fantasy will be free-t...",
-            "date": "2015-02-26",
-            "author_name": "unknown",
-            "categories": "xbox,mmorpg,play",
-            "tags": "available,release,xbox,xbox_one,mmorpg,neverwinter,massively,multiplayer,online,role,play,dragons,fantasy,free",
-            "recuweb_url": "http://en.recuweb.com/play/eurogamer.net/2015/02/mmorpg-neverwinter-gets-xbox-one-release-date",
-            "resource_url": "http://www.google.com/search?q=mmorpg%2Bmmorpg&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://eurogamer.net/articles/2015-02-26-mmorpg-neverwinter-gets-xbox-one-release-date"
         },
         "fivewordsentence.wordpress.com/2015/02/mmorpg-we-play-online": {
             "title": "MMORPG We Play Online...",
@@ -49,7 +72,7 @@
             "date": "2015-02-20",
             "author_name": "hadissie",
             "categories": "internet,google,mmorpg,play",
-            "tags": "servers,playing,millions,google,gaming,mmorpg,play,online,world,game",
+            "tags": "world,playing,google,gaming,mmorpg,play,online,people,game",
             "recuweb_url": "http://en.recuweb.com/play/fivewordsentence.wordpress.com/2015/02/mmorpg-we-play-online",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=mmorpg%2Bmmorpg&rss=1&lng=en",
             "source_url": "http://fivewordsentence.wordpress.com/2015/02/20/mmorpg-we-play-online/"
@@ -60,10 +83,21 @@
             "date": "2015-02-07",
             "author_name": "ipad books",
             "categories": "mmorpg",
-            "tags": "battle,fantasy,dragon,mmorpgs",
+            "tags": "battle,started,mmorpgs",
             "recuweb_url": "http://en.recuweb.com/mmorpg/ipad-books-online.blogspot.com/2015/02/the-difference-between-designing-final-fantasy-xiv-and-dragon-quest",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=mmorpg%2Bmmorpg&rss=1&lng=en",
             "source_url": "http://ipad-books-online.blogspot.com/2015/02/the-difference-between-designing-final.html"
+        },
+        "mmorpg.com/2015/02/archeage-what-s-in-store-for-2015-mmorpg": {
+            "title": "ArcheAge What's in Store for 2015? MMORPG...",
+            "snippet": "After ArcheAge's big launch, controversy, and eventual settling down into its own niche, folks may be wondering where the game is headed in 2015. Good thing that we sat down with Trion's Mervin Lee Kwai, Producer on...",
+            "date": "2015-02-02",
+            "author_name": "editor@mmorpg.com",
+            "categories": "mmorpg",
+            "tags": "mmorpg,into,game",
+            "recuweb_url": "http://en.recuweb.com/mmorpg/mmorpg.com/2015/02/archeage-what-s-in-store-for-2015-mmorpg",
+            "resource_url": "http://www.google.com/search?q=mmorpg&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://mmorpg.com/gamelist.cfm/game/572/feature/9360/Whats-in-Store-for-2015.html"
         },
         "roginmegou.wordpress.com/2015/01/download-mmorpg-game": {
             "title": "Download mmorpg game...",
@@ -71,7 +105,7 @@
             "date": "2015-01-30",
             "author_name": "roginmegou",
             "categories": "mmorpg,play",
-            "tags": "free,free_mmorpg,mmorpg,game,start,play,online,mmo,games,best",
+            "tags": "free,free_mmorpg,mmorpg,game,play,online,mmo,games",
             "recuweb_url": "http://en.recuweb.com/play/roginmegou.wordpress.com/2015/01/download-mmorpg-game",
             "resource_url": "http://en.search.wordpress.com/?q=mmorpg%2Bmmorpg&f=feed&page=1",
             "source_url": "http://roginmegou.wordpress.com/2015/01/30/download-mmorpg-game/"
@@ -82,43 +116,10 @@
             "date": "2015-01-30",
             "author_name": "lebiderco",
             "categories": "mmorpg",
-            "tags": "free,free_mmorpg,mmorpg,dragons,hack,tremendous,success,game",
+            "tags": "free,free_mmorpg,mmorpg,back,game",
             "recuweb_url": "http://en.recuweb.com/mmorpg/lebiderco.wordpress.com/2015/01/download-mmorpg-game-trials",
             "resource_url": "http://en.search.wordpress.com/?q=mmorpg%2Bmmorpg&f=feed&page=1",
             "source_url": "http://lebiderco.wordpress.com/2015/01/30/download-mmorpg-game-trials/"
-        },
-        "trignebcote.wordpress.com/2015/01/download-mmorpg-game-websites": {
-            "title": "Download mmorpg game websites...",
-            "snippet": "Download Start to play free online mmorpg/free mmo games right now and increase the excitement at absolutely no cost! XMMORPG is the best free MMORPG/free...",
-            "date": "2015-01-30",
-            "author_name": "trignebcote",
-            "categories": "mmorpg,play",
-            "tags": "mmorpg,game,start,play,free,online,mmo,games,best",
-            "recuweb_url": "http://en.recuweb.com/play/trignebcote.wordpress.com/2015/01/download-mmorpg-game-websites",
-            "resource_url": "http://en.search.wordpress.com/?q=mmorpg%2Bmmorpg&f=feed&page=1",
-            "source_url": "http://trignebcote.wordpress.com/2015/01/30/download-mmorpg-game-websites/"
-        },
-        "crochodglutan.wordpress.com/2015/01/free-download-mmorpg-game-04": {
-            "title": "Free download mmorpg game 04...",
-            "snippet": "Download Play the best Free MMORPG games MMO players can access the game directly through the games web browser after a quick registration and do not need to download...",
-            "date": "2015-01-30",
-            "author_name": "crochodglutan",
-            "categories": "mmorpg,play",
-            "tags": "after,free,mmorpg,game,play,best,games,mmo,players",
-            "recuweb_url": "http://en.recuweb.com/play/crochodglutan.wordpress.com/2015/01/free-download-mmorpg-game-04",
-            "resource_url": "http://en.search.wordpress.com/?q=mmorpg%2Bmmorpg&f=feed&page=1",
-            "source_url": "http://crochodglutan.wordpress.com/2015/01/30/free-download-mmorpg-game-04/"
-        },
-        "seeawritates.wordpress.com/2015/01/free-download-mmorpg-game-85": {
-            "title": "Free download mmorpg game 85...",
-            "snippet": "Download MMO Games. Gamesgames has the biggest collection of free Free MMORPG and free MMO Games Site. Find the best free online MMORPG The best Free MMORPG Games...",
-            "date": "2015-01-30",
-            "author_name": "seeawritates",
-            "categories": "mmorpg",
-            "tags": "mmorpg,games,mmo,mmo_games,free,game,site,find,best,online",
-            "recuweb_url": "http://en.recuweb.com/mmorpg/seeawritates.wordpress.com/2015/01/free-download-mmorpg-game-85",
-            "resource_url": "http://en.search.wordpress.com/?q=mmorpg%2Bmmorpg&f=feed&page=1",
-            "source_url": "http://seeawritates.wordpress.com/2015/01/30/free-download-mmorpg-game-85/"
         }
     }
 }
