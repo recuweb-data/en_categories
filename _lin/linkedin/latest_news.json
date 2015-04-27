@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "linkedin",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/linkedin/",
@@ -10,104 +11,100 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/linkedin/linkedin/blogs.json"
     },
     "items": {
-        "business.newsfactor.com/2015/04/linkedin-testing-product-to-make-it-easier-find-share-content": {
-            "title": "LinkedIn Testing Product To Make It Easier To Find, Share Content...",
-            "snippet": "LinkedIn wants businesses and employees to be more data savvy when it comes to finding and sharing articles, blog posts, slideshows and other stories on its site. The business-oriented social networking company has been testing a new product...",
-            "date": "2015-04-16",
-            "categories": "business",
-            "tags": "company,product,site,businesses,business,sharing,content,edin,make,find,social,networking",
-            "recuweb_url": "http://en.recuweb.com/business/business.newsfactor.com/2015/04/linkedin-testing-product-to-make-it-easier-find-share-content",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=us",
-            "source_url": "http://business.newsfactor.com/news/LinkedIn-Testing-LinkedIn-Elevate/story.xhtml?story_id=10000BFYLA2C"
-        },
-        "newsfactor.com/2015/04/marketo-linkedin-join-forces-to-offer-more-personalized-ads": {
-            "title": "Marketo, LinkedIn Join Forces To Offer More Personalized Ads...",
-            "snippet": "Engagement marketing maker Marketo Inc. is teaming up with LinkedIn to bring what it calls more personalized engagement to marketers online and offline. The partnership connects LinkedIns Lead Accelerator product with Marketos Engagement...",
-            "date": "2015-04-16",
-            "categories": "marketing",
-            "tags": "product,edins,edin,online,marketing",
-            "recuweb_url": "http://en.recuweb.com/marketing/newsfactor.com/2015/04/marketo-linkedin-join-forces-to-offer-more-personalized-ads",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=us",
-            "source_url": "http://newsfactor.com/story.xhtml?story_id=100007JDWUPO"
-        },
-        "fortune.com/2015/04/do-recruiters-dislike-being-approached-on-linkedin-or-facebook": {
-            "title": "Do recruiters dislike being approached on LinkedIn or Facebook by a candidate?",
-            "snippet": "Answer by Ambra Benjamin on Quora. The best way to digest the answer Im about to give to this question is to think about a recruiters experience with processing candidates similarly to how an iOS Engineer working at Twitter might feel about...",
-            "date": "2015-04-15",
-            "categories": "facebook,twitter",
-            "tags": "experience,edin,facebook,best",
-            "recuweb_url": "http://en.recuweb.com/twitter/fortune.com/2015/04/do-recruiters-dislike-being-approached-on-linkedin-or-facebook",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=us",
-            "source_url": "http://fortune.com/2015/04/15/do-recruiters-dislike-being-approached-on-linkedin-or-facebook-by-a-candidate/?xid=timehp-category"
-        },
-        "emirates247.com/2015/04/dubai-smart-govt-launches-uae-s-first-linkedin-company-page": {
-            "title": "Dubai Smart Govt launches UAE Govt's first LinkedIn company page...",
-            "snippet": "Dubai Smart Government has become the first UAE Government body to launch an official company page in Arabic on LinkedIn, the world's largest professional network on the internet with more than 347 million members across the world. Ahmad bin...",
-            "date": "2015-04-15",
-            "categories": "internet",
-            "tags": "than,professional,company,page,become,edin,network",
-            "recuweb_url": "http://en.recuweb.com/internet/emirates247.com/2015/04/dubai-smart-govt-launches-uae-s-first-linkedin-company-page",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=us",
-            "source_url": "http://emirates247.com/news/emirates/dubai-smart-govt-launches-uae-govt-s-first-linkedin-company-page-2015-04-15-1.587471"
-        },
-        "afr.com/2015/04/facebook-more-popular-than-linkedin-with-jobseekers-the-australian-financial-review": {
-            "title": "Facebook more popular than LinkedIn with jobseekers - The Australian Financial Review...",
-            "snippet": "The Australian Financial ReviewFacebook more popular than LinkedIn with jobseekersThe Australian Financial ReviewMore job seekers are using Facebook than LinkedIn to find employment, according to new research which suggests an increasing number of...",
-            "date": "2015-04-15",
-            "categories": "employment,facebook",
-            "tags": "according,research,number,find,job,jobseekers,than,facebook,edin",
-            "recuweb_url": "http://en.recuweb.com/facebook/afr.com/2015/04/facebook-more-popular-than-linkedin-with-jobseekers-the-australian-financial-review",
+        "cio.com/2015/04/4-things-we-love-about-linkedin-groups-cio": {
+            "title": "4 things we love about LinkedIn Groups - CIO...",
+            "snippet": "CIO4 things we love about LinkedIn GroupsCIOLinkedIn's Groups feature, which lets you connect with other users based on common interests, is one of its most popular offerings. More than million Groups exist on the professional network, and that...",
+            "date": "2015-04-23",
+            "categories": "love",
+            "tags": "professional,network,million,edin,feature",
+            "recuweb_url": "http://en.recuweb.com/love/cio.com/2015/04/4-things-we-love-about-linkedin-groups-cio",
             "resource_url": "http://news.google.com/?hl=en&q=linkedin&output=atom&nord=1",
-            "source_url": "http://afr.com/business/facebook-more-popular-than-linkedin-with-jobseekers-20150415-1mlkr7"
+            "source_url": "http://cio.com/article/2914072/linkedin/4-things-we-love-about-linkedin-groups.html"
         },
-        "smartcompany.com.au/2015/04/jobseekers-use-facebook-over-linkedin-to-find-work-should": {
-            "title": "Jobseekers use Facebook over LinkedIn to find work: Should you be hiring via social media?",
-            "snippet": "Aussie jobseekers are turning to Facebook ahead of professional networking site LinkedIn to look for work, according to research released yesterday by recruitment firm Randstad. An online survey of 12,000 Australians showed one in three (34%)...",
-            "date": "2015-04-15",
-            "categories": "recruitment,facebook",
-            "tags": "online,according,research,professional,jobseekers,find,facebook,edin,social,networking,site",
-            "recuweb_url": "http://en.recuweb.com/facebook/smartcompany.com.au/2015/04/jobseekers-use-facebook-over-linkedin-to-find-work-should",
+        "peninsulapress.com/2015/04/east-palo-alto-resident-creates-linkedin-for-the-hood": {
+            "title": "East Palo Alto resident creates LinkedIn for the hood...",
+            "snippet": "Roberto Gutierrez from East Palo Alto aspires to be a successful graphic designer. Dele Sobomehin from Portland, Ore., hopes to run the top youth basketball academy in the nation. Bruno Mandolesi from Dolomites, Italy, wishes to combine...",
+            "date": "2015-04-23",
+            "categories": "basketball,academy",
+            "tags": "top,youth,edin",
+            "recuweb_url": "http://en.recuweb.com/academy/peninsulapress.com/2015/04/east-palo-alto-resident-creates-linkedin-for-the-hood",
             "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=us",
-            "source_url": "http://smartcompany.com.au/people/recruitment/46466-jobseekers-flock-to-facebook-to-find-work-should-you-be-hiring-staff-through-social-media.html"
+            "source_url": "http://peninsulapress.com/2015/04/23/ambition-spotlight-east-palo-alto/"
         },
-        "recode.net/2015/04/linkedin-global-marketing-head-nick-besbeas-is-departing": {
-            "title": "LinkedIn Global Marketing Head Nick Besbeas Is Departing...",
-            "snippet": "LinkedIns VP of marketing, Nick Besbeas, is leaving the company at the end of May, according to an internal memo obtained by Re/code. Besbeas is departing after more than four years at the professional network, where he ran LinkedIns marketing...",
-            "date": "2015-04-15",
-            "categories": "marketing",
-            "tags": "than,years,professional,according,company,marketing,edins,network",
-            "recuweb_url": "http://en.recuweb.com/marketing/recode.net/2015/04/linkedin-global-marketing-head-nick-besbeas-is-departing",
+        "sleekmoney.com/2015/04/linkedin-corp-receives-average-price-target-from-analysts-nyse-lnkd": {
+            "title": "LinkedIn Corp Receives Average Price Target from Analysts (NYSE:LNKD)...",
+            "snippet": "Shares of LinkedIn Corp (NYSE:LNKD) have received a consensus rating of Buy from the thirty-six brokerages that are presently covering the stock, AnalystRatingsNetwork reports. Two equities research analysts have rated the stock with a sell...",
+            "date": "2015-04-23",
+            "tags": "stock,edin,edin_corp,corp,target,nyse,lnkd,network",
+            "recuweb_url": "http://en.recuweb.com/sleekmoney.com/2015/04/linkedin-corp-receives-average-price-target-from-analysts-nyse-lnkd",
             "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=us",
-            "source_url": "http://recode.net/2015/04/15/linkedin-global-marketing-head-nick-besbeas-is-departing/"
+            "source_url": "http://sleekmoney.com/linkedin-corp-receives-275-03-average-price-target-from-analysts-nyselnkd/216089/"
         },
-        "gurufocus.com/2015/04/linkedin-makes-a-progressive-move-into-the-education-sector": {
-            "title": "LinkedIn Makes A Progressive Move Into The Education Sector...",
-            "snippet": "The professional networking site LinkedIn (LNKD) has been in the news recently for its acquisition of online learning website for about 1.5 billion. In fact, this announcement marks the biggest ever billion dollar acquisition completed by...",
-            "date": "2015-04-15",
-            "categories": "learning,education",
-            "tags": "online,edin,professional,networking,site",
-            "recuweb_url": "http://en.recuweb.com/education/gurufocus.com/2015/04/linkedin-makes-a-progressive-move-into-the-education-sector",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=us",
-            "source_url": "http://gurufocus.com/news/330511/linkedin-makes-a-progressive-move-into-the-education-sector"
-        },
-        "agbeat.com/2015/04/linkedin-updates-their-game-with-elevate-app": {
-            "title": "LinkedIn updates their game with Elevate app...",
-            "snippet": "While this includes the statuses of friends as well as businesses, its important to note that sharing is a vital part of the social media experience. However, branding through content sharing can be difficult. Not only do you have to make your...",
-            "date": "2015-04-15",
-            "categories": "business",
-            "tags": "make,content,sharing,experience,businesses,edin,social",
-            "recuweb_url": "http://en.recuweb.com/business/agbeat.com/2015/04/linkedin-updates-their-game-with-elevate-app",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=us",
-            "source_url": "http://agbeat.com/social-media/linkedin-updates-their-game-with-elevate-app/"
-        },
-        "time.com/2015/04/how-you-can-boost-page-views-on-linkedin-time": {
-            "title": "How You Can Boost Page Views on LinkedIn - TIME...",
-            "snippet": "TIMEHow You Can Boost Page Views on LinkedInTIMEIn one week, I increased the number of people looking at my LinkedIn profile by 425%. And that's pretty excitingmore views means more potential job opportunities, more connections, and more visibility...",
-            "date": "2015-04-14",
-            "tags": "job,number,page,edin",
-            "recuweb_url": "http://en.recuweb.com/time.com/2015/04/how-you-can-boost-page-views-on-linkedin-time",
+        "business2community.com/2015/04/linkedin-marketing-tip-this-clever-lead-generation-strategy-works-business-2": {
+            "title": "LinkedIn Marketing Tip: This Clever Lead Generation Strategy Works - Business 2 Community...",
+            "snippet": "Business 2 CommunityLinkedIn Marketing Tip: This Clever Lead Generation Strategy WorksBusiness 2 CommunityThe key to success in any marketing strategy is defining a specific target market, and LinkedIn gives you a great opportunity to generate these...",
+            "date": "2015-04-23",
+            "categories": "marketing,business",
+            "tags": "marketing,target,market,edin,community",
+            "recuweb_url": "http://en.recuweb.com/business/business2community.com/2015/04/linkedin-marketing-tip-this-clever-lead-generation-strategy-works-business-2",
             "resource_url": "http://news.google.com/?hl=en&q=linkedin&output=atom&nord=1",
-            "source_url": "http://time.com/3819563/increase-page-views-linkedin/"
+            "source_url": "http://business2community.com/linkedin/linkedin-marketing-tip-clever-lead-generation-strategy-works-01212118"
+        },
+        "mv-voice.com/2015/04/linkedin-aims-to-boost-teen-center-programs-with-grant": {
+            "title": "LinkedIn aims to boost teen center programs with grant...",
+            "snippet": "LinkedIn kicked off a new effort last year to improve youth employment in cities where it has a presence, starting with a 115,000 grant to The View teen center, located right at the Mountain View-based company's back door. About a third of the grant...",
+            "date": "2015-04-23",
+            "categories": "employment",
+            "tags": "company,located,youth,boost,edin",
+            "recuweb_url": "http://en.recuweb.com/employment/mv-voice.com/2015/04/linkedin-aims-to-boost-teen-center-programs-with-grant",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=us",
+            "source_url": "http://mv-voice.com/news/2015/04/22/linkedin-aims-to-boost-teen-center-programs-with-grant"
+        },
+        "businessinsider.com/2015/04/linkedin-will-start-checking-to-see-if-you-ve-lied-on": {
+            "title": "LinkedIn will start checking to see if you've lied on your r\u00e9sum\u00e9...",
+            "snippet": "Everyone fudges their r\u00e9sum\u00e9 a little bit, either to bolster accomplishments or sweep shortcomings under the rug, because lying is the easiest way to make yourself look good. But LinkedIn is having none of it. Thanks to a newly granted patent,...",
+            "date": "2015-04-23",
+            "tags": "because,start,edin",
+            "recuweb_url": "http://en.recuweb.com/businessinsider.com/2015/04/linkedin-will-start-checking-to-see-if-you-ve-lied-on",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=us",
+            "source_url": "http://businessinsider.com/linkedin-will-start-checking-to-see-if-youve-lied-on-your-rsum-2015-4"
+        },
+        "english.alarabiya.net/2015/04/saudi-employers-lagging-behind-tech-savvy-candidates-linkedin": {
+            "title": "Saudi employers lagging behind tech-savvy candidates: LinkedIn...",
+            "snippet": "Some employers in Saudi Arabia are still relying on platform such as their own website and online career websites, as well as print media to find candidates, LinkedIn said in its new study into KSAs talent gap. The report noted though that...",
+            "date": "2015-04-23",
+            "tags": "find,online,edin",
+            "recuweb_url": "http://en.recuweb.com/english.alarabiya.net/2015/04/saudi-employers-lagging-behind-tech-savvy-candidates-linkedin",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=us",
+            "source_url": "http://english.alarabiya.net/en/business/2015/04/23/KSA-employers-lagging-behind-tech-savvy-candidates-LinkedIn.html"
+        },
+        "forbes.com/2015/04/seven-ways-to-make-linkedin-help-you-find-a-job": {
+            "title": "Seven Ways to Make LinkedIn Help You Find A Job...",
+            "snippet": "Now that LinkedIn is 12 years old and has more than 300 million members, most professionals have figured out how to set up a profile and build connections. But with ever-increasing numbers of hiring managers and recruiters using the site to hunt for...",
+            "date": "2015-04-23",
+            "tags": "profile,million,edin,find,job,ways",
+            "recuweb_url": "http://en.recuweb.com/forbes.com/2015/04/seven-ways-to-make-linkedin-help-you-find-a-job",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=us",
+            "source_url": "http://forbes.com/sites/susanadams/2015/04/23/seven-ways-to-make-linkedin-help-you-find-a-job/"
+        },
+        "forbes.com/2015/04/who-are-you-the-answer-isn-t-on-your-linkedin-profile": {
+            "title": "Who Are You? The Answer Isn't On Your LinkedIn Profile - Forbes...",
+            "snippet": "ForbesWho Are You? The Answer Isn't On Your LinkedIn ProfileForbesLeslie Graff has a complex LinkedIn profile because she's holding many titles at the same time: she's a fine artist, an online course creator and a psychosocial and developmental...",
+            "date": "2015-04-23",
+            "tags": "online,profile,because,edin",
+            "recuweb_url": "http://en.recuweb.com/forbes.com/2015/04/who-are-you-the-answer-isn-t-on-your-linkedin-profile",
+            "resource_url": "http://news.google.com/?hl=en&q=linkedin&output=atom&nord=1",
+            "source_url": "http://forbes.com/sites/deniserestauri/2015/04/23/who-are-you-the-answer-isnt-on-your-linkedin-profile/"
+        },
+        "fool.com/2015/04/why-this-billion-dollar-fund-manager-is-betting-big-on-linkedin": {
+            "title": "Why This Billion Dollar Fund Manager Is Betting Big on LinkedIn Corp Stock - Motley Fool...",
+            "snippet": "Why This Billion Dollar Fund Manager Is Betting Big on LinkedIn Corp StockMotley FoolThough LinkedIn (NYSE: LNKD) is by no means the largest position for professional asset management firm Churchill Management, the stock made up% of its portfolio as...",
+            "date": "2015-04-23",
+            "categories": "management,asset-management",
+            "tags": "stock,professional,edin,edin_corp,corp,nyse,lnkd",
+            "recuweb_url": "http://en.recuweb.com/asset-management/fool.com/2015/04/why-this-billion-dollar-fund-manager-is-betting-big-on-linkedin",
+            "resource_url": "http://news.google.com/?hl=en&q=linkedin&output=atom&nord=1",
+            "source_url": "http://fool.com/investing/general/2015/04/23/why-this-billion-dollar-fund-manager-is-betting-bi.aspx"
         }
     }
 }
