@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sunni-islam",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/sunni-islam/",
@@ -10,15 +11,55 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/sunni-islam/sunni-islam/blogs.json"
     },
     "items": {
+        "reddit.com/2015/04/eli5-difference-between-sunni-shia-sufi-ibadi-ahmadiyya-and-other-types": {
+            "title": "ELI5: Difference between Sunni, Shia, Sufi, Ibadi, Ahmadiyya, and other types of Islam?",
+            "snippet": "I have always wondered what exactly the differences between the differences between Islam are? Wasn't the Sunni/Shia split because of some sort of leadership split a long time ago? I heard Shia are typically more conservative (I don't know whether...",
+            "date": "2015-04-22",
+            "categories": "leadership,islam",
+            "tags": "because,sort,leadership,differences,between,sunni,shia,islam,don",
+            "recuweb_url": "http://en.recuweb.com/islam/reddit.com/2015/04/eli5-difference-between-sunni-shia-sufi-ibadi-ahmadiyya-and-other-types",
+            "resource_url": "http://www.reddit.com/search.rss?q=sunni%2Bislam%2Bsunni%2Bislam&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/explainlikeimfive/comments/33gnfr/eli5_difference_between_sunni_shia_sufi_ibadi/"
+        },
+        "reddit.com/2015/04/is-male-circumcision-mandatory-in-islam": {
+            "title": "Is Male Circumcision Mandatory In Islam?",
+            "snippet": "Is it mandatory in Sunni Islam? Shia? Are there are books/websites that I can read more about it? Thanks. submitted by georgejones31 to islam link 33 comments...",
+            "date": "2015-04-21",
+            "categories": "sunni-islam,islam",
+            "tags": "sunni,sunni_islam,islam,shia",
+            "recuweb_url": "http://en.recuweb.com/islam/reddit.com/2015/04/is-male-circumcision-mandatory-in-islam",
+            "resource_url": "http://www.reddit.com/search.rss?q=sunni%2Bislam%2Bsunni%2Bislam&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/islam/comments/33bb36/is_male_circumcision_mandatory_in_islam/"
+        },
         "juancole.com/2015/04/iraq-shiite-gov-t-faces-mammoth-task-in-taking-sunni-al": {
             "title": "Iraq: Shiite Gov't faces Mammoth Task in taking Sunni al-Anbar from...",
             "snippet": "By Mustafa Habib Baghdad (). Only a few hours after the start of the next big military campaign against the Islamic State group in Iraq, things went wrong. Anbar will not be like Salahaddin there are social,...",
             "date": "2015-04-19",
             "author_name": "contributors",
-            "tags": "social,islamic,islamic_state,state,after,against,shiite,iraq,sunni,only",
+            "tags": "group,islamic,islamic_state,state,against,mustafa,taking,shiite,iraq,sunni,anbar",
             "recuweb_url": "http://en.recuweb.com/juancole.com/2015/04/iraq-shiite-gov-t-faces-mammoth-task-in-taking-sunni-al",
-            "resource_url": "http://www.google.com/search?q=sunni%2Bislam&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=sunni%2Bislam%2Bsunni%2Bislam&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://juancole.com/2015/04/shiite-mammoth-taking.html"
+        },
+        "truthdig.com/2015/04/juan-cole-islamic-state-surrounds-300-sunni-families-in-iraq": {
+            "title": "Juan Cole: Islamic State Surrounds 300 Sunni Families in Iraq...",
+            "snippet": "Islamic State (also known as Daesh) has taken new territory in the western Al-Anbar Province of Iraq and may be on the verge of taking the provincial capital, Ramadi, a week after they were decisively defeated in Tikrit in the...",
+            "date": "2015-04-18",
+            "author_name": "editor@truthdig.com",
+            "tags": "taking,provincial,provincial-capital,capital,anbar,western,islamic,islamic_state,state,sunni,families,juan,juan_cole,cole,iraq,daesh,ramadi,week,tikrit",
+            "recuweb_url": "http://en.recuweb.com/truthdig.com/2015/04/juan-cole-islamic-state-surrounds-300-sunni-families-in-iraq",
+            "resource_url": "http://www.google.com/search?q=sunni%2Bislam%2Bsunni%2Bislam&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://truthdig.com/report/item/islamic_state_surrounds_300_sunni_families_in_iraq_closes_ramadi_20150418"
+        },
+        "jihadwatch.org/2015/04/thousands-of-iraqis-flee-as-islamic-state-makes-gains-in-sunni": {
+            "title": "Thousands of Iraqis flee as Islamic State makes gains in Sunni...",
+            "snippet": "Thousands of Iraqis flee as Islamic State makes gains in Sunni heartland, by Loveday Morris, Washington Post, April 17, 2015: SADR AL-YUSUFIYAH Thousands of families fleeing Iraq's western city of Ramadi choked...",
+            "date": "2015-04-18",
+            "author_name": "Robert Spencer",
+            "tags": "western,families,islamic,islamic_state,state,sunni,heartland,iraq,city,ramadi",
+            "recuweb_url": "http://en.recuweb.com/jihadwatch.org/2015/04/thousands-of-iraqis-flee-as-islamic-state-makes-gains-in-sunni",
+            "resource_url": "http://www.google.com/search?q=sunni%2Bislam%2Bsunni%2Bislam&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://jihadwatch.org/2015/04/thousands-of-iraqis-flee-as-islamic-state-makes-gains-in-sunni-heartland"
         },
         "islam.stackexchange.com/2015/04/practical-islam-can-a-turkish-sunni-muslim-covert-into-hindu": {
             "title": "practical islam - Can a Turkish Sunni Muslim covert into Hindu...",
@@ -26,95 +67,52 @@
             "date": "2015-04-14",
             "author_name": "Rishita",
             "categories": "islam,hinduism",
-            "tags": "why,many,rules,would,sunni,sunni_muslim,muslim,islam",
+            "tags": "don,peace,sunni,sunni_muslim,muslim,islam",
             "recuweb_url": "http://en.recuweb.com/hinduism/islam.stackexchange.com/2015/04/practical-islam-can-a-turkish-sunni-muslim-covert-into-hindu",
             "resource_url": "http://www.google.com/search?q=sunni%2Bislam&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://islam.stackexchange.com/questions/23938/can-a-turkish-sunni-muslim-covert-into-hindu"
+        },
+        "shoebat.com/2015/04/the-antichrist-of-turkey-seeks-to-create-an-islamic-alliance": {
+            "title": "The Antichrist Of Turkey Seeks To Create An Islamic Alliance Of Both...",
+            "snippet": "By Walid Shoebat. We have no religion called 'Sunni'or 'Shiite'said Erdogan reminding the Muslim world that Turkey will not join a Sunni alliance with Saudi Arabia, but an Islamic alliance of both Sunnis and Shiites which...",
+            "date": "2015-04-13",
+            "author_name": "Shoebat Foundation",
+            "categories": "religion",
+            "tags": "alliance,saudi,saudi_arabia,arabia,religion,islamic,called,sunnis,shiite,said,muslim,world,shiites",
+            "recuweb_url": "http://en.recuweb.com/religion/shoebat.com/2015/04/the-antichrist-of-turkey-seeks-to-create-an-islamic-alliance",
+            "resource_url": "http://www.google.com/search?q=sunni%2Bislam%2Bsunni%2Bislam&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://shoebat.com/2015/04/13/the-antichrist-of-turkey-seeks-to-create-an-islamic-alliance-of-both-sunnis-and-shiites-which-includes-iran/"
         },
         "blogs.berkeley.edu/2015/04/sunni-islamic-authority-between-the-text-and-context-berkeley": {
             "title": "Sunni Islamic authority between the text and context The Berkeley...",
             "snippet": "The ongoing chaos in many parts of the Muslim world can, in part, be traced to the collapse of Sunni Islamic authority and the emergence of various groupings claiming to fill the vacuum. While all agree that the collapse is a...",
             "date": "2015-04-08",
             "author_name": "Hatem Bazian",
-            "tags": "authority,parts,world,many,sunni,sunni_islamic,islamic,between,muslim",
+            "tags": "authority,claiming,between,sunni,islamic,muslim,world",
             "recuweb_url": "http://en.recuweb.com/blogs.berkeley.edu/2015/04/sunni-islamic-authority-between-the-text-and-context-berkeley",
-            "resource_url": "http://www.google.com/search?q=sunni%2Bislam&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=sunni%2Bislam%2Bsunni%2Bislam&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.berkeley.edu/2015/04/08/sunni-islamic-authority-between-the-text-and-context/"
         },
-        "perdana4peace.org/2015/03/the-isis-described-by-us-media-as-a-sunni-muslim-militia": {
-            "title": "The ISIS Described by the US Media as a Sunni Muslim Militia is...",
-            "snippet": "As a lifetime student of classical mainline Islamic jurisprudential school of thought called Sunni fiqh, I feel saddened to note how the Western mainstream media succumbed to the Islamophobic propaganda of affixing the...",
-            "date": "2015-03-24",
-            "author_name": "Site Admin",
-            "categories": "school,life",
-            "tags": "thought,sunni,sunni_muslim,muslim,isis,described,islamic",
-            "recuweb_url": "http://en.recuweb.com/life/perdana4peace.org/2015/03/the-isis-described-by-us-media-as-a-sunni-muslim-militia",
-            "resource_url": "http://www.google.com/search?q=sunni%2Bislam&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://perdana4peace.org/2015/the-isis-described-by-the-us-media-as-a-sunni-muslim-militia-is-made-in-america-it-has-nothing-to-do-with-sunni-islam/"
-        },
-        "defendproclaimthefaith.org/2015/03/blog-post-the-coming-shiite-sunni-islamic-war-defend": {
-            "title": "BLOG POST: The Coming Shiite Sunni Islamic War - Defend and...",
-            "snippet": "The problem is that Sunni Islamic countries will not allow this. Turkey, Egypt and Saudi Arabia will unite against Iran. In the past there were vicious civil wars between the Sunnis and Shiites with untold numbers being killed.",
-            "date": "2015-03-15",
-            "author_name": "JohnMcTernan",
-            "tags": "wars,unite,against,saudi,saudi_arabia,arabia,ries,sunnis,sunni_islamic,islamic,shiite,egypt,iran,between,shiites",
-            "recuweb_url": "http://en.recuweb.com/defendproclaimthefaith.org/2015/03/blog-post-the-coming-shiite-sunni-islamic-war-defend",
-            "resource_url": "http://www.google.com/search?q=sunni%2Bislam&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://defendproclaimthefaith.org/blog/?p=31752"
-        },
-        "theguardian.com/2015/03/iraqi-army-and-militia-begin-assault-on-isis-strongholds-north-of": {
-            "title": "Iraqi army and militia begin assault on Isis strongholds north of...",
-            "snippet": "Analysis Iraq's assault on Isis sparks fears of new atrocities in the Sunni triangle. Push to retake areas held by Islamic State leaves minority Sunnis at risk of becoming human shields or victims of revenge-seeking Shia militias.",
-            "date": "2015-03-02",
-            "author_name": "Kareem Shaheen in Beirut",
-            "tags": "islamic,islamic_state,state,held,fears,iraq,isis,sunnis,push,seeking,shia",
-            "recuweb_url": "http://en.recuweb.com/theguardian.com/2015/03/iraqi-army-and-militia-begin-assault-on-isis-strongholds-north-of",
+        "cfr.org/2015/04/islamic-state-isis-council-on-foreign-relations": {
+            "title": "Islamic State (ISIS) - Council on Foreign Relations...",
+            "snippet": "In June 2014, after seizing territories in Iraq's Sunni heartland, including the cities of Mosul and Tikrit, the Islamic State proclaimed itself a caliphate, claiming exclusive political and theological authority over the world's Muslims...",
+            "date": "2015-04-01",
+            "author_name": "Council on Foreign Relations",
+            "tags": "authority,claiming,proclaimed,caliphate,relations,islamic,islamic_state,state,isis,iraq,sunni,heartland,tikrit,political,theological,world",
+            "recuweb_url": "http://en.recuweb.com/cfr.org/2015/04/islamic-state-isis-council-on-foreign-relations",
             "resource_url": "http://www.google.com/search?q=sunni%2Bislam%2Bsunni%2Bislam&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/world/2015/mar/02/iraq-assault-islamic-state-strongholds-baghdad"
+            "source_url": "http://cfr.org/iraq/islamic-state/p14811"
         },
-        "jihadwatch.org/2015/02/lebanon-top-sunni-authority-files-judicial-complaint-against-satirist": {
-            "title": "Lebanon: Top Sunni authority files judicial complaint against satirist...",
-            "snippet": "Apparently mocking the Islamic State is, for these Lebanese Sunni clerics, defaming Islam a telling admission in itself. In any case, the increasingly frequent calls for self-censorship from Barack Obama and the Leftist elites...",
-            "date": "2015-02-24",
-            "author_name": "Robert Spencer",
+        "truthdig.com/2015/03/juan-cole-yemen-bombing-it-s-not-the-islamic-state-group": {
+            "title": "Juan Cole: Yemen Bombing: It's Not the Islamic State Group, and It's...",
+            "snippet": "Since the mosques were largely attended by members of the Houthi movement in Zaidi, Shiite Islam and Daesh is ultra-Sunni, the bombings also suggest Sunni-Shiite conflict of the sort that has characterized Iraq's recent...",
+            "date": "2015-03-25",
+            "author_name": "editor@truthdig.com",
             "categories": "islam",
-            "tags": "barack,barack_obama,obama,any,sunni,islamic,islamic_state,state,authority,against,top,islam,self",
-            "recuweb_url": "http://en.recuweb.com/islam/jihadwatch.org/2015/02/lebanon-top-sunni-authority-files-judicial-complaint-against-satirist",
+            "tags": "conflict,sort,shiite,shiite_islam,islam,movement,attended,islamic,islamic_state,state,group,yemen,juan,juan_cole,cole,daesh,sunni,iraq",
+            "recuweb_url": "http://en.recuweb.com/islam/truthdig.com/2015/03/juan-cole-yemen-bombing-it-s-not-the-islamic-state-group",
             "resource_url": "http://www.google.com/search?q=sunni%2Bislam%2Bsunni%2Bislam&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://jihadwatch.org/2015/02/lebanon-top-sunni-authorities-files-judicial-complaint-against-satirist-for-defaming-islam"
-        },
-        "noquarterusa.net/2015/02/yes-barack-obama-is-a-total-moron-on-radical-sunni-islamic": {
-            "title": "Yes, Barack Obama is a Total Moron on Radical Sunni Islamic...",
-            "snippet": "If they were free I would be pulling my hair out after listening to the crazy comments of the clueless fool occupying the White House. Barack Obama may be sincere in his belief about the roots and origins of Islamic terrorism,...",
-            "date": "2015-02-18",
-            "author_name": "Larry Johnson",
-            "categories": "belief",
-            "tags": "would,after,sunni,sunni_islamic,islamic,barack,barack_obama,obama",
-            "recuweb_url": "http://en.recuweb.com/belief/noquarterusa.net/2015/02/yes-barack-obama-is-a-total-moron-on-radical-sunni-islamic",
-            "resource_url": "http://www.google.com/search?q=sunni%2Bislam%2Bsunni%2Bislam&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://noquarterusa.net/blog/77882/yes-barack-obama-is-a-total-moron/"
-        },
-        "weaselzippers.us/2015/02/sunni-islam-s-top-body-al-azhar-says-chapel-hill-killings": {
-            "title": "Sunni Islam's Top Body Al-Azhar Says Chapel Hill Killings Result Of...",
-            "snippet": "However, the day after the attack, the pre-eminent institute of Islamic learning in the Sunni Muslim world, al-Azhar, described the murders as a cowardly terrorist act. More via Politico: Al-Azhar, which is based in Cairo, said it...",
-            "date": "2015-02-16",
-            "author_name": "ZIP",
-            "categories": "learning,institute,sunni-islam,islam",
-            "tags": "said,described,sunni,sunni_muslim,muslim,after,azhar,says,top,sunni_islam,islam,however,islamic,world,cairo",
-            "recuweb_url": "http://en.recuweb.com/islam/weaselzippers.us/2015/02/sunni-islam-s-top-body-al-azhar-says-chapel-hill-killings",
-            "resource_url": "http://www.google.com/search?q=sunni%2Bislam%2Bsunni%2Bislam&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://weaselzippers.us/214301-sunni-islams-top-body-al-azhar-says-chapel-hill-killings-result-of-racism-and-islamophobia/"
-        },
-        "jihadwatch.org/2015/02/jordanian-columnist-the-islamic-state-did-not-invent-a-new-islam": {
-            "title": "Jordanian columnist: The Islamic State did not invent a new Islam...",
-            "snippet": "Wahabism has entirely replaced, and become, Sunni Islam; the two cannot be told apart anymore. Some Wahabist teachings, which have permeated the air we breathe in the Muslim world, are simply irreconcilable with...",
-            "date": "2015-02-12",
-            "author_name": "Robert Spencer",
-            "categories": "islam,teaching",
-            "tags": "air,did,islamic,islamic_state,state,islam,sunni,muslim,world",
-            "recuweb_url": "http://en.recuweb.com/teaching/jihadwatch.org/2015/02/jordanian-columnist-the-islamic-state-did-not-invent-a-new-islam",
-            "resource_url": "http://www.google.com/search?q=sunni%2Bislam&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://jihadwatch.org/2015/02/jordanian-columnist-the-islamic-state-did-not-invent-a-new-islam"
+            "source_url": "http://truthdig.com/report/item/yemen_bombing_not_islamic_state_not_a_sunni-shiite_conflict_20150325"
         }
     }
 }
