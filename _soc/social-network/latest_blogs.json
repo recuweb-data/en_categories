@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "social-network",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/social-network/",
@@ -10,16 +11,27 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/social-network/social-network/blogs.json"
     },
     "items": {
-        "arnoldit.com/2015/04/social-network-demographics-by-the-numbers-stephen-e-arnold": {
-            "title": "Social Network Demographics by the Numbers: Stephen E. Arnold...",
-            "snippet": "The amount of social networking Web sites and their purposes is as diverse as the human population. Arguably, if you were to use each of the most popular networks and try to keep on top of every piece of information that...",
+        "hypebot.com/2015/04/smule-adds-38-million-in-funding-for-music-apps-social-network": {
+            "title": "Smule Adds 38 Million In Funding For Music Apps, Social Network...",
+            "snippet": "image from Smule has moved beyond being just the creator of popular music apps. Smartly, they combined the apps into a popular music based social network, and today they were rewarded with 38 million in new...",
             "date": "2015-04-23",
-            "author_name": "Stephen E. Arnold",
-            "categories": "social-network",
-            "tags": "every,information,social,social_network,networks,networking,sites",
-            "recuweb_url": "http://en.recuweb.com/social-network/arnoldit.com/2015/04/social-network-demographics-by-the-numbers-stephen-e-arnold",
+            "author_name": "Bruce Houghton",
+            "categories": "music,social-network",
+            "tags": "today,apps,popular,music,social,social_network,network,million,funding,smule,image",
+            "recuweb_url": "http://en.recuweb.com/social-network/hypebot.com/2015/04/smule-adds-38-million-in-funding-for-music-apps-social-network",
             "resource_url": "http://www.google.com/search?q=social%2Bnetwork&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://arnoldit.com/wordpress/2015/04/23/social-network-demographics-by-the-numbers/"
+            "source_url": "http://hypebot.com/hypebot/2015/04/smule-adds-38-million-in-funding-for-music-apps-social-network.html"
+        },
+        "observer.com/2015/04/tsu-social-network-pays-users-for-original-content-observer": {
+            "title": "Tsu Social Network Pays Users For Original Content Observer...",
+            "snippet": "While 1.5 million Spotify plays earns Mr. Fromm only 18 in royalties every three months, he's making more than that daily on Tsu, a social network that actually pays users for their original content, Sebastian Sobczak, founder...",
+            "date": "2015-04-23",
+            "author_name": "Sage Lazzaro",
+            "categories": "play,social-network",
+            "tags": "original,daily,only,social,social_network,network,users,content,million",
+            "recuweb_url": "http://en.recuweb.com/social-network/observer.com/2015/04/tsu-social-network-pays-users-for-original-content-observer",
+            "resource_url": "http://www.google.com/search?q=social%2Bnetwork%2Bsocial%2Bnetwork&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://observer.com/2015/04/people-are-flocking-to-a-social-network-that-redistributes-90-of-ad-revenue-to-users/"
         },
         "wired.co.uk/2015/04/clear-will-rid-your-social-networks-of-potentially-shameful-posts": {
             "title": "Clear will rid your social networks of potentially shameful posts...",
@@ -27,7 +39,7 @@
             "date": "2015-04-22",
             "author_name": "Katie Collins",
             "categories": "facebook,twitter",
-            "tags": "any,app,social,networks,facebook,twitter",
+            "tags": "any,social,networks,app,facebook,twitter",
             "recuweb_url": "http://en.recuweb.com/twitter/wired.co.uk/2015/04/clear-will-rid-your-social-networks-of-potentially-shameful-posts",
             "resource_url": "http://www.google.com/search?q=social%2Bnetwork%2Bsocial%2Bnetwork&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://wired.co.uk/news/archive/2015-04/22/clear-twitter-facebook-shame-removal-app"
@@ -38,7 +50,7 @@
             "date": "2015-04-21",
             "author_name": "unknown",
             "categories": "institute,events",
-            "tags": "becomes,via,person,another,information,social,networks,network",
+            "tags": "becomes,person,information,found,institute,researchers,social,networks,network",
             "recuweb_url": "http://en.recuweb.com/events/phys.org/2015/04/social-networks-may-be-exaggerating-risk-of-news-events",
             "resource_url": "http://www.google.com/search?q=social%2Bnetwork%2Bsocial%2Bnetwork&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://phys.org/news/2015-04-social-networks-exaggerating-news-events.html"
@@ -49,7 +61,7 @@
             "date": "2015-04-21",
             "author_name": "Natt Garun",
             "categories": "social-network,twitter,facebook,tumblr",
-            "tags": "share,today,update,sharing,social,social_networks,networks,lets,once,users,twitter,facebook",
+            "tags": "original,share,today,update,sharing,social,social_networks,networks,lets,once,users,twitter,facebook",
             "recuweb_url": "http://en.recuweb.com/tumblr/thenextweb.com/2015/04/vine-now-lets-you-share-to-multiple-social-networks-at-once",
             "resource_url": "http://www.google.com/search?q=social%2Bnetwork%2Bsocial%2Bnetwork&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://thenextweb.com/apps/2015/04/21/vine-share-screen/"
@@ -59,7 +71,7 @@
             "snippet": "The first rule of social networking apps is that you can never have enough connections. I once gave LinkedIn a fake name and an old email address just to read an article posted to it, and it continues to dredge up the most...",
             "date": "2015-04-17",
             "author_name": "Vlad Savov",
-            "tags": "continues,once,apps,first,person,social,network,networking",
+            "tags": "continues,once,apps,person,social,network,networking",
             "recuweb_url": "http://en.recuweb.com/theverge.com/2015/04/the-single-person-social-network-is-a-strangely-beautiful-thing",
             "resource_url": "http://www.google.com/search?q=social%2Bnetwork%2Bsocial%2Bnetwork&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://theverge.com/2015/4/17/8440681/single-person-social-network"
@@ -70,21 +82,10 @@
             "date": "2015-04-15",
             "author_name": "Jackie Dove",
             "categories": "environment,social-network",
-            "tags": "real,lets,share,app,released,today,social,social_network,network,mobile,update,only",
+            "tags": "image,real,only,lets,share,released,today,social,social_network,network,mobile,app,update",
             "recuweb_url": "http://en.recuweb.com/social-network/thenextweb.com/2015/04/camfind-mobile-visual-search-app-now-has-a-social-network",
             "resource_url": "http://www.google.com/search?q=social%2Bnetwork&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://thenextweb.com/creativity/2015/04/16/camfind-visual-search-app-for-iphone-and-android-now-features-a-social-network/"
-        },
-        "socialmediatoday.com/2015/04/the-world-s-21-most-important-social-media-sites-and-apps": {
-            "title": "The World's 21 Most Important Social Media Sites and Apps in 2015...",
-            "snippet": "The concepts behind social networking aren't anything new ever since there have been humans, we have been looking for ways to connect, network, and promote with one another but they've taken on an entirely new...",
-            "date": "2015-04-13",
-            "author_name": "Randy Milanovic",
-            "categories": "social-media",
-            "tags": "another,social,sites,world,apps,networking,network",
-            "recuweb_url": "http://en.recuweb.com/social-media/socialmediatoday.com/2015/04/the-world-s-21-most-important-social-media-sites-and-apps",
-            "resource_url": "http://www.google.com/search?q=social%2Bnetwork&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://socialmediatoday.com/social-networks/2015-04-13/worlds-21-most-important-social-media-sites-and-apps-2015"
         },
         "reversedigital.wordpress.com/2015/04/films-that-define-generation": {
             "title": "Films that Define Generation Y...",
@@ -92,10 +93,21 @@
             "date": "2015-04-12",
             "author_name": "reversedigital",
             "categories": "social-network,films,facebook",
-            "tags": "david,david_fincher,fincher,social,social_network,network,released,years,than,facebook",
+            "tags": "talks,generation,david,david_fincher,fincher,social,social_network,network,released,facebook",
             "recuweb_url": "http://en.recuweb.com/facebook/reversedigital.wordpress.com/2015/04/films-that-define-generation",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=social%2Bnetwork%2Bsocial%2Bnetwork&rss=1&lng=en",
             "source_url": "http://reversedigital.wordpress.com/2015/04/12/films-that-define-generation-y/"
+        },
+        "betaboston.com/2015/03/private-social-network-koko-to-give-people-with-depression-a-boost": {
+            "title": "Private social network 'Koko'to give people with depression a boost...",
+            "snippet": "Now, a group of researchers with ties to the Massachusetts Institute of Technology are creating a private social network where people can anonymously share their daily struggles, and also find kinship. While the forum won't...",
+            "date": "2015-03-31",
+            "author_name": "Nidhi Subbaraman",
+            "categories": "institute,technology",
+            "tags": "people,share,daily,institute,researchers,social,network,technology",
+            "recuweb_url": "http://en.recuweb.com/technology/betaboston.com/2015/03/private-social-network-koko-to-give-people-with-depression-a-boost",
+            "resource_url": "http://www.google.com/search?q=social%2Bnetwork&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://betaboston.com/news/2015/03/31/private-social-network-koko-to-give-people-with-depression-a-boost-on-bad-days/"
         },
         "avclub.com/2015/03/with-the-social-network-david-fincher-made-staring-at-a-laptop": {
             "title": "With The Social Network, David Fincher made staring at a laptop...",
@@ -103,21 +115,10 @@
             "date": "2015-03-20",
             "author_name": "Mike D'Angelo",
             "categories": "social-network",
-            "tags": "best,front,creation,david,david_fincher,fincher,social,social_network,network,any",
+            "tags": "front,film,david,david_fincher,fincher,social,social_network,network,any",
             "recuweb_url": "http://en.recuweb.com/social-network/avclub.com/2015/03/with-the-social-network-david-fincher-made-staring-at-a-laptop",
             "resource_url": "http://www.google.com/search?q=social%2Bnetwork&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://avclub.com/article/social-network-david-fincher-made-staring-laptop-t-216675"
-        },
-        "jaycasanas.wordpress.com/2015/02/the-new-community-social-networking": {
-            "title": "The New Community: Social Networking...",
-            "snippet": "Community is changing. As far back as the twentieth century, a social community was a group of real life acquaintances that had a common interest, goal, or career. Back then, to update ones status might mean to attempt to improve a persons social...",
-            "date": "2015-02-19",
-            "author_name": "jaycasanas",
-            "categories": "life",
-            "tags": "update,real,social,social_networking,networking",
-            "recuweb_url": "http://en.recuweb.com/life/jaycasanas.wordpress.com/2015/02/the-new-community-social-networking",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=social%2Bnetwork%2Bsocial%2Bnetwork&rss=1&lng=en",
-            "source_url": "http://jaycasanas.wordpress.com/2015/02/19/the-new-community-social-networking/"
         }
     }
 }
