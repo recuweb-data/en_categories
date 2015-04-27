@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "food-chemistry",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/food-chemistry/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/food-chemistry/food-chemistry/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/science-and-food-the-chemistry-behind-cooking": {
+            "title": "Science and Food: The Chemistry Behind Cooking...",
+            "snippet": "Science and Food: The Chemistry Behind CookingAuthor: ErasmoMichaelsTags: Science and Food: The Chemistry Behind Cooking Posted: 27 April 2015Rating:: 0...",
+            "date": "2015-04-27",
+            "author_name": "ErasmoMichaels",
+            "categories": "chemistry,cooking,science,food",
+            "tags": "chemistry,food",
+            "recuweb_url": "http://en.recuweb.com/food/dailymotion.com/2015/04/science-and-food-the-chemistry-behind-cooking",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/food+chemistry/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2o3p4u_science-and-food-the-chemistry-behind-cooking_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o3p4u_science-and-food-the-chemistry-behind-cooking_news"
+        },
         "dailymotion.com/2015/04/inside-the-secret-lab-that-makes-big-brands-smell": {
             "title": "Inside The Secret Lab That Makes Big Brands Smell...",
             "snippet": "Take a trip to International Flavors & Fragrances, the pungent company creating Proustian moments for consumers around the world. Also:: FastCompanyTags: Fragrances Lynx Cardamom Odor Ginger Ever Olfaction Chemistry Food and drink Structure Posted:...",
@@ -117,18 +130,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/food+chemistry/0?af=1",
             "source_url": "http://dailymotion.com/video/x2jfu9p_download-principles-of-food-chemistry-ebook-pdf-epub_videogames",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2jfu9p_download-principles-of-food-chemistry-ebook-pdf-epub_videogames"
-        },
-        "youtube.com/2015/02/fun-with-food-chemistry": {
-            "title": "Fun with Food Chemistry...",
-            "snippet": "Fun with Food Chemistry You are what you eat! Here are three fun experiments and demonstrations that use common foods to explore fundamental chemistry concepts. From: FlinnScientific Views: 2626 2 ratings Time: 01:18 More in Education...",
-            "date": "2015-02-26",
-            "author_name": "FlinnScientific",
-            "categories": "foods,food,chemistry,food-chemistry,education",
-            "tags": "foods,food,chemistry,food_chemistry",
-            "recuweb_url": "http://en.recuweb.com/education/youtube.com/2015/02/fun-with-food-chemistry",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=food%2Bchemistry%2Bfood%2Bchemistry&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=YiyMYLHXZ8U&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/YiyMYLHXZ8U/0.jpg"
         }
     }
 }
