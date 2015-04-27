@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "humour",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/humour/",
@@ -10,27 +11,60 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/humour/humour/blogs.json"
     },
     "items": {
-        "pinkvilla.com/2015/04/arshad-warsi-upsets-a-few-journalists-with-his-sense-of-humour": {
-            "title": "Arshad Warsi upsets a few journalists with his sense of humour...",
-            "snippet": "But, a few journalists attending the launch did not appreciate his sense of humour and found his remarks somewhat offensive. It all began when Arshad clarified the air on him being upset with a song's reshoot for the film as...",
-            "date": "2015-04-14",
-            "author_name": "dc:creator Anonymous",
-            "categories": "humour",
-            "tags": "air,sense,humour,film",
-            "recuweb_url": "http://en.recuweb.com/humour/pinkvilla.com/2015/04/arshad-warsi-upsets-a-few-journalists-with-his-sense-of-humour",
-            "resource_url": "http://www.google.com/search?q=humour&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://pinkvilla.com/entertainmenttags/arshad-warsi/arshad-warsi-upsets-few-journalists-his-sense-humour"
-        },
-        "ibnlive.in.com/2015/04/masterchef-india-4-finale-about-star-power-humour": {
-            "title": "'MasterChef India 4'finale: About star power, humour and not...",
-            "snippet": "To ensure the finale was grand in terms of star power, humour and suspense, the makers of 'MasterChef India 4'also launched the channel's next big show 'Nach Baliye'. Since the upcoming season of the dance-based reality...",
-            "date": "2015-04-13",
-            "author_name": "IBNLive.com editor@ibnlive.com",
-            "categories": "dance,humour",
-            "tags": "india,humour,grand,channel",
-            "recuweb_url": "http://en.recuweb.com/humour/ibnlive.in.com/2015/04/masterchef-india-4-finale-about-star-power-humour",
+        "nationmultimedia.com/2015/04/left-handed-humour-the-nation": {
+            "title": "Left-handed humour - The Nation...",
+            "snippet": "I just wanted to thank Ian Martin for the best laugh of the week: \"Before recent history, Islam was mostly seen as a tolerant religion.\" I am not a Christian, but Jesus sent out apostles, whereas Muhammad sent out armies.",
+            "date": "2015-04-21",
+            "author_name": "unknown",
+            "categories": "religion,humour,islam",
+            "tags": "martin,thank,humour,les",
+            "recuweb_url": "http://en.recuweb.com/islam/nationmultimedia.com/2015/04/left-handed-humour-the-nation",
             "resource_url": "http://www.google.com/search?q=humour%2Bhumour&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://ibnlive.in.com/news/masterchef-india-4-finale-about-star-power-humour-and-not-bursting-into-tears/539540-44-124.html"
+            "source_url": "http://nationmultimedia.com/opinion/Left-handed-humour-30258435.html"
+        },
+        "theguardian.com/2015/04/scherzo-diabolico-review-horror-humour-hybrid-is-no-coen-bros": {
+            "title": "Scherzo Diabolico review horror/humour hybrid is no Coen bros...",
+            "snippet": "Scherzo Diabolico review horror/humour hybrid is no Coen bros caper. 2/5 stars. Adri\u00e1n Garc\u00eda Bogliano's kidnapping tale gone awry has moments of geniune electricity but is just too nasty for its own good. Scherzo...",
+            "date": "2015-04-20",
+            "author_name": "Jordan Hoffman",
+            "categories": "humour,stars",
+            "tags": "own,humour,stars",
+            "recuweb_url": "http://en.recuweb.com/stars/theguardian.com/2015/04/scherzo-diabolico-review-horror-humour-hybrid-is-no-coen-bros",
+            "resource_url": "http://www.google.com/search?q=humour%2Bhumour&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theguardian.com/film/2015/apr/20/scherzo-diabolico-review-horror-tribeca-film-festival"
+        },
+        "theguardian.com/2015/04/life-after-the-khmer-rouge-humour-and-heartache-of-cambodian": {
+            "title": "Life after the Khmer Rouge: humour and heartache of Cambodian...",
+            "snippet": "Life after the Khmer Rouge: the humour and heartache of Cambodian family photo albums. Charles Fox hit the road in Cambodia to collect the hidden-away pictures and never-told stories of life before and after the genocide.",
+            "date": "2015-04-17",
+            "author_name": "Sarah Moroz",
+            "categories": "life,humour",
+            "tags": "away,hit,humour",
+            "recuweb_url": "http://en.recuweb.com/humour/theguardian.com/2015/04/life-after-the-khmer-rouge-humour-and-heartache-of-cambodian",
+            "resource_url": "http://www.google.com/search?q=humour%2Bhumour&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theguardian.com/artanddesign/2015/apr/17/life-after-the-khmer-rouge-the-humour-and-heartache-of-cambodian-family-photo-albums"
+        },
+        "theguardian.com/2015/04/martin-scorsese-my-passion-for-the-humour-and-panic-of-polish": {
+            "title": "Martin Scorsese: my passion for the humour and panic of Polish...",
+            "snippet": "Martin Scorsese: my passion for the humour and panic of Polish cinema. Oscar-winning director Martin Scorsese describes the impact that the restless, dynamic films made by great Polish directors from Roman Polanski to...",
+            "date": "2015-04-16",
+            "author_name": "Martin Scorsese",
+            "categories": "films,humour",
+            "tags": "films,martin,humour",
+            "recuweb_url": "http://en.recuweb.com/humour/theguardian.com/2015/04/martin-scorsese-my-passion-for-the-humour-and-panic-of-polish",
+            "resource_url": "http://www.google.com/search?q=humour%2Bhumour&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theguardian.com/film/2015/apr/16/martin-scorsese-passion-polish-cinema"
+        },
+        "theguardian.com/2015/04/the-fat-of-fed-beasts-by-guy-ware-review-black-humour": {
+            "title": "The Fat of Fed Beasts by Guy Ware review black humour and well...",
+            "snippet": "The Fat of Fed Beasts by Guy Ware review black humour and well-polished shoes. Fleshing out the shadowy metaphysical hints of Beckett's novels, this intellectual romp is the best debut I have read in years. Well polished...",
+            "date": "2015-04-14",
+            "author_name": "Nicholas Lezard",
+            "categories": "humour",
+            "tags": "well,humour,beckett",
+            "recuweb_url": "http://en.recuweb.com/humour/theguardian.com/2015/04/the-fat-of-fed-beasts-by-guy-ware-review-black-humour",
+            "resource_url": "http://www.google.com/search?q=humour%2Bhumour&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theguardian.com/books/2015/apr/14/fat-of-fed-beasts-by-guy-ware-review"
         },
         "theguardian.com/2015/04/eddie-murphy-to-receive-mark-twain-prize-for-humour-the-guardian": {
             "title": "Eddie Murphy to receive Mark Twain prize for humour - The Guardian...",
@@ -38,32 +72,10 @@
             "date": "2015-04-10",
             "author_name": "Ben Child",
             "categories": "humour",
-            "tags": "prize,murphy,humour,guardian",
+            "tags": "annual,humour",
             "recuweb_url": "http://en.recuweb.com/humour/theguardian.com/2015/04/eddie-murphy-to-receive-mark-twain-prize-for-humour-the-guardian",
             "resource_url": "http://www.google.com/search?q=humour%2Bhumour&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://theguardian.com/film/2015/apr/10/eddie-murphy-to-receive-mark-twain-prize-for-humour"
-        },
-        "zrsouthcombe.com/2015/04/humour-zr-southcombe": {
-            "title": "Humour - ZR Southcombe...",
-            "snippet": "For the April A-Z blogging challenge, I'll be blogging about my latest release, The Caretaker of Imagination. My humour is sort of along the dad-jokes line, though I don't often like to admit it! When writing The Caretaker of...",
-            "date": "2015-04-08",
-            "author_name": "zeesouthcombe@gmail.com",
-            "categories": "humour",
-            "tags": "humour,latest,imagination,jokes",
-            "recuweb_url": "http://en.recuweb.com/humour/zrsouthcombe.com/2015/04/humour-zr-southcombe",
-            "resource_url": "http://www.google.com/search?q=humour&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://zrsouthcombe.com/humour/"
-        },
-        "vintag.es/2015/04/vintage-everyday-the-real-fun-and-humour-portraits-of-victorian": {
-            "title": "vintage everyday: The Real Fun and Humour Portraits of Victorian...",
-            "snippet": "... of slow and delicate photographic processes. These images from a family collection held at Northumberland Archives provide an insight in to the real fun and humour of the Victorian era, no different to that in families today.",
-            "date": "2015-04-06",
-            "author_name": "John VE",
-            "categories": "humour",
-            "tags": "real,humour",
-            "recuweb_url": "http://en.recuweb.com/humour/vintag.es/2015/04/vintage-everyday-the-real-fun-and-humour-portraits-of-victorian",
-            "resource_url": "http://www.google.com/search?q=humour&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://vintag.es/2015/04/the-real-fun-and-humour-of-victorian.html"
         },
         "theguardian.com/2015/04/while-we-re-young-review-humour-tempered-with-experience": {
             "title": "While We're Young review humour tempered with experience...",
@@ -82,43 +94,30 @@
             "date": "2015-04-02",
             "author_name": "Interview by Nancy Groves",
             "categories": "production,humour,stars",
-            "tags": "talk,sense,humour,sydney,melbourne,stars",
+            "tags": "former,beckett,sense,humour,stars",
             "recuweb_url": "http://en.recuweb.com/stars/theguardian.com/2015/04/hugo-weaving-beckett-has-the-most-amazing-sense-of-humour",
-            "resource_url": "http://www.google.com/search?q=humour%2Bhumour&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=humour&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://theguardian.com/stage/2015/apr/02/hugo-weaving-luke-mullins-beckett-interview"
         },
-        "banneroftruth.org/2015/03/humour-and-holiness-banner-of-truth": {
-            "title": "Humour and Holiness - Banner of Truth...",
-            "snippet": "The Bible warns us many times about the dangers of humour. Humour can become unseemly and crude: 'Let there be no filthiness nor foolish talk nor crude joking, which are out of place, but instead let there be thanksgiving'...",
-            "date": "2015-03-27",
-            "author_name": "colinadmin",
+        "reddit.com/2014/01/what-cliche-about-your-country-region-is-not-true": {
+            "title": "What cliche about your country/region is not true at all?",
+            "snippet": "Thank you, merci beaucoup, grazias, obrigado, danke schoen, spasibo... to all of you for these oh so wonderful, interesting and sincere (I hope!) comments. Behind the humour, the irony, the sarcasm there are so many truths expressed here - genuine...",
+            "date": "2014-01-17",
             "categories": "humour",
-            "tags": "place,talk,become,humour",
-            "recuweb_url": "http://en.recuweb.com/humour/banneroftruth.org/2015/03/humour-and-holiness-banner-of-truth",
-            "resource_url": "http://www.google.com/search?q=humour%2Bhumour&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://banneroftruth.org/us/resources/articles/2015/humour-and-holiness/"
+            "tags": "thank,hope,humour",
+            "recuweb_url": "http://en.recuweb.com/humour/reddit.com/2014/01/what-cliche-about-your-country-region-is-not-true",
+            "resource_url": "http://www.reddit.com/search.rss?q=humour%2Bhumour&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/AskReddit/comments/1vftrr/what_cliche_about_your_countryregion_is_not_true/"
         },
-        "theguardian.com/2015/03/the-jew-of-malta-review-needs-to-crank-up-malevolent-humour": {
-            "title": "The Jew of Malta review needs to crank up malevolent humour...",
-            "snippet": "The Jew of Malta review needs to crank up malevolent humour. 3/5 stars. Swan, Stratford Jasper Britton gives a robust performance as Marlowe's murderous merchant, but Justin Audibert's production will improve when it...",
-            "date": "2015-03-27",
-            "author_name": "Michael Billington",
-            "categories": "production,humour,stars",
-            "tags": "improve,gives,humour,stars",
-            "recuweb_url": "http://en.recuweb.com/stars/theguardian.com/2015/03/the-jew-of-malta-review-needs-to-crank-up-malevolent-humour",
-            "resource_url": "http://www.google.com/search?q=humour%2Bhumour&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/stage/2015/mar/27/the-jew-of-malta-review"
-        },
-        "theguardian.com/2015/03/god-bless-the-child-review-perfectly-judged-humour-guardian": {
-            "title": "God Bless the Child review perfectly judged humour - The Guardian...",
-            "snippet": "God Bless the Child review perfectly judged humour. 4/5 stars. Lyric, Belfast Frank O'Connor's hilarious childhood tales are beautifully adapted for the stage. god bless the child. Liam Heffernan and Gary Murphy in God...",
-            "date": "2015-03-22",
-            "author_name": "Clare Brennan",
-            "categories": "humour,stars",
-            "tags": "murphy,hilarious,humour,guardian,stars",
-            "recuweb_url": "http://en.recuweb.com/stars/theguardian.com/2015/03/god-bless-the-child-review-perfectly-judged-humour-guardian",
-            "resource_url": "http://www.google.com/search?q=humour%2Bhumour&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/stage/2015/mar/22/god-bless-the-child-frank-oconnor-belfast-review"
+        "reddit.com/2013/04/which-games-do-you-think-pull-off-humour-well": {
+            "title": "Which games do you think pull off humour well?",
+            "snippet": "Inspired by the article/u/Deimorz posted about the LucasArts games, where an overriding consensus of opinion is that those games are to some level charming and timeless because of their witty use of humour... I was thinking about other games that...",
+            "date": "2013-04-05",
+            "categories": "humour",
+            "tags": "humour,well",
+            "recuweb_url": "http://en.recuweb.com/humour/reddit.com/2013/04/which-games-do-you-think-pull-off-humour-well",
+            "resource_url": "http://www.reddit.com/search.rss?q=humour%2Bhumour&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/Games/comments/1br10h/which_games_do_you_think_pull_off_humour_well/"
         }
     }
 }
