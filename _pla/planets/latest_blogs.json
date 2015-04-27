@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "planets",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/planets/",
@@ -10,35 +11,13 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/planets/planets/blogs.json"
     },
     "items": {
-        "dailygalaxy.com/2015/04/life-on-tau-ceti-geology-is-fundamental-to-the-habitability-of": {
-            "title": "Life on Tau Ceti? --\"Geology is Fundamental to the Habitability of...",
-            "snippet": "Since December 2012 Tau Ceti has become even more appealing, thanks to evidence of possibly five planets orbiting it, with two of these - Tau Ceti e and f - potentially residing in the habitable zone. As the search continues...",
-            "date": "2015-04-23",
-            "author_name": "dailygalaxy.com",
-            "categories": "geology,life,evidence,planets",
-            "tags": "search,habitable,orbiting,life,evidence,planets",
-            "recuweb_url": "http://en.recuweb.com/planets/dailygalaxy.com/2015/04/life-on-tau-ceti-geology-is-fundamental-to-the-habitability-of",
-            "resource_url": "http://www.google.com/search?q=planets%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://dailygalaxy.com/my_weblog/2015/04/life-on-tau-ceti-geology-is-fundamental-to-the-habitability-of-planets.html"
-        },
-        "huffingtonpost.com/2015/04/nasa-s-bold-new-nexss-initiative-will-search-for-signs-of": {
-            "title": "NASA's Bold New NExSS Initiative Will Search For Signs Of Life On...",
-            "snippet": "The space agency has assembled a team of experts from across scientific fields at some of the nation's leading universities and research institutes to see if any of the more than 1,000 planets discovered outside our solar...",
-            "date": "2015-04-23",
-            "author_name": "Ed Mazza",
-            "categories": "life,planets",
-            "tags": "outside,search,signs,life,nasa,space,than,planets,solar",
-            "recuweb_url": "http://en.recuweb.com/planets/huffingtonpost.com/2015/04/nasa-s-bold-new-nexss-initiative-will-search-for-signs-of",
-            "resource_url": "http://www.google.com/search?q=planets%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://huffingtonpost.com/2015/04/23/nasa-nexss-search-for-life_n_7123788.html"
-        },
         "spaceanswers.com/2015/04/why-are-all-the-planets-different-colours-if-they-formed": {
             "title": "Why are all the planets different colours if they formed at the same...",
             "snippet": "The colour of a planet is decided by what the surface and atmosphere are made of and how light reflects and interacts with a planet's atmosphere. Mercury, for example, has virtually no atmosphere, so the grey colour we see...",
             "date": "2015-04-21",
             "author_name": "Gemma Lavender",
             "categories": "atmosphere,planets",
-            "tags": "atmosphere,planets,surface,made,light,same,different,why,formed",
+            "tags": "different,why,planets,planet,made,light",
             "recuweb_url": "http://en.recuweb.com/planets/spaceanswers.com/2015/04/why-are-all-the-planets-different-colours-if-they-formed",
             "resource_url": "http://www.google.com/search?q=planets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://spaceanswers.com/solar-system/why-are-all-the-planets-different-colours-if-they-formed-at-the-same-time/"
@@ -49,7 +28,7 @@
             "date": "2015-04-20",
             "author_name": "unknown",
             "categories": "planets",
-            "tags": "light,entire,planets,universe,years",
+            "tags": "away,entire,daily,planets,universe,light",
             "recuweb_url": "http://en.recuweb.com/planets/thedailymash.co.uk/2015/04/sturgeon-unveils-manifesto-for-undiscovered-planets-the-daily-mash",
             "resource_url": "http://www.google.com/search?q=planets%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://thedailymash.co.uk/politics/politics-headlines/sturgeon-unveils-manifesto-for-undiscovered-planets-2015042097502"
@@ -60,7 +39,7 @@
             "date": "2015-04-17",
             "author_name": "Marek Rosa",
             "categories": "planets",
-            "tags": "wanted,long,space,planets,would",
+            "tags": "space,space_engineers,engineers,ondrej,ondrej_petrzilka,petrzilka,planets,long",
             "recuweb_url": "http://en.recuweb.com/planets/blog.marekrosa.org/2015/04/guest-post-by-ondrej-petrzilka-space-engineers-planets",
             "resource_url": "http://www.google.com/search?q=planets%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.marekrosa.org/2015/04/guest-post-by-ondrej-petrzilka-space_17.html"
@@ -70,11 +49,22 @@
             "snippet": "Aerospace engineer Jeremy Kasdin explains how 2 NASA reports hold promise for those hoping to detect habitable planets orbiting nearby stars.",
             "date": "2015-04-14",
             "author_name": "Helen Walters",
-            "categories": "earth,planets,stars",
-            "tags": "orbiting,habitable,closer,earth,planets,nasa,stars",
-            "recuweb_url": "http://en.recuweb.com/stars/ideas.ted.com/2015/04/we-re-one-step-closer-to-finding-new-earth-like-planets",
+            "categories": "stars,earth,planets",
+            "tags": "stars,closer,earth,planets,nasa,habitable",
+            "recuweb_url": "http://en.recuweb.com/planets/ideas.ted.com/2015/04/we-re-one-step-closer-to-finding-new-earth-like-planets",
             "resource_url": "http://www.google.com/search?q=planets%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://ideas.ted.com/were-another-small-step-closer-to-finding-new-earth-like-planets/"
+        },
+        "sciencemdserra.blogspot.com/2015/04/in-space-solar-system": {
+            "title": "IN SPACE: SOLAR SYSTEM...",
+            "snippet": "SOLAR SYSTEM DEFINITION Solar System Facts Slideshow View more presentations from K3TeacherResources The Solar System is made up of the Sun, the planets, their moons, asteroids and comets. WHAT TO SEE The Sun The Sun is a star that lives at the...",
+            "date": "2015-04-10",
+            "author_name": "MD Serra",
+            "categories": "asteroids,comets,moons,moon,solar-system,sun,planets",
+            "tags": "solar,solar_system,system,space,made,sun,planets,star",
+            "recuweb_url": "http://en.recuweb.com/planets/sciencemdserra.blogspot.com/2015/04/in-space-solar-system",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=planets%2Bplanets&rss=1&lng=en",
+            "source_url": "http://sciencemdserra.blogspot.com/2009/08/in-space-solar-system.html"
         },
         "aeon.co/2015/04/can-life-exist-on-a-planet-without-star-sean-raymond-aeon": {
             "title": "Can life exist on a planet without a star? Sean Raymond Aeon...",
@@ -82,7 +72,7 @@
             "date": "2015-04-09",
             "author_name": "Sean Raymond",
             "categories": "life,planets",
-            "tags": "rogue,dark,planets,life,star,galaxy,around",
+            "tags": "support,dark,exist,life,planets,star,galaxy",
             "recuweb_url": "http://en.recuweb.com/planets/aeon.co/2015/04/can-life-exist-on-a-planet-without-star-sean-raymond-aeon",
             "resource_url": "http://www.google.com/search?q=planets%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://aeon.co/magazine/science/can-life-exist-on-a-planet-without-a-star/"
@@ -93,32 +83,42 @@
             "date": "2015-03-26",
             "author_name": "RedOrbit",
             "categories": "planets,university",
-            "tags": "entire,ball,study,jupiter,planets,solar,system",
+            "tags": "entire,ball,study,did,jupiter,planets,researchers,solar,system",
             "recuweb_url": "http://en.recuweb.com/university/rawstory.com/2015/03/did-jupiter-wipe-out-an-entire-generation-of-planets-raw",
             "resource_url": "http://www.google.com/search?q=planets%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://rawstory.com/2015/03/did-jupiter-wipe-out-an-entire-generation-of-planets/"
         },
-        "sciencesprings.wordpress.com/2015/03/from-science-news-solo-planets-may-be-surprisingly-common": {
-            "title": "From Science News: Solo planets may be surprisingly common...",
-            "snippet": "ScienceNews March 20, 2015 Ashley Yeager GOING ROGUE A disk of gas and dust swirls around OTS 44, a rogue planet shown in this artists illustration. It may have formed the same way stars are made. Out among the stars, toward the constellation...",
-            "date": "2015-03-24",
-            "author_name": "richardmitnick",
-            "categories": "science,planets,stars",
-            "tags": "toward,toward-the-constellation,constellation,among,made,same,rogue,planets,gas,surprisingly,surprisingly-common,common,solo,around,formed,way,stars",
-            "recuweb_url": "http://en.recuweb.com/stars/sciencesprings.wordpress.com/2015/03/from-science-news-solo-planets-may-be-surprisingly-common",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=planets%2Bplanets&rss=1&lng=en",
-            "source_url": "http://sciencesprings.wordpress.com/2015/03/24/from-science-news-solo-planets-may-be-surprisingly-common/"
+        "johncarlosbaez.wordpress.com/2015/03/planets-in-the-fourth-dimension-azimuth": {
+            "title": "Planets in the Fourth Dimension Azimuth...",
+            "snippet": "You probably that planets go around the sun in elliptical orbits. But do you know why? In fact, they're moving in circles in 4 dimensions. But when these circles are projected down to 3-dimensional space, they become ellipses!",
+            "date": "2015-03-17",
+            "author_name": "John Baez",
+            "categories": "planets,sun",
+            "tags": "moving,orbits,planets,sun,why,space",
+            "recuweb_url": "http://en.recuweb.com/sun/johncarlosbaez.wordpress.com/2015/03/planets-in-the-fourth-dimension-azimuth",
+            "resource_url": "http://www.google.com/search?q=planets%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://johncarlosbaez.wordpress.com/2015/03/17/planets_in_the_4th_dimension/"
         },
-        "xtreme-technozone-news.blogspot.com/2015/03/solo-planets-may-be-surprisingly-common": {
-            "title": "Solo planets may be surprisingly common...",
-            "snippet": "Out among the stars, toward the constellation Capricornus, a red sphere floats freely through space. It doesnt have enough mass to fuse atoms for fuel, as stars do, and its too small to be a failed star. In nearly every way, this drifter, known as...",
-            "date": "2015-03-22",
-            "author_name": "(Jasminkumar Patel)",
-            "categories": "planets,stars",
-            "tags": "every,mass,toward,toward-the-constellation,constellation,among,surprisingly,surprisingly-common,common,solo,planets,stars,star,space,way",
-            "recuweb_url": "http://en.recuweb.com/stars/xtreme-technozone-news.blogspot.com/2015/03/solo-planets-may-be-surprisingly-common",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=planets%2Bplanets&rss=1&lng=en",
-            "source_url": "http://xtreme-technozone-news.blogspot.com/2015/03/solo-planets-may-be-surprisingly-common.html"
+        "reddit.com/2015/02/if-we-were-to-discover-life-on-other-planets-wouldn-t": {
+            "title": "If we were to discover life on other planets, wouldn't time be moving at a completely different...",
+            "snippet": "I've thought about this a bit since my undergrad days; I have an advanced degree in math but never went beyond basic physics. My thinking is this: The relative passage of time for an individual is dependent on its velocity, correct? So the relative...",
+            "date": "2015-02-15",
+            "categories": "physics,life,planets",
+            "tags": "beyond,days,moving,different,life,other,planets,thinking",
+            "recuweb_url": "http://en.recuweb.com/planets/reddit.com/2015/02/if-we-were-to-discover-life-on-other-planets-wouldn-t",
+            "resource_url": "http://www.reddit.com/search.rss?q=planets%2Bplanets&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/askscience/comments/2vzbwj/if_we_were_to_discover_life_on_other_planets/"
+        },
+        "nbcnews.com/2015/01/far-out-astronomers-say-two-unknown-planets-may-lurk-beyond": {
+            "title": "Far Out: Astronomers Say Two Unknown Planets May Lurk Beyond...",
+            "snippet": "\"Planet X\" might actually exist and so might \"Planet Y.\"At least two planets larger than Earth likely lurk in the dark depths of space...",
+            "date": "2015-01-16",
+            "author_name": "unknown",
+            "categories": "planets,earth",
+            "tags": "ely,dark,larger,planets,actually,exist,beyond,far,earth,space",
+            "recuweb_url": "http://en.recuweb.com/earth/nbcnews.com/2015/01/far-out-astronomers-say-two-unknown-planets-may-lurk-beyond",
+            "resource_url": "http://www.google.com/search?q=planets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://nbcnews.com/science/space/far-out-astronomers-say-two-unknown-planets-may-lurk-beyond-n287856"
         }
     }
 }
