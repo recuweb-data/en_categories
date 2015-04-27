@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "baidu",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/baidu/",
@@ -10,79 +11,90 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/baidu/baidu/blogs.json"
     },
     "items": {
-        "tnooz.com/2015/04/baidu-and-the-changing-face-of-destination-marketing-tnooz": {
-            "title": "Baidu and the changing face of destination marketing - Tnooz...",
-            "snippet": "Until recently, most destination marketing was done via traditional media. But the growth of travel has forced DMOs to come up with new ideas, says Baidu.",
-            "date": "2015-04-23",
-            "author_name": "Special Nodes",
-            "categories": "travel,marketing,baidu",
-            "tags": "ideas,growth,changing,baidu,says",
-            "recuweb_url": "http://en.recuweb.com/baidu/tnooz.com/2015/04/baidu-and-the-changing-face-of-destination-marketing-tnooz",
-            "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://tnooz.com/article/Baidu-destination-marketing/"
-        },
         "spectrum.ieee.org/2015/04/baidu-s-boffin-describes-beijing-homegrown-self-driving-car": {
             "title": "Baidu's Boffin Describes Beijing's Homegrown Self-Driving Car...",
             "snippet": "Our idea is not that a car should totally replace the driver, but that it will give the driver freedom, Yu Kai, Baidu's top AI researcher, told the South China Morning Post. So the car is intelligent enough to operate by itself, like a...",
             "date": "2015-04-22",
             "author_name": "Philip E. Ross",
             "categories": "baidu",
-            "tags": "china,morning,top,self,beijing,baidu",
+            "tags": "south,south_china,china,morning,top,replace,beijing,baidu",
             "recuweb_url": "http://en.recuweb.com/baidu/spectrum.ieee.org/2015/04/baidu-s-boffin-describes-beijing-homegrown-self-driving-car",
             "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://spectrum.ieee.org/cars-that-think/transportation/self-driving/baidus-boffin-describes-beijings-homegrown-selfdriving-car-"
         },
-        "slashgear.com/2015/04/baidu-s-android-based-smartwatch-os-gets-a-landing-page": {
-            "title": "Baidu's Android-based smartwatch OS gets a landing page...",
-            "snippet": "Google might be the household name in web search and services globally, but in China, Baidu has more clout. As if to take that competition one notch higher, Baidu is teasing some details about a smartwatch operating...",
-            "date": "2015-04-17",
-            "author_name": "JC Torres",
-            "categories": "baidu,google",
-            "tags": "smart,higher,web,search,services,baidu,android,google,china",
-            "recuweb_url": "http://en.recuweb.com/google/slashgear.com/2015/04/baidu-s-android-based-smartwatch-os-gets-a-landing-page",
+        "valuewalk.com/2015/04/baidu-inc-shuts-down-its-japanese-search-engine-valuewalk": {
+            "title": "Baidu Inc Shuts Down Its Japanese Search Engine - ValueWalk...",
+            "snippet": "Chinese search engine giant Baidu Inc (ADR) (NASDAQ:BIDU) has shut down its search operations in Japan. The company entered the Japanese market in 2007 as part of its international expansion plan, but has failed to...",
+            "date": "2015-04-21",
+            "author_name": "Vikas Shukla",
+            "categories": "baidu,search-engine",
+            "tags": "expansion,shuts,shut-down,down,baidu,baidu_inc,inc,japanese,search,engine,chinese,giant,adr,nasdaq,bidu,company",
+            "recuweb_url": "http://en.recuweb.com/search-engine/valuewalk.com/2015/04/baidu-inc-shuts-down-its-japanese-search-engine-valuewalk",
             "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://slashgear.com/baidus-android-based-smartwatch-os-gets-a-landing-page-17379564/"
+            "source_url": "http://valuewalk.com/2015/04/baidu-inc-shuts-down-japan-search/"
         },
-        "techinasia.com/2015/04/baidu-acquires-web-security-startup-anquanbao-tech-in-asia": {
-            "title": "Baidu acquires web security startup Anquanbao - Tech in Asia...",
-            "snippet": "Chinese web giant Baidu has wholly acquired online security startup Anquanbao for an undisclosed sum, according to QQ Tech (hat-tip to TechNode for spotting). Anquanbao is a cloud-based protection service that guards...",
-            "date": "2015-04-17",
-            "author_name": "Paul Bischoff",
+        "chinamoneynetwork.com/2015/04/baidu-acquires-northern-light-backed-anquanbao": {
+            "title": "Baidu Acquires Northern Light-Backed Anquanbao...",
+            "snippet": "Beijing-based cloud-based security firm Anquanbao, backed by Northern Light Ventures and Innovation Works, has been acquired by Chinese search engine Baidu Inc. for an undisclosed amount, according to Chinese media reports. After the completion of...",
+            "date": "2015-04-21",
+            "author_name": "Staff Writer",
             "categories": "baidu",
-            "tags": "service,sum,acquired,acquired-online,acquired-online-security,online,online-security,security,startup,acquires,web,baidu,anquanbao,tech,asia,chinese,giant,technode",
-            "recuweb_url": "http://en.recuweb.com/baidu/techinasia.com/2015/04/baidu-acquires-web-security-startup-anquanbao-tech-in-asia",
+            "tags": "baidu,baidu_inc,inc,innovation,ventures,backed,cloud,beijing,chinese,search,engine,reports",
+            "recuweb_url": "http://en.recuweb.com/baidu/chinamoneynetwork.com/2015/04/baidu-acquires-northern-light-backed-anquanbao",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=baidu%2Bbaidu&rss=1&lng=en",
+            "source_url": "http://chinamoneynetwork.com/2015/04/21/baidu-acquires-northern-light-backed-anquanbao"
+        },
+        "benzinga.com/2015/04/summit-research-initiates-baidu-with-buy-256-price-target": {
+            "title": "Summit Research Initiates Baidu With Buy, 256 Price Target...",
+            "snippet": "In a report published Monday, Summit Research analyst Henry Guo initiated coverage of Baidu Inc (NASDAQ: BIDU) with a Buy rating and a price target of 256....",
+            "date": "2015-04-20",
+            "author_name": "Monica Gerson",
+            "categories": "baidu",
+            "tags": "price,target,baidu,baidu_inc,inc,research,buy,monday,nasdaq,bidu",
+            "recuweb_url": "http://en.recuweb.com/baidu/benzinga.com/2015/04/summit-research-initiates-baidu-with-buy-256-price-target",
             "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://techinasia.com/baidu-acquires-web-security-startup-anquanbao/"
+            "source_url": "http://benzinga.com/analyst-ratings/analyst-color/15/04/5422199/summit-research-initiates-baidu-with-buy-256-price-targe"
+        },
+        "ubergizmo.com/2015/04/baidu-shows-off-their-android-based-smartwatch-os-ubergizmo": {
+            "title": "Baidu Shows Off Their Android-based Smartwatch OS Ubergizmo...",
+            "snippet": "duwear It is no surprise that China does not particularly like Google, so much so that they've replaced many of Google's products and services with their own, such as Baidu which is used to replace Google Search. Now it...",
+            "date": "2015-04-17",
+            "author_name": "Tyler Lee",
+            "categories": "baidu,google",
+            "tags": "replace,own,baidu,off,android,smart,duwear,china,google,search",
+            "recuweb_url": "http://en.recuweb.com/google/ubergizmo.com/2015/04/baidu-shows-off-their-android-based-smartwatch-os-ubergizmo",
+            "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ubergizmo.com/2015/04/baidu-shows-off-their-android-based-smartwatch-os/"
         },
         "techinasia.com/2015/04/baidu-admits-defeat-shuts-japanese-search-engine-tech-in-asia": {
             "title": "Baidu admits defeat, shuts Japanese search engine - Tech in Asia...",
             "snippet": "Chinese tech giant Baidu has shut down the Japanese search engine that it first launched in 2007. The site, which used to feature a Japanese-language search engine that hoped to rival Google and Yahoo in the...",
             "date": "2015-04-17",
             "author_name": "Steven Millward",
-            "categories": "search-engine,baidu,google,yahoo",
-            "tags": "search,search-engine,engine,baidu,tech,asia,chinese,giant,google",
+            "categories": "baidu,google,yahoo",
+            "tags": "shuts,shut-down,down,baidu,japanese,search,engine,tech,asia,chinese,giant,site,google",
             "recuweb_url": "http://en.recuweb.com/yahoo/techinasia.com/2015/04/baidu-admits-defeat-shuts-japanese-search-engine-tech-in-asia",
             "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://techinasia.com/baidu-shuts-japan-search-engine/"
         },
-        "technode.com/2015/04/baidu-acquires-web-security-firm-anquanbao-technode": {
-            "title": "Baidu Acquires Web Security Firm Anquanbao - TechNode...",
-            "snippet": "Chinese search giant Baidu has acquired online security outsourcing company Anquanbao for an unknown sum. The startup has previously received several financing rounds from Northern Light Ventures, Beijing-based...",
-            "date": "2015-04-16",
-            "author_name": "Emma Lee",
+        "schaeffersresearch.com/2015/04/baidu-inc-bidu-option-buyers-eye-a-rebound-schaeffer": {
+            "title": "Baidu, Inc. (BIDU) Option Buyers Eye a Rebound - Schaeffer's...",
+            "snippet": "Options traders are targeting Baidu Inc (ADR) (NASDAQ:BIDU) today, as stocks slide in the wake of China's new trading rules. At last check, BIDU options were changing hands at double the intraday rate, with calls the...",
+            "date": "2015-04-17",
+            "author_name": "gkruse@sir-inc.com",
             "categories": "baidu",
-            "tags": "ventures,startup,sum,acquired,acquired-online,acquired-online-security,online,online-security,security,company,baidu,acquires,web,anquanbao,technode,chinese,search,giant,beijing",
-            "recuweb_url": "http://en.recuweb.com/baidu/technode.com/2015/04/baidu-acquires-web-security-firm-anquanbao-technode",
+            "tags": "trading,baidu,inc,bidu,adr,nasdaq,today,china",
+            "recuweb_url": "http://en.recuweb.com/baidu/schaeffersresearch.com/2015/04/baidu-inc-bidu-option-buyers-eye-a-rebound-schaeffer",
             "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://technode.com/2015/04/16/baidu-acquires-anquanbao/"
+            "source_url": "http://schaeffersresearch.com/content/options/2015/04/17/baidu-inc-(bidu)-option-buyers-eye-a-rebound"
         },
         "techinasia.com/2015/04/android-wear-is-useless-in-china-so-baidu-just-made": {
             "title": "Android Wear is useless in China, so Baidu just made its own...",
             "snippet": "Baidu, China's top search engine company, has just taken the wraps off of its own smartwatch OS. It's called DuWear. Because pretty much every single Google service is blocked in China, Android Wear with its baked-in...",
             "date": "2015-04-16",
             "author_name": "Steven Millward",
-            "categories": "search-engine,baidu,google",
-            "tags": "service,smart,top,search,search-engine,engine,company,made,android,wear,china,baidu,google",
+            "categories": "baidu,google",
+            "tags": "service,off,own,smart,top,made,android,china,baidu,search,engine,company,duwear,google",
             "recuweb_url": "http://en.recuweb.com/google/techinasia.com/2015/04/android-wear-is-useless-in-china-so-baidu-just-made",
             "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://techinasia.com/baidu-smartwatch-os-revealed/"
@@ -93,32 +105,20 @@
             "date": "2015-04-15",
             "author_name": "SeekingAlpha.com",
             "categories": "society,baidu",
-            "tags": "company,baidu,inc,nasdaq,bidu,chinese",
+            "tags": "financial,baidu,inc,nasdaq,company,bidu,chinese",
             "recuweb_url": "http://en.recuweb.com/baidu/seekingalpha.com/2015/04/baidu-the-crouching-tiger-is-ready-to-prey-inc-nasdaq",
             "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://seekingalpha.com/article/3072396-baidu-the-crouching-tiger-is-ready-to-prey"
         },
-        "geektime.com/2015/04/exclusive-baidu-makes-second-investment-in-israeli-startup": {
-            "title": "EXCLUSIVE: Baidu makes second investment in Israeli startup as...",
-            "snippet": "... there are learning to play piano. Perhaps this explains why Chinese Internet giant Baidu has co-invested 5 million in Tonara, a music education software company, alongside Israel's Carmel Ventures and Lool Ventures.",
+        "reddit.com/2015/04/ama-andrew-ng-and-adam-coates": {
+            "title": "AMA Andrew Ng and Adam Coates...",
+            "snippet": "Dr. Andrew Ng is Chief Scientist at Baidu. He leads Baidu Research, which includes the Silicon Valley AI Lab, the Institute of Deep Learning and the Big Data Lab. The organization brings together global research talent to work on fundamental...",
             "date": "2015-04-14",
-            "author_name": "Simona Weinglass",
-            "categories": "music,education,internet,learning,play,baidu",
-            "tags": "lool,lool_ventures,ventures,carmel,carmel_ventures,music,education,software,company,million,chinese,chinese_internet,internet,startup,baidu,israeli,giant,tonara",
-            "recuweb_url": "http://en.recuweb.com/baidu/geektime.com/2015/04/exclusive-baidu-makes-second-investment-in-israeli-startup",
-            "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://geektime.com/2015/04/14/exclusive-baidu-makes-second-investment-in-israeli-startup-as-tonara-raises-5m-in-series-b/"
-        },
-        "techcrunch.com/2015/04/music-education-startup-tonara-scores-5m-led-by-baidu-china": {
-            "title": "Music Education Startup Tonara Scores 5M Led By Baidu, China's...",
-            "snippet": "Tonara, the Israeli startup behind the eponymous interactive sheet music app, has raised new funding to the tune of 5 million from Chinese Internet giant Baidu and returning investor Carmel Ventures. Lool Ventures also...",
-            "date": "2015-04-14",
-            "author_name": "Catherine Shu",
-            "categories": "internet,music,baidu,education",
-            "tags": "lool,lool_ventures,ventures,carmel,carmel_ventures,investor,chinese,chinese_internet,internet,funding,startup,behind,music,app,baidu,education,tonara,china,israeli,million,giant",
-            "recuweb_url": "http://en.recuweb.com/education/techcrunch.com/2015/04/music-education-startup-tonara-scores-5m-led-by-baidu-china",
-            "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://techcrunch.com/2015/04/14/music-education-startup-tonara-scores-5m-led-by-baidu-chinas-largest-search-engine/"
+            "categories": "learning,baidu,institute",
+            "tags": "research,data,baidu",
+            "recuweb_url": "http://en.recuweb.com/institute/reddit.com/2015/04/ama-andrew-ng-and-adam-coates",
+            "resource_url": "http://www.reddit.com/search.rss?q=baidu%2Bbaidu&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/MachineLearning/comments/32ihpe/ama_andrew_ng_and_adam_coates/"
         }
     }
 }
