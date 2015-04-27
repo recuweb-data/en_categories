@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "home-improvement",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/home-improvement/",
@@ -10,6 +11,17 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/home-improvement/home-improvement/blogs.json"
     },
     "items": {
+        "wqad.com/2015/04/how-home-improvement-could-wreck-your-love-life": {
+            "title": "How home improvement could wreck your love life...",
+            "snippet": "Decisions can become frustration when a couple doesn't see eye-to-eye on remodeling or redecorating that inspires them to go to furniture or home-improvement stores in the first place. Add the stress of being newly married,...",
+            "date": "2015-04-24",
+            "author_name": "Shellie Nelson",
+            "categories": "furniture,love,life,home",
+            "tags": "stores,couple,home,improvement,remodeling",
+            "recuweb_url": "http://en.recuweb.com/home/wqad.com/2015/04/how-home-improvement-could-wreck-your-love-life",
+            "resource_url": "http://www.google.com/search?q=home%2Bimprovement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://wqad.com/2015/04/24/how-home-improvement-could-wreck-your-love-life/"
+        },
         "benzinga.com/2015/04/meet-the-startup-disrupting-home-improvement": {
             "title": "Meet: The Startup Disrupting The Home Improvement...",
             "snippet": "The conventional wisdom, \"if you can't run with the big dogs, you'd better stay on the porch,\" has recently been turned on its head by...",
@@ -21,38 +33,49 @@
             "resource_url": "http://www.google.com/search?q=home%2Bimprovement%2Bhome%2Bimprovement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://benzinga.com/news/15/04/5434477/meet-porch-com-the-startup-disrupting-the-home-improvement-space"
         },
-        "sheltonherald.com/2015/04/shelton-home-improvement-contractor-charged-with-failing-to": {
-            "title": "Shelton home improvement contractor charged with failing to do...",
-            "snippet": "A Shelton man was arrested on a warrant April 22 for allegedly failing to do home improvements in Milford for which he had been paid. Timothy Kovalsky, 35, of Howe Avenue, Shelton, was charged by the Milford police with...",
-            "date": "2015-04-23",
-            "author_name": "Shelton Herald",
-            "categories": "home",
-            "tags": "police,improvements,improvement,allegedly,arrested,home,contractor,charged,man",
-            "recuweb_url": "http://en.recuweb.com/home/sheltonherald.com/2015/04/shelton-home-improvement-contractor-charged-with-failing-to",
-            "resource_url": "http://www.google.com/search?q=home%2Bimprovement%2Bhome%2Bimprovement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://sheltonherald.com/67001/shelton-home-improvement-contractor-arrested-for-failing-to-do-work/"
-        },
         "moneytalksnews.com/2015/04/7-reasons-to-back-away-from-diy-home-improvement-projects": {
             "title": "7 Reasons to Back Away From DIY Home Improvement Projects...",
             "snippet": "HGTV makes everyone feel as if they're only a couple of power tools away from being home renovation masters. But don't be fooled. There's a reason building and construction trades are considered skilled jobs. Tackling a...",
             "date": "2015-04-22",
             "author_name": "Maryalene LaPonsie",
-            "categories": "construction,home,home-improvement",
-            "tags": "renovation,power,power-tools,tools,away,feel,diy,home,home_improvement,home_improvement_projects,improvement,improvement_projects,projects",
-            "recuweb_url": "http://en.recuweb.com/home-improvement/moneytalksnews.com/2015/04/7-reasons-to-back-away-from-diy-home-improvement-projects",
+            "categories": "home,home-improvement,construction",
+            "tags": "jobs,only,couple,tools,away,makes,home,home_improvement,improvement,projects,hgtv,don,construction",
+            "recuweb_url": "http://en.recuweb.com/construction/moneytalksnews.com/2015/04/7-reasons-to-back-away-from-diy-home-improvement-projects",
             "resource_url": "http://www.google.com/search?q=home%2Bimprovement%2Bhome%2Bimprovement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://moneytalksnews.com/7-times-back-away-from-diy-home-innovation-projects/"
         },
-        "care2.com/2015/04/working-on-home-improvement-projects-7-pet-hazards-to-look-out": {
-            "title": "Working on Home Improvement Projects 7 Pet Hazards to Look Out...",
-            "snippet": "Spring is in the air and so are the scent of paint fumes and the buzz of power tools. Warmer weather encourages many home and apartment dwellers to spruce up their abodes with a little project or two. While you are...",
-            "date": "2015-04-20",
-            "author_name": "Vetstreet.com",
+        "kplr11.com/2015/04/plan-your-home-improvement-projects-with-first-bank": {
+            "title": "Plan your home improvement projects with First Bank...",
+            "snippet": "According to Tim, spring is traditionally a time when home owners start planning home improvement projects. He says as contractors match the right tool to the job, savvy homeowners should match the size and scope of their...",
+            "date": "2015-04-22",
+            "author_name": "Danielle Scruggs",
+            "categories": "home",
+            "tags": "size,projects,home,improvement,tool,homeowners",
+            "recuweb_url": "http://en.recuweb.com/home/kplr11.com/2015/04/plan-your-home-improvement-projects-with-first-bank",
+            "resource_url": "http://www.google.com/search?q=home%2Bimprovement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://kplr11.com/2015/04/22/plan-your-home-improvement-projects-with-first-bank/"
+        },
+        "lyonssullivanrealty.com/2015/04/the-true-cost-of-home-improvement-terry-sullivan-lyons": {
+            "title": "The True Cost of Home Improvement - Terry Sullivan - Lyons...",
+            "snippet": "Visit and you will find a homeowner's matchmaking service, a current report of hom eimprovement costs, and data about current home improvement sentiment. According to their website,...",
+            "date": "2015-04-22",
+            "author_name": "unknown",
             "categories": "home,home-improvement",
-            "tags": "projects,many,buzz,power,power-tools,tools,look,home,home_improvement,home_improvement_projects,improvement,improvement_projects,spring",
-            "recuweb_url": "http://en.recuweb.com/home-improvement/care2.com/2015/04/working-on-home-improvement-projects-7-pet-hazards-to-look-out",
+            "tags": "home_improvement,home,improvement,visit",
+            "recuweb_url": "http://en.recuweb.com/home-improvement/lyonssullivanrealty.com/2015/04/the-true-cost-of-home-improvement-terry-sullivan-lyons",
             "resource_url": "http://www.google.com/search?q=home%2Bimprovement%2Bhome%2Bimprovement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://care2.com/greenliving/7-spring-home-repair-hazards-for-pets.html"
+            "source_url": "http://lyonssullivanrealty.com/Blog/The-True-Cost-of-Home-Improvement"
+        },
+        "radaronline.com/2015/04/home-improvement-secrets-scandals-taran-noah-smith-fought": {
+            "title": "'Home Improvement'Secrets Scandals Taran Noah Smith Fought...",
+            "snippet": "Cindy Bennici, former momager to Home Improvement star Taran Noah Smith, 31, penned a tell-all with her famous son's help about raising a child actor in Stardom Happens: Nurturing Your Child in the Entertainment...",
+            "date": "2015-04-20",
+            "author_name": "Radar Staff",
+            "categories": "home,home-improvement,entertainment",
+            "tags": "tell,home,home_improvement,improvement",
+            "recuweb_url": "http://en.recuweb.com/entertainment/radaronline.com/2015/04/home-improvement-secrets-scandals-taran-noah-smith-fought",
+            "resource_url": "http://www.google.com/search?q=home%2Bimprovement%2Bhome%2Bimprovement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://radaronline.com/photos/home-improvement-secrets-scandals-taran-noah-smith-jonathan-taylor-thomas/photo/1038477/"
         },
         "gottabemobile.com/2015/04/5-best-home-improvement-iphone-apps-gottabemobile": {
             "title": "5 Best Home Improvement iPhone Apps - GottaBeMobile...",
@@ -60,32 +83,10 @@
             "date": "2015-04-18",
             "author_name": "Craig Lloyd",
             "categories": "iphone,home,home-improvement",
-            "tags": "during,remodeling,projects,home,home_improvement,improvement",
+            "tags": "projects,home,home_improvement,improvement,remodeling",
             "recuweb_url": "http://en.recuweb.com/home-improvement/gottabemobile.com/2015/04/5-best-home-improvement-iphone-apps-gottabemobile",
             "resource_url": "http://www.google.com/search?q=home%2Bimprovement%2Bhome%2Bimprovement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://gottabemobile.com/2015/04/18/5-best-home-improvement-iphone-apps/"
-        },
-        "finehomebuilding.com/2015/04/home-improvement-spending-expected-to-rise-fine-homebuilding": {
-            "title": "Home Improvement Spending Expected to Rise - Fine Homebuilding...",
-            "snippet": "According to analyists at Fitch Ratings, home improvement spending will rise by a predicted 6%. The U.S. Home Imporvement Industry Special Report was released in October of 2014 and reflects expected...",
-            "date": "2015-04-16",
-            "author_name": "unknown",
-            "categories": "home,home-improvement",
-            "tags": "home,home_improvement,improvement,according",
-            "recuweb_url": "http://en.recuweb.com/home-improvement/finehomebuilding.com/2015/04/home-improvement-spending-expected-to-rise-fine-homebuilding",
-            "resource_url": "http://www.google.com/search?q=home%2Bimprovement%2Bhome%2Bimprovement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://finehomebuilding.com/item/103823/home-improvement-spending-expected-to-rise"
-        },
-        "philadelphia.cbslocal.com/2015/04/rebuilding-together-philadelphia-marks-its-100th-home": {
-            "title": "'Rebuilding Together Philadelphia'Marks Its 100th Home...",
-            "snippet": "PHILADELPHIA (CBS) A local nonprofit group that provides repairs and improvements for low-income homeowners in Philadelphia was celebrating a milestone today. More than 100 volunteers celebrated outside a modest...",
-            "date": "2015-04-15",
-            "author_name": "Ed Fischer",
-            "categories": "home",
-            "tags": "outside,homeowners,improvements,home,local",
-            "recuweb_url": "http://en.recuweb.com/home/philadelphia.cbslocal.com/2015/04/rebuilding-together-philadelphia-marks-its-100th-home",
-            "resource_url": "http://www.google.com/search?q=home%2Bimprovement%2Bhome%2Bimprovement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://philadelphia.cbslocal.com/2015/04/15/rebuilding-together-philadelphia-marks-its-100th-home-improvement-project-in-mantua/"
         },
         "popsci.com/2015/04/from-the-archives-new-tools-of-home-improvement-popular": {
             "title": "From The Archives: The New Tools Of Home Improvement Popular...",
@@ -93,7 +94,7 @@
             "date": "2015-04-14",
             "author_name": "Junnie Kwon",
             "categories": "technology,science,home,home-improvement",
-            "tags": "date,make,tools,home,home_improvement,improvement,great",
+            "tags": "size,tools,home,home_improvement,improvement",
             "recuweb_url": "http://en.recuweb.com/home-improvement/popsci.com/2015/04/from-the-archives-new-tools-of-home-improvement-popular",
             "resource_url": "http://www.google.com/search?q=home%2Bimprovement%2Bhome%2Bimprovement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://popsci.com/archives-new-tools-home-improvement"
@@ -104,7 +105,7 @@
             "date": "2015-04-03",
             "author_name": "Donita Hunter",
             "categories": "home,home-improvement",
-            "tags": "monday,home,home_improvement,improvements",
+            "tags": "below,monday,home,home_improvement,improvements,contest,enter,win",
             "recuweb_url": "http://en.recuweb.com/home-improvement/kfor.com/2015/04/kfor-100-000-home-improvement-contest",
             "resource_url": "http://www.google.com/search?q=home%2Bimprovement%2Bhome%2Bimprovement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://kfor.com/2015/04/03/kfor-100000-home-improvement-contest/"
@@ -115,7 +116,7 @@
             "date": "2015-04-03",
             "author_name": "Julie",
             "categories": "cleaning,home",
-            "tags": "away,remodeling,make,better,days,house,stay,home,improvement",
+            "tags": "away,better,house,stay,home,improvement,remodeling,far",
             "recuweb_url": "http://en.recuweb.com/home/jkeat.wordpress.com/2015/04/we-bought-a-house",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=home%2Bimprovement%2Bhome%2Bimprovement&rss=1&lng=en",
             "source_url": "http://jkeat.wordpress.com/2015/04/03/we-bought-a-house/"
