@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "exoplanets",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/exoplanets/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/exoplanets/exoplanets/blogs.json"
     },
     "items": {
-        "businessinsider.com/2015/04/19-dazzling-images-of-space-like-you-ve-never-seen": {
-            "title": "19 dazzling images of space like you've never seen it before...",
-            "snippet": "From the mysterious nature of dark matter to the birth of stars and the atmospheric composition of exoplanets, Hubble has taught us about the many dazzling wonders of our universe during its 25 years in space.",
-            "date": "2015-04-23",
-            "categories": "nature,dark-matter,stars,exoplanets",
-            "tags": "years,stars,seen,before,space,exoplanets",
-            "recuweb_url": "http://en.recuweb.com/exoplanets/businessinsider.com/2015/04/19-dazzling-images-of-space-like-you-ve-never-seen",
+        "spaceref.com/2015/04/20-exoworlds-are-now-available-for-naming-proposals": {
+            "title": "20 ExoWorlds Are Now Available for Naming Proposals...",
+            "snippet": "The NameExoWorlds contest provides not only the first opportunity for the public to name exoplanets, but also, for the first time in centuries, to give popular names to some stars -- those that have known exoplanets in orbit around them. Some of...",
+            "date": "2015-04-27",
+            "categories": "stars,exoplanets",
+            "tags": "orbit,stars,opportunity,exoplanets",
+            "recuweb_url": "http://en.recuweb.com/exoplanets/spaceref.com/2015/04/20-exoworlds-are-now-available-for-naming-proposals",
             "resource_url": "http://www.bing.com/news/search?first=1&q=exoplanets&format=RSS&cc=us",
-            "source_url": "http://businessinsider.com/stunning-hubble-telescope-photos-2015-4"
+            "source_url": "http://spaceref.com/news/viewpr.html?pid=45676"
         },
-        "vox.com/2015/04/astronomers-just-detected-light-bouncing-off-an-exoplanet-here-s-why": {
-            "title": "Astronomers just detected light bouncing off an exoplanet. Here's why that's... - Vox...",
-            "snippet": "Los Angeles TimesAstronomers just detected light bouncing off an exoplanet. Here's why that's...VoxUntil now, we've discovered about 1,900 exoplanets, but we've only seen the vast majority of them indirectly most often by noticing when they pass in...",
-            "date": "2015-04-23",
-            "categories": "exoplanets",
-            "tags": "only,seen,discovered,detected,light,off,exoplanets,astronomers",
-            "recuweb_url": "http://en.recuweb.com/exoplanets/vox.com/2015/04/astronomers-just-detected-light-bouncing-off-an-exoplanet-here-s-why",
+        "usatoday.com/2015/04/how-exoplanets-rebooted-nasa-s-search-for-life-beyond-earth": {
+            "title": "How Exoplanets rebooted NASA's search For life beyond Earth...",
+            "snippet": "How Exoplanets rebooted NASA's search For life beyond Earth NASA is putting together an unprecedented team of scientists and researchers to analyze recently found exoplanets for the potential to support life. Video provided by Newsy Check out this...",
+            "date": "2015-04-27",
+            "categories": "life,exoplanets,earth",
+            "tags": "life,together,scientists,researchers,analyze,recently,life-beyond,beyond,search,exoplanets,nasa,earth,found",
+            "recuweb_url": "http://en.recuweb.com/earth/usatoday.com/2015/04/how-exoplanets-rebooted-nasa-s-search-for-life-beyond-earth",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=exoplanets&format=RSS&cc=us",
+            "source_url": "http://usatoday.com/videos/tech/sciencefair/2015/04/27/26414139/"
+        },
+        "phys.org/2015/04/hubble-s-ultraviolet-telescope-has-revealed-more-about-the-stars": {
+            "title": "Hubble's ultraviolet telescope has revealed more about the stars than we could ever see...",
+            "snippet": "Insight into the future This sort of discovery offers a great opportunity to learn what exoplanets are made of. Spectroscopy is the key: each chemical substance has its own spectroscopic fingerprint that allows astronomers to measure chemical...",
+            "date": "2015-04-27",
+            "categories": "stars,exoplanets",
+            "tags": "own,astronomers,discovery,opportunity,future,stars,ever,telescope,exoplanets",
+            "recuweb_url": "http://en.recuweb.com/exoplanets/phys.org/2015/04/hubble-s-ultraviolet-telescope-has-revealed-more-about-the-stars",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=exoplanets&format=RSS&cc=us",
+            "source_url": "http://phys.org/news/2015-04-hubble-ultraviolet-telescope-revealed-stars.html"
+        },
+        "sci-tech-today.com/2015/04/nasa-gathers-scientists-to-help-find-life-beyond-earth": {
+            "title": "NASA Gathers Scientists To Help Find Life Beyond Earth...",
+            "snippet": "NASA's planet-hunting Kepler Space Telescope was launched in 2009 and has already found more than 1,000 exoplanets orbiting around distant stars. Thousands more planet candidates are still waiting to be confirmed. But now that scientists know for...",
+            "date": "2015-04-27",
+            "categories": "stars,life,earth,hunting,exoplanets",
+            "tags": "scientists,planet,distant,stars,kepler,kepler_space,kepler_space_telescope,space,space_telescope,telescope,nasa,find,life,beyond,earth,hunting,found,exoplanets",
+            "recuweb_url": "http://en.recuweb.com/exoplanets/sci-tech-today.com/2015/04/nasa-gathers-scientists-to-help-find-life-beyond-earth",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=exoplanets&format=RSS&cc=us",
+            "source_url": "http://sci-tech-today.com/story.xhtml?story_id=123002PU7DIO"
+        },
+        "aol.com/2015/04/nasa-rebooting-its-search-for-life-beyond-earth-thanks-to-exoplanets": {
+            "title": "NASA rebooting its search for life beyond Earth thanks to exoplanets - - AOL News...",
+            "snippet": "WSB AtlantaNASA rebooting its search for life beyond Earth thanks to exoplanets - NewsNASA announced a huge cooperative effort to analyze other worlds for possible life this week. The Nexus for Exoplanet System Science, or NExSS, will bring together...",
+            "date": "2015-04-27",
+            "categories": "science,life,earth,exoplanets",
+            "tags": "together,exoplanets,system,science,analyze,other,worlds,life,week,search,life-beyond,beyond,nasa,earth",
+            "recuweb_url": "http://en.recuweb.com/exoplanets/aol.com/2015/04/nasa-rebooting-its-search-for-life-beyond-earth-thanks-to-exoplanets",
             "resource_url": "http://news.google.com/?hl=en&q=exoplanets&output=atom&nord=1",
-            "source_url": "http://vox.com/2015/4/23/8480113/exoplanet-light"
+            "source_url": "http://aol.com/article/2015/04/26/nasa-rebooting-its-search-for-life-beyond-earth-thanks-to-exopla/21176618/"
         },
-        "spacedaily.com/2015/04/astronomers-probe-inner-region-of-young-star-and-its-planets-space": {
-            "title": "Astronomers probe inner region of young star and its planets - Space Daily...",
-            "snippet": "Astronomers probe inner region of young star and its planetsSpace DailyAstronomers have probed deeper than before into a planetary system 130 light-years from Earth. The observations mark the first results of a new exoplanet survey called LEECH (LBT...",
-            "date": "2015-04-23",
-            "categories": "observation,planets,earth",
-            "tags": "first,than,before,space,star,astronomers,planets,planetary,system,light,years,earth",
-            "recuweb_url": "http://en.recuweb.com/earth/spacedaily.com/2015/04/astronomers-probe-inner-region-of-young-star-and-its-planets-space",
+        "zeenews.india.com/2015/04/nasa-spy-telescopes-to-decode-mysterious-dark-energy": {
+            "title": "NASA spy telescopes to decode mysterious dark energy...",
+            "snippet": "The aim of the WFIRST-AFTA project is to study dark energy which is thought to be accelerating the expansion of the universe and search for exoplanets -- planets that orbit a star other than Sun. The two former spy telescopes have the same...",
+            "date": "2015-04-27",
+            "categories": "planets,exoplanets,sun",
+            "tags": "telescopes,planets,orbit,star,other,universe,search,study,nasa,exoplanets",
+            "recuweb_url": "http://en.recuweb.com/sun/zeenews.india.com/2015/04/nasa-spy-telescopes-to-decode-mysterious-dark-energy",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=exoplanets&format=RSS&cc=us",
+            "source_url": "http://zeenews.india.com/news/space/nasa-spy-telescopes-to-decode-mysterious-dark-energy_1585775.html"
+        },
+        "csmonitor.com/2015/04/quest-for-earth-like-planets-becoming-more-sophisticated": {
+            "title": "Quest for Earth-like planets becoming more sophisticated...",
+            "snippet": "This question has been preoccupying astronomers for decades. Nearly 2,000 exoplanets have already been discovered, and the quest to find Earth-like planets is getting ever more sophisticated. A new collaboration led by the University of...",
+            "date": "2015-04-27",
+            "categories": "planets,earth,exoplanets,university",
+            "tags": "planets,ever,find,discovered,astronomers,earth,exoplanets,university",
+            "recuweb_url": "http://en.recuweb.com/university/csmonitor.com/2015/04/quest-for-earth-like-planets-becoming-more-sophisticated",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=exoplanets&format=RSS&cc=us",
+            "source_url": "http://csmonitor.com/Science/2015/0426/Quest-for-Earth-like-planets-becoming-more-sophisticated"
+        },
+        "perfscience.com/2015/04/researchers-find-two-exoplanets-of-star-tau-ceti-lie-in-habitable": {
+            "title": "Researchers find two exoplanets of star Tau Ceti lie in 'habitable zone'- PerfScience...",
+            "snippet": "PerfScienceResearchers find two exoplanets of star Tau Ceti lie in 'habitable zone'PerfScienceArizona State University (ASU) researchers have reported that a star Tau Ceti is considered to have five exoplanets and two of which have been posited to...",
+            "date": "2015-04-27",
+            "categories": "university,exoplanets",
+            "tags": "researchers,star,university,habitable,find,exoplanets",
+            "recuweb_url": "http://en.recuweb.com/exoplanets/perfscience.com/2015/04/researchers-find-two-exoplanets-of-star-tau-ceti-lie-in-habitable",
             "resource_url": "http://news.google.com/?hl=en&q=exoplanets&output=atom&nord=1",
-            "source_url": "http://spacedaily.com/reports/Astronomers_probe_inner_region_of_young_star_and_its_planets_999.html"
+            "source_url": "http://perfscience.com/content/2141707-researchers-find-two-exoplanets-star-tau-ceti-lie-habitable-zone"
         },
-        "guardianlv.com/2015/04/exoplanet-51-pegasi-b-seen-for-the-first-time": {
-            "title": "Exoplanet 51 Pegasi B Seen for the First Time...",
-            "snippet": "The planet was originally discovered in 1995 and it categorized as a hot Jupiter. This is a class of exoplanets that are relatively common throughout the cosmos, which are small in mass and size compared to Jupiter and orbit a lot closer to their...",
-            "date": "2015-04-23",
-            "categories": "cosmos,exoplanets",
-            "tags": "orbit,relatively,discovered,pegasi,seen,exoplanets,first,planet,jupiter",
-            "recuweb_url": "http://en.recuweb.com/exoplanets/guardianlv.com/2015/04/exoplanet-51-pegasi-b-seen-for-the-first-time",
+        "wsj.com/2015/04/the-future-of-space-exploration": {
+            "title": "The Future of Space Exploration...",
+            "snippet": "I am jet-setting on a one-hour suborbital flight from Boston to Hawaii for a meeting devoted to atmospheric data on habitable exoplanetsplanets outside our solar system. Its a topic the world never tires of. Data has been flooding in from the...",
+            "date": "2015-04-26",
+            "categories": "solar-system,exploration",
+            "tags": "habitable,system,space,future",
+            "recuweb_url": "http://en.recuweb.com/exploration/wsj.com/2015/04/the-future-of-space-exploration",
             "resource_url": "http://www.bing.com/news/search?first=1&q=exoplanets&format=RSS&cc=us",
-            "source_url": "http://guardianlv.com/2015/04/exoplanet-51-pegasi-b-seen-for-the-first-time/"
+            "source_url": "http://wsj.com/articles/the-future-of-space-exploration-1430105192?ru=yahoo?mod=yahoo_itp"
         },
-        "earthsky.org/2015/04/first-visible-light-spectrum-from-exoplanet": {
-            "title": "First visible light spectrum from exoplanet...",
-            "snippet": "In a giant step forward in exploring exoplanets, astronomers in Chile announced on April 22, 2015 that they used 51 Pegasi b a hot Jupiter, located some 50 light-years from Earth in the direction of our constellation Pegasus to obtain the first...",
-            "date": "2015-04-23",
-            "categories": "exoplanets,earth",
-            "tags": "first,direction,located,astronomers,visible,light,exoplanets,pegasi,jupiter,years,earth",
-            "recuweb_url": "http://en.recuweb.com/earth/earthsky.org/2015/04/first-visible-light-spectrum-from-exoplanet",
+        "spacedaily.com/2015/04/titan-s-atmosphere-useful-in-study-of-hazy-exoplanets": {
+            "title": "Titan's Atmosphere Useful In Study Of Hazy Exoplanets...",
+            "snippet": "Sunset on Saturn's moon Titan reveals the atmosphere around the moon as seen from the night side with NASA's Cassini spacecraft. Image courtesy NASA/JPL-Caltech/SSI. For a larger version of this image please go here. With more than a thousand...",
+            "date": "2015-04-26",
+            "categories": "atmosphere,moon,exoplanets,spacecraft",
+            "tags": "study,exoplanets,nasa",
+            "recuweb_url": "http://en.recuweb.com/spacecraft/spacedaily.com/2015/04/titan-s-atmosphere-useful-in-study-of-hazy-exoplanets",
             "resource_url": "http://www.bing.com/news/search?first=1&q=exoplanets&format=RSS&cc=us",
-            "source_url": "http://earthsky.org/space/first-visible-light-spectrum-from-exoplanet"
-        },
-        "popsci.com/2015/04/for-the-first-time-visible-light-from-an-exoplanet-detected": {
-            "title": "For The First Time, Visible Light From An Exoplanet Detected...",
-            "snippet": "Its like trying to see the moth. Despite this trickiness, Martins and his research team have come pretty close to getting a good view of these exoplanets. In a study published in Astronomy & Astrophysics, the researchers were able to measure the...",
-            "date": "2015-04-23",
-            "categories": "exoplanets,astronomy",
-            "tags": "researchers,study,team,exoplanets,detected,visible,light,first",
-            "recuweb_url": "http://en.recuweb.com/astronomy/popsci.com/2015/04/for-the-first-time-visible-light-from-an-exoplanet-detected",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=exoplanets&format=RSS&cc=us",
-            "source_url": "http://popsci.com/we-now-know-how-measure-visible-light-reflecting-exoplanets"
-        },
-        "ign.com/2015/04/nasa-ramps-up-hunt-for-extraterrestrial-life-on-other-planets": {
-            "title": "NASA Ramps Up Hunt For Extraterrestrial Life On Other Planets...",
-            "snippet": "NExSS brings researchers across numerous scientific fields with the goal to study exoplanets, of which there are more than 1,000 found to date with thousands to be confirmed, to understand their potential habitability. The initiative will develop...",
-            "date": "2015-04-23",
-            "categories": "extraterrestrial-life,life,planets,exoplanets",
-            "tags": "than,researchers,study,nasa,hunt,life,other,planets,nexss,exoplanets,found",
-            "recuweb_url": "http://en.recuweb.com/exoplanets/ign.com/2015/04/nasa-ramps-up-hunt-for-extraterrestrial-life-on-other-planets",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=exoplanets&format=RSS&cc=us",
-            "source_url": "http://ign.com/articles/2015/04/23/nasa-ramps-up-hunt-for-extraterrestrial-life-on-other-planets"
-        },
-        "techienews.co.uk/2015/04/nasa-to-begin-searching-for-life-on-distant-worlds-soon": {
-            "title": "NASA to begin searching for life on distant worlds, soon...",
-            "snippet": "The team will focus on understanding the geochemical cycles on exoplanets with different chemical compositions. NASAs new network is part of its Astrobiology program. NExSS includes planetary scientists, astrophysicists and heliophysicists who...",
-            "date": "2015-04-23",
-            "categories": "life,exoplanets",
-            "tags": "team,searching,life,nasas,distant,worlds,exoplanets,nexss,planetary,scientists",
-            "recuweb_url": "http://en.recuweb.com/exoplanets/techienews.co.uk/2015/04/nasa-to-begin-searching-for-life-on-distant-worlds-soon",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=exoplanets&format=RSS&cc=us",
-            "source_url": "http://techienews.co.uk/9728907/nasa-to-being-searching-for-life-on-distant-worlds-soon/"
-        },
-        "astronomy.com/2015/04/nasas-nexss-to-lead-search-for-life-on-distant-worlds": {
-            "title": "NASAs NExSS to lead search for life on distant worlds...",
-            "snippet": "The hunt for exoplanets is not only a priority for astronomers, its of keen interest to planetary and climate scientists as well. The study of exoplanets planets around other stars is a relatively new field. The discovery of the first...",
-            "date": "2015-04-23",
-            "categories": "stars,life,exoplanets,planets",
-            "tags": "discovery,first,around,other,stars,relatively,relatively-new,relatively-new-field,field,study,scientists,only,astronomers,hunt,search,life,nasas,nexss,distant,worlds,exoplanets,planetary,planets",
-            "recuweb_url": "http://en.recuweb.com/planets/astronomy.com/2015/04/nasas-nexss-to-lead-search-for-life-on-distant-worlds",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=exoplanets&format=RSS&cc=us",
-            "source_url": "http://astronomy.com/news/2015/04/nasas-nexss-to-lead-search-for-life-on-distant-worlds"
-        },
-        "dailymail.co.uk/2015/04/nasa-beefs-up-its-team-of-alien-hunters-and-claims-we": {
-            "title": "Nasa beefs up its team of 'alien hunters'- and claims we may be on the verge finding...",
-            "snippet": "The study of exoplanets is a relatively new field with discovery of the first exoplanet around a star like our sun was made in 1995. Since the launch of the Kepler space telescope six years ago, more than 1,000 exoplanets have been found, with...",
-            "date": "2015-04-23",
-            "categories": "sun,exoplanets",
-            "tags": "than,years,ago,relatively,relatively-new,relatively-new-field,field,discovery,first,exoplanets,around,study,alien,team,nasa,kepler,space,telescope,found",
-            "recuweb_url": "http://en.recuweb.com/exoplanets/dailymail.co.uk/2015/04/nasa-beefs-up-its-team-of-alien-hunters-and-claims-we",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=exoplanets&format=RSS&cc=us",
-            "source_url": "http://dailymail.co.uk/sciencetech/article-3052897/Nasa-beefs-team-alien-hunters-Space-agency-claims-verge-finding-extraterrestrial-life.html"
+            "source_url": "http://spacedaily.com/reports/Titans_Atmosphere_Useful_In_Study_Of_Hazy_Exoplanets_999.html"
         }
     }
 }
