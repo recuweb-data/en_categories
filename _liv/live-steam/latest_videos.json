@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "live-steam",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/live-steam/",
@@ -16,7 +17,7 @@
             "date": "2015-03-24",
             "author_name": "ign",
             "categories": "twitter",
-            "tags": "via,live,steam,twitter",
+            "tags": "via,game,live,steam,twitter",
             "recuweb_url": "http://en.recuweb.com/twitter/dailymotion.com/2015/03/h1z1-sells-a-million-copies-on-steam-australian-servers-live-ign",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/live+steam/0?af=1",
             "source_url": "http://dailymotion.com/video/x2kh2sq_h1z1-sells-a-million-copies-on-steam-australian-servers-live-ign-news_videogames",
@@ -52,7 +53,7 @@
             "date": "2015-01-20",
             "author_name": "GTNGamingTechNews",
             "categories": "coffee,twitter,facebook,google",
-            "tags": "subscribe,live,steam,twitter",
+            "tags": "subscribe,live,steam,fps,twitter",
             "recuweb_url": "http://en.recuweb.com/google/dailymotion.com/2015/01/steam-broadcasting-&-fps-counter-is-live-gamin-coffee",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/live+steam/0?af=1",
             "source_url": "http://dailymotion.com/video/x2f60v2_steam-broadcasting-fps-counter-is-live-gamin-coffee_videogames",
@@ -118,15 +119,17 @@
             "source_url": "http://dailymotion.com/video/x278ea4_earth-defense-force-2025-xbox-live-online-mission-mode-live-steam-let-s-play-playthrough-walkthrough_videogames",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x278ea4_earth-defense-force-2025-xbox-live-online-mission-mode-live-steam-let-s-play-playthrough-walkthrough_videogames"
         },
-        "youtube.com/2014/09/digra-livesteam-and-baitfest-with-jenni-goodchild-gamergate-notyourshield": {
-            "title": "DiGRA livesteam and Baitfest with Jenni Goodchild GamerGate NotYourShield...",
-            "snippet": "DiGRA livesteam and Baitfest with Jenni Goodchild GamerGate NotYourShield Going over a few interesting things from DiGRA: research papers, DiGRA member opinions, etc. Then Jenni Goodchild entered. From: Sargon of Akkad Views: 34361 736 ratings Time:...",
-            "date": "2014-09-28",
-            "author_name": "Sargon of Akkad",
-            "recuweb_url": "http://en.recuweb.com/youtube.com/2014/09/digra-livesteam-and-baitfest-with-jenni-goodchild-gamergate-notyourshield",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=live%2Bsteam%2Blive%2Bsteam&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=oNAwHrTowO0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/oNAwHrTowO0/0.jpg"
+        "dailymotion.com/2014/09/quake-live-raw-gameplay-steam-version-1": {
+            "title": "Quake Live - RAW Gameplay STEAM version 1...",
+            "snippet": "Quake Live is a fast-paced Free-to-play First Person Shooter FPS MMO Game: mmorawTags: Quake Live quake fast-paced Free-to-play First Person Shooter FPS MMO Game shooter gameplay Posted: 24 September 2014Rating:: 0...",
+            "date": "2014-09-24",
+            "author_name": "mmoraw",
+            "categories": "gameplay,play",
+            "tags": "fps,game,steam,live,free,play",
+            "recuweb_url": "http://en.recuweb.com/play/dailymotion.com/2014/09/quake-live-raw-gameplay-steam-version-1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/live+steam/0?af=1",
+            "source_url": "http://dailymotion.com/video/x26k31o_quake-live-raw-gameplay-steam-version-1_videogames",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x26k31o_quake-live-raw-gameplay-steam-version-1_videogames"
         }
     }
 }
