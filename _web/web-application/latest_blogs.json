@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "web-application",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/web-application/",
@@ -10,6 +11,68 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/web-application/web-application/blogs.json"
     },
     "items": {
+        "blogs.technet.com/2015/04/adfs-2012-r2-web-application-proxy-re-establish-trust": {
+            "title": "ADFS 2012 R2 Web Application Proxy - Re-Establish Proxy Trust...",
+            "snippet": "In the Tailspintoys environment, the administrator (moi) was a bit slack. They let the ADFS 2012 R2 proxy get into a bad state. The ADFS Proxy was not contacting the ADFS server on the internal network, and this allowed the...",
+            "date": "2015-04-20",
+            "author_name": "Rhoderick Milne [MSFT]",
+            "categories": "web-application,environment",
+            "tags": "server,into,web,web_application,application",
+            "recuweb_url": "http://en.recuweb.com/environment/blogs.technet.com/2015/04/adfs-2012-r2-web-application-proxy-re-establish-trust",
+            "resource_url": "http://www.google.com/search?q=web%2Bapplication%2Bweb%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.technet.com/b/rmilne/archive/2015/04/20/adfs-2012-r2-web-application-proxy-_2d00_-re_2d00_establish-proxy-trust.aspx"
+        },
+        "blog.sucuri.net/2015/04/security-advisory-xss-vulnerability-affecting-multiple-wordpress": {
+            "title": "Security Advisory: XSS Vulnerability Affecting Multiple WordPress...",
+            "snippet": "If you have an Intrusion Prevention System (IPS) or Web Application Firewall (WAF), they can help block most common forms of XSS exploits. You can even try our own CloudProxy to help you with that. If you like the open...",
+            "date": "2015-04-20",
+            "author_name": "Daniel Cid",
+            "categories": "web-application,prevention,wordpress",
+            "tags": "open,help,web,web_application,web_application_firewall,application,application_firewall,firewall,system,vulnerability,security",
+            "recuweb_url": "http://en.recuweb.com/wordpress/blog.sucuri.net/2015/04/security-advisory-xss-vulnerability-affecting-multiple-wordpress",
+            "resource_url": "http://www.google.com/search?q=web%2Bapplication%2Bweb%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.sucuri.net/2015/04/security-advisory-xss-vulnerability-affecting-multiple-wordpress-plugins.html"
+        },
+        "golang-challenge.com/2015/04/go-challenge-3-learn-by-solving-problems": {
+            "title": "Go Challenge 3 Go Challenge Learn Go by solving problems...",
+            "snippet": "He has been doing software development for 20 years, mostly in web application development. He is active in the Ruby and Go developer communities and has contributed to open source projects and spoke at meetups and...",
+            "date": "2015-04-18",
+            "author_name": "Onadvertise",
+            "tags": "developer,open,open-source,source,projects,software,learn,development,web,application",
+            "recuweb_url": "http://en.recuweb.com/golang-challenge.com/2015/04/go-challenge-3-learn-by-solving-problems",
+            "resource_url": "http://www.google.com/search?q=web%2Bapplication%2Bweb%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://golang-challenge.com/go-challenge3/"
+        },
+        "bigideasphl.com/2015/04/design-a-web-application-for-online-registration-and-collection-of": {
+            "title": "Design a web application for online registration and collection of...",
+            "snippet": "HOTEL TAX E-Z. Statement of Work. City of Philadelphia. Department of Revenue. INTRODUCTION. Cities of all sizes around the world are experiencing an increase in short-term rentals of homes and apartments, facilitated...",
+            "date": "2015-04-17",
+            "author_name": "K. Chirackel",
+            "tags": "online,design,web,application",
+            "recuweb_url": "http://en.recuweb.com/bigideasphl.com/2015/04/design-a-web-application-for-online-registration-and-collection-of",
+            "resource_url": "http://www.google.com/search?q=web%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://bigideasphl.com/2015/04/17/design-a-web-application-for-online-registration-and-collection-of-hotel-tax/"
+        },
+        "threatpost.com/2015/04/airdroid-patches-web-app-hijacking-vulnerability-threatpost": {
+            "title": "AirDroid Patches Web App Hijacking Vulnerability - Threatpost...",
+            "snippet": "AirDroid has patched an authentication flaw in its web application that could allow an attacker to remotely control and manipulate a victim's Android device. AirDroid, which is similar to Apple's native iMessage app, allows a...",
+            "date": "2015-04-15",
+            "author_name": "Michael Mimoso",
+            "tags": "vic,web,app,vulnerability,threat,application,android",
+            "recuweb_url": "http://en.recuweb.com/threatpost.com/2015/04/airdroid-patches-web-app-hijacking-vulnerability-threatpost",
+            "resource_url": "http://www.google.com/search?q=web%2Bapplication%2Bweb%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://threatpost.com/airdroid-patches-web-app-hijacking-vulnerability/112268"
+        },
+        "blog.process-one.net/2015/04/embedding-ejabberd-into-an-elixir-phoenix-web-application-blog": {
+            "title": "Embedding ejabberd into an Elixir Phoenix Web application... - Blog...",
+            "snippet": "By combining Elixir powerful web framework with ejabberd realtime messaging platform, you can build extremely powerful applications. This tutorial will help you get started. Here is the screencast showing the whole process.",
+            "date": "2015-04-14",
+            "author_name": "Micka\u00ebl R\u00e9mond",
+            "tags": "help,build,platform,framework,web,into,applications,tutorial",
+            "recuweb_url": "http://en.recuweb.com/blog.process-one.net/2015/04/embedding-ejabberd-into-an-elixir-phoenix-web-application-blog",
+            "resource_url": "http://www.google.com/search?q=web%2Bapplication%2Bweb%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.process-one.net/embedding-ejabberd-into-an-elixir-phoenix-web-application/"
+        },
         "brilyuhnt.blogspot.com/2015/04/donald-hjelm-bot-visits": {
             "title": "Donald Hjelm - Bot Visits...",
             "snippet": "A recent study found that not only do the number of bots (automated applications that crawl and scan websites) on the Internet outnumber human visitors, but smaller websites actually receive a disproportionately higher percentage of automated bot...",
@@ -32,88 +95,27 @@
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=web%2Bapplication%2Bweb%2Bapplication&rss=1&lng=en",
             "source_url": "http://brilyuhnt.wordpress.com/2015/04/13/donald-hjelm-bot-visits/"
         },
-        "reddit.com/2015/04/im-developing-a-course-that-would-help-you-build-and-launch": {
-            "title": "Im developing a course that would help you build and launch a real web application based on your...",
-            "snippet": "There are a lot of tutorials out there that help you learn the basics of programming, that show you how to create a mini web app, or a little game, or something. But they dont do a good job of showing you how to make real stuff. Like a web...",
-            "date": "2015-04-04",
-            "tags": "real,something,tutorials,learn,programming,build,web,application",
-            "recuweb_url": "http://en.recuweb.com/reddit.com/2015/04/im-developing-a-course-that-would-help-you-build-and-launch",
-            "resource_url": "http://www.reddit.com/search.rss?q=web%2Bapplication%2Bweb%2Bapplication&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/learnprogramming/comments/31fax8/im_developing_a_course_that_would_help_you_build/"
-        },
-        "sharepointrescue.wordpress.com/2015/03/delete-extended-web-application": {
-            "title": "Delete extended Web Application...",
-            "snippet": "Extended web applications are not listed in the web application list and cannot be deleted using the Delete Web Application link in Central Administration. Use the following steps to []...",
-            "date": "2015-03-25",
-            "author_name": "albandrod",
+        "blogs.adobe.com/2015/04/re-assessing-web-application-vulnerabilities-for-the-cloud": {
+            "title": "Re-assessing Web Application Vulnerabilities for the Cloud...",
+            "snippet": "For OWASP AppSec California in January, I decided to explore the impact of the cloud on Web application vulnerabilities. One of the assumptions that I had going into cloud projects was that the cloud was merely a hosting...",
+            "date": "2015-04-07",
+            "author_name": "Peleus Uhley",
             "categories": "web-application",
-            "tags": "web,web_application,applications,using",
-            "recuweb_url": "http://en.recuweb.com/web-application/sharepointrescue.wordpress.com/2015/03/delete-extended-web-application",
-            "resource_url": "http://en.search.wordpress.com/?q=web%2Bapplication%2Bweb%2Bapplication&f=feed&page=1",
-            "source_url": "http://sharepointrescue.wordpress.com/2015/03/25/delete-extended-web-application/"
-        },
-        "java.dzone.com/2015/03/how-to-become-a-web-developer-part-5-application-architecture": {
-            "title": "How to Become a Web Developer Part 5: Web Application Architecture...",
-            "snippet": "Picking the web application architecture best suited to your unique needs is vital. In this post I am going to talk about a few of the most common web...",
-            "date": "2015-03-17",
-            "author_name": "stephen_yo",
-            "categories": "web-application",
-            "tags": "best,needs,web,web_application,application,part",
-            "recuweb_url": "http://en.recuweb.com/web-application/java.dzone.com/2015/03/how-to-become-a-web-developer-part-5-application-architecture",
+            "tags": "projects,into,explore,web,web_application,application,cloud",
+            "recuweb_url": "http://en.recuweb.com/web-application/blogs.adobe.com/2015/04/re-assessing-web-application-vulnerabilities-for-the-cloud",
             "resource_url": "http://www.google.com/search?q=web%2Bapplication%2Bweb%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://java.dzone.com/articles/how-become-web-developer-part"
+            "source_url": "http://blogs.adobe.com/security/2015/04/re-assessing-web-application-vulnerabilities-for-the-cloud.html"
         },
-        "windowsitpro.com/2015/03/assessing-iis-website-and-web-application-deployment-windows": {
-            "title": "Assessing IIS website and web application deployment Windows...",
-            "snippet": "Once you've worked out which servers in your organization are hosting IIS, you need to determine which websites and web applications are hosted on those servers. In the best of all worlds, you'll know exactly which websites...",
-            "date": "2015-03-13",
-            "author_name": "unknown",
-            "tags": "websites,best,servers,iis,website,web,applications,deployment,windows",
-            "recuweb_url": "http://en.recuweb.com/windowsitpro.com/2015/03/assessing-iis-website-and-web-application-deployment-windows",
-            "resource_url": "http://www.google.com/search?q=web%2Bapplication%2Bweb%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://windowsitpro.com/windows-server-2003-end-support/assessing-iis-website-and-web-application-deployment"
-        },
-        "monetate.com/2015/03/engineers-start-your-apps-the-penn-web-application": {
-            "title": "Engineers, Start Your Apps! The Penn Apps web application...",
-            "snippet": "Hi, I'm Tom Janofsky, an engineer here at Monetate. Last weekend, I helped judge something called Penn Apps along with fellow Monetate engineers Hunter Blanks and Luke Walker. Penn Apps is an annual application...",
-            "date": "2015-03-13",
-            "author_name": "Tom Janofsky",
-            "tags": "along,something,called,web,application",
-            "recuweb_url": "http://en.recuweb.com/monetate.com/2015/03/engineers-start-your-apps-the-penn-web-application",
-            "resource_url": "http://www.google.com/search?q=web%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://monetate.com/blog/engineers-start-your-apps-penn-apps-competition/"
-        },
-        "webdakaar.wordpress.com/2015/03/easy-and-effective-web-development-applications": {
-            "title": "Easy and effective web development applications...",
-            "snippet": "The world is interfacing through the web and the most recent advancements at World Wide Web are overhauling inside portions of seconds to effectively take part in the...",
-            "date": "2015-03-11",
-            "author_name": "webdakaar",
-            "tags": "part,web,recent,development,applications",
-            "recuweb_url": "http://en.recuweb.com/webdakaar.wordpress.com/2015/03/easy-and-effective-web-development-applications",
-            "resource_url": "http://en.search.wordpress.com/?q=web%2Bapplication%2Bweb%2Bapplication&f=feed&page=1",
-            "source_url": "http://webdakaar.wordpress.com/2015/03/11/easy-and-effective-web-development-applications/"
-        },
-        "blogs.technet.com/2015/03/backup-your-web-application-proxy-settings-technet-blogs": {
-            "title": "Backup your Web Application Proxy Settings... - TechNet Blogs...",
-            "snippet": "We're happy to have another post from guest blogger Mark Grimes with Microsoft Consultancy Services. Mark has some more great tips for documenting and saving your Web Application Proxy deployment settings for future...",
-            "date": "2015-03-10",
-            "author_name": "Billy [MSFT]",
+        "darknet.org.uk/2015/04/watcher-passive-web-application-vulnerability-scanner-darknet": {
+            "title": "Watcher - Passive Web Application Vulnerability Scanner - Darknet...",
+            "snippet": "Watcher is a passive web application vulnerability scanner built as a Fiddler add-on with over 30 security checks built in by default.",
+            "date": "2015-04-07",
+            "author_name": "Darknet",
             "categories": "web-application",
-            "tags": "deployment,future,web,web_application,application,great,services",
-            "recuweb_url": "http://en.recuweb.com/web-application/blogs.technet.com/2015/03/backup-your-web-application-proxy-settings-technet-blogs",
+            "tags": "vulnerability,web,web_application,application,security",
+            "recuweb_url": "http://en.recuweb.com/web-application/darknet.org.uk/2015/04/watcher-passive-web-application-vulnerability-scanner-darknet",
             "resource_url": "http://www.google.com/search?q=web%2Bapplication%2Bweb%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogs.technet.com/b/applicationproxyblog/archive/2015/03/10/backup-your-web-application-proxy-settings.aspx"
-        },
-        "amirghaffari.wordpress.com/2015/03/tracing-in-mvc-web-application": {
-            "title": "Tracing in MVC Web Application...",
-            "snippet": "Debugging helps us to find and correct programming errors. Tracing is a form of Debugging that allows us to keep track some specific behaviors of our application such []...",
-            "date": "2015-03-06",
-            "author_name": "amirghaffari",
-            "categories": "web-application",
-            "tags": "specific,helps,programming,web,web_application,application",
-            "recuweb_url": "http://en.recuweb.com/web-application/amirghaffari.wordpress.com/2015/03/tracing-in-mvc-web-application",
-            "resource_url": "http://en.search.wordpress.com/?q=web%2Bapplication%2Bweb%2Bapplication&f=feed&page=1",
-            "source_url": "http://amirghaffari.wordpress.com/2015/03/06/tracing-in-mvc-web-application/"
+            "source_url": "http://darknet.org.uk/2015/04/watcher-passive-web-application-vulnerability-scanner/"
         }
     }
 }
