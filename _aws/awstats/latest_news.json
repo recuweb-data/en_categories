@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "awstats",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/awstats/",
@@ -10,32 +11,40 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/awstats/awstats/blogs.json"
     },
     "items": {
+        "sitepoint.com/2015/04/how-to-block-entire-countries-from-accessing-your-website": {
+            "title": "How to Block Entire Countries from Accessing Your Website...",
+            "snippet": "Here is a screenshot of Awstats telling me that China is responsible for the second-largest volume of traffic to a certain web forum I manage. This is just for January 2015. While it is certainly possible that Chinese people may find the content of...",
+            "date": "2015-04-22",
+            "tags": "possible,traffic,website,awstats,web,people",
+            "recuweb_url": "http://en.recuweb.com/sitepoint.com/2015/04/how-to-block-entire-countries-from-accessing-your-website",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=awstats&format=RSS&cc=us",
+            "source_url": "http://sitepoint.com/how-to-block-entire-countries-from-accessing-website/"
+        },
+        "net-security.org/2015/04/debian-security-advisory-awstats-dsa-1058-1": {
+            "title": "Debian Security Advisory - awstats (DSA 1058-1)...",
+            "snippet": "Debian GNU/Linux 3.1 alias sarge - ----- Source archives: Size/MD5 checksum: 591 bc33a94cbf5cb3fe89922f312434d0d6...",
+            "date": "2015-04-16",
+            "tags": "awstats,linux,source",
+            "recuweb_url": "http://en.recuweb.com/net-security.org/2015/04/debian-security-advisory-awstats-dsa-1058-1",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=awstats%2Bawstats&format=RSS&cc=us",
+            "source_url": "http://net-security.org/advisory.php?id=6271"
+        },
         "fayerwayer.com/2014/06/awstats-la-alternativa-libre-a-google-analytics-fayerwayer": {
             "title": "Awstats, la alternativa libre a Google Analytics - FayerWayer...",
             "snippet": "Awstats, la alternativa libre a Google AnalyticsFayerWayerAwstats no tiene versiones premium, debido a que el programa es libre en su instalaci\u00f3n y distribuci\u00f3n debido a su licencia GPL y con un poco m\u00e1s de experiencia, existe una variedad de...",
             "date": "2014-06-19",
             "categories": "google",
-            "tags": "google,google_analytics,analytics,awstats",
+            "tags": "que,google,google_analytics,analytics,awstats",
             "recuweb_url": "http://en.recuweb.com/google/fayerwayer.com/2014/06/awstats-la-alternativa-libre-a-google-analytics-fayerwayer",
             "resource_url": "http://news.google.com/?hl=en&q=awstats%2Bawstats&output=atom&nord=1",
             "source_url": "http://fayerwayer.com/2014/06/awstats-alternativa-libre-a-google-analytics/"
-        },
-        "blogs.pctechmag.com/2013/03/understanding-your-website-s-traffic-awstats-vs-google-analytics-visitor-numbers": {
-            "title": "Understanding your website's traffic: AWStats vs Google Analytics Visitor Numbers - PC Tech...",
-            "snippet": "Understanding your website's traffic: AWStats vs Google Analytics Visitor NumbersPC Tech Magazine (blog)The main difference between Google Analytics, AWStats and Webalizer is that Google Analytics gathers visitor information via some JavaScript code...",
-            "date": "2013-03-23",
-            "categories": "google,javascript",
-            "tags": "information,via,google,google_analytics,analytics,traffic,website,awstats",
-            "recuweb_url": "http://en.recuweb.com/javascript/blogs.pctechmag.com/2013/03/understanding-your-website-s-traffic-awstats-vs-google-analytics-visitor-numbers",
-            "resource_url": "http://news.google.com/?hl=en&q=awstats%2Bawstats&output=atom&nord=1",
-            "source_url": "http://blogs.pctechmag.com/2013/03/understanding-your-websites-traffic-awstats-vs-webalizer-vs-google-analytics-visitor-numbers/"
         },
         "mashable.com/2012/07/5-super-cheap-web-analytics-tools-besides-google": {
             "title": "5 Super Cheap Web Analytics Tools Besides Google...",
             "snippet": "And since it's hosted, startup is point-and-click. Looking for good-old log-file analysis software? Then AWStats is in your future. Naturally it needs to sit on a server to analyze log files, but it's one of the only analytics tools that does so at...",
             "date": "2012-07-30",
             "categories": "web-analytics,google",
-            "tags": "tools,needs,server,analyze,analyze-log,analyze-log-files,log,log-files,files,file,file-analysis,analysis,software,web,web_analytics,web_analytics_tools,analytics,analytics_tools,google,awstats",
+            "tags": "tools,needs,server,analyze,analyze-log,analyze-log-files,log,log-files,files,file,file-analysis,analysis,web,analytics,google,looking,awstats",
             "recuweb_url": "http://en.recuweb.com/google/mashable.com/2012/07/5-super-cheap-web-analytics-tools-besides-google",
             "resource_url": "http://www.bing.com/news/search?first=1&q=awstats&format=RSS&cc=us",
             "source_url": "http://mashable.com/2012/07/30/free-cheap-web-analytics-tools/"
@@ -44,7 +53,7 @@
             "title": "How To Install, Secure, And Automate AWStats (CentOS/RHEL) - Linux Today...",
             "snippet": "How To Install, Secure, And Automate AWStats (CentOS/RHEL)Linux Today\"AWStats is a free and very powerful tool that generates advanced web, streaming, ftp or mail server statistics, graphically. It can analyze log files from all major server tools...",
             "date": "2011-07-25",
-            "tags": "server,tools,analyze,analyze-log,analyze-log-files,log,log-files,files,ftp,mail,statistics,awstats,advanced,install,centos,web,streaming",
+            "tags": "server,tools,tool,analyze,analyze-log,analyze-log-files,log,log-files,files,ftp,ftp-or-mail,mail,mail-server,mail-server-statistics,server-statistics,statistics,linux,awstats,free,powerful,tool-that-generates,generates,generates-advanced,advanced,install,centos,web,streaming,graphically",
             "recuweb_url": "http://en.recuweb.com/linuxtoday.com/2011/07/how-to-install-secure-and-automate-awstats-centos-rhel-linux-today",
             "resource_url": "http://news.google.com/?hl=en&q=awstats%2Bawstats&output=atom&nord=1",
             "source_url": "http://linuxtoday.com/it_management/2011072700839OSHLRH"
@@ -53,36 +62,17 @@
             "title": "Get website metrics with AWStats...",
             "snippet": "Vincent Danen shows you how to set up the AWStats log file analysis program on FTP and mail servers and use the information to gain valuable insight on visitors to your website. Log file analysis is interesting. Seriously, who doesn't want to know...",
             "date": "2010-08-23",
-            "tags": "want,doesn,file,file-analysis,analysis,mail,servers,information,visitors,log,website,awstats,ftp",
+            "tags": "want,file,file-analysis,analysis,mail,servers,website,log,awstats,ftp",
             "recuweb_url": "http://en.recuweb.com/techrepublic.com/2010/08/get-website-metrics-with-awstats",
             "resource_url": "http://www.bing.com/news/search?first=1&q=awstats&format=RSS&cc=us",
             "source_url": "http://techrepublic.com/blog/linux-and-open-source/get-website-metrics-with-awstats/"
-        },
-        "sitepoint.com/2009/03/10-web-analytics-tools-for-tracking-your-visitors": {
-            "title": "10 Web Analytics Tools For Tracking Your Visitors...",
-            "snippet": "AWStats comes pre-installed by many web hosting companies. Additionally, if youre setting up your own servers, you can download it for your personal use. AWStats goes deeper into the referring sites information than most analytics packages...",
-            "date": "2009-03-25",
-            "categories": "web-analytics",
-            "tags": "sites,information,servers,many,web,web_analytics,web_analytics_tools,analytics,analytics_tools,tools,visitors,awstats",
-            "recuweb_url": "http://en.recuweb.com/web-analytics/sitepoint.com/2009/03/10-web-analytics-tools-for-tracking-your-visitors",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=awstats&format=RSS&cc=us",
-            "source_url": "http://sitepoint.com/10-web-analytics-packages-for-tracking-your-visitors/"
-        },
-        "infoworld.com/2008/08/best-of-open-source-software-awards-security": {
-            "title": "Best of open source software awards: Security...",
-            "snippet": "Got an open source favorite we missed? Please send us a note. We like AWStats for general log monitoring, but AWStats doesn't do security log analysis for that we use Splunk. If you haven't heard of Splunk, stop reading and check it out: it is...",
-            "date": "2008-08-04",
-            "tags": "log,log-analysis,analysis,open,source,software,awstats,doesn,check",
-            "recuweb_url": "http://en.recuweb.com/infoworld.com/2008/08/best-of-open-source-software-awards-security",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=awstats&format=RSS&cc=us",
-            "source_url": "http://infoworld.com/article/2638733/techology-business/best-of-open-source-software-awards--security.html"
         },
         "pcworld.com/2007/10/measure-your-e-commerce-site-s-performance": {
             "title": "Measure Your E-Commerce Site's Performance...",
             "snippet": "There are many different log analysis apps. I like AWStats. It's a free, open-source app that analyzes measurements that are useful for e-commerce sites. It works with logs generated by Apache and Microsoft IIS, the two most popular Web servers.",
             "date": "2007-10-14",
             "categories": "commerce",
-            "tags": "commerce,sites,source,many,log,log-analysis,analysis,awstats,open,apache,web,servers",
+            "tags": "commerce,source,log,analysis,awstats,apache,web,servers",
             "recuweb_url": "http://en.recuweb.com/commerce/pcworld.com/2007/10/measure-your-e-commerce-site-s-performance",
             "resource_url": "http://www.bing.com/news/search?first=1&q=awstats&format=RSS&cc=us",
             "source_url": "http://pcworld.com/article/138363/article.html"
@@ -92,7 +82,7 @@
             "snippet": "It can also track 404 errors. See examples: LiveStats: AWStats: d. PSA E-Commerce. Walker Massey and Peter Togel have created an online mall for PSA e-commerce needs.",
             "date": "2007-09-16",
             "categories": "commerce,leadership",
-            "tags": "commerce,needs,web,awstats,online",
+            "tags": "commerce,needs,online,web,awstats",
             "recuweb_url": "http://en.recuweb.com/leadership/clemson.edu/2007/09/web-leadership-team-meeting-minutes",
             "resource_url": "http://www.bing.com/news/search?first=1&q=awstats%2Bawstats&format=RSS&cc=us",
             "source_url": "http://clemson.edu/campus-life/campus-services/ows/wlt/minutes/091707.html"
@@ -105,6 +95,15 @@
             "recuweb_url": "http://en.recuweb.com/streamingmedia.com/2007/05/analyzing-streaming-media-server-log-files",
             "resource_url": "http://www.bing.com/news/search?first=1&q=awstats%2Bawstats&format=RSS&cc=us",
             "source_url": "http://streamingmedia.com/Articles/Editorial/Featured-Articles/Analyzing-Streaming-Media-Server-Log-Files-64944.aspx"
+        },
+        "lifehacker.com/2006/08/watch-your-traffic-with-awstats": {
+            "title": "Watch your traffic with AwStats...",
+            "snippet": "If you're looking for a good, free, no-frills website traffic tracking system, then AwStats might be a good fit. AWStats is a free powerful and featureful tool that generates advanced web, streaming, ftp or mail server statistics, graphically. This...",
+            "date": "2006-08-06",
+            "tags": "ftp,ftp-or-mail,mail,mail-server,mail-server-statistics,server,server-statistics,statistics,free,powerful,tool,tool-that-generates,generates,generates-advanced,advanced,website,traffic,looking,awstats,web,streaming,graphically",
+            "recuweb_url": "http://en.recuweb.com/lifehacker.com/2006/08/watch-your-traffic-with-awstats",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=awstats&format=RSS&cc=us",
+            "source_url": "http://lifehacker.com/191904/watch-your-traffic-with-awstats"
         }
     }
 }
