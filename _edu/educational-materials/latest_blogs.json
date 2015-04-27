@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "educational-materials",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/educational-materials/",
@@ -10,16 +11,27 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/educational-materials/educational-materials/blogs.json"
     },
     "items": {
-        "boingboing.net/2015/04/kickstarting-a-lab-where-maker-kids-produce-amazing-peer": {
-            "title": "Kickstarting a lab where maker-kids produce amazing peer...",
-            "snippet": "Kickstarting a lab where maker-kids produce amazing peer-educational materials. By Cory Doctorow at 12:00 pm... 1 reply. canada, crowdfunding, education, happy mutants, kickstarter, Kids, makers, makerspaces, toronto...",
-            "date": "2015-04-20",
-            "author_name": "Cory Doctorow",
+        "parentsacrossamerica.org/2015/04/the-impact-of-poverty-race-on-educational-opportunity-materials": {
+            "title": "The Impact of Poverty, Race on Educational Opportunity: materials...",
+            "snippet": "On Sunday, April 26, PAA presented a comprehensive workshop on The Impact of Poverty, Race and Cultural Bias on Educational Opportunity at the Network for Public Education conference. In addition to our power point...",
+            "date": "2015-04-26",
+            "author_name": "pureparents",
             "categories": "education",
-            "tags": "kids,educational,materials,education",
-            "recuweb_url": "http://en.recuweb.com/education/boingboing.net/2015/04/kickstarting-a-lab-where-maker-kids-produce-amazing-peer",
+            "tags": "education,educational,materials,conference",
+            "recuweb_url": "http://en.recuweb.com/education/parentsacrossamerica.org/2015/04/the-impact-of-poverty-race-on-educational-opportunity-materials",
+            "resource_url": "http://www.google.com/search?q=educational%2Bmaterials%2Beducational%2Bmaterials&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://parentsacrossamerica.org/impact-poverty-race-educational-opportunity-materials/"
+        },
+        "bbs.boingboing.net/2015/04/kickstarting-a-lab-where-maker-kids-produce-amazing-peer": {
+            "title": "Kickstarting a lab where maker-kids produce amazing peer...",
+            "snippet": "Kickstarting a lab where maker-kids produce amazing peer-educational materials Categories boing... 21:04:15 UTC 2. This story could work so well in the Onion, if we just replace \"peer education\" with \"peer pressure.\"...",
+            "date": "2015-04-20",
+            "author_name": "no-reply@example.com (@doctorow Cory Doctorow)",
+            "categories": "education",
+            "tags": "peer,education,well,kids,kids-produce,kids-produce-amazing,produce,produce-amazing,produce-amazing-peer,amazing,amazing-peer,lab,lab-where-maker,maker,kickstarting,educational,materials,boing",
+            "recuweb_url": "http://en.recuweb.com/education/bbs.boingboing.net/2015/04/kickstarting-a-lab-where-maker-kids-produce-amazing-peer",
             "resource_url": "http://www.google.com/search?q=educational%2Bmaterials&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://boingboing.net/2015/04/20/kickstarting-a-lab-where-maker.html"
+            "source_url": "http://bbs.boingboing.net/t/kickstarting-a-lab-where-maker-kids-produce-amazing-peer-educational-materials/55844"
         },
         "chnm.gmu.edu/2015/04/rrchnm-to-create-educational-materials-for-eisenhower-e-memorial": {
             "title": "RRCHNM to Create Educational Materials for Eisenhower E-Memorial...",
@@ -27,9 +39,9 @@
             "date": "2015-04-20",
             "author_name": "Jennifer-Rosenfeld",
             "categories": "educational-materials",
-            "tags": "center,educational,educational_materials,materials",
+            "tags": "create,center,educational,educational_materials,materials",
             "recuweb_url": "http://en.recuweb.com/educational-materials/chnm.gmu.edu/2015/04/rrchnm-to-create-educational-materials-for-eisenhower-e-memorial",
-            "resource_url": "http://www.google.com/search?q=educational%2Bmaterials&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=educational%2Bmaterials%2Beducational%2Bmaterials&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://chnm.gmu.edu/news/rrchnm-to-create-educational-materials-for-eisenhower-e-memorial/"
         },
         "bloomingtonsymphony.com/2015/04/educational-materials-for-the-planets": {
@@ -38,7 +50,7 @@
             "date": "2015-04-16",
             "author_name": "bsodonna",
             "categories": "students,educational-materials,planets",
-            "tags": "well,students,educational,educational_materials,materials,activities,help,please,below",
+            "tags": "well,way,hope,activities,educational,educational_materials,materials,help,offer",
             "recuweb_url": "http://en.recuweb.com/planets/bloomingtonsymphony.com/2015/04/educational-materials-for-the-planets",
             "resource_url": "http://www.google.com/search?q=educational%2Bmaterials&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bloomingtonsymphony.com/?p=2531"
@@ -49,7 +61,7 @@
             "date": "2015-04-13",
             "author_name": "demo demo",
             "categories": "school,furniture,educational-materials",
-            "tags": "materials,well,educational,educational_materials,children",
+            "tags": "materials,project,system,well,children,educational,educational_materials",
             "recuweb_url": "http://en.recuweb.com/educational-materials/monroviainquirer.com/2015/04/winrock-arch-donates-educational-materials-the-inquirer",
             "resource_url": "http://www.google.com/search?q=educational%2Bmaterials&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://monroviainquirer.com/2015/04/13/winrock-arch-donates-educational-materials/"
@@ -60,64 +72,52 @@
             "date": "2015-04-08",
             "author_name": "Lee Learson",
             "categories": "educational-materials,technology,disability",
-            "tags": "national,joy,accessible,accessible_educational,accessible_educational_materials,educational,educational_materials,materials,basics,educators,families,center,part",
+            "tags": "event,joy,joy_zabala,zabala,webinar,accessible,accessible_educational,accessible_educational_materials,educational,educational_materials,materials,national,center,technology",
             "recuweb_url": "http://en.recuweb.com/disability/connsensereport.com/2015/04/accessible-educational-materials-basics-for-educators-and-families",
             "resource_url": "http://www.google.com/search?q=educational%2Bmaterials&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://connsensereport.com/2015/04/08/free-webinar-accessible-educational-materials-basics-for-educators-and-families-led-by-national-at-expert-joy-zabala/"
-        },
-        "blogs.mtu.edu/2015/03/civil-engineering-graduate-seminar-creating-educational-materials": {
-            "title": "Civil Engineering Graduate Seminar: Creating Educational Materials...",
-            "snippet": "CE Graduate Seminar for a special presentation by Shelley Jeltema. Title: Creating Educational Materials for Python and GIS Author: Shelley Jeltema, PhD student in Civil/Environmental Engineering Room 642 Dow, 4:05...",
-            "date": "2015-03-30",
-            "author_name": "ehgroth",
-            "categories": "environmental-engineering,engineering,educational-materials,civil-engineering",
-            "tags": "environmental,student,educational,educational_materials,materials",
-            "recuweb_url": "http://en.recuweb.com/civil-engineering/blogs.mtu.edu/2015/03/civil-engineering-graduate-seminar-creating-educational-materials",
-            "resource_url": "http://www.google.com/search?q=educational%2Bmaterials&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogs.mtu.edu/cee/2015/03/30/civil-engineering-graduate-seminar-creating-educational-materials-for-python-and-gis/"
         },
         "pijip.org/2015/03/pijip-director-michael-carroll-discusses-licensing-of-educational": {
             "title": "PIJIP Director Michael Carroll Discusses Licensing of Educational...",
             "snippet": "PIJIP Director Michael Carroll Discusses Licensing of Educational Materials at NASBE Conference. Posted by... He discussed the licensing issues involved when student and teachers use and remixing digital materials.",
             "date": "2015-03-25",
             "author_name": "admin",
-            "tags": "student,materials,educational",
+            "tags": "digital,conference,materials,educational",
             "recuweb_url": "http://en.recuweb.com/pijip.org/2015/03/pijip-director-michael-carroll-discusses-licensing-of-educational",
             "resource_url": "http://www.google.com/search?q=educational%2Bmaterials&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://pijip.org/2015/03/25/pijip-director-michael-carroll-discusses-licensing-of-educational-materials-at-nasbe-conference/"
         },
-        "vbivaccines.com/2015/02/cdc-evaluates-the-effectiveness-of-new-cmv-education-materials": {
-            "title": "CDC Evaluates the Effectiveness of New CMV Education Materials...",
-            "snippet": "A recent web-based survey assessed whether new educational materials developed by the Centers for Disease Control and Prevention (CDC) have the potential to increase cytomegalovirus (CMV) awareness and...",
-            "date": "2015-02-17",
-            "author_name": "VBI",
-            "categories": "education,prevention",
-            "tags": "awareness,control,recent,education,materials,evaluates,educational",
-            "recuweb_url": "http://en.recuweb.com/prevention/vbivaccines.com/2015/02/cdc-evaluates-the-effectiveness-of-new-cmv-education-materials",
-            "resource_url": "http://www.google.com/search?q=educational%2Bmaterials%2Beducational%2Bmaterials&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://vbivaccines.com/wire/cdc-evaluates-cmv-education-materials/"
-        },
         "phys.org/2015/01/research-suggests-tablet-computers-good-medium-for-educational": {
             "title": "Research suggests tablet computers good medium for educational...",
-            "snippet": "\"Students liked not having to carry heavy backpacks full of books and laptops, and they enjoyed the easy, anytime-anywhere access to class materials,\" said Gopesh Anand, a professor of business administration at Illinois and...",
+            "snippet": "Research suggests tablet computers good medium for educational materials. Jan 22, 2015 by Phil Ciciora... comes to using technology. More information: \"Introducing Mobile Technology in Graduate Professional Education.",
             "date": "2015-01-22",
             "author_name": "unknown",
-            "categories": "business",
-            "tags": "class,educational,materials,business",
-            "recuweb_url": "http://en.recuweb.com/business/phys.org/2015/01/research-suggests-tablet-computers-good-medium-for-educational",
-            "resource_url": "http://www.google.com/search?q=educational%2Bmaterials%2Beducational%2Bmaterials&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "categories": "education,technology",
+            "tags": "education,technology,using,educational,materials,information",
+            "recuweb_url": "http://en.recuweb.com/technology/phys.org/2015/01/research-suggests-tablet-computers-good-medium-for-educational",
+            "resource_url": "http://www.google.com/search?q=educational%2Bmaterials&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://phys.org/news/2015-01-tablet-good-medium-materials.html"
         },
-        "readingrockets.org/2015/01/seven-ways-to-give-students-with-print-disabilities-accessible": {
-            "title": "Seven Ways to Give Students with Print Disabilities Accessible...",
-            "snippet": "With IEP \"season\" just beginning, says the National Center for Accessible Educational Materials (AEM), two webinars are coming in February to help educators and families know the basics and determine a student's eligibility...",
-            "date": "2015-01-16",
-            "author_name": "June Behrmann",
-            "categories": "educational-materials,students",
-            "tags": "basics,students,educators,families,accessible,accessible_educational,accessible_educational_materials,educational,educational_materials,materials,national,center,help",
-            "recuweb_url": "http://en.recuweb.com/students/readingrockets.org/2015/01/seven-ways-to-give-students-with-print-disabilities-accessible",
-            "resource_url": "http://www.google.com/search?q=educational%2Bmaterials%2Beducational%2Bmaterials&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://readingrockets.org/blog/seven-ways-give-students-print-disabilities-accessible-educational-materials-learning"
+        "reddit.com/2014/03/educational-materials-about-racing-technique": {
+            "title": "Educational Materials about Racing Technique?",
+            "snippet": "Hey guys, I am looking for educational materials. The other week somebody posted Skip Barber's \"Going Faster\" (and I can't believe how much I learned. Do you guys know any books, websites, videos concerning racing technique or at least related to...",
+            "date": "2014-03-29",
+            "categories": "educational-materials",
+            "tags": "any,educational,educational_materials,materials",
+            "recuweb_url": "http://en.recuweb.com/educational-materials/reddit.com/2014/03/educational-materials-about-racing-technique",
+            "resource_url": "http://www.reddit.com/search.rss?q=educational%2Bmaterials%2Beducational%2Bmaterials&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/simracing/comments/21oaci/educational_materials_about_racing_technique/"
+        },
+        "ftc.gov/2011/09/ftc-unveils-educational-materials-for-small-businesses-explaining": {
+            "title": "FTC Unveils Educational Materials for Small Businesses Explaining...",
+            "snippet": "FTC Unveils Educational Materials for Small Businesses Explaining New Electronic Payment Rules. Provisions Take Effect Oct. 1, Will Lower Some Merchants Costs. For Release. September 30, 2011. Tags: Consumer Protection.",
+            "date": "2011-09-30",
+            "author_name": "unknown",
+            "categories": "business,educational-materials",
+            "tags": "small,businesses,educational,educational_materials,materials,release",
+            "recuweb_url": "http://en.recuweb.com/educational-materials/ftc.gov/2011/09/ftc-unveils-educational-materials-for-small-businesses-explaining",
+            "resource_url": "http://www.google.com/search?q=educational%2Bmaterials&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ftc.gov/news-events/press-releases/2011/09/ftc-unveils-educational-materials-small-businesses-explaining-new"
         }
     }
 }
