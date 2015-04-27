@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "thermodynamics",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/thermodynamics/",
@@ -38,7 +39,7 @@
             "date": "2015-04-14",
             "author_name": "M. L. Rosinberg, T. Munakata, and G. Tarjus",
             "categories": "thermodynamics",
-            "tags": "subject,phys,rev,thermodynamics,many,systems",
+            "tags": "subject,phys,rev,thermodynamics,systems",
             "recuweb_url": "http://en.recuweb.com/thermodynamics/link.aps.org/2015/04/phys-rev-e-91-042114-2015-stochastic-thermodynamics-of",
             "resource_url": "http://www.google.com/search?q=thermodynamics%2Bthermodynamics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://link.aps.org/doi/10.1103/PhysRevE.91.042114"
@@ -71,7 +72,7 @@
             "date": "2015-03-24",
             "author_name": "Cory Doctorow",
             "categories": "science,collecting,thermodynamics",
-            "tags": "science,book,subject,advanced,quantum,quantum_thermodynamics,thermodynamics,free,pdf",
+            "tags": "science,book,subject,advanced,quantum,thermodynamics,free,pdf",
             "recuweb_url": "http://en.recuweb.com/thermodynamics/boingboing.net/2015/03/free-pdf-advanced-quantum-thermodynamics-is-a-subject-i-know",
             "resource_url": "http://www.google.com/search?q=thermodynamics%2Bthermodynamics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://boingboing.net/2015/03/23/free-pdf-advanced-quantum-the.html"
@@ -82,7 +83,7 @@
             "date": "2015-03-21",
             "author_name": "John Baez",
             "categories": "law,thermodynamics",
-            "tags": "never,second,second_law,law,ago,information,thermodynamics",
+            "tags": "entropy,never,second,second_law,law,ago,information,thermodynamics",
             "recuweb_url": "http://en.recuweb.com/thermodynamics/johncarlosbaez.wordpress.com/2015/03/thermodynamics-with-continuous-information-flow-azimuth",
             "resource_url": "http://www.google.com/search?q=thermodynamics%2Bthermodynamics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://johncarlosbaez.wordpress.com/2015/03/21/19395/"
@@ -93,10 +94,21 @@
             "date": "2015-03-16",
             "author_name": "Bruce",
             "categories": "science,observation,thermodynamics",
-            "tags": "within,different,science,many,thermodynamics,energy,heat,systems,work",
+            "tags": "different,science,thermodynamics,energy,heat,systems,work",
             "recuweb_url": "http://en.recuweb.com/thermodynamics/lifescivc.com/2015/03/biotech-ceos-observations-in-thermodynamics-and-kinetics",
             "resource_url": "http://www.google.com/search?q=thermodynamics%2Bthermodynamics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://lifescivc.com/2015/03/biotech-ceos-observations-in-thermodynamics-and-kinetics/"
+        },
+        "link.aps.org/2015/03/phys-rev-e-91-032118-2015-thermodynamics-of-creating": {
+            "title": "Phys. Rev. E 91, 032118 (2015) - Thermodynamics of creating...",
+            "snippet": "However, their establishment comes at the cost of energy, the resource of thermodynamics, and is limited by the initial entropy. Here, the optimal conversion of energy into correlations is investigated. Assuming the presence of...",
+            "date": "2015-03-11",
+            "author_name": "David Edward Bruschi, Mart\u00ed Perarnau-Llobet, Nicolai Friis, Karen V. Hovhannisyan, and Marcus Huber",
+            "categories": "thermodynamics",
+            "tags": "into,entropy,phys,rev,thermodynamics,energy,here",
+            "recuweb_url": "http://en.recuweb.com/thermodynamics/link.aps.org/2015/03/phys-rev-e-91-032118-2015-thermodynamics-of-creating",
+            "resource_url": "http://www.google.com/search?q=thermodynamics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://link.aps.org/doi/10.1103/PhysRevE.91.032118"
         },
         "link.aps.org/2015/03/phys-rev-e-91-032119-2015-quantum-thermodynamics-of": {
             "title": "Phys. Rev. E 91, 032119 (2015) - Quantum thermodynamics of...",
@@ -104,21 +116,10 @@
             "date": "2015-03-11",
             "author_name": "Felix Binder, Sai Vinjanampathy, Kavan Modi, and John Goold",
             "categories": "thermodynamics",
-            "tags": "open,open-quantum,quantum,phys,rev,thermodynamics,work,heat",
+            "tags": "quantum,phys,rev,thermodynamics,work,heat",
             "recuweb_url": "http://en.recuweb.com/thermodynamics/link.aps.org/2015/03/phys-rev-e-91-032119-2015-quantum-thermodynamics-of",
             "resource_url": "http://www.google.com/search?q=thermodynamics%2Bthermodynamics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://link.aps.org/doi/10.1103/PhysRevE.91.032119"
-        },
-        "link.aps.org/2015/02/quantum-thermodynamics-a-nonequilibrium-green-s-function": {
-            "title": "Quantum Thermodynamics: A Nonequilibrium Green's Function...",
-            "snippet": "We establish the foundations of a nonequilibrium theory of quantum thermodynamics for noninteracting open quantum systems strongly coupled to their reservoirs within the framework of the nonequilibrium Green's functions.",
-            "date": "2015-02-25",
-            "author_name": "Massimiliano Esposito, Maicol A. Ochoa, and Michael Galperin",
-            "categories": "thermodynamics",
-            "tags": "within,open,open-quantum,quantum,quantum_thermodynamics,thermodynamics,systems",
-            "recuweb_url": "http://en.recuweb.com/thermodynamics/link.aps.org/2015/02/quantum-thermodynamics-a-nonequilibrium-green-s-function",
-            "resource_url": "http://www.google.com/search?q=thermodynamics%2Bthermodynamics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://link.aps.org/doi/10.1103/PhysRevLett.114.080602"
         }
     }
 }
