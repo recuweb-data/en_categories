@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "hacking",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/hacking/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/hacking/hacking/blogs.json"
     },
     "items": {
-        "theregister.co.uk/2015/04/aaron-s-law-back-on-the-table-to-bring-sanity": {
-            "title": "'Aaron's Law'back on the table to bring sanity to US hacking laws - The Register...",
-            "snippet": "The Register'Aaron's Law'back on the table to bring sanity to US hacking lawsThe RegisterThe senator also said: \"Violating a smartphone app's terms of service or sharing academic articles should not be punished more harshly than a government agency...",
-            "date": "2015-04-23",
+        "infosecurity-magazine.com/2015/04/expert-raises-hacking-concerns-over-network-rail-upgrade-infosecurity-magazine": {
+            "title": "Expert Raises Hacking Concerns Over Network Rail Upgrade - Infosecurity Magazine...",
+            "snippet": "Infosecurity MagazineExpert Raises Hacking Concerns Over Network Rail UpgradeInfosecurity MagazineProfessor David Stupples, who specializes in network and radio systems at City University London, told the BBC that hackers could cause a nasty...",
+            "date": "2015-04-27",
+            "categories": "university,radio,hacking",
+            "tags": "hacking,concerns,hackers",
+            "recuweb_url": "http://en.recuweb.com/hacking/infosecurity-magazine.com/2015/04/expert-raises-hacking-concerns-over-network-rail-upgrade-infosecurity-magazine",
+            "resource_url": "http://news.google.com/?hl=en&q=hacking%2Bhacking&output=atom&nord=1",
+            "source_url": "http://infosecurity-magazine.com/news/expert-hacking-concerns-network/"
+        },
+        "csmonitor.com/2015/04/lawmakers-revive-support-for-aaron-s-law-to-reform-anti-hacking": {
+            "title": "Lawmakers revive support for Aaron's Law to reform anti-hacking statute...",
+            "snippet": "For Taren Stinebrickner-Kauffman, the Computer Fraud and Abuse Act is deeply personal. In 2011, her partner, the Internet activist Aaron Swartz, snuck into a wiring closet at the Massachusetts Institute of Technology and downloaded millions of...",
+            "date": "2015-04-27",
+            "categories": "institute,law,hacking,internet,technology",
+            "tags": "into,computer,law,hacking",
+            "recuweb_url": "http://en.recuweb.com/technology/csmonitor.com/2015/04/lawmakers-revive-support-for-aaron-s-law-to-reform-anti-hacking",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hacking&format=RSS&cc=us",
+            "source_url": "http://csmonitor.com/World/Passcode/2015/0427/Lawmakers-revive-support-for-Aaron-s-Law-to-reform-anti-hacking-statute"
+        },
+        "timesofindia.indiatimes.com/2015/04/middle-east-businesses-vulnerable-to-hacking-report": {
+            "title": "Middle East businesses vulnerable to hacking: Report...",
+            "snippet": "DUBAI: Globally, businesses and government entities are investing heavily on IT security but Middle East businesses are spending less than 1% of their overall IT budgets on it, according to a report. Last year, hackers stole roughly 81.5 million...",
+            "date": "2015-04-27",
+            "categories": "business,hacking",
+            "tags": "report,government,entities,hacking,hackers,million",
+            "recuweb_url": "http://en.recuweb.com/hacking/timesofindia.indiatimes.com/2015/04/middle-east-businesses-vulnerable-to-hacking-report",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hacking&format=RSS&cc=us",
+            "source_url": "http://timesofindia.indiatimes.com/tech/tech-news/Middle-East-businesses-vulnerable-to-hacking-Report/articleshow/47070801.cms"
+        },
+        "mycentraloregon.com/2015/04/obama-emails-caught-up-in-russian-hack": {
+            "title": "Obama Emails Caught Up in Russian Hack...",
+            "snippet": "Defense Secretary Ash Carter has also described a new attack against the Pentagon earlier this year one remarkably similar in nature to the hacking of the State Department and the White House. Earlier this year, the sensors that guard DoDs...",
+            "date": "2015-04-27",
+            "categories": "nature,hacking",
+            "tags": "white,white_house,house,department,attack,against,russian,obama,hacking",
+            "recuweb_url": "http://en.recuweb.com/hacking/mycentraloregon.com/2015/04/obama-emails-caught-up-in-russian-hack",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hacking&format=RSS&cc=us",
+            "source_url": "http://mycentraloregon.com/2015/04/27/obama-emails-caught-up-in-russian-hack/"
+        },
+        "tech.firstpost.com/2015/04/trai-website-hacked-after-it-releases-over-1-million-email-ids": {
+            "title": "Trai website hacked after it releases over 1 million email IDs; Anonymous India claims...",
+            "snippet": "Hacking group Anonymous has taken responsibility for the distributed denial of service (DDoS) attack and bringing the site down. We were unable to access the official Trai website nor access any of the responses which were put up on the site. In a...",
+            "date": "2015-04-27",
+            "categories": "hacking",
+            "tags": "website,any,official,attack,million,email,hacked,claims,hacking,group",
+            "recuweb_url": "http://en.recuweb.com/hacking/tech.firstpost.com/2015/04/trai-website-hacked-after-it-releases-over-1-million-email-ids",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hacking&format=RSS&cc=us",
+            "source_url": "http://tech.firstpost.com/news-analysis/trai-website-hacked-after-it-releases-over-1-million-email-ids-anonymous-india-claims-responsibility-265120.html/"
+        },
+        "hngn.com/2015/04/white-house-cyber-attacks-president-obama-s-email-breach-blamed-on": {
+            "title": "White House Cyber Attacks: President Obama's Email Breach Blamed on Russian Hackers...",
+            "snippet": "The White House has kept silent on who could be behind the recent hacking of that breached President Obama's email correspondence. Senior American officials briefed regarding the situation have raised concerns about the depth of the hacking incident...",
+            "date": "2015-04-27",
+            "categories": "hacking",
+            "tags": "concerns,senior,email,white,white_house,house,russian,hackers,obama,hacking",
+            "recuweb_url": "http://en.recuweb.com/hacking/hngn.com/2015/04/white-house-cyber-attacks-president-obama-s-email-breach-blamed-on",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hacking&format=RSS&cc=us",
+            "source_url": "http://hngn.com/articles/87502/20150427/obama-cyber-security-cyber-attack-white-house-president-obama-defense-secretary-ash-carter-russian-hackers.htm"
+        },
+        "morningledger.com/2015/04/who-hacked-the-website-of-thirty-meter-telescope": {
+            "title": "Who Hacked The Website of the Thirty Meter Telescope?",
+            "snippet": "The attack was confirmed by Caroline Witherspoon, a spokeswoman of Thirty Meter Telescope. The spokeswoman did not say who was responsible for hacking the website. However, Operation Green Rights, which claims to be affiliated to the hacker group...",
+            "date": "2015-04-27",
+            "categories": "rights,hacking",
+            "tags": "claims,hacker,group,website,attack,hacked,hacking",
+            "recuweb_url": "http://en.recuweb.com/hacking/morningledger.com/2015/04/who-hacked-the-website-of-thirty-meter-telescope",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hacking&format=RSS&cc=us",
+            "source_url": "http://morningledger.com/who-hacked-the-website-of-thirty-meter-telescope/139605/"
+        },
+        "kpax.com/2015/04/uk-phone-hacking-scandal-fast-facts-kpax-tv": {
+            "title": "UK Phone Hacking Scandal Fast Facts - KPAX-TV...",
+            "snippet": "UK Phone Hacking Scandal Fast FactsKPAX-TV(CNN) -- Here's a look at the phone hacking scandal in the United Kingdom. Journalists at British newspapers are accused of making payments to police and hacking into the phones of celebrities, law makers,...",
+            "date": "2015-04-26",
             "categories": "law,hacking",
-            "tags": "punished,than,app,said,hacking",
-            "recuweb_url": "http://en.recuweb.com/hacking/theregister.co.uk/2015/04/aaron-s-law-back-on-the-table-to-bring-sanity",
+            "tags": "law,into,hacking",
+            "recuweb_url": "http://en.recuweb.com/hacking/kpax.com/2015/04/uk-phone-hacking-scandal-fast-facts-kpax-tv",
             "resource_url": "http://news.google.com/?hl=en&q=hacking%2Bhacking&output=atom&nord=1",
-            "source_url": "http://theregister.co.uk/2015/04/23/congress_reintroduces_aarons_law/"
+            "source_url": "http://kpax.com/story/28900890/uk-phone-hacking-scandal-fast-facts"
         },
-        "thenextweb.com/2015/04/9-qualities-of-world-class-growth-hacking-teams": {
-            "title": "9 qualities of world class growth hacking teams...",
-            "snippet": "Facebooks latest attempt to own your phone': Its own Android dialler app Samir Patel is the President & CEO of GrowthMachines, and Mentor at 500Startups. An organizations ability to learn, and translate that learning into...",
-            "date": "2015-04-23",
-            "categories": "learning,hacking,facebook",
-            "tags": "app,latest,world,hacking",
-            "recuweb_url": "http://en.recuweb.com/facebook/thenextweb.com/2015/04/9-qualities-of-world-class-growth-hacking-teams",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hacking&format=RSS&cc=us",
-            "source_url": "http://thenextweb.com/entrepreneur/2015/04/22/9-qualities-of-world-class-growth-hacking-teams/"
-        },
-        "wired.com/2015/04/an-app-for-hacking-fertility-now-also-works-men": {
-            "title": "An App for Hacking Fertility Now Also Works for Men...",
-            "snippet": "In our culture, reproduction is often seen as womens work. From pregnancy to childbirth through nursing a newborn child, women are often expected to take the central role in creating new life by default. Similarly, when problems of infertility...",
-            "date": "2015-04-23",
-            "categories": "life,reproduction,culture,hacking",
-            "tags": "life,hacking,app",
-            "recuweb_url": "http://en.recuweb.com/hacking/wired.com/2015/04/an-app-for-hacking-fertility-now-also-works-men",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hacking&format=RSS&cc=us",
-            "source_url": "http://wired.com/2015/04/glow/"
-        },
-        "betanews.com/2015/04/anonymous-lulzsec-guardians-of-peace-a-guide-to-the-most-notorious": {
-            "title": "Anonymous, LulzSec, Guardians of Peace... A guide to the most notorious hacking groups...",
-            "snippet": "In 2015, the number of cyber-attacks and data breaches being reported by companies and governments across the world does not appear to be decreasing. Many high profile attacks have taken place in the past year alone. As a result of government...",
-            "date": "2015-04-23",
+        "abcnews.go.com/2015/04/official-us-readying-hacking-related-sanctions": {
+            "title": "Official: US Readying Hacking-Related Sanctions...",
+            "snippet": "The U.S. government is preparing to order the first round of sanctions against foreign entities or individuals involved in hacking, according to a senior Department of Justice official, in what will be the first test of the government's newest tool...",
+            "date": "2015-04-25",
             "categories": "hacking",
-            "tags": "past,year,across,world,hacking",
-            "recuweb_url": "http://en.recuweb.com/hacking/betanews.com/2015/04/anonymous-lulzsec-guardians-of-peace-a-guide-to-the-most-notorious",
+            "tags": "government,senior,against,entities,hacking,official,department,tool",
+            "recuweb_url": "http://en.recuweb.com/hacking/abcnews.go.com/2015/04/official-us-readying-hacking-related-sanctions",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hacking&format=RSS&cc=us",
-            "source_url": "http://betanews.com/2015/04/22/anonymous-lulzsec-guardians-of-peace-a-guide-to-the-most-notorious-hacking-groups/"
+            "source_url": "http://abcnews.go.com/International/official-us-readying-hacking-related-sanctions/story?id=30568890"
         },
-        "usatoday.com/2015/04/cinemacon-sony-moves-past-hacking": {
-            "title": "CinemaCon: Sony moves past hacking...",
-            "snippet": "Sony Pictures Entertainment Chairman Tom Rothman speaks onstage at Sony Pictures Entertainment Invites You to an Exclusive Product Presentation Highlighting its 2015 Films at The Colosseum at Caesars Palace during CinemaCon. (Photo: Michael Buckner,...",
-            "date": "2015-04-23",
-            "categories": "entertainment,hacking,films",
-            "tags": "presentation,pictures,tom,rothman,past,cinemacon,sony,hacking,during",
-            "recuweb_url": "http://en.recuweb.com/films/usatoday.com/2015/04/cinemacon-sony-moves-past-hacking",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hacking&format=RSS&cc=us",
-            "source_url": "http://usatoday.com/story/life/movies/2015/04/23/sony-studios-north-korea-hacking-aftermath-cinemacon/26223939/"
-        },
-        "latimes.com/2015/04/cinemacon-tom-rothman-says-sony-pictures-post-hacking-is-unbroken-unbowed": {
-            "title": "CinemaCon: Tom Rothman says Sony Pictures post hacking is 'unbroken, unbowed'...",
-            "snippet": "Yes, Sony Pictures had a really bad year in 2014. But the studio is moving past the horrible hacking scandal and wants movie theater owners to as well. That was the message that came across loud and clear during the company's presentation to...",
-            "date": "2015-04-23",
+        "theverge.com/2015/04/automakers-are-trying-to-stop-you-from-hacking-your-car": {
+            "title": "Automakers are trying to stop you from hacking your car - The Verge...",
+            "snippet": "Automakers are trying to stop you from hacking your carThe VergeLast September, a New York-based company named Autel got an unpleasant surprise. It had made a diagnostic tool for figuring out what was wrong with a car and what parts were needed to...",
+            "date": "2015-04-24",
             "categories": "hacking",
-            "tags": "presentation,across,during,movie,past,year,sony,pictures,tom,rothman,cinemacon,hacking,yes",
-            "recuweb_url": "http://en.recuweb.com/hacking/latimes.com/2015/04/cinemacon-tom-rothman-says-sony-pictures-post-hacking-is-unbroken-unbowed",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hacking&format=RSS&cc=us",
-            "source_url": "http://latimes.com/entertainment/movies/moviesnow/la-et-mn-cinemacon-sony-tom-rothman-20150422-story.html"
-        },
-        "thehackernews.com/2015/04/earn-up-to-15-000-for-hacking-microsoft-spartan-browser": {
-            "title": "Earn up to 15,000 for Hacking Microsoft Spartan Browser...",
-            "snippet": "If youre a bug hunter and love playing with codes than you could grab as much as US15,000 from Microsoft for finding out vulnerabilities in its latest Project Spartan browser. Yes, 15,000! It seems like Redmond dont want to take a chance to let...",
-            "date": "2015-04-23",
-            "categories": "love,hacking",
-            "tags": "latest,than,hacking,yes",
-            "recuweb_url": "http://en.recuweb.com/hacking/thehackernews.com/2015/04/earn-up-to-15-000-for-hacking-microsoft-spartan-browser",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hacking&format=RSS&cc=us",
-            "source_url": "http://thehackernews.com/2015/04/microsoft-project-spartan-browser-security.html"
-        },
-        "thedp.com/2015/04/for-some-students-hacking-is-more-than-a-hobby-the-daily": {
-            "title": "For some students, hacking is more than a hobby - The Daily Pennsylvanian...",
-            "snippet": "The Daily PennsylvanianFor some students, hacking is more than a hobbyThe Daily PennsylvanianFor some Penn students, hacking is more than a hobby it's a culture in itself. Hackathons are becoming more and more popular across the globe, with over...",
-            "date": "2015-04-23",
-            "categories": "students,hacking",
-            "tags": "across,than,hacking",
-            "recuweb_url": "http://en.recuweb.com/hacking/thedp.com/2015/04/for-some-students-hacking-is-more-than-a-hobby-the-daily",
+            "tags": "hacking,tool",
+            "recuweb_url": "http://en.recuweb.com/hacking/theverge.com/2015/04/automakers-are-trying-to-stop-you-from-hacking-your-car",
             "resource_url": "http://news.google.com/?hl=en&q=hacking%2Bhacking&output=atom&nord=1",
-            "source_url": "http://thedp.com/article/2015/04/hackathon-culture-at-penn-and-beyond"
-        },
-        "makeuseof.com/2015/04/hollywood-hacks-the-best-and-worst-hacking-in-movies": {
-            "title": "Hollywood Hacks: The Best and Worst Hacking in Movies...",
-            "snippet": "Hollywood and hacking do not get along. Real-life hacking is hard, tedious, slow work. Its 10 seconds of payoff after weeks of testing and experimenting. Meanwhile, movie hacking is pretty much just burbling gibberish while pounding away on a...",
-            "date": "2015-04-23",
-            "categories": "hacking,life",
-            "tags": "hacking,hacks,life,after,movie",
-            "recuweb_url": "http://en.recuweb.com/life/makeuseof.com/2015/04/hollywood-hacks-the-best-and-worst-hacking-in-movies",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hacking&format=RSS&cc=us",
-            "source_url": "http://makeuseof.com/tag/hollywood-hacks-best-worst-hacking-movies/"
-        },
-        "dailytimes.com.ng/2015/04/im-busy-making-money-you-are-there-hacking-me-oritsefemi": {
-            "title": "IM Busy Making Money, You Are There Hacking Me Oritsefemi...",
-            "snippet": "It was Double Wahala for raving artiste Oritsefemi Majemite Ekele on Monday after internet fraudsters hacked his instagram account, revealing some private messages that Oritsefemi has said were false. Speaking to the press, Oritsefemi said it was...",
-            "date": "2015-04-23",
-            "categories": "internet,hacking",
-            "tags": "said,hacking,money,after",
-            "recuweb_url": "http://en.recuweb.com/hacking/dailytimes.com.ng/2015/04/im-busy-making-money-you-are-there-hacking-me-oritsefemi",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hacking&format=RSS&cc=us",
-            "source_url": "http://dailytimes.com.ng/im-busy-making-money-you-are-there-hacking-me-oritsefemi/"
+            "source_url": "http://theverge.com/2015/4/24/8490359/general-motors-eff-copyright-fight-dmca"
         }
     }
 }
