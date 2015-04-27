@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "psychology",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/psychology/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/psychology/psychology/blogs.json"
     },
     "items": {
+        "brainblogger.com/2015/04/how-does-the-brain-respond-to-gossip": {
+            "title": "How Does the Brain Respond to Gossip?",
+            "snippet": "Baumeister, R., Zhang, L., & Vohs, K. (2004). Gossip as cultural learning. Review of General Psychology, 8 (2), 111-121 DOI: BOSSON, J., JOHNSON, A., NIEDERHOFFER, K., & SWANN, W. (2006). Interpersonal chemistry through negativity...",
+            "date": "2015-04-25",
+            "categories": "chemistry,psychology,learning",
+            "tags": "psychology,brain",
+            "recuweb_url": "http://en.recuweb.com/learning/brainblogger.com/2015/04/how-does-the-brain-respond-to-gossip",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=psychology&format=RSS&cc=us",
+            "source_url": "http://brainblogger.com/2015/04/25/how-does-the-brain-respond-to-gossip/"
+        },
+        "inquisitr.com/2015/04/scientists-warn-overprotective-parents-that-anxiety-is-catching": {
+            "title": "Scientists Warn Overprotective Parents That Anxiety Is Catching...",
+            "snippet": "A new study carried out at by scientists at the Institute of Psychiatry, Psychology & Neuroscience (IoPPN) at Kings College London has concluded that such parenting can be bad for kids, as anxiety is catching and can be passed down. As the study...",
+            "date": "2015-04-25",
+            "categories": "parenting,college,institute,psychiatry,psychology",
+            "tags": "study,anxiety,psychology",
+            "recuweb_url": "http://en.recuweb.com/psychology/inquisitr.com/2015/04/scientists-warn-overprotective-parents-that-anxiety-is-catching",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=psychology&format=RSS&cc=us",
+            "source_url": "http://inquisitr.com/2042662/scientists-warn-overprotective-parents-that-anxiety-is-catching/"
+        },
+        "psychcentral.com/2015/04/sexual-identity-and-anxiety": {
+            "title": "Sexual Identity and Anxiety...",
+            "snippet": "Daniel J. Tomasulo, Ph.D., TEP, MFA, MAPP is a graduate of the Masters of Applied Positive Psychology (MAPP) program at the University of Pennsylvania and works as Martin Seligman's assistant instructor there. He is a licensed psychologist...",
+            "date": "2015-04-25",
+            "categories": "positive-psychology,psychology,university",
+            "tags": "applied,positive,psychology,sexual,anxiety,university",
+            "recuweb_url": "http://en.recuweb.com/university/psychcentral.com/2015/04/sexual-identity-and-anxiety",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=psychology&format=RSS&cc=us",
+            "source_url": "http://psychcentral.com/ask-the-therapist/2015/04/25/sexual-identity-and-anxiety/"
+        },
+        "zeenews.india.com/2015/04/want-to-remove-that-song-stuck-your-head-chew-gum": {
+            "title": "Want to remove that song stuck to your head? Chew gum!",
+            "snippet": "but more research is needed to see whether this will help counter symptoms of obsessive-compulsive and similar disorders. The study is published in Quarterly Journal of Experimental Psychology. (With ANI inputs)...",
+            "date": "2015-04-25",
+            "categories": "psychology",
+            "tags": "psychology,study,research",
+            "recuweb_url": "http://en.recuweb.com/psychology/zeenews.india.com/2015/04/want-to-remove-that-song-stuck-your-head-chew-gum",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=psychology&format=RSS&cc=us",
+            "source_url": "http://zeenews.india.com/news/sci-tech/want-to-remove-that-song-stuck-to-your-head-chew-gum_1584922.html"
+        },
+        "medicalxpress.com/2015/04/practical-applications-of-nudge-psychology": {
+            "title": "Practical applications of 'nudge'psychology...",
+            "snippet": "Following the publication of Richard Thaler and Cass Sunstein's persuasive book Nudge, nudges have become a popular tool in many fields from tax collection to public health and not least among advertisers, but a thorough review of existing...",
+            "date": "2015-04-24",
+            "categories": "public-health,health,psychology",
+            "tags": "fields,ing,psychology",
+            "recuweb_url": "http://en.recuweb.com/psychology/medicalxpress.com/2015/04/practical-applications-of-nudge-psychology",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=psychology&format=RSS&cc=us",
+            "source_url": "http://medicalxpress.com/news/2015-04-applications-nudge-psychology.html"
+        },
+        "sciencedaily.com/2015/04/psychology-of-the-appeal-being-anti-gmo": {
+            "title": "Psychology of the appeal of being anti-GMO...",
+            "snippet": "A team of Belgian philosophers and plant biotechnologists have turned to cognitive science to explain why opposition to genetically modified organisms (GMOs) has become so widespread, despite positive contributions GM crops have made to...",
+            "date": "2015-04-24",
+            "categories": "science,organisms,psychology",
+            "tags": "despite,positive,why,psychology",
+            "recuweb_url": "http://en.recuweb.com/psychology/sciencedaily.com/2015/04/psychology-of-the-appeal-being-anti-gmo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=psychology&format=RSS&cc=us",
+            "source_url": "http://sciencedaily.com/releases/2015/04/150424105348.htm"
+        },
+        "businessinsider.com/2015/04/the-secret-psychology-of-facebook-how-it-keeps-you-hooked": {
+            "title": "The secret psychology of Facebook: How it keeps you hooked and sharing...",
+            "snippet": "Whenever I hop onto Facebook to do something specificfind a link I saved for later or see whats happening on Buffers Facebook page, perhapssomething strange happens. Despite my best intentions to stay on track and accomplish my goal, I get...",
+            "date": "2015-04-24",
+            "categories": "psychology,facebook",
+            "tags": "psychology,despite",
+            "recuweb_url": "http://en.recuweb.com/facebook/businessinsider.com/2015/04/the-secret-psychology-of-facebook-how-it-keeps-you-hooked",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=psychology&format=RSS&cc=us",
+            "source_url": "http://businessinsider.com/the-secret-psychology-of-facebook-how-they-keep-you-hooked-and-sharing-2015-4"
+        },
         "chron.com/2015/04/evans-uh-prof-who-brought-social-psychology-to-the-masses-dies": {
             "title": "Evans, UH prof who brought social psychology to the masses, dies at 92 -...",
             "snippet": ", UH prof who brought social psychology to the masses, dies at Evans stayed busy in his six decades at the University of Houston, helping develop new fields of psychology, chronicling the field's most famous figures and elevating the university's...",
             "date": "2015-04-23",
             "categories": "university,psychology",
-            "tags": "university,psychology",
+            "tags": "university,fields,psychology",
             "recuweb_url": "http://en.recuweb.com/psychology/chron.com/2015/04/evans-uh-prof-who-brought-social-psychology-to-the-masses-dies",
-            "resource_url": "http://news.google.com/?hl=en&q=psychology&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=psychology%2Bpsychology&output=atom&nord=1",
             "source_url": "http://chron.com/news/houston-deaths/article/Evans-UH-prof-who-brought-social-psychology-to-6217500.php"
         },
-        "net-security.org/2015/04/how-attackers-exploit-end-users-psychology": {
-            "title": "How attackers exploit end-users'psychology...",
-            "snippet": "At RSA Conference 2015, Proofpoint released the results of its annual study that details the ways attackers exploit end-users'psychology to circumvent IT security. Last year was the year attackers went corporate by changing their tactics to focus...",
+        "mtv.com/2015/04/the-weirdly-sexual-psychology-behind-product-unboxing-videos-on-youtube": {
+            "title": "The Weirdly Sexual Psychology Behind Product Unboxing Videos On YouTube -...",
+            "snippet": "Weirdly Sexual Psychology Behind Product Unboxing Videos On YouTube camera holds on a single shot of a man's hands. He strokes gently, and explains in a calm voice every sensation he's feeling weight, texture, size. Smooth jazz music plays in the...",
             "date": "2015-04-23",
-            "categories": "psychology",
-            "tags": "focus,psychology",
-            "recuweb_url": "http://en.recuweb.com/psychology/net-security.org/2015/04/how-attackers-exploit-end-users-psychology",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=psychology&format=RSS&cc=us",
-            "source_url": "http://net-security.org/secworld.php?id=18271"
+            "categories": "music,play,psychology",
+            "tags": "weight,sexual,psychology,behind",
+            "recuweb_url": "http://en.recuweb.com/psychology/mtv.com/2015/04/the-weirdly-sexual-psychology-behind-product-unboxing-videos-on-youtube",
+            "resource_url": "http://news.google.com/?hl=en&q=psychology%2Bpsychology&output=atom&nord=1",
+            "source_url": "http://mtv.com/news/2135510/product-unboxing-videos-psychology/"
         },
-        "philly.com/2015/04/10-sports-psychology-tips-for-the-broad-street-run": {
-            "title": "10 sports psychology tips for the Broad Street Run...",
-            "snippet": "The Broad Street Run is a 10 mile race down one of our main Philly thoroughfares. Here are 10 sports psychology tips - one for each mile - to make the race easier and more enjoyable for you. 1. Be aware of your thoughts, both leading up to the race...",
-            "date": "2015-04-22",
-            "categories": "sport,psychology",
-            "tags": "psychology",
-            "recuweb_url": "http://en.recuweb.com/psychology/philly.com/2015/04/10-sports-psychology-tips-for-the-broad-street-run",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=psychology&format=RSS&cc=us",
-            "source_url": "http://philly.com/philly/blogs/on-the-run/10-sports-psychology-tips-for-the-Broad-Street-Run.html"
-        },
-        "psychcentral.com/2015/04/mindfulness-therapy-on-par-with-drugs-in-preventing-depression-relapse": {
-            "title": "Mindfulness Therapy On Par With Drugs in Preventing Depression Relapse...",
-            "snippet": "Depression is a recurrent disorder. Without ongoing treatment, as many as four out of five people with depression relapse at some point, said Dr. Willem Kuyken, lead author and professor of clinical psychology at the University of Oxford. MBCT...",
-            "date": "2015-04-22",
-            "categories": "therapy,drugs,psychology,university",
-            "tags": "professor,clinical,many,people,mindfulness,therapy,psychology,university,oxford",
-            "recuweb_url": "http://en.recuweb.com/university/psychcentral.com/2015/04/mindfulness-therapy-on-par-with-drugs-in-preventing-depression-relapse",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=psychology&format=RSS&cc=us",
-            "source_url": "http://psychcentral.com/news/2015/04/22/mindfulness-therapy-on-par-with-drugs-in-preventing-depression-relapse/83773.html"
-        },
-        "washingtonpost.com/2015/04/the-problem-with-earth-day-human-psychology-washington": {
-            "title": "The problem with Earth Day? Human psychology - Washington Post...",
-            "snippet": "The problem with Earth Day? Human psychologyWashington PostThis Earth Day, as always, you are going to hear a great deal about the importance of protecting the planet and about how you can do your part. You might, for instance, adopt one of a number...",
-            "date": "2015-04-22",
-            "categories": "earth,psychology",
-            "tags": "deal,psychology",
-            "recuweb_url": "http://en.recuweb.com/psychology/washingtonpost.com/2015/04/the-problem-with-earth-day-human-psychology-washington",
-            "resource_url": "http://news.google.com/?hl=en&q=psychology&output=atom&nord=1",
-            "source_url": "http://washingtonpost.com/news/energy-environment/wp/2015/04/22/why-people-have-such-a-hard-time-sticking-with-earth-day-resolutions/"
-        },
-        "mercatornet.com/2015/04/the-psychology-of-wartime-trauma": {
-            "title": "The psychology of wartime trauma...",
-            "snippet": "Myers'article is generally regarded as the first use of the term shell shock in medical literature. It was used as a descriptor for three cases of loss of memory, vision, smell and taste in British soldiers admitted to a military hospital in...",
-            "date": "2015-04-22",
-            "categories": "memory,literature,psychology",
-            "tags": "war,psychology",
-            "recuweb_url": "http://en.recuweb.com/psychology/mercatornet.com/2015/04/the-psychology-of-wartime-trauma",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=psychology&format=RSS&cc=us",
-            "source_url": "http://mercatornet.com/articles/view/the-psychology-of-wartime-trauma/16028"
-        },
-        "vox.com/2015/04/the-psychology-of-why-so-many-people-bite-their-nails-vox": {
-            "title": "The psychology of why so many people bite their nails - Vox...",
-            "snippet": "The psychology of why so many people bite their nailsVox\"Everybody picks and bites to a degree,\" says Fred Penzel, a psychologist who helps patients deal with nail biting, hair plucking, and other body-focused repetitive disorders. \"When it gets to...",
-            "date": "2015-04-22",
-            "categories": "psychology",
-            "tags": "psychologist,helps,deal,why,many,people,psychology",
-            "recuweb_url": "http://en.recuweb.com/psychology/vox.com/2015/04/the-psychology-of-why-so-many-people-bite-their-nails-vox",
-            "resource_url": "http://news.google.com/?hl=en&q=psychology&output=atom&nord=1",
-            "source_url": "http://vox.com/2015/4/22/8464365/nail-biting"
-        },
-        "io9.com/2015/04/this-food-psychology-experiment-was-nearly-foiled-by-chronic-politeness": {
-            "title": "This Food Psychology Experiment Was Nearly Foiled By Chronic Politeness...",
-            "snippet": "Psychology experiments have to straddle the line between letting people act naturally, and forcing them to act out an extremely specific situation. Sometimes that doesnt work out. Heres an experiment that drove psychologists crazy. Why? Because...",
-            "date": "2015-04-22",
-            "categories": "food,psychology",
-            "tags": "work,people,psychology,why",
-            "recuweb_url": "http://en.recuweb.com/psychology/io9.com/2015/04/this-food-psychology-experiment-was-nearly-foiled-by-chronic-politeness",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=psychology&format=RSS&cc=us",
-            "source_url": "http://io9.com/this-food-psychology-experiment-was-nearly-foiled-by-ch-1699147977"
-        },
-        "huffingtonpost.com/2015/04/a-positive-psychology-approach-to-success-huffington": {
-            "title": "A Positive Psychology Approach to Success - Huffington Post...",
-            "snippet": "Huffington PostA Positive Psychology Approach to SuccessHuffington PostWhat I'm talking about is using mindfulness and positive psychology strategies to focus on your well-being. When you enhance your well-being, you increase your ability to not...",
-            "date": "2015-04-21",
-            "categories": "positive-psychology,psychology",
-            "tags": "well,focus,mindfulness,psychology",
-            "recuweb_url": "http://en.recuweb.com/psychology/huffingtonpost.com/2015/04/a-positive-psychology-approach-to-success-huffington",
-            "resource_url": "http://news.google.com/?hl=en&q=psychology&output=atom&nord=1",
-            "source_url": "http://huffingtonpost.com/justin-harmon/a-positive-psychology-app_b_7100082.html"
-        },
-        "lifehacker.com/2015/04/ask-an-expert-all-about-therapy-and-psychology": {
-            "title": "Ask an Expert: All About Therapy and Psychology...",
-            "snippet": "Say hello to Dr. Ken Carter, a professor of psychology at Oxford College, Emory University. Hes a clinical psychologist who knows all about what goes into therapy as well as the common, outdated misconceptions about psychology (where are all the...",
-            "date": "2015-04-21",
-            "categories": "therapy,university,college,psychology",
-            "tags": "into,therapy,well,clinical,psychologist,university,oxford,professor,expert,psychology",
-            "recuweb_url": "http://en.recuweb.com/psychology/lifehacker.com/2015/04/ask-an-expert-all-about-therapy-and-psychology",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=psychology&format=RSS&cc=us",
-            "source_url": "http://lifehacker.com/ask-an-expert-all-about-therapy-and-psychology-1698943749"
+        "washingtonpost.com/2015/04/the-dangerous-psychology-of-celebrity-fat-shaming-and-how-stars": {
+            "title": "The dangerous psychology of celebrity fat-shaming and how stars can fight back - Washington Post...",
+            "snippet": "Washington Post (blog)The dangerous psychology of celebrity fat-shaming and how stars can fight backWashington Post (blog)How common is it for celebrities to get slammed for their weight? So much that it wasn't surprising when Fox News host Chris...",
+            "date": "2015-04-23",
+            "categories": "stars,psychology",
+            "tags": "weight,psychology",
+            "recuweb_url": "http://en.recuweb.com/psychology/washingtonpost.com/2015/04/the-dangerous-psychology-of-celebrity-fat-shaming-and-how-stars",
+            "resource_url": "http://news.google.com/?hl=en&q=psychology%2Bpsychology&output=atom&nord=1",
+            "source_url": "http://washingtonpost.com/blogs/style-blog/wp/2015/04/23/the-dangerous-psychology-of-celebrity-fat-shaming-and-how-stars-can-fight-back/"
         }
     }
 }
