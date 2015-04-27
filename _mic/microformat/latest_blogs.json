@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "microformat",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/microformat/",
@@ -10,13 +11,24 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/microformat/microformat/blogs.json"
     },
     "items": {
+        "kicero132.wordpress.com/2015/04/microformats-made-simple": {
+            "title": "Microformats Made Simple...",
+            "snippet": "Microformats Made Simple VISIT STORE 'Pearson Education (Peach Pit)'NOW - CLICK HERE Microformats are HTML-based design patterns that help add meaning (semantics) to Web content. They are widely used []...",
+            "date": "2015-04-14",
+            "author_name": "icivubal",
+            "categories": "microformat,education,html,semantics",
+            "tags": "help,add,here,microformats,visit,store,simple,html,design,semantics,web,content",
+            "recuweb_url": "http://en.recuweb.com/semantics/kicero132.wordpress.com/2015/04/microformats-made-simple",
+            "resource_url": "http://en.search.wordpress.com/?q=microformat%2Bmicroformat&f=feed&page=1",
+            "source_url": "http://kicero132.wordpress.com/2015/04/14/microformats-made-simple/"
+        },
         "johnbirneysblog.wordpress.com/2015/03/microformats-empowering-your-markup-for-web-2-0-by-john-allsopp": {
             "title": "Microformats Empowering Your Markup for Web 2.0 by John Allsopp...",
             "snippet": "Title: Microformats Empowering Your Markup for Web 2.0 Author: John Allsopp Length: 345 Pages Publisher: Friends of Ed (Apress) Published date: 2007 ISBN-13: 978-1590598146 Format: Paperback Microformats are small links inserted into your web page...",
             "date": "2015-03-29",
             "author_name": "johnbirney01",
             "categories": "microformat",
-            "tags": "small,microformats,pages,john,john_allsopp,allsopp,empowering,empowering_your_markup,markup,web,format",
+            "tags": "small,microformats,pages,john,john_allsopp,allsopp,empowering,empowering_your_markup,markup,web,format,page",
             "recuweb_url": "http://en.recuweb.com/microformat/johnbirneysblog.wordpress.com/2015/03/microformats-empowering-your-markup-for-web-2-0-by-john-allsopp",
             "resource_url": "http://en.search.wordpress.com/?q=microformat%2Bmicroformat&f=feed&page=1",
             "source_url": "http://johnbirneysblog.wordpress.com/2015/03/29/microformats-empowering-your-markup-for-web-2-0-by-john-allsopp-book-review/"
@@ -38,21 +50,10 @@
             "date": "2015-01-12",
             "author_name": "Dave Child",
             "categories": "web-development,microformat",
-            "tags": "semantic,add,information,web,microformats,added,data,pages",
+            "tags": "pages,semantic,add,information,web,web_development,development,microformats,data",
             "recuweb_url": "http://en.recuweb.com/microformat/addedbytes.com/2015/01/microformats-cheat-sheet-web-development-in-brighton-added",
             "resource_url": "http://www.google.com/search?q=microformat&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://addedbytes.com/cheat-sheets/microformats-cheat-sheet/"
-        },
-        "myjam212.wordpress.com/2014/12/microformats-made-simple": {
-            "title": "Microformats Made Simple...",
-            "snippet": "Show ProductMicroformats Made Simple- Find Cheapest Price- Show All Prices- Visit Pearson Education (Peach Pit)Microformats are HTML-based design patterns that help add meaning (semantics) to Web content. They []...",
-            "date": "2014-12-01",
-            "author_name": "sygyxamygu",
-            "categories": "education,microformat,html,semantics",
-            "tags": "help,add,visit,find,simple,microformats,html,design,semantics,web,content",
-            "recuweb_url": "http://en.recuweb.com/semantics/myjam212.wordpress.com/2014/12/microformats-made-simple",
-            "resource_url": "http://en.search.wordpress.com/?q=microformat%2Bmicroformat&f=feed&page=1",
-            "source_url": "http://myjam212.wordpress.com/2014/12/01/microformats-made-simple/"
         },
         "centcentlelikaracastconsrous.wordpress.com/2014/08/microformats-empowering-your-markup-for-web-2-0-ebook-download": {
             "title": "Microformats: Empowering Your Markup for Web 2.0 ebook download...",
@@ -60,7 +61,7 @@
             "date": "2014-08-14",
             "author_name": "centcentlelikaracastconsrous",
             "categories": "microformat,ebook",
-            "tags": "john,john_allsopp,allsopp,empowering,empowering_your_markup,markup,microformats,web",
+            "tags": "john,john_allsopp,allsopp,empowering,empowering_your_markup,markup,microformats,web,here",
             "recuweb_url": "http://en.recuweb.com/ebook/centcentlelikaracastconsrous.wordpress.com/2014/08/microformats-empowering-your-markup-for-web-2-0-ebook-download",
             "resource_url": "http://en.search.wordpress.com/?q=microformat%2Bmicroformat&f=feed&page=1",
             "source_url": "http://centcentlelikaracastconsrous.wordpress.com/2014/08/14/microformats-empowering-your-markup-for-web-2-0-ebook-download/"
@@ -71,7 +72,7 @@
             "date": "2014-06-21",
             "author_name": "Alex Devero",
             "categories": "microformat,html",
-            "tags": "microformats,don,html,pages",
+            "tags": "pages,microformats,don,html",
             "recuweb_url": "http://en.recuweb.com/html/alexsblog.org/2014/06/the-microformats-crash-course",
             "resource_url": "http://en.search.wordpress.com/?q=microformat%2Bmicroformat&f=feed&page=1",
             "source_url": "http://alexsblog.org/2014/06/21/the-microformats-crash-course/"
@@ -82,7 +83,7 @@
             "date": "2014-03-06",
             "author_name": "waterpigs.co.uk/",
             "categories": "microformat,html",
-            "tags": "microformats,classic,web,html,open,first,design,structured",
+            "tags": "microformats,classic,web,html,open,design,structured",
             "recuweb_url": "http://en.recuweb.com/html/microformats.org/2014/03/microformats-weblog-getting-started-with-microformats2",
             "resource_url": "http://www.google.com/search?q=microformat&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://microformats.org/2014/03/05/getting-started-with-microformats2"
@@ -92,7 +93,7 @@
             "snippet": "Hey guys, I just wanted to know your opinions on microdata in websites, what each one does differently, which is growing and which is failing. The two big ones I know about are, and Microformats2. I don't really know which is 'better'in terms of...",
             "date": "2013-10-14",
             "categories": "microformat",
-            "tags": "microdata,websites,microformats,seo,don",
+            "tags": "websites,microformats,seo,microdata,don",
             "recuweb_url": "http://en.recuweb.com/microformat/reddit.com/2013/10/microformats-x-post-to-r-seo",
             "resource_url": "http://www.reddit.com/search.rss?q=microformat%2Bmicroformat&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/webdev/comments/1oexds/microformats_xpost_to_rseo/"
@@ -112,7 +113,7 @@
             "snippet": "I want to do semantic HTML, and HTML5 has the dandy \"itemprop\" and family. looks nice, but there are seemingly valid complaints of \"it's not an open standard\" and \"it leads to vocabulary lock-in\". I like microformats, but having itemprop, it seems...",
             "date": "2012-09-12",
             "categories": "vocabulary,microformat,html",
-            "tags": "open,vocabulary,valid,looks,looks-nice,nice,want,semantic,microdata,rdfa,microformats,html",
+            "tags": "open,vocabulary,valid,looks,looks-nice,nice,semantic,microdata,rdfa,microformats,want,html",
             "recuweb_url": "http://en.recuweb.com/html/reddit.com/2012/09/microdata-rdfa-microformats",
             "resource_url": "http://www.reddit.com/search.rss?q=microformat%2Bmicroformat&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/web_design/comments/zr939/microdata_rdfa_microformats_schemaorg/"
