@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "punctuation",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/punctuation/",
@@ -10,6 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/punctuation/punctuation/blogs.json"
     },
     "items": {
+        "nytimes.com/2015/04/inside-the-list-new-york-times": {
+            "title": "Inside the List - New York Times...",
+            "snippet": "New York TimesInside the ListNew York TimesBut it's certainly the most personal: Norris combines astute observations about punctuation (Commas, like nuns, often travel in pairs) and syntax (Sometimes it's easier to reconcile oneself to the dangler...",
+            "date": "2015-04-24",
+            "categories": "syntax,travel,observation,punctuation",
+            "tags": "punctuation",
+            "recuweb_url": "http://en.recuweb.com/punctuation/nytimes.com/2015/04/inside-the-list-new-york-times",
+            "resource_url": "http://news.google.com/?hl=en&q=punctuation&output=atom&nord=1",
+            "source_url": "http://nytimes.com/2015/05/03/books/review/inside-the-list.html"
+        },
         "iwcp.co.uk/2015/04/isle-of-wight-headteacher-praised-as-school-comes-out-special-measures": {
             "title": "Isle of Wight headteacher praised as school comes out of special measures...",
             "snippet": "However, some maths teachers are not good enough at their sums to help children to improve, and Key Stage 2 standards in spelling, grammar and punctuation are too low. They found school leaders, including governors, were regularly checking the...",
@@ -25,7 +36,7 @@
             "snippet": "interrobang, interrobang in-ter-uh-bang (often represented by?!/!?), is a nonstandard punctuation designed to combine the question mark (?) and the exclamation point (!), indicating a mixture of query and interjection, as after a rhetorical...",
             "date": "2015-04-24",
             "categories": "punctuation",
-            "tags": "after,mark,house,punctuation",
+            "tags": "mark,house,punctuation",
             "recuweb_url": "http://en.recuweb.com/punctuation/theinterrobang.com/2015/04/memed-from-the-headlines-patriots-in-white-house",
             "resource_url": "http://www.bing.com/news/search?first=1&q=punctuation&format=RSS&cc=us",
             "source_url": "http://theinterrobang.com/memed-from-the-headlines-patriots-in-the-white-house/"
@@ -35,7 +46,7 @@
             "snippet": "The Coast HalifaxNo final punctuation mark for Parentheses GalleryThe Coast HalifaxThe show ain't over for (((Parentheses))) Gallery and Art Projects. Word on Gottingen Street was that the gallery was closing, especially after Big Pony's...",
             "date": "2015-04-24",
             "categories": "punctuation",
-            "tags": "after,street,mark,punctuation,word",
+            "tags": "street,mark,punctuation,word",
             "recuweb_url": "http://en.recuweb.com/punctuation/thecoast.ca/2015/04/no-final-punctuation-mark-for-parentheses-gallery-the-coast-halifax",
             "resource_url": "http://news.google.com/?hl=en&q=punctuation%2Bpunctuation&output=atom&nord=1",
             "source_url": "http://thecoast.ca/ArtAttack/archives/2015/04/24/no-final-punctuation-mark-for-parentheses-gallery"
@@ -45,7 +56,7 @@
             "snippet": "At a commemorative event two years ago, I heard a historian say that history is not a steady stream of events, but rather a series of punctuation points, like ripples from stones tossed into water. I believe that we are at the cusp of just such a...",
             "date": "2015-04-24",
             "categories": "events,punctuation",
-            "tags": "into,years,punctuation",
+            "tags": "into,punctuation",
             "recuweb_url": "http://en.recuweb.com/punctuation/baltimoretimes-online.com/2015/04/now-is-the-time-to-answer-call",
             "resource_url": "http://www.bing.com/news/search?first=1&q=punctuation&format=RSS&cc=us",
             "source_url": "http://baltimoretimes-online.com/news/2015/apr/24/now-time-answer-call/"
@@ -55,7 +66,7 @@
             "snippet": "I read all the statements by the election candidates last week, and one really stood out for being incomprehensible. The 150-word statement from UKIP contained four very long sentences and one comma. Because I train people in business writing I...",
             "date": "2015-04-23",
             "categories": "business,punctuation",
-            "tags": "very,word,example,punctuation,week,ukip",
+            "tags": "word,example,punctuation,week,ukip",
             "recuweb_url": "http://en.recuweb.com/punctuation/maidenhead-advertiser.co.uk/2015/04/prime-example-of-why-punctuation-matters",
             "resource_url": "http://www.bing.com/news/search?first=1&q=punctuation&format=RSS&cc=us",
             "source_url": "http://maidenhead-advertiser.co.uk/Home/Your-Views/Letters-to-the-Editor/Prime-example-of-why-punctuation-matters-23042015.htm"
@@ -95,20 +106,10 @@
             "snippet": "Your words are your most powerful weapons, and yet it's easy to undermine yourself in written communication by violating some very simple rules of punctuation. Before I dive deeper into this, a disclosure: I majored in English in college. I've made...",
             "date": "2015-04-14",
             "categories": "college,punctuation",
-            "tags": "college,into,very,rules,yet,punctuation",
+            "tags": "into,rules,yet,punctuation",
             "recuweb_url": "http://en.recuweb.com/punctuation/businessinsider.com/2015/04/16-punctuation-mistakes-that-can-make-you-look-bad",
             "resource_url": "http://www.bing.com/news/search?first=1&q=punctuation&format=RSS&cc=us",
             "source_url": "http://businessinsider.com/punctuation-mistakes-that-look-bad-2015-4"
-        },
-        "keene.edu/2015/04/how-to-win-friends-and-influence-punctuation-the-risks-benefits-of": {
-            "title": "How to Win Friends and Influence Punctuation: The Risks and Benefits of... - Keene State College...",
-            "snippet": "How to Win Friends and Influence Punctuation: The Risks and Benefits of...Keene State CollegeBethany Keely-Jonker has been blogging for more than ten years, most famously as the owner of the 'Blog'of 'Unnecessary'Quotation Marks and author of the...",
-            "date": "2015-04-09",
-            "categories": "college,punctuation",
-            "tags": "years,college,punctuation",
-            "recuweb_url": "http://en.recuweb.com/punctuation/keene.edu/2015/04/how-to-win-friends-and-influence-punctuation-the-risks-benefits-of",
-            "resource_url": "http://news.google.com/?hl=en&q=punctuation%2Bpunctuation&output=atom&nord=1",
-            "source_url": "http://keene.edu/news/events/detail/3805/"
         }
     }
 }
