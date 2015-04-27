@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "simple-living",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/simple-living/",
@@ -10,15 +11,59 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/simple-living/simple-living/blogs.json"
     },
     "items": {
+        "happysimpleliving.com/2015/04/happy-simple-supper-fried-rice-quinoa-living": {
+            "title": "Happy Simple Supper: Fried Rice Quinoa Happy Simple Living...",
+            "snippet": "If you haven't cooked much with quinoa, you might enjoy trying this recipe. I developed it for my book The Quinoa Quookbook, and based it on a fried rice recipe that was one of my family's favorites for years. Surprisingly, they...",
+            "date": "2015-04-18",
+            "author_name": "Eliza Cross",
+            "categories": "simple-living",
+            "tags": "family,book,simple,simple_living,living",
+            "recuweb_url": "http://en.recuweb.com/simple-living/happysimpleliving.com/2015/04/happy-simple-supper-fried-rice-quinoa-living",
+            "resource_url": "http://www.google.com/search?q=simple%2Bliving%2Bsimple%2Bliving&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://happysimpleliving.com/2015/04/18/happy-simple-supper-fried-rice-quinoa/"
+        },
+        "moneysavingmom.com/2015/04/free-ebooks-beginning-frugal-living-simple-and-loving": {
+            "title": "Free Ebooks: Beginning Frugal Living, Simple Living and Loving It...",
+            "snippet": "Download a free copy of Simple Living And Loving It: 50 Proven Steps To Simplify Your Life, Downsize and Get More Done In Less Time. Share This: 1 comment. Looking for more? Read more posts about Free ebooks...",
+            "date": "2015-04-17",
+            "author_name": "Crystal Paine",
+            "categories": "life,simple-living,ebook",
+            "tags": "steps,simplify,life,free,simple,simple_living,living,frugal,read",
+            "recuweb_url": "http://en.recuweb.com/ebook/moneysavingmom.com/2015/04/free-ebooks-beginning-frugal-living-simple-and-loving",
+            "resource_url": "http://www.google.com/search?q=simple%2Bliving&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://moneysavingmom.com/2015/04/free-ebooks-beginning-frugal-living-simple-living-and-loving-it-the-hard-times-cookbook-plus-more.html"
+        },
+        "satisfyingretirement.blogspot.com/2015/04/a-satisfying-retirement-is-lifestyle-you-choose-simple-living": {
+            "title": "A Satisfying Retirement - Is a Lifestyle You Choose: Simple Living...",
+            "snippet": "Depending on the web site, blog, or books I check simple living can mean many different things, depending on who is doing the defining. It could mean getting rid of most of my belongings and keeping only the bare essentials,...",
+            "date": "2015-04-15",
+            "author_name": "Bob Lowry",
+            "categories": "simple-living,lifestyle",
+            "tags": "rid,only,simple,simple_living,living,lifestyle",
+            "recuweb_url": "http://en.recuweb.com/lifestyle/satisfyingretirement.blogspot.com/2015/04/a-satisfying-retirement-is-lifestyle-you-choose-simple-living",
+            "resource_url": "http://www.google.com/search?q=simple%2Bliving%2Bsimple%2Bliving&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://satisfyingretirement.blogspot.com/2015/04/simple-living-what-does-it-mean-to-me.html"
+        },
         "reddit.com/2015/04/some-insights-on-my-simple-living-trial-this-year": {
             "title": "Some insights on my simple living trial this year...",
             "snippet": "THIS POST IS BORING AS HELL, AND MAYBE TOO LONG. READ IT ONLY IF YOU WANT TO HEAR ABOUT SOME RANDOM PEOPLE \"EXPERIMENTS\" WITH SIMPLE LIVING THIS YEAR January 2014 Quit all social media. Facebook, twitter, forums, etc. Just kept reddit. July 2014...",
             "date": "2015-04-14",
             "categories": "social-media,simple-living,facebook,twitter",
-            "tags": "year,simple,simple-living,living,only,people,long",
+            "tags": "simple,simple-living,living,read,only,people,long",
             "recuweb_url": "http://en.recuweb.com/twitter/reddit.com/2015/04/some-insights-on-my-simple-living-trial-this-year",
             "resource_url": "http://www.reddit.com/search.rss?q=simple%2Bliving%2Bsimple%2Bliving&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/simpleliving/comments/32kpky/some_insights_on_my_simple_living_trial_this_year/"
+        },
+        "oneloveorganics.com/2015/04/simple-living-one-love-organics": {
+            "title": "Simple Living - One Love Organics...",
+            "snippet": "So it may come as no surprise that our bible around the office, is The Simple Living Guide by Janet Luhrs. Janet gave up a law career (just like Suzanne!) to simplify her life. And after more than a decade of writing the Simple...",
+            "date": "2015-04-13",
+            "author_name": "admin",
+            "categories": "law,love,simple-living,life",
+            "tags": "simplify,guide,simple,simple_living,living,life",
+            "recuweb_url": "http://en.recuweb.com/life/oneloveorganics.com/2015/04/simple-living-one-love-organics",
+            "resource_url": "http://www.google.com/search?q=simple%2Bliving%2Bsimple%2Bliving&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://oneloveorganics.com/2015/04/simple-living/"
         },
         "thehawthornehomestead.wordpress.com/2015/04/living-simple-and-minimal-with-a-baby": {
             "title": "Living Simple and Minimal with a Baby...",
@@ -26,7 +71,7 @@
             "date": "2015-04-13",
             "author_name": "emsutten",
             "categories": "internet",
-            "tags": "days,need,living,living_simple,simple,items",
+            "tags": "days,living,simple",
             "recuweb_url": "http://en.recuweb.com/internet/thehawthornehomestead.wordpress.com/2015/04/living-simple-and-minimal-with-a-baby",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=simple%2Bliving%2Bsimple%2Bliving&rss=1&lng=en",
             "source_url": "http://thehawthornehomestead.wordpress.com/2015/04/13/living-simple-and-minimal-with-a-baby/"
@@ -36,7 +81,7 @@
             "snippet": "Early last year, I went through a big life change, and started regularly going through my stuff, in waves of purging. I moved from a 2 Bedroom, 2 Bathroom house to a small, more practical apartment, and got rid of a lot of stuff. I'm still purging...",
             "date": "2015-04-10",
             "categories": "simple-living,life",
-            "tags": "big,year,simple,simple_living,living,life,change,stuff,moved,house",
+            "tags": "rid,simple,simple_living,living,frugal,life,house",
             "recuweb_url": "http://en.recuweb.com/life/reddit.com/2015/04/balancing-simple-living-with-being-frugal-ie-buying-in-bulk",
             "resource_url": "http://www.reddit.com/search.rss?q=simple%2Bliving%2Bsimple%2Bliving&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/simpleliving/comments/324i0o/balancing_simple_living_with_being_frugal_ie/"
@@ -46,74 +91,32 @@
             "snippet": "By Randy Alcorn Someone has said, Live simply that others may simply live. Of course, there is no automatic relationship between my simple living and someone else being rescued from starvation or reached with the gospel. There is only a relationship...",
             "date": "2015-04-10",
             "author_name": "Eveline Joy",
-            "tags": "only,else,others,said,simple,living",
+            "tags": "only,others,live,said,simple,living",
             "recuweb_url": "http://en.recuweb.com/fantasticworldsbeyond.com/2015/04/six-reasons-to-live-more-simplyand-give-generously",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=simple%2Bliving%2Bsimple%2Bliving&rss=1&lng=en",
             "source_url": "http://fantasticworldsbeyond.com/2015/04/six-reasons-to-live-more-simplyand-give.html"
         },
-        "reddit.com/2015/04/what-do-you-simple-living-folks-for-jobs": {
-            "title": "What do you simple living folks do for jobs?",
-            "snippet": "Just out of curiosity I wonder what other simple lifers do for full time income. Personally, I am an environmental engineer which is not very simple and I have contemplated finding something else which would interest me. submitted by...",
-            "date": "2015-04-06",
-            "tags": "finding,else,would,engineer,simple,living",
-            "recuweb_url": "http://en.recuweb.com/reddit.com/2015/04/what-do-you-simple-living-folks-for-jobs",
-            "resource_url": "http://www.reddit.com/search.rss?q=simple%2Bliving%2Bsimple%2Bliving&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/simpleliving/comments/31ksvq/what_do_you_simple_living_folks_do_for_jobs/"
-        },
-        "simplelivingtech.com/2015/03/get-your-grouponon-simple-living-technology": {
-            "title": "Get your Grouponon! Simple Living Technology...",
-            "snippet": "The StickUp Original is officially available on Groupon Goods for a limited time. An iconic favorite when it comes to portable water resistant speakers. Stick this new audio companion of yours on any flat surface for maximum...",
-            "date": "2015-03-12",
-            "author_name": "sltadmin",
-            "categories": "simple-living,technology",
-            "tags": "flat,favorite,simple,simple_living,living,technology",
-            "recuweb_url": "http://en.recuweb.com/technology/simplelivingtech.com/2015/03/get-your-grouponon-simple-living-technology",
+        "phillips.blogs.com/2015/04/pro-commerce-simple-living": {
+            "title": "Pro Commerce: Simple living and commerce...",
+            "snippet": "All of them are religious in nature, which becomes clear this time of year, Easter My book, Simple Living Investments for Old Age points out that American simple living has many parents ranging from the military to the Quakers...",
+            "date": "2015-04-09",
+            "author_name": "Michael Phillips",
+            "categories": "nature,commerce",
+            "tags": "living,simple,book",
+            "recuweb_url": "http://en.recuweb.com/commerce/phillips.blogs.com/2015/04/pro-commerce-simple-living",
             "resource_url": "http://www.google.com/search?q=simple%2Bliving%2Bsimple%2Bliving&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://simplelivingtech.com/groupon-on/"
+            "source_url": "http://phillips.blogs.com/goc/2015/04/simple-living-and-commerce.html"
         },
-        "mnn.com/2015/03/mlb-pitcher-hopes-his-simple-life-inspires-change-mnn-mother": {
-            "title": "MLB pitcher hopes his simple life inspires change MNN - Mother...",
-            "snippet": "Daniel Norris continues to fascinate the sporting world with his commitment to simple living and nature.",
-            "date": "2015-03-06",
-            "author_name": "mdestries",
-            "categories": "nature,life",
-            "tags": "world,inspires,change,simple,life,living",
-            "recuweb_url": "http://en.recuweb.com/life/mnn.com/2015/03/mlb-pitcher-hopes-his-simple-life-inspires-change-mnn-mother",
+        "nourishingminimalism.com/2015/04/how-children-can-benefit-from-simple-living-nourishing": {
+            "title": "How Children Can Benefit From Simple Living Nourishing...",
+            "snippet": "The main reason I became a minimalist was to live in the moment. To be present with my family and friends. Too many times I would be with my family, but my mind would be elsewhere. Often on the cluttery surfaces...",
+            "date": "2015-04-07",
+            "author_name": "Rachel",
+            "categories": "mind,simple-living",
+            "tags": "mind,family,friends,live,simple,simple_living,living",
+            "recuweb_url": "http://en.recuweb.com/simple-living/nourishingminimalism.com/2015/04/how-children-can-benefit-from-simple-living-nourishing",
             "resource_url": "http://www.google.com/search?q=simple%2Bliving%2Bsimple%2Bliving&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://mnn.com/lifestyle/arts-culture/blogs/mlb-pitcher-hopes-his-simple-life-inspires-change"
-        },
-        "simplelivingover50.com/2015/03/simple-living-diet-shopping": {
-            "title": "Simple Living, Simple Diet, Simple Shopping...",
-            "snippet": "One of the best things about finding the Paleo way of eating is that it turns out to be pretty simple as there are only a few items...",
-            "date": "2015-03-06",
-            "author_name": "SimpleLivingOver50",
-            "categories": "simple-living",
-            "tags": "only,way,finding,simple,simple_living,living,things,items",
-            "recuweb_url": "http://en.recuweb.com/simple-living/simplelivingover50.com/2015/03/simple-living-diet-shopping",
-            "resource_url": "http://en.search.wordpress.com/?q=simple%2Bliving%2Bsimple%2Bliving&f=feed&page=1",
-            "source_url": "http://simplelivingover50.com/2015/03/06/simple-living-simple-diet-simple-shopping/"
-        },
-        "andreadekker.com/2015/02/what-simple-living-means-for-me-andrea-dekker": {
-            "title": "What Simple Living Means for Me - Andrea Dekker...",
-            "snippet": "I'm often asked how I would define Simple Living, what Simple Living means for me, or how I would explain a simplified life and I'll be honest, that's a really, really difficult request! I think there are many factors involved in...",
-            "date": "2015-02-27",
-            "author_name": "Andrea",
-            "categories": "simple-living,life",
-            "tags": "many,would,simple,simple_living,living,life",
-            "recuweb_url": "http://en.recuweb.com/life/andreadekker.com/2015/02/what-simple-living-means-for-me-andrea-dekker",
-            "resource_url": "http://www.google.com/search?q=simple%2Bliving&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://andreadekker.com/what-simple-living-means-for-me/"
-        },
-        "florencestone.org/2015/02/living-the-simple-life": {
-            "title": "Living the simple life...",
-            "snippet": "How many people run through the World at a crazy speed? Its all about work tv sleep, repeat the cycle all over again. This type of living leaves us in a state were we just passivley observe the World around us, not taking in the World around us. Zen...",
-            "date": "2015-02-26",
-            "author_name": "florencestone",
-            "categories": "life,zen",
-            "tags": "work,living,simple,life,many,people,world",
-            "recuweb_url": "http://en.recuweb.com/zen/florencestone.org/2015/02/living-the-simple-life",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=simple%2Bliving%2Bsimple%2Bliving&rss=1&lng=en",
-            "source_url": "http://florencestone.org/2015/02/26/living-the-simple-life/"
+            "source_url": "http://nourishingminimalism.com/2015/04/how-children-can-benefit-from-simple-living.html"
         }
     }
 }
