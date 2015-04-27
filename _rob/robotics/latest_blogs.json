@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "robotics",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/robotics/",
@@ -10,16 +11,27 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/robotics/robotics/blogs.json"
     },
     "items": {
-        "familyonbikes.org/2015/04/what-is-first-robotics-and-how-does-it-work": {
-            "title": "What is FIRST Robotics and how does it work?",
-            "snippet": "A popular pastime at all FIRST events is to gather buttons from each team. Davy now has about 500 buttons, and has them all proudly displayed on a (very heavy) shirt. As you know, my sons are involved with FIRST Robotics. In fact, I would go so far...",
-            "date": "2015-04-23",
-            "author_name": "Nancy Sathre-Vogel",
-            "categories": "events,robotics",
-            "tags": "very,popular,first,first_robotics,robotics,each,team,fact",
-            "recuweb_url": "http://en.recuweb.com/robotics/familyonbikes.org/2015/04/what-is-first-robotics-and-how-does-it-work",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=robotics%2Brobotics&rss=1&lng=en",
-            "source_url": "http://familyonbikes.org/blog/2015/04/what-is-first-robotics-and-how-does-it-work/"
+        "robohub.org/2015/04/sino-russian-robotics-boosted-as-skolkovo-signs-200m-deal": {
+            "title": "Sino-Russian robotics boosted as Skolkovo signs 200M deal with...",
+            "snippet": "Russia's Skolkovo Foundation and the Chinese Cybernaut Investment Group signed an agreement yesterday in Beijing to create a joint Russian-Chinese business incubator, a robotics accelerator program, and an investment...",
+            "date": "2015-04-22",
+            "author_name": "ExplodingAds.com",
+            "categories": "business,robotics",
+            "tags": "create,robotics,program",
+            "recuweb_url": "http://en.recuweb.com/robotics/robohub.org/2015/04/sino-russian-robotics-boosted-as-skolkovo-signs-200m-deal",
+            "resource_url": "http://www.google.com/search?q=robotics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://robohub.org/skolkovo-signs-200m-deal-with-chinese-investment-fund/"
+        },
+        "theverge.com/2015/04/my-bank-is-now-staffed-by-a-helpful-robot-the-verge": {
+            "title": "My bank is now staffed by a helpful robot The Verge...",
+            "snippet": "Tokyo-Mitsubishi UFJ is Japan's biggest bank, and I've been a customer for over six years. That may have been a good call, because now it's the first to employ robots. Aldebaran Robotics'Nao, a bipedal android that costs...",
+            "date": "2015-04-21",
+            "author_name": "Sam Byford",
+            "categories": "robotics",
+            "tags": "aldebaran,robotics,robots,verge,nao",
+            "recuweb_url": "http://en.recuweb.com/robotics/theverge.com/2015/04/my-bank-is-now-staffed-by-a-helpful-robot-the-verge",
+            "resource_url": "http://www.google.com/search?q=robotics%2Brobotics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theverge.com/2015/4/21/8460841/nao-robot-ufj-bank-japan"
         },
         "saffanahi.wordpress.com/2015/04/neato-robotics-xv-21-pet-&-allergy-robotic-vacuum": {
             "title": "Neato Robotics XV-21 Pet & Allergy Robotic Vacuum...",
@@ -27,93 +39,82 @@
             "date": "2015-04-21",
             "author_name": "saffanahi",
             "categories": "robotics",
-            "tags": "popular,product,robotics,high",
+            "tags": "actually,robotics,high",
             "recuweb_url": "http://en.recuweb.com/robotics/saffanahi.wordpress.com/2015/04/neato-robotics-xv-21-pet-&-allergy-robotic-vacuum",
             "resource_url": "http://en.search.wordpress.com/?q=robotics%2Brobotics&f=feed&page=1",
             "source_url": "http://saffanahi.wordpress.com/2015/04/21/neato-robotics-xv-21-pet-allergy-robotic-vacuum/"
         },
+        "cnet.com/2015/04/this-humanoid-robot-can-read-facial-expressions-and-make-his-own": {
+            "title": "This humanoid robot can read facial expressions and make his own...",
+            "snippet": "Hanson Robotics'Han the robot made his debut at the Global Sources Electronics Fair, where he interacted with visitors, holding eye contact and conversation.",
+            "date": "2015-04-21",
+            "author_name": "Michelle Starr",
+            "categories": "electronics,robotics",
+            "tags": "global,global_sources,sources,electronics,fair,debut,hanson,hanson_robotics,robotics,facial,facial-expressions,expressions,humanoid,robot,han",
+            "recuweb_url": "http://en.recuweb.com/robotics/cnet.com/2015/04/this-humanoid-robot-can-read-facial-expressions-and-make-his-own",
+            "resource_url": "http://www.google.com/search?q=robotics%2Brobotics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://cnet.com/news/this-humanoid-robot-can-read-facial-expressions-and-make-his-own/"
+        },
+        "fox6now.com/2015/04/it-is-a-dream-come-true-mps-robotics-team-to-compete": {
+            "title": "It is a dream come true: MPS robotics team to compete in world...",
+            "snippet": "That is exactly what MPS'Riverside University High School Robotigers hope to be, as they prepare to compete April 23rd, 24th and 25th in St. Louis at the Robotics Championships. They will go against 600 teams from 10...",
+            "date": "2015-04-21",
+            "author_name": "Deandra Corinthios",
+            "categories": "robotics,university,school",
+            "tags": "robotics,hope,university,high,high_school,school,come,compete,world,louis",
+            "recuweb_url": "http://en.recuweb.com/school/fox6now.com/2015/04/it-is-a-dream-come-true-mps-robotics-team-to-compete",
+            "resource_url": "http://www.google.com/search?q=robotics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://fox6now.com/2015/04/21/it-is-a-dream-come-true-mps-robotics-team-to-compete-in-world-championship/"
+        },
+        "3dprint.com/2015/04/greek-robotics-club-3d-prints-incredibly-fast-line-following": {
+            "title": "Greek Robotics Club 3D Prints Incredibly Fast Line Following...",
+            "snippet": "The technologies of robotics and 3D printing continue to converge. While in essence, a 3D printer is a robot itself, it's the robots that are able to be fabricated via 3D printing which are becoming the real story.",
+            "date": "2015-04-20",
+            "author_name": "Brian Krassenstein",
+            "categories": "printer,robotics",
+            "tags": "line,robotics,club,robots",
+            "recuweb_url": "http://en.recuweb.com/robotics/3dprint.com/2015/04/greek-robotics-club-3d-prints-incredibly-fast-line-following",
+            "resource_url": "http://www.google.com/search?q=robotics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://3dprint.com/58099/3d-printed-robots/"
+        },
+        "spectrum.ieee.org/2015/04/who-is-gomtec-the-collaborative-robotics-company-acquired": {
+            "title": "Who Is Gomtec, the Collaborative Robotics Company Acquired by...",
+            "snippet": "Automation giant ABB announced today that it has acquired German robotics company Gomtec in order to expand its offering in the field of collaborative robots. The news is just another sign that lightweight, flexible robot...",
+            "date": "2015-04-14",
+            "author_name": "Ilian Bonev",
+            "categories": "robotics",
+            "tags": "offering,field,collaborative,announced,today,robotics,abb,robots,robot",
+            "recuweb_url": "http://en.recuweb.com/robotics/spectrum.ieee.org/2015/04/who-is-gomtec-the-collaborative-robotics-company-acquired",
+            "resource_url": "http://www.google.com/search?q=robotics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://spectrum.ieee.org/automaton/robotics/industrial-robots/who-is-gomtec-the-collaborative-robotics-company-acquired-by-abb"
+        },
+        "avclub.com/2015/04/community-laws-of-robotics-and-party-rights-the-av-club": {
+            "title": "Community: Laws Of Robotics And Party Rights - The AV Club...",
+            "snippet": "When a television show switches networks, the most tempting before-and-after comparison is that of production value. Dan Harmon has spoken in glowing terms of how generous Yahoo has been to ensure Community looks...",
+            "date": "2015-04-07",
+            "author_name": "Joshua Alston",
+            "categories": "production,television,robotics,rights,yahoo",
+            "tags": "laws,robotics,party,party_rights,rights,community,club,show",
+            "recuweb_url": "http://en.recuweb.com/yahoo/avclub.com/2015/04/community-laws-of-robotics-and-party-rights-the-av-club",
+            "resource_url": "http://www.google.com/search?q=robotics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://avclub.com/tvclub/community-laws-robotics-and-party-rights-217633"
+        },
         "reddit.com/2015/04/discussion-thread-for-community-s06e05-laws-of-robotics-and-party-rights": {
             "title": "Discussion Thread for Community S06E05 - Laws of Robotics and Party Rights...",
-            "snippet": "Synopsis: If you are going to create a post about this episode outside this thread, be sure to use the spoiler tag and spoiler formatting if necessary. Watch it here submitted by SilentGuy to community [link] [637 comments]...",
+            "snippet": "Synopsis: If you are going to create a post about this episode outside this thread, be sure to use the spoiler tag and spoiler formatting if necessary. Watch it here submitted by SilentGuy to community [link] [636 comments]...",
             "date": "2015-04-07",
             "categories": "rights,robotics",
-            "tags": "here,create,robotics",
+            "tags": "community,create,party,party_rights,rights,laws,robotics",
             "recuweb_url": "http://en.recuweb.com/robotics/reddit.com/2015/04/discussion-thread-for-community-s06e05-laws-of-robotics-and-party-rights",
             "resource_url": "http://www.reddit.com/search.rss?q=robotics%2Brobotics&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/community/comments/31q16u/discussion_thread_for_community_s06e05_laws_of/"
-        },
-        "hyunfamily.org/2015/04/2nd-most-disappointing-day-in-calebs-life": {
-            "title": "2nd most disappointing day in Calebs life...",
-            "snippet": "In January, we got a Lego Mindstorm, so that I could start teaching my kids about robotics. Robotics is a great engineering project because its so multi-disciplinary. You need to learn about software programming, mechanics, hardware/electrical...",
-            "date": "2015-04-06",
-            "author_name": "donhyun",
-            "categories": "engineering,teaching,life,robotics,mechanics",
-            "tags": "engineering,project,day,life,robotics,software",
-            "recuweb_url": "http://en.recuweb.com/mechanics/hyunfamily.org/2015/04/2nd-most-disappointing-day-in-calebs-life",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=robotics%2Brobotics&rss=1&lng=en",
-            "source_url": "http://hyunfamily.org/2015/04/05/2nd-most-disappointing-day-in-calebs-life/"
-        },
-        "myrobotnew.wordpress.com/2015/03/robot-in-the-news-6": {
-            "title": "Robot in the News 6...",
-            "snippet": "Humans have been making robot animals for a while now, but the one of the most life like robots is the Pleurobot. A robotic salamander that moves and behaves exactly like that of a real salamander. This robot moves identically to a real salamander...",
-            "date": "2015-03-27",
-            "author_name": "deadmanf8",
-            "categories": "animals,life",
-            "tags": "robots,life",
-            "recuweb_url": "http://en.recuweb.com/life/myrobotnew.wordpress.com/2015/03/robot-in-the-news-6",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=robotics%2Brobotics&rss=1&lng=en",
-            "source_url": "http://myrobotnew.wordpress.com/2015/03/27/robot-in-the-news-6/"
-        },
-        "destrate.wordpress.com/2015/03/economic-growth-absorbing-the-robot-system-opportunity": {
-            "title": "Economic Growth: Absorbing the Robot System Opportunity...",
-            "snippet": "Robotics is a technology that is gathering more interest and increasingly having more impact in than ever before. The level of robotics capability has progressed considerably to the point where we are now able to observe the deployment of robotics...",
-            "date": "2015-03-14",
-            "author_name": "destrate",
-            "categories": "economic-growth,robotics,technology",
-            "tags": "robot,growth,robotics,technology",
-            "recuweb_url": "http://en.recuweb.com/technology/destrate.wordpress.com/2015/03/economic-growth-absorbing-the-robot-system-opportunity",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=robotics%2Brobotics&rss=1&lng=en",
-            "source_url": "http://destrate.wordpress.com/2015/03/14/economic-growth-absorbing-the-robot-system-opportunity/"
-        },
-        "observer.com/2015/03/this-bronx-high-schooler-is-captain-of-an-all-girls-robotics": {
-            "title": "This Bronx High Schooler Is Captain of an All-Girls Robotics Team...",
-            "snippet": "Kiana Dyson is captain of the FeMaidens, an all-girls robotics team that will compete at the FIRST Robotics Competition this weekend.",
-            "date": "2015-03-13",
-            "author_name": "Jordyn Taylor",
-            "categories": "robotics",
-            "tags": "weekend,first,first_robotics,first_robotics_competition,robotics,robotics_competition,competition,team,high,compete",
-            "recuweb_url": "http://en.recuweb.com/robotics/observer.com/2015/03/this-bronx-high-schooler-is-captain-of-an-all-girls-robotics",
-            "resource_url": "http://www.google.com/search?q=robotics%2Brobotics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://observer.com/2015/03/this-bronx-high-schooler-is-captain-of-an-all-girls-robotics-team/"
-        },
-        "tuscolatoday.com/2015/03/vassar-high-school-robotics-team-captures-share-of-tuscola-today": {
-            "title": "Vassar High School robotics team captures share of... - Tuscola Today...",
-            "snippet": "On Saturday, the Vassar High School robotics team was one of 41 high school teams from around the state competing in the FIRST Robotics District Competition at Flint's Kettering University. Also in the mix were Kingston...",
-            "date": "2015-03-11",
-            "author_name": "Bill Petzold",
-            "categories": "university,robotics,school",
-            "tags": "first,first_robotics,robotics,competition,competing,today,high,high_school,school,teams",
-            "recuweb_url": "http://en.recuweb.com/school/tuscolatoday.com/2015/03/vassar-high-school-robotics-team-captures-share-of-tuscola-today",
-            "resource_url": "http://www.google.com/search?q=robotics%2Brobotics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://tuscolatoday.com/index.php/2015/03/11/vassar-high-school-robotics-team-captures-share-of-district-win-in-first-robotics-competition-frc-debut/"
-        },
-        "readwrite.com/2015/03/what-it-took-these-four-women-to-get-into-robotics-readwrite": {
-            "title": "What It Took These Four Women To Get Into Robotics - ReadWrite...",
-            "snippet": "And one of the fields where women are most strongly outnumbered is one that most needs diverse perspectives: robotics. Last Sunday was International Women's Day, an event for celebrating the progress women have made...",
-            "date": "2015-03-11",
-            "author_name": "Lauren Orsini",
-            "categories": "robotics",
-            "tags": "made,international,last,robotics,day",
-            "recuweb_url": "http://en.recuweb.com/robotics/readwrite.com/2015/03/what-it-took-these-four-women-to-get-into-robotics-readwrite",
-            "resource_url": "http://www.google.com/search?q=robotics%2Brobotics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://readwrite.com/2015/03/10/women-robotics-melonee-wise-louise-poubel-cynthia-breazeal-tessa-lau"
         },
         "reddit.com/2015/03/world-tech-expo-robotics-division": {
             "title": "World Tech Expo, robotics division...",
             "snippet": "A rather famous tech exposition is currently being held, and today is focused mainly on the leaps and bounds of the field of robotics! Will anyone be attending today, and perhaps hear about the mysterious and enigmatic project said to be soon...",
             "date": "2015-03-11",
             "categories": "robotics",
-            "tags": "project,today,world,robotics,division,held",
+            "tags": "today,field,world,robotics,held",
             "recuweb_url": "http://en.recuweb.com/robotics/reddit.com/2015/03/world-tech-expo-robotics-division",
             "resource_url": "http://www.reddit.com/search.rss?q=robotics%2Brobotics&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/randomsuperpowers/comments/2yne0r/world_tech_expo_robotics_division/"
