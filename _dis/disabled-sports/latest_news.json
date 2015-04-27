@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "disabled-sports",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/disabled-sports/",
@@ -10,32 +11,82 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/disabled-sports/disabled-sports/blogs.json"
     },
     "items": {
+        "gulf-daily-news.com/2015/04/al-naseem-and-ama-on-course-for-crown": {
+            "title": "Al Naseem and AMA on course for crown...",
+            "snippet": "The girls intermediate stage tournament, also featuring round robin format and being staged at Bahrain Disabled Sports Federation gym, saw Zaynab and the British Schools win their matches. Zaynab School eased past Al Noor 22-3 but later on lost to...",
+            "date": "2015-04-26",
+            "categories": "school,disabled-sports,sport",
+            "tags": "schools,school-eased,eased,win,british,british_schools,bahrain,bahrain_disabled,bahrain_disabled_sports,disabled,disabled_sports,disabled_sports_federation,sports,sports_federation,federation,featuring,featuring-round,featuring-round-robin,round,round-robin,round-robin-format,robin,robin-format,format,staged,girls,girls-intermediate,girls-intermediate-stage,intermediate,intermediate-stage,intermediate-stage-tournament,stage,stage-tournament,tournament,gym,zaynab,noor",
+            "recuweb_url": "http://en.recuweb.com/sport/gulf-daily-news.com/2015/04/al-naseem-and-ama-on-course-for-crown",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=disabled%2Bsports&format=RSS&cc=us",
+            "source_url": "http://gulf-daily-news.com/NewsDetails.aspx?storyid=400799"
+        },
+        "nytimes.com/2015/04/ben-zobrist-put-on-disabled-list-new-york-times": {
+            "title": "Ben Zobrist Put on Disabled List - New York Times...",
+            "snippet": "Yahoo SportsBen Zobrist Put on Disabled ListNew York TimesThe Oakland Athletics placed infielder/outfielder Ben Zobrist on the 15-day disabled list with torn cartilage in his left knee. The A's purchased the contract of infielder Max Muncy from...",
+            "date": "2015-04-26",
+            "categories": "athletics,yahoo",
+            "tags": "york,disabled",
+            "recuweb_url": "http://en.recuweb.com/yahoo/nytimes.com/2015/04/ben-zobrist-put-on-disabled-list-new-york-times",
+            "resource_url": "http://news.google.com/?hl=en&q=disabled%2Bsports%2Bdisabled%2Bsports&output=atom&nord=1",
+            "source_url": "http://nytimes.com/2015/04/26/sports/baseball/ben-zobrist-put-on-disabled-list.html"
+        },
+        "bna.bh/2015/04/indian-school-win-with-ease-at-mini-olympics": {
+            "title": "Indian School win with ease at School Mini Olympics...",
+            "snippet": "The girls intermediate stage tournament, also featuring round robin format and is being staged at the Bahrain Disabled Sports Federation gym, featured deserving wins for Zaynab and the British Schools. Zaynab School eased past Al Noor 22-3, but late...",
+            "date": "2015-04-26",
+            "categories": "school,disabled-sports,sport",
+            "tags": "schools,school-eased,eased,british,british_schools,bahrain,bahrain_disabled,bahrain_disabled_sports,disabled,disabled_sports,disabled_sports_federation,sports,sports_federation,federation,featuring,featuring-round,featuring-round-robin,round,round-robin,round-robin-format,robin,robin-format,format,staged,girls,girls-intermediate,girls-intermediate-stage,intermediate,intermediate-stage,intermediate-stage-tournament,stage,stage-tournament,tournament,win,gym,zaynab,noor",
+            "recuweb_url": "http://en.recuweb.com/sport/bna.bh/2015/04/indian-school-win-with-ease-at-mini-olympics",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=disabled%2Bsports&format=RSS&cc=us",
+            "source_url": "http://bna.bh/portal/en/news/665709"
+        },
+        "nation.com.pk/2015/04/heyward-vows-to-allay-concerns-about-pakistan": {
+            "title": "Heyward vows to allay concerns about Pakistan...",
+            "snippet": "Islamabad - Outgoing Australian High Commissioner Peter Heyward was given a warm farewell at a function held by Pakistan Disabled Sports Association (PDSA) here at a local hotel Friday evening. High Commissioner Heyward is one of the few diplomats...",
+            "date": "2015-04-25",
+            "categories": "disabled-sports,sport",
+            "tags": "disabled,sports,association,friday",
+            "recuweb_url": "http://en.recuweb.com/sport/nation.com.pk/2015/04/heyward-vows-to-allay-concerns-about-pakistan",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=disabled%2Bsports&format=RSS&cc=us",
+            "source_url": "http://nation.com.pk/national/26-Apr-2015/heyward-vows-to-allay-concerns-about-pakistan"
+        },
+        "patch.com/2015/04/book-festival-sailboat-show-beer-week-finale-and-more-annapolis-events": {
+            "title": "Book Festival, Sailboat Show, Beer Week Finale and More: Annapolis Events...",
+            "snippet": "The event benefits wounded warriors through Warfighter Sports (a division of Disabled Sports USA.) Wednesday Night Sailboat Races Every week through July 29 head to the Annapolis Harbor from 6:10 to 8 p.m. to watch some 150 crews compete in...",
+            "date": "2015-04-24",
+            "categories": "disabled-sports,sport,events",
+            "tags": "disabled,disabled_sports,disabled_sports_usa,sports,sports_usa,usa,wounded,warriors",
+            "recuweb_url": "http://en.recuweb.com/events/patch.com/2015/04/book-festival-sailboat-show-beer-week-finale-and-more-annapolis-events",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=disabled%2Bsports&format=RSS&cc=us",
+            "source_url": "http://patch.com/maryland/annapolis/book-festival-sailboat-show-beer-week-finale-and-more-annapolis-events-0"
+        },
         "dutchnews.nl/2015/04/government-sets-aside-6m-to-boost-disabled-sports": {
             "title": "Government sets aside 6m to boost disabled sports...",
             "snippet": "The Dutch government has set aside 6m to encourage people with a handicap to take up sport. Sports minister Edith Schippers has called on sports clubs and associations to create more options for people with a handicap to join and take part. Sport...",
             "date": "2015-04-23",
             "categories": "sport",
-            "tags": "clubs,sports,disabled,people",
+            "tags": "sports,disabled,people",
             "recuweb_url": "http://en.recuweb.com/sport/dutchnews.nl/2015/04/government-sets-aside-6m-to-boost-disabled-sports",
             "resource_url": "http://www.bing.com/news/search?first=1&q=disabled%2Bsports&format=RSS&cc=us",
             "source_url": "http://dutchnews.nl/news/archives/2015/04/government-sets-aside-e6m-to-boost-disabled-sports/"
         },
-        "gulf-daily-news.com/2015/04/al-noor-and-hekma-bag-volleyball-titles": {
-            "title": "Al Noor and Hekma bag volleyball titles...",
-            "snippet": "The basketball tournament also got underway yesterday with two matches in the girls section at Bahrain Disabled Sports Federation gym. British School and Al Noor School registered comfortable victories to remain strong contenders for the title.",
-            "date": "2015-04-22",
-            "categories": "school,disabled-sports,sport,volleyball,basketball",
-            "tags": "disabled,disabled_sports,disabled_sports_federation,sports,sports_federation,federation,volleyball,tournament",
-            "recuweb_url": "http://en.recuweb.com/basketball/gulf-daily-news.com/2015/04/al-noor-and-hekma-bag-volleyball-titles",
+        "paralympic.org/2015/04/president-of-npc-france-receives-legion-dhonneur": {
+            "title": "President of NPC France receives legion dhonneur...",
+            "snippet": "On Friday (24 April) in Paris, France, Emmanuelle Assmann the President of the National Paralympic Committee (NPC) of France and Secretary General of the French Federation of Disabled Sports received the prestigious legion dhonneur. The award is...",
+            "date": "2015-04-23",
+            "categories": "disabled-sports,sport",
+            "tags": "disabled,disabled_sports,sports,federation,committee,president,friday",
+            "recuweb_url": "http://en.recuweb.com/sport/paralympic.org/2015/04/president-of-npc-france-receives-legion-dhonneur",
             "resource_url": "http://www.bing.com/news/search?first=1&q=disabled%2Bsports&format=RSS&cc=us",
-            "source_url": "http://gulf-daily-news.com/NewsDetails.aspx?storyid=400567"
+            "source_url": "http://paralympic.org/news/president-npc-france-receives-legion-d\u2019honneur"
         },
         "ghanaweb.com/2015/04/sports-ministry-names-nyantakyi-in-2015-aag-committee": {
             "title": "Sports Ministry names Nyantakyi in 2015 AAG committee...",
             "snippet": "Others are president of the Association of Disabled Sports, Reverend Cornelius Adja-Coffie; Ghana Cycling Federation president, Mohammed Sahnoon; Ghana Fencing Association president, Mohammed Mahadi; Ghana Judo Association president, Emmanuel...",
             "date": "2015-04-22",
             "categories": "judo,fencing,cycling,disabled-sports,sport",
-            "tags": "federation,disabled,disabled_sports,sports,association",
+            "tags": "federation,disabled,disabled_sports,sports,president,committee,association",
             "recuweb_url": "http://en.recuweb.com/sport/ghanaweb.com/2015/04/sports-ministry-names-nyantakyi-in-2015-aag-committee",
             "resource_url": "http://www.bing.com/news/search?first=1&q=disabled%2Bsports&format=RSS&cc=us",
             "source_url": "http://ghanaweb.com/GhanaHomePage/SportsArchive/artikel.php?ID=355634"
@@ -45,70 +96,20 @@
             "snippet": "Zohra Khan, Disabled Students Officer, spoke to Nouse on the inclusion of a disabled sport this year, I think Sitting Volleyball is a fantastic opportunity because disabled sports is being recognised at such an event so important to York. Its a...",
             "date": "2015-04-21",
             "categories": "volleyball,sport,students",
-            "tags": "volleyball,sports,disabled",
+            "tags": "sports,disabled,york",
             "recuweb_url": "http://en.recuweb.com/students/nouse.co.uk/2015/04/debutants-gear-up-for-roses",
             "resource_url": "http://www.bing.com/news/search?first=1&q=disabled%2Bsports&format=RSS&cc=us",
             "source_url": "http://nouse.co.uk/2015/04/21/debutants-gear-up-for-roses/"
-        },
-        "nation.com.pk/2015/04/pdsa-to-mark-aussie-envoys-services-for-disabled-cricketers": {
-            "title": "PDSA to mark Aussie envoys services for disabled cricketers...",
-            "snippet": "ISLAMABAD - The Pakistan Disabled Sports Association (PDSA) will hold farewell reception in honor of departing Australian High Commissioner Peter Hayward and his wife Suzan on April 24 here at a local hotel to pay tribute to his matchless...",
-            "date": "2015-04-21",
-            "categories": "honor,disabled-sports,sport",
-            "tags": "disabled,disabled_sports,sports,association",
-            "recuweb_url": "http://en.recuweb.com/sport/nation.com.pk/2015/04/pdsa-to-mark-aussie-envoys-services-for-disabled-cricketers",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=disabled%2Bsports&format=RSS&cc=us",
-            "source_url": "http://nation.com.pk/sports/22-Apr-2015/pdsa-to-mark-aussie-envoy-s-services-for-disabled-cricketers"
         },
         "thecitizen.villagesoup.com/2015/04/lakes-region-disabled-sports-presentation-is-on-april-20": {
             "title": "Lakes Region Disabled Sports presentation is on April 20...",
             "snippet": "LACONIA Laconia Historical and Museum Society announces April Lecture Program. Laconia Historical and Museum Society will host a presentation Monday, April 20, at 7 p.m., which will introduce attendees to Lakes Region Disabled Sports an adaptive...",
             "date": "2015-04-17",
             "categories": "society,disabled-sports,sport",
-            "tags": "adaptive,program,society,disabled,disabled_sports,sports",
+            "tags": "program,disabled,disabled_sports,sports,adaptive",
             "recuweb_url": "http://en.recuweb.com/sport/thecitizen.villagesoup.com/2015/04/lakes-region-disabled-sports-presentation-is-on-april-20",
             "resource_url": "http://www.bing.com/news/search?first=1&q=disabled%2Bsports&format=RSS&cc=us",
             "source_url": "http://thecitizen.villagesoup.com/p/lakes-region-disabled-sports-presentation-is-on-april-20/1334531"
-        },
-        "denverpost.com/2015/04/guest-commentary-dear-disabled-veteran-the-denver": {
-            "title": "Guest commentary: Dear disabled veteran - The Denver Post...",
-            "snippet": "Guest commentary: \"Dear disabled veteran\"The Denver PostMy adaptive sport journey took off, and so did my rehabilitation. I got involved in skiing at the National Disabled Veterans Winter Sports Clinic and I was immediately hooked. I worked hard and...",
-            "date": "2015-04-16",
-            "categories": "sport,skiing",
-            "tags": "national,national_disabled,disabled,veterans,winter,sports,clinic,skiing,adaptive",
-            "recuweb_url": "http://en.recuweb.com/skiing/denverpost.com/2015/04/guest-commentary-dear-disabled-veteran-the-denver",
-            "resource_url": "http://news.google.com/?hl=en&q=disabled%2Bsports&output=atom&nord=1",
-            "source_url": "http://denverpost.com/opinion/ci_27928485/guest-commentary-dear-disabled-veteran"
-        },
-        "seemallorca.com/2015/04/mallorca-leading-the-way-for-disabled-sporting-activites": {
-            "title": "Mallorca Leading the Way for Disabled Sporting Activites -...",
-            "snippet": "Mallorca Leading the Way for Disabled Sporting equipment available includes clubs that are designed to be used with one hand for players who have lost a limb, plus the support of training sports coaches to meet the individual needs of disabled...",
-            "date": "2015-04-13",
-            "categories": "sport",
-            "tags": "clubs,disabled,way,sports",
-            "recuweb_url": "http://en.recuweb.com/sport/seemallorca.com/2015/04/mallorca-leading-the-way-for-disabled-sporting-activites",
-            "resource_url": "http://news.google.com/?hl=en&q=disabled%2Bsports%2Bdisabled%2Bsports&output=atom&nord=1",
-            "source_url": "http://seemallorca.com/news/mallorca-leading-the-way-for-disabled-sporting-activites-683145"
-        },
-        "usatoday.com/2015/03/adaptive-sports-give-disabled-vets-chance-to-be-free-usa-today": {
-            "title": "Adaptive sports give disabled vets chance to be free - USA TODAY...",
-            "snippet": "USA TODAYAdaptive sports give disabled vets chance to be freeUSA TODAYSNOWMASS, Colo. Skiing with Jake Hipps means seeing a lot of his back. The former Marine is partially paralyzed and normally uses a wheelchair. But come winter, Hipps takes to the...",
-            "date": "2015-03-31",
-            "categories": "sport,skiing",
-            "tags": "winter,usa,adaptive,sports,disabled,skiing",
-            "recuweb_url": "http://en.recuweb.com/skiing/usatoday.com/2015/03/adaptive-sports-give-disabled-vets-chance-to-be-free-usa-today",
-            "resource_url": "http://news.google.com/?hl=en&q=disabled%2Bsports&output=atom&nord=1",
-            "source_url": "http://usatoday.com/story/news/nation/2015/03/30/disabled-veterans-adaptive-sports/70686010/"
-        },
-        "foxnews.com/2015/03/sports-clinic-allows-disabled-veterans-to-reach-new-peaks-fox-news": {
-            "title": "Sports clinic allows disabled veterans to reach new peaks - Fox News...",
-            "snippet": "Fox NewsSports clinic allows disabled veterans to reach new peaksFox NewsService to their country may have dealt them mountains of new challenges in the form of life-altering injuries, but this week the nearly 350 U.S. veterans participating in the...",
-            "date": "2015-03-31",
-            "categories": "injuries,life,sport",
-            "tags": "veterans,clinic,sports,disabled",
-            "recuweb_url": "http://en.recuweb.com/sport/foxnews.com/2015/03/sports-clinic-allows-disabled-veterans-to-reach-new-peaks-fox-news",
-            "resource_url": "http://news.google.com/?hl=en&q=disabled%2Bsports&output=atom&nord=1",
-            "source_url": "http://foxnews.com/us/2015/03/31/disabled-vets-reach-new-peaks-with-adaptive-sports/"
         }
     }
 }
