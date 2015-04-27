@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "disciplines",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/disciplines/",
@@ -10,13 +11,24 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/disciplines/disciplines/blogs.json"
     },
     "items": {
+        "wholemagazine.org/2015/04/whole-magazine-four-disciplines-for-a-healthy-identity": {
+            "title": "Whole Magazine: Four Disciplines for a Healthy Identity...",
+            "snippet": "I looked in the mirror and saw a failure. How did I get to this place? How do I get out? And how do I protect myself from returning again? If I could sit across a living room from you, I would tell you that four disciplines have helped as I...",
+            "date": "2015-04-27",
+            "author_name": "Whole Magazine",
+            "categories": "disciplines",
+            "tags": "looked,disciplines,mirror,did,across",
+            "recuweb_url": "http://en.recuweb.com/disciplines/wholemagazine.org/2015/04/whole-magazine-four-disciplines-for-a-healthy-identity",
+            "resource_url": "http://www.google.com/search?q=disciplines%2Bdisciplines&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://wholemagazine.org/2015/04/four-disciplines-for-healthy-identity.html"
+        },
         "representations.org/2015/04/description-across-the-disciplines-representations": {
             "title": "Description Across the Disciplines Representations...",
             "snippet": "Participants in Description Across the Disciplines will consider the relation between description and other modes of engaging with objects of analysis, such as interpretation, evaluation, argument, and critique.",
             "date": "2015-04-17",
             "author_name": "Kent Puckett",
             "categories": "disciplines",
-            "tags": "between,other,disciplines,across",
+            "tags": "between,disciplines,across,other",
             "recuweb_url": "http://en.recuweb.com/disciplines/representations.org/2015/04/description-across-the-disciplines-representations",
             "resource_url": "http://www.google.com/search?q=disciplines%2Bdisciplines&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://representations.org/description-across-the-disciplines/"
@@ -27,7 +39,7 @@
             "date": "2015-04-16",
             "author_name": "Nancy A Leport",
             "categories": "disciplines",
-            "tags": "across,article,working,keeping,disciplines",
+            "tags": "article,keeping,came,across,disciplines",
             "recuweb_url": "http://en.recuweb.com/disciplines/sabbathmoments.wordpress.com/2015/04/spiritual-renewal-and-sabbath-keeping",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=disciplines%2Bdisciplines&rss=1&lng=en",
             "source_url": "http://sabbathmoments.wordpress.com/2015/04/16/spiritual-renewal-and-sabbath-keeping/"
@@ -38,7 +50,7 @@
             "date": "2015-04-15",
             "author_name": "Editor",
             "categories": "disciplines,institute",
-            "tags": "annual,without,disciplines,financial,last",
+            "tags": "annual,week,disciplines",
             "recuweb_url": "http://en.recuweb.com/institute/johnkay.com/2015/04/john-kay-we-can-reform-the-economics-curriculum-without-creating",
             "resource_url": "http://www.google.com/search?q=disciplines%2Bdisciplines&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://johnkay.com/2015/04/15/we-can-reform-the-economics-curriculum-without-creating-new-disciplines"
@@ -49,21 +61,10 @@
             "date": "2015-04-14",
             "author_name": "Don Ball",
             "categories": "disciplines",
-            "tags": "across,disciplines",
+            "tags": "looked,across,disciplines",
             "recuweb_url": "http://en.recuweb.com/disciplines/arts.gov/2015/04/across-disciplines-when-jazz-inspires-poetry-nea",
             "resource_url": "http://www.google.com/search?q=disciplines%2Bdisciplines&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://arts.gov/art-works/2015/across-disciplines-when-jazz-inspires-poetry"
-        },
-        "dailysavings.allyou.com/2015/04/how-do-you-handle-it-when-someone-else-disciplines-your-kids": {
-            "title": "How Do You Handle It When Someone Else Disciplines Your Kids?",
-            "snippet": "This weekend I broke one of my own cardinal rules of parenting: Never presume to discipline someone else's kids. I know it takes a village to raise a child, but in my observationand that of many other momsthere's a fine...",
-            "date": "2015-04-14",
-            "author_name": "Siobhan Adcock, Digital Director",
-            "categories": "parenting,disciplines",
-            "tags": "other,own,disciplines,discipline",
-            "recuweb_url": "http://en.recuweb.com/disciplines/dailysavings.allyou.com/2015/04/how-do-you-handle-it-when-someone-else-disciplines-your-kids",
-            "resource_url": "http://www.google.com/search?q=disciplines%2Bdisciplines&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://dailysavings.allyou.com/2015/04/14/when-someone-else-disciplines-your-kids/"
         },
         "doingindy.com/2015/04/crossing-borders-disciplines-and-domains-with-liz-lerman-doing": {
             "title": "Crossing Borders, Disciplines and Domains with Liz Lerman Doing...",
@@ -71,19 +72,41 @@
             "date": "2015-04-13",
             "author_name": "Seth Johnson",
             "categories": "borders,disciplines",
-            "tags": "research,part,annual,disciplines",
+            "tags": "session,cross,present,creative,competition,part,annual,disciplines,research",
             "recuweb_url": "http://en.recuweb.com/disciplines/doingindy.com/2015/04/crossing-borders-disciplines-and-domains-with-liz-lerman-doing",
             "resource_url": "http://www.google.com/search?q=disciplines%2Bdisciplines&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://doingindy.com/2015/04/13/crossing-borders-disciplines-and-domains-with-liz-lerman/"
+        },
+        "usmagazine.com/2015/04/kris-jenner-puts-her-foot-down-disciplines-kylie": {
+            "title": "Kris Jenner Puts Her Foot Down, Disciplines Kylie -...",
+            "snippet": "On the upcoming episode of Keeping Up With the Kardashians, Kris Jenner finally puts her foot down when dealing with her youngest daughter Kylie.",
+            "date": "2015-04-12",
+            "author_name": "Us Magazine Team",
+            "categories": "disciplines",
+            "tags": "down,disciplines,keeping",
+            "recuweb_url": "http://en.recuweb.com/disciplines/usmagazine.com/2015/04/kris-jenner-puts-her-foot-down-disciplines-kylie",
+            "resource_url": "http://www.google.com/search?q=disciplines%2Bdisciplines&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://usmagazine.com/entertainment/news/kris-jenner-disciplines-kylie-kuwtk-sneak-peek-2015124"
+        },
+        "triblive.com/2015/04/melding-disciplines-at-cmu-triblive": {
+            "title": "Melding disciplines at CMU TribLIVE...",
+            "snippet": "In recent years we've kind of merged the study of political science with international relations, and it became apparent there was a growing interest in bringing together those two disciplines. That really is the basis for it.",
+            "date": "2015-04-12",
+            "author_name": "Eric Heyl",
+            "categories": "science,international-relations,disciplines",
+            "tags": "interest,bringing,together,study,international,disciplines",
+            "recuweb_url": "http://en.recuweb.com/disciplines/triblive.com/2015/04/melding-disciplines-at-cmu-triblive",
+            "resource_url": "http://www.google.com/search?q=disciplines&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://triblive.com/opinion/qanda/8105384-74/institute-university-international"
         },
         "jacksonville.com/2015/04/board-disciplines-four-educators-one-who-students-said-flipped": {
             "title": "Board disciplines four educators, one who students said flipped...",
             "snippet": "The Duval School Board Tuesday voted to suspend four educators for misconduct, including a teacher who was accused of throwing chairs, and another who was reported to curse at and flip off students, calling her middle...",
             "date": "2015-04-08",
             "author_name": "Denise Smith Amos",
-            "categories": "students,school,disciplines",
-            "tags": "students,teacher,school,board,disciplines,said,accused",
-            "recuweb_url": "http://en.recuweb.com/disciplines/jacksonville.com/2015/04/board-disciplines-four-educators-one-who-students-said-flipped",
+            "categories": "school,disciplines,students",
+            "tags": "another,teacher,accused,school,disciplines,students",
+            "recuweb_url": "http://en.recuweb.com/students/jacksonville.com/2015/04/board-disciplines-four-educators-one-who-students-said-flipped",
             "resource_url": "http://www.google.com/search?q=disciplines%2Bdisciplines&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://jacksonville.com/news/metro/2015-04-07/story/board-disciplines-four-educators-one-who-students-said-flipped-them-her"
         },
@@ -93,30 +116,10 @@
             "date": "2015-04-01",
             "author_name": "Robin Hanson",
             "categories": "disciplines",
-            "tags": "between,disciplines",
+            "tags": "even,people,multiple,between,disciplines",
             "recuweb_url": "http://en.recuweb.com/disciplines/overcomingbias.com/2015/04/overcoming-bias-disciplines-as-contrarian-correlators",
             "resource_url": "http://www.google.com/search?q=disciplines%2Bdisciplines&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://overcomingbias.com/2015/04/disciplines-as-contrarian-correlators.html"
-        },
-        "thereforeitis.wordpress.com/2015/03/methodology-content-and-the-interconnectedness-of-disciplines": {
-            "title": "Methodology, Content, and the Interconnectedness of Disciplines...",
-            "snippet": "Management: Final exams ended up tearing me away from working on new posts, but I didnt want to leave the blog unattended for too long, so heres this abridged version of a thing I had to type for my Religion and Politics Class you can read. Its not...",
-            "date": "2015-03-21",
-            "author_name": "zeroreq011",
-            "categories": "politics,disciplines,management,religion",
-            "tags": "leave,working,content,disciplines,final",
-            "recuweb_url": "http://en.recuweb.com/religion/thereforeitis.wordpress.com/2015/03/methodology-content-and-the-interconnectedness-of-disciplines",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=disciplines%2Bdisciplines&rss=1&lng=en",
-            "source_url": "http://thereforeitis.wordpress.com/2015/03/21/methodology-content-and-and-the-interconnectedness-of-disciplines/"
-        },
-        "reddit.com/2015/03/my-girlfriend-has-no-financial-discipline-what-tools-can-i-point": {
-            "title": "My girlfriend has no financial discipline. What tools can I point her towards to get her on the...",
-            "snippet": "NB I use \"financial discipline\" as a shortcut term for expense tracking/budgeting/a general awareness of where one's money is spent and in what proportions. My girlfriend and I are on opposite ends of the financial awareness spectrum. She was...",
-            "date": "2015-03-20",
-            "tags": "financial,discipline",
-            "recuweb_url": "http://en.recuweb.com/reddit.com/2015/03/my-girlfriend-has-no-financial-discipline-what-tools-can-i-point",
-            "resource_url": "http://www.reddit.com/search.rss?q=disciplines%2Bdisciplines&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/personalfinance/comments/2zpbac/my_girlfriend_has_no_financial_discipline_what/"
         }
     }
 }
