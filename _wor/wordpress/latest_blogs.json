@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "wordpress",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/wordpress/",
@@ -16,10 +17,32 @@
             "date": "2015-04-24",
             "author_name": "Editorial Staff",
             "categories": "wordpress",
-            "tags": "wordpress,websites,features,want,show",
+            "tags": "article,same,sharing,improve,wordpress,websites,features,want,show",
             "recuweb_url": "http://en.recuweb.com/wordpress/wpbeginner.com/2015/04/how-to-improve-wordpress-comments-with-de",
             "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://wpbeginner.com/plugins/how-to-improve-wordpress-comments-with-decomments/"
+        },
+        "a2s-in.blogspot.com/2015/04/how-to-install-wordpress-on-a-vps-with-nginx-ubuntu": {
+            "title": "How to install WordPress on a VPS with Nginx on Ubuntu...",
+            "snippet": "Due to High Demand for a Newbie Friendly Tutorial on setting up your WordPress website on a VPS. Remember the Best Hosting for WordPress is WordPress VPS Powered by Nginx I am finally here with an easy step by step method to help out those, who want...",
+            "date": "2015-04-24",
+            "author_name": "Angemon Youness",
+            "categories": "wordpress",
+            "tags": "want,easy,powered,hosting,friendly,tutorial,high,install,wordpress,website,step,help",
+            "recuweb_url": "http://en.recuweb.com/wordpress/a2s-in.blogspot.com/2015/04/how-to-install-wordpress-on-a-vps-with-nginx-ubuntu",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=wordpress%2Bwordpress&rss=1&lng=en",
+            "source_url": "http://a2s-in.blogspot.com/2015/04/how-to-install-wordpress-on-vps-with.html"
+        },
+        "johnoverall.com/2015/04/how-to-design-a-business-website-using-wordpress-specialist-with-focus": {
+            "title": "How to: Design a business website using WordPress - WordPress Specialist with a focus on...",
+            "snippet": "This Article about How to: Design a business website using WordPress is from WordPress Specialist with a focus on... - WordPress Training, Classes and Emergency Support... please visit WordPress Specialist with a focus on... to see the complete and...",
+            "date": "2015-04-24",
+            "author_name": "John",
+            "categories": "business,wordpress",
+            "tags": "complete,please,support,design,business,website,using,wordpress,article",
+            "recuweb_url": "http://en.recuweb.com/wordpress/johnoverall.com/2015/04/how-to-design-a-business-website-using-wordpress-specialist-with-focus",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=wordpress%2Bwordpress&rss=1&lng=en",
+            "source_url": "http://johnoverall.com/how-to-design-a-business-website-using-wordpress/"
         },
         "themeforest.net/2015/04/one-multipurpose-wordpress-theme-for-woocommerce": {
             "title": "ONE - Multipurpose WordPress Theme for WooCommerce...",
@@ -27,7 +50,7 @@
             "date": "2015-04-24",
             "author_name": "woorockets",
             "categories": "wordpress",
-            "tags": "user,powerful,wordpress,wordpress_theme,theme,multipurpose,woocommerce,simple",
+            "tags": "simple,user,wordpress,wordpress_theme,theme,multipurpose,woocommerce,powerful",
             "recuweb_url": "http://en.recuweb.com/wordpress/themeforest.net/2015/04/one-multipurpose-wordpress-theme-for-woocommerce",
             "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://themeforest.net/item/one-multipurpose-wordpress-theme-for-woocommerce/11140269"
@@ -38,10 +61,43 @@
             "date": "2015-04-24",
             "author_name": "SiteSao",
             "categories": "clothing,wordpress",
-            "tags": "clean,design,responsive,woocommerce,wordpress,wordpress_theme,theme,create",
+            "tags": "high,clean,design,responsive,woocommerce,wordpress,wordpress_theme,theme,create,online,store",
             "recuweb_url": "http://en.recuweb.com/wordpress/themeforest.net/2015/04/phoenix-responsive-woocommerce-wordpress-theme",
             "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://themeforest.net/item/phoenix-responsive-woocommerce-wordpress-theme/11180428"
+        },
+        "dev4press.com/2015/04/wordpress-xss-vulnerability": {
+            "title": "WordPress XSS Vulnerability...",
+            "snippet": "This week was very busy in the world of WordPress: WordPress 4.2 was released yesterday, and massive potential security risk was discovered few days before exposing error in thousands of plugins to XSS vulnerability caused by lack of clarity in...",
+            "date": "2015-04-24",
+            "author_name": "MillaN",
+            "categories": "wordpress",
+            "tags": "vulnerability,plugins,released,wordpress,xss,security,discovered",
+            "recuweb_url": "http://en.recuweb.com/wordpress/dev4press.com/2015/04/wordpress-xss-vulnerability",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=wordpress%2Bwordpress&rss=1&lng=en",
+            "source_url": "http://dev4press.com/2015/blog/wordpress-xss-vulnerability/"
+        },
+        "aaron.jorb.in/2015/04/aaron-jorbin-wordpress-4-2-field-notes": {
+            "title": "Aaron Jorbin: WordPress 4.2 Field Notes...",
+            "snippet": "WordPress 4.2 includes both new and improved features. It also includes changes under the hood. While Im sure youve been testing your themes, plugins, and sites in preparation for the release, you may have missed the announcements of all the...",
+            "date": "2015-04-23",
+            "author_name": "Aaron Jorbin",
+            "categories": "wordpress",
+            "tags": "sites,release,under,improved,wordpress,features,themes,plugins",
+            "recuweb_url": "http://en.recuweb.com/wordpress/aaron.jorb.in/2015/04/aaron-jorbin-wordpress-4-2-field-notes",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=wordpress%2Bwordpress&rss=1&lng=en",
+            "source_url": "http://aaron.jorb.in/blog/2015/04/wordpress-4-2-field-notes/"
+        },
+        "hawaiicorruption.wordpress.com/2015/04/comment-on-welcome-by-anonymous": {
+            "title": "Comment on Welcome by Anonymous...",
+            "snippet": "Message from Iceland: all research entities that are watching this URL have been denied access to Wordpress. Wordpress is demanding verification of viewer's location, and proof of ID. this is the last email to our Iceland server: copied and pasted...",
+            "date": "2015-04-23",
+            "author_name": "Anonymous",
+            "categories": "wordpress",
+            "tags": "proof,ing,wordpress",
+            "recuweb_url": "http://en.recuweb.com/wordpress/hawaiicorruption.wordpress.com/2015/04/comment-on-welcome-by-anonymous",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=wordpress%2Bwordpress&rss=1&lng=en",
+            "source_url": "http://hawaiicorruption.wordpress.com/#comment-4013"
         },
         "wpbeginner.com/2015/04/how-to-clean-up-your-wordpress-database-for-improved": {
             "title": "How to Clean Up Your WordPress Database for Improved...",
@@ -49,7 +105,7 @@
             "date": "2015-04-23",
             "author_name": "Editorial Staff",
             "categories": "database,wordpress",
-            "tags": "regular,clean,good,need,wordpress,using,site",
+            "tags": "clean,wordpress,improved,using,site",
             "recuweb_url": "http://en.recuweb.com/wordpress/wpbeginner.com/2015/04/how-to-clean-up-your-wordpress-database-for-improved",
             "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://wpbeginner.com/plugins/how-to-clean-up-your-wordpress-database-for-improved-performance/"
@@ -60,65 +116,10 @@
             "date": "2015-04-23",
             "author_name": "Editorial Staff",
             "categories": "wordpress",
-            "tags": "first,wordpress,features",
+            "tags": "release,wordpress,available,features",
             "recuweb_url": "http://en.recuweb.com/wordpress/wpbeginner.com/2015/04/what-s-new-in-wordpress-4-2-wpbeginner",
             "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://wpbeginner.com/news/whats-new-in-wordpress-4-2/"
-        },
-        "themeforest.net/2015/04/tyger-clean-corporate-wordpress-theme-themeforest": {
-            "title": "Tyger - Clean Corporate Wordpress Theme ThemeForest...",
-            "snippet": "About Tyger Tyger is a Retina Display Ready corporate and Portfolio Wordpress Theme built with HTML5 & CSS3. It is perfect for a creative, corporate or portfolio website.. You can establish yo...",
-            "date": "2015-04-22",
-            "author_name": "KlbTheme",
-            "categories": "wordpress,html,css",
-            "tags": "perfect,built,wordpress,wordpress_theme,theme,clean,themeforest,css,website",
-            "recuweb_url": "http://en.recuweb.com/css/themeforest.net/2015/04/tyger-clean-corporate-wordpress-theme-themeforest",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://themeforest.net/item/tyger-clean-corporate-wordpress-theme/11170753"
-        },
-        "webdesignerdepot.com/2015/04/the-best-free-wordpress-plugins-for-mobile-websites-webdesigner": {
-            "title": "The best free WordPress plugins for mobile websites Webdesigner...",
-            "snippet": "The problem is, not all WordPress users are front-end developers. Many are business owners, hobbyists, or even just regular bloggers you know, blogging? That thing WordPress was designed for in the first place?",
-            "date": "2015-04-21",
-            "author_name": "Ezequiel Bruni",
-            "categories": "wordpress,business",
-            "tags": "first,regular,end,developers,plugins,best,free,wordpress,websites,users,business,blogging",
-            "recuweb_url": "http://en.recuweb.com/business/webdesignerdepot.com/2015/04/the-best-free-wordpress-plugins-for-mobile-websites-webdesigner",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://webdesignerdepot.com/2015/04/the-best-free-wordpress-plugins-for-mobile-websites/"
-        },
-        "css-tricks.com/2015/04/thoughts-on-an-api-first-wordpress-css-tricks": {
-            "title": "Thoughts on an API-First WordPress CSS-Tricks...",
-            "snippet": "The following is a guest post by Eduardo Bou\u00e7as. We all know WordPress is a CMS, but here Eduardo thinks about using it only as an API for content. No fron.",
-            "date": "2015-04-21",
-            "author_name": "Guest Author",
-            "categories": "wordpress,css",
-            "tags": "content,first,wordpress,css,cms,using,only",
-            "recuweb_url": "http://en.recuweb.com/css/css-tricks.com/2015/04/thoughts-on-an-api-first-wordpress-css-tricks",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://css-tricks.com/thoughts-on-an-api-first-wordpress/"
-        },
-        "blog.sucuri.net/2015/04/security-advisory-xss-vulnerability-affecting-multiple-wordpress": {
-            "title": "Security Advisory: XSS Vulnerability Affecting Multiple WordPress...",
-            "snippet": "Multiple WordPress Plugins are vulnerable to Cross-site Scripting (XSS) due to the misuse of the add_query_arg() and remove_query_arg() functions. These are.",
-            "date": "2015-04-20",
-            "author_name": "Daniel Cid",
-            "categories": "wordpress",
-            "tags": "wordpress,wordpress_plugins,plugins,xss,xss_vulnerability,vulnerability,security,cross,site,scripting",
-            "recuweb_url": "http://en.recuweb.com/wordpress/blog.sucuri.net/2015/04/security-advisory-xss-vulnerability-affecting-multiple-wordpress",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.sucuri.net/2015/04/security-advisory-xss-vulnerability-affecting-multiple-wordpress-plugins.html"
-        },
-        "wptavern.com/2015/04/xss-vulnerability-affects-more-than-a-dozen-popular-wordpress": {
-            "title": "XSS Vulnerability Affects More Than a Dozen Popular WordPress...",
-            "snippet": "For the past week, security firm Sucuri has worked with the WordPress core security team to address a cross site scripting vulnerability discovered in more than a dozen popular WordPress plugins. The vulnerability stems from...",
-            "date": "2015-04-20",
-            "author_name": "Jeff Chandler",
-            "categories": "wordpress",
-            "tags": "vulnerability,scripting,than,security,cross,popular,wordpress,xss,xss_vulnerability,site,plugins",
-            "recuweb_url": "http://en.recuweb.com/wordpress/wptavern.com/2015/04/xss-vulnerability-affects-more-than-a-dozen-popular-wordpress",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://wptavern.com/xss-vulnerability-affects-more-than-a-dozen-popular-wordpress-plugins"
         }
     }
 }
