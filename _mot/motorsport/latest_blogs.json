@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "motorsport",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/motorsport/",
@@ -10,15 +11,25 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/motorsport/motorsport/blogs.json"
     },
     "items": {
+        "reddit.com/2015/04/race-thread-2015-honda-indy-grand-prix-of-alabama": {
+            "title": "Race Thread - 2015 Honda Indy Grand Prix of Alabama at the Barber Motorsports Park...",
+            "snippet": "Welcome to the/r/INDYCAR race thread for the Honda Indy Grand Prix of Alabama at the Barber Motorsports Park WHEN/WHERE TO WATCH Televised By: NBCSN Coverage Starts: Sun 2015-04-26 15:00:00 EDT Green Flag Flies: Sun 2015-04-26 15:00:00 EDT Start:...",
+            "date": "2015-04-26",
+            "categories": "motorsport,sun",
+            "tags": "edt,edt_start,starts,edt_green,edt_green_flag,green,green_flag,green_flag_flies,flag,flag_flies,flies,nbcsn,nbcsn_coverage,nbcsn_coverage_starts,coverage,coverage_starts,thread,barber,motorsports,motorsports_park,park,honda,indy,indy_grand,indy_grand_prix,grand,grand_prix,prix,race,race_thread,alabama,welcome,indycar,televised,sun",
+            "recuweb_url": "http://en.recuweb.com/sun/reddit.com/2015/04/race-thread-2015-honda-indy-grand-prix-of-alabama",
+            "resource_url": "http://www.reddit.com/search.rss?q=motorsport%2Bmotorsport&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/INDYCAR/comments/33xggm/race_thread_2015_honda_indy_grand_prix_of_alabama/"
+        },
         "audi-motorsport-blog.blogspot.com/2015/04/tt-cup-international-stars-as-guest-starters-in-audi-sport": {
             "title": "TT Cup: International stars as guest starters in Audi Sport TT Cup...",
             "snippet": "We want to offer the motorsport fans at each of the six Audi Sport TT Cup events fascinating battles between drivers from a specific m\u00e9tier, says Rolf Michl, Project Leader Audi Sport TT Cup. For the Hockenheimring we were...",
             "date": "2015-04-24",
             "author_name": "Tarek Ramchani",
             "categories": "sport,events,stars,motorsport",
-            "tags": "audi,sport,fans,each,motorsport",
+            "tags": "project,audi,sport,cup,motorsport,drivers",
             "recuweb_url": "http://en.recuweb.com/motorsport/audi-motorsport-blog.blogspot.com/2015/04/tt-cup-international-stars-as-guest-starters-in-audi-sport",
-            "resource_url": "http://www.google.com/search?q=motorsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=motorsport%2Bmotorsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://audi-motorsport-blog.blogspot.com/2015/04/tt-cup-international-stars-as-guest.html"
         },
         "autosport.com/2015/04/barcelona-gp3-test-pal-varhaug-tops-final-day-for-jenzer-autosport": {
@@ -27,7 +38,7 @@
             "date": "2015-04-23",
             "author_name": "unknown",
             "categories": "motorsport",
-            "tags": "season,way,final,motorsport,driver,test",
+            "tags": "way,final,jenzer,motorsport,driver,season",
             "recuweb_url": "http://en.recuweb.com/motorsport/autosport.com/2015/04/barcelona-gp3-test-pal-varhaug-tops-final-day-for-jenzer-autosport",
             "resource_url": "http://www.google.com/search?q=motorsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://autosport.com/news/report.php/id/118646"
@@ -40,30 +51,19 @@
             "categories": "motorsport",
             "tags": "motorsport",
             "recuweb_url": "http://en.recuweb.com/motorsport/autosport.com/2015/04/wrc-argentina-sebastien-ogier-leads-superspecial-for-vw",
-            "resource_url": "http://www.google.com/search?q=motorsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=motorsport%2Bmotorsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://autosport.com/news/report.php/id/118649"
         },
-        "planetlemans.com/2015/04/motorsport-racing-with-ferrari-wins-grand-prix-of": {
-            "title": "Motorsport RACING WITH FERRARI Wins Grand Prix of...",
-            "snippet": "Motorsport RACING WITH FERRARI returned to the top step of the Pirelli World Challenge podium again on Sunday as Olivier Beretta emerged from a street fight to win the Grand Prix of Long Beach with the No.",
-            "date": "2015-04-20",
-            "author_name": "Team Update",
+        "paddockscout.com/2015/04/jenzer-motorsport-trio-named-for-2015-italian-f4-season": {
+            "title": "Jenzer Motorsport trio named for 2015 Italian F4 season...",
+            "snippet": "Three drivers have been confirmed with Jenzer Motorsport for this year's Italian F4 season, which begins at Vallelunga next weekend.",
+            "date": "2015-04-22",
+            "author_name": "Peter Allen",
             "categories": "motorsport",
-            "tags": "long,long_beach,beach,grand,grand_prix,prix,again,pirelli,pirelli_world,pirelli_world_challenge,world,world_challenge,challenge,top,motorsport,motorsport_racing,racing,racing_with_ferrari,ferrari,win",
-            "recuweb_url": "http://en.recuweb.com/motorsport/planetlemans.com/2015/04/motorsport-racing-with-ferrari-wins-grand-prix-of",
+            "tags": "jenzer,motorsport,season,drivers,next,weekend",
+            "recuweb_url": "http://en.recuweb.com/motorsport/paddockscout.com/2015/04/jenzer-motorsport-trio-named-for-2015-italian-f4-season",
             "resource_url": "http://www.google.com/search?q=motorsport%2Bmotorsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://planetlemans.com/2015/04/20/r-ferri-motorsport-racing-with-ferrari-wins-grand-prix-of-long-beach/"
-        },
-        "planetlemans.com/2015/04/motorsport-racing-with-ferrari-takes-pole-position-in": {
-            "title": "Motorsport RACING WITH FERRARI Takes Pole Position in...",
-            "snippet": "Motorsport RACING WITH FERRARI will be back in Pirelli World Challenge action this weekend as the team looks to grow its advantage in California with a new chapter of success for Ferrari at Long Beach. The team...",
-            "date": "2015-04-18",
-            "author_name": "Team Update",
-            "categories": "motorsport",
-            "tags": "long,long_beach,beach,pirelli,pirelli_world,pirelli_world_challenge,world,world_challenge,challenge,motorsport,motorsport_racing,racing,racing_with_ferrari,ferrari,weekend,team,success",
-            "recuweb_url": "http://en.recuweb.com/motorsport/planetlemans.com/2015/04/motorsport-racing-with-ferrari-takes-pole-position-in",
-            "resource_url": "http://www.google.com/search?q=motorsport%2Bmotorsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://planetlemans.com/2015/04/18/r-ferri-motorsport-racing-with-ferrari-takes-pole-position-in-long-beach/"
+            "source_url": "http://paddockscout.com/jenzer-motorsport-trio-named-for-2015-italian-f4-season/26762"
         },
         "gpupdate.net/2015/04/canamasas-to-race-for-mp-motorsport": {
             "title": "Canamasas to race for MP Motorsport -...",
@@ -71,7 +71,7 @@
             "date": "2015-04-15",
             "author_name": "unknown",
             "categories": "motorsport",
-            "tags": "final,grid,opening,opening-round,round,race,motorsport,weekend,series,bahrain",
+            "tags": "final,round,race,motorsport,weekend,opening,series,bahrain",
             "recuweb_url": "http://en.recuweb.com/motorsport/gpupdate.net/2015/04/canamasas-to-race-for-mp-motorsport",
             "resource_url": "http://www.google.com/search?q=motorsport%2Bmotorsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://gpupdate.net/en/gp2-news/324422/canamasas-gets-mp-motorsport-seat/"
@@ -82,10 +82,21 @@
             "date": "2015-04-15",
             "author_name": "unknown",
             "categories": "motorsport",
-            "tags": "season,opening,opening-round,round,season-opener,opener,motorsport,series,bahrain,weekend",
+            "tags": "round,miss,hilmer,hilmer_motorsport,motorsport,series,bahrain,season,opening,weekend",
             "recuweb_url": "http://en.recuweb.com/motorsport/autosport.com/2015/04/gp2-series-outfit-hilmer-motorsport-to-miss-bahrain-season-opener",
             "resource_url": "http://www.google.com/search?q=motorsport%2Bmotorsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://autosport.com/news/report.php/id/118512"
+        },
+        "gpupdate.net/2015/04/hilmer-motorsport-to-miss-bahrain-round": {
+            "title": "Hilmer Motorsport to miss Bahrain round -...",
+            "snippet": "Hilmer Motorsport will not take part in this weekend's opening round to the 2015 GP2 Season in Bahrain.",
+            "date": "2015-04-15",
+            "author_name": "unknown",
+            "categories": "motorsport",
+            "tags": "round,miss,hilmer,hilmer_motorsport,motorsport,bahrain,part,weekend,opening,season",
+            "recuweb_url": "http://en.recuweb.com/motorsport/gpupdate.net/2015/04/hilmer-motorsport-to-miss-bahrain-round",
+            "resource_url": "http://www.google.com/search?q=motorsport%2Bmotorsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://gpupdate.net/en/gp2-news/324420/hilmer-motorsport-to-miss-bahrain-round/"
         },
         "dailycollegian.com/2015/04/motorsport-club-works-to-bring-largest-student-run-event-campus": {
             "title": "Motorsport Club works to bring largest student-run event to campus...",
@@ -93,7 +104,7 @@
             "date": "2015-04-14",
             "author_name": "Christina Yacono",
             "categories": "motorsport,university",
-            "tags": "held,car,ninth,event,once,again,motorsport,university,year",
+            "tags": "held,event,works,motorsport",
             "recuweb_url": "http://en.recuweb.com/university/dailycollegian.com/2015/04/motorsport-club-works-to-bring-largest-student-run-event-campus",
             "resource_url": "http://www.google.com/search?q=motorsport%2Bmotorsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://dailycollegian.com/2015/04/14/motorsport-club-works-to-bring-largest-student-run-event-to-campus-with-its-annual-car-show/"
@@ -103,21 +114,10 @@
             "snippet": "Welcome to the/r/INDYCAR race thread for the Indy Grand Prix of Louisiana at the NOLA Motorsports Park WHEN/WHERE TO WATCH Televised By: NBCSN Coverage Starts: Sun 2015-04-12 14:30:00 EDT Green Flag Flies: Sun 2015-04-12 14:45:00 EDT Start: Standing...",
             "date": "2015-04-12",
             "categories": "motorsport,sun",
-            "tags": "flag,motorsports,motorsports_park,park,indy,grand,grand_prix,prix,race,standing",
+            "tags": "edt,edt_start,starts,edt_green,edt_green_flag,green,green_flag,green_flag_flies,flag,flag_flies,flies,nbcsn,nbcsn_coverage,nbcsn_coverage_starts,coverage,coverage_starts,thread,motorsports,motorsports_park,park,indy,indy_grand,indy_grand_prix,grand,grand_prix,prix,race,race_thread,welcome,indycar,televised,sun",
             "recuweb_url": "http://en.recuweb.com/sun/reddit.com/2015/04/race-thread-2015-indy-grand-prix-of-louisiana-at-the-nola",
             "resource_url": "http://www.reddit.com/search.rss?q=motorsport%2Bmotorsport&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/INDYCAR/comments/32c7u3/race_thread_2015_indy_grand_prix_of_louisiana_at/"
-        },
-        "paddockvoice.wordpress.com/2015/04/hello-motorsport-fans": {
-            "title": "Hello motorsport fans!",
-            "snippet": "Motorsport has been an interest of mine for over 20 years, and Ill pretty much watch any form of motorsport. The main reason for this blog is for []...",
-            "date": "2015-04-09",
-            "author_name": "paddockvoice",
-            "categories": "motorsport",
-            "tags": "motorsport,fans",
-            "recuweb_url": "http://en.recuweb.com/motorsport/paddockvoice.wordpress.com/2015/04/hello-motorsport-fans",
-            "resource_url": "http://en.search.wordpress.com/?q=motorsport%2Bmotorsport&f=feed&page=1",
-            "source_url": "http://paddockvoice.wordpress.com/2015/04/09/hello-world/"
         }
     }
 }
