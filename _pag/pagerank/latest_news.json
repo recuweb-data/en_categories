@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "pagerank",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/pagerank/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/pagerank/pagerank/blogs.json"
     },
     "items": {
-        "searchenginejournal.com/2015/04/6-ways-bing-is-the-opposite-of-google-and-what-to": {
-            "title": "6 Ways Bing is the Opposite of Google and What to Do About It...",
-            "snippet": "Googles hallowed PageRank algorithm was based upon the number and quality of backlinks a site receives from other sites. Google counts each clean backlink as an upvote in the favor of the site. The higher the authority of the sites linking...",
-            "date": "2015-04-16",
-            "categories": "bing,google,pagerank",
-            "tags": "each,back,number,number-and-quality,quality,ways,bing,google,googles,pagerank,algorithm,site,receives,ing",
-            "recuweb_url": "http://en.recuweb.com/pagerank/searchenginejournal.com/2015/04/6-ways-bing-is-the-opposite-of-google-and-what-to",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=us",
-            "source_url": "http://searchenginejournal.com/6-ways-bing-opposite-google/128935/"
-        },
-        "iphone.sys-con.com/2015/04/pocket-gems-launches-3d-real-time-strategy-game-war-dragons-built": {
-            "title": "Pocket Gems Launches 3D Real-Time Strategy Game War Dragons, Built on Proprietary Mantis Engine...",
-            "snippet": "The PageRank based methodology they use to extract influencers on a particular topic (tweets mentioning InternetofThings or IoT in this case) takes into account the number and quality of contextual references that a user receives.",
-            "date": "2015-04-16",
-            "categories": "pagerank",
-            "tags": "number,number-and-quality,quality,receives,into,engine,pagerank",
-            "recuweb_url": "http://en.recuweb.com/pagerank/iphone.sys-con.com/2015/04/pocket-gems-launches-3d-real-time-strategy-game-war-dragons-built",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=us",
-            "source_url": "http://iphone.sys-con.com/node/3325918"
-        },
-        "seekingalpha.com/2015/04/what-does-google-need-for-mobile": {
-            "title": "What Does Google Need For Mobile?",
-            "snippet": "Maps had little obvious to do with web search and nothing to do with PageRank, but was a big problem that Google's assets could be applied to (and of course, a decade later, Maps turned out to have a huge strategic leverage in mobile). The same may...",
-            "date": "2015-04-16",
+        "forbes.com/2015/04/it-would-be-a-shame-to-shackle-google-now": {
+            "title": "It Would Be A Shame To Shackle Google Now...",
+            "snippet": "The Web was still more academic than commercial, and most Web pages were, well, just out there to be crawled. The data that went into PageRank indexing gave the best possible search results. But one rule of the tech industry is you only get to...",
+            "date": "2015-04-23",
             "categories": "google,pagerank",
-            "tags": "course,problem,google,web,search,pagerank",
-            "recuweb_url": "http://en.recuweb.com/pagerank/seekingalpha.com/2015/04/what-does-google-need-for-mobile",
+            "tags": "industry,search,results,google,web,pagerank",
+            "recuweb_url": "http://en.recuweb.com/pagerank/forbes.com/2015/04/it-would-be-a-shame-to-shackle-google-now",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=us",
-            "source_url": "http://seekingalpha.com/article/3076416-what-does-google-need-for-mobile"
+            "source_url": "http://forbes.com/sites/rogerkay/2015/04/23/it-would-be-a-shame-to-shackle-google-now/"
+        },
+        "searchengineland.com/2015/04/what-signals-from-twitter-does-google-care-about-search-engine-land": {
+            "title": "What Signals From Twitter Does Google Care About? - Search Engine Land...",
+            "snippet": "What Signals From Twitter Does Google Care About?Search Engine LandAt a most basic level, this metric might be considered a Twitter-based version of Google's famed PageRank. Link clicks. Although this metric came up earlier in the Tweet...",
+            "date": "2015-04-23",
+            "categories": "search-engine,twitter,google,pagerank",
+            "tags": "metric,search,search_engine,engine,twitter,google,pagerank",
+            "recuweb_url": "http://en.recuweb.com/pagerank/searchengineland.com/2015/04/what-signals-from-twitter-does-google-care-about-search-engine-land",
+            "resource_url": "http://news.google.com/?hl=en&q=pagerank&output=atom&nord=1",
+            "source_url": "http://searchengineland.com/signals-twitter-google-care-219202"
+        },
+        "iol.co.za/2015/04/how-google-takes-you-back-independent-online": {
+            "title": "How Google takes you back - Independent Online...",
+            "snippet": "Independent OnlineHow Google takes you backIndependent OnlineThat's because Google's pagerank algorithm is designed to surface the results that it thinks you'll find most relevant; everything else effectively gets buried. That's obviously a really...",
+            "date": "2015-04-22",
+            "categories": "google,pagerank",
+            "tags": "obviously,everything,everything-else,everything-else-effectively,else,else-effectively,else-effectively-gets,effectively,effectively-gets,effectively-gets-buried,gets,gets-buried,buried,find,find-most-relevant,relevant,algorithm,algorithm-is-designed,designed,designed-to-surface,surface,surface-the-results,results,because,google,online,back,pagerank",
+            "recuweb_url": "http://en.recuweb.com/pagerank/iol.co.za/2015/04/how-google-takes-you-back-independent-online",
+            "resource_url": "http://news.google.com/?hl=en&q=pagerank&output=atom&nord=1",
+            "source_url": "http://iol.co.za/how-google-takes-you-back-1.1848760"
+        },
+        "searchenginewatch.com/2015/04/will-yandex-penalizing-paid-links-affect-other-search-engines-ranking-factors": {
+            "title": "Will Yandex Penalizing Paid Links Affect Other Search Engines Ranking Factors?",
+            "snippet": "Paid advertisements that pass PageRank, on the other hand, violate Google guidelines. Baidu is on the other end of the spectrum, with many sites listing friendly links in the footer to increase the sites rankings. One of Chinas top online travel...",
+            "date": "2015-04-22",
+            "categories": "yandex,pagerank,google,baidu,travel",
+            "tags": "increase,ranking,search,search_engines,engines,pagerank,google,online",
+            "recuweb_url": "http://en.recuweb.com/travel/searchenginewatch.com/2015/04/will-yandex-penalizing-paid-links-affect-other-search-engines-ranking-factors",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=us",
+            "source_url": "http://searchenginewatch.com/sew/how-to/2405308/will-yandex-penalizing-paid-links-affect-other-search-engines-ranking-factors"
+        },
+        "itnews.sk/2015/04/google-upravuje-pagerank-zv%C3%BDhodnen%C3%A9-bud%C3%BA-str%C3%A1nky-s-mobilnou-verziou": {
+            "title": "Google upravuje PageRank, zv\u00fdhodnen\u00e9 bud\u00fa str\u00e1nky s mobilnou verziou -...",
+            "snippet": "upravuje PageRank, zv\u00fdhodnen\u00e9 bud\u00fa str\u00e1nky s mobilnou \u00e1le viac ud\u00ed pou\u00edva na pr\u00edstup na internet mobiln\u00e9 zariadenia. A t\u00edto pou\u00edvatelia chc\u00fa pri vyhad\u00e1van\u00ed z\u00edska o najrelevantnejie a najaktu\u00e1lnejie. Google u vo febru\u00e1ri ozn\u00e1mil, e...",
+            "date": "2015-04-21",
+            "categories": "internet,google,pagerank",
+            "tags": "internet,google,pagerank",
+            "recuweb_url": "http://en.recuweb.com/pagerank/itnews.sk/2015/04/google-upravuje-pagerank-zv%C3%BDhodnen%C3%A9-bud%C3%BA-str%C3%A1nky-s-mobilnou-verziou",
+            "resource_url": "http://news.google.com/?hl=en&q=pagerank&output=atom&nord=1",
+            "source_url": "http://itnews.sk/spravy/internet/2015-04-22/c168630-google-upravuje-pagerank-zvyhodnene-budu-stranky-s-mobilnou-verziou"
+        },
+        "nzherald.co.nz/2015/04/how-to-see-everything-you-ve-ever-googled-new-zealand-herald": {
+            "title": "How to see everything you've ever Googled - New Zealand Herald...",
+            "snippet": "How to see everything you've ever GoogledNew Zealand HeraldThat's because Google's pagerank algorithm is designed to surface the results that it thinks you'll find most relevant; everything else effectively gets buried. That's obviously a really...",
+            "date": "2015-04-21",
+            "categories": "google,pagerank",
+            "tags": "obviously,everything,everything-else,everything-else-effectively,else,else-effectively,else-effectively-gets,effectively,effectively-gets,effectively-gets-buried,gets,gets-buried,buried,find,find-most-relevant,relevant,algorithm,algorithm-is-designed,designed,designed-to-surface,surface,surface-the-results,results,because,ever,googled,google,pagerank",
+            "recuweb_url": "http://en.recuweb.com/pagerank/nzherald.co.nz/2015/04/how-to-see-everything-you-ve-ever-googled-new-zealand-herald",
+            "resource_url": "http://news.google.com/?hl=en&q=pagerank&output=atom&nord=1",
+            "source_url": "http://nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=11436151"
+        },
+        "searchenginejournal.com/2015/04/is-your-web-marketing-team-irrelevant-12-red-flags-to-look": {
+            "title": "Is Your Web Marketing Team Irrelevant? 12 Red Flags to Look For...",
+            "snippet": "A good SEO will keep going back to find out what didnt work and make it better. 12. They Still Tout PageRank as a Measure of Success PageRank as a metric of success has officially died. Google has announced they are no longer updating the public...",
+            "date": "2015-04-21",
+            "categories": "pagerank,marketing,google",
+            "tags": "metric,pagerank,find,web,marketing,team,seo,back,google",
+            "recuweb_url": "http://en.recuweb.com/google/searchenginejournal.com/2015/04/is-your-web-marketing-team-irrelevant-12-red-flags-to-look",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=us",
+            "source_url": "http://searchenginejournal.com/web-marketing-team-irrelevant-12-red-flags-look/129897/"
+        },
+        "washingtonpost.com/2015/04/how-to-see-everything-youve-ever-googled-if-youre-so-brave": {
+            "title": "How to see everything youve ever Googled (if youre so brave)...",
+            "snippet": "Thats because Googles pagerank algorithm is designed to surface the results that it thinks youll find most relevant; everything else effectively gets buried. Thats obviously a really useful service, particularly when youre searching...",
+            "date": "2015-04-20",
+            "categories": "pagerank",
+            "tags": "obviously,service,everything,everything-else,everything-else-effectively,else,else-effectively,else-effectively-gets,effectively,effectively-gets,effectively-gets-buried,gets,gets-buried,buried,algorithm,algorithm-is-designed,designed,designed-to-surface,surface,surface-the-results,results,find,find-most-relevant,relevant,ever,googled,because,googles,pagerank",
+            "recuweb_url": "http://en.recuweb.com/pagerank/washingtonpost.com/2015/04/how-to-see-everything-youve-ever-googled-if-youre-so-brave",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=us",
+            "source_url": "http://washingtonpost.com/news/the-intersect/wp/2015/04/20/how-to-see-everything-youve-ever-googled-if-youre-so-brave/"
+        },
+        "searchenginejournal.com/2015/04/in-2014-how-important-is-an-h1-tag-for-seo-search": {
+            "title": "In 2014, How Important is an H1 Tag for SEO? - Search Engine Journal...",
+            "snippet": "Search Engine JournalIn 2014, How Important is an H1 Tag for SEO?Search Engine JournalThe lost opportunity in this argument is that both sides tend to focus on the direct relationship between an H1 tag and its ability to help a page rank by...",
+            "date": "2015-04-20",
+            "categories": "pagerank,search-engine",
+            "tags": "page,page-rank,rank,search,search_engine,engine,seo",
+            "recuweb_url": "http://en.recuweb.com/search-engine/searchenginejournal.com/2015/04/in-2014-how-important-is-an-h1-tag-for-seo-search",
+            "resource_url": "http://news.google.com/?hl=en&q=pagerank&output=atom&nord=1",
+            "source_url": "http://searchenginejournal.com/in-2014-how-important-is-an-h1-tag-for-seo/"
         },
         "efytimes.com/2015/04/new-page-ranking-algorithm-patent-for-internet-search-engines": {
             "title": "New Page Ranking Algorithm Patent For Internet Search Engines...",
             "snippet": "The Active Search Results team believes that, \"ASR's Page Ranking Technology is the new website page ranking algorithm that will excel a single or group of search engines to the forefront of the search industry as Googles PageRank did in 1998.\"...",
             "date": "2015-04-15",
             "categories": "pagerank,technology,internet",
-            "tags": "googles,pagerank,website,page,technology,team,search,results,algorithm,internet",
+            "tags": "googles,pagerank,page,ranking,algorithm,search,search_engines,engines,industry,team,results,internet,website",
             "recuweb_url": "http://en.recuweb.com/internet/efytimes.com/2015/04/new-page-ranking-algorithm-patent-for-internet-search-engines",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=us",
             "source_url": "http://efytimes.com/e1/fullnews.asp?edid=164791"
-        },
-        "huffingtonpost.com/2015/04/google-image-search-has-a-gender-bias-problem": {
-            "title": "Google Image Search Has A Gender Bias Problem...",
-            "snippet": "Google's searches take into account a number of factors, like keywords, timeliness of the content, where you're searching from and PageRank, which is Google's way of analyzing how important a page on the Internet is. Google declined to comment about...",
-            "date": "2015-04-10",
-            "categories": "google,pagerank,internet",
-            "tags": "content,number,search,into,google,problem,pagerank,page,internet",
-            "recuweb_url": "http://en.recuweb.com/internet/huffingtonpost.com/2015/04/google-image-search-has-a-gender-bias-problem",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=us",
-            "source_url": "http://huffingtonpost.com/2015/04/10/google-image-gender-bias_n_7036414.html"
-        },
-        "mvariety.com/2015/04/the-three-generations-in-it-marianas-variety": {
-            "title": "The three generations in IT - Marianas Variety...",
-            "snippet": "The three generations in ITMarianas VarietyLawrence Larry Page (born March 26, 1973), inventor of PageRank (original Google algorithm), and Sergey Mikhaylovich Brin (born August 21, 1973), Google co-founders, both MIT Technology Review Top 100...",
-            "date": "2015-04-07",
-            "categories": "technology,pagerank,google",
-            "tags": "mit,mit_technology,technology,sergey,brin,larry,larry_page,page,pagerank,google,algorithm,founders,top",
-            "recuweb_url": "http://en.recuweb.com/google/mvariety.com/2015/04/the-three-generations-in-it-marianas-variety",
-            "resource_url": "http://news.google.com/?hl=en&q=pagerank%2Bpagerank&output=atom&nord=1",
-            "source_url": "http://mvariety.com/cnmi/cnmi-news/editorials/75571-the-three-generations-in-it"
-        },
-        "lrb.co.uk/2015/03/ben-jackson-london-review-of-books-subscription": {
-            "title": "Ben Jackson - London Review of Books (subscription)...",
-            "snippet": "London Review of Books (subscription)Ben JacksonLondon Review of Books (subscription)Then, in 1996, Google's founders, Larry Page and Sergey Brin, invented the PageRank system, which ranks webpages based not just on their content, but also on the...",
-            "date": "2015-03-25",
-            "categories": "google,pagerank",
-            "tags": "content,sergey,brin,larry,larry_page,page,founders,google,pagerank",
-            "recuweb_url": "http://en.recuweb.com/pagerank/lrb.co.uk/2015/03/ben-jackson-london-review-of-books-subscription",
-            "resource_url": "http://news.google.com/?hl=en&q=pagerank%2Bpagerank&output=atom&nord=1",
-            "source_url": "http://lrb.co.uk/v37/n07/ben-jackson/having-fun"
-        },
-        "technologyreview.com/2015/03/pagerank-algorithm-reveals-world-s-all-time-top-soccer-team-mit": {
-            "title": "Pagerank Algorithm Reveals World's All-Time Top Soccer Team - MIT Technology Review (blog)...",
-            "snippet": "Pagerank Algorithm Reveals World's All-Time Top Soccer TeamMIT Technology Review (blog)Today, Verica Lazova and Lasko Basnarkov at Cyril and Methodius University in Macedonia have found another use for the Pagerank algorithm. These guys have used it...",
-            "date": "2015-03-13",
-            "categories": "university,technology,pagerank",
-            "tags": "top,technology,mit,mit_technology,team,pagerank,algorithm",
-            "recuweb_url": "http://en.recuweb.com/pagerank/technologyreview.com/2015/03/pagerank-algorithm-reveals-world-s-all-time-top-soccer-team-mit",
-            "resource_url": "http://news.google.com/?hl=en&q=pagerank%2Bpagerank&output=atom&nord=1",
-            "source_url": "http://technologyreview.com/view/535861/pagerank-algorithm-reveals-worlds-all-time-top-soccer-team/"
-        },
-        "fourthsource.com/2015/02/how-low-value-pages-harm-pagerank-fourth-source": {
-            "title": "How low value pages harm PageRank - Fourth Source...",
-            "snippet": "How low value pages harm PageRankFourth SourceThese low value pages soak up PageRank and link equity from within a website, leaving less equity to be shared across the high value pages. This is done through MegaNavs, as in this example, and faceted...",
-            "date": "2015-02-11",
-            "categories": "pagerank",
-            "tags": "example,across,value,website,pagerank",
-            "recuweb_url": "http://en.recuweb.com/pagerank/fourthsource.com/2015/02/how-low-value-pages-harm-pagerank-fourth-source",
-            "resource_url": "http://news.google.com/?hl=en&q=pagerank&output=atom&nord=1",
-            "source_url": "http://fourthsource.com/search-marketing/seo/low-value-pages-harm-pagerank-18582"
-        },
-        "webpronews.com/2014/11/google-we-don-t-plan-on-updating-pagerank-again-webpronews": {
-            "title": "Google: We Don't Plan On Updating PageRank Again - WebProNews...",
-            "snippet": "Google: We Don't Plan On Updating PageRank AgainWebProNewsThe writing has been on the wall for quite some time, but if you're still clinging to any shred of hope that Google will be updating Toolbar PageRank again, it's probably time to give it up.",
-            "date": "2014-11-24",
-            "categories": "pagerank,google",
-            "tags": "pagerank,google",
-            "recuweb_url": "http://en.recuweb.com/google/webpronews.com/2014/11/google-we-don-t-plan-on-updating-pagerank-again-webpronews",
-            "resource_url": "http://news.google.com/?hl=en&q=pagerank&output=atom&nord=1",
-            "source_url": "http://webpronews.com/google-we-dont-plan-on-updating-pagerank-again-2014-11"
         }
     }
 }
