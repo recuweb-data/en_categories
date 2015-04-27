@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "phpbb",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/phpbb/",
@@ -10,24 +11,24 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/phpbb/phpbb/blogs.json"
     },
     "items": {
-        "webmagazin.de/2015/03/wordpress-alternativen-3-b2evolution-webmagazin": {
-            "title": "WordPress-Alternativen 3: b2evolution - webmagazin...",
-            "snippet": "webmagazinWordPress-Alternativen 3: b2evolutionwebmagazinImporter f\u00fcr Inhalte, die mit WordPress oder phpBB erstellt wurden, sind vorhanden, so dass der Migration eines vorhandenen Weblogs nichts im Wege stehen sollte. Der Installations-Assistent...",
-            "date": "2015-03-31",
-            "categories": "wordpress,phpbb",
-            "tags": "der,dass,die,wordpress,f\u00fcr,phpbb",
-            "recuweb_url": "http://en.recuweb.com/phpbb/webmagazin.de/2015/03/wordpress-alternativen-3-b2evolution-webmagazin",
+        "infoq.com/2015/04/zerodb-internals-and-end-to-database-encryption": {
+            "title": "ZeroDB Internals and End-To-End Database Encryption -...",
+            "snippet": "ZeroDB Internals and End-To-End Database in a research paper and hosted in GitHub, it claims just 14.5% performance degradation for phpBB and 26% for TPC-C query load compared to unmodified MySQL. CryptDB is in research prototype stage. According to...",
+            "date": "2015-04-10",
+            "categories": "database,phpbb,mysql",
+            "tags": "database,phpbb,mysql",
+            "recuweb_url": "http://en.recuweb.com/mysql/infoq.com/2015/04/zerodb-internals-and-end-to-database-encryption",
             "resource_url": "http://news.google.com/?hl=en&q=phpbb&output=atom&nord=1",
-            "source_url": "http://webmagazin.de/webtech/wordpress-alternativen-3-b2evolution-41666000"
+            "source_url": "http://infoq.com/news/2015/04/Encrypt-Database-CryptDB-ZeroDB"
         },
         "hexus.net/2015/03/wd-my-cloud-ex4100-hexus": {
             "title": "WD My Cloud EX4100 - HEXUS...",
             "snippet": "HEXUSWD My Cloud EX4100HEXUSThird-party apps have been introduced to help close the gap - these include aMule, phpBB and WordPress, among others - but the My Cloud OS still has some catching up to do. Built-in anti-virus and a surveillance package...",
             "date": "2015-03-26",
             "categories": "surveillance,phpbb,wordpress",
-            "tags": "phpbb,wordpress",
+            "tags": "phpbb",
             "recuweb_url": "http://en.recuweb.com/wordpress/hexus.net/2015/03/wd-my-cloud-ex4100-hexus",
-            "resource_url": "http://news.google.com/?hl=en&q=phpbb&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=phpbb%2Bphpbb&output=atom&nord=1",
             "source_url": "http://hexus.net/tech/reviews/storage/81856-wd-my-cloud-ex4100/"
         },
         "virtual-strategy.com/2015/03/launches-phpbb-hosting": {
@@ -35,7 +36,7 @@
             "snippet": ", a leading Windows web hosting provider with innovative technology solutions, today announced the supports for phpBB Hosting. London, United Kingdom, March 15, 2015 --()-- was established to cater to an under...",
             "date": "2015-03-15",
             "categories": "technology,phpbb",
-            "tags": "today,phpbb,hosting,windows,web",
+            "tags": "today,phpbb,hosting,web",
             "recuweb_url": "http://en.recuweb.com/phpbb/virtual-strategy.com/2015/03/launches-phpbb-hosting",
             "resource_url": "http://www.bing.com/news/search?first=1&q=phpbb&format=RSS&cc=us",
             "source_url": "http://virtual-strategy.com/2015/03/15/hostforlifeeu-launches-phpbb-313-hosting"
@@ -55,7 +56,7 @@
             "snippet": "(Invision Community Suite) Perhaps the best solution when it comes to commercial forum software. offers spam protection that is unmatched with a huge community & an extensive marketplace of addons and themes. PHPBB PHPBB is one of the...",
             "date": "2014-12-20",
             "categories": "phpbb",
-            "tags": "phpbb,huge,community,themes,best,forum,software",
+            "tags": "phpbb,huge,community,themes,forum,software",
             "recuweb_url": "http://en.recuweb.com/phpbb/cmscritic.com/2014/12/list-of-forum-software",
             "resource_url": "http://www.bing.com/news/search?first=1&q=phpbb%2Bphpbb&format=RSS&cc=us",
             "source_url": "http://cmscritic.com/resource-lists/forum-list/"
@@ -65,7 +66,7 @@
             "snippet": "The worm replaces chat forums with a webpage announcing that the site had been defaced by the malicious program. Soon after being infected, sites hit by the worm started randomly searching for other websites running the vulnerable phpBB software.",
             "date": "2014-12-19",
             "categories": "phpbb",
-            "tags": "sites,running,chat,site,phpbb,software",
+            "tags": "phpbb,software",
             "recuweb_url": "http://en.recuweb.com/phpbb/news.bbc.co.uk/2014/12/santy-worm-makes-unwelcome-visit",
             "resource_url": "http://www.bing.com/news/search?first=1&q=phpbb%2Bphpbb&format=RSS&cc=us",
             "source_url": "http://news.bbc.co.uk/2/hi/technology/4117711.stm"
@@ -75,9 +76,9 @@
             "snippet": "PhpBB-Webserver geknackt, Zugangsdaten kopiertHeise NewstickerDie Webseite der beliebten freien Forensoftware PhpBB ist seit dem Wochenende offline. Die Betreiber des Projektes haben nun mitgeteilt, dass Angreifer es geschafft haben, \u00fcber den...",
             "date": "2014-12-18",
             "categories": "phpbb",
-            "tags": "die,der,phpbb,dass",
+            "tags": "haben,der,forensoftware,phpbb",
             "recuweb_url": "http://en.recuweb.com/phpbb/heise.de/2014/12/phpbb-webserver-geknackt-zugangsdaten-kopiert-heise-newsticker",
-            "resource_url": "http://news.google.com/?hl=en&q=phpbb&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=phpbb%2Bphpbb&output=atom&nord=1",
             "source_url": "http://heise.de/security/meldung/PhpBB-Webserver-geknackt-Zugangsdaten-kopiert-2499688.html"
         },
         "linuxexpres.cz/2014/12/phpbb-3-1-pozd-ale-pece-linuxexpres": {
@@ -87,28 +88,28 @@
             "categories": "phpbb",
             "tags": "phpbb,web",
             "recuweb_url": "http://en.recuweb.com/phpbb/linuxexpres.cz/2014/12/phpbb-3-1-pozd-ale-pece-linuxexpres",
-            "resource_url": "http://news.google.com/?hl=en&q=phpbb&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=phpbb%2Bphpbb&output=atom&nord=1",
             "source_url": "http://linuxexpres.cz/software/phpbb-3-1-pozde-ale-prece"
         },
-        "blogs.msdn.com/2012/10/new-open-source-options-for-windows-azure-web-sites-mediawiki": {
-            "title": "New open source options for Windows Azure web sites: MediaWiki and phpBB...",
-            "snippet": "You can deploy a free Windows Azure Web Site running MediaWiki or phpBB with just a few mouse clicks. Sign up for the free trial if you dont already have a Windows Azure subscription, and then select the option to create a new web site from the...",
-            "date": "2012-10-01",
-            "categories": "phpbb",
-            "tags": "web,site,running,windows,open,sites,phpbb,free,create",
-            "recuweb_url": "http://en.recuweb.com/phpbb/blogs.msdn.com/2012/10/new-open-source-options-for-windows-azure-web-sites-mediawiki",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=phpbb&format=RSS&cc=us",
-            "source_url": "http://blogs.msdn.com/b/interoperability/archive/2012/10/02/new-open-source-options-for-windows-azure-web-sites-mediawiki-and-phpbb.aspx"
+        "tweakers.net/2014/11/software-update-phpbb-tweakers": {
+            "title": "Software-update: phpBB - Tweakers...",
+            "snippet": "TweakersSoftware-update: phpBB logo (27 pix) Versie van phpBB is uitgebracht. Met dit programma is het mogelijk om een webforum te maken. PhpBB wordt onder de gpl-licentie beschikbaar gesteld en maakt gebruik van php en een databaseprogramma om...",
+            "date": "2014-11-26",
+            "categories": "php,phpbb",
+            "tags": "php,software,update,phpbb",
+            "recuweb_url": "http://en.recuweb.com/phpbb/tweakers.net/2014/11/software-update-phpbb-tweakers",
+            "resource_url": "http://news.google.com/?hl=en&q=phpbb%2Bphpbb&output=atom&nord=1",
+            "source_url": "http://tweakers.net/downloads/33854/phpbb-312.html"
         },
-        "makeuseof.com/2011/03/the-3-best-free-bulletin-boards-to-set-up-your-own": {
-            "title": "The 3 Best Free Bulletin Boards To Set Up Your Own Forum...",
-            "snippet": "Lets take a look at three of the best free bulletin boards you can find today. Now over a decade old, phpBB has long been considered the premier free bulletin board for users across the globe. Its a shining example of the quality of product open...",
-            "date": "2011-03-01",
-            "categories": "phpbb",
-            "tags": "quality,open,today,best,free,own,forum,phpbb",
-            "recuweb_url": "http://en.recuweb.com/phpbb/makeuseof.com/2011/03/the-3-best-free-bulletin-boards-to-set-up-your-own",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=phpbb&format=RSS&cc=us",
-            "source_url": "http://makeuseof.com/tag/3-free-bulletin-boards-set-forum/"
+        "neoteo.com/2014/11/phpbb-los-mejores-desarrolladores-neoteo": {
+            "title": "phpBB: Los mejores desarrolladores - NeoTeo...",
+            "snippet": "phpBB: Los mejores desarrolladoresNeoTeoEn este art\u00edculo de los mejores desarrolladores hablaremos de phpBB, un sistema de foros basado en un paquete de c\u00f3digo que es desarrollado con el lenguaje de programaci\u00f3n web PHP (lenguaje de programaci\u00f3n...",
+            "date": "2014-11-01",
+            "categories": "phpbb,php",
+            "tags": "phpbb,web,php",
+            "recuweb_url": "http://en.recuweb.com/php/neoteo.com/2014/11/phpbb-los-mejores-desarrolladores-neoteo",
+            "resource_url": "http://news.google.com/?hl=en&q=phpbb%2Bphpbb&output=atom&nord=1",
+            "source_url": "http://neoteo.com/phpbb-los-mejores-desarrolladores/"
         }
     }
 }
