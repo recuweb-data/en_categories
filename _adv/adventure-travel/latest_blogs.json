@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "adventure-travel",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/adventure-travel/",
@@ -10,48 +11,59 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/adventure-travel/adventure-travel/blogs.json"
     },
     "items": {
-        "theadventureblog.blogspot.com/2015/04/the-adventure-blog-adventures-in-egypt-quiet-and-calm-cairo": {
-            "title": "The Adventure Blog: Adventures in Egypt: Quiet and Calm in Cairo...",
-            "snippet": "I am traveling with a group of tourists on the Absolute Egypt tour offered by G Adventures. On our second day here we had the privilege of spending some time in Giza at the Great Pyramid and the... In a few days I'll head out into the Sahara on a...",
-            "date": "2015-04-23",
+        "theadventureblog.blogspot.com/2015/04/the-adventure-blog-adventures-in-egypt-great-pyramid-of-giza": {
+            "title": "The Adventure Blog: Adventures in Egypt: The Great Pyramid of Giza...",
+            "snippet": "Not only will you find plenty of good deals for travel within the country, you'll also discover that the most famous sites are far from overcrowded. That hasn't always been the case in the past, and now is the time to take...",
+            "date": "2015-04-24",
             "author_name": "Kraig Becker",
-            "categories": "adventure",
-            "tags": "into,few,day,group,adventure,adventures,tour,here",
-            "recuweb_url": "http://en.recuweb.com/adventure/theadventureblog.blogspot.com/2015/04/the-adventure-blog-adventures-in-egypt-quiet-and-calm-cairo",
+            "categories": "adventure,travel",
+            "tags": "only,find,deals,great,adventure,adventure_blog,adventures,egypt,travel",
+            "recuweb_url": "http://en.recuweb.com/travel/theadventureblog.blogspot.com/2015/04/the-adventure-blog-adventures-in-egypt-great-pyramid-of-giza",
             "resource_url": "http://www.google.com/search?q=adventure%2Btravel%2Badventure%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theadventureblog.blogspot.com/2015/04/adventures-in-egypt-quiet-and-calm-in.html"
+            "source_url": "http://theadventureblog.blogspot.com/2015/04/adventures-in-egypt-great-pyramid-of.html"
         },
-        "adventuretravelnews.com/2015/04/view-adventureweek-baja-sur-slideshow-adventure-travel-news": {
-            "title": "VIEW: AdventureWeek Baja Sur Slideshow Adventure Travel News...",
-            "snippet": "In March of this year, the Adventure Travel Trade Association hosted a group of tour operators and media to see the adventurous side of Baja California Sur in.",
-            "date": "2015-04-21",
+        "adventuretravelnews.com/2015/04/update-on-volcanic-eruption-in-chile-near-puerto-varas-adventure": {
+            "title": "Update on Volcanic Eruption in Chile Near Puerto Varas Adventure...",
+            "snippet": "For those who have not heard, there was a volcanic eruption on April 22 near Puerto Varas, Chile the host site of the upcoming Adventure Travel World Summit this October. Some of the ATTA team are in Brazil this week for...",
+            "date": "2015-04-22",
             "author_name": "ATN Editor",
             "categories": "adventure,adventure-travel,travel",
-            "tags": "california,side,group,adventure,adventure_travel,travel,year,adventure_travel_news,travel_news,tour",
-            "recuweb_url": "http://en.recuweb.com/travel/adventuretravelnews.com/2015/04/view-adventureweek-baja-sur-slideshow-adventure-travel-news",
+            "tags": "week,team,adventure,adventure_travel,travel,host,heard,atta,brazil",
+            "recuweb_url": "http://en.recuweb.com/travel/adventuretravelnews.com/2015/04/update-on-volcanic-eruption-in-chile-near-puerto-varas-adventure",
             "resource_url": "http://www.google.com/search?q=adventure%2Btravel%2Badventure%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://adventuretravelnews.com/view-adventureweek-baja-sur-slideshow"
+            "source_url": "http://adventuretravelnews.com/update-on-volcanic-eruption-in-chile-near-puerto-varas"
         },
-        "healthytravelblog.com/2015/04/hear-me-roar-the-female-adventure-travel-trend-healthy": {
-            "title": "Hear Me Roar: The Female Adventure Travel Trend Healthy Travel...",
-            "snippet": "Susan Eckert with a male silverback gorilla on a gorilla trek in Uganda. Lions on the runway! a voice yelled over the speakers on Susan Eckert's plane. She.",
-            "date": "2015-04-20",
-            "author_name": "Nicole Jenet",
-            "categories": "adventure,adventure-travel,travel",
-            "tags": "speakers,adventure,adventure_travel,travel,trend",
-            "recuweb_url": "http://en.recuweb.com/travel/healthytravelblog.com/2015/04/hear-me-roar-the-female-adventure-travel-trend-healthy",
+        "adventuretravelnews.com/2015/04/adventureconnect-montpellier-may-change-the-face-of-adventure": {
+            "title": "AdventureConnect Montpellier May Change the Face of Adventure...",
+            "snippet": "Building on what already exists in the region, Languedoc-Roussillon is steadily invigorating its brand as a high-quality adventure travel destination in the south of France. Languedoc's investment in using the emerging trend of...",
+            "date": "2015-04-21",
+            "author_name": "Dawn Rainbolt",
+            "categories": "adventure,travel",
+            "tags": "destination,south,adventure,quality,travel",
+            "recuweb_url": "http://en.recuweb.com/travel/adventuretravelnews.com/2015/04/adventureconnect-montpellier-may-change-the-face-of-adventure",
             "resource_url": "http://www.google.com/search?q=adventure%2Btravel%2Badventure%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://healthytravelblog.com/2015/04/20/hear-me-roar-the-female-adventure-travel-trend/"
+            "source_url": "http://adventuretravelnews.com/adventureconnect-montpellier-may-change-the-face-of-adventure-travel-in-southern-france"
+        },
+        "outdoorsnw.com/2015/04/escapes-adventure-travel-for-seniors-outdoorsnw-magazine": {
+            "title": "Escapes: Adventure Travel for Seniors OutdoorsNW Magazine...",
+            "snippet": "Many adventure-travel firms, for example, are offering a menu of tripsa rough-and-tumble version for the youngsters, and alongside it, a more comfortable experience for us who are a bit older. The destination may be the...",
+            "date": "2015-04-20",
+            "author_name": "Chuck",
+            "categories": "adventure,adventure-travel,travel",
+            "tags": "destination,experience,adventure,adventure_travel,travel",
+            "recuweb_url": "http://en.recuweb.com/travel/outdoorsnw.com/2015/04/escapes-adventure-travel-for-seniors-outdoorsnw-magazine",
+            "resource_url": "http://www.google.com/search?q=adventure%2Btravel%2Badventure%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://outdoorsnw.com/2015/escapes-adventure-travel-for-seniors/"
         },
         "adventuretravelnews.com/2015/04/magri-turismo-adventure-travel-news": {
             "title": "Magri Turismo Adventure Travel News...",
-            "snippet": "In order to show the world the rich cultural and geographical nature of Bolivia, Magri Turismo created, since 1973, an extensive network of operations in the.",
+            "snippet": "Adventure travel, one of the most comprehensive and best in the country. Permanently dedicated to explore new destinations, along with modern and first-quality equipment required in the various programs of special interest, such as trekking,...",
             "date": "2015-04-20",
             "author_name": "ATN Editor",
-            "categories": "nature,adventure,adventure-travel,travel",
-            "tags": "network,cultural,nature,show,adventure,adventure_travel,adventure_travel_news,travel,travel_news,world",
+            "categories": "adventure,adventure-travel,travel",
+            "tags": "quality,destinations,comprehensive,adventure,adventure_travel,travel",
             "recuweb_url": "http://en.recuweb.com/travel/adventuretravelnews.com/2015/04/magri-turismo-adventure-travel-news",
-            "resource_url": "http://www.google.com/search?q=adventure%2Btravel%2Badventure%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=adventure%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://adventuretravelnews.com/magri-turismo"
         },
         "adventuretravelnews.com/2015/04/new-virtuoso-active-&-specialty-catalog-highlights-network": {
@@ -60,32 +72,10 @@
             "date": "2015-04-20",
             "author_name": "ATN Editor",
             "categories": "travel,adventure,adventure-travel,life",
-            "tags": "travel,experiences,york,first,adventure,adventure_travel,network,life,vast",
+            "tags": "travel,york,adventure,adventure_travel,industry,life",
             "recuweb_url": "http://en.recuweb.com/life/adventuretravelnews.com/2015/04/new-virtuoso-active-&-specialty-catalog-highlights-network",
             "resource_url": "http://www.google.com/search?q=adventure%2Btravel%2Badventure%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://adventuretravelnews.com/new-virtuoso-active-specialty-catalog-highlights-network-leadership-in-booming-adventure-travel-market"
-        },
-        "adventuretravelnews.com/2015/04/releases-optimistic-2015-whitewater-rafting-forecast": {
-            "title": ". Releases Optimistic 2015 Whitewater Rafting Forecast...",
-            "snippet": "The Director of Zara Tanzania Adventures receive Prize. Zara Tanzania Adventures Recognized as the Best Tour Company of the Year... You Win Some, You Lose Some: 2014's Best Experiments in Adventure Travel. December, 30th 2014.",
-            "date": "2015-04-20",
-            "author_name": "ATN Editor",
-            "categories": "adventure,adventure-travel,travel,rafting",
-            "tags": "adventure,adventure_travel,travel,best,tour,company,adventures,year",
-            "recuweb_url": "http://en.recuweb.com/rafting/adventuretravelnews.com/2015/04/releases-optimistic-2015-whitewater-rafting-forecast",
-            "resource_url": "http://www.google.com/search?q=adventure%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://adventuretravelnews.com/o-a-r-s-releases-optimistic-2015-whitewater-rafting-forecast"
-        },
-        "adventuretravelnews.com/2015/04/paitc-2015-keynote-speakers-announced-adventure-travel-news": {
-            "title": "PAITC 2015 Keynote Speakers Announced Adventure Travel News...",
-            "snippet": "Two keynote speakers have been selected to set the scene for 2nd Pacific Asia Indigenous Tourism Conference (PAITC) 2015. The conference theme, Creating.",
-            "date": "2015-04-20",
-            "author_name": "ATN Editor",
-            "categories": "tourism,adventure,adventure-travel,travel",
-            "tags": "asia,tourism,speakers,adventure,adventure_travel,adventure_travel_news,travel,travel_news",
-            "recuweb_url": "http://en.recuweb.com/travel/adventuretravelnews.com/2015/04/paitc-2015-keynote-speakers-announced-adventure-travel-news",
-            "resource_url": "http://www.google.com/search?q=adventure%2Btravel%2Badventure%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://adventuretravelnews.com/paitc-2015-keynote-speakers-announced"
         },
         "adventuretravelnews.com/2015/04/ripcord-travel-insurance-earns-s-first-ever": {
             "title": "Ripcord Travel Insurance Earns 's First-Ever...",
@@ -93,7 +83,7 @@
             "date": "2015-04-20",
             "author_name": "ATN Editor",
             "categories": "insurance,travel,adventure",
-            "tags": "booking,first,ever,travel,adventure,people",
+            "tags": "people,booking,next,online,travel,adventure,experience",
             "recuweb_url": "http://en.recuweb.com/adventure/adventuretravelnews.com/2015/04/ripcord-travel-insurance-earns-s-first-ever",
             "resource_url": "http://www.google.com/search?q=adventure%2Btravel%2Badventure%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://adventuretravelnews.com/ripcord-travel-insurance-earns-adventure-coms-first-ever-corporate-partnership"
@@ -104,21 +94,32 @@
             "date": "2015-04-20",
             "author_name": "ATN Editor",
             "categories": "adventure,travel",
-            "tags": "international,before,cultural,adventure,travel",
+            "tags": "adventure,travel",
             "recuweb_url": "http://en.recuweb.com/travel/adventuretravelnews.com/2015/04/sven-lindblad-appointed-cultural-ambassador-of-seychelles",
-            "resource_url": "http://www.google.com/search?q=adventure%2Btravel%2Badventure%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=adventure%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://adventuretravelnews.com/sven-lindblad-appointed-cultural-ambassador-of-seychelles"
         },
-        "adventuretravelnews.com/2015/04/adventureconnect-montpellier-may-change-the-face-of-adventure": {
-            "title": "AdventureConnect Montpellier May Change the Face of Adventure...",
-            "snippet": "Building on what already exists in the region, Languedoc-Roussillon is steadily invigorating its brand as a high-quality adventure travel destination in the south of France. Languedoc's investment in using the emerging trend of...",
-            "date": "2015-04-16",
-            "author_name": "Dawn Rainbolt",
-            "categories": "adventure,travel",
-            "tags": "trend,brand,already,adventure,travel",
-            "recuweb_url": "http://en.recuweb.com/travel/adventuretravelnews.com/2015/04/adventureconnect-montpellier-may-change-the-face-of-adventure",
+        "theadventureblog.blogspot.com/2015/04/the-adventure-blog-is-back-on-hiatus-i-m-egypt-bound": {
+            "title": "The Adventure Blog is Back on Hiatus I'm Egypt Bound!",
+            "snippet": "The travel industry is vital to the economy there, but it has been crippled due to unrest in recent years. I've heard reports that the major attractions and monuments have been all-but empty at times, and I want to see if that...",
+            "date": "2015-04-17",
+            "author_name": "Kraig Becker",
+            "categories": "economy,adventure,travel",
+            "tags": "heard,industry,egypt,adventure,adventure_blog,back,travel",
+            "recuweb_url": "http://en.recuweb.com/travel/theadventureblog.blogspot.com/2015/04/the-adventure-blog-is-back-on-hiatus-i-m-egypt-bound",
             "resource_url": "http://www.google.com/search?q=adventure%2Btravel%2Badventure%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://adventuretravelnews.com/adventureconnect-montpellier-may-change-the-face-of-adventure-travel-in-southern-france"
+            "source_url": "http://theadventureblog.blogspot.com/2015/04/the-adventure-blog-is-back-on-hiatus-im.html"
+        },
+        "adventuretravelnews.com/2015/04/bringing-the-adventure-atta-will-have-big-presence-at-wtm-latin": {
+            "title": "Bringing the Adventure: ATTA Will Have Big Presence at WTM Latin...",
+            "snippet": "The popular trade event will be held in S\u00e3o Paulo, Brazil, April 22 24, 2015, and the Adventure Travel Trade Association will be there. WTMLA attendees can find representatives from ATTA's Latin America team at a booth and at a series of...",
+            "date": "2015-04-14",
+            "author_name": "Gabriella Zampoli de Assis",
+            "categories": "travel,adventure",
+            "tags": "team,america,find,travel,atta,adventure,brazil",
+            "recuweb_url": "http://en.recuweb.com/adventure/adventuretravelnews.com/2015/04/bringing-the-adventure-atta-will-have-big-presence-at-wtm-latin",
+            "resource_url": "http://www.google.com/search?q=adventure%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://adventuretravelnews.com/bringing-the-adventure-atta-will-have-big-presence-at-wtm-latin-america"
         }
     }
 }
