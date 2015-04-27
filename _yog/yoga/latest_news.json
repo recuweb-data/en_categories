@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "yoga",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/yoga/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/yoga/yoga/blogs.json"
     },
     "items": {
-        "in.news.yahoo.com/2015/02/indian-yoga-guru-bikram-choudhury-facing-6-sexual-assault-charges-in": {
-            "title": "Indian yoga guru Bikram Choudhury facing 6 sexual assault charges in US...",
-            "snippet": "London, Feb 25 (ANI): Bikram Choudhury, renowned Indian yoga guru who has celebrity devotees like Madonna, David Beckham, Jennifer Aniston and George Clooney, is facing sexual assault lawsuits in US. Choudhury, who is also facing a stream of...",
-            "date": "2015-02-25",
+        "dailymail.co.uk/2015/04/good-intentions-reese-witherspoon-shows-off-her-trim-figure": {
+            "title": "Good Intentions! Reese Witherspoon shows off her trim figure as she enjoys classic weekend routine...",
+            "snippet": "Reese Witherspoon is in amazing shape and on Saturday she was reminding people how she stays so trim. The 39-year-old was spotted in her gym gear as she finished a session at her favourite yoga studio in Brentwood, California. The blonde beauty then...",
+            "date": "2015-04-25",
+            "categories": "yoga",
+            "tags": "studio,gym,gear,session,figure,saturday,yoga",
+            "recuweb_url": "http://en.recuweb.com/yoga/dailymail.co.uk/2015/04/good-intentions-reese-witherspoon-shows-off-her-trim-figure",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=yoga&format=RSS&cc=us",
+            "source_url": "http://dailymail.co.uk/tvshowbiz/article-3055273/Good-Intentions-Reese-Witherspoon-shows-trim-figure-enjoys-classic-weekend-routine-yoga-green-juice.html"
+        },
+        "ktvb.com/2015/04/hundreds-practice-yoga-on-bsu-s-blue-turf": {
+            "title": "Hundreds practice yoga on BSU's blue turf...",
+            "snippet": "Hundreds practice yoga on BSU's blue turf Hundreds participated in a public, hour-long yoga session on Boise State's blue turf on Saturday. Check out this story on:...",
+            "date": "2015-04-25",
+            "categories": "yoga",
+            "tags": "session,yoga,saturday",
+            "recuweb_url": "http://en.recuweb.com/yoga/ktvb.com/2015/04/hundreds-practice-yoga-on-bsu-s-blue-turf",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=yoga&format=RSS&cc=us",
+            "source_url": "http://ktvb.com/story/life/2015/04/25/yoga-boise-state-turf/26378361/"
+        },
+        "orlandosentinel.com/2015/04/stroke-survivors-turn-to-yoga-therapy-orlando-sentinel": {
+            "title": "Stroke survivors turn to yoga therapy - Orlando Sentinel...",
+            "snippet": "Orlando SentinelStroke survivors turn to yoga therapyOrlando SentinelA few preliminary and pilot studies have shown that yoga therapy can be beneficial for stroke survivors and improve their mental health and quality of life. Although evidence is...",
+            "date": "2015-04-25",
+            "categories": "evidence,therapy,stroke,mental-health,health,quality-of-life,life,yoga",
+            "tags": "improve,yoga",
+            "recuweb_url": "http://en.recuweb.com/yoga/orlandosentinel.com/2015/04/stroke-survivors-turn-to-yoga-therapy-orlando-sentinel",
+            "resource_url": "http://news.google.com/?hl=en&q=yoga%2Byoga&output=atom&nord=1",
+            "source_url": "http://orlandosentinel.com/health/os-stroke-bcenter-yoga-therapy-20150425-story.html"
+        },
+        "13wmaz.com/2015/04/yoga-helps-veterans-heal-after-combat": {
+            "title": "Yoga helps veterans heal after combat...",
+            "snippet": "Yoga is proving to be more than just a way to relax for a group of Tampa Bay area veterans. It's helping them heal from injuries both seen and unseen. I was a wreck. I had sweaty palms for years, said Don Hartigan. Hartigan was a gunner and scout in...",
+            "date": "2015-04-25",
+            "categories": "injuries,yoga",
+            "tags": "sweaty,yoga,said",
+            "recuweb_url": "http://en.recuweb.com/yoga/13wmaz.com/2015/04/yoga-helps-veterans-heal-after-combat",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=yoga&format=RSS&cc=us",
+            "source_url": "http://13wmaz.com/story/news/military/2015/04/25/yoga-helps-veterans-heal-after-combat/26362969/"
+        },
+        "brisbanetimes.com.au/2015/04/yoga-pants-make-great-strides-in-the-office": {
+            "title": "Yoga pants make great strides in the office...",
+            "snippet": "The trend to figure-hugging gear promises nirvana for interested onlookers. Yoga pants, dance tights, running skins call 'em what you will, it's difficult to imagine a greater boon for the infamous male gaze than these figure-hugging garments.",
+            "date": "2015-04-25",
+            "categories": "dance,yoga",
+            "tags": "figure,gear,yoga",
+            "recuweb_url": "http://en.recuweb.com/yoga/brisbanetimes.com.au/2015/04/yoga-pants-make-great-strides-in-the-office",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=yoga&format=RSS&cc=us",
+            "source_url": "http://brisbanetimes.com.au/comment/yoga-pants-make-great-strides-in-the-office-20150425-1mipxy.html"
+        },
+        "rediff.com/2015/04/buildings-were-falling-down-like-a-pack-of-cards-ramdev": {
+            "title": "Buildings were falling down like a pack of cards: Ramdev has a narrow escape...",
+            "snippet": "Yoga Guru Ramdev had a narrow escape during the devastating earthquake in Kathmandu on Saturday as a dais from which he had addressed a gathering collapsed soon after he stepped down. Ramdev also said that he saw a multi-story building collapsing...",
+            "date": "2015-04-24",
+            "categories": "yoga",
+            "tags": "said,escape,yoga,saturday",
+            "recuweb_url": "http://en.recuweb.com/yoga/rediff.com/2015/04/buildings-were-falling-down-like-a-pack-of-cards-ramdev",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=yoga&format=RSS&cc=us",
+            "source_url": "http://rediff.com/news/report/buildings-were-falling-down-like-a-pack-of-cards-ramdev-has-a-narrow-escape/20150425.htm"
+        },
+        "montgomerynews.com/2015/04/community-calendar-week-of-april-26": {
+            "title": "Community Calendar: Week of April 26...",
+            "snippet": "Registration is required. Knitting: Knitting Circle takes place Tuesdays at 6:30 p.m. Yoga: Yoga takes place Wednesdays at 6:30 p.m. Book club: Afternoon Book Club takes place the first Wednesday of the month at 2 p.m. Coupon Clippers: Coupon...",
+            "date": "2015-04-24",
             "categories": "yoga",
             "tags": "yoga",
-            "recuweb_url": "http://en.recuweb.com/yoga/in.news.yahoo.com/2015/02/indian-yoga-guru-bikram-choudhury-facing-6-sexual-assault-charges-in",
-            "resource_url": "http://news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=yoga",
-            "source_url": "http://in.news.yahoo.com/indian-yoga-guru-bikram-choudhury-facing-6-sexual-040730572.html"
+            "recuweb_url": "http://en.recuweb.com/yoga/montgomerynews.com/2015/04/community-calendar-week-of-april-26",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=yoga%2Byoga&format=RSS&cc=us",
+            "source_url": "http://montgomerynews.com/articles/2015/04/25/glenside_news_globe_times_chronicle/communities/doc553939ceb8aaf962347912.txt"
         },
-        "buckscountycouriertimes.com/2015/02/infants-bond-with-moms-in-special-plumstead-yoga-class-bucks-county": {
-            "title": "Infants bond with moms in special Plumstead yoga class - Bucks County Courier Times...",
-            "snippet": "Bucks County Courier TimesInfants bond with moms in special Plumstead yoga classBucks County Courier TimesStephanie Kowalski of Doylestown holds onto her daughter Arianna,1, during Namaste Baby Yoga at Tristana Yoga Studio in Doylestown. The classes...",
-            "date": "2015-02-25",
+        "gulfnews.com/2015/04/conquer-fear-with-yoga": {
+            "title": "Conquer fear with yoga...",
+            "snippet": "Fear is a human emotion that triggers chemical responses in the body to defend or escape the situation when confronted by danger, threat or conflict. It is the root cause of anxiety, phobias, posttraumatic stress disorder (PTSD) and some forms of...",
+            "date": "2015-04-24",
+            "categories": "emotion,yoga",
+            "tags": "escape,yoga",
+            "recuweb_url": "http://en.recuweb.com/yoga/gulfnews.com/2015/04/conquer-fear-with-yoga",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=yoga%2Byoga&format=RSS&cc=us",
+            "source_url": "http://gulfnews.com/leisure/yoga/conquer-fear-with-yoga-1.1498078"
+        },
+        "nytimes.com/2015/04/gym-and-yoga-studio-in-brooklyn-cater-to-hasidim": {
+            "title": "Gym and Yoga Studio in Brooklyn Cater to Hasidim...",
+            "snippet": "On the top floor of a brownstone, a dozen women were getting ready for a yoga class at the Space, a fitness studio in Crown Heights. Each woman removed her wig and replaced it with a bright scarf in one swift, fluid movement. This could be any yoga...",
+            "date": "2015-04-24",
             "categories": "yoga",
-            "tags": "yoga,yoga_studio,studio,special,classes,class",
-            "recuweb_url": "http://en.recuweb.com/yoga/buckscountycouriertimes.com/2015/02/infants-bond-with-moms-in-special-plumstead-yoga-class-bucks-county",
-            "resource_url": "http://news.google.com/?hl=en&q=yoga%2Byoga&output=atom&nord=1",
-            "source_url": "http://buckscountycouriertimes.com/life-style/local-feature/infants-bond-with-moms-in-special-plumstead-yoga-class/article_4b6b95d8-67e6-56b0-9f0b-d812c180eec5.html"
+            "tags": "studio,class,yoga,gym",
+            "recuweb_url": "http://en.recuweb.com/yoga/nytimes.com/2015/04/gym-and-yoga-studio-in-brooklyn-cater-to-hasidim",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=yoga&format=RSS&cc=us",
+            "source_url": "http://nytimes.com/2015/04/26/nyregion/gym-and-yoga-studio-in-brooklyn-cater-to-hasidim.html"
         },
-        "radio.com/2015/02/is-there-a-war-on-yoga-pants-music-and-entertainment-news": {
-            "title": "Is There a War on Yoga Pants? - Music and Entertainment News...",
-            "snippet": "Music and Entertainment NewsIs There a War on Yoga Pants? Music and Entertainment NewsEverywhere I go I see women in yoga pants or leggings or stretchy pantswhatever you call them. I'm convinced many women wear these pants and don't even do yoga...",
-            "date": "2015-02-25",
-            "categories": "entertainment,yoga,music",
-            "tags": "even,many,wear,yoga",
-            "recuweb_url": "http://en.recuweb.com/music/radio.com/2015/02/is-there-a-war-on-yoga-pants-music-and-entertainment-news",
-            "resource_url": "http://news.google.com/?hl=en&q=yoga%2Byoga&output=atom&nord=1",
-            "source_url": "http://radio.com/2015/02/25/is-there-a-war-on-yoga-pants/"
-        },
-        "timesofindia.indiatimes.com/2015/02/lenovo-launches-yoga-3-pro-ultrabook-at-rs-1-14-990": {
-            "title": "Lenovo launches Yoga 3 Pro ultrabook at Rs 1,14,990...",
-            "snippet": "NEW DELHI: Lenovo has launched Yoga 3 Pro, one of the slimmest ultrabooks available in the market, at Rs 1,14,990. The device will be available at select Lenovo and Croma stores across India. Lenovo claims that the Yoga 3 Pro is the world's...",
-            "date": "2015-02-25",
+        "pcmag.com/2015/04/lenovo-yoga-3-14-pc-magazine": {
+            "title": "Lenovo Yoga 3 14 - PC Magazine...",
+            "snippet": "AsiaOneLenovo Yoga 3 14PC MagazineIf you typically use a laptop, but want a system that can also be used as a tablet or a display, then the Lenovo Yoga 3 14 (949 as tested) is worth serious consideration. The convertible-hybrid laptop's 14-inch,...",
+            "date": "2015-04-24",
             "categories": "yoga",
-            "tags": "yoga",
-            "recuweb_url": "http://en.recuweb.com/yoga/timesofindia.indiatimes.com/2015/02/lenovo-launches-yoga-3-pro-ultrabook-at-rs-1-14-990",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=yoga&format=RSS&cc=us",
-            "source_url": "http://timesofindia.indiatimes.com/tech/pcs/Lenovo-launches-Yoga-3-Pro-ultrabook-at-Rs-114990/articleshow/46366893.cms"
-        },
-        "buffalonews.com/2015/02/letter-many-great-teachers-bring-yoga-into-gyms-buffalo-news": {
-            "title": "Letter: Many great teachers bring yoga into gyms - Buffalo News...",
-            "snippet": "Letter: Many great teachers bring yoga into gymsBuffalo NewsInsinuating that the yoga classes at a gym are somehow lesser is insulting to the many great teachers bringing studio yoga into the gyms. Maybe before making assumptions about yoga at a...",
-            "date": "2015-02-25",
-            "categories": "yoga",
-            "tags": "before,into,classes,many,studio,yoga",
-            "recuweb_url": "http://en.recuweb.com/yoga/buffalonews.com/2015/02/letter-many-great-teachers-bring-yoga-into-gyms-buffalo-news",
+            "tags": "yoga,want",
+            "recuweb_url": "http://en.recuweb.com/yoga/pcmag.com/2015/04/lenovo-yoga-3-14-pc-magazine",
             "resource_url": "http://news.google.com/?hl=en&q=yoga%2Byoga&output=atom&nord=1",
-            "source_url": "http://buffalonews.com/opinion/letters-to-the-editor/letter-many-great-teachers-bring-yoga-into-gyms-20150225"
-        },
-        "popsugar.com/2015/02/muscle-burning-yoga-poses": {
-            "title": "Muscle-Burning Yoga Poses...",
-            "snippet": "Get an Intense Burn With This 8-Minute Yoga Sequence These yoga poses are not for wusses! Get ready to feel the burn instantly with this eight-minute sequence. It's designed to burn every major part of your body, including the arms, core, and legs.",
-            "date": "2015-02-25",
-            "categories": "yoga",
-            "tags": "designed,every,minute,feel,yoga,body",
-            "recuweb_url": "http://en.recuweb.com/yoga/popsugar.com/2015/02/muscle-burning-yoga-poses",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=yoga&format=RSS&cc=us",
-            "source_url": "http://popsugar.com/fitness/Muscle-Burning-Yoga-Poses-36938620"
-        },
-        "yahoo.com/2015/02/the-2-minute-yoga-routine-every-runner-needs-to-do-before": {
-            "title": "The 2-Minute Yoga Routine Every Runner Needs To Do Before Hitting The Trail... - Yahoo Health...",
-            "snippet": "The 2-Minute Yoga Routine Every Runner Needs To Do Before Hitting The Trail...Yahoo HealthRepetitive actions such as running particularly distance running can lead to wear and tear on the joints. \"Everything we do becomes repetitive over time, so...",
-            "date": "2015-02-25",
-            "categories": "yahoo,health,yoga",
-            "tags": "wear,health,minute,yoga,every,before",
-            "recuweb_url": "http://en.recuweb.com/yoga/yahoo.com/2015/02/the-2-minute-yoga-routine-every-runner-needs-to-do-before",
-            "resource_url": "http://news.google.com/?hl=en&q=yoga%2Byoga&output=atom&nord=1",
-            "source_url": "http://yahoo.com/health/the-2-minute-yoga-routine-every-runner-needs-to-do-111896025472.html"
-        },
-        "myveronanj.com/2015/02/yoga-adventure-for-kids-at-library": {
-            "title": "Yoga Adventure For Kids At Library...",
-            "snippet": "Come meet the author of Lucindas Magical Yoga Adventure on Saturday, February 28 at 11 a.m. at the Verona Public Library. Local author and Verona resident Betty Larrea will be doing a 30-minute interactive yoga book reading and demonstration...",
-            "date": "2015-02-25",
-            "categories": "yoga,adventure",
-            "tags": "minute,yoga,come",
-            "recuweb_url": "http://en.recuweb.com/adventure/myveronanj.com/2015/02/yoga-adventure-for-kids-at-library",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=yoga&format=RSS&cc=us",
-            "source_url": "http://myveronanj.com/2015/02/25/yoga-adventure-kids-library/"
-        },
-        "fitnessgoop.com/2015/02/yoga-after-pregnancy-get-in-shape-with-peaceful-postnatal-practice": {
-            "title": "Yoga After Pregnancy: Get in Shape with Peaceful Postnatal Practice...",
-            "snippet": "Starting a physical activity program after pregnancy provides numerous physical and mental benefits to new mothers, and yoga is an excellent form of exercise for this special time in life. In general, new mothers should wait six weeks after giving...",
-            "date": "2015-02-25",
-            "categories": "life,yoga",
-            "tags": "should,life,special,yoga,after,peaceful,practice",
-            "recuweb_url": "http://en.recuweb.com/yoga/fitnessgoop.com/2015/02/yoga-after-pregnancy-get-in-shape-with-peaceful-postnatal-practice",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=yoga&format=RSS&cc=us",
-            "source_url": "http://fitnessgoop.com/2015/02/yoga-after-pregnancy-get-in-shape-with-peaceful-postnatal-practice/"
-        },
-        "za.news.yahoo.com/2015/02/7-reasons-why-yoga-should-be-your-new-thing": {
-            "title": "7 Reasons Why Yoga Should Be Your New Thing...",
-            "snippet": "In todays society, everyone lives in the fast lane. Need a peaceful retreat to escape to? Make yours a yoga studio. A hectic work/life balance makes it easy to lose perspective of the things that matter, like your health! By becoming a yoga-buff,...",
-            "date": "2015-02-24",
-            "categories": "health,life,society,yoga",
-            "tags": "health,life,balance,peaceful,why,yoga,should,need,studio",
-            "recuweb_url": "http://en.recuweb.com/yoga/za.news.yahoo.com/2015/02/7-reasons-why-yoga-should-be-your-new-thing",
-            "resource_url": "http://news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=yoga",
-            "source_url": "http://za.news.yahoo.com/7-reasons-yoga-new-thing-090000028.html"
+            "source_url": "http://pcmag.com/article2/0,2817,2482408,00.asp"
         }
     }
 }
