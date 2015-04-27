@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "cutaneous-conditions",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/cutaneous-conditions/",
@@ -10,17 +11,6 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/cutaneous-conditions/cutaneous-conditions/blogs.json"
     },
     "items": {
-        "open.nysenate.gov/2015/03/s4600-2015-open-senate-new-york-state": {
-            "title": "S4600-2015 - Open Senate - New York State Senate...",
-            "snippet": "... injury, deformity or other condition of the foot, THE DIAGNOSING, TREATING, OPERATING OR PRESCRIBING FOR CUTANEOUS CONDITIONS OF THE ANKLE TO THE LEVEL OF THE DISTAL TIBIAL TUBEROSITY, and...",
-            "date": "2015-03-30",
-            "author_name": "unknown",
-            "categories": "cutaneous-conditions",
-            "tags": "cutaneous,cutaneous_conditions,conditions,other,state,diagnosing",
-            "recuweb_url": "http://en.recuweb.com/cutaneous-conditions/open.nysenate.gov/2015/03/s4600-2015-open-senate-new-york-state",
-            "resource_url": "http://www.google.com/search?q=cutaneous%2Bconditions&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://open.nysenate.gov/legislation/bill/S4600-2015"
-        },
         "aadmeetingnews.org/2015/03/recognition-of-drug-related-dermatologic-side-effects-grows": {
             "title": "Recognition of drug-related dermatologic side effects grows...",
             "snippet": "A good history and solid lab work can help identify drug-related cutaneous conditions that might otherwise be difficult to diagnose and treat. As clinicians, we need to pay more attention to patients on drug therapy for both...",
@@ -48,7 +38,7 @@
             "snippet": "A number of diseases/syndromes of the human body may be associated with the development of caf\u00e9 au lait macules. See also List of cutaneous conditions List of contact allergens List of cutaneous...",
             "date": "2014-07-18",
             "author_name": "txinon",
-            "tags": "associated,development,diseases,conditions,cutaneous",
+            "tags": "associated,development,conditions,cutaneous",
             "recuweb_url": "http://en.recuweb.com/aranitasocial.wordpress.com/2014/07/list-of-conditions-associated-with-caf%C3%A9-au-lait-macules",
             "resource_url": "http://en.search.wordpress.com/?q=cutaneous%2Bconditions%2Bcutaneous%2Bconditions&f=feed&page=1",
             "source_url": "http://aranitasocial.wordpress.com/2014/07/18/list-of-conditions-associated-with-cafe-au-lait-macules/"
@@ -80,7 +70,7 @@
             "date": "2008-12-16",
             "author_name": "dermcast.tv",
             "categories": "cutaneous-conditions",
-            "tags": "session,diagnosing,cutaneous,cutaneous_conditions,conditions",
+            "tags": "session,cutaneous,cutaneous_conditions,conditions",
             "recuweb_url": "http://en.recuweb.com/cutaneous-conditions/dermcast.tv/2008/12/regional-approach-to-diagnosing-cutaneous-conditions-jeffrey",
             "resource_url": "http://www.google.com/search?q=cutaneous%2Bconditions%2Bcutaneous%2Bconditions&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://dermcast.tv/regional-approach-to-diagnosing-cutaneous-conditions-jeffrey-meffert-md/"
