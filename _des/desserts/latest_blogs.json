@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "desserts",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/desserts/",
@@ -10,16 +11,38 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/desserts/desserts/blogs.json"
     },
     "items": {
-        "weddings.craftgossip.com/2015/04/2015-hot-wedding-trend-and-30-delicious-mini-desserts-to-go": {
-            "title": "2015 Hot Wedding Trend and 30 Delicious Mini Desserts To Go With It...",
-            "snippet": "2015 Hot Wedding Trend and 30 Delicious Mini Desserts To Go With It. April 22, by Larissa Coleman. Leave a Comment. dessert. One of the biggest trends with weddings is the ever changing food selections. Gone are the days where a...",
-            "date": "2015-04-22",
-            "author_name": "Larissa Coleman",
-            "categories": "desserts,food",
-            "tags": "ever,delicious,desserts,dessert,food,gone",
-            "recuweb_url": "http://en.recuweb.com/food/weddings.craftgossip.com/2015/04/2015-hot-wedding-trend-and-30-delicious-mini-desserts-to-go",
+        "justataste.com/2015/04/strawberry-dessert-recipes-just-a-taste": {
+            "title": "Strawberry Dessert Recipes Just a Taste...",
+            "snippet": "Whip up the ultimate sweet finale with quick and easy strawberry desserts, including recipes for strawberry shortcake, pie, cheesecake and more.",
+            "date": "2015-04-26",
+            "author_name": "Kelly Senyei",
+            "categories": "desserts",
+            "tags": "cheesecake,recipes,strawberry,desserts,taste,whip,ate,sweet,pie",
+            "recuweb_url": "http://en.recuweb.com/desserts/justataste.com/2015/04/strawberry-dessert-recipes-just-a-taste",
             "resource_url": "http://www.google.com/search?q=desserts%2Bdesserts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://weddings.craftgossip.com/2015-hot-wedding-trend-and-30-delicious-mini-desserts-to-go-with-it/"
+            "source_url": "http://justataste.com/2015/04/strawberry-dessert-recipes/"
+        },
+        "avocadopesto.com/2015/04/10-gluten-free-and-vegan-no-bake-desserts-avocadopesto": {
+            "title": "10 Gluten-Free and Vegan No Bake Desserts - AvocadoPesto...",
+            "snippet": "I've made a handful of no bake vegan desserts including vegan strawberry cheesecake, vegan pumpkin cheesecake squares, vegan chocolate avocado mousse, and larabar energy bites, but I'm always looking for more...",
+            "date": "2015-04-24",
+            "author_name": "Vicky",
+            "categories": "desserts,chocolate",
+            "tags": "vegan,cheesecake,strawberry,made,bake,desserts,free,chocolate",
+            "recuweb_url": "http://en.recuweb.com/chocolate/avocadopesto.com/2015/04/10-gluten-free-and-vegan-no-bake-desserts-avocadopesto",
+            "resource_url": "http://www.google.com/search?q=desserts%2Bdesserts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://avocadopesto.com/2015/04/24/10-gluten-free-and-vegan-no-bake-desserts/"
+        },
+        "siliconera.com/2015/04/yo-kai-watch-s-ghost-friends-turned-into-spooky-desserts": {
+            "title": "Yo-kai Watch's Ghost Friends Turned Into Spooky Desserts...",
+            "snippet": "It comes as no surprise to hear that Yo-kai Watch is so popular in Japan, that they've made snacks out of its characters. That said, these ones are extra special, as they've been created with attention paid to the finer details.",
+            "date": "2015-04-23",
+            "author_name": "Sato",
+            "categories": "desserts",
+            "tags": "created,made,into,desserts",
+            "recuweb_url": "http://en.recuweb.com/desserts/siliconera.com/2015/04/yo-kai-watch-s-ghost-friends-turned-into-spooky-desserts",
+            "resource_url": "http://www.google.com/search?q=desserts%2Bdesserts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://siliconera.com/2015/04/23/yo-kai-watchs-ghost-friends-turned-into-spooky-desserts/"
         },
         "la.eater.com/2015/04/opening-alert-icdc-hits-beverly-tomorrow-with-all-day-desserts": {
             "title": "Opening Alert: ICDC Hits Beverly Tomorrow With All-Day Desserts...",
@@ -27,7 +50,7 @@
             "date": "2015-04-21",
             "author_name": "Farley Elliott",
             "categories": "ice-cream,coffee,desserts",
-            "tags": "desserts,other,years,ice,ice_cream,cream,day",
+            "tags": "desserts,ice,ice_cream,cream,coffee,day",
             "recuweb_url": "http://en.recuweb.com/desserts/la.eater.com/2015/04/opening-alert-icdc-hits-beverly-tomorrow-with-all-day-desserts",
             "resource_url": "http://www.google.com/search?q=desserts%2Bdesserts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://la.eater.com/2015/4/21/8464057/ICDC-beverly-coffee-doughnuts-ice-cream-neal-fraser-opening-alert"
@@ -38,43 +61,32 @@
             "date": "2015-04-21",
             "author_name": "Patricia S. York",
             "categories": "culture,desserts",
-            "tags": "should,try,here,culinary,mixture,welcome,desserts,cakes",
+            "tags": "here,should,culinary,mixture,welcome,desserts,try",
             "recuweb_url": "http://en.recuweb.com/desserts/thedailysouth.southernliving.com/2015/04/the-dutch-oven-pound-cakes-workhorse-of-southern-desserts",
             "resource_url": "http://www.google.com/search?q=desserts%2Bdesserts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://thedailysouth.southernliving.com/2015/04/21/the-dutch-oven-pound-cakes-the-workhorse-of-southern-desserts/"
         },
-        "themiamihurricane.com/2015/04/satisfy-your-sweet-tooth-with-delicious-desserts-the-miami-hurricane": {
-            "title": "Satisfy your sweet tooth with delicious desserts - The Miami Hurricane...",
-            "snippet": "Arguably the most American of desserts, pie has made a serious comeback in recent years. It has gone from the hands of the archetypal grandma to the kitchens of chic Miami spots to become more glamorous while retaining...",
+        "7online.com/2015/04/photos-bittles-bite-size-cereal-desserts": {
+            "title": "PHOTOS: 'Bittles'bite-size cereal desserts...",
+            "snippet": "Bittles combines Gillen's love of dessert and \"weakness for cereal\" into a bite-size cereal-flavored dessert on a spoon.",
             "date": "2015-04-20",
-            "author_name": "Isabella Cueto",
-            "categories": "kitchen,desserts",
-            "tags": "gone,years,delicious,sweet,desserts,made",
-            "recuweb_url": "http://en.recuweb.com/desserts/themiamihurricane.com/2015/04/satisfy-your-sweet-tooth-with-delicious-desserts-the-miami-hurricane",
-            "resource_url": "http://www.google.com/search?q=desserts%2Bdesserts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://themiamihurricane.com/2015/04/19/satisfy-your-sweet-tooth-with-delicious-desserts/"
-        },
-        "cheatsheet.com/2015/04/7-irresistibly-sweet-italian-dessert-recipes-the-cheat-sheet": {
-            "title": "7 Irresistibly Sweet Italian Dessert Recipes - The Cheat Sheet...",
-            "snippet": "The sweetest meal of the day calls for delicious Italian desserts! Any one of these 7 recipes will cure your sugar cravings.",
-            "date": "2015-04-16",
-            "author_name": "info@wallstcheatsheet.com (Damien Hoffman)",
-            "categories": "desserts",
-            "tags": "recipes,sugar,day,delicious,cheat,cheat_sheet,sheet,sweet,italian,desserts,any",
-            "recuweb_url": "http://en.recuweb.com/desserts/cheatsheet.com/2015/04/7-irresistibly-sweet-italian-dessert-recipes-the-cheat-sheet",
-            "resource_url": "http://www.google.com/search?q=desserts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://cheatsheet.com/life/7-irresistibly-sweet-italian-dessert-recipes.html/?a=viewall"
-        },
-        "7online.com/2015/04/where-to-find-summer-desserts-in-new-york-city": {
-            "title": "Where to find summer desserts in New York City...",
-            "snippet": "This summer, you can sink your teeth into trendy summer desserts all around New York City. While some bakeries will be offering fresh twists on typical treats, others will be keeping in classic.",
-            "date": "2015-04-16",
             "author_name": "unknown",
-            "categories": "desserts",
-            "tags": "fresh,sink,sink-your-teeth,teeth,teeth-into,into,york,find,summer,desserts",
-            "recuweb_url": "http://en.recuweb.com/desserts/7online.com/2015/04/where-to-find-summer-desserts-in-new-york-city",
+            "categories": "love,desserts",
+            "tags": "desserts,love,into",
+            "recuweb_url": "http://en.recuweb.com/desserts/7online.com/2015/04/photos-bittles-bite-size-cereal-desserts",
             "resource_url": "http://www.google.com/search?q=desserts%2Bdesserts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://7online.com/food/summer-dessert-trends-in-new-york-city/663522/"
+            "source_url": "http://7online.com/food/photos-bittles-bite-size-cereal-desserts/664910/"
+        },
+        "eater.com/2015/04/watch-christina-tosi-whip-up-desserts-featuring-fruity-pebbles": {
+            "title": "Watch Christina Tosi Whip Up Desserts Featuring Fruity Pebbles...",
+            "snippet": "Pastry chef/Milk Bar owner/MasterChef judge/cookbook author Christina Tosi stopped by Conan last night to whip up two desserts with host Conan O'Brien. First up is a Grocery Store Roll which features store-bought crescent...",
+            "date": "2015-04-16",
+            "author_name": "Khushbu Shah",
+            "categories": "milk,desserts",
+            "tags": "store,grocery,whip,desserts,chef",
+            "recuweb_url": "http://en.recuweb.com/desserts/eater.com/2015/04/watch-christina-tosi-whip-up-desserts-featuring-fruity-pebbles",
+            "resource_url": "http://www.google.com/search?q=desserts%2Bdesserts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://eater.com/2015/4/16/8428093/christina-tosi-conan-desserts-fruity-pebbles"
         },
         "tmagazine.blogs.nytimes.com/2015/04/sweet-and-savory-italian-desserts-the-jody-williams-rita-sodi": {
             "title": "Sweet and Savory Italian Desserts, the Jody Williams and Rita Sodi...",
@@ -82,28 +94,17 @@
             "date": "2015-04-14",
             "author_name": "By Alainna Lexie Beddie",
             "categories": "desserts",
-            "tags": "culinary,event,italian,desserts,dessert,sweet,best",
+            "tags": "culinary,ate,desserts,dessert,sweet,bake",
             "recuweb_url": "http://en.recuweb.com/desserts/tmagazine.blogs.nytimes.com/2015/04/sweet-and-savory-italian-desserts-the-jody-williams-rita-sodi",
             "resource_url": "http://www.google.com/search?q=desserts%2Bdesserts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://tmagazine.blogs.nytimes.com/2015/04/14/edible-schoolyard-spring-benefit-semifreddo-panna-cotta-recipes/"
-        },
-        "onegreenplanet.org/2015/04/healthy-seasonal-desserts-you-can-make-without-an-ounce-of": {
-            "title": "Healthy Seasonal Desserts You Can Make Without an Ounce of...",
-            "snippet": "Desserts are one of the easiest recipes do to make healthy and without one bit of cream, butter, milk, dairy yogurt, cream cheese or anything else animal-based. Here are five of the best to try this spring and summer!",
-            "date": "2015-04-08",
-            "author_name": "Heather McClees",
-            "categories": "desserts,milk",
-            "tags": "best,try,cream,dairy,recipes,desserts,here,summer",
-            "recuweb_url": "http://en.recuweb.com/milk/onegreenplanet.org/2015/04/healthy-seasonal-desserts-you-can-make-without-an-ounce-of",
-            "resource_url": "http://www.google.com/search?q=desserts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://onegreenplanet.org/vegan-food/healthy-seasonal-desserts-you-can-make-without-an-ounce-of-dairy/"
         },
         "reddit.com/2015/04/my-mom-s-turning-60-and-i-m-throwing": {
             "title": "My mom's turning 60 and I'm throwing her a dessert party. She's a lemon fanatic. What are your best...",
             "snippet": "My mom is turning 60 and is fanatical about lemon desserts (an oft-told story in my family is about a time she ordered a lemon tart at a restaurant in England and literally cried because it was so good). I'm throwing her a dessert party in a couple...",
             "date": "2015-04-06",
             "categories": "desserts",
-            "tags": "couple,good,ordered,restaurant,best,desserts,because",
+            "tags": "couple,ordered,restaurant,desserts,because",
             "recuweb_url": "http://en.recuweb.com/desserts/reddit.com/2015/04/my-mom-s-turning-60-and-i-m-throwing",
             "resource_url": "http://www.reddit.com/search.rss?q=desserts%2Bdesserts&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/recipes/comments/31mrt0/my_moms_turning_60_and_im_throwing_her_a_dessert/"
@@ -114,7 +115,7 @@
             "date": "2015-03-31",
             "author_name": "(Jenjengan)",
             "categories": "love,mind,food,hunting,desserts",
-            "tags": "love,delight,day,eat,food,first,desserts",
+            "tags": "love,day,every,food,desserts",
             "recuweb_url": "http://en.recuweb.com/desserts/jenjengan.blogspot.com/2015/03/food-hunting-day",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=desserts%2Bdesserts&rss=1&lng=en",
             "source_url": "http://jenjengan.blogspot.com/2015/03/food-hunting-day.html"
