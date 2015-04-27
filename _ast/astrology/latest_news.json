@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "astrology",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/astrology/",
@@ -10,52 +11,82 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/astrology/astrology/blogs.json"
     },
     "items": {
-        "missoulian.com/2015/04/astrology-the-missoulian": {
-            "title": "Astrology - The Missoulian...",
-            "snippet": "AstrologyThe MissoulianAstrology. Saved. Save Article; My Saved Items Print Email. 2015-04-22T14:33:00Z Astrology. 21 hours ago. (0) Comments. A baby born today has a Sun in Taurus and a Moon in Gemini if born before 10:35 p.m. Afterward, the Moon...",
-            "date": "2015-04-23",
-            "categories": "astrology,sun,moon",
-            "tags": "astrologythe,astrology,sun,taurus,moon,gemini",
-            "recuweb_url": "http://en.recuweb.com/moon/missoulian.com/2015/04/astrology-the-missoulian",
-            "resource_url": "http://news.google.com/?hl=en&q=astrology%2Bastrology&output=atom&nord=1",
-            "source_url": "http://missoulian.com/print-specific/sans-serif/astrology/article_8c78afd2-4105-513c-ac2c-336a243a460f.html"
+        "castanet.net/2015/04/horoscope-april-26-may-2": {
+            "title": "Horoscope: April 26 - May 2...",
+            "snippet": "She has clients around the world. Heather resides in Kelowna, BC and does psychic and astrology readings in person, by phone or e-mail. She also does personal, relationship and past life charts as well as Tarot card, palm and tea reading. Heather is...",
+            "date": "2015-04-26",
+            "categories": "tea,life,horoscope,astrology",
+            "tags": "life,personal,horoscope,astrology,card",
+            "recuweb_url": "http://en.recuweb.com/astrology/castanet.net/2015/04/horoscope-april-26-may-2",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=astrology&format=RSS&cc=us",
+            "source_url": "http://castanet.net/news/Heather-s-Horoscope/137997/Horoscope-April-26-May-2"
         },
-        "clatl.com/2015/04/free-will-astrology-creative-loafing-atlanta": {
-            "title": "Free Will Astrology - Creative Loafing Atlanta...",
-            "snippet": "Creative Loafing AtlantaFree Will AstrologyCreative Loafing AtlantaIn accordance with the current astrological omens, Cancerian, you'd be wise to do an audit and reassessment of your own LAMEST EXCUSE. I suspect you now have insight about it that...",
+        "bodyandsoul.com.au/2015/04/astrology-turn-dreams-into-reality-body-and-soul": {
+            "title": "Astrology: turn dreams into reality - Body and Soul...",
+            "snippet": "Body and SoulAstrology: turn dreams into realityBody and SoulThe first thing to note is that we're between last week's new moon and next week's full moon. This means that we're in the cosmic planting and growing phase, so it's time to lay down some...",
+            "date": "2015-04-25",
+            "categories": "astrology,moon",
+            "tags": "week,turn,into,astrology,soul,moon",
+            "recuweb_url": "http://en.recuweb.com/moon/bodyandsoul.com.au/2015/04/astrology-turn-dreams-into-reality-body-and-soul",
+            "resource_url": "http://news.google.com/?hl=en&q=astrology%2Bastrology&output=atom&nord=1",
+            "source_url": "http://bodyandsoul.com.au/sex+relationships/astrology/astrology+turn+dreams+into+reality,36845"
+        },
+        "au.lifestyle.yahoo.com/2015/04/astrology-expert-says-royal-baby-will-be-grounded-and-practical-new": {
+            "title": "Astrology Expert Says Royal Baby Will Be 'Grounded And Practical'- New Idea...",
+            "snippet": "New IdeaAstrology Expert Says Royal Baby Will Be 'Grounded And Practical'New IdeaAngie Banicki insists the second child of Prince William and the Duchess of Cambridge, who is due any day now, will be \"pragmatic\" as he or she will be a Taurus.",
+            "date": "2015-04-24",
+            "categories": "astrology",
+            "tags": "astrology,taurus",
+            "recuweb_url": "http://en.recuweb.com/astrology/au.lifestyle.yahoo.com/2015/04/astrology-expert-says-royal-baby-will-be-grounded-and-practical-new",
+            "resource_url": "http://news.google.com/?hl=en&q=astrology%2Bastrology&output=atom&nord=1",
+            "source_url": "http://au.lifestyle.yahoo.com/new-idea/a/27328671/astrology-expert-says-royal-baby-will-be-grounded-and-practical/"
+        },
+        "boulderweekly.com/2015/04/astrology-boulder-weekly": {
+            "title": "ASTROLOGY - Boulder Weekly...",
+            "snippet": "Las Vegas Weekly (satire) (blog)ASTROLOGYBoulder WeeklyIf you're stumped about what present to give someone for a special occasion, you might buy him or her a gift card. It's a piece of plastic that can be used as cash to buy stuff at a store. The...",
             "date": "2015-04-23",
             "categories": "astrology",
-            "tags": "free,free_will_astrology,astrology,astrological",
-            "recuweb_url": "http://en.recuweb.com/astrology/clatl.com/2015/04/free-will-astrology-creative-loafing-atlanta",
-            "resource_url": "http://news.google.com/?hl=en&q=astrology%2Bastrology&output=atom&nord=1",
+            "tags": "plastic,cash,cash-to-buy,buy,buy-stuff,stuff,store,gift,gift-card,card,stumped,present,present-to-give,give,give-someone,someone,someone-for-special,special,special-occasion,occasion,weekly,astrology",
+            "recuweb_url": "http://en.recuweb.com/astrology/boulderweekly.com/2015/04/astrology-boulder-weekly",
+            "resource_url": "http://news.google.com/?hl=en&q=astrology&output=atom&nord=1",
+            "source_url": "http://boulderweekly.com/article-14329-astrology.html"
+        },
+        "orlandoweekly.com/2015/04/don-t-pet-the-poison-oak-free-will-astrology-for-week": {
+            "title": "Don't pet the poison oak: Free Will Astrology for the week of April 23-29...",
+            "snippet": "Are you itching to know what the future holds, or do you just want to scratch beneath the surface of everyday tedium and find some underlying meaning? Either way, Rob Breszny has a list of fun facts that may soothe your burning urges, including...",
+            "date": "2015-04-23",
+            "categories": "astrology",
+            "tags": "find,week,free,free_will_astrology,astrology,way",
+            "recuweb_url": "http://en.recuweb.com/astrology/orlandoweekly.com/2015/04/don-t-pet-the-poison-oak-free-will-astrology-for-week",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=astrology&format=RSS&cc=us",
+            "source_url": "http://orlandoweekly.com/orlando/dont-pet-the-poison-oak-free-will-astrology-for-the-week-of-april-23-29/Content?oid=2387107"
+        },
+        "clatl.com/2015/04/free-will-astrology": {
+            "title": "Free Will Astrology...",
+            "snippet": "TAURUS (April 20-May 20): I usually have no objection to your devoted concern (I won't use the phrase manic obsession) with security and comfort. But there are rare phases in every Taurus'life cycle when ironclad stability becomes a liability.",
+            "date": "2015-04-23",
+            "categories": "life,astrology",
+            "tags": "life,usually,free,free_will_astrology,astrology,taurus",
+            "recuweb_url": "http://en.recuweb.com/astrology/clatl.com/2015/04/free-will-astrology",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=astrology&format=RSS&cc=us",
             "source_url": "http://clatl.com/atlanta/free-will-astrology/Content?oid=14037770"
         },
-        "iranian.com/2015/04/iran-astrology-sun-in-ordibehesht-taurus-moon-tir-cancer-2015-iranian": {
-            "title": "Iran Astrology: Sun in Ordibehesht (Taurus), Moon in Tir (Cancer) 2015 - Iranian...",
-            "snippet": "IranianIran Astrology: Sun in Ordibehesht (Taurus), Moon in Tir (Cancer) 2015IranianIran Astrology: Sun in Ordibehesht (Taurus), Moon in Tir (Cancer) 2015. Moon is in Tir and the 3rd House from early morning Thursday until Saturday afternoon. Moon...",
-            "date": "2015-04-23",
-            "categories": "astrology,sun,moon,cancer",
-            "tags": "astrology,sun,taurus,moon,cancer,saturday",
-            "recuweb_url": "http://en.recuweb.com/cancer/iranian.com/2015/04/iran-astrology-sun-in-ordibehesht-taurus-moon-tir-cancer-2015-iranian",
-            "resource_url": "http://news.google.com/?hl=en&q=astrology%2Bastrology&output=atom&nord=1",
-            "source_url": "http://iranian.com/posts/iran-astrology-sun-in-ordibehesht-taurus-moon-in-tir-cancer-2015-49452"
-        },
-        "rcreader.com/2015/04/free-will-astrology-april-22-2015-river-cities-reader": {
-            "title": "Free Will Astrology: April 22, 2015 - River Cities Reader...",
-            "snippet": "Free Will Astrology: April 22, 2015River Cities ReaderRob Brezsny ARIES (March 21-April 19): If you're stumped about what present to give someone for a special occasion, you might buy him or her a gift card. It's a piece of plastic that can be used...",
+        "sacurrent.com/2015/04/free-will-astrology-week-of-april-20": {
+            "title": "Free Will Astrology, Week of April 20...",
+            "snippet": "ARIES (March 21-April 19): If you're stumped about what present to give someone for a special occasion, you might buy him or her a gift card. It's a piece of plastic that can be used as cash to buy stuff at a store. The problem is, a lot of people...",
             "date": "2015-04-22",
             "categories": "astrology",
-            "tags": "give,aries,free,free_will_astrology,astrology",
-            "recuweb_url": "http://en.recuweb.com/astrology/rcreader.com/2015/04/free-will-astrology-april-22-2015-river-cities-reader",
-            "resource_url": "http://news.google.com/?hl=en&q=astrology%2Bastrology&output=atom&nord=1",
-            "source_url": "http://rcreader.com/lifestyle/free-will-astrology-april-22-15/"
+            "tags": "people,plastic,cash,cash-to-buy,buy,buy-stuff,stuff,store,gift,gift-card,card,stumped,present,present-to-give,give,give-someone,someone,someone-for-special,special,special-occasion,occasion,free,free_will_astrology,astrology,week,aries",
+            "recuweb_url": "http://en.recuweb.com/astrology/sacurrent.com/2015/04/free-will-astrology-week-of-april-20",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=astrology&format=RSS&cc=us",
+            "source_url": "http://sacurrent.com/sanantonio/free-will-astrology-week-of-april-20/Content?oid=2426804"
         },
         "nymag.com/2015/04/astrology-gifs-for-the-week-of-april-20-2015-new-york": {
             "title": "Astrology GIFs for the Week of April 20, 2015 - New York Magazine...",
             "snippet": "New York MagazineAstrology GIFs for the Week of April 20, 2015New York MagazineToday, April 20, the sun enters Taurus the fixed sign of the unwavering bull, ruled by gentle Venus. This monthlong solar transit makes us more firm, plodding, and...",
             "date": "2015-04-20",
             "categories": "sun,astrology",
-            "tags": "transit,sun,astrology,week,taurus,sign,venus",
+            "tags": "sun,astrology,week,taurus,sign",
             "recuweb_url": "http://en.recuweb.com/astrology/nymag.com/2015/04/astrology-gifs-for-the-week-of-april-20-2015-new-york",
             "resource_url": "http://news.google.com/?hl=en&q=astrology%2Bastrology&output=atom&nord=1",
             "source_url": "http://nymag.com/thecut/2015/04/astrology-gifs-for-the-week-of-april-20-2015.html"
@@ -65,50 +96,20 @@
             "snippet": "SalonA hater's guide to astrology: How I learned to stop getting angry about people...SalonThere's a problem, though: he's into astrology. Massively. As in, frequent posts on Facebook like this: Lots of intense energy right now. Feeling it?? There...",
             "date": "2015-04-19",
             "categories": "astrology,facebook",
-            "tags": "astrology,people",
+            "tags": "into,people,astrology,facebook",
             "recuweb_url": "http://en.recuweb.com/facebook/salon.com/2015/04/a-hater-s-guide-to-astrology-how-i-learned-stop-getting",
             "resource_url": "http://news.google.com/?hl=en&q=astrology%2Bastrology&output=atom&nord=1",
             "source_url": "http://salon.com/2015/04/19/a_haters_guide_to_astrology_how_i_learned_to_stop_getting_angry_about_peoples_dumb_beliefs/"
         },
-        "bodyandsoul.com.au/2015/04/astrology-recalibrate-and-listen": {
-            "title": "Astrology: recalibrate and listen...",
-            "snippet": "This week has a romantic feel to it as loving planet Venus connects first with dreamy Neptune, planet of soulmates, then Jupiter, the planet of happiness. This is a cosmic recipe for lovely times, except that Venus is making a tough connection with...",
-            "date": "2015-04-18",
-            "categories": "happiness,astrology",
-            "tags": "astrology,week,venus",
-            "recuweb_url": "http://en.recuweb.com/astrology/bodyandsoul.com.au/2015/04/astrology-recalibrate-and-listen",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=astrology%2Bastrology&format=RSS&cc=us",
-            "source_url": "http://bodyandsoul.com.au/sex+relationships/astrology/astrology+recalibrate+and+listen,36775"
-        },
-        "beliefnet.com/2015/04/astrology-compatibility-and-mary-kay-letourneau-beliefnet": {
-            "title": "Astrology, Compatibility, And Mary Kay Letourneau - Beliefnet...",
-            "snippet": "Astrology, Compatibility, And Mary Kay LetourneauBeliefnetWe have an advantage over astrologers looking at this situation now, as opposed to those who looked at it back in the 90s when it happened. The other person in this story is now old enough...",
-            "date": "2015-04-15",
-            "categories": "astrology",
-            "tags": "other,astrology",
-            "recuweb_url": "http://en.recuweb.com/astrology/beliefnet.com/2015/04/astrology-compatibility-and-mary-kay-letourneau-beliefnet",
-            "resource_url": "http://news.google.com/?hl=en&q=astrology&output=atom&nord=1",
-            "source_url": "http://beliefnet.com/columnists/ohmystars/2015/04/astrology-compatibility-and-mary-kay-letourneau.html"
-        },
-        "thestranger.com/2015/04/free-will-astrology": {
-            "title": "Free Will Astrology -...",
-            "snippet": "Free Will (March 21April 19): The California gold rush hit its peak from 1849 to 1855. Three hundred thousand adventurers flocked to America's West Coast in search of gold. In the early days, gold nuggets were lying around on the ground in plain...",
-            "date": "2015-04-15",
-            "categories": "astrology",
-            "tags": "free,free_will_astrology,astrology",
-            "recuweb_url": "http://en.recuweb.com/astrology/thestranger.com/2015/04/free-will-astrology",
-            "resource_url": "http://news.google.com/?hl=en&q=astrology&output=atom&nord=1",
-            "source_url": "http://thestranger.com/columns/free-will-astrology/2015/04/15/22051504/free-will-astrology"
-        },
-        "theverge.com/2015/04/how-susan-miller-conquered-online-astrology-the-verge": {
-            "title": "How Susan Miller conquered online astrology - The Verge...",
-            "snippet": "How Susan Miller conquered online astrologyThe VergeIt's a little after midday on a recent Saturday in Los Angeles, and I'm escorting the reigning queen of astrology past a veritable throng of adoring subjects. She's just finished a 90-minute...",
-            "date": "2015-04-15",
-            "categories": "astrology",
-            "tags": "astrologythe,astrology,after,saturday",
-            "recuweb_url": "http://en.recuweb.com/astrology/theverge.com/2015/04/how-susan-miller-conquered-online-astrology-the-verge",
-            "resource_url": "http://news.google.com/?hl=en&q=astrology%2Bastrology&output=atom&nord=1",
-            "source_url": "http://theverge.com/2015/4/15/8400299/susan-miller-astrology-zone-internet-astrologer-interview"
+        "examiner.com/2015/04/astrology-for-personal-power": {
+            "title": "Astrology for Personal Power...",
+            "snippet": "Why do people turn to astrology, or prayer, or therapy when they cant find the answers within themselves? It is usually because a life situation has robbed them of happiness. They are reaching. They are searching. They may be desperate. They are...",
+            "date": "2015-04-19",
+            "categories": "life,happiness,therapy,astrology",
+            "tags": "usually,life,find,people,turn,personal,astrology",
+            "recuweb_url": "http://en.recuweb.com/astrology/examiner.com/2015/04/astrology-for-personal-power",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=astrology&format=RSS&cc=us",
+            "source_url": "http://examiner.com/article/astrology-for-personal-power"
         }
     }
 }
