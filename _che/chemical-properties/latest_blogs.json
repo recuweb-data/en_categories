@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "chemical-properties",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/chemical-properties/",
@@ -25,7 +26,7 @@
             "snippet": "ANOVA for response surface quadratic reduced of squaresDegree of freedomMean squareF-valuep-Value probability oxalic MK5108 29.5519.553.050.1111X3216.32116.325.220.0455Residual25.32103.13Lack of of squares total...",
             "date": "2015-04-07",
             "author_name": "rangecotton06",
-            "tags": "response,chemical,properties,value",
+            "tags": "response,compositions,chemical,properties,value",
             "recuweb_url": "http://en.recuweb.com/rangecotton06.wordpress.com/2015/04/chemical-compositions-and-some-properties-of",
             "resource_url": "http://en.search.wordpress.com/?q=chemical%2Bproperties%2Bchemical%2Bproperties&f=feed&page=1",
             "source_url": "http://rangecotton06.wordpress.com/2015/04/07/chemical-compositions-and-some-properties-of-the/"
@@ -35,7 +36,7 @@
             "snippet": "Relating hygroscopicity and optical properties to chemical composition and structure of secondary organic aerosol particles generated from the ozonolysis of -pinene. C. Denjean1,2, P. Formenti1, B. Picquet-Varrault1,...",
             "date": "2015-03-24",
             "author_name": "unknown",
-            "tags": "aerosol,aerosol-particles,particles,composition,properties,chemical,organic",
+            "tags": "aerosol,aerosol-particles,particles,composition,properties,chemical,organic,formenti",
             "recuweb_url": "http://en.recuweb.com/atmos-chem-phys.net/2015/03/relating-hygroscopicity-and-optical-properties-to-chemical",
             "resource_url": "http://www.google.com/search?q=chemical%2Bproperties%2Bchemical%2Bproperties&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://atmos-chem-phys.net/15/3339/2015/acp-15-3339-2015.html"
@@ -67,7 +68,7 @@
             "snippet": "Chemical composition, microstructure, and hygroscopic properties of aerosol particles at the Zotino Tall Tower Observatory (ZOTTO), Siberia, during a summer campaign E. F. Mikhailov1,2, G. N. Mironov2, C. P\u00f6hlker1, X. Chi1...",
             "date": "2015-03-15",
             "author_name": "unknown",
-            "tags": "tall,aerosol,aerosol-particles,particles,chemical,composition,properties",
+            "tags": "aerosol,aerosol-particles,particles,chemical,composition,properties",
             "recuweb_url": "http://en.recuweb.com/atmos-chem-phys-discuss.net/2015/03/chemical-composition-microstructure-and-hygroscopic-properties-of",
             "resource_url": "http://www.google.com/search?q=chemical%2Bproperties%2Bchemical%2Bproperties&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://atmos-chem-phys-discuss.net/15/7837/2015/acpd-15-7837-2015.html"
@@ -78,21 +79,10 @@
             "date": "2015-03-10",
             "author_name": "The Chemical Blog",
             "categories": "chemical-properties",
-            "tags": "point,chemical,chemical_properties,properties,physical,value",
+            "tags": "chemical,chemical_properties,properties,physical,value",
             "recuweb_url": "http://en.recuweb.com/chemical-properties/thechemicalblog.co.uk/2015/03/physical-and-chemical-properties-of-calcium-chloride",
             "resource_url": "http://www.google.com/search?q=chemical%2Bproperties%2Bchemical%2Bproperties&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://thechemicalblog.co.uk/physical-and-chemical-properties-of-calcium-chloride/"
-        },
-        "middleschoolscience.com/2015/02/physical-&-chemical-properties-vs-changes": {
-            "title": "Physical & Chemical Properties vs Physical & Chemical Changes...",
-            "snippet": "Materials Physical & Chemical Properties vs Physical & Chemical Changes Foldable Notes - (link) Glue Scissors How to use the foldable: This activity can be done with or without a partner Cut the tabs on the dotted guide...",
-            "date": "2015-02-24",
-            "author_name": "Liz LaRosa",
-            "categories": "chemical-properties",
-            "tags": "chemical,chemical_properties,properties,physical,materials",
-            "recuweb_url": "http://en.recuweb.com/chemical-properties/middleschoolscience.com/2015/02/physical-&-chemical-properties-vs-changes",
-            "resource_url": "http://www.google.com/search?q=chemical%2Bproperties%2Bchemical%2Bproperties&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://middleschoolscience.com/2015/02/24/physical-chemical-properties-vs-physical-and-chemical-changes-foldable/"
         },
         "compchemhighlights.org/2015/02/computational-chemistry-highlights-first-principles-view-on": {
             "title": "Computational Chemistry Highlights: First Principles View on...",
@@ -100,7 +90,7 @@
             "date": "2015-02-21",
             "author_name": "Johannes Hachmann",
             "categories": "relationships,molecules,chemistry",
-            "tags": "molecules,number,first,chemistry,group,chemical,properties,part",
+            "tags": "molecules,number,chemistry,group,chemical,properties,part",
             "recuweb_url": "http://en.recuweb.com/chemistry/compchemhighlights.org/2015/02/computational-chemistry-highlights-first-principles-view-on",
             "resource_url": "http://www.google.com/search?q=chemical%2Bproperties%2Bchemical%2Bproperties&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://compchemhighlights.org/2015/02/first-principles-view-on-chemical.html"
@@ -110,10 +100,20 @@
             "snippet": "Although the fluid's contribution to insect capture is recognized, the physico-chemical properties involved remain underexplored and may vary among species, influencing their diet type. This study investigates the...",
             "date": "2015-02-11",
             "author_name": "Bazile, V., Le Moguedec, G., Marshall, D. J., Gaume, L.",
-            "tags": "involved,physico,chemical,properties",
+            "tags": "study,vary,physico,chemical,properties",
             "recuweb_url": "http://en.recuweb.com/aob.oxfordjournals.org/2015/02/fluid-physico-chemical-properties-influence-capture-and-diet-in",
             "resource_url": "http://www.google.com/search?q=chemical%2Bproperties%2Bchemical%2Bproperties&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://aob.oxfordjournals.org/content/early/2015/02/11/aob.mcu266.abstract"
+        },
+        "atmos-chem-phys.net/2014/10/acp-abstract-mapping-the-physico-chemical-properties-of-mineral": {
+            "title": "ACP - Abstract - Mapping the physico-chemical properties of mineral...",
+            "snippet": "Mapping the physico-chemical properties of mineral dust in western Africa: mineralogical composition. P. Formenti1, S. Caquineau2, K. Desboeufs1, A. Klaver1, S. Chevaillier1, E. Journet1, and J. L. Rajot1,3 1LISA, UMR...",
+            "date": "2014-10-09",
+            "author_name": "unknown",
+            "tags": "composition,physico,chemical,properties,formenti",
+            "recuweb_url": "http://en.recuweb.com/atmos-chem-phys.net/2014/10/acp-abstract-mapping-the-physico-chemical-properties-of-mineral",
+            "resource_url": "http://www.google.com/search?q=chemical%2Bproperties%2Bchemical%2Bproperties&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://atmos-chem-phys.net/14/10663/2014/acp-14-10663-2014.html"
         }
     }
 }
