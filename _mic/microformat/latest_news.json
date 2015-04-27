@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "microformat",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/microformat/",
@@ -10,6 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/microformat/microformat/blogs.json"
     },
     "items": {
+        "webpronews.com/2015/04/bing-new-image-search-means-more-traffic-for-you-webpronews": {
+            "title": "Bing: New Image Search Means More Traffic For You - WebProNews...",
+            "snippet": "WebProNewsBing: New Image Search Means More Traffic For YouWebProNewsBing says to use and OpenGraph, but notes that Microdata, Microformats, and RDFa are also supported. When Bing crawlers fetch your page content, these schemas are utilized to...",
+            "date": "2015-04-10",
+            "categories": "bing,microformat",
+            "tags": "page,content,supported,image,search,traffic,microdata,microformats,rdfa",
+            "recuweb_url": "http://en.recuweb.com/microformat/webpronews.com/2015/04/bing-new-image-search-means-more-traffic-for-you-webpronews",
+            "resource_url": "http://news.google.com/?hl=en&q=microformat%2Bmicroformat&output=atom&nord=1",
+            "source_url": "http://webpronews.com/bing-new-image-search-means-more-traffic-for-you-2015-04"
+        },
         "turn-on.de/2015/04/macbook-2015-alle-infos-zum-release-und-erste-tests-turn-on": {
             "title": "MacBook 2015: Alle Infos zum Release und erste Tests - TURN ON...",
             "snippet": "TURN ONMacBook 2015: Alle Infos zum Release und erste TestsTURN ONNeben dem kombinierten Audio-Port verf\u00fcgt der Flachmann lediglich \u00fcber einen USB-C-Anschluss im Micro-Format wof\u00fcr Apple-Nutzer aber keine passende Peripherie haben, weshalb...",
@@ -20,31 +31,22 @@
             "resource_url": "http://news.google.com/?hl=en&q=microformat&output=atom&nord=1",
             "source_url": "http://turn-on.de/news/macbook-2015-alle-infos-zum-release-und-erste-tests-22078"
         },
-        "programmableweb.com/2015/03/aylien-to-offer-hybrid-text-and-image-analysis-service-programmableweb": {
-            "title": "AYLIEN to Offer Hybrid Text and Image Analysis Service - ProgrammableWeb...",
-            "snippet": "ProgrammableWebAYLIEN to Offer Hybrid Text and Image Analysis ServiceProgrammableWebAYLIEN also recently added two new API endpoints; unsupervised classification and microformats extraction. The unsupervised classification endpoint can categorize...",
-            "date": "2015-03-15",
-            "categories": "microformat",
-            "tags": "image,microformats",
-            "recuweb_url": "http://en.recuweb.com/microformat/programmableweb.com/2015/03/aylien-to-offer-hybrid-text-and-image-analysis-service-programmableweb",
+        "infoworld.com/2015/01/10-capabilities-we-want-to-see-in-html6-infoworld": {
+            "title": "10 capabilities we want to see in HTML6 - InfoWorld...",
+            "snippet": "InfoWorld10 capabilities we want to see in HTML6InfoWorldThe W3C has been exploring microformats for marking up bits of data for some time, and some consider them to be part of HTML5, though they aren't. We can use more comprehensive markups for...",
+            "date": "2015-01-30",
+            "categories": "html,microformat",
+            "tags": "consider,want,html,microformats,data",
+            "recuweb_url": "http://en.recuweb.com/microformat/infoworld.com/2015/01/10-capabilities-we-want-to-see-in-html6-infoworld",
             "resource_url": "http://news.google.com/?hl=en&q=microformat%2Bmicroformat&output=atom&nord=1",
-            "source_url": "http://programmableweb.com/news/aylien-to-offer-hybrid-text-and-image-analysis-service/2015/03/15"
-        },
-        "networkworld.com/2015/03/7-hot-career-related-companies-to-watch-network-world": {
-            "title": "7 Hot Career-related Companies to Watch - Network World...",
-            "snippet": "Network World7 Hot Career-related Companies to WatchNetwork WorldWe now have a request from one bank to provide a SaaS solution based on the effectiveness of the micro-format courses, the Coursmos spokeswoman writes. Coursmos now has a total of in...",
-            "date": "2015-03-12",
-            "tags": "companies,micro,format",
-            "recuweb_url": "http://en.recuweb.com/networkworld.com/2015/03/7-hot-career-related-companies-to-watch-network-world",
-            "resource_url": "http://news.google.com/?hl=en&q=microformat&output=atom&nord=1",
-            "source_url": "http://networkworld.com/article/2895817/careers/7-hot-career-related-companies-to-watch.html"
+            "source_url": "http://infoworld.com/article/2873543/html5/10-proposals-for-a-better-html6.html"
         },
         "bizjournals.com/2013/09/where-did-the-tellers-go-fifth-third-launches-new-branch-concept": {
             "title": "Where did the tellers go? Fifth Third launches new branch concept...",
             "snippet": "Short answer: There arent any. Fifth Third has launched the first of what will be 20 or so small branches it calls microformat branches. Yes, they are smaller, at maybe 2,000 square feet instead of 4,000. But the most notable thing is the lack of...",
             "date": "2013-09-24",
             "categories": "microformat",
-            "tags": "launched,microformat",
+            "tags": "microformat",
             "recuweb_url": "http://en.recuweb.com/microformat/bizjournals.com/2013/09/where-did-the-tellers-go-fifth-third-launches-new-branch-concept",
             "resource_url": "http://www.bing.com/news/search?first=1&q=microformat&format=RSS&cc=us",
             "source_url": "http://bizjournals.com/cincinnati/blog/2013/09/where-did-the-tellers-go-fifth-third.html"
@@ -54,17 +56,27 @@
             "snippet": "Employing Microformats & Structured Data For Enhanced Search Engine VisibilitySearch Engine LandWith the introduction of the vocabulary, much attention has been focused on the benefits of employing structured data for improved visibility in the...",
             "date": "2011-09-29",
             "categories": "vocabulary,search-engine,microformat",
-            "tags": "data,search,search_engine,engine,land,microformats",
+            "tags": "structured,data,search,search_engine,engine,microformats",
             "recuweb_url": "http://en.recuweb.com/microformat/searchengineland.com/2011/09/employing-microformats-&-structured-data-for-enhanced-search-engine-visibility-land",
             "resource_url": "http://news.google.com/?hl=en&q=microformat&output=atom&nord=1",
             "source_url": "http://searchengineland.com/employing-microformats-structured-data-for-enhanced-search-engine-visibility-94122"
+        },
+        "sitepoint.com/2010/10/seo-strategies-microformats-in-web-development-sitepoint-blog": {
+            "title": "SEO Strategies: Microformats in Web Development - SitePoint (blog)...",
+            "snippet": "SEO Strategies: Microformats in Web DevelopmentSitePoint (blog)None of these microformats are very complex; they simply rely on a few conventions with respect to the classes applied to certain elements in the markup, and the ways in which those...",
+            "date": "2010-10-05",
+            "categories": "web-development,microformat",
+            "tags": "few,elements,markup,web,seo,microformats",
+            "recuweb_url": "http://en.recuweb.com/microformat/sitepoint.com/2010/10/seo-strategies-microformats-in-web-development-sitepoint-blog",
+            "resource_url": "http://news.google.com/?hl=en&q=microformat&output=atom&nord=1",
+            "source_url": "http://sitepoint.com/including-microformats-in-web-development/"
         },
         "searchenginejournal.com/2010/01/tools-to-use-and-learn-hcard-format-learning-microformats-search-engine": {
             "title": "Tools to Use and Learn hCard Format Learning Microformats - Search Engine Journal...",
             "snippet": "Tools to Use and Learn hCard Format Learning MicroformatsSearch Engine JournalI won't try to describe why to use it. Quite a few people have done a great job detailing what hCard microformat is and why people should consider using it. One of the...",
             "date": "2010-01-04",
             "categories": "learning,search-engine,microformat",
-            "tags": "people,should,using,format,engine,search,search_engine,microformats,microformat,learn",
+            "tags": "people,should,consider,using,few,describe,format,engine,search,search_engine,microformats,microformat,learn",
             "recuweb_url": "http://en.recuweb.com/microformat/searchenginejournal.com/2010/01/tools-to-use-and-learn-hcard-format-learning-microformats-search-engine",
             "resource_url": "http://news.google.com/?hl=en&q=microformat&output=atom&nord=1",
             "source_url": "http://searchenginejournal.com/tools-to-use-and-learn-hcard-format-learning-microformats/15875/"
@@ -84,7 +96,7 @@
             "snippet": "Earlier this year, the Associated Press, together with the Media Standards Trust, introduced hNews, a new microformat for describing news content. HNews allows publishers to easily attach machine-readable news semantics to content on the web. Today,...",
             "date": "2009-10-19",
             "categories": "semantics,microformat",
-            "tags": "content,standards,standards_trust,trust,associated,associated_press,press,hnews,hnews_microformat,microformat,soon,web,today",
+            "tags": "content,easily,standards,standards_trust,trust,associated,associated_press,press,hnews,hnews_microformat,microformat,soon,web",
             "recuweb_url": "http://en.recuweb.com/microformat/readwrite.com/2009/10/1-500-newspapers-could-soon-support-the-ap-s-controversial-hnews",
             "resource_url": "http://www.bing.com/news/search?first=1&q=microformat&format=RSS&cc=us",
             "source_url": "http://readwrite.com/2009/10/20/ap_hnews_first_draft_adopted_by_townnews#!"
@@ -93,21 +105,11 @@
             "title": "AP, Media Standards Trust Propose News Microformat...",
             "snippet": "The Media Standards Trust and the Associated Press news agency want to establish a new industry-wide microformat for online news to increase readership and therefore revenue by improving search engine ranking and making content easier to find.",
             "date": "2009-07-09",
-            "categories": "search-engine,microformat",
-            "tags": "search,engine,content,associated,associated_press,press,standards,standards_trust,trust,microformat",
+            "categories": "microformat",
+            "tags": "content,want,associated,associated_press,press,standards,standards_trust,trust,microformat,search,engine",
             "recuweb_url": "http://en.recuweb.com/microformat/gigaom.com/2009/07/ap-media-standards-trust-propose-news-microformat",
             "resource_url": "http://www.bing.com/news/search?first=1&q=microformat&format=RSS&cc=us",
             "source_url": "http://gigaom.com/2009/07/10/419-ap-media-standards-trust-propose-news-microformat/"
-        },
-        "searchengineland.com/2009/05/google-search-now-supports-microformats-and-adds-rich-snippets-to-engine": {
-            "title": "Google Search Now Supports Microformats and Adds Rich Snippets to Search... - Search Engine Land...",
-            "snippet": "Google Search Now Supports Microformats and Adds Rich Snippets to Search...Search Engine Land (blog)Today at Searchology, Google has launched a search results enhancement called rich snippets that uses meta data from web pages (from microformats...",
-            "date": "2009-05-12",
-            "categories": "microformat,google",
-            "tags": "launched,search,rich,snippets,engine,land,microformats,google,today,data,web,pages",
-            "recuweb_url": "http://en.recuweb.com/google/searchengineland.com/2009/05/google-search-now-supports-microformats-and-adds-rich-snippets-to-engine",
-            "resource_url": "http://news.google.com/?hl=en&q=microformat&output=atom&nord=1",
-            "source_url": "http://searchengineland.com/google-search-now-supports-microformats-and-adds-rich-snippets-to-search-results-19055"
         }
     }
 }
