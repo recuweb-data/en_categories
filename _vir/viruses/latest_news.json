@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "viruses",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/viruses/",
@@ -10,14 +11,44 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/viruses/viruses/blogs.json"
     },
     "items": {
+        "thehindu.com/2015/04/ancient-viruses-once-foes-may-now-serve-as-friends-researchers": {
+            "title": "Ancient viruses, once foes, may now serve as friends: researchers...",
+            "snippet": "Our genomes are riddled with the detritus of ancient viruses. They infected our hominid ancestors tens of millions of years ago, inserting their genes into the DNA of their hosts. Today, we carry about 100,000 genetic remnants of this invasion.",
+            "date": "2015-04-24",
+            "categories": "viruses",
+            "tags": "hosts,inserting,inserting-their-genes,genes,genes-into,into,infected,infected-our-hominid,hominid,hominid-ancestors,hominid-ancestors-tens,ancestors,ancestors-tens,tens,tens-of-millions,millions,millions-of-years,ago,genomes,genomes-are-riddled,riddled,detritus,detritus-of-ancient,ancient,serve,friends,once,foes,viruses,dna,today",
+            "recuweb_url": "http://en.recuweb.com/viruses/thehindu.com/2015/04/ancient-viruses-once-foes-may-now-serve-as-friends-researchers",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=viruses&format=RSS&cc=us",
+            "source_url": "http://thehindu.com/sci-tech/science/ancient-viruses-once-foes-may-now-serve-as-friends/article7138608.ece?homepage=true"
+        },
+        "gamespot.com/2015/04/resident-evil-hd-sells-1-million-breaks-psn-record": {
+            "title": "Resident Evil HD Sells 1 Million, Breaks PSN Record...",
+            "snippet": "GameSpot critic Kevin VanOrd wrote in his review: Later Resident Evil games would add more viruses and unnecessary subplots, but the original allows that menacing mansion to do most of the talking. In this series, less is more.",
+            "date": "2015-04-24",
+            "categories": "viruses",
+            "tags": "series,million,viruses",
+            "recuweb_url": "http://en.recuweb.com/viruses/gamespot.com/2015/04/resident-evil-hd-sells-1-million-breaks-psn-record",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=viruses&format=RSS&cc=us",
+            "source_url": "http://gamespot.com/articles/resident-evil-hd-sells-1-million-breaks-psn-record/1100-6426855/"
+        },
+        "forensicmag.com/2015/04/the-maps-within-using-viruses-in-forensic-biology": {
+            "title": "The Maps Within: Using Viruses in Forensic Biology...",
+            "snippet": "Forensic biology has made tremendous strides in the past few decades thanks largely to advances in DNA techniques and analysis. Genomic sequencing has generated new methods of human identification reaching far beyond fingerprints and dental...",
+            "date": "2015-04-24",
+            "categories": "biology,viruses",
+            "tags": "decades,viruses,within,dna",
+            "recuweb_url": "http://en.recuweb.com/viruses/forensicmag.com/2015/04/the-maps-within-using-viruses-in-forensic-biology",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=viruses&format=RSS&cc=us",
+            "source_url": "http://forensicmag.com/blogs/2015/04/maps-within-using-viruses-forensic-biology"
+        },
         "nytimes.com/2015/04/ancient-viruses-once-foes-may-now-serve-as-friends-new-york": {
             "title": "Ancient Viruses, Once Foes, May Now Serve as Friends - New York Times...",
             "snippet": "New York TimesAncient Viruses, Once Foes, May Now Serve as FriendsNew York TimesOur genomes are riddled with the detritus of ancient viruses. They infected our hominid ancestors tens of millions of years ago, inserting their genes into the DNA of...",
             "date": "2015-04-23",
             "categories": "viruses",
-            "tags": "into,infected,viruses",
+            "tags": "inserting,inserting-their-genes,genes,genes-into,into,infected,infected-our-hominid,hominid,hominid-ancestors,hominid-ancestors-tens,ancestors,ancestors-tens,tens,tens-of-millions,millions,millions-of-years,ago,genomes,genomes-are-riddled,riddled,detritus,detritus-of-ancient,ancient,once,foes,viruses,serve,friends,dna",
             "recuweb_url": "http://en.recuweb.com/viruses/nytimes.com/2015/04/ancient-viruses-once-foes-may-now-serve-as-friends-new-york",
-            "resource_url": "http://news.google.com/?hl=en&q=viruses%2Bviruses&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=viruses&output=atom&nord=1",
             "source_url": "http://nytimes.com/2015/04/23/science/ancient-viruses-once-foes-may-now-serve-as-friends.html"
         },
         "desmoinesregister.com/2015/04/factory-farms-are-hotbeds-for-viruses": {
@@ -25,90 +56,60 @@
             "snippet": "farms are hotbeds for largest outbreak of bird flu in American history was an H5N2 virus, which led to the deaths of 17 million domestic birds and cost the nation more than 400 million during an outbreak in Pennsylvania that started in 1983. In...",
             "date": "2015-04-23",
             "categories": "death,viruses",
-            "tags": "million,bird,cost,than,farms,flu,viruses,virus",
+            "tags": "million,outbreak,viruses,virus",
             "recuweb_url": "http://en.recuweb.com/viruses/desmoinesregister.com/2015/04/factory-farms-are-hotbeds-for-viruses",
-            "resource_url": "http://news.google.com/?hl=en&q=viruses%2Bviruses&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=viruses&output=atom&nord=1",
             "source_url": "http://desmoinesregister.com/story/opinion/columnists/iowa-view/2015/04/22/factory-farms-hotbeds-viruses/26215265/"
         },
-        "spacedaily.com/2015/04/viruses-help-microbial-hosts-cope-with-life-at-the-extremes-space": {
-            "title": "Viruses Help Microbial Hosts Cope with Life at the Extremes - Space Daily...",
-            "snippet": "Space DailyViruses Help Microbial Hosts Cope with Life at the ExtremesSpace DailyA new study reveals that viruses lend a surprisingly helpful hand to microbes eking out a living near deep-sea hydrothermal vents. When they infect the vent's resident...",
+        "spacedaily.com/2015/04/viruses-help-microbial-hosts-cope-with-life-at-the-extremes": {
+            "title": "Viruses Help Microbial Hosts Cope with Life at the Extremes...",
+            "snippet": "A view of a hydrothermal vent at the Main Endeavour Field on the Juan de Fuca Ridge, snapped from the submersible Alvin. Image courtesy Woods Hole Oceanographic Institution. For a larger version of this image please go here. A new study reveals...",
             "date": "2015-04-23",
             "categories": "viruses,life",
-            "tags": "help,viruses",
-            "recuweb_url": "http://en.recuweb.com/life/spacedaily.com/2015/04/viruses-help-microbial-hosts-cope-with-life-at-the-extremes-space",
-            "resource_url": "http://news.google.com/?hl=en&q=viruses%2Bviruses&output=atom&nord=1",
+            "tags": "viruses,help,hosts",
+            "recuweb_url": "http://en.recuweb.com/life/spacedaily.com/2015/04/viruses-help-microbial-hosts-cope-with-life-at-the-extremes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=viruses&format=RSS&cc=us",
             "source_url": "http://spacedaily.com/reports/Viruses_Help_Microbial_Hosts_Cope_with_Life_at_the_Extremes_999.html"
         },
-        "suntelegraph.com/2015/04/viruses-are-much-worse-than-war-sidney-sun-telegraph": {
-            "title": "Viruses are much worse than war - Sidney Sun Telegraph...",
-            "snippet": "Viruses are much worse than warSidney Sun TelegraphAt a TED conference on March 18, in Vancouver, Bill Gates said, If anything kills over 10 million people in the next decades, it is most likely to be a highly infectious virus, rather than war; not...",
+        "suntelegraph.com/2015/04/viruses-are-much-worse-than-war": {
+            "title": "Viruses are much worse than war...",
+            "snippet": "At a TED conference on March 18, in Vancouver, Bill Gates said, If anything kills over 10 million people in the next decades, it is most likely to be a highly infectious virus, rather than war; not missiles, but microbes. We are not ready for the...",
             "date": "2015-04-23",
-            "categories": "sun,viruses",
-            "tags": "than,viruses,virus,million,people,said",
-            "recuweb_url": "http://en.recuweb.com/viruses/suntelegraph.com/2015/04/viruses-are-much-worse-than-war-sidney-sun-telegraph",
-            "resource_url": "http://news.google.com/?hl=en&q=viruses%2Bviruses&output=atom&nord=1",
+            "categories": "viruses",
+            "tags": "viruses,virus,million,decades,said",
+            "recuweb_url": "http://en.recuweb.com/viruses/suntelegraph.com/2015/04/viruses-are-much-worse-than-war",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=viruses&format=RSS&cc=us",
             "source_url": "http://suntelegraph.com/story/2015/04/23/opinion/viruses-are-much-worse-than-war/6884.html"
+        },
+        "medindia.net/2015/04/scientists-discover-a-new-protein-that-boosts-immunity-against-viruses-cancer": {
+            "title": "Scientists Discover a New Protein That Boosts Immunity Against Viruses, Cancer...",
+            "snippet": "Cytotoxic T cells are an important component of the immune system, but in the face of serious infections or advanced cancer, they are often unable to proliferate in large enough quantities to fight the disease. Scientists have discovered a new...",
+            "date": "2015-04-22",
+            "categories": "cancer,viruses",
+            "tags": "viruses,system",
+            "recuweb_url": "http://en.recuweb.com/viruses/medindia.net/2015/04/scientists-discover-a-new-protein-that-boosts-immunity-against-viruses-cancer",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=viruses&format=RSS&cc=us",
+            "source_url": "http://medindia.net/news/scientists-discover-a-new-protein-that-boosts-immunity-against-viruses-cancer-148499-1.htm"
         },
         "washingtonpost.com/2015/04/student-i-want-to-stop-viruses-like-ebola-but-can-t": {
             "title": "Student: I want to stop viruses like Ebola. But I can't afford grad school. - Washington Post...",
             "snippet": "Washington PostStudent: I want to stop viruses like Ebola. But I can't afford grad PostThere's no way, she said, that she can afford to pay this especially when her goal is to go into public health to specialize in viral hemorrhagic fevers, a career...",
             "date": "2015-04-22",
             "categories": "public-health,health,school,viruses",
-            "tags": "into,public,health,viral,said,way,want,viruses,ebola",
+            "tags": "into,public,health,said,way,want,viruses,ebola",
             "recuweb_url": "http://en.recuweb.com/viruses/washingtonpost.com/2015/04/student-i-want-to-stop-viruses-like-ebola-but-can-t",
-            "resource_url": "http://news.google.com/?hl=en&q=viruses%2Bviruses&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=viruses&output=atom&nord=1",
             "source_url": "http://washingtonpost.com/news/grade-point/wp/2015/04/22/student-i-want-to-stop-viruses-like-ebola-but-i-cant-afford-grad-school/"
         },
-        "thestarphoenix.com/2015/04/ottawa-scientists-hail-viral-strategy": {
-            "title": "Ottawa scientists hail 'viral strategy'...",
-            "snippet": "One of Ottawa's premier research scientists has published a study that points to viruses as an important ally in the fight against pancreatic cancer, a disease known as a silent killer because its early symptoms often go unnoticed. People diagnosed...",
-            "date": "2015-04-21",
-            "categories": "cancer,viruses",
-            "tags": "because,viral,viruses,people",
-            "recuweb_url": "http://en.recuweb.com/viruses/thestarphoenix.com/2015/04/ottawa-scientists-hail-viral-strategy",
+        "worldmag.com/2015/04/vaccines-&-viruses-debate-cools-as-measles-outbreak-ends": {
+            "title": "Vaccines & viruses: Debate cools as measles outbreak ends...",
+            "snippet": "Measles halted. With only three new measles cases reported in the United States since mid-March, California health officials last Friday declared the Disneyland measles outbreak over. They remain concerned about vaccine rates of 50 percent or less...",
+            "date": "2015-04-22",
+            "categories": "health,viruses",
+            "tags": "outbreak,health,viruses",
+            "recuweb_url": "http://en.recuweb.com/viruses/worldmag.com/2015/04/vaccines-&-viruses-debate-cools-as-measles-outbreak-ends",
             "resource_url": "http://www.bing.com/news/search?first=1&q=viruses&format=RSS&cc=us",
-            "source_url": "http://thestarphoenix.com/Ottawa+scientists+hail+viral+strategy/10989923/story.html"
-        },
-        "thescottishfarmer.co.uk/2015/04/reducing-calf-scour-viruses-in-beef-herds": {
-            "title": "Reducing calf scour viruses in beef herds...",
-            "snippet": "The economic implications are severe and these include paying for the high cost of treatments - for instance, oral fluids for three to five days; extra labour costs; high morbidity and the potential for high mortality rates. Then, there is...",
-            "date": "2015-04-21",
-            "categories": "viruses",
-            "tags": "high,cost,viruses",
-            "recuweb_url": "http://en.recuweb.com/viruses/thescottishfarmer.co.uk/2015/04/reducing-calf-scour-viruses-in-beef-herds",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=viruses&format=RSS&cc=us",
-            "source_url": "http://thescottishfarmer.co.uk/livestock/dairy/reducing-calf-scour-viruses-in-beef-herds.26804534"
-        },
-        "english.alarabiya.net/2015/04/swine-flu-strikes-doctor-in-saudi-city-of-jeddah": {
-            "title": "Swine flu strikes doctor in Saudi city of Jeddah...",
-            "snippet": "Dr. Majdi Al-Tookhi said the return of epidemics and viruses such as swine flu and dengue fever was not unexpected. He said: We shouldnt take this lightly. Fighting these diseases should be done in a strong way. Enough with squandering money on...",
-            "date": "2015-04-21",
-            "categories": "viruses",
-            "tags": "way,flu,said,viruses",
-            "recuweb_url": "http://en.recuweb.com/viruses/english.alarabiya.net/2015/04/swine-flu-strikes-doctor-in-saudi-city-of-jeddah",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=viruses&format=RSS&cc=us",
-            "source_url": "http://english.alarabiya.net/en/News/middle-east/2015/04/21/Swine-flu-strikes-doctor-in-Jeddah.html"
-        },
-        "medicalxpress.com/2015/04/bird-flu-takes-biggest-toll-yet-as-virus-hits-chicken-farms": {
-            "title": "Bird flu takes biggest toll yet as virus hits chicken farms...",
-            "snippet": "Workers often have to shower on their way in and out, wear protective coveralls and step in disinfectant to kill viruses on their boots. Equipment coming in and out is typically sanitized. But the system doesn't always work. Experts say it...",
-            "date": "2015-04-20",
-            "categories": "viruses",
-            "tags": "way,viruses,virus,farms,flu,bird,toll,system",
-            "recuweb_url": "http://en.recuweb.com/viruses/medicalxpress.com/2015/04/bird-flu-takes-biggest-toll-yet-as-virus-hits-chicken-farms",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=viruses&format=RSS&cc=us",
-            "source_url": "http://medicalxpress.com/news/2015-04-bird-flu-biggest-toll-virus.html"
-        },
-        "scopeblog.stanford.edu/2015/04/can-a-single-drug-outsmart-many-kinds-of-viral-invaders-scope": {
-            "title": "Can a single drug outsmart many kinds of viral invaders? - Scope (blog)...",
-            "snippet": "Scope (blog)Can a single drug outsmart many kinds of viral invaders?Scope (blog)We've got plenty of effective antibiotics maybe even too many- to knock off bacteria we don't like. But when it comes to viruses, it's a different story, Stanford...",
-            "date": "2015-04-20",
-            "categories": "viruses",
-            "tags": "even,viral,viruses",
-            "recuweb_url": "http://en.recuweb.com/viruses/scopeblog.stanford.edu/2015/04/can-a-single-drug-outsmart-many-kinds-of-viral-invaders-scope",
-            "resource_url": "http://news.google.com/?hl=en&q=viruses&output=atom&nord=1",
-            "source_url": "http://scopeblog.stanford.edu/2015/04/20/stanford-infectious-disease-experts-weigh-in-on-how-to-outsmart-viruses/"
+            "source_url": "http://worldmag.com/2015/04/vaccines_viruses_debate_cools_as_measles_outbreak_ends"
         }
     }
 }
