@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "atc-codes",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/atc-codes/",
@@ -10,24 +11,34 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/atc-codes/atc-codes/blogs.json"
     },
     "items": {
+        "apps.who.int/2015/04/5-4-implementation-of-the-atc-ddd-methodology": {
+            "title": "5.4 Implementation of the ATC/DDD methodology...",
+            "snippet": "It is important to realize that adopting the ATC/DDD classification of drugs requires resources and the necessary competence to carry out the work of allocating ATC codes to the products. If possible, this work should be done on a national basis to...",
+            "date": "2015-04-10",
+            "categories": "drugs",
+            "tags": "should,national,products,drugs,atc,codes",
+            "recuweb_url": "http://en.recuweb.com/drugs/apps.who.int/2015/04/5-4-implementation-of-the-atc-ddd-methodology",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=atc%2Bcodes&format=RSS&cc=us",
+            "source_url": "http://apps.who.int/medicinedocs/en/d/Js4876e/6.4.html"
+        },
         "theroar.com.au/2015/04/peter-v-landys-on-the-championships-and-priorities-of-racing-nsw": {
             "title": "Peter V'Landys on The Championships and the priorities of Racing NSW - The Roar...",
             "snippet": "The RoarPeter V'Landys on The Championships and the priorities of Racing NSWThe RoarThe Championships was formed in partnership with the ATC with the initiative to have a 'Grand Finals'of racing which is able to compete with other sporting codes.",
             "date": "2015-04-07",
-            "tags": "other,sporting,peter,atc,codes",
+            "tags": "other,atc,codes",
             "recuweb_url": "http://en.recuweb.com/theroar.com.au/2015/04/peter-v-landys-on-the-championships-and-priorities-of-racing-nsw",
             "resource_url": "http://news.google.com/?hl=en&q=atc%2Bcodes&output=atom&nord=1",
             "source_url": "http://theroar.com.au/2015/04/07/peter-vlandys-on-the-championships-and-the-priorities-of-racing-nsw/"
         },
-        "dailytelegraph.com.au/2015/03/sydney-s-all-star-cast-stronger-than-spring-line-up-in": {
-            "title": "Sydney's all-star cast stronger than spring line-up in Melbourne, says Kris Lees - The Daily...",
-            "snippet": "The Daily Telegraph (blog)Sydney's all-star cast stronger than spring line-up in Melbourne, says Kris LeesThe Daily Telegraph (blog)SPORTING stars past and present from a range of codes, including ATC Ambassador and rugby league legend Peter...",
-            "date": "2015-03-26",
-            "categories": "rugby,stars",
-            "tags": "atc,daily,sporting,codes,peter",
-            "recuweb_url": "http://en.recuweb.com/stars/dailytelegraph.com.au/2015/03/sydney-s-all-star-cast-stronger-than-spring-line-up-in",
-            "resource_url": "http://news.google.com/?hl=en&q=atc%2Bcodes&output=atom&nord=1",
-            "source_url": "http://dailytelegraph.com.au/sport/superracing/sydneys-all-star-cast-stronger-than-spring-line-up-in-melbourne-says-kris-lees/story-fni2gg7e-1227279970739"
+        "biomedcentral.com/2015/03/a-comparative-study-of-disease-genes-and-drug-targets-in": {
+            "title": "A comparative study of disease genes and drug targets in the human protein interactome...",
+            "snippet": "We manually searched the ATC codes for five different disease categories and then matched the drug indications to disease categories through the following drug ATC codes. The drugs belonging to the L01 (Antineoplastic agents) class were defined...",
+            "date": "2015-03-18",
+            "categories": "drugs",
+            "tags": "class,defined,drugs,drug,different,disease,study,atc,codes",
+            "recuweb_url": "http://en.recuweb.com/drugs/biomedcentral.com/2015/03/a-comparative-study-of-disease-genes-and-drug-targets-in",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=atc%2Bcodes&format=RSS&cc=us",
+            "source_url": "http://biomedcentral.com/1471-2105/16/S5/S1/"
         },
         "nejm.org/2015/02/outcomes-of-pregnancy-after-bariatric-surgery": {
             "title": "Outcomes of Pregnancy after Bariatric Surgery...",
@@ -39,34 +50,15 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=atc%2Bcodes&format=RSS&cc=us",
             "source_url": "http://nejm.org/doi/full/10.1056/NEJMoa1405789"
         },
-        "apps.who.int/2015/02/5-4-implementation-of-the-atc-ddd-methodology": {
-            "title": "5.4 Implementation of the ATC/DDD methodology...",
-            "snippet": "It is important to realize that adopting the ATC/DDD classification of drugs requires resources and the necessary competence to carry out the work of allocating ATC codes to the products. If possible, this work should be done on a national basis to...",
-            "date": "2015-02-09",
-            "categories": "drugs",
-            "tags": "should,national,products,drugs,atc,codes",
-            "recuweb_url": "http://en.recuweb.com/drugs/apps.who.int/2015/02/5-4-implementation-of-the-atc-ddd-methodology",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=atc%2Bcodes&format=RSS&cc=us",
-            "source_url": "http://apps.who.int/medicinedocs/en/d/Js4876e/6.4.html"
-        },
         "finance.yahoo.com/2014/05/research-and-markets-european-parkinson-s-disease-drug-pipeline-analysis-2014": {
             "title": "Research and Markets: European Parkinson's Disease Drug Pipeline Analysis 2014-2022...",
             "snippet": "Parkinson's disease incidence has been on a rise in Europe in recent... Trial Owner/Originator/Licensee/Collaborator Administrative Route Drug Class ATC Codes Europe Parkinson's Disease Drug Pipeline by Clinical Phase: For more information visit...",
             "date": "2014-05-21",
             "categories": "atc-codes,markets",
-            "tags": "phase,drug,drug_pipeline,pipeline,collaborator,administrative,route,class,atc,codes,drug_pipeline_analysis,pipeline_analysis,analysis,research,europe,originator,licensee",
+            "tags": "phase,disease,drug,drug_pipeline,pipeline,collaborator,administrative,route,class,atc,codes,drug_pipeline_analysis,pipeline_analysis,analysis,research,europe,originator,licensee",
             "recuweb_url": "http://en.recuweb.com/markets/finance.yahoo.com/2014/05/research-and-markets-european-parkinson-s-disease-drug-pipeline-analysis-2014",
             "resource_url": "http://www.bing.com/news/search?first=1&q=atc%2Bcodes&format=RSS&cc=us",
             "source_url": "http://finance.yahoo.com/news/research-markets-european-parkinsons-disease-090300054.html"
-        },
-        "biomedcentral.com/2014/04/can-gender-difference-in-prescription-drug-use-be-explained-by-related": {
-            "title": "Can gender difference in prescription drug use be explained by gender-related morbidity?: a study...",
-            "snippet": "We generated three dichotomous models: Model 1 was adjusted for age and multi-morbidity; Model 2 was adjusted for age, multi-morbidity and relative ATC codes; and Model 3 was adjusted for age, multi-morbidity and ATC codes that gave an OR when...",
-            "date": "2014-04-08",
-            "tags": "study,drug,atc,codes",
-            "recuweb_url": "http://en.recuweb.com/biomedcentral.com/2014/04/can-gender-difference-in-prescription-drug-use-be-explained-by-related",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=atc%2Bcodes&format=RSS&cc=us",
-            "source_url": "http://biomedcentral.com/1471-2458/14/329"
         },
         "thestreet.com/2013/12/global-hiv-infection-drug-pipeline-analysis": {
             "title": "Global HIV Infection Drug Pipeline Analysis...",
@@ -93,7 +85,7 @@
             "snippet": "Number of users per 1000. Interactive figure. To see the ATC codes for the drugs used in the different groups, click the icon Create diagram at the top left of the figure and select the Definitions tab. (The two figures have different x-axes due...",
             "date": "2010-05-06",
             "categories": "drugs",
-            "tags": "drugs,drug,atc,codes",
+            "tags": "different,drugs,drug,atc,codes",
             "recuweb_url": "http://en.recuweb.com/drugs/fhi.no/2010/05/drug-consumption-in-norway-fact-sheet",
             "resource_url": "http://www.bing.com/news/search?first=1&q=atc%2Bcodes&format=RSS&cc=us",
             "source_url": "http://fhi.no/artikler/?id=85007"
@@ -103,7 +95,7 @@
             "snippet": "The National Registry of Medicinal Products Statistics has recorded all redeemed prescriptions on Danish citizens since 1994 according to specific Anatomical Therapeutic Chemical (ATC) codes and the amount of drugs prescribed, in defined daily...",
             "date": "2009-08-12",
             "categories": "drugs",
-            "tags": "daily,drugs,prescribed,products,national,study,risk,danish,atc,codes",
+            "tags": "defined,drugs,prescribed,products,national,study,risk,danish,atc,codes",
             "recuweb_url": "http://en.recuweb.com/drugs/bmj.com/2009/08/hormonal-contraception-and-risk-of-venous-thromboembolism-national-follow-up-study",
             "resource_url": "http://www.bing.com/news/search?first=1&q=atc%2Bcodes&format=RSS&cc=us",
             "source_url": "http://bmj.com/content/339/bmj.b2890"
