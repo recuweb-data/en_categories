@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "tidal-power",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/tidal-power/",
@@ -10,68 +11,58 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/tidal-power/tidal-power/blogs.json"
     },
     "items": {
+        "emec.org.uk/2015/04/press-release-integrated-hydrogen-system-for-tidal-energy-storage": {
+            "title": "Press release: Integrated hydrogen system for tidal energy storage...",
+            "snippet": "EMEC has procured an electrolyser to convert power generated at its tidal test site in Orkney to hydrogen fuel. The ground-breaking new project will pilot the storage of electricity from different forms of renewables, overcoming...",
+            "date": "2015-04-16",
+            "author_name": "EMEC",
+            "tags": "hydrogen,test,site,generated,electrolyser,hydrogen-system,system,press,tidal,energy,emec,power,ground,project,electricity,renewables",
+            "recuweb_url": "http://en.recuweb.com/emec.org.uk/2015/04/press-release-integrated-hydrogen-system-for-tidal-energy-storage",
+            "resource_url": "http://www.google.com/search?q=tidal%2Bpower%2Btidal%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://emec.org.uk/press-release-integrated-hydrogen-system-for-tidal-energy-storage/"
+        },
+        "helix.northwestern.edu/2015/04/tidal-power-technology-helix-magazine": {
+            "title": "Tidal Power Technology Helix Magazine...",
+            "snippet": "The biggest benefit of using tidal power is that, unlike wind or solar sources, it is extremely predictable. By knowing the location of the moon and the sun, we also know the motions of the tides. Therefore, with tidal power...",
+            "date": "2015-04-09",
+            "author_name": "Bethany Hubbard",
+            "categories": "moon,sun,tidal-power,technology",
+            "tags": "tidal,tidal_power,power,technology",
+            "recuweb_url": "http://en.recuweb.com/technology/helix.northwestern.edu/2015/04/tidal-power-technology-helix-magazine",
+            "resource_url": "http://www.google.com/search?q=tidal%2Bpower%2Btidal%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://helix.northwestern.edu/blog/2015/04/tidal-power-technology"
+        },
         "reddit.com/2015/03/let-s-talk-tidal": {
             "title": "Let's Talk: TIDAL...",
             "snippet": "They just had their announcement/press conference/power display for TIDAL, the new music streaming service owned by a multitude of artists: Jay-Z, Alicia Keys, Beyonc\u00e9, Rihanna, Madonna, Arcade Fire, Jack White, Calvin Harris, Jason Aldean, etc. I...",
             "date": "2015-03-30",
             "categories": "music",
-            "tags": "tidal,power",
+            "tags": "press,tidal,power",
             "recuweb_url": "http://en.recuweb.com/music/reddit.com/2015/03/let-s-talk-tidal",
             "resource_url": "http://www.reddit.com/search.rss?q=tidal%2Bpower%2Btidal%2Bpower&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/LetsTalkMusic/comments/30uptp/lets_talk_tidal/"
         },
-        "cleantechnica.com/2015/03/tidal-lagoon-power-set-to-wales-cleantechnica": {
-            "title": "Tidal Lagoon Power Set To Power Wales - CleanTechnica...",
-            "snippet": "Tidal Lagoon Power, the company behind the Swansea Bay tidal lagoon project, has announced it is taking the first step towards delivery of a full-scale tidal lagoon infrastructure project in the UK that could end up delivering...",
-            "date": "2015-03-04",
-            "author_name": "Joshua S Hill",
-            "tags": "could,project,announced,swansea,bay,company,tidal,tidal_lagoon,tidal_lagoon_power,lagoon,lagoon_power,power,wales,first,scale",
-            "recuweb_url": "http://en.recuweb.com/cleantechnica.com/2015/03/tidal-lagoon-power-set-to-wales-cleantechnica",
-            "resource_url": "http://www.google.com/search?q=tidal%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://cleantechnica.com/2015/03/04/tidal-lagoon-power-set-power-wales/"
-        },
-        "wired.co.uk/2015/03/tidal-lagoon-power-plants-planned-for-england-and-wales-wired-uk": {
-            "title": "Tidal lagoon power plants planned for England and Wales (Wired UK)...",
-            "snippet": "Tidal Lagoon Power. The world's first electricity-generating tidal lagoons are to be built in six locations across Britain, with at least one already in the planning stage. Four of them will be located in Wales -- in Swansea, Cardiff,...",
-            "date": "2015-03-02",
-            "author_name": "Duncan Geere",
-            "categories": "plants",
-            "tags": "located,built,lagoons,lagoon-power,power,plants,planned,tidal,wales,world,first,electricity,gene,britain,least,swansea",
-            "recuweb_url": "http://en.recuweb.com/plants/wired.co.uk/2015/03/tidal-lagoon-power-plants-planned-for-england-and-wales-wired-uk",
-            "resource_url": "http://www.google.com/search?q=tidal%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://wired.co.uk/news/archive/2015-03/02/tidal-lagoons-uk"
-        },
-        "energylivenews.com/2015/03/fleet-of-six-tidal-power-lagoons-planned-for-uk-energy-live": {
-            "title": "Fleet of six tidal power lagoons planned for UK - Energy Live News...",
-            "snippet": "Developer Tidal Lagoon Power said the project would have an installed capacity of between and and generate enough low carbon electricity to power every home in Wales for 120 years. It has submitted an...",
-            "date": "2015-03-02",
-            "author_name": "Priyanka Shrestha",
-            "categories": "home",
-            "tags": "home,carbon,electricity,project,installed,generate,tidal,tidal_lagoon,tidal_lagoon_power,lagoons,lagoon_power,power,energy,planned,low,wales",
-            "recuweb_url": "http://en.recuweb.com/home/energylivenews.com/2015/03/fleet-of-six-tidal-power-lagoons-planned-for-uk-energy-live",
+        "theguardian.com/2015/03/tidal-energy-swansea-project-could-lead-to-70-000-jobs-business": {
+            "title": "Tidal energy: Swansea project 'could lead to 70,000 jobs'Business...",
+            "snippet": "Tidal Lagoon Power hopes green light given to project in budget could create thousands of jobs if it is extended to five other schemes.",
+            "date": "2015-03-19",
+            "author_name": "Terry Macalister",
+            "categories": "business",
+            "tags": "budget,light,lagoon,lagoon-power,power,hopes,tidal,energy,swansea,project,green",
+            "recuweb_url": "http://en.recuweb.com/business/theguardian.com/2015/03/tidal-energy-swansea-project-could-lead-to-70-000-jobs-business",
             "resource_url": "http://www.google.com/search?q=tidal%2Bpower%2Btidal%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://energylivenews.com/2015/03/02/fleet-of-six-tidal-power-lagoons-planned-for-uk/"
+            "source_url": "http://theguardian.com/business/2015/mar/19/tidal-energy-swansea-project-could-lead-to-70000-jobs"
         },
-        "theconstructionindex.co.uk/2015/03/roll-out-for-tidal-power-plans-the-construction-index": {
-            "title": "Roll-out for tidal power plans - The Construction Index...",
-            "snippet": "The developers of the 850m Swansea tidal lagoon power project is now working up plans for a further five similar projects around the UK.",
-            "date": "2015-03-02",
-            "author_name": "unknown",
-            "categories": "construction",
-            "tags": "project,construction,tidal,power,plans,swansea,lagoon",
-            "recuweb_url": "http://en.recuweb.com/construction/theconstructionindex.co.uk/2015/03/roll-out-for-tidal-power-plans-the-construction-index",
+        "theguardian.com/2015/03/tidal-power-scheme-to-be-unveiled-in-2015-budget-politics": {
+            "title": "Tidal power scheme to be unveiled in 2015 budget Politics The...",
+            "snippet": "The Tidal Lagoon Power company wants to build its first generating scheme in south Wales, after which it envisages repeating the technology elsewhere. Photograph: Phil Rees/Alamy. Terry Macalister. Wednesday 18 March...",
+            "date": "2015-03-18",
+            "author_name": "Terry Macalister",
+            "categories": "politics,technology",
+            "tags": "build,lagoon,lagoon-power,power,unveiled,tidal,budget,company,wales,technology",
+            "recuweb_url": "http://en.recuweb.com/technology/theguardian.com/2015/03/tidal-power-scheme-to-be-unveiled-in-2015-budget-politics",
             "resource_url": "http://www.google.com/search?q=tidal%2Bpower%2Btidal%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theconstructionindex.co.uk/news/view/roll-out-for-tidal-power-plans"
-        },
-        "theguardian.com/2015/03/should-the-uk-be-subsidising-world-s-first-tidal-lagoons": {
-            "title": "Should the UK be subsidising the world's first tidal lagoons...",
-            "snippet": "Company begins approval process for project that could power homes in Wales, but concerns remain over enormity of scale and extremely high electricity costs.",
-            "date": "2015-03-02",
-            "author_name": "Karl Mathiesen",
-            "tags": "scale,electricity,homes,begins,process,project,could,world,first,tidal,lagoons,company,power,wales",
-            "recuweb_url": "http://en.recuweb.com/theguardian.com/2015/03/should-the-uk-be-subsidising-world-s-first-tidal-lagoons",
-            "resource_url": "http://www.google.com/search?q=tidal%2Bpower%2Btidal%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/environment/2015/mar/02/should-the-uk-be-subsidising-the-worlds-first-tidal-lagoons"
+            "source_url": "http://theguardian.com/politics/2015/mar/17/budget-2015-george-osborne-announce-uk-tidal-power-scheme"
         },
         "engadget.com/2015/03/uk-to-build-the-world-s-first-tidal-lagoon-power-plants": {
             "title": "UK to build the world's first tidal lagoon power plants - Engadget...",
@@ -79,20 +70,10 @@
             "date": "2015-03-02",
             "author_name": "Matt Brian",
             "categories": "plants",
-            "tags": "build,tidal,tidal_lagoon,tidal_lagoon_power,lagoon,lagoon_power,power,company,process,world,first,plants,britain,renewable,energy,plans",
+            "tags": "hopes,build,tidal,tidal_lagoon,tidal_lagoon_power,lagoon,lagoon_power,power,renewable,world,plants,company,energy,plans",
             "recuweb_url": "http://en.recuweb.com/plants/engadget.com/2015/03/uk-to-build-the-world-s-first-tidal-lagoon-power-plants",
             "resource_url": "http://www.google.com/search?q=tidal%2Bpower%2Btidal%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://engadget.com/2015/03/02/worlds-first-tidal-power-plants-uk/"
-        },
-        "cleantechnica.com/2015/02/tidal-lagoon-power-guarantees-british-industry-involvement": {
-            "title": "Tidal Lagoon Power Guarantees British Industry Involvement...",
-            "snippet": "The Tidal Lagoon Power project in Swansea, Wales, will rely heavily on British components and expertise.",
-            "date": "2015-02-12",
-            "author_name": "Joshua S Hill",
-            "tags": "project,tidal,tidal_lagoon,tidal_lagoon_power,lagoon,lagoon_power,power,british,swansea,wales",
-            "recuweb_url": "http://en.recuweb.com/cleantechnica.com/2015/02/tidal-lagoon-power-guarantees-british-industry-involvement",
-            "resource_url": "http://www.google.com/search?q=tidal%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://cleantechnica.com/2015/02/12/tidal-lagoon-power-guarantees-british-industry-involvement/"
         },
         "juancole.com/2015/01/scotland-world-s-largest-tidal-power-project-begins-construction": {
             "title": "Scotland: World's Largest Tidal Power Project Begins Construction...",
@@ -100,21 +81,42 @@
             "date": "2015-01-05",
             "author_name": "contributors",
             "categories": "tidal-power,construction",
-            "tags": "built,expected,project,begins,largest,work,largest_tidal,largest_tidal_power,tidal,tidal_power,power,construction,scotland,world,energy,turbine,homes",
+            "tags": "built,expected,turbine,largest,work,largest_tidal,largest_tidal_power,tidal,tidal_power,power,project,scotland,world,energy,homes",
             "recuweb_url": "http://en.recuweb.com/construction/juancole.com/2015/01/scotland-world-s-largest-tidal-power-project-begins-construction",
-            "resource_url": "http://www.google.com/search?q=tidal%2Bpower%2Btidal%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=tidal%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://juancole.com/2015/01/scotland-project-construction.html"
         },
-        "treehugger.com/2015/01/world-s-largest-tidal-energy-power-plant-269-turbines-to-begin": {
-            "title": "World's largest tidal energy power plant (269 turbines) to begin...",
-            "snippet": "The MeyGen tidal project in Scotland will be the largest tidal power plant in the world once operational. Atlantis, the Australian company that is building it has just received the green light from the government and construction...",
-            "date": "2015-01-02",
-            "author_name": "Michael Graham Richard",
-            "categories": "construction",
-            "tags": "construction,company,largest,project,world,tidal,energy,power,plant,turbines,scotland,green",
-            "recuweb_url": "http://en.recuweb.com/construction/treehugger.com/2015/01/world-s-largest-tidal-energy-power-plant-269-turbines-to-begin",
+        "theguardian.com/2014/12/green-light-for-world-s-largest-planned-tidal-energy-project-in": {
+            "title": "Green light for world's largest planned tidal energy project in...",
+            "snippet": "MeyGen project could power nearly 175000 homes through network of turbines on seabed at Ness of Quoys off Caithness.",
+            "date": "2014-12-19",
+            "author_name": "Press Association",
+            "tags": "homes,turbines,largest,planned,light,green,world,tidal,energy,project,power",
+            "recuweb_url": "http://en.recuweb.com/theguardian.com/2014/12/green-light-for-world-s-largest-planned-tidal-energy-project-in",
             "resource_url": "http://www.google.com/search?q=tidal%2Bpower%2Btidal%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://treehugger.com/renewable-energy/worlds-largest-tidal-energy-power-plant-269-turbines-begin-construction-scotland.html"
+            "source_url": "http://theguardian.com/environment/2014/dec/19/green-light-for-worlds-largest-planned-tidal-energy-project-in-scotland"
+        },
+        "countnonlisubfiroltocupas.wordpress.com/2014/08/water-wave-&-tidal-power-descarca-pdf": {
+            "title": "Water, Wave & Tidal Power descarca PDF...",
+            "snippet": "Water, Wave & Tidal Power Water, Wave & Tidal Power by Richard Spilsbury, Louise Spilsbury====Download url:====Water, Wave & Tidal Power djvu Water, Wave & Tidal Power ebook Water, Wave & []...",
+            "date": "2014-08-21",
+            "author_name": "countnonlisubfiroltocupas",
+            "categories": "tidal-power,ebook",
+            "tags": "tidal,tidal_power,power,water",
+            "recuweb_url": "http://en.recuweb.com/ebook/countnonlisubfiroltocupas.wordpress.com/2014/08/water-wave-&-tidal-power-descarca-pdf",
+            "resource_url": "http://en.search.wordpress.com/?q=tidal%2Bpower%2Btidal%2Bpower&f=feed&page=1",
+            "source_url": "http://countnonlisubfiroltocupas.wordpress.com/2014/08/21/water-wave-tidal-power-descarca-pdf/"
+        },
+        "soothdiedhochunsitegalookslock.wordpress.com/2014/08/tidal-power-harnessing-energy-from-water-currents": {
+            "title": "Tidal Power: Harnessing Energy from Water Currents...",
+            "snippet": "Tidal Power: Harnessing Energy from Water Currents Tidal Power: Harnessing Energy from Water Currents by Yulia V Karakeyan====Download here:====Tidal Power: Harnessing Energy from Water Currents by Yulia V []...",
+            "date": "2014-08-10",
+            "author_name": "soothdiedhochunsitegalookslock",
+            "categories": "tidal-power",
+            "tags": "water,energy,tidal,tidal_power,power",
+            "recuweb_url": "http://en.recuweb.com/tidal-power/soothdiedhochunsitegalookslock.wordpress.com/2014/08/tidal-power-harnessing-energy-from-water-currents",
+            "resource_url": "http://en.search.wordpress.com/?q=tidal%2Bpower%2Btidal%2Bpower&f=feed&page=1",
+            "source_url": "http://soothdiedhochunsitegalookslock.wordpress.com/2014/08/10/tidal-power-harnessing-energy-from-water-currents/"
         }
     }
 }
