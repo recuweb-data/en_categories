@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "web-application",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/web-application/",
@@ -10,81 +11,91 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/web-application/web-application/blogs.json"
     },
     "items": {
-        "eweek.com/2015/04/google-s-jsonnet-language-generates-json": {
-            "title": "Google's Jsonnet Language Generates JSON...",
-            "snippet": "It is used primarily to transmit data between a server and Web application, as an alternative to XML. Jsonnet is a domain-specific configuration language that helps users define JSON data. It enables users to compute fragments of JSON within the...",
-            "date": "2015-04-22",
-            "categories": "json,google,xml",
-            "tags": "enables,data,server,json,web,application",
-            "recuweb_url": "http://en.recuweb.com/xml/eweek.com/2015/04/google-s-jsonnet-language-generates-json",
+        "gizmodo.com/2015/04/google-deploys-person-finder-tool-to-aid-victims-of-nepal-earthquake": {
+            "title": "Google Deploys Person Finder Tool to Aid Victims of Nepal Earthquake...",
+            "snippet": "(AP Photo/Niranjan Shrestha) The web application, which is offering support in both English and Nepali, enables users to search for lost friends and family members by name, or share information if theyve heard reports from someone in a disaster...",
+            "date": "2015-04-25",
+            "categories": "google",
+            "tags": "information,enables,search,name,support,nepal,nepal_earthquake,earthquake,google,person,person_finder,finder,web,application",
+            "recuweb_url": "http://en.recuweb.com/google/gizmodo.com/2015/04/google-deploys-person-finder-tool-to-aid-victims-of-nepal-earthquake",
             "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Bapplication&format=RSS&cc=us",
-            "source_url": "http://eweek.com/developer/googles-jsonnet-language-generates-json.html"
+            "source_url": "http://gizmodo.com/google-deploys-person-finder-tool-to-aid-victims-of-nep-1700199052"
         },
-        "sitepoint.com/2015/04/how-to-block-entire-countries-from-accessing-your-website": {
-            "title": "How to Block Entire Countries from Accessing Your Website...",
-            "snippet": "ModSecurity is a web application firewall for Apache, IIS, and Nginx for protecting against many types of attacks and allows for HTTP traffic monitoring, logging, and real-time analysis. You can install and configure this on a bare server if you...",
-            "date": "2015-04-22",
-            "tags": "server,analysis,against,attacks,firewall,website,entire,web,application",
-            "recuweb_url": "http://en.recuweb.com/sitepoint.com/2015/04/how-to-block-entire-countries-from-accessing-your-website",
+        "ibtimes.com/2015/04/nepal-earthquake-2015-google-person-finder-building-database-of-loved-ones": {
+            "title": "Nepal Earthquake 2015: Google 'Person Finder'Building Database Of Loved Ones, After Quake...",
+            "snippet": "The Web application, launched in 2010 after a massive quake in Haiti, was created to help families and first responders gather and relay information about missing people to loved ones. The app allows individuals to post details and to search for the...",
+            "date": "2015-04-25",
+            "categories": "database,google",
+            "tags": "search,information,people,building,database,person,person_finder,finder,nepal,nepal_earthquake,earthquake,google,web,application",
+            "recuweb_url": "http://en.recuweb.com/google/ibtimes.com/2015/04/nepal-earthquake-2015-google-person-finder-building-database-of-loved-ones",
             "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Bapplication&format=RSS&cc=us",
-            "source_url": "http://sitepoint.com/how-to-block-entire-countries-from-accessing-website/"
+            "source_url": "http://ibtimes.com/nepal-earthquake-2015-google-person-finder-building-database-loved-ones-after-78-1896798"
         },
-        "govinfosecurity.com/2015/04/ibm-security-intrusion-prevention-solutions": {
-            "title": "IBM Security Intrusion Prevention Solutions...",
-            "snippet": "How to achieve multilayered protection for both physical and virtual servers across the network; How to protect your infrastructure from the latest application layer threats, including web application attacks.",
-            "date": "2015-04-22",
-            "categories": "prevention",
-            "tags": "layer,protect,virtual,security,solutions,application,web,attacks",
-            "recuweb_url": "http://en.recuweb.com/prevention/govinfosecurity.com/2015/04/ibm-security-intrusion-prevention-solutions",
+        "channelnewsasia.com/2015/04/singapore-s-first-one-day-tech-carnival-attracts-thousands": {
+            "title": "Singapore's first one-day tech carnival attracts thousands...",
+            "snippet": "These included gadget demos such as 3D printing, a flying car, and a Barrier Free Routing web application by Nanyang Polytechnic (NYP). NYPs pilot system covers Ang Mo Kio town, and aims to guide wheelchair-bound and elderly residents to...",
+            "date": "2015-04-25",
+            "tags": "system,free,tech,web,application",
+            "recuweb_url": "http://en.recuweb.com/channelnewsasia.com/2015/04/singapore-s-first-one-day-tech-carnival-attracts-thousands",
             "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Bapplication&format=RSS&cc=us",
-            "source_url": "http://govinfosecurity.com/whitepapers/ibm-security-intrusion-prevention-solutions-w-1556"
+            "source_url": "http://channelnewsasia.com/news/singapore/singapore-s-first-one-day/1806422.html"
         },
-        "pcworld.com/2015/04/qualys-devises-a-virtual-patch-to-protect-against-vulnerabilities": {
-            "title": "Qualys devises a virtual patch to protect against vulnerabilities...",
-            "snippet": "The feature, called virtual patching, comes with the newly released version 2 of the companys Web Application Firewall, a set of software for securing Web applications against malicious behavior. Virtual patching can address one of the most...",
-            "date": "2015-04-22",
+        "news.thomasnet.com/2015/04/cantilever-load-cell-suits-narrow-web-applications-thomasnet-news-press-release": {
+            "title": "Cantilever Load Cell suits narrow web applications. - ThomasNet News (press release) (blog)...",
+            "snippet": "ThomasNet News (press release) (blog)Cantilever Load Cell suits narrow web News (press release) (blog)Unit can be fully customized to user's specifications, including roller diameter, roller length size, finish, and load rating. Accepting existing...",
+            "date": "2015-04-24",
+            "tags": "load,user,press,press-release,release,web,applications,unit",
+            "recuweb_url": "http://en.recuweb.com/news.thomasnet.com/2015/04/cantilever-load-cell-suits-narrow-web-applications-thomasnet-news-press-release",
+            "resource_url": "http://news.google.com/?hl=en&q=web%2Bapplication%2Bweb%2Bapplication&output=atom&nord=1",
+            "source_url": "http://news.thomasnet.com/fullstory/cantilever-load-cell-suits-narrow-web-applications-20043306"
+        },
+        "whnt.com/2015/04/featured-job-senior-web-application-developer": {
+            "title": "Featured Job: Senior Web Application Developer...",
+            "snippet": "Duties will include requirements development, software development and maintenance, database and interface design, unit code and test, system test, system documentation, training support, and maintenance of a web based business management and...",
+            "date": "2015-04-24",
+            "categories": "management,database,web-application,business",
+            "tags": "support,system,unit,database,web,web_application,application,development,business",
+            "recuweb_url": "http://en.recuweb.com/business/whnt.com/2015/04/featured-job-senior-web-application-developer",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Bapplication&format=RSS&cc=us",
+            "source_url": "http://whnt.com/2015/04/24/featured-job-senior-web-application-developer/"
+        },
+        "itworld.com/2015/04/why-learning-object-pascal-could-be-a-good-career-move": {
+            "title": "Why learning Object Pascal could be a good career move...",
+            "snippet": "No other languages made the list, though other programming-related tools did, such as Xamarin (a tool for developing cross-platform mobile apps using C, 4th), Laravel (an open source PHP web-application framework, 6th), and RStudio (an IDE for R...",
+            "date": "2015-04-24",
+            "categories": "languages,learning,php",
+            "tags": "why,mobile,using,web,application",
+            "recuweb_url": "http://en.recuweb.com/php/itworld.com/2015/04/why-learning-object-pascal-could-be-a-good-career-move",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Bapplication&format=RSS&cc=us",
+            "source_url": "http://itworld.com/article/2913640/careers/why-learning-object-pascal-could-be-a-good-career-move.html"
+        },
+        "cloudcomputing.sys-con.com/2015/04/web-application-security-in-the-cloud-as-a-service": {
+            "title": "Web Application Security in the Cloud as a Service...",
+            "snippet": "Web application security. Everyone knows how important it is (and if they don't, they should) and yet the complexity of managing services that provide it often result in, shall we say, less than holistic coverage of applications. At least that seems...",
+            "date": "2015-04-23",
             "categories": "web-application",
-            "tags": "patching,address,against,securing,web,web_application,web_application_firewall,applications,application_firewall,firewall,version,virtual,virtual-patching,protect,qualys",
-            "recuweb_url": "http://en.recuweb.com/web-application/pcworld.com/2015/04/qualys-devises-a-virtual-patch-to-protect-against-vulnerabilities",
+            "tags": "web,web_application,web_application_security,applications,application_security,security,cloud,service,services,provide",
+            "recuweb_url": "http://en.recuweb.com/web-application/cloudcomputing.sys-con.com/2015/04/web-application-security-in-the-cloud-as-a-service",
             "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Bapplication&format=RSS&cc=us",
-            "source_url": "http://pcworld.com/article/2913532/qualys-devises-a-virtual-patch-to-protect-against-vulnerabilities.html"
+            "source_url": "http://cloudcomputing.sys-con.com/node/3327269"
         },
         "prnewswire.com/2015/04/securing-the-application-layer-with-rsa-web-threat-detection-pr-newswire": {
             "title": "Securing the Application Layer with RSA Web Threat Detection - PR Newswire (press release)...",
             "snippet": "PR Newswire (press release)Securing the Application Layer with RSA Web Threat DetectionPR Newswire (press release)Despite increasing investments in security, attacks and breaches continue at an alarming rate. Web and mobile applications are key...",
             "date": "2015-04-22",
-            "tags": "key,attacks,security,web,applications,layer,securing,mobile",
+            "tags": "key,security,web,press,press-release,release,applications,mobile",
             "recuweb_url": "http://en.recuweb.com/prnewswire.com/2015/04/securing-the-application-layer-with-rsa-web-threat-detection-pr-newswire",
             "resource_url": "http://news.google.com/?hl=en&q=web%2Bapplication&output=atom&nord=1",
             "source_url": "http://prnewswire.com/news-releases/securing-the-application-layer-with-rsa-web-threat-detection-300070090.html"
-        },
-        "ajax.sys-con.com/2015/04/security-in-the-cloud-as-a-service-by-lmacvittie-devopssummit-devops": {
-            "title": "Security in the Cloud as a Service By LMacVittie DevOpsSummit DevOps...",
-            "snippet": "Web application security. Everyone knows how important it is (and if they don't, they should) and yet the complexity of managing services that provide it often result in, shall we say, less than holistic coverage of applications. At least that seems...",
-            "date": "2015-04-22",
-            "tags": "than,service,security,cloud,web,applications,services,provide",
-            "recuweb_url": "http://en.recuweb.com/ajax.sys-con.com/2015/04/security-in-the-cloud-as-a-service-by-lmacvittie-devopssummit-devops",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Bapplication&format=RSS&cc=us",
-            "source_url": "http://ajax.sys-con.com/node/3327269"
-        },
-        "businesswire.com/2015/04/sencha-expands-presence-in-japan": {
-            "title": "Sencha Expands Presence in Japan...",
-            "snippet": "REDWOOD CITY, Calif.--(BUSINESS WIRE)--Sencha, a leading provider of HTML5 desktop and mobile web application development technology, today announced it has significantly expanded its international operations with the opening of a new office in...",
-            "date": "2015-04-22",
-            "categories": "business,html,technology",
-            "tags": "international,business,mobile,web,application,development",
-            "recuweb_url": "http://en.recuweb.com/technology/businesswire.com/2015/04/sencha-expands-presence-in-japan",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Bapplication&format=RSS&cc=us",
-            "source_url": "http://businesswire.com/news/home/20150422006291/en/Sencha-Expands-Presence-Japan"
         },
         "java.dzone.com/2015/04/devnexus-2015-super-fast-single-page-web-applications-by-pratik-dzone": {
             "title": "Devnexus 2015 -: Super-fast Single Page Web Applications by Pratik... - DZone News...",
             "snippet": "Devnexus 2015 -: Super-fast Single Page Web Applications by Pratik...DZone News is a view library from Facecbook for building performant user-interfaces in JavaScript. In this session, we'll explore and understand why it's a great step forward for...",
             "date": "2015-04-21",
             "categories": "web-application,javascript",
-            "tags": "building,user,web,web_applications,applications",
+            "tags": "why,building,user,web,web_applications,applications",
             "recuweb_url": "http://en.recuweb.com/javascript/java.dzone.com/2015/04/devnexus-2015-super-fast-single-page-web-applications-by-pratik-dzone",
-            "resource_url": "http://news.google.com/?hl=en&q=web%2Bapplication&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=web%2Bapplication%2Bweb%2Bapplication&output=atom&nord=1",
             "source_url": "http://java.dzone.com/videos/devnexus2015/reactjs-super"
         },
         "marketwired.com/2015/04/qualys-introduces-end-to-web-application-security-cloud-service": {
@@ -92,19 +103,10 @@
             "snippet": "Qualys Web Application Firewall Version 2.0 Includes Virtual Patching and Event Response Capabilities, Along with Tight Integration of Qualys WAS; Enables Organizations to Efficiently Address Web Application Security SAN FRANCISCO, CA--(Marketwired...",
             "date": "2015-04-21",
             "categories": "web-application",
-            "tags": "address,web,web_application,application,security,enables,capabilities,virtual,patching,qualys,web_application_firewall,application_firewall,firewall,version,end,cloud,service,introduces",
+            "tags": "web,web_application,web_application_security,application,application_security,security,enables,cloud,service",
             "recuweb_url": "http://en.recuweb.com/web-application/marketwired.com/2015/04/qualys-introduces-end-to-web-application-security-cloud-service",
             "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Bapplication&format=RSS&cc=us",
             "source_url": "http://marketwired.com/press-release/qualys-introduces-end-to-end-web-application-security-cloud-service-nasdaq-qlys-2011683.htm"
-        },
-        "searchcloudsecurity.techtarget.com/2015/04/qualys-introduces-new-web-application-firewall-cloud-agent-techtarget": {
-            "title": "Qualys introduces new Web application firewall, cloud agent - TechTarget...",
-            "snippet": "Qualys introduces new Web application firewall, cloud agentTechTargetThe Qualys Web Application Firewall (WAF) 2.0 includes new virtual patching capabilities that enable customers to adjust security policies and customize rules, which Thakar said...",
-            "date": "2015-04-21",
-            "tags": "virtual,virtual-patching,patching,capabilities,security,application,firewall,cloud,introduces,qualys,web",
-            "recuweb_url": "http://en.recuweb.com/searchcloudsecurity.techtarget.com/2015/04/qualys-introduces-new-web-application-firewall-cloud-agent-techtarget",
-            "resource_url": "http://news.google.com/?hl=en&q=web%2Bapplication&output=atom&nord=1",
-            "source_url": "http://searchcloudsecurity.techtarget.com/news/4500244741/Qualys-introduces-new-web-application-firewall-cloud-agent"
         }
     }
 }
