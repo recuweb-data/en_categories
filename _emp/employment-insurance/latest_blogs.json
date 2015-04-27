@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "employment-insurance",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/employment-insurance/",
@@ -10,24 +11,35 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/employment-insurance/employment-insurance/blogs.json"
     },
     "items": {
-        "disabilityrightsgalaxy.com/2015/04/advocates-push-back-against-bills-targeting-concurrent-ssdi": {
-            "title": "Advocates push back against bills targeting concurrent SSDI...",
-            "snippet": "Unemployment insurance is available to people who lose employment due to no fault of their own. Fewer than one percent of SSDI beneficiaries simultaneously receive UI benefits, according to the Government Accountability...",
-            "date": "2015-04-23",
-            "author_name": "Andy Jones",
-            "categories": "unemployment,insurance,employment",
-            "tags": "beneficiaries,receive,than,available,back,against,unemployment,insurance,people,employment,fewer,benefits,government",
-            "recuweb_url": "http://en.recuweb.com/employment/disabilityrightsgalaxy.com/2015/04/advocates-push-back-against-bills-targeting-concurrent-ssdi",
+        "energeticcity.ca/2015/04/federal-budget-tops-up-employment-insurance-compassionate-care": {
+            "title": "Federal budget tops up employment insurance compassionate care...",
+            "snippet": "Finance Minister Joe Oliver's new budget sets aside another 37 million more each year for compassionate care benefits under employment insurance. That will allow people to take up to six months off work, instead of the...",
+            "date": "2015-04-21",
+            "author_name": "Canadian Press",
+            "categories": "finance,employment,insurance",
+            "tags": "off,work,million,compassionate,minister,joe,joe_oliver,oliver,federal,budget,employment,insurance,care,benefits,under,people",
+            "recuweb_url": "http://en.recuweb.com/insurance/energeticcity.ca/2015/04/federal-budget-tops-up-employment-insurance-compassionate-care",
             "resource_url": "http://www.google.com/search?q=employment%2Binsurance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://disabilityrightsgalaxy.com/advocates-push-back-against-bills-targeting-concurrent-ssdi-unemployment-benefits-beneficiaries/"
+            "source_url": "http://energeticcity.ca/article/canadian-press/2015/04/21/federal-budget-tops-up-employment-insurance-compassionate-care-plan"
+        },
+        "peocanada.com/2015/04/reducing-your-employment-insurance-premium-rate-peo-canada": {
+            "title": "Reducing your Employment Insurance Premium Rate PEO Canada...",
+            "snippet": "Do you qualify for reduced Employment Insurance rates? Learn more with this article and included links.",
+            "date": "2015-04-20",
+            "author_name": "peo.smm",
+            "categories": "employment,employment-insurance,insurance",
+            "tags": "employment,employment_insurance,insurance,rate,canada",
+            "recuweb_url": "http://en.recuweb.com/insurance/peocanada.com/2015/04/reducing-your-employment-insurance-premium-rate-peo-canada",
+            "resource_url": "http://www.google.com/search?q=employment%2Binsurance%2Bemployment%2Binsurance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://peocanada.com/peo-blog/2015/04/reducing-your-employment-insurance-premium-rate/"
         },
         "hoffmanbrown.com/2015/04/employee-insurance-sherman-oaks-ca-hoffman-brown-company": {
             "title": "Employee Insurance Sherman Oaks CA - Hoffman Brown Company...",
             "snippet": "To help you protect your California business against a lawsuit, carry Sherman Oaks, CA business insurance and be aware of these most common employment discrimination claims.",
             "date": "2015-04-15",
             "author_name": "Hoffman Brown Company Blogging Team",
-            "categories": "business,insurance,employment",
-            "tags": "common,business,against,help,insurance,employment,discrimination,claims",
+            "categories": "insurance,business,employment",
+            "tags": "insurance,business,employment,discrimination,claims",
             "recuweb_url": "http://en.recuweb.com/employment/hoffmanbrown.com/2015/04/employee-insurance-sherman-oaks-ca-hoffman-brown-company",
             "resource_url": "http://www.google.com/search?q=employment%2Binsurance%2Bemployment%2Binsurance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://hoffmanbrown.com/employee-insurance-sherman-oaks-ca/"
@@ -38,7 +50,7 @@
             "date": "2015-04-01",
             "author_name": "sociusinsuranceblog",
             "categories": "policy,employment,insurance",
-            "tags": "could,discrimination,policy,practices,liability,claims,employers,under,employment,insurance",
+            "tags": "action,discrimination,policy,practices,liability,under,claims,employers,employment,insurance",
             "recuweb_url": "http://en.recuweb.com/insurance/sociusinsuranceblog.wordpress.com/2015/04/q&a-timing-is-everything-when-it-comes-to-epli-claims",
             "resource_url": "http://en.search.wordpress.com/?q=employment%2Binsurance%2Bemployment%2Binsurance&f=feed&page=1",
             "source_url": "http://sociusinsuranceblog.wordpress.com/2015/04/01/qa-timing-is-everything-when-it-comes-to-epli-claims/"
@@ -49,7 +61,7 @@
             "date": "2015-04-01",
             "author_name": "sevasaksham",
             "categories": "employment,insurance",
-            "tags": "could,million,employment,insurance,government",
+            "tags": "million,employment,insurance,government",
             "recuweb_url": "http://en.recuweb.com/insurance/sakshamseva.in/2015/04/%C3%A9ric-turcotte-accused-of-million-dollar-employment-insurance-fraud",
             "resource_url": "http://en.search.wordpress.com/?q=employment%2Binsurance%2Bemployment%2Binsurance&f=feed&page=1",
             "source_url": "http://sakshamseva.in/2015/04/01/eric-turcotte-accused-of-million-dollar-employment-insurance-fraud/"
@@ -60,7 +72,7 @@
             "date": "2015-03-26",
             "author_name": "Mario Toneguzzi, Calgary Herald",
             "categories": "employment,employment-insurance,insurance",
-            "tags": "receiving,receiving-regular,regular,statistics,statistics_canada,canada,again,picture,alberta,employment,employment_insurance,insurance,claims,rise,thursday,reported,number,people,benefits",
+            "tags": "province,receiving,receiving-regular,regular,reported,statistics,statistics_canada,canada,again,alberta,calgary,employment,employment_insurance,insurance,claims,rise,thursday,number,people,benefits",
             "recuweb_url": "http://en.recuweb.com/insurance/calgaryherald.com/2015/03/employment-insurance-claims-on-the-rise-in-alberta-calgary-herald",
             "resource_url": "http://www.google.com/search?q=employment%2Binsurance%2Bemployment%2Binsurance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://calgaryherald.com/business/local-business/employment-insurance-claims-on-the-rise-in-alberta"
@@ -82,7 +94,7 @@
             "date": "2015-03-19",
             "author_name": "unknown",
             "categories": "employment,employment-insurance,insurance",
-            "tags": "public,employment,employment_insurance,insurance,daily,daily_employment,daily_employment_insurance,number,available",
+            "tags": "public,employment,employment_insurance,insurance,daily,daily_employment,daily_employment_insurance,number",
             "recuweb_url": "http://en.recuweb.com/insurance/statcan.gc.ca/2015/03/the-daily-employment-insurance-coverage-survey-2013",
             "resource_url": "http://www.google.com/search?q=employment%2Binsurance%2Bemployment%2Binsurance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://statcan.gc.ca/daily-quotidien/150319/dq150319d-eng.htm"
@@ -93,7 +105,7 @@
             "date": "2015-02-23",
             "author_name": "Jason Fekete, Ottawa Citizen",
             "categories": "employment,insurance",
-            "tags": "prime,prime_minister,minister,public,system,employment,insurance,almost,federal,government,changes",
+            "tags": "changes,minister,public,system,employment,insurance,almost,federal,government",
             "recuweb_url": "http://en.recuweb.com/insurance/ottawacitizen.com/2015/02/pmo-flooded-with-angry-emails-over-employment-insurance",
             "resource_url": "http://www.google.com/search?q=employment%2Binsurance%2Bemployment%2Binsurance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://ottawacitizen.com/news/politics/pmo-flooded-with-angry-emails-over-employment-insurance-changes-and-oas"
@@ -108,17 +120,6 @@
             "recuweb_url": "http://en.recuweb.com/insurance/statcan.gc.ca/2015/02/the-daily-employment-insurance-december-2014",
             "resource_url": "http://www.google.com/search?q=employment%2Binsurance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://statcan.gc.ca/daily-quotidien/150219/dq150219a-eng.htm"
-        },
-        "johnhcochrane.blogspot.com/2015/01/the-grumpy-economist-unemployment-insurance": {
-            "title": "The Grumpy Economist: Unemployment insurance and unemployment...",
-            "snippet": "\"The Impact of Unemployment Benefit Extensions on Employment: The 2014 Employment Miracle\" by Marcus Hagedorn, Iourii Manovskii and Kurt Mitman is making waves. NBER working paper here. Kurt Mitman's webpage...",
-            "date": "2015-01-28",
-            "author_name": "John H. Cochrane",
-            "categories": "unemployment,insurance,employment",
-            "tags": "making,impact,unemployment,insurance,employment",
-            "recuweb_url": "http://en.recuweb.com/employment/johnhcochrane.blogspot.com/2015/01/the-grumpy-economist-unemployment-insurance",
-            "resource_url": "http://www.google.com/search?q=employment%2Binsurance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://johnhcochrane.blogspot.com/2015/01/unemployment-insurance-and-unemployment.html"
         }
     }
 }
