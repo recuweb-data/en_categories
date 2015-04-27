@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "inorganic-chemistry",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/inorganic-chemistry/",
@@ -10,6 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/inorganic-chemistry/inorganic-chemistry/blogs.json"
     },
     "items": {
+        "reddit.com/2015/04/things-you-wish-were-not-in-undergrad-inorganic-chemistry": {
+            "title": "Things you wish were/were not in Undergrad Inorganic Chemistry...",
+            "snippet": "Current PhD candidate and working towards some in-house teaching certifications. One project is developing your own syllabus for a course you plan to teach post-graduate school. As an organotransition metal chemist, I'd expect to be teaching an...",
+            "date": "2015-04-24",
+            "categories": "teaching,school,inorganic-chemistry,chemistry",
+            "tags": "metal,chemist,school,inorganic,inorganic_chemistry,chemistry",
+            "recuweb_url": "http://en.recuweb.com/chemistry/reddit.com/2015/04/things-you-wish-were-not-in-undergrad-inorganic-chemistry",
+            "resource_url": "http://www.reddit.com/search.rss?q=inorganic%2Bchemistry%2Binorganic%2Bchemistry&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/chemistry/comments/33pvd7/things_you_wish_werewere_not_in_undergrad/"
+        },
         "higheredjobs.com/2015/04/visiting-assistant-professor-in-inorganic-chemistry-higheredjobs": {
             "title": "Visiting Assistant Professor in Inorganic Chemistry - HigherEdJobs...",
             "snippet": "University of Sciences Posting Details Title Details FLSA Exempt Position Summary Information Position Title Visiting Assistant Professor in Inorganic Chemistry Position Number FACULTY000330 Job Description Summary.",
@@ -38,7 +49,7 @@
             "date": "2015-04-03",
             "author_name": "liuy",
             "categories": "environment,inorganic-chemistry,chemistry",
-            "tags": "metal,inorganic,inorganic_chemistry,inorganic_chemistry_frontiers,chemistry,chemistry_frontiers,frontiers,latest",
+            "tags": "metal,inorganic,inorganic_chemistry,inorganic_chemistry_frontiers,chemistry,chemistry_frontiers,frontiers",
             "recuweb_url": "http://en.recuweb.com/chemistry/blogs.rsc.org/2015/04/welcome-to-issue-4-of-inorganic-chemistry-frontiers-in-2015-blogs",
             "resource_url": "http://www.google.com/search?q=inorganic%2Bchemistry%2Binorganic%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.rsc.org/qi/2015/04/03/welcome-to-issue-4-of-inorganic-chemistry-frontiers-in-2015/"
@@ -71,7 +82,7 @@
             "date": "2015-03-20",
             "author_name": "John Protasiewicz",
             "categories": "inorganic-chemistry,chemistry,university",
-            "tags": "winner,third,daniel,daniel_gamelin,gamelin,inorganic,inorganic_chemistry,chemistry,division,inorganic_chemistry_lectureship,chemistry_lectureship,chemistry_lectureship_award,lectureship,lectureship_award,award,wins,university,washington",
+            "tags": "inorganic,inorganic_chemistry,chemistry,division,university,washington",
             "recuweb_url": "http://en.recuweb.com/university/acsdic.org/2015/03/gamelin-wins-2015-inorganic-chemistry-lectureship-award",
             "resource_url": "http://www.google.com/search?q=inorganic%2Bchemistry%2Binorganic%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://acsdic.org/wordpress/2015/03/gamelin-wins-2015-inorganic-chemistry-lectureship-award/"
@@ -107,17 +118,6 @@
             "recuweb_url": "http://en.recuweb.com/chemistry/higheredjobs.com/2015/03/visiting-assistant-professor-of-inorganic-chemistry-higheredjobs",
             "resource_url": "http://www.google.com/search?q=inorganic%2Bchemistry%2Binorganic%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://higheredjobs.com/details.cfm?JobCode=176033404"
-        },
-        "cei.washington.edu/2015/03/daniel-gamelin-wins-2015-inorganic-chemistry-lectureship-award": {
-            "title": "Daniel Gamelin wins 2015 Inorganic Chemistry Lectureship Award...",
-            "snippet": "The American Chemical Society Division of Inorganic Chemistry has announced Professor Daniel Gamelin as the winner of the third Inorganic Chemistry Lectureship Award. Dr. Gamelin was nominated by his peers for his broad, unique, and...",
-            "date": "2015-03-08",
-            "author_name": "Clean Energy",
-            "categories": "inorganic-chemistry,chemistry,society",
-            "tags": "winner,third,professor,inorganic,inorganic_chemistry,chemistry,chemical,division,inorganic_chemistry_lectureship,chemistry_lectureship,chemistry_lectureship_award,lectureship,lectureship_award,award,daniel,daniel_gamelin,gamelin,wins",
-            "recuweb_url": "http://en.recuweb.com/society/cei.washington.edu/2015/03/daniel-gamelin-wins-2015-inorganic-chemistry-lectureship-award",
-            "resource_url": "http://www.google.com/search?q=inorganic%2Bchemistry%2Binorganic%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://cei.washington.edu/daniel-gamelin-wins-2015-inorganic-chemistry-lectureship-award/"
         }
     }
 }
