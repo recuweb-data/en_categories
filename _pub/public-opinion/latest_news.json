@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "public-opinion",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/public-opinion/",
@@ -10,12 +11,22 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/public-opinion/public-opinion/blogs.json"
     },
     "items": {
+        "seasidecourier.com/2015/04/amid-drought-sd-water-authority-releases-results-of-public-opinion-poll": {
+            "title": "Amid drought, SD Water Authority releases results of public opinion poll...",
+            "snippet": "The vast majority of San Diego County residents 84 percent support the regions water supply diversification strategy, according to the San Diego County Water Authoritys most recent public opinion poll presented to the Board of Directors on...",
+            "date": "2015-04-24",
+            "categories": "regions",
+            "tags": "public,opinion",
+            "recuweb_url": "http://en.recuweb.com/regions/seasidecourier.com/2015/04/amid-drought-sd-water-authority-releases-results-of-public-opinion-poll",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=public%2Bopinion&format=RSS&cc=us",
+            "source_url": "http://seasidecourier.com/news/amid-drought-sd-water-authority-releases-results-of-public-opinion/article_4c5ac532-ea54-11e4-9fe7-4b8b8bc87607.html"
+        },
         "thepublicopinion.com/2015/04/armenians-around-the-world-mark-1915-genocide-watertown-public-opinion": {
             "title": "Armenians around the world mark 1915 genocide - Watertown Public Opinion...",
             "snippet": "Watertown Public OpinionArmenians around the world mark 1915 genocideWatertown Public OpinionA Lebanese priest of Armenian descent passes by human remains of people killed in 1915 inside an Armenian church as many in Lebanon marked the 100th...",
             "date": "2015-04-24",
             "categories": "public-opinion",
-            "tags": "people,public,watertown,watertown_public,watertown_public_opinion,public_opinion,opinion",
+            "tags": "people,public,watertown,watertown_public,watertown_public_opinion,public_opinion,opinion,armenian,genocide",
             "recuweb_url": "http://en.recuweb.com/public-opinion/thepublicopinion.com/2015/04/armenians-around-the-world-mark-1915-genocide-watertown-public-opinion",
             "resource_url": "http://news.google.com/?hl=en&q=public%2Bopinion%2Bpublic%2Bopinion&output=atom&nord=1",
             "source_url": "http://thepublicopinion.com/news/associated_press/world/armenians-around-the-world-mark-genocide/article_445c58c9-3bfb-5437-ba2a-e251dd5499d3.html"
@@ -24,7 +35,7 @@
             "title": "DeGrasse Tyson says Superman vs. Batman may come down to public opinion - CNET...",
             "snippet": "CNETDeGrasse Tyson says Superman vs. Batman may come down to public opinionCNETNeil DeGrasse Tyson has an incisive opinion about Batman vs. Superman. Who would win? Jon Stewart, with whom the astrophysicist was speaking tonight to hype his TV...",
             "date": "2015-04-24",
-            "tags": "says,public,opinion",
+            "tags": "public,opinion",
             "recuweb_url": "http://en.recuweb.com/cnet.com/2015/04/degrasse-tyson-says-superman-vs-batman-may-come-down-to-public",
             "resource_url": "http://news.google.com/?hl=en&q=public%2Bopinion%2Bpublic%2Bopinion&output=atom&nord=1",
             "source_url": "http://cnet.com/news/degrasse-tyson-says-superman-vs-batman-may-come-down-to-public-opinion/"
@@ -34,10 +45,20 @@
             "snippet": "Watertown Public OpinionGerman business confidence posts sixth straight increaseWatertown Public OpinionGerman Chancellor Angela Merkel, right, talks to German Foreign Minister Frank-Walter Steinmeier, left, and German Economy and Energy Minister...",
             "date": "2015-04-24",
             "categories": "economy,public-opinion,business",
-            "tags": "public,watertown,watertown_public,watertown_public_opinion,public_opinion,opinion,business",
+            "tags": "public,watertown,watertown_public,watertown_public_opinion,public_opinion,opinion",
             "recuweb_url": "http://en.recuweb.com/business/thepublicopinion.com/2015/04/german-business-confidence-posts-sixth-straight-increase-watertown-public-opinion",
             "resource_url": "http://news.google.com/?hl=en&q=public%2Bopinion%2Bpublic%2Bopinion&output=atom&nord=1",
             "source_url": "http://thepublicopinion.com/business/associated_press/ap_business/german-business-confidence-posts-sixth-straight-increase/article_a6af9f23-753e-50fd-b105-4d4e21404e71.html"
+        },
+        "rtcc.org/2015/04/how-do-us-senators-climate-convictions-square-with-voters": {
+            "title": "How do US Senators climate convictions square with voters?",
+            "snippet": "But geographical variation is wide. Levels oscillate between 43-80% among the 50 states. Researchers at Yale and Utah State University compiled public opinion between 2008-2014 shown in this online tool, to carry out the first ever comprehensive...",
+            "date": "2015-04-24",
+            "categories": "university",
+            "tags": "state,public,opinion",
+            "recuweb_url": "http://en.recuweb.com/university/rtcc.org/2015/04/how-do-us-senators-climate-convictions-square-with-voters",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=public%2Bopinion&format=RSS&cc=us",
+            "source_url": "http://rtcc.org/2015/04/24/how-do-us-senators-climate-convictions-square-with-voters/"
         },
         "publicopiniononline.com/2015/04/manure-trade-show-s-slogan-contest-produces-pile-of-entries-chambersburg": {
             "title": "Manure trade show's slogan contest produces pile of entries - Chambersburg Public Opinion...",
@@ -53,7 +74,7 @@
             "title": "Religious freedom laws suffer another blow in public opinion - Washington Post (blog)...",
             "snippet": "Religious freedom laws suffer another blow in public opinionWashington Post (blog)One of the apparent side effects of the religious freedom controversies in Indiana and (to a lesser extent) Arkansas: More Americans now oppose such laws than before.",
             "date": "2015-04-24",
-            "tags": "another,public,opinion",
+            "tags": "public,opinion",
             "recuweb_url": "http://en.recuweb.com/washingtonpost.com/2015/04/religious-freedom-laws-suffer-another-blow-in-public-opinion-washington",
             "resource_url": "http://news.google.com/?hl=en&q=public%2Bopinion%2Bpublic%2Bopinion&output=atom&nord=1",
             "source_url": "http://washingtonpost.com/blogs/the-fix/wp/2015/04/24/the-upshot-of-indiana-opposition-to-religious-freedom-laws-rises/"
@@ -68,45 +89,24 @@
             "resource_url": "http://news.google.com/?hl=en&q=public%2Bopinion%2Bpublic%2Bopinion&output=atom&nord=1",
             "source_url": "http://publicopiniononline.com/ci_27979942/romania-robbers-trained-steal-jewels-cars-detained"
         },
-        "publicopiniononline.com/2015/04/time-magazine-longtime-film-critic-richard-corliss-dies-chambersburg-public-opinion": {
-            "title": "Time magazine longtime film critic Richard Corliss dies - Chambersburg Public Opinion...",
-            "snippet": "Time magazine longtime film critic Richard Corliss diesChambersburg Public OpinionThe magazine says Corliss died in New York City Thursday night after suffering a stroke last week. Time theater critic Richard Zoglin said in an online tribute that...",
+        "scotsman.com/2015/04/snp-beating-uk-election-rivals-on-twitter": {
+            "title": "SNP beating UK election rivals on Twitter...",
+            "snippet": "Dr Monaghan added: Nicola Sturgeon is considered authoritative, ministerial, in tune with public opinion and dominated both of the leaders debates. Sturgeon also benefits from the fact that she has been included in both of the leaders debates...",
             "date": "2015-04-24",
-            "categories": "stroke,public-opinion",
-            "tags": "after,week,york,died,says,public,chambersburg,chambersburg_public,chambersburg_public_opinion,public_opinion,opinion,film,dies",
-            "recuweb_url": "http://en.recuweb.com/public-opinion/publicopiniononline.com/2015/04/time-magazine-longtime-film-critic-richard-corliss-dies-chambersburg-public-opinion",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bopinion%2Bpublic%2Bopinion&output=atom&nord=1",
-            "source_url": "http://publicopiniononline.com/local/ci_27980935/time-magazine-longtime-film-critic-richard-corliss-dies"
+            "categories": "twitter",
+            "tags": "public,opinion",
+            "recuweb_url": "http://en.recuweb.com/twitter/scotsman.com/2015/04/snp-beating-uk-election-rivals-on-twitter",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=public%2Bopinion&format=RSS&cc=us",
+            "source_url": "http://scotsman.com/news/politics/top-stories/snp-beating-uk-election-rivals-on-twitter-1-3753892"
         },
-        "thepublicopinion.com/2015/04/unusual-ice-cream-recalls-raise-questions-about-cause-watertown-public-opinion": {
-            "title": "Unusual ice cream recalls raise questions about cause - Watertown Public Opinion...",
-            "snippet": "Watertown Public OpinionUnusual ice cream recalls raise questions about causeWatertown Public OpinionBlue Bell did produce some ice cream in its plants this week, but that product will be used for testing and data gathering and won't be sold to the...",
+        "theconversation.com/2015/04/the-100th-anniversary-of-armenian-genocide": {
+            "title": "The 100th anniversary of the Armenian genocide...",
+            "snippet": "And Turkeys state-controlled media seems to be doing a good job shaping public opinion. According to a survey from earlier this year, only 9% of Turks want their government to acknowledge the genocide. Is there any hope for reaching the Turkish...",
             "date": "2015-04-24",
-            "categories": "ice-cream,plants,public-opinion",
-            "tags": "week,public,watertown,watertown_public,watertown_public_opinion,public_opinion,opinion",
-            "recuweb_url": "http://en.recuweb.com/public-opinion/thepublicopinion.com/2015/04/unusual-ice-cream-recalls-raise-questions-about-cause-watertown-public-opinion",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bopinion%2Bpublic%2Bopinion&output=atom&nord=1",
-            "source_url": "http://thepublicopinion.com/business/associated_press/ap_business/unusual-ice-cream-recalls-raise-questions-about-cause/article_4a7acb69-194b-53b5-9a6c-a145500f823e.html"
-        },
-        "thepublicopinion.com/2015/04/what-could-mcdonald-s-do-to-fix-its-business-watertown-public": {
-            "title": "What could McDonald's do to fix its business? - Watertown Public Opinion...",
-            "snippet": "Watertown Public OpinionWhat could McDonald's do to fix its business?Watertown Public OpinionNEW YORK (AP) When it comes to McDonald's, everyone seems to have an opinion about what the company needs to do differently. After turning in another...",
-            "date": "2015-04-24",
-            "categories": "public-opinion,business",
-            "tags": "another,watertown,watertown_public,public,york,watertown_public_opinion,public_opinion,opinion,business,after",
-            "recuweb_url": "http://en.recuweb.com/business/thepublicopinion.com/2015/04/what-could-mcdonald-s-do-to-fix-its-business-watertown-public",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bopinion%2Bpublic%2Bopinion&output=atom&nord=1",
-            "source_url": "http://thepublicopinion.com/business/associated_press/ap_business/what-could-mcdonald-s-do-to-fix-its-business/article_f4b60c68-9117-5ca6-adbf-f6b74b36b084.html"
-        },
-        "publicopiniononline.com/2015/04/mercersburg-woman-dies-in-accident-peters-township-chambersburg-public-opinion": {
-            "title": "Mercersburg woman dies in accident in Peters Township - Chambersburg Public Opinion...",
-            "snippet": "Mercersburg woman dies in accident in Peters TownshipChambersburg Public OpinionPETERS TOWNSHIP A Mercersburg woman died at the scene of an accident on Buchanan Trail West late Wednesday afternoon. Mary Lowery was pronounced dead at the scene of the...",
-            "date": "2015-04-23",
-            "categories": "public-opinion",
-            "tags": "died,dies,public,chambersburg,chambersburg_public,chambersburg_public_opinion,public_opinion,opinion",
-            "recuweb_url": "http://en.recuweb.com/public-opinion/publicopiniononline.com/2015/04/mercersburg-woman-dies-in-accident-peters-township-chambersburg-public-opinion",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bopinion%2Bpublic%2Bopinion&output=atom&nord=1",
-            "source_url": "http://publicopiniononline.com/crime/ci_27972602/mercersburg-woman-dies-accident-peters-township"
+            "tags": "genocide,armenian,state,public,opinion",
+            "recuweb_url": "http://en.recuweb.com/theconversation.com/2015/04/the-100th-anniversary-of-armenian-genocide",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=public%2Bopinion&format=RSS&cc=us",
+            "source_url": "http://theconversation.com/the-100th-anniversary-of-the-armenian-genocide-40434"
         }
     }
 }
