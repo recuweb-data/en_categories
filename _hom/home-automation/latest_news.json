@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "home-automation",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/home-automation/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/home-automation/home-automation/blogs.json"
     },
     "items": {
-        "engadget.com/2015/04/samsung-delays-its-next-gen-home-automation-devices-engadget": {
-            "title": "Samsung delays its next-gen home automation devices - Engadget...",
-            "snippet": "EngadgetSamsung delays its next-gen home automation devicesEngadgetIt'll take a while longer to see how Samsung's acquisition has improved SmartThings'Hub and sensors. The company was supposed to release its next-gen home automation devices this...",
-            "date": "2015-04-01",
-            "categories": "home",
-            "tags": "company,release,next,samsung,home,automation,devices,hub",
-            "recuweb_url": "http://en.recuweb.com/home/engadget.com/2015/04/samsung-delays-its-next-gen-home-automation-devices-engadget",
-            "resource_url": "http://news.google.com/?hl=en&q=home%2Bautomation&output=atom&nord=1",
-            "source_url": "http://engadget.com/2015/03/31/samsung-smartthings-home-automation-version-/"
-        },
-        "forbes.com/2015/03/amazon-and-ibm-just-kicked-the-internet-of-things-into-high": {
-            "title": "Amazon And IBM Just Kicked The Internet Of Things Into High Gear...",
-            "snippet": "The IoT or the Internet Of Things seems to be all the rage these days, from smart home automation and security devices, to connected, autonomous vehicles. However, whats key about this new trend in technology is not only the ideas for better...",
-            "date": "2015-03-31",
-            "categories": "technology,internet,home",
-            "tags": "technology,only,better,connected,security,internet,things,amazon,iot,smart,home,automation,devices",
-            "recuweb_url": "http://en.recuweb.com/home/forbes.com/2015/03/amazon-and-ibm-just-kicked-the-internet-of-things-into-high",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
-            "source_url": "http://forbes.com/sites/davealtavilla/2015/03/31/amazon-and-ibm-just-kicked-the-internet-of-things-into-high-gear/"
-        },
-        "fortune.com/2015/03/amazons-internet-of-things-strategy-takes-shape": {
-            "title": "Amazons Internet-of-things strategy takes shape...",
-            "snippet": "Amazon also recently launched Home Services, following up on last years opening of a home automation e-store devoted to connected gadgets for the home many of which require a professional installer. So now Amazon can sell these devices along with...",
-            "date": "2015-03-31",
-            "categories": "home,internet",
-            "tags": "connected,home,launched,things,amazon,internet,automation,devices",
-            "recuweb_url": "http://en.recuweb.com/internet/fortune.com/2015/03/amazons-internet-of-things-strategy-takes-shape",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
-            "source_url": "http://fortune.com/2015/03/31/amazons-internet-of-things-strategy-takes-shape/"
-        },
-        "androidheadlines.com/2015/03/exclusive-gearbest-deal-xiaomi-mi-note-4g-5-7-inch-phablet": {
-            "title": "Exclusive GearBest Deal: Xiaomi Mi Note 4G 5.7 inch Phablet Available From 476 With Code...",
-            "snippet": "As a result, you can find great accessories like power banks and replacement batteries, home automation products and headphones on offer. Not to mention, you can also find all of Xiaomis latest mobile devices including the Xiaomi Mi Note phablet.",
-            "date": "2015-03-31",
-            "categories": "home",
-            "tags": "latest,find,note,home,automation,devices",
-            "recuweb_url": "http://en.recuweb.com/home/androidheadlines.com/2015/03/exclusive-gearbest-deal-xiaomi-mi-note-4g-5-7-inch-phablet",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
-            "source_url": "http://androidheadlines.com/2015/03/exclusive-gearbest-deal-xiaomi-mi-note-4g-5-7-inch-phablet-available-476-code.html"
-        },
-        "cepro.com/2015/03/register-for-security-&-home-automation-trends-webinar-april-1-cepro": {
-            "title": "Register for Security & Home Automation Trends Webinar: April 1 - CEPro...",
-            "snippet": "CEProRegister for Security & Home Automation Trends Webinar: April 1CEProThe line continues to blur between home security and automation, and only CE Pro can make sense of the new smart-home landscape. Learn about the latest trends in home control...",
-            "date": "2015-03-31",
-            "categories": "home,home-automation,landscape",
-            "tags": "latest,only,security,home,home_automation,automation,cepro,make,smart,control",
-            "recuweb_url": "http://en.recuweb.com/landscape/cepro.com/2015/03/register-for-security-&-home-automation-trends-webinar-april-1-cepro",
-            "resource_url": "http://news.google.com/?hl=en&q=home%2Bautomation&output=atom&nord=1",
-            "source_url": "http://cepro.com/article/register_for_isc_2015_preview_webinar_april_1/"
-        },
-        "techcrunch.com/2015/03/securifi-adds-serious-home-automation-to-its-almond-routers": {
-            "title": "Securifi Adds Serious Home Automation To Its Almond Routers...",
-            "snippet": "Own an Almond router? Its about to get a dose of home automation thanks to new firmware from Securifi. The company behind the clever (and attractive) routers just announced a new set of features that will better position its product in the...",
-            "date": "2015-03-31",
+        "anandtech.com/2015/04/belkin-wemo-and-ubiquiti-mfi-home-automation-platforms-review-anandtech": {
+            "title": "Belkin WeMo and Ubiquiti mFi Home Automation Platforms Review - AnandTech...",
+            "snippet": "AnandTechBelkin WeMo and Ubiquiti mFi Home Automation Platforms ReviewAnandTechOne of the main applications of IoT lies in the home automation space. Consumers have many options in this space, but none of them have the right combination of...",
+            "date": "2015-04-27",
             "categories": "home,home-automation",
-            "tags": "routers,features,better,company,firmware,securifi,adds,home,home_automation,automation,almond",
-            "recuweb_url": "http://en.recuweb.com/home-automation/techcrunch.com/2015/03/securifi-adds-serious-home-automation-to-its-almond-routers",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
-            "source_url": "http://techcrunch.com/2015/03/31/securifi-adds-serious-home-automation-to-its-almond-routers/"
+            "tags": "home,home_automation,automation,iot",
+            "recuweb_url": "http://en.recuweb.com/home-automation/anandtech.com/2015/04/belkin-wemo-and-ubiquiti-mfi-home-automation-platforms-review-anandtech",
+            "resource_url": "http://news.google.com/?hl=en&q=home%2Bautomation%2Bhome%2Bautomation&output=atom&nord=1",
+            "source_url": "http://anandtech.com/show/9162/belkin-wemo-and-ubiquiti-mfi-home-automation-platforms-review"
         },
-        "digitaltrends.com/2015/03/securifi-adds-smart-home-automation-features-to-almond-routers": {
-            "title": "Securifi adds smart home automation features to Almond routers...",
-            "snippet": "Significantly expanding the capabilities of the Almond and Almond 2015 routers, Securifi has rolled out new functionality today via a firmware update that adds smart home user control to the two Wi-Fi devices. Typically, someone interested in...",
-            "date": "2015-03-31",
+        "consumerelectronicsnet.com/2015/04/easy-to-use-interface-lets-users-control-devices-from-a-single": {
+            "title": "Easy-to-use interface lets users control devices from a single app with their smart phone or tablet...",
+            "snippet": "COLORADO SPRINGS, Colo., April 27, 2015/PRNewswire/-- Soap Inc., developer of unified home-based automation technology, today announced the retail availability of its Soap Home app that unites users'home automation devices such as lights and...",
+            "date": "2015-04-27",
+            "categories": "home,technology",
+            "tags": "devices,users,soap,home,today,today-announced,announced,retail,availability,developer,developer-of-unified,unified,soap_inc,inc,colorado,colorado_springs,springs,smart,control,colo,prnewswire,automation,technology",
+            "recuweb_url": "http://en.recuweb.com/technology/consumerelectronicsnet.com/2015/04/easy-to-use-interface-lets-users-control-devices-from-a-single",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
+            "source_url": "http://consumerelectronicsnet.com/article/Soap-Inc-Announces-Availability-of-First-Total-Home-Automation-Application-That-Will-Ultimately-Connect-All-Network-Devices-Under-One-Single-App-3866029"
+        },
+        "prnewswire.com/2015/04/soap-inc-announces-availability-of-first-total-home-automation-application-pr": {
+            "title": "Soap Inc. Announces Availability of First Total Home Automation Application... - PR Newswire (press...",
+            "snippet": "Soap Inc. Announces Availability of First Total Home Automation Application...PR Newswire (press release)COLORADO SPRINGS, Colo., April 27, 2015/PRNewswire/-- Soap Inc., developer of unified home-based automation technology, today announced the...",
+            "date": "2015-04-27",
+            "categories": "home,home-automation,technology",
+            "tags": "today,today-announced,announced,developer,developer-of-unified,unified,colorado,colorado_springs,springs,press,press-release,release,total,home,home_automation,automation,availability,soap,soap_inc,inc,colo,prnewswire,technology",
+            "recuweb_url": "http://en.recuweb.com/technology/prnewswire.com/2015/04/soap-inc-announces-availability-of-first-total-home-automation-application-pr",
+            "resource_url": "http://news.google.com/?hl=en&q=home%2Bautomation%2Bhome%2Bautomation&output=atom&nord=1",
+            "source_url": "http://prnewswire.com/news-releases/soap-inc-announces-availability-of-first-total-home-automation-application-that-will-ultimately-connect-all-network-devices-under-one-single-app-300072010.html"
+        },
+        "digitaltrends.com/2015/04/what-becomes-of-the-misfits-and-fitbits-world-after-apple-watch": {
+            "title": "What becomes of the Misfits and FitBits of the world after the Apple Watch? Apps.",
+            "snippet": "Misfit is once again taking things a step further by integrating aspects of home automation into its offering. This is good news for smartphone makers, of course and could also prove a boon for the company that is able to lock users into their...",
+            "date": "2015-04-27",
             "categories": "home",
-            "tags": "control,via,firmware,adds,features,securifi,smart,home,automation,almond,routers,devices",
-            "recuweb_url": "http://en.recuweb.com/home/digitaltrends.com/2015/03/securifi-adds-smart-home-automation-features-to-almond-routers",
+            "tags": "company,users,things,home,automation",
+            "recuweb_url": "http://en.recuweb.com/home/digitaltrends.com/2015/04/what-becomes-of-the-misfits-and-fitbits-world-after-apple-watch",
             "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
-            "source_url": "http://digitaltrends.com/home/securifi-adds-smart-home-automation-features-to-almond-routers/"
+            "source_url": "http://digitaltrends.com/wearables/why-fitbit-and-misfit-apps-will-save-them-from-smartwatches/"
         },
-        "fool.com/2015/03/will-apple-inc-soon-compete-head-to-with-gaming-consoles": {
-            "title": "Will Apple Inc. Soon Compete Head-to-Head With Gaming Consoles?",
-            "snippet": "and enable it remotely for a selection of Homekit-enabled home automation devices, as earlier reports have suggested. Presumably it will also feature a new remote. Just how big is the opportunity? In a note to investors on Monday (via...",
-            "date": "2015-03-31",
+        "theregister.co.uk/2015/04/when-things-attack-defending-data-centres-from-iot-device-krieg": {
+            "title": "When THINGS attack! Defending data centres from IoT device-krieg...",
+            "snippet": "IoT includes every device that is connected to the internet from home automation products, security cameras, refrigerators, microwaves and home entertainment devices like TVs and gaming consoles, to industrial machinery and smart retail shelves...",
+            "date": "2015-04-27",
+            "categories": "entertainment,internet,home",
+            "tags": "smart,retail,devices,every,device,things,iot,home,automation,products,security",
+            "recuweb_url": "http://en.recuweb.com/home/theregister.co.uk/2015/04/when-things-attack-defending-data-centres-from-iot-device-krieg",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
+            "source_url": "http://theregister.co.uk/2015/04/27/when_fridges_attack/"
+        },
+        "macobserver.com/2015/04/three-scenarios-for-home-automation": {
+            "title": "Three Scenarios for Home Automation...",
+            "snippet": "Whenever I tell people that my hobby is home automation, they stop and think about it for a while with a troubled look on their faces. Oh, thats interesting! they say with a nod. But all the while I can tell they're asking themselves, What the heck...",
+            "date": "2015-04-25",
+            "categories": "home,home-automation",
+            "tags": "home,home_automation,automation",
+            "recuweb_url": "http://en.recuweb.com/home-automation/macobserver.com/2015/04/three-scenarios-for-home-automation",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
+            "source_url": "http://macobserver.com/tmo/article/introduction-to-home-automation"
+        },
+        "azorobotics.com/2015/04/zonoff-home-automation-company-opens-35-000-square-foot-headquarters-in": {
+            "title": "Zonoff Home Automation Company Opens 35,000 Square Foot Headquarters in Malvern, Pennsylvania...",
+            "snippet": "Zonoff, Inc., creators of the Zonoff Home Automation Platform and leaders in the smart home industry, announced an expansion of its executive team and hosted an open house and ribbon cutting ceremony yesterday to mark the opening of its brand new...",
+            "date": "2015-04-25",
+            "categories": "home,home-automation",
+            "tags": "announced,announced-an-expansion,expansion,house,home,home_automation,home-automation-platform,automation,automation-platform,platform,platform-and-leaders,leaders,smart,creators,zonoff,home_automation_company,automation_company,company,inc,industry",
+            "recuweb_url": "http://en.recuweb.com/home-automation/azorobotics.com/2015/04/zonoff-home-automation-company-opens-35-000-square-foot-headquarters-in",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
+            "source_url": "http://azorobotics.com/News.aspx?newsID=7113"
+        },
+        "satprnews.com/2015/04/home-automation-company-zonoff-points-to-rapid-growth-at-new-office": {
+            "title": "Home Automation Company Zonoff Points to Rapid Growth at New Office... - Satellite PR News (press...",
+            "snippet": "Home Automation Company Zonoff Points to Rapid Growth at New Office...Satellite PR News (press release)COM Apr 24, 2015) Zonoff, Inc., creators of the Zonoff Home Automation Platform and leaders in the smart home industry, announced an expansion of...",
+            "date": "2015-04-24",
+            "categories": "home,home-automation",
+            "tags": "announced,announced-an-expansion,expansion,home,home_automation,home-automation-platform,automation,automation-platform,platform,platform-and-leaders,leaders,smart,creators,press,press-release,release,office,home_automation_company,automation_company,company,zonoff,inc,industry",
+            "recuweb_url": "http://en.recuweb.com/home-automation/satprnews.com/2015/04/home-automation-company-zonoff-points-to-rapid-growth-at-new-office",
+            "resource_url": "http://news.google.com/?hl=en&q=home%2Bautomation%2Bhome%2Bautomation&output=atom&nord=1",
+            "source_url": "http://satprnews.com/2015/04/24/home-automation-company-zonoff-points-to-rapid-growth-at-new-office-opening-during-philly-tech-week-2015/"
+        },
+        "geeky-gadgets.com/2015/04/ottobox-self-programming-smart-home-automation-system-video": {
+            "title": "Ottobox Self Programming Smart Home Automation System (video)...",
+            "snippet": "As the price of electricity increases to climb, we need to do everything we can to both save the environment and our hard earned money, and one such home automation system called Ottobox might be a solution worth more investigation. Ottobox is a...",
+            "date": "2015-04-24",
+            "categories": "environment,home,home-automation",
+            "tags": "money,smart,home,home_automation,automation",
+            "recuweb_url": "http://en.recuweb.com/home-automation/geeky-gadgets.com/2015/04/ottobox-self-programming-smart-home-automation-system-video",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
+            "source_url": "http://geeky-gadgets.com/ottobox-self-programming-smart-home-automation-system-23-04-2015/"
+        },
+        "cnet.com/2015/04/get-an-insteon-home-automation-starter-kit": {
+            "title": "Get an Insteon home-automation starter kit for...",
+            "snippet": "I've never really felt the need to smarten my home, especially if it means installing a bunch of sensors and whatnot. However, I will say that my Venstar smart thermostat is just about the best thing ever, so maybe I need to rethink all this. And...",
+            "date": "2015-04-22",
             "categories": "home",
-            "tags": "note,homekit,home,automation,devices,via",
-            "recuweb_url": "http://en.recuweb.com/home/fool.com/2015/03/will-apple-inc-soon-compete-head-to-with-gaming-consoles",
+            "tags": "smart,kit,home,automation",
+            "recuweb_url": "http://en.recuweb.com/home/cnet.com/2015/04/get-an-insteon-home-automation-starter-kit",
             "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
-            "source_url": "http://fool.com/investing/general/2015/03/31/will-apple-inc-soon-compete-head-to-head-with-gami.aspx"
-        },
-        "cepro.com/2015/03/with-parse-for-iot-facebook-could-have-the-next-homekit-home": {
-            "title": "With Parse for IoT, Facebook Could Have the Next HomeKit Home Automation... - CEPro...",
-            "snippet": "With Parse for IoT, Facebook Could Have the Next HomeKit Home Automation...CEProFacebook subsidiary Parse has launched an IoT SDK for cloud-enabling IP devices, and eventually could link all these newly smart devices with cloud-based rules engines a...",
-            "date": "2015-03-31",
-            "categories": "home,home-automation,facebook",
-            "tags": "could,launched,next,homekit,home,home_automation,automation,iot,cepro,devices,smart",
-            "recuweb_url": "http://en.recuweb.com/facebook/cepro.com/2015/03/with-parse-for-iot-facebook-could-have-the-next-homekit-home",
-            "resource_url": "http://news.google.com/?hl=en&q=home%2Bautomation&output=atom&nord=1",
-            "source_url": "http://cepro.com/article/with_parse_for_iot_facebook_could_have_the_next_homekit_home_automation_pla/"
-        },
-        "hometoys.com/2015/03/cea-approves-new-home-automation-specifications-at-technology-toys-press-release": {
-            "title": "CEA Approves New Home Automation Specifications at Technology... - Home Toys (press release)...",
-            "snippet": "CEA Approves New Home Automation Specifications at Technology...Home Toys (press release)ANSI/CEA-709.5, Control Networking Protocol Specification: Part 5: Implementation - Application-Layer Guidelines, facilitates the exchange of data and control...",
-            "date": "2015-03-30",
-            "categories": "home,toys,home-automation,technology",
-            "tags": "control,release,home,home_automation,automation,technology",
-            "recuweb_url": "http://en.recuweb.com/technology/hometoys.com/2015/03/cea-approves-new-home-automation-specifications-at-technology-toys-press-release",
-            "resource_url": "http://news.google.com/?hl=en&q=home%2Bautomation&output=atom&nord=1",
-            "source_url": "http://hometoys.com/news/2015/03/30/cea-approves-new-home-automation-specifications-at-technology--standards-forum/20007323"
+            "source_url": "http://cnet.com/news/get-an-insteon-home-automation-starter-kit-for-99-99/"
         }
     }
 }
