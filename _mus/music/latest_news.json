@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "music",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/music/",
@@ -10,104 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/music/music/blogs.json"
     },
     "items": {
-        "independentnews.com/2015/04/amador-music-program-to-host-the-boston-brass-for-a-master": {
-            "title": "Amador Music Program to Host the Boston Brass for a Master Class and Performance...",
-            "snippet": "The Amador Valley High School Music Program will host the distinguished Boston Brass on May 4-5, 2015. Boston Brass will be coming to Amador Valley High School for a 2-day master class and performance with students. Students at AVHS will experience...",
-            "date": "2015-04-23",
-            "categories": "students,school,music",
+        "wkrn.com/2015/04/country-music-marathon-runners-brace-for-possible-bad-weather": {
+            "title": "Country Music Marathon runners brace for possible bad weather -...",
+            "snippet": "Music Marathon runners brace for possible bad, Tenn. (WKRN) There's a threat for severe weather in Middle Tennessee this weekend, but it's not slowing down the 16th annual Country Music Marathon and Half-Marathon. More than 30,000 runners are...",
+            "date": "2015-04-25",
+            "categories": "music,marathon",
+            "tags": "down,weekend,bad,music",
+            "recuweb_url": "http://en.recuweb.com/marathon/wkrn.com/2015/04/country-music-marathon-runners-brace-for-possible-bad-weather",
+            "resource_url": "http://news.google.com/?hl=en&q=music&output=atom&nord=1",
+            "source_url": "http://wkrn.com/2015/04/24/severe-weather-threat-not-slowing-down-country-music-marathon/"
+        },
+        "reviewjournal.com/2015/04/hayden-elementary-school-music-teacher-faces-child-molestation-charges-las-vegas": {
+            "title": "Hayden Elementary School music teacher faces child molestation charges - Las Vegas Review-Journal...",
+            "snippet": "Las Vegas Review-JournalHayden Elementary School music teacher faces child molestation chargesLas Vegas Review-JournalA North Las Vegas elementary school teacher faces multiple charges of child molestation after police arrested him on Friday.",
+            "date": "2015-04-25",
+            "categories": "school,music",
+            "tags": "music,friday",
+            "recuweb_url": "http://en.recuweb.com/music/reviewjournal.com/2015/04/hayden-elementary-school-music-teacher-faces-child-molestation-charges-las-vegas",
+            "resource_url": "http://news.google.com/?hl=en&q=music&output=atom&nord=1",
+            "source_url": "http://reviewjournal.com/news/crime-courts/hayden-elementary-school-music-teacher-faces-child-molestation-charges"
+        },
+        "411mania.com/2015/04/411-music-fact-or-fiction-will-oasis-actually-reform": {
+            "title": "411 Music Fact or Fiction: Will Oasis Actually Reform?",
+            "snippet": "Welcome to the 411 Music Fact or Fiction! This week, Jeremy Thomas takes on Tony Acero. The Oasis reunion will end up not happening after all. Jeremy Thomas: FICTION Oh, itll happen. It may not happen soon as is being reported, but it will happen...",
+            "date": "2015-04-24",
+            "categories": "music",
+            "tags": "music,welcome,week",
+            "recuweb_url": "http://en.recuweb.com/music/411mania.com/2015/04/411-music-fact-or-fiction-will-oasis-actually-reform",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=music&format=RSS&cc=us",
+            "source_url": "http://411mania.com/music/411-music-fact-or-fiction-will-oasis-actually-reform/"
+        },
+        "npr.org/2015/04/all-songs-plus-one-why-we-like-the-music": {
+            "title": "All Songs Plus One: Why We Like The Music We Like...",
+            "snippet": "What goes on in your brain when you hear a new song? Is there a formula for what makes a perfect pop song? What's better, something brand new, or something familiar? It's nearly impossible to completely explain or understand why we like the music we...",
+            "date": "2015-04-24",
+            "categories": "music",
+            "tags": "something,pop,music",
+            "recuweb_url": "http://en.recuweb.com/music/npr.org/2015/04/all-songs-plus-one-why-we-like-the-music",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=music&format=RSS&cc=us",
+            "source_url": "http://npr.org/blogs/allsongs/2015/04/24/401925095/all-songs-plus-one-why-we-like-the-music-we-like"
+        },
+        "nytimes.com/2015/04/carly-and-lucy-simon-on-music-fame-sibling-rivalry-yes-james": {
+            "title": "Carly and Lucy Simon on Music, Fame, Sibling Rivalry and, Yes, James Taylor - New York Times...",
+            "snippet": "New York TimesCarly and Lucy Simon on Music, Fame, Sibling Rivalry and, Yes, James TaylorNew York TimesWhen Carly Simon walked into the music room of her home on Martha's Vineyard, shyly trailing her sister Lucy and carrying a guitar like a shield,...",
+            "date": "2015-04-24",
+            "categories": "home,music",
+            "tags": "james,music,yes",
+            "recuweb_url": "http://en.recuweb.com/music/nytimes.com/2015/04/carly-and-lucy-simon-on-music-fame-sibling-rivalry-yes-james",
+            "resource_url": "http://news.google.com/?hl=en&q=music&output=atom&nord=1",
+            "source_url": "http://nytimes.com/2015/04/26/fashion/carly-and-lucy-simon-on-sibling-rivalry-and-yes-james-taylor.html"
+        },
+        "allkpop.com/2015/04/exo-win-1-performances-from-april-24th-music-bank": {
+            "title": "EXO win 1 Performances from April 24th 'Music Bank'!",
+            "snippet": "KBS''Music Bank'is back for its weekly show featuring performances by your favorite artists! On this episode, HOTSHOT returned with Watch Out, Park Bo Ram returned with CELEPRETTY, Oh My Girl debuted with Cupid, Cross Gene came back with Play...",
+            "date": "2015-04-24",
+            "categories": "music,play",
+            "tags": "artists,music",
+            "recuweb_url": "http://en.recuweb.com/play/allkpop.com/2015/04/exo-win-1-performances-from-april-24th-music-bank",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=music&format=RSS&cc=us",
+            "source_url": "http://allkpop.com/article/2015/04/performances-from-april-24th-music-bank"
+        },
+        "forbes.com/2015/04/for-nielsen-a-new-push-amid-the-growing-music-data-boom": {
+            "title": "For Nielsen, A New Push Amid The Growing Music Data Boom...",
+            "snippet": "Nielsen has used its trove of data to help brands like 7UP make the most of their spending on music-related marketing. Photo courtesy of 7UP. Last year 7UP was gearing up to deepen its presence in the world of electronic dance music. To make that...",
+            "date": "2015-04-24",
+            "categories": "dance,marketing,music",
             "tags": "music",
-            "recuweb_url": "http://en.recuweb.com/music/independentnews.com/2015/04/amador-music-program-to-host-the-boston-brass-for-a-master",
+            "recuweb_url": "http://en.recuweb.com/music/forbes.com/2015/04/for-nielsen-a-new-push-amid-the-growing-music-data-boom",
             "resource_url": "http://www.bing.com/news/search?first=1&q=music&format=RSS&cc=us",
-            "source_url": "http://independentnews.com/culture/amador-music-program-to-host-the-boston-brass-for-a/article_59989bf8-e93b-11e4-af18-c736d0003f28.html"
+            "source_url": "http://forbes.com/sites/zackomalleygreenburg/2015/04/24/for-nielsen-a-new-push-amid-the-growing-music-data-boom/"
         },
-        "news-press.com/2015/04/band-brothers-offer-free-music-lessons-for-all-ages-the-news": {
-            "title": "Band brothers offer free music lessons for all ages - The News-Press...",
-            "snippet": "The News-PressBand brothers offer free music lessons for all agesThe News-PressTeens and young adults get one-on-one pointers about the nuances of playing music while children as young as age 4 swirl around trying out different instruments. For a...",
-            "date": "2015-04-23",
-            "categories": "music",
-            "tags": "around,free,music,press",
-            "recuweb_url": "http://en.recuweb.com/music/news-press.com/2015/04/band-brothers-offer-free-music-lessons-for-all-ages-the-news",
-            "resource_url": "http://news.google.com/?hl=en&q=music%2Bmusic&output=atom&nord=1",
-            "source_url": "http://news-press.com/story/news/local/cape-coral/2015/04/23/band-brothers-offer-free-music-lessons-ages/26189583/"
-        },
-        "myallcoastnews.com.au/2015/04/bluegrass-music-on-again-at-karuah": {
-            "title": "Bluegrass Music on again at Karuah...",
-            "snippet": "The Karuah Bluegrass Music Festival is in its seventh year on the 1st weekend in May at the beautiful Longworth Park. Organisers are pleased to announce that the local Service Station is kicking-off the festival at 1pm on Friday with an open mic...",
-            "date": "2015-04-23",
-            "categories": "music",
-            "tags": "local,year,again,music,off",
-            "recuweb_url": "http://en.recuweb.com/music/myallcoastnews.com.au/2015/04/bluegrass-music-on-again-at-karuah",
+        "oregonlive.com/2015/04/forest-grove-events-fghs-music-fundraiser-joseph-gale-sale-youth-baseball": {
+            "title": "Forest Grove events: FGHS music fundraiser, Joseph Gale sale, Youth Baseball pop can drive...",
+            "snippet": "Here's a look ahead at events in Forest Grove, Gaston, Banks and Cornelius for the next few weeks. Did I miss something? Let me know! Email community event information to, or send us a message through our Facebook page. Friday...",
+            "date": "2015-04-24",
+            "categories": "events,baseball,music,facebook",
+            "tags": "send,something,pop,music,here,friday",
+            "recuweb_url": "http://en.recuweb.com/facebook/oregonlive.com/2015/04/forest-grove-events-fghs-music-fundraiser-joseph-gale-sale-youth-baseball",
             "resource_url": "http://www.bing.com/news/search?first=1&q=music&format=RSS&cc=us",
-            "source_url": "http://myallcoastnews.com.au/bluegrass-music-on-again-at-karuah-7170"
+            "source_url": "http://oregonlive.com/forest-grove/index.ssf/2015/04/forest_grove_events_fghs_music.html"
         },
-        "news-press.com/2015/04/live-music-in-southwest-florida-the-news-press": {
-            "title": "Live music in Southwest Florida - The News-Press...",
-            "snippet": "The News-PressLive music in Southwest FloridaThe News-Press10091 McGregor Blvd., Fort Myers, 936-2787. Sunday, 1-5 p.m.: Deb and the Dynamics and Mike Imbasciani and his Bluez Rockerz, concert benefits Abuse Counseling and Treatment Inc., donations...",
-            "date": "2015-04-23",
+        "blogs.wsj.com/2015/04/low-tidal-what-went-wrong-with-the-launch-of-jay-zs": {
+            "title": "Low Tidal: What Went Wrong With the Launch of Jay Zs Streaming Music Service...",
+            "snippet": "Its clear that the Tidal partners are passionate about musicians problem with relatively paltry streaming royaltieshow else could you get a group of fiercely independent artists to parade up to a table and sign a collective mission statement?",
+            "date": "2015-04-24",
             "categories": "music",
-            "tags": "live,music,press,sunday",
-            "recuweb_url": "http://en.recuweb.com/music/news-press.com/2015/04/live-music-in-southwest-florida-the-news-press",
-            "resource_url": "http://news.google.com/?hl=en&q=music%2Bmusic&output=atom&nord=1",
-            "source_url": "http://news-press.com/story/entertainment/2015/04/23/live-music-southwest-florida/26187489/"
-        },
-        "broadwayworld.com/2015/04/music-made-on-long-island-series-set-for-the-space": {
-            "title": "MUSIC MADE ON LONG ISLAND SERIES Set for The Space at Westbury, Beginning 6/13...",
-            "snippet": "On Saturday June 13th at 7pm, The Space - the premier state of the art venue for all types of engagements in Nassau County, which has been bringing incredible live music and show stopping events to the heart of Long Island for the past year and a...",
-            "date": "2015-04-23",
-            "categories": "events,music",
-            "tags": "year,live,music,made",
-            "recuweb_url": "http://en.recuweb.com/music/broadwayworld.com/2015/04/music-made-on-long-island-series-set-for-the-space",
+            "tags": "artists,music",
+            "recuweb_url": "http://en.recuweb.com/music/blogs.wsj.com/2015/04/low-tidal-what-went-wrong-with-the-launch-of-jay-zs",
             "resource_url": "http://www.bing.com/news/search?first=1&q=music&format=RSS&cc=us",
-            "source_url": "http://broadwayworld.com/bwwmusic/article/MUSIC-MADE-ON-LONG-ISLAND-SERIES-Set-for-The-Space-at-Westbury-Beginning-613-20150422"
+            "source_url": "http://blogs.wsj.com/speakeasy/2015/04/24/low-tidal-what-went-wrong-with-the-launch-of-jay-zs-streaming-music-service/"
         },
-        "capitalgazette.com/2015/04/music-box-get-ready-to-sing-along-with-bodeans-at-rams": {
-            "title": "Music Box: Get ready to sing along with BoDeans at Rams Head On Stage...",
-            "snippet": "The BoDeans emerged from Waukesha, Wisconsin, in the mid-80s, around the same time we got to know bands such as Los Lobos, X and The Blasters. What a time that was for knock down club shows, just crazy fun and full of dancers. The BoDeans return a...",
-            "date": "2015-04-23",
-            "categories": "music",
-            "tags": "down,around,music",
-            "recuweb_url": "http://en.recuweb.com/music/capitalgazette.com/2015/04/music-box-get-ready-to-sing-along-with-bodeans-at-rams",
+        "thestar.com/2015/04/music-copyright-changes-in-federal-budget-hit-a-sour-note-geist": {
+            "title": "Music copyright changes in federal budget hit a sour note: Geist...",
+            "snippet": "The Conservative governments budget this week included benefits for some families, assistance for seniors and future tax reductions for small businesses. While those measures were widely anticipated, more surprising was the multimillion-dollar gift...",
+            "date": "2015-04-24",
+            "categories": "business,music",
+            "tags": "week,music",
+            "recuweb_url": "http://en.recuweb.com/music/thestar.com/2015/04/music-copyright-changes-in-federal-budget-hit-a-sour-note-geist",
             "resource_url": "http://www.bing.com/news/search?first=1&q=music&format=RSS&cc=us",
-            "source_url": "http://capitalgazette.com/entertainment/ph-ac-en-musicbox-column-0424-20150424,0,4613899.story"
-        },
-        "post-gazette.com/2015/04/music-preview-fans-pay-tribute-to-local-legend-bob-mack": {
-            "title": "Music preview: Fans pay tribute to local music legend Bob Mack at dance party... - Pittsburgh...",
-            "snippet": "Pittsburgh Post-GazetteMusic preview: Fans pay tribute to local music legend Bob Mack at dance party...Pittsburgh Post-GazetteBob Mack isn't just part of Pittsburgh music history. He's a chapter unto himself. Mack made a lot of noise here starting...",
-            "date": "2015-04-23",
-            "categories": "dance,music",
-            "tags": "made,here,dance,local,music,pre,pittsburgh,gazettemusic",
-            "recuweb_url": "http://en.recuweb.com/music/post-gazette.com/2015/04/music-preview-fans-pay-tribute-to-local-legend-bob-mack",
-            "resource_url": "http://news.google.com/?hl=en&q=music%2Bmusic&output=atom&nord=1",
-            "source_url": "http://post-gazette.com/ae/music/2015/04/23/Bob-Mack-oldies-Attic-Record-Store-Millvale-Tommy-James-and-the-Shondells/stories/201504230061"
-        },
-        "post-gazette.com/2015/04/music-preview-the-mavericks-pull-into-town-with-a-dance-alert": {
-            "title": "Music preview: The Mavericks pull into town with a dance alert from the promoter - Pittsburgh...",
-            "snippet": "Pittsburgh Post-GazetteMusic preview: The Mavericks pull into town with a dance alert from the promoterPittsburgh Post-Gazette\"I think sometimes the greater the risk, the greater the reward,\" Mr. Malo says. \"We try not to rest on our laurels and try...",
-            "date": "2015-04-23",
-            "categories": "dance,music",
-            "tags": "dance,music,pre,pittsburgh,gazettemusic",
-            "recuweb_url": "http://en.recuweb.com/music/post-gazette.com/2015/04/music-preview-the-mavericks-pull-into-town-with-a-dance-alert",
-            "resource_url": "http://news.google.com/?hl=en&q=music%2Bmusic&output=atom&nord=1",
-            "source_url": "http://post-gazette.com/ae/music/2015/04/23/Music-preview-The-Mavericks-pull-into-Carnegie-of-Homestead-Music-Hall-with-a-dance-alert-from-the-promoter/stories/201504230036"
-        },
-        "nytimes.com/2015/04/new-york-philharmonic-s-challenges-go-beyond-the-music-times": {
-            "title": "New York Philharmonic's Challenges Go Beyond the Music - New York Times...",
-            "snippet": "New York TimesNew York Philharmonic's Challenges Go Beyond the MusicNew York TimesConductors may want assurances that the money for the renovation will be there before they sign on to lead an orchestra in flux. And the longer it takes to name a...",
-            "date": "2015-04-23",
-            "categories": "music",
-            "tags": "sign,music",
-            "recuweb_url": "http://en.recuweb.com/music/nytimes.com/2015/04/new-york-philharmonic-s-challenges-go-beyond-the-music-times",
-            "resource_url": "http://news.google.com/?hl=en&q=music%2Bmusic&output=atom&nord=1",
-            "source_url": "http://nytimes.com/2015/04/23/arts/music/challenges-mount-for-the-new-york-philharmonic.html"
-        },
-        "theguardian.com/2015/04/paul-mccartney-tops-musicians-rich-list-again-the-guardian": {
-            "title": "Paul McCartney tops musicians'rich list. Again - The Guardian...",
-            "snippet": "The GuardianPaul McCartney tops musicians'rich list. AgainThe GuardianBeing a Beatle can do wonders for your bank balance. Especially if you wrote many of their best-loved songs. That's the message from the latest Sunday Times Rich List of...",
-            "date": "2015-04-23",
-            "tags": "best,again,sunday",
-            "recuweb_url": "http://en.recuweb.com/theguardian.com/2015/04/paul-mccartney-tops-musicians-rich-list-again-the-guardian",
-            "resource_url": "http://news.google.com/?hl=en&q=music%2Bmusic&output=atom&nord=1",
-            "source_url": "http://theguardian.com/music/2015/apr/23/paul-mccartney-tops-musicians-rich-list-again"
+            "source_url": "http://thestar.com/business/2015/04/24/music-copyright-changes-in-federal-budget-hit-a-sour-note-geist.html"
         }
     }
 }
