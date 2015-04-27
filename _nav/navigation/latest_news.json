@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "navigation",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/navigation/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/navigation/navigation/blogs.json"
     },
     "items": {
-        "beach-bulletin.com/2015/04/100-foot-dock-constructed-in-navigation-channel": {
-            "title": "100-foot dock constructed in navigation channel...",
-            "snippet": "On April 6, to the surprise of the public, the construction of a 100-foot dock at 301 Palermo began replacing the 30-foot dock. When the Town was contacted there was no response, but an internal document stated that a dock must be less than 25...",
-            "date": "2015-04-14",
-            "categories": "construction,navigation",
+        "digitimes.com/2015/04/calamp-adopts-mitac-navigation-software-says-paper-digitimes": {
+            "title": "CalAmp adopts Mitac navigation software, says paper - Digitimes...",
+            "snippet": "CalAmp adopts Mitac navigation software, says paperDigitimesMitac Holdings has partnered with US-based wireless communication product and service provider CalAmp to supply Magellan navigation software for use in the latter's MDT-7 car fleet...",
+            "date": "2015-04-24",
+            "categories": "navigation",
+            "tags": "car,navigation",
+            "recuweb_url": "http://en.recuweb.com/navigation/digitimes.com/2015/04/calamp-adopts-mitac-navigation-software-says-paper-digitimes",
+            "resource_url": "http://news.google.com/?hl=en&q=navigation%2Bnavigation&output=atom&nord=1",
+            "source_url": "http://digitimes.com/news/a20150424PB200.html"
+        },
+        "customstoday.com.pk/2015/04/chinas-satellite-navigation-system-to-increase-coverage-by-2020": {
+            "title": "Chinas satellite navigation system to increase coverage by 2020...",
+            "snippet": "BEIJING: Chinas Beidou satellite navigation system, regarded as a rival to Americas global positioning system (GPS), will be fully operational worldwide by 2020, a top official said on Thursday. The Beidou system has been successfully tested in...",
+            "date": "2015-04-24",
+            "categories": "navigation",
+            "tags": "top,said,global,positioning,beidou,satellite,navigation,system,gps,thursday",
+            "recuweb_url": "http://en.recuweb.com/navigation/customstoday.com.pk/2015/04/chinas-satellite-navigation-system-to-increase-coverage-by-2020",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=navigation&format=RSS&cc=us",
+            "source_url": "http://customstoday.com.pk/chinas-satellite-navigation-system-to-increase-coverage-by-2020/"
+        },
+        "edp24.co.uk/2015/04/congestion-fears-over-staithe-and-walkway-in-norwich-river": {
+            "title": "Congestion fears over staithe and walkway in Norwich river...",
+            "snippet": "The Broads Authoritys navigation committee yesterday voted to keep Breydon Water as a designated zone for the sport. There are parts of the River Yare and River Waveney where people can take to the water, from Bramerton, down to the Beauchamp...",
+            "date": "2015-04-24",
+            "categories": "sport,navigation",
             "tags": "navigation",
-            "recuweb_url": "http://en.recuweb.com/navigation/beach-bulletin.com/2015/04/100-foot-dock-constructed-in-navigation-channel",
+            "recuweb_url": "http://en.recuweb.com/navigation/edp24.co.uk/2015/04/congestion-fears-over-staithe-and-walkway-in-norwich-river",
             "resource_url": "http://www.bing.com/news/search?first=1&q=navigation&format=RSS&cc=us",
-            "source_url": "http://beach-bulletin.com/page/content.detail/id/527077/100-foot-dock-constructed-in-navigation-channel.html"
+            "source_url": "http://edp24.co.uk/news/congestion_fears_over_staithe_and_walkway_in_norwich_river_1_4047354"
         },
-        "phys.org/2015/04/altimeter-assists-in-messenger-s-low-altitude-navigation": {
-            "title": "Altimeter assists in MESSENGER's low-altitude navigation...",
-            "snippet": "MESSENGER scientists are using altimeter data to help determine whether orbit corrections need to be made during low-altitude navigation. The altimeter, which measures the range to the spacecraft as it passes over a landscape, was used to map the...",
-            "date": "2015-04-14",
-            "categories": "spacecraft,landscape,navigation",
-            "tags": "map,help,whether,navigation,using",
-            "recuweb_url": "http://en.recuweb.com/navigation/phys.org/2015/04/altimeter-assists-in-messenger-s-low-altitude-navigation",
+        "ecns.cn/2015/04/skipper-guo-chuan-eyes-on-record-setting-arctic-navigation": {
+            "title": "Skipper Guo Chuan eyes on record-setting Arctic navigation...",
+            "snippet": "Guo Chuan, who was the first sailor from China to complete a non-stop solo circumnavigation of the globe, told a press confrence on Thursday that he will charge on the first world record of multiple-person non-stop navigation through the Northeast...",
+            "date": "2015-04-24",
+            "categories": "navigation",
+            "tags": "press,navigation,china,thursday",
+            "recuweb_url": "http://en.recuweb.com/navigation/ecns.cn/2015/04/skipper-guo-chuan-eyes-on-record-setting-arctic-navigation",
             "resource_url": "http://www.bing.com/news/search?first=1&q=navigation&format=RSS&cc=us",
-            "source_url": "http://phys.org/news/2015-04-altimeter-messenger-low-altitude.html"
+            "source_url": "http://ecns.cn/2015/04-24/163045.shtml"
         },
-        "prnewswire.com/2015/04/flight-navigation-and-management-system-market-2020-new-research-pr-newswire": {
-            "title": "Flight Navigation and Management System Market 2020 - New Research... - PR Newswire (press release)...",
-            "snippet": "Flight Navigation and Management System Market 2020 - New Research...PR Newswire (press release)Flight Navigation and Management System Market research contains an analysis of drivers, challenges, restraints, and burning issues that impact the...",
-            "date": "2015-04-14",
-            "categories": "management,navigation",
-            "tags": "burning,burning-issues,issues,issues-that-impact,impact,research,research-contains,contains,contains-an-analysis,analysis,analysis-of-drivers,drivers,management,management_system,management_system_market,system,system_market,market,flight,flight_navigation,navigation,challenges,restraints",
-            "recuweb_url": "http://en.recuweb.com/navigation/prnewswire.com/2015/04/flight-navigation-and-management-system-market-2020-new-research-pr-newswire",
-            "resource_url": "http://news.google.com/?hl=en&q=navigation&output=atom&nord=1",
-            "source_url": "http://prnewswire.com/news-releases/flight-navigation-and-management-system-market-2020---new-research-available-at-rnrmarketresearchcom-499706811.html"
-        },
-        "istockanalyst.com/2015/04/flight-navigation-and-management-system-market-2020-new-research-available": {
-            "title": "Flight Navigation and Management System Market 2020 - New Research Available at...",
-            "snippet": "Flight Navigation and Management System Market research contains an analysis of drivers, challenges, restraints, and burning issues that impact the industry for a period of six years. In this report, the drivers and restraints for this markets is...",
-            "date": "2015-04-14",
-            "categories": "markets,management,navigation",
-            "tags": "drivers,restraints,markets,market,burning,burning-issues,issues,issues-that-impact,impact,research,research-contains,contains,contains-an-analysis,analysis,analysis-of-drivers,management,management_system,management_system_market,system,system_market,flight,flight_navigation,navigation,challenges",
-            "recuweb_url": "http://en.recuweb.com/navigation/istockanalyst.com/2015/04/flight-navigation-and-management-system-market-2020-new-research-available",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=navigation&format=RSS&cc=us",
-            "source_url": "http://istockanalyst.com/business/news/7272020/flight-navigation-and-management-system-market-2020-new-research-available-at-rnrmarketresearch-com"
-        },
-        "insidegnss.com/2015/04/gnss-markets-standards-and-resilience-at-the-european-navigation-conference": {
-            "title": "GNSS Markets, Standards, and Resilience at the European Navigation Conference...",
-            "snippet": "The 2015 edition of the European Navigation Conference (ENC) in Bordeaux last week found the continents GNSS community leaving troubles behind and looking to the future, where the worlds dependence on GNSS is greater, the risks higher, and the...",
-            "date": "2015-04-14",
-            "categories": "continents,navigation,markets",
-            "tags": "future,navigation,markets",
-            "recuweb_url": "http://en.recuweb.com/markets/insidegnss.com/2015/04/gnss-markets-standards-and-resilience-at-the-european-navigation-conference",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=navigation&format=RSS&cc=us",
-            "source_url": "http://insidegnss.com/node/4478"
-        },
-        "denverbroncos.com/2015/04/hard-work-and-world-navigation-preface-exciting-return-for-ware-blog": {
-            "title": "Hard work and world navigation preface exciting return for Ware - (blog)...",
-            "snippet": "Hard work and world navigation preface exciting return for (blog)There's no question about how hard DeMarcus Ware prepares and works to be a terror on the football field, but he's also taken time to explore the world with his family. With a new...",
-            "date": "2015-04-14",
-            "categories": "football,navigation",
-            "tags": "navigation",
-            "recuweb_url": "http://en.recuweb.com/navigation/denverbroncos.com/2015/04/hard-work-and-world-navigation-preface-exciting-return-for-ware-blog",
-            "resource_url": "http://news.google.com/?hl=en&q=navigation&output=atom&nord=1",
-            "source_url": "http://denverbroncos.com/news-and-blogs/article-1/Hard-work-and-world-navigation-preface-exciting-return-for-Ware/ad3867c9-f7eb-481b-8c61-286636390671"
-        },
-        "caller.com/2015/04/i-37-reopens-at-navigation-boulevard-after-wreck-corpus-christi-caller": {
-            "title": "I-37 reopens at Navigation Boulevard after wreck - Corpus Christi Caller-Times...",
-            "snippet": "Corpus Christi Caller-TimesI-37 reopens at Navigation Boulevard after wreckCorpus Christi Caller-TimesCORPUS CHRISTI - Interstate 37 reopened in both directions about 9 a.m. Tuesday at Navigation Boulevard after a commercial pump truck landed in the...",
-            "date": "2015-04-14",
+        "tuoitrenews.vn/2015/04/vietnam-indonesia-emphasize-importance-of-peace-freedom-navigation-in-tuoitrenews": {
+            "title": "Vietnam, Indonesia emphasize importance of peace, freedom of navigation in... - Tuoitrenews...",
+            "snippet": "TuoitrenewsVietnam, Indonesia emphasize importance of peace, freedom of navigation in...TuoitrenewsVietnamese State President Truong Tan Sang and his Indonesian counterpart have affirmed the importance of ensuring peace, stability, maritime safety...",
+            "date": "2015-04-24",
             "categories": "navigation",
             "tags": "navigation",
-            "recuweb_url": "http://en.recuweb.com/navigation/caller.com/2015/04/i-37-reopens-at-navigation-boulevard-after-wreck-corpus-christi-caller",
+            "recuweb_url": "http://en.recuweb.com/navigation/tuoitrenews.vn/2015/04/vietnam-indonesia-emphasize-importance-of-peace-freedom-navigation-in-tuoitrenews",
             "resource_url": "http://news.google.com/?hl=en&q=navigation&output=atom&nord=1",
-            "source_url": "http://caller.com/news/local-news/crash-closes-i-37-in-both-directions-at-navigation-blvd"
+            "source_url": "http://tuoitrenews.vn/politics/27690/vietnam-indonesia-emphasize-importance-of-peace-freedom-of-navigation-in-east-sea"
         },
-        "digitaltrends.com/2015/04/in-the-future-your-phone-could-use-electric-smart-pants-to": {
-            "title": "In the future, your phone could use electric smart pants to steer you around... - Digital Trends...",
-            "snippet": "Digital TrendsIn the future, your phone could use electric smart pants to steer you around...Digital TrendsRight now, we all look at a screen to use Google Maps, or any other navigation app when we're wandering around. Whether it's a phone, tablet,...",
-            "date": "2015-04-14",
-            "categories": "google,navigation",
-            "tags": "other,google,maps,future,navigation,whether",
-            "recuweb_url": "http://en.recuweb.com/navigation/digitaltrends.com/2015/04/in-the-future-your-phone-could-use-electric-smart-pants-to",
-            "resource_url": "http://news.google.com/?hl=en&q=navigation&output=atom&nord=1",
-            "source_url": "http://digitaltrends.com/wearables/cruise-control-for-pedestrians-wearable-pants-news/"
+        "english.cri.cn/2015/04/17th-beidou-navigation-satellite-functions-in-orbit": {
+            "title": "17th Beidou Navigation Satellite Functions in Orbit -...",
+            "snippet": "Beidou Navigation Satellite Functions in \"So far, our ground system has received the navigation signals sent from the satellite. It shows that the basic functions of the satellite are running properly. In the following two or three months, we will...",
+            "date": "2015-04-23",
+            "categories": "navigation",
+            "tags": "shows,functions,satellite,beidou,navigation,navigation_satellite,orbit,system",
+            "recuweb_url": "http://en.recuweb.com/navigation/english.cri.cn/2015/04/17th-beidou-navigation-satellite-functions-in-orbit",
+            "resource_url": "http://news.google.com/?hl=en&q=navigation%2Bnavigation&output=atom&nord=1",
+            "source_url": "http://english.cri.cn/12394/2015/04/24/2743s875733.htm"
         },
-        "bloomberg.com/2015/04/nokia-has-initiated-a-review-of-strategic-options-for-its-here": {
-            "title": "Nokia has initiated a review of strategic options for its HERE business...",
-            "snippet": "HERE is a leader in navigation, mapping and location intelligence. Nokia today also announced a proposed combination with Alcatel-Lucent. The Board of Directors of Nokia believes this is the right moment to assess the position of HERE within the...",
-            "date": "2015-04-14",
-            "categories": "business,navigation",
-            "tags": "position,navigation",
-            "recuweb_url": "http://en.recuweb.com/navigation/bloomberg.com/2015/04/nokia-has-initiated-a-review-of-strategic-options-for-its-here",
+        "china.org.cn/2015/04/17th-beidou-navigation-satellite-functions-in-orbit": {
+            "title": "17th Beidou navigation satellite functions in orbit...",
+            "snippet": "A new-generation satellite for China's global navigation and positioning network has entered its designed work orbit, the satellite's developer said on Thursday. This March 30 file photo shows a Long March-3C rocket carrying a satellite, the 17th...",
+            "date": "2015-04-23",
+            "categories": "navigation",
+            "tags": "rocket,satellite,shows,said,positioning,orbit,global,functions,beidou,navigation,china,thursday",
+            "recuweb_url": "http://en.recuweb.com/navigation/china.org.cn/2015/04/17th-beidou-navigation-satellite-functions-in-orbit",
             "resource_url": "http://www.bing.com/news/search?first=1&q=navigation&format=RSS&cc=us",
-            "source_url": "http://bloomberg.com/article/2015-04-15/aTSQP9EBsFZE.html"
+            "source_url": "http://china.org.cn/wap/2015-04/24/content_35406693.htm"
         },
-        "hindustantimes.com/2015/04/punjabi-among-15-more-languages-added-by-youtube-for-navigation-of": {
-            "title": "Punjabi among 15 more languages added by Youtube for navigation of site - Hindustan Times...",
-            "snippet": "Hindustan TimesPunjabi among 15 more languages added by Youtube for navigation of siteHindustan TimesVideo-sharing website Youtube has added 15 more languages, including Punjabi, for navigation of its website. According to, Google's video-sharing...",
-            "date": "2015-04-14",
-            "categories": "languages,navigation,google",
-            "tags": "navigation,google",
-            "recuweb_url": "http://en.recuweb.com/google/hindustantimes.com/2015/04/punjabi-among-15-more-languages-added-by-youtube-for-navigation-of",
+        "nydailynews.com/2015/04/fbi-tsa-alert-airlines-to-hackers-that-may-try-access-planes": {
+            "title": "FBI, TSA alert airlines to hackers that may try to access planes'navigation systems through Wi-Fi...",
+            "snippet": "The FBI and the TSA are warning airlines that hackers may be trying to access the planes'navigation systems through in-flight Wi-Fi. The FBI and Transportation Security Administration warned airlines this week to watch out for hackers who might try...",
+            "date": "2015-04-23",
+            "categories": "navigation",
+            "tags": "systems,navigation",
+            "recuweb_url": "http://en.recuweb.com/navigation/nydailynews.com/2015/04/fbi-tsa-alert-airlines-to-hackers-that-may-try-access-planes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=navigation&format=RSS&cc=us",
+            "source_url": "http://nydailynews.com/news/politics/fbi-tsa-alert-airlines-in-flight-wi-fi-hackers-article-1.2195408"
+        },
+        "theverge.com/2015/04/garmin-s-latest-navigation-device-has-a-built-in-dash-cam": {
+            "title": "Garmin's latest navigation device has a built-in dash cam - The Verge...",
+            "snippet": "CNETGarmin's latest navigation device has a built-in dash camThe VergeGarmin is known for its in-car navigation systems, but its latest GPS system may take the cake. The Garmin n\u00fcviCam LMTHD (fun name) has a built-in dash cam, which allows you to...",
+            "date": "2015-04-23",
+            "categories": "navigation",
+            "tags": "fun,garmin,navigation,car,systems,system,gps",
+            "recuweb_url": "http://en.recuweb.com/navigation/theverge.com/2015/04/garmin-s-latest-navigation-device-has-a-built-in-dash-cam",
+            "resource_url": "http://news.google.com/?hl=en&q=navigation%2Bnavigation&output=atom&nord=1",
+            "source_url": "http://theverge.com/2015/4/23/8484249/garmin-nuvicam-dash-cam"
+        },
+        "prnewswire.com/2015/04/kings-avionics-now-featuring-bundled-jeppesen-navigation-data-and-chart-pr": {
+            "title": "Kings Avionics Now Featuring Bundled Jeppesen Navigation Data And Chart... - PR Newswire (press...",
+            "snippet": "Kings Avionics Now Featuring Bundled Jeppesen Navigation Data And Chart...PR Newswire (press release)For more information on the industry-leading navigation, operations, training and optimization solutions provided by Jeppesen, please visit. For...",
+            "date": "2015-04-23",
+            "categories": "navigation",
+            "tags": "press,navigation",
+            "recuweb_url": "http://en.recuweb.com/navigation/prnewswire.com/2015/04/kings-avionics-now-featuring-bundled-jeppesen-navigation-data-and-chart-pr",
             "resource_url": "http://news.google.com/?hl=en&q=navigation&output=atom&nord=1",
-            "source_url": "http://hindustantimes.com/chandigarh/punjabi-among-15-more-languages-added-by-youtube-for-navigation-of-site/article1-1337128.aspx"
+            "source_url": "http://prnewswire.com/news-releases/kings-avionics-now-featuring-bundled-jeppesen-navigation-data-and-chart-services-300070954.html"
         }
     }
 }
