@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "brown-dwarfs",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/brown-dwarfs/",
@@ -10,33 +11,45 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/brown-dwarfs/brown-dwarfs/blogs.json"
     },
     "items": {
-        "beyondearthlyskies.blogspot.com/2015/04/beyond-earthly-skies-a-t-dwarf-binary-candidate": {
-            "title": "Beyond Earthly Skies: A T-Dwarf Binary Candidate...",
-            "snippet": "Identified as WISE J0612-3036, the binary system consists of a pair of T6 brown dwarfs. T-dwarfs and Y-dwarfs are among the coolest and least luminous brown dwarfs. Assuming WISE J0612-3036 is located 100 light-years...",
-            "date": "2015-04-14",
-            "author_name": "Koh Xuan Yang",
-            "tags": "pair,binary,dwarfs,beyond,beyond_earthly,beyond_earthly_skies,earthly,earthly_skies,skies,wise,system,brown,light,years",
-            "recuweb_url": "http://en.recuweb.com/beyondearthlyskies.blogspot.com/2015/04/beyond-earthly-skies-a-t-dwarf-binary-candidate",
+        "sfaa-astronomy.org/2015/03/lecture-17-march-brown-dwarfs-planetary-mass-objects": {
+            "title": "Lecture 17 March: Brown Dwarfs, Planetary Mass Objects, and their...",
+            "snippet": "Lecture 17 March: Brown Dwarfs, Planetary Mass Objects, and their Disks in the Nearest Star Forming Regions by Mary Barsony, Ph. D. San Francisco Amateur Astronomers.",
+            "date": "2015-03-17",
+            "author_name": "Michael Patrick",
+            "categories": "regions,brown-dwarfs",
+            "tags": "astronomers,nearest,star,mass,objects,brown,brown_dwarfs,dwarfs",
+            "recuweb_url": "http://en.recuweb.com/brown-dwarfs/sfaa-astronomy.org/2015/03/lecture-17-march-brown-dwarfs-planetary-mass-objects",
             "resource_url": "http://www.google.com/search?q=brown%2Bdwarfs%2Bbrown%2Bdwarfs&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://beyondearthlyskies.blogspot.com/2015/04/a-t-dwarf-binary-candidate.html"
+            "source_url": "http://sfaa-astronomy.org/lecture-17-march-2015-brown-dwarfs-planetary-mass-objects-and-their-disks-in-the-nearest-star-forming-regions-by-mary-barsony/"
         },
-        "beyondearthlyskies.blogspot.com/2015/02/beyond-earthly-skies-a-tight-pair-of-brown-dwarfs": {
-            "title": "Beyond Earthly Skies: A Tight Pair of Brown Dwarfs at the T/Y...",
-            "snippet": "WISE J0146 4234AB is a substellar binary consisting of a T9 brown dwarf and a slightly cooler Y0 brown dwarf in a tight orbit around one another. Brown dwarfs cool with time and more massive brown dwarfs cool more...",
-            "date": "2015-02-19",
-            "author_name": "Koh Xuan Yang",
-            "categories": "brown-dwarfs",
-            "tags": "massive,binary,brown,brown_dwarfs,dwarfs,dwarf,pair,beyond,beyond_earthly,beyond_earthly_skies,earthly,earthly_skies,skies,wise,substellar,around,cool",
-            "recuweb_url": "http://en.recuweb.com/brown-dwarfs/beyondearthlyskies.blogspot.com/2015/02/beyond-earthly-skies-a-tight-pair-of-brown-dwarfs",
-            "resource_url": "http://www.google.com/search?q=brown%2Bdwarfs&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://beyondearthlyskies.blogspot.com/2015/02/a-tight-pair-of-brown-dwarfs-at-ty.html"
+        "cnet.com/2015/02/new-planet-hunting-tool-chases-after-star-system-s-little-brown": {
+            "title": "New planet-hunting tool chases after star system's little brown dwarf...",
+            "snippet": "On Wednesday, the VLT made news for something it failed to spot -- namely, a brown dwarf star that was believed to have been orbiting a binary star system known as V471 Tauri, in the Taurus constellation. One of the two...",
+            "date": "2015-02-18",
+            "author_name": "Michael Franco",
+            "categories": "hunting",
+            "tags": "system,something,planet,star,brown,dwarf,failed",
+            "recuweb_url": "http://en.recuweb.com/hunting/cnet.com/2015/02/new-planet-hunting-tool-chases-after-star-system-s-little-brown",
+            "resource_url": "http://www.google.com/search?q=brown%2Bdwarfs%2Bbrown%2Bdwarfs&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://cnet.com/news/very-large-telescope-fails-to-find-star-systems-little-brown-dwarf/"
+        },
+        "leap2010blog.wordpress.com/2015/02/how-do-a-white-dwarf-and-brown-live-together-observations-of": {
+            "title": "How do a white dwarf and a brown dwarf live together? - Observations of an irradiated brown dwarf...",
+            "snippet": "Sarah Casewell (Uni. of Leicester) in collaboration, amongst others, with Paul Rimmer and Christiane Helling from the LEAP Group, recently published a paper in Monthly Notices of the []...",
+            "date": "2015-02-16",
+            "author_name": "gabicca",
+            "categories": "observation",
+            "tags": "group,live,dwarf,brown,observations",
+            "recuweb_url": "http://en.recuweb.com/observation/leap2010blog.wordpress.com/2015/02/how-do-a-white-dwarf-and-brown-live-together-observations-of",
+            "resource_url": "http://en.search.wordpress.com/?q=brown%2Bdwarfs%2Bbrown%2Bdwarfs&f=feed&page=1",
+            "source_url": "http://leap2010blog.wordpress.com/2015/02/16/how-do-a-white-dwarf-and-a-brown-dwarf-live-together-observations-of-an-irradiated-brown-dwarf/"
         },
         "reddit.com/2015/01/cgp-grey-said-that-brown-dwarf-stars-blur-the-line-between": {
             "title": "CGP Grey said that Brown Dwarf Stars \"blur the line\" between what a planet is, and a star. What...",
             "snippet": "Are there other oddities in the universe that make the difference between certain stars and planets hard to define? What is the difference between extremely cool gas giants, and extremely cool stars? submitted by randoliof to askscience link 21...",
             "date": "2015-01-31",
             "categories": "stars,planets",
-            "tags": "gas,between,brown,brown_dwarf,dwarf,stars,star,planets,other,cool",
+            "tags": "difference,other,brown,brown_dwarf,brown_dwarf_stars,dwarf,dwarf_stars,stars,star,between,planets,universe,cool,gas",
             "recuweb_url": "http://en.recuweb.com/planets/reddit.com/2015/01/cgp-grey-said-that-brown-dwarf-stars-blur-the-line-between",
             "resource_url": "http://www.reddit.com/search.rss?q=brown%2Bdwarfs%2Bbrown%2Bdwarfs&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/askscience/comments/2ubzj0/cgp_grey_said_that_brown_dwarf_stars_blur_the/"
@@ -47,7 +60,7 @@
             "date": "2014-12-03",
             "author_name": "Sarah Scoles",
             "categories": "brown-dwarfs,astronomy",
-            "tags": "brown,dwarfs,dwarf,years,astronomy,instead,failed,star,only",
+            "tags": "brown,dwarfs,dwarf,back,astronomy,instead,failed,star,only",
             "recuweb_url": "http://en.recuweb.com/astronomy/cs.astronomy.com/2014/12/looking-back-with-50-years-of-brown-dwarfs-astronomy",
             "resource_url": "http://www.google.com/search?q=brown%2Bdwarfs&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://cs.astronomy.com/asy/b/astronomy/archive/2014/12/03/50-years-of-brown-dwarfs.aspx"
@@ -58,21 +71,10 @@
             "date": "2014-11-22",
             "author_name": "greg",
             "categories": "drifting,brown-dwarfs",
-            "tags": "light,might,brown,brown_dwarfs,dwarfs,failed,star,years",
+            "tags": "light,something,way,brown,brown_dwarfs,dwarfs,failed,star",
             "recuweb_url": "http://en.recuweb.com/brown-dwarfs/oklo.org/2014/11/systemic-brown-dwarfs",
             "resource_url": "http://www.google.com/search?q=brown%2Bdwarfs%2Bbrown%2Bdwarfs&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://oklo.org/2014/11/22/brown-dwarfs/"
-        },
-        "astrobites.org/2014/10/cold-brown-dwarfs-astrobites": {
-            "title": "Cold Brown Dwarfs astrobites...",
-            "snippet": "Title: The Luminosities of the Coldest Brown Dwarfs Authors: C. G. Tinney, Jacqueline K. Faherty, J. Davy Kirkpatrick, Mike Cushing, Caroline V. Morley, and Edward L. Wright First Author's Institution: UNSW, Australia...",
-            "date": "2014-10-10",
-            "author_name": "Korey Haynes",
-            "categories": "brown-dwarfs",
-            "tags": "first,cushing,coldest,coldest_brown,brown,brown_dwarfs,dwarfs,cold,luminosities",
-            "recuweb_url": "http://en.recuweb.com/brown-dwarfs/astrobites.org/2014/10/cold-brown-dwarfs-astrobites",
-            "resource_url": "http://www.google.com/search?q=brown%2Bdwarfs%2Bbrown%2Bdwarfs&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://astrobites.org/2014/10/10/cold-brown-dwarfs/"
         },
         "arxiver.wordpress.com/2014/06/kinematics-and-luminosities-of-brown-dwarfs-with-the-bdnyc-group-ssa": {
             "title": "Kinematics and Luminosities of Brown Dwarfs with the BDNYC group SSA...",
@@ -80,7 +82,7 @@
             "date": "2014-06-11",
             "author_name": "arxiver",
             "categories": "brown-dwarfs",
-            "tags": "brown,brown_dwarfs,dwarfs,luminosities,survey",
+            "tags": "brown,brown_dwarfs,dwarfs,group,survey",
             "recuweb_url": "http://en.recuweb.com/brown-dwarfs/arxiver.wordpress.com/2014/06/kinematics-and-luminosities-of-brown-dwarfs-with-the-bdnyc-group-ssa",
             "resource_url": "http://en.search.wordpress.com/?q=brown%2Bdwarfs%2Bbrown%2Bdwarfs&f=feed&page=1",
             "source_url": "http://arxiver.wordpress.com/2014/06/11/kinematics-and-luminosities-of-brown-dwarfs-with-the-bdnyc-group-ssa/"
@@ -89,7 +91,7 @@
             "title": "A newly discovered nearby brown dwarf star appears to be the coldest of its kind, it is as cold as...",
             "snippet": "A newly discovered nearby brown dwarf star appears to be the coldest of its kind, it is as cold as...",
             "date": "2014-04-27",
-            "tags": "appears,coldest,kind,discovered,nearby,brown,dwarf,star,cold",
+            "tags": "cold,appears,coldest,kind,discovered,brown,dwarf,star",
             "recuweb_url": "http://en.recuweb.com/reddit.com/2014/04/a-newly-discovered-nearby-brown-dwarf-star-appears-to",
             "resource_url": "http://www.reddit.com/search.rss?q=brown%2Bdwarfs%2Bbrown%2Bdwarfs&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/science/comments/2440i4/a_newly_discovered_nearby_brown_dwarf_star/"
@@ -100,7 +102,7 @@
             "date": "2014-04-26",
             "author_name": "Nita Jain",
             "categories": "university,sun",
-            "tags": "north,north_pole,pole,appears,coldest,kind,kevin,kevin_luhman,luhman,penn,penn_state,penn_state_university,state,state_university,university,brown,brown_dwarf,brown_dwarf_star,dwarf,dwarf_star,dwarf_star_discovered,star,star_discovered,discovered,sun,astronomer,cold,using,nasa",
+            "tags": "north,north_pole,pole,cold,appears,coldest,kind,luhman,penn,penn_state,penn_state_university,state,state_university,university,brown,brown_dwarf,brown_dwarf_star,dwarf,dwarf_star,dwarf_star_discovered,star,star_discovered,discovered,sun,astronomer,using,nasa",
             "recuweb_url": "http://en.recuweb.com/sun/nitajain8.wordpress.com/2014/04/coldest-known-brown-dwarf-star-discovered-near-our-sun",
             "resource_url": "http://en.search.wordpress.com/?q=brown%2Bdwarfs%2Bbrown%2Bdwarfs&f=feed&page=1",
             "source_url": "http://nitajain8.wordpress.com/2014/04/25/coldest-known-brown-dwarf-star-discovered-near-our-sun/"
