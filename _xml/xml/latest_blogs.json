@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "xml",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/xml/",
@@ -10,49 +11,71 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/xml/xml/blogs.json"
     },
     "items": {
-        "stackoverflow.com/2015/04/why-is-loop-of-xml-file-in-java-not-displaying": {
-            "title": "Why is loop of XML file in Java not displaying all nodes/children...",
-            "snippet": "I have a static Java function which is supposed to loop through all the children/nodes of a XML file. Unfortunately, it's not going further than the 1st level. How can I display all nodes, including those deep-level nested? Here is...",
-            "date": "2015-04-16",
-            "author_name": "user3621633",
-            "categories": "xml,java",
-            "tags": "nodes,why,xml,file,java,here",
-            "recuweb_url": "http://en.recuweb.com/java/stackoverflow.com/2015/04/why-is-loop-of-xml-file-in-java-not-displaying",
-            "resource_url": "http://www.google.com/search?q=xml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://stackoverflow.com/questions/29682144/why-is-loop-of-xml-file-in-java-not-displaying-all-nodes-children"
-        },
-        "stackoverflow.com/2015/04/c-read-xml-to-arraylist-stack-overflow": {
-            "title": "c - Read xml to arrayList - Stack Overflow...",
-            "snippet": "Customer List Class - public class CustomerList public ListCustomer customers get; set;. Customer Class - Serializable public class Customer public string Name get; set; public string Surname get; set; public string...",
-            "date": "2015-04-16",
-            "author_name": "user3075152",
-            "categories": "xml",
-            "tags": "customer,stack,stack_overflow,overflow,xml",
-            "recuweb_url": "http://en.recuweb.com/xml/stackoverflow.com/2015/04/c-read-xml-to-arraylist-stack-overflow",
+        "javacodegeeks.com/2015/04/jax-rs-2-x-vs-spring-mvc-returning-an-xml-representation": {
+            "title": "JAX-RS 2.x vs Spring MVC: Returning an XML representation of a...",
+            "snippet": "JSON is King as it goes to all kinds of REST APIs, but still you may need to expose multiple representations, including XML. With both JAX-RS and Spring MVC this is very simple. Actually, the only thing to do is to annotate...",
+            "date": "2015-04-24",
+            "author_name": "unknown",
+            "categories": "xml,json",
+            "tags": "only,thing,simple,apis,xml,json",
+            "recuweb_url": "http://en.recuweb.com/json/javacodegeeks.com/2015/04/jax-rs-2-x-vs-spring-mvc-returning-an-xml-representation",
             "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://stackoverflow.com/questions/29668394/read-xml-to-arraylist"
+            "source_url": "http://javacodegeeks.com/2015/04/jax-rs-2-x-vs-spring-mvc-returning-an-xml-representation-of-a-list-of-objects.html"
         },
-        "stackoverflow.com/2015/04/absolute-path-with-xml-parser-in-java-stack-overflow": {
-            "title": "Absolute path with XML parser in java - Stack Overflow...",
-            "snippet": "Well you can't because as you mentioned, getSystemResourceAsStream only searches the classpath. You may have to so something like this. Document document=null; if ((designPath)!",
-            "date": "2015-04-15",
-            "author_name": "mohsaied",
-            "categories": "java,xml",
-            "tags": "only,because,mentioned,stack,stack_overflow,overflow,java,xml,document",
-            "recuweb_url": "http://en.recuweb.com/xml/stackoverflow.com/2015/04/absolute-path-with-xml-parser-in-java-stack-overflow",
-            "resource_url": "http://www.google.com/search?q=xml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://stackoverflow.com/questions/29659947/absolute-path-with-xml-parser-in-java"
-        },
-        "cookbooks.ca.com/2015/04/how-to-use-the-xpath-xml-parameter-in-nsql-constructs-ca": {
-            "title": "How to Use the XPATH XML Parameter in NSQL Constructs CA...",
-            "snippet": "The application may have seeded, system-restricted lookups that contain XPATH XML constructs, but the use of these lookups are restricted and controlled by the application. Originally published as CA Support knowledge...",
-            "date": "2015-04-09",
-            "author_name": "Damon (CA Technologies)",
+        "theprovingground.org/2015/04/the-proving-ground-by-nathan-miller-integrating-xml-with-dynamo": {
+            "title": "The Proving Ground by Nathan Miller: Integrating XML with Dynamo...",
+            "snippet": "In the latest released of LunchBox for Dynamo, I have included new XML nodes that allow exporting and parsing. Dynamo data can be serialized and saved to XML with the help of the new DataSet nodes included in Dynamo.",
+            "date": "2015-04-24",
+            "author_name": "Nathan Miller",
             "categories": "xml",
-            "tags": "application,xml",
-            "recuweb_url": "http://en.recuweb.com/xml/cookbooks.ca.com/2015/04/how-to-use-the-xpath-xml-parameter-in-nsql-constructs-ca",
+            "tags": "nodes,xml,data,help",
+            "recuweb_url": "http://en.recuweb.com/xml/theprovingground.org/2015/04/the-proving-ground-by-nathan-miller-integrating-xml-with-dynamo",
             "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://cookbooks.ca.com/cacppm/2015/04/09/how-to-use-the-xpath-xml-parameter-in-nsql-constructs/"
+            "source_url": "http://theprovingground.org/2015/04/integrating-xml-with-dynamo-via-lunchbox.html"
+        },
+        "community.dynamics.com/2015/04/xrmservicetoolkit-doesn-t-work-with-retrieving-record-from-xml-on": {
+            "title": "XRMServicetoolkit doesn't work with retrieving record from XML on...",
+            "snippet": "Hi,. I were using XRMServicetookit as var tileData=(fetchxml); where fetchxml parameter contains the xml from advance find. This particuler piece of code were working with simple xml where...",
+            "date": "2015-04-23",
+            "author_name": "Abhishek Gupta",
+            "categories": "xml",
+            "tags": "code,simple,find,work,xml,using",
+            "recuweb_url": "http://en.recuweb.com/xml/community.dynamics.com/2015/04/xrmservicetoolkit-doesn-t-work-with-retrieving-record-from-xml-on",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://community.dynamics.com/crm/f/117/t/158728"
+        },
+        "stackoverflow.com/2015/04/advice-on-android-setlistadapter-and-combining-two-xml-layout": {
+            "title": "Advice on android setlistadapter and combining two.xml layout...",
+            "snippet": "You don't need to merge list_item1 and resultList2 layouts for whatever you are trying to of extending ListActivity or ListFragment, use ordinary activity and setContentView with a layout that has two listviews in its xml...",
+            "date": "2015-04-21",
+            "author_name": "Aroma88",
+            "categories": "xml",
+            "tags": "android,xml",
+            "recuweb_url": "http://en.recuweb.com/xml/stackoverflow.com/2015/04/advice-on-android-setlistadapter-and-combining-two-xml-layout",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/29778640/advice-on-android-setlistadapter-and-combining-two-xml-layout"
+        },
+        "blog.rstudio.org/2015/04/parse-and-process-xml-html-with-xml2-rstudio-blog": {
+            "title": "Parse and process XML (and HTML) with xml2 RStudio Blog...",
+            "snippet": "I'm pleased to announced that the first version of xml2 is now available on CRAN. Xml2 is a wrapper around the comprehensive libxml2 C library that makes it easier to work with XML and HTML in R: Read XML and HTML...",
+            "date": "2015-04-21",
+            "author_name": "hadleywickham",
+            "categories": "xml,html",
+            "tags": "library,work,available,version,parse,xml",
+            "recuweb_url": "http://en.recuweb.com/html/blog.rstudio.org/2015/04/parse-and-process-xml-html-with-xml2-rstudio-blog",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.rstudio.org/2015/04/21/xml2/"
+        },
+        "datacenterknowledge.com/2015/04/data-center-layout-visualization-with-xml-and-xslt": {
+            "title": "Data Center Layout Visualization With XML and XSLT Data Center...",
+            "snippet": "After evaluating some alternatives, it seems that XML may be the best choice for describing the model for a data center layout. XML, as we know, is a text file with syntax and has become the standard in many descriptions of...",
+            "date": "2015-04-07",
+            "author_name": "Industry Perspectives",
+            "categories": "syntax,xml",
+            "tags": "standard,text,data,xml,file",
+            "recuweb_url": "http://en.recuweb.com/xml/datacenterknowledge.com/2015/04/data-center-layout-visualization-with-xml-and-xslt",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://datacenterknowledge.com/archives/2015/04/07/data-center-layout-visualization-xml-xslt/"
         },
         "apswpa.blogspot.com/2015/04/exercise-set-on-xml": {
             "title": "Exercise set on XML...",
@@ -60,19 +83,30 @@
             "date": "2015-04-03",
             "author_name": "(mlc)",
             "categories": "xml",
-            "tags": "xml",
+            "tags": "code,xml,available,validation",
             "recuweb_url": "http://en.recuweb.com/xml/apswpa.blogspot.com/2015/04/exercise-set-on-xml",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=xml%2Bxml&rss=1&lng=en",
             "source_url": "http://apswpa.blogspot.com/2015/04/exercise-set-on-xml.html"
+        },
+        "evertpot.com/2015/04/an-xml-library-for-php-you-may-not-hate": {
+            "title": "An XML library for PHP you may not hate.",
+            "snippet": "If you are a PHP programmer, chances are that you will need to write and parse XML from time to time. You may even consider this a good thing. Chances are though that dealing with XML has caused you to flock to JSON.",
+            "date": "2015-04-01",
+            "author_name": "Evert Pot",
+            "categories": "xml,php,json",
+            "tags": "caused,thing,parse,library,xml,json",
+            "recuweb_url": "http://en.recuweb.com/json/evertpot.com/2015/04/an-xml-library-for-php-you-may-not-hate",
+            "resource_url": "http://www.google.com/search?q=xml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://evertpot.com/an-xml-library-you-may-not-hate/"
         },
         "qillknows.wordpress.com/2015/04/semantic-web-uri-xml-and-schema": {
             "title": "Semantic Web: URI XML and XML Schema...",
             "snippet": "The idea behind Semantic Web technology appeared when Berners-Lee, Hendler, & Lassila (2001) mentioned it in their paper, The semantic Web in 2001. The basic idea of Semantic Web is to present information that can be understood not only by human,...",
             "date": "2015-04-01",
             "author_name": "qill",
-            "categories": "technology,xml",
-            "tags": "only,mentioned,technology,behind,xml,schema",
-            "recuweb_url": "http://en.recuweb.com/xml/qillknows.wordpress.com/2015/04/semantic-web-uri-xml-and-schema",
+            "categories": "xml,technology",
+            "tags": "only,xml,technology",
+            "recuweb_url": "http://en.recuweb.com/technology/qillknows.wordpress.com/2015/04/semantic-web-uri-xml-and-schema",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=xml%2Bxml&rss=1&lng=en",
             "source_url": "http://qillknows.wordpress.com/2015/04/01/semantic-web-uri-xml-and-xml-schema-2/"
         },
@@ -82,43 +116,10 @@
             "date": "2015-03-31",
             "author_name": "B2F",
             "categories": "xml",
-            "tags": "provided,module,http,gene,xml,sitemap,files",
+            "tags": "xml,files",
             "recuweb_url": "http://en.recuweb.com/xml/drupal.org/2015/03/xml-sitemap-http-cache",
             "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://drupal.org/project/xhc"
-        },
-        "programmers.stackexchange.com/2015/03/why-is-xml-type-safe-programmers-stack-exchange": {
-            "title": "Why is XML type safe? - Programmers Stack Exchange...",
-            "snippet": "Why do they say that XML provides type safety and how is it expressed in the XML itself? How is it different from JSON (for example) which (as I understand) is not type safe?... Because of the XML Schema Definition (XSD).",
-            "date": "2015-03-28",
-            "author_name": "user3339411",
-            "categories": "xml,json",
-            "tags": "type,safe,example,stack,exchange,why,xml,json,because,schema",
-            "recuweb_url": "http://en.recuweb.com/json/programmers.stackexchange.com/2015/03/why-is-xml-type-safe-programmers-stack-exchange",
-            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://programmers.stackexchange.com/questions/277620/why-is-xml-type-safe"
-        },
-        "blog.didierstevens.com/2015/03/oledump-and-xml-with-embedded-ole-object-didier-stevens": {
-            "title": "oledump And XML With Embedded OLE Object Didier Stevens...",
-            "snippet": "I updated oledump to handle a new type of malicious document: an XML file, not with VBA macros, but with an embedded OLE object that is a VBS file. And the man page is finished. Run -m to view the man page.",
-            "date": "2015-03-27",
-            "author_name": "Didier Stevens",
-            "categories": "xml",
-            "tags": "updated,type,document,xml,file",
-            "recuweb_url": "http://en.recuweb.com/xml/blog.didierstevens.com/2015/03/oledump-and-xml-with-embedded-ole-object-didier-stevens",
-            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.didierstevens.com/2015/03/27/oledump-and-xml-with-embedded-ole-object/"
-        },
-        "drupal.org/2015/03/multi-domain-xml-sitemap": {
-            "title": "Multi-domain XML Sitemap...",
-            "snippet": "This is a simple module that builds on top of XML Sitemap module (v2.0). It allows generating for multiple domains that point to the same Drupal site. For example, you might have,,...",
-            "date": "2015-03-26",
-            "author_name": "danithaca",
-            "categories": "xml,drupal",
-            "tags": "multiple,gene,module,xml,sitemap,example",
-            "recuweb_url": "http://en.recuweb.com/drupal/drupal.org/2015/03/multi-domain-xml-sitemap",
-            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://drupal.org/project/xmlsitemap_domain"
         }
     }
 }
