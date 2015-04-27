@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "wind-power",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/wind-power/",
@@ -10,102 +11,101 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/wind-power/wind-power/blogs.json"
     },
     "items": {
-        "solarplaza.com/2015/04/2015-deep-market-research-report-on-global-wind-power-converter-industry": {
-            "title": "2015 Deep Market Research Report on Global Wind Power Converter Industry...",
-            "snippet": "2015 Market Research Report on Global Wind Power Converter Industry is a professional and depth research report on Global Wind Power Converter industry. For overview analysis, the report introduces Wind Power Converter basic information including...",
-            "date": "2015-04-20",
+        "windpowermonthly.com/2015/04/amsc-sinovel-case-given-court-date-windpower-monthly-subscription": {
+            "title": "AMSC-Sinovel case given court date - Windpower Monthly (subscription)...",
+            "snippet": "Windpower Monthly (subscription)AMSC-Sinovel case given court dateWindpower Monthly (subscription)AMSC first filed the complaint in September 2011, after it accused Sinovel of illegally using AMSC's turbine control software code in its turbines. The...",
+            "date": "2015-04-24",
+            "tags": "turbine,turbines,using,monthly,windpower,windpower_monthly,subscription",
+            "recuweb_url": "http://en.recuweb.com/windpowermonthly.com/2015/04/amsc-sinovel-case-given-court-date-windpower-monthly-subscription",
+            "resource_url": "http://news.google.com/?hl=en&q=wind%2Bpower&output=atom&nord=1",
+            "source_url": "http://windpowermonthly.com/article/1344412/amsc-sinovel-case-given-court-date"
+        },
+        "hibbingmn.com/2015/04/allete-wind-power-portfolio-expanded": {
+            "title": "Allete wind power portfolio expanded...",
+            "snippet": "DULUTH ALLETE Clean Energy, the parent company of Minnesota Power, continues to expand its renewable holdings with an additional 437 megawatts purchased recently. The company has acquired a combined 97.5 megawatt wind generation facility near...",
+            "date": "2015-04-24",
+            "tags": "facility,near,acquired,megawatt,renewable,minnesota,power,energy,wind",
+            "recuweb_url": "http://en.recuweb.com/hibbingmn.com/2015/04/allete-wind-power-portfolio-expanded",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wind%2Bpower&format=RSS&cc=us",
+            "source_url": "http://hibbingmn.com/news/local/allete-wind-power-portfolio-expanded/article_844dba10-ea29-11e4-aa11-bbf158bfc121.html"
+        },
+        "nbc29.com/2015/04/dominion-delaying-offshore-wind-power-project": {
+            "title": "Dominion Delaying Offshore Wind Power Project...",
+            "snippet": "RICHMOND, Va (WVIR) - Efforts to bring offshore wind energy to the commonwealth had a set-back Thursday. Dominion Virginia Power announced its pilot project to put two wind turbines off the coast are on hold due to cost issues. Representatives...",
+            "date": "2015-04-24",
             "categories": "wind-power",
-            "tags": "wind,wind_power,power,research,market,industry,analysis",
-            "recuweb_url": "http://en.recuweb.com/wind-power/solarplaza.com/2015/04/2015-deep-market-research-report-on-global-wind-power-converter-industry",
+            "tags": "turbines,off,announced,project,power,energy,wind,wind_power",
+            "recuweb_url": "http://en.recuweb.com/wind-power/nbc29.com/2015/04/dominion-delaying-offshore-wind-power-project",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wind%2Bpower&format=RSS&cc=us",
-            "source_url": "http://solarplaza.com/pressrelease/2015-deep-market-research-report-on-global-wind-po"
+            "source_url": "http://nbc29.com/story/28884770/dominion-delaying-offshore-wind-power-project"
         },
-        "cleantechnica.com/2015/04/6-000-people-employed-by-iowa-wind-industry-in-2014": {
-            "title": "6,000 People Employed By Iowa Wind Industry In 2014...",
-            "snippet": "Research, design, engineering and manufacturing wind power technology are obviously required too. Wind power workers also need training, and that activity employs some as well. Another consideration that is overlooked typically is the fact that...",
-            "date": "2015-04-20",
-            "categories": "technology,engineering",
-            "tags": "well,wind,industry,research,power",
-            "recuweb_url": "http://en.recuweb.com/engineering/cleantechnica.com/2015/04/6-000-people-employed-by-iowa-wind-industry-in-2014",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wind%2Bpower&format=RSS&cc=us",
-            "source_url": "http://cleantechnica.com/2015/04/20/6000-people-employed-iowa-wind-industry-2014/"
-        },
-        "windpowermonthly.com/2015/04/analysis-enercon-plans-62gw-by-2020-windpower-monthly-subscription": {
-            "title": "Analysis: Enercon plans 62GW by 2020 - Windpower Monthly (subscription)...",
-            "snippet": "Windpower Monthly (subscription)Analysis: Enercon plans 62GW by 2020Windpower Monthly (subscription)For Germany, Enercon predicts a strong onshore market in 2015 and 2016 before the planned introduction of an auctioning procedure puts a damper on...",
-            "date": "2015-04-20",
-            "tags": "before,market,windpower,windpower_monthly,monthly,analysis,subscription",
-            "recuweb_url": "http://en.recuweb.com/windpowermonthly.com/2015/04/analysis-enercon-plans-62gw-by-2020-windpower-monthly-subscription",
+        "windpowermonthly.com/2015/04/gallery-inside-alstom-s-saint-nazaire-facility-windpower-monthly-subscription": {
+            "title": "Gallery: Inside Alstom's Saint Nazaire facility - Windpower Monthly (subscription)...",
+            "snippet": "Windpower Monthly (subscription)Gallery: Inside Alstom's Saint Nazaire facilityWindpower Monthly (subscription)The first five turbines are set to be used at Deepwater Wind's 30MW Block Island project in the US. Developer EDF-EN has also contracted...",
+            "date": "2015-04-24",
+            "tags": "developer,project,wind,turbines,monthly,windpower,windpower_monthly,facility,subscription",
+            "recuweb_url": "http://en.recuweb.com/windpowermonthly.com/2015/04/gallery-inside-alstom-s-saint-nazaire-facility-windpower-monthly-subscription",
             "resource_url": "http://news.google.com/?hl=en&q=wind%2Bpower%2Bwind%2Bpower&output=atom&nord=1",
-            "source_url": "http://windpowermonthly.com/article/1343245/analysis-enercon-plans-62gw-2020"
+            "source_url": "http://windpowermonthly.com/article/1344343/gallery-inside-alstoms-saint-nazaire-facility"
         },
-        "blogs.seattletimes.com/2015/04/celebrate-earth-day-every-with-eco-friendly-beauty-fashion-and-fun": {
-            "title": "Celebrate Earth Day every day with eco-friendly beauty, fashion and fun...",
-            "snippet": "The company uses solar and wind power at its facilities, and its new spring collection is entirely free of carmine, a red coloring made from beetles. At the end of the day, take it all off with The Gnarly Whale Natural Makeup Remover (8 at thegnarly...",
-            "date": "2015-04-20",
-            "categories": "earth",
-            "tags": "natural,company,earth,wind,power",
-            "recuweb_url": "http://en.recuweb.com/earth/blogs.seattletimes.com/2015/04/celebrate-earth-day-every-with-eco-friendly-beauty-fashion-and-fun",
+        "cleantechnica.com/2015/04/how-does-solar-take-cars-off-the-road": {
+            "title": "How Does Solar Take Cars off the Road?",
+            "snippet": "We know that Iowa now provides 27% of its electricity from wind. So Iowa in a sense is supplying everything that runs on electricity in the state with wind power for just over a quarter of every year, right? So, you could say: Iowa gets 27% of...",
+            "date": "2015-04-24",
+            "tags": "quarter,electricity,off,solar,cars,road,iowa,provides,wind,power",
+            "recuweb_url": "http://en.recuweb.com/cleantechnica.com/2015/04/how-does-solar-take-cars-off-the-road",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wind%2Bpower&format=RSS&cc=us",
-            "source_url": "http://blogs.seattletimes.com/market/2015/04/20/celebrate-earth-day-every-day-with-eco-friendly-beauty-fashion-and-fun/"
+            "source_url": "http://cleantechnica.com/2015/04/24/solar-take-cars-off-road/"
         },
-        "nawindpower.com/2015/04/edf-renewable-energy-dedicates-hereford-wind-with-blackrock-infrastructure": {
-            "title": "EDF Renewable Energy Dedicates Hereford Wind With BlackRock Infrastructure...",
-            "snippet": "The Hereford Wind project represents EDF RE's confidence in the next wave of wind power's growth and construction in the state and increased investment in Deaf Smith County. EDF RE presented the Deaf Smith County Crisis Center with a 2,500 donation...",
-            "date": "2015-04-20",
-            "categories": "construction,renewable-energy",
-            "tags": "state,project,hereford,wind,edf,edf_renewable,edf_renewable_energy,renewable,renewable_energy,energy,blackrock,blackrock_infrastructure,infrastructure,power",
-            "recuweb_url": "http://en.recuweb.com/renewable-energy/nawindpower.com/2015/04/edf-renewable-energy-dedicates-hereford-wind-with-blackrock-infrastructure",
+        "agriculture.com/2015/04/opportunities-abound-for-farmers-as-temps-rise-climate-change-evangelist": {
+            "title": "Opportunities Abound for Farmers as Temps Rise -- Climate Change Evangelist...",
+            "snippet": "A Gallup Poll survey shows that 75% of Americans support funding research in renewable energy. Wind power is producing 30% of Iowa electricity, she said. Thats like taking 1.7 million cars off the road. Wind is replacing coal. Hayhoe said...",
+            "date": "2015-04-24",
+            "categories": "renewable-energy,climate-change",
+            "tags": "cars,off,road,taking,funding,renewable,renewable-energy,energy,climate,change,wind,power,iowa,electricity",
+            "recuweb_url": "http://en.recuweb.com/climate-change/agriculture.com/2015/04/opportunities-abound-for-farmers-as-temps-rise-climate-change-evangelist",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wind%2Bpower&format=RSS&cc=us",
-            "source_url": "http://nawindpower.com/naw/e107_plugins/content/content.php?content.14137"
+            "source_url": "http://agriculture.com/news/policy/opptunities-abound-f-farmers-as-temps_4-ar48472"
         },
-        "elp.com/2015/04/edf-renewable-energy-opens-200-mw-wind-power-project": {
-            "title": "EDF Renewable Energy opens 200 MW wind power project...",
-            "snippet": "EDF Renewable Energy and partner BlackRock Infrastructure opened the 200 MW Hereford Wind project. State and local representatives joined EDF RE and BlackRock Infrastructure to recognize the supportive community and benefits of wind to the region.",
-            "date": "2015-04-20",
-            "categories": "renewable-energy",
-            "tags": "hereford,wind,project,blackrock,blackrock_infrastructure,infrastructure,edf,edf_renewable,edf_renewable_energy,renewable,renewable_energy,energy,power,state",
-            "recuweb_url": "http://en.recuweb.com/renewable-energy/elp.com/2015/04/edf-renewable-energy-opens-200-mw-wind-power-project",
+        "evwind.es/2015/04/renewables-wind-power-and-solar-energy-75%-of-new-us-capacity": {
+            "title": "Renewables, wind power and solar energy, 75% of new US capacity Q1...",
+            "snippet": "A combination of wind energy, solar power, geothermal energy and hydropower together provided over per cent of the 1,229MW of new generating capacity placed into service during the first quarter of 2015, according to FERC. The balance (302MW) was...",
+            "date": "2015-04-24",
+            "categories": "geothermal-energy,hydropower,solar-energy",
+            "tags": "quarter,energy,solar,solar-energy,renewables,wind,power,into",
+            "recuweb_url": "http://en.recuweb.com/solar-energy/evwind.es/2015/04/renewables-wind-power-and-solar-energy-75%-of-new-us-capacity",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wind%2Bpower&format=RSS&cc=us",
-            "source_url": "http://elp.com/articles/2015/04/edf-renewable-energy-opens-200-mw-wind-power-project.html"
+            "source_url": "http://evwind.es/2015/04/24/renewables-wind-power-and-solar-energy-75-of-new-us-capacity-q1/51698"
         },
-        "bizjournals.com/2015/04/mohawk-named-top-green-power-user-by-epa": {
-            "title": "Mohawk named top 'green power'user by EPA...",
-            "snippet": "Thomas O'Connor Jr., chairman and CEO, has previously spoken about the company's commitment to the environment, saying that Mohawk used wind power for two years before advertising that to customers. We bought wind power because it was the right...",
-            "date": "2015-04-20",
-            "categories": "environment",
-            "tags": "before,saying,company,top,green,power,wind",
-            "recuweb_url": "http://en.recuweb.com/environment/bizjournals.com/2015/04/mohawk-named-top-green-power-user-by-epa",
+        "pennenergy.com/2015/04/sempra-acquires-78-mw-minnesota-wind-power-project": {
+            "title": "Sempra acquires 78 MW Minnesota wind power project...",
+            "snippet": "Sempra U.S. Gas & Power announced it has acquired the Black Oak Getty wind power project in Minnesota from Geronimo Energy, LLC, a utility-scale wind and solar energy developer. When the 78-megawatt (MW) Black Oak Getty is completed, Sempra U.S.",
+            "date": "2015-04-24",
+            "categories": "solar-energy",
+            "tags": "solar,solar-energy,energy,developer,project,announced,acquired,minnesota,wind,power,megawatt",
+            "recuweb_url": "http://en.recuweb.com/solar-energy/pennenergy.com/2015/04/sempra-acquires-78-mw-minnesota-wind-power-project",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wind%2Bpower&format=RSS&cc=us",
-            "source_url": "http://bizjournals.com/albany/news/2015/04/20/mohawk-named-top-green-power-user-by-epa.html"
+            "source_url": "http://pennenergy.com/articles/pennenergy/2015/04/sempra-acquires-78-mw-minnesota-wind-power-project.html"
         },
-        "windpowermonthly.com/2015/04/nordex-wins-100mwmw-deal-in-pakistan-windpower-monthly-subscription": {
-            "title": "Nordex wins 100MWMW deal in Pakistan. - Windpower Monthly (subscription)...",
-            "snippet": "Windpower Monthly (subscription)Nordex wins 100MWMW deal in Monthly (subscription)The contract is for N100/2500 low wind turbines to go to the two wind project near Sindh province. According to Nordex the projects will be commissioned in summer...",
-            "date": "2015-04-20",
-            "tags": "project,windpower,windpower_monthly,monthly,subscription,wind",
-            "recuweb_url": "http://en.recuweb.com/windpowermonthly.com/2015/04/nordex-wins-100mwmw-deal-in-pakistan-windpower-monthly-subscription",
+        "bbc.co.uk/2015/04/wind-power-firm-urbanwind-in-30m-funding-deal": {
+            "title": "Wind power firm UrbanWind in 30m funding deal...",
+            "snippet": "Glasgow-based renewable energy firm UrbanWind has announced plans to develop wind turbine schemes across the UK after signing a 30m funding deal with a private equity firm. Zouk Capital will provide finance for smaller schemes which have won...",
+            "date": "2015-04-24",
+            "categories": "finance,renewable-energy",
+            "tags": "funding,turbine,announced,renewable,renewable-energy,energy,wind,power",
+            "recuweb_url": "http://en.recuweb.com/renewable-energy/bbc.co.uk/2015/04/wind-power-firm-urbanwind-in-30m-funding-deal",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wind%2Bpower&format=RSS&cc=us",
+            "source_url": "http://bbc.co.uk/news/uk-scotland-scotland-business-32448241"
+        },
+        "columbian.com/2015/04/apple-draws-on-wind-power-big-time-but-touts-hydro-project": {
+            "title": "Apple draws on wind power big time, but touts hydro project - The Columbian...",
+            "snippet": "Apple draws on wind power big time, but touts hydro projectThe ColumbianApple says it's relying on wind energy for nearly all the rest. Like other big tech companies, Apple says it's committed to fighting climate change by reducing its carbon...",
+            "date": "2015-04-23",
+            "categories": "climate-change",
+            "tags": "climate,change,energy,project,wind,power",
+            "recuweb_url": "http://en.recuweb.com/climate-change/columbian.com/2015/04/apple-draws-on-wind-power-big-time-but-touts-hydro-project",
             "resource_url": "http://news.google.com/?hl=en&q=wind%2Bpower%2Bwind%2Bpower&output=atom&nord=1",
-            "source_url": "http://windpowermonthly.com/article/1343347/nordex-wins-100mwmw-deal-pakistan"
-        },
-        "deccanchronicle.com/2015/04/predicting-wind-power-now-a-possibility-deccan-chronicle": {
-            "title": "Predicting wind power now a possibility - Deccan Chronicle...",
-            "snippet": "Deccan ChroniclePredicting wind power now a possibilityDeccan ChronicleChennai: Wind power forecast may soon become a reality in Tamil Nadu with Tangedco allowing National Institute of Wind Energy to take up forecasting in a wind farm in Kayathar in...",
-            "date": "2015-04-20",
-            "categories": "institute",
-            "tags": "energy,wind,power",
-            "recuweb_url": "http://en.recuweb.com/institute/deccanchronicle.com/2015/04/predicting-wind-power-now-a-possibility-deccan-chronicle",
-            "resource_url": "http://news.google.com/?hl=en&q=wind%2Bpower%2Bwind%2Bpower&output=atom&nord=1",
-            "source_url": "http://deccanchronicle.com/150420/nation-current-affairs/article/predicting-wind-power-now-possibility"
-        },
-        "windpowermonthly.com/2015/04/question-of-the-week-future-china-windpower-monthly-subscription": {
-            "title": "Question of the Week: The future of China? - Windpower Monthly (subscription)...",
-            "snippet": "Windpower Monthly (subscription)Question of the Week: The future of China?Windpower Monthly (subscription)As both the utilities and the government gradually shift their emphasis to efficient and economic operation of wind farms, that will give more...",
-            "date": "2015-04-20",
-            "tags": "windpower,windpower_monthly,monthly,subscription,wind",
-            "recuweb_url": "http://en.recuweb.com/windpowermonthly.com/2015/04/question-of-the-week-future-china-windpower-monthly-subscription",
-            "resource_url": "http://news.google.com/?hl=en&q=wind%2Bpower%2Bwind%2Bpower&output=atom&nord=1",
-            "source_url": "http://windpowermonthly.com/article/1343196/question-week-future-china"
+            "source_url": "http://columbian.com/news/2015/apr/23/apple-draws-on-wind-power-big-time-but-touts-hydro/"
         }
     }
 }
