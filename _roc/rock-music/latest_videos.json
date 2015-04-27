@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "rock-music",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/rock-music/",
@@ -64,7 +65,7 @@
             "date": "2015-04-13",
             "author_name": "cynicalgriping",
             "categories": "music",
-            "tags": "music,rock,instrumental",
+            "tags": "music,rock",
             "recuweb_url": "http://en.recuweb.com/music/dailymotion.com/2015/04/08-ocelot-cabo-norte-folk-rock-instrumental-compilado-by-dxgxllo-celta",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/rock+music+rock+music/0?af=1",
             "source_url": "http://dailymotion.com/video/x2miqd9_08-ocelot-cabo-norte-folk-rock-instrumental-compilado-by-dxgxllo-rock-celta-celtic-music_music",
@@ -76,7 +77,7 @@
             "date": "2015-03-25",
             "author_name": "Epic Music Vn",
             "categories": "music",
-            "tags": "music,mix,rock,subscribe",
+            "tags": "music,rock,powerful,subscribe",
             "recuweb_url": "http://en.recuweb.com/music/youtube.com/2015/03/1-hour-epic-music-mix-dramatic-rock-dubstep-and-powerful-vol",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rock%2Bmusic%2Brock%2Bmusic&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=Zkj435WUOcc&feature=youtube_gdata",
@@ -93,18 +94,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rock%2Bmusic%2Brock%2Bmusic&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=wAsmMkKkpO8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/wAsmMkKkpO8/0.jpg"
-        },
-        "youtube.com/2015/03/hard-rock-music-instrumental-compilation-205-150-bpm": {
-            "title": "Hard-Rock music instrumental compilation 205-150 BPM...",
-            "snippet": "Hard-Rock music instrumental compilation 205-150 BPM Hard Rock music mix instrumental compilation best background songs playlist drum and guitar 2015. Follow Facebook Google... From: Best Music Compilation Views: 49441 464 ratings Time: 02:45:08...",
-            "date": "2015-03-18",
-            "author_name": "Best Music Compilation",
-            "categories": "music,facebook,google,play",
-            "tags": "music,facebook,google,mix,instrumental,hard,rock",
-            "recuweb_url": "http://en.recuweb.com/play/youtube.com/2015/03/hard-rock-music-instrumental-compilation-205-150-bpm",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rock%2Bmusic&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=JprEqad-NGg&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/JprEqad-NGg/0.jpg"
         },
         "dailymotion.com/2015/03/rock-vs-christian-music": {
             "title": "Rock Vs. Christian Rock Music...",
@@ -124,11 +113,23 @@
             "date": "2015-03-09",
             "author_name": "XboxViewTV",
             "categories": "xbox,music,music-video,facebook,twitter,google",
-            "tags": "music,music_video,official,official_music,official_music_video,rock,subscribe,facebook,twitter,google",
+            "tags": "music,music_video,official,official_music,official_music_video,rock,subscribe,facebook,twitter",
             "recuweb_url": "http://en.recuweb.com/google/dailymotion.com/2015/03/rock-band-4-announcement-trailer-official-music-video-game-2015",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/rock+music/0?af=1",
             "source_url": "http://dailymotion.com/video/x2j26ae_rock-band-4-announcement-trailer-official-music-video-game-2015_music",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2j26ae_rock-band-4-announcement-trailer-official-music-video-game-2015_music"
+        },
+        "dailymotion.com/2015/03/stock-music-rock-ash-hard": {
+            "title": "Stock Music Rock Ash (Hard Rock)...",
+            "snippet": "Musco Sound Digital Music for Digital Solutions This hard rock music combines a powerful feel with a bold and aggressive sound. The distorted electric guitars strum dark melody while the bass and dynamic drums provide the power. This music is great...",
+            "date": "2015-03-02",
+            "author_name": "muscosound",
+            "categories": "music,rock-music",
+            "tags": "music,hard,rock,powerful",
+            "recuweb_url": "http://en.recuweb.com/rock-music/dailymotion.com/2015/03/stock-music-rock-ash-hard",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/rock+music+rock+music/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2ii906_stock-music-rock-ash-hard-rock_music",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ii906_stock-music-rock-ash-hard-rock_music"
         }
     }
 }
