@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "energy-drinks",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/energy-drinks/",
@@ -10,38 +11,49 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/energy-drinks/energy-drinks/blogs.json"
     },
     "items": {
+        "fastcompany.com/2015/04/how-to-brand-market-and-sell-marijuana-without-breaking": {
+            "title": "How To Brand, Market, And Sell Marijuana Without Breaking The...",
+            "snippet": "Earlier this year, Dixie Elixirs & Edibles, perhaps Colorado's best-known cannabis brand, took its THC-infused drinks off the market. It had no choice. That's because a..... shouldn't that be \"high/energy drinks\"? Link; Reply...",
+            "date": "2015-04-23",
+            "author_name": "Alex Halperin",
+            "categories": "drink",
+            "tags": "high,off,market,marijuana,drinks,energy",
+            "recuweb_url": "http://en.recuweb.com/drink/fastcompany.com/2015/04/how-to-brand-market-and-sell-marijuana-without-breaking",
+            "resource_url": "http://www.google.com/search?q=energy%2Bdrinks%2Benergy%2Bdrinks&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://fastcompany.com/3045240/rebranding-pot/how-to-brand-market-and-sell-weed-without-breaking-the-law"
+        },
+        "abovetopsecret.com/2015/04/energy-drinks-vs-marijuana-page-1-above-top-secret": {
+            "title": "energy drinks vs marijuana, page 1 - Above Top Secret...",
+            "snippet": "According to some reports, up to half of children and young adults in the United States consume the beverages known as energy drinks or energy shots, which may contain three to five times the caffeine in a same-size can...",
+            "date": "2015-04-20",
+            "author_name": "theyknowwhoyouare",
+            "categories": "beverages,drink",
+            "tags": "same,consume,beverages,adults,half,top,marijuana,energy,drinks,young,contain,caffeine",
+            "recuweb_url": "http://en.recuweb.com/drink/abovetopsecret.com/2015/04/energy-drinks-vs-marijuana-page-1-above-top-secret",
+            "resource_url": "http://www.google.com/search?q=energy%2Bdrinks&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://abovetopsecret.com/forum/thread1064562/pg1"
+        },
         "thisiswhyimbroke.com/2015/04/duff-beer-energy-drink": {
             "title": "Duff Beer Energy Drink -...",
             "snippet": "Energize your body for the day ahead by chugging this sugar enriched Duff Beer energy drink. It's styled after Springfield's famous brew and comes chock full...",
             "date": "2015-04-17",
             "author_name": "Staff",
             "categories": "drink",
-            "tags": "after,body,energy,energy_drink,drink,day,sugar",
+            "tags": "comes,body,sugar,energy,energy_drink",
             "recuweb_url": "http://en.recuweb.com/drink/thisiswhyimbroke.com/2015/04/duff-beer-energy-drink",
             "resource_url": "http://www.google.com/search?q=energy%2Bdrinks%2Benergy%2Bdrinks&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://thisiswhyimbroke.com/duff-beer-energy-drink"
         },
-        "nlcatp.org/2015/04/5-essential-pros-and-cons-of-energy-drinks": {
-            "title": "5 Essential Pros and Cons of Energy Drinks...",
-            "snippet": "As our schedules demand more and more of us, the temptation to look for assistance becomes greater and greater. To that end, energy drinks are readily.",
-            "date": "2015-04-15",
-            "author_name": "Chief Editor",
-            "categories": "energy-drinks,drink",
-            "tags": "greater,energy,energy_drinks,drinks",
-            "recuweb_url": "http://en.recuweb.com/drink/nlcatp.org/2015/04/5-essential-pros-and-cons-of-energy-drinks",
+        "elsevier.com/2015/04/dangers-of-adolescent-energy-drink-consumption-for-the-heart": {
+            "title": "Dangers of Adolescent Energy Drink Consumption for the Heart...",
+            "snippet": "The rapid rise in popularity of energy drinks (EDs), particularly among adolescents (aged 10-19 years) and young adults, has serious implications for cardiac health. In an article published in the Canadian Journal of...",
+            "date": "2015-04-02",
+            "author_name": "unknown",
+            "categories": "drink,health",
+            "tags": "rise,energy,energy_drink,drinks,consumption,dangers,heart,young,adults,health",
+            "recuweb_url": "http://en.recuweb.com/health/elsevier.com/2015/04/dangers-of-adolescent-energy-drink-consumption-for-the-heart",
             "resource_url": "http://www.google.com/search?q=energy%2Bdrinks&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://nlcatp.org/5-essential-pros-and-cons-of-energy-drinks/"
-        },
-        "inquisitr.com/2015/04/can-energy-drinks-kill-you-sudden-cardiac-deaths-in-young": {
-            "title": "Can Energy Drinks Kill You? Sudden Cardiac Deaths In Young...",
-            "snippet": "A new research study suggests that consuming energy drinks may be more harmful than previously thought. The study found that over consumption of energy drinks can cause sudden cardiac deaths in young people who are...",
-            "date": "2015-04-11",
-            "author_name": "Tara West",
-            "categories": "death,energy-drinks,drink",
-            "tags": "cause,young,study,found,consumption,thought,research,energy,energy_drinks,drinks,than",
-            "recuweb_url": "http://en.recuweb.com/drink/inquisitr.com/2015/04/can-energy-drinks-kill-you-sudden-cardiac-deaths-in-young",
-            "resource_url": "http://www.google.com/search?q=energy%2Bdrinks%2Benergy%2Bdrinks&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://inquisitr.com/2001583/can-energy-drinks-kill-you-sudden-cardiac-deaths-in-young-people-linked-to-energy-drink-consumption/"
+            "source_url": "http://elsevier.com/about/press-releases/research-and-journals/dangers-of-adolescent-energy-drink-consumption-for-the-heart-cardiologists-urge-physicians,-parents,-educators-to-monitor-adolescents-energy-drink-consumption-more-closely"
         },
         "dudeiwantthat.com/2015/04/power-glow-bioluminescent-energy-drink": {
             "title": "Power Glow Bioluminescent Energy Drink...",
@@ -49,10 +61,21 @@
             "date": "2015-04-01",
             "author_name": "unknown",
             "categories": "drink",
-            "tags": "power,come,vitamins,blood,energy,energy_drink,drinks,caffeine,says",
+            "tags": "drinks,top,energy,energy_drink,blood,caffeine,ounce",
             "recuweb_url": "http://en.recuweb.com/drink/dudeiwantthat.com/2015/04/power-glow-bioluminescent-energy-drink",
             "resource_url": "http://www.google.com/search?q=energy%2Bdrinks%2Benergy%2Bdrinks&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://dudeiwantthat.com/omg/fools/power-glow-bioluminescent-energy-drink.asp"
+        },
+        "lossweightfastandeasy.com/2015/03/hydration-are-you-drinking-enough-water": {
+            "title": "Hydration Are You Drinking Enough Water?",
+            "snippet": "Sports drinks are not the same as energy drinks. Energy drinks usually contain large amounts of caffeine and other stimulants (for example, guarana, ginseng, or taurine) that your body doesn't need. Most of these drinks are also high in added sugar.",
+            "date": "2015-03-31",
+            "author_name": "Weight Loss Coach",
+            "categories": "sport,drink",
+            "tags": "sugar,body,other,same,drinking,enough,water,sports,drinks,energy,contain,large,caffeine,ulants,guarana,ginseng,high",
+            "recuweb_url": "http://en.recuweb.com/drink/lossweightfastandeasy.com/2015/03/hydration-are-you-drinking-enough-water",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=energy%2Bdrinks%2Benergy%2Bdrinks&rss=1&lng=en",
+            "source_url": "http://lossweightfastandeasy.com/hydration-2/"
         },
         "energydranks.wordpress.com/2015/03/nos-energy-drink-review": {
             "title": "NOS Energy Drink Review...",
@@ -60,19 +83,30 @@
             "date": "2015-03-31",
             "author_name": "rkkelly81192",
             "categories": "drink",
-            "tags": "least,around,energy,energy_drink,drinks",
+            "tags": "world,energy,energy_drink,drinks",
             "recuweb_url": "http://en.recuweb.com/drink/energydranks.wordpress.com/2015/03/nos-energy-drink-review",
             "resource_url": "http://en.search.wordpress.com/?q=energy%2Bdrinks%2Benergy%2Bdrinks&f=feed&page=1",
             "source_url": "http://energydranks.wordpress.com/2015/03/31/nos-energy-drink-review/"
+        },
+        "christopherallensmith.wordpress.com/2015/03/social-media-marketing-of-supercross": {
+            "title": "Social Media Marketing of Supercross...",
+            "snippet": "Companies, particular energy drinks, have taken advantage of the rising sport that is Supercross. Over the course of the Supercross season, stadiums are sold out with thousands of fans coming to see the best riders in the world compete for a...",
+            "date": "2015-03-20",
+            "author_name": "christopherallensmith",
+            "categories": "sport,social-media,marketing,drink",
+            "tags": "world,energy,drinks",
+            "recuweb_url": "http://en.recuweb.com/drink/christopherallensmith.wordpress.com/2015/03/social-media-marketing-of-supercross",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=energy%2Bdrinks%2Benergy%2Bdrinks&rss=1&lng=en",
+            "source_url": "http://christopherallensmith.wordpress.com/2015/03/20/social-media-marketing-of-supercross/"
         },
         "newsnetwork.mayoclinic.org/2015/03/energy-drinks-raise-resting-blood-pressure-dramatic-in-thos": {
             "title": "Energy Drinks Raise Resting Blood Pressure, Dramatic In Thos...",
             "snippet": "SAN DIEGO Healthy young adults who don't consume caffeine regularly experienced greater rise in resting blood pressure after consumption of a commercially available energy drink compared to a placebo drink thus...",
             "date": "2015-03-13",
             "author_name": "Traci Klein",
-            "categories": "energy-drinks,drink",
-            "tags": "greater,blood,after,consumption,young,don,san,energy,energy_drinks,drinks,drink,caffeine",
-            "recuweb_url": "http://en.recuweb.com/drink/newsnetwork.mayoclinic.org/2015/03/energy-drinks-raise-resting-blood-pressure-dramatic-in-thos",
+            "categories": "drink,energy-drinks",
+            "tags": "drinks,pressure,consumption,available,experienced,rise,consume,adults,don,san,healthy,energy,energy_drinks,energy_drinks_raise,drinks_raise,raise,blood,blood_pressure,young,caffeine",
+            "recuweb_url": "http://en.recuweb.com/energy-drinks/newsnetwork.mayoclinic.org/2015/03/energy-drinks-raise-resting-blood-pressure-dramatic-in-thos",
             "resource_url": "http://www.google.com/search?q=energy%2Bdrinks&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://newsnetwork.mayoclinic.org/discussion/energy-drinks-raise-resting-blood-pressure-with-effect-most-dramatic-in-those-not-used-to-caffeine-m/"
         },
@@ -82,43 +116,10 @@
             "date": "2015-03-13",
             "author_name": "LISA FERNANDEZ",
             "categories": "play,energy-drinks,drink",
-            "tags": "san,energy,energy_drinks,drinks,oakland,afternoon",
+            "tags": "play,san,energy,energy_drinks,drinks",
             "recuweb_url": "http://en.recuweb.com/drink/nbcbayarea.com/2015/03/will-ferrell-grabs-oakland-a-s-teammates-burritos-and-energy-drinks",
             "resource_url": "http://www.google.com/search?q=energy%2Bdrinks&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://nbcbayarea.com/news/local/Will-Ferrell-Grabs-Oakland-As-Teammates-Burritos-and-Energy-Drinks-296084041.html"
-        },
-        "idpvigil.blogspot.com/2015/03/can-energy-drinks-help-you-lose-weight": {
-            "title": "Can Energy Drinks Help You Lose Weight?",
-            "snippet": "Energy drinks are liquid soda-style beverages that are boosted by the inclusion of 'energy boosting'ingredients including sugar, caffeine and other caffeine-like substances like ephedrine, and guarana. Some energy drinks also have vitamins, acid...",
-            "date": "2015-03-05",
-            "author_name": "(IDP Vigil)",
-            "categories": "energy-drinks,drink,beverages",
-            "tags": "vitamins,other,ingredients,energy,energy_drinks,drinks,help,weight,beverages,sugar,caffeine",
-            "recuweb_url": "http://en.recuweb.com/beverages/idpvigil.blogspot.com/2015/03/can-energy-drinks-help-you-lose-weight",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=energy%2Bdrinks%2Benergy%2Bdrinks&rss=1&lng=en",
-            "source_url": "http://idpvigil.blogspot.com/2015/03/can-energy-drinks-help-you-lose-weight.html"
-        },
-        "rawstory.com/2015/03/watch-woman-who-thinks-monster-energy-drinks-are-work-of": {
-            "title": "WATCH: Woman who thinks Monster Energy drinks are 'work of...",
-            "snippet": "A Michigan woman with a history of protesting at public Muslim events around the country, and who gained Internet fame for explaining that Monster Energy drinks are the work of Satan, struck again on Friday at an event in...",
-            "date": "2015-03-01",
-            "author_name": "TBogg",
-            "categories": "events,drink,internet",
-            "tags": "work,around,monster,monster_energy,energy,drinks,internet,satan",
-            "recuweb_url": "http://en.recuweb.com/internet/rawstory.com/2015/03/watch-woman-who-thinks-monster-energy-drinks-are-work-of",
-            "resource_url": "http://www.google.com/search?q=energy%2Bdrinks%2Benergy%2Bdrinks&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://rawstory.com/2015/02/watch-woman-who-thinks-monster-energy-drinks-are-work-of-satan-crashes-oklahoma-muslim-event/"
-        },
-        "theguardian.com/2015/02/call-for-ban-on-selling-addictive-energy-drinks-to-children-life": {
-            "title": "Call for ban on selling 'addictive'energy drinks to children Life and...",
-            "snippet": "A health campaign group has called for the sale of 'energy'and sports drinks to youngsters to be banned, after its research found that some products contained up to 20 teaspoons of sugar more than three times the...",
-            "date": "2015-02-26",
-            "author_name": "Rebecca Smithers, consumer affairs correspondent",
-            "categories": "sport,health,drink,life",
-            "tags": "after,research,found,products,health,campaign,sale,children,energy,drinks,life,sugar,than",
-            "recuweb_url": "http://en.recuweb.com/life/theguardian.com/2015/02/call-for-ban-on-selling-addictive-energy-drinks-to-children-life",
-            "resource_url": "http://www.google.com/search?q=energy%2Bdrinks&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/lifeandstyle/2015/feb/26/call-for-ban-on-selling-addictive-energy-drinks-to-children"
         }
     }
 }
