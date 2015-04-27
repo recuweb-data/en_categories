@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "government-spending",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/government-spending/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/government-spending/government-spending/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/mps-want-stricter-enforcement-of-government-spending-regulations": {
+            "title": "MPs want stricter enforcement of government spending regulations...",
+            "snippet": "MPs want stricter enforcement of government spending regulations Members of Parliament drawn from the Committee of Finance are asking that Section29 of the new Budget 2015, that restricts spending at source by gov't agencies must be enforced to the...",
+            "date": "2015-04-24",
+            "author_name": "NTV Uganda",
+            "categories": "government-spending,finance",
+            "tags": "spending,government,government-spending,budget",
+            "recuweb_url": "http://en.recuweb.com/finance/youtube.com/2015/04/mps-want-stricter-enforcement-of-government-spending-regulations",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=government%2Bspending&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=MPiixkIqTl4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/MPiixkIqTl4/0.jpg"
+        },
         "dailymotion.com/2015/04/government-spending-the-parable-of-pool": {
             "title": "Government Spending: The Parable of the Pool...",
             "snippet": "Government Spending: The Parable of the PoolAuthor: RoniDarnellTags: Government Spending: The Parable of the Pool Posted: 22 April 2015Rating:: 0...",
@@ -61,7 +74,7 @@
             "snippet": "Jakarta, Indonesia The government of Indonesia plans to inject RP trillion for 42 state-owned enterprises (BUMNs or Badan Usaha Milik Negara), just above the RP 72.9 trillion budget last year. Governor Basuki Ahok Tjahaja Purnama said during a...",
             "date": "2015-03-12",
             "author_name": "axiscapitalgrp",
-            "tags": "said,trillion,year,government,spending",
+            "tags": "trillion,budget,government,spending",
             "recuweb_url": "http://en.recuweb.com/dailymotion.com/2015/03/government-of-indonesia-sets-slight-increase-for-bumns-spending",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/government+spending+government+spending/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ja205_government-of-indonesia-sets-slight-increase-for-bumns-spending_news",
@@ -73,7 +86,7 @@
             "date": "2015-03-06",
             "author_name": "itnnews",
             "categories": "government-spending,institute,facebook,twitter",
-            "tags": "says,government,government-spending,spending,cut,fiscal",
+            "tags": "government,government-spending,spending,cut,fiscal",
             "recuweb_url": "http://en.recuweb.com/twitter/dailymotion.com/2015/03/local-government-spending-has-been-cut-substantially",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/government+spending+government+spending/0?af=1",
             "source_url": "http://dailymotion.com/video/x2iu9zd_local-government-spending-has-been-cut-substantially_news",
@@ -85,7 +98,7 @@
             "date": "2015-01-01",
             "author_name": "FORAtv",
             "categories": "government-spending",
-            "tags": "president,government,government_spending,spending",
+            "tags": "government,government_spending,spending",
             "recuweb_url": "http://en.recuweb.com/government-spending/dailymotion.com/2015/01/grover-norquist-on-government-spending-transparency",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/government+spending/0?af=1",
             "source_url": "http://dailymotion.com/video/x2dtw45_grover-norquist-on-government-spending-transparency_news",
@@ -103,25 +116,13 @@
             "source_url": "http://dailymotion.com/video/x2drw37_obama-advisor-government-spending-crucial-to-recovery_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2drw37_obama-advisor-government-spending-crucial-to-recovery_news"
         },
-        "dailymotion.com/2014/12/obama-says-he-ll-sign-government-spending-bill-passed-by-congress": {
-            "title": "Obama Says He'll Sign Government Spending Bill Passed by Congress...",
-            "snippet": "President Barack Obama said on Monday he planned to sign a 1 point 1 trillion dollar spending bill that was passed over the weekend by Congress to lift the threat of a government shutdown. Obama spoke at a military base in New Jersey, where he said...",
-            "date": "2014-12-16",
-            "author_name": "wochit",
-            "categories": "government-spending",
-            "tags": "said,government,trillion,spending,bill,president,obama,government_spending,says",
-            "recuweb_url": "http://en.recuweb.com/government-spending/dailymotion.com/2014/12/obama-says-he-ll-sign-government-spending-bill-passed-by-congress",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/government+spending/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2cmuna_obama-says-he-ll-sign-government-spending-bill-passed-by-congress_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2cmuna_obama-says-he-ll-sign-government-spending-bill-passed-by-congress_news"
-        },
         "dailymotion.com/2014/12/senate-passes-government-spending-bill": {
             "title": "Senate passes government spending bill...",
             "snippet": "The Senate voted 56-40 late Saturday evening to pass a 1.1 trillion spending package to fund the federal government through the next fiscal year. Julianna Goldman: cbsnewsTags: cbs video news Posted: 15 December 2014Rating:: 0...",
             "date": "2014-12-15",
             "author_name": "cbsnews",
             "categories": "government-spending",
-            "tags": "trillion,spending,government,fiscal,year,government-spending,bill",
+            "tags": "trillion,spending,government,fiscal,government-spending",
             "recuweb_url": "http://en.recuweb.com/government-spending/dailymotion.com/2014/12/senate-passes-government-spending-bill",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/government+spending/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ckgah_senate-passes-government-spending-bill_news",
