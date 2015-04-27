@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "vaccination",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/vaccination/",
@@ -10,24 +11,13 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/vaccination/vaccination/blogs.json"
     },
     "items": {
-        "legalinsurrection.com/2015/04/california-vaccination-mandate-clears-legislative-hurdle": {
-            "title": "California Vaccination Mandate Clears Legislative Hurdle...",
-            "snippet": "Legislation aimed at reversing the state's liberal vaccine exemption law took a major step forward Wednesday in the state Senate, only a week after support for the bill seemed to be on shaky ground. The dramatic 7-2 vote by...",
-            "date": "2015-04-23",
-            "author_name": "Leslie Eastman",
-            "categories": "law,vaccination",
-            "tags": "vote,support,week,state,exemption,step,california,vaccination,legislation,vaccine,wednesday,senate,after,bill",
-            "recuweb_url": "http://en.recuweb.com/vaccination/legalinsurrection.com/2015/04/california-vaccination-mandate-clears-legislative-hurdle",
-            "resource_url": "http://www.google.com/search?q=vaccination%2Bvaccination&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://legalinsurrection.com/2015/04/california-vaccination-mandate-clears-legislative-hurdle/"
-        },
         "naturalnews.com/2015/04/california-senate-stacks-committee-to-pass-mandatory-vaccination": {
             "title": "California senate stacks committee to pass mandatory vaccination...",
             "snippet": "(NaturalNews) Knowing that they would likely be unable to pass their new Orwellian mandates for childhood vaccinations the procedural way, California legislators who support forced jabs without informed consent or...",
             "date": "2015-04-23",
             "author_name": "By Jonathan Benson, staff writer",
             "categories": "vaccination",
-            "tags": "support,forced,ely,would,california,senate,committee,mandatory,vaccinations,naturalnews",
+            "tags": "forced,california,senate,committee,mandatory,vaccinations,naturalnews",
             "recuweb_url": "http://en.recuweb.com/vaccination/naturalnews.com/2015/04/california-senate-stacks-committee-to-pass-mandatory-vaccination",
             "resource_url": "http://www.google.com/search?q=vaccination%2Bvaccination&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://naturalnews.com/049461_mandatory_vaccination_SB_277_Kevin_de_Leon.html"
@@ -38,7 +28,7 @@
             "date": "2015-04-22",
             "author_name": "By Mike Adams, NaturalNews Editor",
             "categories": "vaccination",
-            "tags": "public,california,mandatory,vaccination,bill,passes,senate,committee,after",
+            "tags": "california,mandatory,vaccination,bill,senate,committee,public",
             "recuweb_url": "http://en.recuweb.com/vaccination/naturalnews.com/2015/04/california-s-sb277-mandatory-vaccination-bill-passes-senate",
             "resource_url": "http://www.google.com/search?q=vaccination%2Bvaccination&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://naturalnews.com/049449_SB277_California_Senate_mandatory_vaccination.html"
@@ -49,7 +39,7 @@
             "date": "2015-04-22",
             "author_name": "Jon Rappoport",
             "categories": "vaccination",
-            "tags": "first,vaccination",
+            "tags": "vaccination",
             "recuweb_url": "http://en.recuweb.com/vaccination/jonrappoport.wordpress.com/2015/04/the-vaccination-quiz-show-jon-rappoport-s-blog",
             "resource_url": "http://www.google.com/search?q=vaccination%2Bvaccination&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://jonrappoport.wordpress.com/2015/04/22/the-vaccination-quiz-show/"
@@ -60,7 +50,7 @@
             "date": "2015-04-21",
             "author_name": "By J. D. Heyes",
             "categories": "vaccination",
-            "tags": "nearly,cases,considering,require,outbreak,hysteria,hysteria-over,recent,naturalnews,states,mandatory,vaccination,thanks,measles,california,children",
+            "tags": "nearly,considering,states,hysteria,recent,naturalnews,mandatory,vaccination,thanks,measles,outbreak,california,children",
             "recuweb_url": "http://en.recuweb.com/vaccination/naturalnews.com/2015/04/10-us-states-now-considering-mandatory-vaccination-natural-news",
             "resource_url": "http://www.google.com/search?q=vaccination%2Bvaccination&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://naturalnews.com/049427_vaccinations_big_pharma_measles_outbreak.html"
@@ -71,54 +61,62 @@
             "date": "2015-04-19",
             "author_name": "Lauren Zupkus",
             "categories": "stroke,vaccination,health",
-            "tags": "published,surgeon,surgeon_general,general,elmo,vaccine,vaccination,department,health,friday",
+            "tags": "vaccine,vaccination,health",
             "recuweb_url": "http://en.recuweb.com/health/huffingtonpost.com/2015/04/the-surgeon-general-encourages-elmo-to-get-a-vaccine-in-new",
             "resource_url": "http://www.google.com/search?q=vaccination%2Bvaccination&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://huffingtonpost.com/2015/04/19/surgeon-general-elmo-vaccines_n_7096940.html"
         },
-        "webmd.com/2015/03/low-vaccination-rates-likely-behind-disney-measles-outbreak": {
-            "title": "Low Vaccination Rates Likely Behind Disney Measles Outbreak...",
-            "snippet": "\"The Disneyland outbreak is quite possibly a direct consequence of the growing anti-vaccination movement in the United States,\" said study author Maimuna Majumder, a research fellow at Boston Children's Hospital.",
-            "date": "2015-03-16",
-            "author_name": "unknown",
+        "ww2.kqed.org/2015/02/the-feverish-roots-of-today-s-anti-vaccination-movement-kqed": {
+            "title": "The Feverish Roots of Today's Anti-Vaccination Movement... - KQED...",
+            "snippet": "Cartoon from 1802 illustrating the hysteria that developed alongside the \"cowpock\" vaccine. (Courtesy Wikimedia) \"Vaccination is the putting of an impure.",
+            "date": "2015-02-15",
+            "author_name": "Matthew Green",
             "categories": "vaccination",
-            "tags": "children,research,united,united_states,states,disneyland,outbreak,anti,measles,low,low_vaccination,low_vaccination_rates,vaccination,vaccination_rates,rates,ely,study",
-            "recuweb_url": "http://en.recuweb.com/vaccination/webmd.com/2015/03/low-vaccination-rates-likely-behind-disney-measles-outbreak",
-            "resource_url": "http://www.google.com/search?q=vaccination&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://webmd.com/children/vaccines/news/20150316/low-vaccination-rates-likely-behind-disney-measles-outbreak-study"
+            "tags": "vaccination,hysteria,today,anti,vaccine",
+            "recuweb_url": "http://en.recuweb.com/vaccination/ww2.kqed.org/2015/02/the-feverish-roots-of-today-s-anti-vaccination-movement-kqed",
+            "resource_url": "http://www.google.com/search?q=vaccination%2Bvaccination&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ww2.kqed.org/lowdown/2015/02/15/the-feverish-roots-of-todays-anti-vaccine-movement/"
         },
-        "huffingtonpost.com/2015/03/low-vaccination-rates-set-the-stage-for-disneyland-measles": {
-            "title": "Low Vaccination Rates Set The Stage For Disneyland Measles...",
-            "snippet": "By Lisa Rapaport (Reuters Health) - The rapid spread of a measles outbreak from Disneyland in California to communities around the country suggests that vaccination rates in some places may be as low as 50 percent,...",
-            "date": "2015-03-16",
-            "author_name": "Reuters",
-            "categories": "places,health,vaccination",
-            "tags": "rates,low,health,low_vaccination,low_vaccination_rates,vaccination,vaccination_rates,disneyland,measles,outbreak,california,percent",
-            "recuweb_url": "http://en.recuweb.com/vaccination/huffingtonpost.com/2015/03/low-vaccination-rates-set-the-stage-for-disneyland-measles",
-            "resource_url": "http://www.google.com/search?q=vaccination&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://huffingtonpost.com/2015/03/16/vaccination-rates-disneyland-measles_n_6878176.html"
+        "reddit.com/2015/02/measles-outbreak-california-legislation-proposed-to-repeal-opt-out-provision-of": {
+            "title": "Measles outbreak: California legislation proposed to repeal 'opt out'provision of vaccination law...",
+            "snippet": "Measles outbreak: California legislation proposed to repeal 'opt out'provision of vaccination law...",
+            "date": "2015-02-04",
+            "categories": "vaccination,law",
+            "tags": "legislation,measles,outbreak,california,vaccination",
+            "recuweb_url": "http://en.recuweb.com/law/reddit.com/2015/02/measles-outbreak-california-legislation-proposed-to-repeal-opt-out-provision-of",
+            "resource_url": "http://www.reddit.com/search.rss?q=vaccination%2Bvaccination&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/politics/comments/2ut3b6/measles_outbreak_california_legislation_proposed/"
         },
-        "sltrib.com/2015/03/low-vaccination-rates-put-some-utah-schools-at-risk-the-salt": {
-            "title": "Low vaccination rates put some Utah schools at risk The Salt Lake...",
-            "snippet": "Utah allows parents to receive a vaccination exemption for school children for three reasons: religious, medical or personal. The first two require letters, either from a religious leader or a doctor. The third requires no additional...",
-            "date": "2015-03-16",
-            "author_name": "unknown",
-            "categories": "school,vaccination",
-            "tags": "religious,first,require,medical,personal,exemption,school,rates,low,vaccination,parents,children",
-            "recuweb_url": "http://en.recuweb.com/vaccination/sltrib.com/2015/03/low-vaccination-rates-put-some-utah-schools-at-risk-the-salt",
-            "resource_url": "http://www.google.com/search?q=vaccination&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://sltrib.com/news/2275649-155/low-vaccination-rates-put-some-utah"
-        },
-        "theguardian.com/2015/03/meningitis-vaccine-to-be-offered-teenagers-between-14-and-18": {
-            "title": "Meningitis vaccine to be offered to teenagers between 14 and 18...",
-            "snippet": "Vaccination syringe Young people aged 1418 in England and Wales will be able to get the meningitis vaccine. Photograph: Alamy. Sandra Laville. Friday 13 March 2015 EDT Last modified on Friday 13 March 2015 EDT.",
-            "date": "2015-03-13",
-            "author_name": "Sandra Laville",
+        "reddit.com/2015/01/mississippi-yes-has-the-nations-best-child-vaccination-rate-heres-why": {
+            "title": "Mississippi yes, Mississippi has the nations best child vaccination rate. Heres why.: The secret of...",
+            "snippet": "Mississippi yes, Mississippi has the nations best child vaccination rate. Heres why.: The secret of...",
+            "date": "2015-01-30",
             "categories": "vaccination",
-            "tags": "able,between,vaccine,vaccination,friday",
-            "recuweb_url": "http://en.recuweb.com/vaccination/theguardian.com/2015/03/meningitis-vaccine-to-be-offered-teenagers-between-14-and-18",
-            "resource_url": "http://www.google.com/search?q=vaccination&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/society/2015/mar/13/meningitis-vaccine-children-14-18"
+            "tags": "child,vaccination,why",
+            "recuweb_url": "http://en.recuweb.com/vaccination/reddit.com/2015/01/mississippi-yes-has-the-nations-best-child-vaccination-rate-heres-why",
+            "resource_url": "http://www.reddit.com/search.rss?q=vaccination%2Bvaccination&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/politics/comments/2u7epm/mississippi_yes_mississippi_has_the_nations_best/"
+        },
+        "montsostaidiemangditincapi.wordpress.com/2014/01/jenner-and-vaccination": {
+            "title": "Jenner and Vaccination...",
+            "snippet": "Jenner and Vaccination Jenner and Vaccination by Charles Creighton====Download here:====free pdf download Jenner and Vaccination Jenner and Vaccination ebook how to download Jenner and Vaccination ePub free Jenner and Vaccination epub download free...",
+            "date": "2014-01-03",
+            "author_name": "montsostaidiemangditincapi",
+            "categories": "ebook,vaccination",
+            "tags": "free,vaccination",
+            "recuweb_url": "http://en.recuweb.com/vaccination/montsostaidiemangditincapi.wordpress.com/2014/01/jenner-and-vaccination",
+            "resource_url": "http://en.search.wordpress.com/?q=vaccination%2Bvaccination&f=feed&page=1",
+            "source_url": "http://montsostaidiemangditincapi.wordpress.com/2014/01/03/jenner-and-vaccination/"
+        },
+        "reddit.com/2013/11/ysk-these-six-myths-about-vaccinations-and-why-they-are-wrong": {
+            "title": "YSK: These six myths about vaccinations and why they are wrong...",
+            "snippet": "The myths: Vaccines cause autism Smallpox and polio have disappeared so theres no need to vaccinate anymore More vaccinated people get the disease than the unvaccinated My unvaccinated child should be of no concern to your vaccinated one Vaccines...",
+            "date": "2013-11-22",
+            "categories": "vaccination",
+            "tags": "should,vaccinated,people,why,vaccinations,child",
+            "recuweb_url": "http://en.recuweb.com/vaccination/reddit.com/2013/11/ysk-these-six-myths-about-vaccinations-and-why-they-are-wrong",
+            "resource_url": "http://www.reddit.com/search.rss?q=vaccination%2Bvaccination&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/YouShouldKnow/comments/1r82o5/ysk_these_six_myths_about_vaccinations_and_why/"
         }
     }
 }
