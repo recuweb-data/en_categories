@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "healthcare-software",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/healthcare-software/",
@@ -10,46 +11,26 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/healthcare-software/healthcare-software/blogs.json"
     },
     "items": {
-        "seekingalpha.com/2015/04/ibm-employs-watson-capabilities-into-healthcare-analytics": {
-            "title": "IBM Employs Watson Capabilities Into Healthcare Analytics...",
-            "snippet": "This new initiative has the potential not only to win this market over quickly but also to have a large impact on smaller 'big data'/SaaS software providers in the healthcare analytics market. IBM pulls out all the big guns to win...",
-            "date": "2015-04-20",
-            "author_name": "SeekingAlpha.com",
-            "tags": "impact,only,ibm,watson,healthcare,healthcare_analytics,analytics,market,data,software",
-            "recuweb_url": "http://en.recuweb.com/seekingalpha.com/2015/04/ibm-employs-watson-capabilities-into-healthcare-analytics",
-            "resource_url": "http://www.google.com/search?q=healthcare%2Bsoftware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://seekingalpha.com/article/3082556-ibm-employs-watson-capabilities-into-healthcare-analytics"
+        "cnbc.com/2015/04/us-cancer-center-software-firm-reach-deals-in-cuba": {
+            "title": "US cancer center, software firm reach deals in Cuba -...",
+            "snippet": "A U.S. cancer research center and a software company reached agreements with Cuban partners during a two-day trade mission to Cuba.... \"We were surprised and impressed with the level of technology and expertise they have in healthcare technology,\"...",
+            "date": "2015-04-21",
+            "author_name": "unknown",
+            "categories": "cancer,technology",
+            "tags": "day,trade,trade-mission,mission,agreements,research,firm,software,cuba,company,cuban,partners,technology,healthcare",
+            "recuweb_url": "http://en.recuweb.com/technology/cnbc.com/2015/04/us-cancer-center-software-firm-reach-deals-in-cuba",
+            "resource_url": "http://www.google.com/search?q=healthcare%2Bsoftware%2Bhealthcare%2Bsoftware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://cnbc.com/id/102607014"
         },
         "reddit.com/2015/04/are-there-healthcare-related-jobs-at-google": {
             "title": "Are there healthcare related jobs at Google?",
             "snippet": "In my research I only found out that the google health project was discontinued in the last years and that google invests a lot in healthcare and life sciences start ups, but are there any healthcare related jobs at google? E.g. for medical software...",
             "date": "2015-04-17",
             "categories": "google,life,health",
-            "tags": "life,sciences,only,research,healthcare,health,medical,software",
+            "tags": "any,life,sciences,research,healthcare,health,medical,software",
             "recuweb_url": "http://en.recuweb.com/health/reddit.com/2015/04/are-there-healthcare-related-jobs-at-google",
             "resource_url": "http://www.reddit.com/search.rss?q=healthcare%2Bsoftware%2Bhealthcare%2Bsoftware&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/google/comments/32x431/are_there_healthcare_related_jobs_at_google/"
-        },
-        "labsoftnews.typepad.com/2015/04/lab-soft-news-ge-medical-exits-hospital-ehr-business": {
-            "title": "Lab Soft News: GE Medical Exits Hospital EHR Business...",
-            "snippet": "GE Medical Exits Hospital EHR Business, Concentrates on Ambulatory Software. This will probably come as no surprise to veteran observers of healthcare IT but GE Healthcare is exiting the hospital EHR business. Details...",
-            "date": "2015-04-17",
-            "author_name": "Bruce Friedman",
-            "categories": "business",
-            "tags": "software,medical,business,healthcare",
-            "recuweb_url": "http://en.recuweb.com/business/labsoftnews.typepad.com/2015/04/lab-soft-news-ge-medical-exits-hospital-ehr-business",
-            "resource_url": "http://www.google.com/search?q=healthcare%2Bsoftware%2Bhealthcare%2Bsoftware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://labsoftnews.typepad.com/lab_soft_news/2015/04/ge-exits-hospital-ehr-business.html"
-        },
-        "bioethics.com/2015/04/ibm-s-watson-to-provide-software-for-personalised-healthcare": {
-            "title": "IBM's Watson to Provide Software for Personalised Healthcare...",
-            "snippet": "IBM's Watson to Provide Software for Personalised Healthcare. April 15, 2015. (New Scientist) The supercomputer will see you now. IBM has announced it will partner with Apple and medical device companies Johnson & Johnson and...",
-            "date": "2015-04-15",
-            "author_name": "Bioethics Pundit",
-            "tags": "device,companies,announced,scientist,healthcare,software,ibm,watson,medical",
-            "recuweb_url": "http://en.recuweb.com/bioethics.com/2015/04/ibm-s-watson-to-provide-software-for-personalised-healthcare",
-            "resource_url": "http://www.google.com/search?q=healthcare%2Bsoftware%2Bhealthcare%2Bsoftware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bioethics.com/archives/26992"
         },
         "healthcareitnews.com/2015/04/jamie-crawford-of-elekta-software-at-himss15-healthcare-it-news": {
             "title": "Jamie Crawford of Elekta Software at HIMSS15 Healthcare IT News...",
@@ -57,7 +38,7 @@
             "date": "2015-04-14",
             "author_name": "Healthcare IT News",
             "categories": "play",
-            "tags": "performance,role,healthcare,elekta,software,himss,market,analytics,quality",
+            "tags": "plays,quality,role,healthcare,elekta,software,himss,market,analytics",
             "recuweb_url": "http://en.recuweb.com/play/healthcareitnews.com/2015/04/jamie-crawford-of-elekta-software-at-himss15-healthcare-it-news",
             "resource_url": "http://www.google.com/search?q=healthcare%2Bsoftware%2Bhealthcare%2Bsoftware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://healthcareitnews.com/video/jamie-crawford-elekta-software-himss15"
@@ -68,7 +49,7 @@
             "date": "2015-04-13",
             "author_name": "unknown",
             "categories": "management,society,health",
-            "tags": "promote,clinical,management,management_systems,management_systems_society,systems,system,systems_society,society,healthcare,healthcare_information,information,health,software,care,meeting",
+            "tags": "promote,management,management_systems,management_systems_society,systems,system,systems_society,society,healthcare,healthcare_information,information,health,improve,software,care,meeting",
             "recuweb_url": "http://en.recuweb.com/health/modernhealthcare.com/2015/04/geisinger-promotes-software-to-improve-clinical-care-modern",
             "resource_url": "http://www.google.com/search?q=healthcare%2Bsoftware%2Bhealthcare%2Bsoftware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://modernhealthcare.com/article/20150413/NEWS/150419984"
@@ -78,7 +59,7 @@
             "snippet": "In light of recent increased security breaches in a number of industries, it is a good time to revisit the topic of security and the role of software defined networking in this model. Healthcare as an industry is heavily regulated with...",
             "date": "2015-04-12",
             "author_name": "Aaron Dumbrow",
-            "tags": "security,role,light,increased,software,software_defined,defined,healthcare,model,industry",
+            "tags": "regulated,model,security,role,light,increased,software,software_defined,defined,healthcare,industry",
             "recuweb_url": "http://en.recuweb.com/blogs.vmware.com/2015/04/software-defined-security-vmware-for-healthcare-it-blogs",
             "resource_url": "http://www.google.com/search?q=healthcare%2Bsoftware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.vmware.com/healthcare/2015/04/software-defined-security.html"
@@ -89,7 +70,7 @@
             "date": "2015-04-10",
             "author_name": "unknown",
             "categories": "management,society",
-            "tags": "week,meeting,management,management_systems,management_systems_society,systems,systems_society,society,healthcare,healthcare_information,information,analytics,elekta,software,himss,data,analysis,platform,chicago",
+            "tags": "week,meeting,management,management_systems,management_systems_society,systems,systems_society,society,healthcare,healthcare_information,information,analytics,analysis,elekta,software,himss,data,chicago",
             "recuweb_url": "http://en.recuweb.com/society/auntminnie.com/2015/04/elekta-to-debut-healthcare-analytics-software-at-himss",
             "resource_url": "http://www.google.com/search?q=healthcare%2Bsoftware%2Bhealthcare%2Bsoftware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://auntminnie.com/redirect/redirect.aspx?itemid=110697&wf=1"
@@ -99,22 +80,43 @@
             "snippet": "(Reuters) - Brokerages are rolling out software to help financial advisers with a challenge that can seem like fortune-telling: projecting clients'retirement health care costs.",
             "date": "2015-03-28",
             "author_name": "estherfitzgerald13",
-            "categories": "health",
-            "tags": "healthcare,software,help,financial,health,care",
+            "categories": "financial-adviser,health",
+            "tags": "financial,healthcare,software,help,health,care",
             "recuweb_url": "http://en.recuweb.com/health/estherfitzgerald13.wordpress.com/2015/03/u-s-healthcare-software-triggers-client-reality-check",
             "resource_url": "http://en.search.wordpress.com/?q=healthcare%2Bsoftware%2Bhealthcare%2Bsoftware&f=feed&page=1",
             "source_url": "http://estherfitzgerald13.wordpress.com/2015/03/28/u-s-healthcare-software-triggers-client-reality-check/"
         },
-        "modernhealthcare.com/2015/03/med-software-vendor-kareo-expands-offerings-with-acquisition": {
-            "title": "Med software vendor Kareo expands offerings with acquisition...",
-            "snippet": "Kareo, a provider of cloud-based software and services for independent medical practices, has acquired DoctorBase, a patient communication platform. The leader in healthcare business news, research & data.",
-            "date": "2015-03-10",
-            "author_name": "unknown",
-            "categories": "business",
-            "tags": "research,patient,platform,software,provider,services,medical,healthcare,business,data",
-            "recuweb_url": "http://en.recuweb.com/business/modernhealthcare.com/2015/03/med-software-vendor-kareo-expands-offerings-with-acquisition",
+        "triblive.com/2015/03/oakland-firm-qualaris-healthcare-s-software-saves-time-in-hospitals": {
+            "title": "Oakland firm Qualaris Healthcare's software saves time in hospitals...",
+            "snippet": "Qualaris Healthcare Solutions Inc. What: Maker of software used by health systems and hospitals to audit compliance with quality processes, such as hand-washing, and provide timely reports. Where: Oakland. Employees: 10.",
+            "date": "2015-03-03",
+            "author_name": "Alex Nixon",
+            "categories": "health",
+            "tags": "reports,hand,systems,quality,processes,solutions,inc,healthcare,firm,software,health",
+            "recuweb_url": "http://en.recuweb.com/health/triblive.com/2015/03/oakland-firm-qualaris-healthcare-s-software-saves-time-in-hospitals",
             "resource_url": "http://www.google.com/search?q=healthcare%2Bsoftware%2Bhealthcare%2Bsoftware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://modernhealthcare.com/article/20150310/NEWS/150319999"
+            "source_url": "http://triblive.com/business/headlines/7619973-74/qualaris-hospitals-software"
+        },
+        "prosaamd.wordpress.com/2015/02/1st-international-workshop-on-processes-for-softwa": {
+            "title": "1st International Workshop on Processes for Softwa...",
+            "snippet": "1st International Workshop on Processes for Software-as-a-Medical Device (ProSaaMD) Co-located with International Conference on Software and System Process (ICSSP) 2015 August 24th 2015, Tallinn, Estonia Theme: Software Engineering for Healthcare...",
+            "date": "2015-02-14",
+            "author_name": "Noel Carroll",
+            "categories": "engineering",
+            "tags": "system,processes,medical,device,software,healthcare",
+            "recuweb_url": "http://en.recuweb.com/engineering/prosaamd.wordpress.com/2015/02/1st-international-workshop-on-processes-for-softwa",
+            "resource_url": "http://en.search.wordpress.com/?q=healthcare%2Bsoftware%2Bhealthcare%2Bsoftware&f=feed&page=1",
+            "source_url": "http://prosaamd.wordpress.com/2015/02/14/26/"
+        },
+        "reddit.com/2015/01/how-is-the-safety-of-new-software-evaluated": {
+            "title": "How is the safety of new software evaluated?",
+            "snippet": "Does anyone happen to know anything about how introducing new software is regulated in healthcare in various countries? I would love to learn more about the actual real life procedures and processes if anyone can direct me to any resources or give...",
+            "date": "2015-01-27",
+            "categories": "love,life",
+            "tags": "real,life,processes,any,regulated,software,healthcare,various",
+            "recuweb_url": "http://en.recuweb.com/life/reddit.com/2015/01/how-is-the-safety-of-new-software-evaluated",
+            "resource_url": "http://www.reddit.com/search.rss?q=healthcare%2Bsoftware%2Bhealthcare%2Bsoftware&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/healthIT/comments/2tvu08/how_is_the_safety_of_new_software_evaluated/"
         }
     }
 }
