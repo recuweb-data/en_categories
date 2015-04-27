@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "engineering",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/engineering/",
@@ -10,24 +11,90 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/engineering/engineering/blogs.json"
     },
     "items": {
-        "oregonlive.com/2015/04/beaverton-high-anonymous-donation-used-for-engineering-classes": {
-            "title": "Beaverton High anonymous donation used for engineering classes...",
-            "snippet": "Beaverton High School is making the most of a 100,000 anonymous donation with plans for a library renovation, engineering career courses, digital photography class and renovation of the college and career center.",
-            "date": "2015-04-21",
-            "author_name": "Wendy Owen | The Oregonian/OregonLive",
-            "categories": "photography,college,school,engineering",
-            "tags": "class,college,school,high,engineering",
-            "recuweb_url": "http://en.recuweb.com/engineering/oregonlive.com/2015/04/beaverton-high-anonymous-donation-used-for-engineering-classes",
+        "robertsspaceindustries.com/2015/04/design-cargo-interaction-roberts-space-industries": {
+            "title": "Design: Cargo Interaction - Roberts Space Industries...",
+            "snippet": "Engineering. Development..... All Transmissions Citizens Engineering Spectrum Dispatch. Community. RSI Forums Chat Leaderboards Organizations. Utilites. Press FAQ Contact Us Careers with us Terms of...",
+            "date": "2015-04-25",
+            "author_name": "unknown",
+            "categories": "engineering",
+            "tags": "engineering,development",
+            "recuweb_url": "http://en.recuweb.com/engineering/robertsspaceindustries.com/2015/04/design-cargo-interaction-roberts-space-industries",
             "resource_url": "http://www.google.com/search?q=engineering%2Bengineering&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://oregonlive.com/beaverton/index.ssf/2015/04/beaverton_high_anonymous_donat.html"
+            "source_url": "http://robertsspaceindustries.com/comm-link/engineering/14677-Design-Cargo-Interaction"
+        },
+        "globalresearch.ca/2015/04/earth-day-geo-engineering-and-chemtrails-global-research": {
+            "title": "Earth Day, Geo-Engineering and Chemtrails Global Research...",
+            "snippet": "We're seeing crop loss and we're also seeing eco-system collapses around the world. And geo-engineering creates something that's called 'abiotic stress'well Monsanto has developed a new genetically-modified seed that...",
+            "date": "2015-04-25",
+            "author_name": "Michael Welch",
+            "categories": "earth,engineering",
+            "tags": "creates,research,engineering,world,well",
+            "recuweb_url": "http://en.recuweb.com/engineering/globalresearch.ca/2015/04/earth-day-geo-engineering-and-chemtrails-global-research",
+            "resource_url": "http://www.google.com/search?q=engineering&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://globalresearch.ca/geo-engineering-and-changing-the-world-through-stories/5445209"
+        },
+        "machinedesign.com/2015/04/the-engineering-basics-of-slide-bushings-linear-motion-content": {
+            "title": "The Engineering Basics of Slide Bushings Linear Motion content...",
+            "snippet": "Engineers in the packaging industry and those designing automated factory equipment and machines with loaded shafts moving linearly either back and forth, up and down, or any orientation in between often rely on slide...",
+            "date": "2015-04-25",
+            "author_name": "unknown",
+            "categories": "engineering",
+            "tags": "any,down,packaging,engineering,engineers",
+            "recuweb_url": "http://en.recuweb.com/engineering/machinedesign.com/2015/04/the-engineering-basics-of-slide-bushings-linear-motion-content",
+            "resource_url": "http://www.google.com/search?q=engineering%2Bengineering&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://machinedesign.com/linear-motion/engineering-basics-slide-bushings"
+        },
+        "jalopnik.com/2015/04/take-this-quiz-to-see-how-well-you-know-your-badge": {
+            "title": "Take This Quiz To See How Well You Know Your Badge Engineering...",
+            "snippet": "Badge engineering -- the process by which one carmaker takes another maker's car, slaps their own badges and name on it and sells it -- has always been a little baffling to me. I suppose retail markups are enough that you...",
+            "date": "2015-04-24",
+            "author_name": "Jason Torchinsky",
+            "categories": "engineering",
+            "tags": "engineering,well",
+            "recuweb_url": "http://en.recuweb.com/engineering/jalopnik.com/2015/04/take-this-quiz-to-see-how-well-you-know-your-badge",
+            "resource_url": "http://www.google.com/search?q=engineering%2Bengineering&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://jalopnik.com/take-this-quiz-to-see-how-well-you-know-your-badge-engi-1699997684"
+        },
+        "jalopnik.com/2015/04/what-obvious-engineering-disaster-was-weirdly-put-into-production": {
+            "title": "What Obvious Engineering Disaster Was Weirdly Put Into Production?",
+            "snippet": "The big idea behind it was to minimize packaging, the engineers nestled the turbo inside the engine itself. Which is great, until you think about the fact that Honda hasn't won any races. And Mercedes has been so successful...",
+            "date": "2015-04-24",
+            "author_name": "Michael Ballaban",
+            "categories": "engineering,production",
+            "tags": "any,great,engineers,engine,packaging,engineering",
+            "recuweb_url": "http://en.recuweb.com/production/jalopnik.com/2015/04/what-obvious-engineering-disaster-was-weirdly-put-into-production",
+            "resource_url": "http://www.google.com/search?q=engineering&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://jalopnik.com/what-obvious-engineering-disaster-was-weirdly-put-into-1699454086"
+        },
+        "engadget.com/2015/04/making-beats-with-teenage-engineering-s-pocket-sized-synthesizers": {
+            "title": "Making beats with Teenage Engineering's pocket-sized synthesizers...",
+            "snippet": "When I first heard about Teenage Engineering's Pocket Operators at last year's Moogfest, I was pretty skeptical. A card-sized digital synth in your pocket? Sure, it sounds cool. And yes, the folks at Teenage Engineering...",
+            "date": "2015-04-22",
+            "author_name": "Billy Steele",
+            "categories": "engineering",
+            "tags": "engineering",
+            "recuweb_url": "http://en.recuweb.com/engineering/engadget.com/2015/04/making-beats-with-teenage-engineering-s-pocket-sized-synthesizers",
+            "resource_url": "http://www.google.com/search?q=engineering%2Bengineering&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://engadget.com/2015/04/22/teenage-engineering-pocket-operators-irl/"
+        },
+        "dogonews.com/2015/04/engineering-students-use-sound-waves-to-extinguish-fires-kids": {
+            "title": "Engineering Students Use Sound Waves To Extinguish Fires Kids...",
+            "snippet": "Water, foam, sand, blankets, and even baking soda are well-known solutions to putting out flames. But sound waves? That has to be a first. But that is exactly what two young engineers from George Mason University are using...",
+            "date": "2015-04-21",
+            "author_name": "Shariqua Ahmed",
+            "categories": "university,engineering,students",
+            "tags": "using,university,engineers,well,engineering,students",
+            "recuweb_url": "http://en.recuweb.com/students/dogonews.com/2015/04/engineering-students-use-sound-waves-to-extinguish-fires-kids",
+            "resource_url": "http://www.google.com/search?q=engineering&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://dogonews.com/2015/4/21/engineering-students-use-sound-waves-to-extinguish-fires"
         },
         "techcrunch.com/2015/04/clever-hires-vp-of-engineering-from-square-techcrunch": {
             "title": "Clever Hires VP Of Engineering From Square - TechCrunch...",
             "snippet": "Clever today said it has hired Ben Adida, previously a director of engineering at Square, to be the company's VP of engineering. The company, which creates a third-party development platform that centers around applications...",
             "date": "2015-04-21",
-            "author_name": "techcrunch.com",
+            "author_name": "Matthew Lynley",
             "categories": "engineering",
-            "tags": "director,today,said,engineering",
+            "tags": "development,creates,today,said,engineering,techcrunch,director",
             "recuweb_url": "http://en.recuweb.com/engineering/techcrunch.com/2015/04/clever-hires-vp-of-engineering-from-square-techcrunch",
             "resource_url": "http://www.google.com/search?q=engineering%2Bengineering&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://techcrunch.com/2015/04/21/clever-hires-a-head-of-engineering-from-square/"
@@ -38,87 +105,21 @@
             "date": "2015-04-20",
             "author_name": "fruit",
             "categories": "engineering",
-            "tags": "people,work,engineering,without,year",
+            "tags": "engineering,work",
             "recuweb_url": "http://en.recuweb.com/engineering/ihost.ch/2015/04/what-you-should-know-about-consultants-this-year",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=engineering%2Bengineering&rss=1&lng=en",
             "source_url": "http://ihost.ch/what-you-should-know-about-consultants-this-year/"
         },
-        "blogs.unity3d.com/2015/04/a-report-from-the-inaugural-annual-unity-test-engineering-world": {
-            "title": "A report from The Inaugural Annual Unity Test Engineering World...",
-            "snippet": "The past few months were really busy for the Software Test Engineers team. We were all working hard...",
-            "date": "2015-04-17",
-            "author_name": "agnieszka",
+        "youtube-eng.blogspot.com/2015/04/youtube-engineering-and-developers-blog-bye": {
+            "title": "YouTube Engineering and Developers Blog: Bye-bye, YouTube...",
+            "snippet": "With the recent additions of comments, captions, and RSS push notifications, the Data API v3 supports almost every feature scheduled to be migrated from the soon-to-be-turned-down Data API v2. The only remaining feature...",
+            "date": "2015-04-20",
+            "author_name": "Ibrahim Ulukaya",
             "categories": "engineering",
-            "tags": "test,engineers,past,engineering,world",
-            "recuweb_url": "http://en.recuweb.com/engineering/blogs.unity3d.com/2015/04/a-report-from-the-inaugural-annual-unity-test-engineering-world",
+            "tags": "only,engineering,down",
+            "recuweb_url": "http://en.recuweb.com/engineering/youtube-eng.blogspot.com/2015/04/youtube-engineering-and-developers-blog-bye",
             "resource_url": "http://www.google.com/search?q=engineering%2Bengineering&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogs.unity3d.com/2015/04/17/a-report-from-the-inaugural-annual-unity-test-engineering-world-congress/"
-        },
-        "queensgradskingston.blogspot.com/2015/04/cameron-is-the-grad-of-day": {
-            "title": "Cameron is the Grad of the Day!",
-            "snippet": "Congratulations Cameron! on your upcoming graduation from Queen's University in 2015. Cameron will be graduating with a Bachelor of Science Engineering in Engineering Chemistry.",
-            "date": "2015-04-17",
-            "author_name": "Taylor Studios",
-            "categories": "engineering,chemistry,science,university",
-            "tags": "engineering,science,day,university",
-            "recuweb_url": "http://en.recuweb.com/university/queensgradskingston.blogspot.com/2015/04/cameron-is-the-grad-of-day",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=engineering%2Bengineering&rss=1&lng=en",
-            "source_url": "http://queensgradskingston.blogspot.com/2015/04/cameron-is-grad-of-day.html"
-        },
-        "businessinsider.com/2015/04/people-aren-t-ready-for-the-imminent-rise-of-genetic-engineering": {
-            "title": "People aren't ready for the imminent rise of genetic engineering...",
-            "snippet": "Today I would like to talk about genetic engineering and the field of genomics, the study of the entire human genome (DNA, RNA, and much, much more) and its interaction with its environment. I am very fortunate to be able to...",
-            "date": "2015-04-16",
-            "author_name": "Business Insider",
-            "categories": "environment,engineering",
-            "tags": "people,engineering,today,would",
-            "recuweb_url": "http://en.recuweb.com/engineering/businessinsider.com/2015/04/people-aren-t-ready-for-the-imminent-rise-of-genetic-engineering",
-            "resource_url": "http://www.google.com/search?q=engineering%2Bengineering&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://businessinsider.com/genetic-engineering-will-change-the-world-so-much-its-scary-but-heres-why-the-future-is-bright-2015-4"
-        },
-        "engineering.tamu.edu/2015/04/dwight-look-college-of-engineering-honors-outstanding-alumni-15": {
-            "title": "Dwight Look College of Engineering honors outstanding alumni 15...",
-            "snippet": "The Dwight Look College of Engineering at Texas A&M University honored eight alumni during the 2015 Outstanding Alumni Awards Banquet. Receiving the Outstanding Alumni Honor Award were David O. Craig '86, director...",
-            "date": "2015-04-15",
-            "author_name": "Timothy Schnettler",
-            "categories": "honor,university,college,engineering",
-            "tags": "university,during,college,engineering,director",
-            "recuweb_url": "http://en.recuweb.com/engineering/engineering.tamu.edu/2015/04/dwight-look-college-of-engineering-honors-outstanding-alumni-15",
-            "resource_url": "http://www.google.com/search?q=engineering%2Bengineering&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://engineering.tamu.edu/news/2015/04/15/dwight-look-college-of-engineering-honors-outstanding-alumni"
-        },
-        "qualityalchemist.blogspot.com/2015/04/cityu-omni-channel-retailing-innovation-seminar": {
-            "title": "CityU Omni-Channel Retailing Innovation Seminar...",
-            "snippet": "The CityU Omni-Channel Retailing Innovation Seminar was organized by CityU Engineering Doctorate (EngD) Society in the Department of Systems Engineering and Engineering Management (SEEM) on 14th April 2015. The seminar provides latest technology on...",
-            "date": "2015-04-14",
-            "author_name": "Quality Alchemist",
-            "categories": "technology,engineering,management,society",
-            "tags": "engineering",
-            "recuweb_url": "http://en.recuweb.com/society/qualityalchemist.blogspot.com/2015/04/cityu-omni-channel-retailing-innovation-seminar",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=engineering%2Bengineering&rss=1&lng=en",
-            "source_url": "http://qualityalchemist.blogspot.com/2015/04/cityu-omni-channel-retailing-innovation.html"
-        },
-        "sfwa.org/2015/04/usc-engineering-school-seeks-the-next-macgyver-sfwa": {
-            "title": "USC Engineering School Seeks The Next MacGyver - SFWA...",
-            "snippet": "News from the USC Engineering School: The University of Southern California has launched a global crowdsourcing competition, The Next MacGyver, aimed at developing a television show with a female engineer lead who...",
-            "date": "2015-04-14",
-            "author_name": "Editor",
-            "categories": "television,engineering,school,university",
-            "tags": "show,california,engineering,school,university",
-            "recuweb_url": "http://en.recuweb.com/university/sfwa.org/2015/04/usc-engineering-school-seeks-the-next-macgyver-sfwa",
-            "resource_url": "http://www.google.com/search?q=engineering%2Bengineering&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://sfwa.org/2015/04/usc-engineering-school-seeks-the-next-macgyver/"
-        },
-        "thestudentroom.co.uk/2015/04/aerospace-engineering-and-in-general": {
-            "title": "Aerospace engineering and engineering in general?",
-            "snippet": "Thread Starter Aerospace engineering and engineering in general? Follow 42 minutes ago 42m ago I would like to attend a top U.S University or U.K University and major in engineering, most probably aerospace but i could sway to biomedical, chemical...",
-            "date": "2015-04-10",
-            "author_name": "MaccaWare",
-            "categories": "engineering,university",
-            "tags": "could,major,ago,engineering,would,university",
-            "recuweb_url": "http://en.recuweb.com/university/thestudentroom.co.uk/2015/04/aerospace-engineering-and-in-general",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=engineering%2Bengineering&rss=1&lng=en",
-            "source_url": "http://thestudentroom.co.uk/showthread.php?t=3252629&goto=newpost"
+            "source_url": "http://youtube-eng.blogspot.com/2015/04/bye-bye-youtube-data-api-v2.html"
         }
     }
 }
