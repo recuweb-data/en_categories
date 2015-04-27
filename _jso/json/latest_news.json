@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "json",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/json/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/json/json/blogs.json"
     },
     "items": {
-        "eweek.com/2015/04/appcelerator-platform-now-can-build-apis-for-apple-watch": {
-            "title": "Appcelerator Platform Now Can Build APIs for Apple Watch...",
-            "snippet": "Mobile APIs must deliver payloads optimized for consumption on smaller screens and must translate traditional interface formats such as XML into modern ones such as JSON. Battery and bandwidth considerations also drive the need for rate limiting.",
-            "date": "2015-04-03",
-            "categories": "xml,json",
-            "tags": "consumption,interface,apis,xml,json",
-            "recuweb_url": "http://en.recuweb.com/json/eweek.com/2015/04/appcelerator-platform-now-can-build-apis-for-apple-watch",
+        "futuresmag.com/2015/04/barchart-ondemand-integrating-market-data-with-financial-apis": {
+            "title": "Barchart OnDemand: Integrating market data with financial market APIs...",
+            "snippet": "Barchart OnDemand is a cloud-based service which uses Amazon Web Services (AWS) and delivers web service APIs in JSON, XML and CSV format. We also provide source code in many different programming languages to help our clients get started and...",
+            "date": "2015-04-23",
+            "categories": "languages,web-services,json,xml",
+            "tags": "source,code,amazon,services,market,data,json,xml",
+            "recuweb_url": "http://en.recuweb.com/xml/futuresmag.com/2015/04/barchart-ondemand-integrating-market-data-with-financial-apis",
             "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
-            "source_url": "http://eweek.com/enterprise-apps/appcelerator-platform-now-can-build-apis-for-apple-watch.html"
+            "source_url": "http://futuresmag.com/2015/04/23/barchart-ondemand-integrating-market-data-financial-market-apis"
         },
-        "computerworld.com/2015/04/first-look-microsoft-s-azure-app-services-sweeten-cloud-development": {
-            "title": "First look: Microsoft's Azure App Services sweeten cloud development...",
-            "snippet": "The demo apps themselves havent changed much. Connectors are prebuilt API App Services that present a Swagger 2.0/JSON/REST interface to Azure, have an Azure UI for configuration and know how to use other services (Figure 4). REST is, of course...",
-            "date": "2015-04-03",
-            "categories": "json",
-            "tags": "interface,api,development,azure,swagger,json,rest",
-            "recuweb_url": "http://en.recuweb.com/json/computerworld.com/2015/04/first-look-microsoft-s-azure-app-services-sweeten-cloud-development",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
-            "source_url": "http://computerworld.com/article/2904736/first-look-microsoft-azure-app-services-cloud-development.html"
-        },
-        "infoq.com/2015/04/swagger-founder-makes-commitment-to-keep-project-open": {
-            "title": "Swagger Founder Makes Commitment to Keep Project Open...",
-            "snippet": "Can you summarize for us the main changes it brings compared to version 1.2? Tony: More complete JSON Schema support, which allows our tooling to support strong typed clients. It's been simplified so it is easier to read. We now have formal...",
-            "date": "2015-04-03",
-            "categories": "json",
-            "tags": "easier,read,json,version,project,open,swagger,tony,complete",
-            "recuweb_url": "http://en.recuweb.com/json/infoq.com/2015/04/swagger-founder-makes-commitment-to-keep-project-open",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
-            "source_url": "http://infoq.com/news/2015/04/swagger-founder-whats-next"
-        },
-        "infoq.com/2015/04/postgresql-advances-in-the-json-datastore-landscape": {
-            "title": "PostgreSQL advances in the JSON datastore landscape -...",
-            "snippet": "PostgreSQL advances in the JSON datastore version 9.2 Postgres supports the new JSON datatype and since 9.3 there were 12 new functions and dedicated JSON operators. Version 9.4 brought a binary JSON datatype allowing for mix and match between table...",
-            "date": "2015-04-02",
-            "categories": "landscape,json",
-            "tags": "version,json",
-            "recuweb_url": "http://en.recuweb.com/json/infoq.com/2015/04/postgresql-advances-in-the-json-datastore-landscape",
-            "resource_url": "http://news.google.com/?hl=en&q=json%2Bjson&output=atom&nord=1",
-            "source_url": "http://infoq.com/news/2015/04/Postgresql-JSON-Datastore"
-        },
-        "digi.no/2015/04/advarer-mot-hull-i-json-biblioteker": {
-            "title": "Advarer mot hull i JSON-biblioteker -...",
-            "snippet": "mot hull i Web Token (JWT) er en standard for sikker autentisering av moderne webapplikasjoner. Det advares n\u00e5 mot to kritiske s\u00e5rbarheter som er avdekket p\u00e5 tvers av en rekke tilh\u00f8rende kodebiblioteker. Del p\u00e5 Facebook Del p\u00e5 LinkedIn Share...",
-            "date": "2015-04-01",
-            "categories": "facebook,json",
-            "tags": "share,web,web_token,token,json,jwt",
-            "recuweb_url": "http://en.recuweb.com/json/digi.no/2015/04/advarer-mot-hull-i-json-biblioteker",
-            "resource_url": "http://news.google.com/?hl=en&q=json%2Bjson&output=atom&nord=1",
-            "source_url": "http://digi.no/sikkerhet/2015/04/01/advarer-mot-hull-i-json-biblioteker"
-        },
-        "gamasutra.com/2015/04/automated-transparent-development": {
-            "title": "Automated Transparent Development...",
-            "snippet": "Instead, my friend and colleague Adam Perry wrote a script to calculate this stuff. It consists of: A php file that runs on your server and outputs a json file to the web directory The JSON file outputted by step 1 Some front-end javascript to read...",
-            "date": "2015-04-01",
-            "categories": "php,json,javascript",
-            "tags": "read,step,web,php,development,json,javascript",
-            "recuweb_url": "http://en.recuweb.com/javascript/gamasutra.com/2015/04/automated-transparent-development",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
-            "source_url": "http://gamasutra.com/blogs/LarsDoucet/20150401/240254/Automated_Transparent_Development.php"
-        },
-        "threatpost.com/2015/04/critical-vulnerabilities-affect-json-web-token-libraries-threatpost": {
-            "title": "Critical Vulnerabilities Affect JSON Web Token Libraries - Threatpost...",
-            "snippet": "ThreatpostCritical Vulnerabilities Affect JSON Web Token LibrariesThreatpostCritical vulnerabilities exist in several JSON Web Token (JWT) libraries namely the JavaScript and PHP versions that could let an attacker bypass the verification step. Tim...",
-            "date": "2015-04-01",
-            "categories": "json,javascript,php",
-            "tags": "step,json,web,web_token,token,jwt,javascript,php",
-            "recuweb_url": "http://en.recuweb.com/php/threatpost.com/2015/04/critical-vulnerabilities-affect-json-web-token-libraries-threatpost",
-            "resource_url": "http://news.google.com/?hl=en&q=json%2Bjson&output=atom&nord=1",
-            "source_url": "http://threatpost.com/critical-vulnerabilities-affect-json-web-token-libraries/111943"
-        },
-        "androidcentral.com/2015/03/the-best-text-editors-for-your-chromebook": {
-            "title": "The best text editors for your Chromebook...",
-            "snippet": "It offers full syntax highlighting, project management, a tabbed interface and is completely open-source and hackable through JSON settings files. It's also fully offline for those times when you don't have an Internet connection but still have the...",
-            "date": "2015-03-31",
-            "categories": "management,syntax,json,internet",
-            "tags": "interface,open,project,best,json",
-            "recuweb_url": "http://en.recuweb.com/internet/androidcentral.com/2015/03/the-best-text-editors-for-your-chromebook",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
-            "source_url": "http://androidcentral.com/best-text-editors-your-chromebook"
-        },
-        "visualstudiomagazine.com/2015/03/inside-the-azure-api-tools-for-visual-studio-2013": {
-            "title": "Inside the Azure API Tools for Visual Studio 2013...",
-            "snippet": "Additionally, there is a new consumption system in Visual Studio that provides one-click C code generation features to make it easier than ever to consume REST APIs without needing to write repetitive HTTP calls or JSON or XML parsing. Gaster...",
-            "date": "2015-03-30",
+        "markets.financialcontent.com/2015/04/rassini-de-c-v-and-subsidiaries-unaudited-results": {
+            "title": "Rassini,. de C.V. and Subsidiaries Unaudited Results for the First Quarter of 2015...",
+            "snippet": "Stock Market XML and JSON Data API provided by FinancialContent Services, Inc. Nasdaq quotes delayed at least 15 minutes, all others at least 20 minutes.",
+            "date": "2015-04-23",
             "categories": "json,xml",
-            "tags": "rest,apis,make,easier,consumption,azure,api,json,xml,parsing",
-            "recuweb_url": "http://en.recuweb.com/xml/visualstudiomagazine.com/2015/03/inside-the-azure-api-tools-for-visual-studio-2013",
+            "tags": "services,json,data,market,xml",
+            "recuweb_url": "http://en.recuweb.com/xml/markets.financialcontent.com/2015/04/rassini-de-c-v-and-subsidiaries-unaudited-results",
             "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
-            "source_url": "http://visualstudiomagazine.com/articles/2015/03/30/azure-api-tools-for-visual-studio-2013.aspx"
+            "source_url": "http://markets.financialcontent.com/stocks/news/read?GUID=29733738"
         },
-        "programmableweb.com/2015/03/make-your-api-send-the-same-data-but-with-less-json": {
-            "title": "Make Your API Send The Same Data But With Less JSON - ProgrammableWeb...",
-            "snippet": "Make Your API Send The Same Data But With Less JSONProgrammableWebIn this example showing two different approaches to serialization of the same exact GPS data, the author finds a way to save 57 bytes of data on each trip. 57 bytes may not sound like...",
-            "date": "2015-03-30",
-            "categories": "json",
-            "tags": "make,api,data,json",
-            "recuweb_url": "http://en.recuweb.com/json/programmableweb.com/2015/03/make-your-api-send-the-same-data-but-with-less-json",
+        "thenextweb.com/2015/04/the-14-best-data-visualization-tools": {
+            "title": "The 14 best data visualization tools...",
+            "snippet": "It not only supports modern browsers, but also older browsers starting from IE 6. FusionCharts supports both JSON and XML data formats, and you can export charts in PNG, JPEG, SVG or PDF. They have a nice collection of business dashboards and live...",
+            "date": "2015-04-23",
+            "categories": "business,json,xml",
+            "tags": "collection,data,formats,json,xml",
+            "recuweb_url": "http://en.recuweb.com/xml/thenextweb.com/2015/04/the-14-best-data-visualization-tools",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
+            "source_url": "http://thenextweb.com/dd/2015/04/21/the-14-best-data-visualization-tools/"
+        },
+        "programmableweb.com/2015/04/google-enables-json-search-history-downloads-programmableweb": {
+            "title": "Google Enables JSON Search History Downloads - ProgrammableWeb...",
+            "snippet": "ProgrammableWebGoogle Enables JSON Search History DownloadsProgrammableWebThe actual search history data is contained in a JSON file within the ZIP. Each JSON file corresponds to a date range and has a schema that describes the search events that...",
+            "date": "2015-04-22",
+            "categories": "events,json,google",
+            "tags": "file,date,search,data,json,google",
+            "recuweb_url": "http://en.recuweb.com/google/programmableweb.com/2015/04/google-enables-json-search-history-downloads-programmableweb",
             "resource_url": "http://news.google.com/?hl=en&q=json%2Bjson&output=atom&nord=1",
-            "source_url": "http://programmableweb.com/news/make-your-api-send-same-data-less-json/how-to/2015/03/30"
+            "source_url": "http://programmableweb.com/news/google-enables-json-search-history-downloads/2015/04/22"
+        },
+        "eweek.com/2015/04/google-s-jsonnet-language-generates-json": {
+            "title": "Google's Jsonnet Language Generates JSON...",
+            "snippet": "Google has produced a new data templating language called Jsonnet, a portmanteau of JSON and sonnet, that generates JSON. Google recently introduced a new open-source configuration language for generating JSON known as Jsonnet. Google quietly...",
+            "date": "2015-04-22",
+            "categories": "json,google",
+            "tags": "source,configuration,configuration-language,language,open,data,jsonnet,json,google",
+            "recuweb_url": "http://en.recuweb.com/google/eweek.com/2015/04/google-s-jsonnet-language-generates-json",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
+            "source_url": "http://eweek.com/developer/googles-jsonnet-language-generates-json.html"
+        },
+        "infoq.com/2015/04/google-proposes-to-enhance-json-with-jsonnet": {
+            "title": "Google Proposes to Enhance JSON with Jsonnet...",
+            "snippet": "Google has open sourced Jsonnet, a configuration language that supersedes JSON and adds new features without breaking backwards compatibility: comments, references, arithmetic and conditional operators, array and object comprehension, imports,...",
+            "date": "2015-04-21",
+            "categories": "json,google",
+            "tags": "configuration,configuration-language,language,open,json,google,jsonnet",
+            "recuweb_url": "http://en.recuweb.com/google/infoq.com/2015/04/google-proposes-to-enhance-json-with-jsonnet",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
+            "source_url": "http://infoq.com/news/2015/04/jsonnet"
+        },
+        "tomsguide.com/2015/04/how-to-download-or-delete-your-google-search-history-tom": {
+            "title": "How to Download or Delete Your Google Search History - Tom's Guide...",
+            "snippet": "Tom's GuideHow to Download or Delete Your Google Search HistoryTom's GuideA JSON Viewer application will make the data more comprehensible, but it will also take much longer to read. Between the difficulty in acquiring, reading and parsing them, the...",
+            "date": "2015-04-21",
+            "categories": "json,google",
+            "tags": "parsing,read,application,data,json,google,search",
+            "recuweb_url": "http://en.recuweb.com/google/tomsguide.com/2015/04/how-to-download-or-delete-your-google-search-history-tom",
+            "resource_url": "http://news.google.com/?hl=en&q=json%2Bjson&output=atom&nord=1",
+            "source_url": "http://tomsguide.com/us/delete-google-search-history,news-20802.html"
+        },
+        "pcworld.com/2015/04/how-to-download-your-entire-google-search-history": {
+            "title": "How to download your entire Google search history...",
+            "snippet": "There isn't much you'll be able to do with your search history unless you're a developer, as the archive is just a collection of JSON files. Over time, however, other search services may let you import your Google search history. Here's how to get...",
+            "date": "2015-04-21",
+            "categories": "google,json",
+            "tags": "search,services,collection,google,json,however,here",
+            "recuweb_url": "http://en.recuweb.com/json/pcworld.com/2015/04/how-to-download-your-entire-google-search-history",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
+            "source_url": "http://pcworld.com/article/2912358/how-to-download-your-entire-google-search-history.html"
+        },
+        "radar.oreilly.com/2015/04/the-log-lifeblood-of-your-data-pipeline": {
+            "title": "The log: The lifeblood of your data pipeline...",
+            "snippet": "Several formats are strong candidates: Protocol Buffer, MessagePack, Thrift, etc. However, JSON seems to be the clear winner for one critical reason: It is human readable. At the end of the day, humans also need to read the logs occasionally to...",
+            "date": "2015-04-21",
+            "categories": "json",
+            "tags": "read,formats,data,however,json",
+            "recuweb_url": "http://en.recuweb.com/json/radar.oreilly.com/2015/04/the-log-lifeblood-of-your-data-pipeline",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
+            "source_url": "http://radar.oreilly.com/2015/04/the-log-the-lifeblood-of-your-data-pipeline.html"
+        },
+        "sitepoint.com/2015/04/create-data-visualizations-in-javascript-using-dimple-and-d3": {
+            "title": "Create Data Visualizations in JavaScript using Dimple and D3...",
+            "snippet": "We are going to use a JSON data structure for this grouping. To illustrate this, lets process the first three entries of the file. These can be grouped into one line stating that the MCIs J4500 from the years 2013...",
+            "date": "2015-04-20",
+            "categories": "javascript,json",
+            "tags": "file,data,json",
+            "recuweb_url": "http://en.recuweb.com/json/sitepoint.com/2015/04/create-data-visualizations-in-javascript-using-dimple-and-d3",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
+            "source_url": "http://sitepoint.com/create-data-visualizations-javascript-dimple-d3/"
         }
     }
 }
