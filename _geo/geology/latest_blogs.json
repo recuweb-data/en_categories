@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "geology",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/geology/",
@@ -10,38 +11,60 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/geology/geology/blogs.json"
     },
     "items": {
-        "arizonageology.blogspot.com/2015/04/arizona-geology-geologic-mapping-projects-funded": {
-            "title": "Arizona Geology: Geologic mapping projects funded...",
-            "snippet": "The U.S. Geological Survey's National Cooperative Geologic Mapping Program (NCGMP) has awarded the AZGS 170,940 to support geologic mapping near Oatman in Mohave County, Quartzsite in La Paz County, and...",
-            "date": "2015-04-22",
-            "author_name": "Lee Allison",
-            "categories": "geology",
-            "tags": "national,geological,geology",
-            "recuweb_url": "http://en.recuweb.com/geology/arizonageology.blogspot.com/2015/04/arizona-geology-geologic-mapping-projects-funded",
+        "geologyinmotion.com/2015/04/geology-in-motion-magnitude-earthquake-strikes-near": {
+            "title": "Geology in Motion: Magnitude earthquake strikes near...",
+            "snippet": "A strong earthquake occurred in Nepal about 14 hours ago, and as I write this the death toll from the earthquake has risen to 1,457, with more deaths expected. The people face a cold night without shelter, water or electricity in...",
+            "date": "2015-04-25",
+            "author_name": "Susan W. Kieffer",
+            "categories": "death,geology",
+            "tags": "water,ago,near,geology,earthquake,nepal,people",
+            "recuweb_url": "http://en.recuweb.com/geology/geologyinmotion.com/2015/04/geology-in-motion-magnitude-earthquake-strikes-near",
             "resource_url": "http://www.google.com/search?q=geology%2Bgeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://arizonageology.blogspot.com/2015/04/geologic-mapping-projects-funded.html"
+            "source_url": "http://geologyinmotion.com/2015/04/magnitude-78-79-earthquake-strikes-near.html"
         },
-        "stanforddaily.com/2015/04/lecture-discusses-geology-of-game-thrones-stanford-daily": {
-            "title": "Lecture discusses geology of 'Game of Thrones'Stanford Daily...",
-            "snippet": "Stanford alumnus Miles Traer M.S. '11 Ph.D. '14 delivered a humorous and energetic lecture on Friday about the geology of the fictional world the book and TV series Game of Thrones inhabits. The lecture was part of a...",
+        "dailygalaxy.com/2015/04/life-on-tau-ceti-geology-is-fundamental-to-the-habitability-of": {
+            "title": "Life on Tau Ceti? --\"Geology is Fundamental to the Habitability of...",
+            "snippet": "The Tau Ceti system, popularized in several fictional works, including Star Trek, has long been used in science fiction, and even popular news, as a very likely place to have life due to its proximity to Earth and the star's...",
+            "date": "2015-04-23",
+            "author_name": "dailygalaxy.com",
+            "categories": "life,geology,science,earth",
+            "tags": "ely,place,due,even,long,geology,science,earth",
+            "recuweb_url": "http://en.recuweb.com/earth/dailygalaxy.com/2015/04/life-on-tau-ceti-geology-is-fundamental-to-the-habitability-of",
+            "resource_url": "http://www.google.com/search?q=geology%2Bgeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://dailygalaxy.com/my_weblog/2015/04/life-on-tau-ceti-geology-is-fundamental-to-the-habitability-of-planets.html"
+        },
+        "gimpasaura.blogspot.com/2015/04/musings-of-a-clumsy-palaeontologist-fossils-and-geology": {
+            "title": "Musings of a Clumsy Palaeontologist: Fossils and Geology...",
+            "snippet": "A few weeks ago, I was demonstrating on a geology field course in Wales. It was fantastic for several reasons - I had a great time, it was out on the coast of Wales mostly on the coast, and more importantly, it reminded me of...",
+            "date": "2015-04-23",
+            "author_name": "gimpasaura",
+            "categories": "geology",
+            "tags": "coast,great,course,weeks,weeks-ago,ago,geology",
+            "recuweb_url": "http://en.recuweb.com/geology/gimpasaura.blogspot.com/2015/04/musings-of-a-clumsy-palaeontologist-fossils-and-geology",
+            "resource_url": "http://www.google.com/search?q=geology%2Bgeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://gimpasaura.blogspot.com/2015/04/fossils-and-geology.html"
+        },
+        "phys.org/2015/04/oklahoma-geology-group-links-earthquakes-to-oil-waste-wells": {
+            "title": "Oklahoma geology group links earthquakes to oil waste wells...",
+            "snippet": "The Oklahoma Geological Survey said Tuesday it is 'very likely'that most of the state's recent earthquakes were triggered by the subsurface injection of wastewater from oil and natural gas drilling operations.",
+            "date": "2015-04-21",
+            "author_name": "unknown",
+            "categories": "natural-gas,geology",
+            "tags": "triggered,state,wells,geology,group,said,ely",
+            "recuweb_url": "http://en.recuweb.com/geology/phys.org/2015/04/oklahoma-geology-group-links-earthquakes-to-oil-waste-wells",
+            "resource_url": "http://www.google.com/search?q=geology%2Bgeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://phys.org/news/2015-04-oklahoma-geology-group-links-earthquakes.html"
+        },
+        "blogs.agu.org/2015/04/monday-geology-picture-conglomerate-near-oudtshoorn-south": {
+            "title": "Monday Geology Picture: Conglomerate Near Oudtshoorn, South...",
+            "snippet": "A couple of weeks ago I spent part of a weekend staying near Oudtshoorn, South Africa. During a hike, I walked by and, at times, across a beautiful Cretaceous age conglomerate. Here's one image of the conglomerate, taken...",
             "date": "2015-04-20",
-            "author_name": "Caleb Smith",
+            "author_name": "unknown",
             "categories": "geology",
-            "tags": "part,fictional,miles,daily,geology",
-            "recuweb_url": "http://en.recuweb.com/geology/stanforddaily.com/2015/04/lecture-discusses-geology-of-game-thrones-stanford-daily",
+            "tags": "part,near,weeks,weeks-ago,ago,geology,here",
+            "recuweb_url": "http://en.recuweb.com/geology/blogs.agu.org/2015/04/monday-geology-picture-conglomerate-near-oudtshoorn-south",
             "resource_url": "http://www.google.com/search?q=geology%2Bgeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://stanforddaily.com/2015/04/19/lecture-discusses-geology-of-game-of-thrones/"
-        },
-        "news.colgate.edu/2015/04/geology-professor-karen-harpp-wins-2015-balmuth-award-colgate": {
-            "title": "Geology professor Karen Harpp wins 2015 Balmuth Award Colgate...",
-            "snippet": "Last week, Associate Professor of Geology and Peace and Conflict Studies Karen Harpp added a 13th line to her list of teaching accolades when she received the 2015 Jerome Balmuth Award for Teaching and Student...",
-            "date": "2015-04-17",
-            "author_name": "Mark Walden",
-            "categories": "teaching,geology",
-            "tags": "professor,geology",
-            "recuweb_url": "http://en.recuweb.com/geology/news.colgate.edu/2015/04/geology-professor-karen-harpp-wins-2015-balmuth-award-colgate",
-            "resource_url": "http://www.google.com/search?q=geology%2Bgeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://news.colgate.edu/2015/04/geology-professor-karen-harpp-wins-2015-balmuth-award.html/"
+            "source_url": "http://blogs.agu.org/georneys/2015/04/20/monday-geology-picture-conglomerate-near-outdshoorn-south-africa/"
         },
         "patheos.com/2015/04/talpiot-tomb-geology-patheos": {
             "title": "Talpiot Tomb Geology - Patheos...",
@@ -49,7 +72,7 @@
             "date": "2015-04-16",
             "author_name": "James F. McGrath",
             "categories": "geology",
-            "tags": "geology",
+            "tags": "course,geology",
             "recuweb_url": "http://en.recuweb.com/geology/patheos.com/2015/04/talpiot-tomb-geology-patheos",
             "resource_url": "http://www.google.com/search?q=geology%2Bgeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://patheos.com/blogs/exploringourmatrix/2015/04/talpiot-tomb-geology.html"
@@ -60,32 +83,32 @@
             "date": "2015-04-15",
             "author_name": "admin",
             "categories": "geology,earth",
-            "tags": "particularly,long,levels,made,state,geology,earth",
+            "tags": "place,long,ago,great,state,nevada,geology,earth,made",
             "recuweb_url": "http://en.recuweb.com/earth/rlwphoto.com/2015/04/valley-of-fire-2",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=geology%2Bgeology&rss=1&lng=en",
             "source_url": "http://rlwphoto.com/?p=1242"
         },
-        "blogs.agu.org/2015/04/monday-geology-picture-sydney-sandstone-building-stones": {
-            "title": "Monday Geology Picture: Sydney Sandstone Building Stones...",
-            "snippet": "During my recent travels in Australia, I noticed quite a bit of sandstone around Sydney. Therefore, I was not particularly surprised to also see quite a few sandstone building stones around the city. For example, the stones...",
-            "date": "2015-04-13",
-            "author_name": "unknown",
-            "categories": "travel,geology",
-            "tags": "particularly,around,city,geology",
-            "recuweb_url": "http://en.recuweb.com/geology/blogs.agu.org/2015/04/monday-geology-picture-sydney-sandstone-building-stones",
+        "azhydrosoc.org/2015/04/asu-geology-club-2015-meet-&-greet-arizona-hydrological-society": {
+            "title": "ASU Geology Club 2015 Meet & Greet - Arizona Hydrological Society...",
+            "snippet": "Date: Wednesday, April 8, 2015. Time: 7:008:30 p.m.. Location: ISTB4 Room 240 781 Terrace Road, Tempe, AZ. The Geology Club at the ASU School of Earth and Space Exploration (SESE) invites employers to participate...",
+            "date": "2015-04-03",
+            "author_name": "AHS Admin",
+            "categories": "exploration,school,geology,society,earth",
+            "tags": "geology,geology_club,club,arizona,society,room,earth",
+            "recuweb_url": "http://en.recuweb.com/earth/azhydrosoc.org/2015/04/asu-geology-club-2015-meet-&-greet-arizona-hydrological-society",
             "resource_url": "http://www.google.com/search?q=geology%2Bgeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogs.agu.org/georneys/2015/04/13/monday-geology-picture-sydney-sandstone-building-stones/"
+            "source_url": "http://azhydrosoc.org/asu-geology-club-2015-meet-greet/"
         },
-        "archdaily.com/2015/04/geology-museum-leemundwiler-architects-archdaily": {
-            "title": "Geology Museum/LeeMundwiler Architects ArchDaily...",
-            "snippet": "This historic land formation is still apparent in the nature around the peninsular and coastal lines and these geological findings were our inspiration to design the museum. Yujiang Peng. Elevated from the street against a...",
-            "date": "2015-04-06",
-            "author_name": "AD Editorial Team",
-            "categories": "nature,geology",
-            "tags": "around,geological,geology",
-            "recuweb_url": "http://en.recuweb.com/geology/archdaily.com/2015/04/geology-museum-leemundwiler-architects-archdaily",
+        "azhydrosoc.org/2015/04/central-arizona-geology-club-meeting-april-9": {
+            "title": "Central Arizona Geology Club Meeting April 9 - Arizona...",
+            "snippet": "The next Central Arizona Geology Club meeting will be on Thursday April 9, at the normal time and place the Prescott Library Founders Room, 6:30 pm. The speaker will be George Billingsley, who is retired from the USGS.",
+            "date": "2015-04-03",
+            "author_name": "AHS Admin",
+            "categories": "geology",
+            "tags": "room,place,geology,geology_club,club,meeting,arizona",
+            "recuweb_url": "http://en.recuweb.com/geology/azhydrosoc.org/2015/04/central-arizona-geology-club-meeting-april-9",
             "resource_url": "http://www.google.com/search?q=geology%2Bgeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://archdaily.com/615825/geology-museum-leemundwiler-architects/"
+            "source_url": "http://azhydrosoc.org/central-arizona-geology-club-meeting-april-9/"
         },
         "sci-news.com/2015/03/geologists-discover-new-layer-in-earth-s-mantle-geology-sci": {
             "title": "Geologists Discover New Layer in Earth's Mantle Geology Sci...",
@@ -93,31 +116,10 @@
             "date": "2015-03-24",
             "author_name": "Sci-News.com",
             "categories": "geology,earth,university",
-            "tags": "part,rock,inside,geology,earth,planet",
+            "tags": "part,rock,geology,earth,university,inside,planet",
             "recuweb_url": "http://en.recuweb.com/university/sci-news.com/2015/03/geologists-discover-new-layer-in-earth-s-mantle-geology-sci",
             "resource_url": "http://www.google.com/search?q=geology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://sci-news.com/geology/science-new-layer-earths-mantle-02631.html"
-        },
-        "phys.org/2015/03/humble-neutron-is-valuable-tool-in-geology": {
-            "title": "Humble neutron is valuable tool in geology -...",
-            "snippet": "The application of neutron science techniques in the field of geology did not occur in isolation. Their use followed several decades after the construction of the first x-ray sources, which perform similar types of analyses but in...",
-            "date": "2015-03-16",
-            "author_name": "unknown",
-            "categories": "construction,geology,science",
-            "tags": "geology,science,after,first",
-            "recuweb_url": "http://en.recuweb.com/science/phys.org/2015/03/humble-neutron-is-valuable-tool-in-geology",
-            "resource_url": "http://www.google.com/search?q=geology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://phys.org/news/2015-03-humble-neutron-valuable-tool-geology.html"
-        },
-        "reddit.com/2015/02/i-m-a-geology-professor-and-thought-r-would-enjoy-small": {
-            "title": "I'm a geology professor and I thought r/geology would enjoy a small sample of the memes and humor I...",
-            "snippet": "I'm a geology professor and I thought r/geology would enjoy a small sample of the memes and humor I...",
-            "date": "2015-02-13",
-            "categories": "geology",
-            "tags": "would,geology,professor",
-            "recuweb_url": "http://en.recuweb.com/geology/reddit.com/2015/02/i-m-a-geology-professor-and-thought-r-would-enjoy-small",
-            "resource_url": "http://www.reddit.com/search.rss?q=geology%2Bgeology&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/geology/comments/2vscc0/im_a_geology_professor_and_i_thought_rgeology/"
         }
     }
 }
