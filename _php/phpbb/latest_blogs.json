@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "phpbb",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/phpbb/",
@@ -16,7 +17,7 @@
             "date": "2015-02-04",
             "author_name": "opensource_geek",
             "categories": "phpbb,wiki,internet,php",
-            "tags": "bulletin,board,phpbb,package,forum,free,open",
+            "tags": "board,phpbb,language,package,forum,php,free",
             "recuweb_url": "http://en.recuweb.com/php/linuxgurublog.wordpress.com/2015/02/phpbb-a-complete-opensource-forum",
             "resource_url": "http://en.search.wordpress.com/?q=phpbb%2Bphpbb&f=feed&page=1",
             "source_url": "http://linuxgurublog.wordpress.com/2015/02/04/phpbb-a-complete-opensource-forum/"
@@ -27,7 +28,7 @@
             "date": "2015-01-06",
             "author_name": "DivaVocals",
             "categories": "zen,phpbb",
-            "tags": "only,same,phpbb,site,any,page",
+            "tags": "only,same,site,phpbb,any,page",
             "recuweb_url": "http://en.recuweb.com/phpbb/zen-cart.com/2015/01/v154-mysqli-connect-errors-was-phpbb-switch-enabled",
             "resource_url": "http://www.google.com/search?q=phpbb%2Bphpbb&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://zen-cart.com/showthread.php?215749-mysqli_connect()-Errors-(was-phpBB-switch-enabled-but-no-db-for-it)"
@@ -49,7 +50,7 @@
             "date": "2014-12-24",
             "author_name": "Marshalrusty",
             "categories": "events,phpbb",
-            "tags": "way,boards,online,look,phpbb,hello,everyone,first,any",
+            "tags": "way,online,phpbb,hello,everyone,any",
             "recuweb_url": "http://en.recuweb.com/phpbb/phpbb.com/2014/12/phpbb-welcome-back",
             "resource_url": "http://www.google.com/search?q=phpbb%2Bphpbb&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://phpbb.com/community/viewtopic.php?f=14&t=2283426"
@@ -60,7 +61,7 @@
             "date": "2014-11-30",
             "author_name": "tumba25",
             "categories": "phpbb",
-            "tags": "board,mouse,install,server,only,many,installations,phpbb,release",
+            "tags": "board,server,only,phpbb,release,install",
             "recuweb_url": "http://en.recuweb.com/phpbb/phpbb.com/2014/11/phpbb-quickinstall-release",
             "resource_url": "http://www.google.com/search?q=phpbb%2Bphpbb&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://phpbb.com/community/viewtopic.php?f=14&t=2279496"
@@ -71,7 +72,7 @@
             "date": "2014-11-25",
             "author_name": "naderman",
             "categories": "phpbb",
-            "tags": "release,update,phpbb,today",
+            "tags": "release,please,update,phpbb,today",
             "recuweb_url": "http://en.recuweb.com/phpbb/phpbb.com/2014/11/phpbb-release-please-update",
             "resource_url": "http://www.google.com/search?q=phpbb%2Bphpbb&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://phpbb.com/community/viewtopic.php?f=14&t=2278081"
@@ -82,7 +83,7 @@
             "date": "2014-10-28",
             "author_name": "naderman",
             "categories": "phpbb",
-            "tags": "features,many,help,hundreds,ascraeus,release,phpbb,today,community,best,version",
+            "tags": "features,help,hundreds,ascraeus,release,phpbb,today,community,version",
             "recuweb_url": "http://en.recuweb.com/phpbb/phpbb.com/2014/10/phpbb-3-1-ascraeus-feature-release-published",
             "resource_url": "http://www.google.com/search?q=phpbb%2Bphpbb&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://phpbb.com/community/viewtopic.php?f=14&t=2268866"
@@ -103,7 +104,7 @@
             "snippet": "If you've not been up to date on the developments on The Home Brew Forum, you may have missed the recent transfer of ownership from a volunteer team to a commercial outfit. The first many knew of this was when on 1st April, the phpBB installation...",
             "date": "2014-04-08",
             "categories": "home,death,phpbb",
-            "tags": "first,many,forum,phpbb,installation",
+            "tags": "forum,phpbb",
             "recuweb_url": "http://en.recuweb.com/phpbb/reddit.com/2014/04/invasion-of-the-texicans-or-otherwise-known-as-death-a-homebrew",
             "resource_url": "http://www.reddit.com/search.rss?q=phpbb%2Bphpbb&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/Homebrewing/comments/22k41g/invasion_of_the_texicans_or_otherwise_known_as/"
@@ -113,9 +114,9 @@
             "snippet": "This will take several steps AND both wordpress and Phpbb must be on one and the same server. First, download plugins for both Wordpress and Phpbb WP-UNITED FOR []...",
             "date": "2014-04-07",
             "author_name": "teresagiesecke",
-            "categories": "phpbb,wordpress",
-            "tags": "same,server,phpbb,wordpress,first,united",
-            "recuweb_url": "http://en.recuweb.com/wordpress/teresagiesecke.wordpress.com/2014/04/wordpress-to-phpbb-auto-posting-cross",
+            "categories": "wordpress,phpbb",
+            "tags": "same,server,wordpress,phpbb,united",
+            "recuweb_url": "http://en.recuweb.com/phpbb/teresagiesecke.wordpress.com/2014/04/wordpress-to-phpbb-auto-posting-cross",
             "resource_url": "http://en.search.wordpress.com/?q=phpbb%2Bphpbb&f=feed&page=1",
             "source_url": "http://teresagiesecke.wordpress.com/2014/04/07/wordpress-to-phpbb-auto-posting-cross-posting/"
         }
