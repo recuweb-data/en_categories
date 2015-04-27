@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "web-analytics",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/web-analytics/",
@@ -10,100 +11,103 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/web-analytics/web-analytics/blogs.json"
     },
     "items": {
+        "venturebeat.com/2015/04/3-steps-to-help-any-b2b-marketer-win-with-data": {
+            "title": "3 steps to help any B2B marketer win with data...",
+            "snippet": "For example, a product that connects your entire marketing stack including web analytics, marketing automation, CRM, and more can develop instant insights for the user. Adjustments can be made in a matter of minutes, versus months and help...",
+            "date": "2015-04-24",
+            "categories": "marketing",
+            "tags": "help,instant,instant-insights,insights,user,marketing,data,steps,web,analytics,crm",
+            "recuweb_url": "http://en.recuweb.com/marketing/venturebeat.com/2015/04/3-steps-to-help-any-b2b-marketer-win-with-data",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Banalytics&format=RSS&cc=us",
+            "source_url": "http://venturebeat.com/2015/04/23/3-steps-to-help-any-b2b-marketer-win-with-data-including-those-who-dont-have-a-degree-in-data-science/"
+        },
+        "thedrum.com/2015/04/five-ways-to-squeeze-more-juice-from-google-analytics": {
+            "title": "Five ways to squeeze more juice from Google Analytics...",
+            "snippet": "Google Analytics is the most popular free web analytics tool around, however most business users only scratch the surface of its capabilities. Here are five tricks for getting more from Google Analytics that I usually share during our corporate...",
+            "date": "2015-04-24",
+            "categories": "business,google",
+            "tags": "business,users,tool,google,google_analytics,analytics,free,web",
+            "recuweb_url": "http://en.recuweb.com/google/thedrum.com/2015/04/five-ways-to-squeeze-more-juice-from-google-analytics",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Banalytics&format=RSS&cc=us",
+            "source_url": "http://thedrum.com/opinion/2015/04/24/five-ways-squeeze-more-juice-google-analytics"
+        },
+        "pbs.org/2015/04/how-user-feedback-informed-my-data-journalism-training-program": {
+            "title": "How User Feedback Informed My Data Journalism Training Program...",
+            "snippet": "But it could be tricky, as Malaysiakini does not analyze the web analytics it collects. To my surprise, the participants started to brainstorm on data journalism projects right after the training and came up with seven ideas, several of which are...",
+            "date": "2015-04-24",
+            "categories": "journalism",
+            "tags": "data,user,analyze,web,analytics",
+            "recuweb_url": "http://en.recuweb.com/journalism/pbs.org/2015/04/how-user-feedback-informed-my-data-journalism-training-program",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Banalytics&format=RSS&cc=us",
+            "source_url": "http://pbs.org/idealab/2015/04/how-user-feedback-informed-my-data-journalism-training-program/"
+        },
+        "destinationcrm.com/2015/04/answerdash-launches-new-web-analytics-features": {
+            "title": "AnswerDash Launches New Web Analytics Features...",
+            "snippet": "AnswerDash, a provider Web analytics technology, today launched analytics features that provide instant insights into users'behaviors. Companies can use AnswerDash analytics to gain access into consumers'actual behaviors on their Web sites and...",
+            "date": "2015-04-23",
+            "categories": "web-analytics,technology",
+            "tags": "sites,provide,instant,instant-insights,insights,users,web,web_analytics,analytics",
+            "recuweb_url": "http://en.recuweb.com/technology/destinationcrm.com/2015/04/answerdash-launches-new-web-analytics-features",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Banalytics&format=RSS&cc=us",
+            "source_url": "http://destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/AnswerDash-Launches-New-Web-Analytics-Features-103476.aspx"
+        },
         "marketingland.com/2015/04/back-to-basics-what-content-marketers-need-know-about-google-analytics": {
             "title": "Back to Basics: What Content Marketers Need to Know About Google Analytics...",
             "snippet": "Even if your team uses another Web analytics platform, such as Omniture, a primer on Google Analytics will help facilitate conversations on what to track and how to report on those metrics. If your team understands the following three elements of...",
             "date": "2015-04-23",
             "categories": "google",
-            "tags": "google,google_analytics,analytics,marketers,need,web",
+            "tags": "help,track,google,google_analytics,analytics,marketers,even,web",
             "recuweb_url": "http://en.recuweb.com/google/marketingland.com/2015/04/back-to-basics-what-content-marketers-need-know-about-google-analytics",
             "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Banalytics&format=RSS&cc=us",
             "source_url": "http://marketingland.com/back-basics-content-marketers-need-know-google-analytics-125086"
-        },
-        "azcentral.com/2015/04/how-mobilegeddon-could-kill-traffic-to-your-website": {
-            "title": "How 'Mobilegeddon'could kill traffic to your website -...",
-            "snippet": "'Mobilegeddon'could kill traffic to your 'd also suggest monitoring your web analytics closely to compare traffic before and after April 21 to see if any popular pages had a significant drop-off in traffic. While you're at it, take the time to test...",
-            "date": "2015-04-23",
-            "tags": "traffic,mobilegeddon,web,analytics",
-            "recuweb_url": "http://en.recuweb.com/azcentral.com/2015/04/how-mobilegeddon-could-kill-traffic-to-your-website",
-            "resource_url": "http://news.google.com/?hl=en&q=web%2Banalytics%2Bweb%2Banalytics&output=atom&nord=1",
-            "source_url": "http://azcentral.com/story/money/business/tech/2015/04/22/mobilegeddon-kill-traffic-website/26216223/"
         },
         "sdtimes.com/2015/04/ibm-s-cyber-threat-analytics-in-the-cloud-and-google-new": {
             "title": "IBM's cyber threat analytics in the cloud, and Google's new Web protocolSD... -...",
             "snippet": "'s cyber threat analytics in the cloud, and Google's new Web protocolSD... has announced it is bringing its cyberthreat analytics to the cloud in order to provide organizations with a way to prioritize threats and fight cyber attacks. The new cloud...",
             "date": "2015-04-23",
             "categories": "google",
-            "tags": "analytics,google,web",
+            "tags": "provide,analytics,google,web",
             "recuweb_url": "http://en.recuweb.com/google/sdtimes.com/2015/04/ibm-s-cyber-threat-analytics-in-the-cloud-and-google-new",
-            "resource_url": "http://news.google.com/?hl=en&q=web%2Banalytics%2Bweb%2Banalytics&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=web%2Banalytics&output=atom&nord=1",
             "source_url": "http://sdtimes.com/ibms-cyber-threat-analytics-in-the-cloud-and-googles-new-web-protocol-sd-times-news-digest-april-22-2015/"
         },
-        "independent.ie/2015/04/mobiles-taking-over-from-pcs-in-irish-web-usage-independent": {
-            "title": "Mobiles taking over from PCs in Irish web usage - Irish Independent...",
-            "snippet": "Irish IndependentMobiles taking over from PCs in Irish web usageIrish IndependentThese figures are based on Dublin-based web analytics firm Statcounter's tracking of web page views in Ireland. If anything, they probably understate the switch from PC...",
+        "bignewsnetwork.com/2015/04/mobiles-taking-over-from-pcs-in-irish-web-usage": {
+            "title": "Mobiles taking over from PCs in Irish web usage...",
+            "snippet": "(Tablet web use has stayed largely unchanged at between 8pc and 10pc.)These figures are based on Dublin-based web analytics firm Statcounter's tracking of web page views in Ireland. If anything, they probably understate the switch from PC...",
             "date": "2015-04-23",
-            "tags": "tracking,web,analytics,firm,stat",
-            "recuweb_url": "http://en.recuweb.com/independent.ie/2015/04/mobiles-taking-over-from-pcs-in-irish-web-usage-independent",
-            "resource_url": "http://news.google.com/?hl=en&q=web%2Banalytics%2Bweb%2Banalytics&output=atom&nord=1",
-            "source_url": "http://independent.ie/business/technology/news/mobiles-taking-over-from-pcs-in-irish-web-usage-31163705.html"
-        },
-        "exchange4media.com/2015/04/starcom-mediavest-group-&-digitaslbi-win-lodha-groups-digital-mandate": {
-            "title": "Starcom MediaVest Group & DigitasLBi win Lodha Groups digital mandate...",
-            "snippet": "SMG Convonix will strategize and execute media campaigns, promote the brand interests through search marketing, SEO, execute performance driven social strategies and tie up the entire digital effort through web analytics. Lodha Group zeroed in on...",
-            "date": "2015-04-23",
-            "categories": "marketing",
-            "tags": "marketing,seo,web,analytics",
-            "recuweb_url": "http://en.recuweb.com/marketing/exchange4media.com/2015/04/starcom-mediavest-group-&-digitaslbi-win-lodha-groups-digital-mandate",
+            "tags": "tracking,web,analytics",
+            "recuweb_url": "http://en.recuweb.com/bignewsnetwork.com/2015/04/mobiles-taking-over-from-pcs-in-irish-web-usage",
             "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Banalytics&format=RSS&cc=us",
-            "source_url": "http://exchange4media.com/59772_starcom-mediavest-group-digitaslbi-win-lodha-group's-digital-mandate.html"
+            "source_url": "http://bignewsnetwork.com/index.php/sid/232214131"
         },
-        "channelpartner.de/2015/04/%C3%BCber-die-l%C3%BCcke-zwischen-usability-daten-und-web-analytics-werten-channelpartner": {
-            "title": "\u00dcber die L\u00fccke zwischen Usability-Daten und Web-Analytics-Werten - ChannelPartner...",
-            "snippet": "ChannelPartner\u00dcber die L\u00fccke zwischen Usability-Daten und Web-Analytics-WertenChannelPartnerW\u00e4hrend man noch Aktionen aus der abgeschlossenen Nutzerstudie abzuleiten versucht, analysieren Kollegen einer anderen Abteilung gerade aktuelle...",
+        "ecnmag.com/2015/04/preventative-human-maintenance-will-tell-you-right-&-wrong": {
+            "title": "Preventative human maintenance will tell you right & wrong...",
+            "snippet": "Some of this is due to a shopping aversion, but a large part of it is that, even as a self-confessed statistical junkie (when it comes to web analytics in particular), I simply dont have a need to track steps, monitor sleeping conditions, and...",
             "date": "2015-04-23",
-            "tags": "web,analytics",
-            "recuweb_url": "http://en.recuweb.com/channelpartner.de/2015/04/%C3%BCber-die-l%C3%BCcke-zwischen-usability-daten-und-web-analytics-werten-channelpartner",
-            "resource_url": "http://news.google.com/?hl=en&q=web%2Banalytics%2Bweb%2Banalytics&output=atom&nord=1",
-            "source_url": "http://channelpartner.de/a/mind-the-gap-erfolg-im-ecommerce-ist-planbar,3045149"
-        },
-        "bidnessetc.com/2015/04/apple-inc-safari-browser-accounted-for-55%-of-us-mobile-traffic": {
-            "title": "Apple Inc. Safari Browser Accounted For 55% Of US Mobile Traffic: StatCounter...",
-            "snippet": "Web analytics firm, StatCounter, released its global web browser statistics for the month of March today, which reveal that Apple Inc.'s (NASDAQ:AAPL) Safari browser took 55% of the US mobile and tablet browsing traffic in March. Safari was followed...",
-            "date": "2015-04-22",
-            "tags": "mobile,traffic,stat,web,analytics,firm",
-            "recuweb_url": "http://en.recuweb.com/bidnessetc.com/2015/04/apple-inc-safari-browser-accounted-for-55%-of-us-mobile-traffic",
+            "tags": "track,steps,even,part,web,analytics",
+            "recuweb_url": "http://en.recuweb.com/ecnmag.com/2015/04/preventative-human-maintenance-will-tell-you-right-&-wrong",
             "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Banalytics&format=RSS&cc=us",
-            "source_url": "http://bidnessetc.com/40656-apple-inc-safari-browser-accounted-for-55-of-us-mobile-traffic-statcounter/"
+            "source_url": "http://ecnmag.com/blogs/2015/04/preventative-human-maintenance-will-tell-you-right-wrong"
+        },
+        "jobs.econsultancy.com/2015/04/senior-web-analytics-specialist-ref-as-dv-econsultancy-blog": {
+            "title": "Senior Web Analytics Specialist (ref:AS/DV) - Econsultancy (blog)...",
+            "snippet": "Senior Web Analytics Specialist (ref:AS/DV)Econsultancy (blog)The successful candidate will review, define and implement all necessary tools and reports to measure KPIs for the online business and make recommendations to key Online business...",
+            "date": "2015-04-23",
+            "categories": "business,web-analytics",
+            "tags": "business,measure,web,web_analytics,analytics",
+            "recuweb_url": "http://en.recuweb.com/web-analytics/jobs.econsultancy.com/2015/04/senior-web-analytics-specialist-ref-as-dv-econsultancy-blog",
+            "resource_url": "http://news.google.com/?hl=en&q=web%2Banalytics&output=atom&nord=1",
+            "source_url": "http://jobs.econsultancy.com/job/396870/senior-web-analytics-specialist-ref-as-dv-/"
         },
         "destinationcrm.com/2015/04/evergage-integrates-its-real-time-personalization-tool-with-google-analytics-destination": {
             "title": "Evergage Integrates Its Real-Time Personalization Tool with Google Analytics - Destination CRM...",
             "snippet": "Marketing LandEvergage Integrates Its Real-Time Personalization Tool with Google AnalyticsDestination CRMGoogle Analytics has become the standard analytics tool for tracking Web visitors for many marketers, yet prior to the Evergage integration, it...",
             "date": "2015-04-22",
             "categories": "google,marketing",
-            "tags": "marketers,tracking,google,analytics,marketing,google_analytics,web",
+            "tags": "marketers,tool,tracking,google,analytics,marketing,crm,google_analytics,web",
             "recuweb_url": "http://en.recuweb.com/marketing/destinationcrm.com/2015/04/evergage-integrates-its-real-time-personalization-tool-with-google-analytics-destination",
-            "resource_url": "http://news.google.com/?hl=en&q=web%2Banalytics%2Bweb%2Banalytics&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=web%2Banalytics&output=atom&nord=1",
             "source_url": "http://destinationcrm.com/Articles/CRM-News/CRM-Featured-News/Evergage-Integrates-Its-Real-Time-Personalization-Tool-with-Google-Analytics-103445.aspx"
-        },
-        "travolution.co.uk/2015/04/google-mobilegeddon-to-punish-non-optimised-travel-sites": {
-            "title": "Google Mobilegeddon to punish non-optimised travel sites...",
-            "snippet": "Sam Silverwood-Cope of web analytics company Pi-Datametrics told the FT that companies had to get it right. But he also warned that the introduction of the new algorithm would take time to complete, and businesses should therefore also be...",
-            "date": "2015-04-22",
-            "categories": "business,travel,google",
-            "tags": "would,sites,google,mobilegeddon,web,analytics",
-            "recuweb_url": "http://en.recuweb.com/google/travolution.co.uk/2015/04/google-mobilegeddon-to-punish-non-optimised-travel-sites",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Banalytics&format=RSS&cc=us",
-            "source_url": "http://travolution.co.uk/articles/2015/04/22/11951/google-\u2018mobilegeddon\u2019-to-punish-non-optimised-travel-sites.html"
-        },
-        "datanami.com/2015/04/lavastorm-pushes-analytics-collaboration-datanami": {
-            "title": "Lavastorm Pushes Analytics Collaboration - Datanami...",
-            "snippet": "Lavastorm Pushes Analytics CollaborationDatanamiThe upgrade also allows the authors of analytic programs to send users a web link to an application that is viewable and executable on a mobile device, Lavaworks said. A separate view-only mode based...",
-            "date": "2015-04-22",
-            "tags": "mobile,analytics,web",
-            "recuweb_url": "http://en.recuweb.com/datanami.com/2015/04/lavastorm-pushes-analytics-collaboration-datanami",
-            "resource_url": "http://news.google.com/?hl=en&q=web%2Banalytics%2Bweb%2Banalytics&output=atom&nord=1",
-            "source_url": "http://datanami.com/2015/04/22/lavastorm-pushes-analytics-collaboration/"
         }
     }
 }
