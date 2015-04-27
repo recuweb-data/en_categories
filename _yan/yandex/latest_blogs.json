@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "yandex",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/yandex/",
@@ -10,27 +11,27 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/yandex/yandex/blogs.json"
     },
     "items": {
-        "searchenginewatch.com/2015/04/will-yandex-penalizing-paid-links-affect-other-search-engines": {
-            "title": "Will Yandex Penalizing Paid Links Affect Other Search Engines...",
-            "snippet": "When a year ago Yandex announced that links would be removed as a ranking factor, they hoped that black-hat SEOs would be discouraged from promoting websites with paid links. Paid links made up more than 70 percent...",
-            "date": "2015-04-23",
-            "author_name": "Michael Bonfils",
-            "categories": "yandex",
-            "tags": "made,paid,would,removed,other,search,yandex,year,announced,ranking,factor,percent",
-            "recuweb_url": "http://en.recuweb.com/yandex/searchenginewatch.com/2015/04/will-yandex-penalizing-paid-links-affect-other-search-engines",
-            "resource_url": "http://www.google.com/search?q=yandex%2Byandex&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://searchenginewatch.com/sew/how-to/2405308/will-yandex-penalizing-paid-links-affect-other-search-engines-ranking-factors"
-        },
         "seroundtable.com/2015/04/yandex-to-bring-back-links-search-ranking-algorithm": {
             "title": "Yandex To Bring Back Links To Search Ranking Algorithm...",
             "snippet": "In March of last year, Yandex - the largest search engine in Russia - decided to drop link signals in their search ranking algorithm for certain searches done in specific commercial verticals. Well, I guess it didn't 100% work...",
             "date": "2015-04-17",
             "author_name": "barry@rustybrick.com (Barry Schwartz)",
             "categories": "yandex",
-            "tags": "search,verticals,decided,drop,largest,ranking,ranking_algorithm,algorithm,yandex,yandex_to_bring,bring,bring_back,back,last,year,engine,russia",
+            "tags": "ranking,ranking_algorithm,algorithm,search,specific,decided,largest,yandex,yandex_to_bring,bring,bring_back,back,engine,russia",
             "recuweb_url": "http://en.recuweb.com/yandex/seroundtable.com/2015/04/yandex-to-bring-back-links-search-ranking-algorithm",
             "resource_url": "http://www.google.com/search?q=yandex%2Byandex&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://seroundtable.com/yandex-links-back-20160.html"
+        },
+        "tnooz.com/2015/04/yandex-wants-in-on-travel-unveils-package-holiday-service-tnooz": {
+            "title": "Yandex wants in on travel, unveils package holiday service - Tnooz...",
+            "snippet": "Russian search engine Yandex has launched a service enabling consumers to search for holiday packages from about 14 tour operators. draws the domestic and outbound package content from an API from...",
+            "date": "2015-04-17",
+            "author_name": "Linda Fox",
+            "categories": "travel,yandex",
+            "tags": "consumers,yandex,russian,search,engine",
+            "recuweb_url": "http://en.recuweb.com/yandex/tnooz.com/2015/04/yandex-wants-in-on-travel-unveils-package-holiday-service-tnooz",
+            "resource_url": "http://www.google.com/search?q=yandex%2Byandex&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://tnooz.com/article/yandex-travel-package-holidays/"
         },
         "searchenginewatch.com/2015/04/yandex-brings-links-back-as-a-ranking-factor-sew": {
             "title": "Yandex Brings Links Back as a Ranking Factor SEW...",
@@ -38,7 +39,7 @@
             "date": "2015-04-16",
             "author_name": "Yuyu Chen",
             "categories": "yandex",
-            "tags": "would,number,company,largest,ranking,ranking_factor,factor,yandex,back,search,engine,russia,part,algorithm,last,year",
+            "tags": "number,part,ranking,ranking-algorithm,algorithm,company,ranking_factor,factor,largest,yandex,brings,back,search,engine,russia",
             "recuweb_url": "http://en.recuweb.com/yandex/searchenginewatch.com/2015/04/yandex-brings-links-back-as-a-ranking-factor-sew",
             "resource_url": "http://www.google.com/search?q=yandex%2Byandex&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://searchenginewatch.com/sew/news/2404281/yandex-brings-links-back-as-a-ranking-factor"
@@ -49,10 +50,32 @@
             "date": "2015-04-16",
             "author_name": "SEO London Services UK",
             "categories": "yandex",
-            "tags": "ranks,decided,decided-to-stop,stop,stop-valuing,stop-valuing-inbound,valuing,valuing-inbound,inbound,made,made-controversial,made-controversial-decision,controversial,controversial-decision,decision,search,search_results,search_results_algorithm,results,results_algorithm,algorithm,yandex,yandex_starts,yandex_starts_valuing,starts,starts_valuing,again,russian,engine,last,year",
+            "tags": "algorithm,made,decided,search,results,yandex,russian,engine",
             "recuweb_url": "http://en.recuweb.com/yandex/howtomakemoneyonlinenow9.wordpress.com/2015/04/yandex-starts-valuing-links-again-in-its-search-results-algorithm",
             "resource_url": "http://en.search.wordpress.com/?q=yandex%2Byandex&f=feed&page=1",
             "source_url": "http://howtomakemoneyonlinenow9.wordpress.com/2015/04/16/yandex-starts-valuing-links-again-in-its-search-results-algorithm-by-mattsouthern/"
+        },
+        "searchengineland.com/2015/04/yandex-to-bring-back-links-their-ranking-algorithm": {
+            "title": "Yandex To Bring Back Links To Their Ranking Algorithm...",
+            "snippet": "After dropping links from their ranking algorithm for specific niches, Yandex brings back links as a positive and negative ranking factor.",
+            "date": "2015-04-15",
+            "author_name": "Barry Schwartz",
+            "categories": "yandex",
+            "tags": "negative,ranking,factor,brings,bring,back,ranking_algorithm,algorithm,specific,yandex,yandex_to_bring,bring_back",
+            "recuweb_url": "http://en.recuweb.com/yandex/searchengineland.com/2015/04/yandex-to-bring-back-links-their-ranking-algorithm",
+            "resource_url": "http://www.google.com/search?q=yandex%2Byandex&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://searchengineland.com/russian-search-engine-yandex-to-bring-back-links-to-their-ranking-algorithm-218815"
+        },
+        "blog.webcertain.com/2015/04/paid-links-will-be-a-negative-ranking-factor-for-yandex": {
+            "title": "Paid Links Will Be A Negative Ranking Factor For Yandex...",
+            "snippet": "15 April 2015 Global Marketing News Paid links will be a negative ranking factor for Yandex Yandex is to update its search engine ranking algorithm to make paid links a negative ranking factor. Last year, Yandex announced that paid links were to be...",
+            "date": "2015-04-15",
+            "author_name": "Cal O'Connell",
+            "categories": "yandex,marketing",
+            "tags": "paid,negative,ranking,ranking_factor,factor,ranking-algorithm,algorithm,yandex,search,engine,announced",
+            "recuweb_url": "http://en.recuweb.com/marketing/blog.webcertain.com/2015/04/paid-links-will-be-a-negative-ranking-factor-for-yandex",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=yandex%2Byandex&rss=1&lng=en",
+            "source_url": "http://blog.webcertain.com/paid-links-will-be-a-negative-ranking-factor-for-yandex/15/04/2015/"
         },
         "searchengineland.com/2015/04/searchcap-bing-mobile-friendly-google-eu-yandex-links": {
             "title": "SearchCap: Bing Mobile Friendly, Google EU, Yandex Links...",
@@ -60,10 +83,21 @@
             "date": "2015-04-15",
             "author_name": "Barry Schwartz",
             "categories": "places,search-engine,bing,google,yandex",
-            "tags": "other,web,search,search_engine,search_engine_land,engine,engine_land,land,mobile,google,yandex,today",
+            "tags": "other,web,search,engine,bing,google,yandex",
             "recuweb_url": "http://en.recuweb.com/yandex/searchengineland.com/2015/04/searchcap-bing-mobile-friendly-google-eu-yandex-links",
             "resource_url": "http://www.google.com/search?q=yandex%2Byandex&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://searchengineland.com/searchcap-bing-mobile-friendly-google-eu-yandex-links-google-maps-218919"
+        },
+        "101helper.blogspot.com/2015/04/how-to-submit-blogger-sitemap-yandex": {
+            "title": "How to submit blogger sitemap to Yandex...",
+            "snippet": "Before I start let me tell you something about Yandex. Yandex is a Russian company that operates the largest search engine of Russia. It is one of the most popular search engine and after Google, Bing, Yahoo, Yandex is most popular. In the beginning...",
+            "date": "2015-04-14",
+            "author_name": "(fahim raza)",
+            "categories": "yandex,google,bing,yahoo",
+            "tags": "company,largest,yandex,russian,search,engine,russia,google,bing",
+            "recuweb_url": "http://en.recuweb.com/yahoo/101helper.blogspot.com/2015/04/how-to-submit-blogger-sitemap-yandex",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=yandex%2Byandex&rss=1&lng=en",
+            "source_url": "http://101helper.blogspot.com/2015/04/how-to-submit-blogger-sitemap-to-yandex.html"
         },
         "englishdictionaryonline.wordpress.com/2015/04/yandex-translation-of-in-german": {
             "title": "yandex: translation of yandex in German...",
@@ -82,43 +116,10 @@
             "date": "2015-03-27",
             "author_name": "SeekingAlpha.com",
             "categories": "economy,google,yandex",
-            "tags": "stock,rise,benefit,google,yandex,russia",
+            "tags": "stock,google,yandex,russia",
             "recuweb_url": "http://en.recuweb.com/yandex/seekingalpha.com/2015/03/yandex-poised-to-benefit-if-google-leaves-n",
             "resource_url": "http://www.google.com/search?q=yandex%2Byandex&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://seekingalpha.com/article/3031216-yandex-poised-to-benefit-if-google-leaves"
-        },
-        "techcrunch.com/2015/03/mozilla-extends-its-default-google-search-blockout-signs-up": {
-            "title": "Mozilla Extends Its Default Google Search Blockout, Signs Up...",
-            "snippet": "Mozilla last November made waves when it swapped out Google as the default search engine in its Firefox browser in the U.S., replacing it with Yahoo, and put Yandex in for Google in Russia at the same time. Today Mozilla...",
-            "date": "2015-03-25",
-            "author_name": "Ingrid Lunden",
-            "categories": "google,yahoo,yandex",
-            "tags": "default,made,mozilla,google,search,last,engine,firefox,browser,yandex,russia,today",
-            "recuweb_url": "http://en.recuweb.com/yandex/techcrunch.com/2015/03/mozilla-extends-its-default-google-search-blockout-signs-up",
-            "resource_url": "http://www.google.com/search?q=yandex%2Byandex&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://techcrunch.com/2015/03/25/mozilla-extends-its-default-google-search-blockout-signs-up-yandex-in-turkey/"
-        },
-        "blog.mozilla.org/2015/03/mozilla-makes-yandex-the-default-search-engine-for-firefox-in": {
-            "title": "Mozilla Makes Yandex the Default Search Engine for Firefox in...",
-            "snippet": "and Mozilla Corporation today announced that Yandex will be the default search engine for Turkish language versions of Firefox on mobile and desktop, starting...",
-            "date": "2015-03-25",
-            "author_name": "Mozilla",
-            "categories": "search-engine,yandex",
-            "tags": "mobile,desktop,default,mozilla,search,search_engine,engine,makes,yandex,firefox,today,announced",
-            "recuweb_url": "http://en.recuweb.com/yandex/blog.mozilla.org/2015/03/mozilla-makes-yandex-the-default-search-engine-for-firefox-in",
-            "resource_url": "http://www.google.com/search?q=yandex%2Byandex&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.mozilla.org/press/2015/03/mozilla-makes-yandex-the-default-search-engine-for-firefox-in-turkey/"
-        },
-        "techcrunch.com/2015/02/in-russia-yandex-files-antitrust-complaint-against-google-over": {
-            "title": "In Russia, Yandex Files Antitrust Complaint Against Google Over...",
-            "snippet": "More antitrust woe for Google on the international front. Search giant Yandex, often described as the Google of Russia, has filed a request with Russia's antimonopoly regulator to investigate Google over possible violations...",
-            "date": "2015-02-18",
-            "author_name": "Ingrid Lunden",
-            "categories": "yandex,google",
-            "tags": "antitrust,yandex,against,google,russia,search",
-            "recuweb_url": "http://en.recuweb.com/google/techcrunch.com/2015/02/in-russia-yandex-files-antitrust-complaint-against-google-over",
-            "resource_url": "http://www.google.com/search?q=yandex%2Byandex&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://techcrunch.com/2015/02/18/yandex-google-russia-antitrust/"
         }
     }
 }
