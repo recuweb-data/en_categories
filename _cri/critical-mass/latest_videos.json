@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "critical-mass",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/critical-mass/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/critical-mass/critical-mass/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/april-2006-critical-mass-chicago": {
+            "title": "April 2006 Critical Mass - Chicago...",
+            "snippet": "April 2006 Critical Mass - ChicagoAuthor: AugustinaSchollTags: April 2006 Critical Mass - Chicago Posted: 24 April 2015Rating:: 0...",
+            "date": "2015-04-24",
+            "author_name": "AugustinaScholl",
+            "categories": "critical-mass",
+            "tags": "critical,critical_mass,mass",
+            "recuweb_url": "http://en.recuweb.com/critical-mass/dailymotion.com/2015/04/april-2006-critical-mass-chicago",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/critical+mass/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nrlxj_april-2006-critical-mass-chicago_auto",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nrlxj_april-2006-critical-mass-chicago_auto"
+        },
         "dailymotion.com/2015/04/critical-mass-confrontation-san-francisco-4-27-07": {
             "title": "Critical Mass Confrontation - San Francisco 4/27/07...",
             "snippet": "Critical Mass Confrontation - San Francisco 4/27/07Author: ToryTremblayTags: Critical Mass Confrontation - San Francisco 42707 Posted: 23 April 2015Rating:: 0...",
@@ -117,18 +130,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/critical+mass/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mj439_car-crushes-bike-critical-mass-dresden-april-2011_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2mj439_car-crushes-bike-critical-mass-dresden-april-2011_news"
-        },
-        "dailymotion.com/2015/04/critical-mass-bicyclist-assaulted-by-nypd": {
-            "title": "Critical Mass Bicyclist Assaulted by NYPD...",
-            "snippet": "Critical Mass Bicyclist Assaulted by NYPDAuthor: CucWingateTags: Critical Mass Bicyclist Assaulted by NYPD Posted: 14 April 2015Rating:: 0...",
-            "date": "2015-04-13",
-            "author_name": "CucWingate",
-            "categories": "critical-mass",
-            "tags": "critical,critical_mass,mass",
-            "recuweb_url": "http://en.recuweb.com/critical-mass/dailymotion.com/2015/04/critical-mass-bicyclist-assaulted-by-nypd",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/critical+mass/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mlbo6_critical-mass-bicyclist-assaulted-by-nypd_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mlbo6_critical-mass-bicyclist-assaulted-by-nypd_news"
         }
     }
 }
