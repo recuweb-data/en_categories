@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "alcoholic-beverages",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/alcoholic-beverages/",
@@ -10,13 +11,24 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/alcoholic-beverages/alcoholic-beverages/blogs.json"
     },
     "items": {
+        "medicaldaily.com/2015/04/calories-in-alcoholic-beverages-compared-to-foods": {
+            "title": "Calories In Alcoholic Beverages Compared To Foods From Your...",
+            "snippet": "A lot of dieters fail to consider the empty calories found in alcoholic beverages that could be derailing their weight loss goals. They have no problem ridding their pantries and refrigerators of food high in calories and fat, but...",
+            "date": "2015-04-21",
+            "author_name": "unknown",
+            "categories": "food,alcoholic-beverages,beverages,foods",
+            "tags": "calories,alcoholic,alcoholic_beverages,beverages,compared",
+            "recuweb_url": "http://en.recuweb.com/foods/medicaldaily.com/2015/04/calories-in-alcoholic-beverages-compared-to-foods",
+            "resource_url": "http://www.google.com/search?q=alcoholic%2Bbeverages%2Balcoholic%2Bbeverages&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://medicaldaily.com/pulse/calories-alcoholic-beverages-compared-foods-your-favorite-restaurant-chains-330170"
+        },
         "beveragelaw.com/2015/04/commercial-speech-and-alcoholic-beverages-part-ii-hinman": {
             "title": "Commercial Speech And Alcoholic Beverages - Part II Hinman...",
             "snippet": "The intense regulation of the alcoholic beverage industry springs from the Twenty-First Amendment, which repealed Prohibition and gave the states substantial powers to regulate the industry within their own borders.",
             "date": "2015-04-17",
             "author_name": "sue@tizwine.com (Sue Hine)",
             "categories": "borders,alcoholic-beverages,beverages",
-            "tags": "states,regulation,part,hinman,commercial,commercial_speech,speech,speech_and_alcoholic,alcoholic,alcoholic_beverages,beverages,beverage,industry",
+            "tags": "part,hinman,commercial,commercial_speech,speech,speech_and_alcoholic,alcoholic,alcoholic_beverages,beverages,regulation,beverage,industry,prohibition,states",
             "recuweb_url": "http://en.recuweb.com/beverages/beveragelaw.com/2015/04/commercial-speech-and-alcoholic-beverages-part-ii-hinman",
             "resource_url": "http://www.google.com/search?q=alcoholic%2Bbeverages%2Balcoholic%2Bbeverages&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://beveragelaw.com/booze-rules/2015/4/16/commercial-speech-and-alcoholic-beveragespart-ii"
@@ -27,21 +39,10 @@
             "date": "2015-04-07",
             "author_name": "sue@tizwine.com (Sue Hine)",
             "categories": "tea,law,rights,alcoholic-beverages,beverages",
-            "tags": "law,regulation,part,hinman,commercial,commercial_speech,speech,speech_and_alcoholic,alcoholic,alcoholic_beverages,beverages,beverage,wine",
+            "tags": "law,part,hinman,commercial,commercial_speech,speech,speech_and_alcoholic,alcoholic,alcoholic_beverages,beverages,beverage,requires,wine",
             "recuweb_url": "http://en.recuweb.com/beverages/beveragelaw.com/2015/04/commercial-speech-and-alcoholic-beverages-part-i-hinman",
             "resource_url": "http://www.google.com/search?q=alcoholic%2Bbeverages%2Balcoholic%2Bbeverages&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://beveragelaw.com/booze-rules/2015/4/7/commercial-speech-and-alcoholic-beveragespart-i"
-        },
-        "beveragedaily.com/2015/04/calorie-labelling-should-be-mandatory-for-alcoholic-drinks-say": {
-            "title": "Calorie labelling should be mandatory for alcoholic drinks, say...",
-            "snippet": "Calorie content labelling should be made mandatory for alcoholic beverages in the EU as soon as possible, say public health Members of European Parliament (MEPs).",
-            "date": "2015-04-01",
-            "author_name": "Rachel.ARTHUR@wrbm.com (Rachel ARTHUR)",
-            "categories": "public-health,health,drink,beverages",
-            "tags": "public,should,alcoholic,drinks,made,beverages,members",
-            "recuweb_url": "http://en.recuweb.com/beverages/beveragedaily.com/2015/04/calorie-labelling-should-be-mandatory-for-alcoholic-drinks-say",
-            "resource_url": "http://www.google.com/search?q=alcoholic%2Bbeverages&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://beveragedaily.com/Regulation-Safety/Calorie-labelling-should-be-mandatory-for-alcoholic-drinks-say-public-health-MEPs"
         },
         "theolympian.com/2015/03/proposal-would-ban-64-alcoholic-beverages-in-downtown-olympia": {
             "title": "Proposal would ban 64 alcoholic beverages in downtown Olympia...",
@@ -49,7 +50,7 @@
             "date": "2015-03-26",
             "author_name": "unknown",
             "categories": "business,beverages",
-            "tags": "state,liquor,control,board,officials,would,alcoholic,beverages,made,sale,city",
+            "tags": "city,state,liquor,made,ban,alcoholic,beverages,sale",
             "recuweb_url": "http://en.recuweb.com/beverages/theolympian.com/2015/03/proposal-would-ban-64-alcoholic-beverages-in-downtown-olympia",
             "resource_url": "http://www.google.com/search?q=alcoholic%2Bbeverages%2Balcoholic%2Bbeverages&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://theolympian.com/2015/03/25/3646232/proposal-would-ban-64-alcoholic.html"
@@ -60,7 +61,7 @@
             "date": "2015-03-18",
             "author_name": "unknown",
             "categories": "beverages",
-            "tags": "plans,wet,wild,alcoholic,beverages,alcohol",
+            "tags": "approved,plans,wet,wild,alcoholic,beverages,alcohol",
             "recuweb_url": "http://en.recuweb.com/beverages/scrippsmedia.com/2015/03/county-approves-wet-n-wild-plans-to-serve-alcoholic-beverages",
             "resource_url": "http://www.google.com/search?q=alcoholic%2Bbeverages%2Balcoholic%2Bbeverages&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://scrippsmedia.com/ktnv/news/County-approves-Wet-n-Wild-plans-to-serve-alcoholic-beverages-296747261.html"
@@ -76,27 +77,27 @@
             "resource_url": "http://en.search.wordpress.com/?q=alcoholic%2Bbeverages%2Balcoholic%2Bbeverages&f=feed&page=1",
             "source_url": "http://kenresearchreport.wordpress.com/2015/03/13/thailand-alcoholic-beverages-market-segmentation-by-type-of-alcoholic-beverages-covering-beer/"
         },
-        "ijreview.com/2015/03/map-of-world-shows-the-preferred-alcoholic-beverages-each": {
-            "title": "Map of World Shows the Preferred Alcoholic Beverages of Each...",
-            "snippet": "The data also explores how much of each alcohol type Americans drink per week on average: Beer (5% vol): 1674 ml; Wine (12% vol): 242 ml; Spirits (40%) vol) 137 ml. While beer may be the perennial frontrunner, the game is changing.",
-            "date": "2015-03-07",
-            "author_name": "Reid Mene",
-            "categories": "alcoholic-beverages,beverages,drink",
-            "tags": "changing,each,alcoholic,alcoholic_beverages,beverages,world,shows,alcohol,type,drink,beer,wine,spirits",
-            "recuweb_url": "http://en.recuweb.com/drink/ijreview.com/2015/03/map-of-world-shows-the-preferred-alcoholic-beverages-each",
-            "resource_url": "http://www.google.com/search?q=alcoholic%2Bbeverages&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://ijreview.com/2015/02/259637-map-shows-drink-countries-often-prefer-take-edge-every-now/"
-        },
         "scrippsmedia.com/2015/03/wet-n-wild-defends-plans-to-sell-alcoholic-beverages": {
             "title": "Wet'n'Wild defends plans to sell alcoholic beverages -...",
             "snippet": "The general manager of a valley water park is defending controversial plans to sell alcohol to adult patrons.",
             "date": "2015-03-07",
             "author_name": "unknown",
             "categories": "beverages",
-            "tags": "plans,sell,wet,wild,alcoholic,beverages,alcohol",
+            "tags": "plans,wet,wild,alcoholic,beverages,alcohol",
             "recuweb_url": "http://en.recuweb.com/beverages/scrippsmedia.com/2015/03/wet-n-wild-defends-plans-to-sell-alcoholic-beverages",
             "resource_url": "http://www.google.com/search?q=alcoholic%2Bbeverages&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://scrippsmedia.com/ktnv/news/you-ask-we-investigate/WetnWild-defends-plans-to-sell-alcoholic-beverages-295426141.html"
+        },
+        "ijreview.com/2015/02/map-of-world-shows-the-preferred-alcoholic-beverages-each": {
+            "title": "Map of World Shows the Preferred Alcoholic Beverages of Each...",
+            "snippet": "The data also explores how much of each alcohol type Americans drink per week on average: Beer (5% vol): 1674 ml; Wine (12% vol): 242 ml; Spirits (40%) vol) 137 ml. While beer may be the perennial frontrunner, the game is changing.",
+            "date": "2015-02-26",
+            "author_name": "Reid Mene",
+            "categories": "alcoholic-beverages,beverages,drink",
+            "tags": "changing,week,alcoholic,alcoholic_beverages,beverages,world,shows,alcohol,type,drink,beer,wine,spirits",
+            "recuweb_url": "http://en.recuweb.com/drink/ijreview.com/2015/02/map-of-world-shows-the-preferred-alcoholic-beverages-each",
+            "resource_url": "http://www.google.com/search?q=alcoholic%2Bbeverages&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ijreview.com/2015/02/259637-map-shows-drink-countries-often-prefer-take-edge-every-now/"
         },
         "sploid.gizmodo.com/2015/02/how-the-most-popular-alcoholic-drinks-around-world-are-made": {
             "title": "How the most popular alcoholic drinks around the world are made...",
@@ -104,9 +105,9 @@
             "date": "2015-02-19",
             "author_name": "Omar Kardoudi",
             "categories": "drink,beverages",
-            "tags": "ingredients,world,shows,drinking,alcoholic,drinks,made,beverages",
+            "tags": "world,shows,drinking,made,alcoholic,drinks,beverages",
             "recuweb_url": "http://en.recuweb.com/beverages/sploid.gizmodo.com/2015/02/how-the-most-popular-alcoholic-drinks-around-world-are-made",
-            "resource_url": "http://www.google.com/search?q=alcoholic%2Bbeverages%2Balcoholic%2Bbeverages&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=alcoholic%2Bbeverages&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://sploid.gizmodo.com/neat-infographic-shows-how-alcoholic-beverages-are-made-1686728508"
         },
         "kenresearchreport.wordpress.com/2015/02/the-market-size-of-thailand-alcoholic-beverages": {
