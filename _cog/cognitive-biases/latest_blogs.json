@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "cognitive-biases",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/cognitive-biases/",
@@ -10,12 +11,23 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/cognitive-biases/cognitive-biases/blogs.json"
     },
     "items": {
+        "ruchikaraj.wordpress.com/2015/04/cognitive-biases-and-pricing-hacks": {
+            "title": "Cognitive Biases and Pricing Hacks...",
+            "snippet": "When the first machine for making bread was introduced the product didnt sell well no one knew what the justified price for these machines should be as...",
+            "date": "2015-04-21",
+            "author_name": "Ruchika",
+            "categories": "cognitive-biases",
+            "tags": "should,didnt,cognitive,cognitive_biases,biases,making,well",
+            "recuweb_url": "http://en.recuweb.com/cognitive-biases/ruchikaraj.wordpress.com/2015/04/cognitive-biases-and-pricing-hacks",
+            "resource_url": "http://en.search.wordpress.com/?q=cognitive%2Bbiases%2Bcognitive%2Bbiases&f=feed&page=1",
+            "source_url": "http://ruchikaraj.wordpress.com/2015/04/21/cognitive-biases-and-pricing-hacks/"
+        },
         "johnquiggin.com/2015/04/john-quiggin-cognitive-biases": {
             "title": "John Quiggin Cognitive biases...",
             "snippet": "Ross Gittins cites some interesting questions used by some of my QUT colleagues to assess cognitive biases before undertaking a study of investment behavior. Here you go: Try to answer before reading on or checking...",
             "date": "2015-04-05",
             "author_name": "John Quiggin",
-            "tags": "reading,study,investment,colleagues,interesting,questions,cognitive,biases,here",
+            "tags": "reading,study,investment,colleagues,cognitive,biases,here",
             "recuweb_url": "http://en.recuweb.com/johnquiggin.com/2015/04/john-quiggin-cognitive-biases",
             "resource_url": "http://www.google.com/search?q=cognitive%2Bbiases%2Bcognitive%2Bbiases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://johnquiggin.com/2015/04/05/cognitive-biases/"
@@ -26,7 +38,7 @@
             "date": "2015-03-24",
             "author_name": "Pete Foley",
             "categories": "cognitive-biases",
-            "tags": "related,colleagues,impact,cognitive,cognitive_biases,biases",
+            "tags": "colleagues,impact,cognitive,cognitive_biases,biases",
             "recuweb_url": "http://en.recuweb.com/cognitive-biases/innovationexcellence.com/2015/03/innovation-excellence-20-cognitive-biases-that-impact",
             "resource_url": "http://www.google.com/search?q=cognitive%2Bbiases%2Bcognitive%2Bbiases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://innovationexcellence.com/blog/2015/03/24/20-cognitive-biases-that-impact-innovation/"
@@ -37,21 +49,10 @@
             "date": "2015-03-17",
             "author_name": "Rikko Montanez",
             "categories": "science,cognitive-biases",
-            "tags": "tendencies,understand,process,information,interpret,science,cognitive,cognitive_biases,biases",
+            "tags": "innate,tendencies,understand,information,trying,science,cognitive,cognitive_biases,biases",
             "recuweb_url": "http://en.recuweb.com/cognitive-biases/flydata.com/2015/03/cognitive-biases-in-data-science-flydata",
             "resource_url": "http://www.google.com/search?q=cognitive%2Bbiases%2Bcognitive%2Bbiases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://flydata.com/four-cognitive-biases-in-data-science/"
-        },
-        "ieet.org/2015/03/ieet-audience-divided-on-left-right-political-cognitive-biases": {
-            "title": "IEET Audience Divided on Left-Right Political Cognitive Biases...",
-            "snippet": "Inspired by the debate over the effects of partisan tribalism on cognition we asked Are liberals and people on the Left as cognitively biased as conservatives and people on the Right? A plurality (42%) of the 150 respondents...",
-            "date": "2015-03-15",
-            "author_name": "krisnotaro@gmail.com",
-            "categories": "cognitive-biases",
-            "tags": "effects,cognition,cognitive,cognitive_biases,biases,people",
-            "recuweb_url": "http://en.recuweb.com/cognitive-biases/ieet.org/2015/03/ieet-audience-divided-on-left-right-political-cognitive-biases",
-            "resource_url": "http://www.google.com/search?q=cognitive%2Bbiases%2Bcognitive%2Bbiases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://ieet.org/index.php/IEET/more/poll20150315"
         },
         "neurosciencemarketing.com/2015/03/67-ways-to-increase-conversion-with-cognitive-biases": {
             "title": "67 Ways to Increase Conversion with Cognitive Biases...",
@@ -70,7 +71,7 @@
             "date": "2015-02-20",
             "author_name": "Alexandra Michel",
             "categories": "cognitive-biases",
-            "tags": "skill,lead,ely,many,common,things,cognitive,cognitive_biases,biases,making",
+            "tags": "lead,things,cognitive,cognitive_biases,biases,making,overes,ate",
             "recuweb_url": "http://en.recuweb.com/cognitive-biases/psychologicalscience.org/2015/02/driving-in-rain-sleet-or-snow-cognitive-biases-worsen-winter",
             "resource_url": "http://www.google.com/search?q=cognitive%2Bbiases%2Bcognitive%2Bbiases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://psychologicalscience.org/index.php/news/motr/driving-in-rain-sleet-or-snow-cognitive-biases-worsen-winter-driving.html"
@@ -81,7 +82,7 @@
             "date": "2015-02-20",
             "author_name": "Adam Hayes",
             "categories": "business",
-            "tags": "information,errors,emotional,cognitive,cognitive_bias,biases,business,people,rational,decision,making",
+            "tags": "information,emotional,cognitive,cognitive_bias,biases,business,people,rational,decision,making",
             "recuweb_url": "http://en.recuweb.com/business/investopedia.com/2015/02/how-cognitive-bias-affects-your-business-investopedia",
             "resource_url": "http://www.google.com/search?q=cognitive%2Bbiases%2Bcognitive%2Bbiases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://investopedia.com/articles/investing/022015/how-cognitive-bias-affects-your-business.asp"
@@ -92,7 +93,7 @@
             "date": "2015-02-04",
             "author_name": "Michael Laux",
             "categories": "rationality",
-            "tags": "lead,tendencies,ways,cognitive,biases,good,judgment",
+            "tags": "lead,tendencies,ways,cognitive,biases",
             "recuweb_url": "http://en.recuweb.com/rationality/advanceddataanalytics.net/2015/02/if-you-did-not-already-know-cognitive-bias",
             "resource_url": "http://en.search.wordpress.com/?q=cognitive%2Bbiases%2Bcognitive%2Bbiases&f=feed&page=1",
             "source_url": "http://advanceddataanalytics.net/2015/02/04/if-you-did-not-already-know-cognitive-bias/"
@@ -114,7 +115,7 @@
             "date": "2015-01-15",
             "author_name": "Keith Lee",
             "categories": "mind,law,cognitive-biases",
-            "tags": "study,read,article,around,reading,old,anchoring,cognitive,cognitive_biases,biases,research",
+            "tags": "research,study,mind,read,article,reading,anchoring,cognitive,cognitive_biases,biases,old",
             "recuweb_url": "http://en.recuweb.com/cognitive-biases/abovethelaw.com/2015/01/how-anchoring-can-influence-judges-and-other-cognitive-biases",
             "resource_url": "http://www.google.com/search?q=cognitive%2Bbiases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://abovethelaw.com/2015/01/how-anchoring-can-influence-judges-and-other-cognitive-biases/"
