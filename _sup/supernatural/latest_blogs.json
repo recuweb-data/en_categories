@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "supernatural",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/supernatural/",
@@ -10,27 +11,27 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/supernatural/supernatural/blogs.json"
     },
     "items": {
+        "starpulse.com/2015/04/supernatural-recap-blood-brothers": {
+            "title": "'Supernatural'Recap: Blood Brothers -...",
+            "snippet": "There are a few different ways to watch Supernatural. As the Scare Factor eased with each passing season, I began to watch it by candlelight instead of at my parents'house with every light on a bowl of rock salt in my lap.",
+            "date": "2015-04-23",
+            "author_name": "Kira J Wills",
+            "categories": "supernatural",
+            "tags": "each,few,supernatural,recap,season",
+            "recuweb_url": "http://en.recuweb.com/supernatural/starpulse.com/2015/04/supernatural-recap-blood-brothers",
+            "resource_url": "http://www.google.com/search?q=supernatural&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://starpulse.com/news/Kira_JWills/2015/04/23/supernatural-1019-recap-blood-brothers"
+        },
         "enstarz.com/2015/04/supernatural-season-10-spoilers-the-prisoner-plot-revealed": {
             "title": "'Supernatural'Season 10 Spoilers: 'The Prisoner'Plot Revealed...",
             "snippet": "'Supernatural'Season 10 Spoilers: 'The Prisoner'Plot Revealed, Dean Goes On A Rampage VIDEO. The Styne family is about to meet thier match in the form of one Dean Winchester. By Vanessa Frith, EnStars on Apr 22,...",
             "date": "2015-04-23",
             "author_name": "unknown",
             "categories": "supernatural",
-            "tags": "dean,family,meet,supernatural,season,spoilers",
+            "tags": "dean,dean_winchester,winchester,meet,supernatural,season,spoilers",
             "recuweb_url": "http://en.recuweb.com/supernatural/enstarz.com/2015/04/supernatural-season-10-spoilers-the-prisoner-plot-revealed",
             "resource_url": "http://www.google.com/search?q=supernatural%2Bsupernatural&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://enstarz.com/articles/81882/20150422/supernatural-season-10-spoilers-the-prisoner-plot-revealed-dean-goes-on-a-rampage-video.htm"
-        },
-        "tvfanatic.com/2015/04/supernatural-season-10-episode-19-review-the-werther-project": {
-            "title": "Supernatural Season 10 Episode 19 Review: The Werther Project...",
-            "snippet": "Sam and Rowena teaming up? It seemed like such a bad idea when we first saw Sam go to the witch mother of Crowley in Supernatural Season 10 Episode 18. Like really bad and plenty dangerous. And yet, I was willing to...",
-            "date": "2015-04-23",
-            "author_name": "Sean McKenna",
-            "categories": "supernatural",
-            "tags": "willing,idea,teaming,werther,werther_project,project,supernatural,supernatural_season,season,episode,sam,rowena,first",
-            "recuweb_url": "http://en.recuweb.com/supernatural/tvfanatic.com/2015/04/supernatural-season-10-episode-19-review-the-werther-project",
-            "resource_url": "http://www.google.com/search?q=supernatural%2Bsupernatural&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://tvfanatic.com/2015/04/supernatural-season-10-episode-19-review-the-werther-project/"
         },
         "tvfanatic.com/2015/04/supernatural-season-10-episode-20-trailer-the-ultimate-monster": {
             "title": "Supernatural Season 10 Episode 20 Trailer: The Ultimate Monster...",
@@ -38,7 +39,7 @@
             "date": "2015-04-23",
             "author_name": "Carissa Pavlica",
             "categories": "supernatural",
-            "tags": "meet,supernatural,supernatural_season,season,episode,trailer",
+            "tags": "meet,supernatural,supernatural_season,season,episode",
             "recuweb_url": "http://en.recuweb.com/supernatural/tvfanatic.com/2015/04/supernatural-season-10-episode-20-trailer-the-ultimate-monster",
             "resource_url": "http://www.google.com/search?q=supernatural%2Bsupernatural&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://tvfanatic.com/2015/04/supernatural-season-10-episode-20-trailer-the-ultimate-monster/"
@@ -49,7 +50,7 @@
             "date": "2015-04-23",
             "author_name": "Carissa Pavlica",
             "categories": "supernatural",
-            "tags": "ing,many,online,supernatural,season,episode",
+            "tags": "ing,online,supernatural,season,episode",
             "recuweb_url": "http://en.recuweb.com/supernatural/tvfanatic.com/2015/04/supernatural-watch-season-10-episode-19-online-tv-fanatic",
             "resource_url": "http://www.google.com/search?q=supernatural%2Bsupernatural&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://tvfanatic.com/2015/04/supernatural-watch-season-10-episode-19-online/"
@@ -60,7 +61,7 @@
             "date": "2015-04-22",
             "author_name": "Stormy Elizabeth",
             "categories": "supernatural",
-            "tags": "jared,padalecki,weekly,werther,werther_project,project,wednesday,continues,rowena,supernatural,sam,season,episode,called",
+            "tags": "jared,padalecki,recap,werther,werther_project,project,wednesday,tonight,rowena,supernatural,sam,bargain,season,episode",
             "recuweb_url": "http://en.recuweb.com/supernatural/celebdirtylaundry.com/2015/04/supernatural-recap-sam-and-rowena-strike-a-bargain-season",
             "resource_url": "http://www.google.com/search?q=supernatural%2Bsupernatural&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://celebdirtylaundry.com/2015/supernatural-recap-42215-season-10-episode-19-the-werther-project/"
@@ -71,53 +72,52 @@
             "date": "2015-04-17",
             "author_name": "Molly Eichel",
             "categories": "home,television,supernatural",
-            "tags": "little,vampire,home,many,television,supernatural",
+            "tags": "television,supernatural",
             "recuweb_url": "http://en.recuweb.com/supernatural/avclub.com/2015/04/review-the-messengers-adds-angels-to-cw-s-supernatural-fold",
             "resource_url": "http://www.google.com/search?q=supernatural%2Bsupernatural&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://avclub.com/review/messengers-adds-angels-cws-supernatural-fold-217987"
         },
-        "comicbookresources.com/2015/04/supernatural-creator-to-write-vertigo-superhero-comic-develop": {
-            "title": "\"Supernatural\" Creator To Write Vertigo Superhero Comic, Develop...",
-            "snippet": "Comic Book Resources - Supernatural Creator To Write Vertigo Superhero Comic, Develop TV Adaptation - Eric Kripke will team with artists John Higgins and Brian Bolland for Amped, a six-issue miniseries that's also being...",
-            "date": "2015-04-07",
-            "author_name": "unknown",
+        "twisted-slinky.livejournal.com/2015/04/icons-29-random-for-supernatural-teen-wolf-mentalist-stargate-white-collar": {
+            "title": "Icons: 29 random icons for Supernatural, Teen Wolf, Mentalist, Stargate, White Collar, X-overs...",
+            "snippet": "So, here's a small batch of icons from March/April folder. Some of these are from old banners/dividers I'd made for bangs and most of them are just variations, but I thought I'd share them with the class. Enjoy. Credit appreciated. Teen Wolf...",
+            "date": "2015-04-16",
+            "author_name": "twisted_slinky",
+            "categories": "supernatural,credit",
+            "tags": "made,random,supernatural,here",
+            "recuweb_url": "http://en.recuweb.com/credit/twisted-slinky.livejournal.com/2015/04/icons-29-random-for-supernatural-teen-wolf-mentalist-stargate-white-collar",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=supernatural%2Bsupernatural&rss=1&lng=en",
+            "source_url": "http://twisted-slinky.livejournal.com/94324.html"
+        },
+        "green-circles.tumblr.com/2015/04/inside-book-of-the-damneddean-might-finally-have-a-way-out": {
+            "title": "Inside: Book of the DamnedDean might finally have a way out of...",
+            "snippet": "Inside: Book of the Damned Dean might finally have a way out of damnation. Executive Producer Jeremy Carver teases TOMORROWS all new Supernatural! div...",
+            "date": "2015-04-15",
             "categories": "supernatural",
-            "tags": "issue,eric,eric_kripke,kripke,adaptation,book,creator,vertigo,supernatural,amped",
-            "recuweb_url": "http://en.recuweb.com/supernatural/comicbookresources.com/2015/04/supernatural-creator-to-write-vertigo-superhero-comic-develop",
-            "resource_url": "http://www.google.com/search?q=supernatural&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://comicbookresources.com/article/supernatural-creator-to-write-vertigo-superhero-comic-develop-tv-adaptation"
+            "tags": "executive,executive_producer,executive_producer_jeremy,producer,producer_jeremy,producer_jeremy_carver,jeremy,jeremy_carver,carver,damned,dean,inside,book,supernatural",
+            "recuweb_url": "http://en.recuweb.com/supernatural/green-circles.tumblr.com/2015/04/inside-book-of-the-damneddean-might-finally-have-a-way-out",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=supernatural%2Bsupernatural&rss=1&lng=en",
+            "source_url": "http://green-circles.tumblr.com/post/116434871047"
+        },
+        "all-spn.livejournal.com/2015/04/warning-for-stolen-fan-fiction": {
+            "title": "Warning for stolen fan fiction!",
+            "snippet": "Warning to all friends about if you write Supernatural or Supernatural RPF Fan Fiction. So the web site.com has been stealing fan fiction works from AO3, Wattpad, UrBookLibrary, and possibly and posting them to their web site where they charge...",
+            "date": "2015-04-14",
+            "author_name": "All Things Supernatural",
+            "categories": "supernatural",
+            "tags": "ing,fan,supernatural",
+            "recuweb_url": "http://en.recuweb.com/supernatural/all-spn.livejournal.com/2015/04/warning-for-stolen-fan-fiction",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=supernatural%2Bsupernatural&rss=1&lng=en",
+            "source_url": "http://all-spn.livejournal.com/5850180.html"
         },
         "brofisting.tumblr.com/2015/04/me-updating-people-who-dont-care-abt-supernatural-on": {
             "title": "me updating people who dont care abt supernatural on supernatural: you will never guess what my...",
             "snippet": "me updating people who dont care abt supernatural on supernatural: you will never guess what my son did last night...",
             "date": "2015-04-02",
             "categories": "supernatural",
-            "tags": "night,people,supernatural",
+            "tags": "never,people,supernatural,did",
             "recuweb_url": "http://en.recuweb.com/supernatural/brofisting.tumblr.com/2015/04/me-updating-people-who-dont-care-abt-supernatural-on",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=supernatural%2Bsupernatural&rss=1&lng=en",
             "source_url": "http://brofisting.tumblr.com/post/115300379089"
-        },
-        "hc-bingo.livejournal.com/2015/04/amnesty-challenge-march": {
-            "title": "Amnesty Challenge March...",
-            "snippet": "Author: backrose_17 Fandoms: Torchwood, Supernatural, Supernatural RPF, The Hobbit H/C: Isolated, Suprise Sexswap and Stranded/Surivial Scenario Link to your reclist entry: LJ and DW...",
-            "date": "2015-04-01",
-            "author_name": "hurt/comfort bingo",
-            "categories": "fandom,supernatural",
-            "tags": "rec,challenge,fandoms,supernatural,rpf",
-            "recuweb_url": "http://en.recuweb.com/supernatural/hc-bingo.livejournal.com/2015/04/amnesty-challenge-march",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=supernatural%2Bsupernatural&rss=1&lng=en",
-            "source_url": "http://hc-bingo.livejournal.com/230690.html"
-        },
-        "hc-bingo.livejournal.com/2015/04/march-challenge-15-recs": {
-            "title": "March Challenge: 15 Recs...",
-            "snippet": "Author: tipsy_kitty Fandoms: Supernatural, Supernatural RPF, Buffy the Vampire Slayer, Cabin in the Woods, Glee H/C: sacrifice rec list at my journal...",
-            "date": "2015-04-01",
-            "author_name": "hurt/comfort bingo",
-            "categories": "fandom,supernatural",
-            "tags": "rec,vampire,challenge,fandoms,supernatural,rpf",
-            "recuweb_url": "http://en.recuweb.com/supernatural/hc-bingo.livejournal.com/2015/04/march-challenge-15-recs",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=supernatural%2Bsupernatural&rss=1&lng=en",
-            "source_url": "http://hc-bingo.livejournal.com/230467.html"
         }
     }
 }
