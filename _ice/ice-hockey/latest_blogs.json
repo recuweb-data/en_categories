@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "ice-hockey",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/ice-hockey/",
@@ -10,27 +11,71 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/ice-hockey/ice-hockey/blogs.json"
     },
     "items": {
-        "arcticicehockey.com/2015/04/instant-recap-jets-fail-to-fly-through-ducks-lose-arctic-ice": {
-            "title": "Instant Recap: Jets fail to fly through Ducks, lose... - Arctic Ice Hockey...",
-            "snippet": "The Jets are now staring down a tough hill, but not an impossible one. With the way the NHL has been lately, parity reigns supreme and series comebacks are more likely, but the Jets have to play much better over the course...",
-            "date": "2015-04-19",
-            "author_name": "HappyCaraT",
-            "categories": "play,ice-hockey,hockey",
-            "tags": "play,down,ice,ice_hockey,hockey,ducks,nhl",
-            "recuweb_url": "http://en.recuweb.com/hockey/arcticicehockey.com/2015/04/instant-recap-jets-fail-to-fly-through-ducks-lose-arctic-ice",
+        "yle.fi/2015/04/k%C3%A4rp%C3%A4t-takes-finnish-ice-hockey-championship-again-yle-uutiset": {
+            "title": "K\u00e4rp\u00e4t takes Finnish ice hockey championship - again Yle Uutiset...",
+            "snippet": "The K\u00e4rp\u00e4t team from Oulu won the 2015 Finnish ice hockey championship on Saturday night, after defeating Tampere's Tappara 2 goals to 1 in extra time.",
+            "date": "2015-04-26",
+            "author_name": "unknown",
+            "categories": "hockey",
+            "tags": "goals,won,ice,hockey,championship,team,saturday",
+            "recuweb_url": "http://en.recuweb.com/hockey/yle.fi/2015/04/k%C3%A4rp%C3%A4t-takes-finnish-ice-hockey-championship-again-yle-uutiset",
             "resource_url": "http://www.google.com/search?q=ice%2Bhockey%2Bice%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://arcticicehockey.com/2015/4/19/8451777/instant-recap-winnipeg-jets-anaheim-ducks-game-two-nhl-playoffs"
+            "source_url": "http://yle.fi/uutiset/karpat_takes_finnish_ice_hockey_championship_-_again/7955532"
         },
-        "upperdeckblog.com/2015/04/collectors-are-warming-up-to-the-return-of-upper-deck-ice": {
-            "title": "Collectors Are Warming Up to the Return of Upper Deck ICE Hockey...",
-            "snippet": "When we first showed some preview images of the new 2014-15 NHL Upper Deck ICE product, fans were pretty excited about it.",
-            "date": "2015-04-15",
-            "author_name": "Chris Carlin",
-            "categories": "ice-hockey,hockey",
-            "tags": "nhl,ice,first,ice_hockey,hockey",
-            "recuweb_url": "http://en.recuweb.com/hockey/upperdeckblog.com/2015/04/collectors-are-warming-up-to-the-return-of-upper-deck-ice",
+        "budapesttimes.hu/2015/04/hungarian-ice-hockey-fans-take-krakow-by-storm-the-budapest": {
+            "title": "Hungarian ice hockey fans take Krakow by storm The Budapest...",
+            "snippet": "In ice hockey it's the Latvians who have long been known for their raucous support of their national team, their drum-banging and singing at the stadium, and their friendly banter over a cold beverage post-match. But here in...",
+            "date": "2015-04-24",
+            "author_name": "Lee Reaney",
+            "categories": "hockey",
+            "tags": "here,friendly,support,hungarian,ice,hockey,national,team",
+            "recuweb_url": "http://en.recuweb.com/hockey/budapesttimes.hu/2015/04/hungarian-ice-hockey-fans-take-krakow-by-storm-the-budapest",
             "resource_url": "http://www.google.com/search?q=ice%2Bhockey%2Bice%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://upperdeckblog.com/2015/04/collectors-are-warming-up-to-the-return-of-upper-deck-ice-hockey/"
+            "source_url": "http://budapesttimes.hu/2015/04/24/hungarian-ice-hockey-fans-take-krakow-by-storm/"
+        },
+        "arcticicehockey.com/2015/04/winnipeg-jets-post-mortem-year-of-growth-off-arctic-ice-hockey": {
+            "title": "Winnipeg Jets Post Mortem: Year of Growth; Off... - Arctic Ice Hockey...",
+            "snippet": "The Winnipeg Jets'season was ended at the hands of the Anaheim Ducks in the first round of the playoffs. The loss represented the end of a season of growth for the Winnipeg Jets and the start of major changes in the...",
+            "date": "2015-04-24",
+            "author_name": "HappyCaraT",
+            "categories": "ice-hockey,hockey",
+            "tags": "start,season,round,playoffs,arctic,arctic_ice,arctic_ice_hockey,ice,ice_hockey,hockey,off",
+            "recuweb_url": "http://en.recuweb.com/hockey/arcticicehockey.com/2015/04/winnipeg-jets-post-mortem-year-of-growth-off-arctic-ice-hockey",
+            "resource_url": "http://www.google.com/search?q=ice%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://arcticicehockey.com/2015/4/24/8460665/winnipeg-jets-post-mortem-year-of-growth-off-season-of-change"
+        },
+        "mprnews.org/2015/04/miracle-on-ice-hockey-team-doctor-attacked-at-cemetery-mpr-news": {
+            "title": "'Miracle on Ice'hockey team doctor attacked at cemetery - MPR News...",
+            "snippet": "A 94-year-old physician who served as team doctor for five U.S. men's Olympic hockey squads has suffered serious injuries in an attack while visiting his wife's grave. KMSP-TV reports George Nagobads was mugged Sunday...",
+            "date": "2015-04-21",
+            "author_name": "unknown",
+            "categories": "injuries,hockey",
+            "tags": "ice,hockey,team,men,sunday",
+            "recuweb_url": "http://en.recuweb.com/hockey/mprnews.org/2015/04/miracle-on-ice-hockey-team-doctor-attacked-at-cemetery-mpr-news",
+            "resource_url": "http://www.google.com/search?q=ice%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://mprnews.org/story/2015/04/21/olympic-hockey-team-coach-attacked"
+        },
+        "stephonlatulipe67.wordpress.com/2015/04/live-streaming-denmark-vs-switzerland-tv-watch": {
+            "title": "Live streaming Denmark vs Switzerland tv watch...",
+            "snippet": "Ice Hockey Friendly, Denmark Switzerland, Saturday, April 18, 2015 11:00 am ET Enjoy watching live stream online Ice Hockey Friendly hockey. Stream coverage Ice Hockey Friendly hockey []...",
+            "date": "2015-04-17",
+            "author_name": "toilichte",
+            "categories": "ice-hockey,hockey",
+            "tags": "ing,ing-live,ing-live-stream,live,live-stream,live-stream-online,stream,stream-online,online,ice,ice_hockey,ice_hockey_friendly,hockey,hockey_friendly,friendly,streaming,denmark,switzerland,saturday,enjoy,coverage",
+            "recuweb_url": "http://en.recuweb.com/hockey/stephonlatulipe67.wordpress.com/2015/04/live-streaming-denmark-vs-switzerland-tv-watch",
+            "resource_url": "http://en.search.wordpress.com/?q=ice%2Bhockey%2Bice%2Bhockey&f=feed&page=1",
+            "source_url": "http://stephonlatulipe67.wordpress.com/2015/04/17/live-streaming-denmark-vs-switzerland-tv-watch/"
+        },
+        "govtrack.us/2015/04/a-resolution-congratulating-the-providence-college-men-s-ice": {
+            "title": "A resolution congratulating the Providence College Men's Ice...",
+            "snippet": "138: A resolution congratulating the Providence College Men's Ice...... Hockey team for winning the 2015 NCAA Division I National Championship. Introduced: Apr 16, 2015 114th Congress, 20152017. Status: Agreed To...",
+            "date": "2015-04-16",
+            "author_name": "unknown",
+            "categories": "college,hockey",
+            "tags": "division,national,championship,winning,college,college_men,men,ice,hockey,team",
+            "recuweb_url": "http://en.recuweb.com/hockey/govtrack.us/2015/04/a-resolution-congratulating-the-providence-college-men-s-ice",
+            "resource_url": "http://www.google.com/search?q=ice%2Bhockey%2Bice%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://govtrack.us/congress/bills/114/sres138"
         },
         "businessinsider.com/2015/04/czech-republic-ice-hockey-coach-in-corruption-scandal-business": {
             "title": "Czech Republic ice hockey coach in corruption scandal - Business...",
@@ -38,7 +83,7 @@
             "date": "2015-04-14",
             "author_name": "unknown",
             "categories": "hockey,business",
-            "tags": "championships,coach,ice,hockey,team,world",
+            "tags": "championships,coach,ice,hockey,national,team,world",
             "recuweb_url": "http://en.recuweb.com/business/businessinsider.com/2015/04/czech-republic-ice-hockey-coach-in-corruption-scandal-business",
             "resource_url": "http://www.google.com/search?q=ice%2Bhockey%2Bice%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://businessinsider.com/afp-czech-republic-ice-hockey-coach-in-corruption-scandal-2015-4"
@@ -49,7 +94,7 @@
             "date": "2015-04-14",
             "author_name": "crosscurrents",
             "categories": "ice-hockey,hockey",
-            "tags": "ice,ice_hockey,hockey,ice_hockey_friendly,hockey_friendly,friendly,live,stream,tuesday,enjoy,ing,online,coverage",
+            "tags": "ice,ice_hockey,hockey,ing,ing-live,ing-live-stream,live,live-stream-online,stream,stream-online,online,ice_hockey_friendly,hockey_friendly,friendly,enjoy,coverage",
             "recuweb_url": "http://en.recuweb.com/hockey/stephonlatulipe67.wordpress.com/2015/04/germany-u18-v-canada-hockey-live-stream",
             "resource_url": "http://en.search.wordpress.com/?q=ice%2Bhockey%2Bice%2Bhockey&f=feed&page=1",
             "source_url": "http://stephonlatulipe67.wordpress.com/2015/04/14/germany-u18-v-canada-u18-hockey-live-stream/"
@@ -60,21 +105,10 @@
             "date": "2015-04-14",
             "author_name": "Tom Stevens and Guardian readers",
             "categories": "play,hockey",
-            "tags": "play,cup,puck,ice,hockey",
+            "tags": "means,offs,here,ice,hockey",
             "recuweb_url": "http://en.recuweb.com/hockey/theguardian.com/2015/04/the-puck-stops-here-share-your-ice-hockey-photos-and-memories",
             "resource_url": "http://www.google.com/search?q=ice%2Bhockey%2Bice%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://theguardian.com/sport/2015/apr/14/ice-hockey-memories-nhl-stanley-cup"
-        },
-        "winknews.com/2015/04/an-ice-hockey-soldier-surprise-homecoming-wink-news": {
-            "title": "An ice hockey soldier surprise homecoming WINK NEWS...",
-            "snippet": "GLENDALE, Ariz. A surprise soldier homecoming, literally knocked a father and son to the ground. It starts with a simple honor to drop a puck to kick off a hockey game. Then the P.A. says, Urman family, we have a special...",
-            "date": "2015-04-13",
-            "author_name": "Ariel Baar",
-            "categories": "honor,hockey",
-            "tags": "simple,drop,ice,hockey,game",
-            "recuweb_url": "http://en.recuweb.com/hockey/winknews.com/2015/04/an-ice-hockey-soldier-surprise-homecoming-wink-news",
-            "resource_url": "http://www.google.com/search?q=ice%2Bhockey%2Bice%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://winknews.com/2015/04/13/an-ice-hockey-soldier-surprise-homecoming/"
         },
         "stephonlatulipe67.wordpress.com/2015/04/live-streaming-denmark-vs-belarus-hockey": {
             "title": "Live streaming Denmark vs Belarus hockey...",
@@ -82,43 +116,10 @@
             "date": "2015-04-10",
             "author_name": "jeffandjeanne",
             "categories": "ice-hockey,hockey",
-            "tags": "ice,ice_hockey,ice_hockey_friendly,hockey,hockey_friendly,friendly,live,enjoy,ing,stream,online,coverage",
+            "tags": "ing,ing-live,ing-live-stream,live,live-stream,live-stream-online,stream,stream-online,online,ice,ice_hockey,ice_hockey_friendly,hockey,hockey_friendly,friendly,streaming,denmark,saturday,enjoy,coverage",
             "recuweb_url": "http://en.recuweb.com/hockey/stephonlatulipe67.wordpress.com/2015/04/live-streaming-denmark-vs-belarus-hockey",
             "resource_url": "http://en.search.wordpress.com/?q=ice%2Bhockey%2Bice%2Bhockey&f=feed&page=1",
             "source_url": "http://stephonlatulipe67.wordpress.com/2015/04/10/live-streaming-denmark-vs-belarus-hockey-11-04-2015/"
-        },
-        "blogs.wsj.com/2015/04/watch-india-s-ice-hockey-hope-real-time-wsj": {
-            "title": "Watch India's Ice Hockey Hope - India Real Time - WSJ...",
-            "snippet": "Junho Kim for The Wall Street JournalAt times practice on the small rink was chaotic with the 22 players sometimes tripping over one another as they skated. During an exercise involving skating around six orange cones,...",
-            "date": "2015-04-10",
-            "author_name": "Sean McLain and Karan Deep Singh",
-            "categories": "ice-hockey,hockey",
-            "tags": "orange,ice,ice_hockey,hockey,hope,players",
-            "recuweb_url": "http://en.recuweb.com/hockey/blogs.wsj.com/2015/04/watch-india-s-ice-hockey-hope-real-time-wsj",
-            "resource_url": "http://www.google.com/search?q=ice%2Bhockey%2Bice%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogs.wsj.com/indiarealtime/2015/04/10/watch-indias-ice-hockey-hope/"
-        },
-        "india.com/2015/04/indian-ice-hockey-team-pleads-for-funds-to-participate-in-2015": {
-            "title": "Indian Ice Hockey team pleads for funds to participate in 2015 IIHF...",
-            "snippet": "Lack of funds affect Indian Ice Hockey team, who take to Twitter, to raise money to provide for basic necessities for participating in 2015 IIHF Ice Hockey Challenge Cup of Asia.",
-            "date": "2015-04-08",
-            "author_name": "Krishnan Iyer",
-            "categories": "ice-hockey,hockey,twitter",
-            "tags": "ice,ice_hockey,hockey,cup,team,iihf",
-            "recuweb_url": "http://en.recuweb.com/twitter/india.com/2015/04/indian-ice-hockey-team-pleads-for-funds-to-participate-in-2015",
-            "resource_url": "http://www.google.com/search?q=ice%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://india.com/sports/indian-ice-hockey-team-pleads-for-funds-to-participate-in-2015-iihf-ice-hockey-challenge-cup-of-asia-344411/"
-        },
-        "fox2now.com/2015/03/drop-the-puck-a-chance-for-girls-to-learn-about-ice": {
-            "title": "Drop the puck: A chance for girls to learn about ice hockey...",
-            "snippet": "HAZELWOOD, MO (KTVI)-The St. Louis Cyclones Girls Hockey Club and Total Hockey's First Stride project have teamed up to host a Girls Try Hockey For Free event to introduce ice hockey to girls who have never played the...",
-            "date": "2015-03-28",
-            "author_name": "Andy Banker",
-            "categories": "hockey",
-            "tags": "girls,try,hockey,free,host,first,club,puck,drop,ice",
-            "recuweb_url": "http://en.recuweb.com/hockey/fox2now.com/2015/03/drop-the-puck-a-chance-for-girls-to-learn-about-ice",
-            "resource_url": "http://www.google.com/search?q=ice%2Bhockey%2Bice%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://fox2now.com/2015/03/28/drop-the-puck-a-chance-for-girls-to-learn-about-ice-hockey/"
         }
     }
 }
