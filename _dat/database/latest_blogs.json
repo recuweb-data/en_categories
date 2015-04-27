@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "database",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/database/",
@@ -10,27 +11,60 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/database/database/blogs.json"
     },
     "items": {
-        "globalresearch.ca/2015/04/fda-database-93%-of-food-additives-aren-t-properly-studied": {
-            "title": "FDA Database: 93% of Food Additives Aren't Properly Studied...",
-            "snippet": "In the FDA's own database, 93% of food additives lack reproductive or developmental toxicity data. Of the totality of FDA-regulated additives, both directly and indirectly allowed in food, almost two-thirds don't have publicly...",
-            "date": "2015-04-23",
-            "author_name": "Barbara Minton",
-            "categories": "food,database",
-            "tags": "database,data",
-            "recuweb_url": "http://en.recuweb.com/database/globalresearch.ca/2015/04/fda-database-93%-of-food-additives-aren-t-properly-studied",
+        "commlawblog.com/2015/04/nab-to-fcc-erase-replace-white-space-database-commlawblog": {
+            "title": "NAB to FCC: Erase, Replace White Space Database: CommLawBlog...",
+            "snippet": "A fixed TV database device in Ecuador... or the mid-Atlantic? Yes indeed, according to the white space database - prompting the NAB to suggest that i.",
+            "date": "2015-04-24",
+            "author_name": "Jon Markman",
+            "categories": "database",
+            "tags": "database",
+            "recuweb_url": "http://en.recuweb.com/database/commlawblog.com/2015/04/nab-to-fcc-erase-replace-white-space-database-commlawblog",
             "resource_url": "http://www.google.com/search?q=database%2Bdatabase&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://globalresearch.ca/fda-database-93-of-food-additives-arent-properly-studied/5444838"
+            "source_url": "http://commlawblog.com/2015/04/articles/broadcast/nab-to-fcc-erase-replace-white-space-database/"
+        },
+        "oregonlive.com/2015/04/portland-salary-database-why-a-fired-administrator-earned": {
+            "title": "Portland salary database: Why a fired administrator earned...",
+            "snippet": "Graham tops a list of nearly 8,800 city employees who, together, earned more than 439 million between July 1, 2013, and June 30, 2014, according to a city database obtained by The Oregonian/OregonLive through the...",
+            "date": "2015-04-24",
+            "author_name": "Brad Schmidt | The Oregonian/OregonLive",
+            "categories": "salary,database",
+            "tags": "database",
+            "recuweb_url": "http://en.recuweb.com/database/oregonlive.com/2015/04/portland-salary-database-why-a-fired-administrator-earned",
+            "resource_url": "http://www.google.com/search?q=database%2Bdatabase&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://oregonlive.com/portland/index.ssf/2015/04/portland_salary_database_why_a.html"
         },
         "wpbeginner.com/2015/04/how-to-clean-up-your-wordpress-database-for-improved": {
             "title": "How to Clean Up Your WordPress Database for Improved...",
-            "snippet": "If you have been using WordPress for a while, then there is a good chance that you need to clean up your WordPress site. Doing regular clean ups allow you to reduce your database size which means quicker and smaller...",
+            "snippet": "As you use WordPress, your database accumulates a lot of extra data such as revisions, spam comments, trashed comments, data from plugins you are no longer using, and more. Removing all this unnecessary data can...",
             "date": "2015-04-23",
             "author_name": "Editorial Staff",
             "categories": "wordpress,database",
-            "tags": "clean,need,using,database,site",
+            "tags": "using,database,data",
             "recuweb_url": "http://en.recuweb.com/database/wpbeginner.com/2015/04/how-to-clean-up-your-wordpress-database-for-improved",
             "resource_url": "http://www.google.com/search?q=database%2Bdatabase&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://wpbeginner.com/plugins/how-to-clean-up-your-wordpress-database-for-improved-performance/"
+        },
+        "johnstonbl.wordpress.com/2015/04/importing-reddit-data-into-mongodb": {
+            "title": "Importing Reddit Data Into MongoDB...",
+            "snippet": "During the M101JS course over at MongoDB University this week, I learned how to take Reddits post information and import it into a Mongo database. Doing this provides a rich data set with which to learn MongoDB. Real world examples and data to query...",
+            "date": "2015-04-23",
+            "author_name": "Blake",
+            "categories": "university,database",
+            "tags": "learn,information,importing,data,into,database",
+            "recuweb_url": "http://en.recuweb.com/database/johnstonbl.wordpress.com/2015/04/importing-reddit-data-into-mongodb",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=database%2Bdatabase&rss=1&lng=en",
+            "source_url": "http://johnstonbl.wordpress.com/2015/04/23/importing-reddit-data-into-mongodb/"
+        },
+        "lullabot.com/2015/04/importing-huge-databases-faster-lullabot": {
+            "title": "Importing huge databases faster Lullabot...",
+            "snippet": "Over the past few months I have been banging my head against a problem at MSNBC: importing the site's extremely large database to my local environment took more than two hours. With a fast internet connection, the...",
+            "date": "2015-04-23",
+            "author_name": "Juampy",
+            "categories": "internet,environment,database",
+            "tags": "importing,databases,database",
+            "recuweb_url": "http://en.recuweb.com/database/lullabot.com/2015/04/importing-huge-databases-faster-lullabot",
+            "resource_url": "http://www.google.com/search?q=database%2Bdatabase&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://lullabot.com/blog/article/importing-huge-databases-faster"
         },
         "businessinsider.com/2015/04/largest-database-of-police-misconduct-in-the-us-business-insider": {
             "title": "Largest database of police misconduct in the US - Business Insider...",
@@ -38,43 +72,32 @@
             "date": "2015-04-23",
             "author_name": "Natasha Bertrand",
             "categories": "google,business,database",
-            "tags": "using,developed,business,misconduct,database",
+            "tags": "using,developed,police,officer,business,largest,database,turned",
             "recuweb_url": "http://en.recuweb.com/database/businessinsider.com/2015/04/largest-database-of-police-misconduct-in-the-us-business-insider",
             "resource_url": "http://www.google.com/search?q=database%2Bdatabase&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://businessinsider.com/a-former-cop-runs-the-largest-database-of-police-misconduct-in-the-country-2015-4"
         },
-        "ip-watch.org/2015/04/open-online-database-of-clinical-trials-planned": {
-            "title": "Open, Online Database Of Clinical Trials Planned...",
-            "snippet": "A newly announced project will create an open, online database of information about the clinical research trials worldwide. The initiative, called Open Trials, will be directed by Ben Goldacre, an internationally known author...",
+        "beckysoto96.wordpress.com/2015/04/cluster-database-and-em12c": {
+            "title": "Cluster Database and EM12c...",
+            "snippet": "Originally when we configured our cluster database on EM12c we used IP addresses simply because DNS wasnt reliable in the sense setup. Instead of fighting the battle we used IP addresses. Which works provided you never change your IP addresses.",
             "date": "2015-04-22",
-            "author_name": "William New",
+            "author_name": "beckysoto96",
             "categories": "database",
-            "tags": "online,online_database,database,create,information,called",
-            "recuweb_url": "http://en.recuweb.com/database/ip-watch.org/2015/04/open-online-database-of-clinical-trials-planned",
-            "resource_url": "http://www.google.com/search?q=database%2Bdatabase&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://ip-watch.org/2015/04/22/open-online-database-of-clinical-trials-announced/"
+            "tags": "database",
+            "recuweb_url": "http://en.recuweb.com/database/beckysoto96.wordpress.com/2015/04/cluster-database-and-em12c",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=database%2Bdatabase&rss=1&lng=en",
+            "source_url": "http://beckysoto96.wordpress.com/2015/04/22/cluster-database-and-em12c/"
         },
-        "radar.oreilly.com/2015/04/squaring-big-data-with-database-queries-o-reilly-radar": {
-            "title": "Squaring big data with database queries - O'Reilly Radar...",
-            "snippet": "The key to yoking a relational database together with Hadoop in this architecture is to use Hive to impose more structure on the data than one typically uses for MapReduce jobs in Hadoop. Hive, which uses a query syntax...",
-            "date": "2015-04-22",
-            "author_name": "Andy Oram",
-            "categories": "syntax,radar,database",
-            "tags": "data,database,than",
-            "recuweb_url": "http://en.recuweb.com/database/radar.oreilly.com/2015/04/squaring-big-data-with-database-queries-o-reilly-radar",
+        "techcrunch.com/2015/04/amazon-s-aws-quietly-acquired-nosql-database-migration-startup": {
+            "title": "Amazon's AWS Quietly Acquired NoSQL Database Migration Startup...",
+            "snippet": "Amazon Web Services, the enterprise division of the e-commerce and cloud services giant, has been growing its reach in data warehousing and big data analytics by way of Redshift, a hosted product that it launched in 2012...",
+            "date": "2015-04-20",
+            "author_name": "Ingrid Lunden",
+            "categories": "commerce,web-services,database",
+            "tags": "way,cloud,enterprise,acquired,database,startup,data",
+            "recuweb_url": "http://en.recuweb.com/database/techcrunch.com/2015/04/amazon-s-aws-quietly-acquired-nosql-database-migration-startup",
             "resource_url": "http://www.google.com/search?q=database%2Bdatabase&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://radar.oreilly.com/2015/04/squaring-big-data-with-database-queries.html"
-        },
-        "blogs.vmware.com/2015/04/elite-database-workshop-program-sql-server-event-2-vmware": {
-            "title": "Elite Database Workshop Program - SQL Server Event 2 VMware...",
-            "snippet": "The 3rd VMware Elite Database Workshop is set to start at 7AM on Tuesday April 21. The program is an invitation only event for the some of the world's top SQL Server experts in which VMware selects groups of database...",
-            "date": "2015-04-21",
-            "author_name": "Don Sullivan",
-            "categories": "database",
-            "tags": "sql,program,world,database",
-            "recuweb_url": "http://en.recuweb.com/database/blogs.vmware.com/2015/04/elite-database-workshop-program-sql-server-event-2-vmware",
-            "resource_url": "http://www.google.com/search?q=database%2Bdatabase&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogs.vmware.com/vsphere/2015/04/elite-database-workshop-program-sql-server-event-2.html"
+            "source_url": "http://techcrunch.com/2015/04/20/amazons-aws-acquired-amiato/"
         },
         "venturebeat.com/2015/04/centurylink-is-acquiring-cloud-database-startup-orchestrate": {
             "title": "CenturyLink is acquiring cloud-database startup Orchestrate...",
@@ -82,43 +105,21 @@
             "date": "2015-04-20",
             "author_name": "Jordan Novet",
             "categories": "telecommunication,database",
-            "tags": "provider,database,information",
+            "tags": "information,cloud,startup,acquired,provider,database",
             "recuweb_url": "http://en.recuweb.com/database/venturebeat.com/2015/04/centurylink-is-acquiring-cloud-database-startup-orchestrate",
             "resource_url": "http://www.google.com/search?q=database%2Bdatabase&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://venturebeat.com/2015/04/20/centurylink-is-acquiring-cloud-database-startup-orchestrate/"
         },
-        "theverge.com/2015/04/wikileaks-has-published-the-complete-sony-leaks-in-a-searchable": {
-            "title": "Wikileaks has published the complete Sony leaks in a searchable...",
-            "snippet": "Today, Wikileaks published a database of all of the data leaked from Sony Pictures in last year's hack, comprising 173,132 emails and 30,287 separate documents. The documents contain private legal opinions as well as...",
-            "date": "2015-04-16",
-            "author_name": "Russell Brandom",
+        "zakitakubu.com/2015/04/man-with-a-mission-x-zebrahead-ep-out-of-control": {
+            "title": "Man with a Mission x Zebrahead EP Out of Control Will Contain Log Horizon OP Remix...",
+            "snippet": "Japanese rock band Man with a Mission and American rock band Zebrahead will release a split EP titled Out of Control on May 20th. The EP will contain five tracks, one of which will be a version of the Log Horizon opening theme database with newly...",
+            "date": "2015-04-20",
+            "author_name": "Kirin",
             "categories": "database",
-            "tags": "emails,last,database,data",
-            "recuweb_url": "http://en.recuweb.com/database/theverge.com/2015/04/wikileaks-has-published-the-complete-sony-leaks-in-a-searchable",
-            "resource_url": "http://www.google.com/search?q=database%2Bdatabase&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theverge.com/2015/4/16/8431497/wikileaks-sony-hack-emails-north-korea-julian-assange"
-        },
-        "mssstips.wordpress.com/2015/03/moving-database-files-across-disks": {
-            "title": "Moving Database Files across Disks...",
-            "snippet": "To move the files, Run Moving User Databases ALTER DATABASE database_name SET OFFLINE; Move the file or files to the new location. For each file moved, run the following statement. ALTER DATABASE database_name MODIFY FILE (NAME=logical_name,...",
-            "date": "2015-03-10",
-            "author_name": "eforius",
-            "categories": "database",
-            "tags": "database,ing,run,offline,databases",
-            "recuweb_url": "http://en.recuweb.com/database/mssstips.wordpress.com/2015/03/moving-database-files-across-disks",
+            "tags": "log,log_horizon,horizon,control,database",
+            "recuweb_url": "http://en.recuweb.com/database/zakitakubu.com/2015/04/man-with-a-mission-x-zebrahead-ep-out-of-control",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=database%2Bdatabase&rss=1&lng=en",
-            "source_url": "http://mssstips.wordpress.com/2015/03/10/moving-database-files-across-disks/"
-        },
-        "blog.liquid-technologies.com/2015/03/mysql-database-support-in-liquid-xml": {
-            "title": "MySQL Database Support in Liquid XML...",
-            "snippet": "MySQL Database is now supported in Liquid XML Studio 2015 (). In order to connect to MySQL, you must first download the driver for MySQL called Connector/Net. This can be found at the MySQL web site: Change Data Source One you have ins...",
-            "date": "2015-03-10",
-            "author_name": "Liquid Technologies",
-            "categories": "mysql,database,xml",
-            "tags": "data,site,first,mysql,database,support,called",
-            "recuweb_url": "http://en.recuweb.com/xml/blog.liquid-technologies.com/2015/03/mysql-database-support-in-liquid-xml",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=database%2Bdatabase&rss=1&lng=en",
-            "source_url": "http://blog.liquid-technologies.com/2015/03/mysql-database-support-in-liquid-xml.html"
+            "source_url": "http://zakitakubu.com/2015/04/20/man-with-a-mission-x-zebrahead-ep-out-of-control-will-contain-log-horizon-op-remix/"
         }
     }
 }
