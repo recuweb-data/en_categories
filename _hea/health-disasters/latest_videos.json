@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "health-disasters",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/health-disasters/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/health-disasters/health-disasters/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/disasters-and-mental-health-research": {
+            "title": "Disasters and Mental Health Research...",
+            "snippet": "Disasters and Mental Health ResearchAuthor: floorsecretiveTags: Disasters and Mental Health Research Posted: 23 April 2015Rating:: 0...",
+            "date": "2015-04-23",
+            "author_name": "floorsecretive",
+            "categories": "mental-health,health",
+            "tags": "mental,mental_health,health,disasters",
+            "recuweb_url": "http://en.recuweb.com/health/dailymotion.com/2015/04/disasters-and-mental-health-research",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/health+disasters+health+disasters/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nqc85_disasters-and-mental-health-research_school",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nqc85_disasters-and-mental-health-research_school"
+        },
         "dailymotion.com/2015/04/download-disaster-mental-health-around-the-world-and-across-time-an": {
             "title": "Download Disaster Mental Health Around the World and Across Time An Issue of Psychiatric Clinics...",
             "snippet": "Download Disaster Mental Health Around the World and Across Time An Issue of Psychiatric Clinics by Craig L. Katz - mirror 1 --- mirror 2 --- mirror 3 -- --------------- Synopsis: Disasters! Looking beyond their acute impact to how they affect...",
@@ -88,7 +101,7 @@
             "date": "2014-04-10",
             "author_name": "Colorado School of Public Health (ColoradoSPH)",
             "categories": "global-health,health,health-disasters",
-            "tags": "hosted,disasters,disasters_course,course,global,global_health,health,presents,presents-trypanosomiasis,trypanosomiasis,paul,paul_pottinger,pottinger,health_disasters,chagas,chagas_part,part,disasters_course_trypanosomiasis,course_trypanosomiasis,leishmaniasis,\"trypanosomiasis,center",
+            "tags": "hosted,disasters,disasters_course,course,global,global_health,health,presents,presents-trypanosomiasis,trypanosomiasis,paul,paul_pottinger,pottinger,chagas,chagas_part,part,disasters_course_trypanosomiasis,course_trypanosomiasis,leishmaniasis,\"trypanosomiasis,center",
             "recuweb_url": "http://en.recuweb.com/health-disasters/youtube.com/2014/04/2013-global-health-disasters-course-trypanosomiasis-leishmaniasis-chagas-part-1",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=health%2Bdisasters&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=6sljjslp9nk&feature=youtube_gdata",
@@ -117,18 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=health%2Bdisasters&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=okTeNOWofI0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/okTeNOWofI0/0.jpg"
-        },
-        "youtube.com/2013/02/the-most-dangerous-combo-how-to-avoid-health-disasters": {
-            "title": "THE MOST DANGEROUS COMBO: How to Avoid Health Disasters...",
-            "snippet": "THE MOST DANGEROUS COMBO: How to Avoid Health Disasters I this video I talk about the most dangerous combination on planet Earth for humans. Go to right now and get my e-book for f... From: LuisMedranoRaw Views: 133 1 ratings Time: 03:52 More in...",
-            "date": "2013-02-05",
-            "author_name": "LuisMedranoRaw",
-            "categories": "health,health-disasters,earth",
-            "tags": "health,health_disasters,disasters",
-            "recuweb_url": "http://en.recuweb.com/earth/youtube.com/2013/02/the-most-dangerous-combo-how-to-avoid-health-disasters",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=health%2Bdisasters&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=jGF6H4YpMMY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/jGF6H4YpMMY/0.jpg"
         }
     }
 }
