@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "pagerank",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/pagerank/",
@@ -10,38 +11,92 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/pagerank/pagerank/blogs.json"
     },
     "items": {
-        "mytrickschool.com/2015/03/best-high-page-rank-dofollow-forums-2015-mytrickschool": {
-            "title": "Best high page Rank Dofollow Forums 2015 - MyTrickSchool...",
-            "snippet": "High page rank do-follow back links are very important to rank any page on Google. Nowadays getting dofollow back link from other blogs are too hard. Every website owners now by default set their all outgoing link as...",
-            "date": "2015-03-02",
-            "author_name": "Md. Hamim Mondal",
-            "categories": "google",
-            "tags": "outgoing,other,getting,important,high,page,rank,back,any,google,every,website",
-            "recuweb_url": "http://en.recuweb.com/google/mytrickschool.com/2015/03/best-high-page-rank-dofollow-forums-2015-mytrickschool",
-            "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://mytrickschool.com/dofollow-forums/"
+        "reddit.com/2015/04/it-turns-out-pagerank-is-bad-at-ranking-sports-tournament-methods": {
+            "title": "It turns out PageRank is bad at ranking sports sports tournament ranking methods might work better...",
+            "snippet": "It turns out PageRank is bad at ranking sports sports tournament ranking methods might work better...",
+            "date": "2015-04-24",
+            "categories": "sport,pagerank",
+            "tags": "work,better,pagerank,ranking",
+            "recuweb_url": "http://en.recuweb.com/pagerank/reddit.com/2015/04/it-turns-out-pagerank-is-bad-at-ranking-sports-tournament-methods",
+            "resource_url": "http://www.reddit.com/search.rss?q=pagerank%2Bpagerank&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/compsci/comments/33oyv7/it_turns_out_pagerank_is_bad_at_ranking_sports/"
         },
-        "engadget.com/2015/02/google-search-results-to-show-more-mobile-friendly-sites-on-phones": {
-            "title": "Google search results to show more mobile-friendly sites on phones...",
-            "snippet": "... \"will have a significant impact in its search results.\" Via: TheNextWeb. Source: Google Webmaster Central Blog. Tags: google, GooglePagerank, GoogleRankings, mobilepostcross, pagerank. Hide Comments 0Comments...",
-            "date": "2015-02-27",
-            "author_name": "Mariella Moon",
-            "categories": "google,pagerank",
-            "tags": "sites,mobile,google,search,results,source,pagerank",
-            "recuweb_url": "http://en.recuweb.com/pagerank/engadget.com/2015/02/google-search-results-to-show-more-mobile-friendly-sites-on-phones",
-            "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://engadget.com/2015/02/27/google-page-rank-mobile/"
-        },
-        "seroundtable.com/2015/02/google-when-will-be-the-next-pagerank-update-probably-never": {
-            "title": "Google: When Will Be The Next PageRank Update? Probably Never...",
-            "snippet": "Google has said time and time again that you should not pay attention to the Google Toolbar PageRank score, but yet they have yet to zero-out any of the data, instead, they keep it as it was since the last accidental update...",
-            "date": "2015-02-24",
-            "author_name": "barry@rustybrick.com (Barry Schwartz)",
+        "blackhatworld.com/2015/04/pagerank-is-dead-the-bhw-marketplace-starts-to": {
+            "title": "Pagerank is dead, the BHW Marketplace starts to?",
+            "snippet": "Since Google announced that Pagerank won't be updated in the future anymore (publicly), it makes it a useless metric right? Then, I ask myself why so many sellers in the BHW Marketplace (Link Building) still hang on it so...",
+            "date": "2015-04-23",
+            "author_name": "cloudyseo",
             "categories": "pagerank,google",
-            "tags": "keep,any,toolbar,pagerank,score,again,probably,google",
-            "recuweb_url": "http://en.recuweb.com/google/seroundtable.com/2015/02/google-when-will-be-the-next-pagerank-update-probably-never",
+            "tags": "makes,announced,marketplace,pagerank,google,metric",
+            "recuweb_url": "http://en.recuweb.com/google/blackhatworld.com/2015/04/pagerank-is-dead-the-bhw-marketplace-starts-to",
+            "resource_url": "http://www.google.com/search?q=pagerank&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blackhatworld.com/blackhat-seo/black-hat-seo/756252-pagerank-dead-bhw-marketplace-starts-look-cheap.html"
+        },
+        "link-popularity-analysis.com/2015/04/the-connection-between-page-rank-and-back-links": {
+            "title": "The Connection Between Page Rank And Back Links.",
+            "snippet": "To outwardly add value they try and trap you with apparently better PageRank or perhaps the back link in there. It is a common trap to fall into. I mean back-links are what makes Google and the other search...",
+            "date": "2015-04-19",
+            "author_name": "Ryatt Wurtz",
+            "categories": "pagerank,google",
+            "tags": "other,makes,into,better,between,page,pagerank,rank,back,google,search",
+            "recuweb_url": "http://en.recuweb.com/google/link-popularity-analysis.com/2015/04/the-connection-between-page-rank-and-back-links",
+            "resource_url": "http://www.google.com/search?q=pagerank&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://link-popularity-analysis.com/the-connection-between-page-rank-and-back-links/"
+        },
+        "analyticsvidhya.com/2015/04/google-pagerank-explained-in-simple-terms-rankings": {
+            "title": "Google Pagerank Explained In Simple Terms Google Rankings...",
+            "snippet": "Pagerank is widely used in search engines & information retrieval. This article will explain google page rank algorithm, benefits & uses of page rank in simple terms.",
+            "date": "2015-04-12",
+            "author_name": "Tavish Srivastava",
+            "categories": "google,pagerank",
+            "tags": "terms,google,google_pagerank,pagerank,rankings,search,engines,page,rank,algorithm",
+            "recuweb_url": "http://en.recuweb.com/pagerank/analyticsvidhya.com/2015/04/google-pagerank-explained-in-simple-terms-rankings",
             "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://seroundtable.com/google-next-pagerank-update-19902.html"
+            "source_url": "http://analyticsvidhya.com/blog/2015/04/pagerank-explained-simple/"
+        },
+        "webmasters.stackexchange.com/2015/04/google-do-shorter-urls-benefit-the-pagerank-and-overall-seo": {
+            "title": "google - Do shorter URLs benefit the pagerank and overall SEO...",
+            "snippet": "We are coming to the end of a long project in which we are upgrading our client's site from a custom built CMS to the latest version of Umbraco CMS whilst also making their website responsive. As part of this upgrade process,...",
+            "date": "2015-04-08",
+            "author_name": "jezzipin",
+            "categories": "google,pagerank",
+            "tags": "version,google,urls,pagerank,seo,site,website",
+            "recuweb_url": "http://en.recuweb.com/pagerank/webmasters.stackexchange.com/2015/04/google-do-shorter-urls-benefit-the-pagerank-and-overall-seo",
+            "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://webmasters.stackexchange.com/questions/78978/do-shorter-urls-benefit-the-pagerank-and-overall-seo-value-of-pages-vs-a-longer"
+        },
+        "nevergrind.com/2015/04/nevergrind-climbs-past-browserquest-in-pagerank-maelfyn-s-glade": {
+            "title": "Nevergrind climbs past BrowserQuest in Pagerank Maelfyn's Glade...",
+            "snippet": "You can't expect everything to go according to plan in this browser game business, but some things have been going quite well. Nevergrind has been climbing steadily in some of our targeted key terms. For example, at this...",
+            "date": "2015-04-04",
+            "author_name": "Maelfyn",
+            "categories": "climbing,business,pagerank",
+            "tags": "terms,well,pagerank,everything",
+            "recuweb_url": "http://en.recuweb.com/pagerank/nevergrind.com/2015/04/nevergrind-climbs-past-browserquest-in-pagerank-maelfyn-s-glade",
+            "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://nevergrind.com/blog/nevergrind-climbs-past-browserquest-in-pagerank/"
+        },
+        "webmasters.stackexchange.com/2015/03/pagerank-zero-after-a-few-years-webmasters-stack-exchange": {
+            "title": "PageRank zero after a few years - Webmasters Stack Exchange...",
+            "snippet": "I've never focused too much on the actual PageRank on my sites but, after having had a specific one for few years that is still at zero I start to worry that I've been somehow blacklisted. Is there a way to check if that's the case?",
+            "date": "2015-03-29",
+            "author_name": "Lorenzo",
+            "categories": "pagerank",
+            "tags": "way,start,having,sites,pagerank",
+            "recuweb_url": "http://en.recuweb.com/pagerank/webmasters.stackexchange.com/2015/03/pagerank-zero-after-a-few-years-webmasters-stack-exchange",
+            "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://webmasters.stackexchange.com/questions/78654/pagerank-zero-after-a-few-years"
+        },
+        "technologyreview.com/2015/03/pagerank-algorithm-reveals-world-s-all-time-top-soccer-team": {
+            "title": "Pagerank Algorithm Reveals World's All-Time Top Soccer Team...",
+            "snippet": "Today, Verica Lazova and Lasko Basnarkov at Cyril and Methodius University in Macedonia have found another use for the Pagerank algorithm. These guys have used it to create an all-time ranking of the world's national...",
+            "date": "2015-03-13",
+            "author_name": "unknown",
+            "categories": "university,pagerank",
+            "tags": "world,top,team,pagerank,algorithm,ranking",
+            "recuweb_url": "http://en.recuweb.com/pagerank/technologyreview.com/2015/03/pagerank-algorithm-reveals-world-s-all-time-top-soccer-team",
+            "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://technologyreview.com/view/535861/pagerank-algorithm-reveals-worlds-all-time-top-soccer-team/"
         },
         "jojovivera.wordpress.com/2015/02/pagerank-vs-hits": {
             "title": "pagerank vs hits...",
@@ -49,76 +104,21 @@
             "date": "2015-02-22",
             "author_name": "weiweiverayan",
             "categories": "pagerank",
-            "tags": "authority,score,updating,pagerank,keep,each,page",
+            "tags": "updating,pagerank,keep,each,page",
             "recuweb_url": "http://en.recuweb.com/pagerank/jojovivera.wordpress.com/2015/02/pagerank-vs-hits",
             "resource_url": "http://en.search.wordpress.com/?q=pagerank%2Bpagerank&f=feed&page=1",
             "source_url": "http://jojovivera.wordpress.com/2015/02/22/pagerank-vs-hits/"
         },
-        "vishalthind34.wordpress.com/2015/02/what-is-pagerank": {
-            "title": "What is PageRank?",
-            "snippet": "PageRank is an algorithm used by Google Search to rank websites in their search engine results. PageRank was named after Larry Page,one of the founders of Google. PageRank...",
-            "date": "2015-02-03",
-            "author_name": "vishalthind34",
+        "forum.seotoolsforexcel.com/2015/02/calculate-internal-pagerank-link-juice-flow-seotools-forum": {
+            "title": "Calculate internal PageRank/Link Juice Flow - SeoTools Forum...",
+            "snippet": "Hello! How is it possible having 2 columns with source and direction URLs to calculate internal PageRank/Link Juice Flow for each destination URL? I know, there is a function, which queries Google Toolbar's PageRank, but...",
+            "date": "2015-02-12",
+            "author_name": "chilly_bang",
             "categories": "google,pagerank",
-            "tags": "larry,larry_page,page,websites,google,google_search,search,pagerank,algorithm,rank,engine,results,founders",
-            "recuweb_url": "http://en.recuweb.com/pagerank/vishalthind34.wordpress.com/2015/02/what-is-pagerank",
-            "resource_url": "http://en.search.wordpress.com/?q=pagerank%2Bpagerank&f=feed&page=1",
-            "source_url": "http://vishalthind34.wordpress.com/2015/02/03/what-is-pagerank/"
-        },
-        "kennybastani.com/2015/01/categorical-pagerank-using-neo4j-and-apache-spark": {
-            "title": "Categorical PageRank Using Neo4j and Apache Spark...",
-            "snippet": "This blog post describes a process for implementing a distributed PageRank job scheduler on the popular open source knowledge graph DBpedia using Neo4j and Apache Spark.",
-            "date": "2015-01-20",
-            "author_name": "Kenny Bastani",
-            "categories": "pagerank",
-            "tags": "graph,source,pagerank,using",
-            "recuweb_url": "http://en.recuweb.com/pagerank/kennybastani.com/2015/01/categorical-pagerank-using-neo4j-and-apache-spark",
+            "tags": "google,each,possible,having,forum,pagerank,urls",
+            "recuweb_url": "http://en.recuweb.com/pagerank/forum.seotoolsforexcel.com/2015/02/calculate-internal-pagerank-link-juice-flow-seotools-forum",
             "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://kennybastani.com/2015/01/categorical-pagerank-neo4j-spark.html"
-        },
-        "loveyouforever25.wordpress.com/2014/12/24-nofollow-social-bookmarking": {
-            "title": "24 Nofollow Social Bookmarking...",
-            "snippet": "24 Nofollow Social Bookmarking Websites: - Google PageRank: 9 - Alexa: 1,286 - Google PageRank: 8 - Alexa: 106; - Google PageRank: 8 -...",
-            "date": "2014-12-13",
-            "author_name": "vungbienxanh2015",
-            "categories": "google,pagerank",
-            "tags": "google,google_pagerank,pagerank,websites",
-            "recuweb_url": "http://en.recuweb.com/pagerank/loveyouforever25.wordpress.com/2014/12/24-nofollow-social-bookmarking",
-            "resource_url": "http://en.search.wordpress.com/?q=pagerank%2Bpagerank&f=feed&page=1",
-            "source_url": "http://loveyouforever25.wordpress.com/2014/12/13/24-nofollow-social-bookmarking/"
-        },
-        "blog.revolutionanalytics.com/2014/12/finding-the-essential-r-packages-using-pagerank-algorithm": {
-            "title": "Finding the essential R packages using the pagerank algorithm...",
-            "snippet": "This is what the famous PageRank algorithm does, one of the mechanisms that Google use to determine the importance of a web page. In essence, a page (or package) is deemed to be more important if many other pages...",
-            "date": "2014-12-02",
-            "author_name": "Andrie de Vries",
-            "categories": "pagerank,google",
-            "tags": "important,other,pages,using,pagerank,algorithm,google,web,page",
-            "recuweb_url": "http://en.recuweb.com/google/blog.revolutionanalytics.com/2014/12/finding-the-essential-r-packages-using-pagerank-algorithm",
-            "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.revolutionanalytics.com/2014/12/a-reproducible-r-example-finding-the-most-popular-packages-using-the-pagerank-algorithm.html"
-        },
-        "toprankblog.com/2014/11/online-marketing-news-pagerank-is-dead-google-gets-anti-ads": {
-            "title": "Online Marketing News: PageRank Is Dead, Google Gets Anti-Ads...",
-            "snippet": "This week's top Online Marketing News from TopRank - PageRank Is Dead, Google Gets Anti-Ads, Every Tweet Ever.",
-            "date": "2014-11-28",
-            "author_name": "Ben Brausen",
-            "categories": "google,pagerank,marketing",
-            "tags": "every,google,pagerank,dead,online,top",
-            "recuweb_url": "http://en.recuweb.com/marketing/toprankblog.com/2014/11/online-marketing-news-pagerank-is-dead-google-gets-anti-ads",
-            "resource_url": "http://www.google.com/search?q=pagerank&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://toprankblog.com/2014/11/online-marketing-news-11282014/"
-        },
-        "searchenginewatch.com/2014/10/pagerank-dead-what-will-replace-the-green-standard-sew": {
-            "title": "PageRank Dead? What Will Replace the \"Green Standard?\" SEW...",
-            "snippet": "The first time that SEOs were faced with the prospect of PageRank going away was a year ago, when Matt Cuts suggested that there would be no further updates in 2013. matt-cutts-pagerank. Source:.",
-            "date": "2014-10-20",
-            "author_name": "Chuck Price",
-            "categories": "pagerank",
-            "tags": "pagerank,dead,source",
-            "recuweb_url": "http://en.recuweb.com/pagerank/searchenginewatch.com/2014/10/pagerank-dead-what-will-replace-the-green-standard-sew",
-            "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://searchenginewatch.com/sew/how-to/2376451/pagerank-dead-what-will-replace-the-green-standard"
+            "source_url": "http://forum.seotoolsforexcel.com/index.php?p=/discussion/2048/calculate-internal-pagerank-link-juice-flow"
         }
     }
 }
