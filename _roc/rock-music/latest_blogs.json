@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "rock-music",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/rock-music/",
@@ -10,27 +11,49 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/rock-music/rock-music/blogs.json"
     },
     "items": {
-        "patheos.com/2015/04/80s-rock-music-for-worship-patheos": {
-            "title": "80s Rock Music for Worship - Patheos...",
-            "snippet": "My pastor left a comment on my wall on Facebook, suggesting that we do a whole service, perhaps calling the genre Grace Rock. Here are some other songs I suggested might be included. A few I am serious about can...",
-            "date": "2015-04-23",
-            "author_name": "James F. McGrath",
-            "categories": "rock-music,music,facebook",
-            "tags": "might,other,songs,rock,rock_music,music,facebook,here,few",
-            "recuweb_url": "http://en.recuweb.com/facebook/patheos.com/2015/04/80s-rock-music-for-worship-patheos",
-            "resource_url": "http://www.google.com/search?q=rock%2Bmusic%2Brock%2Bmusic&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://patheos.com/blogs/exploringourmatrix/2015/04/80s-rock-music-for-worship.html"
+        "progrockmusictalk.com/2015/04/rock-legends-lucifer-s-friend-to-release-new-best-of": {
+            "title": "Rock Legends LUCIFER'S FRIEND To Release New Best Of...",
+            "snippet": "PROG ROCK MUSIC TALK. Exploring The Fertile Land of Progressive Rock With Reviews, News and Features... Lucifer's Friend will be playing Sweden Rock Festival and the reformation is expected to be one of the most extraordinary highlights of 2015! The...",
+            "date": "2015-04-24",
+            "author_name": "Glass Onyon PR",
+            "categories": "rock-music,music",
+            "tags": "rock,festival,progressive,rock_music,music,release",
+            "recuweb_url": "http://en.recuweb.com/music/progrockmusictalk.com/2015/04/rock-legends-lucifer-s-friend-to-release-new-best-of",
+            "resource_url": "http://www.google.com/search?q=rock%2Bmusic&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://progrockmusictalk.com/2015/04/rock-legends-lucifers-friend-to-release.html"
         },
-        "observer.com/2015/04/jd-mcpherson-the-savior-rock-and-roll-deserves-observer": {
-            "title": "JD McPherson: The Savior Rock and Roll Deserves Observer...",
-            "snippet": "Speaking about the birth of rock music, JD is characteristically astuteeven philosophical: It was something important that was happening. I see it being something worth preserving and talking about. I guess that's part of the...",
-            "date": "2015-04-23",
-            "author_name": "John Packel",
+        "popmatters.com/2015/04/speedy-ortiz-s-sadie-dupuis-talks-self-acceptance-feminism": {
+            "title": "Speedy Ortiz's Sadie Dupuis Talks Self-Acceptance, Feminism, and...",
+            "snippet": "Sadie Dupuis of Speedy Ortiz talks with PopMatters about a growing progressive movement in rock music, her new record, and more.",
+            "date": "2015-04-22",
+            "author_name": "Corey Beasley",
+            "categories": "feminism,music",
+            "tags": "record,progressive,movement,rock,music",
+            "recuweb_url": "http://en.recuweb.com/music/popmatters.com/2015/04/speedy-ortiz-s-sadie-dupuis-talks-self-acceptance-feminism",
+            "resource_url": "http://www.google.com/search?q=rock%2Bmusic&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://popmatters.com/feature/192281-speedy-ortizs-sadie-dupuis-talks-self-acceptance-feminism-and-inclus/"
+        },
+        "subtraction.com/2015/04/don-t-think-i-ve-forgotten-cambodia-s-lost-rock": {
+            "title": "Don't Think I've Forgotten: Cambodia's Lost Rock and Roll...",
+            "snippet": "This documentary by director John Pirozzi tells the tale of an era of popular music in Cambodia that occurred during the 1960s and early 1970s but that has since become nearly forgotten by history. Combining Western rock...",
+            "date": "2015-04-21",
+            "author_name": "Khoi",
             "categories": "music",
-            "tags": "part,roll,rock,music",
-            "recuweb_url": "http://en.recuweb.com/music/observer.com/2015/04/jd-mcpherson-the-savior-rock-and-roll-deserves-observer",
-            "resource_url": "http://www.google.com/search?q=rock%2Bmusic%2Brock%2Bmusic&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://observer.com/2015/04/jd-mcpherson-is-the-savior-rock-and-roll-deserves/"
+            "tags": "popular,john,documentary,director,rock,roll,music",
+            "recuweb_url": "http://en.recuweb.com/music/subtraction.com/2015/04/don-t-think-i-ve-forgotten-cambodia-s-lost-rock",
+            "resource_url": "http://www.google.com/search?q=rock%2Bmusic&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://subtraction.com/2015/04/21/dont-think-ive-forgotten-cambodias-lost-rock-and-roll/"
+        },
+        "papermag.com/2015/04/read-miley-cyrus-rock-and-roll-hall-of-fame-induction-papermag": {
+            "title": "Read Miley Cyrus'Rock and Roll Hall of Fame Induction... - Papermag...",
+            "snippet": "Joan Jett was inducted into the Rock and Roll Hall of Fame this weekend with Lou Reed and Green Day. Back in 2010, Jett told us inspiring other girls to play rock music when she formed her short-lived...",
+            "date": "2015-04-20",
+            "author_name": "unknown",
+            "categories": "play,music",
+            "tags": "green,green_day,day,lou,lou_reed,reed,joan,joan_jett,jett,fame,fame_induction,induction,roll,roll_hall,hall,read,rock,music",
+            "recuweb_url": "http://en.recuweb.com/music/papermag.com/2015/04/read-miley-cyrus-rock-and-roll-hall-of-fame-induction-papermag",
+            "resource_url": "http://www.google.com/search?q=rock%2Bmusic&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://papermag.com/2015/04/miley_cyrus_rock_and_roll_hall_of_fame_joan_jett.php"
         },
         "fox8.com/2015/04/rock-hall-induction-ceremony-filled-with-laughs-tears-&-lots-of": {
             "title": "Rock hall induction ceremony filled with laughs, tears & lots of music...",
@@ -38,7 +61,7 @@
             "date": "2015-04-18",
             "author_name": "Ann Domeck",
             "categories": "entertainment,music",
-            "tags": "night,musical,hall,saturday,fame,fame_induction,induction,ceremony,roll,roll_hall,rock,music,paul",
+            "tags": "night,hall,fame,fame_induction,induction,roll,roll_hall,annual,rock,music,musical,paul",
             "recuweb_url": "http://en.recuweb.com/music/fox8.com/2015/04/rock-hall-induction-ceremony-filled-with-laughs-tears-&-lots-of",
             "resource_url": "http://www.google.com/search?q=rock%2Bmusic%2Brock%2Bmusic&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://fox8.com/2015/04/18/tonights-the-night-2015-rock-and-roll-hall-of-fame-inductions-weve-got-all-the-info-you-need-to-know/"
@@ -49,7 +72,7 @@
             "date": "2015-04-18",
             "author_name": "unknown",
             "categories": "music",
-            "tags": "century,paul,drum,roll,roll_hall,hall,green,green_day,day,rock,ringo,ringo_starr,starr,fame,music",
+            "tags": "group,john,paul,roll,roll_hall,hall,green,green_day,day,rock,ringo,ringo_starr,starr,fame,music",
             "recuweb_url": "http://en.recuweb.com/music/nbcnews.com/2015/04/ringo-starr-green-day-among-rock-and-roll-hall-of-fame",
             "resource_url": "http://www.google.com/search?q=rock%2Bmusic%2Brock%2Bmusic&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://nbcnews.com/pop-culture/music/ringo-starr-green-day-more-be-inducted-rock-roll-hall-n344041"
@@ -59,7 +82,7 @@
             "snippet": "Tomorrow the Rock and Roll Hall of Fame inducts a legendary lineup of musicians including Ringo Starr, Lou Reed, Joan Jett & the Blackhearts and Green Day, to name only a few. Read more about the new Hall of Famers...",
             "date": "2015-04-17",
             "author_name": "Catherine McHugh",
-            "tags": "few,green,green_day,day,joan,joan_jett,jett,lou,lou_reed,reed,ringo,ringo_starr,starr,musicians,roll,roll_hall,hall,rock,fame,read",
+            "tags": "green,green_day,day,joan,joan_jett,jett,lou,lou_reed,reed,ringo,ringo_starr,starr,roll,roll_hall,hall,rock,fame,class,read",
             "recuweb_url": "http://en.recuweb.com/biography.com/2015/04/welcome-to-the-rock-and-roll-hall-of-fame-class-2015",
             "resource_url": "http://www.google.com/search?q=rock%2Bmusic%2Brock%2Bmusic&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://biography.com/news/rock-and-roll-hall-of-fame-2015-inductees"
@@ -70,7 +93,7 @@
             "date": "2015-04-15",
             "author_name": "Metal Odyssey",
             "categories": "magic,music",
-            "tags": "album,american,free,music,studio,first,rock",
+            "tags": "album,release,free,music,rock",
             "recuweb_url": "http://en.recuweb.com/music/metalodyssey.net/2015/04/beauvoir-free-american-trash-studio-album-releasing-first-week-of-june",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=rock%2Bmusic%2Brock%2Bmusic&rss=1&lng=en",
             "source_url": "http://metalodyssey.net/2015/04/15/beauvoir-free-american-trash-studio-album-releasing-first-week-of-june-via-frontiers-music-srl/"
@@ -91,31 +114,10 @@
             "snippet": "Needless to say this is just speculating, but speculating is part of what makes music discussion fun. To Pimp a Butterfly is already hailed as a milestone hip-hop album. It has an insane Metacritic score of 96/100 and a Rate Your Music average...",
             "date": "2015-04-05",
             "categories": "music",
-            "tags": "music,album,fun,part,rock",
+            "tags": "music,album,rock",
             "recuweb_url": "http://en.recuweb.com/music/reddit.com/2015/04/so-hip-hop-got-to-pimp-a-butterfly-can-rock-music",
             "resource_url": "http://www.reddit.com/search.rss?q=rock%2Bmusic%2Brock%2Bmusic&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/LetsTalkMusic/comments/31iedl/so_hiphop_got_to_pimp_a_butterfly_can_rock_music/"
-        },
-        "reddit.com/2015/03/nmom-dragged-auntie-sauce-to-a-soundgarden-laser-light-show-hates": {
-            "title": "Nmom dragged Auntie Sauce to a Soundgarden laser light show. Nmom hates rock music and science. So...",
-            "snippet": "She's an N, that's why. I was sitting there in the kitchen quietly eating oatmeal when the door to the garage flew open. In walked Nmom and Auntie Sauce. They reeked of pot. Nmom stormed to her room mumbling how her outfit got ruined by \"the stinky...",
-            "date": "2015-03-19",
-            "categories": "kitchen,science,music",
-            "tags": "room,garage,show,rock,music",
-            "recuweb_url": "http://en.recuweb.com/music/reddit.com/2015/03/nmom-dragged-auntie-sauce-to-a-soundgarden-laser-light-show-hates",
-            "resource_url": "http://www.reddit.com/search.rss?q=rock%2Bmusic%2Brock%2Bmusic&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/raisedbynarcissists/comments/2zmgii/nmom_dragged_auntie_sauce_to_a_soundgarden_laser/"
-        },
-        "fortlewis.edu/2015/03/lecture-rock-music-and-american-generations-what-happened-to": {
-            "title": "Lecture, \"Rock Music and American Generations, What happened to...",
-            "snippet": "Noble Room 130, Noble Hall Free Coordinator: Life-Long Learning Contact: 970-247-7401 In a follow up to his popular talk on the Rock Era in our musical and cultural history, Bob Griffith will offer, with conversation and music...",
-            "date": "2015-03-12",
-            "author_name": "White, Wilson T. (WTWHITE)",
-            "categories": "learning,rock-music,music,life",
-            "tags": "musical,rock,hall,free,room,american,music,life",
-            "recuweb_url": "http://en.recuweb.com/life/fortlewis.edu/2015/03/lecture-rock-music-and-american-generations-what-happened-to",
-            "resource_url": "http://www.google.com/search?q=rock%2Bmusic&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://fortlewis.edu/events/Home/ctl/Details/Mid/1023/ItemID/16595.aspx?ContainerSrc=[G]Containers/FortLewisCollege/Title_None&SkinSrc=[G]Skins/FortLewisCollege-Dept/2ndLevel"
         }
     }
 }
