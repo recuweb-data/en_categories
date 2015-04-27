@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "horoscope",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/horoscope/",
@@ -10,16 +11,49 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/horoscope/horoscope/blogs.json"
     },
     "items": {
-        "vsuspectator.com/2015/04/horoscope-daily-forecast-4-21-15-the-spectator": {
-            "title": "Horoscope: Daily Forecast 4/21/15 - The Spectator...",
-            "snippet": "What do you have in store for your future? Check this out to see. Today's Birthday (04/21/15). Balance domestic comforts with the freedom of the open road this year. Plan a remodel after 6/14. Careful budgeting grows family...",
-            "date": "2015-04-21",
-            "author_name": "Kayla Stroud",
+        "cosmopolitan.com/2015/04/your-horoscope-and-spirit-2000s-disney-channel-star-for-the-week": {
+            "title": "Your Horoscope and Spirit 2000s Disney Channel Star for the Week...",
+            "snippet": "TaUrUs You are on a roll right now, Taurus. On Sunday, your ruler, sensual Venus, makes a gorgeous sextile to unique Uranus, bringing you a happy surprise. This could be just what you have been waiting for!",
+            "date": "2015-04-26",
+            "author_name": "unknown",
             "categories": "horoscope",
-            "tags": "year,daily,forecast,horoscope,check,today,after",
-            "recuweb_url": "http://en.recuweb.com/horoscope/vsuspectator.com/2015/04/horoscope-daily-forecast-4-21-15-the-spectator",
+            "tags": "bringing,unique,horoscope,spirit,week,taurus,sunday",
+            "recuweb_url": "http://en.recuweb.com/horoscope/cosmopolitan.com/2015/04/your-horoscope-and-spirit-2000s-disney-channel-star-for-the-week",
             "resource_url": "http://www.google.com/search?q=horoscope%2Bhoroscope&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://vsuspectator.com/2015/04/21/horoscope-daily-forecast-42115/"
+            "source_url": "http://cosmopolitan.com/lifestyle/a39559/april-26-horoscope/"
+        },
+        "oshonews.com/2015/04/horoscope-may-2015-osho-news-online-magazine": {
+            "title": "Horoscope May 2015 Osho News Online Magazine...",
+            "snippet": "Be aware of the full moon bringing a tendency to have exaggerated claims to life, especially in relationships, says Sitara.",
+            "date": "2015-04-25",
+            "author_name": "Bhagawati",
+            "categories": "relationships,life,horoscope,moon",
+            "tags": "relationships,bringing,life,horoscope,moon",
+            "recuweb_url": "http://en.recuweb.com/moon/oshonews.com/2015/04/horoscope-may-2015-osho-news-online-magazine",
+            "resource_url": "http://www.google.com/search?q=horoscope%2Bhoroscope&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://oshonews.com/2015/04/horoscope-may-2015/"
+        },
+        "entertainmentstonight.blogspot.com/2015/04/when-income-inequality-is-paying-a-high-price-the-restaurant": {
+            "title": "When income inequality is paying a high price the restaurant! She...",
+            "snippet": "Horoscope Numerology Affinities Tarot Chinese Daily Horoscope Horoscope of the week Character and signs Love Today The horoscope 2015 Valentine Numeroscope, annual forecasts Numerological profile Labour and figures Love and figures Love...",
+            "date": "2015-04-24",
+            "author_name": "(Bartlesville)",
+            "categories": "love,horoscope,numerology",
+            "tags": "figures,annual,annual-forecasts,forecasts,valentine,valentine_numeroscope,numeroscope,love,love_today,today,signs,horoscope,horoscope_numerology,horoscope_numerology_affinities,numerology,numerology_affinities,numerology_affinities_tarot,affinities,affinities_tarot,affinities_tarot_chinese,tarot,tarot_chinese,tarot_chinese_daily,chinese,chinese_daily,chinese_daily_horoscope,daily,daily_horoscope,week,character,numerological,profile,labour",
+            "recuweb_url": "http://en.recuweb.com/numerology/entertainmentstonight.blogspot.com/2015/04/when-income-inequality-is-paying-a-high-price-the-restaurant",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=horoscope%2Bhoroscope&rss=1&lng=en",
+            "source_url": "http://entertainmentstonight.blogspot.com/2015/04/when-income-inequality-is-paying-high.html"
+        },
+        "clclt.com/2015/04/weekly-horoscope-april-23-29-creative-loafing-charlotte": {
+            "title": "Weekly horoscope (April 23-29) - Creative Loafing Charlotte...",
+            "snippet": "For All Signs: Mercury, ancient messenger god, is busy this week. This suggests that most of us will be preoccupied with communication of one form...",
+            "date": "2015-04-23",
+            "author_name": "Vivian Carol",
+            "categories": "horoscope",
+            "tags": "weekly,horoscope,signs,mercury,week",
+            "recuweb_url": "http://en.recuweb.com/horoscope/clclt.com/2015/04/weekly-horoscope-april-23-29-creative-loafing-charlotte",
+            "resource_url": "http://www.google.com/search?q=horoscope%2Bhoroscope&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://clclt.com/charlotte/weekly-horoscope-april-23-29/Content?oid=3604107"
         },
         "entertainmentstonight.blogspot.com/2015/04/game-of-thrones-hackers-will-be-punished": {
             "title": "Game of Thrones: Hackers will be punished She...",
@@ -27,7 +61,7 @@
             "date": "2015-04-20",
             "author_name": "(Bartlesville)",
             "categories": "love,horoscope,numerology",
-            "tags": "figures,annual,annual-forecasts,forecasts,valentine,valentine_numeroscope,numeroscope,love,today,signs,horoscope,horoscope_numerology,horoscope_numerology_affinities,numerology,numerology_affinities,numerology_affinities_tarot,affinities,affinities_tarot,affinities_tarot_chinese,tarot,tarot_chinese,tarot_chinese_daily,chinese,chinese_daily,chinese_daily_horoscope,daily,daily_horoscope,week,character,numerological,profile,labour",
+            "tags": "figures,annual,annual-forecasts,forecasts,valentine,valentine_numeroscope,numeroscope,love,love_today,today,signs,horoscope,horoscope_numerology,horoscope_numerology_affinities,numerology,numerology_affinities,numerology_affinities_tarot,affinities,affinities_tarot,affinities_tarot_chinese,tarot,tarot_chinese,tarot_chinese_daily,chinese,chinese_daily,chinese_daily_horoscope,daily,daily_horoscope,game,week,character,numerological,profile,labour",
             "recuweb_url": "http://en.recuweb.com/numerology/entertainmentstonight.blogspot.com/2015/04/game-of-thrones-hackers-will-be-punished",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=horoscope%2Bhoroscope&rss=1&lng=en",
             "source_url": "http://entertainmentstonight.blogspot.com/2015/04/game-of-thrones-hackers-will-be.html"
@@ -38,21 +72,10 @@
             "date": "2015-04-19",
             "author_name": "fp contributor",
             "categories": "horoscope,twitter,sun",
-            "tags": "email,free,people,horoscope,week,twitter,taurus,sun",
+            "tags": "person,email,free,people,horoscope,week,twitter,taurus,sun",
             "recuweb_url": "http://en.recuweb.com/sun/blog.freepeople.com/2015/04/free-people-horoscope-by-tracy-allen-week-of-april-2026",
             "resource_url": "http://www.google.com/search?q=horoscope%2Bhoroscope&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.freepeople.com/2015/04/free-people-horoscope-tracy-allen-week-april-2026/"
-        },
-        "fragrantica.com/2015/04/perfumed-horoscope-april-20-26-fragrant-fragrantica": {
-            "title": "Perfumed Horoscope April 20 - 26 Fragrant Horoscope - Fragrantica...",
-            "snippet": "This week we are the looking at the planetoid Pluto known as the Lord of the Underworld in astrology and mythology. In today's terms it means that our personal power is to a large degree built on unknown instincts which are...",
-            "date": "2015-04-19",
-            "author_name": "unknown",
-            "categories": "mythology,horoscope,astrology",
-            "tags": "horoscope,horoscope_april,week,astrology,today",
-            "recuweb_url": "http://en.recuweb.com/astrology/fragrantica.com/2015/04/perfumed-horoscope-april-20-26-fragrant-fragrantica",
-            "resource_url": "http://www.google.com/search?q=horoscope%2Bhoroscope&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://fragrantica.com/news/Perfumed-Horoscope-April-20-26-6618.html"
         },
         "entertainmentstonight.blogspot.com/2015/04/the-embarrassing-ancestor-of-ben-affleck": {
             "title": "The embarrassing ancestor of Ben Affleck She...",
@@ -65,38 +88,16 @@
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=horoscope%2Bhoroscope&rss=1&lng=en",
             "source_url": "http://entertainmentstonight.blogspot.com/2015/04/the-embarrassing-ancestor-of-ben.html"
         },
-        "deadstate.org/2015/04/we-ve-finally-found-a-horoscope-that-is-based-in-actual": {
-            "title": "We've finally found a horoscope that is based in actual fact...",
-            "snippet": "This will turn the astrology world on its head. deadstate horoscope via XKDC. 0 Share. 0 Share. 0 Share. 0 Share. 0 Share. 0 Share. 0 Share. 0 Share. Latest Comments. Jonathan Berman. Okay that's super lame. Reply April...",
-            "date": "2015-04-19",
-            "author_name": "DeadState",
-            "categories": "horoscope,astrology",
-            "tags": "finally,horoscope,astrology,share,okay",
-            "recuweb_url": "http://en.recuweb.com/astrology/deadstate.org/2015/04/we-ve-finally-found-a-horoscope-that-is-based-in-actual",
-            "resource_url": "http://www.google.com/search?q=horoscope&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://deadstate.org/weve-finally-found-a-horoscope-that-is-based-in-actual-fact/"
-        },
         "cosmopolitan.com/2015/04/your-horoscope-and-spirit-north-west-for-the-week-of-april": {
             "title": "Your Horoscope and Spirit North West for the Week of April 19...",
             "snippet": "ArIeS Pay attention to your intuition this week. Bit on Sunday, you could get mixed messages, so gather more information before making major moves. On Monday, the sun moves into determined Taurus and will help...",
             "date": "2015-04-19",
             "author_name": "unknown",
             "categories": "sun,horoscope",
-            "tags": "sun,before,aries,horoscope,week,taurus,help",
+            "tags": "help,sun,moves,making,attention,aries,pay,spirit,horoscope,week,sunday,monday,into,determined,taurus",
             "recuweb_url": "http://en.recuweb.com/horoscope/cosmopolitan.com/2015/04/your-horoscope-and-spirit-north-west-for-the-week-of-april",
             "resource_url": "http://www.google.com/search?q=horoscope%2Bhoroscope&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://cosmopolitan.com/lifestyle/news/a39220/april-19-horoscope/"
-        },
-        "clatl.com/2015/04/free-will-astrology-creative-loafing-atlanta": {
-            "title": "Free Will Astrology - Creative Loafing Atlanta...",
-            "snippet": "Aren't you usually the zodiac's smartest competitor? I understand that you're trying to become more skilled at the arts of relaxation, but can't you postpone that until after this... Tags: free will astrology horoscope rob brezsny...",
-            "date": "2015-04-16",
-            "author_name": "Rob Brezsny",
-            "categories": "arts,zodiac,astrology,horoscope",
-            "tags": "free,astrology,understand,after,horoscope",
-            "recuweb_url": "http://en.recuweb.com/horoscope/clatl.com/2015/04/free-will-astrology-creative-loafing-atlanta",
-            "resource_url": "http://www.google.com/search?q=horoscope%2Bhoroscope&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://clatl.com/atlanta/free-will-astrology/Content?oid=14036268"
         },
         "hollywoodreporter.com/2015/04/spring-2015-horoscope-pedicure-hollywood-reporter": {
             "title": "Spring 2015 horoscope pedicure - Hollywood Reporter...",
@@ -104,21 +105,21 @@
             "date": "2015-04-16",
             "author_name": "Kathryn Romeyn",
             "categories": "horoscope",
-            "tags": "forecasts,horoscope,aries,virgo",
+            "tags": "forecasts,perfect,horoscope,aries,virgo",
             "recuweb_url": "http://en.recuweb.com/horoscope/hollywoodreporter.com/2015/04/spring-2015-horoscope-pedicure-hollywood-reporter",
             "resource_url": "http://www.google.com/search?q=horoscope%2Bhoroscope&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://hollywoodreporter.com/news/spring-2015-horoscope-pedicure-789365"
         },
-        "graywoods11.wordpress.com/2015/04/horoscope-and-sign-compatibility": {
-            "title": "Horoscope And Horoscope Sign Compatibility...",
-            "snippet": "Horoscope And Horoscope Sign Compatibility But for this need any institution who wants to like to be are many great will change your mind.I was finally going to device 235 compete from either resistance the met on the feelings; leaders the maximum...",
-            "date": "2015-04-02",
-            "author_name": "graywoods11",
-            "categories": "mind,horoscope",
-            "tags": "either,finally,mind,horoscope,sign,need",
-            "recuweb_url": "http://en.recuweb.com/horoscope/graywoods11.wordpress.com/2015/04/horoscope-and-sign-compatibility",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=horoscope%2Bhoroscope&rss=1&lng=en",
-            "source_url": "http://graywoods11.wordpress.com/2015/04/02/horoscope-and-horoscope-sign-compatibility/"
+        "cosmopolitan.com/2015/04/your-horoscope-and-spirit-villain-for-the-week-of-april-12": {
+            "title": "Your Horoscope and Spirit Villain for the Week of April 12...",
+            "snippet": "ArIeS This is a very exciting week for you, Aries! Clever Mercury moves into determined Taurus on Tuesday and will help you put all your plans into action. Take the steady approach and you will be amazed by how...",
+            "date": "2015-04-12",
+            "author_name": "unknown",
+            "categories": "horoscope",
+            "tags": "help,mercury,spirit,horoscope,week,aries,moves,into,determined,taurus",
+            "recuweb_url": "http://en.recuweb.com/horoscope/cosmopolitan.com/2015/04/your-horoscope-and-spirit-villain-for-the-week-of-april-12",
+            "resource_url": "http://www.google.com/search?q=horoscope%2Bhoroscope&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://cosmopolitan.com/lifestyle/news/a38833/april-12-horoscope/"
         }
     }
 }
