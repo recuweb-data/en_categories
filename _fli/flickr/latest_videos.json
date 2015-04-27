@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "flickr",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/flickr/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/flickr/flickr/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/flickr-offers-profit-incentive": {
+            "title": "Flickr Offers Profit Incentive...",
+            "snippet": "Chris Beaman discusses Flickr's recent announcement to offer profit: chris-beamanTags: Flickr Chris Beaman Technology Business Profit Yahoo Huntsville Alabama Posted: 25 April 2015Rating:: 0...",
+            "date": "2015-04-24",
+            "author_name": "chris-beaman",
+            "categories": "technology,business,yahoo,flickr",
+            "tags": "yahoo,flickr",
+            "recuweb_url": "http://en.recuweb.com/flickr/dailymotion.com/2015/04/flickr-offers-profit-incentive",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/flickr/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nvea5_flickr-offers-profit-incentive_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nvea5_flickr-offers-profit-incentive_tech"
+        },
         "dailymotion.com/2015/04/flickr-tutorial-how-to-setup-and-use": {
             "title": "Flickr Tutorial - How To Setup and Use Flickr...",
             "snippet": "Flickr Tutorial - How To Setup and Use FlickrAuthor: AronManleyTags: Flickr Tutorial - How To Setup and Use Posted: 10 April 2015Rating:: 0...",
@@ -52,7 +65,7 @@
             "date": "2014-11-30",
             "author_name": "wochit",
             "categories": "yahoo,flickr",
-            "tags": "flickr",
+            "tags": "yahoo,flickr",
             "recuweb_url": "http://en.recuweb.com/flickr/dailymotion.com/2014/11/flickr-is-trying-to-change-its-image",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/flickr/0?af=1",
             "source_url": "http://dailymotion.com/video/x2bf4pe_flickr-is-trying-to-change-its-image_tech",
@@ -60,11 +73,11 @@
         },
         "youtube.com/2014/11/how-to-create-albums-and-share-them-on-flickr": {
             "title": "How to create albums and share them on Flickr...",
-            "snippet": "How to create albums and share them on Flickr From: Pocket Lenses Views: 612 4 ratings Time: 04:13 More in People & Blogs...",
+            "snippet": "How to create albums and share them on Flickr From: Pocket Lenses Views: 708 4 ratings Time: 04:13 More in People & Blogs...",
             "date": "2014-11-12",
             "author_name": "Pocket Lenses",
             "categories": "flickr",
-            "tags": "create,flickr,people",
+            "tags": "create,flickr",
             "recuweb_url": "http://en.recuweb.com/flickr/youtube.com/2014/11/how-to-create-albums-and-share-them-on-flickr",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=flickr&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=z_Cl7CFsOHk&feature=youtube_gdata",
@@ -117,18 +130,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/flickr/0?af=1",
             "source_url": "http://dailymotion.com/video/x22dqio_flickr-rolls-out-a-new-commercial-licensing-program-to-compete-with-500px-and-others_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x22dqio_flickr-rolls-out-a-new-commercial-licensing-program-to-compete-with-500px-and-others_tech"
-        },
-        "youtube.com/2014/07/top-10-photos-of-me-on-flickr": {
-            "title": "Top 10 photos of me on Flickr...",
-            "snippet": "Top 10 photos of me on Flickr Lots of photographs of me at: ------------------------------------------------------------------------------------... From: WeeklyImogen Views: 70128 627 ratings Time: 06:34 More in People & Blogs...",
-            "date": "2014-07-12",
-            "author_name": "WeeklyImogen",
-            "categories": "flickr",
-            "tags": "photos,flickr,people",
-            "recuweb_url": "http://en.recuweb.com/flickr/youtube.com/2014/07/top-10-photos-of-me-on-flickr",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=flickr%2Bflickr&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=aDSBW8J08QA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/aDSBW8J08QA/0.jpg"
         }
     }
 }
