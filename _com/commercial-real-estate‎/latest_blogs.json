@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "commercial-real-estate\u200e",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/commercial-real-estate\u200e/",
@@ -10,47 +11,57 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/commercial-real-estate/commercial-real-estate/blogs.json"
     },
     "items": {
+        "seekingalpha.com/2015/04/commercial-real-estate-booms-seeking-alpha": {
+            "title": "Commercial Real Estate Booms Seeking Alpha...",
+            "snippet": "But the recovery of the residential real estate market pales in comparison to the boom in commercial real estate, where prices have recovered substantially all of their recession-era losses, thanks to double-digit annual gains...",
+            "date": "2015-04-23",
+            "author_name": "SeekingAlpha.com",
+            "categories": "real-estate",
+            "tags": "thanks,thanks-to-double,double,era,era-losses,losses,prices,prices-have-recovered,recovered,recovered-substantially,substantially,recession,market,market-pales,pales,pales-in-comparison,comparison,booms,recovery,residential,commercial,commercial_real,commercial_real_estate,real,real_estate,estate,digit,annual,gains",
+            "recuweb_url": "http://en.recuweb.com/real-estate/seekingalpha.com/2015/04/commercial-real-estate-booms-seeking-alpha",
+            "resource_url": "http://www.google.com/search?q=commercial%2Breal%2Bestate%E2%80%8E%2Bcommercial%2Breal%2Bestate%E2%80%8E&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://seekingalpha.com/article/3093356-commercial-real-estate-booms"
+        },
+        "mattermark.com/2015/04/commercial-real-estate-brokers-get-to-know-the-investors-in": {
+            "title": "Commercial Real Estate Brokers: Get to Know the Investors in Your...",
+            "snippet": "Now imagine if you were a close friend of Hunter's and he recommended you to Shyp's founders as the best commercial real estate broker around. You would have made a killing on commission. You would also be the first...",
+            "date": "2015-04-22",
+            "author_name": "Sam DeBrule",
+            "categories": "real-estate",
+            "tags": "imagine,friend,commercial,commercial_real,commercial_real_estate,real,real_estate,estate,broker,investors,made",
+            "recuweb_url": "http://en.recuweb.com/real-estate/mattermark.com/2015/04/commercial-real-estate-brokers-get-to-know-the-investors-in",
+            "resource_url": "http://www.google.com/search?q=commercial%2Breal%2Bestate%E2%80%8E&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://mattermark.com/commercial-real-estate-brokers-get-to-know-investors-in-your-city/"
+        },
         "scottgrannis.blogspot.com/2015/04/calafia-beach-pundit-commercial-real-estate-booms": {
             "title": "Calafia Beach Pundit: Commercial real estate booms...",
             "snippet": "But the recovery of the residential real estate market pales in comparison to the boom in commercial real estate, where prices have recovered substantially all of their recession-era losses, thanks to double-digit annual gains...",
             "date": "2015-04-22",
             "author_name": "Scott Grannis",
-            "tags": "booms,residential,commercial,real,estate,market,prices",
+            "tags": "thanks,thanks-to-double,double,era,era-losses,losses,prices,prices-have-recovered,recovered,recovered-substantially,substantially,recession,market,market-pales,pales,pales-in-comparison,comparison,booms,recovery,residential,commercial,real,estate,digit,annual,gains",
             "recuweb_url": "http://en.recuweb.com/scottgrannis.blogspot.com/2015/04/calafia-beach-pundit-commercial-real-estate-booms",
-            "resource_url": "http://www.google.com/search?q=commercial%2Breal%2Bestate%E2%80%8E%2Bcommercial%2Breal%2Bestate%E2%80%8E&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=commercial%2Breal%2Bestate%E2%80%8E&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://scottgrannis.blogspot.com/2015/04/commercial-real-estate-booms.html"
-        },
-        "realestaterama.com/2015/04/millenia-commercial-real-estate-s-eric-ramirez-receives-2014": {
-            "title": "Millenia Commercial Real Estate's Eric Ramirez RECEIVES 2014...",
-            "snippet": "Millenia Commercial Real Estate is pleased to announce that Mr. Eric J. Ramirez has been named a 2014 CoStar Power Broker TM by CoStar Group, Inc. (NASDAQ: CSGP), the leading provider of commercial real estate...",
-            "date": "2015-04-22",
-            "author_name": "RealEstateRama",
-            "categories": "real-estate",
-            "tags": "group,broker,announce,commercial,commercial_real,commercial_real_estate,real,real_estate,estate,inc",
-            "recuweb_url": "http://en.recuweb.com/real-estate/realestaterama.com/2015/04/millenia-commercial-real-estate-s-eric-ramirez-receives-2014",
-            "resource_url": "http://www.google.com/search?q=commercial%2Breal%2Bestate%E2%80%8E%2Bcommercial%2Breal%2Bestate%E2%80%8E&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://realestaterama.com/2015/04/22/millenia-commercial-real-estate\u2019s-eric-ramirez-receives-2014-costar-power-broker-award-ID026664.html"
         },
         "pbn.com/2015/04/capstone-r-i-commercial-real-estate-market-improved-in-14": {
             "title": "Capstone: R.I. commercial real estate market improved in '14...",
             "snippet": "PROVIDENCE The office and industrial sectors of the Rhode Island commercial real estate market strengthened in 2014, according to an analysis by Capstone Properties, with large properties showing the greatest sales...",
             "date": "2015-04-21",
             "author_name": "Providence Business News",
-            "tags": "showing,sales,large,according,analysis,industrial,commercial,real,estate,market,office,properties",
+            "tags": "large,analysis,market,office,commercial,real,estate,industrial,properties,sales",
             "recuweb_url": "http://en.recuweb.com/pbn.com/2015/04/capstone-r-i-commercial-real-estate-market-improved-in-14",
             "resource_url": "http://www.google.com/search?q=commercial%2Breal%2Bestate%E2%80%8E%2Bcommercial%2Breal%2Bestate%E2%80%8E&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://pbn.com/Capstone-RI-commercial-real-estate-market-improved-in-14,105148"
         },
-        "dukelong.com/2015/04/duke-long-why-mobile-friendly-for-commercial-real-estate": {
-            "title": "Duke Long Why Mobile-Friendly for Commercial Real Estate...",
-            "snippet": "What kind of effect will this have on Commercial Real Estate websites? I contend that it will be dramatic for the following reasons: Over 75% of current CRE website pages are Property Detail Pages, and less than 25% of all...",
-            "date": "2015-04-19",
-            "author_name": "dukelong",
-            "categories": "property,real-estate",
-            "tags": "property,current,ing,commercial,commercial_real,commercial_real_estate,real,real_estate,estate,websites,than",
-            "recuweb_url": "http://en.recuweb.com/real-estate/dukelong.com/2015/04/duke-long-why-mobile-friendly-for-commercial-real-estate",
+        "seekingalpha.com/2015/04/jones-lang-lasalle-offers-investors-the-real-deal-in-commercial": {
+            "title": "Jones Lang Lasalle Offers Investors The Real Deal In Commercial...",
+            "snippet": "JLL (NYSE: JLL) is one the world's leading commercial real estate (CRE) services firms with an unparalleled global footprint spanning over 1,000 locations and 230 offices across 80 countries. Key investment merits include...",
+            "date": "2015-04-20",
+            "author_name": "SeekingAlpha.com",
+            "tags": "across,services,world,investors,real,commercial,estate,cre,global",
+            "recuweb_url": "http://en.recuweb.com/seekingalpha.com/2015/04/jones-lang-lasalle-offers-investors-the-real-deal-in-commercial",
             "resource_url": "http://www.google.com/search?q=commercial%2Breal%2Bestate%E2%80%8E%2Bcommercial%2Breal%2Bestate%E2%80%8E&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://dukelong.com/why-mobile-friendly-for-commercial-real-estate-guest-post-dave-lewand/"
+            "source_url": "http://seekingalpha.com/article/3081536-jones-lang-lasalle-offers-investors-the-real-deal-in-commercial-real-estate-services"
         },
         "triblive.com/2015/04/top-residential-commercial-real-estate-deals-of-the-week-april-19": {
             "title": "Top residential, commercial real estate deals of the week April 19...",
@@ -58,20 +69,10 @@
             "date": "2015-04-19",
             "author_name": "Tribune-Review",
             "categories": "real-estate",
-            "tags": "real,real_estate,estate,work,deals,top,residential,commercial,office",
+            "tags": "real,real_estate,estate,services,office,work,deals,top,residential,commercial,said",
             "recuweb_url": "http://en.recuweb.com/real-estate/triblive.com/2015/04/top-residential-commercial-real-estate-deals-of-the-week-april-19",
             "resource_url": "http://www.google.com/search?q=commercial%2Breal%2Bestate%E2%80%8E%2Bcommercial%2Breal%2Bestate%E2%80%8E&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://triblive.com/business/realestate/8161853-74/buyer-comment-property"
-        },
-        "richmondbizsense.com/2015/04/the-pipeline-commercial-real-estate-roundup-for-april-17-2015": {
-            "title": "The Pipeline: Commercial real estate roundup for April 17, 2015...",
-            "snippet": "The Pipeline: Commercial real estate roundup for April 17, 2015. Katie Demeria April 17, 2015 0. Commonwealth Commercial Partners reports the following deals: MUSCLEMECHANIXTHERAPEUTICMASSAGE LLC leased 1,665 square feet...",
-            "date": "2015-04-17",
-            "author_name": "Katie Demeria",
-            "tags": "llc,ing,deals,reports,commercial,real,estate",
-            "recuweb_url": "http://en.recuweb.com/richmondbizsense.com/2015/04/the-pipeline-commercial-real-estate-roundup-for-april-17-2015",
-            "resource_url": "http://www.google.com/search?q=commercial%2Breal%2Bestate%E2%80%8E%2Bcommercial%2Breal%2Bestate%E2%80%8E&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://richmondbizsense.com/2015/04/17/the-pipeline-commercial-real-estate-roundup-for-april-17-2015/"
         },
         "calculatedriskblog.com/2015/04/calculated-risk-q1-report-on-commercial-real-estate": {
             "title": "Calculated Risk: Q1 Report on Commercial Real Estate...",
@@ -79,7 +80,7 @@
             "date": "2015-04-13",
             "author_name": "Bill McBride",
             "categories": "real-estate,property",
-            "tags": "office,market,cbre,cbre_group,group,according,analysis,first,showed,continued,commercial,commercial_real,commercial_real_estate,real,real_estate,estate,report,property,inc",
+            "tags": "office,market,cbre,cbre_group,group,analysis,quarter,showed,across,commercial,commercial_real,commercial_real_estate,real,real_estate,estate,property,inc",
             "recuweb_url": "http://en.recuweb.com/property/calculatedriskblog.com/2015/04/calculated-risk-q1-report-on-commercial-real-estate",
             "resource_url": "http://www.google.com/search?q=commercial%2Breal%2Bestate%E2%80%8E%2Bcommercial%2Breal%2Bestate%E2%80%8E&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://calculatedriskblog.com/2015/04/q1-report-on-commercial-real-estate.html"
@@ -90,7 +91,7 @@
             "date": "2015-04-08",
             "author_name": "Steve Brown",
             "categories": "institute",
-            "tags": "sector,according,according-to-new,years,commercial,real,estate",
+            "tags": "commercial,real,estate",
             "recuweb_url": "http://en.recuweb.com/institute/bizbeatblog.dallasnews.com/2015/04/new-forecast-three-more-years-of-commercial-real-estate-boom",
             "resource_url": "http://www.google.com/search?q=commercial%2Breal%2Bestate%E2%80%8E%2Bcommercial%2Breal%2Bestate%E2%80%8E&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bizbeatblog.dallasnews.com/2015/04/new-forecast-three-more-years-of-commercial-real-estate-boom.html/"
@@ -101,7 +102,7 @@
             "date": "2015-04-07",
             "author_name": "Jorge Newbery",
             "categories": "economy,real-estate",
-            "tags": "large,price,record,percent,commercial,commercial_real,commercial_real_estate,real,real_estate,estate,sale,many",
+            "tags": "large,york,sale,price,percent,commercial,commercial_real,commercial_real_estate,real,real_estate,estate,record",
             "recuweb_url": "http://en.recuweb.com/real-estate/huffingtonpost.com/2015/04/commercial-real-estate-values-could-fall-19-percent-if-economy",
             "resource_url": "http://www.google.com/search?q=commercial%2Breal%2Bestate%E2%80%8E%2Bcommercial%2Breal%2Bestate%E2%80%8E&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://huffingtonpost.com/jorge-newbery/commercial-real-estate-va_b_7011384.html"
@@ -112,7 +113,7 @@
             "date": "2015-03-31",
             "author_name": "ransbelimis",
             "categories": "real-estate",
-            "tags": "commercial,commercial_real,commercial_real_estate,real,real_estate,estate,agents,top,best",
+            "tags": "commercial,commercial_real,commercial_real_estate,real,real_estate,estate,agents,top",
             "recuweb_url": "http://en.recuweb.com/real-estate/ransbelimis.wordpress.com/2015/03/books-for-commercial-real-estate-agents",
             "resource_url": "http://en.search.wordpress.com/?q=commercial%2Breal%2Bestate%E2%80%8E%2Bcommercial%2Breal%2Bestate%E2%80%8E&f=feed&page=1",
             "source_url": "http://ransbelimis.wordpress.com/2015/03/31/books-for-commercial-real-estate-agents/"
