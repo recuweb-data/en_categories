@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "natal-chart",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/natal-chart/",
@@ -10,12 +11,51 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/natal-chart/natal-chart/blogs.json"
     },
     "items": {
+        "examiner.com/2015/04/what-is-your-perfect-job": {
+            "title": "What is your perfect job?",
+            "snippet": "Sometimes a natal chart will offer a crystal clear picture as to a definite career path. Other times it's a mixed bag, and a person may have more than one interest or feel they have settled for less than they are capable of. Either way, it all shows...",
+            "date": "2015-04-23",
+            "tags": "person,picture,career,natal,chart,way",
+            "recuweb_url": "http://en.recuweb.com/examiner.com/2015/04/what-is-your-perfect-job",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=natal%2Bchart&format=RSS&cc=us",
+            "source_url": "http://examiner.com/article/what-is-your-perfect-job"
+        },
+        "postbulletin.com/2015/04/mercury-mars-and-money-post-bulletin": {
+            "title": "Mercury, Mars and Money - Post-Bulletin...",
+            "snippet": "Mercury, Mars and MoneyPost-BulletinIt is extremely common to find a Pisces moon in the natal charts of fine actors and musicians, as this moon lends extraordinarily sensitive and empathetic powers. It is not difficult for Pisces moon people to give...",
+            "date": "2015-04-22",
+            "categories": "moon",
+            "tags": "give,moon,actors,mars,natal,charts,people",
+            "recuweb_url": "http://en.recuweb.com/moon/postbulletin.com/2015/04/mercury-mars-and-money-post-bulletin",
+            "resource_url": "http://news.google.com/?hl=en&q=natal%2Bchart%2Bnatal%2Bchart&output=atom&nord=1",
+            "source_url": "http://postbulletin.com/life/lifestyles/mercury-mars-and-money/article_de6863a8-041f-520d-ad83-a2e2bbebdab2.html"
+        },
+        "in.lifestyle.yahoo.com/2015/04/balanced-deepika-padukone-must-guard-against-restlessness-and-dejection-till-yahoo": {
+            "title": "Balanced Deepika Padukone must guard against restlessness and dejection till... - Yahoo India News...",
+            "snippet": "Balanced Deepika Padukone must guard against restlessness and dejection till...Yahoo India NewsHowever, in her Birth Chart, her Natal Moon is afflicted by Ketu (South Node). This adverse placement is strongly malefic in Deepkia's Chart, and...",
+            "date": "2015-04-20",
+            "categories": "moon,yahoo",
+            "tags": "adverse,adverse-placement,placement,placement-is-strongly,strongly,strongly-malefic,malefic,south,south_node,node,afflicted,natal,moon,birth,birth_chart,chart,deepika,deepika_padukone,padukone,ketu,deepkia",
+            "recuweb_url": "http://en.recuweb.com/yahoo/in.lifestyle.yahoo.com/2015/04/balanced-deepika-padukone-must-guard-against-restlessness-and-dejection-till-yahoo",
+            "resource_url": "http://news.google.com/?hl=en&q=natal%2Bchart&output=atom&nord=1",
+            "source_url": "http://in.lifestyle.yahoo.com/balanced-deepika-padukone-must-guard-183000573.html"
+        },
+        "beliefnet.com/2015/04/are-you-the-queen-of-swords": {
+            "title": "Are You The Queen of Swords?",
+            "snippet": "Assimilate it. Integrate it. Learn from it. Teach from it. I have a Moon Pluto conjunction in Virgo in my natal chart (in my First House). You astrology fans know what means! And eventually there comes a time where you just sit there you sit...",
+            "date": "2015-04-19",
+            "categories": "moon,astrology",
+            "tags": "means,moon,natal,chart,astrology",
+            "recuweb_url": "http://en.recuweb.com/astrology/beliefnet.com/2015/04/are-you-the-queen-of-swords",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=natal%2Bchart&format=RSS&cc=us",
+            "source_url": "http://beliefnet.com/columnists/inthecards/2015/04/are-you-the-queen-of-swords.html"
+        },
         "asianage.com/2015/04/good-times-ahead-for-deepika-padukone-the-asian-age": {
             "title": "Good times ahead for Deepika Padukone - The Asian Age...",
             "snippet": "Good times ahead for Deepika PadukoneThe Asian AgeHowever, in her birth chart, her natal Moon is afflicted by Ketu (South Node). This adverse placement is strongly malefic in Deepkia's chart, and indicates mental and emotional disturbances. Ketu is...",
             "date": "2015-04-18",
             "categories": "moon",
-            "tags": "mental,south,birth,deepika,deepika_padukone,padukone,good,chart,natal,moon,ketu",
+            "tags": "mental,adverse,adverse-placement,placement,placement-is-strongly,strongly,strongly-malefic,malefic,south,south_node,node,afflicted,birth,deepika,deepika_padukone,padukone,chart,natal,moon,ketu,deepkia",
             "recuweb_url": "http://en.recuweb.com/moon/asianage.com/2015/04/good-times-ahead-for-deepika-padukone-the-asian-age",
             "resource_url": "http://news.google.com/?hl=en&q=natal%2Bchart&output=atom&nord=1",
             "source_url": "http://asianage.com/bollywood/good-times-ahead-deepika-padukone-671"
@@ -25,48 +65,28 @@
             "snippet": "How Susan Miller conquered online astrologyThe VergeIn a way, these picturesque yarns are inextricable from her reputation: the daughter of a specialty grocery store owner and a reader/amateur astrologist, Miller grew up learning natal charts from...",
             "date": "2015-04-15",
             "categories": "learning,astrology",
-            "tags": "susan,susan_miller,miller,astrology,natal,charts",
+            "tags": "way,astrology,natal,charts",
             "recuweb_url": "http://en.recuweb.com/astrology/theverge.com/2015/04/how-susan-miller-conquered-online-astrology-the-verge",
             "resource_url": "http://news.google.com/?hl=en&q=natal%2Bchart&output=atom&nord=1",
             "source_url": "http://theverge.com/2015/4/15/8400299/susan-miller-astrology-zone-internet-astrologer-interview"
-        },
-        "examiner.com/2015/04/a-difficult-week-for-relationships-endings-and-distortions-of-truth": {
-            "title": "A difficult week for relationships, endings and distortions of truth...",
-            "snippet": "Venus-Saturn transits are generally experienced as negative in terms of love, relationships and anything of this sort, especially if it is aspecting your personal natal chart. Some may feel depressed and unloved, lonely, overworked (and underpaid...",
-            "date": "2015-04-14",
-            "categories": "relationships,love",
-            "tags": "aspecting,love,venus,natal,chart",
-            "recuweb_url": "http://en.recuweb.com/love/examiner.com/2015/04/a-difficult-week-for-relationships-endings-and-distortions-of-truth",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=natal%2Bchart&format=RSS&cc=us",
-            "source_url": "http://examiner.com/article/a-difficult-week-for-relationships-endings-and-distortions-of-truth"
         },
         "merinews.com/2015/04/b-town-girl-deepika-padukone-s-mental-unrest-career-and-relationship": {
             "title": "B-town girl Deepika Padukone's mental unrest, career and relationship: Here's what astrology...",
             "snippet": "Overall, Ganesha reads that the Mars-Ketu conjunct Moon in Ms. Padukone's Natal Chart is responsible behind her current state of mind. This factor will also tend to never let her be entirely at peace. Also, currently, she is undergoing her last...",
             "date": "2015-04-14",
             "categories": "mind,natal-chart,astrology,moon",
-            "tags": "never,natal,natal_chart,chart,career,mental,deepika,deepika_padukone,padukone,here,astrology,ketu,moon",
+            "tags": "natal,natal_chart,chart,career,mental,deepika,deepika_padukone,padukone,here,astrology,mars,ketu,moon",
             "recuweb_url": "http://en.recuweb.com/moon/merinews.com/2015/04/b-town-girl-deepika-padukone-s-mental-unrest-career-and-relationship",
             "resource_url": "http://www.bing.com/news/search?first=1&q=natal%2Bchart&format=RSS&cc=us",
             "source_url": "http://merinews.com/article/b-town-girl-deepika-padukones-mental-unrest-career-and-relationship-heres-what-astrology-predicts/15905769.shtml"
-        },
-        "beliefnet.com/2015/04/are-you-the-queen-of-swords": {
-            "title": "Are You The Queen of Swords?",
-            "snippet": "Assimilate it. Integrate it. Learn from it. Teach from it. I have a Moon Pluto conjunction in Virgo in my natal chart (in my First House). You astrology fans know what means! And eventually there comes a time where you just sit there you sit...",
-            "date": "2015-04-12",
-            "categories": "moon,astrology",
-            "tags": "means,moon,learn,natal,chart,astrology",
-            "recuweb_url": "http://en.recuweb.com/astrology/beliefnet.com/2015/04/are-you-the-queen-of-swords",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=natal%2Bchart&format=RSS&cc=us",
-            "source_url": "http://beliefnet.com/columnists/inthecards/2015/04/are-you-the-queen-of-swords.html"
         },
         "jamaica-gleaner.com/2015/04/astrology-is-it-written-in-the-stars-jamaica-gleaner-subscription": {
             "title": "Astrology: 'Is it written in the stars'? - Jamaica Gleaner (subscription)...",
             "snippet": "Jamaica Gleaner (subscription)Astrology: 'Is it written in the stars'?Jamaica Gleaner (subscription)\"One's natal chart offers a panoramic picture of one's life,\" said Maraj. \"The position of the stars and planets at the exact time of one's birth...",
             "date": "2015-04-12",
-            "categories": "stars,planets,life,astrology",
-            "tags": "birth,stars,planets,astrology,natal,chart",
-            "recuweb_url": "http://en.recuweb.com/astrology/jamaica-gleaner.com/2015/04/astrology-is-it-written-in-the-stars-jamaica-gleaner-subscription",
+            "categories": "stars,life,astrology,planets",
+            "tags": "birth,life,picture,astrology,natal,chart,planets",
+            "recuweb_url": "http://en.recuweb.com/planets/jamaica-gleaner.com/2015/04/astrology-is-it-written-in-the-stars-jamaica-gleaner-subscription",
             "resource_url": "http://news.google.com/?hl=en&q=natal%2Bchart&output=atom&nord=1",
             "source_url": "http://jamaica-gleaner.com/article/news/20150412/astrology-\u2018-it-written-stars\u2019"
         },
@@ -75,40 +95,20 @@
             "snippet": "During 2016, we can expect Shahid Kapoor to appear in a big-budget, much-awaited movie, as the transiting Jupiter will then be aspecting the stellium of planets in his natal chart. This planetary stellium in the actors solar horoscope includes...",
             "date": "2015-04-11",
             "categories": "horoscope,planets",
-            "tags": "aspecting,planets,natal,chart",
+            "tags": "actors,planets,natal,chart",
             "recuweb_url": "http://en.recuweb.com/planets/deccanchronicle.com/2015/04/shahid-kapoor-will-prove-to-be-an-intense-husband",
             "resource_url": "http://www.bing.com/news/search?first=1&q=natal%2Bchart&format=RSS&cc=us",
             "source_url": "http://deccanchronicle.com/150412/commentary-sunday-chronicle/article/shahid-kapoor-will-prove-be-intense-husband"
         },
-        "news.yahoo.com/2015/03/a-strong-natal-chart-makes-south-african-cricketer-hashim-amla-true": {
+        "news.yahoo.com/2015/04/a-strong-natal-chart-makes-south-african-cricketer-hashim-amla-true": {
             "title": "A strong Natal Chart makes South African cricketer Hashim Amla a true sports-person!",
             "snippet": "Born on 31 March 1983 in Durban, South Africa. Right-hand top-order batsman; right-arm medium pace and off-break. Played for South Africa, Cape Cobras, Dolphins, Essex, KwaZulu-Natal, South Africa XI. Test best 311 not out; ODI best 153 not out.",
-            "date": "2015-03-28",
+            "date": "2015-04-04",
             "categories": "natal-chart,sport",
-            "tags": "off,south,natal,natal_chart,chart,makes,true",
-            "recuweb_url": "http://en.recuweb.com/sport/news.yahoo.com/2015/03/a-strong-natal-chart-makes-south-african-cricketer-hashim-amla-true",
+            "tags": "off,south,natal,natal_chart,chart,true,person",
+            "recuweb_url": "http://en.recuweb.com/sport/news.yahoo.com/2015/04/a-strong-natal-chart-makes-south-african-cricketer-hashim-amla-true",
             "resource_url": "http://www.bing.com/news/search?first=1&q=natal%2Bchart&format=RSS&cc=us",
-            "source_url": "http://news.yahoo.com/strong-natal-chart-makes-south-193001770.html"
-        },
-        "khaleejtimes.com/2013/08/the-perfect-shop": {
-            "title": "The perfect shop...",
-            "snippet": "What I discovered was very interesting. The shop had some bad stars at the entrance and these stars were part of the Natal Chart so they were never going to change. However it was possible to find suitable cures for these ill-placed stars and...",
-            "date": "2013-08-23",
-            "categories": "stars,natal-chart",
-            "tags": "stars,never,natal,natal_chart,chart",
-            "recuweb_url": "http://en.recuweb.com/natal-chart/khaleejtimes.com/2013/08/the-perfect-shop",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=natal%2Bchart&format=RSS&cc=us",
-            "source_url": "http://khaleejtimes.com/citytimes/inside.asp?xfile=/data/citytimes/2013/August/citytimes_August167.xml&section=citytimes"
-        },
-        "papermag.com/2013/04/astrologer-susan-miller-creates-don-draper-s-natal-chart": {
-            "title": "Astrologer Susan Miller Creates Don Draper's Natal Chart...",
-            "snippet": "For all Mad Men enthusiasts, I will be creating the natal charts for each of the three main characters of the show whose birthdays we were able to uncover: Don Draper, Peggy Olson and Joan Holloway Harris. The editors of Paper Magazine have done...",
-            "date": "2013-04-12",
-            "categories": "natal-chart",
-            "tags": "natal,natal_chart,charts,susan,susan_miller,miller",
-            "recuweb_url": "http://en.recuweb.com/natal-chart/papermag.com/2013/04/astrologer-susan-miller-creates-don-draper-s-natal-chart",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=natal%2Bchart&format=RSS&cc=us",
-            "source_url": "http://papermag.com/2013/04/don_draper_natal_chart.php"
+            "source_url": "http://news.yahoo.com/strong-natal-chart-makes-south-183000518.html"
         }
     }
 }
