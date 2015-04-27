@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "motherboard",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/motherboard/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/motherboard/motherboard/blogs.json"
     },
     "items": {
-        "efytimes.com/2015/04/asrock-unveils-x99m-killer-usb-3-1-socket-lga2011v3-motherboard": {
-            "title": "ASRock Unveils X99M-Killer USB 3.1 Socket LGA2011v3 Motherboard...",
-            "snippet": "Wednesday, April 08, 2015: ASRock unveiled its latest socket LGA2011v3 motherboard for Core i7 Haswell-E processors, the X99M-Killer USB 3.1. Characterized by its micro-ATX form-factor and two 10 Gb/s USB 3.1 ports, the board offers a pretty...",
-            "date": "2015-04-08",
-            "categories": "motherboard",
-            "tags": "factor,unveiled,latest,lga,asrock,motherboard,processors,form,ports",
-            "recuweb_url": "http://en.recuweb.com/motherboard/efytimes.com/2015/04/asrock-unveils-x99m-killer-usb-3-1-socket-lga2011v3-motherboard",
+        "tweaktown.com/2015/04/biostar-brings-out-the-small-but-powerful-hi-fi-b85s1-motherboard": {
+            "title": "BIOSTAR brings out the Small but Powerful Hi-Fi B85S1 Motherboard...",
+            "snippet": "The newest motherboard based on Intel B85 single chip architecture by BIOSTAR is ready to work hard, play hard and fit in. The Hi-Fi B85S1 supports Intel's 4th generation Core i7 and Core i5 processors in the 1150 package and is value designed in a...",
+            "date": "2015-04-24",
+            "categories": "play,motherboard",
+            "tags": "designed,processors,chip,chip-architecture,architecture,biostar,small,powerful,motherboard,intel,supports,core",
+            "recuweb_url": "http://en.recuweb.com/motherboard/tweaktown.com/2015/04/biostar-brings-out-the-small-but-powerful-hi-fi-b85s1-motherboard",
             "resource_url": "http://www.bing.com/news/search?first=1&q=motherboard&format=RSS&cc=us",
-            "source_url": "http://efytimes.com/e1/fullnews.asp?edid=164322"
+            "source_url": "http://tweaktown.com/pressrelease/9143/biostar-brings-small-powerful-hi-fi-b85s1-motherboard/index.html"
         },
-        "wccftech.com/2015/04/colorful-igame-z170-lga-1151-motherboard-concept-unveiled-will-get-wccftech": {
-            "title": "Colorful iGame Z170 LGA 1151 Motherboard Concept Unveiled - Will Get... - WCCFtech...",
-            "snippet": "WCCFtechColorful iGame Z170 LGA 1151 Motherboard Concept Unveiled - Will Get...WCCFtechWhile Intel has confirmed that Skylake processors are launching in second half of 2015, the 100-series chipset based motherboards are no where in sight since mass...",
-            "date": "2015-04-08",
+        "pcquest.com/2015/04/xiaomis-latest-flasghip-mi4i-and-mi-band-launched-at-rs-12": {
+            "title": "Xiaomis latest flasghip Mi4i and Mi Band launched at Rs. 12,999 and Rs. 999 respectively...",
+            "snippet": "Xiaomi said that the company has collaborated with manufacturing partner Foxconn and has manufacture the smallest and thinnest motherboard for a phone of this size, making space for a huge 3120mAh battery that can power through 1.5 days of normal...",
+            "date": "2015-04-24",
             "categories": "motherboard",
-            "tags": "series,chipset,processors,intel,motherboards,unveiled,lga",
-            "recuweb_url": "http://en.recuweb.com/motherboard/wccftech.com/2015/04/colorful-igame-z170-lga-1151-motherboard-concept-unveiled-will-get-wccftech",
-            "resource_url": "http://news.google.com/?hl=en&q=motherboard&output=atom&nord=1",
-            "source_url": "http://wccftech.com/colorful-igame-z170-lga-1151-motherboard-concept-unveiled-thermal-armor-design/"
-        },
-        "digitimes.com/2015/04/commentary-ecs-announces-controversial-high-dividend-plans": {
-            "title": "Commentary: ECS announces controversial high dividend plans...",
-            "snippet": "Motherboard maker Elitegroup Computer Systems (ECS) caught the headlines recently due plans to distribute a cash dividend much higher than what it earned in 2014. The company saw revenues dip 11.9% on year to NT55.9 billion (billion) in 2014...",
-            "date": "2015-04-08",
-            "categories": "motherboard",
-            "tags": "year,than,computer,high,motherboard",
-            "recuweb_url": "http://en.recuweb.com/motherboard/digitimes.com/2015/04/commentary-ecs-announces-controversial-high-dividend-plans",
+            "tags": "battery,phone,smallest,said,xiaomi,motherboard,mah",
+            "recuweb_url": "http://en.recuweb.com/motherboard/pcquest.com/2015/04/xiaomis-latest-flasghip-mi4i-and-mi-band-launched-at-rs-12",
             "resource_url": "http://www.bing.com/news/search?first=1&q=motherboard&format=RSS&cc=us",
-            "source_url": "http://digitimes.com/news/a20150407PD207.html"
+            "source_url": "http://pcquest.com/xiaomis-latest-flasghip-mi4i-and-mi-band-launched-at-rs-12999-and-rs-999-respectively/"
         },
-        "tomshardware.com/2015/04/looking-for-a-good-z97-motherboard": {
-            "title": "Looking for a good Z97 motherboard...",
-            "snippet": "What I am looking for is a motherboard upgrade based on the Z97 chipset - but there are so many options to choose from! I do not overclock (despite having a K-CPU which I foolishly bought) and all I want is solid 60 FPS in the latest games on one...",
-            "date": "2015-04-08",
+        "techtimes.com/2015/04/cyberpower-trinity-gaming-pc-is-a-beauty-and-beast": {
+            "title": "CyberPower Trinity Gaming PC Is A Beauty... And A Beast...",
+            "snippet": "The base configuration includes an AMD A10-7700K CPU, Nvidia GeForce GTX 750 Ti graphics card, 8 GB DDR3-1600 RAM, MSI A88XI AC motherboard, 120 GB 1 TB SSD/HDD combo and an 8X DVD writer. It comes running Windows 8.1. This configuration comes at...",
+            "date": "2015-04-23",
             "categories": "motherboard",
-            "tags": "latest,games,choose,upgrade,looking,motherboard,chipset",
-            "recuweb_url": "http://en.recuweb.com/motherboard/tomshardware.com/2015/04/looking-for-a-good-z97-motherboard",
+            "tags": "card,nvidia,gaming,amd,cpu,ddr,msi,motherboard",
+            "recuweb_url": "http://en.recuweb.com/motherboard/techtimes.com/2015/04/cyberpower-trinity-gaming-pc-is-a-beauty-and-beast",
             "resource_url": "http://www.bing.com/news/search?first=1&q=motherboard&format=RSS&cc=us",
-            "source_url": "http://tomshardware.com/answers/id-2601077/good-z97-motherboard.html"
+            "source_url": "http://techtimes.com/articles/48164/20150423/cyberpower-trinity-gaming-pc-beauty-beast.htm"
         },
-        "thessdreview.com/2015/04/samsung-850-evo-msata-ssd-review-120gb-1tb-another-form-factor": {
-            "title": "Samsung 850 EVO mSATA SSD Review (120GB/1TB) Another Form Factor Option For A Great-Performing...",
-            "snippet": "and connects to one of your motherboards SATA ports). Before they became available in larger capacities, we were seeing a number of smaller capacity versions being utilized as caching drives, utilizing caching software such as NVELOs Dataplex...",
-            "date": "2015-04-07",
+        "tomshardware.com/2015/04/motherboard-replacement-compatibility": {
+            "title": "Motherboard Replacement Compatibility?",
+            "snippet": "Okay, I currently have a Dell XPS 8500, it is a Micro ATX. These are the motherboard specifications for this pc: I want to change my motherboard, and I'd like to know If I could replace my current...",
+            "date": "2015-04-23",
             "categories": "motherboard",
-            "tags": "software,number,form,factor,samsung,motherboards,ports",
-            "recuweb_url": "http://en.recuweb.com/motherboard/thessdreview.com/2015/04/samsung-850-evo-msata-ssd-review-120gb-1tb-another-form-factor",
+            "tags": "atx,dell,motherboard",
+            "recuweb_url": "http://en.recuweb.com/motherboard/tomshardware.com/2015/04/motherboard-replacement-compatibility",
             "resource_url": "http://www.bing.com/news/search?first=1&q=motherboard&format=RSS&cc=us",
-            "source_url": "http://thessdreview.com/our-reviews/samsung-850-evo-msata-ssd-review-120gb1tb-another-form-factor-option-for-a-great-performing-drive/"
+            "source_url": "http://tomshardware.com/answers/id-2620910/motherboard-replacement-compatibility.html"
         },
-        "news.softpedia.com/2015/04/samsung-galaxy-s6-edge-gets-teardown-treatment-the-battery-is-buried": {
-            "title": "Samsung Galaxy S6 Edge Gets Teardown Treatment, the Battery Is Buried Deep Inside...",
-            "snippet": "Ouch! In the case of the HTC One M9, the battery was glued to the phones motherboard, and on the sides as well, making the process of removing it a really complicated task. Anyway, going back to Samsung, we should remind you that the previous Galaxy...",
-            "date": "2015-04-07",
+        "ibtimes.com/2015/04/xiaomi-launches-mi-4i-smartphone-in-india-at-compelling-price": {
+            "title": "Xiaomi Launches Mi 4i Smartphone In India At Compelling Price Just Topping 200...",
+            "snippet": "And the phone supports 4G on both SIM slots. To get everything working and the 3120mAh battery into the design, this is the smallest motherboard weve built, and the densest, Barra said to shouts of approval from fans whod travelled from several...",
+            "date": "2015-04-23",
             "categories": "motherboard",
-            "tags": "battery,inside,edge,teardown,samsung,samsung_galaxy,galaxy,motherboard",
-            "recuweb_url": "http://en.recuweb.com/motherboard/news.softpedia.com/2015/04/samsung-galaxy-s6-edge-gets-teardown-treatment-the-battery-is-buried",
+            "tags": "said,smallest,battery,phone,supports,india,xiaomi,mah,motherboard",
+            "recuweb_url": "http://en.recuweb.com/motherboard/ibtimes.com/2015/04/xiaomi-launches-mi-4i-smartphone-in-india-at-compelling-price",
             "resource_url": "http://www.bing.com/news/search?first=1&q=motherboard&format=RSS&cc=us",
-            "source_url": "http://news.softpedia.com/news/Samsung-Galaxy-S6-Edge-Gets-Teardown-Treatment-the-Battery-is-Buried-Deep-Inside-477898.shtml"
+            "source_url": "http://ibtimes.com/xiaomi-launches-mi-4i-smartphone-india-compelling-price-just-topping-200-1893890"
         },
-        "androidauthority.com/2015/04/teardown-samsung-galaxy-s6-edge-scores-just-3-out-of-10": {
-            "title": "Teardown: Samsung Galaxy S6 Edge scores just 3 out of 10 for repairability...",
-            "snippet": "Even then, you have to remove the battery by disconnecting it on the underside of the motherboard and then pull it away from the glue! After taking out the motherboard, we can spot the same processor, memory, camera, and NFC components dotted around...",
-            "date": "2015-04-07",
-            "categories": "motherboard,memory",
-            "tags": "components,battery,samsung,samsung_galaxy,galaxy,teardown,edge,motherboard",
-            "recuweb_url": "http://en.recuweb.com/memory/androidauthority.com/2015/04/teardown-samsung-galaxy-s6-edge-scores-just-3-out-of-10",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=motherboard&format=RSS&cc=us",
-            "source_url": "http://androidauthority.com/galaxy-s6-edge-teardown-599175/"
-        },
-        "tomsguide.com/2015/04/wonder-you-lot-could-help-me-with-motherboards": {
-            "title": "wonder you lot could help me with motherboards...",
-            "snippet": "i wonder if it worth upgrading to a atx motherboard will i get better performance? i am running intel i5 3.2 with r9 280x with 6gbs off ram motherboard is asus ph61 mx r2.0 and wondering will i get better performance if i upgrade it to a gaming...",
-            "date": "2015-04-07",
+        "technuter.com/2015/04/asus-announces-all-x99-and-z97-motherboards-support-nvm-express-devices": {
+            "title": "ASUS Announces All X99 and Z97 Motherboards Support NVM Express Devices...",
+            "snippet": "Mumbai, India, April 22, 2015: ASUS today announced that it is the worlds first motherboard brand to support all NVM Express (NVMe) storage devices via a simple UEFI BIOS update and optional ASUS Hyper Kit expansion card. The free UEFI BIOS...",
+            "date": "2015-04-22",
             "categories": "motherboard",
-            "tags": "upgrade,better,asus,off,running,intel,motherboards,motherboard,performance",
-            "recuweb_url": "http://en.recuweb.com/motherboard/tomsguide.com/2015/04/wonder-you-lot-could-help-me-with-motherboards",
+            "tags": "card,support,motherboards,motherboard,asus,india",
+            "recuweb_url": "http://en.recuweb.com/motherboard/technuter.com/2015/04/asus-announces-all-x99-and-z97-motherboards-support-nvm-express-devices",
             "resource_url": "http://www.bing.com/news/search?first=1&q=motherboard&format=RSS&cc=us",
-            "source_url": "http://tomsguide.com/answers/id-2600723/lot-motherboards.html"
+            "source_url": "http://technuter.com/breaking-news/asus-announces-all-x99-and-z97-motherboards-support-nvm-express-devices.html"
         },
-        "tweaktown.com/2015/04/gigabyte-x99-soc-champion-intel-motherboard-review-tweaktown": {
-            "title": "GIGABYTE X99-SOC Champion (Intel X99) Motherboard Review - TweakTown...",
-            "snippet": "TweakTownGIGABYTE X99-SOC Champion (Intel X99) Motherboard ReviewTweakTownThe X99-SOC Champion and X99-SOC Force are the only two GIGABYTE motherboards that carry 4x PCI-E 2.0 for the M.2 slot, and like all other GIGABYTE boards, the X99-SOC...",
-            "date": "2015-04-06",
-            "categories": "motherboard",
-            "tags": "intel,motherboards",
-            "recuweb_url": "http://en.recuweb.com/motherboard/tweaktown.com/2015/04/gigabyte-x99-soc-champion-intel-motherboard-review-tweaktown",
-            "resource_url": "http://news.google.com/?hl=en&q=motherboard&output=atom&nord=1",
-            "source_url": "http://tweaktown.com/reviews/7055/gigabyte-x99-soc-champion-intel-motherboard-review/"
-        },
-        "motherboard.vice.com/2015/04/two-thirds-of-canada-s-glaciers-will-disappear-by-2100-study": {
-            "title": "Two-Thirds of Canada's Glaciers Will Disappear by 2100, Study Finds - Motherboard...",
-            "snippet": "Two-Thirds of Canada's Glaciers Will Disappear by 2100, Study FindsMotherboardCanada stands to lose about 70 percent of its glaciers by 2100, according to a new study published today in Nature Geoscience. This dramatic projected loss reflects a...",
-            "date": "2015-04-06",
-            "categories": "nature,motherboard",
+        "motherboard.vice.com/2015/04/boston-police-set-up-drone-shields-along-the-2015-marathon-route": {
+            "title": "Boston Police Set Up 'Drone Shields'Along the 2015 Marathon Route - Motherboard...",
+            "snippet": "Boston Police Set Up 'Drone Shields'Along the 2015 Marathon RouteMotherboardAhead of the Boston Marathon on Monday, city officials were adamant: no drones along the route. Such a ban isn't unprecedented, but the plan for keeping drones out of...",
+            "date": "2015-04-22",
+            "categories": "marathon,motherboard",
             "tags": "motherboard",
-            "recuweb_url": "http://en.recuweb.com/motherboard/motherboard.vice.com/2015/04/two-thirds-of-canada-s-glaciers-will-disappear-by-2100-study",
+            "recuweb_url": "http://en.recuweb.com/motherboard/motherboard.vice.com/2015/04/boston-police-set-up-drone-shields-along-the-2015-marathon-route",
             "resource_url": "http://news.google.com/?hl=en&q=motherboard&output=atom&nord=1",
-            "source_url": "http://motherboard.vice.com/read/two-thirds-of-canadas-glaciers-will-disappear-by-2100-study-finds"
+            "source_url": "http://motherboard.vice.com/read/boston-police-set-up-drone-shields-along-the-2015-marathon-route"
+        },
+        "vr-zone.com/2015/04/biostar-debuts-new-hi-fi-b85s1-motherboard": {
+            "title": "Biostar debuts new Hi-Fi B85S1 motherboard...",
+            "snippet": "Biostar added a new motherboard to its Intel B85 chip architecture based Hi-Fi lineup the B85S1. The Hi-Fi B85S1 motherboard is compatible with the LGA1150 socket and supports 4th Gen Intel Core i5 and Core i7 processors. It has been designed for...",
+            "date": "2015-04-21",
+            "categories": "motherboard",
+            "tags": "designed,gen,intel,core,supports,chip,chip-architecture,architecture,biostar,motherboard,compatible,lga,socket,processors",
+            "recuweb_url": "http://en.recuweb.com/motherboard/vr-zone.com/2015/04/biostar-debuts-new-hi-fi-b85s1-motherboard",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=motherboard&format=RSS&cc=us",
+            "source_url": "http://vr-zone.com/articles/biostar-debuts-new-hi-fi-b85s1-motherboard/90523.html"
+        },
+        "hardocp.com/2015/04/gigabyte-ga-z97n-wifi-lga-1150-motherboard-review-hardocp-press-release": {
+            "title": "GIGABYTE GA-Z97N-WIFI LGA 1150 Motherboard Review - HardOCP (press release)...",
+            "snippet": "GIGABYTE GA-Z97N-WIFI LGA 1150 Motherboard ReviewHardOCP (press release)GIGABYTE recently surpassed ASUS as the world's number one seller of motherboards in the world which is no small achievement. GIGABYTE achieved this through quality, innovation...",
+            "date": "2015-04-21",
+            "categories": "motherboard",
+            "tags": "motherboards,motherboard,small,lga,gigabyte,asus",
+            "recuweb_url": "http://en.recuweb.com/motherboard/hardocp.com/2015/04/gigabyte-ga-z97n-wifi-lga-1150-motherboard-review-hardocp-press-release",
+            "resource_url": "http://news.google.com/?hl=en&q=motherboard%2Bmotherboard&output=atom&nord=1",
+            "source_url": "http://hardocp.com/article/2015/04/21/gigabyte_gaz97nwifi_lga_1150_motherboard_review"
+        },
+        "techspot.com/2015/04/the-ridiculously-powerful-microatx-pc": {
+            "title": "The Ridiculously Powerful MicroATX PC...",
+            "snippet": "For more convenient access during assembly the KL06 features a removable drive cage, motherboard tray and top panel, plus provision for custom liquid cooling pump. These assembly features are geared towards advanced users that enjoy customizing...",
+            "date": "2015-04-21",
+            "categories": "motherboard",
+            "tags": "features,powerful,access,motherboard",
+            "recuweb_url": "http://en.recuweb.com/motherboard/techspot.com/2015/04/the-ridiculously-powerful-microatx-pc",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=motherboard&format=RSS&cc=us",
+            "source_url": "http://techspot.com/review/987-ridiculously-powerful-microatx-pc/"
         }
     }
 }
