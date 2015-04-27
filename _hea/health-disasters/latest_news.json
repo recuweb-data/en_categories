@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "health-disasters",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/health-disasters/",
@@ -10,23 +11,43 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/health-disasters/health-disasters/blogs.json"
     },
     "items": {
-        "allafrica.com/2015/04/liberia-ebola-the-unforgettable": {
-            "title": "Liberia: Ebola - the Unforgettable Story...",
-            "snippet": "Regionally, one lesson that the EVD outbreak has taught us in the sub-region is that the three governments should begin to plan ahead to meet future health disasters by investing in training of more health workers, building and equipping of...",
-            "date": "2015-04-21",
+        "gulfnews.com/2015/04/children-are-the-most-vulnerable-in-disasters": {
+            "title": "Children are the most vulnerable in disasters -...",
+            "snippet": "Children are the most vulnerable in organisation has been serving some 10,000 children and adults through family strengthening programmes, and also providing direct family-based care, education and health care for more than 1,500 children and young...",
+            "date": "2015-04-27",
+            "categories": "education,health",
+            "tags": "education,disasters,health",
+            "recuweb_url": "http://en.recuweb.com/health/gulfnews.com/2015/04/children-are-the-most-vulnerable-in-disasters",
+            "resource_url": "http://news.google.com/?hl=en&q=health%2Bdisasters&output=atom&nord=1",
+            "source_url": "http://gulfnews.com/news/uae/emergencies/children-are-the-most-vulnerable-in-disasters-1.1499950"
+        },
+        "allafrica.com/2015/04/world-bank-approves-us500-million-to-improve-maternal-child-health-in": {
+            "title": "World Bank Approves US500 Million to Improve Maternal, Child Health in Nigeria -...",
+            "snippet": "World Bank Approves US500 Million to Improve Maternal, Child Health in at the signing ceremony, Minister of National Planning Commission (NPC), Dr. Abubakar Sulaiman said Nigeria's response level to either natural or man-made disasters may have not...",
+            "date": "2015-04-27",
             "categories": "health",
-            "tags": "future,outbreak,ebola,health,disasters",
-            "recuweb_url": "http://en.recuweb.com/health/allafrica.com/2015/04/liberia-ebola-the-unforgettable",
+            "tags": "response,health,world,said,disasters",
+            "recuweb_url": "http://en.recuweb.com/health/allafrica.com/2015/04/world-bank-approves-us500-million-to-improve-maternal-child-health-in",
+            "resource_url": "http://news.google.com/?hl=en&q=health%2Bdisasters&output=atom&nord=1",
+            "source_url": "http://allafrica.com/stories/201504271621.html"
+        },
+        "delta-optimist.com/2015/04/energy-export-by-ship-needs-stronger-external-controls": {
+            "title": "Energy export by ship needs stronger external controls...",
+            "snippet": "It has prevented major health disasters since then. The new proposition is: Not assumed to be safe until proven so. What if we applied this approach to oil exports? We would insist on safe boats, on restricting or prohibiting transit through...",
+            "date": "2015-04-24",
+            "categories": "health",
+            "tags": "major,health,disasters",
+            "recuweb_url": "http://en.recuweb.com/health/delta-optimist.com/2015/04/energy-export-by-ship-needs-stronger-external-controls",
             "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Bdisasters&format=RSS&cc=us",
-            "source_url": "http://allafrica.com/stories/201504220890.html"
+            "source_url": "http://delta-optimist.com/opinion/energy-export-by-ship-needs-stronger-external-controls-1.1848640"
         },
         "bbc.co.uk/2015/04/disaster-doctor-sent-to-under-pressure-worcestershire-royal-bbc-news": {
             "title": "Disaster doctor sent to under-pressure Worcestershire Royal - BBC News...",
             "snippet": "BBC NewsDisaster doctor sent to under-pressure Worcestershire RoyalBBC NewsHealth bosses were forced to bring in a doctor who is usually on call for major disasters to cope with problems at an under-pressure A&E department. The doctor, known as a...",
             "date": "2015-04-17",
-            "tags": "disasters",
+            "tags": "major,disasters",
             "recuweb_url": "http://en.recuweb.com/bbc.co.uk/2015/04/disaster-doctor-sent-to-under-pressure-worcestershire-royal-bbc-news",
-            "resource_url": "http://news.google.com/?hl=en&q=health%2Bdisasters%2Bhealth%2Bdisasters&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=health%2Bdisasters&output=atom&nord=1",
             "source_url": "http://bbc.co.uk/news/uk-england-hereford-worcester-32327475"
         },
         "reliefweb.int/2015/04/erasmus-mundus-master-course-in-public-health-disasters": {
@@ -34,7 +55,7 @@
             "snippet": "The aim of the master programme is to, through knowledge, experience and research build capacities that will reduce disaster risks and contribute to better and more targeted public health based relief following disasters. The Master has the...",
             "date": "2015-04-16",
             "categories": "public-health,health",
-            "tags": "relief,disasters,risks,better,public,health,course",
+            "tags": "relief,research,disasters,risks,better,public,health,course",
             "recuweb_url": "http://en.recuweb.com/health/reliefweb.int/2015/04/erasmus-mundus-master-course-in-public-health-disasters",
             "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Bdisasters&format=RSS&cc=us",
             "source_url": "http://reliefweb.int/training/929426/erasmus-mundus-master-course-public-health-disasters"
@@ -44,9 +65,9 @@
             "snippet": "4 ways providers can boost health infrastructure in wake of disasterFierceHealthcareRobust community health and infrastructure is vital to prepare for disasters and deal with their aftermath, according to the report. A well-prepared community...",
             "date": "2015-04-15",
             "categories": "health",
-            "tags": "community,according,prepare,disasters,health",
+            "tags": "community,prepare,disasters,health",
             "recuweb_url": "http://en.recuweb.com/health/fiercehealthcare.com/2015/04/4-ways-providers-can-boost-health-infrastructure-in-wake-of-disaster",
-            "resource_url": "http://news.google.com/?hl=en&q=health%2Bdisasters%2Bhealth%2Bdisasters&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=health%2Bdisasters&output=atom&nord=1",
             "source_url": "http://fiercehealthcare.com/story/4-ways-providers-can-boost-community-health-infrastructure-wake-disaster/2015-04-15"
         },
         "survivalinternational.org/2015/04/health-disaster-strikes-recently-contacted-indians-in-brazil-survival-international": {
@@ -54,7 +75,7 @@
             "snippet": "Survival InternationalHealth disaster strikes recently contacted Indians in BrazilSurvival InternationalAn Indian woman from Earth's most threatened tribe is fighting for her life after being contacted in Brazil's north-eastern Amazon rainforest.",
             "date": "2015-04-15",
             "categories": "life,health,earth",
-            "tags": "international,health,earth",
+            "tags": "international,health",
             "recuweb_url": "http://en.recuweb.com/earth/survivalinternational.org/2015/04/health-disaster-strikes-recently-contacted-indians-in-brazil-survival-international",
             "resource_url": "http://news.google.com/?hl=en&q=health%2Bdisasters%2Bhealth%2Bdisasters&output=atom&nord=1",
             "source_url": "http://survivalinternational.org/news/10730"
@@ -64,7 +85,7 @@
             "snippet": "MADISON A January exercise to help animal health officials prepare for a possible animal disease outbreak or disaster was a good first step toward that goal, Wisconsin State Veterinarian Dr. Paul McGraw said...",
             "date": "2015-03-23",
             "categories": "health",
-            "tags": "paul,prepare,outbreak,disasters,health,said",
+            "tags": "paul,prepare,disasters,health,said",
             "recuweb_url": "http://en.recuweb.com/health/thecountrytoday.com/2015/03/officials-preparing-for-animal-health-disasters",
             "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Bdisasters&format=RSS&cc=us",
             "source_url": "http://thecountrytoday.com/farm/livestock/article_8318efa0-d176-11e4-9f4b-d3df27a2a8d5.html"
@@ -84,30 +105,10 @@
             "snippet": "Selected Google banner below is independent from this eTN Article: The Ebola epidemic in parts of West Africa is a humanitarian catastrophe that has drawn attention from the international community to the need of addressing the rapid spread of...",
             "date": "2015-02-14",
             "categories": "google,health",
-            "tags": "international,community,need,catastrophe,ries,ries-hit,hit,hit-by-public,public,support,low,imf,income,health,disasters,ebola",
+            "tags": "international,community,catastrophe,ries,ries-hit,hit,hit-by-public,public,support,low,imf,income,health,disasters",
             "recuweb_url": "http://en.recuweb.com/health/eturbonews.com/2015/02/imf-support-for-eligible-low-income-countries-hit-by-public-health",
             "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Bdisasters&format=RSS&cc=us",
             "source_url": "http://eturbonews.com/55562/imf-support-eligible-low-income-countries-hit-public-health-disa"
-        },
-        "thehindu.com/2015/01/we-need-to-prepare-for-future-pandemics-world-bank-chief": {
-            "title": "We need to prepare for future pandemics: World Bank chief...",
-            "snippet": "World Bank President Jim Yong Kim said the world is dangerously unprepared for future pandemics which could be more dangerous than the Ebola crisis even as he laid out a vision to prepare for potentially catastrophic health disasters. The Ebola...",
-            "date": "2015-01-27",
-            "categories": "health",
-            "tags": "prepare,said,world,future,dangerous,need,ebola,health,disasters",
-            "recuweb_url": "http://en.recuweb.com/health/thehindu.com/2015/01/we-need-to-prepare-for-future-pandemics-world-bank-chief",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Bdisasters&format=RSS&cc=us",
-            "source_url": "http://thehindu.com/news/we-need-to-prepare-for-future-pandemics-world-bank-chief/article6829145.ece"
-        },
-        "tribune.com.pk/2013/08/immunisation-coverage-pakistan-losing-immunity-to-health-disasters": {
-            "title": "Immunisation coverage: Pakistan losing immunity to health disasters...",
-            "snippet": "Pakistans health sector continues to be one of the most ignored areas as the routine immunisation coverage has seen a dismal increase of 6.5 per cent from 2006 to 2012. The populations immunisation coverage, according to the World Health...",
-            "date": "2013-08-28",
-            "categories": "health",
-            "tags": "world,health,according,disasters",
-            "recuweb_url": "http://en.recuweb.com/health/tribune.com.pk/2013/08/immunisation-coverage-pakistan-losing-immunity-to-health-disasters",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Bdisasters&format=RSS&cc=us",
-            "source_url": "http://tribune.com.pk/story/596647/immunisation-coverage-pakistan-losing-immunity-to-health-disasters/"
         }
     }
 }
