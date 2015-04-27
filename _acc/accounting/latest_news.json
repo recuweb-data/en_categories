@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "accounting",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/accounting/",
@@ -10,102 +11,100 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/accounting/accounting/blogs.json"
     },
     "items": {
-        "afr.com/2015/04/who-in-accounting-gets-an-8pc-salary-bump-this-year": {
-            "title": "Who in accounting gets an 8pc salary bump this year? - The Australian Financial Review...",
-            "snippet": "The Australian Financial ReviewWho in accounting gets an 8pc salary bump this year?The Australian Financial ReviewMichael Page ANZ managing director Simon Meyer said business analysts, management accountants, and financial planning and analyst...",
-            "date": "2015-04-14",
-            "categories": "management,business,salary",
-            "tags": "financial,business,salary,ing,ants",
-            "recuweb_url": "http://en.recuweb.com/salary/afr.com/2015/04/who-in-accounting-gets-an-8pc-salary-bump-this-year",
+        "economictimes.indiatimes.com/2015/04/a-mumbai-based-start-up-mycfo-manages-finance-and-accounting-operations": {
+            "title": "A Mumbai-based start-up MyCFO manages finance and accounting operations... - Economic Times...",
+            "snippet": "A Mumbai-based start-up MyCFO manages finance and accounting operations...Economic TimesIs managing functions such as finance and accounting preventing you from focusing on your core business? Do you feel you need more than just advice from business...",
+            "date": "2015-04-27",
+            "categories": "business,finance",
+            "tags": "business,finance,ing",
+            "recuweb_url": "http://en.recuweb.com/finance/economictimes.indiatimes.com/2015/04/a-mumbai-based-start-up-mycfo-manages-finance-and-accounting-operations",
             "resource_url": "http://news.google.com/?hl=en&q=accounting%2Baccounting&output=atom&nord=1",
-            "source_url": "http://afr.com/business/accounting/who-in-accounting-gets-an-8pc-salary-bump-this-year-20150414-1mhwr1"
+            "source_url": "http://economictimes.indiatimes.com/small-biz/startups/a-mumbai-based-start-up-mycfo-manages-finance-and-accounting-operations-for-entreprenuers/articleshow/47049580.cms"
         },
-        "accountingtoday.com/2015/04/aam-to-launch-business-development-community-accounting-today": {
-            "title": "AAM to Launch Business Development Community - Accounting Today...",
-            "snippet": "AAM to Launch Business Development CommunityAccounting TodayThe BD Community will give business development professionals in the accounting industry the opportunity to network and learn best practices from their peers as their marketing counterparts...",
-            "date": "2015-04-13",
-            "categories": "marketing,business",
-            "tags": "business,ing",
-            "recuweb_url": "http://en.recuweb.com/business/accountingtoday.com/2015/04/aam-to-launch-business-development-community-accounting-today",
+        "wallstreetpit.com/2015/04/akorn-akrx-shares-drop-after-accounting-error": {
+            "title": "Akorn (AKRX) Shares Drop After Accounting Error...",
+            "snippet": "Shares of leading drugmaker Akorn, Inc. (AKRX) plunged 14 percent in pre-market trading following the report of overstatement of revenue and downgrade. The company said it has discovered it overstated fiscal 2014 net revenue and pretax income by 20...",
+            "date": "2015-04-27",
+            "tags": "company,pre,ing",
+            "recuweb_url": "http://en.recuweb.com/wallstreetpit.com/2015/04/akorn-akrx-shares-drop-after-accounting-error",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=accounting&format=RSS&cc=us",
+            "source_url": "http://wallstreetpit.com/108053-akorn-akrx-shares-drop-after-accounting-error/"
+        },
+        "virtual-strategy.com/2015/04/comview-to-share-tem-and-call-accounting-solutions-with-senior-living": {
+            "title": "Comview to Share TEM and Call Accounting Solutions with Senior Living Executives at ALFA 2015...",
+            "snippet": "Comview announced today, that it is showcasing its integrated fixed and wireless telecom expense management (TEM) and call accounting solutions during ALFA 2015 at the Tampa Convention Center on May 5 and 6. ALFA 2015: The Senior Living Executive...",
+            "date": "2015-04-27",
+            "categories": "management",
+            "tags": "management,announced,today,ing",
+            "recuweb_url": "http://en.recuweb.com/management/virtual-strategy.com/2015/04/comview-to-share-tem-and-call-accounting-solutions-with-senior-living",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=accounting&format=RSS&cc=us",
+            "source_url": "http://virtual-strategy.com/2015/04/27/comview-share-tem-and-call-accounting-solutions-senior-living-executives-alfa-2015"
+        },
+        "thehindubusinessline.com/2015/04/financial-accounting-advisory-services-ey-to-ramp-up-india-headcount-600": {
+            "title": "Financial Accounting Advisory Services: EY to ramp up India headcount to 600...",
+            "snippet": "EY, a global professional services firm, is quite bullish about the prospects for its financial accounting advisory services in India. This international firm now plans to substantially increase the headcount of its Financial Accounting Advisory...",
+            "date": "2015-04-27",
+            "tags": "financial,services,ing",
+            "recuweb_url": "http://en.recuweb.com/thehindubusinessline.com/2015/04/financial-accounting-advisory-services-ey-to-ramp-up-india-headcount-600",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=accounting&format=RSS&cc=us",
+            "source_url": "http://thehindubusinessline.com/companies/financial-accounting-advisory-services-ey-to-ramp-up-india-headcount-to-600/article7147222.ece"
+        },
+        "forbes.com/2015/04/how-smaller-accounting-firms-can-excel-in-today-s-hyper-competitive": {
+            "title": "How Smaller Accounting Firms Can Excel In Today's Hyper-Competitive... - Forbes...",
+            "snippet": "ForbesHow Smaller Accounting Firms Can Excel In Today's Hyper-Competitive...ForbesThe accounting industry is comprised of a number of colossuses, many mid-tier firms, and thousands of small firms. In a bustling economy think pre-2008 most smaller...",
+            "date": "2015-04-26",
+            "categories": "economy",
+            "tags": "pre,firms,today,ing",
+            "recuweb_url": "http://en.recuweb.com/economy/forbes.com/2015/04/how-smaller-accounting-firms-can-excel-in-today-s-hyper-competitive",
             "resource_url": "http://news.google.com/?hl=en&q=accounting&output=atom&nord=1",
-            "source_url": "http://accountingtoday.com/news/firm-profession/aam-to-launch-business-development-community-74283-1.html"
+            "source_url": "http://forbes.com/sites/russalanprince/2015/04/26/how-smaller-accounting-firms-can-excel-in-todays-hyper-competitive-environment/"
         },
-        "accountingweb.com/2015/04/accounting-standard-setters-issue-their-2015-strategic-plan": {
-            "title": "Accounting Standard-Setters Issue Their 2015 Strategic Plan -...",
-            "snippet": "Accounting Standard-Setters Issue Their 2015 Strategic Financial Accounting Foundation (FAF) and the two standard-setting boards it oversees the Financial Accounting Standards Board (FASB) and the Governmental Accounting Standards Board (GASB)...",
-            "date": "2015-04-13",
-            "tags": "standard,financial,ing",
-            "recuweb_url": "http://en.recuweb.com/accountingweb.com/2015/04/accounting-standard-setters-issue-their-2015-strategic-plan",
-            "resource_url": "http://news.google.com/?hl=en&q=accounting&output=atom&nord=1",
-            "source_url": "http://accountingweb.com/article/accounting-standard-setters-issue-their-2015-strategic-plan/224604"
-        },
-        "dispatch.com/2015/04/accounting-firm-schneider-downs-buys-pittsburgh-based-meridian-columbus-dispatch": {
-            "title": "Accounting firm Schneider Downs buys Pittsburgh-based Meridian - Columbus Dispatch...",
-            "snippet": "Accounting firm Schneider Downs buys Pittsburgh-based MeridianColumbus DispatchSchneider Downs, a Pittsburgh-based certified public accounting and business-advisory firm with a large office in Columbus, has announced that it is acquiring the...",
-            "date": "2015-04-13",
-            "categories": "business",
-            "tags": "firm,business,ing",
-            "recuweb_url": "http://en.recuweb.com/business/dispatch.com/2015/04/accounting-firm-schneider-downs-buys-pittsburgh-based-meridian-columbus-dispatch",
-            "resource_url": "http://news.google.com/?hl=en&q=accounting&output=atom&nord=1",
-            "source_url": "http://dispatch.com/content/stories/business/2015/04/13/schneider-downs-buys-pittsburgh-group.html"
-        },
-        "collegian.psu.edu/2015/04/adrian-project-introduces-penn-state-accounting-students-to-careers-in-law": {
-            "title": "Adrian Project introduces Penn State accounting students to careers in law... - The Daily Collegian...",
-            "snippet": "Adrian Project introduces Penn State accounting students to careers in law...The Daily Collegian OnlineFifteen accounting students donning bulletproof vests, handcuffs, mock handguns and pepper spray joined agents from the Internal Revenue Service...",
-            "date": "2015-04-13",
-            "categories": "students,law",
+        "hutchnews.com/2015/04/kroger-accounting-celebrates-20-years-of-growth-in-hutchinson-news": {
+            "title": "Kroger accounting celebrates 20 years of growth in Hutchinson - Hutchinson News...",
+            "snippet": "Hutchinson NewsKroger accounting celebrates 20 years of growth in HutchinsonHutchinson NewsIn the accounting division, in a group of upstairs offices, they handle all records related to store sales, including purchasing for the stores, individual...",
+            "date": "2015-04-26",
             "tags": "ing",
-            "recuweb_url": "http://en.recuweb.com/law/collegian.psu.edu/2015/04/adrian-project-introduces-penn-state-accounting-students-to-careers-in-law",
+            "recuweb_url": "http://en.recuweb.com/hutchnews.com/2015/04/kroger-accounting-celebrates-20-years-of-growth-in-hutchinson-news",
             "resource_url": "http://news.google.com/?hl=en&q=accounting&output=atom&nord=1",
-            "source_url": "http://collegian.psu.edu/news/campus/article_7e9fafcc-e17a-11e4-952c-af72427718f3.html"
+            "source_url": "http://hutchnews.com/news/business/kroger-accounting-celebrates-years-of-growth-in-hutchinson/article_0da5d485-55a9-5b70-9f0d-04bd02870a7e.html"
         },
-        "accountingtoday.com/2015/04/art-of-accounting-know-the-outstanding-performers-in-your-firm": {
-            "title": "Art of Accounting: Know the Outstanding Performers in Your Firm...",
-            "snippet": "This is a response to a reader who sent me the following email about last weeks column: All your articles are good, and so was this one about a surprise staff leader. Question: Why was it important in your firm, for you personally, to know about...",
-            "date": "2015-04-13",
-            "tags": "firm,last,ing,why",
-            "recuweb_url": "http://en.recuweb.com/accountingtoday.com/2015/04/art-of-accounting-know-the-outstanding-performers-in-your-firm",
+        "accountingtoday.com/2015/04/tax-fraud-blotter-pulpit-culprit-accounting-today": {
+            "title": "Tax Fraud Blotter: Pulpit Culprit - Accounting Today...",
+            "snippet": "Tax Fraud Blotter: Pulpit CulpritAccounting TodayAccording to authorities, in 1997 Clinton A. Broomfield, Tony McGill and Stacy Middleton formed MBM Tax and Accounting Services LLC to prepare returns and provide financial services. In 2007,...",
+            "date": "2015-04-26",
+            "tags": "provide,financial,services,tax,ing,today",
+            "recuweb_url": "http://en.recuweb.com/accountingtoday.com/2015/04/tax-fraud-blotter-pulpit-culprit-accounting-today",
+            "resource_url": "http://news.google.com/?hl=en&q=accounting&output=atom&nord=1",
+            "source_url": "http://accountingtoday.com/news/tax-practice/tax-fraud-blotter-pulpit-culprit-74414-1.html"
+        },
+        "thefrontierpost.com/2015/04/third-accounting-forum-meeting-held": {
+            "title": "Third accounting forum meeting held...",
+            "snippet": "KARACHI (PPI): The Saudi organisation of Certified Public Accountants (SOCPA), Saudi Arabia in collaboration with the Institute of Chartered Accountants of Pakistan (ICAP) organized the third accounting forum - Accounting and Finance: Meeting...",
+            "date": "2015-04-26",
+            "categories": "institute,finance",
+            "tags": "ing,finance",
+            "recuweb_url": "http://en.recuweb.com/finance/thefrontierpost.com/2015/04/third-accounting-forum-meeting-held",
             "resource_url": "http://www.bing.com/news/search?first=1&q=accounting&format=RSS&cc=us",
-            "source_url": "http://accountingtoday.com/news/firm-profession/art-of-accounting-know-the-outstanding-performers-in-your-firm-74280-1.html"
+            "source_url": "http://thefrontierpost.com/article/288474/third-accounting-forum-meeting-held/"
         },
-        "businessinsider.com/2015/04/business-insider-is-hiring-an-accounting-manager": {
-            "title": "Business Insider is hiring an accounting manager...",
-            "snippet": "Business Insider, the fastest-growing digital business publisher, is hiring an Accounting Manager to help us grow and manage the business. Were a dynamic digital publishing company reaching the new generation of business leaders. The Accounting...",
-            "date": "2015-04-13",
+        "journalgazette.net/2015/04/women-lead-in-big-accounting-fort-wayne-journal-gazette": {
+            "title": "Women lead in big accounting - Fort Wayne Journal Gazette...",
+            "snippet": "Women lead in big accountingFort Wayne Journal GazetteFor the first time in history, two of the largest accounting firms in the United States will now have women at their helm. KPMG announced last week that Lynne Doughtie will become the firm's new...",
+            "date": "2015-04-26",
+            "tags": "firms,announced,ing",
+            "recuweb_url": "http://en.recuweb.com/journalgazette.net/2015/04/women-lead-in-big-accounting-fort-wayne-journal-gazette",
+            "resource_url": "http://news.google.com/?hl=en&q=accounting&output=atom&nord=1",
+            "source_url": "http://journalgazette.net/business/Women-lead-in-big-accounting-Female-leading-reaching-the-top-in-accounting-6228981"
+        },
+        "makeuseof.com/2015/04/quickbooks-online-reputable-and-easy-cloud-accounting-so-you-can-focus": {
+            "title": "QuickBooks Online: Reputable and Easy Cloud Accounting so You Can Focus on Your Business...",
+            "snippet": "This post was made possible by Intuit. The actual contents and opinions are the sole views of the author, who maintains editorial independence, even when a post is sponsored. For more details, please read our disclaimer. QuickBooks has an...",
+            "date": "2015-04-25",
             "categories": "business",
-            "tags": "company,business,ing",
-            "recuweb_url": "http://en.recuweb.com/business/businessinsider.com/2015/04/business-insider-is-hiring-an-accounting-manager",
+            "tags": "ing,business",
+            "recuweb_url": "http://en.recuweb.com/business/makeuseof.com/2015/04/quickbooks-online-reputable-and-easy-cloud-accounting-so-you-can-focus",
             "resource_url": "http://www.bing.com/news/search?first=1&q=accounting&format=RSS&cc=us",
-            "source_url": "http://businessinsider.com/business-insider-hiring-accounting-manager-2015-4"
-        },
-        "wsj.com/2015/04/europe-slow-to-adopt-new-accounting-standard-despite-greek-crisis": {
-            "title": "Europe Slow to Adopt New Accounting Standard Despite Greek Crisis...",
-            "snippet": "Greeces new government may not have achieved much in its first two months, but it did succeed last week in establishing a parliamentary inquiry into the circumstances surrounding the countrys bankruptcy. Oddly, this inquiry will only be allowed...",
-            "date": "2015-04-13",
-            "tags": "last,standard,ing",
-            "recuweb_url": "http://en.recuweb.com/wsj.com/2015/04/europe-slow-to-adopt-new-accounting-standard-despite-greek-crisis",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=accounting&format=RSS&cc=us",
-            "source_url": "http://wsj.com/articles/eurozone-methods-called-to-account-1428869160"
-        },
-        "news.efinancialcareers.com/2015/04/how-to-earn-100k-in-accounting-efinancialcareers": {
-            "title": "How to earn 100k in accounting - eFinancialCareers...",
-            "snippet": "eFinancialCareersHow to earn 100k in accountingeFinancialCareersThe Institute of Chartered Accountants in England and Wales (ICAEW) has just released its 2015 accounting salary survey in combination with search firm Stott and May. If you want to...",
-            "date": "2015-04-13",
-            "categories": "salary,institute",
-            "tags": "salary,firm,ants,ing",
-            "recuweb_url": "http://en.recuweb.com/institute/news.efinancialcareers.com/2015/04/how-to-earn-100k-in-accounting-efinancialcareers",
-            "resource_url": "http://news.google.com/?hl=en&q=accounting%2Baccounting&output=atom&nord=1",
-            "source_url": "http://news.efinancialcareers.com/uk-en/204979/how-to-earn-100k-in-accounting/"
-        },
-        "computerworld.co.nz/2015/04/insight-accounting-for-the-value-of-data-in-company-balance-sheet": {
-            "title": "INSIGHT: Accounting for the value of data in the company balance sheet...",
-            "snippet": "Most organisations across New Zealand are gathering, storing and extracting value from data, yet accounting for data as an asset on the company balance sheet remains difficult. So much so that Kiwi organisations that can find a way to do this can...",
-            "date": "2015-04-13",
-            "categories": "balance-sheet",
-            "tags": "company,ing",
-            "recuweb_url": "http://en.recuweb.com/balance-sheet/computerworld.co.nz/2015/04/insight-accounting-for-the-value-of-data-in-company-balance-sheet",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=accounting&format=RSS&cc=us",
-            "source_url": "http://computerworld.co.nz/article/572561/insight-accounting-value-data-company-balance-sheet/"
+            "source_url": "http://makeuseof.com/tag/quickbooks-online-reputable-easy-cloud-accounting-can-focus-business/"
         }
     }
 }
