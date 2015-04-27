@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "web-development",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/web-development/",
@@ -10,25 +11,77 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/web-development/web-development/blogs.json"
     },
     "items": {
+        "yusufg-star.blogspot.com/2015/04/what-is-web-designing-and-development": {
+            "title": "What is Web Designing And Development...",
+            "snippet": "What is Web Designing And Development What is Web Designing And Development yusuf Design No comment If you are looking to design and build a website whether you are doing it yourself or hiring an agency or developer to do it you have then heard a...",
+            "date": "2015-04-24",
+            "author_name": "Yusuf mudagal",
+            "tags": "developer,hiring,looking,web,development,design,build,website,agency",
+            "recuweb_url": "http://en.recuweb.com/yusufg-star.blogspot.com/2015/04/what-is-web-designing-and-development",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=web%2Bdevelopment%2Bweb%2Bdevelopment&rss=1&lng=en",
+            "source_url": "http://yusufg-star.blogspot.com/2015/04/what-is-web-designing-and-development.html"
+        },
+        "blogs.msdn.com/2015/04/making-it-better-with-visual-basic-14-net-web": {
+            "title": "Making It Better: with Visual Basic 14 -.NET Web...",
+            "snippet": "NET Web Development and Tools Blog.... As someone who reads stack traces and debugger output, this helpful bit of information that the previous developer attempted to provide for me no longer makes any sense. The new...",
+            "date": "2015-04-23",
+            "author_name": "Jeffrey T. Fritz",
+            "tags": "information,previous,developer,any,tools,development,web,basic,helpful",
+            "recuweb_url": "http://en.recuweb.com/blogs.msdn.com/2015/04/making-it-better-with-visual-basic-14-net-web",
+            "resource_url": "http://www.google.com/search?q=web%2Bdevelopment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.msdn.com/b/webdev/archive/2015/04/23/making-it-better-asp-net-with-visual-basic-14.aspx"
+        },
+        "noupe.com/2015/04/webdesigner-news-latest-design-&-development-noupe": {
+            "title": "Webdesigner News - Latest Design & Development News NOUPE...",
+            "snippet": "Staying up to the latest innovations in web design and development is not an easy task to accomplish. My personal Feedly is cram packed with over 500 feeds. And it costs me a lot of time to even keep up with these news,...",
+            "date": "2015-04-23",
+            "author_name": "Dieter Petereit",
+            "tags": "even,development,design,web,task",
+            "recuweb_url": "http://en.recuweb.com/noupe.com/2015/04/webdesigner-news-latest-design-&-development-noupe",
+            "resource_url": "http://www.google.com/search?q=web%2Bdevelopment%2Bweb%2Bdevelopment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://noupe.com/design/link-of-the-day-webdesigner-news-all-the-latest-and-greatest-in-web-design-and-development-91356.html"
+        },
+        "programmers.stackexchange.com/2015/04/web-development-explanation-of-how-server-side-programming": {
+            "title": "web development - Explanation of how server-side programming...",
+            "snippet": "It is my understanding that any general-purpose programming language can be used for server-side development of a website. Am I right in thinking that a server just needs some kind of interface such as CGI to make the...",
+            "date": "2015-04-22",
+            "author_name": "Chris Dance",
+            "tags": "language,any,general,web,development,programming,website",
+            "recuweb_url": "http://en.recuweb.com/programmers.stackexchange.com/2015/04/web-development-explanation-of-how-server-side-programming",
+            "resource_url": "http://www.google.com/search?q=web%2Bdevelopment%2Bweb%2Bdevelopment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://programmers.stackexchange.com/questions/279858/explanation-of-how-server-side-programming-languages-are-accessed"
+        },
+        "business2community.com/2015/04/responsive-web-design-is-essential-in-2015-business-2-community": {
+            "title": "Responsive Web Design Is Essential In 2015 - Business 2 Community...",
+            "snippet": "Much More Than A Mobile Site. Responsive design is an approach to web development using fluid, proportion-based grids, flexible images, and CSS3 media queries to deliver an optimized user experience across all devices.",
+            "date": "2015-04-16",
+            "author_name": "Alexandra Giarratano",
+            "categories": "business,css",
+            "tags": "user,experience,mobile,site,web,web_design,design,business,community,development,css",
+            "recuweb_url": "http://en.recuweb.com/css/business2community.com/2015/04/responsive-web-design-is-essential-in-2015-business-2-community",
+            "resource_url": "http://www.google.com/search?q=web%2Bdevelopment%2Bweb%2Bdevelopment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://business2community.com/digital-marketing/responsive-web-design-essential-2015-01205621"
+        },
+        "designrfix.com/2015/04/11-top-web-development-tools-that-every-designer-should-use": {
+            "title": "11 Top Web Development Tools That Every Designer Should Use...",
+            "snippet": "Are you looking for some online tools and applications to quickly improve and simplify your next project??? Here are 11 Fantastic Web Apps that will serve.",
+            "date": "2015-04-13",
+            "author_name": "Tony Gentile",
+            "categories": "web-development",
+            "tags": "web,improve,tools,looking,web_development,development,every,online,applications",
+            "recuweb_url": "http://en.recuweb.com/web-development/designrfix.com/2015/04/11-top-web-development-tools-that-every-designer-should-use",
+            "resource_url": "http://www.google.com/search?q=web%2Bdevelopment%2Bweb%2Bdevelopment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://designrfix.com/resources/11-web-development-tools"
+        },
         "reddit.com/2015/04/i-wrote-a-book-teaching-beginner-python-django-web-app-development": {
             "title": "I wrote a book teaching beginner Python/Django web app development (Hello Web App)...",
             "snippet": "Hey LearnProgramming I'm a designer who taught myself Python/Django a few years ago to launch a startup. I've always been super frustrated about current programming tutorials, since usually they assume some programming knowledge (throwing around...",
             "date": "2015-04-08",
             "categories": "teaching",
-            "tags": "programming,few,hello,web,app,book,development,years",
+            "tags": "current,few,ago,launch,taught,web,development,programming",
             "recuweb_url": "http://en.recuweb.com/teaching/reddit.com/2015/04/i-wrote-a-book-teaching-beginner-python-django-web-app-development",
             "resource_url": "http://www.reddit.com/search.rss?q=web%2Bdevelopment%2Bweb%2Bdevelopment&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/learnprogramming/comments/31wovh/i_wrote_a_book_teaching_beginner_pythondjango_web/"
-        },
-        "hacks.mozilla.org/2015/04/mobile-game-development-with-the-device-orientation-and-vibration": {
-            "title": "Mobile game development with the Device Orientation and Vibration...",
-            "snippet": "The market for casual mobile gaming is keeping pace with the growing market for smartphones. There are Web tools that can help web developers like you build games that compete with native games. You'll need great...",
-            "date": "2015-04-08",
-            "author_name": "Andrzej Mazur",
-            "tags": "need,great,build,help,market,mobile,game,development,web,developers",
-            "recuweb_url": "http://en.recuweb.com/hacks.mozilla.org/2015/04/mobile-game-development-with-the-device-orientation-and-vibration",
-            "resource_url": "http://www.google.com/search?q=web%2Bdevelopment%2Bweb%2Bdevelopment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://hacks.mozilla.org/2015/04/mobile-game-development-with-the-device-orientation-and-vibration-apis/"
         },
         "synapseindiarecruitment.wordpress.com/2015/03/synapseindia-recruitment-3-most-promising-it-careers-in-2015": {
             "title": "SynapseIndia Recruitment 3 Most Promising IT Careers in 2015...",
@@ -36,20 +89,10 @@
             "date": "2015-03-31",
             "author_name": "satyasingh9089",
             "categories": "employment,technology,recruitment,business",
-            "tags": "offer,data,information,technology,mobile,application,development,web,cloud,than,business",
+            "tags": "mobile,application,information,development,web,cloud,data,business",
             "recuweb_url": "http://en.recuweb.com/business/synapseindiarecruitment.wordpress.com/2015/03/synapseindia-recruitment-3-most-promising-it-careers-in-2015",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=web%2Bdevelopment%2Bweb%2Bdevelopment&rss=1&lng=en",
             "source_url": "http://synapseindiarecruitment.wordpress.com/2015/03/31/synapseindia-recruitment-3-most-promising-it-careers-in-2015/"
-        },
-        "webdesignerdepot.com/2015/03/how-to-find-the-perfect-web-developer-webdesigner-depot": {
-            "title": "How to find the perfect web developer Webdesigner Depot...",
-            "snippet": "Any sort of software development, whether it's web, mobile apps, or desktop is a game of finding the best compromises. Hearing the various trade-offs a developer was faced with and their approach to solving the problem is...",
-            "date": "2015-03-11",
-            "author_name": "Devon Campbell",
-            "tags": "game,best,mobile,software,find,web,developer,any,development",
-            "recuweb_url": "http://en.recuweb.com/webdesignerdepot.com/2015/03/how-to-find-the-perfect-web-developer-webdesigner-depot",
-            "resource_url": "http://www.google.com/search?q=web%2Bdevelopment%2Bweb%2Bdevelopment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://webdesignerdepot.com/2015/03/how-to-find-the-perfect-web-developer/"
         },
         "redlemonin.wordpress.com/2015/02/growth-of-web-development-services-in-international-market": {
             "title": "Growth Of Web Development Services In International Market...",
@@ -57,7 +100,7 @@
             "date": "2015-02-27",
             "author_name": "redlemonin",
             "categories": "web-development",
-            "tags": "many,named,design,web,web_development,development,services,market,website,application",
+            "tags": "application,web,web_development,development,services,website,design",
             "recuweb_url": "http://en.recuweb.com/web-development/redlemonin.wordpress.com/2015/02/growth-of-web-development-services-in-international-market",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=web%2Bdevelopment%2Bweb%2Bdevelopment&rss=1&lng=en",
             "source_url": "http://redlemonin.wordpress.com/2015/02/27/growth-of-web-development-services-in-international-market/"
@@ -67,52 +110,10 @@
             "snippet": "At my site CodeAbbey I recently added few exercises dedicated not to general algorithms etc, but rather to basics of web-development. I thought it is important after I've found that some of my friends have not a least idea of these things despite...",
             "date": "2015-01-28",
             "categories": "learning",
-            "tags": "found,few,dedicated,site,start,learning,web,development",
+            "tags": "basic,recently,few,general,site,web,development",
             "recuweb_url": "http://en.recuweb.com/learning/reddit.com/2015/01/start-learning-web-development-right-now-with-5-basic-exercises",
             "resource_url": "http://www.reddit.com/search.rss?q=web%2Bdevelopment%2Bweb%2Bdevelopment&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/learnprogramming/comments/2tyz31/start_learning_webdevelopment_right_now_with_5/"
-        },
-        "bptpl.wordpress.com/2015/01/how-does-web-development-companies-india-help-in-creating-online-presence": {
-            "title": "How does Web development Companies India help in creating online presence of your business...",
-            "snippet": "India is one of the leading IT solution providers in the world. In the past one decade Internet and IT has seen many folds of development. The IT industry has grown tremendously and the whole world is become addicted to internet. Internet has...",
-            "date": "2015-01-27",
-            "author_name": "BPT Solutions (P) Ltd.",
-            "categories": "internet,business",
-            "tags": "industry,world,internet,many,help,online,presence,companies,india,web,development,business",
-            "recuweb_url": "http://en.recuweb.com/business/bptpl.wordpress.com/2015/01/how-does-web-development-companies-india-help-in-creating-online-presence",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=web%2Bdevelopment%2Bweb%2Bdevelopment&rss=1&lng=en",
-            "source_url": "http://bptpl.wordpress.com/2015/01/27/how-does-web-development-companies-india-help-in-creating-online-presence-of-your-business/"
-        },
-        "mspinedo.wordpress.com/2015/01/what-is-the-difference-between-web-design-and-development": {
-            "title": "What is the Difference Between Web Design and Web Development.",
-            "snippet": "Many people use the two terms web design and web development interchangeably, but they really do have two different meanings. If youre looking for a new job or someone to build your website, you need to know the difference. Web Design WEB DESIGN is...",
-            "date": "2015-01-27",
-            "author_name": "Patricia Pinedo",
-            "categories": "web-development",
-            "tags": "web,design,difference,need,youre,build,really,different,people,web_development,development,many,website",
-            "recuweb_url": "http://en.recuweb.com/web-development/mspinedo.wordpress.com/2015/01/what-is-the-difference-between-web-design-and-development",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=web%2Bdevelopment%2Bweb%2Bdevelopment&rss=1&lng=en",
-            "source_url": "http://mspinedo.wordpress.com/2015/01/27/what-is-the-difference-between-web-design-and-web-development/"
-        },
-        "reddit.com/2014/08/i-created-a-free-site-which-guides-people-who-want-to": {
-            "title": "I created a free site which guides people who want to start a web development career.",
-            "snippet": "Hello, I am web developer with ten years experience and I hold a Masters in Education. Throughout my career I've found that there are not enough web developers to fill the open positions on the market. So I decided to combine my technology and...",
-            "date": "2014-08-27",
-            "categories": "technology,education",
-            "tags": "technology,developers,developer,open,market,found,experience,created,free,site,people,want,start,web,development,hello,years,education",
-            "recuweb_url": "http://en.recuweb.com/education/reddit.com/2014/08/i-created-a-free-site-which-guides-people-who-want-to",
-            "resource_url": "http://www.reddit.com/search.rss?q=web%2Bdevelopment%2Bweb%2Bdevelopment&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/learnprogramming/comments/2eqhts/i_created_a_free_site_which_guides_people_who/"
-        },
-        "reddit.com/2014/08/is-java-that-bad-for-web-development-if-so-why": {
-            "title": "Is Java that bad for web development? If so, why?",
-            "snippet": "Browsing/r/programming, a lot of people seems to make fun or criticize Java, especially when the discussion is about web development. Why is that? What should I consider if I want to develop web applications using the OOP paradigm? submitted by...",
-            "date": "2014-08-23",
-            "categories": "java",
-            "tags": "applications,want,people,make,java,web,development,programming",
-            "recuweb_url": "http://en.recuweb.com/java/reddit.com/2014/08/is-java-that-bad-for-web-development-if-so-why",
-            "resource_url": "http://www.reddit.com/search.rss?q=web%2Bdevelopment%2Bweb%2Bdevelopment&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/learnprogramming/comments/2ecysk/is_java_that_bad_for_web_development_if_so_why/"
         }
     }
 }
