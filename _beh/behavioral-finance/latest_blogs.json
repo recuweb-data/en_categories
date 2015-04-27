@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "behavioral-finance",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/behavioral-finance/",
@@ -10,24 +11,13 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/behavioral-finance/behavioral-finance/blogs.json"
     },
     "items": {
-        "seekingalpha.com/2015/04/behavioral-finance-strikes-again-anchoring-in-loan-markets": {
-            "title": "Behavioral Finance Strikes Again: Anchoring In Loan Markets...",
-            "snippet": "Given the dramatic changes in credit spreads following the Financial Crisis, we should expect that macro credit spread changes should be reflected in bank loans. Anchoring bias can affect both lenders and borrowers.",
-            "date": "2015-04-09",
-            "author_name": "SeekingAlpha.com",
-            "categories": "credit,markets,behavioral-finance,finance",
-            "tags": "should,financial,ing,markets,behavioral,behavioral_finance,finance,bias",
-            "recuweb_url": "http://en.recuweb.com/finance/seekingalpha.com/2015/04/behavioral-finance-strikes-again-anchoring-in-loan-markets",
-            "resource_url": "http://www.google.com/search?q=behavioral%2Bfinance%2Bbehavioral%2Bfinance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://seekingalpha.com/article/3059156-behavioral-finance-strikes-again-anchoring-in-loan-markets"
-        },
         "randomroger.com/2015/04/barron-s-on-behavioral-finance-&-liquid-alts-random-roger": {
             "title": "Barron's On Behavioral Finance & Liquid Alts Random Roger...",
             "snippet": "This week's Barron's had a lot of great content including the best interview I've ever read about behavioral finance and some good content on liquid alternatives aka diversifiers. From my post;. Interestingly he noted the...",
             "date": "2015-04-09",
             "author_name": "Roger Nusbaum",
             "categories": "behavioral-finance,finance",
-            "tags": "inter,behavioral,behavioral_finance,finance",
+            "tags": "behavioral,behavioral_finance,finance",
             "recuweb_url": "http://en.recuweb.com/finance/randomroger.com/2015/04/barron-s-on-behavioral-finance-&-liquid-alts-random-roger",
             "resource_url": "http://www.google.com/search?q=behavioral%2Bfinance%2Bbehavioral%2Bfinance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://randomroger.com/2015/04/barrons-on-behavioral-finance-liquid-alts.html"
@@ -38,7 +28,7 @@
             "date": "2015-03-29",
             "author_name": "Iris.xyz",
             "categories": "behavioral-finance,finance",
-            "tags": "rational,many,economics,should,why,behavioral,behavioral_finance,finance,understanding,classes,people",
+            "tags": "rational,greed,beyond,fear,behavioral,behavioral_finance,finance,understanding,why,economics,classes,people",
             "recuweb_url": "http://en.recuweb.com/finance/etftrends.com/2015/03/behavioral-finance-and-beyond-fear-greed-etf-trends",
             "resource_url": "http://www.google.com/search?q=behavioral%2Bfinance%2Bbehavioral%2Bfinance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://etftrends.com/2015/03/behavioral-finance-and-beyond-fear-and-greed/"
@@ -49,7 +39,7 @@
             "date": "2015-03-18",
             "author_name": "Ali Criss",
             "categories": "behavioral-finance,finance,emotion",
-            "tags": "practice,behavioral,behavioral_finance,finance,create,rational,would,irrational",
+            "tags": "irrational,practice,relatively,relatively-new,relatively-new-field,field,behavioral,behavioral_finance,finance,rational",
             "recuweb_url": "http://en.recuweb.com/emotion/financialinsights.net/2015/03/behavioral-finance-regulating-your-emotions-to-create-a-rational",
             "resource_url": "http://www.google.com/search?q=behavioral%2Bfinance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://financialinsights.net/2015/03/18/behavioral-finance-regulating-your-emotions-to-create-a-rational-brain/"
@@ -58,9 +48,9 @@
             "title": "How can Shake Shack (SHAK) be trading at such an absurdly high stock price? Does behavioral finance...",
             "snippet": "The firms valuation is billion, keep in mind that the company only has 63 locations, generated 79 million in revenue last year and has price per earnings of around 275. So it would need years of high rate of growth to justify that stock price.",
             "date": "2015-01-31",
-            "categories": "mind,finance",
-            "tags": "would,years,last,mind,only,valuation,stock,behavioral,finance",
-            "recuweb_url": "http://en.recuweb.com/finance/reddit.com/2015/01/how-can-shake-shack-shak-be-trading-at-such-an-absurdly",
+            "categories": "finance,mind",
+            "tags": "price,company,only,behavioral,finance,mind",
+            "recuweb_url": "http://en.recuweb.com/mind/reddit.com/2015/01/how-can-shake-shack-shak-be-trading-at-such-an-absurdly",
             "resource_url": "http://www.reddit.com/search.rss?q=behavioral%2Bfinance%2Bbehavioral%2Bfinance&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/finance/comments/2uaipz/how_can_shake_shack_shak_be_trading_at_such_an/"
         },
@@ -70,10 +60,21 @@
             "date": "2015-01-11",
             "author_name": "Kareem Sattar",
             "categories": "behavioral-finance,finance",
-            "tags": "participants,make,rational,why,behavioral,behavioral_finance,finance,key,market",
+            "tags": "market,errors,rational,issue,behavioral,behavioral_finance,finance,why",
             "recuweb_url": "http://en.recuweb.com/finance/credence-wealth.com/2015/01/key-considerations-of-behavioral-finance",
             "resource_url": "http://www.google.com/search?q=behavioral%2Bfinance%2Bbehavioral%2Bfinance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://credence-wealth.com/key-considerations-of-behavioral-finance-2/"
+        },
+        "alessandroinnocenti.wordpress.com/2014/12/the-jekyll-and-hyde-transformation-of-male-traders": {
+            "title": "The Jekyll-and-Hyde transformation of male traders...",
+            "snippet": "The Biological Component of Behavioral Finance Behavioral finance, which is often used to explain irrational moves in financial markets, emphasizes the importance of psychological influences on investor behavior. The work of researchers, including...",
+            "date": "2014-12-29",
+            "author_name": "alessandroinnocenti",
+            "categories": "behavioral-finance,finance,markets",
+            "tags": "work,researchers,importance,influences,investor,investor-behavior,behavior,explain,irrational,behavioral,behavioral_finance,finance,financial,markets",
+            "recuweb_url": "http://en.recuweb.com/markets/alessandroinnocenti.wordpress.com/2014/12/the-jekyll-and-hyde-transformation-of-male-traders",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=behavioral%2Bfinance%2Bbehavioral%2Bfinance&rss=1&lng=en",
+            "source_url": "http://alessandroinnocenti.wordpress.com/2014/12/29/the-jekyll-and-hyde-transformation-of-male-traders/"
         },
         "alessandroinnocenti.wordpress.com/2014/11/behavioral-finance-in-practice": {
             "title": "Behavioral finance in practice...",
@@ -81,7 +82,7 @@
             "date": "2014-11-03",
             "author_name": "alessandroinnocenti",
             "categories": "finance",
-            "tags": "importance,understanding,investor,practice,investing,finance,behavioral,many,financial",
+            "tags": "importance,understanding,investor,investor-behavior,behavior,practice,investing,finance,behavioral,financial",
             "recuweb_url": "http://en.recuweb.com/finance/alessandroinnocenti.wordpress.com/2014/11/behavioral-finance-in-practice",
             "resource_url": "http://en.search.wordpress.com/?q=behavioral%2Bfinance%2Bbehavioral%2Bfinance&f=feed&page=1",
             "source_url": "http://alessandroinnocenti.wordpress.com/2014/11/03/behavioral-finance-in-practice/"
@@ -91,7 +92,7 @@
             "snippet": "They wheel out \"Meir Statman, a professor at Santa Clara University specializing in behavioral finance\" who asserts that those who believe Bitcoin will succeed are guilty of 'confirmation bias'. Statman states concerning Bitcoin: I think its a...",
             "date": "2014-10-09",
             "categories": "finance,university",
-            "tags": "finance,only,way,confirmation,bias,behavioral",
+            "tags": "finance,professor,only,confirmation,confirmation-bias,bias,way,behavioral",
             "recuweb_url": "http://en.recuweb.com/university/reddit.com/2014/10/reckon-the-positivity-about-bitcoin-is-confirmation-bias-funny",
             "resource_url": "http://www.reddit.com/search.rss?q=behavioral%2Bfinance%2Bbehavioral%2Bfinance&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/Bitcoin/comments/2issoa/timecom_reckon_the_positivity_about_bitcoin_is/"
@@ -102,7 +103,7 @@
             "date": "2014-09-28",
             "author_name": "tiocomredilandpolilati",
             "categories": "psychology,capital-market,markets,behavioral-finance,finance",
-            "tags": "investors,capital,markets,behavioral,behavioral_finance,finance,book",
+            "tags": "psychology,influences,investors,markets,behavioral,behavioral_finance,finance",
             "recuweb_url": "http://en.recuweb.com/finance/tiocomredilandpolilati.wordpress.com/2014/09/download-book-behavioral-finance-and-capital-markets-how-psychology-influences-investors",
             "resource_url": "http://en.search.wordpress.com/?q=behavioral%2Bfinance%2Bbehavioral%2Bfinance&f=feed&page=1",
             "source_url": "http://tiocomredilandpolilati.wordpress.com/2014/09/28/download-book-behavioral-finance-and-capital-markets-how-psychology-influences-investors-and-corporations-by-adam-szyszka/"
