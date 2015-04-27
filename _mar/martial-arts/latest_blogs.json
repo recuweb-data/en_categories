@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "martial-arts",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/martial-arts/",
@@ -10,24 +11,13 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/martial-arts/martial-arts/blogs.json"
     },
     "items": {
-        "collegian.com/2015/04/diverse-martial-arts-groups-perform-at-csu-rocky-mountain": {
-            "title": "Diverse Martial Arts groups perform at CSU Rocky Mountain...",
-            "snippet": "Those who practice martial arts styles Aikido and Pencak Silat find both to be less about the martial aspect of the art, and more about generating community and bringing awareness to Japanese and Indonesian culture.",
-            "date": "2015-04-23",
-            "author_name": "Amanda Thompson",
-            "categories": "martial-arts,arts,culture",
-            "tags": "awareness,art,martial,martial_arts,arts",
-            "recuweb_url": "http://en.recuweb.com/culture/collegian.com/2015/04/diverse-martial-arts-groups-perform-at-csu-rocky-mountain",
-            "resource_url": "http://www.google.com/search?q=martial%2Barts%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://collegian.com/2015/04/diverse-martial-arts-groups-perform-at-csu/123091/"
-        },
         "thelocal.de/2015/04/salafists-giving-kids-martial-arts-lessons-the-local": {
             "title": "Salafists giving kids martial arts lessons - The Local...",
             "snippet": "Members of a Salafist group in western Germany have been giving lessons in martial arts to local kids, police reports revealed on Monday.",
             "date": "2015-04-20",
             "author_name": "unknown",
             "categories": "arts",
-            "tags": "kids,martial,arts",
+            "tags": "kids,martial,arts,members",
             "recuweb_url": "http://en.recuweb.com/arts/thelocal.de/2015/04/salafists-giving-kids-martial-arts-lessons-the-local",
             "resource_url": "http://www.google.com/search?q=martial%2Barts%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://thelocal.de/20150420/salafists-radicalizing-kids-with-martial-arts"
@@ -38,7 +28,7 @@
             "date": "2015-04-18",
             "author_name": "Zane Simon",
             "categories": "tradition,honor,karate,arts",
-            "tags": "fight,martial,mma,lot,karate,arts",
+            "tags": "fights,fight,martial,mma,karate,arts",
             "recuweb_url": "http://en.recuweb.com/arts/bloodyelbow.com/2015/04/lyoto-machida-on-martial-traditions-in-mma-your-principles-never",
             "resource_url": "http://www.google.com/search?q=martial%2Barts%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bloodyelbow.com/2015/4/18/8448435/ufc-on-fox-15-lyoto-machida-video-interivew-martial-tradition-karate-rockhold-mma-news"
@@ -49,7 +39,7 @@
             "date": "2015-04-14",
             "author_name": "By Thomas Gerbasi",
             "categories": "arts",
-            "tags": "something,only,heavyweight,mixed,mixed_martial,martial,ufc,arts,top",
+            "tags": "something,only,mixed,mixed_martial,martial,arts",
             "recuweb_url": "http://en.recuweb.com/arts/ufc.com/2015/04/ovince-saint-preux-occupation-mixed-martial-artist-ufc-news",
             "resource_url": "http://www.google.com/search?q=martial%2Barts%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://ufc.com/news/Ovince-Saint-Preux-Occupation-Mixed-Martial-Artist?id="
@@ -60,7 +50,7 @@
             "date": "2015-04-14",
             "author_name": "Katie Foglia",
             "categories": "school,karate,students,martial-arts,arts",
-            "tags": "training,center,school,place,tang,karate,students,martial,martial_arts,arts",
+            "tags": "center,karate,students,martial,martial_arts,arts",
             "recuweb_url": "http://en.recuweb.com/arts/triblive.com/2015/04/saavedra-martial-arts-students-preparing-for-tournament-in-orlando",
             "resource_url": "http://www.google.com/search?q=martial%2Barts%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://triblive.com/sports/otherlocal/8134076-74/saavedra-arts-martial"
@@ -71,10 +61,21 @@
             "date": "2015-04-14",
             "author_name": "unknown",
             "categories": "arts",
-            "tags": "kids,important,martial,arts,ing,physical",
+            "tags": "kids,involved,martial,arts,physical,important",
             "recuweb_url": "http://en.recuweb.com/arts/utsandiego.com/2015/04/five-benefits-of-martial-arts-for-children",
             "resource_url": "http://www.google.com/search?q=martial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://utsandiego.com/news/2015/apr/14/martial-arts-children-fitness/"
+        },
+        "wnd.com/2015/04/jihad-brides-ak-47s-and-martial-arts-poses": {
+            "title": "Jihad brides, AK-47s and martial-arts poses...",
+            "snippet": "There, she wrote, Foreign girls who are lured via the Internet to join ISIS are being misled by a glamorized vision of women posing with AK-47s and in martial arts positions in essence, a vision of women performing...",
+            "date": "2015-04-11",
+            "author_name": "-NO AUTHOR-",
+            "categories": "arts,internet",
+            "tags": "martial,arts",
+            "recuweb_url": "http://en.recuweb.com/internet/wnd.com/2015/04/jihad-brides-ak-47s-and-martial-arts-poses",
+            "resource_url": "http://www.google.com/search?q=martial%2Barts%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://wnd.com/2015/04/jihad-brides-ak-47s-and-martial-arts-poses/"
         },
         "bangordailynews.com/2015/04/live-updates-nef-xvii-mixed-martial-arts-card-in-lewiston": {
             "title": "LIVE UPDATES: NEF XVII Mixed Martial Arts card in Lewiston...",
@@ -82,42 +83,41 @@
             "date": "2015-04-11",
             "author_name": "Ernie Clark, BDN Staff",
             "categories": "politics,mixed-martial-arts,martial-arts,arts,sport",
-            "tags": "card,mixed,mixed_martial,mixed_martial_arts,martial,martial_arts,arts,sports",
+            "tags": "england,mixed,mixed_martial,mixed_martial_arts,martial,martial_arts,arts,here,maine,keep",
             "recuweb_url": "http://en.recuweb.com/sport/bangordailynews.com/2015/04/live-updates-nef-xvii-mixed-martial-arts-card-in-lewiston",
             "resource_url": "http://www.google.com/search?q=martial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bangordailynews.com/2015/04/11/sports/live-updates-nef-xvii-mixed-martial-arts-card-in-lewiston/"
         },
-        "shenandoah-iowa.blogspot.com/2015/04/one-eternal-round-martial-arts-lesson-the-spine-building-a-firm": {
-            "title": "One Eternal Round Martial Arts Lesson - The Spine Building a Firm Foundation Anchor for Life...",
-            "snippet": "It is a common teaching that the martial arts are 90% mental and 10% physical. I concur with this assessment. Yet I would add something to this teaching of the martial arts. The martial arts are 90% mental, 10% physical and 100% spiritual. Whether...",
-            "date": "2015-04-04",
-            "author_name": "(Aaron Green)",
-            "categories": "teaching,martial-arts,arts,life",
-            "tags": "physical,something,martial,martial_arts,arts",
-            "recuweb_url": "http://en.recuweb.com/life/shenandoah-iowa.blogspot.com/2015/04/one-eternal-round-martial-arts-lesson-the-spine-building-a-firm",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=martial%2Barts%2Bmartial%2Barts&rss=1&lng=en",
-            "source_url": "http://shenandoah-iowa.blogspot.com/2015/04/one-eternal-round-martial-arts-lesson.html"
+        "pinknews.co.uk/2015/03/8-ways-lgbt-martial-arts-will-change-your-life-pinknews": {
+            "title": "8 ways LGBT martial arts will change your life PinkNews...",
+            "snippet": "LGBT martial arts is the latest hot London hobby, and Jai's Martial Art Institute is one of the best places to learn. 8 reasons to take up combat martial arts: 1. Build your confidence. 2. Improve your self-control. 3. Build stamina.",
+            "date": "2015-03-27",
+            "author_name": "Anastasia Kyriacou",
+            "categories": "places,institute,arts,life",
+            "tags": "martial,art,arts,life,combat,self",
+            "recuweb_url": "http://en.recuweb.com/life/pinknews.co.uk/2015/03/8-ways-lgbt-martial-arts-will-change-your-life-pinknews",
+            "resource_url": "http://www.google.com/search?q=martial%2Barts%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://pinknews.co.uk/2015/03/27/8-ways-lgbt-martial-arts-will-change-your-life/"
         },
-        "thestickchick.com/2015/04/scaling-the-martial-arts-cliff": {
-            "title": "Scaling the Martial Arts Cliff...",
-            "snippet": "I was thinking about my friend Andrea Harkins post, Why Women Fall Off the Martial Arts Cliff. If you haven't read it, take a moment and do so - it's pretty important stuff. My older daughter earned her 1st Degree Black Belt in Tae Kwon Do last year...",
-            "date": "2015-04-04",
-            "author_name": "Jackie Bradbury",
+        "reddit.com/2014/12/stupidest-myths-about-martial-arts-that-still-persist": {
+            "title": "Stupidest myths about Martial Arts (that still persist)?",
+            "snippet": "So, no matter how much we try we keep seeing the same bullshit spread around time and again. Let's have some fun with it and share our favorites. Here come the ones in the top of my head 1-My style is too dangerous to sparr 2-It only works in the...",
+            "date": "2014-12-22",
             "categories": "martial-arts,arts",
-            "tags": "last,last-year,important,women,martial,martial_arts,arts",
-            "recuweb_url": "http://en.recuweb.com/arts/thestickchick.com/2015/04/scaling-the-martial-arts-cliff",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=martial%2Barts%2Bmartial%2Barts&rss=1&lng=en",
-            "source_url": "http://thestickchick.com/2015/04/scaling-martial-arts-cliff.html"
+            "tags": "only,top,share,try,keep,martial,martial_arts,arts,let,here,style",
+            "recuweb_url": "http://en.recuweb.com/arts/reddit.com/2014/12/stupidest-myths-about-martial-arts-that-still-persist",
+            "resource_url": "http://www.reddit.com/search.rss?q=martial%2Barts%2Bmartial%2Barts&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/martialarts/comments/2q3sjq/stupidest_myths_about_martial_arts_that_still/"
         },
-        "forex.5ver.net/2015/03/martial-arts-and-self-defense-insider-secrets": {
-            "title": "Martial Arts, Martial Arts And Self Defense Insider Secrets Martial Arts...",
-            "snippet": "Self Defense And Martial Arts Insider Techniques Guide, Reference And Resources. Build Confidence And Establish Safety Awareness And Tactics For Personal Protection.",
-            "date": "2015-03-28",
-            "categories": "martial-arts,arts",
-            "tags": "build,awareness,self,defense,secrets,martial,martial_arts,arts",
-            "recuweb_url": "http://en.recuweb.com/arts/forex.5ver.net/2015/03/martial-arts-and-self-defense-insider-secrets",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=martial%2Barts%2Bmartial%2Barts&rss=1&lng=en",
-            "source_url": "http://forex.5ver.net/directory/154-martial-arts/22287-martial-arts-martial-arts-and-self-defense-insider-secrets.html"
+        "reddit.com/2014/12/the-critics-are-wrong-marco-polo-is-a-good-series": {
+            "title": "The critics are wrong: Marco Polo is a good series that stays true to its mythological martial arts...",
+            "snippet": "The critics are wrong, and the users are right: Marco Polo is a good series. The critics and users couldn't disagree more. On metacritic, critics give the series a score of 48, while users give the series an 8.3/10, with a bimodal distribution of...",
+            "date": "2014-12-20",
+            "categories": "arts",
+            "tags": "series,martial,arts",
+            "recuweb_url": "http://en.recuweb.com/arts/reddit.com/2014/12/the-critics-are-wrong-marco-polo-is-a-good-series",
+            "resource_url": "http://www.reddit.com/search.rss?q=martial%2Barts%2Bmartial%2Barts&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/television/comments/2pwi2v/the_critics_are_wrong_marco_polo_is_a_good_series/"
         }
     }
 }
