@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "food-chemistry",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/food-chemistry/",
@@ -10,24 +11,13 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/food-chemistry/food-chemistry/blogs.json"
     },
     "items": {
-        "chemistry-blog.com/2015/04/it-s-time-science-reclaimed-health-food-from-the-quacks-chemistry": {
-            "title": "It's time science reclaimed health food from the quacks Chemistry...",
-            "snippet": "I'm not quite sure what came over me, I'd set out in search of a beer and a burger. But somehow ended up in a juice bar wolfing down falafel, quaffing a cucumber, celery, ginger smoothie and sprinkling sweet potato chips with...",
-            "date": "2015-04-19",
-            "author_name": "Mark",
-            "categories": "health,science,food,chemistry",
-            "tags": "ginger,health,science,food,chemistry",
-            "recuweb_url": "http://en.recuweb.com/chemistry/chemistry-blog.com/2015/04/it-s-time-science-reclaimed-health-food-from-the-quacks-chemistry",
-            "resource_url": "http://www.google.com/search?q=food%2Bchemistry%2Bfood%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://chemistry-blog.com/2015/04/18/its-time-science-reclaimed-health-food-from-the-quacks/"
-        },
         "urbanebloc.com/2015/04/monogramto-food-chemistry-urbanebloc": {
             "title": "MonogramTO: Food Chemistry - urbanebloc...",
             "snippet": "MonogramTO, Monogram, culinary art, cooking, food, food event, cooking studio Geoff Cape CEO of Evergreen Brick Works, Top Chef Carl Heinrich of Richmond Station, Gayle Gnat of Homemaker are just some of the big...",
             "date": "2015-04-18",
             "author_name": "KJ",
             "categories": "cooking,food,food-chemistry,chemistry",
-            "tags": "big,cooking,food,food_chemistry,chemistry",
+            "tags": "cooking,food,food_chemistry,chemistry",
             "recuweb_url": "http://en.recuweb.com/chemistry/urbanebloc.com/2015/04/monogramto-food-chemistry-urbanebloc",
             "resource_url": "http://www.google.com/search?q=food%2Bchemistry%2Bfood%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://urbanebloc.com/monogramto-food-chemistry/"
@@ -38,10 +28,21 @@
             "date": "2015-04-18",
             "author_name": "Janice Lawandi",
             "categories": "technology,chemistry,food",
-            "tags": "technology,chemistry,food,even",
+            "tags": "microwave,chemistry,food,even",
             "recuweb_url": "http://en.recuweb.com/food/thekitchn.com/2015/04/how-microwaves-heat-your-food-we-ve-got-chemistry-the-kitchn",
             "resource_url": "http://www.google.com/search?q=food%2Bchemistry%2Bfood%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://thekitchn.com/how-do-microwaves-heat-food-food-science-217964"
+        },
+        "compoundchem.com/2015/04/why-shouldn-t-you-eat-rhubarb-leaves-the-chemistry-of": {
+            "title": "Why Shouldn't You Eat Rhubarb Leaves? The Chemistry of...",
+            "snippet": "This was discovered to the detriment of the British government in World War I, when, due to food shortages, they advocated eating rhubarb leaves. Of course, this led to cases of poisoning, and at least one death is reported in...",
+            "date": "2015-04-16",
+            "author_name": "Compound Interest",
+            "categories": "death,chemistry,food",
+            "tags": "world,eat,chemistry,food,least",
+            "recuweb_url": "http://en.recuweb.com/food/compoundchem.com/2015/04/why-shouldn-t-you-eat-rhubarb-leaves-the-chemistry-of",
+            "resource_url": "http://www.google.com/search?q=food%2Bchemistry%2Bfood%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://compoundchem.com/2015/04/16/rhubarb/"
         },
         "perque.com/2015/04/foods-do-affect-body-chemistry-pih-perque": {
             "title": "Foods do affect body chemistry PIH - Perque...",
@@ -49,7 +50,7 @@
             "date": "2015-04-10",
             "author_name": "MHall@elisaact.com",
             "categories": "metabolism,foods,food,chemistry",
-            "tags": "metabolism,body,chemical,balance,effects,foods,food,chemistry",
+            "tags": "metabolism,body,chemical,effects,foods,food,chemistry",
             "recuweb_url": "http://en.recuweb.com/chemistry/perque.com/2015/04/foods-do-affect-body-chemistry-pih-perque",
             "resource_url": "http://www.google.com/search?q=food%2Bchemistry%2Bfood%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://perque.com/foods-do-affect-body-chemistry/"
@@ -60,21 +61,10 @@
             "date": "2015-04-08",
             "author_name": "unknown",
             "categories": "health,metabolism,food,food-chemistry,chemistry,evidence",
-            "tags": "effects,health,research,metabolism,food,food_chemistry,chemistry,scientists,acs,journal,agricultural,colleagues,note,recent,dairy,products",
+            "tags": "effects,cheese,metabolism,food,food_chemistry,chemistry,scientists,acs,journal,agricultural,colleagues,note,recent,dairy,products",
             "recuweb_url": "http://en.recuweb.com/evidence/phys.org/2015/04/a-new-piece-in-the-french-paradox-puzzlecheese-metabolism",
             "resource_url": "http://www.google.com/search?q=food%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://phys.org/news/2015-04-piece-french-paradox-puzzlecheese-metabolism.html"
-        },
-        "chem-net.blogspot.com/2015/03/food-chemistry-the-browning-reaction-or-reactions-of-amino-acids": {
-            "title": "Food Chemistry: The browning reaction or reactions of amino acids...",
-            "snippet": "food chemistry, chemical reactions in cooking, Maillard reaction, what is the chemistry of cooking, molecular gastronomy, nonenzymic browning, caramelization, cooking flavors, cooking for flavor, proteins, carbohydrates,...",
-            "date": "2015-03-22",
-            "author_name": "K.G.K. (Quality Editions)",
-            "categories": "cooking,chemical-reactions,food,food-chemistry,chemistry",
-            "tags": "cooking,flavors,chemical,reaction,food,food_chemistry,chemistry,maillard,proteins",
-            "recuweb_url": "http://en.recuweb.com/chemistry/chem-net.blogspot.com/2015/03/food-chemistry-the-browning-reaction-or-reactions-of-amino-acids",
-            "resource_url": "http://www.google.com/search?q=food%2Bchemistry%2Bfood%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://chem-net.blogspot.com/2015/03/food-chemistry-browning-reaction-in-cooking.html"
         },
         "galvanize.com/2015/03/from-food-chemistry-to-data-science-how-one-galvanize": {
             "title": "From Food Chemistry to Data Science How One Galvanize...",
@@ -93,10 +83,21 @@
             "date": "2015-02-16",
             "author_name": "Bob's Blog",
             "categories": "lifestyle,chemistry,food",
-            "tags": "physical,activity,body,chemistry,understand,food,eat",
+            "tags": "physical,activity,eat,body,chemistry,understand,food",
             "recuweb_url": "http://en.recuweb.com/food/nutribob.wordpress.com/2015/02/understand-food-cravings-brain-chemistry-and-body-weight",
             "resource_url": "http://en.search.wordpress.com/?q=food%2Bchemistry%2Bfood%2Bchemistry&f=feed&page=1",
             "source_url": "http://nutribob.wordpress.com/2015/02/16/understand-food-cravings-brain-chemistry-and-body-weight/"
+        },
+        "asu.ifr.ac.uk/2015/02/rapid-authentication-of-raw-meat-new-publication-in-food-chemistry": {
+            "title": "Rapid authentication of raw meat new publication in Food Chemistry...",
+            "snippet": "OPEN ACCESS and available for download now: Authentication of beef versus horse meat using 60 MHz 1H NMR spectroscopy, W. Jakes et al, Food Chemistry, 175, 19, 2015. Fourier Transform Infrared Spectral Library.",
+            "date": "2015-02-04",
+            "author_name": "Kate Kemsley",
+            "categories": "meat,food,food-chemistry,chemistry",
+            "tags": "meat,food,food_chemistry,chemistry",
+            "recuweb_url": "http://en.recuweb.com/chemistry/asu.ifr.ac.uk/2015/02/rapid-authentication-of-raw-meat-new-publication-in-food-chemistry",
+            "resource_url": "http://www.google.com/search?q=food%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://asu.ifr.ac.uk/rapid-authentication-of-raw-meat-new-publication-in-food-chemistry/"
         },
         "compoundchem.com/2015/01/food-chemistry-the-maillard-reaction-compound-interest": {
             "title": "Food Chemistry The Maillard Reaction Compound Interest...",
@@ -104,7 +105,7 @@
             "date": "2015-01-27",
             "author_name": "Compound Interest",
             "categories": "food,food-chemistry,chemistry",
-            "tags": "maillard,reaction,even,chemical,food,food_chemistry,chemistry",
+            "tags": "even,chemical,food,food_chemistry,chemistry",
             "recuweb_url": "http://en.recuweb.com/chemistry/compoundchem.com/2015/01/food-chemistry-the-maillard-reaction-compound-interest",
             "resource_url": "http://www.google.com/search?q=food%2Bchemistry%2Bfood%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://compoundchem.com/2015/01/27/maillardreaction/"
