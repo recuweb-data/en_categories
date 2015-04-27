@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "microblogging",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/microblogging/",
@@ -10,104 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/microblogging/microblogging/blogs.json"
     },
     "items": {
-        "amestrib.com/2015/04/china-seeks-10-million-students-to-civilize-internet-ames-tribune": {
-            "title": "China seeks 10 million students to 'civilize'Internet - Ames Tribune...",
-            "snippet": "China seeks 10 million students to 'civilize'InternetAmes TribuneThe Youth League also posted a series of cartoons Friday on its Weibo microblogging account describing the responsibilities of a young volunteer. One of the slides shows a young man...",
-            "date": "2015-04-12",
-            "categories": "students,internet,microblogging",
-            "tags": "young,million,china,internet,weibo,microblogging",
-            "recuweb_url": "http://en.recuweb.com/microblogging/amestrib.com/2015/04/china-seeks-10-million-students-to-civilize-internet-ames-tribune",
-            "resource_url": "http://news.google.com/?hl=en&q=microblogging&output=atom&nord=1",
-            "source_url": "http://amestrib.com/news/china-seeks-10-million-students-civilize-internet"
+        "oneindia.com/2015/04/twitter-to-translate-user-policies-in-hindi-urdu": {
+            "title": "Twitter to translate user policies in Hindi, Urdu...",
+            "snippet": "New Delhi, Apr 26: Twitter is working on making its user policies available in Indian languages like Hindi and Urdu to increase 'informed'usage of the microblogging site across non-English speaking population in the country. The user policies, which...",
+            "date": "2015-04-26",
+            "categories": "twitter,languages,microblogging",
+            "tags": "user,user-policies,policies,across,across-non,non,usage,increase,working,working-on-making,making,making-its-user,user-policies-available,policies-available,available,delhi,translate,translate-user,translate-user-policies,twitter,hindi,urdu,indian,languages,informed,microblogging,site,english",
+            "recuweb_url": "http://en.recuweb.com/microblogging/oneindia.com/2015/04/twitter-to-translate-user-policies-in-hindi-urdu",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=us",
+            "source_url": "http://oneindia.com/international/twitter-to-translate-user-policies-in-hindi-urudu-1728252.html"
         },
-        "economictimes.indiatimes.com/2015/04/farhan-akhtar-crosses-5-million-follower-mark-on-twitter-economic-times": {
-            "title": "Farhan Akhtar crosses 5 million follower mark on twitter - Economic Times...",
-            "snippet": "The Indian ExpressFarhan Akhtar crosses 5 million follower mark on twitterEconomic TimesMUMBAI: Bollywood actor-director-singer Farhan Akhtar has reached a new milestone on micro-blogging site Twitter with five million followers. Farhan, 41, who...",
-            "date": "2015-04-12",
+        "economictimes.indiatimes.com/2015/04/twitter-to-translate-user-policies-in-hindi-urdu-economic-times": {
+            "title": "Twitter to translate user policies in Hindi, Urdu - Economic Times...",
+            "snippet": "Twitter to translate user policies in Hindi, UrduEconomic TimesNEW DELHI: Twitter is working on making its user policies available in Indian languages like Hindi and Urdu to increase 'informed'usage of the microblogging site across non-English...",
+            "date": "2015-04-26",
+            "categories": "twitter,languages,microblogging",
+            "tags": "across,across-non,non,usage,increase,working,working-on-making,making,making-its-user,user,user-policies,user-policies-available,policies,policies-available,available,delhi,translate,translate-user,translate-user-policies,twitter,hindi,urdu,indian,languages,informed,microblogging,site,english",
+            "recuweb_url": "http://en.recuweb.com/microblogging/economictimes.indiatimes.com/2015/04/twitter-to-translate-user-policies-in-hindi-urdu-economic-times",
+            "resource_url": "http://news.google.com/?hl=en&q=microblogging&output=atom&nord=1",
+            "source_url": "http://economictimes.indiatimes.com/tech/internet/twitter-to-translate-user-policies-in-hindi-urdu/articleshow/47057189.cms"
+        },
+        "news.asiaone.com/2015/04/chinese-internet-sensation-zhu-roumeng-and-her-pet-pig": {
+            "title": "Chinese internet sensation Zhu Roumeng and her pet pig...",
+            "snippet": "Ms Zhu Roumeng of Beijing and her pet pig Wuhua recently became an internet sensation after she posted selfies of themsleves on China's microblogging sites. Her surname 'Zhu'sounds exactly like the Mandarin word for 'pig', as such it became the...",
+            "date": "2015-04-25",
+            "categories": "internet,microblogging",
+            "tags": "recently,internet,microblogging",
+            "recuweb_url": "http://en.recuweb.com/microblogging/news.asiaone.com/2015/04/chinese-internet-sensation-zhu-roumeng-and-her-pet-pig",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=us",
+            "source_url": "http://news.asiaone.com/news/asia/chinese-internet-sensation-zhu-roumeng-and-her-pet-pig"
+        },
+        "thetechportal.in/2015/04/hackers-take-temporary-control-over-teslas-website-elon-musks-twitter-account": {
+            "title": "Hackers Take Temporary Control Over Teslas Website, Elon Musks Twitter Account...",
+            "snippet": "While Teslas website hack is obviously a security leak on Teslas part, the hacking of Twitter accounts continues to highlight major security flaw in Microblogging websites security infrastructure. It isnt the first time that the account of a...",
+            "date": "2015-04-25",
+            "categories": "hacking,twitter,microblogging",
+            "tags": "websites,continues,twitter,microblogging",
+            "recuweb_url": "http://en.recuweb.com/microblogging/thetechportal.in/2015/04/hackers-take-temporary-control-over-teslas-website-elon-musks-twitter-account",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=us",
+            "source_url": "http://thetechportal.in/2015/04/26/hackers-take-temporary-control-over-teslas-website-elon-musks-twitter-account/"
+        },
+        "business-standard.com/2015/04/srk-impressed-by-kal-ho-naa-song-remake-business-standard": {
+            "title": "SRK impressed by 'Kal ho naa ho'song remake - Business Standard...",
+            "snippet": "SRK impressed by 'Kal ho naa ho'song remakeBusiness StandardThe actor took to micro-blogging site Twitter to express his views over the song. \"karanjohar: iamsrk you have to see this!!! KalHoNaaHo eternalsong\" Drat! They remade it already! Awesome...",
+            "date": "2015-04-25",
+            "categories": "business,twitter",
+            "tags": "micro,blogging,site,twitter",
+            "recuweb_url": "http://en.recuweb.com/twitter/business-standard.com/2015/04/srk-impressed-by-kal-ho-naa-song-remake-business-standard",
+            "resource_url": "http://news.google.com/?hl=en&q=microblogging%2Bmicroblogging&output=atom&nord=1",
+            "source_url": "http://business-standard.com/article/news-ians/srk-impressed-by-kal-ho-naa-ho-song-remake-115042500393_1.html"
+        },
+        "themalaymailonline.com/2015/04/software-developers-predict-app-rush-following-apple-watch-launch": {
+            "title": "Software developers predict app rush following Apple Watch launch...",
+            "snippet": "Ride-hailing service Uber had an app, as did sports network ESPN, microblogging platform Twitter, photo sharing service Instagram, tune-identifier Shazam and the Outlook email app from Microsoft Corp. Notable absences included social network...",
+            "date": "2015-04-25",
+            "categories": "sport,microblogging,twitter",
+            "tags": "app,photo,photo-sharing,sharing,did,did-sports,sports,developers,software,apple,hailing,service,uber,network,espn,microblogging,platform,twitter,instagram,tune,identifier,social",
+            "recuweb_url": "http://en.recuweb.com/twitter/themalaymailonline.com/2015/04/software-developers-predict-app-rush-following-apple-watch-launch",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=us",
+            "source_url": "http://themalaymailonline.com/tech-gadgets/article/software-developers-predict-app-rush-following-apple-watch-launch"
+        },
+        "smh.com.au/2015/04/software-developers-try-on-apple-watch-see-more-apps-coming-sydney": {
+            "title": "Software developers try on Apple watch, see more apps coming - Sydney Morning Herald...",
+            "snippet": "Sydney Morning HeraldSoftware developers try on Apple watch, see more apps comingSydney Morning HeraldRide-hailing service Uber had an app, as did sports network ESPN, microblogging platform Twitter, photo sharing service Instagram, tune-identifier...",
+            "date": "2015-04-25",
+            "categories": "sport,microblogging,twitter",
+            "tags": "photo,photo-sharing,sharing,did,did-sports,sports,app,developers,software,apple,hailing,service,uber,network,espn,microblogging,platform,twitter,instagram,tune,identifier",
+            "recuweb_url": "http://en.recuweb.com/twitter/smh.com.au/2015/04/software-developers-try-on-apple-watch-see-more-apps-coming-sydney",
+            "resource_url": "http://news.google.com/?hl=en&q=microblogging&output=atom&nord=1",
+            "source_url": "http://smh.com.au/digital-life/wearables/software-developers-try-on-apple-watch-see-more-apps-coming-20150425-1mt1br.html"
+        },
+        "albawaba.com/2015/04/tweet-this-twitter-introduces-highlights-instead-of-hashtags": {
+            "title": "Tweet this: Twitter introduces highlights instead of hashtags...",
+            "snippet": "Called Highlights, the feature rolled out very recently by the microblogging site is aimed at helping users sift through the large number of tweets on their feed each day. The service provides a twice-daily summary of the best tweets for you...",
+            "date": "2015-04-25",
+            "categories": "twitter,microblogging",
+            "tags": "daily,daily-summary,summary,tweets,each,day,feature,recently,highlights,instead,twitter,microblogging,site,users,service",
+            "recuweb_url": "http://en.recuweb.com/microblogging/albawaba.com/2015/04/tweet-this-twitter-introduces-highlights-instead-of-hashtags",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=us",
+            "source_url": "http://albawaba.com/business/tweet-twitter-introduces-highlights-instead-hashtags-686474"
+        },
+        "sierraleonetimes.com/2015/04/no-reality-shows-please-says-shekhar-kapur-sierra-leone-times": {
+            "title": "No reality shows please, says Shekhar Kapur - Sierra Leone Times...",
+            "snippet": "No reality shows please, says Shekhar KapurSierra Leone TimesAsked by a Twitter user on the micro-blogging site as to why Shekhar is not judging any reality show after \"India's Got Talent\" (2009), he replied: \"I don't feel good about judging others,...",
+            "date": "2015-04-24",
             "categories": "twitter",
-            "tags": "million,micro,mark,akhtar,twitter,farhan,farhan_akhtar,crosses,bollywood,actor,singer,blogging,site",
-            "recuweb_url": "http://en.recuweb.com/twitter/economictimes.indiatimes.com/2015/04/farhan-akhtar-crosses-5-million-follower-mark-on-twitter-economic-times",
-            "resource_url": "http://news.google.com/?hl=en&q=microblogging&output=atom&nord=1",
-            "source_url": "http://economictimes.indiatimes.com/magazines/panache/farhan-akhtar-crosses-5-million-follower-mark-on-twitter/articleshow/46895607.cms"
+            "tags": "india,user,micro,twitter,blogging,site",
+            "recuweb_url": "http://en.recuweb.com/twitter/sierraleonetimes.com/2015/04/no-reality-shows-please-says-shekhar-kapur-sierra-leone-times",
+            "resource_url": "http://news.google.com/?hl=en&q=microblogging%2Bmicroblogging&output=atom&nord=1",
+            "source_url": "http://sierraleonetimes.com/index.php/sid/232250307"
         },
-        "bollywoodmantra.com/2015/04/farhan-akhtar-crosses-5-million-followers-on-twitter": {
-            "title": "Farhan Akhtar crosses 5 million followers on Twitter...",
-            "snippet": "Bollywoods multi-talented actor Farhan Akhtar is ecstatic as he crossed five-million mark on the microblogging site, Twitter. 5 million today. Big hug to all and a warm welcome to those who recently be-friended my account. twitterpetohbantahai,...",
-            "date": "2015-04-12",
+        "siliconbeat.com/2015/04/twitter-rolls-out-feature-that-delivers-a-daily-summary-of-tweets": {
+            "title": "Twitter rolls out feature that delivers a daily summary of tweets...",
+            "snippet": "The feature, dubbed Highlights, aims to make it easier to browse through the microblogging websites stream of tweets. To compile this summary, the company uses data about its users such as tweets from people they follow, trending topics in their...",
+            "date": "2015-04-24",
             "categories": "twitter,microblogging",
-            "tags": "million,mark,actor,farhan,farhan_akhtar,akhtar,crosses,twitter,microblogging,site",
-            "recuweb_url": "http://en.recuweb.com/microblogging/bollywoodmantra.com/2015/04/farhan-akhtar-crosses-5-million-followers-on-twitter",
+            "tags": "tweets,summary,websites,feature,daily,daily-summary,twitter,highlights,microblogging,users,people",
+            "recuweb_url": "http://en.recuweb.com/microblogging/siliconbeat.com/2015/04/twitter-rolls-out-feature-that-delivers-a-daily-summary-of-tweets",
             "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=us",
-            "source_url": "http://bollywoodmantra.com/news/farhan-akhtar-crosses-5-million-flowers-on-twitter/17387/"
-        },
-        "zeenews.india.com/2015/04/juhi-chawla-shabana-azmi-divya-dutta-start-shooting-chalk-and-duster": {
-            "title": "Juhi Chawla, Shabana Azmi, Divya Dutta start shooting 'Chalk and Duster'...",
-            "snippet": "Divya shared about the movie on the microblogging site, Twitter: Begin my new film, chalk n duster, wth my very dear AzmiShabana n iam_juhi!! N a super team of amazing talents. Wsh us luck:))) Divya Dutta (divyadutta25) April 12, 2015 Dutta also...",
-            "date": "2015-04-12",
-            "categories": "microblogging,twitter",
-            "tags": "microblogging,site,twitter",
-            "recuweb_url": "http://en.recuweb.com/twitter/zeenews.india.com/2015/04/juhi-chawla-shabana-azmi-divya-dutta-start-shooting-chalk-and-duster",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=us",
-            "source_url": "http://zeenews.india.com/entertainment/movies/juhi-chawla-shabana-azmi-divya-dutta-start-shooting-chalk-and-duster_1577671.html"
-        },
-        "chinadaily.com.cn/2015/04/surgery-swords-and-fire": {
-            "title": "Surgery, swords, and fire...",
-            "snippet": "Photos of a young woman posted on her account on Sina Weibo, a popular twitter-like microblogging site in China have drawn the attention of Chinese netizens. Teen's love for plastic surgery captivates nation A 15-year-old girl surnamed Li from...",
-            "date": "2015-04-12",
-            "categories": "love,surgery,twitter,microblogging",
-            "tags": "love,twitter,sina,weibo,young,photos,microblogging,site,china",
-            "recuweb_url": "http://en.recuweb.com/microblogging/chinadaily.com.cn/2015/04/surgery-swords-and-fire",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=us",
-            "source_url": "http://chinadaily.com.cn/trending/2015-04/12/content_20413619.htm"
-        },
-        "delhidailynews.com/2015/04/twitter-updates-live-video-streaming-app-periscope": {
-            "title": "Twitter updates live video streaming app Periscope...",
-            "snippet": "Microblogging website Twitter launched a live streaming video application named as Periscope last month especially for iOS. A week after the release, Periscope comes with a new update that enriched with several new features. The periscope is now...",
-            "date": "2015-04-12",
-            "categories": "twitter,microblogging",
-            "tags": "features,app,twitter,microblogging,website",
-            "recuweb_url": "http://en.recuweb.com/microblogging/delhidailynews.com/2015/04/twitter-updates-live-video-streaming-app-periscope",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=us",
-            "source_url": "http://delhidailynews.com/news/Twitter-updates-live-video-streaming-app-Periscope-1428853627/"
-        },
-        "themalaymailonline.com/2015/04/unlike-sst-gst-more-cheat-proof-ahmad-maslan-says": {
-            "title": "Unlike SST, GST more cheat-proof, Ahmad Maslan says...",
-            "snippet": "The Umno leader, in making Putrajayas case for the Goods and Services Tax (GST) on the microblogging site, said the newly-introduced tax system puts a stop to this as businesses are now required to state in every receipt how much in tax a consumer...",
-            "date": "2015-04-12",
-            "categories": "business,microblogging",
-            "tags": "stop,said,services,says,microblogging,site",
-            "recuweb_url": "http://en.recuweb.com/microblogging/themalaymailonline.com/2015/04/unlike-sst-gst-more-cheat-proof-ahmad-maslan-says",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=us",
-            "source_url": "http://themalaymailonline.com/malaysia/article/unlike-sst-gst-more-cheat-proof-ahmad-maslan-says"
-        },
-        "economictimes.indiatimes.com/2015/04/china-threatens-to-close-down-its-largest-microblogging-site-over-censorship": {
-            "title": "China threatens to close down its largest microblogging site over censorship row...",
-            "snippet": "ET SPECIAL:Love visual aspect of news? Enjoy this exclusive slideshows treat! BEIJING: China has threatened to close down the internet news services of Sina Corp, that also owns the country's biggest microblogging site, if it fails to improve...",
-            "date": "2015-04-11",
-            "categories": "internet,microblogging,love",
-            "tags": "sina,internet,services,exclusive,censorship,china,microblogging,site,love",
-            "recuweb_url": "http://en.recuweb.com/love/economictimes.indiatimes.com/2015/04/china-threatens-to-close-down-its-largest-microblogging-site-over-censorship",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=us",
-            "source_url": "http://economictimes.indiatimes.com/news/international/world-news/china-threatens-to-close-down-its-largest-microblogging-site-over-censorship-row/articleshow/46886813.cms"
-        },
-        "clarionledger.com/2015/04/mom-zone-keeping-up-with-apps-jackson-clarion-ledger": {
-            "title": "Mom Zone: Keeping up with apps - Jackson Clarion Ledger...",
-            "snippet": "Jackson Clarion LedgerMom Zone: Keeping up with appsJackson Clarion LedgerMicroblogging. Instagram: Instagram users snap, edit, and share photos and 15-second videos, and they can apply filters and effects to photos. Public is the default, though,...",
-            "date": "2015-04-11",
-            "tags": "photos,share,mom,users",
-            "recuweb_url": "http://en.recuweb.com/clarionledger.com/2015/04/mom-zone-keeping-up-with-apps-jackson-clarion-ledger",
-            "resource_url": "http://news.google.com/?hl=en&q=microblogging&output=atom&nord=1",
-            "source_url": "http://clarionledger.com/story/life/2015/04/07/mom-zone-keeping-apps/25425331/"
-        },
-        "yourhealth.asiaone.com/2015/04/singer-taylor-swift-says-mother-has-cancer-urges-screening": {
-            "title": "Singer Taylor Swift says mother has cancer, urges screening...",
-            "snippet": "The Shake It Off singer said in a post on the microblogging site Tumblr that her mother was feeling fine, but she and her brother asked her to go for a check-up. The results came in and I'm saddened to tell you that my mom has been diagnosed with...",
-            "date": "2015-04-10",
-            "categories": "cancer,microblogging,tumblr",
-            "tags": "mom,singer,said,says,microblogging,site",
-            "recuweb_url": "http://en.recuweb.com/tumblr/yourhealth.asiaone.com/2015/04/singer-taylor-swift-says-mother-has-cancer-urges-screening",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=us",
-            "source_url": "http://yourhealth.asiaone.com/content/singer-taylor-swift-says-mother-has-cancer-urges-screening"
+            "source_url": "http://siliconbeat.com/2015/04/23/twitter-rolls-out-feature-that-delivers-a-daily-summary-of-tweets/"
         }
     }
 }
