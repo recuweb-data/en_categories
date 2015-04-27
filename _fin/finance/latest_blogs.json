@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "finance",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/finance/",
@@ -10,114 +11,112 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/finance/finance/blogs.json"
     },
     "items": {
-        "columbian.com/2015/04/finance-officials-see-rising-risks-to-economic-recovery": {
-            "title": "Finance officials see rising risks to economic recovery The...",
-            "snippet": "WASHINGTON World finance officials said Saturday they see a number of threats on the horizon for a global economy still clawing back from the deepest recession in seven decades, and a potential Greek debt default...",
-            "date": "2015-04-18",
-            "author_name": "MARTIN CRUTSINGER and HARRY DUNPHY, Associated Press",
+        "forex.5ver.net/2015/04/personal-finance-stress": {
+            "title": "Personal Finance, Finance Stress Personal Finance...",
+            "snippet": "Created By World Renowned Hypnotherapist Steve G. Jones, Finance Stress Is Designed To Help You Overcome Your Financial Stress By Systematically Changing The Way You Relate To Money.",
+            "date": "2015-04-27",
+            "categories": "finance,personal-finance",
+            "tags": "finance,financial,money,personal",
+            "recuweb_url": "http://en.recuweb.com/personal-finance/forex.5ver.net/2015/04/personal-finance-stress",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=finance%2Bfinance&rss=1&lng=en",
+            "source_url": "http://forex.5ver.net/personal-finance/12459-personal-finance-finance-stress.html"
+        },
+        "businessinsider.com/2015/04/greece-s-finance-minister-channels-fdr-i-welcome-their-hatred": {
+            "title": "Greece's finance minister channels FDR: 'I welcome their hatred...",
+            "snippet": "Minister of Finance of Greece Yanis Varoufakis REUTERS/Ints KalninsGreek Minister of Finance Yanis Varoufakis attends Eurogroup tour-de-table during informal meeting of Ministers for Economic and Financial Affairs...",
+            "date": "2015-04-26",
+            "author_name": "Michael B Kelley",
+            "categories": "finance",
+            "tags": "financial,during,yanis,varoufakis,reuters,greece,finance,ministers,eurogroup,meeting,economic",
+            "recuweb_url": "http://en.recuweb.com/finance/businessinsider.com/2015/04/greece-s-finance-minister-channels-fdr-i-welcome-their-hatred",
+            "resource_url": "http://www.google.com/search?q=finance%2Bfinance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://businessinsider.com/greeces-finance-minister-channels-fdr-i-welcome-their-hatred-2015-4"
+        },
+        "businessinsider.com/2015/04/hsbc-considering-spinning-off-british-retail-bank-sunday-times": {
+            "title": "HSBC considering spinning off British retail bank: Sunday Times...",
+            "snippet": "HSBC has ordered a review into whether it should move its headquarters out of Britain and potentially back to its former home in Hong Kong, threatening London's reputation as a global hub for finance and investment.",
+            "date": "2015-04-26",
+            "author_name": "unknown",
+            "categories": "home,finance",
+            "tags": "investment,former,home,retail,considering,britain,finance",
+            "recuweb_url": "http://en.recuweb.com/finance/businessinsider.com/2015/04/hsbc-considering-spinning-off-british-retail-bank-sunday-times",
+            "resource_url": "http://www.google.com/search?q=finance%2Bfinance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://businessinsider.com/r-hsbc-considering-spinning-off-british-retail-bank-sunday-times-2015-4"
+        },
+        "businessinsider.com/2015/04/if-greece-goes-down-no-one-wants-their-prints-on": {
+            "title": "If Greece goes down, no one wants their prints on the murder...",
+            "snippet": "Tsipras and outspoken Finance Minister Yanis Varoufakis tried at first to mount a coalition against Berlin, touring France, Italy, Britain, Brussels and media studios after their election. They found no allies outside the media.",
+            "date": "2015-04-26",
+            "author_name": "By Paul Taylor",
+            "categories": "finance",
+            "tags": "finance,finance_minister,finance_minister_yanis,minister,minister_yanis,minister_yanis_varoufakis,yanis,yanis_varoufakis,varoufakis,greece,tsipras,britain",
+            "recuweb_url": "http://en.recuweb.com/finance/businessinsider.com/2015/04/if-greece-goes-down-no-one-wants-their-prints-on",
+            "resource_url": "http://www.google.com/search?q=finance%2Bfinance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://businessinsider.com/r-if-greece-falls-no-one-wants-their-prints-on-the-murder-weapon-2015-4"
+        },
+        "blogs.wsj.com/2015/04/clinton-foundation-draws-fire-from-campaign-finance-watchdogs": {
+            "title": "Clinton Foundation Draws Fire From Campaign-Finance Watchdogs...",
+            "snippet": "Campaign-finance watchdogs on Friday called for the Clinton Foundation to change its policies in the wake of new revelations about donations to the Clinton Foundation around the time that Hillary Clinton was secretary of...",
+            "date": "2015-04-24",
+            "author_name": "Rebecca Ballhaus",
+            "categories": "finance",
+            "tags": "finance,friday",
+            "recuweb_url": "http://en.recuweb.com/finance/blogs.wsj.com/2015/04/clinton-foundation-draws-fire-from-campaign-finance-watchdogs",
+            "resource_url": "http://www.google.com/search?q=finance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.wsj.com/washwire/2015/04/24/clinton-foundation-draws-fire-from-campaign-finance-watchdogs/"
+        },
+        "theguardian.com/2015/04/eurozone-ministers-hammer-greece-over-slow-progress": {
+            "title": "Eurozone ministers 'hammer Greece'over slow progress - as it...",
+            "snippet": "Greek finance minister reportedly told he is a time-waster, a gambler and an amateur at a highly critical meeting in Riga.",
+            "date": "2015-04-24",
+            "author_name": "Graeme Wearden",
+            "categories": "finance",
+            "tags": "eurozone,ministers,minister,greece,greek,finance,meeting",
+            "recuweb_url": "http://en.recuweb.com/finance/theguardian.com/2015/04/eurozone-ministers-hammer-greece-over-slow-progress",
+            "resource_url": "http://www.google.com/search?q=finance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theguardian.com/business/live/2015/apr/24/eurozone-finance-ministers-hold-greek-debt-talks-live-updates"
+        },
+        "businessinsider.com/2015/04/greek-finance-minister-yanis-varoufakis-accused-of-being-a-time": {
+            "title": "Greek finance minister Yanis Varoufakis accused of being 'a time...",
+            "snippet": "The comments, reported by Bloomberg, show just how wide the divide between European finance ministers remains as negotiations over providing then next tranche of bailout funds to the cash-strapped Greek government...",
+            "date": "2015-04-24",
+            "author_name": "Tomas Hirst",
+            "categories": "finance",
+            "tags": "ministers,minister,yanis,yanis_varoufakis,varoufakis,greek,finance,government",
+            "recuweb_url": "http://en.recuweb.com/finance/businessinsider.com/2015/04/greek-finance-minister-yanis-varoufakis-accused-of-being-a-time",
+            "resource_url": "http://www.google.com/search?q=finance%2Bfinance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://businessinsider.com/greek-finance-minister-yanis-varoufakis-accused-of-being-a-time-waster-a-gambler-and-an-amateur-at-eurogroup-meeting-2015-4"
+        },
+        "appliedcreativeevolution.com/2015/04/can-you-make-millions-in-property-development": {
+            "title": "Can you Make Millions in Property Development?",
+            "snippet": "In the highly specialised market of property development you can make millions of dollars with a few well planned projects, properly financed and built on time and to budget. The problem is, as most developers have experienced, all projects dont...",
+            "date": "2015-04-23",
+            "author_name": "admin",
+            "categories": "property",
+            "tags": "market,well",
+            "recuweb_url": "http://en.recuweb.com/property/appliedcreativeevolution.com/2015/04/can-you-make-millions-in-property-development",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=finance%2Bfinance&rss=1&lng=en",
+            "source_url": "http://appliedcreativeevolution.com/self-improvement/can-you-make-millions-in-property-development"
+        },
+        "reddit.com/2015/01/greece-s-new-finance-minister-yanis-varoufakis-is-valve-former-steam": {
+            "title": "Greece's new finance minister Yanis Varoufakis is Valve's former Steam Market economist...",
+            "snippet": "The fate of the Eurozone economy could well be in the hands of a man who once monitored the sales of virtual goods via micro-transactions in Dota 2 and Counter-Strike submitted by DJDB to Steam link 98 comments...",
+            "date": "2015-01-27",
             "categories": "economy,finance",
-            "tags": "debt,officials,said,world,risks,economic,finance,back",
-            "recuweb_url": "http://en.recuweb.com/finance/columbian.com/2015/04/finance-officials-see-rising-risks-to-economic-recovery",
-            "resource_url": "http://www.google.com/search?q=finance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://columbian.com/news/2015/apr/18/finance-officials-see-rising-risks-economic-recove/"
+            "tags": "economy,well,man,market,former,yanis,yanis_varoufakis,varoufakis,greece,finance,minister,valve,eurozone",
+            "recuweb_url": "http://en.recuweb.com/finance/reddit.com/2015/01/greece-s-new-finance-minister-yanis-varoufakis-is-valve-former-steam",
+            "resource_url": "http://www.reddit.com/search.rss?q=finance%2Bfinance&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/Steam/comments/2tuq8e/greeces_new_finance_minister_yanis_varoufakis_is/"
         },
-        "businessinsider.com/2015/04/antitrust-lawyers-against-comcast-time-warner-deal-bloomberg": {
-            "title": "Antitrust lawyers against Comcast-Time Warner deal: Bloomberg...",
-            "snippet": "More \"Tech\" military family USAA 11 tax breaks available only to military families More \"Money IQ\" woman poolside These are the best credit cards with the longest 0% APR period More \"Personal Finance\"...",
-            "date": "2015-04-17",
-            "author_name": "unknown",
-            "categories": "personal-finance,finance,credit,credit-cards",
-            "tags": "personal,personal-finance,finance,best,best-credit,best-credit-cards,credit,credit-cards,cards,longest,money,money-iq-woman,woman,woman-poolside,poolside,tax,tax-breaks,tax-breaks-available,breaks,breaks-available,breaks-available-only,available,available-only,only,only-to-military,military,military-families,families,tech,tech-military,tech-military-family,military-family,family,usaa,apr,period",
-            "recuweb_url": "http://en.recuweb.com/credit-cards/businessinsider.com/2015/04/antitrust-lawyers-against-comcast-time-warner-deal-bloomberg",
-            "resource_url": "http://www.google.com/search?q=finance%2Bfinance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://businessinsider.com/r-antitrust-lawyers-against-comcast-time-warner-deal-bloomberg-2015-4"
-        },
-        "americanlegionpost229.org/2015/04/april-2015-meeting-minutes": {
-            "title": "April 2015 Meeting Minutes...",
-            "snippet": "Members present were Commander Carlos Woods, First Vice-Commander Monica Dumont, Adjutant Douglas Pruett, Finance Officer Allison McGrath, Chaplain Rickey Spears, Past Commander Hollis Bridges, Legionnaires Edward Durst, Scott Fairchild, Claudette...",
-            "date": "2015-04-17",
-            "author_name": "neverdull",
+        "reddit.com/2014/11/humorous-post-things-you-have-heard-non-personal-finance-savvy-people": {
+            "title": "Humorous Post - Things you have heard non-personal finance savvy people say...",
+            "snippet": "I hear a lot of false ideas when discussing personal finance with co-workers. Feel free to share things you have heard and include a short explanation of the flawed logic if necessary. Maybe you will see one of your thoughts on here and learn...",
+            "date": "2014-11-11",
             "categories": "finance",
-            "tags": "finance,officer,first,vice,meeting,minutes",
-            "recuweb_url": "http://en.recuweb.com/finance/americanlegionpost229.org/2015/04/april-2015-meeting-minutes",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=finance%2Bfinance&rss=1&lng=en",
-            "source_url": "http://americanlegionpost229.org/2015/04/april-2015-meeting-minutes.html"
-        },
-        "business.financialpost.com/2015/04/can-this-single-income-family-get-into-vancouver-s-financial": {
-            "title": "Can this single-income family get into Vancouver's... - Financial Post...",
-            "snippet": "Family Finance asked Graeme Egan, a financial planner and portfolio manager with KCM Wealth Management Inc. in Vancouver, to work with Jon and Frances. They are to be commended for being able to live on one salary...",
-            "date": "2015-04-17",
-            "author_name": "Andrew Allentuck",
-            "categories": "salary,wealth-management,management,finance",
-            "tags": "work,family,finance,into,financial,live",
-            "recuweb_url": "http://en.recuweb.com/finance/business.financialpost.com/2015/04/can-this-single-income-family-get-into-vancouver-s-financial",
-            "resource_url": "http://www.google.com/search?q=finance%2Bfinance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://business.financialpost.com/personal-finance/family-finance/allentuck-saturday-april-18"
-        },
-        "businessinsider.com/2015/04/ford-to-spend-2-5-billion-on-new-mexico-engine-transmission": {
-            "title": "Ford to spend 2.5 billion on new Mexico engine, transmission...",
-            "snippet": "More \"Tech\" military family USAA 11 tax breaks available only to military families More \"Money IQ\" woman poolside These are the best credit cards with the longest 0% APR period More \"Personal Finance\"...",
-            "date": "2015-04-17",
-            "author_name": "unknown",
-            "categories": "personal-finance,finance,credit,credit-cards",
-            "tags": "personal,personal-finance,finance,best,best-credit,best-credit-cards,credit,credit-cards,cards,longest,money,money-iq-woman,woman,woman-poolside,poolside,tax,tax-breaks,tax-breaks-available,breaks,breaks-available,breaks-available-only,available,available-only,only,only-to-military,military,military-families,families,tech,tech-military,tech-military-family,military-family,family,billion,usaa,apr,period",
-            "recuweb_url": "http://en.recuweb.com/credit-cards/businessinsider.com/2015/04/ford-to-spend-2-5-billion-on-new-mexico-engine-transmission",
-            "resource_url": "http://www.google.com/search?q=finance%2Bfinance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://businessinsider.com/r-ford-to-spend-25-billion-on-new-mexico-engine-transmission-operations-2015-4"
-        },
-        "businessinsider.com/2015/04/g20-strikes-hopeful-tone-but-officials-fret-over-greece-business": {
-            "title": "G20 strikes hopeful tone, but officials fret over Greece - Business...",
-            "snippet": "In a draft of a communique to be released later in the day, G20 finance ministers and central bankers welcomed brighter economic signs in rich economies, but lamented over weakness in some emerging nations. \"Risks to the...",
-            "date": "2015-04-17",
-            "author_name": "By Jan Strupczewski and Randall Palmer",
-            "categories": "business,finance",
-            "tags": "risks,economic,day,officials,business,finance",
-            "recuweb_url": "http://en.recuweb.com/finance/businessinsider.com/2015/04/g20-strikes-hopeful-tone-but-officials-fret-over-greece-business",
-            "resource_url": "http://www.google.com/search?q=finance%2Bfinance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://businessinsider.com/r-g20-strikes-hopeful-tone-but-officials-fret-over-greece-2015-4"
-        },
-        "observer.com/2015/04/rent-guidelines-board-chairwoman-proposes-tax-plan-to-finance": {
-            "title": "Rent Guidelines Board Chairwoman Proposes Tax Plan to Finance...",
-            "snippet": "Rachel Godsilwhom Mayor Bill de Blasio appointed chairwoman of the Rent Guidelines Boardtoday proposed the city finance affordable housing through a novel neighborhood-based tax plan. Speaking at a panel...",
-            "date": "2015-04-17",
-            "author_name": "Will Bredderman",
-            "categories": "housing,finance",
-            "tags": "panel,tax,bill,board,finance,proposed",
-            "recuweb_url": "http://en.recuweb.com/finance/observer.com/2015/04/rent-guidelines-board-chairwoman-proposes-tax-plan-to-finance",
-            "resource_url": "http://www.google.com/search?q=finance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://observer.com/2015/04/rent-guidelines-board-chairwoman-proposes-tax-plan-to-finance-affordable-housing/"
-        },
-        "businessinsider.com/2015/04/vix-up-10-percent-business-insider": {
-            "title": "Vix up 10 percent - Business Insider...",
-            "snippet": "... sentiment index rose to 95.9 this month, beating expectations for 94. So, a wild day in markets, which has seen the return of volatility to markets. Here's the chart. Screen Shot 2015 04 17 at AM Google Finance...",
-            "date": "2015-04-17",
-            "author_name": "Akin Oyedele",
-            "categories": "google,finance,markets,business",
-            "tags": "finance,day,business,here",
-            "recuweb_url": "http://en.recuweb.com/business/businessinsider.com/2015/04/vix-up-10-percent-business-insider",
-            "resource_url": "http://www.google.com/search?q=finance&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://businessinsider.com/vix-up-10-percent-2015-4"
-        },
-        "forex.5ver.net/2015/04/jungle-forex-af-finance": {
-            "title": "Jungle Forex Af, Finance Finance...",
-            "snippet": "You need the Jungle Trader, because The Market Is A Jungle. Jungle Jim from Jungle Jim's Trading Post is offering a Trial of his famous Jungle FOREX Program. The Jungle FOREX AF is one of the most advanced FOREX analytical tools on the market today.",
-            "date": "2015-04-15",
-            "categories": "finance",
-            "tags": "finance,trial",
-            "recuweb_url": "http://en.recuweb.com/finance/forex.5ver.net/2015/04/jungle-forex-af-finance",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=finance%2Bfinance&rss=1&lng=en",
-            "source_url": "http://forex.5ver.net/tips/314-finance/29407-jungle-forex-af-finance.html"
-        },
-        "thestudentroom.co.uk/2015/04/msc-finance-and-economics-what-are-my-chances": {
-            "title": "Msc Finance/Msc Finance and Economics - what are my chances?",
-            "snippet": "Thread Starter Msc Finance/Msc Finance and Economics - what are my chances? Follow 50 minutes ago 50m ago Hi guys, I am currently considering whether to do postgradute studies and am interested in Oxford (Msc Financial Economics), LSE (Msc...",
-            "date": "2015-04-14",
-            "author_name": "HiMark",
-            "categories": "finance",
-            "tags": "considering,minutes,finance,financial",
-            "recuweb_url": "http://en.recuweb.com/finance/thestudentroom.co.uk/2015/04/msc-finance-and-economics-what-are-my-chances",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=finance%2Bfinance&rss=1&lng=en",
-            "source_url": "http://thestudentroom.co.uk/showthread.php?t=3259499&goto=newpost"
+            "tags": "personal,non,finance,learn",
+            "recuweb_url": "http://en.recuweb.com/finance/reddit.com/2014/11/humorous-post-things-you-have-heard-non-personal-finance-savvy-people",
+            "resource_url": "http://www.reddit.com/search.rss?q=finance%2Bfinance&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/personalfinance/comments/2lyrwh/humorous_post_things_you_have_heard_nonpersonal/"
         }
     }
 }
