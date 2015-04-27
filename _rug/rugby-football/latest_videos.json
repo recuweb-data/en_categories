@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "rugby-football",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/rugby-football/",
@@ -10,17 +11,53 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/rugby-football/rugby-football/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/04/rugby-vs-american-football": {
-            "title": "Rugby Vs American Football...",
-            "snippet": "Rugby Vs American FootballAuthor: JulianTolliverTags: Rugby Vs American Football Posted: 21 April 2015Rating:: 0...",
-            "date": "2015-04-21",
-            "author_name": "JulianTolliver",
-            "categories": "rugby,american-football,football",
-            "tags": "rugby,american,american_football,football",
-            "recuweb_url": "http://en.recuweb.com/football/dailymotion.com/2015/04/rugby-vs-american-football",
+        "dailymotion.com/2015/04/england-football-&-rugby-stars-take-on-the-crossbar-challenge-st": {
+            "title": "England Football & Rugby & Stars Take On The Crossbar Challenge On St George's Day...",
+            "snippet": "Author: enteritamentTags: England national rugby union team England national football team Carnegie Challenge Cup challenge Posted: 24 April 2015Rating:: 0...",
+            "date": "2015-04-24",
+            "author_name": "enteritament",
+            "categories": "football,rugby,stars",
+            "tags": "challenge,national,football,team,rugby,stars,george,england,day",
+            "recuweb_url": "http://en.recuweb.com/stars/dailymotion.com/2015/04/england-football-&-rugby-stars-take-on-the-crossbar-challenge-st",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/rugby+football/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2nf7h4_rugby-vs-american-football_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nf7h4_rugby-vs-american-football_news"
+            "source_url": "http://dailymotion.com/video/x2ntfq6_england-football-rugby-stars-take-on-the-crossbar-challenge-on-st-george-s-day_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ntfq6_england-football-rugby-stars-take-on-the-crossbar-challenge-on-st-george-s-day_sport"
+        },
+        "dailymotion.com/2015/04/football-rugby-in-france-2013-toulon-marseille-1st-half": {
+            "title": "Football-Rugby in France 2013 Toulon Marseille 1st half...",
+            "snippet": "Football-Rugby in France 2013 Toulon Marseille 1st halfAuthor: LeiaPollardTags: Football-Rugby in France 2013 Toulon Marseille 1st half Posted: 23 April 2015Rating:: 0...",
+            "date": "2015-04-23",
+            "author_name": "LeiaPollard",
+            "categories": "football,rugby",
+            "tags": "football,rugby",
+            "recuweb_url": "http://en.recuweb.com/rugby/dailymotion.com/2015/04/football-rugby-in-france-2013-toulon-marseille-1st-half",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/rugby+football/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nmuvf_football-rugby-in-france-2013-toulon-marseille-1st-half_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nmuvf_football-rugby-in-france-2013-toulon-marseille-1st-half_sport"
+        },
+        "dailymotion.com/2015/04/rugby-vs-football-the-science": {
+            "title": "Rugby vs Football: The Science...",
+            "snippet": "Rugby vs Football: The ScienceAuthor: JerilynKunzTags: Rugby vs Football: The Science Posted: 23 April 2015Rating:: 0...",
+            "date": "2015-04-23",
+            "author_name": "JerilynKunz",
+            "categories": "rugby,football,science",
+            "tags": "rugby,football",
+            "recuweb_url": "http://en.recuweb.com/science/dailymotion.com/2015/04/rugby-vs-football-the-science",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/rugby+football/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2npoi8_rugby-vs-football-the-science_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2npoi8_rugby-vs-football-the-science_sport"
+        },
+        "youtube.com/2015/04/st-george-s-day-challenge-rugby-v-football": {
+            "title": "St George's Day Challenge: Rugby v Football...",
+            "snippet": "St George's Day Challenge: Rugby v Football England rugby stars George Ford and Jack Nowell take on England football stars Gary Cahill and Alex Oxlade-Chamberlain in a special Cross Bar Challenge to celebrate St George's Day. The cross... From:...",
+            "date": "2015-04-23",
+            "author_name": "England Rugby",
+            "categories": "football,stars,rugby",
+            "tags": "challenge,football,stars,george,rugby,day,england",
+            "recuweb_url": "http://en.recuweb.com/rugby/youtube.com/2015/04/st-george-s-day-challenge-rugby-v-football",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rugby%2Bfootball%2Brugby%2Bfootball&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=orruH9Mlwf8&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/orruH9Mlwf8/0.jpg"
         },
         "dailymotion.com/2015/04/rugby-league-football-is-the-greatest-game-of": {
             "title": "Rugby League Football Is the Greatest Game Of All...",
@@ -52,7 +89,7 @@
             "date": "2015-04-18",
             "author_name": "sport-almanac15",
             "categories": "rugby,rugby-football,football",
-            "tags": "rugby,rugby_football,football",
+            "tags": "rugby,team,national,rugby_football,football",
             "recuweb_url": "http://en.recuweb.com/football/dailymotion.com/2015/04/rugby-football-in-new-zealand-british-isles-tour",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/rugby+football/0?af=1",
             "source_url": "http://dailymotion.com/video/x2n3oxz_rugby-football-in-new-zealand-british-isles-tour_sport",
@@ -93,42 +130,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/rugby+football/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mu0rg_rugby-vs-gridiron-american-football-vol-1_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2mu0rg_rugby-vs-gridiron-american-football-vol-1_sport"
-        },
-        "dailymotion.com/2015/04/the-battle-rugby-vs-football": {
-            "title": "The Battle - Rugby Vs Football...",
-            "snippet": "Leave your comments, rate the video and liked to add to: CheckFATags: SportsSportRugby UnionRugby World CupRugby Cup 2015Rugby WorldBlood Sweat and BeersBlood u0026 BeersRugby VideosThe BattleFootballSoccerRugbyThe bestHighlightsWhos betterWhats...",
-            "date": "2015-04-15",
-            "author_name": "CheckFA",
-            "categories": "rugby,football",
-            "tags": "rugby,sweat,rugby_vs_football,football,battle",
-            "recuweb_url": "http://en.recuweb.com/football/dailymotion.com/2015/04/the-battle-rugby-vs-football",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/rugby+football/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mr907_the-battle-rugby-vs-football_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mr907_the-battle-rugby-vs-football_sport"
-        },
-        "dailymotion.com/2015/04/nz-rugby-football-union-one-stadium": {
-            "title": "NZ Rugby Football Union 'One Stadium'...",
-            "snippet": "NZ Rugby Football Union 'One Stadium'Author: CorieJamisonTags: NZ Rugby Football Union One Stadium Posted: 14 April 2015Rating:: 0...",
-            "date": "2015-04-14",
-            "author_name": "CorieJamison",
-            "categories": "rugby,rugby-football,football",
-            "tags": "rugby,rugby_football,football",
-            "recuweb_url": "http://en.recuweb.com/football/dailymotion.com/2015/04/nz-rugby-football-union-one-stadium",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/rugby+football/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2moewa_nz-rugby-football-union-one-stadium_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2moewa_nz-rugby-football-union-one-stadium_sport"
-        },
-        "youtube.com/2015/04/the-battle-rugby-vs-football": {
-            "title": "The Battle, Rugby Vs Football...",
-            "snippet": "The Battle, Rugby Vs Football Watch as Rugby vs Football in this head to head video. Which one will win? You decide! ------------------------------------------------------------------------------- Follow Us On Social... From: Blood, Sweat & Beers...",
-            "date": "2015-04-14",
-            "author_name": "Blood, Sweat & Beers",
-            "categories": "rugby,football",
-            "tags": "rugby,rugby_vs_football,football,battle,sweat",
-            "recuweb_url": "http://en.recuweb.com/football/youtube.com/2015/04/the-battle-rugby-vs-football",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rugby%2Bfootball%2Brugby%2Bfootball&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=8cEKXttn_d4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/8cEKXttn_d4/0.jpg"
         }
     }
 }
