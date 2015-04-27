@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "mysql",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/mysql/",
@@ -16,7 +17,7 @@
             "date": "2015-04-17",
             "author_name": "ExplodingAds.com",
             "categories": "mysql,database,twitter",
-            "tags": "software,released,mysql,today,database",
+            "tags": "software,released,mysql,today,database,twitter",
             "recuweb_url": "http://en.recuweb.com/twitter/mesosphere.com/2015/04/mysql-on-mesos-today-s-database-meets-tomorrow-datacenter",
             "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://mesosphere.com/blog/2015/04/17/mysql-on-mesos-todays-database-meets-tomorrows-datacenter/"
@@ -27,7 +28,7 @@
             "date": "2015-04-17",
             "author_name": "maclochlainn",
             "categories": "mysql,java,perl",
-            "tags": "configuring,mysql,linux,java,support,run",
+            "tags": "configure,support,configuring,mysql,java,run",
             "recuweb_url": "http://en.recuweb.com/perl/blog.mclaughlinsoftware.com/2015/04/how-to-write-java-mysql-linux-programs-maclochlainns-weblog",
             "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.mclaughlinsoftware.com/2015/04/17/java-mysql-program/"
@@ -38,7 +39,7 @@
             "date": "2015-04-17",
             "author_name": "vCloud Team",
             "categories": "pleasure,mysql",
-            "tags": "solutions,replication,mysql,introducing,data",
+            "tags": "data,replication,mysql,introducing",
             "recuweb_url": "http://en.recuweb.com/mysql/blogs.vmware.com/2015/04/introducing-vmware-continuent-4-0-mysql-clustering-and-real",
             "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.vmware.com/vcloud/2015/04/introducing-vmware-continuent-4-0-mysql-clustering-and-real-time-replication-to-data-warehouses.html"
@@ -49,7 +50,7 @@
             "date": "2015-04-16",
             "author_name": "andrew",
             "categories": "mysql",
-            "tags": "available,here,version,into,introducing,mysql",
+            "tags": "here,into,introducing,mysql",
             "recuweb_url": "http://en.recuweb.com/mysql/clusterdb.com/2015/04/mysql-cluster-7-4-new-features-webinar-replay-andrew-morgan",
             "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://clusterdb.com/mysql-cluster/mysql-cluster-7-4-new-features-webinar-replay"
@@ -60,7 +61,7 @@
             "date": "2015-04-16",
             "author_name": "unknown",
             "categories": "mysql,java",
-            "tags": "container,using,mysql,java",
+            "tags": "gone,mysql,java,code,using",
             "recuweb_url": "http://en.recuweb.com/java/javacodegeeks.com/2015/04/docker-mysql-persistence-java-code-geeks",
             "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://javacodegeeks.com/2015/04/docker-mysql-persistence.html"
@@ -82,7 +83,7 @@
             "date": "2015-04-14",
             "author_name": "blog.explodingads.com",
             "categories": "database,mysql,facebook,json",
-            "tags": "solution,provide,easy,built,database,mysql,percona",
+            "tags": "database,mysql,facebook,percona,easy",
             "recuweb_url": "http://en.recuweb.com/json/percona.com/2015/04/docstore-document-database-for-mysql-at-facebook-pdf-percona",
             "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://percona.com/live/mysql-conference-2015/sites/default/files/slides/Facebook+DocStore+Percona+2015.pdf"
@@ -93,7 +94,7 @@
             "date": "2015-04-13",
             "author_name": "Shivji Jha",
             "categories": "mysql",
-            "tags": "system,replication,easy,mysql",
+            "tags": "system,process,replication,switch,mysql,high,easy,server",
             "recuweb_url": "http://en.recuweb.com/mysql/mysqlhighavailability.com/2015/04/mysql-it-is-easier-to-switch-master-now-high",
             "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://mysqlhighavailability.com/mysql-5-7-6-it-is-easier-to-switch-master-now/"
@@ -104,7 +105,7 @@
             "date": "2015-04-12",
             "author_name": "KC Leung",
             "categories": "mysql",
-            "tags": "hello,percona,mysql,conference,learn",
+            "tags": "hello,percona,mysql,learn",
             "recuweb_url": "http://en.recuweb.com/mysql/papitv.com/2015/04/learn-mysql-fundamentals-from-industry-leaders-at-the-largest-conference-2015",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=mysql%2Bmysql&rss=1&lng=en",
             "source_url": "http://papitv.com/learn-mysql-fundamentals-from-industry-leaders-at-the-largest-mysql-conference"
@@ -115,7 +116,7 @@
             "date": "2015-04-11",
             "author_name": "(kotiravi)",
             "categories": "mysql,database",
-            "tags": "update,try,into,setting,mysql,database",
+            "tags": "update,try,into,mysql,database",
             "recuweb_url": "http://en.recuweb.com/database/kotiravi.blogspot.com/2015/04/setting-password-for-new-mysql-database-on-mac",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=mysql%2Bmysql&rss=1&lng=en",
             "source_url": "http://kotiravi.blogspot.com/2015/04/setting-password-for-new-mysql-database.html"
