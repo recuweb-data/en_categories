@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "asteroids",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/asteroids/",
@@ -10,6 +11,17 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/asteroids/asteroids/blogs.json"
     },
     "items": {
+        "blog.geekpress.com/2015/04/geekpress-nukes-vs-asteroids": {
+            "title": "GeekPress: Nukes Vs. Asteroids...",
+            "snippet": "\"A gentle nudge with a nuke: Deflecting Earth-bound asteroids\". Posted by Paul Hsieh at 12:02 AM Newer Post Older Post Home. Technology news, shaken not stirred... Front page RSS Feed E-mail Paul Twitter: PaulHsieh. Diana's blogs:...",
+            "date": "2015-04-27",
+            "author_name": "Paul Hsieh",
+            "categories": "twitter,asteroids,earth,home,technology",
+            "tags": "bound,asteroids,deflecting,earth,gentle,gentle-nudge,nudge,home",
+            "recuweb_url": "http://en.recuweb.com/technology/blog.geekpress.com/2015/04/geekpress-nukes-vs-asteroids",
+            "resource_url": "http://www.google.com/search?q=asteroids%2Basteroids&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.geekpress.com/2015/04/nukes-vs-asteroids.html"
+        },
         "selenianboondocks.com/2015/04/asteroids-as-transportation-hubs-selenian-boondocks": {
             "title": "Asteroids as Transportation Hubs Selenian Boondocks...",
             "snippet": "This is a sketch from a post I did in 2009 about moving asteroids using their own rotational energy to sling ISRU mass to change their orbit. With Jons'last post, I got to...",
@@ -21,13 +33,24 @@
             "resource_url": "http://www.google.com/search?q=asteroids%2Basteroids&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://selenianboondocks.com/2015/04/asteroids-as-transportation-hubs/"
         },
+        "universetoday.com/2015/04/close-encounter-of-the-asteroid-kind-2015-hd1-skims-by-earth": {
+            "title": "Close Encounter of the Asteroid Kind 2015 HD1 Skims By Earth...",
+            "snippet": "If you wake up in the middle of the night with weird dreams about flying asteroids, I wouldn't be surprised. Around 3 a.m. (CDT) tomorrow morning April.",
+            "date": "2015-04-20",
+            "author_name": "Bob King",
+            "categories": "earth,asteroids",
+            "tags": "morning,night,flying,earth,asteroids,close",
+            "recuweb_url": "http://en.recuweb.com/asteroids/universetoday.com/2015/04/close-encounter-of-the-asteroid-kind-2015-hd1-skims-by-earth",
+            "resource_url": "http://www.google.com/search?q=asteroids%2Basteroids&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://universetoday.com/119938/close-encounter-of-the-asteroid-kind-2015-hd1-skims-by-earth-tonight/"
+        },
         "3rdgradesciencetext.wordpress.com/2015/04/4-5-asteroids": {
             "title": "4.5 Asteroids...",
             "snippet": "ASTEROIDS Is this rock an asteroid? This rock is somewhat round. It is called asteroid Vesta, but it may actually be a protoplanet: too round to be an asteroid, not []...",
             "date": "2015-04-16",
             "author_name": "Mr.Lilholt",
             "categories": "asteroids",
-            "tags": "round,protoplanet,asteroids,asteroid,vesta",
+            "tags": "protoplanet,rock,asteroids,asteroid",
             "recuweb_url": "http://en.recuweb.com/asteroids/3rdgradesciencetext.wordpress.com/2015/04/4-5-asteroids",
             "resource_url": "http://en.search.wordpress.com/?q=asteroids%2Basteroids&f=feed&page=1",
             "source_url": "http://3rdgradesciencetext.wordpress.com/4-2/4-6-asteroids/"
@@ -37,9 +60,9 @@
             "snippet": "Many of the world's leading space researchers are currently at a conference in Italy discussing how to protect Earth from impacts by asteroids and comets.",
             "date": "2015-04-16",
             "author_name": "Melodie Bouchaud",
-            "categories": "comets,earth,asteroids",
-            "tags": "comets,world,space,experts,save,many,earth,impacts,asteroids",
-            "recuweb_url": "http://en.recuweb.com/asteroids/news.vice.com/2015/04/space-experts-have-gathered-to-save-the-world-from-threat-of",
+            "categories": "earth,asteroids,comets",
+            "tags": "impacts,researchers,world,space,threat,earth,asteroids,comets",
+            "recuweb_url": "http://en.recuweb.com/comets/news.vice.com/2015/04/space-experts-have-gathered-to-save-the-world-from-threat-of",
             "resource_url": "http://www.google.com/search?q=asteroids&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://news.vice.com/article/space-experts-have-gathered-to-save-the-world-from-the-threat-of-asteroids"
         },
@@ -49,7 +72,7 @@
             "date": "2015-04-10",
             "author_name": "Nathan Yau",
             "categories": "database,asteroids",
-            "tags": "planet,small,come,very,little,asteroids,scientists",
+            "tags": "planet,small,little,asteroids,scientists,come",
             "recuweb_url": "http://en.recuweb.com/asteroids/flowingdata.com/2015/04/asteroid-database-flowingdata",
             "resource_url": "http://www.google.com/search?q=asteroids%2Basteroids&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://flowingdata.com/2015/04/10/asteroid-database/"
@@ -59,9 +82,9 @@
             "snippet": "Many people lump asteroids, meteors, and also comets together and take into consideration that the terms are interchangeable. However that is a little bit of a misconception. Although asteroids, comets, as well as meteors do share that they are all...",
             "date": "2015-04-10",
             "author_name": "Rod Thies",
-            "categories": "comets,asteroids",
-            "tags": "meteors,little,comets,into,asteroids,many,however",
-            "recuweb_url": "http://en.recuweb.com/asteroids/roddsreview.blogspot.com/2015/04/asteroids-comets-and-meteors",
+            "categories": "asteroids,comets",
+            "tags": "meteors,little,together,into,people,asteroids,comets,however",
+            "recuweb_url": "http://en.recuweb.com/comets/roddsreview.blogspot.com/2015/04/asteroids-comets-and-meteors",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=asteroids%2Basteroids&rss=1&lng=en",
             "source_url": "http://roddsreview.blogspot.com/2015/04/asteroids-comets-and-meteors.html"
         },
@@ -70,9 +93,9 @@
             "snippet": "SOLAR SYSTEM DEFINITION Solar System Facts Slideshow View more presentations from K3TeacherResources The Solar System is made up of the Sun, the planets, their moons, asteroids and comets. WHAT TO SEE The Sun The Sun is a star that lives at the...",
             "date": "2015-04-10",
             "author_name": "MD Serra",
-            "categories": "comets,moons,moon,planets,solar-system,sun,asteroids",
-            "tags": "star,comets,moons,planets,solar,solar_system,system,space,sun,asteroids",
-            "recuweb_url": "http://en.recuweb.com/asteroids/sciencemdserra.blogspot.com/2015/04/in-space-solar-system",
+            "categories": "moons,moon,solar-system,sun,planets,asteroids,comets",
+            "tags": "star,moons,made,solar,solar_system,system,space,sun,planets,asteroids,comets",
+            "recuweb_url": "http://en.recuweb.com/comets/sciencemdserra.blogspot.com/2015/04/in-space-solar-system",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=asteroids%2Basteroids&rss=1&lng=en",
             "source_url": "http://sciencemdserra.blogspot.com/2009/08/in-space-solar-system.html"
         },
@@ -82,7 +105,7 @@
             "date": "2015-04-03",
             "author_name": "Nathan Grayson",
             "categories": "asteroids",
-            "tags": "steam,survival,game,asteroids,should,other",
+            "tags": "steam,survival,game,asteroids,should,yet,other",
             "recuweb_url": "http://en.recuweb.com/asteroids/steamed.kotaku.com/2015/04/asteroids-outpost-is-not-the-next-great-steam-survival-game",
             "resource_url": "http://www.google.com/search?q=asteroids&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://steamed.kotaku.com/asteroids-outpost-is-not-the-next-great-steam-survival-1695541600"
@@ -97,28 +120,6 @@
             "recuweb_url": "http://en.recuweb.com/gameplay/evigshed.com/2015/03/asteroids-outpost-into-early-access",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=asteroids%2Basteroids&rss=1&lng=en",
             "source_url": "http://evigshed.com/asteroids-outpost-early-access/"
-        },
-        "walyou.com/2015/03/nasa-wants-your-help-to-find-asteroids": {
-            "title": "NASA Wants Your Help to Find Asteroids...",
-            "snippet": "NASA looks towards citizen scientists to help them to find asteroids in space, as it is too time consuming for the organisation to do it alone. Id like to know more about space, wouldnt you? Its a shame then that despite all of the many planets,...",
-            "date": "2015-03-20",
-            "author_name": "Jasmine Henry",
-            "categories": "planets,asteroids",
-            "tags": "many,planets,find,looks,asteroids,nasa,scientists,space",
-            "recuweb_url": "http://en.recuweb.com/asteroids/walyou.com/2015/03/nasa-wants-your-help-to-find-asteroids",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=asteroids%2Basteroids&rss=1&lng=en",
-            "source_url": "http://walyou.com/nasa-wants-your-help-to-find-asteroids/"
-        },
-        "rawstory.com/2015/03/nasa-s-new-app-allows-you-to-hunt-for-asteroids": {
-            "title": "NASA's new app allows you to hunt for asteroids through your PC...",
-            "snippet": "Since the early 20th century, astronomers have relied on the same technique to detect asteroids -- they take images of a section in the sky and look for star-like objects that move between frames. However, with an increase in...",
-            "date": "2015-03-16",
-            "author_name": "International Business Times",
-            "categories": "asteroids",
-            "tags": "objects,look,star,nasa,asteroids,sky,between,however",
-            "recuweb_url": "http://en.recuweb.com/asteroids/rawstory.com/2015/03/nasa-s-new-app-allows-you-to-hunt-for-asteroids",
-            "resource_url": "http://www.google.com/search?q=asteroids%2Basteroids&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://rawstory.com/2015/03/nasas-new-app-allows-you-to-hunt-for-asteroids-through-your-pc/"
         }
     }
 }
