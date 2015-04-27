@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "wiki",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/wiki/",
@@ -10,13 +11,46 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/wiki/wiki/blogs.json"
     },
     "items": {
+        "blogs.technet.com/2015/04/who-are-the-top-20-technet-guru-award-winners-wiki-ninjas": {
+            "title": "Who are the Top 20 TechNet Guru Award Winners? - Wiki Ninjas...",
+            "snippet": "Wiki Ninjas is a group of authors who celebrate and evangelize the community catalyst and social-authoring excellence that is called TechNet Wiki. Wiki Ninjas - Categories. Monday - Interview with a Wiki Ninja.",
+            "date": "2015-04-24",
+            "author_name": "Ed Price - MSFT",
+            "categories": "wiki",
+            "tags": "wiki,wiki_ninjas,ninjas,group,community",
+            "recuweb_url": "http://en.recuweb.com/wiki/blogs.technet.com/2015/04/who-are-the-top-20-technet-guru-award-winners-wiki-ninjas",
+            "resource_url": "http://www.google.com/search?q=wiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.technet.com/b/wikininjas/archive/2015/04/24/who-are-the-top-20-technet-guru-award-winners.aspx"
+        },
+        "markwadsworth.blogspot.com/2015/04/fast-&-furious-show-7": {
+            "title": "Fast & Furious Show 7...",
+            "snippet": "From Wiki and Wiki: After breaking into the secure hospital where car salesman Swiss Toni is being held, Tonis older brother, Rowley Birkin QC, a retired barrister, swears vengeance against the team that will nick anything. Meanwhile, Ron Manager,...",
+            "date": "2015-04-23",
+            "author_name": "Mark Wadsworth",
+            "categories": "wiki",
+            "tags": "team,nick,furious,fast,wiki,into",
+            "recuweb_url": "http://en.recuweb.com/wiki/markwadsworth.blogspot.com/2015/04/fast-&-furious-show-7",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=wiki%2Bwiki&rss=1&lng=en",
+            "source_url": "http://markwadsworth.blogspot.com/2015/04/fast-furious-show-7.html"
+        },
+        "blogs.technet.com/2015/04/wiki-life-what-does-it-mean-to-be-a-ninja-ninjas": {
+            "title": "Wiki Life - What does it mean to be a Wiki Ninja??? - Wiki Ninjas...",
+            "snippet": "Because being Wiki Ninja? It is difficult to speak of a ninja before knowing its history. With pride I am part of this community since 2008. Seven years go by fast. I remember my first day in the community, everything was very...",
+            "date": "2015-04-22",
+            "author_name": "Hezequias Vasconcelos",
+            "categories": "wiki,life",
+            "tags": "everything,day,community,ing,ninjas,wiki,wiki_ninjas,because,part,fast",
+            "recuweb_url": "http://en.recuweb.com/life/blogs.technet.com/2015/04/wiki-life-what-does-it-mean-to-be-a-ninja-ninjas",
+            "resource_url": "http://www.google.com/search?q=wiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.technet.com/b/wikininjas/archive/2015/04/22/wiki-life-because-being-wiki-ninja.aspx"
+        },
         "scienceblogs.com/2015/04/wikipedia-grant-shapps-stoat-scienceblogs": {
             "title": "Wikipedia: Grant Shapps Stoat - ScienceBlogs...",
             "snippet": "By popular request. And I've not seen anyone else wiki-literate discussing this, so I will. the Graun says. Grant Shapps accused of editing Wikipedia pages of Tory rivals. Online encyclopedia administrators block user account...",
             "date": "2015-04-22",
             "author_name": "William M. Connolley",
             "categories": "wiki",
-            "tags": "user,editing,popular,wikipedia,wiki,pages,online",
+            "tags": "pages,accused,grant,grant_shapps,shapps,wikipedia,wiki,editing,tory,rivals,online,user",
             "recuweb_url": "http://en.recuweb.com/wiki/scienceblogs.com/2015/04/wikipedia-grant-shapps-stoat-scienceblogs",
             "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://scienceblogs.com/stoat/2015/04/22/wikipedia-grant-shapps/"
@@ -27,7 +61,7 @@
             "date": "2015-04-22",
             "author_name": "anonymous",
             "categories": "wiki",
-            "tags": "changes,ing,page,wiki",
+            "tags": "progress,ing,page,wiki",
             "recuweb_url": "http://en.recuweb.com/wiki/astrobetter.com/2015/04/astrobetter-rumor-mill",
             "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://astrobetter.com/wiki/Rumor+Mill"
@@ -38,10 +72,32 @@
             "date": "2015-04-21",
             "author_name": "Martin Toney",
             "categories": "entertainment,adventure,wiki",
-            "tags": "entertainment,developed,upcoming,adventure,wiki,wiki_everything,everything,need,game",
+            "tags": "entertainment,developed,game,upcoming,wiki,wiki_everything,everything,world,currently",
             "recuweb_url": "http://en.recuweb.com/wiki/gamingbolt.com/2015/04/silence-the-whispered-world-2-wiki-everything-you-need-to-know",
             "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://gamingbolt.com/silence-the-whispered-world-2-wiki"
+        },
+        "terrelldailyphoto.com/2015/04/wiki-man-triathlon": {
+            "title": "Wiki Wiki Man Triathlon...",
+            "snippet": "This morning was the Wiki Wiki Triathlon at Lake Tawakoni. They have an individual race and a team race. Brian Loncar Racing Team won the team title.",
+            "date": "2015-04-19",
+            "author_name": "Jim Klenke",
+            "categories": "wiki,triathlon",
+            "tags": "team,wiki,wiki_man,man,won",
+            "recuweb_url": "http://en.recuweb.com/triathlon/terrelldailyphoto.com/2015/04/wiki-man-triathlon",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=wiki%2Bwiki&rss=1&lng=en",
+            "source_url": "http://terrelldailyphoto.com/2015/04/wiki-wiki-man-triathlon.html"
+        },
+        "llariley.blogspot.com/2015/04/wiki-dissection-lc-jh": {
+            "title": "Wiki Dissection LC JH...",
+            "snippet": "What is the purpose of this Wiki? This wiki talks about disruptive technology in the classroom. It debates whether some are sustaining or disruptive. When was the last post? June 23, 2010 How was this Wiki created? It was created by setting up an...",
+            "date": "2015-04-16",
+            "author_name": "(Llariley)",
+            "categories": "technology,wiki",
+            "tags": "whether,wiki",
+            "recuweb_url": "http://en.recuweb.com/wiki/llariley.blogspot.com/2015/04/wiki-dissection-lc-jh",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=wiki%2Bwiki&rss=1&lng=en",
+            "source_url": "http://llariley.blogspot.com/2015/04/wiki-dissection-lc-jh.html"
         },
         "wpbeginner.com/2015/04/how-to-create-a-wiki-knowledge-base-using-wordpress": {
             "title": "How to Create a Wiki Knowledge Base using WordPress...",
@@ -49,73 +105,21 @@
             "date": "2015-04-09",
             "author_name": "Editorial Staff",
             "categories": "wiki,wordpress",
-            "tags": "main,site,wiki,create,because",
+            "tags": "because,wiki",
             "recuweb_url": "http://en.recuweb.com/wordpress/wpbeginner.com/2015/04/how-to-create-a-wiki-knowledge-base-using-wordpress",
             "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://wpbeginner.com/wp-tutorials/how-to-create-a-wiki-knowledge-base-using-wordpress/"
         },
-        "reddit.com/2015/04/ysk-about-pc-gaming-wiki-a-user-curated-collection-of-wikipedia": {
-            "title": "YSK about PC Gaming Wiki, a user curated collection of Wikipedia-style articles collecting fixes...",
-            "snippet": "PC Gaming Wiki is a user curated collection of Wikipedia-style articles collecting fixes and improvement hacks for PC games. I can't remember the last time I had to Google a problem I'm having with a game. The fix is always up there already. It's...",
-            "date": "2015-04-05",
-            "categories": "collecting,wiki,google",
-            "tags": "last,articles,user,wiki,wikipedia,game",
-            "recuweb_url": "http://en.recuweb.com/google/reddit.com/2015/04/ysk-about-pc-gaming-wiki-a-user-curated-collection-of-wikipedia",
-            "resource_url": "http://www.reddit.com/search.rss?q=wiki%2Bwiki&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/YouShouldKnow/comments/31hcae/ysk_about_pc_gaming_wiki_a_user_curated/"
-        },
-        "services.runescape.com/2015/03/wiki-editing-closes-27th-march-news-runescape": {
-            "title": "Wiki Editing Closes 27th March - News - RuneScape...",
-            "snippet": "UPDATE: Editing has now ceased. Only JMods may make changes. From Friday the 27th of March, we will be ending support for our on-site RuneScape wiki. Player editing of the wiki will no longer be possible. For the near...",
-            "date": "2015-03-24",
-            "author_name": "unknown",
-            "categories": "wiki",
-            "tags": "editing,make,changes,only,wiki,site",
-            "recuweb_url": "http://en.recuweb.com/wiki/services.runescape.com/2015/03/wiki-editing-closes-27th-march-news-runescape",
+        "avclub.com/2015/04/see-wikipedia-s-list-of-the-last-survivors-historic-events-wiki": {
+            "title": "See Wikipedia's list of the last survivors of historic events Wiki...",
+            "snippet": "With more than 4.7 million articles, Wikipedia is an invaluable resource, whether you're throwing a term paper together at the last minute, or checking out the terrific Lewis and Clark 10 bill we missed in the dollar bill entry a...",
+            "date": "2015-04-06",
+            "author_name": "Mike Vago",
+            "categories": "events,wiki",
+            "tags": "entry,whether,wikipedia,wiki",
+            "recuweb_url": "http://en.recuweb.com/wiki/avclub.com/2015/04/see-wikipedia-s-list-of-the-last-survivors-historic-events-wiki",
             "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://services.runescape.com/m=news/wiki--editing-closes-27th-march"
-        },
-        "wiki.guildwars2.com/2015/03/orichalcum-amulet-guild-wars-2-wiki-gw2w": {
-            "title": "Orichalcum Amulet - Guild Wars 2 Wiki (GW2W)...",
-            "snippet": "Feel free to edit pages yourself and make use of discussion pages. Wiki content is created, maintained, and administrated by players. See how you can help. The wiki maintenance is now complete. Let us know if you notice...",
-            "date": "2015-03-10",
-            "author_name": "Dr ishmael",
-            "categories": "wiki",
-            "tags": "help,created,make,wars,wiki,free,pages,complete",
-            "recuweb_url": "http://en.recuweb.com/wiki/wiki.guildwars2.com/2015/03/orichalcum-amulet-guild-wars-2-wiki-gw2w",
-            "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://wiki.guildwars2.com/wiki/Orichalcum_Amulet"
-        },
-        "brooklynmuseum.org/2015/03/working-out-the-wiki-bkm-tech-brooklyn-museum": {
-            "title": "Working out the Wiki - BKM TECH - Brooklyn Museum...",
-            "snippet": "Working out the Wiki. The most basic goal of the ASK app is to connect visitors to works of art in the museum. Although the conduit for this connection will be a piece of technology, its authors will be people not unlike the ones...",
-            "date": "2015-03-04",
-            "author_name": "Marina Kliger",
-            "categories": "technology,wiki",
-            "tags": "ones,people,working,wiki",
-            "recuweb_url": "http://en.recuweb.com/wiki/brooklynmuseum.org/2015/03/working-out-the-wiki-bkm-tech-brooklyn-museum",
-            "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://brooklynmuseum.org/community/blogosphere/2015/03/04/working-out-the-wiki/"
-        },
-        "reddit.com/2015/02/luke-jr-decides-to-rename-paper-wallet-ecdsa-private-keys": {
-            "title": "Luke-Jr decides to rename paper wallet to Paper ECDSA private keys for all of us. Replaces all...",
-            "snippet": "Luke-Jr doesn't like paper wallets. To this end, he has renamed/moved the official Bitcoin wiki for \"Paper Wallet\" to \"Paper ECDSA private keys\", making it confusing and difficult for users to learn what a paper wallet is and how to stay safe when...",
-            "date": "2015-02-27",
-            "categories": "wiki",
-            "tags": "learn,paper,official,wiki",
-            "recuweb_url": "http://en.recuweb.com/wiki/reddit.com/2015/02/luke-jr-decides-to-rename-paper-wallet-ecdsa-private-keys",
-            "resource_url": "http://www.reddit.com/search.rss?q=wiki%2Bwiki&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/Bitcoin/comments/2xcef5/lukejr_decides_to_rename_paper_wallet_to_paper/"
-        },
-        "reddit.com/2015/02/more-than-you-ever-cared-to-know-about-day-and-night": {
-            "title": "More than you ever cared to know about day and night in GW2 gw2wiki...",
-            "snippet": "The amount of information about day and night that the wiki used to have was pretty scant, so I've been doing research and working on writing a main article on it. I've finally got it up, so now you can see more than you ever wanted to know about...",
-            "date": "2015-02-26",
-            "categories": "wiki",
-            "tags": "than,ever,working,writing,main,article,information,wiki",
-            "recuweb_url": "http://en.recuweb.com/wiki/reddit.com/2015/02/more-than-you-ever-cared-to-know-about-day-and-night",
-            "resource_url": "http://www.reddit.com/search.rss?q=wiki%2Bwiki&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/Guildwars2/comments/2x94v1/more_than_you_ever_cared_to_know_about_day_and/"
+            "source_url": "http://avclub.com/article/see-wikipedias-list-last-survivors-historic-events-217223"
         }
     }
 }
