@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "bank-failures",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/bank-failures/",
@@ -10,99 +11,102 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/bank-failures/bank-failures/blogs.json"
     },
     "items": {
-        "huffingtonpost.com/2015/02/too-big-to-fail-banks-glimmers-of-hope": {
-            "title": "'Too Big to Fail'Banks: Glimmers of Hope...",
-            "snippet": "Both banks have a sketchy past: OneWest emerged from the ashes of the failed IndyMac, one of the largest bank failures in American history. CIT experienced one of the largest bankruptcies on record, and did so after taking 2.3 billion in federal...",
-            "date": "2015-02-24",
-            "tags": "federal,taking,experienced,experienced-one,largest,largest-bankruptcies,bankruptcies,ashes,failed,banks,bank,banks-have-sketchy,sketchy,sketchy-past,past,big,fail,glimmers,hope,onewest,emerged,indymac,failures,american,cit",
-            "recuweb_url": "http://en.recuweb.com/huffingtonpost.com/2015/02/too-big-to-fail-banks-glimmers-of-hope",
+        "bloomberg.com/2015/04/eu-bank-failure-law-to-align-with-global-crisis-fix-hill": {
+            "title": "EU Bank-Failure Law to Align With Global Crisis Fix: Hill...",
+            "snippet": "The latest list is headed by HSBC Holdings Plc and JPMorgan Chase & Co. The EU has already adopted legislation on handling bank failures, the Bank Recovery and Resolution Directive, which member states are in the process of implementing. Banks in...",
+            "date": "2015-04-27",
+            "categories": "law",
+            "tags": "member,member-states,states,process,process-of-implementing,implementing,resolution,resolution_directive,directive,banks,bank_recovery,recovery,adopted,adopted-legislation,legislation,legislation-on-handling,handling,jpmorgan,jpmorgan_chase,chase,hsbc,hsbc_holdings,hsbc_holdings_plc,holdings,holdings_plc,plc,headed,align,crisis,fix,failure,law,failures",
+            "recuweb_url": "http://en.recuweb.com/law/bloomberg.com/2015/04/eu-bank-failure-law-to-align-with-global-crisis-fix-hill",
             "resource_url": "http://www.bing.com/news/search?first=1&q=bank%2Bfailures&format=RSS&cc=us",
-            "source_url": "http://huffingtonpost.com/preeti-vissa/too-big-to-fail-banks-gli_b_6745976.html?,wall-street"
+            "source_url": "http://bloomberg.com/news/articles/2015-04-27/eu-bank-failure-law-to-align-with-global-crisis-fix-hill"
         },
-        "huffingtonpost.com/2015/02/too-big-to-fail-banks-glimmers-of-hope-huffington": {
-            "title": "'Too Big to Fail'Banks: Glimmers of Hope - Huffington Post...",
-            "snippet": "'Too Big to Fail'Banks: Glimmers of HopeHuffington PostBoth banks have a sketchy past: OneWest emerged from the ashes of the failed IndyMac, one of the largest bank failures in American history. CIT experienced one of the largest bankruptcies on...",
-            "date": "2015-02-24",
-            "tags": "experienced,experienced-one,largest,largest-bankruptcies,bankruptcies,ashes,failed,banks,bank,banks-have-sketchy,sketchy,sketchy-past,past,big,fail,glimmers,hope,onewest,emerged,indymac,failures,american,cit",
-            "recuweb_url": "http://en.recuweb.com/huffingtonpost.com/2015/02/too-big-to-fail-banks-glimmers-of-hope-huffington",
+        "businesstimes.com.sg/2015/04/eu-bank-crisis-law-to-align-with-too-big-fail-fix": {
+            "title": "EU bank-crisis law to align with too-big-to-fail fix...",
+            "snippet": "The latest list is headed by HSBC Holdings Plc and JPMorgan Chase & Co. The EU has already adopted legislation on handling bank failures, the Bank Recovery and Resolution Directive, which member states are in the process of implementing. Banks in...",
+            "date": "2015-04-27",
+            "categories": "law",
+            "tags": "member,member-states,states,process,process-of-implementing,implementing,resolution,resolution_directive,directive,banks,bank_recovery,recovery,adopted,adopted-legislation,legislation,legislation-on-handling,handling,jpmorgan,jpmorgan_chase,chase,hsbc,hsbc_holdings,hsbc_holdings_plc,holdings,holdings_plc,plc,headed,fix,law,align,crisis,failures",
+            "recuweb_url": "http://en.recuweb.com/law/businesstimes.com.sg/2015/04/eu-bank-crisis-law-to-align-with-too-big-fail-fix",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bank%2Bfailures&format=RSS&cc=us",
+            "source_url": "http://businesstimes.com.sg/government-economy/eu-bank-crisis-law-to-align-with-too-big-to-fail-fix"
+        },
+        "reuters.com/2015/04/for-hong-kong-regulator-hsbc-presents-major-challenges": {
+            "title": "For Hong Kong regulator, HSBC presents major challenges...",
+            "snippet": "But the size of HSBC relative to Hong Kong's economy should not be a cause for concern because international regulators are devising rules for resolving bank failures without using public funds, she said. HSBC in Hong Kong declined to comment on...",
+            "date": "2015-04-27",
+            "categories": "economy",
+            "tags": "without,public,economy,economy-should,should,concern,concern-because,concern-because-international,because,because-international,because-international-regulators,international,international-regulators,regulators,regulator,regulators-are-devising,devising,devising-rules,rules,rules-for-resolving,resolving,relative,size,presents,presents-major,presents-major-challenges,major,major-challenges,challenges,hong,hong_kong,kong,hsbc,bank,failures",
+            "recuweb_url": "http://en.recuweb.com/economy/reuters.com/2015/04/for-hong-kong-regulator-hsbc-presents-major-challenges",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bank%2Bfailures&format=RSS&cc=us",
+            "source_url": "http://reuters.com/article/2015/04/27/us-hsbc-headquarters-hkma-idUSKBN0NI15K20150427?virtualBrandChannel=11563"
+        },
+        "uk.reuters.com/2015/04/for-hong-kong-regulator-hsbc-presents-major-challenges-reuters-uk": {
+            "title": "For Hong Kong regulator, HSBC presents major challenges - Reuters UK...",
+            "snippet": "Reuters UKFor Hong Kong regulator, HSBC presents major challengesReuters UKBut the size of HSBC relative to Hong Kong's economy should not be a cause for concern because international regulators are devising rules for resolving bank failures without...",
+            "date": "2015-04-27",
+            "categories": "economy",
+            "tags": "economy,economy-should,should,concern,concern-because,concern-because-international,because,because-international,because-international-regulators,international,international-regulators,regulators,regulator,regulators-are-devising,devising,devising-rules,rules,rules-for-resolving,resolving,relative,size,presents,presents-major,major,reuters,hong,hong_kong,kong,presents-major-challenges,major-challenges,challenges,hsbc,bank,failures,without",
+            "recuweb_url": "http://en.recuweb.com/economy/uk.reuters.com/2015/04/for-hong-kong-regulator-hsbc-presents-major-challenges-reuters-uk",
             "resource_url": "http://news.google.com/?hl=en&q=bank%2Bfailures&output=atom&nord=1",
-            "source_url": "http://huffingtonpost.com/preeti-vissa/too-big-to-fail-banks-gli_b_6745976.html"
+            "source_url": "http://uk.reuters.com/article/2015/04/27/uk-hsbc-headquarters-hkma-idUKKBN0NI15J20150427"
         },
-        "fool.com/2015/02/2-trends-that-could-make-or-break-the-bank-industry-in": {
-            "title": "2 Trends that Could Make or Break the Bank Industry in 2015...",
-            "snippet": "Outside of the financial crisis, the last time oil prices dropped as sharply as they have recently, they triggered a wave of bank failures. Could this happen again? Learn what's different now, and why investors should pay special attention to some...",
-            "date": "2015-02-24",
-            "tags": "oil,prices,financial,financial-crisis,crisis,bank,industry,could,make,failures",
-            "recuweb_url": "http://en.recuweb.com/fool.com/2015/02/2-trends-that-could-make-or-break-the-bank-industry-in",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bank%2Bfailures&format=RSS&cc=us",
-            "source_url": "http://fool.com/investing/general/2015/02/24/2-trends-that-could-make-or-break-the-bank-industr.aspx"
-        },
-        "npr.org/2015/02/analysts-fear-a-prolonged-drop-in-oil-prices-will-hurt-oklahoma": {
-            "title": "Analysts Fear A Prolonged Drop In Oil Prices Will Hurt Oklahoma's Banks...",
-            "snippet": "Talk about kicking over a string of dominoes. Penn Square was the first of hundreds of oil-related bank failures in the 1980s, when an oil glut caused a sharp drop in prices. The severity of the drop in prices reminds me of the '80s, but the...",
-            "date": "2015-02-24",
-            "tags": "prices,oil,first,banks,bank,failures",
-            "recuweb_url": "http://en.recuweb.com/npr.org/2015/02/analysts-fear-a-prolonged-drop-in-oil-prices-will-hurt-oklahoma",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bank%2Bfailures&format=RSS&cc=us",
-            "source_url": "http://npr.org/2015/02/24/387750572/analysts-fear-a-prolonged-drop-in-oil-will-hurt-oklahomas-banks"
-        },
-        "gulfnews.com/2015/02/uk-watchdog-softens-impact-of-new-finance-rules": {
-            "title": "UK watchdog softens impact of new finance rules...",
-            "snippet": "London: British regulators have exempted junior non-executive directors of banks and insurance companies from a tough new personal liability regime which could make them criminally liable for bank failures. The Financial Conduct Authority (FCA),...",
-            "date": "2015-02-24",
-            "categories": "insurance,finance",
-            "tags": "financial,could,make,banks,bank,insurance,regulators,failures",
-            "recuweb_url": "http://en.recuweb.com/finance/gulfnews.com/2015/02/uk-watchdog-softens-impact-of-new-finance-rules",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bank%2Bfailures&format=RSS&cc=us",
-            "source_url": "http://gulfnews.com/business/banking/uk-watchdog-softens-impact-of-new-finance-rules-1.1461770"
-        },
-        "pymnts.com/2015/02/mca-factoring-an-oasis-in-smb-credit-deserts": {
-            "title": "MCA, Factoring an Oasis in SMB Credit Deserts...",
-            "snippet": "In a post-recession world, small businesses are still struggling to find funding, particularly in areas hardest hit by recent bank failures. Many are turning to alternative methodsmerchant cash advance and factoring, among othersto fill the void...",
-            "date": "2015-02-19",
-            "categories": "factoring,business,credit",
-            "tags": "small,recession,world,bank,failures",
-            "recuweb_url": "http://en.recuweb.com/credit/pymnts.com/2015/02/mca-factoring-an-oasis-in-smb-credit-deserts",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bank%2Bfailures&format=RSS&cc=us",
-            "source_url": "http://pymnts.com/in-depth/2015/mca-factoring-an-oasis-in-smb-credit-deserts/"
-        },
-        "triblive.com/2015/02/jpmorgan-tops-worst-case-list-of-potential-bank-failures-treasury-reports": {
-            "title": "JPMorgan tops worst-case list of potential bank failures, Treasury reports - Tribune-Review...",
-            "snippet": "JPMorgan tops worst-case list of potential bank failures, Treasury reportsTribune-ReviewFrom the shale fields to the cooling towers, Trib Total Media covers the energy industry in Western Pennsylvania and beyond. For the latest news and views on...",
-            "date": "2015-02-18",
-            "tags": "industry,bank,failures,treasury",
-            "recuweb_url": "http://en.recuweb.com/triblive.com/2015/02/jpmorgan-tops-worst-case-list-of-potential-bank-failures-treasury-reports",
+        "online.barrons.com/2015/04/why-youth-debt-make-indonesia-a-no-brainer-barron": {
+            "title": "Why Youth, Debt Make Indonesia a No-Brainer - Barron's...",
+            "snippet": "Barron'sWhy Youth, Debt Make Indonesia a No-BrainerBarron's... the clear tilt in alignment toward China that Widodo conveyed by channeling Sukarno to attack the obsolescence of the Western-dominated world order and the failures of the World Bank,...",
+            "date": "2015-04-27",
+            "tags": "world,bank,failures",
+            "recuweb_url": "http://en.recuweb.com/online.barrons.com/2015/04/why-youth-debt-make-indonesia-a-no-brainer-barron",
             "resource_url": "http://news.google.com/?hl=en&q=bank%2Bfailures&output=atom&nord=1",
-            "source_url": "http://triblive.com/business/headlines/7797362-74/bank-risk-banks"
+            "source_url": "http://online.barrons.com/articles/why-youth-debt-make-indonesia-a-no-brainer-1430104567"
         },
-        "fool.com/2015/02/3-banks-that-may-not-survive-2015-motley-fool": {
-            "title": "3 Banks That May Not Survive 2015 - Motley Fool...",
-            "snippet": "3 Banks That May Not Survive 2015Motley FoolRecently, fellow Fool John Maxfield posted an incredible chart of bank failures going back over 100 years. The lesson is as scary as it is clear: banks fail all the time. Eighteen banks failed in 2014. Two...",
-            "date": "2015-02-16",
-            "tags": "banks,bank,failed,fail,failures",
-            "recuweb_url": "http://en.recuweb.com/fool.com/2015/02/3-banks-that-may-not-survive-2015-motley-fool",
+        "bizjournals.com/2015/04/bank-failures-continue-to-decrease": {
+            "title": "Bank failures continue to decrease...",
+            "snippet": "Following the dismal recession years, the banking world is continuing its upward trend of recovery. A recent report released by the Federal Reserve Bank of St. Louis is another indicator of the progress. In 2014, 18 banks were closed, the fewest...",
+            "date": "2015-04-24",
+            "categories": "banking",
+            "tags": "banks,bank,another,federal,reserve,world,trend,recovery,continue,failures,banking",
+            "recuweb_url": "http://en.recuweb.com/banking/bizjournals.com/2015/04/bank-failures-continue-to-decrease",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bank%2Bfailures&format=RSS&cc=us",
+            "source_url": "http://bizjournals.com/memphis/news/2015/04/24/bank-failures-continue-to-decrease.html"
+        },
+        "theridgefieldpress.com/2015/04/casagmo-road-names": {
+            "title": "Casagmo road names...",
+            "snippet": "in the early 1980s, turning it into the huge CenTrust bank. More than 1.5 billion was lost when the bank collapsed in the late 1980s, one of the nations largest bank failures. He spent 10 years in a federal prison, convicted in connection with...",
+            "date": "2015-04-23",
+            "tags": "federal,prison,bank,failures",
+            "recuweb_url": "http://en.recuweb.com/theridgefieldpress.com/2015/04/casagmo-road-names",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bank%2Bfailures&format=RSS&cc=us",
+            "source_url": "http://theridgefieldpress.com/44253/casagmo-road-names/"
+        },
+        "sunnewsonline.com/2015/04/dealing-with-chronic-bank-debtors": {
+            "title": "Dealing with chronic bank debtors...",
+            "snippet": "The economy of the country today may not be able to withstand another round of bank failures. The fear over the increasing non-performing loans is that virtually every aspect of the economy will be adversely affected if the trend is not urgently...",
+            "date": "2015-04-22",
+            "categories": "economy",
+            "tags": "economy,trend,another,bank,failures",
+            "recuweb_url": "http://en.recuweb.com/economy/sunnewsonline.com/2015/04/dealing-with-chronic-bank-debtors",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bank%2Bfailures&format=RSS&cc=us",
+            "source_url": "http://sunnewsonline.com/new/?p=115748"
+        },
+        "nasdaq.com/2015/04/fdic-to-propose-rule-help-big-banks-handle-failure": {
+            "title": "FDIC to Propose Rule to Help Big Banks Handle Failure...",
+            "snippet": "The agency typically strives to do so by the next business day. Prior to the 2008 financial crisis, most bank failures were relatively small institutions, so FDIC officials had no problem going through an institution's books and quickly sorting...",
+            "date": "2015-04-21",
+            "categories": "business",
+            "tags": "agency,next,banks,bank,handle,failure,financial,crisis,failures",
+            "recuweb_url": "http://en.recuweb.com/business/nasdaq.com/2015/04/fdic-to-propose-rule-help-big-banks-handle-failure",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bank%2Bfailures&format=RSS&cc=us",
+            "source_url": "http://nasdaq.com/article/fdic-to-propose-rule-to-help-big-banks-handle-failure-20150421-00861"
+        },
+        "bloomberg.com/2015/04/national-walls-could-harm-bank-failure-plans-koenig-says-bloomberg": {
+            "title": "National Walls Could Harm Bank-Failure Plans, Koenig Says - Bloomberg...",
+            "snippet": "BloombergNational Walls Could Harm Bank-Failure Plans, Koenig SaysBloombergIn Europe and around the world, regulators are working to coordinate rules and plan for how to handle cross-border bank failures. Koenig's fledgling agency will start taking...",
+            "date": "2015-04-20",
+            "tags": "agency,start,regulators,rules,handle,world,bank,failure,failures",
+            "recuweb_url": "http://en.recuweb.com/bloomberg.com/2015/04/national-walls-could-harm-bank-failure-plans-koenig-says-bloomberg",
             "resource_url": "http://news.google.com/?hl=en&q=bank%2Bfailures&output=atom&nord=1",
-            "source_url": "http://fool.com/investing/general/2015/02/16/3-banks-that-may-not-survive-2015.aspx"
-        },
-        "journalnow.com/2015/02/first-citizens-continues-acquisition-spree-in-georgia": {
-            "title": "First Citizens continues acquisition spree in Georgia...",
-            "snippet": "First Citizens BancShares Inc. remains a go-to choice of federal regulators for absorbing collapsing banks even as the overall number of bank failures is decreasing. The Federal Deposit Insurance Corp. announced Friday the Raleigh bank is taking...",
-            "date": "2015-02-14",
-            "categories": "insurance",
-            "tags": "taking,federal,deposit,insurance,regulators,banks,bank,first,georgia,failures",
-            "recuweb_url": "http://en.recuweb.com/insurance/journalnow.com/2015/02/first-citizens-continues-acquisition-spree-in-georgia",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bank%2Bfailures&format=RSS&cc=us",
-            "source_url": "http://journalnow.com/news/local/first-citizens-continues-acquisition-spree-in-georgia/article_a364bbfd-6df2-51e8-adda-0899fab76b3e.html"
-        },
-        "accessnorthga.com/2015/02/us-regulators-close-small-georgia-bank": {
-            "title": "US regulators close small Georgia bank...",
-            "snippet": "The failure of Capitol City Bank is expected to cost the federal deposit insurance fund 88.9 million. U.S. bank failures have been declining since peaking at 157 in 2010 following the financial crisis and the Great Recession.",
-            "date": "2015-02-14",
-            "categories": "insurance",
-            "tags": "recession,financial,financial-crisis,crisis,federal,deposit,insurance,bank,failure,regulators,small,georgia,failures",
-            "recuweb_url": "http://en.recuweb.com/insurance/accessnorthga.com/2015/02/us-regulators-close-small-georgia-bank",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bank%2Bfailures&format=RSS&cc=us",
-            "source_url": "http://accessnorthga.com/detail.php?n=285242"
+            "source_url": "http://bloomberg.com/news/articles/2015-04-20/national-walls-could-harm-bank-failure-plans-koenig-says"
         }
     }
 }
