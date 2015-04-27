@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "fruit-juice",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/fruit-juice/",
@@ -10,16 +11,59 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/fruit-juice/fruit-juice/blogs.json"
     },
     "items": {
-        "lincyscookart.com/2015/04/tomato-orange-juice-lincy-s-cook-art": {
-            "title": "Tomato Orange Juice Lincy's Cook Art...",
-            "snippet": "I love to try different juicy drinks. Initially after marriage when I used to prepare drinks I had no idea as to how to make it. Nowadays I have a better understanding on how to go about concocting fruit juices, lassi, smoothie and...",
-            "date": "2015-04-16",
-            "author_name": "Eliza Lincy",
-            "categories": "marriage,love,drink,fruit",
-            "tags": "better,after,love,art,orange,juice,different,drinks,make,fruit,juices",
-            "recuweb_url": "http://en.recuweb.com/fruit/lincyscookart.com/2015/04/tomato-orange-juice-lincy-s-cook-art",
+        "babiscooking.blogspot.com/2015/04/babi-s-recipes-carrot-orange-juice-fresh-juices-summer-drink": {
+            "title": "Babi 's Recipes: Carrot Orange Juice Fresh Juices Summer Drink...",
+            "snippet": "I am enjoying all sorts of fresh juices from fruits and vegetables here in carrot orange juice had a nice vibrant colour which will surely attract one at first glance.I added a piece of ginger for digestion purpose it may...",
+            "date": "2015-04-26",
+            "author_name": "noreply@blogger.com (Babitha costa)",
+            "categories": "fruit,drink",
+            "tags": "purpose,fruits,vegetables,here,orange,juice,fresh,juices,drink",
+            "recuweb_url": "http://en.recuweb.com/drink/babiscooking.blogspot.com/2015/04/babi-s-recipes-carrot-orange-juice-fresh-juices-summer-drink",
             "resource_url": "http://www.google.com/search?q=fruit%2Bjuice%2Bfruit%2Bjuice&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://lincyscookart.com/2015/04/tomato-orange-juice.html"
+            "source_url": "http://babiscooking.blogspot.com/2015/04/carrot-orange-juice-fresh-juice-recipe.html"
+        },
+        "naturalnews.com/2015/04/by-order-of-the-king-day-care-children-shall-drink": {
+            "title": "By order of the King, day care children shall drink less juice...",
+            "snippet": "By order of the King, day care children shall drink less juice.... By order of the King, day care children shall drink less juice. Saturday, April 25, 2015 by: Jonathan Benson, staff writer. Tags: day care, fruit juice, New York City. Most Viewed...",
+            "date": "2015-04-25",
+            "author_name": "By Jonathan Benson, staff writer",
+            "categories": "drink,fruit",
+            "tags": "day,care,children,drink,juice,fruit",
+            "recuweb_url": "http://en.recuweb.com/fruit/naturalnews.com/2015/04/by-order-of-the-king-day-care-children-shall-drink",
+            "resource_url": "http://www.google.com/search?q=fruit%2Bjuice%2Bfruit%2Bjuice&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://naturalnews.com/049480_day_care_fruit_juice_New_York_City.html"
+        },
+        "muscleinactionz.wordpress.com/2015/04/fruit-juice-not-as-healthly-you-think": {
+            "title": "Fruit Juice, not as healthly as you think.",
+            "snippet": "We often heard about the many benefits from eating fruits. Fruits are packed with vitamins and anti-oxidants and also a great source of fiber. Furthermore, they are low...",
+            "date": "2015-04-12",
+            "author_name": "MuscleInActionz",
+            "categories": "fruit,fruit-juice",
+            "tags": "low,source,fruits,fruit,fruit_juice,juice",
+            "recuweb_url": "http://en.recuweb.com/fruit-juice/muscleinactionz.wordpress.com/2015/04/fruit-juice-not-as-healthly-you-think",
+            "resource_url": "http://en.search.wordpress.com/?q=fruit%2Bjuice%2Bfruit%2Bjuice&f=feed&page=1",
+            "source_url": "http://muscleinactionz.wordpress.com/2015/04/12/fruit-juice-not-as-healthly-as-you-think/"
+        },
+        "fruitjuiceapp.com/2015/04/how-do-i-reset-fruitjuice-s-database": {
+            "title": "How do I Reset FruitJuice's Database? -...",
+            "snippet": "If you want to reset FruitJuice to start fresh with a new database, select Quit from the FruitJuice menu while holding down the Option key. Filed Under: FAQ, Support FruitJuice 2.2. Return to top of page. 2015 BatteryProject...",
+            "date": "2015-04-07",
+            "author_name": "ssteiner",
+            "categories": "database",
+            "tags": "menu,fruitjuice,fresh,select,quit,top",
+            "recuweb_url": "http://en.recuweb.com/database/fruitjuiceapp.com/2015/04/how-do-i-reset-fruitjuice-s-database",
+            "resource_url": "http://www.google.com/search?q=fruit%2Bjuice%2Bfruit%2Bjuice&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://fruitjuiceapp.com/how-do-i-reset-fruitjuices-database"
+        },
+        "fruitjuiceapp.com/2015/04/how-do-i-uninstall-fruitjuice": {
+            "title": "How do I Uninstall FruitJuice? -...",
+            "snippet": "We appreciate you taking the time to download and try FruitJuice. If you would like to remove it from your Mac, you can do the following: 1) Select 'Quit FruitJuice'from the menu. 2) Move the FruitJuice application from your...",
+            "date": "2015-04-07",
+            "author_name": "ssteiner",
+            "tags": "menu,taking,fruitjuice,ing,select,quit",
+            "recuweb_url": "http://en.recuweb.com/fruitjuiceapp.com/2015/04/how-do-i-uninstall-fruitjuice",
+            "resource_url": "http://www.google.com/search?q=fruit%2Bjuice%2Bfruit%2Bjuice&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://fruitjuiceapp.com/how-do-i-uninstall-fruitjuice"
         },
         "foodbev.com/2015/04/news-innocent-launches-lightly-sparkling-fruit-juice": {
             "title": "News Innocent launches 'lightly sparkling'fruit juice...",
@@ -27,21 +71,10 @@
             "date": "2015-04-02",
             "author_name": "unknown",
             "categories": "drink,fruit",
-            "tags": "drinks,fruit,juice",
+            "tags": "flavour,blend,drinks,fruit,juice",
             "recuweb_url": "http://en.recuweb.com/fruit/foodbev.com/2015/04/news-innocent-launches-lightly-sparkling-fruit-juice",
-            "resource_url": "http://www.google.com/search?q=fruit%2Bjuice&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://foodbev.com/news/innocent-launches-lightly-sparkling-frui"
-        },
-        "seekingalpha.com/2015/03/skypeople-fruit-juice-trading-at-a-significant-discount-to-peers": {
-            "title": "SkyPeople Fruit Juice Trading At A Significant Discount To Peers...",
-            "snippet": "Source: Created By Author SkyPeople Fruit Juice (NASDAQMKT: SPU) with its massive discount to intrinsic value, offers not only extreme investment return.",
-            "date": "2015-03-25",
-            "author_name": "SeekingAlpha.com",
-            "categories": "fruit,fruit-juice",
-            "tags": "fruit,fruit_juice,juice,trading,source",
-            "recuweb_url": "http://en.recuweb.com/fruit-juice/seekingalpha.com/2015/03/skypeople-fruit-juice-trading-at-a-significant-discount-to-peers",
             "resource_url": "http://www.google.com/search?q=fruit%2Bjuice%2Bfruit%2Bjuice&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://seekingalpha.com/article/3028106-skypeople-fruit-juice-trading-at-a-significant-discount-to-peers-and-intrinsic-value"
+            "source_url": "http://foodbev.com/news/innocent-launches-lightly-sparkling-frui"
         },
         "drnehapaharia.wordpress.com/2015/02/whole-fruits-v-s-fruit-juice": {
             "title": "Whole Fruits v/s Fruit Juice!!!",
@@ -60,21 +93,10 @@
             "date": "2015-01-28",
             "author_name": "Liv",
             "categories": "fruit,fruit-juice,evidence",
-            "tags": "drinking,fruit,fruit_juice,juice,people,source",
+            "tags": "drinking,fruit,fruit_juice,fruit_juice_fruit,juice,juice_fruit,nutrition,people,seems,top,avoid,source,here",
             "recuweb_url": "http://en.recuweb.com/evidence/lleanmeancuisine.wordpress.com/2015/01/top-11-most-common-nutrition-mistakes-and-how-to-avoid",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=fruit%2Bjuice%2Bfruit%2Bjuice&rss=1&lng=en",
             "source_url": "http://lleanmeancuisine.wordpress.com/2015/01/28/top-11-most-common-nutrition-mistakes-and-how-to-avoid-them/"
-        },
-        "beveragedaily.com/2015/01/orange-juice-health-vitamin-c-carotenoids-fruit": {
-            "title": "orange juice health vitamin C carotenoids fruit juice...",
-            "snippet": "Researchers have pitted oranges and orange juice against each other, in an effort to find out which is better for health.",
-            "date": "2015-01-26",
-            "author_name": "Rachel.ARTHUR@wrbm.com (Rachel ARTHUR)",
-            "categories": "health,fruit",
-            "tags": "better,health,each,orange,juice,fruit",
-            "recuweb_url": "http://en.recuweb.com/fruit/beveragedaily.com/2015/01/orange-juice-health-vitamin-c-carotenoids-fruit",
-            "resource_url": "http://www.google.com/search?q=fruit%2Bjuice%2Bfruit%2Bjuice&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://beveragedaily.com/R-D/orange-juice-health-vitamin-C-carotenoids-fruit-juice"
         },
         "newsnetwork.mayoclinic.org/2015/01/fruit-juice-good-or-bad-mayo-clinic-news-network": {
             "title": "Fruit Juice: Good or Bad? Mayo Clinic News Network...",
@@ -82,7 +104,7 @@
             "date": "2015-01-14",
             "author_name": "unknown",
             "categories": "fruit,fruit-juice",
-            "tags": "beverage,drinking,fruit,fruit_juice,juice,good,bad,however",
+            "tags": "weight,any,beverage,drinking,fruit,fruit_juice,juice",
             "recuweb_url": "http://en.recuweb.com/fruit-juice/newsnetwork.mayoclinic.org/2015/01/fruit-juice-good-or-bad-mayo-clinic-news-network",
             "resource_url": "http://www.google.com/search?q=fruit%2Bjuice&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://newsnetwork.mayoclinic.org/discussion/fruit-juice-good-or-bad/"
@@ -93,30 +115,10 @@
             "date": "2014-12-16",
             "author_name": "Bloomberg News",
             "categories": "drink,production,fruit",
-            "tags": "after,drink,many,beverage,popular,orange,juice,fruit,breakfast",
+            "tags": "world,breakfast,drink,beverage,sales,orange,juice,fruit",
             "recuweb_url": "http://en.recuweb.com/fruit/oregonlive.com/2014/12/orange-juice-sales-wane-production-follows",
             "resource_url": "http://www.google.com/search?q=fruit%2Bjuice&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://oregonlive.com/business/index.ssf/2014/12/orange_juice_sales_wane_produc.html"
-        },
-        "reddit.com/2014/11/looking-for-each-and-every-fruit-loops-flavored-juice-there-is": {
-            "title": "Looking for each and every fruit loops flavored juice there is...",
-            "snippet": "I'm trying to compile a list of every fruit loops flavored juice I can so I can do a review of each and every one of them because I have realized that I fucking love fruit loops. In this context, I will be considering trix and fruity pebbles flavors...",
-            "date": "2014-11-20",
-            "categories": "love,fruit",
-            "tags": "love,each,fruit,juice",
-            "recuweb_url": "http://en.recuweb.com/fruit/reddit.com/2014/11/looking-for-each-and-every-fruit-loops-flavored-juice-there-is",
-            "resource_url": "http://www.reddit.com/search.rss?q=fruit%2Bjuice%2Bfruit%2Bjuice&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/electronic_cigarette/comments/2mttnp/looking_for_each_and_every_fruit_loops_flavored/"
-        },
-        "reddit.com/2014/10/cmv-the-sugars-in-natural-fruits-and-fruit-juices-cannot-possibly": {
-            "title": "CMV: The sugars in natural fruits and fruit juices cannot possibly be bad for me.",
-            "snippet": "Everybody is always freaking out about Fructose in some form or another, and I realize that a lot of the crap companies like V8 put out and market as fruit juice is really just fruit drink plus tons of sugar, but if I just eat a zillion raw apples...",
-            "date": "2014-10-29",
-            "categories": "drink,fruit",
-            "tags": "drink,sugar,natural,fruits,fruit,juices,bad,everybody,fructose,juice",
-            "recuweb_url": "http://en.recuweb.com/fruit/reddit.com/2014/10/cmv-the-sugars-in-natural-fruits-and-fruit-juices-cannot-possibly",
-            "resource_url": "http://www.reddit.com/search.rss?q=fruit%2Bjuice%2Bfruit%2Bjuice&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/changemyview/comments/2ko5tx/cmv_the_sugars_in_natural_fruits_and_fruit_juices/"
         }
     }
 }
