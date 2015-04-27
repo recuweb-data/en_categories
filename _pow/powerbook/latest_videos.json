@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "powerbook",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/powerbook/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/powerbook/powerbook/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/my-apple-powerbooks-150-145b": {
+            "title": "My Apple Powerbooks 150/145b...",
+            "snippet": "My Apple Powerbooks 150/145bAuthor: jacketdecimalTags: My Apple Powerbooks 150 145b Posted: 20 April 2015Rating:: 0...",
+            "date": "2015-04-20",
+            "author_name": "jacketdecimal",
+            "categories": "powerbook",
+            "tags": "apple",
+            "recuweb_url": "http://en.recuweb.com/powerbook/dailymotion.com/2015/04/my-apple-powerbooks-150-145b",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/powerbook+powerbook/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2na83r_my-apple-powerbooks-150-145b_fun",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2na83r_my-apple-powerbooks-150-145b_fun"
+        },
         "dailymotion.com/2015/04/install-leopard-on-powerbook-g4": {
             "title": "install leopard on powerbook g4...",
             "snippet": "install leopard on powerbook g4Author: ClarisaWaughTags: install leopard on powerbook g4 Posted: 13 April 2015Rating:: 0...",
@@ -28,7 +41,7 @@
             "date": "2015-04-03",
             "author_name": "CareyCoats",
             "categories": "powerbook",
-            "tags": "macworld,powerbook",
+            "tags": "powerbook",
             "recuweb_url": "http://en.recuweb.com/powerbook/dailymotion.com/2015/04/macworld-san-francisco-2003-powerbook-17-12-intro-pt-2",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/powerbook+powerbook/0?af=1",
             "source_url": "http://dailymotion.com/video/x2lo79o_macworld-san-francisco-2003-powerbook-17-12-intro-pt-2_creation",
@@ -36,7 +49,7 @@
         },
         "youtube.com/2015/02/powerbook-g4-12-2005-review-how-well-does-it-run-in": {
             "title": "PowerBook G4 12 (2005) Review! How well does it run in 2015?",
-            "snippet": "PowerBook G4 12\" (2005) Review! How well does it run in 2015? I look at the old but still great PowerBook G4 12\" from 2005. How well does it still run? Is it a good option for you? Filmed on an HTC One M7. From: ZircoBen Views: 498 9 ratings Time:...",
+            "snippet": "PowerBook G4 12\" (2005) Review! How well does it run in 2015? I look at the old but still great PowerBook G4 12\" from 2005. How well does it still run? Is it a good option for you? Filmed on an HTC One M7. From: ZircoBen Views: 789 10 ratings Time:...",
             "date": "2015-02-01",
             "author_name": "ZircoBen",
             "categories": "powerbook",
@@ -76,7 +89,7 @@
             "date": "2014-10-31",
             "author_name": "thepowerpchub",
             "categories": "powerbook",
-            "tags": "powerpc,powerpc_hub,hub,apple,long,already,already-awesome,awesome,ram,ssd,ssd_install,install,maxing,maxing_out,powerbook,hell,yeah,enjoy,guys",
+            "tags": "powerpc,powerpc_hub,hub,apple,long,awesome,ram,ssd,ssd_install,install,maxing,maxing_out,powerbook,hell,yeah,enjoy,guys",
             "recuweb_url": "http://en.recuweb.com/powerbook/dailymotion.com/2014/10/maxing-out-my-powerbook-g4-ssd-install-and-2gb-ram",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/powerbook+powerbook/0?af=1",
             "source_url": "http://dailymotion.com/video/x291xcj_maxing-out-my-powerbook-g4-ssd-install-and-2gb-ram-the-powerpc-hub_tech",
@@ -94,41 +107,29 @@
             "source_url": "http://dailymotion.com/video/x291wyd_vlog-april-2014-another-powerbook-the-powerpc-hub_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x291wyd_vlog-april-2014-another-powerbook-the-powerpc-hub_tech"
         },
+        "youtube.com/2014/09/installing-ubuntu-lts-on-a-powerbook-g4": {
+            "title": "Installing Ubuntu LTS on a Powerbook G4...",
+            "snippet": "Installing Ubuntu LTS on a Powerbook G4 A quick installation of Ubuntu linux LTS with nuity on it on a Powerbook G with 1.5 gigs of ram, 80 gigabyte hard drive. Here is the loctaoin in ergarding to the wireless itself thta... From: Karl Entner...",
+            "date": "2014-09-29",
+            "author_name": "Karl Entner",
+            "categories": "powerbook",
+            "tags": "ram,powerbook",
+            "recuweb_url": "http://en.recuweb.com/powerbook/youtube.com/2014/09/installing-ubuntu-lts-on-a-powerbook-g4",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=powerbook&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=NNb-_4xpmCs&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/NNb-_4xpmCs/0.jpg"
+        },
         "youtube.com/2014/05/maxing-out-my-powerbook-g4-ssd-install-and-2gb-ram": {
             "title": "Maxing Out My PowerBook G4! (SSD Install and 2GB RAM) The PowerPC Hub...",
-            "snippet": "Maxing Out My PowerBook G4! (SSD Install and 2GB RAM) The PowerPC Hub 2GB of RAM and an SSD in an (already awesome) PowerBook? Hell yeah! Enjoy guys, this is a long one. From: The PowerPC Hub Views: 11517 102 ratings Time: 22:41 More in...",
+            "snippet": "Maxing Out My PowerBook G4! (SSD Install and 2GB RAM) The PowerPC Hub 2GB of RAM and an SSD in an (already awesome) PowerBook? Hell yeah! Enjoy guys, this is a long one. From: The PowerPC Hub Views: 11944 105 ratings Time: 22:41 More in...",
             "date": "2014-05-09",
             "author_name": "The PowerPC Hub",
             "categories": "powerbook",
-            "tags": "long,already,already-awesome,awesome,powerpc,powerpc_hub,hub,ssd,ssd_install,install,maxing,maxing_out,powerbook,ram,hell,yeah,enjoy,guys",
+            "tags": "long,awesome,powerpc,powerpc_hub,hub,ssd,ssd_install,install,maxing,maxing_out,powerbook,ram,hell,yeah,enjoy,guys",
             "recuweb_url": "http://en.recuweb.com/powerbook/youtube.com/2014/05/maxing-out-my-powerbook-g4-ssd-install-and-2gb-ram",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=powerbook%2Bpowerbook&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=pXPYuQ9FliY&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/pXPYuQ9FliY/0.jpg"
-        },
-        "youtube.com/2014/05/17-inch-powerbook-g4-aluminum-hard-drive-ssd-installation-video": {
-            "title": "17-inch PowerBook G4 Aluminum Hard Drive/SSD Installation Video...",
-            "snippet": "17-inch PowerBook G4 \"Aluminum\" Hard Drive/SSD Installation Video OWC's step-by-step video of how to install a hard drive or SSD in the Apple PowerBook G4 Aluminum 17-inch with Model ID: PowerBook5,3, PowerBook5,5, PowerBook5,7 & PowerBook5,9. From:...",
-            "date": "2014-05-05",
-            "author_name": "Owc Macsales",
-            "categories": "powerbook",
-            "tags": "apple,install,ssd,powerbook",
-            "recuweb_url": "http://en.recuweb.com/powerbook/youtube.com/2014/05/17-inch-powerbook-g4-aluminum-hard-drive-ssd-installation-video",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=powerbook%2Bpowerbook&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=SKQXegnzxCs&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/SKQXegnzxCs/0.jpg"
-        },
-        "youtube.com/2014/03/steve-jobs-introduces-12-17-powerbooks-ilife-&-safari-macworld-sf": {
-            "title": "Steve Jobs introduces 12-17 PowerBooks, iLife & Safari - Macworld SF (2003)...",
-            "snippet": "Steve Jobs introduces 12\"-17\" PowerBooks, iLife & Safari - Macworld SF (2003) Major keynote where Steve Jobs introduced new PowerBooks, Airport Extreme, FireWire 800, Safari, Keynote, Final Cut Express & iLife. HIGHLIGHTS: 00:00. Update on Apple...",
-            "date": "2014-03-09",
-            "author_name": "EverySteveJobsVideo",
-            "categories": "powerbook",
-            "tags": "macworld,apple",
-            "recuweb_url": "http://en.recuweb.com/powerbook/youtube.com/2014/03/steve-jobs-introduces-12-17-powerbooks-ilife-&-safari-macworld-sf",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=powerbook%2Bpowerbook&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=5iOWA2wEFPE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/5iOWA2wEFPE/0.jpg"
         }
     }
 }
