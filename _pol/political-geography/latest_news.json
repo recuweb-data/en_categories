@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "political-geography",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/political-geography/",
@@ -10,24 +11,64 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/political-geography/political-geography/blogs.json"
     },
     "items": {
-        "nwitimes.com/2015/04/austin-bay-kremlin-tests-nato-solidarity": {
-            "title": "AUSTIN BAY: Kremlin tests NATO solidarity...",
-            "snippet": "The Soviet Navy facility at Kaliningrad was of particular interest. Bornholm is still north of Poland, but the political geography has changed. Poland is now a NATO member, and one demanding an alliance military buildup. Poland and Lithuania...",
-            "date": "2015-04-18",
-            "categories": "geography",
-            "tags": "political,geography",
-            "recuweb_url": "http://en.recuweb.com/geography/nwitimes.com/2015/04/austin-bay-kremlin-tests-nato-solidarity",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=political%2Bgeography&format=RSS&cc=us",
-            "source_url": "http://nwitimes.com/news/opinion/columnists/guest-commentary/austin-bay-kremlin-tests-nato-solidarity/article_ba30edc5-c02f-559a-b1a7-a968b8ebe866.html"
+        "detroitnews.com/2015/04/henning-baseball-will-weather-the-detroit-news": {
+            "title": "Henning: Baseball will weather the weather - The Detroit News...",
+            "snippet": "The Detroit NewsHenning: Baseball will weather the weatherThe Detroit NewsYou can't. There would still be an imbalance because baseball's geography is imbalanced. And so rather than turn a schedule into a political grenade, baseball's overseers have...",
+            "date": "2015-04-24",
+            "categories": "baseball,geography",
+            "tags": "because,geography,political",
+            "recuweb_url": "http://en.recuweb.com/geography/detroitnews.com/2015/04/henning-baseball-will-weather-the-detroit-news",
+            "resource_url": "http://news.google.com/?hl=en&q=political%2Bgeography&output=atom&nord=1",
+            "source_url": "http://detroitnews.com/story/sports/mlb/tigers/2015/04/23/henning-baseball-will-weather-weather/26273653/"
         },
-        "pressenza.com/2015/04/new-world-political-geography-ongoing-mutations-pressenza-international-press-agency": {
-            "title": "New world political geography, ongoing mutations - Pressenza International Press Agency...",
-            "snippet": "Pressenza International Press AgencyNew world political geography, ongoing mutationsPressenza International Press AgencyTocqueville wrote that history is a picture gallery where there are many copies and few originals (1). The enormous demographic,...",
+        "theglobeandmail.com/2015/04/it-s-fear-and-loathing-time-in-alberta-the-globe-mail": {
+            "title": "It's fear and loathing time in Alberta - The Globe and Mail...",
+            "snippet": "The Globe and MailIt's fear and loathing time in AlbertaThe Globe and MailIn 2015, however, the political geography is different. Wildrose has removed many vulnerable parts from its policy documents, and new leader Brian Jean has taken an iron stand...",
+            "date": "2015-04-24",
+            "categories": "policy,geography",
+            "tags": "policy,political,geography",
+            "recuweb_url": "http://en.recuweb.com/geography/theglobeandmail.com/2015/04/it-s-fear-and-loathing-time-in-alberta-the-globe-mail",
+            "resource_url": "http://news.google.com/?hl=en&q=political%2Bgeography&output=atom&nord=1",
+            "source_url": "http://theglobeandmail.com/globe-debate/its-fear-and-loathing-time/article24100720/"
+        },
+        "counterpunch.org/2015/04/the-political-economy-of-fashion-counterpunch": {
+            "title": "The Political Economy of Fashion - CounterPunch...",
+            "snippet": "The Political Economy of FashionCounterPunchNot very much has changed since Karl Marx wrote about the textile industry except the geography. In the 1840s it was the factories of Birmingham, England and the cotton plantations of the slave states that...",
+            "date": "2015-04-24",
+            "categories": "economy,geography",
+            "tags": "industry,political,geography",
+            "recuweb_url": "http://en.recuweb.com/geography/counterpunch.org/2015/04/the-political-economy-of-fashion-counterpunch",
+            "resource_url": "http://news.google.com/?hl=en&q=political%2Bgeography&output=atom&nord=1",
+            "source_url": "http://counterpunch.org/2015/04/24/the-political-economy-of-fashion/"
+        },
+        "wired.co.uk/2015/04/how-election-maps-reveal-the-strange-politics-of-geography": {
+            "title": "How election maps reveal the strange politics of geography -...",
+            "snippet": "election maps reveal the strange politics of have always been used to tell political stories, which is why -- as the General Election approaches -- they seem to be everywhere you look on the internet right now. Here, we examine some of the maps...",
+            "date": "2015-04-23",
+            "categories": "internet,politics,geography",
+            "tags": "maps,geography,political",
+            "recuweb_url": "http://en.recuweb.com/geography/wired.co.uk/2015/04/how-election-maps-reveal-the-strange-politics-of-geography",
+            "resource_url": "http://news.google.com/?hl=en&q=political%2Bgeography&output=atom&nord=1",
+            "source_url": "http://wired.co.uk/news/archive/2015-04/23/general-election-2015-maps"
+        },
+        "phys.org/2015/04/study-polarization-in-congress-is-worsening-and-it-stifles-policy-innovation": {
+            "title": "Study: Polarization in Congress is worsening... and it stifles policy innovation...",
+            "snippet": "As a geographer, Andris says she's most troubled by the loss of a once-rich political geography. Geography is just zeros and ones, she sayswhether one lives in Seattle or Atlanta, it makes no difference politically. That's a problem for me...",
+            "date": "2015-04-22",
+            "categories": "policy,geography",
+            "tags": "policy,political,geography",
+            "recuweb_url": "http://en.recuweb.com/geography/phys.org/2015/04/study-polarization-in-congress-is-worsening-and-it-stifles-policy-innovation",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=political%2Bgeography&format=RSS&cc=us",
+            "source_url": "http://phys.org/news/2015-04-polarization-congress-worsening-stifles-policy.html"
+        },
+        "pressenza.com/2015/04/new-world-political-geography-ongoing-mutations": {
+            "title": "New world political geography, ongoing mutations...",
+            "snippet": "The breakdown of the Soviet Union in 1990 opened a brief era of unipolar American hegemony which is now waning fast partly as a consequence of inner processes of decay and disintegration in the USA and partly because of the rapid rise of the Asian...",
             "date": "2015-04-12",
             "categories": "geography",
-            "tags": "many,political,geography",
-            "recuweb_url": "http://en.recuweb.com/geography/pressenza.com/2015/04/new-world-political-geography-ongoing-mutations-pressenza-international-press-agency",
-            "resource_url": "http://news.google.com/?hl=en&q=political%2Bgeography&output=atom&nord=1",
+            "tags": "because,political,geography",
+            "recuweb_url": "http://en.recuweb.com/geography/pressenza.com/2015/04/new-world-political-geography-ongoing-mutations",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=political%2Bgeography&format=RSS&cc=us",
             "source_url": "http://pressenza.com/2015/04/new-world-political-geography-ongoing-mutations/"
         },
         "nepalitimes.com/2015/02/political-geography-of-nepals-twittersphere": {
@@ -35,7 +76,7 @@
             "snippet": "The political crisis in January caused by the failure of the parties to meet a deadline on the constitution widened fissures between ideological groups in Nepali social media. The deadlock is likely to be a result, rather than the cause of the...",
             "date": "2015-02-26",
             "categories": "social-media,geography",
-            "tags": "than,social,political,geography",
+            "tags": "political,geography",
             "recuweb_url": "http://en.recuweb.com/geography/nepalitimes.com/2015/02/political-geography-of-nepals-twittersphere",
             "resource_url": "http://www.bing.com/news/search?first=1&q=political%2Bgeography&format=RSS&cc=us",
             "source_url": "http://nepalitimes.com/article/nation/geography-of-nepal-twittersphere,2060"
@@ -45,7 +86,7 @@
             "snippet": "as part of a doctoral thesis on political geography. It was published in 2006 as La r\u00e9gion alaouite et le pouvoir syrien. During this period, I lived in Syria for six years. I described the sect-based clientelism that structured Syrian society...",
             "date": "2015-01-30",
             "categories": "political-geography,geography,society",
-            "tags": "syria,war,political,political_geography,geography,part",
+            "tags": "part,syria,war,political,political_geography,geography",
             "recuweb_url": "http://en.recuweb.com/society/carnegieendowment.org/2015/01/the-political-geography-of-syrias-war-an-interview-with-fabrice-balanche",
             "resource_url": "http://www.bing.com/news/search?first=1&q=political%2Bgeography&format=RSS&cc=us",
             "source_url": "http://carnegieendowment.org/syriaincrisis/?fa=58875"
@@ -55,7 +96,7 @@
             "snippet": "The Washington Post had a story over the weekend about the concerted campaign by the fossil fuel industry to rollback state laws favoring renewable energy. This effort was also the subject of an editorial in the Sunday Times. So far, this effort...",
             "date": "2014-04-28",
             "categories": "renewable-energy,geography",
-            "tags": "state,political,geography",
+            "tags": "industry,political,geography",
             "recuweb_url": "http://en.recuweb.com/geography/blogs.berkeley.edu/2014/04/renewable-energy-and-political-geography",
             "resource_url": "http://www.bing.com/news/search?first=1&q=political%2Bgeography&format=RSS&cc=us",
             "source_url": "http://blogs.berkeley.edu/2014/04/28/renewable-energy-and-political-geography/"
@@ -69,46 +110,6 @@
             "recuweb_url": "http://en.recuweb.com/geography/dailykos.com/2013/08/political-geography-of-maine-part-6-northern-and-northeastern",
             "resource_url": "http://www.bing.com/news/search?first=1&q=political%2Bgeography&format=RSS&cc=us",
             "source_url": "http://dailykos.com/story/2013/08/30/1234499/-Political-Geography-of-Maine-Part-6-Northern-and-Northeastern-Maine"
-        },
-        "transconflict.com/2013/06/keynote-lecture-the-political-geography-of-israel-palestine-apartheid-or-confederation": {
-            "title": "Keynote Lecture The political geography of Israel/Palestine: apartheid or confederation?",
-            "snippet": "Prof. Oren Yiftachel of Ben-Gurion University in Beer-Sheva/Israel will discuss the Israeli-Palestinian Conflict from his lenses as a political geographer. He will address the dilemma among academics, scholars, politicians and policy makers about...",
-            "date": "2013-06-25",
-            "categories": "policy,university,geography",
-            "tags": "policy,lecture,political,geography",
-            "recuweb_url": "http://en.recuweb.com/geography/transconflict.com/2013/06/keynote-lecture-the-political-geography-of-israel-palestine-apartheid-or-confederation",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=political%2Bgeography&format=RSS&cc=us",
-            "source_url": "http://transconflict.com/2013/06/keynote-lecture-the-political-geography-of-israelpalestine-apartheid-or-confederation/"
-        },
-        "economix.blogs.nytimes.com/2012/03/the-political-geography-of-gasoline-prices": {
-            "title": "The Political Geography of Gasoline Prices...",
-            "snippet": "Many readers were not convinced by my article in Saturdays paper pointing out the lack of evidence that gasoline prices affect the outcomes of presidential elections. The objections can be summarized as follows: Rising gas prices obviously make...",
-            "date": "2012-03-21",
-            "categories": "evidence,political-geography,geography",
-            "tags": "political,political_geography,geography,many",
-            "recuweb_url": "http://en.recuweb.com/geography/economix.blogs.nytimes.com/2012/03/the-political-geography-of-gasoline-prices",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=political%2Bgeography&format=RSS&cc=us",
-            "source_url": "http://economix.blogs.nytimes.com/2012/03/21/the-political-geography-of-gasoline-prices/"
-        },
-        "ivn.us/2012/03/californias-political-geography-red-blue-&-purple-all-over": {
-            "title": "Californias Political Geography: Red, Blue & Purple All Over...",
-            "snippet": "The Public Policy Institute of California generated a recent publication geographically illustrating political trends in California. In preface to their report, the institute claims, California has a well-earned reputation as a strongly Democratic...",
-            "date": "2012-03-05",
-            "categories": "institute,policy,political-geography,geography",
-            "tags": "policy,political,political_geography,geography",
-            "recuweb_url": "http://en.recuweb.com/geography/ivn.us/2012/03/californias-political-geography-red-blue-&-purple-all-over",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=political%2Bgeography&format=RSS&cc=us",
-            "source_url": "http://ivn.us/2012/03/06/california-political-geography-open-primaries/"
-        },
-        "fivethirtyeight.blogs.nytimes.com/2012/01/the-political-geography-of-florida": {
-            "title": "The Political Geography of Florida...",
-            "snippet": "There are 4,063,853 registered Republicans in Florida. But they are not spaced uniformly throughout the state, and they are not homogeneous demographically or ideologically. Floridas Republican primary electorate is much more diverse than Iowas,...",
-            "date": "2012-01-31",
-            "categories": "political-geography,geography",
-            "tags": "than,state,political,political_geography,geography",
-            "recuweb_url": "http://en.recuweb.com/geography/fivethirtyeight.blogs.nytimes.com/2012/01/the-political-geography-of-florida",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=political%2Bgeography&format=RSS&cc=us",
-            "source_url": "http://fivethirtyeight.blogs.nytimes.com/2012/01/31/the-political-geography-of-florida/"
         }
     }
 }
