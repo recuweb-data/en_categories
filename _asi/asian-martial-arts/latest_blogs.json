@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "asian-martial-arts",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/asian-martial-arts/",
@@ -10,14 +11,46 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/asian-martial-arts/asian-martial-arts/blogs.json"
     },
     "items": {
+        "chinesemartialstudies.com/2015/04/chinese-martial-arts-in-the-news-april-27th-2015-swords-shaolin": {
+            "title": "Chinese Martial Arts in the News: April 27th, 2015: Swords, Shaolin...",
+            "snippet": "Introduction Welcome to Chinese Martial Arts in the News. This is a semi-regular feature here at Kung Fu Tea in which we review media stories that mention or affect the traditional fighting arts. In addition to discussing...",
+            "date": "2015-04-27",
+            "author_name": "benjudkins",
+            "categories": "tea,chinese-martial-arts,martial-arts,arts",
+            "tags": "addition,addition-to-discussing,discussing,stories,stories-that-mention,mention,mention-or-affect,affect,kung,kung_fu_tea,tea,regular,regular-feature,regular-feature-here,feature,feature-here,here,semi,introduction,introduction_welcome,welcome,chinese,chinese_martial,chinese_martial_arts,martial,martial_arts,arts,traditional,fighting",
+            "recuweb_url": "http://en.recuweb.com/arts/chinesemartialstudies.com/2015/04/chinese-martial-arts-in-the-news-april-27th-2015-swords-shaolin",
+            "resource_url": "http://www.google.com/search?q=asian%2Bmartial%2Barts%2Basian%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://chinesemartialstudies.com/2015/04/27/chinese-martial-arts-in-the-news-april-27th-2015-swords-shaolin-and-martial-arts-studies/"
+        },
+        "chinesemartialstudies.com/2015/04/lives-of-chinese-martial-artists-15-fei-ching-po-professional": {
+            "title": "Lives of Chinese Martial Artists (15): Fei Ching Po Professional...",
+            "snippet": "These myths still help to define the Chinese martial arts in the public imagination today. But is there any truth behind these late Qing and Republic era legends? Historians including Henning and Lorge have suggested that...",
+            "date": "2015-04-24",
+            "author_name": "benjudkins",
+            "categories": "arts",
+            "tags": "era,chinese,chinese_martial,martial,arts,today",
+            "recuweb_url": "http://en.recuweb.com/arts/chinesemartialstudies.com/2015/04/lives-of-chinese-martial-artists-15-fei-ching-po-professional",
+            "resource_url": "http://www.google.com/search?q=asian%2Bmartial%2Barts%2Basian%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://chinesemartialstudies.com/2015/04/23/lives-of-chinese-martial-artists-15-fei-ching-po-professional-gambler-and-female-martial-artist-in-early-19th-guangzhou/"
+        },
+        "reddit.com/2015/04/psbattle-asian-man-with-shades-in-a-tight-business-outfit-performing": {
+            "title": "PsBattle: Asian man with shades, in a tight business outfit performing Eastern martial arts next to...",
+            "snippet": "PsBattle: Asian man with shades, in a tight business outfit performing Eastern martial arts next to...",
+            "date": "2015-04-21",
+            "categories": "business,arts",
+            "tags": "next,man,asian,martial,arts",
+            "recuweb_url": "http://en.recuweb.com/arts/reddit.com/2015/04/psbattle-asian-man-with-shades-in-a-tight-business-outfit-performing",
+            "resource_url": "http://www.reddit.com/search.rss?q=asian%2Bmartial%2Barts%2Basian%2Bmartial%2Barts&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/photoshopbattles/comments/33cxn4/psbattle_asian_man_with_shades_in_a_tight/"
+        },
         "chinesemartialstudies.com/2015/04/through-a-lens-darkly-30-magic-lanterns-and-the-asian-martial": {
             "title": "Through a Lens Darkly (30): Magic Lanterns and the Asian Martial...",
             "snippet": "Introduction When introducing topics like the transnational translation of the martial arts, the construction of popular beliefs about Asian culture through images of violence, or even the reduction of hand combat's once radical...",
             "date": "2015-04-21",
             "author_name": "benjudkins",
-            "categories": "culture,construction,belief,magic,arts",
-            "tags": "even,culture,popular,asian,asian_martial,martial,introduction,arts",
-            "recuweb_url": "http://en.recuweb.com/arts/chinesemartialstudies.com/2015/04/through-a-lens-darkly-30-magic-lanterns-and-the-asian-martial",
+            "categories": "construction,belief,magic,arts,culture",
+            "tags": "popular,asian,asian_martial,martial,introduction,arts,culture",
+            "recuweb_url": "http://en.recuweb.com/culture/chinesemartialstudies.com/2015/04/through-a-lens-darkly-30-magic-lanterns-and-the-asian-martial",
             "resource_url": "http://www.google.com/search?q=asian%2Bmartial%2Barts%2Basian%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://chinesemartialstudies.com/2015/04/21/through-a-lens-darkly-30-magic-lanterns-and-the-asian-martial-arts-1900-1920/"
         },
@@ -25,21 +58,21 @@
             "title": "Beyond the Dragon: Charting the influence of Bruce Lee and Black Power Activists in the rise of...",
             "snippet": "This paper explores the historicization of the rise of martial arts in urban, Black American communities during the Black Power Era. The Black Arts Movements call to create []...",
             "date": "2015-04-13",
-            "author_name": "bowmanp",
+            "author_name": "PaulBowman",
             "categories": "arts",
-            "tags": "arts,american,bruce,bruce_lee,lee,influence,martial",
+            "tags": "arts,era,bruce,bruce_lee,lee,martial",
             "recuweb_url": "http://en.recuweb.com/arts/mastudiesrn.wordpress.com/2015/04/beyond-the-dragon-charting-influence-of-bruce-lee-and-black-power",
             "resource_url": "http://en.search.wordpress.com/?q=asian%2Bmartial%2Barts%2Basian%2Bmartial%2Barts&f=feed&page=1",
             "source_url": "http://mastudiesrn.wordpress.com/2015/04/13/beyond-the-dragon-charting-the-influence-of-bruce-lee-and-black-power-activists-in-the-rise-of-martial-arts-in-20th-century-african-american-communities/"
         },
-        "chinesemartialstudies.com/2015/04/everything-about-the-chinese-martial-arts-in-1200-words-or-less": {
+        "chinesemartialstudies.com/2015/04/everything-about-the-chinese-martial-arts-in-1200-words-or": {
             "title": "Everything about the Chinese Martial Arts, in 1200 Words or Less...",
             "snippet": "... for the article promised in the title. A few months ago I was contacted by an editor for a new ABC-CLIO encyclopedia (on popular culture in Asia) about the possibility of writing a number of articles on the Chinese martial arts.",
             "date": "2015-04-10",
             "author_name": "benjudkins",
-            "categories": "popular-culture,culture,chinese-martial-arts,martial-arts,arts",
-            "tags": "popular,culture,few,chinese,chinese_martial,chinese_martial_arts,martial,martial_arts,arts,asia",
-            "recuweb_url": "http://en.recuweb.com/arts/chinesemartialstudies.com/2015/04/everything-about-the-chinese-martial-arts-in-1200-words-or-less",
+            "categories": "chinese-martial-arts,martial-arts,arts,culture",
+            "tags": "popular,few,chinese,chinese_martial,chinese_martial_arts,martial,martial_arts,arts,culture,asia",
+            "recuweb_url": "http://en.recuweb.com/culture/chinesemartialstudies.com/2015/04/everything-about-the-chinese-martial-arts-in-1200-words-or",
             "resource_url": "http://www.google.com/search?q=asian%2Bmartial%2Barts%2Basian%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://chinesemartialstudies.com/2015/04/09/everything-about-the-chinese-martial-arts-in-1200-words-or-less/"
         },
@@ -49,7 +82,7 @@
             "date": "2015-04-06",
             "author_name": "benjudkins",
             "categories": "tea,chinese-martial-arts,martial-arts,arts",
-            "tags": "addition,addition-to-discussing,discussing,stories,stories-that-mention,mention,mention-or-affect,affect,affect-the-traditional,traditional,traditional-fighting,fighting,kung,kung_fu_tea,tea,regular,regular-feature,regular-feature-here,feature,feature-here,here,semi,introduction,introduction_welcome,welcome,chinese,chinese_martial,chinese_martial_arts,martial,martial_arts,arts,man,books",
+            "tags": "addition,addition-to-discussing,discussing,stories,stories-that-mention,mention,mention-or-affect,affect,kung,kung_fu_tea,tea,regular,regular-feature,regular-feature-here,feature,feature-here,here,semi,introduction,introduction_welcome,welcome,chinese,chinese_martial,chinese_martial_arts,martial,martial_arts,arts,man,traditional,fighting",
             "recuweb_url": "http://en.recuweb.com/arts/chinesemartialstudies.com/2015/04/chinese-martial-arts-in-the-news-april-6th-2015-ip-man",
             "resource_url": "http://www.google.com/search?q=asian%2Bmartial%2Barts%2Basian%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://chinesemartialstudies.com/2015/04/06/chinese-martial-arts-in-the-news-april-6th-2015-ip-man-3-books-and-global-kung-fu/"
@@ -59,10 +92,10 @@
             "snippet": "Come see the best martial arts program in the Dayton, Ohio area. We teach all ages and specialize in straight a students, athletes, adhd, asperger's syndrome.",
             "date": "2015-03-18",
             "author_name": "aac",
-            "categories": "students,arts,martial-arts",
-            "tags": "ages,students,program,asian,asian_arts,asian_arts_center,arts,arts_center,center,martial,martial_arts,martial_arts_tricking,arts_tricking,tricking,come,best,dayton,ohio",
-            "recuweb_url": "http://en.recuweb.com/martial-arts/aacdayton.com/2015/03/connor-simon-martial-arts-tricking-sampler-asian-center",
-            "resource_url": "http://www.google.com/search?q=asian%2Bmartial%2Barts%2Basian%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "categories": "arts,martial-arts,students",
+            "tags": "asian,asian_arts,asian_arts_center,arts,arts_center,center,martial,martial_arts,martial_arts_tricking,arts_tricking,tricking,come,dayton,ohio,students",
+            "recuweb_url": "http://en.recuweb.com/students/aacdayton.com/2015/03/connor-simon-martial-arts-tricking-sampler-asian-center",
+            "resource_url": "http://www.google.com/search?q=asian%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://aacdayton.com/connor-simon-martial-arts-tricking-sampler"
         },
         "reddit.com/2015/03/who-will-be-the-next-asian-born-ufc-champ": {
@@ -70,7 +103,7 @@
             "snippet": "With all the Bruce Lee and Asian Martial Arts references that are thrown around and mentioned nowadays in the same breath as the are there not more Asian champions? I struggle to think of more than a few \"top level\" Asian it Simply because BJJ And...",
             "date": "2015-03-12",
             "categories": "martial-arts,arts",
-            "tags": "few,top,martial,martial-arts,arts,bruce,bruce_lee,lee,asian",
+            "tags": "few,top,martial,arts,bruce,bruce_lee,lee,next,asian,bjj",
             "recuweb_url": "http://en.recuweb.com/arts/reddit.com/2015/03/who-will-be-the-next-asian-born-ufc-champ",
             "resource_url": "http://www.reddit.com/search.rss?q=asian%2Bmartial%2Barts%2Basian%2Bmartial%2Barts&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/MMA/comments/2yr4ch/who_will_be_the_next_asian_born_ufc_champ/"
@@ -81,43 +114,10 @@
             "date": "2015-03-09",
             "author_name": "aac",
             "categories": "arts,taekwondo,school,martial-arts",
-            "tags": "asian,asian_arts,asian_arts_center,arts,arts_center,center,taekwondo,ohio,action,martial,martial_arts,dayton",
+            "tags": "asian,asian_arts,asian_arts_center,arts,arts_center,center,master,ohio,action,martial,martial_arts,dayton",
             "recuweb_url": "http://en.recuweb.com/martial-arts/aacdayton.com/2015/03/take-action-martial-arts-is-for-you-in-dayton-ohio-asian",
             "resource_url": "http://www.google.com/search?q=asian%2Bmartial%2Barts%2Basian%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://aacdayton.com/sabrina-answers-the-question-of-the-week"
-        },
-        "uwbrandingiron.com/2015/02/internal-strength-rso-offers-asian-martial-arts-classes-at-uw": {
-            "title": "Internal Strength: RSO offers Asian Martial Arts classes at UW The...",
-            "snippet": "Beginning in the late 1960s, actors like Bruce Lee and Chuck Norris captivated the American consciousness, inspiring generations to become involved with Asian martial arts. University of Wyoming's own Asian Internal...",
-            "date": "2015-02-26",
-            "author_name": "Kip Decastro",
-            "categories": "asian-martial-arts,martial-arts,arts,consciousness,university",
-            "tags": "bruce,bruce_lee,lee,asian,asian_martial,martial,martial_arts,arts,classes,american",
-            "recuweb_url": "http://en.recuweb.com/university/uwbrandingiron.com/2015/02/internal-strength-rso-offers-asian-martial-arts-classes-at-uw",
-            "resource_url": "http://www.google.com/search?q=asian%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://uwbrandingiron.com/2015/02/26/internal-strength-rso-offers-asian-martial-arts-classes-at-uw/"
-        },
-        "chinesemartialstudies.com/2015/02/chinese-martial-arts-in-the-news-february-13th-2015-bruce-lee": {
-            "title": "Chinese Martial Arts in the News: February 13th, 2015: Bruce Lee...",
-            "snippet": "Introduction Welcome to Chinese Martial Arts in the News. This is a semi-regular feature here at Kung Fu Tea in which we review media stories that mention or affect the traditional fighting arts. In addition to discussing...",
-            "date": "2015-02-13",
-            "author_name": "benjudkins",
-            "categories": "tea,chinese-martial-arts,martial-arts,arts",
-            "tags": "addition,addition-to-discussing,discussing,stories,stories-that-mention,mention,mention-or-affect,affect,affect-the-traditional,traditional,traditional-fighting,fighting,kung,kung_fu_tea,tea,regular,regular-feature,regular-feature-here,feature,feature-here,here,semi,introduction,introduction_welcome,welcome,bruce,bruce_lee,lee,chinese,chinese_martial,chinese_martial_arts,martial,martial_arts,arts",
-            "recuweb_url": "http://en.recuweb.com/arts/chinesemartialstudies.com/2015/02/chinese-martial-arts-in-the-news-february-13th-2015-bruce-lee",
-            "resource_url": "http://www.google.com/search?q=asian%2Bmartial%2Barts%2Basian%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://chinesemartialstudies.com/2015/02/13/chinese-martial-arts-in-the-news-february-13th-2015-bruce-lee-martial-arts-studies-and-the-return-of-the-kung-fu-panda/"
-        },
-        "insidethegames.biz/2014/11/ashgabat-s-asian-indoor-and-martial-arts-games-may-include-30": {
-            "title": "Ashgabat's Asian Indoor and Martial Arts Games may include 30...",
-            "snippet": "Turkmenistan President Gurbanguly Berdimuhamedow (centre) signs the Memorandum with Sheikh Ahmad Al-Fahad The 2017 Asian Indoor and Martial Arts Games (AIMAG) in Ashgabat could feature 30 or more sports...",
-            "date": "2014-11-28",
-            "author_name": "Nick Butler",
-            "categories": "martial-arts,arts,sport",
-            "tags": "feature,turkmenistan,martial,martial_arts,martial_arts_games,arts,arts_games,games,asian,asian_indoor,indoor,ashgabat,sports",
-            "recuweb_url": "http://en.recuweb.com/sport/insidethegames.biz/2014/11/ashgabat-s-asian-indoor-and-martial-arts-games-may-include-30",
-            "resource_url": "http://www.google.com/search?q=asian%2Bmartial%2Barts%2Basian%2Bmartial%2Barts&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://insidethegames.biz/articles/1024070/ashgabat-s-asian-indoor-and-martial-arts-games-may-include-30-sports-and-6-000-athletes"
         }
     }
 }
