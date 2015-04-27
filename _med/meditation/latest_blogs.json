@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "meditation",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/meditation/",
@@ -10,24 +11,13 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/meditation/meditation/blogs.json"
     },
     "items": {
-        "news.stanford.edu/2015/04/compassion-meditation-reduces-mind-wandering-stanford-research": {
-            "title": "Compassion meditation reduces mind-wandering, Stanford research...",
-            "snippet": "Stanford's Center for Compassion and Altruism Research and Education found that compassion meditation training can reduce \"mind-wandering\" and encourage caring and benevolent behavior toward oneself and others.",
-            "date": "2015-04-22",
-            "author_name": "unknown",
-            "categories": "mind,altruism,meditation,education",
-            "tags": "mind,found,compassion,research,meditation",
-            "recuweb_url": "http://en.recuweb.com/education/news.stanford.edu/2015/04/compassion-meditation-reduces-mind-wandering-stanford-research",
-            "resource_url": "http://www.google.com/search?q=meditation%2Bmeditation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://news.stanford.edu/news/2015/april/mindful-meditation-benefits-042215.html"
-        },
         "garmin.blogs.com/2015/04/incorporate-meditation-into-your-routine": {
             "title": "Incorporate Meditation Into your Routine...",
             "snippet": "The daily grind of getting your steps in and working out can become overwhelming sometimes. Set aside some time each day to meditate to help you retain balance in your life. Kim Colegrove, a meditation expert at Make Time for Nothing, talked through...",
             "date": "2015-04-22",
             "author_name": "Claire Haigh",
             "categories": "life,meditation",
-            "tags": "life,meditate,become,meditation,into,daily,day,help,make",
+            "tags": "help,life,each,daily,getting,meditation,into,meditate",
             "recuweb_url": "http://en.recuweb.com/meditation/garmin.blogs.com/2015/04/incorporate-meditation-into-your-routine",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=meditation%2Bmeditation&rss=1&lng=en",
             "source_url": "http://garmin.blogs.com/uk/2015/04/incorporate-meditation-into-your-routine.html"
@@ -38,7 +28,7 @@
             "date": "2015-04-22",
             "author_name": "Wildmind Meditation News",
             "categories": "meditation,love",
-            "tags": "guided,meditations,meditation,buddhist,buddhist_meditation,why,meditate,awareness,huffington",
+            "tags": "meditations,meditation,wildmind,buddhist,buddhist_meditation,why,meditate,awareness,huffington",
             "recuweb_url": "http://en.recuweb.com/love/wildmind.org/2015/04/so-why-do-you-meditate-wildmind-buddhist-meditation",
             "resource_url": "http://www.google.com/search?q=meditation%2Bmeditation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://wildmind.org/blogs/news/so-why-do-you-meditate"
@@ -49,7 +39,7 @@
             "date": "2015-04-21",
             "author_name": "Light Watkins",
             "categories": "meditation",
-            "tags": "back,insider,make,meditation,teacher",
+            "tags": "meditating,back,insider,meditation,teacher",
             "recuweb_url": "http://en.recuweb.com/meditation/mindbodygreen.com/2015/04/7-insider-tips-to-make-meditation-easier",
             "resource_url": "http://www.google.com/search?q=meditation%2Bmeditation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://mindbodygreen.com/0-18385/7-insider-tips-to-make-meditation-easier.html"
@@ -60,7 +50,7 @@
             "date": "2015-04-21",
             "author_name": "Vero Silvan",
             "categories": "religion,culture,life,buddhism,meditation",
-            "tags": "study,into,life,buddhist,meditation",
+            "tags": "into,life,buddhist,meditation",
             "recuweb_url": "http://en.recuweb.com/meditation/verosilvan.wordpress.com/2015/04/life-in-a-buddhistic-monestary",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=meditation%2Bmeditation&rss=1&lng=en",
             "source_url": "http://verosilvan.wordpress.com/2015/04/21/life-in-a-buddhistic-monestary/"
@@ -71,10 +61,21 @@
             "date": "2015-04-21",
             "author_name": "Drake Baer",
             "categories": "home,business,meditation",
-            "tags": "alternative,home,insider,teacher,amazing,meditation,practice",
+            "tags": "means,actually,home,insider,teacher,amazing,meditation,practice",
             "recuweb_url": "http://en.recuweb.com/meditation/businessinsider.com/2015/04/this-meditation-teacher-has-an-amazing-business-insider",
             "resource_url": "http://www.google.com/search?q=meditation%2Bmeditation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://businessinsider.com/ethan-nichtern-the-road-home-interview-2015-4"
+        },
+        "wildmind.org/2015/04/meditation-in-ontario-wildmind-buddhist": {
+            "title": "Meditation in Ontario Wildmind Buddhist Meditation...",
+            "snippet": "Meditation in Ontario. harshaprabha I just wanted to flag up that in late May and June my friend Harshaprabha of the Triratna Buddhist Order will be offering the opportunity to meet with like-minded people in Goderich, Guelph...",
+            "date": "2015-04-20",
+            "author_name": "Bodhipaksa",
+            "categories": "meditation",
+            "tags": "people,offering,buddhist,wildmind,meditation",
+            "recuweb_url": "http://en.recuweb.com/meditation/wildmind.org/2015/04/meditation-in-ontario-wildmind-buddhist",
+            "resource_url": "http://www.google.com/search?q=meditation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://wildmind.org/blogs/on-practice/meditation-in-ontario"
         },
         "cliffsidemalibu.com/2015/04/meditation-improves-brain-function": {
             "title": "Meditation Improves Brain Function...",
@@ -82,7 +83,7 @@
             "date": "2015-04-20",
             "author_name": "sheilas",
             "categories": "teaching,evidence,meditation",
-            "tags": "research,why,meditation,mindfulness",
+            "tags": "teaching,why,mindfulness,great,meditation,research",
             "recuweb_url": "http://en.recuweb.com/meditation/cliffsidemalibu.com/2015/04/meditation-improves-brain-function",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=meditation%2Bmeditation&rss=1&lng=en",
             "source_url": "http://cliffsidemalibu.com/richard-taite/meditation-improves-brain-function/"
@@ -93,7 +94,7 @@
             "date": "2015-04-20",
             "author_name": "Susie Wolbe",
             "categories": "relationships,meditation",
-            "tags": "relationships,mindfulness,meditation,practice",
+            "tags": "mindfulness,meditation,practice",
             "recuweb_url": "http://en.recuweb.com/meditation/huffingtonpost.com/2015/04/the-results-of-a-mindfulness-meditation-practice-susie-wolbe",
             "resource_url": "http://www.google.com/search?q=meditation%2Bmeditation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://huffingtonpost.com/susie-wolbe/the-results-of-a-mindfuln_b_7088418.html"
@@ -103,22 +104,22 @@
             "snippet": "I thought meditation was some weirdo-hippie-yoga-granola-crunchy-LA thang(and maybe it is)but it the latest neuroscience research PROVES that meditation techniques have beneficial effects on both your mind...",
             "date": "2015-04-17",
             "author_name": "Lindsay S. Nixon",
-            "categories": "mind,meditation,yoga",
-            "tags": "mind,research,maybe,meditation,yoga",
-            "recuweb_url": "http://en.recuweb.com/yoga/happyherbivore.com/2015/04/meditation-workshop-reconnect-happy-herbivore",
+            "categories": "meditation,yoga,mind",
+            "tags": "meditation,workshop,yoga,research,mind",
+            "recuweb_url": "http://en.recuweb.com/mind/happyherbivore.com/2015/04/meditation-workshop-reconnect-happy-herbivore",
             "resource_url": "http://www.google.com/search?q=meditation%2Bmeditation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://happyherbivore.com/2015/04/meditation-workshop-how-to-meditate/"
         },
-        "huffingtonpost.com/2015/04/daily-meditation-true-faith-huffington": {
-            "title": "Daily Meditation: True Faith - Huffington Post...",
-            "snippet": "We all need help maintaining our personal spiritual practice. We hope that these Daily Meditations, prayers and mindful awareness exercises can be part of bringing spirituality alive in your life. Today's meditation features a...",
-            "date": "2015-04-16",
-            "author_name": "Antonia Blumberg",
-            "categories": "spirituality,life,meditation",
-            "tags": "prayers,prayers-and-mindful,mindful,mindful-awareness,mindful-awareness-exercises,awareness,awareness-exercises,exercises,part,part-of-bringing,bringing,bringing-spirituality,spirituality,life,daily,daily_meditations,daily_meditation,meditations,meditation,hope,maintaining,maintaining-our-personal,personal,personal-spiritual,spiritual,need,huffington,help,practice",
-            "recuweb_url": "http://en.recuweb.com/meditation/huffingtonpost.com/2015/04/daily-meditation-true-faith-huffington",
-            "resource_url": "http://www.google.com/search?q=meditation%2Bmeditation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://huffingtonpost.com/2015/04/16/daily-meditation_n_7073676.html"
+        "huffingtonpost.com/2015/04/when-meditation-is-not-good-for-you-arjuna-ardagh-huffington": {
+            "title": "When Meditation Is Not Good for You Arjuna Ardagh - Huffington Post...",
+            "snippet": "As I travel from city to city offering Awakening Coaching Intensives, I hear statements from so many people like \"I'm not very good at meditation,'\" or \"my meditation does not go very deep,\" or \"I just sit and there is an endless...",
+            "date": "2015-04-17",
+            "author_name": "Arjuna Ardagh",
+            "categories": "meditation,travel",
+            "tags": "sit,deep,people,offering,meditation,huffington",
+            "recuweb_url": "http://en.recuweb.com/travel/huffingtonpost.com/2015/04/when-meditation-is-not-good-for-you-arjuna-ardagh-huffington",
+            "resource_url": "http://www.google.com/search?q=meditation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://huffingtonpost.com/arjuna-ardagh/when-meditation-is-not-good-for-you_b_7021852.html"
         }
     }
 }
