@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "olympic-games",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/olympic-games/",
@@ -10,13 +11,79 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/olympic-games/olympic-games/blogs.json"
     },
     "items": {
+        "mmafighting.com/2015/04/anderson-silva-willing-to-get-embarrassed-for-olympic-goal-mma": {
+            "title": "Anderson Silva willing to get 'embarrassed'for Olympic goal - MMA...",
+            "snippet": "Anderson Silva will compete at the official taekwondo tryouts for a spot at the 2016 Olympic Games in Rio de Janeiro, and he's willing to get beat up in the process. Alongside with Carlos Fernandes, president of the Brazilian...",
+            "date": "2015-04-22",
+            "author_name": "Guilherme Cruz",
+            "categories": "taekwondo",
+            "tags": "president,process,games,taekwondo,spot,anderson,anderson_silva,silva,olympic,compete,rio,janeiro",
+            "recuweb_url": "http://en.recuweb.com/taekwondo/mmafighting.com/2015/04/anderson-silva-willing-to-get-embarrassed-for-olympic-goal-mma",
+            "resource_url": "http://www.google.com/search?q=olympic%2Bgames&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://mmafighting.com/2015/4/22/8470297/anderson-silva-willing-to-get-embarrassed-for-olympic-goal"
+        },
+        "blogs.rep-am.com/2015/04/former-crosby-star-seeks-spot-in-second-olympic-games-off": {
+            "title": "Former Crosby star seeks spot in second Olympic Games Off the...",
+            "snippet": "The quest to reach Brazil and compete in the 2016 Olympic Summer Games in Rio De Janeiro has begun in earnest. Former Crosby High track and cross country star and Columbia University All-American Lisa Stublic Nemec...",
+            "date": "2015-04-22",
+            "author_name": "Joe Palladino",
+            "categories": "university,olympic-games",
+            "tags": "american,high,rio,janeiro,olympic,summer,games,olympic_games,spot,second,former,brazil,compete",
+            "recuweb_url": "http://en.recuweb.com/olympic-games/blogs.rep-am.com/2015/04/former-crosby-star-seeks-spot-in-second-olympic-games-off",
+            "resource_url": "http://www.google.com/search?q=olympic%2Bgames%2Bolympic%2Bgames&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.rep-am.com/off_the_record/2015/04/22/former-crosby-star-seeks-spot-in-second-olympic-games/"
+        },
+        "inquisitr.com/2015/04/is-anderson-silva-planning-to-compete-at-the-2016-olympic-games": {
+            "title": "Is Anderson Silva Planning To Compete At The 2016 Olympic Games?",
+            "snippet": "Sure, Anderson Silva is known for his athleticism and strong work ethic, but is he ready to compete in the Olympic Games? That's what the former UFC.",
+            "date": "2015-04-15",
+            "author_name": "Sandra Johnson",
+            "categories": "olympic-games",
+            "tags": "former,work,anderson,anderson_silva,silva,olympic,olympic_games,games,planning,compete,ufc",
+            "recuweb_url": "http://en.recuweb.com/olympic-games/inquisitr.com/2015/04/is-anderson-silva-planning-to-compete-at-the-2016-olympic-games",
+            "resource_url": "http://www.google.com/search?q=olympic%2Bgames%2Bolympic%2Bgames&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://inquisitr.com/2012908/is-anderson-silva-planning-to-compete-at-the-2016-olympic-games/"
+        },
+        "foxsports.com/2015/04/anderson-silva-wants-to-compete-in-rio-2016-olympic-games-fox": {
+            "title": "Anderson Silva wants to compete in Rio 2016 Olympic Games FOX...",
+            "snippet": "Former UFC champion Anderson Silva recently got caught using steroids, but he still wants to compete in Taekwondo at the 2016 Olympic Games in his native Brazil.",
+            "date": "2015-04-14",
+            "author_name": "unknown",
+            "categories": "olympic-games,taekwondo",
+            "tags": "native,olympic,olympic_games,games,wants,former,former_ufc,ufc,anderson,anderson_silva,silva,compete,rio,champion,taekwondo,brazil",
+            "recuweb_url": "http://en.recuweb.com/taekwondo/foxsports.com/2015/04/anderson-silva-wants-to-compete-in-rio-2016-olympic-games-fox",
+            "resource_url": "http://www.google.com/search?q=olympic%2Bgames%2Bolympic%2Bgames&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://foxsports.com/ufc/story/anderson-silva-wants-to-compete-in-2016-olympic-games-041415"
+        },
+        "mmamania.com/2015/04/anderson-silva-wants-to-represent-brazil-in-taekwondo-at-2016": {
+            "title": "Anderson Silva wants to represent Brazil in Taekwondo at 2016...",
+            "snippet": "Former UFC Middleweight champion Anderson Silva has set the wheels in motion to compete at the 2016 Olympic games in Rio de Janeiro, Brazil, hoping to represent his country in Taekwondo with all his \"esteem, strength...",
+            "date": "2015-04-14",
+            "author_name": "Adam Guillen Jr.",
+            "categories": "taekwondo",
+            "tags": "former,former_ufc,ufc,middleweight,wants,anderson,anderson_silva,silva,brazil,taekwondo,champion,compete,olympic,games,rio,janeiro",
+            "recuweb_url": "http://en.recuweb.com/taekwondo/mmamania.com/2015/04/anderson-silva-wants-to-represent-brazil-in-taekwondo-at-2016",
+            "resource_url": "http://www.google.com/search?q=olympic%2Bgames%2Bolympic%2Bgames&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://mmamania.com/2015/4/13/8406593/ufc-anderson-silva-wants-to-represent-brazil-in-taekwondo-at-2016-olympic-games-mma"
+        },
+        "bloodyelbow.com/2015/04/ufc-anderson-silva-petitioning-to-compete-in-2016-olympic-games": {
+            "title": "UFC: Anderson Silva petitioning to compete in 2016 Olympic games...",
+            "snippet": "The 2016 Olympic Summer Games are right around the corner, and former UFC middleweight champion, Anderson Silva, has his eye on a possible Olympic bid. The Brazailian superstar is a fifth dan black belt in taekwondo,...",
+            "date": "2015-04-13",
+            "author_name": "Steph Daniels",
+            "categories": "taekwondo",
+            "tags": "fifth,taekwondo,middleweight,champion,former,summer,games,anderson,anderson_silva,silva,ufc,compete,olympic,bid",
+            "recuweb_url": "http://en.recuweb.com/taekwondo/bloodyelbow.com/2015/04/ufc-anderson-silva-petitioning-to-compete-in-2016-olympic-games",
+            "resource_url": "http://www.google.com/search?q=olympic%2Bgames%2Bolympic%2Bgames&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://bloodyelbow.com/2015/4/13/8405641/ufc-anderson-silva-petitioning-to-compete-in-2016-olympic-games-taekwondo-mma-ped"
+        },
         "touchingyourcommunity.com/2015/04/modern-olympic-games": {
             "title": "Modern Olympic Games...",
             "snippet": "By 1896 On April 6, 1896, the Olympic Games, a long-lost tradition of ancient Greece, are reborn in Athens 1,500 years after being banned by Roman Emperor Theodosius I.",
             "date": "2015-04-06",
             "author_name": "TYC",
             "categories": "tradition,olympic-games",
-            "tags": "tradition,ancient,olympic,olympic_games,games,years,after",
+            "tags": "tradition,ancient,olympic,olympic_games,games",
             "recuweb_url": "http://en.recuweb.com/olympic-games/touchingyourcommunity.com/2015/04/modern-olympic-games",
             "resource_url": "http://en.search.wordpress.com/?q=olympic%2Bgames%2Bolympic%2Bgames&f=feed&page=1",
             "source_url": "http://touchingyourcommunity.com/2015/04/06/modern-olympic-games/"
@@ -27,10 +94,21 @@
             "date": "2015-03-29",
             "author_name": "HotelSegas",
             "categories": "tradition,olympic-games",
-            "tags": "tradition,years,many,ancient,olympic,olympic_games,games",
+            "tags": "tradition,said,ancient,olympic,olympic_games,games",
             "recuweb_url": "http://en.recuweb.com/olympic-games/hotelsegas.blogspot.com/2015/03/ancient-olympic-games",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=olympic%2Bgames%2Bolympic%2Bgames&rss=1&lng=en",
             "source_url": "http://hotelsegas.blogspot.com/2015/03/ancient-olympic-games.html"
+        },
+        "theguardian.com/2015/03/rio-2016-chiefs-are-planning-a-fit-clean-and-fun-olympic": {
+            "title": "Rio 2016 chiefs are planning a 'fit, clean and fun'Olympic Games...",
+            "snippet": "Rio 2016 organisers pledge to learn from Brazil's hosting of the football World Cup as the countdown begins with tickets going on sale.",
+            "date": "2015-03-29",
+            "author_name": "Martin Pengelly in Rio de Janeiro",
+            "categories": "football,olympic-games",
+            "tags": "football,olympic,olympic_games,games,planning,rio,brazil,tickets",
+            "recuweb_url": "http://en.recuweb.com/olympic-games/theguardian.com/2015/03/rio-2016-chiefs-are-planning-a-fit-clean-and-fun-olympic",
+            "resource_url": "http://www.google.com/search?q=olympic%2Bgames%2Bolympic%2Bgames&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theguardian.com/sport/2015/mar/29/olympic-games-2016-rio-brazil-tickets-sale-fit-clean-fun"
         },
         "kizi20com3.wordpress.com/2015/03/winter-olympics-rings": {
             "title": "Winter Olympics Rings...",
@@ -38,87 +116,10 @@
             "date": "2015-03-29",
             "author_name": "admin",
             "categories": "play,school",
-            "tags": "game,winter,olympics,rings,play,games,school",
+            "tags": "game,winter,olympics,games,school",
             "recuweb_url": "http://en.recuweb.com/school/kizi20com3.wordpress.com/2015/03/winter-olympics-rings",
             "resource_url": "http://en.search.wordpress.com/?q=olympic%2Bgames%2Bolympic%2Bgames&f=feed&page=1",
             "source_url": "http://kizi20com3.wordpress.com/2015/03/29/winter-olympics-rings/"
-        },
-        "breakingtravelnews.com/2015/03/venues-confirmed-for-2016-olympic-games-football-tournament": {
-            "title": "Venues confirmed for 2016 Olympic Games football tournament...",
-            "snippet": "It's confirmed. In addition to Rio de Janeiro, five other Brazilian cities will stage the 2016 Olympic Games and host the men's and women's football matches. The 58 matches will be played in Belo Horizonte (Mineir\u00e3o), Bras\u00edlia...",
-            "date": "2015-03-20",
-            "author_name": "Breaking Travel News",
-            "categories": "football,olympic-games",
-            "tags": "matches,host,tournament,olympic,olympic_games,games,rio,janeiro",
-            "recuweb_url": "http://en.recuweb.com/olympic-games/breakingtravelnews.com/2015/03/venues-confirmed-for-2016-olympic-games-football-tournament",
-            "resource_url": "http://www.google.com/search?q=olympic%2Bgames%2Bolympic%2Bgames&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://breakingtravelnews.com/news/article/venues-confirmed-for-2016-olympic-games-football-tournament/"
-        },
-        "euronews.com/2015/03/hamburg-chosen-as-german-bid-city-for-2024-olympics-euronews": {
-            "title": "Hamburg chosen as German bid city for 2024 Olympics euronews...",
-            "snippet": "world news - The German Olympic Confederation officially selected Hamburg over Berlin as their bid city for the 2024 Olympic Games on Monday. The eight-man board of the Confederation made...",
-            "date": "2015-03-17",
-            "author_name": "unknown",
-            "categories": "olympic-games",
-            "tags": "olympics,olympic_games,games,bid,city",
-            "recuweb_url": "http://en.recuweb.com/olympic-games/euronews.com/2015/03/hamburg-chosen-as-german-bid-city-for-2024-olympics-euronews",
-            "resource_url": "http://www.google.com/search?q=olympic%2Bgames&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://euronews.com/2015/03/17/hamburg-chosen-as-german-bid-city-for-2024-olympics/"
-        },
-        "dubainewstoday.blogspot.com/2015/03/young-japan-more-beautiful-than-ever-panasonic": {
-            "title": "Young Japan More Beautiful Than Ever Panasonic...",
-            "snippet": "TOKYO - Thursday, March 12th 2015 ME NewsWire (BUSINESS WIRE)-- You may never have seen the true beauty of the young athletes training for the Tokyo 2020 Olympic Games or the natural beauty of the places in which they train. And you have certainly...",
-            "date": "2015-03-14",
-            "author_name": "Author",
-            "categories": "places,olympic-games,business",
-            "tags": "places,olympic,olympic_games,games,than",
-            "recuweb_url": "http://en.recuweb.com/business/dubainewstoday.blogspot.com/2015/03/young-japan-more-beautiful-than-ever-panasonic",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=olympic%2Bgames%2Bolympic%2Bgames&rss=1&lng=en",
-            "source_url": "http://dubainewstoday.blogspot.com/2015/03/young-japan-more-beautiful-than-ever.html"
-        },
-        "dotnews.com/2015/03/council-gets-time-frame-for-olympic-games-benchmarks-dorchester": {
-            "title": "Council gets time frame for Olympic games benchmarks Dorchester...",
-            "snippet": "The City Council's first examination of Boston's bid to host the 2024 Summer Olympic Games proved to be a marathon of testimony as boosters and detractors swapped turns at the microphone during a five-hour hearing last...",
-            "date": "2015-03-12",
-            "author_name": "Lauren Dezenski",
-            "categories": "marathon",
-            "tags": "last,during,games,bid,bid-to-host,host,first,city,frame,olympic,boston,summer",
-            "recuweb_url": "http://en.recuweb.com/marathon/dotnews.com/2015/03/council-gets-time-frame-for-olympic-games-benchmarks-dorchester",
-            "resource_url": "http://www.google.com/search?q=olympic%2Bgames%2Bolympic%2Bgames&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://dotnews.com/2015/council-gets-time-frame-olympic-games-benchmarks"
-        },
-        "kolotv.com/2015/03/lyon-county-olympic-games-on-may-20-kolo": {
-            "title": "Lyon County Olympic Games on May 20 - Kolo...",
-            "snippet": "We would like to invite you to our 5th ANNUAL LYON COUNTY SPECIAL NEEDS OLYMPIC GAMES being held on Wednesday, May 20, 2015 from 9:00 am- 2:00 pm at Fernley Intermediate School.",
-            "date": "2015-03-11",
-            "author_name": "unknown",
-            "categories": "school,olympic-games",
-            "tags": "school,special,olympic,olympic_games,games",
-            "recuweb_url": "http://en.recuweb.com/olympic-games/kolotv.com/2015/03/lyon-county-olympic-games-on-may-20-kolo",
-            "resource_url": "http://www.google.com/search?q=olympic%2Bgames%2Bolympic%2Bgames&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://kolotv.com/community/home/headlines/Lyon-County-Olympic-Games-on-May-20-295909571.html"
-        },
-        "boston.cbslocal.com/2015/03/centro-boston-2024-olympic-games-cbs": {
-            "title": "Centro: Boston 2024 Olympic Games CBS Boston...",
-            "snippet": "March 7, 2015 In January the U.S. Olympic Committee chose our great city of Boston to represent the United States in its bid to host the 2024 Olympic Games! Now, many people are asking what exactly does this mean for our...",
-            "date": "2015-03-06",
-            "author_name": "wbzcentro",
-            "categories": "olympic-games",
-            "tags": "many,bid,bid-to-host,host,united,represent,great,city,olympic,olympic_games,games,boston",
-            "recuweb_url": "http://en.recuweb.com/olympic-games/boston.cbslocal.com/2015/03/centro-boston-2024-olympic-games-cbs",
-            "resource_url": "http://www.google.com/search?q=olympic%2Bgames%2Bolympic%2Bgames&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://boston.cbslocal.com/2015/03/06/boston-2024-olympic-games/"
-        },
-        "dailycaller.com/2015/01/boston-employees-prohibited-from-criticizing-olympic-games": {
-            "title": "Boston Employees Prohibited From Criticizing Olympic Games The...",
-            "snippet": "A general view of the Olympic Rings at the Aquatic Centre during previews ahead of the London 2012 Olympic Games at Olympic Park on July 17, 2012 in London, England. (Photo: Paul Gilham/Getty Images)...",
-            "date": "2015-01-22",
-            "author_name": "Rachel Stoltzfoos",
-            "categories": "olympic-games",
-            "tags": "olympic,park,olympic_games,games,during,centre,rings,boston,london",
-            "recuweb_url": "http://en.recuweb.com/olympic-games/dailycaller.com/2015/01/boston-employees-prohibited-from-criticizing-olympic-games",
-            "resource_url": "http://www.google.com/search?q=olympic%2Bgames%2Bolympic%2Bgames&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://dailycaller.com/2015/01/21/boston-employees-prohibited-from-criticizing-olympic-games/"
         }
     }
 }
