@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "solar-energy",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/solar-energy/",
@@ -10,28 +11,89 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/solar-energy/solar-energy/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/04/changing-lives-with-solar-energy-in-rural-india": {
-            "title": "Changing Lives with Solar Energy in Rural India...",
-            "snippet": "Changing Lives with Solar Energy in Rural IndiaAuthor: ShareeBuckTags: Changing Lives with Solar Energy in Rural India Posted: 19 April 2015Rating:: 0...",
-            "date": "2015-04-19",
-            "author_name": "ShareeBuck",
-            "categories": "solar-energy",
-            "tags": "indiaauthor,india,solar,solar_energy,energy",
-            "recuweb_url": "http://en.recuweb.com/solar-energy/dailymotion.com/2015/04/changing-lives-with-solar-energy-in-rural-india",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/solar+energy/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2n4twt_changing-lives-with-solar-energy-in-rural-india_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n4twt_changing-lives-with-solar-energy-in-rural-india_tech"
+        "youtube.com/2015/04/how-we-turn-solar-energy-into-electricity": {
+            "title": "How We Turn Solar Energy Into Electricity...",
+            "snippet": "How We Turn Solar Energy Into Electricity Solar panels are becoming cheaper and more efficient. So how exactly do they work? Read More: Cheap solar cells made from shrimp shells... From: DNews Views: 25693 1322 ratings Time: 04:03 More in Science &...",
+            "date": "2015-04-23",
+            "author_name": "DNews",
+            "categories": "solar-energy,science",
+            "tags": "solar,solar_energy,energy",
+            "recuweb_url": "http://en.recuweb.com/science/youtube.com/2015/04/how-we-turn-solar-energy-into-electricity",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=solar%2Benergy%2Bsolar%2Benergy&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=EnYjlsGXugo&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/EnYjlsGXugo/0.jpg"
         },
-        "dailymotion.com/2015/04/stop-free-energy-suppression-no-more-solar-stirling-plant": {
-            "title": "STOP free energy suppression, NO MORE! - Solar Stirling Plant...",
-            "snippet": "STOP free energy suppression, NO MORE! - Solar Stirling Plant STOP,free,energy,suppression,NO,MORE,Solar,Stirling,PlantAuthor: AlicepduTags: Posted: 19 April 2015Rating:: 0...",
-            "date": "2015-04-19",
-            "author_name": "Alicepdu",
-            "tags": "solar,energy",
-            "recuweb_url": "http://en.recuweb.com/dailymotion.com/2015/04/stop-free-energy-suppression-no-more-solar-stirling-plant",
+        "dailymotion.com/2015/04/smart-homes-solar-power-break-up-energy-monopoly": {
+            "title": "Smart Homes, Solar Power Break Up Energy Monopoly...",
+            "snippet": "Smart Homes, Solar Power Break Up Energy MonopolyThe New Republic - Visual Arts CenterAngela Navarro, Staff Attorney and Leader of the Energy Efficiency Program, Virginia Office, Southern Environmental Law CenterOlga Torres, President, Hampton Roads...",
+            "date": "2015-04-22",
+            "author_name": "FORAtv",
+            "categories": "law,arts",
+            "tags": "energy,solar,power,president",
+            "recuweb_url": "http://en.recuweb.com/arts/dailymotion.com/2015/04/smart-homes-solar-power-break-up-energy-monopoly",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/solar+energy/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2n55rc_stop-free-energy-suppression-no-more-solar-stirling-plant_shortfilms",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n55rc_stop-free-energy-suppression-no-more-solar-stirling-plant_shortfilms"
+            "source_url": "http://dailymotion.com/video/x2nlh41_smart-homes-solar-power-break-up-energy-monopoly_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nlh41_smart-homes-solar-power-break-up-energy-monopoly_news"
+        },
+        "dailymotion.com/2015/04/solar-energy-plan-sign-china": {
+            "title": "solar energy plan sign china...",
+            "snippet": "solar energy plan sign chinaAuthor: ladypakTags: solar energy plan sign china Posted: 22 April 2015Rating:: 0...",
+            "date": "2015-04-22",
+            "author_name": "ladypak",
+            "categories": "solar-energy",
+            "tags": "solar,solar-energy,energy",
+            "recuweb_url": "http://en.recuweb.com/solar-energy/dailymotion.com/2015/04/solar-energy-plan-sign-china",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/solar+energy/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2niigt_solar-energy-plan-sign-china_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2niigt_solar-energy-plan-sign-china_news"
+        },
+        "dailymotion.com/2015/04/chinese-president-inaugurates-solar-energy-system-for-parliament": {
+            "title": "Chinese president inaugurates solar energy system for Parliament...",
+            "snippet": "NewsOne delivers the latest updates, headlines, breaking news and information on the latest top stories from Pakistan and around the on weather, business, entertainment, politics, sports and moreAuthor: newsonepkTags: Chinese president inaugurates...",
+            "date": "2015-04-21",
+            "author_name": "newsonepk",
+            "categories": "sport,solar-energy,business,entertainment,politics",
+            "tags": "president,solar,solar-energy,energy",
+            "recuweb_url": "http://en.recuweb.com/politics/dailymotion.com/2015/04/chinese-president-inaugurates-solar-energy-system-for-parliament",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/solar+energy/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2ndw90_chinese-president-inaugurates-solar-energy-system-for-parliament_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ndw90_chinese-president-inaugurates-solar-energy-system-for-parliament_news"
+        },
+        "dailymotion.com/2015/04/future-of-solar-energy": {
+            "title": "Future of Solar Energy...",
+            "snippet": "Future of Solar EnergyAuthor: NicolRigbyTags: Future of Solar Energy Posted: 21 April 2015Rating:: 0...",
+            "date": "2015-04-21",
+            "author_name": "NicolRigby",
+            "categories": "solar-energy",
+            "tags": "solar,solar_energy,energy",
+            "recuweb_url": "http://en.recuweb.com/solar-energy/dailymotion.com/2015/04/future-of-solar-energy",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/solar+energy/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nei5x_future-of-solar-energy_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nei5x_future-of-solar-energy_news"
+        },
+        "dailymotion.com/2015/04/north-georgia-farm-using-solar-energy-to-power-operation": {
+            "title": "North Georgia Farm Using Solar Energy To Power Operation...",
+            "snippet": "North Georgia Farm Using Solar Energy To Power OperationAuthor: powerfulterrificTags: North Georgia Farm Using Solar Energy To Power Operation Posted: 21 April 2015Rating:: 0...",
+            "date": "2015-04-21",
+            "author_name": "powerfulterrific",
+            "categories": "solar-energy",
+            "tags": "solar,solar_energy,energy,power",
+            "recuweb_url": "http://en.recuweb.com/solar-energy/dailymotion.com/2015/04/north-georgia-farm-using-solar-energy-to-power-operation",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/solar+energy/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nd6z1_north-georgia-farm-using-solar-energy-to-power-operation_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nd6z1_north-georgia-farm-using-solar-energy-to-power-operation_news"
+        },
+        "dailymotion.com/2015/04/the-pay-as-you-go-solar-energy-startup-changing-africa": {
+            "title": "The Pay-as-You Go Solar Energy Startup Changing Africa...",
+            "snippet": "The Pay-as-You Go Solar Energy Startup Changing AfricaAuthor: KareyChiltonTags: The Pay-as-You Go Solar Energy Startup Changing Africa Posted: 21 April 2015Rating:: 0...",
+            "date": "2015-04-21",
+            "author_name": "KareyChilton",
+            "categories": "solar-energy",
+            "tags": "solar,solar_energy,energy",
+            "recuweb_url": "http://en.recuweb.com/solar-energy/dailymotion.com/2015/04/the-pay-as-you-go-solar-energy-startup-changing-africa",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/solar+energy/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2neqjl_the-pay-as-you-go-solar-energy-startup-changing-africa_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2neqjl_the-pay-as-you-go-solar-energy-startup-changing-africa_news"
         },
         "dailymotion.com/2015/04/wind-and-solar-energy-is-growing-in-india": {
             "title": "Wind and solar energy is growing in India...",
@@ -39,7 +101,7 @@
             "date": "2015-04-19",
             "author_name": "ColinBush2",
             "categories": "solar-energy",
-            "tags": "solar,solar-energy,energy,india,indiaauthor",
+            "tags": "solar,solar-energy,energy",
             "recuweb_url": "http://en.recuweb.com/solar-energy/dailymotion.com/2015/04/wind-and-solar-energy-is-growing-in-india",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/solar+energy/0?af=1",
             "source_url": "http://dailymotion.com/video/x2n5u8f_wind-and-solar-energy-is-growing-in-india_news",
@@ -51,7 +113,7 @@
             "date": "2015-04-18",
             "author_name": "fromwiry",
             "categories": "solar-energy",
-            "tags": "solar,solar-energy,energy,haiti,haitiauthor",
+            "tags": "solar,solar-energy,energy,president",
             "recuweb_url": "http://en.recuweb.com/solar-energy/dailymotion.com/2015/04/former-u-s-president-bill-clinton-tours-solar-energy-projects-in",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/solar+energy/0?af=1",
             "source_url": "http://dailymotion.com/video/x2n2p18_former-u-s-president-bill-clinton-tours-solar-energy-projects-in-haiti_news",
@@ -68,64 +130,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/solar+energy/0?af=1",
             "source_url": "http://dailymotion.com/video/x2n1n3w_teaching-solar-energy-to-kids_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2n1n3w_teaching-solar-energy-to-kids_news"
-        },
-        "dailymotion.com/2015/04/how-villages-in-leh-survive-on-solar-energy": {
-            "title": "How villages in Leh survive on solar energy...",
-            "snippet": "How villages in Leh survive on solar energyAuthor: hipfollyTags: How villages in Leh survive on solar energy Posted: 17 April 2015Rating:: 0...",
-            "date": "2015-04-17",
-            "author_name": "hipfolly",
-            "categories": "solar-energy",
-            "tags": "solar,solar-energy,energy",
-            "recuweb_url": "http://en.recuweb.com/solar-energy/dailymotion.com/2015/04/how-villages-in-leh-survive-on-solar-energy",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/solar+energy/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mxuxo_how-villages-in-leh-survive-on-solar-energy_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mxuxo_how-villages-in-leh-survive-on-solar-energy_news"
-        },
-        "dailymotion.com/2015/04/solar-energy-for-farmer-thailand": {
-            "title": "solar energy for farmer Thailand...",
-            "snippet": "solar energy for farmer ThailandAuthor: MistieMccueTags: solar energy for farmer Thailand Posted: 17 April 2015Rating:: 0...",
-            "date": "2015-04-17",
-            "author_name": "MistieMccue",
-            "categories": "solar-energy",
-            "tags": "solar,solar-energy,energy",
-            "recuweb_url": "http://en.recuweb.com/solar-energy/dailymotion.com/2015/04/solar-energy-for-farmer-thailand",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/solar+energy/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2my9p6_solar-energy-for-farmer-thailand_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2my9p6_solar-energy-for-farmer-thailand_news"
-        },
-        "dailymotion.com/2015/04/the-nokero-solar-light-bulb-renewable-energy-helping-reduce-poverty-in": {
-            "title": "The Nokero solar light bulb - renewable energy helping reduce poverty in Haiti...",
-            "snippet": "The Nokero solar light bulb - renewable energy helping reduce poverty in HaitiAuthor: rooksplutterTags: The Nokero solar light bulb - renewable energy helping reduce poverty in Haiti Posted: 16 April 2015Rating:: 0...",
-            "date": "2015-04-16",
-            "author_name": "rooksplutter",
-            "categories": "renewable-energy",
-            "tags": "energy,solar,haiti,haitiauthor",
-            "recuweb_url": "http://en.recuweb.com/renewable-energy/dailymotion.com/2015/04/the-nokero-solar-light-bulb-renewable-energy-helping-reduce-poverty-in",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/solar+energy/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mv7h2_the-nokero-solar-light-bulb-renewable-energy-helping-reduce-poverty-in-haiti_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mv7h2_the-nokero-solar-light-bulb-renewable-energy-helping-reduce-poverty-in-haiti_news"
-        },
-        "dailymotion.com/2015/04/solar-powered-solutions-to-egypt-s-energy-crises": {
-            "title": "Solar powered solutions to Egypt's energy crises...",
-            "snippet": "Solar powered solutions to Egypt's energy crises Author: DulceMerchantTags: Solar powered solutions to Egypts energy crises Posted: 15 April 2015Rating:: 0...",
-            "date": "2015-04-15",
-            "author_name": "DulceMerchant",
-            "tags": "energy,solar",
-            "recuweb_url": "http://en.recuweb.com/dailymotion.com/2015/04/solar-powered-solutions-to-egypt-s-energy-crises",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/solar+energy/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mqt31_solar-powered-solutions-to-egypt-s-energy-crises-\u0633\u062e\u0627\u0646-\u0637\u0627\u0642\u0629-\u0634\u0645\u0633\u064a\u0629-\u0634\u0639\u0628\u064a_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mqt31_solar-powered-solutions-to-egypt-s-energy-crises-\u0633\u062e\u0627\u0646-\u0637\u0627\u0642\u0629-\u0634\u0645\u0633\u064a\u0629-\u0634\u0639\u0628\u064a_news"
-        },
-        "dailymotion.com/2015/04/clean-energy-demand-solar-panels-power-ikea-pew": {
-            "title": "Clean Energy Demand: Solar Panels Power IKEA Pew...",
-            "snippet": "Clean Energy Demand: Solar Panels Power IKEA PewAuthor: diligentharryTags: Clean Energy Demand: Solar Panels Power IKEA Pew Posted: 14 April 2015Rating:: 0...",
-            "date": "2015-04-14",
-            "author_name": "diligentharry",
-            "tags": "solar,energy",
-            "recuweb_url": "http://en.recuweb.com/dailymotion.com/2015/04/clean-energy-demand-solar-panels-power-ikea-pew",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/solar+energy/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mo1h5_clean-energy-demand-solar-panels-power-ikea-pew_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mo1h5_clean-energy-demand-solar-panels-power-ikea-pew_news"
         }
     }
 }
