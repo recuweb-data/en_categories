@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "personal-development",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/personal-development/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/personal-development/personal-development/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/personal-development-01": {
+            "title": "Personal Development 01...",
+            "snippet": "Personal Development 01Author: GayeFriedmanTags: Personal Development 01 Posted: 25 April 2015Rating:: 0...",
+            "date": "2015-04-25",
+            "author_name": "GayeFriedman",
+            "categories": "personal-development",
+            "tags": "personal,personal_development,development",
+            "recuweb_url": "http://en.recuweb.com/personal-development/dailymotion.com/2015/04/personal-development-01",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/personal+development/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nvx87_personal-development-01_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nvx87_personal-development-01_lifestyle"
+        },
         "dailymotion.com/2015/04/personal-development-motivational-weight-loss-taking-action-now": {
             "title": "Personal Development Motivational Weight Loss Taking Action Now...",
             "snippet": "Personal Development Motivational Weight Loss Taking Action NowAuthor: mewsknowingTags: Personal Development Motivational Weight Loss Taking Action Now Posted: 20 April 2015Rating:: 0...",
@@ -110,23 +123,11 @@
             "snippet": "Volunteerism -- best platform for personal and professional development: Tuan Nguyen at TEDxUOttawaAuthor: reelinginterestTags: Volunteerism -- best platform for personal and professional development: Tuan Nguyen at TEDxUOttawa Posted: 13 April...",
             "date": "2015-04-13",
             "author_name": "reelinginterest",
-            "tags": "personal,professional,development",
+            "tags": "personal,development",
             "recuweb_url": "http://en.recuweb.com/dailymotion.com/2015/04/volunteerism-best-platform-for-personal-and-professional-development-tuan-nguyen",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/personal+development/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mjrvu_volunteerism-best-platform-for-personal-and-professional-development-tuan-nguyen-at-tedxuottawa_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2mjrvu_volunteerism-best-platform-for-personal-and-professional-development-tuan-nguyen-at-tedxuottawa_news"
-        },
-        "dailymotion.com/2015/04/your-30-day-journey-to-personal-development": {
-            "title": "Your 30-Day Journey To Personal Development...",
-            "snippet": "Successful people understand the value of personal development in their professional lives. They know that no one is really able to get ahead of the game if he wont spend time, money and effort on personal development. Indeed, personal development...",
-            "date": "2015-04-10",
-            "author_name": "annettapowell",
-            "categories": "personal-development",
-            "tags": "personal,personal_development,development,professional",
-            "recuweb_url": "http://en.recuweb.com/personal-development/dailymotion.com/2015/04/your-30-day-journey-to-personal-development",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/personal+development/0?af=1",
-            "source_url": "http://dailymotion.com/video/xzp1dq_your-30-day-journey-to-personal-development_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/xzp1dq_your-30-day-journey-to-personal-development_lifestyle"
         }
     }
 }
