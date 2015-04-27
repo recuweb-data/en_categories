@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "student-loan",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/student-loan/",
@@ -10,16 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/student-loan/student-loan/blogs.json"
     },
     "items": {
-        "dailycaller.com/2015/04/muslim-student-loan-interest-discount-the-daily-caller": {
-            "title": "Muslim Student Loan Interest Discount The Daily Caller...",
-            "snippet": "Steve Rhode, the Get Out of Debt Guy, has advised a Muslim man seeking financial advice not to try to use Islam as a crutch to get out of paying half of what is now a 64,000 student loan debt. Dear Steve, the Seattle, Wash.",
-            "date": "2015-04-24",
-            "author_name": "Eric Owens",
-            "categories": "student-loan,islam",
-            "tags": "paying,debt,student,student_loan,loan,interest",
-            "recuweb_url": "http://en.recuweb.com/islam/dailycaller.com/2015/04/muslim-student-loan-interest-discount-the-daily-caller",
+        "rollcall.com/2015/04/student-loan-forgiveness-for-staff-on-chopping-block-roll-call": {
+            "title": "Student Loan Forgiveness for Staff on Chopping Block - Roll Call...",
+            "snippet": "Student loan forgiveness for federal employees may be on the chopping block in the House budget proposal.",
+            "date": "2015-04-22",
+            "author_name": "RebeccaGale@cqrollcall.com (Rebecca Gale)",
+            "categories": "student-loan",
+            "tags": "proposal,roll,roll_call,student,student_loan,loan,staff,federal",
+            "recuweb_url": "http://en.recuweb.com/student-loan/rollcall.com/2015/04/student-loan-forgiveness-for-staff-on-chopping-block-roll-call",
             "resource_url": "http://www.google.com/search?q=student%2Bloan%2Bstudent%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://dailycaller.com/2015/04/24/muslim-decides-islam-forbids-him-from-paying-32000-in-student-loan-interest/"
+            "source_url": "http://rollcall.com/news/student_loan_forgiveness_for_staff_on_chopping_block-241384-1.html"
         },
         "blogs.esri.com/2015/04/student-loan-debt-spreads-to-retirees-esri-insider-blogs": {
             "title": "Student Loan Debt Spreads to Retirees Esri Insider - Esri Blogs...",
@@ -27,7 +28,7 @@
             "date": "2015-04-21",
             "author_name": "Brent Roderick",
             "categories": "student-loan,college",
-            "tags": "considered,student,student_loan,student_loan_debt,loan,loan_debt,debt,many,college,graduates",
+            "tags": "considered,student,student_loan,student_loan_debt,loan,loan_debt,debt,americans,college,graduates",
             "recuweb_url": "http://en.recuweb.com/college/blogs.esri.com/2015/04/student-loan-debt-spreads-to-retirees-esri-insider-blogs",
             "resource_url": "http://www.google.com/search?q=student%2Bloan%2Bstudent%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.esri.com/esri/esri-insider/2015/04/21/student-loan-debt-spreads-to-retirees/"
@@ -38,7 +39,7 @@
             "date": "2015-04-20",
             "author_name": "RebeccaGale@cqrollcall.com (Rebecca Gale)",
             "categories": "student-loan",
-            "tags": "roll,roll_call,student,student_loan,loan,repayment,program,staff,advantage",
+            "tags": "per,staff,hill,roll,roll_call,student,student_loan,loan,repayment,advantage",
             "recuweb_url": "http://en.recuweb.com/student-loan/blogs.rollcall.com/2015/04/staff-take-advantage-of-student-loan-repayment-program-roll-call",
             "resource_url": "http://www.google.com/search?q=student%2Bloan%2Bstudent%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.rollcall.com/hill-navigator/student-loan-repayment/"
@@ -48,9 +49,9 @@
             "snippet": "In looking at Christie's record on college affordability in New Jersey, and his statements on student loans and their impact on families, we get a decent picture of what a Christie presidency could mean for higher education debt...",
             "date": "2015-04-19",
             "author_name": "Stephen Dash",
-            "categories": "student-loan,college,education",
-            "tags": "could,picture,student,student_loan,loans,college,education,debt",
-            "recuweb_url": "http://en.recuweb.com/education/huffingtonpost.com/2015/04/how-will-chris-christie-fix-the-student-loan-and-college",
+            "categories": "higher-education,education,student-loan,college",
+            "tags": "education,picture,statements,student,student_loan,loans,college,debt",
+            "recuweb_url": "http://en.recuweb.com/college/huffingtonpost.com/2015/04/how-will-chris-christie-fix-the-student-loan-and-college",
             "resource_url": "http://www.google.com/search?q=student%2Bloan%2Bstudent%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://huffingtonpost.com/stephen-dash/how-will-chris-christie-f_b_7095814.html"
         },
@@ -60,7 +61,7 @@
             "date": "2015-04-19",
             "author_name": "Stephen Dash",
             "categories": "student-loan",
-            "tags": "repayment,plans,paying,student,student_loans,loans,variety",
+            "tags": "repayment,plans,student,student_loans,loans,paying",
             "recuweb_url": "http://en.recuweb.com/student-loan/huffingtonpost.com/2015/04/i-have-30k-in-student-loans-what-are-my-options-stephen",
             "resource_url": "http://www.google.com/search?q=student%2Bloan%2Bstudent%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://huffingtonpost.com/stephen-dash/i-have-30k-in-student-loa_b_7095782.html"
@@ -71,7 +72,7 @@
             "date": "2015-04-18",
             "author_name": "Stephen Dash",
             "categories": "school,student-loan",
-            "tags": "graduates,average,school,student,student_loans,loans,loan,debt",
+            "tags": "graduates,school,student,student_loans,loans,loan,debt",
             "recuweb_url": "http://en.recuweb.com/student-loan/huffingtonpost.com/2015/04/how-pharmacy-graduates-can-get-rid-of-100k-student-loans",
             "resource_url": "http://www.google.com/search?q=student%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://huffingtonpost.com/stephen-dash/how-pharmacy-graduates-ca_b_7035232.html"
@@ -82,7 +83,7 @@
             "date": "2015-04-17",
             "author_name": "Shahien Nasiripour",
             "categories": "education,student-loan",
-            "tags": "education,student,student_loan,loans,federal",
+            "tags": "department,sallie,sallie_mae,mae,giant,formerly,navient,navient_corp,corp,deal,education,student,student_loan,student_loan_giant,loans,loan_giant,loan_giant_navient,giant_navient,federal",
             "recuweb_url": "http://en.recuweb.com/student-loan/huffingtonpost.com/2015/04/education-department-nears-deal-with-student-loan-giant-navient",
             "resource_url": "http://www.google.com/search?q=student%2Bloan%2Bstudent%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://huffingtonpost.com/2015/04/16/navient-military-settlement_n_7082944.html"
@@ -92,7 +93,7 @@
             "snippet": "What happens if you don't pay your student loans? Last year, over 11.3% of all student loans were considered delinquent. This statistic has doubled from just 10 years ago, while the total outstanding national student debt has...",
             "date": "2015-04-17",
             "author_name": "Stephen Dash",
-            "tags": "considered,delinquent,pay,paying,student,loans,years,debt",
+            "tags": "considered,paying,paying_your_student,student,loans,debt",
             "recuweb_url": "http://en.recuweb.com/huffingtonpost.com/2015/04/how-to-avoid-the-painful-consequences-of-not-paying-your-student",
             "resource_url": "http://www.google.com/search?q=student%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://huffingtonpost.com/stephen-dash/how-to-avoid-the-painful_b_7044138.html"
@@ -102,7 +103,7 @@
             "snippet": "(picture of raising money) Changing my idea has allowed me to acknowledge the exact amount (Show picture of student loan) Student loan has been helping me for a long time (show picture of tesco birmingham jewlery quater) Earning my money...",
             "date": "2015-04-05",
             "author_name": "seyisanyaoluyr3",
-            "tags": "picture,amount,idea,money,student,loan",
+            "tags": "picture,amount,idea,student,loan",
             "recuweb_url": "http://en.recuweb.com/seyisanyaoluyr3.wordpress.com/2015/04/361-research-and-development-budgeting",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=student%2Bloan%2Bstudent%2Bloan&rss=1&lng=en",
             "source_url": "http://seyisanyaoluyr3.wordpress.com/2015/04/05/361-research-and-development-raising-money-for-my-fmp/"
@@ -112,7 +113,7 @@
             "snippet": "As a student I find myself increasingly more aware of my student loans as I approach my graduation date. It is a mixture of excitement and fear as I realize that I will soon be working a full time job and have to start repaying on my loans. As a...",
             "date": "2015-03-29",
             "author_name": "davis481",
-            "tags": "job,graduation,debt,student,loans",
+            "tags": "job,start,debt,student,loans",
             "recuweb_url": "http://en.recuweb.com/davis481.wordpress.com/2015/03/i-am-majoring-in-debt",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=student%2Bloan%2Bstudent%2Bloan&rss=1&lng=en",
             "source_url": "http://davis481.wordpress.com/2015/03/29/i-am-majoring-in-debt/"
