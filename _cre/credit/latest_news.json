@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "credit",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/credit/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/credit/credit/blogs.json"
     },
     "items": {
-        "usatoday.com/2015/04/a-third-of-millennials-have-never-had-credit-card-usa-today": {
-            "title": "A third of Millennials have never had a credit card - USA TODAY...",
-            "snippet": "USA TODAYA third of Millennials have never had a credit cardUSA TODAYIn a society where tens of millions rely on a credit card to shop or pay bills, a new survey out Wednesday reveals that more than a third of Millennials have never had one.",
-            "date": "2015-04-15",
-            "categories": "society,credit",
-            "tags": "never,than,survey,card,pay,millennials,credit",
-            "recuweb_url": "http://en.recuweb.com/credit/usatoday.com/2015/04/a-third-of-millennials-have-never-had-credit-card-usa-today",
+        "stltoday.com/2015/04/6-credit-cards-for-world-travelers": {
+            "title": "6 Credit Cards for World Travelers...",
+            "snippet": "How worn is your passport? If its starting to look a little dog-eared, then you are probably a seasoned world traveler. Next to your passport, some of the most important things you carry abroad are your credit cards. The right card can help make...",
+            "date": "2015-04-27",
+            "categories": "credit,credit-cards",
+            "tags": "cards,things,world,little,credit,credit_cards,look",
+            "recuweb_url": "http://en.recuweb.com/credit-cards/stltoday.com/2015/04/6-credit-cards-for-world-travelers",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=credit%2Bcredit&format=RSS&cc=us",
+            "source_url": "http://stltoday.com/business/credit/credit-cards-for-world-travelers/article_36b19436-c18b-51cb-854b-cf93128ac91f.html"
+        },
+        "theverge.com/2015/04/apple-pay-will-support-all-major-us-credit-cards-when-discover": {
+            "title": "Apple Pay will support all major US credit cards when Discover joins this fall - The Verge...",
+            "snippet": "9 to 5 MacApple Pay will support all major US credit cards when Discover joins this fallThe VergeApple Pay will have support from all of the major US credit card companies as of this fall, when Discover begins allowing its cardholders to use the new...",
+            "date": "2015-04-27",
+            "categories": "credit",
+            "tags": "cards,companies,credit",
+            "recuweb_url": "http://en.recuweb.com/credit/theverge.com/2015/04/apple-pay-will-support-all-major-us-credit-cards-when-discover",
             "resource_url": "http://news.google.com/?hl=en&q=credit&output=atom&nord=1",
-            "source_url": "http://usatoday.com/story/money/2015/04/15/a-third-of-millennials-have-never-had-a-credit-card/25777653/"
+            "source_url": "http://theverge.com/2015/4/27/8502635/discover-apple-pay-joining-fall-2015"
         },
-        "hbr.org/2015/04/apple-pay-is-just-a-big-giveaway-to-credit-card-companies": {
-            "title": "Apple Pay Is Just a Big Giveaway to Credit Card Companies - (blog)...",
-            "snippet": "(blog)Apple Pay Is Just a Big Giveaway to Credit Card Companies (blog)It's easy to assume Apple Pay is one in a long line of disruptive innovations from the master of serial disruption. But this time that's not the case. Apple isn't behaving as a...",
-            "date": "2015-04-15",
+        "jdsupra.com/2015/04/cfpb-grants-credit-card-issuers-one-year-suspension-from-filing-agreements": {
+            "title": "CFPB Grants Credit Card Issuers One-Year Suspension From Filing Card Agreements...",
+            "snippet": "On April 15, the CFPB issued a final rule temporarily suspending credit card issuers obligation to submit their card agreements to the CFPB, as required by the Credit Card Accontability, Responsibility, and Disclosure Act (CARD Act). The CARD Act,...",
+            "date": "2015-04-27",
             "categories": "credit",
-            "tags": "credit,credit_card,credit_card_companies,card,card_companies,companies,big,pay",
-            "recuweb_url": "http://en.recuweb.com/credit/hbr.org/2015/04/apple-pay-is-just-a-big-giveaway-to-credit-card-companies",
+            "tags": "card,credit,credit_card,issued",
+            "recuweb_url": "http://en.recuweb.com/credit/jdsupra.com/2015/04/cfpb-grants-credit-card-issuers-one-year-suspension-from-filing-agreements",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=credit&format=RSS&cc=us",
+            "source_url": "http://jdsupra.com/legalnews/cfpb-grants-credit-card-issuers-one-year-18532/"
+        },
+        "rappler.com/2015/04/citi-credit-cards-mark-25th-anniversary-in-ph": {
+            "title": "Citi credit cards mark 25th anniversary in PH...",
+            "snippet": "MANILA, Philippines Citibank, the countrys largest foreign bank, toasted the 25th anniversary of its credit card offerings in the Philippines and launched a new promo to celebrate the occasion. Citi Philippines introduced the Citibank MasterCard...",
+            "date": "2015-04-27",
+            "categories": "credit",
+            "tags": "cards,foreign,credit",
+            "recuweb_url": "http://en.recuweb.com/credit/rappler.com/2015/04/citi-credit-cards-mark-25th-anniversary-in-ph",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=credit&format=RSS&cc=us",
+            "source_url": "http://rappler.com/business/industries/209-banking-and-financial-services/91322-citi-credit-cards-25th-anniversary-promo"
+        },
+        "wkrb13.com/2015/04/credit-suisse-group-ag-reiterates-underperform-rating-for-hsbc-holdings-plc": {
+            "title": "Credit Suisse Group AG Reiterates Underperform Rating for HSBC Holdings plc (HSBA)...",
+            "snippet": "HSBC Holdings plc (LON:HSBA)s stock had its underperform rating reiterated by equities research analysts at Credit Suisse Group AG in a research note issued to investors on Monday. They currently have a GBX 580 () price target on the stock.",
+            "date": "2015-04-27",
+            "categories": "credit",
+            "tags": "price,price-target,target,note,issued,credit,credit_suisse,suisse,analysts,monday",
+            "recuweb_url": "http://en.recuweb.com/credit/wkrb13.com/2015/04/credit-suisse-group-ag-reiterates-underperform-rating-for-hsbc-holdings-plc",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=credit&format=RSS&cc=us",
+            "source_url": "http://wkrb13.com/markets/568059/credit-suisse-group-ag-reiterates-underperform-rating-for-hsbc-holdings-plc-hsba/"
+        },
+        "benzinga.com/2015/04/credit-suisse-reviews-3d-systems-bad-preannouncement-benzinga": {
+            "title": "Credit Suisse Reviews 3D Systems'Bad Preannouncement - Benzinga...",
+            "snippet": "Credit Suisse Reviews 3D Systems'Bad PreannouncementBenzingaIn a report published Monday, analysts at Credit Suisse maintained their Neutral rating on 3D Systems Corporation (NYSE: DDD), while lowering the price target from 54 to 40. The analysts...",
+            "date": "2015-04-27",
+            "categories": "credit",
+            "tags": "price,price-target,target,analysts,bad,credit,credit_suisse,suisse,monday",
+            "recuweb_url": "http://en.recuweb.com/credit/benzinga.com/2015/04/credit-suisse-reviews-3d-systems-bad-preannouncement-benzinga",
+            "resource_url": "http://news.google.com/?hl=en&q=credit%2Bcredit&output=atom&nord=1",
+            "source_url": "http://benzinga.com/analyst-ratings/analyst-color/15/04/5444267/credit-suisse-reviews-3d-systems-bad-preannouncement"
+        },
+        "smdp.com/2015/04/credit-card-transactions-new-city-building-top-consent": {
+            "title": "Credit card transactions, new city building top consent...",
+            "snippet": "Editors note: This story is part of an ongoing series that tracks the citys expenditures appearing on upcoming Santa Monica City Council consent agendas. Consent agenda items are routinely passed by the City Council with little or no discussion...",
+            "date": "2015-04-27",
+            "categories": "credit",
+            "tags": "little,card,credit,note",
+            "recuweb_url": "http://en.recuweb.com/credit/smdp.com/2015/04/credit-card-transactions-new-city-building-top-consent",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=credit&format=RSS&cc=us",
+            "source_url": "http://smdp.com/credit-card-transactions-city-building-top-22-8m-consent/147467"
+        },
+        "goal.com/2015/04/europe-or-bust-guardiola-deserves-credit-for-bayern-s-bundesliga-brilliance": {
+            "title": "Europe or bust? Guardiola deserves credit for Bayern's Bundesliga brilliance -...",
+            "snippet": "or bust? Guardiola deserves credit for Bayern's Bundesliga Guardiola does not get the credit he deserves for taking Bayern to yet another domestic title, but all the signs are there for Champions League success, writes Peter Staunton. By dint of...",
+            "date": "2015-04-27",
+            "categories": "credit",
+            "tags": "credit",
+            "recuweb_url": "http://en.recuweb.com/credit/goal.com/2015/04/europe-or-bust-guardiola-deserves-credit-for-bayern-s-bundesliga-brilliance",
             "resource_url": "http://news.google.com/?hl=en&q=credit&output=atom&nord=1",
-            "source_url": "http://hbr.org/2015/04/apple-pay-is-just-a-big-giveaway-to-credit-card-companies"
+            "source_url": "http://goal.com/en-us/news/87/germany/2015/04/26/11162682/europe-or-bust-guardiola-deserves-credit-for-bayerns"
         },
-        "businessinsider.com/2015/04/credit-suisse-ceo-here-s-what-makes-your-career-move-on": {
-            "title": "CREDIT SUISSE CEO: Here's 'what makes your career move'on Wall Street - Business Insider...",
-            "snippet": "Business InsiderCREDIT SUISSE CEO: Here's 'what makes your career move'on Wall StreetBusiness InsiderIn an earlier OneWire interview, Dougan, who will step down from his position as Credit Suisse chief later this year, said that change is the most...",
-            "date": "2015-04-15",
-            "categories": "credit,business",
-            "tags": "said,year,credit,credit_suisse,suisse,wall,business,wall_street,street,here",
-            "recuweb_url": "http://en.recuweb.com/business/businessinsider.com/2015/04/credit-suisse-ceo-here-s-what-makes-your-career-move-on",
-            "resource_url": "http://news.google.com/?hl=en&q=credit%2Bcredit&output=atom&nord=1",
-            "source_url": "http://businessinsider.com/credit-suisse-brady-dougan-onewire-interview-pt-2-2015-4"
-        },
-        "247wallst.com/2015/04/credit-suisse-gets-even-more-negative-on-ibm-ahead-of-earnings": {
-            "title": "Credit Suisse Gets Even More Negative on IBM Ahead of Earnings - 24/7 Wall St.",
-            "snippet": "Credit Suisse Gets Even More Negative on IBM Ahead of Earnings24/7 Wall a recovery in the works for International Business Machines Corp. (NYSE: IBM)? Well if it is, then there needs to be some fundamental changes within Big Blue. That is the...",
-            "date": "2015-04-15",
-            "categories": "business,credit",
-            "tags": "big,business,credit,credit_suisse,suisse,even,wall",
-            "recuweb_url": "http://en.recuweb.com/credit/247wallst.com/2015/04/credit-suisse-gets-even-more-negative-on-ibm-ahead-of-earnings",
-            "resource_url": "http://news.google.com/?hl=en&q=credit%2Bcredit&output=atom&nord=1",
-            "source_url": "http://247wallst.com/technology-3/2015/04/15/credit-suisse-gets-even-more-negative-on-ibm-ahead-of-earnings/"
-        },
-        "businessinsider.com/2015/04/greece-s-credit-rating-just-got-junked-even-further": {
-            "title": "Greece's credit rating just got junked even further...",
-            "snippet": "With Greece's fiscal situation seemingly deteriorating every day, and little hope of any substantive deal on the horizon, Standard & Poor's just slashed the country's credit rating. That S&P downgrade sends Athens even further into junk territory,...",
-            "date": "2015-04-15",
+        "nasdaq.com/2015/04/fitch-downgrades-japan-s-credit-rating-to-a-nasdaq": {
+            "title": "Fitch Downgrades Japan's Credit Rating to 'A'- Nasdaq...",
+            "snippet": "NasdaqFitch Downgrades Japan's Credit Rating to 'A'NasdaqFitch downgraded Japan's long-term foreign and local credit issuer rating by one notch to A from A-plus, citing a lack of effort on behalf of the Japanese government to tackle fiscal...",
+            "date": "2015-04-27",
             "categories": "credit",
-            "tags": "even,into,fiscal,credit",
-            "recuweb_url": "http://en.recuweb.com/credit/businessinsider.com/2015/04/greece-s-credit-rating-just-got-junked-even-further",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=credit&format=RSS&cc=us",
-            "source_url": "http://businessinsider.com/greeces-credit-rating-just-got-junked-even-further-2015-4"
-        },
-        "abc11.com/2015/04/more-than-1-in-3-millennials-never-had-a-credit-card": {
-            "title": "More Than 1 in 3 Millennials Never Had a Credit Card...",
-            "snippet": "Millennials may be so spooked by their chances in the job market and by student debt that they're forgoing credit cards. A survey found that approximately 36 percent of a group ages 18 to 29 years old never has had one. Robyn Welling, 39, a mom of...",
-            "date": "2015-04-15",
-            "categories": "credit",
-            "tags": "never,percent,survey,market,credit,credit_card,cards,millennials,than",
-            "recuweb_url": "http://en.recuweb.com/credit/abc11.com/2015/04/more-than-1-in-3-millennials-never-had-a-credit-card",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=credit&format=RSS&cc=us",
-            "source_url": "http://abc11.com/news/more-than-1-in-3-millennials-never-had-a-credit-card/661755/"
-        },
-        "palmbeachpost.com/2015/04/police-delray-caregiver-used-patients-name-for-fake-credit-accounts": {
-            "title": "Police: Delray caregiver used patients name for fake credit accounts...",
-            "snippet": "A 39-year caregiver from Delray Beach is facing charges after he allegedly used an elderly mans identity to fraudulently open credit card accounts. Authorities say Gerald G. Anderson charged more than 8,000 using credit card accounts that he opened...",
-            "date": "2015-04-15",
-            "categories": "credit",
-            "tags": "than,card,year,credit",
-            "recuweb_url": "http://en.recuweb.com/credit/palmbeachpost.com/2015/04/police-delray-caregiver-used-patients-name-for-fake-credit-accounts",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=credit&format=RSS&cc=us",
-            "source_url": "http://palmbeachpost.com/news/news/crime-law/police-delray-caregiver-used-patients-name-for-fak/nktTK/"
-        },
-        "blogs.wsj.com/2015/04/rwe-taps-into-credit-market-energy-wall-street-journal-blog": {
-            "title": "RWE Taps Into Credit Market Energy - Wall Street Journal (blog)...",
-            "snippet": "RWE Taps Into Credit Market EnergyWall Street Journal (blog)Exuberance in Europe's credit markets creates plenty of challenges for investors. It may also do them the odd favor. RWE, the beleaguered German utility, said Tuesday it had sold billion of...",
-            "date": "2015-04-15",
-            "categories": "markets,credit",
-            "tags": "market,into,credit,street,journal,wall,wall_street,said,tuesday",
-            "recuweb_url": "http://en.recuweb.com/credit/blogs.wsj.com/2015/04/rwe-taps-into-credit-market-energy-wall-street-journal-blog",
-            "resource_url": "http://news.google.com/?hl=en&q=credit%2Bcredit&output=atom&nord=1",
-            "source_url": "http://blogs.wsj.com/moneybeat/2015/04/15/rwe-taps-into-credit-market-energy/"
-        },
-        "customstoday.com.pk/2015/04/sbp-efforts-to-get-credit-flowing-through-thrice-cut-in-policy": {
-            "title": "SBP efforts to get credit flowing through thrice cut in policy rates, lending to private sector...",
-            "snippet": "KARACHI: Lending to private sector contracted by 36.5 percent during the first nine months of the current fiscal year of 2014/15, despite the central banks efforts to get credit flowing through thrice cut in policy rates, data showed on Tuesday.",
-            "date": "2015-04-15",
-            "categories": "policy,credit",
-            "tags": "banks,percent,fiscal,year,credit,tuesday",
-            "recuweb_url": "http://en.recuweb.com/credit/customstoday.com.pk/2015/04/sbp-efforts-to-get-credit-flowing-through-thrice-cut-in-policy",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=credit&format=RSS&cc=us",
-            "source_url": "http://customstoday.com.pk/sbp-efforts-to-get-credit-flowing-through-thrice-cut-in-policy-rates-lending-to-private-sector-still-down-by-36\u0001/"
-        },
-        "delawareonline.com/2015/04/terms-for-delmarva-customer-merger-credit-unsettled-the-news-journal": {
-            "title": "Terms for Delmarva customer merger credit unsettled - The News Journal...",
-            "snippet": "The News JournalTerms for Delmarva customer merger credit unsettledThe News JournalDelmarva Power customers might wait weeks before learning final details about a 40 million, one-time customer bill credit offered as a concession for Delaware's...",
-            "date": "2015-04-15",
-            "categories": "learning,credit",
-            "tags": "customers,journal,credit",
-            "recuweb_url": "http://en.recuweb.com/credit/delawareonline.com/2015/04/terms-for-delmarva-customer-merger-credit-unsettled-the-news-journal",
+            "tags": "foreign,credit",
+            "recuweb_url": "http://en.recuweb.com/credit/nasdaq.com/2015/04/fitch-downgrades-japan-s-credit-rating-to-a-nasdaq",
             "resource_url": "http://news.google.com/?hl=en&q=credit&output=atom&nord=1",
-            "source_url": "http://delawareonline.com/story/money/business/2015/04/15/delmarva-exelon-credit/25797255/"
+            "source_url": "http://nasdaq.com/article/fitch-downgrades-japans-credit-rating-to-a-20150427-00234"
+        },
+        "mlive.com/2015/04/floyd-mayweather-must-knock-manny-pacquiao-out-to-get-deserved-credit": {
+            "title": "Floyd Mayweather must knock Manny Pacquiao out to get deserved credit, uncle... -...",
+            "snippet": "Mayweather must knock Manny Pacquiao out to get deserved credit, uncle... \"Every time somebody talks about the fight, 'Oh, you know you're definitely going to have to knock out Pacquiao, otherwise, he (Mayweather) ain't going to get no credit,'\"...",
+            "date": "2015-04-27",
+            "categories": "credit",
+            "tags": "credit",
+            "recuweb_url": "http://en.recuweb.com/credit/mlive.com/2015/04/floyd-mayweather-must-knock-manny-pacquiao-out-to-get-deserved-credit",
+            "resource_url": "http://news.google.com/?hl=en&q=credit&output=atom&nord=1",
+            "source_url": "http://mlive.com/mayweather/index.ssf/2015/04/floyd_mayweather_must_knock_ma.html"
         }
     }
 }
