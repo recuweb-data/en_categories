@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "ball-game",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/ball-game/",
@@ -10,48 +11,58 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/ball-game/ball-game/blogs.json"
     },
     "items": {
-        "foxsports.com/2015/04/texas-qb-apologizes-to-boy-hit-in-face-by-ball-during": {
-            "title": "Texas QB apologizes to boy hit in face by ball during spring game...",
-            "snippet": "During Texas'spring game on Saturday, junior quarterback Tyrone Swoopes showed off his arm strength in the third quarter when he threw the ball into the stands and right into a elementary school-age boy's face.",
-            "date": "2015-04-23",
-            "author_name": "unknown",
-            "categories": "school",
-            "tags": "age,into,during,hit,ball,game,off",
-            "recuweb_url": "http://en.recuweb.com/school/foxsports.com/2015/04/texas-qb-apologizes-to-boy-hit-in-face-by-ball-during",
-            "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://foxsports.com/southwest/story/texas-longhorns-charlie-strong-tyrone-swoopes-041815"
-        },
-        "andrewtobias.com/2015/04/take-me-out-to-the-ball-game-andrew-tobias": {
-            "title": "Take Me Out To The Ball Game Andrew Tobias...",
-            "snippet": "HEAT. Frigid as the Northeast was this past winter, Bloomberg News tells us this was actually the planet's hottest start to a year of any on record with an animated chart and everything. (Marco Rubio tells us the climate's...",
-            "date": "2015-04-22",
-            "author_name": "A.T.",
-            "categories": "ball-game",
-            "tags": "start,actually,ball,ball_game,game,any",
-            "recuweb_url": "http://en.recuweb.com/ball-game/andrewtobias.com/2015/04/take-me-out-to-the-ball-game-andrew-tobias",
+        "drjeanandfriends.blogspot.com/2015/04/take-me-out-to-the-ball-game-dr-jean-&-friends": {
+            "title": "TAKE ME OUT TO THE BALL GAME - Dr. Jean & Friends Blog...",
+            "snippet": "It's springtime and off we go to a College of Charleston baseball game this evening. (I think I'm looking forward to the popcorn and hotdog more than the game, but don't tell anyone!) Many of my students played T-ball this time...",
+            "date": "2015-04-25",
+            "author_name": "Jean",
+            "categories": "students,ball-game,college,baseball",
+            "tags": "played,evening,ball,ball_game,game,off,baseball",
+            "recuweb_url": "http://en.recuweb.com/baseball/drjeanandfriends.blogspot.com/2015/04/take-me-out-to-the-ball-game-dr-jean-&-friends",
             "resource_url": "http://www.google.com/search?q=ball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://andrewtobias.com/column/take-me-out-to-the-ball-game/"
+            "source_url": "http://drjeanandfriends.blogspot.com/2015/04/take-me-out-to-ball-game.html"
+        },
+        "blog.owu.edu/2015/04/the-transcript-ryan-missler-s-last-ball-game": {
+            "title": "The Transcript Ryan Missler's last ball game...",
+            "snippet": "When Ryan Missler hit a home run, it went farther than people were ready for. At home in a practice game, he knocked a ball into the middle of Route 23, a record, then broke it by hitting the ball past 23. At Wittenberg, the ball...",
+            "date": "2015-04-23",
+            "author_name": "Spenser Hickey",
+            "categories": "home",
+            "tags": "hitting,home,people,hit,run,ryan,ball,game",
+            "recuweb_url": "http://en.recuweb.com/home/blog.owu.edu/2015/04/the-transcript-ryan-missler-s-last-ball-game",
+            "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.owu.edu/transcript/2015/04/23/ryan-misslers-last-ball-game/"
+        },
+        "businessinsider.com/2015/04/a-woman-was-injured-at-an-mlb-game-when-foul-ball": {
+            "title": "A woman was injured at an MLB game when a foul ball hit her in the...",
+            "snippet": "A woman standing behind home plate at PNC Park in Pittsburgh was injured when a foul ball pushed the protective netting back and struck her in the back of the head. The incident occurred in the second inning when Starlin...",
+            "date": "2015-04-21",
+            "author_name": "Cork Gaines",
+            "categories": "home",
+            "tags": "occurred,second,second-inning,inning,back,struck,head,injured,foul,pnc,pnc_park,park,woman,behind,behind-home,behind-home-plate,home,home-plate,plate,hit,game,ball,pittsburgh,starlin",
+            "recuweb_url": "http://en.recuweb.com/home/businessinsider.com/2015/04/a-woman-was-injured-at-an-mlb-game-when-foul-ball",
+            "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://businessinsider.com/pittsburgh-pirates-fan-foul-ball-net-2015-4"
+        },
+        "pittsburgh.cbslocal.com/2015/04/fan-struck-by-foul-ball-at-pnc-park-cbs-pittsburgh": {
+            "title": "Fan Struck By Foul Ball At PNC Park CBS Pittsburgh...",
+            "snippet": "A fan watching the Pirates game Monday night in the stands of PNC Park was injured when she was struck in the head by a foul ball.",
+            "date": "2015-04-21",
+            "author_name": "hlang84",
+            "tags": "injured,struck,head,head-by-foul,foul,pnc,pnc_park,park,night,fan,ball,pittsburgh,pirates,game,monday",
+            "recuweb_url": "http://en.recuweb.com/pittsburgh.cbslocal.com/2015/04/fan-struck-by-foul-ball-at-pnc-park-cbs-pittsburgh",
+            "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://pittsburgh.cbslocal.com/2015/04/20/fan-struck-by-foul-ball-at-pnc-park/"
         },
         "sbnation.com/2015/04/fan-hit-in-head-by-foul-ball-at-pirates-game-taken": {
             "title": "Fan hit in head by foul ball at Pirates game, taken off on stretcher...",
             "snippet": "An extremely scary moment occurred at the Pirates-Cubs game at PNC Park on Monday evening. Starlin Castro was at the plate to start the top of the second inning and A.J. Burnett was pitching, when this happened:...",
             "date": "2015-04-21",
             "author_name": "Bill Hanstock",
-            "tags": "plate,start,starlin,starlin_castro,castro,pnc,pnc_park,park,extremely,extremely-scary,extremely-scary-moment,scary,scary-moment,scary-moment-occurred,moment,moment-occurred,occurred,fan,hit,head,foul,ball,pirates,game,off,stretcher,cubs,monday,evening",
+            "tags": "pitching,plate,start,second,second-inning,inning,starlin,starlin_castro,castro,pnc,pnc_park,park,extremely,extremely-scary,extremely-scary-moment,scary,scary-moment,scary-moment-occurred,moment,moment-occurred,occurred,stretcher,hit,hit-in-head,head,head-by-foul,foul,fan,ball,pirates,game,off,cubs,monday,evening",
             "recuweb_url": "http://en.recuweb.com/sbnation.com/2015/04/fan-hit-in-head-by-foul-ball-at-pirates-game-taken",
             "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://sbnation.com/2015/4/20/8459775/fan-hit-in-head-by-foul-ball-pirates-game-pnc-park-video"
-        },
-        "androidtapp.com/2015/04/jumpo-3d-jump-ball-game-androidtapp": {
-            "title": "JumPo - 3D Jump Ball Game - AndroidTapp...",
-            "snippet": "JumPo is a 3D jump endless ball runner game. Tap to jump and bounce off the ball. Try not to fall on or touch the spikes! Test your reaction time now! This is the 2nd series of Xllusion tap ball game, UI is similar to our first...",
-            "date": "2015-04-21",
-            "author_name": "Antonio Wells",
-            "categories": "ball-game",
-            "tags": "series,fall,ball,ball_game,game,off,first",
-            "recuweb_url": "http://en.recuweb.com/ball-game/androidtapp.com/2015/04/jumpo-3d-jump-ball-game-androidtapp",
-            "resource_url": "http://www.google.com/search?q=ball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://androidtapp.com/jumpo-3d-jump-ball-game/"
         },
         "wgntv.com/2015/04/woman-hit-in-head-by-foul-ball-at-cubs-pirates-game": {
             "title": "Woman hit in head by foul ball at Cubs-Pirates game WGN-TV...",
@@ -59,61 +70,53 @@
             "date": "2015-04-21",
             "author_name": "WGN Web Desk",
             "categories": "home",
-            "tags": "starlin,starlin_castro,castro,plate,night,after,chicago,woman,hit,head,foul,ball,cubs,pirates,game,against,minutes,monday,fan,back,off",
+            "tags": "starlin,starlin_castro,castro,night,fan,behind,behind-home,behind-home-plate,home,home-plate,plate,hit,back,head,chicago,pittsburgh,hit-in-head,head-by-foul,foul,woman,ball,cubs,pirates,game,minutes,monday,off",
             "recuweb_url": "http://en.recuweb.com/home/wgntv.com/2015/04/woman-hit-in-head-by-foul-ball-at-cubs-pirates-game",
             "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://wgntv.com/2015/04/21/woman-hit-in-head-by-foul-ball-at-cubs-pirates-game/"
-        },
-        "amandaservesthetruth.wordpress.com/2015/04/no-ball-games": {
-            "title": "No ball games...",
-            "snippet": "Several days of messaging and Paul and I decided to meet. He had a good job and seemed to have a handle on things and I was hoping []...",
-            "date": "2015-04-19",
-            "author_name": "mandistarkey",
-            "tags": "good,things,meet,ball,games",
-            "recuweb_url": "http://en.recuweb.com/amandaservesthetruth.wordpress.com/2015/04/no-ball-games",
-            "resource_url": "http://en.search.wordpress.com/?q=ball%2Bgame%2Bball%2Bgame&f=feed&page=1",
-            "source_url": "http://amandaservesthetruth.wordpress.com/2015/04/19/no-ball-games/"
-        },
-        "sports.yahoo.com/2015/04/warriors-fend-off-late-pelicans-charge-take-game-1-ball-don": {
-            "title": "Warriors fend off late Pelicans charge, take Game 1 Ball Don't Lie...",
-            "snippet": "8 New Orleans Pelicans for three quarters, the Golden State Warriors saw a massive lead dwindle to just a few points in the final minutes of Game 1 in their first-round series. The Warriors held on for a 106-99 win, but the...",
-            "date": "2015-04-18",
-            "author_name": "Eric Freeman",
-            "tags": "series,minutes,ball,off,game,saw,first,win",
-            "recuweb_url": "http://en.recuweb.com/sports.yahoo.com/2015/04/warriors-fend-off-late-pelicans-charge-take-game-1-ball-don",
-            "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://sports.yahoo.com/blogs/nba-ball-dont-lie/warriors-fend-off-late-pelicans-charge--take-game-1-230924706.html"
         },
         "huffingtonpost.com/2015/04/richard-branson-becomes-a-human-bowling-ball-during-chicago": {
             "title": "Richard Branson Becomes A Human Bowling Ball During Chicago...",
             "snippet": "Meet the world's most valuable bowling ball. Billionaire businessman and noted thrill-seeker Richard Branson became a human bowling ball on Wednesday night as part of a stunt during a game between the Chicago Bulls...",
             "date": "2015-04-16",
             "author_name": "Ed Mazza",
-            "tags": "chicago,between,night,during,ball,meet,world,wednesday,game",
+            "tags": "chicago,night,world,ball,game",
             "recuweb_url": "http://en.recuweb.com/huffingtonpost.com/2015/04/richard-branson-becomes-a-human-bowling-ball-during-chicago",
             "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://huffingtonpost.com/2015/04/16/richard-branson-bowling-ball_n_7076046.html"
         },
-        "reason.com/2015/04/take-me-out-to-the-ballgame-pat-down-with-crowd-hit": {
-            "title": "Take Me Out to the Ballgame, Pat Me Down With the Crowd! - Hit...",
-            "snippet": "Take Me Out to the Ballgame, Pat Me Down With the Crowd! Security theater comes to a stadium near you. Matt Welch Apr. 16, 2015 10:53 am. -. -. -. -. Spritz. Ah, the smell of peanuts. The sight of freshly mowed grass. The sharp crack of the...",
-            "date": "2015-04-16",
-            "author_name": "Matt Welch",
-            "tags": "sharp,theater,comes,ballgame,hit",
-            "recuweb_url": "http://en.recuweb.com/reason.com/2015/04/take-me-out-to-the-ballgame-pat-down-with-crowd-hit",
-            "resource_url": "http://www.google.com/search?q=ball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://reason.com/blog/2015/04/16/take-me-out-to-the-ballgame-pat-me-down"
+        "dailyfinance.com/2015/04/live-streaming-is-a-whole-new-ball-game-dailyfinance": {
+            "title": "Live Streaming Is a Whole New Ball Game - DailyFinance...",
+            "snippet": "Major League Baseball denies that it will ban fans from recording and live streaming games. But better technology and apps make the concept more likely.",
+            "date": "2015-04-10",
+            "author_name": "Rick Aristotle Munarriz",
+            "categories": "technology,baseball,ball-game",
+            "tags": "games,fans,major,baseball,whole,ball,ball_game,game,better",
+            "recuweb_url": "http://en.recuweb.com/ball-game/dailyfinance.com/2015/04/live-streaming-is-a-whole-new-ball-game-dailyfinance",
+            "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://dailyfinance.com/2015/04/10/live-streaming-whole-new-ball-game/"
         },
-        "3dprint.com/2015/04/make-your-own-arduino-enhanced-3d-printed-paddle-ball-game": {
-            "title": "Make Your Own Arduino-Enhanced, 3D Printed Paddle Ball Game...",
-            "snippet": "Have you ever known anyone who was actually good at paddle ball? You know--the wooden paddle with a rubber ball attached to it by a string? It's a toy that no child I've ever known (myself included) has mastered but...",
-            "date": "2015-04-15",
-            "author_name": "Debra Thimmesch",
-            "categories": "ball-game",
-            "tags": "actually,good,paddle,paddle_ball,ball,ball_game,game,make",
-            "recuweb_url": "http://en.recuweb.com/ball-game/3dprint.com/2015/04/make-your-own-arduino-enhanced-3d-printed-paddle-ball-game",
+        "theguardian.com/2015/04/a-whole-new-ball-game-how-data-and-tech-are-changing": {
+            "title": "A whole new ball game: how data and tech are changing sport...",
+            "snippet": "A whole new ball game: how data and tech are changing sport. Increased performance through data analysis is just one of the rewards tech can bring to sports. Fan engagement and commercial opportunities can also benefit.",
+            "date": "2015-04-09",
+            "author_name": "Wolfram Klug",
+            "categories": "sport",
+            "tags": "sports,whole,ball,game,fan",
+            "recuweb_url": "http://en.recuweb.com/sport/theguardian.com/2015/04/a-whole-new-ball-game-how-data-and-tech-are-changing",
             "resource_url": "http://www.google.com/search?q=ball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://3dprint.com/57696/arduino-paddle-ball-game/"
+            "source_url": "http://theguardian.com/technology/2015/apr/09/how-data-and-tech-changing-sport"
+        },
+        "sports.yahoo.com/2015/04/want-cheap-beer-at-a-ball-game-go-to-cleveland-or": {
+            "title": "Want cheap beer at a ball game? Go to Cleveland or Arizona Big...",
+            "snippet": "From Yahoo Sports: Beer prices at ball games are actually lower this season. Where can fans quench their thirst on the cheap?",
+            "date": "2015-04-07",
+            "author_name": "Chris Cwik",
+            "categories": "yahoo,sport",
+            "tags": "fans,games,sports,ball,game",
+            "recuweb_url": "http://en.recuweb.com/sport/sports.yahoo.com/2015/04/want-cheap-beer-at-a-ball-game-go-to-cleveland-or",
+            "resource_url": "http://www.google.com/search?q=ball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://sports.yahoo.com/blogs/mlb-big-league-stew/want-cheap-beer-at-a-ball-game--go-to-cleveland-or-arizona-232424774.html"
         }
     }
 }
