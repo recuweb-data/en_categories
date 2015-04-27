@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "lobbying",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/lobbying/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/lobbying/lobbying/blogs.json"
     },
     "items": {
-        "oilprice.com/2015/03/barrage-of-lobbying-on-new-oil-train-rules": {
-            "title": "Barrage Of Lobbying On New Oil Train Rules...",
-            "snippet": "After a slew of oil train derailments over the past month, the Obama administration is under assaultfrom lobbyists that is. A barrage of lobbying has descended upon the White House as it considers new regulations on trains carrying crude oil. And...",
-            "date": "2015-03-11",
+        "pressherald.com/2015/04/payments-flowed-in-attempt-to-create-tax-credit-program": {
+            "title": "Payments flowed in attempt to create tax credit program...",
+            "snippet": "Advantage Capital Partners, Stonehenge Capital and Enhanced Capital, all based in Louisiana, spent a combined 20,000 lobbying lawmakers and Gov. Paul LePage to approve the Maine version of the federal tax credit program initiative in 2011, according...",
+            "date": "2015-04-26",
+            "categories": "credit,lobbying",
+            "tags": "federal,lawmakers,spent,combined,lobbying",
+            "recuweb_url": "http://en.recuweb.com/lobbying/pressherald.com/2015/04/payments-flowed-in-attempt-to-create-tax-credit-program",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=lobbying&format=RSS&cc=us",
+            "source_url": "http://pressherald.com/2015/04/26/payments-flowed-in-attempt-to-create-tax-credit-program/"
+        },
+        "nytimes.com/2015/04/a-better-way-to-rein-in-lobbying-new-york-times": {
+            "title": "A Better Way to Rein In Lobbying - New York Times...",
+            "snippet": "Businessinsider IndiaA Better Way to Rein In LobbyingNew York TimesCorporations and their trade associations now spend about 2.6 billion a year in reported lobbying, and probably as much on unreported lobbying. That is more than the funding for the...",
+            "date": "2015-04-25",
             "categories": "lobbying",
-            "tags": "house,lobbyists,month,lobbying,after",
-            "recuweb_url": "http://en.recuweb.com/lobbying/oilprice.com/2015/03/barrage-of-lobbying-on-new-oil-train-rules",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=lobbying&format=RSS&cc=us",
-            "source_url": "http://oilprice.com/Energy/Crude-Oil/Barrage-Of-Lobbying-On-New-Oil-Train-Rules.html"
+            "tags": "billion,trade,york,lobbying,corporations",
+            "recuweb_url": "http://en.recuweb.com/lobbying/nytimes.com/2015/04/a-better-way-to-rein-in-lobbying-new-york-times",
+            "resource_url": "http://news.google.com/?hl=en&q=lobbying%2Blobbying&output=atom&nord=1",
+            "source_url": "http://nytimes.com/2015/04/25/opinion/a-better-way-to-rein-in-lobbying.html"
         },
-        "q13fox.com/2015/03/bill-to-prevent-former-lawmakers-aides-from-lobbying-for-1-year": {
-            "title": "Bill to prevent former lawmakers, aides from lobbying for 1 year after leaving... - Q13 FOX...",
-            "snippet": "Q13 FOXBill to prevent former lawmakers, aides from lobbying for 1 year after leaving...Q13 FOXOLYMPIA, Wash. (AP) A measure to bar state elected officials and their top aides from lobbying state government for a year after leaving their jobs has...",
-            "date": "2015-03-11",
+        "dailyherald.com/2015/04/apple-boosts-u-s-lobbying-spending-advocates-on-mobile-payment": {
+            "title": "Apple boosts U.S. lobbying spending, advocates on mobile payment...",
+            "snippet": "The Cupertino, California-based tech company spent million during the quarter compared with million in the same period last year, Apple said in a lobbying report. Apple listed a variety of subjects, such as taxation and consumer privacy, as...",
+            "date": "2015-04-25",
+            "categories": "taxation,privacy,lobbying",
+            "tags": "tech,spent,million,lobbying",
+            "recuweb_url": "http://en.recuweb.com/lobbying/dailyherald.com/2015/04/apple-boosts-u-s-lobbying-spending-advocates-on-mobile-payment",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=lobbying&format=RSS&cc=us",
+            "source_url": "http://dailyherald.com/article/20150425/business/150429218/"
+        },
+        "bgr.com/2015/04/comcast-and-twc-lit-32-million-on-fire-lobbying-the-government": {
+            "title": "Comcast and TWC lit 32 million on fire lobbying the government to pass their merger...",
+            "snippet": "This will be heartbreaking for many of you to hear, but it seems that Comcast and Time Warner Cable spent a total of 32 million lobbying the government to sign off on their merger and they still didnt get what they wanted. In a big Politico...",
+            "date": "2015-04-25",
             "categories": "lobbying",
-            "tags": "year,after,after-leaving,leaving,measure,state,elected,former,bill,lobbying,officials,government",
-            "recuweb_url": "http://en.recuweb.com/lobbying/q13fox.com/2015/03/bill-to-prevent-former-lawmakers-aides-from-lobbying-for-1-year",
-            "resource_url": "http://news.google.com/?hl=en&q=lobbying&output=atom&nord=1",
-            "source_url": "http://q13fox.com/2015/03/11/bill-to-prevent-former-lawmakers-aides-from-lobbying-for-1-year-after-leaving-office-dies/"
-        },
-        "coindesk.com/2015/03/coinbase-joins-facebook-and-uber-in-internet-lobbying-group": {
-            "title": "Coinbase Joins Facebook and Uber in Internet Lobbying Group...",
-            "snippet": "Coinbase is the first bitcoin company to join the Internet Association (IA), a Washington, DC public policy group that lobbies regulators on Internet freedom and innovation. Launched in 2012, the IA boasts founding members including Amazon, eBay...",
-            "date": "2015-03-11",
-            "categories": "policy,internet,lobbying,facebook",
-            "tags": "group,first,company,lobbying",
-            "recuweb_url": "http://en.recuweb.com/facebook/coindesk.com/2015/03/coinbase-joins-facebook-and-uber-in-internet-lobbying-group",
+            "tags": "government,merger,spent,warner,warner_cable,cable,million,comcast,lobbying",
+            "recuweb_url": "http://en.recuweb.com/lobbying/bgr.com/2015/04/comcast-and-twc-lit-32-million-on-fire-lobbying-the-government",
             "resource_url": "http://www.bing.com/news/search?first=1&q=lobbying&format=RSS&cc=us",
-            "source_url": "http://coindesk.com/coinbase-joins-airbnb-facebook-and-uber-in-internet-lobbying-group/"
+            "source_url": "http://bgr.com/2015/04/25/comcast-time-warner-cable-merger-lobbying/"
         },
-        "sfgate.com/2015/03/experts-e-mails-show-culture-of-lawlessness-at-cpuc": {
-            "title": "Experts: E-mails show culture of 'lawlessness at CPUC...",
-            "snippet": "The e-mails, critics say, are evidence of widespread abuse of that system. Such one-on-one utility lobbying efforts are banned outright in 36 other states, according to experts who testified Wednesday before the state Senate Energy and Utilities...",
-            "date": "2015-03-11",
-            "categories": "evidence,culture,lobbying",
-            "tags": "state,according,other,states,culture,lobbying,wednesday",
-            "recuweb_url": "http://en.recuweb.com/lobbying/sfgate.com/2015/03/experts-e-mails-show-culture-of-lawlessness-at-cpuc",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=lobbying&format=RSS&cc=us",
-            "source_url": "http://sfgate.com/bayarea/article/Experts-E-mails-show-culture-of-lawlessness-6128648.php"
-        },
-        "abqjournal.com/2015/03/house-passes-bill-to-limit-lobbying-by-former-officials-albuquerque-journal": {
-            "title": "House passes bill to limit lobbying by former officials - Albuquerque Journal (blog)...",
-            "snippet": "House passes bill to limit lobbying by former officialsAlbuquerque Journal (blog)SANTA FE, N.M. The New Mexico House has passed a measure that would keep former elected leaders and other state officials from lobbying for two years after leaving...",
-            "date": "2015-03-11",
+        "nytimes.com/2015/04/intense-lobbying-failed-to-assure-comcast-s-deal-new-york-times": {
+            "title": "Intense Lobbying Failed to Assure Comcast's Deal - New York Times...",
+            "snippet": "New York TimesIntense Lobbying Failed to Assure Comcast's DealNew York TimesWASHINGTON David L. Cohen, the master salesman who runs the Comcast Corporation's lobbying efforts, stood before a room full of Latino House lawmakers one morning in early...",
+            "date": "2015-04-25",
             "categories": "lobbying",
-            "tags": "after,after-leaving,leaving,measure,would,former,elected,other,state,bill,house,lobbying,officials",
-            "recuweb_url": "http://en.recuweb.com/lobbying/abqjournal.com/2015/03/house-passes-bill-to-limit-lobbying-by-former-officials-albuquerque-journal",
-            "resource_url": "http://news.google.com/?hl=en&q=lobbying&output=atom&nord=1",
-            "source_url": "http://abqjournal.com/553348/politics/legislature-blog/house-passes-bill-to-limit-lobbying-by-former-officials.html"
+            "tags": "lawmakers,house,comcast,washington,york,lobbying,deal",
+            "recuweb_url": "http://en.recuweb.com/lobbying/nytimes.com/2015/04/intense-lobbying-failed-to-assure-comcast-s-deal-new-york-times",
+            "resource_url": "http://news.google.com/?hl=en&q=lobbying%2Blobbying&output=atom&nord=1",
+            "source_url": "http://nytimes.com/2015/04/25/business/media/intense-lobbying-failed-to-assure-comcasts-deal.html"
         },
-        "nytimes.com/2015/03/lobbying-to-save-a-bullet": {
-            "title": "Lobbying to Save a Bullet...",
-            "snippet": "Re Move to Ban a Bullet Adds to Its Appeal (front page, Feb. 27), about opposition to a ban on ammunition commonly used by target shooters and hunters: If the Second Amendment protects sporting and target shooting, we should rethink its place in...",
-            "date": "2015-03-11",
+        "naturalnews.com/2015/04/us-corporations-generate-hundreds-of-billions-dollars-annually-by-bribing-politicians": {
+            "title": "US corporations generate hundreds of billions of dollars annually by bribing politicians...",
+            "snippet": "(NaturalNews) Corporate lobbying is big business in the U.S., where the highest bribing multinational corporations are allowed to freely siphon billions of dollars every year from the federal coffers. But few people realize just how much these...",
+            "date": "2015-04-25",
+            "categories": "business,lobbying",
+            "tags": "federal,corporations,business,corporate,lobbying",
+            "recuweb_url": "http://en.recuweb.com/lobbying/naturalnews.com/2015/04/us-corporations-generate-hundreds-of-billions-dollars-annually-by-bribing-politicians",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=lobbying&format=RSS&cc=us",
+            "source_url": "http://naturalnews.com/049491_US_corporations_political_lobbying_bribery.html"
+        },
+        "politico.com/2015/04/collapse-of-comcast-time-warner-cable-merger-shows-limits-lobbying": {
+            "title": "Collapse of Comcast-Time Warner Cable merger shows limits of lobbying...",
+            "snippet": "Telecom giants Comcast and Time Warner Cable spent more than 32 million influencing Washington over the past year, in large part to sell its 45 billion mega-merger. In the end, theyre left with a dead deal, a sharp rebuke from regulators, and a...",
+            "date": "2015-04-24",
             "categories": "lobbying",
-            "tags": "should,opposition,front,lobbying,save",
-            "recuweb_url": "http://en.recuweb.com/lobbying/nytimes.com/2015/03/lobbying-to-save-a-bullet",
+            "tags": "deal,billion,million,spent,merger,warner,warner_cable,cable,comcast,lobbying,washington",
+            "recuweb_url": "http://en.recuweb.com/lobbying/politico.com/2015/04/collapse-of-comcast-time-warner-cable-merger-shows-limits-lobbying",
             "resource_url": "http://www.bing.com/news/search?first=1&q=lobbying&format=RSS&cc=us",
-            "source_url": "http://nytimes.com/2015/03/11/opinion/lobbying-to-save-a-bullet.html"
+            "source_url": "http://politico.com/story/2015/04/comcast-time-warner-deal-breakdown-lobbying-117317.html"
         },
-        "usatoday.com/2015/03/more-people-are-flying-but-airline-prices-aren-t-dropping": {
-            "title": "More people are flying, but airline prices aren't dropping...",
-            "snippet": "More people are flying, but airline prices aren't dropping According to a report from an airline lobbying group, more people will fly this spring compared to this time last year, so why aren't prices dropping? Video provided by Newsy Check out this...",
-            "date": "2015-03-11",
-            "categories": "lobbying",
-            "tags": "year,people,according,lobbying,group",
-            "recuweb_url": "http://en.recuweb.com/lobbying/usatoday.com/2015/03/more-people-are-flying-but-airline-prices-aren-t-dropping",
+        "winnipegfreepress.com/2015/04/manitobas-minimalist-regulation-of-lobbying": {
+            "title": "Manitobas minimalist regulation of lobbying...",
+            "snippet": "Manitoba is one of nine provinces, the national government and a number of cities that have passed laws to monitor and regulate the activities of lobbyists who seek to influence elected and appointed government officials on public policy matters.",
+            "date": "2015-04-24",
+            "categories": "policy,lobbying",
+            "tags": "government,number,influence,lobbying",
+            "recuweb_url": "http://en.recuweb.com/lobbying/winnipegfreepress.com/2015/04/manitobas-minimalist-regulation-of-lobbying",
             "resource_url": "http://www.bing.com/news/search?first=1&q=lobbying&format=RSS&cc=us",
-            "source_url": "http://usatoday.com/videos/money/personalfinance/2015/03/11/70162952/"
+            "source_url": "http://winnipegfreepress.com/opinion/analysis/Manitobas-minimalist-regulation-of-lobbying-301243151.html?cx_navSource=d-tiles-2"
         },
-        "theweek.com/2015/03/rescuers-save-475-pound-turtle-in-south-carolina": {
-            "title": "Rescuers save 475-pound turtle in South Carolina...",
-            "snippet": "Jonathan Stickland (R) hung a sign reading former fetus outside his office on Wednesday. The sign marked Stickland's opposition to Planned Parenthood's lobbying of Texas to continue giving the organization cancer screening grants. The sign was from...",
-            "date": "2015-03-11",
-            "categories": "cancer,lobbying",
-            "tags": "opposition,former,south,save,wednesday,lobbying",
-            "recuweb_url": "http://en.recuweb.com/lobbying/theweek.com/2015/03/rescuers-save-475-pound-turtle-in-south-carolina",
+        "huffingtonpost.com/2015/04/top-lobbying-groups-spent-64-million-to-influence-congress-white-house": {
+            "title": "Top Lobbying Groups Spent 64 Million To Influence Congress, White House - Huffington Post...",
+            "snippet": "International Business TimesTop Lobbying Groups Spent 64 Million To Influence Congress, White HouseHuffington PostWASHINGTON -- The top 10 lobbying spenders shelled out a combined 64 million in the first three months of this year to influence...",
+            "date": "2015-04-24",
+            "categories": "business,lobbying",
+            "tags": "million,influence,combined,business,house,top,lobbying,groups,spent,washington",
+            "recuweb_url": "http://en.recuweb.com/lobbying/huffingtonpost.com/2015/04/top-lobbying-groups-spent-64-million-to-influence-congress-white-house",
+            "resource_url": "http://news.google.com/?hl=en&q=lobbying%2Blobbying&output=atom&nord=1",
+            "source_url": "http://huffingtonpost.com/2015/04/23/lobbying-groups-gop_n_7130040.html"
+        },
+        "finance.yahoo.com/2015/04/what-google-wants-with-its-in-lobbying": {
+            "title": "What Google wants with its in lobbying...",
+            "snippet": "Until fairly recently, Silicon Valley companies steered clear of political lobbying. No longer. Top among tech companies looking for influence in Washington is Google (NASDAQ: GOOGL), which spent 5.5 million on congressional lobbying in the first...",
+            "date": "2015-04-24",
+            "categories": "google,lobbying",
+            "tags": "million,spent,tech,influence,political,lobbying,top,washington",
+            "recuweb_url": "http://en.recuweb.com/lobbying/finance.yahoo.com/2015/04/what-google-wants-with-its-in-lobbying",
             "resource_url": "http://www.bing.com/news/search?first=1&q=lobbying&format=RSS&cc=us",
-            "source_url": "http://theweek.com/speedreads/543618/rescuers-save-475pound-turtle-south-carolina"
-        },
-        "voiceofoc.org/2015/03/bus-contractor-scolded-for-improper-lobbying-at-transportation-authority": {
-            "title": "Bus Contractor Scolded for Improper Lobbying at Transportation Authority...",
-            "snippet": "An agent for a bus services company bidding for a huge contract with the Orange County Transportation Authority improperly lobbied the agency by trying to obtain confidential information during the bidding process, according to a letter penned by...",
-            "date": "2015-03-10",
-            "categories": "lobbying",
-            "tags": "according,company,contract,lobbying",
-            "recuweb_url": "http://en.recuweb.com/lobbying/voiceofoc.org/2015/03/bus-contractor-scolded-for-improper-lobbying-at-transportation-authority",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=lobbying&format=RSS&cc=us",
-            "source_url": "http://voiceofoc.org/2015/03/bus-contractor-scolded-for-improper-lobbying-at-transportation-authority/"
-        },
-        "news.yahoo.com/2015/03/ex-air-force-officer-pleads-guilty-in-afghan-contract-case": {
-            "title": "Ex-Air Force officer pleads guilty in Afghan contract case...",
-            "snippet": "IOWA CITY, Iowa (AP) A former Air Force captain who oversaw contracts in Afghanistan pleaded guilty Tuesday to an influence-peddling charge stemming from his post-military employment lobbying for a vendor.",
-            "date": "2015-03-10",
-            "categories": "employment,lobbying",
-            "tags": "military,contract,former,afghanistan,tuesday,lobbying",
-            "recuweb_url": "http://en.recuweb.com/lobbying/news.yahoo.com/2015/03/ex-air-force-officer-pleads-guilty-in-afghan-contract-case",
-            "resource_url": "http://news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=lobbying",
-            "source_url": "http://news.yahoo.com/ex-air-force-officer-plead-guilty-afghan-contract-160438971.html"
+            "source_url": "http://finance.yahoo.com/news/google-wants-5-5m-lobbying-161719355.html"
         }
     }
 }
