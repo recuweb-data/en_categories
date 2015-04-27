@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "estate-planning",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/estate-planning/",
@@ -10,22 +11,69 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/estate-planning/estate-planning/blogs.json"
     },
     "items": {
-        "naplesnews.com/2015/04/attorney-and-author-craig-r-hersch-publishes-second-book": {
-            "title": "Attorney and author Craig R. Hersch publishes second book...",
-            "snippet": "Attorney Craig R. Hersch has authored and published his second estate planning book entitled, Legal Matters When a Loved One Dies. It follows his first book entitled, Common Cents Estate Planning published the fall of 2014. Both books provide...",
-            "date": "2015-04-23",
-            "categories": "estate-planning",
-            "tags": "common,estate,estate_planning,planning,first,loved,attorney",
-            "recuweb_url": "http://en.recuweb.com/estate-planning/naplesnews.com/2015/04/attorney-and-author-craig-r-hersch-publishes-second-book",
+        "citypress.co.za/2015/04/your-financial-dependants-have-a-claim-on-pension": {
+            "title": "Your financial dependants have a claim on your pension...",
+            "snippet": "Our recent article on estate planning and wills generated interesting questions from readers in terms of divorce and death, highlighting how important estate planning is when it comes to financial planning I got divorced 12 years ago and we agreed...",
+            "date": "2015-04-27",
+            "categories": "death,pension",
+            "tags": "comes,financial,important,divorce,death,wills,questions,estate,planning",
+            "recuweb_url": "http://en.recuweb.com/pension/citypress.co.za/2015/04/your-financial-dependants-have-a-claim-on-pension",
             "resource_url": "http://www.bing.com/news/search?first=1&q=estate%2Bplanning&format=RSS&cc=us",
-            "source_url": "http://naplesnews.com/ugc/arts-and-entertainment-ugc/attorney-and-author-craig-r-hersch-publishes-second-book-entitled-legal-matters-when-a-loved-one-dies_183343"
+            "source_url": "http://citypress.co.za/business/your-financial-dependants-have-a-claim-on-your-pension/"
+        },
+        "chicagotribune.com/2015/04/checklist-for-updating-organizing-estate-planning-documents": {
+            "title": "Checklist for updating, organizing estate planning documents...",
+            "snippet": "Get it together: Make it easy for your family to track down your estate planning documents. When Craig Evans Carnick accompanied his wife of 46 years to a medical procedure recently, he got a bit of a surprise when he asked a nurse a question about...",
+            "date": "2015-04-26",
+            "tags": "recently,down,easy,check,estate,planning,documents,family",
+            "recuweb_url": "http://en.recuweb.com/chicagotribune.com/2015/04/checklist-for-updating-organizing-estate-planning-documents",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=estate%2Bplanning&format=RSS&cc=us",
+            "source_url": "http://chicagotribune.com/business/yourmoney/sc-cons-0430-journey-20150427-column.html"
+        },
+        "shreveporttimes.com/2015/04/don-t-shy-away-from-talking-wills-estate-planning-shreveport-times": {
+            "title": "Don't shy away from talking wills, estate planning - Shreveport Times...",
+            "snippet": "Shreveport TimesDon't shy away from talking wills, estate planningShreveport TimesRecently, I had lunch with a couple of friends, and while we were eating they shared their thoughts on their plans for leaving their estates to their family. We had...",
+            "date": "2015-04-26",
+            "tags": "friends,wills,don,estate,planning,recently,family",
+            "recuweb_url": "http://en.recuweb.com/shreveporttimes.com/2015/04/don-t-shy-away-from-talking-wills-estate-planning-shreveport-times",
+            "resource_url": "http://news.google.com/?hl=en&q=estate%2Bplanning&output=atom&nord=1",
+            "source_url": "http://shreveporttimes.com/story/money/business/2015/04/26/shy-away-talking-wills-estate-planning/26320075/"
+        },
+        "inforum.com/2015/04/hervoice-johnson-drenth-advocates-through-elder-law-estate-planning-inforum": {
+            "title": "HerVoice: Johnson-Drenth advocates through elder law, estate planning - INFORUM...",
+            "snippet": "INFORUMHerVoice: Johnson-Drenth advocates through elder law, estate planningINFORUM\"With typical estate planning, everyone should have a will, a power of attorney and a health care directive and make sure their beneficiary designations are set up,\"...",
+            "date": "2015-04-26",
+            "categories": "law",
+            "tags": "attorney,care,law,estate,planning",
+            "recuweb_url": "http://en.recuweb.com/law/inforum.com/2015/04/hervoice-johnson-drenth-advocates-through-elder-law-estate-planning-inforum",
+            "resource_url": "http://news.google.com/?hl=en&q=estate%2Bplanning&output=atom&nord=1",
+            "source_url": "http://inforum.com/shesays/lifestyle/3730375-hervoice-johnson-drenth-advocates-through-elder-law-estate-planning"
+        },
+        "stgeorgeutah.com/2015/04/protecting-professional-assets": {
+            "title": "Protecting professional assets...",
+            "snippet": "Implement and update estate planning documents Title assets carefully and consider the option of separate marital trusts Become familiar with the new Utah Domestic Asset Protection Trust Form and maintain business entities Business entities are...",
+            "date": "2015-04-26",
+            "categories": "business",
+            "tags": "business,assets,trusts,care,estate,planning,documents",
+            "recuweb_url": "http://en.recuweb.com/business/stgeorgeutah.com/2015/04/protecting-professional-assets",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=estate%2Bplanning&format=RSS&cc=us",
+            "source_url": "http://stgeorgeutah.com/news/archive/2015/04/26/hw-protecting-professional-assets/"
+        },
+        "nytimes.com/2015/04/tax-break-used-by-investors-in-flipping-art-faces-scrutiny": {
+            "title": "Tax Break Used by Investors in Flipping Art Faces Scrutiny...",
+            "snippet": "Some people are exploiting this tax provision as an estate planning tool to help them transfer wealth. In its 2016 budget, the Obama administration is proposing to eliminate the tax break for exchanges of art and other collectibles, and to limit...",
+            "date": "2015-04-26",
+            "tags": "transfer,wealth,people,estate,planning",
+            "recuweb_url": "http://en.recuweb.com/nytimes.com/2015/04/tax-break-used-by-investors-in-flipping-art-faces-scrutiny",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=estate%2Bplanning&format=RSS&cc=us",
+            "source_url": "http://nytimes.com/2015/04/27/arts/design/tax-break-used-by-investors-in-flipping-art-faces-scrutiny.html"
         },
         "examiner.com/2015/04/estate-planning-for-single-individuals-what-you-need-to-know": {
             "title": "Estate Planning for Single Individuals: What You Need to Know...",
             "snippet": "Estate planning for singles is just as important as it is for couples. Some of the common issues that need to be addressed/properly planned for: 1. Singles who were previously married: When it comes to a person's assets, unfortunately, divorce does...",
             "date": "2015-04-23",
             "categories": "estate-planning",
-            "tags": "divorce,assets,comes,common,singles,estate,estate_planning,planning,need",
+            "tags": "divorce,assets,comes,common,singles,important,estate,estate_planning,planning",
             "recuweb_url": "http://en.recuweb.com/estate-planning/examiner.com/2015/04/estate-planning-for-single-individuals-what-you-need-to-know",
             "resource_url": "http://www.bing.com/news/search?first=1&q=estate%2Bplanning&format=RSS&cc=us",
             "source_url": "http://examiner.com/article/estate-planning-for-single-individuals-what-you-need-to-know"
@@ -34,78 +82,30 @@
             "title": "Estate planning essential for homeowners...",
             "snippet": "From Freddie Macs weekly survey: The 30-year fixed rate improved by 2 basis points, landing percent better than last weeks percent. Ditto for the 15-year fixed, landing at percent, down from last weeks percent. The Mortgage...",
             "date": "2015-04-23",
-            "tags": "year,estate,planning",
+            "tags": "estate,planning,down",
             "recuweb_url": "http://en.recuweb.com/ocregister.com/2015/04/estate-planning-essential-for-homeowners",
             "resource_url": "http://www.bing.com/news/search?first=1&q=estate%2Bplanning&format=RSS&cc=us",
             "source_url": "http://ocregister.com/lansner/planning-659139-essential-estate.html"
         },
-        "theborneopost.com/2015/04/nancy-awareness-on-making-a-will-estate-planning-still-low": {
-            "title": "Nancy: Awareness on making a will, estate-planning still low...",
-            "snippet": "SIBU: Awareness on the importance of succession plans like estate planning, will-writing, and opening of trust account needs to be given greater attention. Minister in the Prime Ministers Department Nancy Shukri said this was because statistics...",
+        "patch.com/2015/04/free-estate-planning-seminar": {
+            "title": "FREE Estate Planning Seminar...",
+            "snippet": "Has writing a will or creating an estate plan been on your to-do list for far too long? Do you have a plan, but youre wondering if youve covered all the bases? Dont let a lack of planning or know-how influence your loved ones negatively.",
             "date": "2015-04-23",
-            "tags": "trust,importance,making,estate,planning,writing,because",
-            "recuweb_url": "http://en.recuweb.com/theborneopost.com/2015/04/nancy-awareness-on-making-a-will-estate-planning-still-low",
+            "categories": "estate-planning",
+            "tags": "loved,loved-ones,ones,estate,estate_planning,planning,plan",
+            "recuweb_url": "http://en.recuweb.com/estate-planning/patch.com/2015/04/free-estate-planning-seminar",
             "resource_url": "http://www.bing.com/news/search?first=1&q=estate%2Bplanning&format=RSS&cc=us",
-            "source_url": "http://theborneopost.com/2015/04/24/nancy-awareness-on-making-a-will-estate-planning-still-low/"
-        },
-        "natlawreview.com/2015/04/planning-for-incapacity-re-estate-the-national-law-review": {
-            "title": "Planning for Incapacity re: Estate Planning - The National Law Review...",
-            "snippet": "Planning for Incapacity re: Estate PlanningThe National Law ReviewWhile an estate plan has obvious uses - i.e., planning for the disposition of estate assets after the death of a testator - some of the lesser-known benefits of a well-written plan...",
-            "date": "2015-04-23",
-            "categories": "death,law",
-            "tags": "assets,after,death,estate,law,planning,plan",
-            "recuweb_url": "http://en.recuweb.com/law/natlawreview.com/2015/04/planning-for-incapacity-re-estate-the-national-law-review",
-            "resource_url": "http://news.google.com/?hl=en&q=estate%2Bplanning%2Bestate%2Bplanning&output=atom&nord=1",
-            "source_url": "http://natlawreview.com/article/planning-incapacity-re-estate-planning"
-        },
-        "huffingtonpost.com/2015/04/what-happens-if-you-die-without": {
-            "title": "What Happens If You Die Without A Will?",
-            "snippet": "For heaven's sake, who wants to think about dying? Not me, and I'm an estate planning attorney. The trouble is that too many people never get around to estate planning, which leaves a lot up to chance. But what happens if you die without a will or...",
-            "date": "2015-04-23",
-            "tags": "happens,die,estate,planning,attorney,people",
-            "recuweb_url": "http://en.recuweb.com/huffingtonpost.com/2015/04/what-happens-if-you-die-without",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=estate%2Bplanning&format=RSS&cc=us",
-            "source_url": "http://huffingtonpost.com/steve-cook/what-happens-if-you-die-w_b_7120868.html"
+            "source_url": "http://patch.com/illinois/stcharles-il/free-estate-planning-seminar"
         },
         "mainstreet.com/2015/04/5-items-singles-need-to-handle-their-worst-case-estate-planning": {
             "title": "5 Items Singles Need to Handle Their Worst-Case Estate Planning - MainStreet...",
             "snippet": "MainStreet5 Items Singles Need to Handle Their Worst-Case Estate PlanningMainStreet\"The express purpose of estate planning is to make things as easy, as inexpensive and as simple as required for loved ones, friends and associates left behind. Every...",
             "date": "2015-04-22",
             "categories": "estate-planning",
-            "tags": "associates,loved,loved-ones,ones,things,estate,estate_planning,planning,singles,need,every",
+            "tags": "friends,associates,loved,loved-ones,ones,things,easy,estate,estate_planning,planning,singles,every",
             "recuweb_url": "http://en.recuweb.com/estate-planning/mainstreet.com/2015/04/5-items-singles-need-to-handle-their-worst-case-estate-planning",
-            "resource_url": "http://news.google.com/?hl=en&q=estate%2Bplanning%2Bestate%2Bplanning&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=estate%2Bplanning&output=atom&nord=1",
             "source_url": "http://mainstreet.com/article/5-items-singles-need-to-handle-their-worst-case-estate-planning"
-        },
-        "advisor.ca/2015/04/new-share-donation-rules-could-improve-estate-planning": {
-            "title": "New share donation rules could improve estate planning...",
-            "snippet": "If your clients are charitably inclined and looking to sell their businesses, they may be able to get a tax break. The 2015 Federal Budget proposed a new capital gains exemption when someone sells private company shares or real estate, and donates...",
-            "date": "2015-04-22",
-            "categories": "business",
-            "tags": "estate,planning,real",
-            "recuweb_url": "http://en.recuweb.com/business/advisor.ca/2015/04/new-share-donation-rules-could-improve-estate-planning",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=estate%2Bplanning&format=RSS&cc=us",
-            "source_url": "http://advisor.ca/tax/tax-news/new-share-donation-rules-could-improve-estate-planning-181499"
-        },
-        "somers.dailyvoice.com/2015/04/somers-library-presents-estate-planning-for-everyone-the-daily-voice": {
-            "title": "Somers Library Presents 'Estate Planning For Everyone'- The Daily Voice...",
-            "snippet": "Somers Library Presents 'Estate Planning For Everyone'The Daily VoiceSOMERS, N.Y. -- The Somers Library will be hosting \"Estate Planning for Everyone\" presented by Tracy Christen Reimann, Esq., at 6 p.m. Monday, April 27. Topics will include writing...",
-            "date": "2015-04-22",
-            "categories": "estate-planning",
-            "tags": "writing,estate,estate_planning,planning",
-            "recuweb_url": "http://en.recuweb.com/estate-planning/somers.dailyvoice.com/2015/04/somers-library-presents-estate-planning-for-everyone-the-daily-voice",
-            "resource_url": "http://news.google.com/?hl=en&q=estate%2Bplanning%2Bestate%2Bplanning&output=atom&nord=1",
-            "source_url": "http://somers.dailyvoice.com/news/somers-library-presents-estate-planning-everyone"
-        },
-        "fool.com/2015/04/thinking-of-gifting-an-inheritance-to-your-grandchildren-keep-these-3": {
-            "title": "Thinking of Gifting an Inheritance to Your Grandchildren? Keep These 3 Things in Mind...",
-            "snippet": "Few people get excited about doing estate planning, even though they might recognize the importance of leaving a legacy for their children and grandchildren. If you want to be smart about making gifts to your loved ones, though, there are some...",
-            "date": "2015-04-22",
-            "categories": "mind",
-            "tags": "loved,loved-ones,ones,importance,inheritance,keep,things,mind,people,estate,planning,want,making",
-            "recuweb_url": "http://en.recuweb.com/mind/fool.com/2015/04/thinking-of-gifting-an-inheritance-to-your-grandchildren-keep-these-3",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=estate%2Bplanning&format=RSS&cc=us",
-            "source_url": "http://fool.com/how-to-invest/personal-finance/taxes/2015/04/22/thinking-of-gifting-an-inheritance-to-your-grandch.aspx"
         }
     }
 }
