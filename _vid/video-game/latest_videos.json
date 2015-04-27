@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "video-game",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/video-game/",
@@ -10,61 +11,106 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/video-game/video-game/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/the-way-game-chasin-go-music-video": {
-            "title": "The Way Game Chasin Go Music Video...",
-            "snippet": "\"The Way Game Chasin Go\" Music Video this was made to put up on the channel last summer but was held off to put as a timed exclusive for the season 2 DVD set. No reason for this to exist, but it does. You Sign up for the Game... From: The Game...",
-            "date": "2015-04-22",
-            "author_name": "The Game Chasers",
-            "categories": "music,music-video",
-            "tags": "music,way,game",
-            "recuweb_url": "http://en.recuweb.com/music-video/youtube.com/2015/04/the-way-game-chasin-go-music-video",
+        "dailymotion.com/2015/04/learn-about-video-game-consoles-choosing-a-console": {
+            "title": "Learn About Video Game Consoles: Choosing a Video Game Console...",
+            "snippet": "Learn About Video Game Consoles: Choosing a Video Game ConsoleAuthor: RaisaWallenTags: Learn About Video Game Consoles: Choosing a Console Posted: 25 April 2015Rating:: 0...",
+            "date": "2015-04-25",
+            "author_name": "RaisaWallen",
+            "tags": "game,game_consoleauthor,consoleauthor,game_console,console,learn,learn_about_video,game_consoles,consoles,raisawallentags",
+            "recuweb_url": "http://en.recuweb.com/dailymotion.com/2015/04/learn-about-video-game-consoles-choosing-a-console",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/video+game+video+game/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nx1le_learn-about-video-game-consoles-choosing-a-video-game-console_videogames",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nx1le_learn-about-video-game-consoles-choosing-a-video-game-console_videogames"
+        },
+        "dailymotion.com/2015/04/learn-about-video-game-consoles-current-&-next-generation": {
+            "title": "Learn About Video Game Consoles: Current & Next Generation Video Game Consoles...",
+            "snippet": "Learn About Video Game Consoles: Current & Next Generation Video Game ConsolesAuthor: RaisaWallenTags: Learn About Video Game Consoles: Current Next Generation Posted: 25 April 2015Rating:: 0...",
+            "date": "2015-04-25",
+            "author_name": "RaisaWallen",
+            "tags": "game,game_consoles,consoles,learn,learn_about_video,raisawallentags",
+            "recuweb_url": "http://en.recuweb.com/dailymotion.com/2015/04/learn-about-video-game-consoles-current-&-next-generation",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/video+game+video+game/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nx1kz_learn-about-video-game-consoles-current-next-generation-video-game-consoles_videogames",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nx1kz_learn-about-video-game-consoles-current-next-generation-video-game-consoles_videogames"
+        },
+        "dailymotion.com/2015/04/learn-about-video-game-consoles-getting-good-value-on-a-console": {
+            "title": "Learn About Video Game Consoles: Getting Good Value on a Video Game Console...",
+            "snippet": "Learn About Video Game Consoles: Getting Good Value on a Video Game ConsoleAuthor: RaisaWallenTags: Learn About Video Game Consoles: Getting Good Value on a Console Posted: 25 April 2015Rating:: 0...",
+            "date": "2015-04-25",
+            "author_name": "RaisaWallen",
+            "tags": "game,game_consoleauthor,consoleauthor,game_console,console,getting,learn,learn_about_video,game_consoles,consoles,raisawallentags",
+            "recuweb_url": "http://en.recuweb.com/dailymotion.com/2015/04/learn-about-video-game-consoles-getting-good-value-on-a-console",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/video+game+video+game/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nx1lu_learn-about-video-game-consoles-getting-good-value-on-a-video-game-console_videogames",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nx1lu_learn-about-video-game-consoles-getting-good-value-on-a-video-game-console_videogames"
+        },
+        "youtube.com/2015/04/5-most-embarrassing-video-game-rap-commercials": {
+            "title": "5 Most Embarrassing Video Game Rap Commercials...",
+            "snippet": "5 Most Embarrassing Video Game Rap Commercials Hip hop without the \"hip.\" See more Geek out with us... FACEBOOK: TWITTER: TUMBLR From: Dorkly Views: 73971 2884 ratings Time: 05:16 More in Comedy...",
+            "date": "2015-04-24",
+            "author_name": "Dorkly",
+            "categories": "facebook,twitter,tumblr,comedy",
+            "tags": "game,facebook",
+            "recuweb_url": "http://en.recuweb.com/comedy/youtube.com/2015/04/5-most-embarrassing-video-game-rap-commercials",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=video%2Bgame%2Bvideo%2Bgame&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=yE3DNVOPSDM&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/yE3DNVOPSDM/0.jpg"
+            "source_url": "http://youtube.com/watch?v=WD5sHzIMFoo&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/WD5sHzIMFoo/0.jpg"
+        },
+        "dailymotion.com/2015/04/top-10-best-video-games-2012-vga-game-awards-of": {
+            "title": "Top 10 Best Video Games 2012 VGA Video Game Awards 2012 Game of the Year Xbox 360 PS3 PC Wii U 2013...",
+            "snippet": "Author: video_game_awards_2015Tags: Top 10 Best Video Games 2012 VGA Game Awards of the Year Xbox 360 PS3 PC Wii U 2013 Posted: 24 April 2015Rating:: 0...",
+            "date": "2015-04-24",
+            "author_name": "video_game_awards_2015",
+            "categories": "xbox",
+            "tags": "game,games,wii",
+            "recuweb_url": "http://en.recuweb.com/xbox/dailymotion.com/2015/04/top-10-best-video-games-2012-vga-game-awards-of",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/video+game+video+game/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nr1n6_top-10-best-video-games-2012-vga-video-game-awards-2012-game-of-the-year-xbox-360-ps3-pc-wii-u-2013_videogames",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nr1n6_top-10-best-video-games-2012-vga-video-game-awards-2012-game-of-the-year-xbox-360-ps3-pc-wii-u-2013_videogames"
+        },
+        "youtube.com/2015/04/after-burner-arcade-1987-video-game-years-history": {
+            "title": "After Burner (Arcade, 1987) - Video Game Years History...",
+            "snippet": "After Burner (Arcade, 1987) - Video Game Years History A look at the arcade game After Burner, released in 1987 by Sega. Join Pat the NES Punk, James Rolfe, Pro Jared, brentalfloss and others as we talk about great games! For more video game...",
+            "date": "2015-04-22",
+            "author_name": "Pat the NES Punk",
+            "categories": "arcade-game",
+            "tags": "game,games,james,rolfe",
+            "recuweb_url": "http://en.recuweb.com/arcade-game/youtube.com/2015/04/after-burner-arcade-1987-video-game-years-history",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=video%2Bgame%2Bvideo%2Bgame&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=ViERz6-KueY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/ViERz6-KueY/0.jpg"
+        },
+        "youtube.com/2015/04/angry-video-game-nerd-adventures-reviews-trailer": {
+            "title": "Angry Video Game Nerd Adventures - Reviews Trailer...",
+            "snippet": "Angry Video Game Nerd Adventures - Reviews Trailer Search \"AVGN\" on the Wii U e-shop to download AVGN Adventures! SUBSCRIBE: Connect with ScrewAttack Online: Visit the ScrewAttack WEBSITE:... From: ScrewAttack! Views: 27269 650 ratings Time: 00:58...",
+            "date": "2015-04-22",
+            "author_name": "ScrewAttack!",
+            "tags": "game,wii",
+            "recuweb_url": "http://en.recuweb.com/youtube.com/2015/04/angry-video-game-nerd-adventures-reviews-trailer",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=video%2Bgame%2Bvideo%2Bgame&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=m2XHpoBnDPM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/m2XHpoBnDPM/0.jpg"
         },
         "youtube.com/2015/04/the-witcher-3-wild-hunt-video-game-compendium": {
             "title": "The Witcher 3: Wild Hunt - Video Game Compendium...",
             "snippet": "The Witcher 3: Wild Hunt - Video Game Compendium The Witcher 3: Wild Hunt - Video Game Compendium Get your hands on The World of The Witcher video game compendium and explore the ancient and arcane lore of the series, getting to know... From: CD...",
             "date": "2015-04-22",
             "author_name": "CD PROJEKT RED",
-            "tags": "game,world",
+            "tags": "getting,game",
             "recuweb_url": "http://en.recuweb.com/youtube.com/2015/04/the-witcher-3-wild-hunt-video-game-compendium",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=video%2Bgame%2Bvideo%2Bgame&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=T4xELuRQ490&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/T4xELuRQ490/0.jpg"
         },
-        "youtube.com/2015/04/pro-wrestling-nes-1987-video-game-years-history": {
-            "title": "Pro Wrestling (NES, 1987) - Video Game Years History...",
-            "snippet": "Pro Wrestling (NES, 1987) - Video Game Years History A look at Pro Wrestling, released in 1987 on the Nintendo Entertainment System. Join Pat the NES Punk and others as we talk about great games! For more video game history: From: Pat the NES Punk...",
-            "date": "2015-04-21",
-            "author_name": "Pat the NES Punk",
-            "categories": "entertainment",
-            "tags": "game,talk,games,entertainment,released,game_years,years",
-            "recuweb_url": "http://en.recuweb.com/entertainment/youtube.com/2015/04/pro-wrestling-nes-1987-video-game-years-history",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=video%2Bgame%2Bvideo%2Bgame&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=6j-bBlMheMo&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/6j-bBlMheMo/0.jpg"
-        },
-        "youtube.com/2015/04/the-video-game-years-1987-pt-5-after-burner-mike-tyson": {
-            "title": "The Video Game Years - 1987 Pt 5 - After Burner, Mike Tyson's Punch Out, Top Gun, Maniac Mansion...",
-            "snippet": "The Video Game Years - 1987 Pt 5 - After Burner, Mike Tyson's Punch Out, Top Gun, Maniac Mansion Tickets Now Available For RetroWorld Expo! Support the Show at The Retroware Store! The penultimate part of 1987! Fly high with Top Gun... From:...",
-            "date": "2015-04-21",
-            "author_name": "Retroware",
-            "tags": "top,mike,game,game_years,years,show",
-            "recuweb_url": "http://en.recuweb.com/youtube.com/2015/04/the-video-game-years-1987-pt-5-after-burner-mike-tyson",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=video%2Bgame&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=CpEIGOBPEU8&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/CpEIGOBPEU8/0.jpg"
-        },
         "youtube.com/2015/04/why-are-videogame-bodies-so-extreme-game-show-pbs-digital-studios": {
             "title": "Why Are Videogame Bodies So Extreme? Game/Show PBS Digital Studios...",
-            "snippet": "Why Are Videogame Bodies So Extreme? Game/Show PBS Digital Studios Vote PBS Digital Studios for 'Best Science & Education Network'in the 2015 Webbys -- ---- Tweet at us! Follow us on Facebook... From: PBS Game/Show Views: 33049 1814 ratings Time:...",
+            "snippet": "Why Are Videogame Bodies So Extreme? Game/Show PBS Digital Studios Tweet at us! Follow us on Facebook Email us! pbsgameshow at gmail dot com Follow us on Reddit... From: PBS Game/Show Views: 43391 2027 ratings Time: 10:14 More in Education...",
             "date": "2015-04-21",
             "author_name": "PBS Game/Show",
-            "categories": "education,science,facebook",
-            "tags": "best,show,game",
-            "recuweb_url": "http://en.recuweb.com/facebook/youtube.com/2015/04/why-are-videogame-bodies-so-extreme-game-show-pbs-digital-studios",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=video%2Bgame%2Bvideo%2Bgame&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "categories": "facebook,education",
+            "tags": "facebook,show,game",
+            "recuweb_url": "http://en.recuweb.com/education/youtube.com/2015/04/why-are-videogame-bodies-so-extreme-game-show-pbs-digital-studios",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=video%2Bgame&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=jhywc6eVGQo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/jhywc6eVGQo/0.jpg"
         },
@@ -74,56 +120,11 @@
             "date": "2015-04-20",
             "author_name": "Cinemassacre",
             "categories": "play,playstation",
-            "tags": "way,game,show,week,play,mike",
+            "tags": "game,show,rolfe,james",
             "recuweb_url": "http://en.recuweb.com/playstation/youtube.com/2015/04/mortal-kombat-x-ps4-james-&-mike-mondays-video-game-let",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=video%2Bgame%2Bvideo%2Bgame&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=YWF2XeAd99c&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/YWF2XeAd99c/0.jpg"
-        },
-        "youtube.com/2015/04/lego-jurassic-world-the-video-game-10-new-screenshots": {
-            "title": "LEGO Jurassic World: The Video Game - 10 New Screenshots...",
-            "snippet": "LEGO Jurassic World: The Video Game - 10 New Screenshots In this video I talk about ten brand new screenshots that have been released for LEGO Jurassic World: The Video Game. Source: From: GameUnboxingReviews Views: 26731 218 ratings Time: 09:08...",
-            "date": "2015-04-19",
-            "author_name": "GameUnboxingReviews",
-            "tags": "talk,released,game,world",
-            "recuweb_url": "http://en.recuweb.com/youtube.com/2015/04/lego-jurassic-world-the-video-game-10-new-screenshots",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=video%2Bgame%2Bvideo%2Bgame&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=Ycr5NeIAGdI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Ycr5NeIAGdI/0.jpg"
-        },
-        "youtube.com/2015/04/top-10-video-game-secret-agents": {
-            "title": "Top 10 Video Game Secret Agents...",
-            "snippet": "Top 10 Video Game Secret Agents Subtlety is the name of the game. Join as we countdown our picks for the Top 10 Video Game Secret Agents. Click here to subscribe:... From: Views: 155225 3481 ratings Time: 09:31 More in Gaming...",
-            "date": "2015-04-19",
-            "author_name": "WatchMojo.com",
-            "tags": "game,top,gaming",
-            "recuweb_url": "http://en.recuweb.com/youtube.com/2015/04/top-10-video-game-secret-agents",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=video%2Bgame%2Bvideo%2Bgame&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=LTsogB08Fd4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/LTsogB08Fd4/0.jpg"
-        },
-        "youtube.com/2015/04/top-5-funniest-video-game-glitches-and-moments-mission-lolz-episode": {
-            "title": "Top 5 Funniest Video Game Glitches and Moments Mission LoLz Episode 115...",
-            "snippet": "Top 5 Funniest Video Game Glitches and Moments Mission LoLz Episode 115 Top 5 Funniest Gaming Moments Mission LoLz Episode 115 Glitches. A compilation montage of the best fails, trolling, glitch, in video games every week! Leave a Like if you...",
-            "date": "2015-04-19",
-            "author_name": "DooM49",
-            "tags": "games,week,best,gaming,game,top",
-            "recuweb_url": "http://en.recuweb.com/youtube.com/2015/04/top-5-funniest-video-game-glitches-and-moments-mission-lolz-episode",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=video%2Bgame%2Bvideo%2Bgame&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=zZRLw17JF18&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/zZRLw17JF18/0.jpg"
-        },
-        "youtube.com/2015/04/video-game-legends-rap-vol-2-villains-by-jt-machinima": {
-            "title": "Video Game Legends Rap, Vol. 2 - \"Villains\" by JT Machinima...",
-            "snippet": "Video Game Legends Rap, Vol. 2 - \"Villains\" by JT Machinima VGL 2 Rap iTunes Download: Coming Soon! VGL 1 Rap iTunes Download: Google Play Xbox Music Amazon MP3... From: JT Machinima Views: 31636 1454 ratings Time: 05:06 More in Entertainment...",
-            "date": "2015-04-19",
-            "author_name": "JT Machinima",
-            "categories": "google,play,xbox,music,entertainment",
-            "tags": "play,music,game,entertainment",
-            "recuweb_url": "http://en.recuweb.com/entertainment/youtube.com/2015/04/video-game-legends-rap-vol-2-villains-by-jt-machinima",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=video%2Bgame%2Bvideo%2Bgame&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=lt0_Im15aM8&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/lt0_Im15aM8/0.jpg"
         }
     }
 }
