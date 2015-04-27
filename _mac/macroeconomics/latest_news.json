@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "macroeconomics",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/macroeconomics/",
@@ -10,92 +11,91 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/macroeconomics/macroeconomics/blogs.json"
     },
     "items": {
-        "forbes.com/2015/04/as-the-fed-prepares-to-tighten-which-states-have-already-reached": {
-            "title": "As The Fed Prepares To Tighten, Which States Have Already Reached Full... - Forbes...",
-            "snippet": "ForbesAs The Fed Prepares To Tighten, Which States Have Already Reached Full...ForbesI am the co-founder of JobStats and Real Time Macroeconomics LLC, a financial technology firm that provides real-time, high frequency macroeconomic indicators of...",
-            "date": "2015-04-23",
-            "categories": "technology,macroeconomics",
-            "tags": "macroeconomics,indicators,technology,financial",
-            "recuweb_url": "http://en.recuweb.com/macroeconomics/forbes.com/2015/04/as-the-fed-prepares-to-tighten-which-states-have-already-reached",
+        "forbes.com/2015/04/p&g-reports-moderate-q3-results-lays-out-future-growth-strategy-forbes": {
+            "title": "P&G Reports Moderate Q3 Results, Lays Out Future Growth Strategy - Forbes...",
+            "snippet": "ForbesP&G Reports Moderate Q3 Results, Lays Out Future Growth StrategyForbesWe believe that this may be a risky move in the near term, given the current volatile macroeconomic scenario and sluggish consumption growth across developing as well as...",
+            "date": "2015-04-27",
+            "tags": "across,well,forbes",
+            "recuweb_url": "http://en.recuweb.com/forbes.com/2015/04/p&g-reports-moderate-q3-results-lays-out-future-growth-strategy-forbes",
             "resource_url": "http://news.google.com/?hl=en&q=macroeconomics%2Bmacroeconomics&output=atom&nord=1",
-            "source_url": "http://forbes.com/sites/jonhartley/2015/04/23/as-the-fed-prepares-to-tighten-which-states-have-already-reached-full-employment/"
+            "source_url": "http://forbes.com/sites/greatspeculations/2015/04/27/pg-reports-moderate-q3-results-lays-out-future-growth-strategy/"
         },
-        "newstatesman.com/2015/04/the-economic-consequences-of-george-osborne-covering-up-austerity-mistake": {
-            "title": "The economic consequences of George Osborne: covering up the austerity mistake...",
-            "snippet": "Macroeconomics as portrayed by the media is so different from the macroeconomics of the textbooks that I call it mediamacro. Nothing illustrates mediamacro better than Ed Milibands 2014 Labour conference speech, in which he forgot to mention the...",
+        "forbes.com/2015/04/apparently-venezuela-suffers-from-fiscal-nymphomania-forbes": {
+            "title": "Apparently Venezuela Suffers From Fiscal Nymphomania - Forbes...",
+            "snippet": "ForbesApparently Venezuela Suffers From Fiscal NymphomaniaForbesThings like the macroeconomics of the oil price, of balanced budgets, are all very well and important. But before we get to those sorts of things we really need people to grasp the...",
+            "date": "2015-04-26",
+            "categories": "macroeconomics",
+            "tags": "people,well,oil,forbes,macroeconomics",
+            "recuweb_url": "http://en.recuweb.com/macroeconomics/forbes.com/2015/04/apparently-venezuela-suffers-from-fiscal-nymphomania-forbes",
+            "resource_url": "http://news.google.com/?hl=en&q=macroeconomics&output=atom&nord=1",
+            "source_url": "http://forbes.com/sites/timworstall/2015/04/26/apparently-venezuela-suffers-from-fiscal-nymphomania/"
+        },
+        "npr.org/2015/04/what-if-students-could-fire-their-professors": {
+            "title": "What If Students Could Fire Their Professors?",
+            "snippet": "In other words, if I have Dr. Muccio in Microeconomics I, what's my grade next year in Macroeconomics II? Here's what he found. The better the professors were, as measured by their students'grades in later classes, the lower their ratings from...",
+            "date": "2015-04-26",
+            "categories": "students,microeconomics,macroeconomics",
+            "tags": "macroeconomics,here",
+            "recuweb_url": "http://en.recuweb.com/macroeconomics/npr.org/2015/04/what-if-students-could-fire-their-professors",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=macroeconomics&format=RSS&cc=us",
+            "source_url": "http://npr.org/blogs/ed/2015/04/26/401953167/what-if-students-could-fire-their-professors"
+        },
+        "businessinsider.com/2015/04/durable-goods-orders-jump-but-a-key-detail-was-not-good": {
+            "title": "Durable goods orders jump, but a key detail was not good...",
+            "snippet": "The downward trend here is very strong, thanks to the rollover in capex in the oil sector, and the consensus forecast for a modest increase in March always looked like wishful thinking, Pantheon Macroeconomics Ian Shepherdson said. We expect core...",
+            "date": "2015-04-24",
+            "categories": "macroeconomics",
+            "tags": "pantheon,pantheon_macroeconomics,macroeconomics,ian,ian_shepherdson,shepherdson,oil,oil-sector,sector,trend,here,strong,orders,said",
+            "recuweb_url": "http://en.recuweb.com/macroeconomics/businessinsider.com/2015/04/durable-goods-orders-jump-but-a-key-detail-was-not-good",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=macroeconomics&format=RSS&cc=us",
+            "source_url": "http://businessinsider.com/durable-good-orders-march-2015-2015-4"
+        },
+        "bloomberg.com/2015/04/machinery-makers-at-epicenter-of-u-s-capital-spending-slowdown": {
+            "title": "Machinery Makers at Epicenter of U.S. Capital Spending Slowdown...",
+            "snippet": "The point about the oil sector is that its not very big in terms of GDP, but it is very big in terms of capital spending, said Ian Shepherdson, chief economist at Pantheon Macroeconomics Ltd. in Newcastle, U.K. The hit to orders will probably...",
+            "date": "2015-04-24",
+            "categories": "macroeconomics",
+            "tags": "hit,orders,pantheon,pantheon_macroeconomics,macroeconomics,chief,chief-economist,ian,ian_shepherdson,shepherdson,oil,oil-sector,sector,said",
+            "recuweb_url": "http://en.recuweb.com/macroeconomics/bloomberg.com/2015/04/machinery-makers-at-epicenter-of-u-s-capital-spending-slowdown",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=macroeconomics&format=RSS&cc=us",
+            "source_url": "http://bloomberg.com/news/articles/2015-04-24/capital-goods-orders-in-u-s-unexpectedly-fall-for-seventh-month"
+        },
+        "bloombergview.com/2015/04/wonks-abandon-an-economic-dream": {
+            "title": "Wonks Abandon an Economic Dream...",
+            "snippet": "Basically, a lot of people outside econ academia are very annoyed with macroeconomics for failing to foresee the possibility of a big crisis, right up until a big one hit in 2008. A lot of these people blame the type of models that academic...",
+            "date": "2015-04-24",
+            "categories": "macroeconomics",
+            "tags": "people,hit,crisis,economic,macroeconomics",
+            "recuweb_url": "http://en.recuweb.com/macroeconomics/bloombergview.com/2015/04/wonks-abandon-an-economic-dream",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=macroeconomics&format=RSS&cc=us",
+            "source_url": "http://bloombergview.com/articles/2015-04-23/wonks-give-up-on-economic-model-to-explain-everything"
+        },
+        "billingsgazette.com/2015/04/us-jobless-aid-applications-stay-low-a-sign-of-few-layoffs": {
+            "title": "US jobless aid applications stay low, a sign of few layoffs...",
+            "snippet": "Overall, economists were generally encouraged. Seven straight sub-300K reading signals strong payrolls, Ian Shepherdson, chief economist at Pantheon Macroeconomics, said in a note to clients. More Americans are receiving benefits: The number of...",
             "date": "2015-04-23",
             "categories": "macroeconomics",
-            "tags": "illustrates,different,economic,macroeconomics",
-            "recuweb_url": "http://en.recuweb.com/macroeconomics/newstatesman.com/2015/04/the-economic-consequences-of-george-osborne-covering-up-austerity-mistake",
+            "tags": "said,pantheon,pantheon_macroeconomics,macroeconomics,chief,chief-economist,ian,ian_shepherdson,shepherdson,strong,applications",
+            "recuweb_url": "http://en.recuweb.com/macroeconomics/billingsgazette.com/2015/04/us-jobless-aid-applications-stay-low-a-sign-of-few-layoffs",
             "resource_url": "http://www.bing.com/news/search?first=1&q=macroeconomics&format=RSS&cc=us",
-            "source_url": "http://newstatesman.com/politics/2015/04/economic-consequences-george-osborne-covering-austerity-mistake"
+            "source_url": "http://billingsgazette.com/business/us-jobless-aid-applications-stay-low-a-sign-of-few/article_592d4558-f4a6-50b1-9ac9-834b89db52ee.html"
         },
-        "brecorder.com/2015/04/us-existing-home-sales-jump-in-march": {
-            "title": "US existing-home sales jump in March...",
-            "snippet": "With mortgage demand now clearly strengthening on the back of rapid employment growth and low rates, we think the outlook for the spring housing market is very positive, said Ian Shepherdson of Pantheon Macroeconomics. Total existing-home inventory...",
+        "news.yahoo.com/2015/04/us-new-home-sales-plunge-in-march": {
+            "title": "US new-home sales plunge in March...",
+            "snippet": "The decline is a correction after three months of big gains, said Ian Shepherdson of Pantheon Macroeconomics. The trend clearly is now upwards, consistent with the rising trend in mortgage applications and the strength of homebuilders'sentiment...",
             "date": "2015-04-23",
-            "categories": "home,macroeconomics,housing,employment",
-            "tags": "home,pantheon,pantheon_macroeconomics,macroeconomics,ian,ian_shepherdson,shepherdson,growth,rates,home-sales,sales,existing,said",
-            "recuweb_url": "http://en.recuweb.com/employment/brecorder.com/2015/04/us-existing-home-sales-jump-in-march",
+            "categories": "macroeconomics,home",
+            "tags": "trend,applications,pantheon,pantheon_macroeconomics,macroeconomics,ian,ian_shepherdson,shepherdson,said",
+            "recuweb_url": "http://en.recuweb.com/home/news.yahoo.com/2015/04/us-new-home-sales-plunge-in-march",
             "resource_url": "http://www.bing.com/news/search?first=1&q=macroeconomics&format=RSS&cc=us",
-            "source_url": "http://brecorder.com/world/global-business-a-economy/239355-us-existing-home-sales-jump-in-march.html"
-        },
-        "bloombergview.com/2015/04/china-will-keep-growing-because-it-has-to": {
-            "title": "China Will Keep Growing Because It Has to...",
-            "snippet": "Chinas strange blend of Communist-Party corporatism, Keynesian macroeconomics and Schumpeterian entrepreneurialism has delivered spectacular improvements in living standards and similar gains in national clout. But still, can a country keep that...",
-            "date": "2015-04-22",
-            "categories": "macroeconomics",
-            "tags": "macroeconomics",
-            "recuweb_url": "http://en.recuweb.com/macroeconomics/bloombergview.com/2015/04/china-will-keep-growing-because-it-has-to",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=macroeconomics&format=RSS&cc=us",
-            "source_url": "http://bloombergview.com/articles/2015-04-21/china-will-keep-growing-because-it-has-to"
-        },
-        "finance.yahoo.com/2015/04/stocks-rally-here-s-what-you-need-to-know": {
-            "title": "STOCKS RALLY: Here's what you need to know...",
-            "snippet": "In a note after the data, Pantheon Macroeconomics chief US economist Ian Shepherdson said the existing home sales report shows that the post-winter rebound is underway. Existing home sales tally completed transactions that include single-family...",
-            "date": "2015-04-22",
-            "categories": "home,macroeconomics",
-            "tags": "home,home-sales,sales,winter,winter-rebound,rebound,rebound-is-underway,underway,said,said-the-existing,existing,existing-home,existing-home-sales,home-sales-report,sales-report,sales-report-shows,report,report-shows,shows,ian,ian_shepherdson,shepherdson,pantheon,pantheon_macroeconomics,macroeconomics,note,note-after,after,after-the-data,data,need,stocks,stocks_rally,rally,here,chief,economist",
-            "recuweb_url": "http://en.recuweb.com/macroeconomics/finance.yahoo.com/2015/04/stocks-rally-here-s-what-you-need-to-know",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=macroeconomics&format=RSS&cc=us",
-            "source_url": "http://finance.yahoo.com/news/stocks-rally-heres-know-200000634.html"
-        },
-        "businessinsider.com/2015/04/stocks-rally-here-s-what-you-need-to-know-business-insider": {
-            "title": "STOCKS RALLY: Here's what you need to know - Business Insider...",
-            "snippet": "Business InsiderSTOCKS RALLY: Here's what you need to knowBusiness InsiderIn a note after the data, Pantheon Macroeconomics chief US economist Ian Shepherdson said the existing home sales report shows that the \"post-winter rebound is underway.\"...",
-            "date": "2015-04-22",
-            "categories": "home,macroeconomics,business",
-            "tags": "winter,winter-rebound,rebound,rebound-is-underway,underway,said,said-the-existing,existing,existing-home,existing-home-sales,home,home-sales,home-sales-report,sales,sales-report,sales-report-shows,report,report-shows,shows,ian,ian_shepherdson,shepherdson,pantheon,pantheon_macroeconomics,macroeconomics,note,note-after,after,after-the-data,data,rally,need,stocks,stocks_rally,here,chief,economist",
-            "recuweb_url": "http://en.recuweb.com/business/businessinsider.com/2015/04/stocks-rally-here-s-what-you-need-to-know-business-insider",
-            "resource_url": "http://news.google.com/?hl=en&q=macroeconomics&output=atom&nord=1",
-            "source_url": "http://businessinsider.com/closing-bell-april-22-2015-4"
-        },
-        "huffingtonpost.com/2015/04/should-i-say-yes-or-no-here-s-how-to-decide": {
-            "title": "Should I Say Yes or No? Here's How to Decide - Huffington Post...",
-            "snippet": "Huffington PostShould I Say Yes or No? Here's How to DecideHuffington PostI think the only concept that stuck with me from macroeconomics was that of opportunity cost. That's what the New Oxford American Dictionary defines as \"the loss of potential...",
-            "date": "2015-04-22",
-            "categories": "macroeconomics",
-            "tags": "american,here,macroeconomics",
-            "recuweb_url": "http://en.recuweb.com/macroeconomics/huffingtonpost.com/2015/04/should-i-say-yes-or-no-here-s-how-to-decide",
-            "resource_url": "http://news.google.com/?hl=en&q=macroeconomics&output=atom&nord=1",
-            "source_url": "http://huffingtonpost.com/rosella-lafevre/should-i-say-yes-or-no-heres-how-to-decide_b_7118442.html"
-        },
-        "businessinsider.com/2015/04/the-us-economy-s-post-winter-rebound-is-underway": {
-            "title": "The US economy's 'post-winter rebound is underway'...",
-            "snippet": "Ian Shepherdson, chief US economist at Pantheon Macroeconomics, said the existing home sales report shows that the post-winter rebound is underway. In March, existing home sales rose 6.1% to an annualized rate of million. At the current pace of...",
-            "date": "2015-04-22",
-            "categories": "home,macroeconomics,economy",
-            "tags": "current,existing,existing-home,existing-home-sales,home,home-sales,sales,said,said-the-existing,home-sales-report,sales-report,sales-report-shows,report,report-shows,shows,pantheon,pantheon_macroeconomics,macroeconomics,economist,ian,ian_shepherdson,shepherdson,winter,winter-rebound,rebound,rebound-is-underway,underway,economy,chief",
-            "recuweb_url": "http://en.recuweb.com/economy/businessinsider.com/2015/04/the-us-economy-s-post-winter-rebound-is-underway",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=macroeconomics&format=RSS&cc=us",
-            "source_url": "http://businessinsider.com/existing-home-sales-march-2015-2015-4"
+            "source_url": "http://news.yahoo.com/us-home-sales-plunge-march-143217875.html"
         },
         "afr.com/2015/04/the-macroeconomics-of-multinational-tax-avoidance": {
             "title": "The macroeconomics of multinational tax avoidance...",
             "snippet": "In the eyes of the public, Apple and British American Tobacco are two global companies that are poles apart when it comes to fulfilling their duties as good corporate citizens. Apple has combined design and technology to create the most...",
             "date": "2015-04-21",
             "categories": "technology,macroeconomics",
-            "tags": "technology,create,american,public,multinational,multinational-tax,multinational-tax-avoidance,tax,tax-avoidance,avoidance,macroeconomics",
+            "tags": "create,multinational,multinational-tax,multinational-tax-avoidance,tax,tax-avoidance,avoidance,macroeconomics",
             "recuweb_url": "http://en.recuweb.com/macroeconomics/afr.com/2015/04/the-macroeconomics-of-multinational-tax-avoidance",
             "resource_url": "http://www.bing.com/news/search?first=1&q=macroeconomics&format=RSS&cc=us",
             "source_url": "http://afr.com/opinion/our-writers/the-macroeconomics-of-multinational-tax-avoidance-20150420-1mkuwb?stb=lkn"
@@ -107,7 +107,7 @@
             "categories": "twitter,facebook,macroeconomics,google",
             "tags": "financial,multinational,multinational-tax,tax,multinational-tax-avoidance,tax-avoidance,avoidance,macroeconomics",
             "recuweb_url": "http://en.recuweb.com/google/afr.com/2015/04/the-macroeconomics-of-multinational-tax-avoidance-australian-financial-review",
-            "resource_url": "http://news.google.com/?hl=en&q=macroeconomics%2Bmacroeconomics&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=macroeconomics&output=atom&nord=1",
             "source_url": "http://afr.com/opinion/our-writers/the-macroeconomics-of-multinational-tax-avoidance-20150420-1mkuwb"
         }
     }
