@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "semantic-search",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/semantic-search/",
@@ -40,7 +41,7 @@
             "date": "2015-03-12",
             "author_name": "abilperlu1978",
             "categories": "semantic-search,google,ebook",
-            "tags": "semantic,semantic_search,search,david,david_amerland,amerland,google,google_semantic,google_semantic_search",
+            "tags": "semantic,semantic_search,search,david,david_amerland,amerland,google,today",
             "recuweb_url": "http://en.recuweb.com/ebook/dailymotion.com/2015/03/download-google-semantic-search-ebook-pdf-epub",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/semantic+search+semantic+search/0?af=1",
             "source_url": "http://dailymotion.com/video/x2jauxe_download-google-semantic-search-ebook-pdf-epub_videogames",
@@ -58,17 +59,41 @@
             "source_url": "http://youtube.com/watch?v=AX6vjM7BBaw&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/AX6vjM7BBaw/0.jpg"
         },
+        "youtube.com/2015/02/cise-the-semantic-search-engine-query-development": {
+            "title": "CISE - The Semantic Search Engine - Query development...",
+            "snippet": "CISE - The Semantic Search Engine - Query development Quick description on selecting your queries for CISE. By choosing a range of search terms we can compile a group of topics to suit your web development, blog or post. At the same time you...",
+            "date": "2015-02-16",
+            "author_name": "Latent Semantics",
+            "categories": "web-development,semantic-search,search-engine",
+            "tags": "search,web,description,semantic,semantic_search,semantic_search_engine,search_engine,engine,cise",
+            "recuweb_url": "http://en.recuweb.com/search-engine/youtube.com/2015/02/cise-the-semantic-search-engine-query-development",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=semantic%2Bsearch%2Bsemantic%2Bsearch&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=7KUINxglb9E&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/7KUINxglb9E/0.jpg"
+        },
         "youtube.com/2015/02/serendipity-and-semantic-search": {
             "title": "Serendipity and Semantic Search...",
             "snippet": "Serendipity and Semantic Search Serendipity is an important element in semantic search. Not only does it take into account all our personal connections, the digital footprints we create and the personal networks we build... From: David Amerland...",
             "date": "2015-02-09",
             "author_name": "David Amerland",
             "categories": "semantic-search",
-            "tags": "david,david_amerland,amerland,semantic,semantic_search,search",
+            "tags": "david,david_amerland,amerland,build,into,semantic,semantic_search,search",
             "recuweb_url": "http://en.recuweb.com/semantic-search/youtube.com/2015/02/serendipity-and-semantic-search",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=semantic%2Bsearch%2Bsemantic%2Bsearch&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=6rXddvyKP7M&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/6rXddvyKP7M/0.jpg"
+        },
+        "youtube.com/2015/02/introduction-to-cise-semantic-search-engine": {
+            "title": "Introduction to CISE Semantic Search Engine...",
+            "snippet": "Introduction to CISE Semantic Search Engine Find out how to build context and quality into your authoring and copy writing with the CISE Semantic Search Engine. Today's example is based on the word inbuilt linguistic algorithms... From: Latent...",
+            "date": "2015-02-08",
+            "author_name": "Latent Semantics",
+            "categories": "semantic-search,search-engine",
+            "tags": "build,into,cise,semantic,semantic_search,semantic_search_engine,search,search_engine,engine,today",
+            "recuweb_url": "http://en.recuweb.com/search-engine/youtube.com/2015/02/introduction-to-cise-semantic-search-engine",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=semantic%2Bsearch&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=k0k4Kt01A8Q&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/k0k4Kt01A8Q/0.jpg"
         },
         "youtube.com/2014/10/scaling-recommendations-semantic-search-&-data-analytics-with-solr": {
             "title": "Scaling Recommendations, Semantic Search, & Data Analytics with Solr...",
@@ -76,7 +101,7 @@
             "date": "2014-10-27",
             "author_name": "Trey Grainger",
             "categories": "semantic-search",
-            "tags": "data,semantic,semantic_search,search,scaling",
+            "tags": "engine,data,semantic,semantic_search,search,scaling,description",
             "recuweb_url": "http://en.recuweb.com/semantic-search/youtube.com/2014/10/scaling-recommendations-semantic-search-&-data-analytics-with-solr",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=semantic%2Bsearch%2Bsemantic%2Bsearch&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=4Cu3wpjVNCI&feature=youtube_gdata",
@@ -100,35 +125,11 @@
             "date": "2014-08-05",
             "author_name": "Eric Enge",
             "categories": "business,semantic-search",
-            "tags": "business,talk,semantic,semantic_search,search,david,david_amerland,amerland",
+            "tags": "business,semantic,semantic_search,search,david,david_amerland,amerland",
             "recuweb_url": "http://en.recuweb.com/semantic-search/youtube.com/2014/08/semantic-search-optimization-how-to-make-your-pages-sing",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=semantic%2Bsearch%2Bsemantic%2Bsearch&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=rEkyrfBQ4So&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/rEkyrfBQ4So/0.jpg"
-        },
-        "youtube.com/2014/07/google-semantic-search-and-social-media-management-w-david-amerland": {
-            "title": "Google Semantic Search and Social Media Management w/David Amerland...",
-            "snippet": "Google Semantic Search and Social Media Management w/David Amerland Hangout on-air with David Amerland, Martin Brossman and Karen Tiede about Social Media Management and Semantic Search. David Amerland is an expert on Google Semantic Search with a...",
-            "date": "2014-07-01",
-            "author_name": "Martin Brossman",
-            "categories": "semantic-search,social-media,management,google",
-            "tags": "semantic,semantic_search,search,david,david_amerland,amerland,google,google_semantic,google_semantic_search",
-            "recuweb_url": "http://en.recuweb.com/google/youtube.com/2014/07/google-semantic-search-and-social-media-management-w-david-amerland",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=semantic%2Bsearch%2Bsemantic%2Bsearch&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=Bw2SfzyliaQ&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Bw2SfzyliaQ/0.jpg"
-        },
-        "youtube.com/2014/04/semantic-search-at-flipkart-by-thejus-v-m-bipul-jain-&": {
-            "title": "Semantic Search at Flipkart by Thejus V M, Bipul Jain & Siddhartha Reddy...",
-            "snippet": "Semantic Search at Flipkart by Thejus V M, Bipul Jain & Siddhartha Reddy Thejas, Bipul & Siddhartha our very own Flipsters talk about the semantic search at flipkart used to determine the intent behind a query and surface the most relevant result at...",
-            "date": "2014-04-02",
-            "author_name": "Flipkart",
-            "categories": "semantic-search",
-            "tags": "talk,semantic,semantic_search,search",
-            "recuweb_url": "http://en.recuweb.com/semantic-search/youtube.com/2014/04/semantic-search-at-flipkart-by-thejus-v-m-bipul-jain-&",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=semantic%2Bsearch%2Bsemantic%2Bsearch&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=6T13BErzdw8&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/6T13BErzdw8/0.jpg"
         }
     }
 }
