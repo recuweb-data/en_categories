@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "science",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/science/",
@@ -10,41 +11,17 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/science/science/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/the-science-of-avengers-age-ultron-friction-ep-44": {
-            "title": "The Science of Avengers Age of Ultron: Science Friction Ep 44...",
-            "snippet": "The Science of Avengers Age of Ultron: Science Friction Ep 44 In this episode of Science Friction I teamed up with FW: Thinking at to look at how artificial intelligence will impact the human race. We know what... From: Science Friction Views: 13550...",
-            "date": "2015-04-22",
-            "author_name": "Science Friction",
-            "categories": "science",
-            "tags": "episode,science",
-            "recuweb_url": "http://en.recuweb.com/science/youtube.com/2015/04/the-science-of-avengers-age-ultron-friction-ep-44",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=science&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=gBOTwZLOIT4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/gBOTwZLOIT4/0.jpg"
-        },
-        "youtube.com/2015/04/system-of-a-down-science-chic-n-stu-moscow": {
-            "title": "System Of A Down - Science/Chic 'N'Stu - Moscow...",
-            "snippet": "System Of A Down - Science/Chic 'N'Stu - Moscow From: Fin omy Views: 30063 153 ratings Time: 04:45 More in People & Blogs...",
-            "date": "2015-04-21",
-            "author_name": "Fin omy",
-            "categories": "science",
-            "tags": "science",
-            "recuweb_url": "http://en.recuweb.com/science/youtube.com/2015/04/system-of-a-down-science-chic-n-stu-moscow",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=science&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=2_1Za0HisMM&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/2_1Za0HisMM/0.jpg"
-        },
-        "youtube.com/2015/04/the-industrial-internet-breaking-science-ge": {
-            "title": "The Industrial Internet Breaking Science GE...",
-            "snippet": "The Industrial Internet Breaking Science GE GE is revolutionizing the way we work. The Industrial Internet connects Brilliant Machines to an interoperable platform that instantly transmits realtime data through strategically designed... From:...",
-            "date": "2015-04-21",
-            "author_name": "General Electric",
-            "categories": "internet,science",
-            "tags": "science",
-            "recuweb_url": "http://en.recuweb.com/science/youtube.com/2015/04/the-industrial-internet-breaking-science-ge",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=science&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=Cy9DhBab3rc&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Cy9DhBab3rc/0.jpg"
+        "youtube.com/2015/04/how-does-captain-america-s-super-soldier-serum-work-because-science": {
+            "title": "How Does CAPTAIN AMERICA's Super-Soldier Serum Work? (Because Science w/Kyle Hill)...",
+            "snippet": "How Does CAPTAIN AMERICA's Super-Soldier Serum Work? (Because Science w/Kyle Hill) Subscribe for more Because Science: Watch the last episode: Comics aren't always realistic, but Kyle explains how one day science might be... From: Nerdist Views:...",
+            "date": "2015-04-23",
+            "author_name": "Nerdist",
+            "categories": "science,comics",
+            "tags": "science,subscribe",
+            "recuweb_url": "http://en.recuweb.com/comics/youtube.com/2015/04/how-does-captain-america-s-super-soldier-serum-work-because-science",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=science%2Bscience&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=bJdSI1VgmGI&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/bJdSI1VgmGI/0.jpg"
         },
         "dailymotion.com/2015/04/video-request-computer-science-software-engineering-or-actuarial": {
             "title": "Video Request - Computer Science, Software Engineering, or Actuarial Science...",
@@ -57,18 +34,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/science+science/0?af=1",
             "source_url": "http://dailymotion.com/video/x2n53j1_video-request-computer-science-software-engineering-or-actuarial-science_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2n53j1_video-request-computer-science-software-engineering-or-actuarial-science_news"
-        },
-        "youtube.com/2015/04/how-does-daredevil-see-without-sight-because-science-w-kyle-hill": {
-            "title": "How Does DAREDEVIL See Without Sight? (Because Science w/Kyle Hill)...",
-            "snippet": "How Does DAREDEVIL See Without Sight? (Because Science w/Kyle Hill) Subscribe for more Because Science: Watch the last episode: How does DAREDEVIL protect his neighborhood despite being blind? Kyle tells you... From: Nerdist Views: 80143 1277...",
-            "date": "2015-04-16",
-            "author_name": "Nerdist",
-            "categories": "science",
-            "tags": "episode,science,subscribe",
-            "recuweb_url": "http://en.recuweb.com/science/youtube.com/2015/04/how-does-daredevil-see-without-sight-because-science-w-kyle-hill",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=science%2Bscience&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=hmal-Sw_QrM&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/hmal-Sw_QrM/0.jpg"
         },
         "youtube.com/2015/04/science-facts-everyone-should-know": {
             "title": "Science Facts Everyone Should Know...",
@@ -84,7 +49,7 @@
         },
         "youtube.com/2015/04/science-style-cover-taylor-swift-acapella-parody": {
             "title": "Science STYLE Cover - Taylor Swift Acapella Parody...",
-            "snippet": "Science STYLE Cover - Taylor Swift Acapella Parody GET THE SONG: OR Subscribe to AsapSCIENCE! Check out AsapTHOUGHT: Follow us: WhaleWatchMePlz and... From: AsapSCIENCE Views: 884474 47942 ratings Time: 04:03 More in Science & Technology...",
+            "snippet": "Science STYLE Cover - Taylor Swift Acapella Parody GET THE SONG: OR Subscribe to AsapSCIENCE! Check out AsapTHOUGHT: Follow us: WhaleWatchMePlz and... From: AsapSCIENCE Views: 937445 49452 ratings Time: 04:03 More in Science & Technology...",
             "date": "2015-04-12",
             "author_name": "AsapSCIENCE",
             "categories": "science,technology",
@@ -120,7 +85,7 @@
         },
         "youtube.com/2015/04/10-science-tricks-you-can-try-at-home": {
             "title": "10 Science Tricks You Can Try at Home...",
-            "snippet": "10 Science Tricks You Can Try at Home Subscribe to my 2nd channel If you want to know what i am up to follow me on:... From: CrazyRussianHacker Views: 846780 27700 ratings Time: 09:31 More in Science & Technology...",
+            "snippet": "10 Science Tricks You Can Try at Home Subscribe to my 2nd channel If you want to know what i am up to follow me on:... From: CrazyRussianHacker Views: 942971 29197 ratings Time: 09:31 More in Science & Technology...",
             "date": "2015-04-08",
             "author_name": "CrazyRussianHacker",
             "categories": "science,home,technology",
@@ -129,6 +94,42 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=science&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=J1QjgZCcNig&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/J1QjgZCcNig/0.jpg"
+        },
+        "dailymotion.com/2015/04/winner-funding-basic-science-to-revolutionize-medicine-2013-faseb-stand-up": {
+            "title": "Winner Funding Basic Science to Revolutionize Medicine, 2013 FASEB Stand Up for Science...",
+            "snippet": "Winner Funding Basic Science to Revolutionize Medicine, 2013 FASEB Stand Up for ScienceAuthor: LatoniaLeakeTags: Winner Funding Basic Science to Revolutionize Medicine 2013 FASEB Stand Up for Posted: 06 April 2015Rating:: 0...",
+            "date": "2015-04-06",
+            "author_name": "LatoniaLeake",
+            "categories": "medicine,science",
+            "tags": "science,scienceauthor",
+            "recuweb_url": "http://en.recuweb.com/science/dailymotion.com/2015/04/winner-funding-basic-science-to-revolutionize-medicine-2013-faseb-stand-up",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/science+science/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2lwjwq_winner-funding-basic-science-to-revolutionize-medicine-2013-faseb-stand-up-for-science_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lwjwq_winner-funding-basic-science-to-revolutionize-medicine-2013-faseb-stand-up-for-science_news"
+        },
+        "dailymotion.com/2015/04/the-danforth-plant-science-center-bringing-to-life-an-introduction": {
+            "title": "The Danforth Plant Science Center: Bringing Science to Life- An Introduction...",
+            "snippet": "The Danforth Plant Science Center: Bringing Science to Life- An IntroductionAuthor: moshmotherlyTags: The Danforth Plant Science Center: Bringing to Life- An Introduction Posted: 05 April 2015Rating:: 0...",
+            "date": "2015-04-04",
+            "author_name": "moshmotherly",
+            "categories": "science,life",
+            "tags": "science",
+            "recuweb_url": "http://en.recuweb.com/life/dailymotion.com/2015/04/the-danforth-plant-science-center-bringing-to-life-an-introduction",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/science+science/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2lrdln_the-danforth-plant-science-center-bringing-science-to-life-an-introduction_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lrdln_the-danforth-plant-science-center-bringing-science-to-life-an-introduction_news"
+        },
+        "youtube.com/2015/03/mad-science-minion-caution-high-voltage": {
+            "title": "Mad Science Minion (Caution: High Voltage)...",
+            "snippet": "Mad Science Minion (Caution: High Voltage) What happens when you let an ADHD minion play with high voltage electricity? Be-do Be-do Be-do. Hahaha! Subscribe for new videos every 5 days! Join my email... From: Grant Thompson - \"The King of Random\"...",
+            "date": "2015-03-20",
+            "author_name": "Grant Thompson - \"The King of Random\"",
+            "categories": "play,science",
+            "tags": "science,subscribe",
+            "recuweb_url": "http://en.recuweb.com/science/youtube.com/2015/03/mad-science-minion-caution-high-voltage",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=science%2Bscience&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=EOVpldbaGq4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/EOVpldbaGq4/0.jpg"
         }
     }
 }
