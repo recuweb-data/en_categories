@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "law",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/law/",
@@ -10,13 +11,35 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/law/law/blogs.json"
     },
     "items": {
+        "faithseedsministries.blogspot.com/2015/04/april-30th-2015": {
+            "title": "April 30th, 2015...",
+            "snippet": "The Return of Rejoicing Then on the second day of the month, the leaders of all the families went to meet with Ezra, the priests, and the Levites. They all gathered around Ezra the teacher to study the words of the law. They studied and found these...",
+            "date": "2015-04-25",
+            "author_name": "(Sue Johnson)",
+            "categories": "law",
+            "tags": "law",
+            "recuweb_url": "http://en.recuweb.com/law/faithseedsministries.blogspot.com/2015/04/april-30th-2015",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=law%2Blaw&rss=1&lng=en",
+            "source_url": "http://faithseedsministries.blogspot.com/2014/04/april-30th-2014.html"
+        },
+        "hobogauntlet.blogspot.com/2015/04/you-can-t-handle-the-stink": {
+            "title": "You Can't Handle The Stink...",
+            "snippet": "Yesterday I had the opportunity to live out every lawyer's dream. To stand in a court room and boldly defend my rights and freedoms in dramatic fashion not unlike Jack Nicholson in that Tom Cruise movie about needing someone on a wall. You know the...",
+            "date": "2015-04-25",
+            "author_name": "(HoboGauntlet)",
+            "categories": "rights",
+            "tags": "court,defend,rights,every,stand",
+            "recuweb_url": "http://en.recuweb.com/rights/hobogauntlet.blogspot.com/2015/04/you-can-t-handle-the-stink",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=law%2Blaw&rss=1&lng=en",
+            "source_url": "http://hobogauntlet.blogspot.com/2015/04/you-cant-handle-stink.html"
+        },
         "kotaku.com/2015/04/gta-player-knows-how-to-break-the-law-in-style-kotaku": {
             "title": "GTA Player Knows How To Break The Law In Style - Kotaku...",
             "snippet": "GTA Player Knows How To Break The Law In Style. Now this is how you pull off a cool heist. Watch as RisingJake makes good use of the new Rockstar Editor on the PC version of GTA V in this machinima about a...",
             "date": "2015-04-22",
             "author_name": "Patricia Hernandez",
             "categories": "law",
-            "tags": "break,law",
+            "tags": "law",
             "recuweb_url": "http://en.recuweb.com/law/kotaku.com/2015/04/gta-player-knows-how-to-break-the-law-in-style-kotaku",
             "resource_url": "http://www.google.com/search?q=law%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://kotaku.com/gta-player-knows-how-to-break-the-law-in-style-1699594194"
@@ -27,21 +50,10 @@
             "date": "2015-04-22",
             "author_name": "TMZ Staff",
             "categories": "music,law",
-            "tags": "turn,change,last,getting,tell,law,enforcement,did",
+            "tags": "change,officer,getting,law,enforcement",
             "recuweb_url": "http://en.recuweb.com/law/tmz.com/2015/04/justin-bieber-johnny-law-s-my-dawg-now-photo",
             "resource_url": "http://www.google.com/search?q=law%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://tmz.com/2015/04/22/justin-bieber-police-pic-beverly-hills-cops-record/"
-        },
-        "laymansblogtogreenbuilding.blogspot.com/2015/04/rocha-v-director-ministry-of-the-environmentert-refuses-mortgagees-stay-pending": {
-            "title": "Rocha v Director, Ministry of the EnvironmentERT Refuses Mortgagees Stay Pending Appeal...",
-            "snippet": "By Marc McAree, Partner and Certified Environmental Law Specialist, with the assistance of Giselle Davidian, Student-at-Law. Willms & Shier Environmental Lawyers LLP December 22, 2014 On September 23, 2014, the Ontario Environmental Review Tribunal...",
-            "date": "2015-04-22",
-            "author_name": "Layman's Blog to Green Building",
-            "categories": "law",
-            "tags": "lawyers,law,student",
-            "recuweb_url": "http://en.recuweb.com/law/laymansblogtogreenbuilding.blogspot.com/2015/04/rocha-v-director-ministry-of-the-environmentert-refuses-mortgagees-stay-pending",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=law%2Blaw&rss=1&lng=en",
-            "source_url": "http://laymansblogtogreenbuilding.blogspot.com/2015/04/rocha-v-director-ministry-of.html"
         },
         "theblaze.com/2015/04/valerie-jarrett-targets-pennsylvania-legislature-for-undermining": {
             "title": "Valerie Jarrett Targets Pennsylvania Legislature for Undermining...",
@@ -49,10 +61,21 @@
             "date": "2015-04-22",
             "author_name": "Fred Lucas",
             "categories": "law",
-            "tags": "state,tuesday,city,law",
+            "tags": "legislature,sick,defend,hit,law,state",
             "recuweb_url": "http://en.recuweb.com/law/theblaze.com/2015/04/valerie-jarrett-targets-pennsylvania-legislature-for-undermining",
             "resource_url": "http://www.google.com/search?q=law%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://theblaze.com/stories/2015/04/22/valerie-jarrett-targets-pennsylvania-legislature-for-undermining-philly-paid-leave-law-obama-wants-to-apply-nationally/"
+        },
+        "reason.com/2015/04/why-is-steve-wynn-trying-to-gut-nevada-s-anti-slapp": {
+            "title": "Why Is Steve Wynn Trying to Gut Nevada's Anti-SLAPP Law? - Hit...",
+            "snippet": "At an April 6 hearing of the Senate Judiciary Committee, Wynn Resorts lobbyist Todd Mason said \"our intent today is to improve the existing law, not to roll back the SLAPP statute.\" Mason said the revised law would \"continue...",
+            "date": "2015-04-22",
+            "author_name": "Jacob Sullum",
+            "categories": "law",
+            "tags": "law,hit,said",
+            "recuweb_url": "http://en.recuweb.com/law/reason.com/2015/04/why-is-steve-wynn-trying-to-gut-nevada-s-anti-slapp",
+            "resource_url": "http://www.google.com/search?q=law&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://reason.com/blog/2015/04/22/why-is-steve-wynn-trying-to-gut-nevadas"
         },
         "jalopnik.com/2015/04/carmakers-want-to-make-working-on-your-car-illegal-because": {
             "title": "Carmakers Want To Make Working On Your Car Illegal Because...",
@@ -60,7 +83,7 @@
             "date": "2015-04-21",
             "author_name": "Jason Torchinsky",
             "categories": "law",
-            "tags": "whatever,change,make,means,want,getting,illegal,because,law,even",
+            "tags": "safety,change,means,getting,law",
             "recuweb_url": "http://en.recuweb.com/law/jalopnik.com/2015/04/carmakers-want-to-make-working-on-your-car-illegal-because",
             "resource_url": "http://www.google.com/search?q=law%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://jalopnik.com/carmakers-want-to-make-working-on-your-car-illegal-beca-1699132210"
@@ -71,7 +94,7 @@
             "date": "2015-04-21",
             "author_name": "Thorin Klosowski",
             "categories": "law",
-            "tags": "student,means,law,other",
+            "tags": "means,books,other,law",
             "recuweb_url": "http://en.recuweb.com/law/lifehacker.com/2015/04/the-law-student-s-daily-bag-lifehacker",
             "resource_url": "http://www.google.com/search?q=law%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://lifehacker.com/the-law-students-daily-bag-1699030997"
@@ -82,7 +105,7 @@
             "date": "2015-04-21",
             "author_name": "ExplodingAds.com",
             "categories": "law",
-            "tags": "into,moore,law,other",
+            "tags": "other,process,anniversary,law",
             "recuweb_url": "http://en.recuweb.com/law/realworldtech.com/2015/04/what-s-next-for-moore-law-intel-iii-v-10nm-qwfets",
             "resource_url": "http://www.google.com/search?q=law%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://realworldtech.com/intel-10nm-qwfet/"
@@ -93,32 +116,10 @@
             "date": "2015-04-20",
             "author_name": "ingridf",
             "categories": "law",
-            "tags": "person,only,legal,show,state,under,law,court",
+            "tags": "legal,order,state,under,law,show,court",
             "recuweb_url": "http://en.recuweb.com/law/nonhumanrightsproject.org/2015/04/judge-recognizes-two-chimpanzees-as-legal-persons-grants",
             "resource_url": "http://www.google.com/search?q=law%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://nonhumanrightsproject.org/2015/04/20/judge-recognizes-two-chimpanzees-as-legal-persons-grants-them-writ-of-habeas-corpus/"
-        },
-        "economist.com/2015/04/the-economist-explains-end-of-moore-s-law": {
-            "title": "The Economist explains: The end of Moore's law The Economist...",
-            "snippet": "If Moore's law has started to flag, it is mainly because of economics. As originally stated by Mr Moore, the law was not just about reductions in the size of transistors, but also cuts in their price. A few years ago, when transistors...",
-            "date": "2015-04-19",
-            "author_name": "L.S.",
-            "categories": "law",
-            "tags": "few,few-years,years,because,moore,law",
-            "recuweb_url": "http://en.recuweb.com/law/economist.com/2015/04/the-economist-explains-end-of-moore-s-law",
-            "resource_url": "http://www.google.com/search?q=law%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://economist.com/blogs/economist-explains/2015/04/economist-explains-17"
-        },
-        "valschallenge.wordpress.com/2015/04/the-law-is": {
-            "title": "The Law is the Law...",
-            "snippet": "Click over to whatever website you visit most frequently to get news. Find the third headline on the page. Make sure that headline is in your post. Obama motion...",
-            "date": "2015-04-08",
-            "author_name": "Val_ToWriter",
-            "categories": "law",
-            "tags": "whatever,law,make,obama",
-            "recuweb_url": "http://en.recuweb.com/law/valschallenge.wordpress.com/2015/04/the-law-is",
-            "resource_url": "http://en.search.wordpress.com/?q=law%2Blaw&f=feed&page=1",
-            "source_url": "http://valschallenge.wordpress.com/2015/04/08/the-law-is-the-law/"
         }
     }
 }
