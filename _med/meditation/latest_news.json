@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "meditation",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/meditation/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/meditation/meditation/blogs.json"
     },
     "items": {
-        "psychcentral.com/2015/04/3-simple-meditations-for-starting-your-practice": {
-            "title": "3 Simple Meditations for Starting Your Practice...",
-            "snippet": "Thats it. Thats the beauty of our breath. Our breath is that powerful. This is one reason why cultivating a meditation practice is so important. (Here are other benefits.) Maybe you already know the benefits of meditation, and youd like to start...",
-            "date": "2015-04-20",
+        "christiantoday.com/2015/04/rachel-held-evans-the-church-can-be-a-place-of-hope": {
+            "title": "Rachel Held Evans: the Church can be a place of hope even for millennials...",
+            "snippet": "Each section starts with a literary meditation on one of the sacraments; collected musings on biblical references to water in the section on baptism, for example. Meditating on the these expressions of faith is about trying to make faith real,...",
+            "date": "2015-04-24",
             "categories": "meditation",
-            "tags": "practice,meditations,meditation",
-            "recuweb_url": "http://en.recuweb.com/meditation/psychcentral.com/2015/04/3-simple-meditations-for-starting-your-practice",
+            "tags": "place,hope,even,meditation",
+            "recuweb_url": "http://en.recuweb.com/meditation/christiantoday.com/2015/04/rachel-held-evans-the-church-can-be-a-place-of-hope",
             "resource_url": "http://www.bing.com/news/search?first=1&q=meditation&format=RSS&cc=us",
-            "source_url": "http://psychcentral.com/blog/archives/2015/04/20/3-simple-meditations-for-starting-your-practice/"
+            "source_url": "http://christiantoday.com/article/rachel.held.evans.the.church.can.be.a.place.of.hope.even.for.millennials/52624.htm"
         },
-        "theguardian.com/2015/04/could-mindfulness-therapy-be-an-alternative-to-antidepressants": {
-            "title": "Could mindfulness therapy be an alternative to antidepressants?",
-            "snippet": "A twenty-first century reworking of traditional Buddhist meditation, mindfulness teaches us to develop what Myerson calls a new relationship with our thoughts: I could see that they were simply that: thoughts. I did not have to judge them...",
-            "date": "2015-04-20",
-            "categories": "therapy,meditation",
-            "tags": "did,could,mindfulness,therapy,buddhist,meditation",
-            "recuweb_url": "http://en.recuweb.com/meditation/theguardian.com/2015/04/could-mindfulness-therapy-be-an-alternative-to-antidepressants",
+        "connecttristates.com/2015/04/spirit-of-the-tri-states-meditation-to-calm-mind-powered": {
+            "title": "Spirit of the Tri-States: Meditation to calm the mind - powered by KHQA...",
+            "snippet": "powered by KHQASpirit of the Tri-States: Meditation to calm the mind powered by KHQAThat rush from one place to the next can result in stress, injuries and even mistakes. In this week's Spirit of the Tri-States report brought to you by Continental...",
+            "date": "2015-04-24",
+            "categories": "injuries,mind,meditation",
+            "tags": "even,place,next,stress,mind,spirit,meditation",
+            "recuweb_url": "http://en.recuweb.com/meditation/connecttristates.com/2015/04/spirit-of-the-tri-states-meditation-to-calm-mind-powered",
+            "resource_url": "http://news.google.com/?hl=en&q=meditation&output=atom&nord=1",
+            "source_url": "http://connecttristates.com/news/story.aspx?id=1195500"
+        },
+        "gazette.com/2015/04/blog-meditation-workshop-in-peyton": {
+            "title": "Blog: Meditation workshop in Peyton...",
+            "snippet": "I struggle with meditation. Not so much with the sitting quietly part, but more with the actually getting myself to sit down and do it. And I know it's great for me. I also know how good it makes me feel almost every time I do it. I can't lie. It...",
+            "date": "2015-04-23",
+            "categories": "meditation",
+            "tags": "part,meditation",
+            "recuweb_url": "http://en.recuweb.com/meditation/gazette.com/2015/04/blog-meditation-workshop-in-peyton",
             "resource_url": "http://www.bing.com/news/search?first=1&q=meditation&format=RSS&cc=us",
-            "source_url": "http://theguardian.com/science/blog/2015/apr/21/could-mindfulness-therapy-be-an-alternative-to-antidepressants"
+            "source_url": "http://gazette.com/blog-meditation-workshop-in-peyton/article/1550207"
         },
-        "huffingtonpost.com/2015/04/daily-meditation-a-sense-of-belonging-huffington": {
-            "title": "Daily Meditation: A Sense Of Belonging - Huffington Post...",
-            "snippet": "Huffington PostDaily Meditation: A Sense Of BelongingHuffington PostWe all need help maintaining our personal spiritual practice. We hope that these Daily Meditations, prayers and mindful awareness exercises can be part of bringing spirituality...",
-            "date": "2015-04-20",
+        "medicalxpress.com/2015/04/compassion-meditation-reduces-mind-wandering-research-shows-medical-xpress": {
+            "title": "Compassion meditation reduces 'mind-wandering,'research shows - Medical Xpress...",
+            "snippet": "Medical XpressCompassion meditation reduces 'mind-wandering,'research showsMedical XpressResearch at Stanford's Center for Compassion and Altruism Research and Education shows that formal compassion training increases both mental focus and caring...",
+            "date": "2015-04-23",
+            "categories": "altruism,meditation,mind,education",
+            "tags": "shows,compassion,focus,research,research-shows,meditation,reduces,mind,wandering,stanford",
+            "recuweb_url": "http://en.recuweb.com/education/medicalxpress.com/2015/04/compassion-meditation-reduces-mind-wandering-research-shows-medical-xpress",
+            "resource_url": "http://news.google.com/?hl=en&q=meditation&output=atom&nord=1",
+            "source_url": "http://medicalxpress.com/news/2015-04-compassion-meditation-mind-wandering.html"
+        },
+        "huffingtonpost.com/2015/04/daily-meditation-come-back-to-your-breath-huffington": {
+            "title": "Daily Meditation: Come Back To Your Breath - Huffington Post...",
+            "snippet": "Daily Meditation: Come Back To Your BreathHuffington PostWe all need help maintaining our personal spiritual practice. We hope that these Daily Meditations, prayers and mindful awareness exercises can be part of bringing spirituality alive in your...",
+            "date": "2015-04-23",
             "categories": "spirituality,meditation",
-            "tags": "daily,meditations,meditation,help,practice",
-            "recuweb_url": "http://en.recuweb.com/meditation/huffingtonpost.com/2015/04/daily-meditation-a-sense-of-belonging-huffington",
+            "tags": "part,meditation,hope,practice,huffington",
+            "recuweb_url": "http://en.recuweb.com/meditation/huffingtonpost.com/2015/04/daily-meditation-come-back-to-your-breath-huffington",
             "resource_url": "http://news.google.com/?hl=en&q=meditation&output=atom&nord=1",
-            "source_url": "http://huffingtonpost.com/2015/04/20/daily-meditation_n_7099170.html"
+            "source_url": "http://huffingtonpost.com/2015/04/23/daily-meditation_n_7125784.html"
         },
-        "vaildaily.com/2015/04/eagle-county-meditation-instructor-offers-21-day-challenge-vail-daily-news": {
-            "title": "Eagle County meditation instructor offers 21-day meditation challenge - Vail Daily News...",
-            "snippet": "Vail Daily NewsEagle County meditation instructor offers 21-day meditation challengeVail Daily NewsMore information: Download 21 15-minute recorded guided meditations with Karen Anderson, accessible from your phone or computer. Learn the basics of...",
-            "date": "2015-04-20",
+        "azcentral.com/2015/04/review-clouds-of-sils-maria-a-meditation-on-aging": {
+            "title": "Review: 'Clouds of Sils Maria'a meditation on aging -...",
+            "snippet": ": 'Clouds of Sils Maria'a meditation on, in \"Clouds of Sils Maria,\" her luminous, expressive face becomes an ideal canvas for director Olivier Assayas to meditate on the interweaving forces of time, age, identity, self-worth, art and a few other...",
+            "date": "2015-04-23",
             "categories": "meditation",
-            "tags": "meditations,meditation,daily,day,learn",
-            "recuweb_url": "http://en.recuweb.com/meditation/vaildaily.com/2015/04/eagle-county-meditation-instructor-offers-21-day-challenge-vail-daily-news",
-            "resource_url": "http://news.google.com/?hl=en&q=meditation&output=atom&nord=1",
-            "source_url": "http://vaildaily.com/entertainment/15990096-113/eagle-county-meditation-instructor-offers-21-day-meditation-challenge"
+            "tags": "meditate,meditation,self",
+            "recuweb_url": "http://en.recuweb.com/meditation/azcentral.com/2015/04/review-clouds-of-sils-maria-a-meditation-on-aging",
+            "resource_url": "http://news.google.com/?hl=en&q=meditation%2Bmeditation&output=atom&nord=1",
+            "source_url": "http://azcentral.com/story/entertainment/movies/2015/04/23/review-clouds-sils-maria/26251873/"
         },
-        "oneindia.com/2015/04/how-meditation-in-thailand-did-not-help-rahul-gandhi": {
-            "title": "How meditation in Thailand did not help Rahul Gandhi...",
-            "snippet": "Rahul Gandhi's rally on Sunday, April 19 was termed as his big comeback in the current political scenario that would help the Congress party to get back on its feet. But Rahul Gandhi's speech at the Ramlila Maidan fizzled out even as news reports...",
-            "date": "2015-04-20",
-            "categories": "meditation",
-            "tags": "help,did,meditation",
-            "recuweb_url": "http://en.recuweb.com/meditation/oneindia.com/2015/04/how-meditation-in-thailand-did-not-help-rahul-gandhi",
+        "news.stanford.edu/2015/04/compassion-meditation-reduces-mind-wandering-stanford-research-shows": {
+            "title": "Compassion meditation reduces 'mind-wandering,'Stanford research shows...",
+            "snippet": "The practice of compassion meditation may be a powerful antidote to a drifting mind, new Stanford research shows. Compassion meditation focuses on benevolent thoughts toward oneself and others, as the researchers noted. It is different in this...",
+            "date": "2015-04-22",
+            "categories": "mind,meditation",
+            "tags": "mind,practice,compassion,research,research-shows,shows,meditation,reduces,wandering,stanford",
+            "recuweb_url": "http://en.recuweb.com/meditation/news.stanford.edu/2015/04/compassion-meditation-reduces-mind-wandering-stanford-research-shows",
             "resource_url": "http://www.bing.com/news/search?first=1&q=meditation&format=RSS&cc=us",
-            "source_url": "http://oneindia.com/feature/how-meditation-in-thailand-did-not-help-rahul-gandhi-1721665.html"
+            "source_url": "http://news.stanford.edu/news/2015/april/mindful-meditation-benefits-042215.html"
         },
-        "boxborough.wickedlocal.com/2015/04/jewish-meditation-at-beth-elohim-april-21-wicked-local-boxborough": {
-            "title": "Jewish meditation at Beth Elohim April 21 - Wicked Local Boxborough...",
-            "snippet": "Jewish meditation at Beth Elohim April 21Wicked Local BoxboroughCantor Sarra Spierer will lead an evening of Jewish meditation beginning at 7:15 p.m. April 21 at Congregation Beth Elohim, 133 Prospect St., Acton. The evening will include mindfulness...",
-            "date": "2015-04-20",
-            "categories": "meditation",
-            "tags": "mindfulness,meditation",
-            "recuweb_url": "http://en.recuweb.com/meditation/boxborough.wickedlocal.com/2015/04/jewish-meditation-at-beth-elohim-april-21-wicked-local-boxborough",
-            "resource_url": "http://news.google.com/?hl=en&q=meditation&output=atom&nord=1",
-            "source_url": "http://boxborough.wickedlocal.com/article/20150420/NEWS/150417632"
-        },
-        "patch.com/2015/04/learn-to-meditate-free-meditation-classes": {
-            "title": "Learn to Meditate - Free Meditation Classes...",
-            "snippet": "Meditation can help heal illnesses, sharpen focus and clarity, inspire creativity and improve your personality and relationships. Sahaja Yoga Meditation is a unique energy based meditation that allows you to achieve the state of thoughtless...",
-            "date": "2015-04-20",
-            "categories": "yoga,personality,relationships,meditation",
-            "tags": "yoga,focus,help,meditation,learn",
-            "recuweb_url": "http://en.recuweb.com/meditation/patch.com/2015/04/learn-to-meditate-free-meditation-classes",
+        "thenational.ae/2015/04/dubai-college-pupils-de-stress-with-meditation": {
+            "title": "Dubai College pupils de-stress with meditation...",
+            "snippet": "DUBAI//A private school is teaching its senior pupils how to meditate as a means of managing stress and anxiety. Dubai College has recently completed a pilot programme involving its Grade 12 and 13 pupils that introduced them to the fundamental...",
+            "date": "2015-04-22",
+            "categories": "school,teaching,college,meditation",
+            "tags": "meditate,stress,stress-and-anxiety,anxiety,meditation",
+            "recuweb_url": "http://en.recuweb.com/meditation/thenational.ae/2015/04/dubai-college-pupils-de-stress-with-meditation",
             "resource_url": "http://www.bing.com/news/search?first=1&q=meditation&format=RSS&cc=us",
-            "source_url": "http://patch.com/illinois/downersgrove/learn-meditate-free-meditation-classes-11"
+            "source_url": "http://thenational.ae/uae/education/dubai-college-pupils-de-stress-with-meditation"
         },
-        "dailymail.co.uk/2015/04/meditation-is-as-effective-antidepressant-drugs-for-depression-treatment-daily-mail": {
-            "title": "Meditation is 'as effective as antidepressant drugs for depression treatment - Daily Mail...",
-            "snippet": "Daily MailMeditation is 'as effective as antidepressant drugs for depression treatmentDaily MailAn ancient Buddhist meditation practice could be as effective as modern drugs at beating depression, new research suggests. A study published in The...",
-            "date": "2015-04-20",
-            "categories": "drugs,meditation",
-            "tags": "practice,could,daily,meditation,effective,buddhist",
-            "recuweb_url": "http://en.recuweb.com/meditation/dailymail.co.uk/2015/04/meditation-is-as-effective-antidepressant-drugs-for-depression-treatment-daily-mail",
-            "resource_url": "http://news.google.com/?hl=en&q=meditation&output=atom&nord=1",
-            "source_url": "http://dailymail.co.uk/health/article-3047347/Meditation-effective-antidepressant-drugs-depression-treatment.html"
-        },
-        "dailykos.com/2015/04/meditation-responding-to-the-invitation": {
-            "title": "Meditation-Responding To The Invitation...",
-            "snippet": "If we uncover that still silent presence when we are in meditation, we can also uncover it in our day to day lives. In fact it is always there, patiently waiting for us to notice it, to give it our attention and allow it to become more apparent in...",
-            "date": "2015-04-20",
+        "huffingtonpost.com/2015/04/meditation-myth-number-3-i-need-a-mantra": {
+            "title": "Meditation Myth Number 3: 'I Need a Mantra'...",
+            "snippet": "This is number three in a series in which I dispel the most common myths that prevent people from practicing and enjoying meditation. When I tell people I teach meditation, their next words are often something like, Oh, meditation. Yeah, I was...",
+            "date": "2015-04-22",
             "categories": "meditation",
-            "tags": "day,meditation",
-            "recuweb_url": "http://en.recuweb.com/meditation/dailykos.com/2015/04/meditation-responding-to-the-invitation",
+            "tags": "next,meditation,teach",
+            "recuweb_url": "http://en.recuweb.com/meditation/huffingtonpost.com/2015/04/meditation-myth-number-3-i-need-a-mantra",
             "resource_url": "http://www.bing.com/news/search?first=1&q=meditation&format=RSS&cc=us",
-            "source_url": "http://dailykos.com/story/2015/04/20/1378598/-Meditation-Responding-To-The-Invitation?detail=hide"
+            "source_url": "http://huffingtonpost.com/dean-sluyter/meditation-myth-number-3-_b_7105038.html"
         },
-        "decaturish.com/2015/04/monday-morning-meditation-a-call-for-compassion": {
-            "title": "Monday Morning Meditation A call for compassion -...",
-            "snippet": "Morning Meditation A call for had been pulled over for speeding. The officer told her that she smelled marijuana in the vehicle. The officer searched her car and found a small amount of pot. My friend was handcuffed, taken to the police station,...",
-            "date": "2015-04-20",
+        "huffingtonpost.com/2015/04/meditation-in-the-menopause-huffington": {
+            "title": "Meditation in the Menopause - Huffington Post...",
+            "snippet": "Meditation in the MenopauseHuffington PostOne simple modality that has found to be very helpful in easing the symptoms commonly associated with menopause, such as easing stress and anxiety, is meditation. If you would like to know more about how...",
+            "date": "2015-04-22",
             "categories": "meditation",
-            "tags": "meditation",
-            "recuweb_url": "http://en.recuweb.com/meditation/decaturish.com/2015/04/monday-morning-meditation-a-call-for-compassion",
+            "tags": "stress,stress-and-anxiety,anxiety,meditation,huffington",
+            "recuweb_url": "http://en.recuweb.com/meditation/huffingtonpost.com/2015/04/meditation-in-the-menopause-huffington",
             "resource_url": "http://news.google.com/?hl=en&q=meditation&output=atom&nord=1",
-            "source_url": "http://decaturish.com/2015/04/monday-morning-meditation-a-call-for-compassion/"
+            "source_url": "http://huffingtonpost.com/julie-dargan/meditation-in-the-menopause_b_7113446.html"
         }
     }
 }
