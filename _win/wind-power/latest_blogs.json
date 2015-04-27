@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "wind-power",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/wind-power/",
@@ -10,12 +11,65 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/wind-power/wind-power/blogs.json"
     },
     "items": {
+        "windpowerengineering.com/2015/04/learning-how-to-prevent-bird-turbine-collisions-windpower": {
+            "title": "Learning how to prevent bird-turbine collisions - Windpower...",
+            "snippet": "A trained falcon soars next to a wind power plant, gathering radar data that could someday save the lives of his avian brethren.",
+            "date": "2015-04-24",
+            "author_name": "Michelle Froese",
+            "categories": "radar,learning",
+            "tags": "turbine,windpower,wind,power,plant",
+            "recuweb_url": "http://en.recuweb.com/learning/windpowerengineering.com/2015/04/learning-how-to-prevent-bird-turbine-collisions-windpower",
+            "resource_url": "http://www.google.com/search?q=wind%2Bpower%2Bwind%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://windpowerengineering.com/policy/environmental/learning-how-to-prevent-bird-turbine-collisions/"
+        },
+        "windpowerengineering.com/2015/04/trends-in-o&m-windpower-engineering-&-development": {
+            "title": "Trends in O&M - Windpower Engineering & Development...",
+            "snippet": "Global wind turbine O&M expenditures are expected to rise from billion as of 2014 to 17 billion by 2020.",
+            "date": "2015-04-24",
+            "author_name": "Michelle Froese",
+            "categories": "engineering",
+            "tags": "rise,windpower,development,global,wind,turbine",
+            "recuweb_url": "http://en.recuweb.com/engineering/windpowerengineering.com/2015/04/trends-in-o&m-windpower-engineering-&-development",
+            "resource_url": "http://www.google.com/search?q=wind%2Bpower%2Bwind%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://windpowerengineering.com/maintenance/trends-in-om/"
+        },
+        "dailykos.com/2015/04/open-thread-for-night-owls-the-true-cost-of-wind-power": {
+            "title": "Open thread for night owls: 'The true cost of wind power'- Daily Kos...",
+            "snippet": "The Erik Wemple Blog yesterday asked Simmons whether his Newsweek blast at wind power should have contained more information about his ties to some key players in the U.S. energy sector. For instance, between 2008...",
+            "date": "2015-04-23",
+            "author_name": "rss@dailykos.com (Hunter)",
+            "tags": "should,information,cost,wind,power,energy",
+            "recuweb_url": "http://en.recuweb.com/dailykos.com/2015/04/open-thread-for-night-owls-the-true-cost-of-wind-power",
+            "resource_url": "http://www.google.com/search?q=wind%2Bpower%2Bwind%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://dailykos.com/story/2015/04/23/1379594/-Open-thread-for-night-owls-The-true-cost-of-wind-power"
+        },
+        "dallasmorningviewsblog.dallasnews.com/2015/04/texas-shortsighted-wind-energy-policy-dallas-morning-news": {
+            "title": "Texas'shortsighted wind energy policy Dallas Morning News...",
+            "snippet": "Texas produces the most wind power of any U.S. state. Wind power accounted for 8.3% of the electricity generated in Texas during 2013. Texas, which in just the last five years has tripled its oil production and delivered...",
+            "date": "2015-04-15",
+            "author_name": "Jim Mitchell",
+            "categories": "production,policy",
+            "tags": "oil,production,wind,energy,power,state,electricity,during",
+            "recuweb_url": "http://en.recuweb.com/policy/dallasmorningviewsblog.dallasnews.com/2015/04/texas-shortsighted-wind-energy-policy-dallas-morning-news",
+            "resource_url": "http://www.google.com/search?q=wind%2Bpower%2Bwind%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://dallasmorningviewsblog.dallasnews.com/2015/04/texas-shortsighted-wind-energy-policy.html/"
+        },
+        "chicagobusiness.com/2015/04/can-this-wind-power-company-ever-make-money-in-other-news": {
+            "title": "Can this wind power company ever make money? - In Other News...",
+            "snippet": "Peter Duprey's top priority when he became CEO of Broadwind Energy in 2010 was to ensure that the wind was at the Cicero-based manufacturer's back. Instead, he's still fighting headwinds. Six years after Broadwind began...",
+            "date": "2015-04-04",
+            "author_name": "unknown",
+            "tags": "fighting,back,energy,top,other,company,wind,power",
+            "recuweb_url": "http://en.recuweb.com/chicagobusiness.com/2015/04/can-this-wind-power-company-ever-make-money-in-other-news",
+            "resource_url": "http://www.google.com/search?q=wind%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://chicagobusiness.com/article/20150404/ISSUE01/150409890/can-this-wind-power-company-ever-make-money"
+        },
         "windpowerbearing.blogspot.com/2015/03/wind-power-bearing-and-global-development": {
             "title": "Wind power bearing and global wind power development...",
             "snippet": "The relative scarcity of traditional energy, environmental pressure and geopolitical strong sense of insecurity, deck crane bearing so countries spare no effort in the development of renewable energy including wind power. The wind power industry has...",
             "date": "2015-03-19",
             "author_name": "hua yang",
-            "tags": "strong,global,wind,power,energy,renewable,industry",
+            "tags": "development,sense,global,wind,power,energy,renewable",
             "recuweb_url": "http://en.recuweb.com/windpowerbearing.blogspot.com/2015/03/wind-power-bearing-and-global-development",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=wind%2Bpower%2Bwind%2Bpower&rss=1&lng=en",
             "source_url": "http://windpowerbearing.blogspot.com/2015/03/wind-power-bearing-and-global-wind.html"
@@ -25,7 +79,7 @@
             "snippet": "By National Wind Watch During George W. Bushs administration, the Department of Energy set a wildly unrealistic goal to have 20 percent of the nations electricity come from wind by 2030. Now, the Obama Administration wishes to fulfill that goal by...",
             "date": "2015-03-08",
             "author_name": "soladood",
-            "tags": "electricity,national,wind,into,power,energy",
+            "tags": "during,wind,into,power,energy,electricity",
             "recuweb_url": "http://en.recuweb.com/wind-power-solutions.com/2015/03/op-ed-stop-dumping-billions-into-unreliable-wind-power-ut",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=wind%2Bpower%2Bwind%2Bpower&rss=1&lng=en",
             "source_url": "http://wind-power-solutions.com/op-ed-stop-dumping-billions-into-unreliable-wind-power-ut/"
@@ -36,20 +90,10 @@
             "date": "2015-03-05",
             "author_name": "(endra)",
             "categories": "sun",
-            "tags": "usually,usually-blowing,blowing,shining,sun,sun-isn,isn,here,here-in-colorado,colorado,excellent,excellent-complement,complement,complement-to-solar,solar,otherpower,otherpower-make,make,make-your-electricity,electricity,turbine,wind,power,scratch,system",
+            "tags": "usually,usually-blowing,blowing,shining,sun,sun-isn,isn,here,here-in-colorado,colorado,excellent,excellent-complement,complement,otherpower,wind,turbine,power,electricity,scratch,solar,system",
             "recuweb_url": "http://en.recuweb.com/sun/powerguidenc.blogspot.com/2015/03/homemade-wind-turbine-africa",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=wind%2Bpower%2Bwind%2Bpower&rss=1&lng=en",
             "source_url": "http://powerguidenc.blogspot.com/2015/03/homemade-wind-turbine-africa.html"
-        },
-        "greentechmedia.com/2015/03/sunedison-buys-solar-grid-storage-for-battery-backed-pv-and-wind": {
-            "title": "SunEdison Buys Solar Grid Storage for Battery-Backed PV and Wind...",
-            "snippet": "But under its new ownership, Solar Grid Storage will look to provide a much broader variety of storage-based services in support of solar and wind power, CEO Tom Leyden told us in an interview. What SunEdison is looking...",
-            "date": "2015-03-05",
-            "author_name": "Jeff St. John",
-            "tags": "ceo,support,solar,wind,power",
-            "recuweb_url": "http://en.recuweb.com/greentechmedia.com/2015/03/sunedison-buys-solar-grid-storage-for-battery-backed-pv-and-wind",
-            "resource_url": "http://www.google.com/search?q=wind%2Bpower%2Bwind%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://greentechmedia.com/articles/read/sunedison-buys-solar-grid-storage-for-battery-backed-green-power"
         },
         "acheappower.blogspot.com/2015/03/wind-power-formula-turbine": {
             "title": "Wind power formula turbine...",
@@ -57,7 +101,7 @@
             "date": "2015-03-04",
             "author_name": "(kendra)",
             "categories": "sun",
-            "tags": "usually,usually-blowing,blowing,shining,sun,sun-isn,isn,here,here-in-colorado,colorado,excellent,excellent-complement,complement,complement-to-solar,solar,otherpower,otherpower-make,make,make-your-electricity,electricity,turbine,wind,power,scratch,system",
+            "tags": "usually,usually-blowing,blowing,shining,sun,sun-isn,isn,here,here-in-colorado,colorado,excellent,excellent-complement,complement,otherpower,wind,power,turbine,electricity,scratch,solar,system",
             "recuweb_url": "http://en.recuweb.com/sun/acheappower.blogspot.com/2015/03/wind-power-formula-turbine",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=wind%2Bpower%2Bwind%2Bpower&rss=1&lng=en",
             "source_url": "http://acheappower.blogspot.com/2015/03/wind-power-formula-turbine.html"
@@ -68,53 +112,10 @@
             "date": "2015-03-03",
             "author_name": "(kenneth)",
             "categories": "pollution,production",
-            "tags": "low,wind,power",
+            "tags": "carbon,clean,production,cost,advantages,wind,power",
             "recuweb_url": "http://en.recuweb.com/production/altenerpower.blogspot.com/2015/03/wind-power-advantages-and-disadvantages",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=wind%2Bpower%2Bwind%2Bpower&rss=1&lng=en",
             "source_url": "http://altenerpower.blogspot.com/2015/03/wind-power-advantages-and-disadvantages.html"
-        },
-        "theguardian.com/2015/03/british-public-thinks-wind-power-subsidies-are-14-times-higher-than": {
-            "title": "British public thinks wind power subsidies are 14 times higher than...",
-            "snippet": "Polling for renewable energy trade body finds misconceptions around wind power despite popular support for the technology.",
-            "date": "2015-03-02",
-            "author_name": "Press Association",
-            "categories": "technology",
-            "tags": "support,technology,wind,power,renewable,energy",
-            "recuweb_url": "http://en.recuweb.com/technology/theguardian.com/2015/03/british-public-thinks-wind-power-subsidies-are-14-times-higher-than",
-            "resource_url": "http://www.google.com/search?q=wind%2Bpower%2Bwind%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/environment/2015/mar/02/british-public-thinks-wind-power-subsidies-are-14-times-higher-than-reality"
-        },
-        "windpowermonthly.com/2015/02/acciona-windpower-earnings-increase-monthly": {
-            "title": "Acciona Windpower earnings increase Windpower Monthly...",
-            "snippet": "Read Acciona Windpower earnings increase and other wind energy news & analysis on Windpower Monthly.",
-            "date": "2015-02-27",
-            "author_name": "unknown",
-            "tags": "windpower,windpower_monthly,monthly,wind,energy,analysis",
-            "recuweb_url": "http://en.recuweb.com/windpowermonthly.com/2015/02/acciona-windpower-earnings-increase-monthly",
-            "resource_url": "http://www.google.com/search?q=wind%2Bpower%2Bwind%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://windpowermonthly.com/article/1336063/acciona-windpower-earnings-increase"
-        },
-        "cleantechnica.com/2015/02/wind-power-hits-record-high-in-china-s-coal-hub-cleantechnica": {
-            "title": "Wind Power Hits Record High In China's Coal Hub CleanTechnica...",
-            "snippet": "Following a continuous surge in capacity levels Shanxi province posted a record level of wind power generation in the second half of January.",
-            "date": "2015-02-26",
-            "author_name": "Marc Howe",
-            "categories": "wind-power",
-            "tags": "wind,wind_power,power,china,province",
-            "recuweb_url": "http://en.recuweb.com/wind-power/cleantechnica.com/2015/02/wind-power-hits-record-high-in-china-s-coal-hub-cleantechnica",
-            "resource_url": "http://www.google.com/search?q=wind%2Bpower&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://cleantechnica.com/2015/02/26/wind-power-hits-record-high-chinas-coal-hub/"
-        },
-        "otherzpower.blogspot.com/2015/02/build-wind-turbine-voltage-regulator": {
-            "title": "Build wind turbine voltage regulator...",
-            "snippet": "Build wind turbine voltage regulator Wind power - otherpower make your electricity from scratch!, Wind power. wind power can be an excellent complement to a solar power system. here in colorado, when the sun isn't shining, the wind is usually...",
-            "date": "2015-02-25",
-            "author_name": "(kenneth)",
-            "categories": "sun",
-            "tags": "usually,shining,sun,sun-isn,isn,here,here-in-colorado,colorado,excellent,excellent-complement,complement,complement-to-solar,solar,otherpower,otherpower-make,make,make-your-electricity,electricity,turbine,build,wind,power,scratch,system",
-            "recuweb_url": "http://en.recuweb.com/sun/otherzpower.blogspot.com/2015/02/build-wind-turbine-voltage-regulator",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=wind%2Bpower%2Bwind%2Bpower&rss=1&lng=en",
-            "source_url": "http://otherzpower.blogspot.com/2015/02/build-wind-turbine-voltage-regulator.html"
         }
     }
 }
