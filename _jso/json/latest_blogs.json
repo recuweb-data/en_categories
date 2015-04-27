@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "json",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/json/",
@@ -16,21 +17,10 @@
             "date": "2015-04-23",
             "author_name": "unknown",
             "categories": "json",
-            "tags": "application,file,configuration,write,information,json,web",
+            "tags": "log,web,describes,information,json,configuration,application,file",
             "recuweb_url": "http://en.recuweb.com/json/javacodegeeks.com/2015/04/spring-from-the-trenches-returning-git-commit-information-as-json",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://javacodegeeks.com/2015/04/spring-from-the-trenches-returning-git-commit-information-as-json.html"
-        },
-        "infoq.com/2015/04/google-proposes-to-enhance-json-with-jsonnet-infoq": {
-            "title": "Google Proposes to Enhance JSON with Jsonnet - InfoQ...",
-            "snippet": "Google has open sourced Jsonnet, a configuration language that supersedes JSON and adds new features without breaking backwards compatibility: comments, references, arithmetic and conditional operators, array and...",
-            "date": "2015-04-21",
-            "author_name": "ExplodingAds.com",
-            "categories": "json,google",
-            "tags": "operators,features,without,configuration,configuration-language,language,json,google,jsonnet,open",
-            "recuweb_url": "http://en.recuweb.com/google/infoq.com/2015/04/google-proposes-to-enhance-json-with-jsonnet-infoq",
-            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://infoq.com/news/2015/04/jsonnet"
         },
         "google-opensource.blogspot.com/2015/04/jsonnet-a-more-elegant-language-for-composing-json": {
             "title": "Jsonnet: a more elegant language for composing JSON...",
@@ -38,7 +28,7 @@
             "date": "2015-04-20",
             "author_name": "Open Source Programs Office",
             "categories": "json",
-            "tags": "programming,language,configuration,configuration-language,few,jsonnet,json,data,many",
+            "tags": "programming,simple,quietly,few,jsonnet,language,json,configuration,data",
             "recuweb_url": "http://en.recuweb.com/json/google-opensource.blogspot.com/2015/04/jsonnet-a-more-elegant-language-for-composing-json",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://google-opensource.blogspot.com/2015/04/jsonnet-more-elegant-language-for.html"
@@ -49,7 +39,7 @@
             "date": "2015-04-20",
             "author_name": "ExplodingAds.com",
             "categories": "json,xml",
-            "tags": "services,formats,server,mobile,json,playing,many,web,data,xml",
+            "tags": "web,web-service,service,server,json,services,data,formats,xml",
             "recuweb_url": "http://en.recuweb.com/xml/blog.netspi.com/2015/04/playing-with-content-type-xxe-on-json-endpoints-netspi-blog",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.netspi.com/playing-content-type-xxe-json-endpoints/"
@@ -60,7 +50,7 @@
             "date": "2015-04-18",
             "author_name": "gluc",
             "categories": "mind,json,xml",
-            "tags": "need,few,code,json,bloggers,xml,here",
+            "tags": "few,json,bloggers,xml,here,code",
             "recuweb_url": "http://en.recuweb.com/xml/r-bloggers.com/2015/04/how-to-convert-an-r-json-bloggers",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://r-bloggers.com/how-to-convert-an-r-data-tree-to-json/"
@@ -71,7 +61,7 @@
             "date": "2015-04-17",
             "author_name": "Dimitri Gielis",
             "categories": "database,json",
-            "tags": "information,look,interested,application,json,read,sql",
+            "tags": "query,information,examples,look,application,json,read,sql",
             "recuweb_url": "http://en.recuweb.com/json/dgielis.blogspot.com/2015/04/dimitri-gielis-blog-oracle-application-express-apex-json",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://dgielis.blogspot.com/2015/04/json-for-apex-developers-part-3.html"
@@ -82,10 +72,21 @@
             "date": "2015-04-13",
             "author_name": "Jeroen Ooms",
             "categories": "json",
-            "tags": "ized,json,serialization,bloggers,data,web,version",
+            "tags": "version,web,json,bloggers,data",
             "recuweb_url": "http://en.recuweb.com/json/r-bloggers.com/2015/04/json-serialization-now-even-faster-and-prettier-r-bloggers",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://r-bloggers.com/json-serialization-now-even-faster-and-prettier/"
+        },
+        "blog.najmanowicz.com/2015/04/rapid-api-prototyping-for-sitecore-with-powershell-extensions": {
+            "title": "Rapid API prototyping for Sitecore with PowerShell Extensions...",
+            "snippet": "This post describes how you can deliver JSON/XML/HTML APIs quickly with Sitecore PowerShell Extensions. Technically this was also available earlier but the API was not refined to the state it is now. As Sitecore is constantly progressing from...",
+            "date": "2015-04-13",
+            "author_name": "Adam Najmanowicz",
+            "categories": "html,json,xml",
+            "tags": "apis,describes,api,json,xml,available",
+            "recuweb_url": "http://en.recuweb.com/xml/blog.najmanowicz.com/2015/04/rapid-api-prototyping-for-sitecore-with-powershell-extensions",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=json%2Bjson&rss=1&lng=en",
+            "source_url": "http://blog.najmanowicz.com/2015/04/13/rapid-api-prototyping-for-sitecore-with-powershell-extensions/"
         },
         "mysqlserverteam.com/2015/04/json-labs-release-overview-mysql-server-blog": {
             "title": "JSON Labs Release: Overview MySQL Server Blog...",
@@ -93,7 +94,7 @@
             "date": "2015-04-12",
             "author_name": "Matt Lord",
             "categories": "mysql,json",
-            "tags": "mysql,labs,mysql_json,json,json_labs,server,json_labs_release,labs_release,release,available,sql,best",
+            "tags": "mysql,labs,mysql_json,json,json_labs,server,json_labs_release,labs_release,release,available,sql",
             "recuweb_url": "http://en.recuweb.com/json/mysqlserverteam.com/2015/04/json-labs-release-overview-mysql-server-blog",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://mysqlserverteam.com/json-labs-release-overview/"
@@ -104,21 +105,21 @@
             "date": "2015-04-10",
             "author_name": "Dag Wanvik",
             "categories": "mysql,json",
-            "tags": "functions,mysql,mysql_json,json,json_labs,data,json_labs_release,labs,labs_release,release,datatype",
+            "tags": "using,introduced,mysql,mysql_json,json,json_labs,json_data,data,json_labs_release,labs,labs_release,release",
             "recuweb_url": "http://en.recuweb.com/json/mysqlserverteam.com/2015/04/json-labs-release-functions-part-2-querying-data",
             "resource_url": "http://www.google.com/search?q=json&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://mysqlserverteam.com/mysql-5-7-lab-release-json-functions-part-2-querying-json-data/"
         },
-        "clipizdecon.wordpress.com/2015/03/download-game-vba-json-library": {
-            "title": "Download game vba json library...",
-            "snippet": "DOWNLOAD I have a json like below: {\"sentences\": Role-playing Games; more (21) Mathematics; Cross Validated (stats) Theoretical Computer Science; Physics. Have difficulty with the downloads, If you are interested []...",
-            "date": "2015-03-26",
-            "author_name": "clipizdecon",
-            "categories": "science,json,mathematics,physics",
-            "tags": "interested,json,playing",
-            "recuweb_url": "http://en.recuweb.com/physics/clipizdecon.wordpress.com/2015/03/download-game-vba-json-library",
-            "resource_url": "http://en.search.wordpress.com/?q=json%2Bjson&f=feed&page=1",
-            "source_url": "http://clipizdecon.wordpress.com/2015/03/26/download-game-vba-json-library/"
+        "blogs.dropbox.com/2015/03/json-in-urls-dropbox-developer-blog": {
+            "title": "JSON in URLs Dropbox Developer Blog...",
+            "snippet": "... as URL path and query parameters. For example, a call to the Dropbox API's filename search endpoint might look like: While URL encoding seems fine for simple examples, using JSON might have some advantages.",
+            "date": "2015-03-25",
+            "author_name": "F. Metsys",
+            "categories": "json",
+            "tags": "seems,simple,examples,look,api,query,developer,json,search,using",
+            "recuweb_url": "http://en.recuweb.com/json/blogs.dropbox.com/2015/03/json-in-urls-dropbox-developer-blog",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.dropbox.com/developers/2015/03/json-in-urls/"
         }
     }
 }
