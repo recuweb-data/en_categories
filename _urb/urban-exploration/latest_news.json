@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "urban-exploration",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/urban-exploration/",
@@ -10,12 +11,82 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/urban-exploration/urban-exploration/blogs.json"
     },
     "items": {
+        "infozine.com/2015/04/cycle-in-the-city": {
+            "title": "Cycle in the City...",
+            "snippet": "from 2-5 p.m. Cycle in the City is free and open to all ages and was designed to encourage urban exploration in an innovative, healthy, social and fun environment without the interference of motor vehicle traffic. From Meyer Circle Fountain to...",
+            "date": "2015-04-24",
+            "categories": "environment,exploration",
+            "tags": "city,urban,exploration",
+            "recuweb_url": "http://en.recuweb.com/exploration/infozine.com/2015/04/cycle-in-the-city",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=urban%2Bexploration&format=RSS&cc=us",
+            "source_url": "http://infozine.com/news/stories/op/storiesView/sid/61711/"
+        },
+        "blogs.mercurynews.com/2015/04/pre-game-3-revenge-san-jose-mercury-news-blog": {
+            "title": "Pre-Game 3: Revenge - San Jose Mercury News (blog)...",
+            "snippet": "Pre-Game 3: RevengeSan Jose Mercury News (blog)One interest I had was what is now called urban exploration which is basically trespassing on abandoned properties. Here is one shot I took inside of that old Ford factory, which I believe has since...",
+            "date": "2015-04-24",
+            "categories": "exploration",
+            "tags": "inside,game,called,urban,exploration,abandoned",
+            "recuweb_url": "http://en.recuweb.com/exploration/blogs.mercurynews.com/2015/04/pre-game-3-revenge-san-jose-mercury-news-blog",
+            "resource_url": "http://news.google.com/?hl=en&q=urban%2Bexploration&output=atom&nord=1",
+            "source_url": "http://blogs.mercurynews.com/warriors/2015/04/23/pre-game-3-revenge/"
+        },
+        "cityweekly.net/2015/04/the-cheeky-whale": {
+            "title": "The Cheeky Whale...",
+            "snippet": "I have two lenses I switch between and rely on natural lighting. Nothing fancy. I love urban exploration and abandoned places. click to enlarge Gavin: What's the process like for you when creating a new piece, from concept to final design?",
+            "date": "2015-04-24",
+            "categories": "love,exploration,places",
+            "tags": "urban,exploration,abandoned,places",
+            "recuweb_url": "http://en.recuweb.com/places/cityweekly.net/2015/04/the-cheeky-whale",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=urban%2Bexploration&format=RSS&cc=us",
+            "source_url": "http://cityweekly.net/TheDailyFeed/archives/2015/04/24/the-cheeky-whale"
+        },
+        "charlotteobserver.com/2015/04/in-the-galleries-revisiting-reconsidering-and-urban-alienation-charlotte-observer": {
+            "title": "In the galleries: revisiting, reconsidering and urban alienation - Charlotte Observer...",
+            "snippet": "Charlotte ObserverIn the galleries: revisiting, reconsidering and urban alienationCharlotte ObserverIn this exhibition, Isaac Payne continues his exploration of urban alienation. Payne's meticulously rendered paintings are filled with bridges,...",
+            "date": "2015-04-23",
+            "categories": "painting,exploration",
+            "tags": "bridges,urban,exploration",
+            "recuweb_url": "http://en.recuweb.com/exploration/charlotteobserver.com/2015/04/in-the-galleries-revisiting-reconsidering-and-urban-alienation-charlotte-observer",
+            "resource_url": "http://news.google.com/?hl=en&q=urban%2Bexploration&output=atom&nord=1",
+            "source_url": "http://charlotteobserver.com/entertainment/article19317639.html"
+        },
+        "nextcity.org/2015/04/why-a-group-of-artists-wants-you-to-play-the-l": {
+            "title": "Why a Group of Artists Wants You to Play the L.A. River...",
+            "snippet": "Run by the arts collective Project 51, the project is what they call a game of urban exploration and imagination. The games goal? To help Angelenos understand that they now have a right to enjoy the river long a polluted, concrete-encased...",
+            "date": "2015-04-23",
+            "categories": "arts,play,exploration",
+            "tags": "games,project,game,urban,exploration",
+            "recuweb_url": "http://en.recuweb.com/exploration/nextcity.org/2015/04/why-a-group-of-artists-wants-you-to-play-the-l",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=urban%2Bexploration&format=RSS&cc=us",
+            "source_url": "http://nextcity.org/daily/entry/why-a-group-of-artists-want-you-to-play-the-l.a.-river"
+        },
+        "huffingtonpost.com/2015/04/toilet-seats-and-mirrors-gilf-bamn-create-tixe": {
+            "title": "Toilet Seats and Mirrors: Gilf! And BAMN Create TIXE...",
+            "snippet": "As a woman I have that added layer of vulnerability -- which always infuriates me. But getting over those fears is just part of urban exploration. The freedom I had to create in that space trumped my fear of the bogie man who was only living inside...",
+            "date": "2015-04-22",
+            "categories": "exploration",
+            "tags": "inside,urban,exploration",
+            "recuweb_url": "http://en.recuweb.com/exploration/huffingtonpost.com/2015/04/toilet-seats-and-mirrors-gilf-bamn-create-tixe",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=urban%2Bexploration&format=RSS&cc=us",
+            "source_url": "http://huffingtonpost.com/jaime-rojo-steven-harrington/gilf-bamn-tixe_b_7109632.html"
+        },
+        "christiantoday.com/2015/04/gta-v-for-pc-patch-released": {
+            "title": "'GTA V'for PC patch released...",
+            "snippet": "In the patch notes for the update released by Rockstar Games, the company detailed issue fixes that the update brought to the PC version of the urban exploration and mayhem detailed title. First of all, it addressed the weird glitch in the game's...",
+            "date": "2015-04-20",
+            "categories": "exploration",
+            "tags": "game,games,urban,exploration",
+            "recuweb_url": "http://en.recuweb.com/exploration/christiantoday.com/2015/04/gta-v-for-pc-patch-released",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=urban%2Bexploration&format=RSS&cc=us",
+            "source_url": "http://christiantoday.com/article/gta.v.for.pc.patch.released/52420.htm"
+        },
         "huffingtonpost.com/2015/04/the-urbex-trend-took-over-instagram-huffington": {
             "title": "The Urbex Trend Took Over Instagram - Huffington Post...",
             "snippet": "The Urbex Trend Took Over InstagramHuffington PostThis urban exploration, also called Urbex or UE, aims to show the places which have been forgotten, lost or abandoned. It's about strolling along the city in search of architectural and visual...",
             "date": "2015-04-06",
             "categories": "places,exploration",
-            "tags": "city,show,urban,exploration,abandoned",
+            "tags": "city,places,called,urban,exploration,abandoned",
             "recuweb_url": "http://en.recuweb.com/exploration/huffingtonpost.com/2015/04/the-urbex-trend-took-over-instagram-huffington",
             "resource_url": "http://news.google.com/?hl=en&q=urban%2Bexploration%2Burban%2Bexploration&output=atom&nord=1",
             "source_url": "http://huffingtonpost.com/huntgram/the-urbex-trend-took-over_b_6987142.html"
@@ -25,90 +96,20 @@
             "snippet": "Curbed NYAn Illicit Look Inside the 'Guts'of the Triborough's DrawbridgeCurbed NYIt seems like scaling bridges is, if not the new, a renewed frontier in urban exploration (remember the white flag debacle at the Brooklyn Bridge?) To that end, Animal...",
             "date": "2015-03-26",
             "categories": "exploration",
-            "tags": "brooklyn,curbed,guts,urban,exploration",
+            "tags": "bridges,inside,urban,exploration",
             "recuweb_url": "http://en.recuweb.com/exploration/ny.curbed.com/2015/03/an-illicit-look-inside-the-guts-of-triborough-s-drawbridge-curbed",
             "resource_url": "http://news.google.com/?hl=en&q=urban%2Bexploration%2Burban%2Bexploration&output=atom&nord=1",
             "source_url": "http://ny.curbed.com/archives/2015/03/26/an_illicit_look_inside_the_guts_of_the_triboroughs_drawbridge.php"
         },
-        "businessinsider.com/2015/03/amazing-photos-capture-the-secret-abandoned-parts-of-new-york-city": {
-            "title": "Amazing photos capture the secret abandoned parts of New York City...",
-            "snippet": "Ellis says he first discovered the thrill of urban exploration when he entered an abandoned building in the Brooklyn neighborhood of Red Hook on a whim. What stuck with me was that sense of discovery and adventure, he tells Business Insider.",
-            "date": "2015-03-12",
-            "categories": "business,adventure,exploration",
-            "tags": "says,first,york,york_city,city,abandoned,urban,exploration,brooklyn",
-            "recuweb_url": "http://en.recuweb.com/exploration/businessinsider.com/2015/03/amazing-photos-capture-the-secret-abandoned-parts-of-new-york-city",
+        "petapixel.com/2015/01/urban-exploration-photographer-finds-a-stash-of-cash-in-an-abandoned": {
+            "title": "Urban Exploration Photographer Finds a Stash of Cash in an Abandoned House...",
+            "snippet": "What would you do if you came across a fat stack of cash while doing urban exploration photography? Thats what happened to Dave of Freaktography last year. On one afternoon in January 2014, Dave got off work early and decided to pay a visit to a...",
+            "date": "2015-01-07",
+            "categories": "urban-exploration,exploration,photography",
+            "tags": "abandoned,urban,urban_exploration,exploration",
+            "recuweb_url": "http://en.recuweb.com/photography/petapixel.com/2015/01/urban-exploration-photographer-finds-a-stash-of-cash-in-an-abandoned",
             "resource_url": "http://www.bing.com/news/search?first=1&q=urban%2Bexploration&format=RSS&cc=us",
-            "source_url": "http://businessinsider.com/abandoned-ny-photographs-2015-3?op=1"
-        },
-        "citymetric.com/2015/03/do-you-speak-urbanism-on-our-changing-language-of-cities-citymetric": {
-            "title": "Do you speak urbanism? On our changing language of cities - CityMetric...",
-            "snippet": "CityMetricDo you speak urbanism? On our changing language of citiesCityMetricA number of theories might explain why such a subjective exploration of the urban space took hold in Paris at the time. Rising consumerism during the Second Empire is one;...",
-            "date": "2015-03-12",
-            "categories": "empire,consumerism,exploration",
-            "tags": "during,exploration,urban",
-            "recuweb_url": "http://en.recuweb.com/exploration/citymetric.com/2015/03/do-you-speak-urbanism-on-our-changing-language-of-cities-citymetric",
-            "resource_url": "http://news.google.com/?hl=en&q=urban%2Bexploration&output=atom&nord=1",
-            "source_url": "http://citymetric.com/skylines/do-you-speak-urbanism-our-changing-language-cities-823"
-        },
-        "news.asiaone.com/2015/03/urban-explorers-discover-relics-of-pre-war-singapore": {
-            "title": "Urban explorers discover relics of pre-war Singapore...",
-            "snippet": "Hikari. I want to create awareness about urban exploration and how it plays a part in learning about Singapore's history and heritage, he says. Urban exploration - the survey of man-made structures which are often abandoned and derelict - is a...",
-            "date": "2015-03-09",
-            "categories": "play,learning,exploration",
-            "tags": "says,heritage,part,explorers,urban,exploration,abandoned",
-            "recuweb_url": "http://en.recuweb.com/exploration/news.asiaone.com/2015/03/urban-explorers-discover-relics-of-pre-war-singapore",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=urban%2Bexploration&format=RSS&cc=us",
-            "source_url": "http://news.asiaone.com/news/singapore/urban-explorers-discover-relics-pre-war-singapore"
-        },
-        "oregonlive.com/2015/03/mysterious-stickers-around-portland-schools-just-a-harmless-treasure-hunt-police": {
-            "title": "Mysterious stickers around Portland schools just a harmless treasure hunt, police say...",
-            "snippet": "The stickers and related website turned out to be part of a guerrilla ad campaign for an urban exploration project, a sort of treasure hunt around Portland. The student running the website only revealed that information after authorities were...",
-            "date": "2015-03-04",
-            "categories": "school,exploration",
-            "tags": "part,schools,portland,urban,exploration,project",
-            "recuweb_url": "http://en.recuweb.com/exploration/oregonlive.com/2015/03/mysterious-stickers-around-portland-schools-just-a-harmless-treasure-hunt-police",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=urban%2Bexploration&format=RSS&cc=us",
-            "source_url": "http://oregonlive.com/portland/index.ssf/2015/03/sticker_scare_just_a_treasure.html"
-        },
-        "derbytelegraph.co.uk/2015/03/pear-tree-pupils-explore-derby-s-heritage": {
-            "title": "Pear Tree pupils explore Derby's heritage...",
-            "snippet": "PUPILS from Pear Tree Community Junior School are to take part in an urban exploration event. About 90 Year 5 pupils will be visiting the Green Lane area of Derby tomorrow to choose their favourite buildings as part of the city council's...",
-            "date": "2015-03-04",
-            "categories": "school,exploration",
-            "tags": "favourite,part,city,heritage,urban,exploration",
-            "recuweb_url": "http://en.recuweb.com/exploration/derbytelegraph.co.uk/2015/03/pear-tree-pupils-explore-derby-s-heritage",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=urban%2Bexploration&format=RSS&cc=us",
-            "source_url": "http://derbytelegraph.co.uk/Pear-Tree-pupils-explore-Derby-s-heritage/story-26121415-detail/story.html"
-        },
-        "leaderpost.com/2015/03/volunteers-needed-for-urban-exploration": {
-            "title": "Volunteers needed for urban exploration...",
-            "snippet": "REGINA Do you have a story to tell about your neighbourhood or your favourite walking spot in Regina? If so, the organizers of the annual Janes Walk Festival wants to help you share your story with others during a spring walk. Laura Pfeifer...",
-            "date": "2015-03-04",
-            "categories": "walking,exploration",
-            "tags": "during,favourite,urban,exploration",
-            "recuweb_url": "http://en.recuweb.com/exploration/leaderpost.com/2015/03/volunteers-needed-for-urban-exploration",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=urban%2Bexploration&format=RSS&cc=us",
-            "source_url": "http://leaderpost.com/travel/Volunteers+needed+urban+exploration/10858608/story.html"
-        },
-        "ny.curbed.com/2015/03/meet-some-of-new-york-city-s-ballsiest-urban-explorers-curbed": {
-            "title": "Meet Some of New York City's Ballsiest Urban Explorers - Curbed NY...",
-            "snippet": "Meet Some of New York City's Ballsiest Urban ExplorersCurbed NYBut it takes an entirely different kind of guts to do all that while allowing yourself to be filmed for an urban exploration documentary short that will show your face, name, and...",
-            "date": "2015-03-03",
-            "categories": "exploration",
-            "tags": "show,guts,urban,explorers,york,york_city,city,curbed,exploration",
-            "recuweb_url": "http://en.recuweb.com/exploration/ny.curbed.com/2015/03/meet-some-of-new-york-city-s-ballsiest-urban-explorers-curbed",
-            "resource_url": "http://news.google.com/?hl=en&q=urban%2Bexploration&output=atom&nord=1",
-            "source_url": "http://ny.curbed.com/archives/2015/03/03/meet_some_of_new_york_citys_ballsiest_urban_explorers.php"
-        },
-        "koin.com/2015/03/mystery-symbols-posted-at-portland-high-schools": {
-            "title": "Mystery symbols posted at Portland high schools -...",
-            "snippet": "symbols posted at Portland high you click on the countdown, a message pops up: Welcome to the Portland Puzzle, a QR-based urban exploration project. The game will play out over the next couple of months across the great city of Portland. The first...",
-            "date": "2015-03-03",
-            "categories": "play,school,exploration",
-            "tags": "city,schools,portland,urban,exploration,project,first",
-            "recuweb_url": "http://en.recuweb.com/exploration/koin.com/2015/03/mystery-symbols-posted-at-portland-high-schools",
-            "resource_url": "http://news.google.com/?hl=en&q=urban%2Bexploration&output=atom&nord=1",
-            "source_url": "http://koin.com/2015/03/02/mystery-symbols-posted-at-portland-high-schools/"
+            "source_url": "http://petapixel.com/2015/01/07/urban-exploration-photographer-finds-stash-cash-abandoned-house/"
         }
     }
 }
