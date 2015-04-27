@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "aerobatics",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/aerobatics/",
@@ -10,16 +11,27 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/aerobatics/aerobatics/blogs.json"
     },
     "items": {
-        "eadt.co.uk/2015/04/gallery-pilot-david-jenkins-killed-after-plane-catches-fire": {
-            "title": "Gallery: Pilot David Jenkins killed after plane catches fire and...",
-            "snippet": "A champion aerobatic pilot believed to be from Suffolk has died after crashing during an aerobatics display at Old Buckenham Airfield on Wednesday afternoon.",
-            "date": "2015-04-22",
+        "ipswichstar.co.uk/2015/04/investigations-continue-at-old-buckenham-airfield-where-pilot-david": {
+            "title": "Investigations continue at Old Buckenham Airfield where pilot David...",
+            "snippet": "Investigators are attempting to piece together a crash at Old Buckenham Airfield, which killed an aerobatics pilot.",
+            "date": "2015-04-23",
             "author_name": "unknown",
             "categories": "aerobatics",
-            "tags": "old,old_buckenham,old_buckenham_airfield,buckenham,buckenham_airfield,airfield,pilot,david,david_jenkins,jenkins,killed,after,plane,champion,aerobatics,suffolk,died,crashing,during,display,afternoon",
-            "recuweb_url": "http://en.recuweb.com/aerobatics/eadt.co.uk/2015/04/gallery-pilot-david-jenkins-killed-after-plane-catches-fire",
-            "resource_url": "http://www.google.com/search?q=aerobatics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://eadt.co.uk/news/gallery_pilot_david_jenkins_killed_after_plane_catches_fire_and_crashes_at_old_buckenham_airfield_1_4044703"
+            "tags": "old,old_buckenham,old_buckenham_airfield,buckenham,buckenham_airfield,airfield,pilot,david,crash,aerobatics",
+            "recuweb_url": "http://en.recuweb.com/aerobatics/ipswichstar.co.uk/2015/04/investigations-continue-at-old-buckenham-airfield-where-pilot-david",
+            "resource_url": "http://www.google.com/search?q=aerobatics%2Baerobatics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ipswichstar.co.uk/news/investigations_continue_at_old_buckenham_airfield_where_pilot_david_jenkins_died_during_aerobatics_display_1_4046449"
+        },
+        "standard.co.uk/2015/04/norfolk-plane-crash-aerobatics-pilot-david-jenkins-dies-at-old": {
+            "title": "Norfolk plane crash: Aerobatics pilot David Jenkins dies at Old...",
+            "snippet": "A \"highly skilled\" pilot who died after crashing during an aerobatics display has been named locally as David Jenkins.",
+            "date": "2015-04-22",
+            "author_name": "Robin de Peyer",
+            "categories": "aerobatics",
+            "tags": "named,named-locally,locally,highly,highly-skilled,skilled,david,david_jenkins,jenkins,norfolk,plane,crash,aerobatics,pilot,dies,old,died,crashing,during,display",
+            "recuweb_url": "http://en.recuweb.com/aerobatics/standard.co.uk/2015/04/norfolk-plane-crash-aerobatics-pilot-david-jenkins-dies-at-old",
+            "resource_url": "http://www.google.com/search?q=aerobatics%2Baerobatics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://standard.co.uk/news/uk/norfolk-plane-crash-man-dies-after-light-aircraft-comes-down-at-old-buckenham-airfield-10196086.html"
         },
         "express.co.uk/2015/04/plane-crash-at-aerobatics-display-in-norfolk-leaves-daily-express": {
             "title": "Plane crash at aerobatics display in Norfolk leaves... - Daily Express...",
@@ -27,7 +39,7 @@
             "date": "2015-04-22",
             "author_name": "unknown",
             "categories": "aerobatics",
-            "tags": "plane,crash,aerobatics,display,norfolk,crashed,during,today",
+            "tags": "daily,plane,crash,aerobatics,display,norfolk,crashed,during,today",
             "recuweb_url": "http://en.recuweb.com/aerobatics/express.co.uk/2015/04/plane-crash-at-aerobatics-display-in-norfolk-leaves-daily-express",
             "resource_url": "http://www.google.com/search?q=aerobatics%2Baerobatics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://express.co.uk/news/uk/572206/norfolk-plane-crash-pilot-dead"
@@ -38,7 +50,7 @@
             "date": "2015-04-16",
             "author_name": "Tyaka Graves",
             "categories": "aircraft,aerobatics",
-            "tags": "aircraft,national,aerobatics,champion",
+            "tags": "aircraft,aerobatics,champion",
             "recuweb_url": "http://en.recuweb.com/aerobatics/arcaa.aero/2015/04/arcaa-uav-technician-2015-f38-aerobatics-national-champion",
             "resource_url": "http://www.google.com/search?q=aerobatics%2Baerobatics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://arcaa.aero/news/arcaa-uav-technician-2015-f38-aerobatics-national-champion-winner/"
@@ -49,21 +61,10 @@
             "date": "2015-04-15",
             "author_name": "unknown",
             "categories": "aerobatics",
-            "tags": "yesterday,yesterday-afternoon,afternoon,part,scene,aerobatics,display",
+            "tags": "week,skies,aerobatics,display",
             "recuweb_url": "http://en.recuweb.com/aerobatics/ntnews.com.au/2015/04/raaf-roulettes-aerobatics-display-in-skies-over-alice-springs",
             "resource_url": "http://www.google.com/search?q=aerobatics%2Baerobatics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://ntnews.com.au/news/centralian-advocate/raaf-roulettes-aerobatics-display-in-skies-over-alice-springs/story-fnk4wgm8-1227305053664"
-        },
-        "heralddemocrat.com/2015/04/gcrma-to-discuss-agreement-for-u-s-national-aerobatics": {
-            "title": "GCRMA to discuss agreement for U.S. National Aerobatics...",
-            "snippet": "The Board of Directors will discuss a licensing agreement between North Texas Regional Airport Perrin Field and International Aerobatics Club, Inc. to conduct the 2015 U.S. National Aerobatic Championships at the...",
-            "date": "2015-04-04",
-            "author_name": "unknown",
-            "categories": "aerobatics",
-            "tags": "national,aerobatics,aerobatic_championships,championships,international,club",
-            "recuweb_url": "http://en.recuweb.com/aerobatics/heralddemocrat.com/2015/04/gcrma-to-discuss-agreement-for-u-s-national-aerobatics",
-            "resource_url": "http://www.google.com/search?q=aerobatics%2Baerobatics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://heralddemocrat.com/news/local/gcrma-discuss-agreement-us-national-aerobatics-championships"
         },
         "pittsaerobatictraining.com/2015/04/pitts-aerobatic-training-in-association-with-leice": {
             "title": "Pitts Aerobatic Training in association with Leice...",
@@ -71,32 +72,10 @@
             "date": "2015-04-04",
             "author_name": "charleskimbell",
             "categories": "aerobatics",
-            "tags": "aerobatics,training,aero,club,advanced",
+            "tags": "competition,aerobatics,aero,advanced",
             "recuweb_url": "http://en.recuweb.com/aerobatics/pittsaerobatictraining.com/2015/04/pitts-aerobatic-training-in-association-with-leice",
             "resource_url": "http://en.search.wordpress.com/?q=aerobatics%2Baerobatics&f=feed&page=1",
             "source_url": "http://pittsaerobatictraining.com/2015/04/04/3/"
-        },
-        "theawesomer.com/2015/03/aerobatics-with-friends-the-awesomer": {
-            "title": "Aerobatics With Friends - The Awesomer...",
-            "snippet": "YouTuber Sebb Stratta is training to be an aerobatic pilot at Take Flight Aviation. He's also a good friend. Here he is alternately delighting and frightening the crap out of his friends on a Slingsby T67 Firefly.",
-            "date": "2015-03-20",
-            "author_name": "Lambert V.",
-            "categories": "aerobatics",
-            "tags": "friends,aviation,training,aerobatics,aerobatic,pilot",
-            "recuweb_url": "http://en.recuweb.com/aerobatics/theawesomer.com/2015/03/aerobatics-with-friends-the-awesomer",
-            "resource_url": "http://www.google.com/search?q=aerobatics%2Baerobatics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theawesomer.com/aerobatics-with-friends/313878/"
-        },
-        "generalaviationnews.com/2015/02/video-learning-aerobatics-part-2-general-aviation-news": {
-            "title": "Video: Learning aerobatics, Part 2 General Aviation News...",
-            "snippet": "Gene Lee of The HD Pilot continues his aerobatics lessons from Adam Baker, a local airshow aerobatic pilot, in his RV-7A. In this video, the second in the series, Gene starts out the lesson more stall/spin recovery techniques.",
-            "date": "2015-02-21",
-            "author_name": "General Aviation News Staff",
-            "categories": "learning,aerobatics",
-            "tags": "aviation,aerobatics,aerobatic,part,pilot",
-            "recuweb_url": "http://en.recuweb.com/aerobatics/generalaviationnews.com/2015/02/video-learning-aerobatics-part-2-general-aviation-news",
-            "resource_url": "http://www.google.com/search?q=aerobatics%2Baerobatics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://generalaviationnews.com/2015/02/21/video-leaning-aerobatics-part-2/"
         },
         "newindianexpress.com/2015/02/metal-birds-awe-spectators-with-aerial-aerobatics-the-new-indian": {
             "title": "Metal Birds Awe Spectators With Aerial Aerobatics - The New Indian...",
@@ -104,7 +83,7 @@
             "date": "2015-02-18",
             "author_name": "unknown",
             "categories": "aerobatics",
-            "tags": "show,international,aerobatics,crowd,aero,today,aerial,display,air",
+            "tags": "international,aerobatics,aero,fighter,jets,today,display,air,show",
             "recuweb_url": "http://en.recuweb.com/aerobatics/newindianexpress.com/2015/02/metal-birds-awe-spectators-with-aerial-aerobatics-the-new-indian",
             "resource_url": "http://www.google.com/search?q=aerobatics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://newindianexpress.com/nation/Metal-Birds-Awe-Spectators-With-Aerial-Aerobatics/2015/02/18/article2674831.ece"
@@ -115,10 +94,31 @@
             "date": "2015-01-03",
             "author_name": "Michael Steveson",
             "categories": "aerobatics",
-            "tags": "champion,aerobatics,aerobatic,aerobatic_championships,championships,team,aerobatic_team",
+            "tags": "world,champion,aerobatics,aerobatic,minute,team,aerobatic_team",
             "recuweb_url": "http://en.recuweb.com/aerobatics/unlimitedaerobaticsusa.com/2015/01/melissa-pemberton-us-unlimited-aerobatic-team",
             "resource_url": "http://www.google.com/search?q=aerobatics%2Baerobatics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://unlimitedaerobaticsusa.com/people/melissa-pemberton"
+        },
+        "zoomworks530.wordpress.com/2014/10/35-minute-aerobatics-in-a-vintage-bi-plane": {
+            "title": "35 Minute Aerobatics In A Vintage Bi-plane...",
+            "snippet": "Show35 Minute Aerobatics In A Vintage Bi-plane- Price Checker- Show All Prices- In Stock At Activity SuperstoreThis is a fantastic 35 minute aerobatic flight in which you see...",
+            "date": "2014-10-17",
+            "author_name": "yqodane",
+            "categories": "aerobatics",
+            "tags": "minute,aerobatics,plane,show",
+            "recuweb_url": "http://en.recuweb.com/aerobatics/zoomworks530.wordpress.com/2014/10/35-minute-aerobatics-in-a-vintage-bi-plane",
+            "resource_url": "http://en.search.wordpress.com/?q=aerobatics%2Baerobatics&f=feed&page=1",
+            "source_url": "http://zoomworks530.wordpress.com/2014/10/17/35-minute-aerobatics-in-a-vintage-bi-plane/"
+        },
+        "reddit.com/2014/05/what-are-aerobatics-physically-like": {
+            "title": "What are aerobatics physically like?",
+            "snippet": "As my flair indicates, I haven't begun even my PPL yet (but soon!), so this will be far off-- I was thinking about eventually getting my aerobatic rating. Question is, I don't do very well with roller coasters, so would it be a mistake to try...",
+            "date": "2014-05-14",
+            "categories": "aerobatics",
+            "tags": "aerobatics,off,yet",
+            "recuweb_url": "http://en.recuweb.com/aerobatics/reddit.com/2014/05/what-are-aerobatics-physically-like",
+            "resource_url": "http://www.reddit.com/search.rss?q=aerobatics%2Baerobatics&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/flying/comments/25ibwi/what_are_aerobatics_physically_like/"
         }
     }
 }
