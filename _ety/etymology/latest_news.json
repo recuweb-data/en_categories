@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "etymology",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/etymology/",
@@ -10,94 +11,94 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/etymology/etymology/blogs.json"
     },
     "items": {
-        "prnewswire.com/2015/04/unveils-new-app-functionality-for-apple-watch-at-launch-pr-newswire": {
-            "title": "Unveils New App Functionality For Apple Watch At Launch - PR Newswire (press release)...",
-            "snippet": "Unveils New App Functionality For Apple Watch At LaunchPR Newswire (press release)Word of the Day - One of 's most popular features, Word of the Day showcases the definition of a single word, with its pronunciation, etymology and citations. 's...",
-            "date": "2015-04-23",
-            "categories": "etymology",
+        "clickz.com/2015/04/the-etymology-of-function": {
+            "title": "The Etymology of Function...",
+            "snippet": "What perpetuates a shift in behavior online? How do certain social habits come to be common in the digital space? Etymology, as defined on Google, is \"the study of the origin of words and the way in which their meanings have changed throughout...",
+            "date": "2015-04-27",
+            "categories": "etymology,google",
+            "tags": "meanings,study,origin,etymology,words",
+            "recuweb_url": "http://en.recuweb.com/google/clickz.com/2015/04/the-etymology-of-function",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=etymology&format=RSS&cc=us",
+            "source_url": "http://clickz.com/clickz/column/2405725/the-etymology-of-function"
+        },
+        "northwestgeorgianews.com/2015/04/gordon-county-native-pens-book-on-area-culture": {
+            "title": "Gordon County native pens book on area culture...",
+            "snippet": "An avid music aficionado on Pandora and a student of etymology, he can be often found in his spare time with his family wife, Anne, and three daughters, Susan Elizabeth, Mary Catherine (Therin), Laura Anne and their families. As chronicled in the...",
+            "date": "2015-04-26",
+            "categories": "music,culture,etymology",
+            "tags": "area,culture,etymology",
+            "recuweb_url": "http://en.recuweb.com/etymology/northwestgeorgianews.com/2015/04/gordon-county-native-pens-book-on-area-culture",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=etymology&format=RSS&cc=us",
+            "source_url": "http://northwestgeorgianews.com/calhoun_times/gordon-county-native-pens-book-on-area-culture/article_c2e1fe4e-eaba-11e4-be24-67dd387e32e6.html"
+        },
+        "themoscowtimes.com/2015/04/russian-cabbage-prices-triple-as-much-loved-staple-falls-victim-to": {
+            "title": "Russian Cabbage Prices Triple as Much-Loved Staple Falls Victim to Inflation...",
+            "snippet": "Some claim the importance of cabbages for Russians is reflected in etymology: the Russian word for cabbage, according to some sources, comes from the Latin word for head. Despite the importance of cabbage for the Russian diet, experts said that...",
+            "date": "2015-04-26",
+            "categories": "inflation,etymology",
             "tags": "word,etymology",
-            "recuweb_url": "http://en.recuweb.com/etymology/prnewswire.com/2015/04/unveils-new-app-functionality-for-apple-watch-at-launch-pr-newswire",
-            "resource_url": "http://news.google.com/?hl=en&q=etymology%2Betymology&output=atom&nord=1",
-            "source_url": "http://prnewswire.com/news-releases/dictionarycom-unveils-new-app-functionality-for-apple-watch-at-launch-300070605.html"
+            "recuweb_url": "http://en.recuweb.com/etymology/themoscowtimes.com/2015/04/russian-cabbage-prices-triple-as-much-loved-staple-falls-victim-to",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=etymology&format=RSS&cc=us",
+            "source_url": "http://themoscowtimes.com/article/519716.html"
+        },
+        "tri-cityherald.com/2015/04/awards-and-achievements-for-april-26": {
+            "title": "Awards and achievements for April 26...",
+            "snippet": "She is fascinated by word etymology, as well as Roman and Greek mythology. She is very passionate about learning. Both students received a plaque and 20 in McDonalds gift certificates.",
+            "date": "2015-04-25",
+            "categories": "students,learning,etymology,mythology",
+            "tags": "word,etymology,greek",
+            "recuweb_url": "http://en.recuweb.com/mythology/tri-cityherald.com/2015/04/awards-and-achievements-for-april-26",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=etymology&format=RSS&cc=us",
+            "source_url": "http://tri-cityherald.com/2015/04/25/3528077/awards-and-achievements-for-april.html"
+        },
+        "nymag.com/2015/04/why-is-freddie-gray-dead": {
+            "title": "Why Is Freddie Gray Dead?",
+            "snippet": "I've lived in Baltimore for the past five years, which has done a little to hone my ear for the etymology of street demonstrations. There is a real difference, I've learned, between a protest and a march. A protest is a rarer, angrier, larger event.",
+            "date": "2015-04-24",
+            "categories": "etymology",
+            "tags": "between,done,etymology",
+            "recuweb_url": "http://en.recuweb.com/etymology/nymag.com/2015/04/why-is-freddie-gray-dead",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=etymology&format=RSS&cc=us",
+            "source_url": "http://nymag.com/daily/intelligencer/2015/04/why-is-freddie-gray-dead.html"
         },
         "bloomberg.com/2015/04/grexit-is-so-2012-citigroup-introduces-grimbo-to-crisis-lexicon": {
             "title": "Grexit Is So 2012. Citigroup Introduces Grimbo to Crisis Lexicon...",
             "snippet": "Citigroup Inc. economist Ebrahim Rahbari is again trying his hand at etymology. In February 2012, he coined the term Grexit to describe the risk of Greece leaving the euro area. At the time, he and his fellow economists at Citigroup put the...",
             "date": "2015-04-23",
             "categories": "etymology",
-            "tags": "term,hand,etymology",
+            "tags": "area,etymology",
             "recuweb_url": "http://en.recuweb.com/etymology/bloomberg.com/2015/04/grexit-is-so-2012-citigroup-introduces-grimbo-to-crisis-lexicon",
             "resource_url": "http://www.bing.com/news/search?first=1&q=etymology&format=RSS&cc=us",
             "source_url": "http://bloomberg.com/news/articles/2015-04-23/grexit-is-so-2012-citigroup-introduces-grimbo-to-crisis-lexicon"
-        },
-        "canberratimes.com.au/2015/04/when-menopause-happens-to-modern-couples": {
-            "title": "When menopause happens to modern couples...",
-            "snippet": "Will you? Can you even say the word, menopause? Do you even know what it means? I wonder. I wonder about the etymology of the word as well. Men-o-pause. It's like man-o-war, except the opposite, because with menopause, men don't know how to fight...",
-            "date": "2015-04-23",
-            "categories": "etymology",
-            "tags": "word,means,say,etymology",
-            "recuweb_url": "http://en.recuweb.com/etymology/canberratimes.com.au/2015/04/when-menopause-happens-to-modern-couples",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=etymology&format=RSS&cc=us",
-            "source_url": "http://canberratimes.com.au/lifestyle/citykat/when-menopause-happens-to-modern-couples-20150423-1mrz75.html"
         },
         "blog.oup.com/2015/04/an-embarrassment-of-riches-oupblog-blog": {
             "title": "An embarrassment of riches - OUPblog (blog)...",
             "snippet": "OUPblog (blog)An embarrassment of richesOUPblog (blog)and added that, according to what he had heard, bar might be of Celtic or of Germanic origin. He would like to know what the etymology of this word is. The answer to this question is too long for...",
             "date": "2015-04-22",
             "categories": "etymology",
-            "tags": "long,word,according,germanic,origin,would,etymology",
+            "tags": "long,word,origin,etymology",
             "recuweb_url": "http://en.recuweb.com/etymology/blog.oup.com/2015/04/an-embarrassment-of-riches-oupblog-blog",
             "resource_url": "http://news.google.com/?hl=en&q=etymology%2Betymology&output=atom&nord=1",
             "source_url": "http://blog.oup.com/2015/04/bar-etymology-word-origin/"
-        },
-        "standard.co.uk/2015/04/a-z-of-healthy-ingredients-what-are-dates": {
-            "title": "A-Z of healthy ingredients: what are dates and how can I eat them?",
-            "snippet": "Taste notes: Rich caramel, very sweet with a slight hint of cinnamon. Etymology: The word date comes from the Greek (by way of Latin and French) d\u00e1ktulos, which translates as finger a reference to dates long, oval shape. What are they...",
-            "date": "2015-04-21",
-            "categories": "etymology",
-            "tags": "long,word,comes,very,etymology,greek",
-            "recuweb_url": "http://en.recuweb.com/etymology/standard.co.uk/2015/04/a-z-of-healthy-ingredients-what-are-dates",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=etymology&format=RSS&cc=us",
-            "source_url": "http://standard.co.uk/lifestyle/foodanddrink/az-of-healthy-ingredients-what-are-dates-and-how-can-i-eat-them-10189639.html"
         },
         "pittnews.com/2015/04/pot-patois-a-comprehensive-etymology-of-marijuana-university-pittsburgh-the-pitt": {
             "title": "Pot patois: A comprehensive etymology of marijuana - University of Pittsburgh The Pitt News...",
             "snippet": "University of Pittsburgh The Pitt NewsPot patois: A comprehensive etymology of marijuanaUniversity of Pittsburgh The Pitt NewsThe etymology of marijuana lingo is more complex than jargon among the smoking-inclined, though the slang is indicative of...",
             "date": "2015-04-20",
             "categories": "slang,etymology,university",
-            "tags": "than,etymology,university",
+            "tags": "etymology,university",
             "recuweb_url": "http://en.recuweb.com/university/pittnews.com/2015/04/pot-patois-a-comprehensive-etymology-of-marijuana-university-pittsburgh-the-pitt",
             "resource_url": "http://news.google.com/?hl=en&q=etymology%2Betymology&output=atom&nord=1",
             "source_url": "http://pittnews.com/opinions/article_96fbee42-e6f6-11e4-b07f-2767b62c7991.html"
         },
-        "speakingtree.in/2015/04/advanced-grammar-and-linguistics-in-vedic-india": {
-            "title": "Advanced Grammar and Linguistics in Vedic India!",
-            "snippet": "They have reached the highest level in Grammar and Linguistics. Nowhere in the world were grammar and etymology part of regular education in religious institutes. I am talking about a period between 1000 BCE and 1700 BCE. Max Muller said no one can...",
-            "date": "2015-04-19",
-            "categories": "education,grammar,linguistics,etymology",
-            "tags": "education,world,etymology",
-            "recuweb_url": "http://en.recuweb.com/etymology/speakingtree.in/2015/04/advanced-grammar-and-linguistics-in-vedic-india",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=etymology&format=RSS&cc=us",
-            "source_url": "http://speakingtree.in/spiritual-blogs/seekers/faith-and-rituals/advanced-grammar-and-linguistics-in-vedic-india"
-        },
-        "nation.co.ke/2015/04/my-beloved-kenyatta-and-its-former-vice-chancellor": {
-            "title": "My beloved Kenyatta and its former vice-chancellor...",
-            "snippet": "Did I say I would not eulogise him? Thats right. The Greek etymology of eulogise, eu logos (good speech), suggests saying good things about a departed acquaintance. But Eshiwani would almost certainly have sneered at that with his cavalier sense...",
-            "date": "2015-04-18",
-            "categories": "etymology",
-            "tags": "say,would,greek,etymology",
-            "recuweb_url": "http://en.recuweb.com/etymology/nation.co.ke/2015/04/my-beloved-kenyatta-and-its-former-vice-chancellor",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=etymology&format=RSS&cc=us",
-            "source_url": "http://nation.co.ke/lifestyle/weekend/My-beloved-Kenyatta-and-its-former-vice-chancellor/-/1220/2689592/-/10k7jviz/-/index.html"
-        },
-        "couriermail.com.au/2015/04/opinion-the-wonderful-world-of-words-and-those-that-deserve": {
-            "title": "Opinion: The wonderful world of words, and those that deserve a comeback...",
-            "snippet": "But I dont always get it right. Not long ago, a friend invited me to a lecture on etymology, the history of words. As we waited, ready to be regaled with tales of Echo, the Greek nymph, or shampoo being an Indian massage, we started to get...",
+        "couriermail.com.au/2015/04/pm-skols-beer-in-seconds0-58-courier-mail": {
+            "title": "PM skols beer in seconds0:58 - Courier Mail...",
+            "snippet": "Courier MailPM skols beer in seconds0:58Courier MailNot long ago, a friend invited me to a lecture on etymology, the history of words. As we waited, ready to be regaled with tales of Echo, the Greek nymph, or shampoo being an Indian massage, we...",
             "date": "2015-04-18",
             "categories": "etymology,massage",
-            "tags": "long,world,words,etymology,greek",
-            "recuweb_url": "http://en.recuweb.com/massage/couriermail.com.au/2015/04/opinion-the-wonderful-world-of-words-and-those-that-deserve",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=etymology&format=RSS&cc=us",
+            "tags": "long,etymology,words,greek",
+            "recuweb_url": "http://en.recuweb.com/massage/couriermail.com.au/2015/04/pm-skols-beer-in-seconds0-58-courier-mail",
+            "resource_url": "http://news.google.com/?hl=en&q=etymology%2Betymology&output=atom&nord=1",
             "source_url": "http://couriermail.com.au/news/opinion/opinion-the-wonderful-world-of-words-and-those-that-deserve-a-comeback/story-fnihsr9v-1227309624847"
         },
         "phillytrib.com/2015/04/etymology-of-amen-can-broaden-view-african-civilization": {
@@ -105,7 +106,7 @@
             "snippet": "Christians, Jews and Muslims end their prayers with the word Amen. Yet this short word has more significance than the misnomer that it means, So be it, according to Temple University African American studies professor Molefi K. Asante.",
             "date": "2015-04-17",
             "categories": "university,etymology",
-            "tags": "according,university,word,than,means,etymology",
+            "tags": "university,word,etymology,african,studies",
             "recuweb_url": "http://en.recuweb.com/etymology/phillytrib.com/2015/04/etymology-of-amen-can-broaden-view-african-civilization",
             "resource_url": "http://www.bing.com/news/search?first=1&q=etymology&format=RSS&cc=us",
             "source_url": "http://phillytrib.com/religion/etymology-of-amen-can-broaden-view-of-african-civilization/article_2fcfb8fc-7d9a-52d9-8bd2-c2e91e53a151.html"
