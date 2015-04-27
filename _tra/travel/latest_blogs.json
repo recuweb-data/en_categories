@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "travel",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/travel/",
@@ -10,16 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/travel/travel/blogs.json"
     },
     "items": {
-        "intelligenttravel.nationalgeographic.com/2015/04/travel-lens-anthony-bourdain-s-world-intelligent": {
-            "title": "Travel Lens: Anthony Bourdain's World Intelligent Travel...",
-            "snippet": "Television host, author, and former executive chef Anthony Bourdain has licked his plate clean all over the world, from soup dumplings in Shanghai to piranhas.",
+        "tickerfinch.com/2015/04/a-trip-to-belize": {
+            "title": "A Trip to Belize...",
+            "snippet": "If you did not book your transportation, hotel, and rental car at an online travel site, you made your booking far more complicated than it had to be, and you likely paid more compared to rock-bottom cost. Guarantee yourself you will use the...",
             "date": "2015-04-24",
-            "author_name": "Hannah Sheinberg",
-            "categories": "travel,television",
-            "tags": "world,executive,travel",
-            "recuweb_url": "http://en.recuweb.com/television/intelligenttravel.nationalgeographic.com/2015/04/travel-lens-anthony-bourdain-s-world-intelligent",
-            "resource_url": "http://www.google.com/search?q=travel%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://intelligenttravel.nationalgeographic.com/2015/04/24/travel-lens-anthony-bourdains-world/"
+            "author_name": "Trinity",
+            "categories": "travel",
+            "tags": "yourself,book,trip,did,travel",
+            "recuweb_url": "http://en.recuweb.com/travel/tickerfinch.com/2015/04/a-trip-to-belize",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=travel%2Btravel&rss=1&lng=en",
+            "source_url": "http://tickerfinch.com/426/a-trip-to-belize/"
         },
         "thepointsguy.com/2015/04/how-to-book-award-travel-buenos-aires-the-points-guy": {
             "title": "How to Book Award Travel to Buenos Aires - The Points Guy...",
@@ -27,21 +28,10 @@
             "date": "2015-04-24",
             "author_name": "Eric Rosen",
             "categories": "travel",
-            "tags": "destinations,using,travel,week",
+            "tags": "destinations,guides,using,miles,points,book,book_award,book_award_travel,award,award_travel,travel",
             "recuweb_url": "http://en.recuweb.com/travel/thepointsguy.com/2015/04/how-to-book-award-travel-buenos-aires-the-points-guy",
             "resource_url": "http://www.google.com/search?q=travel%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://thepointsguy.com/2015/04/how-to-book-award-travel-to-buenos-aires/"
-        },
-        "gizmodo.com/2015/04/new-hookup-app-promises-terrifying-dates-with-free-travel": {
-            "title": "New Hookup App Promises Terrifying Dates with Free Travel...",
-            "snippet": "I have never seen an ad for a product that so completely sums up all the reasons why you would never, ever want to use it. The MissTravel app helps attractive females score free vacations from generous males who just...",
-            "date": "2015-04-24",
-            "author_name": "Annalee Newitz",
-            "categories": "travel",
-            "tags": "app,ever,never,travel",
-            "recuweb_url": "http://en.recuweb.com/travel/gizmodo.com/2015/04/new-hookup-app-promises-terrifying-dates-with-free-travel",
-            "resource_url": "http://www.google.com/search?q=travel%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://gizmodo.com/new-hookup-app-promises-terrifying-dates-with-free-trav-1699837162"
         },
         "futurity.org/2015/04/toxin-in-botox-can-travel-through-nerves-futurity": {
             "title": "Toxin in Botox can travel through nerves - Futurity...",
@@ -49,10 +39,21 @@
             "date": "2015-04-24",
             "author_name": "Darius Koreis-U. Queensland",
             "categories": "travel",
-            "tags": "smooth,best,into,central,travel",
+            "tags": "central,discovered,travel,into",
             "recuweb_url": "http://en.recuweb.com/travel/futurity.org/2015/04/toxin-in-botox-can-travel-through-nerves-futurity",
             "resource_url": "http://www.google.com/search?q=travel%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://futurity.org/botox-central-nervous-system-906372/"
+        },
+        "thepointsguy.com/2015/04/using-points-and-miles-to-book-award-travel-for-others": {
+            "title": "Using Points and Miles to Book Award Travel for Others...",
+            "snippet": "Some of the most valuable awards are the ones you don't take yourself. Find out how to redeem your points and miles to book travel for other people.",
+            "date": "2015-04-24",
+            "author_name": "Jason Steele",
+            "categories": "travel",
+            "tags": "others,points,miles,book,yourself,award,book_award,book_award_travel,award_travel,travel,using,find,people",
+            "recuweb_url": "http://en.recuweb.com/travel/thepointsguy.com/2015/04/using-points-and-miles-to-book-award-travel-for-others",
+            "resource_url": "http://www.google.com/search?q=travel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://thepointsguy.com/2015/04/using-points-and-miles-to-book-award-travel-for-others/"
         },
         "boingboing.net/2015/04/petraeus-gets-2-years-probation-100k-fine-can-travel-to-speak": {
             "title": "Petraeus gets 2 years probation, 100K fine, can travel to speak...",
@@ -60,7 +61,7 @@
             "date": "2015-04-23",
             "author_name": "Xeni Jardin",
             "categories": "travel",
-            "tags": "central,before,top,years,travel",
+            "tags": "information,central,head,top,travel",
             "recuweb_url": "http://en.recuweb.com/travel/boingboing.net/2015/04/petraeus-gets-2-years-probation-100k-fine-can-travel-to-speak",
             "resource_url": "http://www.google.com/search?q=travel%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://boingboing.net/2015/04/23/petraeus-gets-2-years-probatio.html"
@@ -71,7 +72,7 @@
             "date": "2015-04-23",
             "author_name": "unknown",
             "categories": "chemical-energy,travel",
-            "tags": "into,travel",
+            "tags": "others,travel,into",
             "recuweb_url": "http://en.recuweb.com/travel/phys.org/2015/04/pseudoparticles-travel-through-photoactive-material",
             "resource_url": "http://www.google.com/search?q=travel%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://phys.org/news/2015-04-pseudoparticles-photoactive-material.html"
@@ -82,7 +83,7 @@
             "date": "2015-04-23",
             "author_name": "Chris Guillebeau",
             "categories": "twitter,hacking,travel",
-            "tags": "twitter,tips,world,best,money,travel",
+            "tags": "twitter,tips,world,traveler,next,money,travel,entrepreneur",
             "recuweb_url": "http://en.recuweb.com/travel/thenextweb.com/2015/04/the-best-money-saving-travel-apps-next-web",
             "resource_url": "http://www.google.com/search?q=travel%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://thenextweb.com/insider/2015/04/23/the-best-money-saving-travel-apps/"
@@ -93,10 +94,21 @@
             "date": "2015-04-23",
             "author_name": "Dainius \u0160",
             "categories": "travel",
-            "tags": "ever,travel,traveling",
+            "tags": "globe,ever,travel,traveling",
             "recuweb_url": "http://en.recuweb.com/travel/boredpanda.com/2015/04/this-married-couple-takes-the-most-breathtaking-travel-photos-ever",
             "resource_url": "http://www.google.com/search?q=travel%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://boredpanda.com/couple-travel-photography-samuel-hildegunn-taipale/"
+        },
+        "nomadicmatt.com/2015/04/32-travel-questions-you-asked-with-my-attempted-answers": {
+            "title": "32 Travel Questions You Asked (With My Attempted Answers...",
+            "snippet": "You asked and I answered. Here's my answers to questions on specific destinations, credit cards, budget travel, and even some personal stuff.",
+            "date": "2015-04-21",
+            "author_name": "NomadicMatt",
+            "categories": "credit,credit-cards,travel",
+            "tags": "even,destinations,travel,here",
+            "recuweb_url": "http://en.recuweb.com/travel/nomadicmatt.com/2015/04/32-travel-questions-you-asked-with-my-attempted-answers",
+            "resource_url": "http://www.google.com/search?q=travel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://nomadicmatt.com/travel-blogs/questions-and-answers/"
         },
         "petapixel.com/2015/04/how-i-make-money-as-a-travel-photographer-in-2015-petapixel": {
             "title": "How I Make Money as a Travel Photographer in 2015 - PetaPixel...",
@@ -104,20 +116,10 @@
             "date": "2015-04-20",
             "author_name": "Brendan van Son",
             "categories": "photography,travel",
-            "tags": "world,days,travel,make,money",
+            "tags": "world,magazine,travel,money",
             "recuweb_url": "http://en.recuweb.com/travel/petapixel.com/2015/04/how-i-make-money-as-a-travel-photographer-in-2015-petapixel",
             "resource_url": "http://www.google.com/search?q=travel%2Btravel&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://petapixel.com/2015/04/20/how-i-make-money-as-a-travel-photographer-in-2015/"
-        },
-        "reddit.com/2015/03/washington-gov-bans-state-funded-travel-to-indiana-in-response-controversial": {
-            "title": "Washington Gov. Bans State-Funded Travel to Indiana. In response to controversial religious freedom...",
-            "snippet": "Washington Gov. Bans State-Funded Travel to Indiana. In response to controversial religious freedom...",
-            "date": "2015-03-31",
-            "categories": "travel",
-            "tags": "travel,state",
-            "recuweb_url": "http://en.recuweb.com/travel/reddit.com/2015/03/washington-gov-bans-state-funded-travel-to-indiana-in-response-controversial",
-            "resource_url": "http://www.reddit.com/search.rss?q=travel%2Btravel&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/news/comments/30vya5/washington_gov_bans_statefunded_travel_to_indiana/"
         }
     }
 }
