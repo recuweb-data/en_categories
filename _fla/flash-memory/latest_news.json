@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "flash-memory",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/flash-memory/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/flash-memory/flash-memory/blogs.json"
     },
     "items": {
-        "reuters.com/2015/04/chipmaker-micron-forecast-weakens-shares-drop": {
-            "title": "Chipmaker Micron forecast weakens, shares drop...",
-            "snippet": "Earlier, Micron, which makes dynamic random access memory (DRAM)and NAND flash memory chips, said fiscal second-quarter revenue rose 1.4 percent to billion, narrowly beating the average analyst forecast of billion. NAND flash memory chips are...",
-            "date": "2015-04-01",
+        "bidnessetc.com/2015/04/apple-inc-aapl-to-push-new-tv-and-macbook-pro-refresh": {
+            "title": "Apple Inc. (AAPL) To Push New Apple TV And Macbook Pro Refresh At WWDC 2015...",
+            "snippet": "Based on Apples previous upgrades to the quad core MBP lineup coupled with the new iteration of MacBooks unveiled at Apples Spring Forward event, one can expect faster flash memory, a push towards an intel-based quad-core chip based on a 14 nm...",
+            "date": "2015-04-27",
+            "categories": "macbook,memory",
+            "tags": "core,intel,expect,apple,pro,flash,memory",
+            "recuweb_url": "http://en.recuweb.com/memory/bidnessetc.com/2015/04/apple-inc-aapl-to-push-new-tv-and-macbook-pro-refresh",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=flash%2Bmemory&format=RSS&cc=us",
+            "source_url": "http://bidnessetc.com/41001-apple-inc-aapl-to-push-new-apple-tv-at-wwdc-2015/"
+        },
+        "efytimes.com/2015/04/data-i-o-announces-new-psv5000-automated-programming-system": {
+            "title": "Data I/O Announces New PSV5000 Automated Programming System...",
+            "snippet": "Monday, April 27, 2015: Data I/O Corporation (NASDAQ: DAIO), the leading global provider of advanced programming and IP management solutions for flash, flash-memory based intelligent devices and microcontrollers, announced today the release of the...",
+            "date": "2015-04-27",
+            "categories": "management,memory",
+            "tags": "announced,today,devices,microcontrollers,management,solutions,leading,provider,advanced,system,announces,data,nasdaq,flash,memory",
+            "recuweb_url": "http://en.recuweb.com/memory/efytimes.com/2015/04/data-i-o-announces-new-psv5000-automated-programming-system",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=flash%2Bmemory&format=RSS&cc=us",
+            "source_url": "http://efytimes.com/e1/fullnews.asp?edid=165666"
+        },
+        "mashable.com/2015/04/here-s-what-to-expect-at-tomorrow-lg-g4-launch": {
+            "title": "Here's what to expect at tomorrow's LG G4 launch...",
+            "snippet": "Like the G3, G4 ships with 3GB of RAM, this time of the DDR3 variety. Storage consists of 32GB eMMC non-volatile flash memory, and unlike the latest Galaxy S phones, a microSD slot for expansion. Also unlike the sixth-generation Galaxy phones, the...",
+            "date": "2015-04-27",
             "categories": "memory",
-            "tags": "quarter,said,second,dynamic,dynamic-random,dynamic-random-access,random,random-access,access,micron,memory,dram,nand,flash",
-            "recuweb_url": "http://en.recuweb.com/memory/reuters.com/2015/04/chipmaker-micron-forecast-weakens-shares-drop",
+            "tags": "expect,ram,ddr,storage,non,flash,memory,microsd",
+            "recuweb_url": "http://en.recuweb.com/memory/mashable.com/2015/04/here-s-what-to-expect-at-tomorrow-lg-g4-launch",
             "resource_url": "http://www.bing.com/news/search?first=1&q=flash%2Bmemory&format=RSS&cc=us",
-            "source_url": "http://reuters.com/article/2015/04/01/us-micron-tech-results-idUSKBN0MS5CC20150401"
+            "source_url": "http://mashable.com/2015/04/27/what-to-expect-lg-g4-launch/"
         },
-        "in.newshub.org/2015/04/google-to-supercharge-the-web-using-samsung-s-flash-memory": {
-            "title": "Google to supercharge the web using Samsung's flash memory...",
-            "snippet": "Samsung has reportedly agreed a deal to supply Google data centres with revolutionary new flash memory technology that has the potential to deliver a big boost to its services across the globe. The deal, first reported by Korea Times, means Google...",
-            "date": "2015-04-01",
-            "categories": "technology,google,memory",
-            "tags": "technology,potential,potential-to-deliver,deliver,deliver-big,deliver-big-boost,big,big-boost,boost,data,data-centres,centres,centres-with-revolutionary,revolutionary,revolutionary-new,reportedly,reportedly-agreed,reportedly-agreed-deal,agreed,agreed-deal,deal,deal-to-supply,supply,supercharge,supercharge-the-web,web,web-using,using,google,samsung,flash,memory,means",
-            "recuweb_url": "http://en.recuweb.com/memory/in.newshub.org/2015/04/google-to-supercharge-the-web-using-samsung-s-flash-memory",
+        "news.thomasnet.com/2015/04/power-management-ics-target-ultrabooks-and-tablets": {
+            "title": "Power Management ICs target ultrabooks and tablets.",
+            "snippet": "Now mobile computing OEMs only need three devices - PMIC, core voltage regulator and battery charger - to power up the CPU/GPU, battery, and subsystem peripherals: flash memory, USB, HDMI, audio, sensors, camera module and WiFi. The ISL9590x are...",
+            "date": "2015-04-27",
+            "categories": "management,memory",
+            "tags": "camera,module,power,core,battery,charger,devices,management,flash,memory,usb,hdmi,wifi",
+            "recuweb_url": "http://en.recuweb.com/memory/news.thomasnet.com/2015/04/power-management-ics-target-ultrabooks-and-tablets",
             "resource_url": "http://www.bing.com/news/search?first=1&q=flash%2Bmemory&format=RSS&cc=us",
-            "source_url": "http://in.newshub.org/google-supercharge-web-using-samsung-s-flash-memory-14678794.html"
+            "source_url": "http://news.thomasnet.com/fullstory/power-management-ics-target-ultrabooks-and-tablets-20043453"
         },
-        "techradar.com/2015/04/google-to-supercharge-the-web-using-samsung-s-flash-memory-techradar": {
-            "title": "Google to supercharge the web using Samsung's flash memory - TechRadar...",
-            "snippet": "TechWeekEurope UKGoogle to supercharge the web using Samsung's flash memoryTechRadarSamsung has reportedly agreed a deal to supply Google data centres with revolutionary new flash memory technology that has the potential to deliver a big boost to...",
-            "date": "2015-04-01",
-            "categories": "technology,google,memory",
-            "tags": "technology,potential,potential-to-deliver,deliver,deliver-big,deliver-big-boost,big,big-boost,boost,data,data-centres,centres,centres-with-revolutionary,revolutionary,revolutionary-new,reportedly,reportedly-agreed,reportedly-agreed-deal,agreed,agreed-deal,deal,deal-to-supply,supply,supercharge,supercharge-the-web,web,web-using,using,google,samsung,flash,memory",
-            "recuweb_url": "http://en.recuweb.com/memory/techradar.com/2015/04/google-to-supercharge-the-web-using-samsung-s-flash-memory-techradar",
-            "resource_url": "http://news.google.com/?hl=en&q=flash%2Bmemory&output=atom&nord=1",
-            "source_url": "http://techradar.com/news/internet/data-centre/google-to-supercharge-the-web-using-samsung-s-flash-memory-1289995"
-        },
-        "datacenterknowledge.com/2015/04/intel-micron-new-3d-nand-flash-triples-memory-capacity": {
-            "title": "Intel, Micron: New 3D NAND Flash Triples Memory Capacity...",
-            "snippet": "Intel and Micron announced availability of new 3D NAND Flash memory they developed jointly with up to three times the capacity of existing flash technology. The product was developed by a joint venture the two companies formed in 2006 called IM...",
-            "date": "2015-04-01",
-            "categories": "memory,technology",
-            "tags": "nand,flash,memory,capacity,intel,micron,technology",
-            "recuweb_url": "http://en.recuweb.com/technology/datacenterknowledge.com/2015/04/intel-micron-new-3d-nand-flash-triples-memory-capacity",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=flash%2Bmemory&format=RSS&cc=us",
-            "source_url": "http://datacenterknowledge.com/archives/2015/04/01/intel-micron-new-3d-nand-flash-triples-memory-capacity/"
-        },
-        "frontlinedesk.com/2015/04/mars-rover-suffering-more-amnesia-events-and-bad-flash-memory-issues": {
-            "title": "Mars Rover Suffering More Amnesia Events and Bad Flash Memory Issues - Frontline Desk...",
-            "snippet": "Frontline DeskMars Rover Suffering More Amnesia Events and Bad Flash Memory IssuesFrontline DeskWe changed the way in which the rover employs its flash memory in an effort to repair some problems it had been undergoing, said John Callas, job...",
-            "date": "2015-04-01",
-            "categories": "flash-memory,memory,events",
-            "tags": "rover,bad,flash,flash_memory,memory,amnesia,issues,mars,mars_rover,said",
-            "recuweb_url": "http://en.recuweb.com/events/frontlinedesk.com/2015/04/mars-rover-suffering-more-amnesia-events-and-bad-flash-memory-issues",
-            "resource_url": "http://news.google.com/?hl=en&q=flash%2Bmemory&output=atom&nord=1",
-            "source_url": "http://frontlinedesk.com/2015045516-mars-rover-suffering-more-amnesia-events-and-bad-flash-memory-issues/"
-        },
-        "fool.com/2015/04/micron-technology-inc-beats-then-retreats": {
-            "title": "Micron Technology, Inc. Beats, Then Retreats...",
-            "snippet": "Investors worried that SanDisk's bad news might spill over to other players in the flash memory market. Micron just erased that concern with a solid second-quarter report-- only to fall back again when management tipped its hand on a soft...",
-            "date": "2015-04-01",
-            "categories": "management,technology,memory",
-            "tags": "quarter,report,solid,second,bad,might,other,players,micron,technology,flash,memory",
-            "recuweb_url": "http://en.recuweb.com/memory/fool.com/2015/04/micron-technology-inc-beats-then-retreats",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=flash%2Bmemory&format=RSS&cc=us",
-            "source_url": "http://fool.com/investing/general/2015/04/01/micron-technology-inc-beats-then-retreats.aspx"
-        },
-        "redorbit.com/2015/04/more-memory-issues-for-mars-rover-opportunity": {
-            "title": "More memory issues for Mars Rover Opportunity...",
-            "snippet": "The engineers uploaded a software patch to avoid use of the damaged flash memory bank, and on March 20, they reformatted the rovers memory. However, it appears that while the worst of the memory issues are over, the problem has not completely...",
-            "date": "2015-04-01",
-            "categories": "memory",
-            "tags": "issues,rover,mars,mars_rover,opportunity,memory,flash",
-            "recuweb_url": "http://en.recuweb.com/memory/redorbit.com/2015/04/more-memory-issues-for-mars-rover-opportunity",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=flash%2Bmemory&format=RSS&cc=us",
-            "source_url": "http://redorbit.com/news/space/1113363713/more-memory-issues-for-mars-rover-opportunity-040115/"
-        },
-        "seekingalpha.com/2015/03/micron-is-a-buy-into-and-after-earnings-if-it-dips": {
-            "title": "Micron Is A Buy Into, And After Earnings (If It Dips)...",
-            "snippet": "Micron (NASDAQ:MU) is set to report on Wednesday after the bell. Micron manufactures and markets dynamic random access memory (NASDAQ:DRAM), NAND flash, and NOR flash memory products; and packaging solutions and semiconductor systems. This report...",
-            "date": "2015-03-31",
-            "categories": "markets,memory",
-            "tags": "dynamic,dynamic-random,dynamic-random-access,random,random-access,access,report,micron,buy,memory,dram,nand,flash,products",
-            "recuweb_url": "http://en.recuweb.com/memory/seekingalpha.com/2015/03/micron-is-a-buy-into-and-after-earnings-if-it-dips",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=flash%2Bmemory&format=RSS&cc=us",
-            "source_url": "http://seekingalpha.com/article/3043826-micron-is-a-buy-into-and-after-earnings-if-it-dips"
-        },
-        "theregister.co.uk/2015/03/opportunity-suffers-another-flash-memory-amnesia-moment-the-register": {
-            "title": "Opportunity suffers another flash-memory 'amnesia'moment - The Register...",
-            "snippet": "The RegisterOpportunity suffers another flash-memory 'amnesia'momentThe RegisterA flash memory reformat left NASA's Mars rover Opportunity with a brief episode of what the agency calls amnesia thankfully, without any loss of scientific data. NASA...",
-            "date": "2015-03-31",
-            "categories": "memory",
-            "tags": "data,amnesia,opportunity,flash,memory,mars,rover",
-            "recuweb_url": "http://en.recuweb.com/memory/theregister.co.uk/2015/03/opportunity-suffers-another-flash-memory-amnesia-moment-the-register",
-            "resource_url": "http://news.google.com/?hl=en&q=flash%2Bmemory&output=atom&nord=1",
-            "source_url": "http://theregister.co.uk/2015/03/29/opportunity_blinks_says_where_am_i_in_amnesia_moment/"
-        },
-        "zdnet.com/2015/03/new-3d-nand-flash-memory-from-intel-micron-could-result-in": {
-            "title": "New 3D NAND flash memory from Intel, Micron could result in 10-terabyte SSDs - ZDNet...",
-            "snippet": "ZDNetNew 3D NAND flash memory from Intel, Micron could result in 10-terabyte SSDsZDNetNAND flash memory isn't the type of technology that might get your heart racing, but breakthroughs in making solid-state storage denser means more storage can be...",
-            "date": "2015-03-30",
+        "benzinga.com/2015/04/qlogic-16gb-gen-5-fibre-channel-technology-powers-violin-memory-flash": {
+            "title": "QLogic 16Gb Gen 5 Fibre Channel Technology Powers Violin Memory Flash... - Benzinga...",
+            "snippet": "16Gb Gen 5 Fibre Channel Technology Powers Violin Memory Flash...BenzingaQLogic Corp. (Nasdaq: QLGC), a leading supplier of high performance network infrastructure solutions, today announced it is the exclusive provider of 16Gb Gen 5 Fibre Channel...",
+            "date": "2015-04-27",
             "categories": "technology,memory",
-            "tags": "storage,means,solid,technology,might,nand,flash,memory,intel,micron",
-            "recuweb_url": "http://en.recuweb.com/memory/zdnet.com/2015/03/new-3d-nand-flash-memory-from-intel-micron-could-result-in",
+            "tags": "today,announced,provider,leading,solutions,technology,memory,flash,nasdaq",
+            "recuweb_url": "http://en.recuweb.com/memory/benzinga.com/2015/04/qlogic-16gb-gen-5-fibre-channel-technology-powers-violin-memory-flash",
             "resource_url": "http://news.google.com/?hl=en&q=flash%2Bmemory&output=atom&nord=1",
-            "source_url": "http://zdnet.com/article/new-3d-nand-flash-memory-from-intel-micron-could-result-in-10-terabyte-ssds/"
+            "source_url": "http://benzinga.com/news/15/04/5444715/qlogic-16gb-gen-5-fibre-channel-technology-powers-violin-memory-flash-storage-pla"
+        },
+        "edn.com/2015/04/security-architecture-for-automotive-microcontroller-flash-memory": {
+            "title": "Security architecture for automotive microcontroller flash memory...",
+            "snippet": "The modern vehicular system has a large number of microcontrollers which control functions like air bags, ABS, Driver Drowsiness Detection (DDD), infotainment, and many more. These applications require security measures against malicious...",
+            "date": "2015-04-24",
+            "categories": "memory",
+            "tags": "air,system,number,microcontrollers,functions,architecture,flash,memory",
+            "recuweb_url": "http://en.recuweb.com/memory/edn.com/2015/04/security-architecture-for-automotive-microcontroller-flash-memory",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=flash%2Bmemory&format=RSS&cc=us",
+            "source_url": "http://edn.com/design/integrated-circuit-design/4439289/Security-architecture-for-automotive-microcontroller-flash-memory"
+        },
+        "forbes.com/2015/04/the-memory-of-watches": {
+            "title": "The Memory Of Watches...",
+            "snippet": "Pebble used a 120 MHz processor with 32 Mb of serial flash memory to provide a number of useful functions, including health monitoring. Pebbles initial production was financed by a Kickstarter campaign that allowed early purchase of these useful...",
+            "date": "2015-04-24",
+            "categories": "production,health,memory",
+            "tags": "production,number,functions,processor,memory,mhz,flash",
+            "recuweb_url": "http://en.recuweb.com/memory/forbes.com/2015/04/the-memory-of-watches",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=flash%2Bmemory&format=RSS&cc=us",
+            "source_url": "http://forbes.com/sites/tomcoughlin/2015/04/24/the-memory-of-watches/"
+        },
+        "techcentral.ie/2015/04/toshiba-announces-industrys-densest-3d-flash-memory": {
+            "title": "Toshiba announces industrys densest 3D flash memory...",
+            "snippet": "Toshiba has announced the development of the first 48-layer, three-dimensional flash memory. Based on a vertical stacking technology that Toshiba calls Bit Cost Scaling (BiCS), the new flash memory stores two bits of data per transistor, meaning it...",
+            "date": "2015-04-23",
+            "categories": "technology,memory",
+            "tags": "data,technology,announced,announces,flash,memory",
+            "recuweb_url": "http://en.recuweb.com/memory/techcentral.ie/2015/04/toshiba-announces-industrys-densest-3d-flash-memory",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=flash%2Bmemory&format=RSS&cc=us",
+            "source_url": "http://techcentral.ie/toshiba-announces-industrys-densest-3d-flash-memory/"
+        },
+        "siliconangle.com/2015/04/wikibon-analyst-flash-as-memory-extension-will-revolutionize-analytics-siliconangle-blog": {
+            "title": "Wikibon analyst: Flash-as-Memory-Extension will revolutionize analytics - SiliconANGLE (blog)...",
+            "snippet": "Wikibon analyst: Flash-as-Memory-Extension will revolutionize analyticsSiliconANGLE (blog)david floyer wikibon There's a new kind of flash-enabled application architecture coming, and Wikibon co-founder David Floyer (right) expects it to do a lot...",
+            "date": "2015-04-23",
+            "categories": "memory",
+            "tags": "architecture,flash,memory",
+            "recuweb_url": "http://en.recuweb.com/memory/siliconangle.com/2015/04/wikibon-analyst-flash-as-memory-extension-will-revolutionize-analytics-siliconangle-blog",
+            "resource_url": "http://news.google.com/?hl=en&q=flash%2Bmemory&output=atom&nord=1",
+            "source_url": "http://siliconangle.com/blog/2015/04/23/wikibon-analyst-flash-as-memory-extension-will-revolutionize-analytics/"
+        },
+        "neurope.eu/2015/04/samsung-starts-chip-production-in-nw-china": {
+            "title": "Samsung starts chip production in NW China...",
+            "snippet": "Samsung Electronics Co., announced on Friday its first semiconductor plant in China, in the northwestern city of Xian, has begun mass production of advanced flash memory chips. With investment of 7 billion U.S. dollars, construction of the new...",
+            "date": "2015-04-22",
+            "categories": "construction,production,electronics,memory",
+            "tags": "production,advanced,announced,flash,memory",
+            "recuweb_url": "http://en.recuweb.com/memory/neurope.eu/2015/04/samsung-starts-chip-production-in-nw-china",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=flash%2Bmemory&format=RSS&cc=us",
+            "source_url": "http://neurope.eu/article/samsung-starts-chip-production-nw-china/"
         }
     }
 }
