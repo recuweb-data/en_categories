@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "apple-hardware",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/apple-hardware/",
@@ -10,106 +11,108 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/apple-hardware/apple-hardware/blogs.json"
     },
     "items": {
+        "reddit.com/2015/04/apple-google-microsoft-and-amazon-nobody-is-really-nailing": {
+            "title": "Apple, Google, Microsoft, and Amazon: Nobody is really \"nailing it\".",
+            "snippet": "TL;DR: Apple needs better web services, Google needs better Nexus hardware, Microsoft needs to make a regular laptop and a flagship Windows phone, and Amazon needs more than can fit in a TL;DR. As we slide into the \"wearables\" age of smartwatches,...",
+            "date": "2015-04-26",
+            "categories": "web-services,google",
+            "tags": "wearables,apple,google,microsoft,amazon,nexus,hardware,windows,phone,smart",
+            "recuweb_url": "http://en.recuweb.com/google/reddit.com/2015/04/apple-google-microsoft-and-amazon-nobody-is-really-nailing",
+            "resource_url": "http://www.reddit.com/search.rss?q=apple%2Bhardware%2Bapple%2Bhardware&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/gadgets/comments/33xhtz/apple_google_microsoft_and_amazon_nobody_is/"
+        },
+        "idownloadblog.com/2015/04/apple-watch-unboxing-and-hardware-overview-idownloadblog": {
+            "title": "Apple Watch unboxing and hardware overview - iDownloadBlog...",
+            "snippet": "Although three collections exist for the Apple Watchthe Sport, Watch, and Editionit's good to know that from a hardware perspective, all models of Apple Watch are pretty much the same. All of them sport the exact same...",
+            "date": "2015-04-25",
+            "author_name": "Jeff Benjamin",
+            "categories": "sport",
+            "tags": "sport,same,unboxing,apple,hardware",
+            "recuweb_url": "http://en.recuweb.com/sport/idownloadblog.com/2015/04/apple-watch-unboxing-and-hardware-overview-idownloadblog",
+            "resource_url": "http://www.google.com/search?q=apple%2Bhardware%2Bapple%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://idownloadblog.com/2015/04/24/apple-watch-unboxing-hardware-overview/"
+        },
+        "9to5mac.com/2015/04/apple-publishes-the-watch-user-guide-online-explaining": {
+            "title": "Apple publishes the Apple Watch User Guide online, explaining...",
+            "snippet": "Apple publishes the Apple Watch User Guide online, explaining various hardware features and bundled apps... The guide covers all of the native first-party Apple Watch apps as well as general user-interface tips and tricks.",
+            "date": "2015-04-23",
+            "author_name": "Benjamin Mayo",
+            "tags": "apps,well,covers,features,apple,online,hardware",
+            "recuweb_url": "http://en.recuweb.com/9to5mac.com/2015/04/apple-publishes-the-watch-user-guide-online-explaining",
+            "resource_url": "http://www.google.com/search?q=apple%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://9to5mac.com/2015/04/23/apple-publishes-apple-watch-user-guide-online-explaining-various-hardware-features-and-bundled-apps/"
+        },
+        "extremetech.com/2015/04/new-apple-macbook-ties-for-worst-repairability-score-ever": {
+            "title": "New Apple MacBook ties for worst repairability score ever...",
+            "snippet": "The full teardown is available online, but it's not a happy read for anyone who likes being able to replace broken hardware. Not only does the MacBook retain the standard Apple features, like pentalobe screws and...",
+            "date": "2015-04-16",
+            "author_name": "Joel Hruska",
+            "categories": "macbook",
+            "tags": "only,replace,read,online,apple,macbook,able,hardware,features",
+            "recuweb_url": "http://en.recuweb.com/macbook/extremetech.com/2015/04/new-apple-macbook-ties-for-worst-repairability-score-ever",
+            "resource_url": "http://www.google.com/search?q=apple%2Bhardware%2Bapple%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://extremetech.com/extreme/203580-new-apple-macbook-ties-for-worst-repairability-score-ever"
+        },
+        "extremetech.com/2015/04/wwdc-2015-is-it-finally-time-for-a-new-apple-tv": {
+            "title": "WWDC 2015: Is it finally time for a new Apple TV? ExtremeTech...",
+            "snippet": "While this event is mostly focused on software and the people who make it, Apple's hardware always seems to be the focus of the rumors. More than anything, I've been hearing rumblings about Apple's next attempt at dealing...",
+            "date": "2015-04-14",
+            "author_name": "Grant Brunner",
+            "tags": "next,anything,rumors,event,focused,wwdc,apple,software,hardware",
+            "recuweb_url": "http://en.recuweb.com/extremetech.com/2015/04/wwdc-2015-is-it-finally-time-for-a-new-apple-tv",
+            "resource_url": "http://www.google.com/search?q=apple%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://extremetech.com/computing/203326-wwdc-2015-is-it-finally-time-for-a-new-apple-tv"
+        },
+        "techcrunch.com/2015/03/tc-applecast-11-if-you-had-to-choose-just-one-apple": {
+            "title": "TC AppleCast 11: If You Had To Choose Just One Apple Hardware...",
+            "snippet": "On this week's episode, we discuss both a lengthy profile of Tim Cook, as well as a full biography of Steve Jobs. We also cover some concrete announcements, including the open-sourcing of React, Facebook's (potentially...",
+            "date": "2015-03-28",
+            "author_name": "Darrell Etherington,Kyle Russell",
+            "categories": "apple-hardware,facebook",
+            "tags": "steve,steve_jobs,jobs,well,apple,apple_hardware,hardware",
+            "recuweb_url": "http://en.recuweb.com/facebook/techcrunch.com/2015/03/tc-applecast-11-if-you-had-to-choose-just-one-apple",
+            "resource_url": "http://www.google.com/search?q=apple%2Bhardware%2Bapple%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://techcrunch.com/2015/03/27/tc-applecast-11-if-you-had-to-choose-just-one-apple-hardware-or-apple-software/"
+        },
+        "techcrunch.com/2015/03/new-apple-tv-hardware-with-siri-app-store-and-homekit-said": {
+            "title": "New Apple TV Hardware With Siri, App Store And HomeKit Said To...",
+            "snippet": "Apple had Apple TV news at its most recent special event, but it wasn't the new Apple TV hardware some expected. That refresh is coming in June at WWDC, however, according to Buzzfeed's John Paczkowski, and alongside...",
+            "date": "2015-03-20",
+            "author_name": "Darrell Etherington",
+            "tags": "coming,event,app,store,said,apple,hardware,wwdc",
+            "recuweb_url": "http://en.recuweb.com/techcrunch.com/2015/03/new-apple-tv-hardware-with-siri-app-store-and-homekit-said",
+            "resource_url": "http://www.google.com/search?q=apple%2Bhardware%2Bapple%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://techcrunch.com/2015/03/20/new-apple-tv-hardware-with-siri-app-store-and-homekit-said-to-be-planned-for-wwdc/"
+        },
         "doncharisma.org/2015/03/why-microsoft-cannot-run-osx-but-apple-can-windows": {
             "title": "Why Microsoft Cannot Run OSX BUT Apple Can Run Microsoft Windows...",
             "snippet": "Simple answer - Microsoft are predominantly and historically a software manufacturer, whilst Apple are both a hardware and software manufacturer. Apple OSX is propriety software, which is copyrighted (and []...",
             "date": "2015-03-15",
             "author_name": "Don Charisma",
-            "tags": "why,microsoft,apple,simple,software,hardware",
+            "tags": "why,microsoft,apple,windows,software,hardware",
             "recuweb_url": "http://en.recuweb.com/doncharisma.org/2015/03/why-microsoft-cannot-run-osx-but-apple-can-windows",
             "resource_url": "http://en.search.wordpress.com/?q=apple%2Bhardware%2Bapple%2Bhardware&f=feed&page=1",
             "source_url": "http://doncharisma.org/2015/03/15/why-microsoft-cannot-run-osx-but-apple-can-run-microsoft-windows/"
         },
-        "pocketnow.com/2015/03/apple-watch-hardware-details-rumored-engraving-lightning-port": {
-            "title": "Apple Watch hardware details rumored: engraving, Lightning port...",
-            "snippet": "Get the latest rumors on Apple's upcoming wearable, including possible Apple Watch engraving and a hardware port that might not make it to retail.",
-            "date": "2015-03-05",
-            "author_name": "Stephen Schenck",
-            "tags": "might,make,retail,details,apple,hardware",
-            "recuweb_url": "http://en.recuweb.com/pocketnow.com/2015/03/apple-watch-hardware-details-rumored-engraving-lightning-port",
-            "resource_url": "http://www.google.com/search?q=apple%2Bhardware%2Bapple%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://pocketnow.com/2015/03/05/apple-watch-engraving"
+        "iossocial.wordpress.com/2015/03/apple-watch-the-hardware-innovations-that-make-device-unique": {
+            "title": "Apple Watch: The hardware innovations that make the device unique...",
+            "snippet": "Kelly Hodgkins, Apple and innovation go hand in hand with the company pushing the envelope in many of its product categories. Just look at the hardware design in...",
+            "date": "2015-03-06",
+            "author_name": "iOS.SOcial",
+            "tags": "look,pushing,kelly,kelly_hodgkins,hodgkins,device,apple,hardware",
+            "recuweb_url": "http://en.recuweb.com/iossocial.wordpress.com/2015/03/apple-watch-the-hardware-innovations-that-make-device-unique",
+            "resource_url": "http://en.search.wordpress.com/?q=apple%2Bhardware%2Bapple%2Bhardware&f=feed&page=1",
+            "source_url": "http://iossocial.wordpress.com/2015/03/06/apple-watch-the-hardware-innovations-that-make/"
         },
         "iossocial.wordpress.com/2015/03/what-you-need-to-know-about-apple-watchs-hardware-features": {
             "title": "What you need to know about Apple Watchs hardware features...",
             "snippet": "Kelly Hodgkins, Apple is known for its hardware finesse, choosing the right combination of hardware features to improve the device and not overload it with novelties that contribute []...",
             "date": "2015-03-05",
             "author_name": "iOS.SOcial",
-            "tags": "features,features-to-improve,improve,improve-the-device,device,overload,novelties,novelties-that-contribute,contribute,choosing,choosing-the-right,combination,need,apple,hardware,finesse",
+            "tags": "features,device,kelly,kelly_hodgkins,hodgkins,apple,hardware",
             "recuweb_url": "http://en.recuweb.com/iossocial.wordpress.com/2015/03/what-you-need-to-know-about-apple-watchs-hardware-features",
             "resource_url": "http://en.search.wordpress.com/?q=apple%2Bhardware%2Bapple%2Bhardware&f=feed&page=1",
             "source_url": "http://iossocial.wordpress.com/2015/03/05/what-you-need-to-know-about-apple-watchs-hardware/"
-        },
-        "iphonehacks.com/2015/03/what-you-need-to-know-about-the-apple-watch-s-hardware": {
-            "title": "What you need to know about the Apple Watch's hardware features...",
-            "snippet": "Apple is known for its hardware finesse, choosing the right combination of hardware features to improve the device and not overload it with novelties that contribute little to the overall experience. This philosophy of hardware...",
-            "date": "2015-03-05",
-            "author_name": "Kelly Hodgkins",
-            "tags": "features,features-to-improve,improve,improve-the-device,device,overload,novelties,novelties-that-contribute,contribute,experience,choosing,choosing-the-right,combination,need,apple,hardware,finesse",
-            "recuweb_url": "http://en.recuweb.com/iphonehacks.com/2015/03/what-you-need-to-know-about-the-apple-watch-s-hardware",
-            "resource_url": "http://www.google.com/search?q=apple%2Bhardware%2Bapple%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://iphonehacks.com/2015/03/apple-watch-hardware-features.html"
-        },
-        "venturebeat.com/2015/03/ibm-and-apple-announce-three-extremely-bland-apps-for-airlines": {
-            "title": "IBM and Apple announce three extremely bland apps for airlines...",
-            "snippet": "The two companies have now co-created 14 apps. Apple hopes the apps will allow it to sell more hardware into enterprises.",
-            "date": "2015-03-02",
-            "author_name": "Mark Sullivan",
-            "tags": "sell,ibm,apple,hardware",
-            "recuweb_url": "http://en.recuweb.com/venturebeat.com/2015/03/ibm-and-apple-announce-three-extremely-bland-apps-for-airlines",
-            "resource_url": "http://www.google.com/search?q=apple%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://venturebeat.com/2015/03/02/ibm-and-apple-announce-three-extremely-bland-apps-for-airlines-retailers-and-banks/"
-        },
-        "siliconangle.com/2015/02/apple-ibm-partnership-is-more-than-a-simple-hardware-distribution": {
-            "title": "Apple-IBM partnership is more than a simple hardware distribution...",
-            "snippet": "apple-ibm The past week saw IBM host its annual cloud and mobile conference, InterConnect, in Las Vegas while the company's CEO, Ginni Rometty delivered the annual investor briefing to Wall Street. Both events reaffirmed...",
-            "date": "2015-02-28",
-            "author_name": "Collen Kriel",
-            "categories": "events",
-            "tags": "company,mobile,week,saw,than,simple,apple,ibm,hardware",
-            "recuweb_url": "http://en.recuweb.com/events/siliconangle.com/2015/02/apple-ibm-partnership-is-more-than-a-simple-hardware-distribution",
-            "resource_url": "http://www.google.com/search?q=apple%2Bhardware%2Bapple%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://siliconangle.com/blog/2015/02/28/apple-ibm-partnership-is-more-than-a-simple-hardware-distribution-deal/"
-        },
-        "appleinsider.com/2015/02/apple-looking-for-hardware-and-software-engineers-to-build-virtual": {
-            "title": "Apple looking for hardware and software engineers to build virtual...",
-            "snippet": "A handful of recent Apple corporate job postings suggest the company is experimenting with virtual and augmented reality hardware and software, an area of intense interest some believe will be the next tech battleground.",
-            "date": "2015-02-27",
-            "author_name": "unknown",
-            "tags": "interest,believe,next,tech,ings,suggest,company,virtual,reality,job,engineers,looking,apple,hardware,software",
-            "recuweb_url": "http://en.recuweb.com/appleinsider.com/2015/02/apple-looking-for-hardware-and-software-engineers-to-build-virtual",
-            "resource_url": "http://www.google.com/search?q=apple%2Bhardware%2Bapple%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://appleinsider.com/articles/15/02/26/apple-looking-for-hardware-and-software-engineers-to-build-virtual-reality-displays"
-        },
-        "imore.com/2015/02/apple-seeking-hardware-engineers-to-work-on-virtual-reality-imore": {
-            "title": "Apple seeking hardware engineers to work on virtual reality iMore...",
-            "snippet": "Apple has published new job listings that show an interest in developing virtual reality hardware - though the company has already made moves with the acquisition of PrimeSense back in 2013. As spotted by 9to5Mac, the...",
-            "date": "2015-02-27",
-            "author_name": "Rich Edmonds",
-            "tags": "though,company,acquisition,ings,interest,virtual,virtual-reality,reality,job,engineers,engineers-to-work,work,apple,seeking,hardware,mac",
-            "recuweb_url": "http://en.recuweb.com/imore.com/2015/02/apple-seeking-hardware-engineers-to-work-on-virtual-reality-imore",
-            "resource_url": "http://www.google.com/search?q=apple%2Bhardware%2Bapple%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://imore.com/apple-seeking-hardware-engineers-virtual-reality"
-        },
-        "9to5mac.com/2015/02/apple-hiring-hardware-engineers-to-work-on-display-&-projection": {
-            "title": "Apple hiring hardware engineers to work on display & projection...",
-            "snippet": "We discovered late last year that Apple was hiring software engineers with experience in virtual reality gaming and user interfaces, but new job listings this week point to Apple's interest in the development of hardware for...",
-            "date": "2015-02-26",
-            "author_name": "Jordan Kahn",
-            "tags": "interest,ings,week,job,engineers,experience,virtual,virtual-reality,reality,engineers-to-work,work,apple,hardware,year,software",
-            "recuweb_url": "http://en.recuweb.com/9to5mac.com/2015/02/apple-hiring-hardware-engineers-to-work-on-display-&-projection",
-            "resource_url": "http://www.google.com/search?q=apple%2Bhardware%2Bapple%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://9to5mac.com/2015/02/26/apple-display-projection-systems-for-virtual-reality/"
-        },
-        "reddit.com/2015/02/apple-falsely-accused-me-of-tampering-with-my-i-m-out": {
-            "title": "Apple Falsely Accused me of tampering with my I'm out 1000, how do I prove my innocence?",
-            "snippet": "UPDATE: The situation has gone from Bad to Worse! Apple is claiming a missing 'capacitor'. See bottom of post for photos and details. TLDR: Apple won't replace my under-warranty iPhone 5S, even though they agree it has a hardware issue that would...",
-            "date": "2015-02-19",
-            "categories": "iphone",
-            "tags": "though,replace,details,gone,apple,update,iphone,hardware",
-            "recuweb_url": "http://en.recuweb.com/iphone/reddit.com/2015/02/apple-falsely-accused-me-of-tampering-with-my-i-m-out",
-            "resource_url": "http://www.reddit.com/search.rss?q=apple%2Bhardware%2Bapple%2Bhardware&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/apple/comments/2wed1l/apple_falsely_accused_me_of_tampering_with_my/"
         }
     }
 }
