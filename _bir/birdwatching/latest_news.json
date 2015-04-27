@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "birdwatching",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/birdwatching/",
@@ -10,100 +11,101 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/birdwatching/birdwatching/blogs.json"
     },
     "items": {
-        "heraldnet.com/2015/03/pyramid-mountain-trail-is-open-once-again": {
-            "title": "Pyramid Mountain trail is open once again...",
-            "snippet": "The trailhead is across the road. Pilchuck Audubon Society: Volunteers lead birdwatching trips in March to Birch Bay (Blaine), Samish Flats, Larabee State Park, Point No Point, and Smith and Spencer islands. Information:.",
-            "date": "2015-03-09",
-            "categories": "society",
-            "tags": "state,state_park,park,audubon,trail,bird,ing",
-            "recuweb_url": "http://en.recuweb.com/society/heraldnet.com/2015/03/pyramid-mountain-trail-is-open-once-again",
+        "express.co.uk/2015/04/1-000-twitchers-in-a-flap-as-lost-rare-bird-flies": {
+            "title": "1,000 twitchers in a flap as lost rare bird flies into Britain...",
+            "snippet": "We dont know how long it has even been here. Its not supposed to be here at all. I have only been birdwatching for five years so it is quite good to have seen one some people will have waited 30 years. Mr Trew, a retired quantity...",
+            "date": "2015-04-27",
+            "tags": "seen,people,only,into,bird,ing",
+            "recuweb_url": "http://en.recuweb.com/express.co.uk/2015/04/1-000-twitchers-in-a-flap-as-lost-rare-bird-flies",
             "resource_url": "http://www.bing.com/news/search?first=1&q=birdwatching&format=RSS&cc=us",
-            "source_url": "http://heraldnet.com/article/20150308/LIVING/150309379"
+            "source_url": "http://express.co.uk/news/nature/573061/Rare-Hudsonian-godwit-bird-unexpectedly-flies-UK-birdwatching"
         },
-        "limerickpost.ie/2015/03/bird-talk-in-limerick": {
-            "title": "Bird talk in Limerick...",
-            "snippet": "THE Limerick branch of Birdwatch Ireland host a talk on the A-Z of Birdwatching in Shannon Rowing Club on Wednesday, March 11 at 8pm. Presented by Clare branch secretary Tom Lynch, the talk is aimed at beginners and experts. It will be an...",
-            "date": "2015-03-08",
+        "csmonitor.com/2015/04/a-guide-to-bird-feeders-and-seeds-for-backyard-watching-christian": {
+            "title": "A guide to bird feeders and seeds for backyard bird watching - Christian Science Monitor...",
+            "snippet": "Christian Science MonitorA guide to bird feeders and seeds for backyard bird watchingChristian Science MonitorA simple platform feeder will draw the widest array of birds because it replicates ground feeding. However, it offers no protection against...",
+            "date": "2015-04-26",
+            "categories": "science",
+            "tags": "birds,bird,feeding,backyard,ing,however",
+            "recuweb_url": "http://en.recuweb.com/science/csmonitor.com/2015/04/a-guide-to-bird-feeders-and-seeds-for-backyard-watching-christian",
+            "resource_url": "http://news.google.com/?hl=en&q=birdwatching%2Bbirdwatching&output=atom&nord=1",
+            "source_url": "http://csmonitor.com/Business/Saving-Money/2015/0426/A-guide-to-bird-feeders-and-seeds-for-backyard-bird-watching"
+        },
+        "egyptindependent.com/2015/04/birdwatching-center-opens-in-sharm-el-sheikh": {
+            "title": "Birdwatching center opens in Sharm el-Sheikh...",
+            "snippet": "The Environment Ministry has opened a birdwatching center to watch migratory birds in the Axada Lakes area in Sharm el-Sheikh, funded by the Global Environment Facility and the United Nations Development Program. Osama al-Gibali of the migratory...",
+            "date": "2015-04-26",
+            "categories": "environment",
+            "tags": "environment,birds,bird,ing",
+            "recuweb_url": "http://en.recuweb.com/environment/egyptindependent.com/2015/04/birdwatching-center-opens-in-sharm-el-sheikh",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=birdwatching&format=RSS&cc=us",
+            "source_url": "http://egyptindependent.com/news/birdwatching-center-opens-sharm-el-sheikh"
+        },
+        "irishexaminer.com/2015/04/traditional-cyprus-is-not-a-birds-best-friend": {
+            "title": "Traditional Cyprus is not a birds best friend...",
+            "snippet": "Tourist Information Office birdwatching guides to the Republic of Cyprus and Turkish-Occupied Northern Cyprus (Kibris) are second to none, full of information and beautiful photographs. Each of the two Cypruses want to attract birders, says Damien...",
+            "date": "2015-04-26",
+            "tags": "birds,bird,ing,each",
+            "recuweb_url": "http://en.recuweb.com/irishexaminer.com/2015/04/traditional-cyprus-is-not-a-birds-best-friend",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=birdwatching&format=RSS&cc=us",
+            "source_url": "http://irishexaminer.com/lifestyle/outdoors/damien-enright/traditional-cyprus-is-not-a-birds-best-friend-327108.html"
+        },
+        "kitsapsun.com/2015/04/joan-carson-spring-surprises-on-the-bird-watching-front-kitsap-sun": {
+            "title": "JOAN CARSON Spring surprises on the bird-watching front - Kitsap Sun...",
+            "snippet": "Kitsap SunJOAN CARSON Spring surprises on the bird-watching frontKitsap SunMillions of shorebirds are making the bird-watching exciting. Closer to home, however, surprises are also taking place almost daily. Three species have stood out for me, and...",
+            "date": "2015-04-25",
+            "categories": "home,sun",
+            "tags": "species,bird,ing,however",
+            "recuweb_url": "http://en.recuweb.com/sun/kitsapsun.com/2015/04/joan-carson-spring-surprises-on-the-bird-watching-front-kitsap-sun",
+            "resource_url": "http://news.google.com/?hl=en&q=birdwatching%2Bbirdwatching&output=atom&nord=1",
+            "source_url": "http://kitsapsun.com/lifestyle/joan-carson-spring-surprises-on-the-birdwatching-front_49764035"
+        },
+        "chinookobserver.com/2015/04/birdwatching-red-throated-loon-more-like-divers": {
+            "title": "Birdwatching: Red-throated loon? More like red-throated divers...",
+            "snippet": "Winter was not as good for loon spotting as it has been in the past. Common loons dressed in winter plumage are usually common as they often winter along the coast. The red-throated loon may also be seen in fall and winter. It was only a few years...",
+            "date": "2015-04-24",
+            "tags": "only,seen,bird,ing",
+            "recuweb_url": "http://en.recuweb.com/chinookobserver.com/2015/04/birdwatching-red-throated-loon-more-like-divers",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=birdwatching&format=RSS&cc=us",
+            "source_url": "http://chinookobserver.com/co/outdoors/20150424/birdwatching-red-throated-loon-more-like-red-throated-divers"
+        },
+        "gazettenet.com/2015/04/earth-matters-birdwatching-for-a-cause-but-mostly-fun": {
+            "title": "Earth Matters: Birdwatching for a cause but mostly for fun...",
+            "snippet": "There are many reasons to watch birds. Developing identification skills, appreciating ecological and evolutionary relationships, appreciating the beauty of birds, visiting interesting places, building lists of species one has seen and enjoying good...",
+            "date": "2015-04-24",
+            "categories": "places,relationships,earth",
+            "tags": "species,seen,birds,bird,ing",
+            "recuweb_url": "http://en.recuweb.com/earth/gazettenet.com/2015/04/earth-matters-birdwatching-for-a-cause-but-mostly-fun",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=birdwatching&format=RSS&cc=us",
+            "source_url": "http://gazettenet.com/news/townbytown/hadley/16600766-95/earth-matters-birdwatching-for-a-cause-but-mostly-for-fun"
+        },
+        "theeastsiderla.com/2015/04/eastside-weekend-trains-and-derby-dolls-in-el-sereno-bird-watching": {
+            "title": "Eastside Weekend: Trains and Derby Dolls in El Sereno; bird watching on the LA... - The Eastsider...",
+            "snippet": "The Eastsider LAEastside Weekend: Trains and Derby Dolls in El Sereno; bird watching on the LA...The Eastsider LASinews of creative elements connect the street artists featured in S\u00f8ren Solk\u00e6r's photography featured in Surface. The Danish...",
+            "date": "2015-04-24",
+            "categories": "photography",
             "tags": "bird,ing",
-            "recuweb_url": "http://en.recuweb.com/limerickpost.ie/2015/03/bird-talk-in-limerick",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=birdwatching&format=RSS&cc=us",
-            "source_url": "http://limerickpost.ie/2015/03/08/bird-talk-in-limerick/"
-        },
-        "nwitimes.com/2015/03/indiana-dunes-a-top-birding-spot-in-midwest": {
-            "title": "Indiana Dunes a top birding spot in Midwest...",
-            "snippet": "The opening of the bird observation platform on the west side of the park is just one more way to enhance the birdwatching experience. The park offers regularly scheduled hikes that are good for birdwatching and other bird-related events. Indiana...",
-            "date": "2015-03-08",
-            "categories": "events,observation",
-            "tags": "events,park,west,side,top,birding,bird,ing",
-            "recuweb_url": "http://en.recuweb.com/observation/nwitimes.com/2015/03/indiana-dunes-a-top-birding-spot-in-midwest",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=birdwatching&format=RSS&cc=us",
-            "source_url": "http://nwitimes.com/news/local/porter/duneland/chesterton/indiana-dunes-a-top-birding-spot-in-midwest/article_d7c5a3b2-463b-508e-8557-fb182086132f.html"
-        },
-        "sfexaminer.com/2015/03/march-9-crafts-bird-watching-and-more-san-francisco-examiner": {
-            "title": "March 9: Crafts, bird watching and more - San Francisco Examiner...",
-            "snippet": "March 9: Crafts, bird watching and moreSan Francisco ExaminerBird watching: Sequoia Audubon member Susie Hons is leading a morning bird walk in search of California thrashers, wrentits and more. 8 a.m., Edgewood Park & Natural Preserve, 10 Old...",
-            "date": "2015-03-08",
-            "tags": "park,morning,audubon,bird,ing",
-            "recuweb_url": "http://en.recuweb.com/sfexaminer.com/2015/03/march-9-crafts-bird-watching-and-more-san-francisco-examiner",
+            "recuweb_url": "http://en.recuweb.com/photography/theeastsiderla.com/2015/04/eastside-weekend-trains-and-derby-dolls-in-el-sereno-bird-watching",
             "resource_url": "http://news.google.com/?hl=en&q=birdwatching%2Bbirdwatching&output=atom&nord=1",
-            "source_url": "http://sfexaminer.com/sanfrancisco/march-9-crafts-bird-watching-and-more/Content?oid=2922723"
+            "source_url": "http://theeastsiderla.com/2015/04/eastside-weekend-trains-and-derby-dolls-in-el-sereno-bird-watching-on-the-l-a-river-street-art-show-in-echo-park/"
         },
-        "thesunchronicle.com/2015/03/obituaries-published-march-9": {
-            "title": "Obituaries published March 9...",
-            "snippet": "She loved reading and backyard birdwatching. Wife of the late Eastwood H. Boardman, Jr. Loving mother of E. Howard Boardman and his wife Karen of Omaha, Neb., George Boardman and his companion Linda of Central Falls, R.I. and Bonnie Sands and her...",
-            "date": "2015-03-08",
-            "tags": "published,bird,ing",
-            "recuweb_url": "http://en.recuweb.com/thesunchronicle.com/2015/03/obituaries-published-march-9",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=birdwatching&format=RSS&cc=us",
-            "source_url": "http://thesunchronicle.com/obituaries/obituaries-published-march/article_9812285b-89fe-5318-8fcd-257fdad0f015.html"
-        },
-        "exeterexpressandecho.co.uk/2015/03/take-up-a-new-hobby-birdwatching-in-exeter": {
-            "title": "Take up a new hobby - birdwatching in Exeter...",
-            "snippet": "The RSPB is offering another of its popular beginning birding courses this spring. It will be based at Darts Farm, near Topsham, and starts on Thursday, March 12, from to. There will be eight classes until Thursday, May 28, as well a couple...",
-            "date": "2015-03-08",
-            "tags": "offering,birding,spring,bird,ing,thursday",
-            "recuweb_url": "http://en.recuweb.com/exeterexpressandecho.co.uk/2015/03/take-up-a-new-hobby-birdwatching-in-exeter",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=birdwatching&format=RSS&cc=us",
-            "source_url": "http://exeterexpressandecho.co.uk/new-hobby-birdwatching-Exeter/story-26137110-detail/story.html"
-        },
-        "telegraph.co.uk/2015/03/extreme-birdwatching-twitching-in-war-zones": {
-            "title": "Extreme birdwatching: Twitching in war zones -...",
-            "snippet": "birdwatching: Twitching in war keep detailed records of their observations, posting them on a website,. And Britons are currently occupying the top four spots, with the top birder, Jon Hornbuckle, having spotted 9,178 different birds over 90 per...",
-            "date": "2015-03-07",
-            "categories": "observation",
-            "tags": "birds,bird,spotted,top,war,keep,ing",
-            "recuweb_url": "http://en.recuweb.com/observation/telegraph.co.uk/2015/03/extreme-birdwatching-twitching-in-war-zones",
-            "resource_url": "http://news.google.com/?hl=en&q=birdwatching&output=atom&nord=1",
-            "source_url": "http://telegraph.co.uk/news/worldnews/asia/philippines/11440722/Extreme-birdwatching-Twitching-in-war-zones.html"
-        },
-        "peoplesdefender.com/2015/03/tri-county-real-outdoor-women-series-offered": {
-            "title": "Tri-County Real Outdoor Women series offered...",
-            "snippet": "Each program will introduce participants to a new outdoor pursuit such as birdwatching, canoeing, creating wildlife habitat and archery. Danielle Thompson with the Brown County SWCD is coordinating registration for the series. We encourage women to...",
-            "date": "2015-03-07",
-            "categories": "canoeing",
-            "tags": "each,bird,ing",
-            "recuweb_url": "http://en.recuweb.com/canoeing/peoplesdefender.com/2015/03/tri-county-real-outdoor-women-series-offered",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=birdwatching&format=RSS&cc=us",
-            "source_url": "http://peoplesdefender.com/news/news/152091087/Tri-County-Real-Outdoor-Women-series-offered"
-        },
-        "onlineathens.com/2015/03/night-kayaking-bird-watching-planned-for-hard-labor-creek-state-park": {
-            "title": "Night kayaking, bird watching planned for Hard Labor Creek State Park - Online Athens...",
-            "snippet": "Night kayaking, bird watching planned for Hard Labor Creek State ParkOnline AthensPhotHard Labor State Park in Morgan County has a number of special events planned for March. Today, horse riders and trail hikers will join to work on the equestrian...",
-            "date": "2015-03-06",
-            "categories": "events",
-            "tags": "trail,events,state,state_park,park,online,bird,ing",
-            "recuweb_url": "http://en.recuweb.com/events/onlineathens.com/2015/03/night-kayaking-bird-watching-planned-for-hard-labor-creek-state-park",
+        "denverpost.com/2015/04/near-palm-beach-a-bird-watching-paradise-in-the-wetlands-denver": {
+            "title": "Near Palm Beach, a bird-watching paradise in the wetlands - The Denver Post...",
+            "snippet": "Near Palm Beach, a bird-watching paradise in the wetlandsThe Denver PostBut hungry alligators are just one of the sights at Wakodahatchee Wetlands in Delray Beach, Fla., 20 miles from Palm Beach. The wetlands are primarily known as one of the best...",
+            "date": "2015-04-24",
+            "tags": "beach,paradise,bird,ing",
+            "recuweb_url": "http://en.recuweb.com/denverpost.com/2015/04/near-palm-beach-a-bird-watching-paradise-in-the-wetlands-denver",
             "resource_url": "http://news.google.com/?hl=en&q=birdwatching%2Bbirdwatching&output=atom&nord=1",
-            "source_url": "http://onlineathens.com/local-news/2015-03-06/night-kayaking-bird-watching-planned-hard-labor-creek-state-park"
+            "source_url": "http://denverpost.com/travel/ci_27976691/near-palm-beach-bird-watching-paradise-wetlands"
         },
-        "concordmonitor.com/2015/03/bird-watching-concord-monitor": {
-            "title": "Bird watching - Concord Monitor...",
-            "snippet": "Concord MonitorBird watchingConcord MonitorBird watching. Two red-tailed hawks, a male and a female, were spotted in Concord's West End on Friday morning by Margaret Porter. Thursday, March 5, 2015 (Published in print: Thursday, March 5, 2015).",
-            "date": "2015-03-05",
-            "tags": "morning,west,spotted,bird,ing,thursday,published",
-            "recuweb_url": "http://en.recuweb.com/concordmonitor.com/2015/03/bird-watching-concord-monitor",
-            "resource_url": "http://news.google.com/?hl=en&q=birdwatching%2Bbirdwatching&output=atom&nord=1",
-            "source_url": "http://concordmonitor.com/community/town-by-town/concord/15940878-95/bird-watching"
+        "caymanreporter.com/2015/04/paradise-discovered-birdwatching": {
+            "title": "Paradise Discovered: Birdwatching...",
+            "snippet": "The first step towards understanding anything about the natural environment relies on the efforts of those individuals who are prepared to spend time observing what goes on around them. It is only then that a comprehensive picture can be built up of...",
+            "date": "2015-04-24",
+            "categories": "natural-environment,environment",
+            "tags": "only,environment,paradise,bird,ing",
+            "recuweb_url": "http://en.recuweb.com/environment/caymanreporter.com/2015/04/paradise-discovered-birdwatching",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=birdwatching&format=RSS&cc=us",
+            "source_url": "http://caymanreporter.com/2015/04/24/paradise-discovered-birdwatching/"
         }
     }
 }
