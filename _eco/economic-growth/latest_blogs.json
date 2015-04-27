@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "economic-growth",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/economic-growth/",
@@ -10,13 +11,56 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/economic-growth/economic-growth/blogs.json"
     },
     "items": {
+        "nyasatimes.com/2015/04/even-with-xenophobia-malawi-needs-south-africa-for-political": {
+            "title": "Even with Xenophobia Malawi needs South Africa for political and...",
+            "snippet": "Even with Xenophobia Malawi needs South Africa for political and economic growth. April 26, 2015 Lyson Goodwin Sibande Columns 2 comments. The recent South Africa'xenophobia and afrophobia have left us, Malawians, heartbroken...",
+            "date": "2015-04-26",
+            "author_name": "Nyasa Times",
+            "tags": "south,economic,growth,recent",
+            "recuweb_url": "http://en.recuweb.com/nyasatimes.com/2015/04/even-with-xenophobia-malawi-needs-south-africa-for-political",
+            "resource_url": "http://www.google.com/search?q=economic%2Bgrowth&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://nyasatimes.com/2015/04/26/even-with-xenophobia-malawi-needs-south-africa-for-political-and-economic-growth/"
+        },
+        "tribune.com.pk/2015/04/human-rights-compliance-a-must-for-personal-economic-growth": {
+            "title": "Human rights: 'Compliance a must for personal, economic growth...",
+            "snippet": "ISLAMABAD: Human rights are not just important on an individual level but their compliance is essential for economic growth at the collective level. The UN encourages countries to form specific and tailored human rights...",
+            "date": "2015-04-24",
+            "author_name": "Hafsah Sarfraz",
+            "categories": "rights",
+            "tags": "ries,form,level,economic,growth,important",
+            "recuweb_url": "http://en.recuweb.com/rights/tribune.com.pk/2015/04/human-rights-compliance-a-must-for-personal-economic-growth",
+            "resource_url": "http://www.google.com/search?q=economic%2Bgrowth&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://tribune.com.pk/story/875453/human-rights-compliance-a-must-for-personal-economic-growth/"
+        },
+        "seekingalpha.com/2015/04/does-yellen-care-more-about-economic-growth-or-market-stability": {
+            "title": "Does Yellen Care More About Economic Growth Or Market Stability...",
+            "snippet": "The findings of the paper, and the trailing implications on monetary policy in the current economy, suggest that in order to achieve economic growth the nation must learn to live with market instability. Expansionary Policy: Rate...",
+            "date": "2015-04-23",
+            "author_name": "SeekingAlpha.com",
+            "categories": "policy,economic-growth,economy",
+            "tags": "policy,market,current,implications,economic,economic_growth,growth,economy,order,rate",
+            "recuweb_url": "http://en.recuweb.com/economy/seekingalpha.com/2015/04/does-yellen-care-more-about-economic-growth-or-market-stability",
+            "resource_url": "http://www.google.com/search?q=economic%2Bgrowth%2Beconomic%2Bgrowth&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://seekingalpha.com/article/3094956-does-yellen-care-more-about-economic-growth-or-market-stability"
+        },
+        "voices.nationalgeographic.com/2015/04/emissions-economic-growth-parting-ways-voices": {
+            "title": "Emissions, Economic Growth Parting Ways Voices...",
+            "snippet": "The more we can grow our economy without increasing emissions by the same amount of that economic growth, it means that other factors such as energy intensity and the amount of carbon dioxide released in the...",
+            "date": "2015-04-23",
+            "author_name": "Tim Profeta",
+            "categories": "economic-growth,economy",
+            "tags": "other,factors,energy,carbon,emissions,economic,economic_growth,growth,economy",
+            "recuweb_url": "http://en.recuweb.com/economy/voices.nationalgeographic.com/2015/04/emissions-economic-growth-parting-ways-voices",
+            "resource_url": "http://www.google.com/search?q=economic%2Bgrowth%2Beconomic%2Bgrowth&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://voices.nationalgeographic.com/2015/04/23/emissions-economic-growth-parting-ways/"
+        },
         "thelocal.de/2015/04/government-optimistic-on-economic-growth-the-local": {
             "title": "Government optimistic on economic growth - The Local...",
             "snippet": "The German government upgraded its growth forecasts on Wednesday for both this year and next year to 1.8 percent, saying Europe's biggest economy is in an upturn.",
             "date": "2015-04-22",
             "author_name": "unknown",
             "categories": "economy",
-            "tags": "upturn,biggest,economic,growth,local,year,percent,economy",
+            "tags": "upturn,next,government,economic,growth,economy",
             "recuweb_url": "http://en.recuweb.com/economy/thelocal.de/2015/04/government-optimistic-on-economic-growth-the-local",
             "resource_url": "http://www.google.com/search?q=economic%2Bgrowth%2Beconomic%2Bgrowth&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://thelocal.de/20150422/government-optimistic-on-economic-growth"
@@ -27,17 +71,27 @@
             "date": "2015-04-22",
             "author_name": "unknown",
             "categories": "environment,economic-growth",
-            "tags": "current,years,economic,economic_growth,growth,world",
+            "tags": "performance,current,economic,economic_growth,growth",
             "recuweb_url": "http://en.recuweb.com/economic-growth/blacklistednews.com/2015/04/where-is-global-economic-growth-blacklisted-news",
-            "resource_url": "http://www.google.com/search?q=economic%2Bgrowth%2Beconomic%2Bgrowth&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=economic%2Bgrowth&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blacklistednews.com/Where_is_Global_Economic_Growth?/43563/0/38/38/Y/M.html"
+        },
+        "theguardian.com/2015/04/economic-growth-doesn-t-create-jobs-it-destroys-them-the-guardian": {
+            "title": "Economic growth doesn't create jobs, it destroys them - The Guardian...",
+            "snippet": "It's time to face up to the fact that economic growth does not create jobs, does not reduce inequality and does not solve environmental problems.",
+            "date": "2015-04-21",
+            "author_name": "Graeme Maxton",
+            "tags": "economic,growth,jobs",
+            "recuweb_url": "http://en.recuweb.com/theguardian.com/2015/04/economic-growth-doesn-t-create-jobs-it-destroys-them-the-guardian",
+            "resource_url": "http://www.google.com/search?q=economic%2Bgrowth%2Beconomic%2Bgrowth&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theguardian.com/sustainable-business/2015/apr/21/jobs-economic-growth-inequality-environment-club-of-rome"
         },
         "midwestenergynews.com/2015/04/emissions-rise-but-not-as-fast-economic-growth-midwest-energy": {
             "title": "Emissions rise, but not as fast as economic growth Midwest Energy...",
             "snippet": "CLIMATE: U.S. carbon emissions rose slightly in 2014, but at a slower rate than economic growth. (The Hill) BIOENERGY: Iowa seeks to become a leader in.",
             "date": "2015-04-21",
             "author_name": "Ken Paulman",
-            "tags": "become,slower,rate,energy,fast,rise,economic,growth,than",
+            "tags": "rate,carbon,emissions,energy,economic,growth",
             "recuweb_url": "http://en.recuweb.com/midwestenergynews.com/2015/04/emissions-rise-but-not-as-fast-economic-growth-midwest-energy",
             "resource_url": "http://www.google.com/search?q=economic%2Bgrowth%2Beconomic%2Bgrowth&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://midwestenergynews.com/2015/04/21/dd-emissions-rise-but-not-as-fast-as-economic-growth/"
@@ -47,76 +101,21 @@
             "snippet": "March's CFNAI-MA3 suggests that growth in national economic activity was somewhat below its historical trend. The economic growth reflected in this level of the CFNAI-MA3 suggests subdued inflationary pressure from...",
             "date": "2015-04-20",
             "author_name": "Bill McBride",
-            "tags": "activity,national,fed,economic,growth",
+            "tags": "level,national,fed,economic,growth",
             "recuweb_url": "http://en.recuweb.com/calculatedriskblog.com/2015/04/calculated-risk-chicago-fed-index-shows-economic-growth",
             "resource_url": "http://www.google.com/search?q=economic%2Bgrowth%2Beconomic%2Bgrowth&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://calculatedriskblog.com/2015/04/chicago-fed-index-shows-economic-growth.html"
         },
-        "zerohedge.com/2015/04/china-s-true-economic-growth-rate-1-6%-zero-hedge": {
-            "title": "China's True Economic Growth Rate: 1.6% Zero Hedge...",
-            "snippet": "And a 1.6% growth rate by what was formerly the world's most rapidly growing (and largest according to the IMF) economy explains perfectly what happened with the US economy over the past 6 months. Hint: it has nothing to...",
-            "date": "2015-04-16",
-            "author_name": "Tyler Durden",
-            "categories": "economic-growth,economy",
-            "tags": "past,according,growing,rate,economic,economic_growth,growth,china,world,economy,months",
-            "recuweb_url": "http://en.recuweb.com/economy/zerohedge.com/2015/04/china-s-true-economic-growth-rate-1-6%-zero-hedge",
+        "theguardian.com/2015/04/eurozone-upturn-likely-to-boost-uk-economic-growth-says-new": {
+            "title": "Eurozone upturn likely to boost UK economic growth, says new...",
+            "snippet": "EY ITEM Club report says recovery in troubled eurozone and ultra-low inflation should provide 'tailwinds'for UK growth.",
+            "date": "2015-04-20",
+            "author_name": "Press Association",
+            "categories": "inflation",
+            "tags": "upturn,economic,growth",
+            "recuweb_url": "http://en.recuweb.com/inflation/theguardian.com/2015/04/eurozone-upturn-likely-to-boost-uk-economic-growth-says-new",
             "resource_url": "http://www.google.com/search?q=economic%2Bgrowth%2Beconomic%2Bgrowth&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://zerohedge.com/news/2015-04-15/chinas-true-economic-growth-rate-16"
-        },
-        "triblive.com/2015/04/energy-saps-region-s-economic-growth-triblive": {
-            "title": "Energy saps region's economic growth TribLIVE...",
-            "snippet": "Other regions reported stronger growth. Eight of the Fed's 12 banking regions described the economy as growing at either a moderate or modest pace with two others Atlanta and Kansas City describing conditions as...",
-            "date": "2015-04-16",
-            "author_name": "Staff and Wire Reports",
-            "categories": "banking,regions,economy",
-            "tags": "growing,pace,region,energy,economic,growth,fed,economy",
-            "recuweb_url": "http://en.recuweb.com/economy/triblive.com/2015/04/energy-saps-region-s-economic-growth-triblive",
-            "resource_url": "http://www.google.com/search?q=economic%2Bgrowth%2Beconomic%2Bgrowth&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://triblive.com/business/headlines/8179181-74/fed-energy-report"
-        },
-        "cafehayek.com/2015/04/economic-freedom-entrepreneurship-and-growth": {
-            "title": "Economic Freedom, Entrepreneurship, and Economic Growth...",
-            "snippet": "Tomorrow is the release date for a book I edited for the Fraser Institute; it's titled What America's Decline in Economic Freedom Means for Entrepreneurship and Prosperity. The five chapters, all originally written for this volume,...",
-            "date": "2015-04-15",
-            "author_name": "Don Boudreaux",
-            "categories": "institute,economic-growth,entrepreneurship",
-            "tags": "institute,economic,economic_growth,growth,book",
-            "recuweb_url": "http://en.recuweb.com/entrepreneurship/cafehayek.com/2015/04/economic-freedom-entrepreneurship-and-growth",
-            "resource_url": "http://www.google.com/search?q=economic%2Bgrowth%2Beconomic%2Bgrowth&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://cafehayek.com/2015/04/economic-freedom-entrepreneurship-and-economic-growth.html"
-        },
-        "hollywoodreporter.com/2015/04/slower-chinese-economic-growth-may-pose-challenges": {
-            "title": "Slower Chinese Economic Growth May Pose Challenges for...",
-            "snippet": "The pace of growth in China's economy fell to 7 percent in the first quarter of this year, the slowest since 2009, adding to fears that the world's second-biggest movie market may be in line for a difficult slowdown.",
-            "date": "2015-04-15",
-            "author_name": "Clifford Coonan",
-            "categories": "economic-growth,economy",
-            "tags": "biggest,slowest,quarter,percent,pace,slower,economic,economic_growth,growth,china,economy,first,year,world",
-            "recuweb_url": "http://en.recuweb.com/economy/hollywoodreporter.com/2015/04/slower-chinese-economic-growth-may-pose-challenges",
-            "resource_url": "http://www.google.com/search?q=economic%2Bgrowth%2Beconomic%2Bgrowth&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://hollywoodreporter.com/news/slower-chinese-economic-growth-may-788934"
-        },
-        "theguardian.com/2015/04/uk-service-sector-rise-boosts-prospects-for-economic-growth": {
-            "title": "UK service sector rise boosts prospects for economic growth...",
-            "snippet": "The combination of fuller employment and falling prices should support economic growth by providing an important catalyst to higher consumer spending, on which the upturn appears to have become increasingly dependent...",
-            "date": "2015-04-07",
-            "author_name": "Phillip Inman Economics correspondent",
-            "categories": "employment",
-            "tags": "upturn,become,rise,economic,growth",
-            "recuweb_url": "http://en.recuweb.com/employment/theguardian.com/2015/04/uk-service-sector-rise-boosts-prospects-for-economic-growth",
-            "resource_url": "http://www.google.com/search?q=economic%2Bgrowth&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/business/2015/apr/07/uk-service-sector-rise-boosts-prospects-for-economic-growth"
-        },
-        "economicsandtheworld.wordpress.com/2015/04/does-economic-growth-really-mean": {
-            "title": "Does Economic Growth Really Mean Economic Growth?",
-            "snippet": "In the past few years, citizens of china and governments all around the world have praised the economic growth of China. My frequent phone calls back home include []...",
-            "date": "2015-04-05",
-            "author_name": "jasonfanzhang",
-            "categories": "home,economic-growth",
-            "tags": "china,around,past,years,economic,economic_growth,growth,world",
-            "recuweb_url": "http://en.recuweb.com/economic-growth/economicsandtheworld.wordpress.com/2015/04/does-economic-growth-really-mean",
-            "resource_url": "http://en.search.wordpress.com/?q=economic%2Bgrowth%2Beconomic%2Bgrowth&f=feed&page=1",
-            "source_url": "http://economicsandtheworld.wordpress.com/2015/04/05/does-economic-growth-really-mean-economic-growth/"
+            "source_url": "http://theguardian.com/business/2015/apr/20/eurozone-upturn-likely-to-boost-uk-economic-growth-says-new-report"
         }
     }
 }
