@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "microformat",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/microformat/",
@@ -28,7 +29,7 @@
             "date": "2014-12-12",
             "author_name": "TipOnSeo",
             "categories": "google,microformat",
-            "tags": "data,design,formats,technical,google,microformats",
+            "tags": "rich,snippets,data,design,microdata,formats,technical,google,microformats,rdfa",
             "recuweb_url": "http://en.recuweb.com/microformat/dailymotion.com/2014/12/google-instructions-on-rich-snippets",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/microformat+microformat/0?af=1",
             "source_url": "http://dailymotion.com/video/x2cdv60_google-instructions-on-rich-snippets_webcam",
@@ -54,7 +55,7 @@
             "categories": "microformat",
             "tags": "microformat",
             "recuweb_url": "http://en.recuweb.com/microformat/youtube.com/2014/03/how-to-pronounce-microformat",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microformat%2Bmicroformat&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microformat&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=0jBJ45Gg1ac&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/0jBJ45Gg1ac/0.jpg"
         },
@@ -64,7 +65,7 @@
             "date": "2014-03-24",
             "author_name": "Market Media",
             "categories": "internet,search-engine",
-            "tags": "market,seo,ization",
+            "tags": "market,search,engine,seo,ization",
             "recuweb_url": "http://en.recuweb.com/search-engine/youtube.com/2014/03/seo-microformatting-schema-markup-for-search-engine-optimization",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microformat%2Bmicroformat&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=WFhIspcwIE4&feature=youtube_gdata",
@@ -72,7 +73,7 @@
         },
         "youtube.com/2014/03/seo-fundamentals-23-of-64-content-optimization-technical-leveraging-microformats": {
             "title": "SEO Fundamentals 23 of 64 Content Optimization Technical SEO Leveraging microformats...",
-            "snippet": "SEO Fundamentals 23 of 64 Content Optimization Technical SEO Leveraging microformats Description. From: E-LEARNIFY Views: 103 0 ratings Time: 02:40 More in People & Blogs...",
+            "snippet": "SEO Fundamentals 23 of 64 Content Optimization Technical SEO Leveraging microformats Description. From: E-LEARNIFY Views: 109 0 ratings Time: 02:40 More in People & Blogs...",
             "date": "2014-03-11",
             "author_name": "E-LEARNIFY",
             "categories": "microformat",
@@ -96,7 +97,7 @@
         },
         "youtube.com/2013/10/microformat-and-operator": {
             "title": "microformat and operator...",
-            "snippet": "microformat and operator using metadata web browsing. From: Fabien Gandon Views: 40 0 ratings Time: 01:13 More in Science & Technology...",
+            "snippet": "microformat and operator using metadata web browsing. From: Fabien Gandon Views: 42 0 ratings Time: 01:13 More in Science & Technology...",
             "date": "2013-10-02",
             "author_name": "Fabien Gandon",
             "categories": "microformat,science,technology",
@@ -118,17 +119,17 @@
             "source_url": "http://youtube.com/watch?v=kDQigkxyiqE&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/kDQigkxyiqE/0.jpg"
         },
-        "youtube.com/2013/01/hidden-web-services-microformats-and-the-semantic": {
-            "title": "Hidden Web Services: Microformats and the Semantic Web...",
-            "snippet": "Hidden Web Services: Microformats and the Semantic Web Speaker: Scott Davis The hard line between web pages (pure presentation) and web services (pure data) is finally beginning to blur. Companies as varied as Best Buy, Twitter, Facebook,...",
-            "date": "2013-01-19",
-            "author_name": "Saltmarch Videopage",
-            "categories": "web-services,microformat,twitter,facebook",
-            "tags": "data,web,microformats",
-            "recuweb_url": "http://en.recuweb.com/facebook/youtube.com/2013/01/hidden-web-services-microformats-and-the-semantic",
+        "youtube.com/2013/02/rich-snippets-and-structured-data-microdata-microformats-rdfa-seo-traffic-engine": {
+            "title": "Rich snippets and structured data, Microdata, Microformats and RDFa: SEO Traffic Engine...",
+            "snippet": "Rich snippets and structured data, Microdata, Microformats and RDFa: SEO Traffic Engine SEO Traffic engine describe how to design Rich snippets and structured data, Micro data, Micro formats and RDFa. So easily your web page optimize for search...",
+            "date": "2013-02-04",
+            "author_name": "Jiten Patel",
+            "categories": "microformat",
+            "tags": "search,web,formats,seo,engine,design,snippets,data,rich,microdata,microformats,rdfa,micro",
+            "recuweb_url": "http://en.recuweb.com/microformat/youtube.com/2013/02/rich-snippets-and-structured-data-microdata-microformats-rdfa-seo-traffic-engine",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microformat%2Bmicroformat&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=b76-M7pooSA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/b76-M7pooSA/0.jpg"
+            "source_url": "http://youtube.com/watch?v=jUSRhqCaujg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/jUSRhqCaujg/0.jpg"
         }
     }
 }
