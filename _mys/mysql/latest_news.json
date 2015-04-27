@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "mysql",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/mysql/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
     },
     "items": {
-        "blogs.msdn.com/2015/03/performance-tuning-mysql-database-on-azure-linux-vms": {
-            "title": "Performance Tuning MySQL Database on Azure Linux VMs...",
-            "snippet": "Please tune these settings in your Test/Staging environments and simulate load to see if it increases performance. These settings should not be applied directly in Production environment. You can also tune some of these settings to obtain higher...",
-            "date": "2015-03-27",
-            "categories": "environment,mysql,database,production",
-            "tags": "environments,environment,load,performance,mysql,database",
-            "recuweb_url": "http://en.recuweb.com/production/blogs.msdn.com/2015/03/performance-tuning-mysql-database-on-azure-linux-vms",
+        "searchcloudapplications.techtarget.com/2015/04/when-should-a-developer-transition-to-dbaas": {
+            "title": "When should a developer transition to DBaaS?",
+            "snippet": "Now what I'm doing is storing the high-volume objects (Stories) in a NoSQL DB with a search system indexing them, and the lower-volume objects that contain metadata in MySQL with read-replicas. I also plan to switch over to Amazon Aurora at some...",
+            "date": "2015-04-24",
+            "categories": "mysql",
+            "tags": "amazon,high,mysql",
+            "recuweb_url": "http://en.recuweb.com/mysql/searchcloudapplications.techtarget.com/2015/04/when-should-a-developer-transition-to-dbaas",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
-            "source_url": "http://blogs.msdn.com/b/azureossds/archive/2015/03/27/performance-tuning-mysql-database-on-azure-linux-vm-s.aspx"
+            "source_url": "http://searchcloudapplications.techtarget.com/answer/When-should-a-developer-transition-to-DBaaS"
         },
-        "cbronline.com/2015/03/q&a-databases-open-source-&-virtualisation-with-ceo-vinay-joosery": {
-            "title": "Q&A: Databases, Open Source & Virtualisation with CEO Vinay Joosery...",
-            "snippet": "Adding PostgreSQL coverage to the solution has enabled IT operators to manage the three most popular open source databases - MySQL, MongoDB and PostgreSQL - from one ClusterControl platform. The upgrade also boosts increased monitoring capabilities...",
-            "date": "2015-03-26",
-            "categories": "mysql",
-            "tags": "increased,popular,popular-open,open,source,databases,gresql,mysql,mongodb",
-            "recuweb_url": "http://en.recuweb.com/mysql/cbronline.com/2015/03/q&a-databases-open-source-&-virtualisation-with-ceo-vinay-joosery",
+        "crazyengineers.com/2015/04/sqlite-vs-mysql-better-rdbms-for-desktop-application": {
+            "title": "SQLite Vs MySQL:Better RDBMS for desktop application?",
+            "snippet": "So I am creating a Java SQL desktop is a better RDBMS?SQLite or MySQL? I Googled it and in one site it says that SQLite is an embedded RDBMS and better for desktop in several others it says that MySQL is most popular and...",
+            "date": "2015-04-23",
+            "categories": "java,sqlite,mysql",
+            "tags": "sql,creating,rdbms,mysql",
+            "recuweb_url": "http://en.recuweb.com/mysql/crazyengineers.com/2015/04/sqlite-vs-mysql-better-rdbms-for-desktop-application",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
-            "source_url": "http://cbronline.com/news/it/software/qa-databases-open-source-virtualisation-with-ceo-vinay-joosery-4538250"
+            "source_url": "http://crazyengineers.com/threads/sqlite-vs-mysql-better-rdbms-for-desktop-application.80217/"
         },
-        "sys-con.com/2015/03/7-quick-mysql-performance-tips-for-the-small-business-sys-con": {
-            "title": "7 quick MySQL performance tips for the small business - SYS-CON Media (press release)...",
-            "snippet": "7 quick MySQL performance tips for the small businessSYS-CON Media (press release)MySQL is the world's second most popular relational database management system (RDMS) and is the most popular open-source version of the database. It's easily...",
-            "date": "2015-03-25",
-            "categories": "management,business,mysql,database",
-            "tags": "source,popular,popular-open,open,management,world,performance,tips,release,mysql,database",
-            "recuweb_url": "http://en.recuweb.com/database/sys-con.com/2015/03/7-quick-mysql-performance-tips-for-the-small-business-sys-con",
-            "resource_url": "http://news.google.com/?hl=en&q=mysql%2Bmysql&output=atom&nord=1",
-            "source_url": "http://sys-con.com/node/3316524"
-        },
-        "infoq.com/2015/03/innodb-enhancements-for-mysql-5-7": {
-            "title": "InnoDB Enhancements for MySQL 5.7...",
-            "snippet": "MySQL 5.7 comes with over 20 enhancements to InnoDB. In this, the first of our reports on MySQL 5.7, we will cover some of the highlights such as temp table performance, spatial indexes, and full text search parsers. Normally changing the data type...",
-            "date": "2015-03-23",
-            "categories": "mysql",
-            "tags": "data,text,performance,first,innodb,mysql,reports",
-            "recuweb_url": "http://en.recuweb.com/mysql/infoq.com/2015/03/innodb-enhancements-for-mysql-5-7",
+        "xconomy.com/2015/04/database-booster-deep-information-grabs-8m-for-boston-move": {
+            "title": "Database Booster Deep Information Grabs 8M For Boston Move...",
+            "snippet": "Deep Information Sciences is attempting to improve database systemsin particular, MySQL, which is used in some capacity by companies ranging from Facebook to Amazon Web Servicesin terms of how well they can process queries and transactions that...",
+            "date": "2015-04-22",
+            "categories": "database,mysql,facebook",
+            "tags": "amazon,web,deep,database,mysql,queries",
+            "recuweb_url": "http://en.recuweb.com/facebook/xconomy.com/2015/04/database-booster-deep-information-grabs-8m-for-boston-move",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
-            "source_url": "http://infoq.com/news/2015/03/MySQL-InnoDB"
+            "source_url": "http://xconomy.com/boston/2015/04/22/database-booster-deep-information-grabs-8m-for-boston-move/"
         },
-        "businesscloudnews.com/2015/03/youtube-brings-vitess-mysql-scaling-magic-to-kubernetes": {
-            "title": "YouTube brings Vitess MySQL scaling magic to Kubernetes...",
-            "snippet": "YouTube is working to integrate Vitess, which improves the ability of MySQL databases to scale in containerised environments, with Kubernetes, an open source container deployment and management tool. Vitess, which is available as an open source...",
-            "date": "2015-03-23",
-            "categories": "management,environment,magic,mysql",
-            "tags": "open,source,management,environments,mysql,databases",
-            "recuweb_url": "http://en.recuweb.com/mysql/businesscloudnews.com/2015/03/youtube-brings-vitess-mysql-scaling-magic-to-kubernetes",
+        "chron.com/2015/04/code-your-way-to-a-higher-paycheck-today-with-these-8": {
+            "title": "Code your way to a higher paycheck today with these 8 coding courses 94% off...",
+            "snippet": "Over 236 lectures will teach you how to build responsive websites with advanced techniques such as iQuery PHP, MySQL, and Twitter Bootstrap. You'll learn how to add dynamic content like APIs to your WordPress blogs and eCommerce sites; learn HTML...",
+            "date": "2015-04-21",
+            "categories": "twitter,php,mysql,wordpress,html",
+            "tags": "learn,php,coding,today,build,mysql,sites",
+            "recuweb_url": "http://en.recuweb.com/html/chron.com/2015/04/code-your-way-to-a-higher-paycheck-today-with-these-8",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
-            "source_url": "http://businesscloudnews.com/2015/03/23/youtube-brings-vitess-mysql-scaling-magic-to-kubernetes/"
+            "source_url": "http://chron.com/technology/businessinsider/article/Code-your-way-to-a-higher-paycheck-today-with-6213899.php"
         },
-        "infotechlead.com/2015/03/walkover-web-dumps-mysql-and-taps-mongodb-infotech-lead-registration-blog": {
-            "title": "Walkover Web dumps MySQL and taps MongoDB - Infotech Lead (registration) (blog)...",
-            "snippet": "Walkover Web dumps MySQL and taps MongoDBInfotech Lead (registration) (blog)Walkover Web Solutions'MSG91 was built on MySQL but the company noticed that when the customer increased its demand for app, it could not provide beyond 500,000 messages per...",
-            "date": "2015-03-17",
+        "java.dzone.com/2015/04/deep-dive-into-mysqls-innochecksum-tool": {
+            "title": "Deep Dive Into MySQLs Innochecksum Tool...",
+            "snippet": "A checksum mismatch is an indication of corrupt pages. Being as offline tool, innochecksum cant be used on tablespace file that a MySQL server is currently using, hence you need to shutdown the server prior to running the innochecksum tool. If you...",
+            "date": "2015-04-21",
             "categories": "mysql",
-            "tags": "increased,mysql,mongodb",
-            "recuweb_url": "http://en.recuweb.com/mysql/infotechlead.com/2015/03/walkover-web-dumps-mysql-and-taps-mongodb-infotech-lead-registration-blog",
-            "resource_url": "http://news.google.com/?hl=en&q=mysql%2Bmysql&output=atom&nord=1",
-            "source_url": "http://infotechlead.com/software/walkover-web-dumps-mysql-and-taps-mongodb-28820"
+            "tags": "shutdown,server,using,deep,mysql",
+            "recuweb_url": "http://en.recuweb.com/mysql/java.dzone.com/2015/04/deep-dive-into-mysqls-innochecksum-tool",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
+            "source_url": "http://java.dzone.com/articles/deep-dive-mysql\u2019s-innochecksum"
         },
-        "webpronews.com/2015/03/scalearc-announces-acid-compliant-caching-mechanism-for-mysql-sql-webpronews": {
-            "title": "ScaleArc Announces ACID-Compliant Caching Mechanism For MySQL, SQL... - WebProNews...",
-            "snippet": "WebProNewsScaleArc Announces ACID-Compliant Caching Mechanism For MySQL, SQL...WebProNewsDatabase load balancing software provider ScaleArt announced support for automatic cache invalidation, which it calls the world's first ACID-compliant caching...",
-            "date": "2015-03-16",
-            "categories": "mysql",
-            "tags": "first,world,support,load,mysql,sql,software",
-            "recuweb_url": "http://en.recuweb.com/mysql/webpronews.com/2015/03/scalearc-announces-acid-compliant-caching-mechanism-for-mysql-sql-webpronews",
-            "resource_url": "http://news.google.com/?hl=en&q=mysql%2Bmysql&output=atom&nord=1",
-            "source_url": "http://webpronews.com/scalearc-announces-acid-compliant-caching-mechanism-for-mysql-sql-server-oracle-2015-03"
+        "delhidailynews.com/2015/04/xiaomi-mi-4i-s-new-high-resolution-display-smartphone-may-launch": {
+            "title": "Xiaomi Mi 4i: Xiaomi's new high-resolution display smartphone may launch on April 23...",
+            "snippet": "query failed!Server shutdown in progressquery failed!MySQL server has gone awayquery failed!MySQL server has gone away query failed!MySQL server has gone away Warning: mysql_fetch_array() expects parameter 1 to be resource, boolean given in/home...",
+            "date": "2015-04-20",
+            "categories": "mysql,home",
+            "tags": "server,shutdown,high,mysql",
+            "recuweb_url": "http://en.recuweb.com/home/delhidailynews.com/2015/04/xiaomi-mi-4i-s-new-high-resolution-display-smartphone-may-launch",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
+            "source_url": "http://delhidailynews.com/news/Xiaomi-hints-at-launch-of-new-high-resolution-display-smartphone-on-April-23-1429507750/"
         },
-        "i-programmer.info/2015/03/improved-performance-in-mysql-developer-milestone-release-iprogrammer": {
-            "title": "Improved Performance In MySQL Developer Milestone Release - iProgrammer...",
-            "snippet": "Improved Performance In MySQL Developer Milestone ReleaseiProgrammerOracle has released MySQL developer milestone 16 and claims that its performance has improved by a factor of between two and three times compared to previous releases. The InnoDB...",
-            "date": "2015-03-12",
-            "categories": "mysql",
-            "tags": "performance,mysql,release,innodb",
-            "recuweb_url": "http://en.recuweb.com/mysql/i-programmer.info/2015/03/improved-performance-in-mysql-developer-milestone-release-iprogrammer",
+        "hostreview.com/2015/04/clustrixdb-delivers-times-the-performance-of-mysql-in-magento-press-release": {
+            "title": "ClustrixDB Delivers Times The Performance Of MySQL In Magento... - (press release)...",
+            "snippet": "ClustrixDB Delivers Times The Performance Of MySQL In Magento... (press release)SAN FRANCISCO, CA--(Marketwired) - Clustrix, provider of the first distributed relational database (RDBMS) optimized to meet the needs of fast growing e-commerce sites,...",
+            "date": "2015-04-19",
+            "categories": "commerce,mysql,magento,database",
+            "tags": "sites,ized,ized-to-meet,meet,meet-the-needs,needs,provider,distributed,distributed-relational,relational,francisco,press,press-release,release,performance,mysql,magento,clustrixdb,clustrixdb_delivers,delivers,marketwired,clustrix,database,rdbms",
+            "recuweb_url": "http://en.recuweb.com/database/hostreview.com/2015/04/clustrixdb-delivers-times-the-performance-of-mysql-in-magento-press-release",
             "resource_url": "http://news.google.com/?hl=en&q=mysql%2Bmysql&output=atom&nord=1",
-            "source_url": "http://i-programmer.info/news/84-database/8374-improved-performance-in-mysql-developer-milestone-release.html"
+            "source_url": "http://hostreview.com/news/150420-clustrixdb-delivers-235-times-the-performance-of-mysql-in-magento-benchmark"
         },
-        "dbta.com/2015/03/percona-to-host-mysql-and-open-stack-conferences-april-12-16": {
-            "title": "Percona to Host MySQL and Open Stack Conferences April 12-16 in Santa Clara - Database Trends and...",
-            "snippet": "Percona to Host MySQL and Open Stack Conferences April 12-16 in Santa ClaraDatabase Trends and ApplicationsPercona, which provides MySQL consulting, support, managed services, and training as well as software, will be hosting its MySQL Conference...",
-            "date": "2015-03-10",
+        "streetinsider.com/2015/04/software-company-anahata-announces-mysql-as-strategic-database": {
+            "title": "Software Company Anahata Announces MySQL as Strategic Database...",
+            "snippet": "Anahata, the software Development Company, specializes in assessment, planning and executing exceptional designs of tailor-made ICT applications software. The firm delivers applications that are inexpensive to acquire, easy maintain and...",
+            "date": "2015-04-19",
             "categories": "database,mysql",
-            "tags": "database,open,mysql,support,training,software",
-            "recuweb_url": "http://en.recuweb.com/mysql/dbta.com/2015/03/percona-to-host-mysql-and-open-stack-conferences-april-12-16",
-            "resource_url": "http://news.google.com/?hl=en&q=mysql%2Bmysql&output=atom&nord=1",
-            "source_url": "http://dbta.com/Editorial/News-Flashes/Percona-to-Host-MySQL-and-Open-Stack-Conferences-April-12-16-in-Santa-Clara-102545.aspx"
+            "tags": "easy,delivers,company,strategic,strategic_database,database,software,software_company,software_company_anahata,company_anahata,company_anahata_announces,anahata,anahata_announces,anahata_announces_mysql,announces,announces_mysql,mysql",
+            "recuweb_url": "http://en.recuweb.com/mysql/streetinsider.com/2015/04/software-company-anahata-announces-mysql-as-strategic-database",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
+            "source_url": "http://streetinsider.com/Press+Releases/Software+Company+Anahata+Announces+MySQL+as+Strategic+Database/10469509.html"
         },
-        "databasejournal.com/2015/03/mysql-fuzzy-text-searching-using-the-soundex-function-database-journal": {
-            "title": "MySQL Fuzzy Text Searching Using the SOUNDEX Function - Database Journal...",
-            "snippet": "MySQL Fuzzy Text Searching Using the SOUNDEX FunctionDatabase JournalNonetheless, I have found that as long as you are clear on what you are trying to accomplish, you can implement fuzzy text searching within your MySQL database by using a...",
-            "date": "2015-03-09",
-            "categories": "database,mysql",
-            "tags": "text,database,mysql",
-            "recuweb_url": "http://en.recuweb.com/mysql/databasejournal.com/2015/03/mysql-fuzzy-text-searching-using-the-soundex-function-database-journal",
+        "prweb.com/2015/04/software-company-anahata-announces-mysql-as-strategic-database-pr-web-press": {
+            "title": "Software Company Anahata Announces MySQL as Strategic Database - PR Web (press release)...",
+            "snippet": "Software Company Anahata Announces MySQL as Strategic DatabasePR Web (press release)The MySQL technology is easy to configure, stable and secure with competent support from the open source Anahata coding community. Clients have the option of getting...",
+            "date": "2015-04-19",
+            "categories": "technology,database,mysql",
+            "tags": "coding,easy,strategic,web,press,press-release,release,strategic_database,database,software,software_company,software_company_anahata,company,company_anahata,company_anahata_announces,anahata,anahata_announces,anahata_announces_mysql,announces,announces_mysql,mysql",
+            "recuweb_url": "http://en.recuweb.com/mysql/prweb.com/2015/04/software-company-anahata-announces-mysql-as-strategic-database-pr-web-press",
             "resource_url": "http://news.google.com/?hl=en&q=mysql%2Bmysql&output=atom&nord=1",
-            "source_url": "http://databasejournal.com/features/mysql/mysql-fuzzy-text-searching-using-the-soundex-function.html"
+            "source_url": "http://prweb.com/releases/softwarecompany/Perth/prweb12651515.htm"
+        },
+        "consumerelectronicsnet.com/2015/04/clustrixdb-delivers-235-times-the-performance-of-mysql-in-magento-benchmark": {
+            "title": "ClustrixDB Delivers 235 Times the Performance of MySQL in Magento Benchmark - Consumer Electronics...",
+            "snippet": "ClustrixDB Delivers 235 Times the Performance of MySQL in Magento BenchmarkConsumer Electronics NetSAN FRANCISCO, CA -- (Marketwired) -- 04/17/15 -- Clustrix, provider of the first distributed relational database (RDBMS) optimized to meet the needs...",
+            "date": "2015-04-18",
+            "categories": "magento,electronics,mysql,database",
+            "tags": "ized,ized-to-meet,meet,meet-the-needs,needs,provider,distributed,distributed-relational,relational,magento,francisco,clustrixdb,clustrixdb_delivers,delivers,performance,mysql,marketwired,clustrix,database,rdbms",
+            "recuweb_url": "http://en.recuweb.com/database/consumerelectronicsnet.com/2015/04/clustrixdb-delivers-235-times-the-performance-of-mysql-in-magento-benchmark",
+            "resource_url": "http://news.google.com/?hl=en&q=mysql%2Bmysql&output=atom&nord=1",
+            "source_url": "http://consumerelectronicsnet.com/article/ClustrixDB-Delivers-235-Times-the-Performance-of-MySQL-in-Magento-Benchmark--3852684"
         }
     }
 }
