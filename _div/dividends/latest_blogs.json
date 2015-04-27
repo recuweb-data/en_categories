@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "dividends",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/dividends/",
@@ -10,16 +11,38 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/dividends/dividends/blogs.json"
     },
     "items": {
-        "bernews.com/2015/04/aspen-declares-dividends-on-ordinary-shares": {
-            "title": "Aspen Declares Dividends On Ordinary Shares -...",
-            "snippet": "The Board of Directors of Aspen Insurance Holdings Limited has declared a quarterly cash dividend on Aspen's ordinary shares of per ordinary share. The amount payable has increased by per ordinary share,...",
-            "date": "2015-04-23",
-            "author_name": "Deb",
-            "categories": "insurance,dividends",
-            "tags": "ordinary,cash,dividends,holdings,declares,board,directors,declared,quarterly,per,share",
-            "recuweb_url": "http://en.recuweb.com/dividends/bernews.com/2015/04/aspen-declares-dividends-on-ordinary-shares",
+        "seekingalpha.com/2015/04/conocophillips-protecting-the-dividend-without-cash-flow": {
+            "title": "ConocoPhillips: Protecting The Dividend Without Cash Flow...",
+            "snippet": "Summary. ConocoPhillips continues on a plan to cash flow neutrality by 2017. The company plans to cut capex and operating expenses in order to continue affording the large dividend. Due to high dividends and limited stock...",
+            "date": "2015-04-26",
+            "author_name": "SeekingAlpha.com",
+            "categories": "dividends",
+            "tags": "high,large,dividends,plans,cut,cash,due,stock",
+            "recuweb_url": "http://en.recuweb.com/dividends/seekingalpha.com/2015/04/conocophillips-protecting-the-dividend-without-cash-flow",
             "resource_url": "http://www.google.com/search?q=dividends%2Bdividends&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bernews.com/2015/04/aspen-declares-dividends-ordinary-shares-2/"
+            "source_url": "http://seekingalpha.com/article/3101976-conocophillips-protecting-the-dividend-without-cash-flow"
+        },
+        "247wallst.com/2015/04/4-dividends-and-buybacks-that-should-not-be-ignored-24-7": {
+            "title": "4 Dividends and Buybacks That Should Not Be Ignored - 24/7 Wall St.",
+            "snippet": "As corporate earnings season takes flight, many companies are announcing along with their earnings new plans to increase dividends or repurchase shares. 24/7 Wall St. has collected and compiled dividend and buyback...",
+            "date": "2015-04-25",
+            "author_name": "247chrislange",
+            "categories": "dividends",
+            "tags": "dividends,buybacks,shares,along,earnings,plans,increase,should,ignored,companies",
+            "recuweb_url": "http://en.recuweb.com/dividends/247wallst.com/2015/04/4-dividends-and-buybacks-that-should-not-be-ignored-24-7",
+            "resource_url": "http://www.google.com/search?q=dividends%2Bdividends&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://247wallst.com/investing/2015/04/25/4-dividends-and-buybacks-that-should-not-be-ignored/"
+        },
+        "247wallst.com/2015/04/why-apple-dividend-hike-and-buybacks-matter-more-than-earnings": {
+            "title": "Why Apple Dividend Hike and Buybacks Matter More Than Earnings...",
+            "snippet": "Investors love dividends, and what they love even more is companies that are in the business of raising their dividends regularly. Apple Inc. (NASDAQ: AAPL) is the biggest stock in the world by market cap, and it is the most...",
+            "date": "2015-04-24",
+            "author_name": "Jon C. Ogg",
+            "categories": "love,dividends,business",
+            "tags": "world,cap,inc,love,even,buybacks,matter,earnings,why,dividends,investors,companies,business,stock",
+            "recuweb_url": "http://en.recuweb.com/business/247wallst.com/2015/04/why-apple-dividend-hike-and-buybacks-matter-more-than-earnings",
+            "resource_url": "http://www.google.com/search?q=dividends%2Bdividends&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://247wallst.com/technology-3/2015/04/24/why-apple-dividend-hike-and-buybacks-matter-more-than-earnings/"
         },
         "politicalcalculations.blogspot.com/2015/04/2015-q2-dividends-to-date-signal-continuing-contraction": {
             "title": "2015-Q2 Dividends To Date Signal Continuing Contraction...",
@@ -27,39 +50,28 @@
             "date": "2015-04-22",
             "author_name": "Ironman",
             "categories": "economy,dividends",
-            "tags": "economy,significant,determined,dividends,companies,per",
+            "tags": "economy,per,cut,dividends,date,companies",
             "recuweb_url": "http://en.recuweb.com/dividends/politicalcalculations.blogspot.com/2015/04/2015-q2-dividends-to-date-signal-continuing-contraction",
             "resource_url": "http://www.google.com/search?q=dividends&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://politicalcalculations.blogspot.com/2015/04/2015-q2-dividends-to-date-signal.html"
         },
-        "etftrends.com/2015/04/firms-raising-debt-for-dividends-burdening-corporate-bond-etfs": {
-            "title": "Firms Raising Debt for Dividends, Burdening Corporate Bond ETFs...",
-            "snippet": "As more companies try to meet shareholders'demand for greater buybacks and dividends, firms are dipping into the debt markets to raise cash, potentially fueling risks for investment-grade bonds and related exchange traded...",
-            "date": "2015-04-22",
-            "author_name": "Tom Lydon",
-            "categories": "markets,dividends",
-            "tags": "into,debt,cash,try,dividends,companies,shareholders,buybacks,investment",
-            "recuweb_url": "http://en.recuweb.com/dividends/etftrends.com/2015/04/firms-raising-debt-for-dividends-burdening-corporate-bond-etfs",
-            "resource_url": "http://www.google.com/search?q=dividends%2Bdividends&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://etftrends.com/2015/04/firms-raising-debt-for-dividends-burdening-corporate-bond-etfs/"
-        },
-        "seekingalpha.com/2015/04/my-dividend-portfolio-adding-exxon-mobil-seeking-alpha": {
-            "title": "My Dividend Portfolio: Adding Exxon Mobil - Exxon... - Seeking Alpha...",
-            "snippet": "I am developing a passive income stream from dividends to generate financial independence. I'm proceeding down the path of steadily accumulating a set of high-quality, dividend-paying stocks. My strategy is quarterly...",
-            "date": "2015-04-22",
+        "seekingalpha.com/2015/04/fgb-closed-ended-financial-fund-offering-9%-dividends": {
+            "title": "FGB - Closed-Ended Financial Fund Offering 9% Dividends - First...",
+            "snippet": "Understandably, investors have long ignored this fund, but these days FGB is looking increasingly attractive. Of notable interest are its 9% dividend and its new break into discount territory (since mid-2014, FGB had been...",
+            "date": "2015-04-21",
             "author_name": "SeekingAlpha.com",
-            "categories": "financial-independence,dividends",
-            "tags": "strategy,high,financial,passive,seeking,seeking_alpha,alpha,dividends,portfolio,income,paying,stocks,quarterly",
-            "recuweb_url": "http://en.recuweb.com/dividends/seekingalpha.com/2015/04/my-dividend-portfolio-adding-exxon-mobil-seeking-alpha",
-            "resource_url": "http://www.google.com/search?q=dividends%2Bdividends&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://seekingalpha.com/article/3089176-my-dividend-portfolio-adding-exxon-mobil"
+            "categories": "dividends",
+            "tags": "mid,dividends,into,looking,investors,ignored,fund",
+            "recuweb_url": "http://en.recuweb.com/dividends/seekingalpha.com/2015/04/fgb-closed-ended-financial-fund-offering-9%-dividends",
+            "resource_url": "http://www.google.com/search?q=dividends&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://seekingalpha.com/article/3085866-fgb-closed-ended-financial-fund-offering-9-percent-dividends"
         },
         "reddit.com/2015/04/why-not-just-invest-in-large-cap-dividend-paying-stocks": {
             "title": "Why not just invest in large cap dividend paying stocks and be done?",
             "snippet": "If I had a million dollars I'm pretty sure I'd just buy 20-25 huge american companies that have histories of paying 4-5% in dividends and let the money drip until I was ready to start living on it. Why is this such a bad strategy, why even mess with...",
             "date": "2015-04-21",
             "categories": "dividends",
-            "tags": "why,even,strategy,start,buy,pretty,million,dollars,dividends,paying,stocks,companies",
+            "tags": "why,even,huge,buy,pretty,million,dollars,large,cap,dividends,paying,stocks,companies,start",
             "recuweb_url": "http://en.recuweb.com/dividends/reddit.com/2015/04/why-not-just-invest-in-large-cap-dividend-paying-stocks",
             "resource_url": "http://www.reddit.com/search.rss?q=dividends%2Bdividends&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/investing/comments/33bb7j/why_not_just_invest_in_large_cap_dividend_paying/"
@@ -70,20 +82,10 @@
             "date": "2015-04-20",
             "author_name": "SeekingAlpha.com",
             "categories": "dividends",
-            "tags": "dividends,last,seeking,seeking_alpha,alpha,years,investors,stocks",
+            "tags": "investors,looking,dividends,stocks",
             "recuweb_url": "http://en.recuweb.com/dividends/seekingalpha.com/2015/04/digging-for-dividends-and-value-seeking-alpha",
             "resource_url": "http://www.google.com/search?q=dividends%2Bdividends&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://seekingalpha.com/article/3083786-digging-for-dividends-and-value"
-        },
-        "seekingalpha.com/2015/04/9-dividend-stocks-building-shareholder-returns-with-higher": {
-            "title": "9 Dividend Stocks Building Shareholder Returns With Higher...",
-            "snippet": "Over time, a conservative, dividend growth-based investment strategy usually does quite well versus the market as a whole. My goal as a dividend growth stocks.",
-            "date": "2015-04-17",
-            "author_name": "SeekingAlpha.com",
-            "tags": "dividend,dividend-growth,growth,strategy,well,dividend_stocks,stocks,shareholder,higher,investment",
-            "recuweb_url": "http://en.recuweb.com/seekingalpha.com/2015/04/9-dividend-stocks-building-shareholder-returns-with-higher",
-            "resource_url": "http://www.google.com/search?q=dividends%2Bdividends&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://seekingalpha.com/article/3076666-9-dividend-stocks-building-shareholder-returns-with-higher-dividends"
         },
         "cosilicaselo.jagranjunction.com/2015/04/celine-bag-online-irregular-dividends": {
             "title": "celine bag online irregular dividends...",
@@ -91,7 +93,7 @@
             "date": "2015-04-17",
             "author_name": "cosilicaselo",
             "categories": "dividends",
-            "tags": "investor,stock,best,dividends,dividend-growth,growth,portfolio,investing",
+            "tags": "investor,holding,dividends,portfolios,portfolio,investing,online,stock",
             "recuweb_url": "http://en.recuweb.com/dividends/cosilicaselo.jagranjunction.com/2015/04/celine-bag-online-irregular-dividends",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=dividends%2Bdividends&rss=1&lng=en",
             "source_url": "http://cosilicaselo.jagranjunction.com/2015/04/17/celine-bag-online-irregular-dividends/"
@@ -102,7 +104,7 @@
             "date": "2015-04-16",
             "author_name": "Eric Volkman",
             "categories": "love,dividends",
-            "tags": "even,into,shareholder,stock,investor,special,dividends,year,after,than",
+            "tags": "even,into,shareholder,love,find,investor,dividends,stock",
             "recuweb_url": "http://en.recuweb.com/dividends/dailyfinance.com/2015/04/2015-has-been-a-special-year-for-dividends-dailyfinance",
             "resource_url": "http://www.google.com/search?q=dividends%2Bdividends&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://dailyfinance.com/2015/04/16/2015special-year-special-dividends/"
@@ -112,7 +114,7 @@
             "snippet": "This article is a few weeks old, but due to saving and investing, this couple retired in their mid 30s with a million dollars and live off the dividends. The part that caught my eye was this section I do a pretty active tax management of those...",
             "date": "2015-04-16",
             "categories": "management,dividends,taxes",
-            "tags": "pretty,management,caught,dollars,article,dividends,pay,investing",
+            "tags": "pretty,management,caught,dollars,mid,due,dividends,pay,investing",
             "recuweb_url": "http://en.recuweb.com/taxes/reddit.com/2015/04/couple-retires-in-their-30s-live-off-dividends-and-pay-0",
             "resource_url": "http://www.reddit.com/search.rss?q=dividends%2Bdividends&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/investing/comments/32sxin/couple_retires_in_their_30s_live_off_dividends/"
