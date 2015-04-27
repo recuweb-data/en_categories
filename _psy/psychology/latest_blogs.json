@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "psychology",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/psychology/",
@@ -16,7 +17,7 @@
             "date": "2015-04-23",
             "author_name": "Harriet Brown",
             "categories": "psychology",
-            "tags": "other,words,between,obesity,made,study,psychology,psychology_today,today,people",
+            "tags": "people,words,obesity,made,published,psychology,psychology_today,today,study",
             "recuweb_url": "http://en.recuweb.com/psychology/psychologytoday.com/2015/04/dementia-and-the-obesity-paradox-psychology-today",
             "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://psychologytoday.com/blog/brave-girl-eating/201504/dementia-and-the-obesity-paradox"
@@ -27,7 +28,7 @@
             "date": "2015-04-23",
             "author_name": "David Ropeik",
             "categories": "evidence,policy,psychology",
-            "tags": "evidence,than,letting,community,made,psychology",
+            "tags": "evidence,community,made,psychology,button",
             "recuweb_url": "http://en.recuweb.com/psychology/psychologytoday.com/2015/04/environmental-values-don-t-justify-ignoring-the-facts-psychology",
             "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://psychologytoday.com/blog/how-risky-is-it-really/201504/environmental-values-dont-justify-ignoring-the-facts"
@@ -38,7 +39,7 @@
             "date": "2015-04-23",
             "author_name": "Nigel Barber Ph.D.",
             "categories": "evidence,life,health,psychology,walking",
-            "tags": "evidence,way,life,health,obesity,boost,psychology,psychology_today,today",
+            "tags": "evidence,way,health,obesity,boost,psychology,psychology_today,today",
             "recuweb_url": "http://en.recuweb.com/walking/psychologytoday.com/2015/04/walking-to-boost-creativity-psychology-today",
             "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://psychologytoday.com/blog/the-human-beast/201504/walking-boost-creativity"
@@ -49,7 +50,7 @@
             "date": "2015-04-23",
             "author_name": "Gregg Henriques",
             "categories": "psychology",
-            "tags": "than,psychology,psychology_today,today,why",
+            "tags": "explains,psychology,psychology_today,today,why",
             "recuweb_url": "http://en.recuweb.com/psychology/psychologytoday.com/2015/04/what-is-a-psychological-doctor-psychology-today",
             "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://psychologytoday.com/blog/theory-knowledge/201504/what-is-psychological-doctor"
@@ -60,7 +61,7 @@
             "date": "2015-04-23",
             "author_name": "Gwendolyn Seidman Ph.D.",
             "categories": "marriage,psychology",
-            "tags": "live,psychology,psychology_today,today,famous,last,words,why",
+            "tags": "psychology,psychology_today,today,famous,words,why",
             "recuweb_url": "http://en.recuweb.com/psychology/psychologytoday.com/2015/04/let-s-move-in-together-famous-last-words-psychology-today",
             "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://psychologytoday.com/blog/close-encounters/201504/let-s-move-in-together-famous-last-words"
@@ -71,7 +72,7 @@
             "date": "2015-04-22",
             "author_name": "Paul Lukas",
             "categories": "psychology",
-            "tags": "read,today,psychology",
+            "tags": "read,holds,today,psychology,back",
             "recuweb_url": "http://en.recuweb.com/psychology/uni-watch.com/2015/04/uni-watch-the-psychology-of-leaking",
             "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://uni-watch.com/2015/04/22/the-psychology-of-leaking/"
@@ -82,10 +83,21 @@
             "date": "2015-04-21",
             "author_name": "David Sack M.D.",
             "categories": "lifestyle,mental-health,health,psychology",
-            "tags": "hear,treatment,health,boost,psychology,psychology_today,today",
+            "tags": "help,health,boost,psychology,psychology_today,today",
             "recuweb_url": "http://en.recuweb.com/psychology/psychologytoday.com/2015/04/4-lifestyle-changes-that-boost-mental-health-psychology-today",
             "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://psychologytoday.com/blog/where-science-meets-the-steps/201504/4-lifestyle-changes-boost-mental-health"
+        },
+        "lifehacker.com/2015/04/ask-an-expert-all-about-therapy-and-psychology-lifehacker": {
+            "title": "Ask an Expert: All About Therapy and Psychology - Lifehacker...",
+            "snippet": "Say hello to Dr. Ken Carter, a professor of psychology at Oxford College, Emory University. He's a clinical psychologist who knows all about what goes into therapy as well as the common, outdated misconceptions about...",
+            "date": "2015-04-20",
+            "author_name": "Andy Orin",
+            "categories": "therapy,university,college,psychology",
+            "tags": "common,psychologist,university,college,expert,psychology",
+            "recuweb_url": "http://en.recuweb.com/psychology/lifehacker.com/2015/04/ask-an-expert-all-about-therapy-and-psychology-lifehacker",
+            "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://lifehacker.com/ask-an-expert-all-about-therapy-and-psychology-1698943749"
         },
         "janchipchase.com/2015/04/future-perfect-the-psychology-of-packing-jan-chipchase": {
             "title": "Future Perfect The Psychology of Packing - Jan Chipchase...",
@@ -93,7 +105,7 @@
             "date": "2015-04-20",
             "author_name": "janchip",
             "categories": "psychology",
-            "tags": "way,getting,psychology,why,many",
+            "tags": "way,psychology,why",
             "recuweb_url": "http://en.recuweb.com/psychology/janchipchase.com/2015/04/future-perfect-the-psychology-of-packing-jan-chipchase",
             "resource_url": "http://www.google.com/search?q=psychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://janchipchase.com/2015/04/the-psychology-of-packing/"
@@ -104,21 +116,10 @@
             "date": "2015-04-19",
             "author_name": "Jonice Webb",
             "categories": "psychology",
-            "tags": "human,read,psychology",
+            "tags": "human,read,psychology,research,brain",
             "recuweb_url": "http://en.recuweb.com/psychology/blogs.psychcentral.com/2015/04/3-new-psychology-research-findings-you-should-know",
             "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.psychcentral.com/childhood-neglect/2015/04/3-new-psychology-research-findings-you-should-know-about/"
-        },
-        "varma-vedantham.blogspot.com/2015/04/what-is-knowledge-ch-1-part-15": {
-            "title": "What is Knowledge: Ch-1. Part-15.",
-            "snippet": "Ch-1. The Knowledge Situation. Part-15. We may wrongly imagine, oftentimes, that we live one kind of life and the world is getting on in another way altogether. For instance, these days we have a total bifurcation of physics and psychology.",
-            "date": "2015-04-11",
-            "author_name": "Ramavarma Parameswaran",
-            "categories": "physics,life,psychology",
-            "tags": "live,life,getting,way,part,situation,instance,psychology",
-            "recuweb_url": "http://en.recuweb.com/psychology/varma-vedantham.blogspot.com/2015/04/what-is-knowledge-ch-1-part-15",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=psychology%2Bpsychology&rss=1&lng=en",
-            "source_url": "http://varma-vedantham.blogspot.com/2015/04/what-is-knowledge-ch-1-part-15.html"
         }
     }
 }
