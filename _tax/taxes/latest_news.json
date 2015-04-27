@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "taxes",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/taxes/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/taxes/taxes/blogs.json"
     },
     "items": {
-        "forbes.com/2015/04/taxes-from-a-to-z-2015-is-for-zloty-forbes": {
-            "title": "Taxes From A To Z (2015): Z Is For Zloty - Forbes...",
-            "snippet": "ForbesTaxes From A To Z (2015): Z Is For ZlotyForbesU.S. resident taxpayers must pay their taxes in U.S. dollars. Of course. But what about international taxpayers? International taxpayers without a U.S. bank account are allowed to transfer funds...",
-            "date": "2015-04-08",
+        "wsj.com/2015/04/a-plan-to-avoid-capital-gains-taxes-wall-street-journal": {
+            "title": "A Plan to Avoid Capital-Gains Taxes - Wall Street Journal...",
+            "snippet": "Wall Street JournalA Plan to Avoid Capital-Gains TaxesWall Street JournalThe woman's late husband left her a portfolio of telecom stocks he had bought in the 1940s. It was worth 2 million dollars and had a cost basis of 600,000. She wanted to use...",
+            "date": "2015-04-24",
             "categories": "taxes",
-            "tags": "funds,international,pay,taxes,forbes,course",
-            "recuweb_url": "http://en.recuweb.com/taxes/forbes.com/2015/04/taxes-from-a-to-z-2015-is-for-zloty-forbes",
+            "tags": "taxes",
+            "recuweb_url": "http://en.recuweb.com/taxes/wsj.com/2015/04/a-plan-to-avoid-capital-gains-taxes-wall-street-journal",
             "resource_url": "http://news.google.com/?hl=en&q=taxes%2Btaxes&output=atom&nord=1",
-            "source_url": "http://forbes.com/sites/kellyphillipserb/2015/04/07/taxes-from-a-to-z-2015-z-is-for-zloty/"
+            "source_url": "http://wsj.com/articles/a-plan-to-avoid-capital-gains-taxes-1429890311"
         },
-        "dailyfinance.com/2015/04/3-reasons-i-procrastinate-filing-my-income-taxes": {
-            "title": "3 Reasons I Procrastinate Filing My Income Taxes...",
-            "snippet": "Hank Coleman is a financial planner and the publisher of the popular personal finance blog, Money Q&A, where he answers readers wide-ranging money questions. He often writes about retirement, investing, insurance, saving, and other money matters.",
-            "date": "2015-04-07",
-            "categories": "personal-finance,finance,taxes,insurance",
-            "tags": "answers,money,q&a,filing,income,income_taxes,taxes,investing",
-            "recuweb_url": "http://en.recuweb.com/insurance/dailyfinance.com/2015/04/3-reasons-i-procrastinate-filing-my-income-taxes",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=taxes&format=RSS&cc=us",
-            "source_url": "http://dailyfinance.com/2015/04/07/why-i-procrastinate-filing-taxes/"
-        },
-        "forbes.com/2015/04/a-cpa-answers-how-should-someone-estimate-taxes-when-filing": {
-            "title": "A CPA Answers: 'How Should Someone Estimate Taxes When Filing For An... - Forbes...",
-            "snippet": "ForbesA CPA Answers: 'How Should Someone Estimate Taxes When Filing For An...ForbesIn our Ask a CPA Q&A series, we're ceding the floor to a certified public accountant to help address some of the trickiest tax topics out there. Today, we pose a...",
-            "date": "2015-04-07",
-            "categories": "taxes",
-            "tags": "address,taxes,floor,q&a,answers,filing,forbes",
-            "recuweb_url": "http://en.recuweb.com/taxes/forbes.com/2015/04/a-cpa-answers-how-should-someone-estimate-taxes-when-filing",
+        "statesman.com/2015/04/bastrop-county-esd-no-1-pledges-to-lower-property-taxes-austin": {
+            "title": "Bastrop County ESD No. 1 pledges to lower property taxes - Austin American-Statesman...",
+            "snippet": "Bastrop County ESD No. 1 pledges to lower property taxesAustin American-StatesmanThe Bastrop County Emergency Services District No. 1 commissioners passed a resolution at their meeting last week pledging to reduce property taxes for its residents if...",
+            "date": "2015-04-24",
+            "categories": "property,taxes",
+            "tags": "week,taxes",
+            "recuweb_url": "http://en.recuweb.com/taxes/statesman.com/2015/04/bastrop-county-esd-no-1-pledges-to-lower-property-taxes-austin",
             "resource_url": "http://news.google.com/?hl=en&q=taxes%2Btaxes&output=atom&nord=1",
-            "source_url": "http://forbes.com/sites/learnvest/2015/04/07/a-cpa-answers-how-should-someone-estimate-taxes-when-filing-for-an-extension/"
+            "source_url": "http://statesman.com/news/news/local/bastrop-county-esd-no-1-pledges-to-lower-property-/nk29H/"
         },
-        "newsok.com/2015/04/converting-corporations-to-llcs-can-save-franchise-taxes": {
-            "title": "Converting corporations to LLCs can save franchise taxes...",
-            "snippet": "A 1981 journalism graduate of Oklahoma State University, Paula Burkes has more than 30 years experience writing and editing award-winning material for newspapers and healthcare, educational and telecommunications institutions in Tulsa, Oklahoma...",
-            "date": "2015-04-07",
-            "categories": "telecommunication,university,journalism,taxes",
-            "tags": "state,corporations,taxes",
-            "recuweb_url": "http://en.recuweb.com/taxes/newsok.com/2015/04/converting-corporations-to-llcs-can-save-franchise-taxes",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=taxes&format=RSS&cc=us",
-            "source_url": "http://newsok.com/converting-corporations-to-llcs-can-save-franchise-taxes/article/5408190"
-        },
-        "usatoday.com/2015/04/etfs-can-mean-extra-taxes": {
-            "title": "ETFs can mean extra taxes...",
-            "snippet": "A tassel of corn grows in a field on Pioneer Hi-Bred International land in Waialua, Hawaii. (Photo: Audrey McAvoy, AP) If you're investing in exchange-traded stock funds, you shouldn't have too many shocks this tax season. But if you've got big...",
-            "date": "2015-04-07",
+        "washingtonpost.com/2015/04/congratulations-america-you-ve-finally-worked-long-enough-to-pay": {
+            "title": "Congratulations, America. You've finally worked long enough to pay your taxes... - Washington Post...",
+            "snippet": "Asbury Park PressCongratulations, America. You've finally worked long enough to pay your taxes...Washington PostThe deadline for paying taxes was more than a week ago. But Americans haven't actually put in enough hours to afford all of the taxes...",
+            "date": "2015-04-24",
             "categories": "taxes",
-            "tags": "many,taxes,funds,investing,international",
-            "recuweb_url": "http://en.recuweb.com/taxes/usatoday.com/2015/04/etfs-can-mean-extra-taxes",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=taxes&format=RSS&cc=us",
-            "source_url": "http://usatoday.com/story/money/2015/04/07/taxes-on-exchange-traded-funds/25415581/"
-        },
-        "dailycaller.com/2015/04/harry-reid-of-course-romney-paid-his-taxes-i-still-wont": {
-            "title": "Harry Reid: Of Course Romney Paid His Taxes, I Still Wont Apologize VIDEO...",
-            "snippet": "Departing Senate Minority Leader Harry Reid gave an interview to Fusion in which he readily admitted that former Republican presidential candidate Mitt Romney had actually paid taxes, but refused to apologize for saying on the Senate floor that...",
-            "date": "2015-04-07",
-            "categories": "taxes",
-            "tags": "floor,refused,refused-to-apologize,apologize,saying,paid,mitt,romney,gave,gave-an-inter,inter,course,course_romney,course_romney_paid,romney_paid,taxes,harry,harry_reid,reid,senate",
-            "recuweb_url": "http://en.recuweb.com/taxes/dailycaller.com/2015/04/harry-reid-of-course-romney-paid-his-taxes-i-still-wont",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=taxes&format=RSS&cc=us",
-            "source_url": "http://dailycaller.com/2015/04/07/harry-reid-of-course-romney-paid-his-taxes-i-still-wont-apologize-video/"
-        },
-        "breitbart.com/2015/04/harry-reid-of-course-romney-paid-taxes-i-have-no-repentance": {
-            "title": "Harry Reid: Of Course Romney Paid Taxes, I Have No Repentance...",
-            "snippet": "Senator Harry Reid gave an interview to Fusions Jorge Ramos in which he once again refused to apologize for lying about Mitt Romneys taxes. In the midst of defending himself, Reid admits the claims he made on the Senate floor had nothing to do...",
-            "date": "2015-04-07",
-            "categories": "taxes",
-            "tags": "floor,nothing,mitt,romney,refused,refused-to-apologize,apologize,gave,gave-an-inter,inter,course,course_romney,course_romney_paid,romney_paid,paid,taxes,harry,harry_reid,reid,senator,senate",
-            "recuweb_url": "http://en.recuweb.com/taxes/breitbart.com/2015/04/harry-reid-of-course-romney-paid-taxes-i-have-no-repentance",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=taxes&format=RSS&cc=us",
-            "source_url": "http://breitbart.com/big-government/2015/04/07/harry-reid-of-course-romney-paid-taxes-i-have-no-repentance/"
-        },
-        "forbes.com/2015/04/how-much-did-jeb-bush-cut-taxes-in-florida-forbes": {
-            "title": "How Much Did Jeb Bush Cut Taxes In Florida? - Forbes...",
-            "snippet": "How Much Did Jeb Bush Cut Taxes In Florida?ForbesDuring his first State of the State address in 1999, Florida Gov. Jeb Bush got a standing ovation when he announced his plan to cut Florida taxes by over 1 billion. It's not our money, he told the...",
-            "date": "2015-04-07",
-            "categories": "taxes",
-            "tags": "plan,cut,address,cut_taxes,taxes,forbes,state,money",
-            "recuweb_url": "http://en.recuweb.com/taxes/forbes.com/2015/04/how-much-did-jeb-bush-cut-taxes-in-florida-forbes",
+            "tags": "enough,week,pay,taxes,washington,paying",
+            "recuweb_url": "http://en.recuweb.com/taxes/washingtonpost.com/2015/04/congratulations-america-you-ve-finally-worked-long-enough-to-pay",
             "resource_url": "http://news.google.com/?hl=en&q=taxes%2Btaxes&output=atom&nord=1",
-            "source_url": "http://forbes.com/sites/taxanalysts/2015/04/07/how-much-did-jeb-bush-cut-taxes-in-florida/"
+            "source_url": "http://washingtonpost.com/news/get-there/wp/2015/04/24/congratulations-america-youve-finally-worked-long-enough-to-pay-your-taxes-for-the-year/"
         },
-        "konp.com/2015/04/local-senator-unhappy-with-new-budget-plan": {
-            "title": "Local Senator unhappy with new budget plan...",
-            "snippet": "I think that even though nobody likes taxes taxes are certainly not the goal of our side of the aisle. You know, we didnt come her to raise taxes, but we look at the needs that are that are in the budgets that are missing and we say that...",
-            "date": "2015-04-07",
+        "economictimes.indiatimes.com/2015/04/don-t-abandon-dirext-taxes-code-parliamentary-panel-to-government": {
+            "title": "Don't abandon Dirext Taxes Code: Parliamentary panel to government...",
+            "snippet": "NEW DELHI: Asking the government not to abandon the Direct Taxes Code (DTC), a Parliamentary panel today said this new law needs to be enacted to replace the existing Income Tax Act, which it said was \"very cumbersome\" and prone to avoidable...",
+            "date": "2015-04-24",
+            "categories": "law,taxes",
+            "tags": "said,taxes,don",
+            "recuweb_url": "http://en.recuweb.com/taxes/economictimes.indiatimes.com/2015/04/don-t-abandon-dirext-taxes-code-parliamentary-panel-to-government",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=taxes&format=RSS&cc=us",
+            "source_url": "http://economictimes.indiatimes.com/news/economy/policy/dont-abandon-dirext-taxes-code-parliamentary-panel-to-government/articleshow/47041492.cms"
+        },
+        "businessinsider.com/2015/04/hsbc-is-launching-an-immediate-review-into-ditching-its-london-hq": {
+            "title": "HSBC is launching an immediate review into ditching its London HQ over heavy taxes...",
+            "snippet": "Mark Metcalfe/GettyHSBC could get out of the UK. HSBC is officially looking into whether to move its headquarters outside the UK. The giant investment bank is launching an immediate review on whether to move its HQ. Here's a snippet from chairman...",
+            "date": "2015-04-24",
             "categories": "taxes",
-            "tags": "look,budget,taxes,plan,senator",
-            "recuweb_url": "http://en.recuweb.com/taxes/konp.com/2015/04/local-senator-unhappy-with-new-budget-plan",
+            "tags": "mark,taxes",
+            "recuweb_url": "http://en.recuweb.com/taxes/businessinsider.com/2015/04/hsbc-is-launching-an-immediate-review-into-ditching-its-london-hq",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=taxes&format=RSS&cc=us",
+            "source_url": "http://businessinsider.com/hsbc-is-launching-an-immediate-review-into-leaving-uk-as-headquarters-2015-4"
+        },
+        "660news.com/2015/04/prentice-and-notley-battle-highlight-leaders-debate": {
+            "title": "Prentice and Notley battle highlight leaders debate...",
+            "snippet": "Well I always appreciate a good fearmonger, but what I dont appreciate is taxes, taxes and more taxes, we are the only party that will not raise your taxes, Jean said, but Prentice wouldnt give in. Just answer the question Brian, youve...",
+            "date": "2015-04-24",
+            "categories": "taxes",
+            "tags": "raise,taxes,said",
+            "recuweb_url": "http://en.recuweb.com/taxes/660news.com/2015/04/prentice-and-notley-battle-highlight-leaders-debate",
             "resource_url": "http://www.bing.com/news/search?first=1&q=taxes%2Btaxes&format=RSS&cc=us",
-            "source_url": "http://konp.com/local/10587"
+            "source_url": "http://660news.com/2015/04/23/prentice-and-notley-battle-highlight-leaders-debate/"
         },
-        "npr.org/2015/04/many-obamacare-policyholders-face-tax-surprises-this-year-npr-blog": {
-            "title": "Many Obamacare Policyholders Face Tax Surprises This Year - NPR (blog)...",
-            "snippet": "NPR (blog)Many Obamacare Policyholders Face Tax Surprises This YearNPR (blog)The old saying goes, \"Nothing is certain except death and taxes.\" But the Affordable Care Act has added a new wrinkle. For many policyholders, the ACA has introduced a good...",
-            "date": "2015-04-07",
-            "categories": "death,taxes",
-            "tags": "many,nothing,saying,taxes",
-            "recuweb_url": "http://en.recuweb.com/taxes/npr.org/2015/04/many-obamacare-policyholders-face-tax-surprises-this-year-npr-blog",
+        "washingtonexaminer.com/2015/04/rand-paul-signs-pledge-not-to-raise-taxes-washington-examiner": {
+            "title": "Rand Paul signs pledge not to raise taxes - Washington Examiner...",
+            "snippet": "Personal Liberty DigestRand Paul signs pledge not to raise taxesWashington ExaminerRand Paul on Friday signed a pledge not to raise raise taxes, becoming the first presidential candidate to do so. The pledge, drawn up by the conservative group...",
+            "date": "2015-04-24",
+            "categories": "taxes",
+            "tags": "raise,paul,washington,taxes",
+            "recuweb_url": "http://en.recuweb.com/taxes/washingtonexaminer.com/2015/04/rand-paul-signs-pledge-not-to-raise-taxes-washington-examiner",
             "resource_url": "http://news.google.com/?hl=en&q=taxes%2Btaxes&output=atom&nord=1",
-            "source_url": "http://npr.org/blogs/health/2015/04/07/397046308/many-obamacare-policyholders-face-tax-surprises-this-year"
+            "source_url": "http://washingtonexaminer.com/rand-paul-signs-pledge-not-to-raise-taxes/article/2563571"
+        },
+        "forbes.com/2015/04/tax-cuts-for-the-rich-don-t-create-many-jobs": {
+            "title": "Tax Cuts For The Rich Don't Create Many Jobs, But What About Tax Hikes? - Forbes...",
+            "snippet": "ForbesTax Cuts For The Rich Don't Create Many Jobs, But What About Tax Hikes?ForbesWant to create some jobs? Then cut some taxes. But make sure you cut them for the right people. According to Owen Zidar, an economist at the University of Chicago...",
+            "date": "2015-04-24",
+            "categories": "taxes,university",
+            "tags": "cuts,rich,don,taxes",
+            "recuweb_url": "http://en.recuweb.com/university/forbes.com/2015/04/tax-cuts-for-the-rich-don-t-create-many-jobs",
+            "resource_url": "http://news.google.com/?hl=en&q=taxes%2Btaxes&output=atom&nord=1",
+            "source_url": "http://forbes.com/sites/taxanalysts/2015/04/24/tax-cuts-for-the-rich-dont-create-many-jobs-but-what-about-tax-hikes/"
+        },
+        "rutlandherald.com/2015/04/taxes-continue-to-encroach": {
+            "title": "Taxes continue to encroach...",
+            "snippet": "April 24 is Tax Freedom Day. According to the Tax Foundation, Tax Freedom Day is the day when the nation as a whole has earned enough money to pay its total tax bill for the year. Tax Freedom Day takes all federal, state, and local taxes and...",
+            "date": "2015-04-24",
+            "categories": "taxes",
+            "tags": "taxes,enough,pay",
+            "recuweb_url": "http://en.recuweb.com/taxes/rutlandherald.com/2015/04/taxes-continue-to-encroach",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=taxes&format=RSS&cc=us",
+            "source_url": "http://rutlandherald.com/article/20150424/OPINION02/704249947/0/LOCAL0123"
+        },
+        "newsobserver.com/2015/04/taxes-matter-but-targeted-cuts-incentives-often-miss-their-mark-news": {
+            "title": "Taxes matter but targeted cuts, incentives often miss their mark - News & Observer...",
+            "snippet": "Taxes matter but targeted cuts, incentives often miss their markNews & ObserverPat McCrory and many Republicans in the N.C. General Assembly are currently pushing legislation to expand or restore various tax credits for economic development. I don't...",
+            "date": "2015-04-24",
+            "categories": "credit,taxes",
+            "tags": "taxes,mark,cuts,don",
+            "recuweb_url": "http://en.recuweb.com/taxes/newsobserver.com/2015/04/taxes-matter-but-targeted-cuts-incentives-often-miss-their-mark-news",
+            "resource_url": "http://news.google.com/?hl=en&q=taxes%2Btaxes&output=atom&nord=1",
+            "source_url": "http://newsobserver.com/news/local/community/clayton-news-star/cns-opinion/article19364922.html"
         }
     }
 }
