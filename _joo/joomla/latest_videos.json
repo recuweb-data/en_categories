@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "joomla",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/joomla/",
@@ -10,41 +11,113 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/joomla/joomla/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/02/joomla-1-5-adding-a-menu-item-video-tutorial": {
-            "title": "Joomla 1.5 adding a menu item video tutorial...",
-            "snippet": "how to add a menu item in Joomla 1.5 video tutorialAuthor: ijoomla2Tags: Joomla 1.5 menu items joomla add tutorial Posted: 25 February 2015Rating:: 0...",
-            "date": "2015-02-25",
-            "author_name": "ijoomla2",
+        "dailymotion.com/2015/04/joomla-development-services": {
+            "title": "Joomla Development Services...",
+            "snippet": "SunTecOSS offers a complete range of Joomla development services to help business owners build Joomla-based online stores. Our developers hold a wealth of experience in building a customized website that is SEO-friendly, dynamic and feature-rich.",
+            "date": "2015-04-21",
+            "author_name": "SunTecOSS",
+            "categories": "business,joomla",
+            "tags": "experience,website,development,services,joomla,joomla_development",
+            "recuweb_url": "http://en.recuweb.com/joomla/dailymotion.com/2015/04/joomla-development-services",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/joomla/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2ndijz_joomla-development-services_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ndijz_joomla-development-services_tech"
+        },
+        "dailymotion.com/2015/04/joomla-2-5-tutorial-overview": {
+            "title": "Joomla! 2.5 Tutorial - Overview...",
+            "snippet": "Joomla! 2.5 Tutorial - OverviewAuthor: NolanSmithsonTags: Joomla 2.5 Tutorial - Overview Posted: 21 April 2015Rating:: 0...",
+            "date": "2015-04-21",
+            "author_name": "NolanSmithson",
             "categories": "joomla",
             "tags": "joomla,tutorial",
-            "recuweb_url": "http://en.recuweb.com/joomla/dailymotion.com/2015/02/joomla-1-5-adding-a-menu-item-video-tutorial",
+            "recuweb_url": "http://en.recuweb.com/joomla/dailymotion.com/2015/04/joomla-2-5-tutorial-overview",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/joomla/0?af=1",
-            "source_url": "http://dailymotion.com/video/x7p1hg_joomla-1-5-adding-a-menu-item-video_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x7p1hg_joomla-1-5-adding-a-menu-item-video_tech"
+            "source_url": "http://dailymotion.com/video/x2ncrm2_joomla-2-5-tutorial-overview_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ncrm2_joomla-2-5-tutorial-overview_tech"
         },
-        "youtube.com/2015/01/how-to-install-and-change-template-joomla-3-4": {
-            "title": "How to install and change template joomla 3.4...",
-            "snippet": "How to install and change template joomla 3.4 Tutorials Joomla 3.4 how to install and change template joomla 3.4 From: Joomla Tutorials Views: 1976 3 ratings Time: 01:15 More in People & Blogs...",
-            "date": "2015-01-16",
-            "author_name": "Joomla Tutorials",
+        "dailymotion.com/2015/04/joomla-1-7-side-news-module": {
+            "title": "Joomla 1.7 - Side News module...",
+            "snippet": "Joomla 1.7 - Side News moduleAuthor: LilliaLermaTags: Joomla 1.7 - Side News module Posted: 18 April 2015Rating:: 0...",
+            "date": "2015-04-18",
+            "author_name": "LilliaLerma",
             "categories": "joomla",
-            "tags": "joomla,install",
-            "recuweb_url": "http://en.recuweb.com/joomla/youtube.com/2015/01/how-to-install-and-change-template-joomla-3-4",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=joomla&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=HZnLny7m-ig&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/HZnLny7m-ig/0.jpg"
+            "tags": "joomla,module,moduleauthor,lillialermatags",
+            "recuweb_url": "http://en.recuweb.com/joomla/dailymotion.com/2015/04/joomla-1-7-side-news-module",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/joomla/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2n1qzt_joomla-1-7-side-news-module_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n1qzt_joomla-1-7-side-news-module_tech"
         },
-        "youtube.com/2014/12/joomla-time-to-do-more-how-update-2-5-3": {
-            "title": "Joomla! Time to do More! How to update Joomla 2.5 to Joomla 3.x...",
-            "snippet": "Joomla! Time to do More! How to update Joomla 2.5 to Joomla 3.x This video is created for you as a guideline for updating a Joomla 2.5 site to the latest Joomla release. To find out more about this, you can always visit our documentation. Planning...",
-            "date": "2014-12-16",
+        "dailymotion.com/2015/04/joomla-2-5-bulletin-module": {
+            "title": "Joomla 2.5 - Bulletin module...",
+            "snippet": "Joomla 2.5 - Bulletin moduleAuthor: LilliaLermaTags: Joomla 2.5 - Bulletin module Posted: 18 April 2015Rating:: 0...",
+            "date": "2015-04-18",
+            "author_name": "LilliaLerma",
+            "categories": "joomla",
+            "tags": "joomla,module,moduleauthor,lillialermatags",
+            "recuweb_url": "http://en.recuweb.com/joomla/dailymotion.com/2015/04/joomla-2-5-bulletin-module",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/joomla/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2n1qzg_joomla-2-5-bulletin-module_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n1qzg_joomla-2-5-bulletin-module_tech"
+        },
+        "dailymotion.com/2015/04/joomla-2-5-content-scroll-module": {
+            "title": "Joomla 2.5 - Content Scroll module...",
+            "snippet": "Joomla 2.5 - Content Scroll moduleAuthor: LilliaLermaTags: Joomla 2.5 - Content Scroll module Posted: 18 April 2015Rating:: 0...",
+            "date": "2015-04-18",
+            "author_name": "LilliaLerma",
+            "categories": "joomla",
+            "tags": "joomla,module,moduleauthor,lillialermatags",
+            "recuweb_url": "http://en.recuweb.com/joomla/dailymotion.com/2015/04/joomla-2-5-content-scroll-module",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/joomla/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2n1qyi_joomla-2-5-content-scroll-module_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n1qyi_joomla-2-5-content-scroll-module_tech"
+        },
+        "dailymotion.com/2015/04/joomla-tutorial-how-to-create-an-rss-feed-in-2-5": {
+            "title": "Joomla Tutorial: How to create an RSS Feed in Joomla 2.5 Daniel Williams at Quantus Creative...",
+            "snippet": "Joomla Tutorial: How to create an RSS Feed in Joomla 2.5 Daniel Williams at Quantus CreativeAuthor: LolitaCowlesTags: Joomla Tutorial: How to create an RSS Feed in 2.5 Daniel Williams at Quantus Creative Posted: 15 April 2015Rating:: 0...",
+            "date": "2015-04-15",
+            "author_name": "LolitaCowles",
+            "categories": "joomla",
+            "tags": "joomla,tutorial",
+            "recuweb_url": "http://en.recuweb.com/joomla/dailymotion.com/2015/04/joomla-tutorial-how-to-create-an-rss-feed-in-2-5",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/joomla+joomla/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2msfgx_joomla-tutorial-how-to-create-an-rss-feed-in-joomla-2-5-daniel-williams-at-quantus-creative_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2msfgx_joomla-tutorial-how-to-create-an-rss-feed-in-joomla-2-5-daniel-williams-at-quantus-creative_tech"
+        },
+        "dailymotion.com/2015/04/joomla-2-5-ja-newflash-module": {
+            "title": "Joomla! 2.5 - JA Newflash Module...",
+            "snippet": "Joomla! 2.5 - JA Newflash ModuleAuthor: MargartTraylorTags: Joomla 2.5 - JA Newflash Module Posted: 14 April 2015Rating:: 0...",
+            "date": "2015-04-14",
+            "author_name": "MargartTraylor",
+            "categories": "joomla",
+            "tags": "moduleauthor,module,joomla",
+            "recuweb_url": "http://en.recuweb.com/joomla/dailymotion.com/2015/04/joomla-2-5-ja-newflash-module",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/joomla/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2mm7u7_joomla-2-5-ja-newflash-module_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mm7u7_joomla-2-5-ja-newflash-module_tech"
+        },
+        "dailymotion.com/2015/04/joomla-1-6-quicklook-toolbars": {
+            "title": "Joomla 1.6 QuickLook: Toolbars...",
+            "snippet": "Joomla 1.6 QuickLook: ToolbarsAuthor: GraceLeonardTags: Joomla 1.6 QuickLook: Toolbars Posted: 07 April 2015Rating:: 0...",
+            "date": "2015-04-07",
+            "author_name": "GraceLeonard",
+            "categories": "joomla",
+            "tags": "joomla",
+            "recuweb_url": "http://en.recuweb.com/joomla/dailymotion.com/2015/04/joomla-1-6-quicklook-toolbars",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/joomla/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2lzpwo_joomla-1-6-quicklook-toolbars_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lzpwo_joomla-1-6-quicklook-toolbars_tech"
+        },
+        "youtube.com/2015/02/joomla-3-4-new-features-animation": {
+            "title": "Joomla! 3.4 - New features! (animation)...",
+            "snippet": "Joomla! 3.4 - New features! (animation) The Joomla! Project is proud to announce the release of Joomla! latest releases of the 3.x release series. What's in 3.4? The 3.4 release introduces new features into the CMS such... From: Joomla! Views: 14386...",
+            "date": "2015-02-25",
             "author_name": "Joomla!",
             "categories": "joomla",
-            "tags": "site,latest,joomla",
-            "recuweb_url": "http://en.recuweb.com/joomla/youtube.com/2014/12/joomla-time-to-do-more-how-update-2-5-3",
+            "tags": "joomla",
+            "recuweb_url": "http://en.recuweb.com/joomla/youtube.com/2015/02/joomla-3-4-new-features-animation",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=joomla%2Bjoomla&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=PcJoAPL0aoI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/PcJoAPL0aoI/0.jpg"
+            "source_url": "http://youtube.com/watch?v=EfsOibCaQ-k&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/EfsOibCaQ-k/0.jpg"
         },
         "dailymotion.com/2014/11/joomla-development-company": {
             "title": "Joomla Development Company...",
@@ -52,83 +125,11 @@
             "date": "2014-11-15",
             "author_name": "inoday",
             "categories": "joomla",
-            "tags": "website,joomla,best,services",
+            "tags": "experience,website,joomla,services,joomla_development,development",
             "recuweb_url": "http://en.recuweb.com/joomla/dailymotion.com/2014/11/joomla-development-company",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/joomla/0?af=1",
             "source_url": "http://dailymotion.com/video/x2a9eqz_joomla-development-company_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2a9eqz_joomla-development-company_tech"
-        },
-        "youtube.com/2014/11/joomla-for-beginners-tutorial-1-introduction-to-download-and-install": {
-            "title": "Joomla for beginners tutorial 1 - Introduction to joomla, download and install...",
-            "snippet": "Joomla for beginners tutorial 1 - Introduction to joomla, download and install In this tutorial I explain what Joomla is and I show you how to download and install Joomla. I also explain what you will need to follow along with the rest of this...",
-            "date": "2014-11-09",
-            "author_name": "Quentin Watt",
-            "categories": "joomla",
-            "tags": "tutorial,install,joomla",
-            "recuweb_url": "http://en.recuweb.com/joomla/youtube.com/2014/11/joomla-for-beginners-tutorial-1-introduction-to-download-and-install",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=joomla%2Bjoomla&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=W-kjZtbDvqc&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/W-kjZtbDvqc/0.jpg"
-        },
-        "dailymotion.com/2014/09/free-joomla-website": {
-            "title": "free joomla website...",
-            "snippet": "make your own website in 15 minutesAuthor: latest-moviesTags: Joomla for Dummies Beginning Joomla Make Your Website Work for You free joomla website make your website free website joomla Posted: 27 September 2014Rating:: 0...",
-            "date": "2014-09-26",
-            "author_name": "latest-movies",
-            "categories": "joomla",
-            "tags": "free,joomla,website,make,latest",
-            "recuweb_url": "http://en.recuweb.com/joomla/dailymotion.com/2014/09/free-joomla-website",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/joomla/0?af=1",
-            "source_url": "http://dailymotion.com/video/x26p2e6_free-joomla-website_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x26p2e6_free-joomla-website_tech"
-        },
-        "youtube.com/2014/09/learn-the-basics-of-joomla-3-tutorial": {
-            "title": "Learn the Basics of Joomla 3.3 Joomla 3.3 Tutorial...",
-            "snippet": "Learn the Basics of Joomla 3.3 Joomla 3.3 Tutorial With this video tutorial you can learn how to make, launch and develop a demo website with Joomla CMS. The presenter demonstrates how to launch a free demo trial site, how to use templates,... From:...",
-            "date": "2014-09-14",
-            "author_name": "HyperSTV",
-            "categories": "joomla",
-            "tags": "free,site,website,tutorial,make,joomla",
-            "recuweb_url": "http://en.recuweb.com/joomla/youtube.com/2014/09/learn-the-basics-of-joomla-3-tutorial",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=joomla%2Bjoomla&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=EdcnW3WH-hs&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/EdcnW3WH-hs/0.jpg"
-        },
-        "dailymotion.com/2014/08/joomla-urdu-training-lesson-8": {
-            "title": "joomla urdu Training lesson - 8...",
-            "snippet": "joomla urdu Training lesson - 8Author: onlinecomputerustaadTags: Posted: 16 August 2014Rating:: 0...",
-            "date": "2014-08-16",
-            "author_name": "onlinecomputerustaad",
-            "categories": "joomla",
-            "tags": "joomla,joomla-urdu,urdu,lesson,onlinecomputerustaadtags",
-            "recuweb_url": "http://en.recuweb.com/joomla/dailymotion.com/2014/08/joomla-urdu-training-lesson-8",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/joomla/0?af=1",
-            "source_url": "http://dailymotion.com/video/x23t55y_joomla-urdu-training-lesson-8_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x23t55y_joomla-urdu-training-lesson-8_tech"
-        },
-        "dailymotion.com/2014/08/joomla-urdu-video-tutorial-lesson-28": {
-            "title": "joomla urdu video tutorial lesson - 28...",
-            "snippet": "joomla urdu video tutorial lessonAuthor: onlinecomputerustaadTags: Posted: 16 August 2014Rating:: 0...",
-            "date": "2014-08-16",
-            "author_name": "onlinecomputerustaad",
-            "categories": "joomla",
-            "tags": "joomla,joomla-urdu,urdu,tutorial,lesson,onlinecomputerustaadtags",
-            "recuweb_url": "http://en.recuweb.com/joomla/dailymotion.com/2014/08/joomla-urdu-video-tutorial-lesson-28",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/joomla/0?af=1",
-            "source_url": "http://dailymotion.com/video/x23t8xn_joomla-urdu-video-tutorial-lesson-28_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x23t8xn_joomla-urdu-video-tutorial-lesson-28_tech"
-        },
-        "dailymotion.com/2014/07/vervepsd-providing-best-service-in-psd-to-joomla-conversion": {
-            "title": "Vervepsd providing best service in psd to joomla conversion...",
-            "snippet": "Now convert your PSD files into PSD to Joomla Conversion with an ease but perfection with us. Our services offered in this category are evidences of mastery.: verveniruTags: Posted: 09 July 2014Rating:: 0...",
-            "date": "2014-07-09",
-            "author_name": "verveniru",
-            "categories": "joomla",
-            "tags": "services,joomla,best",
-            "recuweb_url": "http://en.recuweb.com/joomla/dailymotion.com/2014/07/vervepsd-providing-best-service-in-psd-to-joomla-conversion",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/joomla/0?af=1",
-            "source_url": "http://dailymotion.com/video/x214mc2_vervepsd-providing-best-service-in-psd-to-joomla-conversion_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x214mc2_vervepsd-providing-best-service-in-psd-to-joomla-conversion_tech"
         }
     }
 }
