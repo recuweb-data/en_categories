@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "book",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/book/",
@@ -10,99 +11,102 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/book/book/blogs.json"
     },
     "items": {
-        "politico.com/2015/04/book-blowback-hits-clintons-nyc-donor-kickoff-politico": {
-            "title": "Book blowback hits Clintons NYC donor kickoff - Politico...",
-            "snippet": "PoliticoBook blowback hits Clintons NYC donor kickoffPoliticoBut during a question-and-answer period, the most pointed query from donors to Podesta was, how do we respond to questions raised by a new book linking millions in Bill Clinton speaking...",
-            "date": "2015-04-23",
-            "tags": "book,politico",
-            "recuweb_url": "http://en.recuweb.com/politico.com/2015/04/book-blowback-hits-clintons-nyc-donor-kickoff-politico",
+        "huffingtonpost.com/2015/04/arkansas-governor-warns-gop-not-to-overstate-clinton-book-allegations-huffington": {
+            "title": "Arkansas Governor Warns GOP Not To Overstate Clinton Book Allegations - Huffington Post...",
+            "snippet": "Huffington PostArkansas Governor Warns GOP Not To Overstate Clinton Book AllegationsHuffington PostResponding to the Peter Schweizer book, titled Clinton Cash -- which alleges donations from foreign governments to the nonprofit influenced policy...",
+            "date": "2015-04-27",
+            "categories": "policy",
+            "tags": "foreign,donations,clinton,clinton_cash,cash,peter,book",
+            "recuweb_url": "http://en.recuweb.com/policy/huffingtonpost.com/2015/04/arkansas-governor-warns-gop-not-to-overstate-clinton-book-allegations-huffington",
             "resource_url": "http://news.google.com/?hl=en&q=book%2Bbook&output=atom&nord=1",
-            "source_url": "http://politico.com/story/2015/04/hillary-clinton-new-york-city-donor-kick-off-117281.html"
+            "source_url": "http://huffingtonpost.com/2015/04/26/hutchinson-clinton-cash_n_7146748.html"
         },
-        "abcnews.go.com/2015/04/chelsea-clinton-defends-family-s-foundation-against-cash-book-abc-news": {
-            "title": "Chelsea Clinton Defends Family's Foundation Against 'Clinton Cash'Book... - ABC News...",
-            "snippet": "ABC NewsChelsea Clinton Defends Family's Foundation Against 'Clinton Cash'Book...ABC NewsChelsea Clinton's comments come the same morning the New York Times and other media outlets, including ABC News, reported on the soon-to-be released book by...",
-            "date": "2015-04-23",
-            "tags": "released,soon,other,york,book",
-            "recuweb_url": "http://en.recuweb.com/abcnews.go.com/2015/04/chelsea-clinton-defends-family-s-foundation-against-cash-book-abc-news",
-            "resource_url": "http://news.google.com/?hl=en&q=book%2Bbook&output=atom&nord=1",
-            "source_url": "http://abcnews.go.com/Politics/chelsea-clinton-defends-familys-foundation-clinton-cash-book/story?id=30527311"
-        },
-        "nytimes.com/2015/04/karl-ove-knausgaard-s-my-struggle-book-4-new-york-times": {
-            "title": "Karl Ove Knausgaard's 'My Struggle: Book 4'- New York Times...",
-            "snippet": "New York TimesKarl Ove Knausgaard's 'My Struggle: Book 4'New York TimesIt was a crisis, Knausgaard writes near the end of Book 2, I felt it in every fiber of my body, something saturating was spreading through my consciousness like lard, not the...",
-            "date": "2015-04-23",
-            "categories": "consciousness",
-            "tags": "every,york,book",
-            "recuweb_url": "http://en.recuweb.com/consciousness/nytimes.com/2015/04/karl-ove-knausgaard-s-my-struggle-book-4-new-york-times",
-            "resource_url": "http://news.google.com/?hl=en&q=book%2Bbook&output=atom&nord=1",
-            "source_url": "http://nytimes.com/2015/04/26/books/review/jeffrey-eugenides-reviews-my-struggle-by-karl-ove-knausgaard.html"
-        },
-        "politico.com/2015/04/kevin-spacey-plans-tv-show-off-best-selling-white-house-book": {
-            "title": "Kevin Spacey plans TV show off best-selling White House book - Politico...",
-            "snippet": "PoliticoKevin Spacey plans TV show off best-selling White House bookPoliticoThis evening, a slew of big-league journalists will host a packed book partymore than 200 have RSVP'dto celebrate new author Kate Andersen Brower at Sidecar, the private...",
-            "date": "2015-04-23",
-            "tags": "celebrate,best,book,politico",
-            "recuweb_url": "http://en.recuweb.com/politico.com/2015/04/kevin-spacey-plans-tv-show-off-best-selling-white-house-book",
-            "resource_url": "http://news.google.com/?hl=en&q=book%2Bbook&output=atom&nord=1",
-            "source_url": "http://politico.com/story/2015/04/kevin-spacey-will-make-kate-anderson-browers-bestselling-white-house-book-the-residence-into-tv-series-117264.html"
-        },
-        "cbsnews.com/2015/04/khloe-kardashian-is-writing-an-advice-book-cbs-news": {
-            "title": "Khloe Kardashian is writing an advice book - CBS News...",
-            "snippet": "CBS NewsKhloe Kardashian is writing an advice bookCBS NewsKhloe Kardashian is coming out with a book this fall -- but unlike her sister Kim's book of selfies, she'll be doling out words of wisdom. The reality TV star and entrepreneur, 30, is working...",
-            "date": "2015-04-23",
-            "tags": "book",
-            "recuweb_url": "http://en.recuweb.com/cbsnews.com/2015/04/khloe-kardashian-is-writing-an-advice-book-cbs-news",
-            "resource_url": "http://news.google.com/?hl=en&q=book%2Bbook&output=atom&nord=1",
-            "source_url": "http://cbsnews.com/news/khloe-kardashian-writing-advice-book/"
-        },
-        "nytimes.com/2015/04/olen-steinhauer-by-the-book-new-york-times": {
-            "title": "Olen Steinhauer: By the Book - New York Times...",
-            "snippet": "New York TimesOlen Steinhauer: By the BookNew York TimesLet's see: Lloyd Alexander's The Book of Three (a book I loved as a child and checked out from the library to influence my daughter's tastes); David Mitchell's Ghostwritten; and on the iPad, a...",
-            "date": "2015-04-23",
-            "categories": "ipad",
-            "tags": "library,york,book",
-            "recuweb_url": "http://en.recuweb.com/ipad/nytimes.com/2015/04/olen-steinhauer-by-the-book-new-york-times",
-            "resource_url": "http://news.google.com/?hl=en&q=book%2Bbook&output=atom&nord=1",
-            "source_url": "http://nytimes.com/2015/04/26/books/review/26bkr-bythebook_steinhauer.t.html"
-        },
-        "dailymail.co.uk/2015/04/spain-s-former-monarch-king-juan-carlos-was-having-an-affair": {
-            "title": "Spain's former monarch King Juan Carlos 'was having an affair with German aristocrat for the last...",
-            "snippet": "The ex-king of Spain, Juan Carlos, was leading a double life and having an affair with a German aristocrat for the last ten years of his reign, according to a new book that claims they were 'a couple, pure and simple'. The bombshell allegation is...",
-            "date": "2015-04-23",
+        "burnleyexpress.net/2015/04/book-review-put-colour-into-your-life-with-michael-omara-books": {
+            "title": "Book review: Put colour into your life with Michael OMara Books...",
+            "snippet": "With over 34,000 books sold and many people reaping the relaxation benefits, grown-up colouring has become an international phenomenon. Independent publishers Michael OMara Books have been at the forefront of the colouring craze with a stunning...",
+            "date": "2015-04-27",
             "categories": "life",
-            "tags": "book",
-            "recuweb_url": "http://en.recuweb.com/life/dailymail.co.uk/2015/04/spain-s-former-monarch-king-juan-carlos-was-having-an-affair",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=book%2Bbook&format=RSS&cc=us",
-            "source_url": "http://dailymail.co.uk/news/article-3052235/Spain-s-former-monarch-King-Juan-Carlos-having-affair-German-aristocrat-ten-years-reign-claims-new-book.html"
+            "tags": "books,book",
+            "recuweb_url": "http://en.recuweb.com/life/burnleyexpress.net/2015/04/book-review-put-colour-into-your-life-with-michael-omara-books",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=book&format=RSS&cc=us",
+            "source_url": "http://burnleyexpress.net/what-s-on/reviews/book-review-put-colour-into-your-life-with-michael-o-mara-books-1-7230558"
         },
-        "usatoday.com/2015/04/witherspoon-to-read-harper-lee-audio-book-usa-today": {
-            "title": "Witherspoon to read Harper Lee audio book - USA TODAY...",
-            "snippet": "USA TODAYWitherspoon to read Harper Lee audio bookUSA TODAYActress Reese Witherspoon has signed on to narrate the audio version of the year's hottest book, Go Set a Watchman by Harper Lee. The unabridged audio version will be released simultaneously...",
-            "date": "2015-04-23",
-            "tags": "released,book",
-            "recuweb_url": "http://en.recuweb.com/usatoday.com/2015/04/witherspoon-to-read-harper-lee-audio-book-usa-today",
+        "thedailybeast.com/2015/04/college-advice-book-to-women-be-afraid-very-daily-beast": {
+            "title": "College Advice Book to Women: Be Afraid. Be Very Afraid. - Daily Beast...",
+            "snippet": "Daily BeastCollege Advice Book to Women: Be Afraid. Be Very BeastCertainly, it doesn't hurt that the book recycles age-old tropes like stick with friends and alternate drinks to the college-bound set. Sometimes, the repetitiveness begins to sound...",
+            "date": "2015-04-27",
+            "categories": "drink,college",
+            "tags": "friends,college,book,women,afraid",
+            "recuweb_url": "http://en.recuweb.com/college/thedailybeast.com/2015/04/college-advice-book-to-women-be-afraid-very-daily-beast",
+            "resource_url": "http://news.google.com/?hl=en&q=book&output=atom&nord=1",
+            "source_url": "http://thedailybeast.com/articles/2015/04/27/college-advice-book-to-women-be-afraid-be-very-afraid.html"
+        },
+        "blog.timesunion.com/2015/04/father-daughter-book-club": {
+            "title": "Father-daughter book club...",
+            "snippet": "I missed all the hoopla when John Greens highly anticipated sixth novel, The Fault in Our Stars came out a couple of years ago. I was not working in a high school library at the time, but was aware that it was causing some commotion on young adult...",
+            "date": "2015-04-27",
+            "categories": "school,stars",
+            "tags": "library,ago,book",
+            "recuweb_url": "http://en.recuweb.com/stars/blog.timesunion.com/2015/04/father-daughter-book-club",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=book&format=RSS&cc=us",
+            "source_url": "http://blog.timesunion.com/books/father-daughter-book-club/2451/"
+        },
+        "washingtonpost.com/2015/04/horror-and-hope-in-cleveland-a-new-book-two-women-recall": {
+            "title": "Horror and Hope in Cleveland: In a new book, two women recall a decade held... - Washington Post...",
+            "snippet": "Washington PostHorror and Hope in Cleveland: In a new book, two women recall a decade held...Washington PostAmanda: I can't believe my mom is dead. I've been chained up as a prisoner in this house since I was kidnapped almost three years ago. Now I...",
+            "date": "2015-04-27",
+            "tags": "ago,women,book",
+            "recuweb_url": "http://en.recuweb.com/washingtonpost.com/2015/04/horror-and-hope-in-cleveland-a-new-book-two-women-recall",
+            "resource_url": "http://news.google.com/?hl=en&q=book&output=atom&nord=1",
+            "source_url": "http://washingtonpost.com/sf/national/2015/04/25/horror-and-hope-in-cleveland-in-a-new-book-two-women-recall-a-decade-held-hostage-and-the-baby-who-changed-everything/"
+        },
+        "capegazette.villagesoup.com/2015/04/lewes-library-book-sale-set-for-may-2": {
+            "title": "Lewes library book sale set for May 2...",
+            "snippet": "Lewes As the Friends of the Lewes Public Library prepares for one of its biggest fundraisers of the year, the organization continues its push to remind the public how the library is funded. Friends President Candace Vessella said folks are often...",
+            "date": "2015-04-27",
+            "tags": "continues,public,library,sale,book,friends",
+            "recuweb_url": "http://en.recuweb.com/capegazette.villagesoup.com/2015/04/lewes-library-book-sale-set-for-may-2",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=book&format=RSS&cc=us",
+            "source_url": "http://capegazette.villagesoup.com/p/lewes-library-book-sale-set-for-may-2/1335469?source=rss"
+        },
+        "broadwayworld.com/2015/04/tony-bethel-launches-new-marketing-campaign-for-2003-book": {
+            "title": "Tony Bethel Launches New Marketing Campaign for 2003 Book...",
+            "snippet": "Author Tony Bethel is launching a new online marketing campaign for his 2003 book, Love, War, and Other White Lies: A Poetic Diary of Love, War and Other Topics (published by AuthorHouse). Bethel's third book is an exercise of his right to free...",
+            "date": "2015-04-27",
+            "categories": "marketing,love",
+            "tags": "other,book,love",
+            "recuweb_url": "http://en.recuweb.com/love/broadwayworld.com/2015/04/tony-bethel-launches-new-marketing-campaign-for-2003-book",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=book&format=RSS&cc=us",
+            "source_url": "http://broadwayworld.com/bwwbooks/article/Tony-Bethel-Launches-New-Marketing-Campaign-for-2003-Book-20150427"
+        },
+        "hometownlife.com/2015/04/used-book-sale-supports-library-programs-and-events": {
+            "title": "Used book sale supports library programs and events...",
+            "snippet": "The Friends of the Baldwin Public Library spring book sale will take place May 1 to May 4 at the Baldwin Public Library. The public is invited to browse thousands of books and media in great condition. Items for sale include paperbacks, hard covers,...",
+            "date": "2015-04-27",
+            "categories": "events",
+            "tags": "sale,public,books,book,great,library,friends",
+            "recuweb_url": "http://en.recuweb.com/events/hometownlife.com/2015/04/used-book-sale-supports-library-programs-and-events",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=book&format=RSS&cc=us",
+            "source_url": "http://hometownlife.com/story/news/local/birmingham/2015/04/24/used-book-sale-supports-library-programs-events/26318537/"
+        },
+        "foxnews.com/2015/04/winners-announced-for-the-2015-james-beard-media-and-book-awards": {
+            "title": "Winners announced for the 2015 James Beard media and book awards...",
+            "snippet": "On Friday, the James Beard Foundation announced its 2015 winners of for its book, broadcast and journalism awards. Flavor Flours: A New Way to Bake with Teff, Buckwheat, Sorghum, Other Whole & Ancient Grains, Nuts & Non-Wheat Flours by Alice...",
+            "date": "2015-04-27",
+            "categories": "journalism",
+            "tags": "other,foundation,book",
+            "recuweb_url": "http://en.recuweb.com/journalism/foxnews.com/2015/04/winners-announced-for-the-2015-james-beard-media-and-book-awards",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=book&format=RSS&cc=us",
+            "source_url": "http://foxnews.com/leisure/2015/04/27/winners-announced-for-2015-james-beard-media-and-book-awards/"
+        },
+        "abcnews.go.com/2015/04/clinton-cash-author-defends-upcoming-book-abc-news": {
+            "title": "'Clinton Cash'Author Defends Upcoming Book - ABC News...",
+            "snippet": "ABC News'Clinton Cash'Author Defends Upcoming BookABC NewsThe author of a forthcoming book on Hillary Clinton and foreign donations made to her family's foundation defended the accuracy of his research, saying in an interview on ABC's \"This Week\"...",
+            "date": "2015-04-26",
+            "tags": "foundation,foreign,donations,clinton,book,clinton_cash,cash",
+            "recuweb_url": "http://en.recuweb.com/abcnews.go.com/2015/04/clinton-cash-author-defends-upcoming-book-abc-news",
             "resource_url": "http://news.google.com/?hl=en&q=book%2Bbook&output=atom&nord=1",
-            "source_url": "http://usatoday.com/story/life/books/2015/04/23/reese-witherspoon-go-set-a-watchman-harper-lee/26140769/"
-        },
-        "ibtimes.com/2015/04/world-book-day-2015-quotes-about-books-reading-to-help-celebrate": {
-            "title": "World Book Day 2015: Quotes About Books, Reading To Help Celebrate Global... - International...",
-            "snippet": "International Business TimesWorld Book Day 2015: Quotes About Books, Reading To Help Celebrate Global...International Business TimesWorld Book Day -- Thursday April 23, 2015 -- is officially upon us. The United Nations Education Scientific and...",
-            "date": "2015-04-23",
-            "categories": "education,business",
-            "tags": "education,help,celebrate,global,books,book,business",
-            "recuweb_url": "http://en.recuweb.com/business/ibtimes.com/2015/04/world-book-day-2015-quotes-about-books-reading-to-help-celebrate",
-            "resource_url": "http://news.google.com/?hl=en&q=book%2Bbook&output=atom&nord=1",
-            "source_url": "http://ibtimes.com/world-book-day-2015-quotes-about-books-reading-help-celebrate-global-literacy-1893991"
-        },
-        "ksl.com/2015/04/1997-gmc-sonoma-sls": {
-            "title": "1997 GMC Sonoma SLS...",
-            "snippet": "Its ready o drive to Alaska and back. Everything works, no lights on. No wrecks. Title in hand. Call email or text 425-780-0374 to pick it up. NADA and Blue Book book it out at 4,300. Priced to sell.",
-            "date": "2015-04-20",
-            "tags": "book,email,title",
-            "recuweb_url": "http://en.recuweb.com/ksl.com/2015/04/1997-gmc-sonoma-sls",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=book%2Bbook&format=RSS&cc=us",
-            "source_url": "http://ksl.com/auto/listing/2107516"
+            "source_url": "http://abcnews.go.com/Politics/clinton-cash-author-defends-upcoming-book/story?id=30594497"
         }
     }
 }
