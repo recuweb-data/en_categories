@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "finance",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/finance/",
@@ -10,29 +11,41 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/finance/finance/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/car-buying-lease-or-finance": {
+            "title": "Car Buying - Lease or Finance...",
+            "snippet": "Car Buying - Lease or FinanceAuthor: costboilerTags: Car Buying - Lease or Finance Posted: 26 April 2015Rating:: 0...",
+            "date": "2015-04-26",
+            "author_name": "costboiler",
+            "categories": "finance",
+            "tags": "car,finance",
+            "recuweb_url": "http://en.recuweb.com/finance/dailymotion.com/2015/04/car-buying-lease-or-finance",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/finance/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2o0kac_car-buying-lease-or-finance_auto",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o0kac_car-buying-lease-or-finance_auto"
+        },
+        "dailymotion.com/2015/04/finance-2014-dodge-avenger-near-montgomery-al": {
+            "title": "Finance 2014 Dodge Avenger - Near Montgomery, AL...",
+            "snippet": "888-868-5809 Is your car out of warranty? It may be time to upgrade to a 2014 Dodge Avenger, especially with standard specs like Retained Accessory Power, Remote Power Door Locks, Auxiliary MP3 Audio Input and Front and Rear Stabilizer gives you...",
+            "date": "2015-04-23",
+            "author_name": "Locklear_CJDR",
+            "categories": "finance",
+            "tags": "rear,rear_stabilizer,stabilizer,audio,audio_input,input,retained,especially,especially-with-standard,standard,standard-specs,specs,upgrade,car,car-out,warranty,near,finance,auxiliary,front",
+            "recuweb_url": "http://en.recuweb.com/finance/dailymotion.com/2015/04/finance-2014-dodge-avenger-near-montgomery-al",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/finance/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nq18r_finance-2014-dodge-avenger-near-montgomery-al_auto",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nq18r_finance-2014-dodge-avenger-near-montgomery-al_auto"
+        },
         "dailymotion.com/2015/04/finance-2015-toyota-avalon-serving-marion-oh": {
             "title": "Finance 2015 Toyota Avalon - Serving Marion, OH...",
             "snippet": "Is your car out of warranty? It may be time to upgrade to a 2015 Toyota Avalon, especially with standard specs like Simulated Wood Trimmed Dashboard, Front and Rear Stabilizer Bar, Steering Wheel Mounted Audio and Cruise Controls and Retained...",
             "date": "2015-04-21",
             "author_name": "Byers_Toyota",
             "categories": "finance",
-            "tags": "wheel,audio,rear,especially,standard,car,serving,finance,front,retained",
+            "tags": "wheel,audio,rear,rear_stabilizer,stabilizer,especially,especially-with-standard,standard,standard-specs,specs,upgrade,car,car-out,warranty,serving,finance,front,retained",
             "recuweb_url": "http://en.recuweb.com/finance/dailymotion.com/2015/04/finance-2015-toyota-avalon-serving-marion-oh",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/finance/0?af=1",
             "source_url": "http://dailymotion.com/video/x2nf2o2_finance-2015-toyota-avalon-serving-marion-oh_auto",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2nf2o2_finance-2015-toyota-avalon-serving-marion-oh_auto"
-        },
-        "youtube.com/2015/04/keiser-report-private-finance-or-public-swindle-e746": {
-            "title": "Keiser Report: Private Finance or Public Swindle? (E746)...",
-            "snippet": "Keiser Report: Private Finance or Public Swindle? (E746) In this episode of the Keiser Report, Max Keiser and Stacy Herbert discuss the public swindle that is the Private Finance Initiatives which have left the UK 222 billion deeper in debt In...",
-            "date": "2015-04-18",
-            "author_name": "RT",
-            "categories": "finance",
-            "tags": "finance",
-            "recuweb_url": "http://en.recuweb.com/finance/youtube.com/2015/04/keiser-report-private-finance-or-public-swindle-e746",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=finance%2Bfinance&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=FpvuVlMrM4o&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/FpvuVlMrM4o/0.jpg"
         },
         "dailymotion.com/2015/04/auto-finance-agreements-how-the-numbers-work": {
             "title": "Auto Finance Agreements: How the Numbers Work...",
@@ -52,7 +65,7 @@
             "date": "2015-04-10",
             "author_name": "BrandonHonda",
             "categories": "iphone,finance,ipod",
-            "tags": "rear,audio,rear_suspension,suspension,especially,standard,standard-features,features,finance,multi",
+            "tags": "rear,auxiliary,audio,audio_input,input,rear_suspension,suspension,especially,standard,features,finance,multi",
             "recuweb_url": "http://en.recuweb.com/ipod/dailymotion.com/2015/04/tampa-fl-dealership-finance-2015-honda-pilot",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/finance/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mak0i_tampa-fl-dealership-finance-2015-honda-pilot_auto",
@@ -76,23 +89,11 @@
             "date": "2015-04-03",
             "author_name": "Rick_Case_Hyundai_Davie",
             "categories": "finance",
-            "tags": "front,wheel,system,comes,comes-ready,comes-ready-equipped,ready,ready-equipped,equipped,near,finance,learn",
+            "tags": "front,wheel,comes,comes-ready,comes-ready-equipped,ready,ready-equipped,equipped,near,finance,learn",
             "recuweb_url": "http://en.recuweb.com/finance/dailymotion.com/2015/04/finance-2013-hyundai-accent-near-miami-fl",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/finance/0?af=1",
             "source_url": "http://dailymotion.com/video/xzokx6_finance-2013-hyundai-accent-near-miami-fl_auto",
             "img_url": "http://www.dailymotion.com/thumbnail/video/xzokx6_finance-2013-hyundai-accent-near-miami-fl_auto"
-        },
-        "dailymotion.com/2015/03/finance-2015-chrysler-300-near-naperville-il": {
-            "title": "Finance 2015 Chrysler 300 - Near Naperville, IL...",
-            "snippet": "(630) 907-1700 Open the door to the 2015 Chrysler 300 and you will find the vehicle you have been dreaming of. It comes well equipped with standard features such as Multi-Link Rear Suspension, Retained Accessory Power, 6 Speaker Audio System and...",
-            "date": "2015-03-19",
-            "author_name": "River_Front_CDJR",
-            "categories": "finance",
-            "tags": "audio,system,retained,rear,rear_suspension,suspension,comes,equipped,standard,standard-features,features,near,finance,multi",
-            "recuweb_url": "http://en.recuweb.com/finance/dailymotion.com/2015/03/finance-2015-chrysler-300-near-naperville-il",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/finance/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2k0wai_finance-2015-chrysler-300-near-naperville-il_auto",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2k0wai_finance-2015-chrysler-300-near-naperville-il_auto"
         },
         "youtube.com/2015/03/live-demo-of-simple-finance-and-logistics-in-sap-s-4": {
             "title": "Live Demo of Simple Finance and Simple Logistics in SAP S/4 HANA...",
@@ -118,17 +119,17 @@
             "source_url": "http://dailymotion.com/video/x2h56nr_acura-bad-credit-auto-loan-financing-serving-marietta-ga_auto",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2h56nr_acura-bad-credit-auto-loan-financing-serving-marietta-ga_auto"
         },
-        "youtube.com/2015/01/exthetics-shenzhen-ping-an-finance-centre": {
-            "title": "Exthetics: ShenZhen Ping An Finance Centre...",
-            "snippet": "Exthetics: ShenZhen Ping An Finance Centre Ping An Finance Centre is the tallest building in China, and second tallest in the world. From: Exthetics Views: 8829 143 ratings Time: 01:12 More in People & Blogs...",
-            "date": "2015-01-31",
-            "author_name": "Exthetics",
-            "categories": "finance",
+        "youtube.com/2015/01/1-introduction-financial-terms-and-concepts": {
+            "title": "1. Introduction, Financial Terms and Concepts...",
+            "snippet": "1. Introduction, Financial Terms and Concepts MIT Topics in Mathematics with Applications in Finance, Fall 2013 View the complete course: Instructor: Peter Kempthorne, Choongbum Lee, Vasily Strela,... From: MIT OpenCourseWare Views: 16364 129...",
+            "date": "2015-01-06",
+            "author_name": "MIT OpenCourseWare",
+            "categories": "mathematics,finance",
             "tags": "finance",
-            "recuweb_url": "http://en.recuweb.com/finance/youtube.com/2015/01/exthetics-shenzhen-ping-an-finance-centre",
+            "recuweb_url": "http://en.recuweb.com/finance/youtube.com/2015/01/1-introduction-financial-terms-and-concepts",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=finance&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=EXSZNxeHGYA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/EXSZNxeHGYA/0.jpg"
+            "source_url": "http://youtube.com/watch?v=wvXDB9dMdEo&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/wvXDB9dMdEo/0.jpg"
         }
     }
 }
