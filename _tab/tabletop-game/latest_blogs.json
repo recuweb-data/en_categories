@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "tabletop-game",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/tabletop-game/",
@@ -10,36 +11,15 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/tabletop-game/tabletop-game/blogs.json"
     },
     "items": {
-        "escapistmagazine.com/2015/04/star-wars-fan-creates-massive-battle-of-hoth-tabletop-game": {
-            "title": "Star Wars Fan Creates Massive Battle of Hoth Tabletop Game...",
-            "snippet": "Game designer Grant Ennis has created Assault on Hoth, a huge game built with Styrofoam and a ton of Star Wars miniatures. If there's one thing the world of tabletop gaming has done right, it's produce some truly fun Star...",
-            "date": "2015-04-24",
-            "author_name": "Stew Shearer",
-            "categories": "tabletop-game",
-            "tags": "produce,truly,gaming,world,tabletop,tabletop_game,game,battle",
-            "recuweb_url": "http://en.recuweb.com/tabletop-game/escapistmagazine.com/2015/04/star-wars-fan-creates-massive-battle-of-hoth-tabletop-game",
-            "resource_url": "http://www.google.com/search?q=tabletop%2Bgame%2Btabletop%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://escapistmagazine.com/news/view/140576-Designer-Creates-Epic-Star-Wars-Battle-of-Hoth-Game"
-        },
         "tabletopgamingnews.com/2015/04/tgn-exclusive-queen-s-necklace-cards-and-board-preview": {
             "title": "TGN Exclusive: Queen's Necklace Cards and Board Preview...",
             "snippet": "Queen's Necklace is making a comeback to gaming tabletops near you. Spaghetti Western Games and CMON are working hard to make sure this new version runs perfectly and looks great. To run right, they've updated the...",
             "date": "2015-04-24",
             "author_name": "Polar_Bear",
-            "tags": "version,great,games,gaming,board",
+            "tags": "games,board,gaming,great",
             "recuweb_url": "http://en.recuweb.com/tabletopgamingnews.com/2015/04/tgn-exclusive-queen-s-necklace-cards-and-board-preview",
             "resource_url": "http://www.google.com/search?q=tabletop%2Bgame%2Btabletop%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://tabletopgamingnews.com/tgn-exclusive-queens-necklace-cards-and-board-preview/"
-        },
-        "bleedingcool.com/2015/04/green-ronin-announces-dragon-age-tabletop-rpg-core-rules": {
-            "title": "Green Ronin Announces Dragon Age Tabletop RPG Core Rules...",
-            "snippet": "DragonAgeCoreRules Previously available as a set of three boxed sets, Green Ronin Publishing has announced the release of a Core Rulebook for their Dragon Age Roleplaying Game. The official adaptation to tabletop...",
-            "date": "2015-04-20",
-            "author_name": "Christopher Helton",
-            "tags": "roleplaying,game,announced,publishing,previously,tabletop,release",
-            "recuweb_url": "http://en.recuweb.com/bleedingcool.com/2015/04/green-ronin-announces-dragon-age-tabletop-rpg-core-rules",
-            "resource_url": "http://www.google.com/search?q=tabletop%2Bgame%2Btabletop%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bleedingcool.com/2015/04/20/green-ronin-announces-dragon-age-tabletop-rpg-core-rules/"
         },
         "huffingtonpost.com/2015/04/consumers-turning-to-tabletop-options-in-backlash-against-video": {
             "title": "Consumers Turning To Tabletop Options In Backlash Against Video...",
@@ -47,7 +27,7 @@
             "date": "2015-04-12",
             "author_name": "Reuters",
             "categories": "home",
-            "tags": "social,part,people,dad,old,tabletop,against,called,games",
+            "tags": "social,screen,appears,growing,growing-trend,trend,trend-of-people,people,people-turning,turning,home,home-dad,dad,dad-with-children,children,children-aged,aged,tabletop,backlash,against,old,stay,part,called,games",
             "recuweb_url": "http://en.recuweb.com/home/huffingtonpost.com/2015/04/consumers-turning-to-tabletop-options-in-backlash-against-video",
             "resource_url": "http://www.google.com/search?q=tabletop%2Bgame%2Btabletop%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://huffingtonpost.com/2015/04/12/board-game-sales_n_7049190.html"
@@ -57,7 +37,7 @@
             "snippet": "This week's Humble Weekly Bundle is focusing on Tabletop Games, and charitable gamers can get their hands on physical items.",
             "date": "2015-04-09",
             "author_name": "Jon Gregory",
-            "tags": "tabletop,tabletop_games,games,gets",
+            "tags": "hands,physical,tabletop,tabletop_games,games,weekly,gets,gamers",
             "recuweb_url": "http://en.recuweb.com/gameinformer.com/2015/04/psa-humble-weekly-bundle-gets-physical-with-tabletop-games",
             "resource_url": "http://www.google.com/search?q=tabletop%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://gameinformer.com/b/news/archive/2015/04/09/psa-humble-weekly-bundle-gets-physical-with-tabletop-games.aspx"
@@ -67,17 +47,27 @@
             "snippet": "They're trolling me, right? They know how much I hate Oasis, said Anthony Amato, at least according to his Cardboard Fortress Games design partner Nicole Kline, as she recounts the game jam that inspired RESISTOR_.",
             "date": "2015-04-06",
             "author_name": "unknown",
-            "tags": "jam,games,tabletop,game,said,design",
+            "tags": "games,tabletop,game",
             "recuweb_url": "http://en.recuweb.com/killscreendaily.com/2015/04/this-tabletop-game-inspired-by-oasis-is-somehow-not-terrible-kill",
             "resource_url": "http://www.google.com/search?q=tabletop%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://killscreendaily.com/articles/tabletop-game-inspired-oasis-somehow-not-terrible/"
+        },
+        "reddit.com/2015/04/i-want-to-observe-your-roll20-game-for-my-anthropology-project": {
+            "title": "I want to observe your Roll20 game for my anthropology project about the culture inside of and...",
+            "snippet": "My name is Michael Newton and I've been playing tabletop games for several years. As a first-year student from Trinity University, I was wondering if I could have the oppourtunity to observe your Roll20 game if anyone has one coming up in order to...",
+            "date": "2015-04-01",
+            "categories": "university,anthropology,culture",
+            "tags": "culture,inside,game,playing,tabletop,games",
+            "recuweb_url": "http://en.recuweb.com/culture/reddit.com/2015/04/i-want-to-observe-your-roll20-game-for-my-anthropology-project",
+            "resource_url": "http://www.reddit.com/search.rss?q=tabletop%2Bgame%2Btabletop%2Bgame&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/rpg/comments/313mai/i_want_to_observe_your_roll20_game_for_my/"
         },
         "idwgames.com/2015/03/idw-to-release-orphan-black-tabletop-games": {
             "title": "IDW TO RELEASE ORPHAN BLACK TABLETOP GAMES IDW...",
             "snippet": "On the heels of Orphan Black 1 being announced as February's top-selling comic, today IDW announced it would release a series of Orphan Black tabletop games. Up first will be a deductive card game scheduled to be in...",
             "date": "2015-03-19",
             "author_name": "IDW Games",
-            "tags": "first,announced,would,release,tabletop,tabletop_games,games,today,game",
+            "tags": "release,series,tabletop,tabletop_games,games,game",
             "recuweb_url": "http://en.recuweb.com/idwgames.com/2015/03/idw-to-release-orphan-black-tabletop-games",
             "resource_url": "http://www.google.com/search?q=tabletop%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://idwgames.com/idw-to-release-orphan-black-tabletop-games/"
@@ -87,7 +77,7 @@
             "snippet": "Hi r/Cooking! We recently started a tabletop game night with some friends and decided that our snacks on our sessions where not that healthy(mostly flour based food, naan bread like chips, breadsticks and such). What would you guys recommend? i...",
             "date": "2015-02-24",
             "categories": "food,cooking",
-            "tags": "would,night,friends,decided,started,tabletop,game",
+            "tags": "night,decided,recently,started,tabletop,game",
             "recuweb_url": "http://en.recuweb.com/cooking/reddit.com/2015/02/healthier-snacks-for-tabletop-game-night",
             "resource_url": "http://www.reddit.com/search.rss?q=tabletop%2Bgame%2Btabletop%2Bgame&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/Cooking/comments/2x1gwc/healthier_snacks_for_tabletop_game_night/"
@@ -98,7 +88,7 @@
             "date": "2015-02-19",
             "author_name": "topbestfreeandroidgames",
             "categories": "play",
-            "tags": "lot,games,game,tabletop,playing",
+            "tags": "lot,games,inside,game,tabletop,tabletop_simulator,simulator,playing",
             "recuweb_url": "http://en.recuweb.com/play/topbestfreeandroidgames.wordpress.com/2015/02/tabletop-simulator-download-apk",
             "resource_url": "http://en.search.wordpress.com/?q=tabletop%2Bgame%2Btabletop%2Bgame&f=feed&page=1",
             "source_url": "http://topbestfreeandroidgames.wordpress.com/2015/02/19/tabletop-simulator-download-apk/"
@@ -108,10 +98,19 @@
             "snippet": "Part 2 here I grew up in a house of nerds. My dad had been an old school tabletop player back in the 80s, and once he decided I was old enough, he started introducing me to D&D. We started with solo, PG-rated adventures with him as the DM. When I...",
             "date": "2015-02-15",
             "categories": "school",
-            "tags": "started,old,decided,dad,people,great,game,part,tabletop,player",
+            "tags": "started,d&d,once,decided,player,dad,people,group,local,great,game,part,old,tabletop",
             "recuweb_url": "http://en.recuweb.com/school/reddit.com/2015/02/i-had-a-great-d&d-group-going-at-my-local-game",
             "resource_url": "http://www.reddit.com/search.rss?q=tabletop%2Bgame%2Btabletop%2Bgame&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/nosleep/comments/2vyuz1/i_had_a_great_dd_group_going_at_my_local_game/"
+        },
+        "reddit.com/2015/02/tabletop-rpg-gaming-d&d-with-a-digital-battle-mat-and-physical": {
+            "title": "Tabletop RPG gaming (D&D) with a digital battle mat and physical minis...",
+            "snippet": "I recently ran a group of newbies through the new Dungeons and Dragons 5th Edition Starter Set. I wanted to do something really fun to get them engaged in the game and capture their attention, so I decided to set up a \"hybrid\" tabletop. The battle...",
+            "date": "2015-02-01",
+            "tags": "decided,something,fun,edition,recently,group,physical,tabletop,gaming,d&d,battle,dungeons,dragons,game",
+            "recuweb_url": "http://en.recuweb.com/reddit.com/2015/02/tabletop-rpg-gaming-d&d-with-a-digital-battle-mat-and-physical",
+            "resource_url": "http://www.reddit.com/search.rss?q=tabletop%2Bgame%2Btabletop%2Bgame&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/Games/comments/2ufsrt/tabletop_rpg_gaming_dd_with_a_digital_battle_mat/"
         }
     }
 }
