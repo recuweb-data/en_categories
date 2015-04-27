@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "giant-planets",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/giant-planets/",
@@ -10,27 +11,27 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/giant-planets/giant-planets/blogs.json"
     },
     "items": {
+        "cosmosup.com/2015/04/newfound-gas-giant-planet-is-the-most-distant-exoplanet-ever": {
+            "title": "Newfound Gas Giant Planet Is The Most Distant Exoplanet Ever...",
+            "snippet": "Scientists using Spitzer Space Telescope have discovered a gas giant planet that's roughly 13,000 light-years away from Earth, OGLE-2014-BLG-0124Lb is one of the furthest planets ever discovered. The new discovery may...",
+            "date": "2015-04-25",
+            "author_name": "CosmosUp Staff",
+            "categories": "earth,planets",
+            "tags": "away,planets,spitzer,space,gas,gas_giant,giant,distant,scientists,light,earth,discovery",
+            "recuweb_url": "http://en.recuweb.com/planets/cosmosup.com/2015/04/newfound-gas-giant-planet-is-the-most-distant-exoplanet-ever",
+            "resource_url": "http://www.google.com/search?q=giant%2Bplanets%2Bgiant%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://cosmosup.com/newfound-gas-giant-planet-is-the-most-distant-exoplanet-ever-detected/"
+        },
         "science.psu.edu/2015/04/new-nasa-coalition-to-lead-search-for-life-on-distant-worlds": {
             "title": "New NASA coalition to lead search for life on distant worlds includes...",
             "snippet": "A new NASA initiative is embracing a team approach to the quest for life on planets around other stars. The new Nexus for... This team will study the atmospheres of giant planets that are transiting hot Jupiters. The team will...",
             "date": "2015-04-21",
             "author_name": "jms1140",
-            "categories": "stars,life,planets",
-            "tags": "study,atmospheres,around,other,stars,life,distant,nasa,search,team,planets,giant",
-            "recuweb_url": "http://en.recuweb.com/planets/science.psu.edu/2015/04/new-nasa-coalition-to-lead-search-for-life-on-distant-worlds",
-            "resource_url": "http://www.google.com/search?q=giant%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "categories": "life,planets,stars",
+            "tags": "transiting,hot,study,atmospheres,quest,life,life-on-distant,distant,distant-worlds,worlds,coalition,nasa,search,team,planets,other,stars,giant,jupiters",
+            "recuweb_url": "http://en.recuweb.com/stars/science.psu.edu/2015/04/new-nasa-coalition-to-lead-search-for-life-on-distant-worlds",
+            "resource_url": "http://www.google.com/search?q=giant%2Bplanets%2Bgiant%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://science.psu.edu/news-and-events/2015-news/FordWright4-2015"
-        },
-        "cosmosup.com/2015/04/newfound-gas-giant-planet-is-the-most-distant-exoplanet-ever": {
-            "title": "Newfound Gas Giant Planet Is The Most Distant Exoplanet Ever...",
-            "snippet": "Scientists using Spitzer Space Telescope have discovered a gas giant planet that's roughly 13,000 light-years away from Earth, OGLE-2014-BLG-0124Lb is one of the furthest planets ever discovered. The new discovery may...",
-            "date": "2015-04-21",
-            "author_name": "CosmosUp Staff",
-            "categories": "earth,planets",
-            "tags": "discovery,ever,discovered,planets,spitzer,space,telescope,newfound,gas,gas_giant,giant,distant,exoplanet,scientists,using,light,years,away,earth",
-            "recuweb_url": "http://en.recuweb.com/planets/cosmosup.com/2015/04/newfound-gas-giant-planet-is-the-most-distant-exoplanet-ever",
-            "resource_url": "http://www.google.com/search?q=giant%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://cosmosup.com/newfound-gas-giant-planet-is-the-most-distant-exoplanet-ever-detected/"
         },
         "beyondearthlyskies.blogspot.com/2015/04/two-eccentric-giant-planets-around-a-sun-like-star": {
             "title": "Two Eccentric Giant Planets around a Sun-Like Star...",
@@ -38,18 +39,18 @@
             "date": "2015-04-21",
             "author_name": "Koh Xuan Yang",
             "categories": "giant-planets,planets,sun",
-            "tags": "identified,orbits,around,discovery,giant,giant_planets,planets,star,planetary,system",
+            "tags": "identified,orbits,giant,giant_planets,planets,star,discovery,planetary,system",
             "recuweb_url": "http://en.recuweb.com/sun/beyondearthlyskies.blogspot.com/2015/04/two-eccentric-giant-planets-around-a-sun-like-star",
-            "resource_url": "http://www.google.com/search?q=giant%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=giant%2Bplanets%2Bgiant%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://beyondearthlyskies.blogspot.com/2015/04/two-eccentric-giant-planets-around-sun.html"
         },
         "uanews.org/2015/04/astronomers-probe-young-star-and-its-planets-uanews": {
             "title": "Astronomers Probe Young Star and its Planets UANews...",
-            "snippet": "\"The LBT enables us to look at those planets at a wavelength that nobody else is really using,\" Veillet explained. \"Because they are gas giants and still very young, they glow nicely at the L'band, and because they appear so...",
+            "snippet": "The team sought to constrain the orbital parameters of the four known giant planets and the physical properties of a putative fifth planet inside the known planets. \"To address the first point, we investigated in particular the...",
             "date": "2015-04-20",
             "author_name": "Daniel Stolte",
             "categories": "planets",
-            "tags": "because,giants,using,look,planets,astronomers,probe,young,young_star,star,gas",
+            "tags": "investigated,investigated-in-particular,particular,address,point,sought,planets,planet,young,young_star,star,team,constrain,orbital,parameters,giant,physical,properties,putative,fifth,inside",
             "recuweb_url": "http://en.recuweb.com/planets/uanews.org/2015/04/astronomers-probe-young-star-and-its-planets-uanews",
             "resource_url": "http://www.google.com/search?q=giant%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://uanews.org/story/astronomers-probe-young-star-and-its-planets"
@@ -60,7 +61,7 @@
             "date": "2015-03-31",
             "author_name": "Koh Xuan Yang",
             "categories": "giant-planets,planets,nebulae",
-            "tags": "formation,planets,giant,giant_planets,star,gas,planetary",
+            "tags": "formation,planets,towards,giant,giant_planets,star,gas,planetary",
             "recuweb_url": "http://en.recuweb.com/nebulae/beyondearthlyskies.blogspot.com/2015/03/beyond-earthly-skies-nebulae-from-destructed-giant-planets",
             "resource_url": "http://www.google.com/search?q=giant%2Bplanets%2Bgiant%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://beyondearthlyskies.blogspot.com/2015/04/nebulae-from-destructed-giant-planets.html"
@@ -70,8 +71,8 @@
             "snippet": "Luke Skywalker's home in Star Wars is the desert planet Tatooine, with twin sunsets because it orbits two stars. So far, only uninhabitable gas-giant planets have been identified circling such binary stars, and many...",
             "date": "2015-03-30",
             "author_name": "dailygalaxy.com",
-            "categories": "stars,home,planets",
-            "tags": "many,identified,stars,star,only,because,orbits,planets,alien,far,gas,giant",
+            "categories": "home,stars,planets",
+            "tags": "identified,only,because,orbits,planets,stars,habitable,alien,far,gas,giant",
             "recuweb_url": "http://en.recuweb.com/planets/dailygalaxy.com/2015/03/habitable-alien-planets-of-binary-stars-they-may-be-hidden",
             "resource_url": "http://www.google.com/search?q=giant%2Bplanets%2Bgiant%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://dailygalaxy.com/my_weblog/2015/03/habitable-alien-planets-of-binary-stars-they-may-be-hidden-by-gas-giants.html"
@@ -82,7 +83,7 @@
             "date": "2015-03-25",
             "author_name": "lhock",
             "categories": "exoplanets,planets",
-            "tags": "massive,massive-than,than,many,newly,newly-observed,newly-observed-exoplanets,observed,observed-exoplanets,exoplanets,exoplanets-that-orbit,orbit,orbit-distant,orbit-distant-suns,distant,distant-suns,suns,dense,dense-matter,matter,stuff,stuff-believed,believed,cores,look,look-yet,yet,warm,best,giant,planets,gas,solar,system,jupiter",
+            "tags": "massive,newly,newly-observed,newly-observed-exoplanets,observed,observed-exoplanets,exoplanets,exoplanets-that-orbit,orbit,orbit-distant,orbit-distant-suns,distant,distant-suns,suns,dense,dense-matter,matter,stuff,stuff-believed,believed,cores,look,look-yet,yet,warm,giant,planets,gas,solar,system,jupiter",
             "recuweb_url": "http://en.recuweb.com/planets/rdmag.com/2015/03/best-look-yet-at-warm-dense-matter-cores-of-giant-planets",
             "resource_url": "http://www.google.com/search?q=giant%2Bplanets%2Bgiant%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://rdmag.com/videos/2015/03/best-look-yet-warm-dense-matter-cores-giant-planets"
@@ -93,7 +94,7 @@
             "date": "2015-03-23",
             "author_name": "unknown",
             "categories": "exoplanets,planets",
-            "tags": "massive,massive-than,than,many,newly,newly-observed,newly-observed-exoplanets,observed,observed-exoplanets,exoplanets,exoplanets-that-orbit,orbit,orbit-distant,orbit-distant-suns,distant,distant-suns,suns,dense,dense-matter,matter,stuff,stuff-believed,believed,cores,experiment,provides,best,look,look-yet,yet,warm,giant,gas,planets,solar,system,jupiter",
+            "tags": "massive,newly,newly-observed,newly-observed-exoplanets,observed,observed-exoplanets,exoplanets,exoplanets-that-orbit,orbit,orbit-distant,orbit-distant-suns,distant,distant-suns,suns,dense,dense-matter,matter,stuff,stuff-believed,believed,cores,experiment,provides,look,look-yet,yet,warm,giant,gas,planets,solar,system,jupiter",
             "recuweb_url": "http://en.recuweb.com/planets/phys.org/2015/03/shock-wave-experiment-provides-the-best-look-yet-at-warm-dense",
             "resource_url": "http://www.google.com/search?q=giant%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://phys.org/news/2015-03-dense-cores-giant-planets.html"
@@ -104,7 +105,7 @@
             "date": "2015-02-11",
             "author_name": "SpaceStockFootage",
             "categories": "giant-planets,planets",
-            "tags": "other,giants,giant,outer,gas,gas_giant,gas_giant_planets,giant_planets,planets,jupiter,saturn",
+            "tags": "gas,gas_giant,gas_giant_planets,giants,giant_planets,planets,outer,jupiter,saturn,other",
             "recuweb_url": "http://en.recuweb.com/planets/videohive.net/2015/02/motion-graphics-marble-gas-giant-planets-videohive",
             "resource_url": "http://www.google.com/search?q=giant%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://videohive.net/item/marble-gas-giant-planets/10320010"
@@ -115,7 +116,7 @@
             "date": "2015-01-22",
             "author_name": "unknown",
             "categories": "earth,planets",
-            "tags": "during,planets,cores,planet-formation,formation,earths,earth,giant,laser,inside",
+            "tags": "planets,cores,planet-formation,formation,research,earths,earth,giant,laser,inside",
             "recuweb_url": "http://en.recuweb.com/planets/phys.org/2015/01/new-research-re-creates-planet-formation-super-earths-and-giant",
             "resource_url": "http://www.google.com/search?q=giant%2Bplanets%2Bgiant%2Bplanets&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://phys.org/news/2015-01-re-creates-planet-formation-super-earths-giant.html"
