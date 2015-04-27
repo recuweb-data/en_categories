@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "healthcare-quality",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/healthcare-quality/",
@@ -10,16 +11,48 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/healthcare-quality/healthcare-quality/blogs.json"
     },
     "items": {
-        "hcatodayblog.com/2015/04/harvard-pilgrim-institute-and-hca-partner-on-healthcare-quality": {
-            "title": "Harvard Pilgrim Institute and HCA Partner on Healthcare Quality...",
-            "snippet": "We know that great things happen when people work together. We're excited to announce a new research partnership with the Harvard Pilgrim Health Care Institute aimed at influencing U.S. medical practice. More details are...",
-            "date": "2015-04-15",
-            "author_name": "HCA",
-            "categories": "health,health-care,institute,healthcare-quality",
-            "tags": "harvard,harvard_pilgrim,pilgrim,health,health_care,healthcare,care,institute,research,partnership,great,people,healthcare_quality,quality,hca,medical",
-            "recuweb_url": "http://en.recuweb.com/healthcare-quality/hcatodayblog.com/2015/04/harvard-pilgrim-institute-and-hca-partner-on-healthcare-quality",
+        "healthcare-informatics.com/2015/04/cms-releases-strategic-vision-for-physician-quality-reporting": {
+            "title": "CMS Releases Strategic Vision for Physician Quality Reporting...",
+            "snippet": "There are five principles that the federal agency believes will ensure that quality measurement and public reporting play a critical role in improving the healthcare delivered to millions of Americans: Input from patients...",
+            "date": "2015-04-24",
+            "author_name": "Rajiv Leventhal",
+            "categories": "play",
+            "tags": "measurement,reporting,federal,agency,quality,cms,healthcare,patients",
+            "recuweb_url": "http://en.recuweb.com/play/healthcare-informatics.com/2015/04/cms-releases-strategic-vision-for-physician-quality-reporting",
             "resource_url": "http://www.google.com/search?q=healthcare%2Bquality&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://hcatodayblog.com/2015/04/15/harvard-pilgrim-institute-and-hca-partner-on-healthcare-quality-research/"
+            "source_url": "http://healthcare-informatics.com/news-item/cms-releases-strategic-vision-physician-quality-reporting-programs"
+        },
+        "californiahealthline.org/2015/04/poll-few-people-use-pricing-quality-data-in-health-care-decisions": {
+            "title": "Poll: Few People Use Pricing, Quality Data in Health Care Decisions...",
+            "snippet": "... Health Care Quality. Few individuals use quality and pricing data on physicians and hospitals to make their health care choices, according to a Kaiser Family Foundation poll published Tuesday, Kaiser Health News reports.",
+            "date": "2015-04-22",
+            "author_name": "unknown",
+            "categories": "health,health-care",
+            "tags": "health,published,foundation,data,health_care,health_care_quality,care,care_quality,quality,hospitals,reports",
+            "recuweb_url": "http://en.recuweb.com/health-care/californiahealthline.org/2015/04/poll-few-people-use-pricing-quality-data-in-health-care-decisions",
+            "resource_url": "http://www.google.com/search?q=healthcare%2Bquality%2Bhealthcare%2Bquality&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://californiahealthline.org/articles/2015/4/22/poll-few-people-use-pricing-quality-data-in-health-care-decisions"
+        },
+        "wreg.com/2015/04/substandard-quality-of-care-at-signature-healthcare": {
+            "title": "Substandard Quality of Care at Signature Healthcare... -...",
+            "snippet": "Carol Diamond said it was no shock to her when WREG reported federal authorities cut off payments to Signature Healthcare at Saint Francis for Medicare and Medicaid residents. Her husband Luther was a patient at the...",
+            "date": "2015-04-17",
+            "author_name": "Zaneta Lowe",
+            "tags": "patient,federal,cut,healthcare,quality,care,said,residents",
+            "recuweb_url": "http://en.recuweb.com/wreg.com/2015/04/substandard-quality-of-care-at-signature-healthcare",
+            "resource_url": "http://www.google.com/search?q=healthcare%2Bquality%2Bhealthcare%2Bquality&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://wreg.com/2015/04/17/federal-regulators-substandard-quality-of-care-at-signature-healthcare-at-saint-francis/"
+        },
+        "modernhealthcare.com/2015/04/hca-harvard-pilgrim-strike-partnership-on-healthcare-quality-research": {
+            "title": "HCA, Harvard Pilgrim strike partnership on healthcare quality research...",
+            "snippet": "Hospital chain HCA and health insurer Harvard Pilgrim Health Care have agreed to work together on new medical research studies with the goal of spreading best practices throughout the country. The leader in healthcare...",
+            "date": "2015-04-15",
+            "author_name": "unknown",
+            "categories": "health,health-care",
+            "tags": "leader,research,health,healthcare,care,quality,hospital,medical",
+            "recuweb_url": "http://en.recuweb.com/health-care/modernhealthcare.com/2015/04/hca-harvard-pilgrim-strike-partnership-on-healthcare-quality-research",
+            "resource_url": "http://www.google.com/search?q=healthcare%2Bquality%2Bhealthcare%2Bquality&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://modernhealthcare.com/article/20150415/NEWS/150419951"
         },
         "news.nurse.com/2015/04/initiative-improves-healthcare-quality-provides-tools-to-nurses": {
             "title": "Initiative improves healthcare quality, provides tools to nurses...",
@@ -27,7 +60,7 @@
             "date": "2015-04-15",
             "author_name": "unknown",
             "categories": "health,technology",
-            "tags": "lower,provides,tools,innovation,models,announced,health,health_information,health_information_technology,information,information_technology,technology,national,national_coordinator,coordinator,healthcare,quality,office,improve,costs",
+            "tags": "lower,costs,tools,state,announced,health,health_information,health_information_technology,information,information_technology,technology,national,national_coordinator,coordinator,healthcare,quality,office,improve",
             "recuweb_url": "http://en.recuweb.com/technology/news.nurse.com/2015/04/initiative-improves-healthcare-quality-provides-tools-to-nurses",
             "resource_url": "http://www.google.com/search?q=healthcare%2Bquality%2Bhealthcare%2Bquality&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://news.nurse.com/article/20150415/NATIONAL06/150415001"
@@ -38,21 +71,10 @@
             "date": "2015-04-15",
             "author_name": "unknown",
             "categories": "business",
-            "tags": "major,residents,shift,research,research-data,data,business,business-news,leader,rate,quality,measures,healthcare",
+            "tags": "residents,research,research-data,data,business,business-news,leader,nursing,quality,measures,healthcare",
             "recuweb_url": "http://en.recuweb.com/business/modernhealthcare.com/2015/04/nursing-homes-see-proposed-1-4%-rate-hike-and-quality-measures",
             "resource_url": "http://www.google.com/search?q=healthcare%2Bquality%2Bhealthcare%2Bquality&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://modernhealthcare.com/article/20150415/NEWS/150419929"
-        },
-        "unitedliberty.org/2015/04/quality-of-healthcare-going-down-say-voters-united-liberty-free": {
-            "title": "Quality of Healthcare Going Down Say Voters United Liberty Free...",
-            "snippet": "GOPhealthcareplan About 70 percent of likely voters rate the quality of the health care they receive as good or excellent, down one point since January, according to a recent Rasmussen poll. While that might seem not so...",
-            "date": "2015-04-14",
-            "author_name": "goldwatergal",
-            "categories": "health",
-            "tags": "rate,percent,healthcare,free,quality,health,care",
-            "recuweb_url": "http://en.recuweb.com/health/unitedliberty.org/2015/04/quality-of-healthcare-going-down-say-voters-united-liberty-free",
-            "resource_url": "http://www.google.com/search?q=healthcare%2Bquality%2Bhealthcare%2Bquality&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://unitedliberty.org/articles/19170-quality-of-healthcare-going-down-say-voters"
         },
         "cossa.org/2015/04/ahrq-2014-healthcare-quality-and-disparities-report-shows": {
             "title": "AHRQ 2014 Healthcare Quality and Disparities Report Shows...",
@@ -60,9 +82,9 @@
             "date": "2015-04-14",
             "author_name": "COSSA",
             "categories": "healthcare-quality,health",
-            "tags": "released,healthcare,research,report,healthcare_quality,quality,health,care,information",
+            "tags": "information,healthcare,research,healthcare_quality,quality,agency,health,care",
             "recuweb_url": "http://en.recuweb.com/health/cossa.org/2015/04/ahrq-2014-healthcare-quality-and-disparities-report-shows",
-            "resource_url": "http://www.google.com/search?q=healthcare%2Bquality%2Bhealthcare%2Bquality&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=healthcare%2Bquality&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://cossa.org/2015/04/14/ahrq-2014-healthcare-quality-and-disparities-report-shows-improved-overall-quality-and-access-lingering-disparities/"
         },
         "zacks.com/2015/04/quality-systems-unveils-health-care-platform-buys-gennius-april": {
@@ -71,7 +93,7 @@
             "date": "2015-04-13",
             "author_name": "Zacks Equity Research",
             "categories": "management,health,health-care",
-            "tags": "announced,care,management,recently,quality,quality_systems,systems,health,health_care,healthcare,inc",
+            "tags": "announced,care,management,population,quality,systems,health,health_care,healthcare,recently",
             "recuweb_url": "http://en.recuweb.com/health-care/zacks.com/2015/04/quality-systems-unveils-health-care-platform-buys-gennius-april",
             "resource_url": "http://www.google.com/search?q=healthcare%2Bquality%2Bhealthcare%2Bquality&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://zacks.com/stock/news/170507/quality-systems-unveils-health-care-platform-buys-gennius"
@@ -82,9 +104,9 @@
             "date": "2015-04-06",
             "author_name": "unknown",
             "categories": "business",
-            "tags": "research,research-data,data,business,business-news,leader,cut,important,quality,patient,care,healthcare",
+            "tags": "research,research-data,data,business,business-news,leader,patient,cut,quality,care,healthcare",
             "recuweb_url": "http://en.recuweb.com/business/modernhealthcare.com/2015/04/how-much-doctors-are-paid-for-quality-may",
-            "resource_url": "http://www.google.com/search?q=healthcare%2Bquality&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=healthcare%2Bquality%2Bhealthcare%2Bquality&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://modernhealthcare.com/article/20150406/NEWS/150409927"
         },
         "hhs.gov/2015/04/online-tools-and-resources-available-to-help-states-use-health": {
@@ -93,32 +115,10 @@
             "date": "2015-04-02",
             "author_name": "unknown",
             "categories": "health,technology",
-            "tags": "announced,health,health_information,health_information_technology,information,information_technology,technology,national,national_coordinator,coordinator,lower,cost,tools,help,improve,care,quality,office",
+            "tags": "announced,today,health,health_information,health_information_technology,information,information_technology,technology,national,national_coordinator,coordinator,lower,tools,resources,help,improve,care,quality,office",
             "recuweb_url": "http://en.recuweb.com/technology/hhs.gov/2015/04/online-tools-and-resources-available-to-help-states-use-health",
             "resource_url": "http://www.google.com/search?q=healthcare%2Bquality%2Bhealthcare%2Bquality&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://hhs.gov/news/press/2015pres/04/20150402a.html"
-        },
-        "hhnmag.com/2015/03/healthcare-quality-benchmarks-continue-to-irritate-evolve": {
-            "title": "Healthcare Quality Benchmarks Continue to Irritate, Evolve...",
-            "snippet": "The always interesting topic of the appropriateness of federal quality and safety benchmarks is getting some extra attention this year. A major shift is taking place in Medicare's Physician Quality Reporting System program,...",
-            "date": "2015-03-04",
-            "author_name": "unknown",
-            "categories": "healthcare-quality",
-            "tags": "quality,system,major,shift,taking,safety,federal,healthcare,healthcare_quality,continue,medicare",
-            "recuweb_url": "http://en.recuweb.com/healthcare-quality/hhnmag.com/2015/03/healthcare-quality-benchmarks-continue-to-irritate-evolve",
-            "resource_url": "http://www.google.com/search?q=healthcare%2Bquality&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://hhnmag.com/display/HHN-news-article.dhtml?dcrPath=/templatedata/HF_Common/NewsArticle/data/HHN/Daily/2015/March/healthcare-quality-benchmarks-blog-barr"
-        },
-        "tracygriffin87.wordpress.com/2015/02/4-solutions-to-improve-quality-management-in-healthcare": {
-            "title": "4 Solutions to Improve Quality Management in Healthcare...",
-            "snippet": "Healthcare is one of the most important attributes in todays society, so being able to improve hospital administration is just as important. There are many great ways that []...",
-            "date": "2015-02-22",
-            "author_name": "tracygriffin87",
-            "categories": "society,management",
-            "tags": "many,great,hospital,important,able,improve,quality,management,healthcare",
-            "recuweb_url": "http://en.recuweb.com/management/tracygriffin87.wordpress.com/2015/02/4-solutions-to-improve-quality-management-in-healthcare",
-            "resource_url": "http://en.search.wordpress.com/?q=healthcare%2Bquality%2Bhealthcare%2Bquality&f=feed&page=1",
-            "source_url": "http://tracygriffin87.wordpress.com/2015/02/22/4-solutions-to-improve-quality-management-in-healthcare/"
         }
     }
 }
