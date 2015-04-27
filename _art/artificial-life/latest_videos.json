@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "artificial-life",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/artificial-life/",
@@ -10,6 +11,30 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/artificial-life/artificial-life/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/artificial-life-scientist-we-didn-t-create-from-scratch": {
+            "title": "Artificial life Scientist: We didn't create life from scratch...",
+            "snippet": "Artificial life Scientist: We didn't create life from scratchAuthor: SherleneKemperTags: Artificial life Scientist: We didnt create from scratch Posted: 27 April 2015Rating:: 0...",
+            "date": "2015-04-27",
+            "author_name": "SherleneKemper",
+            "categories": "life",
+            "tags": "create,life,artificial",
+            "recuweb_url": "http://en.recuweb.com/life/dailymotion.com/2015/04/artificial-life-scientist-we-didn-t-create-from-scratch",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/artificial+life+artificial+life/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2o47j4_artificial-life-scientist-we-didn-t-create-life-from-scratch_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o47j4_artificial-life-scientist-we-didn-t-create-life-from-scratch_tech"
+        },
+        "dailymotion.com/2015/04/life-of-an-artificial-tree": {
+            "title": "Life of an artificial tree...",
+            "snippet": "Life of an artificial treeAuthor: BrittaFitzsimmonsTags: Life of an artificial tree Posted: 24 April 2015Rating:: 0...",
+            "date": "2015-04-24",
+            "author_name": "BrittaFitzsimmons",
+            "categories": "life",
+            "tags": "artificial,life",
+            "recuweb_url": "http://en.recuweb.com/life/dailymotion.com/2015/04/life-of-an-artificial-tree",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/artificial+life/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nu3ke_life-of-an-artificial-tree_creation",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nu3ke_life-of-an-artificial-tree_creation"
+        },
         "dailymotion.com/2015/04/digital-life-ecosystem-garden-of-mechatronics-bionics-and-artificial": {
             "title": "Digital life ecosystem - Garden of Mechatronics, Bionics and Artificial Life...",
             "snippet": "Digital life ecosystem - Garden of Mechatronics, Bionics and Artificial LifeAuthor: OctavioPratherTags: Digital life ecosystem - Garden of Mechatronics Bionics and Artificial Life Posted: 21 April 2015Rating:: 0...",
@@ -52,7 +77,7 @@
             "date": "2015-04-05",
             "author_name": "cullionlysafe",
             "categories": "artificial-life,life",
-            "tags": "living,artificial,artificial_life,life",
+            "tags": "living,create,artificial,artificial_life,life",
             "recuweb_url": "http://en.recuweb.com/life/dailymotion.com/2015/04/scientists-create-artificial-life-in-laboratory-the-first-living-thing-ever",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/artificial+life/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ls4or_scientists-create-artificial-life-in-laboratory-the-first-living-thing-ever-created-by-human_news",
@@ -72,11 +97,11 @@
         },
         "youtube.com/2014/12/vinesauce-vinny-species-artificial-life-real-evolution-alpha": {
             "title": "Vinesauce Vinny - Species: Artificial Life, Real Evolution Alpha...",
-            "snippet": "Vinesauce Vinny - Species: Artificial Life, Real Evolution Alpha Playlist: For streaming highlights:... From: Vinesauce: The Full Sauce Views: 41280 461 ratings Time: 01:12:00 More in Gaming...",
+            "snippet": "Vinesauce Vinny - Species: Artificial Life, Real Evolution Alpha Playlist: For streaming highlights:... From: Vinesauce: The Full Sauce Views: 42127 469 ratings Time: 01:12:00 More in Gaming...",
             "date": "2014-12-01",
             "author_name": "Vinesauce: The Full Sauce",
             "categories": "artificial-life,life,play",
-            "tags": "real,real_evolution,evolution,alpha,artificial,artificial_life,life,species,play,gaming",
+            "tags": "artificial,artificial_life,life,gaming",
             "recuweb_url": "http://en.recuweb.com/play/youtube.com/2014/12/vinesauce-vinny-species-artificial-life-real-evolution-alpha",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=artificial%2Blife%2Bartificial%2Blife&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=wEweZKEt3Js&feature=youtube_gdata",
@@ -88,7 +113,7 @@
             "date": "2014-11-30",
             "author_name": "pickledtezcat",
             "categories": "artificial-life,life",
-            "tags": "game,artificial,artificial_life,artificial_life_simulation,life,life_simulation,simulation,gaming",
+            "tags": "artificial,artificial_life,artificial_life_simulation,life,life_simulation,simulation,gaming",
             "recuweb_url": "http://en.recuweb.com/life/youtube.com/2014/11/artificial-life-simulation",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=artificial%2Blife&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=vZgGrZEstaw&feature=youtube_gdata",
@@ -102,33 +127,9 @@
             "categories": "artificial-life,life",
             "tags": "artificial,artificial_life,life",
             "recuweb_url": "http://en.recuweb.com/life/youtube.com/2014/10/public-lecture-artificial-life-for-bigger-&-safer-computing",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=artificial%2Blife&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=artificial%2Blife%2Bartificial%2Blife&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=NqSnoJ-VGH4&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/NqSnoJ-VGH4/0.jpg"
-        },
-        "youtube.com/2014/09/species-artificial-life-real-evolution-alpha-let-s-play-episode-01": {
-            "title": "Species: Artificial Life, Real Evolution (Alpha)/Let's Play - Episode 01...",
-            "snippet": "Species: Artificial Life, Real Evolution (Alpha)/Let's Play - Episode 01 Overworld Gaming's Twitter: Overworld Gaming's Facebook Page: Overworld Gaming's... From: Overworld Gaming Views: 5410 45 ratings Time: 16:50 More in Gaming...",
-            "date": "2014-09-04",
-            "author_name": "Overworld Gaming",
-            "categories": "facebook,artificial-life,life,play,twitter",
-            "tags": "gaming,real,real_evolution,evolution,artificial,artificial_life,life,species,alpha,let,play",
-            "recuweb_url": "http://en.recuweb.com/twitter/youtube.com/2014/09/species-artificial-life-real-evolution-alpha-let-s-play-episode-01",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=artificial%2Blife%2Bartificial%2Blife&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=gRS4Cz11JLM&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/gRS4Cz11JLM/0.jpg"
-        },
-        "youtube.com/2014/07/let-s-play-species-artificial-life-real-evolution": {
-            "title": "Let's Play Species Artificial Life, Real Evolution...",
-            "snippet": "Let's Play Species Artificial Life, Real Evolution Hey guys! Today Jake takes a look at Species! An early access game all about evolution! Enjoy! From: Gods Of Gaming Views: 3284 25 ratings Time: 24:30 More in Gaming...",
-            "date": "2014-07-02",
-            "author_name": "Gods Of Gaming",
-            "categories": "play,artificial-life,life",
-            "tags": "gaming,game,evolution,real,real_evolution,play,species,artificial,artificial_life,life,let",
-            "recuweb_url": "http://en.recuweb.com/life/youtube.com/2014/07/let-s-play-species-artificial-life-real-evolution",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=artificial%2Blife%2Bartificial%2Blife&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=4TMBWA5fuvg&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/4TMBWA5fuvg/0.jpg"
         }
     }
 }
