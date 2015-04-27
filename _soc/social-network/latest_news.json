@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "social-network",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/social-network/",
@@ -10,102 +11,101 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/social-network/social-network/blogs.json"
     },
     "items": {
-        "adage.com/2015/04/facebook-opens-branded-video-program-on-youtube-s-anniversary": {
-            "title": "Facebook Opens Branded Video Program on YouTube's Anniversary...",
-            "snippet": "But brands can do these kinds of branded content deals with companies sans Facebook and its requirement that the videos run as ads on the social network. So why get Facebook involved? Because Facebook has a bunch of data on the types of videos...",
-            "date": "2015-04-23",
-            "categories": "facebook",
-            "tags": "ads,brands,content,facebook,program,social,network",
-            "recuweb_url": "http://en.recuweb.com/facebook/adage.com/2015/04/facebook-opens-branded-video-program-on-youtube-s-anniversary",
+        "cointelegraph.com/2015/04/apr-24-digest-interpol-creates-its-own-crypto-coin-rand-paul": {
+            "title": "APR 24 DIGEST: Interpol Creates Its Own Crypto Coin, Rand Paul Chides Bitcoin 'Naysayers'...",
+            "snippet": "Latin America's Largest Social Network Will Pay Its Users in Bitcoin for Content Latin American social networking giant Taringa! has launched Taringa! Creadores, a revenue sharing program to start paying its users bitcoin for their content...",
+            "date": "2015-04-24",
+            "categories": "social-network",
+            "tags": "revenue,program,users,bitcoin,content,latin,largest,largest_social,largest_social_network,social,social_network,network,network_will_pay,pay,pay_its_users,latin_america,america,networking",
+            "recuweb_url": "http://en.recuweb.com/social-network/cointelegraph.com/2015/04/apr-24-digest-interpol-creates-its-own-crypto-coin-rand-paul",
             "resource_url": "http://www.bing.com/news/search?first=1&q=social%2Bnetwork&format=RSS&cc=us",
-            "source_url": "http://adage.com/article/digital/facebook-enlists-vice-vox-media-make-videos-brands/298213/"
+            "source_url": "http://cointelegraph.com/news/114061/interpol-creates-its-own-crypto-coin-rand-paul-chides-bitcoin-naysayers"
         },
-        "gmanetwork.com/2015/04/former-epl-striker-saha-launches-social-network-to-help-young-athletes": {
-            "title": "Former EPL striker Saha launches social network to help young athletes - GMA News...",
-            "snippet": "Former EPL striker Saha launches social network to help young athletesGMA NewsFormer Premier League striker Louis Saha has launched an exclusive social network to help young athletes deal with the off-field demands of modern sport that he hopes will...",
-            "date": "2015-04-23",
-            "categories": "sport",
-            "tags": "modern,help,social,network",
-            "recuweb_url": "http://en.recuweb.com/sport/gmanetwork.com/2015/04/former-epl-striker-saha-launches-social-network-to-help-young-athletes",
+        "english.alarabiya.net/2015/04/arabic-social-network-says-bigger-than-twitter-in-mideast-al-arabiya": {
+            "title": "Arabic social network says bigger than Twitter in Mideast - Al-Arabiya...",
+            "snippet": "Al-ArabiyaArabic social network says bigger than Twitter in MideastAl-ArabiyaThe Arabic social-networking website AreebaAreeba has an important status update: It is bigger than Twitter in the Middle East. The site's chief executive Ayman Irshaid...",
+            "date": "2015-04-24",
+            "categories": "twitter",
+            "tags": "social,network,networking",
+            "recuweb_url": "http://en.recuweb.com/twitter/english.alarabiya.net/2015/04/arabic-social-network-says-bigger-than-twitter-in-mideast-al-arabiya",
+            "resource_url": "http://news.google.com/?hl=en&q=social%2Bnetwork%2Bsocial%2Bnetwork&output=atom&nord=1",
+            "source_url": "http://english.alarabiya.net/en/media/digital/2015/04/24/Arabic-social-network-says-bigger-than-Twitter-in-Mideast.html"
+        },
+        "cbc.ca/2015/04/ex-machina-is-the-shining-for-social-network-generation": {
+            "title": "Ex Machina is 'The Shining for the social network generation'-...",
+            "snippet": "Machina is 'The Shining for the social network generation'\"As the question of what's real begins to blur,\" says CBC's film critic Eli Glasner, \"Ex Machina becomes The Shining for the social network generation.\" \"This is a film to puzzle over,...",
+            "date": "2015-04-24",
+            "tags": "social,network",
+            "recuweb_url": "http://en.recuweb.com/cbc.ca/2015/04/ex-machina-is-the-shining-for-social-network-generation",
+            "resource_url": "http://news.google.com/?hl=en&q=social%2Bnetwork%2Bsocial%2Bnetwork&output=atom&nord=1",
+            "source_url": "http://cbc.ca/news/arts/ex-machina-is-the-shining-for-the-social-network-generation-1.3046162"
+        },
+        "ibtimes.com/2015/04/facebook-privacy-lawsuit-alleges-social-network-created-shadow-profiles-of-international": {
+            "title": "Facebook Privacy Lawsuit Alleges Social Network Created 'Shadow Profiles'Of... - International...",
+            "snippet": "International Business TimesFacebook Privacy Lawsuit Alleges Social Network Created 'Shadow Profiles'Of...International Business TimesThe lawsuit, filed Tuesday in U.S. District Court in northern Illinois, says the technology raises serious privacy...",
+            "date": "2015-04-24",
+            "categories": "technology,privacy,facebook,social-network,business",
+            "tags": "facebook,social,social_network,network,business",
+            "recuweb_url": "http://en.recuweb.com/business/ibtimes.com/2015/04/facebook-privacy-lawsuit-alleges-social-network-created-shadow-profiles-of-international",
+            "resource_url": "http://news.google.com/?hl=en&q=social%2Bnetwork%2Bsocial%2Bnetwork&output=atom&nord=1",
+            "source_url": "http://ibtimes.com/facebook-privacy-lawsuit-alleges-social-network-created-shadow-profiles-non-users-1895840"
+        },
+        "mediapost.com/2015/04/music-based-social-network-smule-gets-38m": {
+            "title": "Music-Based Social Network Smule Gets 38M...",
+            "snippet": "Music-based social network Smule has raised 26 million in equity and 12 million in debt funding, Silicon Valley Business Journal reports. Smule users perform 12 million songs and record 1.5 terabytes of content daily on the Smule network, it notes.",
+            "date": "2015-04-24",
+            "categories": "business,social-network,music",
+            "tags": "content,million,users,business,social,social_network,network",
+            "recuweb_url": "http://en.recuweb.com/music/mediapost.com/2015/04/music-based-social-network-smule-gets-38m",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=social%2Bnetwork&format=RSS&cc=us",
+            "source_url": "http://mediapost.com/publications/article/248402/music-based-social-network-smule-gets-38m.html"
+        },
+        "vator.tv/2015/04/path-said-to-be-looking-unload-its-social-network": {
+            "title": "Path said to be looking to unload its social network...",
+            "snippet": "After a rough 2013 social network Path finally found its foot last year with the launch of its standalone messsaging app, called Path Talk. Now it tooks like that might be the direction the entire company will be moving toward going forward. The...",
+            "date": "2015-04-24",
+            "tags": "company,app,path,social,network,called",
+            "recuweb_url": "http://en.recuweb.com/vator.tv/2015/04/path-said-to-be-looking-unload-its-social-network",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=social%2Bnetwork&format=RSS&cc=us",
+            "source_url": "http://vator.tv/news/2015-04-22-path-said-to-be-looking-to-unload-its-social-network"
+        },
+        "norwichbulletin.com/2015/04/path-a-mobile-social-network-that-was-once-worth-250-million": {
+            "title": "Path, a mobile social network that was once worth 250 million, is reportedly... - Norwich Bulletin...",
+            "snippet": "Norwich BulletinPath, a mobile social network that was once worth 250 million, is reportedly...Norwich BulletinNiche social networking app Path is in talks to sell its main app to Daum Kakao, a competitor from South Korea that owns the popular...",
+            "date": "2015-04-24",
+            "tags": "app,mobile,path,social,network,million,networking",
+            "recuweb_url": "http://en.recuweb.com/norwichbulletin.com/2015/04/path-a-mobile-social-network-that-was-once-worth-250-million",
             "resource_url": "http://news.google.com/?hl=en&q=social%2Bnetwork&output=atom&nord=1",
-            "source_url": "http://gmanetwork.com/news/story/474886/sports/football/former-epl-striker-saha-launches-social-network-to-help-young-athletes"
+            "source_url": "http://norwichbulletin.com/article/20150422/BUSINESS/304229993/1994"
         },
-        "makeuseof.com/2015/04/hollywood-hacks-the-best-and-worst-hacking-in-movies": {
-            "title": "Hollywood Hacks: The Best and Worst Hacking in Movies...",
-            "snippet": "Whether its good, bad, or so bad it becomes good, weve got it all below. The Social Network, created by Fight Club director David Fincher, tells the story of the rise of Mark Zuckerberg and the creation of Facebook. Its a great movie, and one...",
-            "date": "2015-04-23",
-            "categories": "social-network,hacking,facebook",
-            "tags": "social,social_network,network,director,facebook",
-            "recuweb_url": "http://en.recuweb.com/facebook/makeuseof.com/2015/04/hollywood-hacks-the-best-and-worst-hacking-in-movies",
+        "mashable.com/2015/04/pinterest-bets-it-knows-just-where-you-ll-pin-that-barn": {
+            "title": "Pinterest bets it knows just where you'll pin that barn wedding photo...",
+            "snippet": "The social network announced a new feature called the smart board picker for iOS and Android on Friday, which predicts which boards users will re-pin an image to. How active a board is. If you save a backpack pin, for example, you might see...",
+            "date": "2015-04-24",
+            "tags": "users,called,social,network",
+            "recuweb_url": "http://en.recuweb.com/mashable.com/2015/04/pinterest-bets-it-knows-just-where-you-ll-pin-that-barn",
             "resource_url": "http://www.bing.com/news/search?first=1&q=social%2Bnetwork&format=RSS&cc=us",
-            "source_url": "http://makeuseof.com/tag/hollywood-hacks-best-worst-hacking-movies/"
+            "source_url": "http://mashable.com/2015/04/24/pinterest-smart-board-picker/"
+        },
+        "toptechnews.com/2015/04/still-got-it-facebook-mobile-ad-revenue-continues-to-surge": {
+            "title": "Still Got It: Facebook Mobile Ad Revenue Continues To Surge...",
+            "snippet": "Nearly three-quarters of Facebook's advertising revenue now comes from mobile ads, as many more users access the social network on smartphones and other hand-held gadgets. On that front, the company is doing fine -- better, even, than it has in...",
+            "date": "2015-04-24",
+            "categories": "facebook",
+            "tags": "company,users,mobile,revenue,facebook,social,network",
+            "recuweb_url": "http://en.recuweb.com/facebook/toptechnews.com/2015/04/still-got-it-facebook-mobile-ad-revenue-continues-to-surge",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=social%2Bnetwork&format=RSS&cc=us",
+            "source_url": "http://toptechnews.com/article/index.php?story_id=97138"
         },
         "cointelegraph.com/2015/04/latin-america-s-largest-social-network-will-pay-its-users-in": {
-            "title": "Latin America's Largest Social Network Will Pay Its Users in Bitcoin for Content...",
-            "snippet": "Only 39% of Latin American users have bank accounts, with Bitcoin we no longer have that barrier. - Agustina Fourquet, PR manager, Taringa! Latin American Social Networking Giant Taringa! has started Taringa! Creadores a revenue sharing program...",
+            "title": "Latin America's Largest Social Network Will Pay Its Users in Bitcoin for Content - CoinTelegraph...",
+            "snippet": "CoinTelegraphLatin America's Largest Social Network Will Pay Its Users in Bitcoin for ContentCoinTelegraphTaringa! is a social networking platform that enables people around the world to create and share information, content and experiences.",
             "date": "2015-04-23",
             "categories": "social-network",
-            "tags": "revenue,program,social,networking,users,social_network,network,content,only",
+            "tags": "content,world,america,largest,largest_social,largest_social_network,social,social_network,network,network_will_pay,pay,pay_its_users,users,latin,latin_america,bitcoin,networking",
             "recuweb_url": "http://en.recuweb.com/social-network/cointelegraph.com/2015/04/latin-america-s-largest-social-network-will-pay-its-users-in",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=social%2Bnetwork&format=RSS&cc=us",
-            "source_url": "http://cointelegraph.com/news/114052/latin-americas-largest-social-network-will-pay-its-users-in-bitcoin-for-content"
-        },
-        "bizjournals.com/2015/04/musical-social-network-raised-38m-for-expansion": {
-            "title": "Musical social network raised 38M for expansion...",
-            "snippet": "Musical social network Smule raised 26 million in equity and 12 million in debt funding on Thursday to grow its platform. Adams Street Partners led the round with participation from previous investors including Bessemer Venture Partners and Shasta...",
-            "date": "2015-04-23",
-            "tags": "round,platform,million,social,network,raised,thursday",
-            "recuweb_url": "http://en.recuweb.com/bizjournals.com/2015/04/musical-social-network-raised-38m-for-expansion",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=social%2Bnetwork&format=RSS&cc=us",
-            "source_url": "http://bizjournals.com/sanjose/blog/techflash/2015/04/musical-social-network-raised-38-million-for.html"
-        },
-        "observer.com/2015/04/people-are-flocking-to-a-social-network-that-redistributes-90%-of": {
-            "title": "People Are Flocking to a Social Network That Redistributes 90% of Ad Revenue... - New York Observer...",
-            "snippet": "New York ObserverPeople Are Flocking to a Social Network That Redistributes 90% of Ad Revenue...New York ObserverWhile 1.5 million Spotify plays earns Mr. Fromm only 18 in royalties every three months, he's making more than that daily on Tsu, a...",
-            "date": "2015-04-23",
-            "categories": "play,social-network",
-            "tags": "than,daily,only,social,social_network,network,people,revenue,million",
-            "recuweb_url": "http://en.recuweb.com/social-network/observer.com/2015/04/people-are-flocking-to-a-social-network-that-redistributes-90%-of",
             "resource_url": "http://news.google.com/?hl=en&q=social%2Bnetwork&output=atom&nord=1",
-            "source_url": "http://observer.com/2015/04/people-are-flocking-to-a-social-network-that-redistributes-90-of-ad-revenue-to-users/"
-        },
-        "edgeboston.com/2015/04/still-got-it-facebook-mobile-ad-revenue-continues-to-surge": {
-            "title": "Still Got It: Facebook Mobile Ad Revenue Continues to Surge...",
-            "snippet": "Nearly three-quarters of Facebook's advertising revenue now comes from mobile ads, as many more users access the social network on smartphones and other hand-held gadgets. On that front, the company is doing fine - better, even, than it has in...",
-            "date": "2015-04-23",
-            "categories": "facebook",
-            "tags": "than,users,ads,revenue,facebook,social,network",
-            "recuweb_url": "http://en.recuweb.com/facebook/edgeboston.com/2015/04/still-got-it-facebook-mobile-ad-revenue-continues-to-surge",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=social%2Bnetwork&format=RSS&cc=us",
-            "source_url": "http://edgeboston.com/business/finance/news//175915/still_got_it:_facebook_mobile_ad_revenue_continues_to_surge"
-        },
-        "washingtonpost.com/2015/04/swirl-s-latest-investment-round-highlights-potential-of-beacons-social-networks": {
-            "title": "Swirl's latest investment round highlights potential of beacons, social networks - Washington Post...",
-            "snippet": "Swirl's latest investment round highlights potential of beacons, social networksWashington Post (blog)Swirl, which offers a platform for retailers and brands to market to customers via beacons, announced Thursday it has raised 18 million from a...",
-            "date": "2015-04-23",
-            "tags": "raised,platform,brands,round,social,networks,thursday,million",
-            "recuweb_url": "http://en.recuweb.com/washingtonpost.com/2015/04/swirl-s-latest-investment-round-highlights-potential-of-beacons-social-networks",
-            "resource_url": "http://news.google.com/?hl=en&q=social%2Bnetwork%2Bsocial%2Bnetwork&output=atom&nord=1",
-            "source_url": "http://washingtonpost.com/blogs/innovations/wp/2015/04/23/swirls-latest-investment-round-highlights-potential-of-beacons-social-networks/"
-        },
-        "pressdemocrat.com/2015/04/teen-face-log-on-to-social-media-and-help-advance-society": {
-            "title": "Teen Face: Log on to social media and help advance society - Santa Rosa Press Democrat...",
-            "snippet": "Santa Rosa Press DemocratTeen Face: Log on to social media and help advance societySanta Rosa Press DemocratSocial media has had a major impact on modern society and daily lifestyle, and since the advent of social networking sites it has been...",
-            "date": "2015-04-23",
-            "categories": "society,lifestyle",
-            "tags": "sites,modern,daily,help,social,networking",
-            "recuweb_url": "http://en.recuweb.com/lifestyle/pressdemocrat.com/2015/04/teen-face-log-on-to-social-media-and-help-advance-society",
-            "resource_url": "http://news.google.com/?hl=en&q=social%2Bnetwork%2Bsocial%2Bnetwork&output=atom&nord=1",
-            "source_url": "http://pressdemocrat.com/lifestyle/3750289-181/teen-face-log-on-to"
-        },
-        "businessinsider.com/2015/04/this-blog-called-i-saw-your-nanny-lets-people-anonymously-rat": {
-            "title": "This blog called 'I Saw Your Nanny'lets people anonymously rat out caretakers they see mistreating...",
-            "snippet": "Thanks to Lesley Kring, a thriving social network for nannies and those who employ them will let you do just that and anonymously, too. Lesley Kring worked as a nanny for the same family for years in Rye, N.Y. She became so close with the parents...",
-            "date": "2015-04-23",
-            "tags": "people,social,network",
-            "recuweb_url": "http://en.recuweb.com/businessinsider.com/2015/04/this-blog-called-i-saw-your-nanny-lets-people-anonymously-rat",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=social%2Bnetwork&format=RSS&cc=us",
-            "source_url": "http://businessinsider.com/i-saw-your-nanny-blog-2015-4"
+            "source_url": "http://cointelegraph.com/news/114052/latin-americas-largest-social-network-will-pay-its-users-in-bitcoin-for-content"
         }
     }
 }
