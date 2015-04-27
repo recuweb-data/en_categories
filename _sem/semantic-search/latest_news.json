@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "semantic-search",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/semantic-search/",
@@ -10,52 +11,60 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/semantic-search/semantic-search/blogs.json"
     },
     "items": {
-        "arcticstartup.com/2015/04/klevu-and-vaimo-partner-to-optimize-ecommerce-site-search-arcticstartup": {
-            "title": "Klevu and Vaimo partner to optimize ecommerce site search - ArcticStartup...",
-            "snippet": "Klevu and Vaimo partner to optimize ecommerce site searchArcticStartupKlevu wants to keep on empowering its customers with smart, semantic and contextually relevant search technology. Vaimo, being one of the most respected European Magento eCommerce...",
-            "date": "2015-04-20",
-            "categories": "magento,technology",
-            "tags": "relevant,ize,search,semantic,technology",
-            "recuweb_url": "http://en.recuweb.com/technology/arcticstartup.com/2015/04/klevu-and-vaimo-partner-to-optimize-ecommerce-site-search-arcticstartup",
+        "mlive.com/2015/04/dining-out-restaurant-review-ada-pour-house-is-rich-with-menu": {
+            "title": "Dining Out restaurant review: Ada Pour House is rich with menu offerings -...",
+            "snippet": "Out restaurant review: Ada Pour House is rich with menu example, I had to search for the hoisin-braised, sesame-crusted pork belly in the Thai BBQ Sliders. It was practically all bun with hints of Asian pork belly.... It's a semantic point, but...",
+            "date": "2015-04-23",
+            "tags": "rich,example,search,semantic",
+            "recuweb_url": "http://en.recuweb.com/mlive.com/2015/04/dining-out-restaurant-review-ada-pour-house-is-rich-with-menu",
+            "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch%2Bsemantic%2Bsearch&output=atom&nord=1",
+            "source_url": "http://mlive.com/dining/index.ssf/2015/04/dining_out_restaurant_review_a_1.html"
+        },
+        "spectator.co.uk/2015/04/luxury-isn-t-the-opposite-of-poverty-but-vulgarity-don": {
+            "title": "Luxury isn't the opposite of poverty but the opposite of vulgarity - but don't... -...",
+            "snippet": "isn't the opposite of poverty but the opposite of vulgarity - but don't... Gibbon and Ruskin 'luxury'meant excess, arrogance, opulence and depravity, but recently the word has enjoyed a semantic evolution. Experts may... In search of markets, Louis...",
+            "date": "2015-04-23",
+            "categories": "markets,luxury",
+            "tags": "word,semantic,evolution,search",
+            "recuweb_url": "http://en.recuweb.com/luxury/spectator.co.uk/2015/04/luxury-isn-t-the-opposite-of-poverty-but-vulgarity-don",
             "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
-            "source_url": "http://arcticstartup.com/2015/04/20/klevu-and-vaimo-partner-to-optimize-ecommerce-site-search"
+            "source_url": "http://spectator.co.uk/arts/exhibitions/9506782/luxury-isnt-the-opposite-of-poverty-but-the-opposite-of-vulgarity-but-dont-tell-the-va/"
+        },
+        "benzinga.com/2015/04/smartlogic-receives-renewal-certificate-of-networthiness-con-from-us-army-benzinga": {
+            "title": "Smartlogic Receives Renewal Certificate of Networthiness (CoN) from US Army - Benzinga...",
+            "snippet": "Smartlogic Receives Renewal Certificate of Networthiness (CoN) from US ArmyBenzingaSemaphore's feature rich toolset provides taxonomy & ontology management, automatic classification; text analytics and information extraction and semantic search...",
+            "date": "2015-04-23",
+            "categories": "management",
+            "tags": "analytics,information,rich,semantic,search",
+            "recuweb_url": "http://en.recuweb.com/management/benzinga.com/2015/04/smartlogic-receives-renewal-certificate-of-networthiness-con-from-us-army-benzinga",
+            "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
+            "source_url": "http://benzinga.com/pressreleases/15/04/p5438920/smartlogic-receives-renewal-certificate-of-networthiness-con-from-u-s-a"
+        },
+        "opensource.com/2015/04/sourcegraph-a-free-code-search-tool-for-open-source-developers": {
+            "title": "Sourcegraph: A free code search tool for open source developers -...",
+            "snippet": ": A free code search tool for open source developers is a code search engine and browsing tool that semantically indexes all the open source code available on the web. You can search for code by repository, package, or function and click on fully...",
+            "date": "2015-04-22",
+            "tags": "search,engine,web",
+            "recuweb_url": "http://en.recuweb.com/opensource.com/2015/04/sourcegraph-a-free-code-search-tool-for-open-source-developers",
+            "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
+            "source_url": "http://opensource.com/business/15/4/better-software-with-sourcegraph"
         },
         "newswire.ca/2015/04/sprylogics-breakingsports-app-integrates-live-feeds": {
             "title": "Sprylogics'BreakingSports App Integrates Live Feeds...",
             "snippet": "TORONTO, April 20, 2015/CNW/- Sprylogics International Corp. (Sprylogics or the Company) (TSXV: SPY), a technology provider of semantic search and local mobile search for consumers and businesses, is pleased to announce that its ground breaking...",
             "date": "2015-04-20",
             "categories": "business,technology",
-            "tags": "pleased,pleased-to-announce,announce,ground,consumers,consumers-and-businesses,businesses,local,local-mobile,mobile,technology,technology-provider,provider,breakingsports,breakingsports_app,breakingsports_app_integrates,app,app_integrates,app_integrates_live,integrates,integrates_live,integrates_live_feeds,live,live_feeds,feeds,sprylogics,company,tsxv,spy,semantic,search",
+            "tags": "technology,company,semantic,search",
             "recuweb_url": "http://en.recuweb.com/technology/newswire.ca/2015/04/sprylogics-breakingsports-app-integrates-live-feeds",
             "resource_url": "http://www.bing.com/news/search?first=1&q=semantic%2Bsearch&format=RSS&cc=us",
             "source_url": "http://newswire.ca/en/story/1520625/sprylogics-breakingsports-app-integrates-live-feeds"
-        },
-        "stockhouse.com/2015/04/sprylogics-breakingsports-app-integrates-live-feeds-stockhouse": {
-            "title": "Sprylogics'BreakingSports App Integrates Live Feeds - Stockhouse...",
-            "snippet": "Sprylogics'BreakingSports App Integrates \"Live Feeds\"Stockhouse(\"Sprylogics\" or the \"Company\") (TSXV: SPY), a technology provider of semantic search and local mobile search for consumers and businesses, is pleased to announce that its ground...",
-            "date": "2015-04-20",
-            "categories": "business,technology",
-            "tags": "pleased,pleased-to-announce,announce,ground,consumers,consumers-and-businesses,businesses,local,local-mobile,mobile,technology,technology-provider,provider,sprylogics,company,live,live_feeds,feeds,breakingsports,breakingsports_app,breakingsports_app_integrates,app,app_integrates,integrates,app_integrates_live,integrates_live,integrates_live_feeds,tsxv,spy,semantic,search",
-            "recuweb_url": "http://en.recuweb.com/technology/stockhouse.com/2015/04/sprylogics-breakingsports-app-integrates-live-feeds-stockhouse",
-            "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
-            "source_url": "http://stockhouse.com/news/press-releases/2015/04/20/sprylogics-breakingsports-app-integrates-live-feeds"
-        },
-        "4-traders.com/2015/04/fundus-cameras-market-expected-to-reach-usd-300-5-million-globally": {
-            "title": "Fundus Cameras Market Expected to Reach USD 300.5 Million Globally in 2019: Transparency Market...",
-            "snippet": "03:57a DJ German Government Bonds Hit New Highs 03:56a MICROSOFT: Patent Application Titled Query Expansion, Filtering and Ranking for Improved Semantic Search Results Utilizing Knowledge Graphs Published Online 03:56a SK HYNIX: Semiconductor...",
-            "date": "2015-04-16",
-            "categories": "semantic-search",
-            "tags": "published,improved,semantic,semantic_search,search,search_results,results,query,million,ledge",
-            "recuweb_url": "http://en.recuweb.com/semantic-search/4-traders.com/2015/04/fundus-cameras-market-expected-to-reach-usd-300-5-million-globally",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=semantic%2Bsearch&format=RSS&cc=us",
-            "source_url": "http://4-traders.com/news/Fundus-Cameras-Market-Expected-to-Reach-USD-3005-Million-Globally-in-2019-Transparency-Market-Rese--20200169/"
         },
         "forbes.com/2015/04/how-google-search-results-will-evolve-throughout-2015-forbes": {
             "title": "How Google Search Results Will Evolve Throughout 2015 - Forbes...",
             "snippet": "ForbesHow Google Search Results Will Evolve Throughout 2015ForbesSince Google uses a process of semantic search to actively understand the intent behind user queries, Google is working to theoretically answer any simple question a user could input,...",
             "date": "2015-04-16",
             "categories": "google",
-            "tags": "intent,intent-behind,behind,google,search,search_results,results,semantic",
+            "tags": "queries,google,search,results,semantic",
             "recuweb_url": "http://en.recuweb.com/google/forbes.com/2015/04/how-google-search-results-will-evolve-throughout-2015-forbes",
             "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
             "source_url": "http://forbes.com/sites/jaysondemers/2015/04/16/how-google-search-results-will-evolve-throughout-2015/"
@@ -70,22 +79,12 @@
             "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
             "source_url": "http://lightreading.com/video/ott/dish-embraces-netflix-adds-rovi-voice/d/d-id/715097"
         },
-        "finanznachrichten.de/2015/04/new-kconnect-search-services-give-healthcare-the-very-best-in-medical": {
-            "title": "New KConnect Search Services Give Healthcare the very Best in Medical Information...",
-            "snippet": "The intelligent (semantic) search services can incorporate both published medical literature and in-house medical information sources (such as electronic health records or health registries). The quality of the searchperformancecan helpclinicians...",
-            "date": "2015-04-13",
-            "categories": "health,literature",
-            "tags": "information,services,published,very,search,semantic",
-            "recuweb_url": "http://en.recuweb.com/literature/finanznachrichten.de/2015/04/new-kconnect-search-services-give-healthcare-the-very-best-in-medical",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=semantic%2Bsearch&format=RSS&cc=us",
-            "source_url": "http://finanznachrichten.de/nachrichten-2015-04/33386643-new-kconnect-search-services-give-healthcare-the-very-best-in-medical-information-008.htm"
-        },
         "hospitalitynet.org/2015/04/findmycarrots-fmc-revamps-website-to-offer-white-label-new-era-of": {
             "title": "FindMyCarrots (FmC) Revamps Website to Offer White Label New Era of... - Hospitality Net...",
             "snippet": "FindMyCarrots (FmC) Revamps Website to Offer White Label New Era of...Hospitality NetThe Bangalore based company has developed the next-generation semantic search engine using big data and machine learning. FmC has reviewed close to a million web...",
             "date": "2015-04-01",
             "categories": "learning",
-            "tags": "million,engine,company,semantic,search,data,web",
+            "tags": "million,company,semantic,search,engine,data,web",
             "recuweb_url": "http://en.recuweb.com/learning/hospitalitynet.org/2015/04/findmycarrots-fmc-revamps-website-to-offer-white-label-new-era-of",
             "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
             "source_url": "http://hospitalitynet.org/news/4069713.html"
@@ -95,7 +94,7 @@
             "snippet": "Have you ever paused long enough between keystrokes to think about how strange it is--or possibly creepy--that Google knows so much about you? The world's most powerful search engine has a way of knowing exactly what you're looking for with...",
             "date": "2015-03-23",
             "categories": "semantic-search,google",
-            "tags": "engine,semantic,semantic_search,search,google",
+            "tags": "semantic,semantic_search,search,evolution,google,engine",
             "recuweb_url": "http://en.recuweb.com/google/inc.com/2015/03/the-rapid-evolution-of-semantic-search",
             "resource_url": "http://www.bing.com/news/search?first=1&q=semantic%2Bsearch&format=RSS&cc=us",
             "source_url": "http://inc.com/samuel-edwards/the-rapid-evolution-of-semantic-search.html"
@@ -105,7 +104,7 @@
             "snippet": "LexisNexis TotalPatent Launches Improved Version of Semantic, Pa., March 4, 2015 Reed Technology and Information Services Inc. (Reed Tech), a LexisNexis company, today announced the advancement of the innovative semantic search technology used to...",
             "date": "2015-03-05",
             "categories": "technology,semantic-search",
-            "tags": "technology,today,tech,information,services,semantic,semantic_search,search,improved,company",
+            "tags": "technology,tech,information,semantic,semantic_search,search,company,today",
             "recuweb_url": "http://en.recuweb.com/semantic-search/ipwatchdog.com/2015/03/lexisnexis-totalpatent-launches-improved-version-of-semantic-search",
             "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
             "source_url": "http://ipwatchdog.com/2015/03/05/lexisnexis-totalpatent-semantic-search/id=55426/"
