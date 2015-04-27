@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "drupal",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/drupal/",
@@ -10,115 +11,115 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/drupal/drupal/blogs.json"
     },
     "items": {
-        "vmdoh.com/2015/04/drupal-more-than-a-content-management-system": {
-            "title": "Drupal: More Than a Content Management System...",
-            "snippet": "Drupal is sometimes described as being more advanced than other content management systems (CMS). This is an understatement because Drupal is a CMS that can be used as a content management framework. Content management frameworks are used to build...",
-            "date": "2015-04-09",
-            "author_name": "Brian Altenhofel",
-            "categories": "management,drupal",
-            "tags": "framework,because,content,management,drupal,than,cms",
-            "recuweb_url": "http://en.recuweb.com/drupal/vmdoh.com/2015/04/drupal-more-than-a-content-management-system",
+        "robmayzes.wordpress.com/2015/04/amateur-web-development-and-drupal": {
+            "title": "Amateur Web Development and Drupal...",
+            "snippet": "Today Ive been busy working on our MVP (minimum viable product another term for a prototype used in lean development, where the idea is to create a basic version of your product to start testing it with customers ASAP). Although I have a small...",
+            "date": "2015-04-25",
+            "author_name": "Rob Mayzes",
+            "categories": "web-development,drupal",
+            "tags": "small,create,start,working,today,web,development,drupal",
+            "recuweb_url": "http://en.recuweb.com/drupal/robmayzes.wordpress.com/2015/04/amateur-web-development-and-drupal",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://vmdoh.com/blog/drupal-more-content-management-system"
+            "source_url": "http://robmayzes.wordpress.com/2015/04/25/amateur-web-development-and-drupal/"
         },
-        "elegantthemes.com/2015/04/wordpress-vs-drupal-choosing-between-two-platforms": {
-            "title": "WordPress vs. Drupal: Choosing Between Two Platforms...",
-            "snippet": "Released only a couple of years apart, WordPress and Drupal are big players in the CMS market but WordPress has gained a lot more popularity over the years. Its user base is almost 10 times that of Drupal but is it 10 times better? Like with any...",
-            "date": "2015-04-07",
-            "author_name": "Brenda Barron",
-            "categories": "wordpress,drupal",
-            "tags": "any,years,only,drupal,cms,better",
-            "recuweb_url": "http://en.recuweb.com/drupal/elegantthemes.com/2015/04/wordpress-vs-drupal-choosing-between-two-platforms",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://elegantthemes.com/blog/resources/wordpress-vs-drupal"
-        },
-        "zyxware.com/2015/04/drupal-how-to-configure-simpleads-module-in": {
-            "title": "Drupal How to configure SimpleAds module in Drupal...",
-            "snippet": "Tweet SimpleAds module allows advertisement in Drupal websites. I had a requirement in one of my Drupal sites to add advertisements in the site contents area. I came across a Drupal module- SImpleAds which helped me to solve the fix and the below...",
-            "date": "2015-04-07",
-            "author_name": "Fathimath Sajila",
+        "zyxware.com/2015/04/drupal-how-to-create-a-custom-plugin-for-ckeditor-in-6": {
+            "title": "Drupal How to create a custom plugin for CKEditor in Drupal 6?",
+            "snippet": "Tweet Adding extra plugins to the CKEditor is like extending Drupal by installing new modules. Plugins can be used to add more functionalities to the CKEditor. In this article I will be explaining how to create a simple custom plugin and how to...",
+            "date": "2015-04-24",
+            "author_name": "Sreelal MU",
             "categories": "drupal",
-            "tags": "fix,below,sites,module,drupal,tweet,websites,site",
-            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/drupal-how-to-configure-simpleads-module-in",
+            "tags": "create,article,add,tweet,drupal",
+            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/drupal-how-to-create-a-custom-plugin-for-ckeditor-in-6",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://zyxware.com/articles/4765/drupal-how-to-configure-simpleads-module-in-drupal"
+            "source_url": "http://zyxware.com/articles/4040/drupal-how-to-create-a-custom-plugin-for-ckeditor-in-drupal-6"
         },
-        "zyxware.com/2015/04/drupal-how-to-alter-a-form-created-using-webform-module": {
-            "title": "Drupal How to alter a form created using a webform module...",
-            "snippet": "Tweet There are certain cases we need to alter a webform in Drupal. How to handle this condition?.There are different methods for handling this situation. Usually for the theming sometime webform alter is very necessary, the main alteration needed...",
-            "date": "2015-04-02",
-            "author_name": "Jibin Jose",
+        "zyxware.com/2015/04/drupal-how-to-implement-confirmation-form-in-7": {
+            "title": "Drupal How to implement confirmation form in Drupal 7...",
+            "snippet": "Tweet Confirmation form is useful in cases where we do some action that needs confirmation from the user. Drupal provides a function called confirm_form() that provides a confirmation form. The confirm form contains a confirm button for confirming...",
+            "date": "2015-04-24",
+            "author_name": "Sarath Mohan",
             "categories": "drupal",
-            "tags": "very,handle,need,using,module,drupal,tweet",
-            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/drupal-how-to-alter-a-form-created-using-webform-module",
+            "tags": "called,user,cases,tweet,drupal",
+            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/drupal-how-to-implement-confirmation-form-in-7",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://zyxware.com/articles/4603/drupal-how-to-alter-a-form-created-using-a-webform-module"
+            "source_url": "http://zyxware.com/articles/4039/drupal-how-to-implement-confirmation-form-in-drupal-7"
         },
-        "zyxware.com/2015/04/drupal-how-to-get-the-data-of-a-user": {
-            "title": "Drupal How to get the data of a user when the user has updated their profile...",
-            "snippet": "Tweet We wanted to get the value of a field in a users profile in a Drupal site when they become a subscriber (when they got the subscriber role). Since we are very familiar with Drupal we intuitively searched for a hook that we would serve our...",
-            "date": "2015-04-02",
+        "zyxware.com/2015/04/drupal-how-to-remove-view-results-duplicates-programmatically": {
+            "title": "Drupal How to remove view results duplicates programmatically?",
+            "snippet": "Tweet My Drupal 7 view result is displaying a few records multiple times. How can I get rid of these duplicates?. The immediate solution that comes to our mind will be applying GROUP BY or DISTINCT by enabling views aggregation settings and simply...",
+            "date": "2015-04-24",
+            "author_name": "Deepa N",
+            "categories": "mind,drupal",
+            "tags": "solution,applying,tweet,drupal",
+            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/drupal-how-to-remove-view-results-duplicates-programmatically",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
+            "source_url": "http://zyxware.com/articles/4289/solved-drupal-7-views-how-to-remove-duplicates-programmatically"
+        },
+        "drupaleasy.com/2015/04/drupaleasy-podcast-150-ultracat-cathy-theys-drupal-code": {
+            "title": "DrupalEasy Podcast 150: Ultracat (Cathy Theys - Drupal Code...",
+            "snippet": "Download Podcast 150 Cathy Theys (YesCT), Blackmesh Community Liason and Drupal Community organizer extraordinare...",
+            "date": "2015-04-23",
+            "author_name": "podcast@drupaleasy.com (Andrew Riley, Mike Anello, Ryan Price)",
+            "categories": "drupal",
+            "tags": "drupal,code",
+            "recuweb_url": "http://en.recuweb.com/drupal/drupaleasy.com/2015/04/drupaleasy-podcast-150-ultracat-cathy-theys-drupal-code",
+            "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://drupaleasy.com/podcast/2015/04/drupaleasy-podcast-150-ultracat-cathy-theys-drupal-code-governance"
+        },
+        "zyxware.com/2015/04/solveddrupal-pdoexception-sqlstatehy000-general-error-1366-incorrect-string-value-xe2x81x842": {
+            "title": "SOLVEDDrupal PDOException: SQLSTATEHY000: General error: 1366 Incorrect string value: 'xE2x81x842...",
+            "snippet": "Tweet In one of the Drupal sites were working on, the members of the site frequently found that the nodes they had created were crashing. They would enter content into the node fields and try to save the node. The node would appear to save with...",
+            "date": "2015-04-18",
             "author_name": "Binny Thomas",
             "categories": "drupal",
-            "tags": "very,role,users,drupal,tweet,site",
-            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/drupal-how-to-get-the-data-of-a-user",
+            "tags": "try,sites,working,solveddrupal,tweet,drupal,site,content",
+            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/solveddrupal-pdoexception-sqlstatehy000-general-error-1366-incorrect-string-value-xe2x81x842",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://zyxware.com/articles/4763/drupal-how-to-get-the-data-of-a-user-when-the-user-has-updated-their-profile"
+            "source_url": "http://zyxware.com/articles/4803/solved-drupal-pdoexception-sqlstate-hy000-general-error-1366-incorrect-string-value-xe2-x81-x842-t"
         },
-        "zyxware.com/2015/03/drupal-how-to-set-context-for-a-6-site": {
-            "title": "Drupal How to set context for a Drupal 6 site?",
-            "snippet": "Tweet Awareness about context plays a key role in effectiveness of each task we have to do because clear thought and action is mostly not possible with vaugue assumptions or guesses. In case of web development using Drupal framework, better if we...",
-            "date": "2015-03-31",
+        "zyxware.com/2015/04/solveddrupal-organic-groups-cannot-see-the-that-user-and-admin-belongs": {
+            "title": "SOLVEDDrupal Organic Groups Cannot see the groups that user and admin belongs...",
+            "snippet": "Tweet A number of Drupal users using the Drupal Organic Gropus module reported that they could not see groups that they belong to and also the groups the administrator belonged to. If you are facing the same issue with Drupal Organic Groups in your...",
+            "date": "2015-04-16",
+            "author_name": "Webmaster",
+            "categories": "drupal",
+            "tags": "using,number,users,solveddrupal,tweet,drupal,module",
+            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/solveddrupal-organic-groups-cannot-see-the-that-user-and-admin-belongs",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
+            "source_url": "http://zyxware.com/node/3512"
+        },
+        "zyxware.com/2015/04/drupal-how-to-upload-images-amazon-s3-via-code-in": {
+            "title": "Drupal How to upload images to Amazon S3 via code in Drupal...",
+            "snippet": "Tweet This article is on how to add images to Amazon S3 in a drupal site(D7) via code. For this, download drupal module Amazon S3 (). The purpose of this module is to get the file (the file which define all s3 functions defined in Amazon) After...",
+            "date": "2015-04-14",
+            "author_name": "Chithra K",
+            "categories": "drupal",
+            "tags": "file,code,article,add,drupal,tweet,site,module",
+            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/drupal-how-to-upload-images-amazon-s3-via-code-in",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
+            "source_url": "http://zyxware.com/articles/4802/drupal-upload-images-to-amazon-s3-via-code-in-drupal-7"
+        },
+        "zyxware.com/2015/04/how-to-add-conditional-css-for-internet-explorer": {
+            "title": "How to add conditional css for Internet Explorer?",
+            "snippet": "Tweet Some alignment issues occurring in IE may be a test for your patience. We had once worked in a Drupal 6 site, and the design look well every where, but there is a small alignment problem shown up in IE. Applying a conditional style sheet saved...",
+            "date": "2015-04-10",
             "author_name": "Meera L",
-            "categories": "play,drupal",
-            "tags": "better,case,role,because,tweet,drupal,site,web,development,using,framework",
-            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/03/drupal-how-to-set-context-for-a-6-site",
+            "categories": "internet,css,drupal",
+            "tags": "small,shown,design,every,add,tweet,drupal,site,applying",
+            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/how-to-add-conditional-css-for-internet-explorer",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://zyxware.com/articles/3759/drupal-how-to-set-context-for-a-drupal-6-site"
+            "source_url": "http://zyxware.com/articles/3653/how-to-add-conditional-css-for-internet-explorer"
         },
-        "posix.in-egypt.net/2015/03/script-to-update-drupal-core": {
-            "title": "script to update drupal core...",
-            "snippet": "this site runs on drupal. and drupal every so often will release a bug fix or security update. that means i will need to update my drupal core. i have been doing this for years using the script below. its fast, quick and automated. doesnt take more...",
-            "date": "2015-03-29",
-            "author_name": "marafa",
+        "drupal.org/2015/04/new-try-drupal-program": {
+            "title": "New Try Drupal Program...",
+            "snippet": "One of the Drupal Association's primary missions is to grow the adoption of Drupal. We are about to launch a new program on April 15th called Try Drupal. The program will make it easy and fast for evaluators to try Drupal and...",
+            "date": "2015-04-10",
+            "author_name": "clacina",
             "categories": "drupal",
-            "tags": "years,using,below,need,every,fix,drupal,core,site",
-            "recuweb_url": "http://en.recuweb.com/drupal/posix.in-egypt.net/2015/03/script-to-update-drupal-core",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://posix.in-egypt.net/content/script-update-drupal-core"
-        },
-        "zyxware.com/2015/03/drupal-how-to-fix-the-issue-with-theme-showing-non-responsive": {
-            "title": "Drupal How to fix the issue with theme showing non-responsive displays in mobile devices...",
-            "snippet": "Tweet While working on a responsive theme using Drupal an error occurred like, the theme shows a non-responsive displays in mobile devices. I solved this by adding meta tag using the function themename_preprocess_html() with following code in.",
-            "date": "2015-03-26",
-            "author_name": "Akhila VN",
-            "categories": "drupal,html",
-            "tags": "code,using,responsive,fix,drupal,theme,tweet,html",
-            "recuweb_url": "http://en.recuweb.com/html/zyxware.com/2015/03/drupal-how-to-fix-the-issue-with-theme-showing-non-responsive",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://zyxware.com/articles/4756/drupal-how-to-fix-the-issue-with-theme-showing-non-responsive-displays-in-mobile-devices"
-        },
-        "zyxware.com/2015/03/drupal-a-guide-to-create-new-theme": {
-            "title": "Drupal A Guide to create a new Drupal Theme...",
-            "snippet": "Tweet The first thing to get started is a theme folder. In this case, well call it base_theme. The only file actually required to create base_theme is an.info text file which is saved as Root directory for a Drupal theme text file that contains...",
-            "date": "2015-03-17",
-            "author_name": "Reshma Mohan",
-            "categories": "drupal",
-            "tags": "contains,only,actually,well,case,drupal,theme,create,tweet",
-            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/03/drupal-a-guide-to-create-new-theme",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://zyxware.com/articles/4577/drupal-a-guide-to-create-a-new-drupal-theme"
-        },
-        "freshdesignweb.com/2015/03/50-best-responsive-drupal-themes-free-&-premium": {
-            "title": "50 Best Responsive Drupal Themes Free & Premium...",
-            "snippet": "Free & premium responsive drupal 7 themes are perfect for any business and portfolio websites. It using HTML5 and CSS3 features a clean design, as well.",
-            "date": "2015-03-12",
-            "author_name": "Graham Bill",
-            "categories": "business,drupal,html,css",
-            "tags": "well,design,themes,any,websites,responsive,best,drupal,using,html",
-            "recuweb_url": "http://en.recuweb.com/css/freshdesignweb.com/2015/03/50-best-responsive-drupal-themes-free-&-premium",
-            "resource_url": "http://www.google.com/search?q=drupal&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://freshdesignweb.com/responsive-drupal-themes.html"
+            "tags": "try,called,drupal",
+            "recuweb_url": "http://en.recuweb.com/drupal/drupal.org/2015/04/new-try-drupal-program",
+            "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://drupal.org/news/new-try-drupal-program"
         }
     }
 }
