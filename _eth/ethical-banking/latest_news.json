@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "ethical-banking",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/ethical-banking/",
@@ -10,32 +11,32 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/ethical-banking/ethical-banking/blogs.json"
     },
     "items": {
-        "thenational.ae/2015/04/western-bank-scandals-spur-interest-in-sharia-system": {
-            "title": "Western bank scandals spur interest in Sharia system...",
-            "snippet": "Still, the message that Islamic finance offers an attractive alternative financial system is already getting through to those who want more ethical banking systems, regardless of religious background. The Islamic Bank of Britain, which recently...",
-            "date": "2015-04-04",
-            "categories": "finance,banking",
-            "tags": "recently,bank,want,interest,sharia,islamic,finance,alternative,financial,ethical,banking,britain",
-            "recuweb_url": "http://en.recuweb.com/banking/thenational.ae/2015/04/western-bank-scandals-spur-interest-in-sharia-system",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ethical%2Bbanking&format=RSS&cc=us",
-            "source_url": "http://thenational.ae/business/banking/western-bank-scandals-spur-interest-in-sharia-system"
-        },
-        "qctimes.com/2015/03/u-s-bank-named-among-world-most-ethical-companies-quad-city": {
-            "title": "U.S. Bank named among 'World's Most Ethical Companies'- Quad City Times...",
-            "snippet": "U.S. Bank named among 'World's Most Ethical Companies'Quad City Times\"We are thrilled to be honored as a World's Most Ethical Company, which is a distinct recognition for a large banking company,\" Richard Davis, chairman, president and chief...",
-            "date": "2015-03-20",
-            "categories": "banking",
-            "tags": "chief,ethical,company,bank,banking,chairman",
-            "recuweb_url": "http://en.recuweb.com/banking/qctimes.com/2015/03/u-s-bank-named-among-world-most-ethical-companies-quad-city",
+        "scmp.com/2015/04/to-improve-banking-standards-bankers-themselves-must-choose-ethics-over-south": {
+            "title": "To improve banking standards, bankers themselves must choose ethics over... - South China Morning...",
+            "snippet": "South China Morning Post (subscription)To improve banking standards, bankers themselves must choose ethics over...South China Morning Post (subscription)I was really encouraged by the implicit acceptance, in putting the thorny subject of ethical...",
+            "date": "2015-04-15",
+            "categories": "ethics,banking",
+            "tags": "putting,really,encouraged,bankers,ethics,banking,ethical",
+            "recuweb_url": "http://en.recuweb.com/banking/scmp.com/2015/04/to-improve-banking-standards-bankers-themselves-must-choose-ethics-over-south",
             "resource_url": "http://news.google.com/?hl=en&q=ethical%2Bbanking&output=atom&nord=1",
-            "source_url": "http://qctimes.com/business/u-s-bank-named-among-world-s-most-ethical-companies/article_0c420ea9-5aa8-5ed6-a6e2-89fd3922e3ba.html"
+            "source_url": "http://scmp.com/comment/insight-opinion/article/1767030/improve-banking-standards-bankers-themselves-must-choose"
+        },
+        "the-newshub.com/2015/04/the-case-for-ethical-banking-news-hub": {
+            "title": "The Case for Ethical Banking - The News Hub...",
+            "snippet": "The News HubThe Case for Ethical BankingThe News HubFormerly a designation of commercial credibility, to announce oneself as a banker in 2015 now garners the same derision previously reserved for ticket inspectors and estate agents. Bankers are...",
+            "date": "2015-04-12",
+            "categories": "ethical-banking,banking",
+            "tags": "bankers,ethical,hub,ethical_banking,banking",
+            "recuweb_url": "http://en.recuweb.com/banking/the-newshub.com/2015/04/the-case-for-ethical-banking-news-hub",
+            "resource_url": "http://news.google.com/?hl=en&q=ethical%2Bbanking&output=atom&nord=1",
+            "source_url": "http://the-newshub.com/business/the-case-for-ethical-banking"
         },
         "cnbc.com/2014/04/ethical-banking-to-take-over-abu-dhabi-islamic-bank-ceo": {
             "title": "Ethical banking to take over: Abu Dhabi Islamic Bank CEO...",
             "snippet": "The chief executive of Abu Dhabi Islamic Bank (ADIB), the largest Sharia-compliant bank in the United Arab Emirates, believes the banking industry is on the cusp of a historic transformation that will see a convergence between conventional and...",
             "date": "2014-04-29",
             "categories": "banking",
-            "tags": "islamic,bank,chief,ethical,banking,sharia,believes",
+            "tags": "islamic,bank,ethical,banking,sharia",
             "recuweb_url": "http://en.recuweb.com/banking/cnbc.com/2014/04/ethical-banking-to-take-over-abu-dhabi-islamic-bank-ceo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ethical%2Bbanking&format=RSS&cc=us",
             "source_url": "http://cnbc.com/id/101624169"
@@ -45,17 +46,27 @@
             "snippet": "IT COULD take up to five years for Royal Bank of Scotland to lead the banking sector in areas such as ethics and the environment, the company's head of sustainability has warned. Despite what he regards as huge progress from a standing start...",
             "date": "2014-04-13",
             "categories": "sustainability,ethics,environment,banking",
-            "tags": "company,sector,ethics,bank,ethical,banking,could,scotland",
+            "tags": "sector,ethics,royal,royal_bank,bank,ethical,banking,scotland",
             "recuweb_url": "http://en.recuweb.com/banking/heraldscotland.com/2014/04/rbs-aims-to-lead-from-front-on-ethical-banking",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ethical%2Bbanking&format=RSS&cc=us",
             "source_url": "http://heraldscotland.com/business/company-news/rbs-aims-to-lead-from-front-on-ethical-banking.23968738"
+        },
+        "huffingtonpost.co.uk/2014/03/is-ethical-banking-an-oxymoron": {
+            "title": "Is Ethical Banking an Oxymoron?",
+            "snippet": "On the day that Royal Bank of Scotland announced a bonus payout to it's staff of 588million in spite of an operating loss of, one had to wonder if any lessons were really learnt from the mess that was left after the banking crash only a few...",
+            "date": "2014-03-03",
+            "categories": "ethical-banking,banking",
+            "tags": "really,announced,royal,royal_bank,bank,day,ethical,ethical_banking,banking,scotland",
+            "recuweb_url": "http://en.recuweb.com/banking/huffingtonpost.co.uk/2014/03/is-ethical-banking-an-oxymoron",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ethical%2Bbanking&format=RSS&cc=us",
+            "source_url": "http://huffingtonpost.co.uk/ian-middleton/ethical-banking_b_4874216.html"
         },
         "dorsetecho.co.uk/2014/02/first-dorset-credit-union-s-open-day-in-dorchester-celebrates-ethical": {
             "title": "First Dorset Credit Union's open day in Dorchester celebrates ethical banking...",
             "snippet": "ETHICAL banking was at the heart of an open day for the First Dorset Credit Union. People from across the county came to celebrate its success at the Dorchester headquarters in High East Street. The union has snapped up a 125 year lease on the...",
             "date": "2014-02-26",
             "categories": "credit,banking",
-            "tags": "high,street,ethical,banking",
+            "tags": "high,street,day,ethical,banking",
             "recuweb_url": "http://en.recuweb.com/banking/dorsetecho.co.uk/2014/02/first-dorset-credit-union-s-open-day-in-dorchester-celebrates-ethical",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ethical%2Bbanking%2Bethical%2Bbanking&format=RSS&cc=us",
             "source_url": "http://dorsetecho.co.uk/news/11037361.First_Dorset_Credit_Union_s_open_day_in_Dorchester_celebrates_ethical_banking/"
@@ -65,7 +76,7 @@
             "snippet": "While the Bitcoin Foundation is putting a brave face on this - see... the opportunity is there for entrepreneurs to achieve ethical banking by combining: The digital efficiency and scalability of computers and networks The rules and regulations...",
             "date": "2013-10-07",
             "categories": "ethical-banking,banking",
-            "tags": "opportunity,ethical,ethical_banking,banking",
+            "tags": "opportunity,putting,ethical,ethical_banking,banking",
             "recuweb_url": "http://en.recuweb.com/banking/huffingtonpost.com/2013/10/of-bitcoins-and-ethical-banking",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ethical%2Bbanking&format=RSS&cc=us",
             "source_url": "http://huffingtonpost.com/patrice-peyret/of-bitcoins-and-ethical-b_b_4051361.html"
@@ -85,7 +96,7 @@
             "snippet": "Recent figures from the Islamic Finance Council UK (IFC) show that more than 50% of Scots want to see some of their money invested using green or ethical criteria meaning the country has an opportunity to become a hub for ethical finance. The IFC...",
             "date": "2013-02-26",
             "categories": "finance,banking",
-            "tags": "opportunity,want,money,green,finance,could,scotland,ethical,banking,islamic,recent",
+            "tags": "opportunity,hub,money,green,finance,scotland,ethical,banking,islamic,recent",
             "recuweb_url": "http://en.recuweb.com/banking/blueandgreentomorrow.com/2013/02/scotland-could-be-go-to-place-for-ethical-banking-and-islamic",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ethical%2Bbanking&format=RSS&cc=us",
             "source_url": "http://blueandgreentomorrow.com/2013/02/26/scotland-ethical-banking-islamic-finance/"
@@ -95,20 +106,10 @@
             "snippet": "As far as the UKs ethical banking sector is concerned the steady stream of headlines from the interest-rate fixing Libor scandal to the HSBC money laundering for drug barons has proved to be a marketing campaign from heaven. Put simply the...",
             "date": "2012-09-04",
             "categories": "marketing,banking",
-            "tags": "money,marketing,interest,sector,crisis,banking,ethical,britain,hsbc",
+            "tags": "money,marketing,sector,banking,ethical,hsbc",
             "recuweb_url": "http://en.recuweb.com/banking/blogs.independent.co.uk/2012/09/crisis-what-banking-the-rise-of-ethical-in-britain",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ethical%2Bbanking&format=RSS&cc=us",
             "source_url": "http://blogs.independent.co.uk/2012/09/03/crisis-what-banking-crisis-the-rise-of-ethical-banking-in-britain/"
-        },
-        "forbes.com/2012/07/should-banks-be-ethical-sustainable-and-boring": {
-            "title": "Should Banks be Ethical, Sustainable and Boring?",
-            "snippet": "Ethical Banking Ethical banking is a hot topic and a recent collection of essays on Trust and Ethics in Finance published by and available for free from provides a fresh view from a worldwide group of young researchers. In the preface...",
-            "date": "2012-07-20",
-            "categories": "banking,ethics,finance",
-            "tags": "available,banks,ethical,banking,trust,ethics,finance",
-            "recuweb_url": "http://en.recuweb.com/finance/forbes.com/2012/07/should-banks-be-ethical-sustainable-and-boring",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ethical%2Bbanking%2Bethical%2Bbanking&format=RSS&cc=us",
-            "source_url": "http://forbes.com/sites/francisvorhies/2012/07/20/should-banks-be-ethical-sustainable-and-boring/"
         }
     }
 }
