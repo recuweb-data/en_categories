@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "canyoning",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/canyoning/",
@@ -10,14 +11,24 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/canyoning/canyoning/blogs.json"
     },
     "items": {
-        "rappler.com/2015/04/15-destinations-around-the-world-for-filipino-travelers": {
-            "title": "15 destinations around the world for Filipino travelers...",
-            "snippet": "For adventure junkies, there are loads thrill-filled adventure sports to choose from, like surfing, canyoning, quad biking, zip-lining and much more! Only a 3 hour shuttle away, or a one hour flight, from San Jose and in easy reach of the...",
+        "agi.it/2015/04/at-least-2-500-killed-and-6-000-injured-in-nepal": {
+            "title": "At least 2, 500 killed and 6, 000 injured in Nepal quake...",
+            "snippet": "From that moment on his telephone went dead. He and Gigliola Mancinelli, a doctor at the Lancini Cardiological Hospital of Ancona, are both expert speleologists and they were participating in a canyoning expedition together with Oscar Piazza, of the...",
+            "date": "2015-04-26",
+            "categories": "telephone,canyoning",
+            "tags": "killed,canyoning",
+            "recuweb_url": "http://en.recuweb.com/canyoning/agi.it/2015/04/at-least-2-500-killed-and-6-000-injured-in-nepal",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=canyoning&format=RSS&cc=us",
+            "source_url": "http://agi.it/en/flash-news/articles/at_least_2_500_killed_and_6_000_injured_in_nepal_quake-201504262050-cro-inw0002"
+        },
+        "rappler.com/2015/04/15-destinations-around-the-world-for-filipino-travelers-rappler": {
+            "title": "15 destinations around the world for Filipino travelers - Rappler...",
+            "snippet": "Rappler15 destinations around the world for Filipino travelersRapplerFor adventure junkies, there are loads thrill-filled adventure sports to choose from, like surfing, canyoning, quad biking, zip-lining and much more! Only a 3 hour shuttle away, or...",
             "date": "2015-04-23",
             "categories": "surfing,adventure,sport,canyoning",
-            "tags": "easy,away,quad,biking,surfing,canyoning",
-            "recuweb_url": "http://en.recuweb.com/canyoning/rappler.com/2015/04/15-destinations-around-the-world-for-filipino-travelers",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=canyoning&format=RSS&cc=us",
+            "tags": "away,quad,biking,surfing,canyoning",
+            "recuweb_url": "http://en.recuweb.com/canyoning/rappler.com/2015/04/15-destinations-around-the-world-for-filipino-travelers-rappler",
+            "resource_url": "http://news.google.com/?hl=en&q=canyoning&output=atom&nord=1",
             "source_url": "http://rappler.com/life-and-style/travel/90780-travel-destinations-cities-travel-backpackers-filipinos-visa"
         },
         "independent.co.uk/2015/04/where-to-switch-off-on-holiday-how-ditch-digital": {
@@ -45,20 +56,10 @@
             "snippet": "I have a theory that the best exercise is the exercise that doesn't feel like exercise. The kind that's so much fun, it's not until someone suggests you stop that you realise you're completely buggered. Surfing and skiing fall into that category,...",
             "date": "2015-04-19",
             "categories": "skiing,canyoning,surfing",
-            "tags": "feel,best,canyoning,surfing",
+            "tags": "feel,canyoning,surfing",
             "recuweb_url": "http://en.recuweb.com/surfing/bodyandsoul.com.au/2015/04/exercise-with-canyoning",
             "resource_url": "http://www.bing.com/news/search?first=1&q=canyoning%2Bcanyoning&format=RSS&cc=us",
             "source_url": "http://bodyandsoul.com.au/fitness/training+tips/exercise+with+canyoning,9171"
-        },
-        "jornalaguarda.com/2015/04/canyoning-na-ribeira-de-leandres-jornal-a-guarda": {
-            "title": "Canyoning na Ribeira de Leandres - Jornal A Guarda...",
-            "snippet": "Canyoning na Ribeira de LeandresJornal A GuardaA Cmara Municipal de Manteigas prev\u00ea inaugurar no dia 25 de Julho, o percurso de Canyoning na Ribeira de Leandres, um afluente do Rio Z\u00eazere que inclui o emblem\u00e1tico Po\u00e7o do Inferno, anunciou...",
-            "date": "2015-04-17",
-            "categories": "canyoning",
-            "tags": "canyoning",
-            "recuweb_url": "http://en.recuweb.com/canyoning/jornalaguarda.com/2015/04/canyoning-na-ribeira-de-leandres-jornal-a-guarda",
-            "resource_url": "http://news.google.com/?hl=en&q=canyoning&output=atom&nord=1",
-            "source_url": "http://jornalaguarda.com/index.php/desporto/2697-canyoning-na-ribeira-de-leandres"
         },
         "abc.net.au/2015/03/helicopter-canyoning-among-new-proposals-for-tasmania-wilderness-areas-abc-online": {
             "title": "Helicopter canyoning among new proposals for Tasmania wilderness areas - ABC Online...",
@@ -75,7 +76,7 @@
             "snippet": "Therefore we have responsibilities to neighbouring countries. swissinfo, Dale Bechtel on the Grimsel Pass canyoning Canyoning was a growing and trendy sport in Switzerland in the 1990s before a flash flood killed 21 people taking part in the...",
             "date": "2015-02-19",
             "categories": "sport,canyoning",
-            "tags": "part,sport,canyoning",
+            "tags": "part,killed,sport,canyoning",
             "recuweb_url": "http://en.recuweb.com/canyoning/swissinfo.ch/2015/02/politicians-take-canyoning-plunge",
             "resource_url": "http://www.bing.com/news/search?first=1&q=canyoning%2Bcanyoning&format=RSS&cc=us",
             "source_url": "http://swissinfo.ch/eng/politicians-take-canyoning-plunge/3489244"
@@ -95,7 +96,7 @@
             "snippet": "Canyoning is an ingenious hybrid of rappelling and rock climbing through tunnels carved by rivers and over waterfalls. Its a wet sport so its perfect on a hot summers day. The sport is gaining in popularity year by year as equipment get safer and...",
             "date": "2014-07-17",
             "categories": "sport,climbing,places,canyoning",
-            "tags": "sport,year,perfect,climbing,rivers,best,canyoning",
+            "tags": "sport,perfect,climbing,rivers,canyoning",
             "recuweb_url": "http://en.recuweb.com/canyoning/liligo.co.uk/2014/07/best-places-to-go-canyoning-in-europe",
             "resource_url": "http://www.bing.com/news/search?first=1&q=canyoning%2Bcanyoning&format=RSS&cc=us",
             "source_url": "http://liligo.co.uk/travel-magazine/best-places-to-go-canyoning-in-europe-16138.html"
@@ -105,10 +106,10 @@
             "snippet": "Double K discovery is a mix of Kalimudah canyon added to the first part of Kerenkali canyon. Practicable throughout the year. For beginners of 16 years of age minimum in good shape and autonomous canyoneers. An easy tour 3 to, plus the approach:...",
             "date": "2014-03-31",
             "categories": "canyoning",
-            "tags": "easy,year,part,canyoning,canyon",
+            "tags": "part,canyoning,canyon",
             "recuweb_url": "http://en.recuweb.com/canyoning/balidiscovery.com/2014/03/canyoning-double-k-discovery",
             "resource_url": "http://www.bing.com/news/search?first=1&q=canyoning%2Bcanyoning&format=RSS&cc=us",
-            "source_url": "http://balidiscovery.com/tours/tour.asp?Id=675"
+            "source_url": "http://balidiscovery.com/tickets/activity.asp?Id=675"
         }
     }
 }
