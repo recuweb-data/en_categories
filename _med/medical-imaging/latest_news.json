@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "medical-imaging",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/medical-imaging/",
@@ -10,15 +11,34 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/medical-imaging/medical-imaging/blogs.json"
     },
     "items": {
+        "3dprint.com/2015/04/a-plano-convex-lens-3d-printed-in-resin-could-revolutionise-well": {
+            "title": "A Plano-Convex Lens 3D Printed in Resin Could Revolutionise, Well, Everything...",
+            "snippet": "This is called the terahertz gap, and while research into this band of electromagnetic radiation is still extremely new, it is already suggested that it could be used to improve security scanners, medical imaging, automated manufacturing, and...",
+            "date": "2015-04-23",
+            "tags": "improve,research,well,medical,imaging",
+            "recuweb_url": "http://en.recuweb.com/3dprint.com/2015/04/a-plano-convex-lens-3d-printed-in-resin-could-revolutionise-well",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=medical%2Bimaging&format=RSS&cc=us",
+            "source_url": "http://3dprint.com/60277/plano-convex-lens-3d-printed/"
+        },
         "prnewswire.com/2015/04/big-data-opportunities-in-the-us-medical-imaging-market-pr-newswire": {
             "title": "Big Data Opportunities in the US Medical Imaging Market - PR Newswire (press release)...",
             "snippet": "Big Data Opportunities in the US Medical Imaging MarketPR Newswire (press release)Big Data in medical imaging refers to those datasets, including medical images and related datasets, that are in the order of petabytes (terabytes or one million...",
             "date": "2015-04-23",
             "categories": "medical-imaging",
-            "tags": "million,images,medical,medical_imaging,imaging,market",
+            "tags": "million,images,medical,medical_imaging,imaging,release,market",
             "recuweb_url": "http://en.recuweb.com/medical-imaging/prnewswire.com/2015/04/big-data-opportunities-in-the-us-medical-imaging-market-pr-newswire",
-            "resource_url": "http://news.google.com/?hl=en&q=medical%2Bimaging%2Bmedical%2Bimaging&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=medical%2Bimaging&output=atom&nord=1",
             "source_url": "http://prnewswire.com/news-releases/big-data-opportunities-in-the-us-medical-imaging-market-300071205.html"
+        },
+        "bizjournals.com/2015/04/diagnosing-chronic-pain-using-evidence-based-medicine-could-improve-outcomes-reduce": {
+            "title": "Diagnosing Chronic Pain Using Evidence-based Medicine Could Improve Outcomes, Reduce Costs for Work...",
+            "snippet": "The use of MRIs and CT scans has increased substantially to diagnose and dictate treatment for chronic low back pain. Medical imaging drives up the cost of claims, yet outcomes for injured workers have not improved. In chronic pain cases, medical...",
+            "date": "2015-04-23",
+            "categories": "medicine,evidence",
+            "tags": "treatment,medicine,improve,using,medical,imaging",
+            "recuweb_url": "http://en.recuweb.com/evidence/bizjournals.com/2015/04/diagnosing-chronic-pain-using-evidence-based-medicine-could-improve-outcomes-reduce",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=medical%2Bimaging&format=RSS&cc=us",
+            "source_url": "http://bizjournals.com/prnewswire/press_releases/2015/04/23/CG89054"
         },
         "benzinga.com/2015/04/intrinsic-imaging-awarded-medical-device-trial-for-percutaneous-tumor-ablation-benzinga": {
             "title": "Intrinsic Imaging Awarded Medical Device Trial for Percutaneous Tumor Ablation - Benzinga...",
@@ -27,86 +47,67 @@
             "categories": "tumor",
             "tags": "lab,imaging,medical",
             "recuweb_url": "http://en.recuweb.com/tumor/benzinga.com/2015/04/intrinsic-imaging-awarded-medical-device-trial-for-percutaneous-tumor-ablation-benzinga",
-            "resource_url": "http://news.google.com/?hl=en&q=medical%2Bimaging%2Bmedical%2Bimaging&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=medical%2Bimaging&output=atom&nord=1",
             "source_url": "http://benzinga.com/pressreleases/15/04/p5436826/intrinsic-imaging-awarded-medical-device-trial-for-percutaneous-tumor-a"
         },
-        "digitaljournal.com/2015/04/medical-imaging-equipment-market-research-report-forecast-digital-journal": {
-            "title": "Medical Imaging Equipment Market Research Report Forecast - Digital Journal...",
-            "snippet": "Medical Imaging Equipment Market Research Report ForecastDigital JournalAlbany, NY -- (ReleaseWire) -- 04/23/2015 -- According to a new market report published by Transparency Market Research \"Medical Imaging Equipment Market (X-ray, Ultrasound,...",
+        "medicalxpress.com/2015/04/long-term-exposure-to-air-pollution-may-pose-risk-brain-structure": {
+            "title": "Long-term exposure to air pollution may pose risk to brain structure, cognitive functions...",
+            "snippet": "Micrograph showing cortical pseudolaminar necrosis, a finding seen in strokes on medical imaging and at autopsy. H&E-LFB stain. Credit: Nephron/Wikipedia Air pollution, even at moderate levels, has long been recognized as a factor in raising the...",
+            "date": "2015-04-23",
+            "categories": "pollution,credit",
+            "tags": "risk,medical,imaging",
+            "recuweb_url": "http://en.recuweb.com/credit/medicalxpress.com/2015/04/long-term-exposure-to-air-pollution-may-pose-risk-brain-structure",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=medical%2Bimaging&format=RSS&cc=us",
+            "source_url": "http://medicalxpress.com/news/2015-04-long-term-exposure-air-pollution-pose.html"
+        },
+        "4-traders.com/2015/04/medical-imaging-university-of-exeter-new-gbp10-5-million-facility-upgrades": {
+            "title": "Medical Imaging: University of Exeter - New GBP10.5 million facility upgrades St Luke's Campus...",
+            "snippet": "Release date- 20042015 - A dramatic overhaul to a former hall of residence at St Luke's has created a modern, high quality research and education facility on the University's campus. Over the past two years, the University has invested GBP12.7...",
+            "date": "2015-04-23",
+            "categories": "education,medical-imaging,university",
+            "tags": "high,research,million,medical,medical_imaging,imaging,university,release",
+            "recuweb_url": "http://en.recuweb.com/university/4-traders.com/2015/04/medical-imaging-university-of-exeter-new-gbp10-5-million-facility-upgrades",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=medical%2Bimaging&format=RSS&cc=us",
+            "source_url": "http://4-traders.com/MEDICAL-IMAGING-CORP-17185497/news/Medical-Imaging--University-of-Exeter-New-GBP105-million-facility-upgrades-St-Lukes-Campus-20242802/"
+        },
+        "digitaljournal.com/2015/04/medical-imaging-equipment-market-research-report-forecast": {
+            "title": "Medical Imaging Equipment Market Research Report Forecast...",
+            "snippet": "Albany, NY -- (ReleaseWire) -- 04/23/2015 -- According to a new market report published by Transparency Market Research Medical Imaging Equipment Market (X-ray, Ultrasound, Computed Tomography (CT), Magnetic Resonance Imaging (MRI) and Nuclear...",
             "date": "2015-04-23",
             "categories": "medical-imaging",
-            "tags": "medical,medical_imaging,imaging,market,journal,ray",
-            "recuweb_url": "http://en.recuweb.com/medical-imaging/digitaljournal.com/2015/04/medical-imaging-equipment-market-research-report-forecast-digital-journal",
-            "resource_url": "http://news.google.com/?hl=en&q=medical%2Bimaging%2Bmedical%2Bimaging&output=atom&nord=1",
+            "tags": "magnetic,magnetic_resonance,magnetic_resonance_imaging,resonance,resonance_imaging,imaging,market,research,medical,medical_imaging,ray",
+            "recuweb_url": "http://en.recuweb.com/medical-imaging/digitaljournal.com/2015/04/medical-imaging-equipment-market-research-report-forecast",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=medical%2Bimaging&format=RSS&cc=us",
             "source_url": "http://digitaljournal.com/pr/2532272"
+        },
+        "kvue.com/2015/04/researchers-identify-which-women-should-get-mammograms": {
+            "title": "Researchers identify which women should get mammograms...",
+            "snippet": "The images they have high density. They have texture inside, said Wei Quian, director of the Medical Imaging Informatics Lab at UTEP. Personalized risk would determine which women get an annual mammogram. Though the research is promising, it's just...",
+            "date": "2015-04-23",
+            "categories": "medical-imaging",
+            "tags": "research,risk,determine,medical,medical_imaging,imaging,lab,images,high",
+            "recuweb_url": "http://en.recuweb.com/medical-imaging/kvue.com/2015/04/researchers-identify-which-women-should-get-mammograms",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=medical%2Bimaging&format=RSS&cc=us",
+            "source_url": "http://kvue.com/story/news/health/2015/04/23/researchers-identify-which-women-should-get-mammograms/26265565/"
         },
         "diagnosticimaging.com/2015/04/successful-execution-of-enterprise-imaging-diagnostic": {
             "title": "Successful Execution of Enterprise Imaging - Diagnostic Imaging...",
             "snippet": "Successful Execution of Enterprise ImagingDiagnostic ImagingA physician at The Cleveland Clinic can now view photos of a patient's hand and an X-ray of the same hand side-by-side within the electronic medical record to determine the best treatment...",
             "date": "2015-04-23",
-            "tags": "ray,diagnostic,diagnostic_imaging,imaging,medical",
+            "tags": "determine,treatment,ray,diagnostic,diagnostic_imaging,imaging,medical",
             "recuweb_url": "http://en.recuweb.com/diagnosticimaging.com/2015/04/successful-execution-of-enterprise-imaging-diagnostic",
             "resource_url": "http://news.google.com/?hl=en&q=medical%2Bimaging%2Bmedical%2Bimaging&output=atom&nord=1",
             "source_url": "http://diagnosticimaging.com/pacs-and-informatics/successful-execution-enterprise-imaging"
         },
-        "democratandchronicle.com/2015/04/carestream-trying-new-diagnostic-imaging-system-rochester-democrat-and-chronicle": {
-            "title": "Carestream trying new diagnostic imaging system - Rochester Democrat and Chronicle...",
-            "snippet": "Rochester Democrat and ChronicleCarestream trying new diagnostic imaging systemRochester Democrat and ChronicleCarestream Health Inc. has started clinical studies at Erie County Medical Center as it works on a new line of three-dimensional medical...",
+        "orthospinenews.com/2015/04/carestream-and-ubmd-orthopaedics-&-sports-medicine-begin-clinical-studies-on": {
+            "title": "Carestream and UBMD Orthopaedics & Sports Medicine Begin Clinical Studies on New Diagnostic Imaging...",
+            "snippet": "ROCHESTER, N.Y.(BUSINESS WIRE)Carestream and UBMD Orthopaedics & Sports Medicine are conducting clinical studies on a new three-dimensional medical imaging system at ECMC for use in treating orthopaedic conditions. These studies will help guide...",
             "date": "2015-04-22",
-            "categories": "health",
-            "tags": "medical,medical_center,center,started,diagnostic,imaging",
-            "recuweb_url": "http://en.recuweb.com/health/democratandchronicle.com/2015/04/carestream-trying-new-diagnostic-imaging-system-rochester-democrat-and-chronicle",
-            "resource_url": "http://news.google.com/?hl=en&q=medical%2Bimaging%2Bmedical%2Bimaging&output=atom&nord=1",
-            "source_url": "http://democratandchronicle.com/story/money/2015/04/22/carestream-trying-new-diagnostic-imaging-system/26178717/"
-        },
-        "diagnosticimaging.com/2015/04/dual-energy-ct-shows-potential-for-pancreatic-cancer-diagnostic-imaging": {
-            "title": "Dual-Energy CT Shows Potential for Pancreatic Cancer - Diagnostic Imaging...",
-            "snippet": "Dual-Energy CT Shows Potential for Pancreatic CancerDiagnostic ImagingResearchers from Johns Hopkins University in Baltimore, MD, and Siemens Medical Solutions in Malvern, PA, reviewed currently available applications of postprocessed DECT with a...",
-            "date": "2015-04-22",
-            "categories": "university,cancer",
-            "tags": "currently,medical,university,diagnostic,diagnostic_imaging,imaging",
-            "recuweb_url": "http://en.recuweb.com/cancer/diagnosticimaging.com/2015/04/dual-energy-ct-shows-potential-for-pancreatic-cancer-diagnostic-imaging",
-            "resource_url": "http://news.google.com/?hl=en&q=medical%2Bimaging%2Bmedical%2Bimaging&output=atom&nord=1",
-            "source_url": "http://diagnosticimaging.com/arrs-2015/dual-energy-ct-shows-potential-pancreatic-cancer"
-        },
-        "highlandernews.net/2015/04/medical-imaging-duo-comes-out-on-top-the-highlander": {
-            "title": "Medical Imaging Duo Comes Out On Top - The Highlander...",
-            "snippet": "The HighlanderMedical Imaging Duo Comes Out On TopThe HighlanderTwo medical imaging majors placed first at the annual Pennsylvania Society of Radiologic Technologists Conference. Juniors Kaitlin Fink and Allison McIntyre won first place in the...",
-            "date": "2015-04-22",
-            "categories": "society,medical-imaging",
-            "tags": "imaging,medical,medical_imaging",
-            "recuweb_url": "http://en.recuweb.com/medical-imaging/highlandernews.net/2015/04/medical-imaging-duo-comes-out-on-top-the-highlander",
-            "resource_url": "http://news.google.com/?hl=en&q=medical%2Bimaging%2Bmedical%2Bimaging&output=atom&nord=1",
-            "source_url": "http://highlandernews.net/news/2015/04/22/medical-imaging-duo-comes-out-on-top/"
-        },
-        "upi.com/2015/04/new-magnetic-field-detector-could-improve-medical-imaging": {
-            "title": "New magnetic field detector could improve medical imaging -...",
-            "snippet": "magnetic field detector could improve medical field detectors, or magnetometers, are used for metal detection, medical imaging and geological observation, but the devices as currently designed have limitations. Many require \"buffer gas\" chambers...",
-            "date": "2015-04-07",
-            "categories": "observation",
-            "tags": "currently,field,magnetic,improve,medical,imaging",
-            "recuweb_url": "http://en.recuweb.com/observation/upi.com/2015/04/new-magnetic-field-detector-could-improve-medical-imaging",
-            "resource_url": "http://news.google.com/?hl=en&q=medical%2Bimaging%2Bmedical%2Bimaging&output=atom&nord=1",
-            "source_url": "http://upi.com/Science_News/2015/04/07/New-magnetic-field-detector-could-improve-medical-imaging/9591428421250/"
-        },
-        "blogs.wsj.com/2015/04/khosla-ventures-invests-in-israeli-medical-imaging-startup-zebra-wall-street": {
-            "title": "Khosla Ventures Invests In Israeli Medical Imaging Startup Zebra - Wall Street Journal (blog)...",
-            "snippet": "Wall Street Journal (blog)Khosla Ventures Invests In Israeli Medical Imaging Startup ZebraWall Street Journal (blog)U.S. venture firm Khosla Ventures is leading an early round of investment of 8 million in Zebra Medical Vision Ltd., an Israel-based...",
-            "date": "2015-04-06",
-            "categories": "medical-imaging",
-            "tags": "medical,million,medical_imaging,imaging,journal",
-            "recuweb_url": "http://en.recuweb.com/medical-imaging/blogs.wsj.com/2015/04/khosla-ventures-invests-in-israeli-medical-imaging-startup-zebra-wall-street",
-            "resource_url": "http://news.google.com/?hl=en&q=medical%2Bimaging%2Bmedical%2Bimaging&output=atom&nord=1",
-            "source_url": "http://blogs.wsj.com/digits/2015/04/06/khosla-ventures-invests-in-israeli-medical-imaging-startup-zebra/"
-        },
-        "yourhealth.asiaone.com/2015/03/5-misconceptions-about-medical-scans": {
-            "title": "5 misconceptions about medical scans...",
-            "snippet": "Contrast agents will cause problems Fact: Contrast agents in medical imaging are compounds that are injected into the blood stream so they show up on scans to make the images clearer to improve diagnoses. Most people tolerate these agents well. The...",
-            "date": "2015-03-13",
-            "tags": "well,images,improve,medical,imaging",
-            "recuweb_url": "http://en.recuweb.com/yourhealth.asiaone.com/2015/03/5-misconceptions-about-medical-scans",
+            "categories": "sport,medicine,business",
+            "tags": "medicine,diagnostic,diagnostic_imaging,imaging,medical",
+            "recuweb_url": "http://en.recuweb.com/business/orthospinenews.com/2015/04/carestream-and-ubmd-orthopaedics-&-sports-medicine-begin-clinical-studies-on",
             "resource_url": "http://www.bing.com/news/search?first=1&q=medical%2Bimaging&format=RSS&cc=us",
-            "source_url": "http://yourhealth.asiaone.com/content/5-misconceptions-about-medical-scans"
+            "source_url": "http://orthospinenews.com/carestream-and-ubmd-orthopaedics-sports-medicine-begin-clinical-studies-on-new-diagnostic-imaging-system-at-erie-county-medical-center-ecmc"
         }
     }
 }
