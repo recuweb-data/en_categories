@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "active-galaxies",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/active-galaxies/",
@@ -10,22 +11,42 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/active-galaxies/active-galaxies/blogs.json"
     },
     "items": {
-        "astronomynow.com/2015/04/22-april-2015-in-news-binary-black-holes-found-verging-on": {
-            "title": "22 April 2015 in News: Binary black holes found verging on merging - Astronomy Now Online...",
-            "snippet": "Astronomy Now Online22 April 2015 in News: Binary black holes found verging on mergingAstronomy Now OnlineQuasars are distant galaxies with at least one monster black hole at their centre that is so active it completely outshines the rest of the...",
-            "date": "2015-04-22",
-            "categories": "astronomy,galaxies",
-            "tags": "distant,merging,binary,black,holes,astronomy,galaxies,hole,active",
-            "recuweb_url": "http://en.recuweb.com/galaxies/astronomynow.com/2015/04/22-april-2015-in-news-binary-black-holes-found-verging-on",
+        "thehoopsnews.com/2015/04/cosmic-tsunami-invigorates-comatose-galaxies-not-destroy-like-on-earth": {
+            "title": "Cosmic Tsunami invigorates comatose galaxies not destroy like on Earth...",
+            "snippet": "Galaxies usually exist in form of clusters; these clusters contain both active galaxies and galaxies that have ceased and formed starts several years back. A recent research has revealed that massive cosmic tsunamis might force these dead galaxies...",
+            "date": "2015-04-27",
+            "categories": "galaxies,earth",
+            "tags": "cosmic,dead,galaxies,earth,active,revealed",
+            "recuweb_url": "http://en.recuweb.com/earth/thehoopsnews.com/2015/04/cosmic-tsunami-invigorates-comatose-galaxies-not-destroy-like-on-earth",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=active%2Bgalaxies&format=RSS&cc=us",
+            "source_url": "http://thehoopsnews.com/2015/04/27/4678/cosmic-tsunami-invigorates-comatose-galaxies-not-destroy-like-on-earth/"
+        },
+        "ibtimes.com/2015/04/hubble-at-25-from-the-pillars-of-creation-to-jupiter": {
+            "title": "Hubble At 25: From The Pillars Of Creation To Jupiter's Great Red Spot, The... - International...",
+            "snippet": "International Business TimesHubble At 25: From The Pillars Of Creation To Jupiter's Great Red Spot, The...International Business TimesHubble also has captured photos of quasars -- \"intensely powerful centers of distant, active galaxies, powered by a...",
+            "date": "2015-04-24",
+            "categories": "business,galaxies",
+            "tags": "centers,distant,captured,hubble,international,quasars,active,galaxies",
+            "recuweb_url": "http://en.recuweb.com/galaxies/ibtimes.com/2015/04/hubble-at-25-from-the-pillars-of-creation-to-jupiter",
             "resource_url": "http://news.google.com/?hl=en&q=active%2Bgalaxies&output=atom&nord=1",
-            "source_url": "http://astronomynow.com/2015/04/22/binary-black-holes-found-verging-on-merging/"
+            "source_url": "http://ibtimes.com/pulse/hubble-25-pillars-creation-jupiters-great-red-spot-space-telescope-has-captured-it-1895851"
+        },
+        "sciencenews.org/2015/04/lit-up-gas-clouds-hint-at-galaxies-violent-pasts-science-news": {
+            "title": "Lit-up gas clouds hint at galaxies'violent pasts - Science News...",
+            "snippet": "Science NewsLit-up gas clouds hint at galaxies'violent pastsScience NewsVoorwerpjes are signposts of galaxies with recently active centers, so astronomers can use them to identify galaxies to study after their cores fade. The prototype for these...",
+            "date": "2015-04-24",
+            "categories": "science,galaxies",
+            "tags": "study,astronomers,science,clouds,gas,galaxies,active,centers,cores",
+            "recuweb_url": "http://en.recuweb.com/galaxies/sciencenews.org/2015/04/lit-up-gas-clouds-hint-at-galaxies-violent-pasts-science-news",
+            "resource_url": "http://news.google.com/?hl=en&q=active%2Bgalaxies&output=atom&nord=1",
+            "source_url": "http://sciencenews.org/article/lit-gas-clouds-hint-galaxies\u2019-violent-pasts"
         },
         "huffingtonpost.com/2015/04/behold-the-most-realistic-black-hole-simulation-yet": {
             "title": "Behold The Most Realistic Black Hole Simulation Yet...",
             "snippet": "Our simulations of binary black holes merging in circumbinary magnetized disks of gas allow us to probe a cosmic event that astronomers believe occurs in distant active galaxies and quasars, Shapiro told The Huffington Post in an email. (Story...",
             "date": "2015-04-22",
             "categories": "galaxies",
-            "tags": "cosmic,astronomers,distant,merging,simulation,binary,black,hole,holes,gas,active,galaxies,quasars",
+            "tags": "cosmic,astronomers,distant,simulation,black,hole,holes,gas,active,galaxies,quasars",
             "recuweb_url": "http://en.recuweb.com/galaxies/huffingtonpost.com/2015/04/behold-the-most-realistic-black-hole-simulation-yet",
             "resource_url": "http://www.bing.com/news/search?first=1&q=active%2Bgalaxies&format=RSS&cc=us",
             "source_url": "http://huffingtonpost.com/2015/04/22/black-hole-simulation-video_n_7108514.html"
@@ -35,7 +56,7 @@
             "snippet": "From Quarks to QuasarsAstronomy Photo of the Day Seyfert Galaxy NGC 1097From Quarks to QuasarsBy official designation, NGC 1097 is a Seyfert galaxya term used to describe active galaxies with a plethora of highly-ionized gases, mostly seen within...",
             "date": "2015-04-15",
             "categories": "astronomy,galaxies",
-            "tags": "seen,seyfert,galaxy,astronomy,quasars,active,galaxies",
+            "tags": "quasarsastronomy,seyfert,galaxy,astronomy,quasars,active,galaxies",
             "recuweb_url": "http://en.recuweb.com/galaxies/fromquarkstoquasars.com/2015/04/astronomy-photo-of-the-day-seyfert-galaxy-ngc-1097-from-quarks",
             "resource_url": "http://news.google.com/?hl=en&q=active%2Bgalaxies&output=atom&nord=1",
             "source_url": "http://fromquarkstoquasars.com/apotd-seyfert-ngc-1097/"
@@ -45,17 +66,27 @@
             "snippet": "Spectacular images of eight huge green clouds of gas around eight different active galaxies tens of thousands of light years from Earth have been captured by the Hubble Space Telescope as it celebrates its 25th birthday. According to the...",
             "date": "2015-04-06",
             "categories": "galaxies,earth",
-            "tags": "thousands,light,different,images,images-of-eight,huge,green,clouds,hubble,space,gas,active,galaxies",
+            "tags": "captured,thousands,light,different,images,images-of-eight,huge,green,clouds,hubble,space,telescope,gas,active,galaxies,earth",
             "recuweb_url": "http://en.recuweb.com/earth/marketbusinessnews.com/2015/04/amazing-green-clouds-of-gas-in-deep-space-captured-by-hubble",
             "resource_url": "http://www.bing.com/news/search?first=1&q=active%2Bgalaxies&format=RSS&cc=us",
             "source_url": "http://marketbusinessnews.com/amazing-green-clouds-of-gas-in-deep-space-captured-by-hubble-space-telescope/55579"
+        },
+        "astronomy.com/2015/04/hubble-finds-phantom-objects-near-dead-quasars-astronomy-magazine": {
+            "title": "Hubble finds phantom objects near dead quasars - Astronomy Magazine...",
+            "snippet": "Science TimesHubble finds phantom objects near dead quasarsAstronomy MagazineThese Hubble Space Telescope images reveal a set of bizarre, greenish, looping, spiral, and braided shapes around eight active galaxies. These huge knots of dust and gas...",
+            "date": "2015-04-06",
+            "categories": "astronomy,science,galaxies",
+            "tags": "huge,space,telescope,images,objects,dead,quasarsastronomy,astronomy,hubble,quasars,science,spiral,active,galaxies,gas",
+            "recuweb_url": "http://en.recuweb.com/galaxies/astronomy.com/2015/04/hubble-finds-phantom-objects-near-dead-quasars-astronomy-magazine",
+            "resource_url": "http://news.google.com/?hl=en&q=active%2Bgalaxies&output=atom&nord=1",
+            "source_url": "http://astronomy.com/news/2015/04/hubble-finds-phantom-objects-near-dead-quasars"
         },
         "nanowerk.com/2014/05/gamma-rays-from-the-core-of-active-galaxies": {
             "title": "Gamma rays from the core of active galaxies...",
             "snippet": "(Nanowerk News) Blazars are among the largest and most energetic objects in the universe. Jets of matter (jets) shoot from the cores of these active galaxies shoot, which are accompanied by huge bursts of gamma rays. An international team led by...",
             "date": "2014-05-23",
             "categories": "galaxies",
-            "tags": "international,international-team,team,huge,rays,largest,universe,active,galaxies,cores",
+            "tags": "international,international-team,team,huge,largest,objects,universe,active,galaxies,cores",
             "recuweb_url": "http://en.recuweb.com/galaxies/nanowerk.com/2014/05/gamma-rays-from-the-core-of-active-galaxies",
             "resource_url": "http://www.bing.com/news/search?first=1&q=active%2Bgalaxies&format=RSS&cc=us",
             "source_url": "http://nanowerk.com/news2/space/newsid=35712.php"
@@ -65,7 +96,7 @@
             "snippet": "Picture a single cloud large enough to span the solar system from the sun to beyond Pluto's orbit. Now imagine many such clouds orbiting in a vast ring at the heart of a distant galaxy, occasionally dimming the X-ray light produced by the galaxy's...",
             "date": "2014-02-26",
             "categories": "sun,solar-system,active-galaxies,galaxies",
-            "tags": "light,galaxy,clouds,beyond,solar,rxte,reveals,cloudy,cloudy_cores,cores,active,active_galaxies,galaxies,ray",
+            "tags": "light,galaxy,clouds,solar,rxte,reveals,cloudy,cloudy_cores,cores,active,active_galaxies,galaxies,ray",
             "recuweb_url": "http://en.recuweb.com/galaxies/science20.com/2014/02/rxte-reveals-the-cloudy-cores-of-active-galaxies",
             "resource_url": "http://www.bing.com/news/search?first=1&q=active%2Bgalaxies&format=RSS&cc=us",
             "source_url": "http://science20.com/news_articles/rxte_reveals_cloudy_cores_active_galaxies-130103"
@@ -79,36 +110,6 @@
             "recuweb_url": "http://en.recuweb.com/galaxies/astronomy.com/2014/02/rxte-reveals-the-cloudy-cores-of-active-galaxies",
             "resource_url": "http://www.bing.com/news/search?first=1&q=active%2Bgalaxies&format=RSS&cc=us",
             "source_url": "http://astronomy.com/news/2014/02/rxte-reveals-the-cloudy-cores-of-active-galaxies"
-        },
-        "spacedaily.com/2011/01/swift-survey-finds-missing-active-galaxies": {
-            "title": "Swift Survey Finds 'Missing'Active Galaxies...",
-            "snippet": "A newfound population of heavily absorbed active galaxies (orange curve) is thought to make the greatest contribution to the cosmic X-ray background (light blue). Both have similar spectral shapes and peak at similar energies. Adding in the known...",
-            "date": "2011-01-20",
-            "categories": "active-galaxies,galaxies",
-            "tags": "light,cosmic,active,active_galaxies,galaxies,swift,swift_survey,swift_survey_finds,survey,survey_finds,finds,missing,ray",
-            "recuweb_url": "http://en.recuweb.com/galaxies/spacedaily.com/2011/01/swift-survey-finds-missing-active-galaxies",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=active%2Bgalaxies&format=RSS&cc=us",
-            "source_url": "http://spacedaily.com/reports/Swift_Survey_Finds_Missing_Active_Galaxies_999.html"
-        },
-        "esciencenews.com/2011/01/swift-survey-finds-missing-active-galaxies": {
-            "title": "Swift survey finds 'missing'active galaxies...",
-            "snippet": "Seen in X-rays, the entire sky is aglow. Even far away from bright sources, X-rays originating from beyond our galaxy provide a steady glow in every direction. Astronomers have long suspected that the chief contributors to this cosmic X-ray...",
-            "date": "2011-01-20",
-            "categories": "galaxies",
-            "tags": "long,long-suspected,suspected,chief,chief-contributors,contributors,cosmic,beyond,beyond-our-galaxy,galaxy,galaxy-provide,galaxy-provide-steady,provide,provide-steady,provide-steady-glow,steady,steady-glow,glow,glow-in-every,every,every-direction,direction,rays,rays-originating,originating,bright,bright-sources,sources,far,far-away,away,entire,entire-sky,sky,sky-is-aglow,aglow,survey,finds,swift,missing,active,galaxies,seen,even,astronomers,ray",
-            "recuweb_url": "http://en.recuweb.com/galaxies/esciencenews.com/2011/01/swift-survey-finds-missing-active-galaxies",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=active%2Bgalaxies&format=RSS&cc=us",
-            "source_url": "http://esciencenews.com/articles/2011/01/20/swift.survey.finds.missing.active.galaxies"
-        },
-        "universetoday.com/2011/01/swift-survey-finds-missing-active-galaxies": {
-            "title": "Swift Survey Finds Missing Active Galaxies...",
-            "snippet": "Seen in X-rays, the entire sky is aglow. Even far away from bright sources, X-rays originating from beyond our galaxy provide a steady glow in every direction. Astronomers have long suspected that the chief contributors to this cosmic X-ray...",
-            "date": "2011-01-19",
-            "categories": "active-galaxies,galaxies",
-            "tags": "long,long-suspected,suspected,chief,chief-contributors,contributors,cosmic,beyond,beyond-our-galaxy,galaxy,galaxy-provide,galaxy-provide-steady,provide,provide-steady,provide-steady-glow,steady,steady-glow,glow,glow-in-every,every,every-direction,direction,rays,rays-originating,originating,bright,bright-sources,sources,far,far-away,away,entire,entire-sky,sky,sky-is-aglow,aglow,swift,swift_survey,swift_survey_finds,survey,survey_finds,finds,missing,active,active_galaxies,galaxies,seen,even,astronomers,ray",
-            "recuweb_url": "http://en.recuweb.com/galaxies/universetoday.com/2011/01/swift-survey-finds-missing-active-galaxies",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=active%2Bgalaxies&format=RSS&cc=us",
-            "source_url": "http://universetoday.com/82700/swift-survey-finds-missing-active-galaxies/"
         }
     }
 }
