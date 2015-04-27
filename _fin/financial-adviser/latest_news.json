@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "financial-adviser",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/financial-adviser/",
@@ -10,99 +11,98 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/financial-adviser/financial-adviser/blogs.json"
     },
     "items": {
-        "nbr.co.nz/2015/04/conflict-of-interest-risk-remains-inaugural-fma-financial-adviser-survey-finds": {
-            "title": "Conflict of interest risk remains, inaugural FMA financial adviser survey finds - The National...",
-            "snippet": "The National Business ReviewConflict of interest risk remains, inaugural FMA financial adviser survey findsThe National Business ReviewThe survey, covering the June 30, 2014, year is mandatory for AFAs, a 1,900-member subset of a New Zealand...",
-            "date": "2015-04-23",
-            "categories": "business",
-            "tags": "adviser,interest,risk,financial",
-            "recuweb_url": "http://en.recuweb.com/business/nbr.co.nz/2015/04/conflict-of-interest-risk-remains-inaugural-fma-financial-adviser-survey-finds",
+        "wsj.com/2015/04/an-obstacle-to-becoming-rich": {
+            "title": "An Obstacle to Becoming Rich...",
+            "snippet": "Here's a look at one of the biggest obstacles to wealth creation according to financial adviser David Blain.",
+            "date": "2015-04-27",
+            "tags": "financial,adviser",
+            "recuweb_url": "http://en.recuweb.com/wsj.com/2015/04/an-obstacle-to-becoming-rich",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Badviser&format=RSS&cc=us",
+            "source_url": "http://wsj.com/video/an-obstacle-to-becoming-rich/3701F6C1-EDED-48AC-9ABA-71BDEAD482B9.html?mod=WSJ_FamilyFinance_VideoModule_1"
+        },
+        "uk.reuters.com/2015/04/column-financial-records-what-to-keep-toss": {
+            "title": "COLUMN-Financial records: What to keep, what to toss...",
+            "snippet": "The IRS accepts electronic records, said Long, resident financial adviser with Financial Finesse in Chicago. There's no need to keep paper. That's the one thing they're modern about. Long keeps a folder on her computer desktop for the current...",
+            "date": "2015-04-27",
+            "tags": "adviser,financial",
+            "recuweb_url": "http://en.recuweb.com/uk.reuters.com/2015/04/column-financial-records-what-to-keep-toss",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Badviser&format=RSS&cc=us",
+            "source_url": "http://uk.reuters.com/article/2015/04/27/column-weston-files-idUKL1N0XK23Q20150427?feedType=RSS&feedName=rbssFinancialServicesAndRealEstateNews"
+        },
+        "newzimbabwe.com/2015/04/financial-adviser-new-miss-zimbabwe": {
+            "title": "Financial adviser new Miss Zimbabwe - New...",
+            "snippet": "New adviser new Miss ZimbabweNew and financial advisor Emily Katanga Kachote was crowned Miss World Zimbabwe at a glamourous event held at Mermaids Pool in Shamva over the weekend. The 25-year-old succeeded at the second time of trying, beating...",
+            "date": "2015-04-27",
+            "tags": "world,adviser,financial",
+            "recuweb_url": "http://en.recuweb.com/newzimbabwe.com/2015/04/financial-adviser-new-miss-zimbabwe",
+            "resource_url": "http://news.google.com/?hl=en&q=financial%2Badviser&output=atom&nord=1",
+            "source_url": "http://newzimbabwe.com/showbiz-22177-Financial+adviser+new+Miss+Zimbabwe/showbiz.aspx"
+        },
+        "erstarnews.com/2015/04/rail-authority-plans-to-refinance-northstar-line-bonds": {
+            "title": "Rail authority plans to refinance Northstar line bonds...",
+            "snippet": "According to Mark Ruff of Ehlers & Associates, financial adviser to the Anoka County railroad authority, Anoka Countys share of the bond debt is 81 percent and Sherburne Countys 19 percent. Under terms of a contribution agreement, the Anoka...",
+            "date": "2015-04-27",
+            "tags": "adviser,financial",
+            "recuweb_url": "http://en.recuweb.com/erstarnews.com/2015/04/rail-authority-plans-to-refinance-northstar-line-bonds",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Badviser&format=RSS&cc=us",
+            "source_url": "http://erstarnews.com/2015/04/27/rail-authority-plans-to-refinance-northstar-line-bonds/"
+        },
+        "citypress.co.za/2015/04/your-financial-dependants-have-a-claim-on-pension": {
+            "title": "Your financial dependants have a claim on your pension...",
+            "snippet": "If you meet with a financial adviser, there will be advice fees, but find out about the actual product fees. You should not be paying an upfront fee for the product and ongoing product costs should be limited to 1% per annum.",
+            "date": "2015-04-27",
+            "categories": "pension",
+            "tags": "fee,find,find-out,financial,adviser,advice",
+            "recuweb_url": "http://en.recuweb.com/pension/citypress.co.za/2015/04/your-financial-dependants-have-a-claim-on-pension",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Badviser&format=RSS&cc=us",
+            "source_url": "http://citypress.co.za/business/your-financial-dependants-have-a-claim-on-your-pension/"
+        },
+        "tribune.com.pk/2015/04/reforming-the-power-sector-ifc-hired-financial-adviser-for-gepco-jamshoro": {
+            "title": "Reforming the power sector: IFC hired financial adviser for GEPCO, Jamshoro Power Company...",
+            "snippet": "Pakistan awarded contracts of financial advisory services for the privatisation of a power generation and a distribution company to the International Finance Corporation (IFC) of the World Bank Group, pushing ahead with its plan of handing over the...",
+            "date": "2015-04-26",
+            "categories": "finance",
+            "tags": "pushing,world,group,services,adviser,financial",
+            "recuweb_url": "http://en.recuweb.com/finance/tribune.com.pk/2015/04/reforming-the-power-sector-ifc-hired-financial-adviser-for-gepco-jamshoro",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Badviser&format=RSS&cc=us",
+            "source_url": "http://tribune.com.pk/story/875371/reforming-the-power-sector-ifc-hired-financial-adviser-for-gepco-jamshoro-power-company-privatisation/"
+        },
+        "heraldsun.com.au/2015/04/financial-adviser-s-words-just-bamboozle-clients-herald-sun": {
+            "title": "Financial adviser's words just bamboozle clients - Herald Sun...",
+            "snippet": "Herald SunFinancial adviser's words just bamboozle clientsHerald SunMy husband and I are confused and overwhelmed. We have a 450,000 SMSF, which our financial adviser set up for us, but I don't understand how it works. It's as if my adviser speaks...",
+            "date": "2015-04-25",
+            "categories": "sun",
+            "tags": "adviser,herald,clients,financial",
+            "recuweb_url": "http://en.recuweb.com/sun/heraldsun.com.au/2015/04/financial-adviser-s-words-just-bamboozle-clients-herald-sun",
             "resource_url": "http://news.google.com/?hl=en&q=financial%2Badviser%2Bfinancial%2Badviser&output=atom&nord=1",
-            "source_url": "http://nbr.co.nz/article/conflict-interest-risk-remains-inaugural-fma-financial-adviser-survey-finds-bd-171787"
+            "source_url": "http://heraldsun.com.au/business/barefoot-investor/financial-advisers-words-just-bamboozle-clients/story-fngu4eru-1227320960892"
         },
-        "professionalplanner.com.au/2015/04/embattled-banks-financial-planning-operation-will-report-all-adviser-departures": {
-            "title": "Embattled banks financial planning operation will report all adviser departures...",
-            "snippet": "The measure is aimed at weeding out bad apples from the overall sector, exceeding the minimum standards set by the new Financial Adviser Register and existing legislation. Andrew Hagger, NABs group executive wealth, announced it as he appeared...",
-            "date": "2015-04-23",
-            "categories": "financial-adviser",
-            "tags": "group,wealth,financial,adviser,register,planning",
-            "recuweb_url": "http://en.recuweb.com/financial-adviser/professionalplanner.com.au/2015/04/embattled-banks-financial-planning-operation-will-report-all-adviser-departures",
+        "herald-dispatch.com/2015/04/financial-adviser-author-brings-expertise-to-hometown-huntington-herald-dispatch": {
+            "title": "Financial adviser, author brings expertise to hometown - Huntington Herald Dispatch...",
+            "snippet": "Huntington Herald DispatchFinancial adviser, author brings expertise to hometownHuntington Herald DispatchHUNTINGTON Veteran financial adviser Jonda K. Lowe will be back in her hometown of Huntington to sign copies of her new book, \"What Suze Orman...",
+            "date": "2015-04-24",
+            "tags": "herald,financial,adviser",
+            "recuweb_url": "http://en.recuweb.com/herald-dispatch.com/2015/04/financial-adviser-author-brings-expertise-to-hometown-huntington-herald-dispatch",
+            "resource_url": "http://news.google.com/?hl=en&q=financial%2Badviser&output=atom&nord=1",
+            "source_url": "http://herald-dispatch.com/news/x1641587081/Financial-adviser-author-brings-expertise-to-hometown"
+        },
+        "ottawacitizen.com/2015/04/ottawa-financial-adviser-accused-of-bilking-elderly-clients-including-grandmother": {
+            "title": "Ottawa financial adviser accused of bilking elderly clients including grandmother...",
+            "snippet": "Ottawa financial adviser Conrad Eagan made a name for himself for being trusted by his elderly clients, but an Ottawa police investigation now casts him as a villain who defrauded several of them including his own grandmother in a...",
+            "date": "2015-04-24",
+            "tags": "clients,adviser,financial",
+            "recuweb_url": "http://en.recuweb.com/ottawacitizen.com/2015/04/ottawa-financial-adviser-accused-of-bilking-elderly-clients-including-grandmother",
             "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Badviser&format=RSS&cc=us",
-            "source_url": "http://professionalplanner.com.au/featured-posts/2015/04/24/embattled-banks-financial-planning-operation-will-report-all-adviser-departures-36123/"
-        },
-        "nydailynews.com/2015/04/feds-reveal-secret-tapes-that-may-lead-to-phil-kenner-facing": {
-            "title": "Feds reveal secret tapes that may lead to Phil Kenner facing obstruction of justice charge in NHL...",
-            "snippet": "Armed with secretly recorded jailhouse conversations, federal prosecutors are exploring obstruction of justice charges against Phil Kenner, the one-time financial adviser already in jail awaiting trial on allegations of stealing upwards of 30...",
-            "date": "2015-04-23",
-            "tags": "adviser,charge,financial",
-            "recuweb_url": "http://en.recuweb.com/nydailynews.com/2015/04/feds-reveal-secret-tapes-that-may-lead-to-phil-kenner-facing",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Badviser&format=RSS&cc=us",
-            "source_url": "http://nydailynews.com/sports/hockey/feds-secret-tapes-nhl-scam-case-bring-new-charges-article-1.2195219"
-        },
-        "goldcoastbulletin.com.au/2015/04/financial-adviser-faces-court-on-charge-of-murdering-wealthy-gold-coast": {
-            "title": "Financial adviser faces court on charge of murdering wealthy Gold Coast client...",
-            "snippet": "A FINANCIAL adviser who allegedly murdered a wealthy Gold Coast client with a hammer before stuffing the body into a toolbox was not himself on the day, a court has heard. Statements from work colleagues of Trung The Ma were aired yesterday in...",
-            "date": "2015-04-23",
-            "tags": "client,into,adviser,charge,financial",
-            "recuweb_url": "http://en.recuweb.com/goldcoastbulletin.com.au/2015/04/financial-adviser-faces-court-on-charge-of-murdering-wealthy-gold-coast",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Badviser&format=RSS&cc=us",
-            "source_url": "http://goldcoastbulletin.com.au/news/crime-court/financial-adviser-faces-court-on-charge-of-murdering-wealthy-gold-coast-client/story-fnje8bkv-1227317779072"
-        },
-        "brisbanetimes.com.au/2015/04/lots-of-scrutiny-but-no-action-by-commbank-when-rogue-planner": {
-            "title": "Lots of scrutiny, but no action by CommBank when rogue planner became a client...",
-            "snippet": "We still have to pay if he was fired, Spring confirmed. Xenophon: So they can put in a claim for stress as a result of being fired or as a result of being struck off as a financial adviser and they can still get income protection? Narev: We would...",
-            "date": "2015-04-23",
-            "tags": "adviser,planner,client,financial,would",
-            "recuweb_url": "http://en.recuweb.com/brisbanetimes.com.au/2015/04/lots-of-scrutiny-but-no-action-by-commbank-when-rogue-planner",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Badviser&format=RSS&cc=us",
-            "source_url": "http://brisbanetimes.com.au/business/cbd/lots-of-scrutiny-but-no-action-by-commbank-when-rogue-planner-became-a-client-20150423-1mrbqj.html"
-        },
-        "houstonchronicle.com/2015/04/rule-would-hold-financial-advisers-to-a-higher-standard-houston-chronicle": {
-            "title": "Rule would hold financial advisers to a higher standard - Houston Chronicle...",
-            "snippet": "Houston ChronicleRule would hold financial advisers to a higher standardHouston ChronicleFiduciary is the highest standard, requiring financial advisers and brokers to act in their clients'best interest. Suitability is a more relaxed standard where...",
-            "date": "2015-04-23",
-            "tags": "interest,would,financial,advisers",
-            "recuweb_url": "http://en.recuweb.com/houstonchronicle.com/2015/04/rule-would-hold-financial-advisers-to-a-higher-standard-houston-chronicle",
-            "resource_url": "http://news.google.com/?hl=en&q=financial%2Badviser%2Bfinancial%2Badviser&output=atom&nord=1",
-            "source_url": "http://houstonchronicle.com/business/article/Rule-would-hold-financial-advisers-to-a-higher-6219483.php"
-        },
-        "moneymanagement.com.au/2015/04/fsc-backs-restricting-use-of-term-financial-planner-adviser-money-management": {
-            "title": "FSC backs restricting use of term 'financial planner/adviser'- Money Management...",
-            "snippet": "Money ManagementFSC backs restricting use of term 'financial planner/adviser'Money ManagementThe Financial Services Council (FSC) appears to have fallen into line with the long-standing calls of the Financial Planning Association (FPA) for...",
-            "date": "2015-04-22",
-            "categories": "financial-services,management",
-            "tags": "financial,planning,into,services,management,planner,adviser",
-            "recuweb_url": "http://en.recuweb.com/management/moneymanagement.com.au/2015/04/fsc-backs-restricting-use-of-term-financial-planner-adviser-money-management",
-            "resource_url": "http://news.google.com/?hl=en&q=financial%2Badviser%2Bfinancial%2Badviser&output=atom&nord=1",
-            "source_url": "http://moneymanagement.com.au/news/financial-planning/fsc-backs-restricting-use-term-\u2018financial-planneradviser\u2019"
+            "source_url": "http://ottawacitizen.com/news/local-news/0424-con"
         },
         "thehill.com/2015/04/financial-industry-slow-down-on-adviser-rules-the-hill": {
             "title": "Financial industry: Slow down on financial adviser rules - The Hill...",
             "snippet": "Financial industry: Slow down on financial adviser rulesThe HillThe financial industry is pushing the Labor Department to pump the brakes on controversial new rules regarding retirement investment advisers. A group of 16 of the nation's largest...",
             "date": "2015-04-22",
-            "tags": "group,industry,advisers,financial",
+            "tags": "group,pushing,advisers,financial",
             "recuweb_url": "http://en.recuweb.com/thehill.com/2015/04/financial-industry-slow-down-on-adviser-rules-the-hill",
             "resource_url": "http://news.google.com/?hl=en&q=financial%2Badviser&output=atom&nord=1",
             "source_url": "http://thehill.com/policy/finance/239791-financial-industry-slow-down-on-financial-adviser-rules"
-        },
-        "huffingtonpost.com/2015/04/now-that-your-tax-return-is-filed-what-s-next": {
-            "title": "Now That Your Tax Return Is Filed, What's Next?",
-            "snippet": "Provide a copy of your tax return to your financial adviser. Technically, your adviser is supposed to have up-to-date financial information on file for you anyway. This doesn't necessarily have to be done via your tax return, but providing a copy of...",
-            "date": "2015-04-22",
-            "tags": "adviser,provide,financial",
-            "recuweb_url": "http://en.recuweb.com/huffingtonpost.com/2015/04/now-that-your-tax-return-is-filed-what-s-next",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Badviser&format=RSS&cc=us",
-            "source_url": "http://huffingtonpost.com/mike-branch-cfp/now-that-your-tax-return-_b_7117304.html"
-        },
-        "afr.com/2015/04/plug-gaps-in-financial-adviser-register-says-industry-the-australian-review": {
-            "title": "Plug gaps in financial adviser register, says industry - The Australian Financial Review...",
-            "snippet": "The Australian Financial ReviewPlug gaps in financial adviser register, says industryThe Australian Financial ReviewThe powerful banking and wealth management industries have backed changing the government's financial adviser register to prevent...",
-            "date": "2015-04-22",
-            "categories": "banking,wealth-management,management",
-            "tags": "adviser,register,wealth,management,financial,industry,industries",
-            "recuweb_url": "http://en.recuweb.com/management/afr.com/2015/04/plug-gaps-in-financial-adviser-register-says-industry-the-australian-review",
-            "resource_url": "http://news.google.com/?hl=en&q=financial%2Badviser%2Bfinancial%2Badviser&output=atom&nord=1",
-            "source_url": "http://afr.com/business/banking-and-finance/plug-gaps-in-financial-adviser-register-says-industry-20150422-1mqfol"
         }
     }
 }
