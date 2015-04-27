@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "genealogy",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/genealogy/",
@@ -10,18 +11,6 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/genealogy/genealogy/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/genealogy-research-to-go-kit": {
-            "title": "Genealogy Research To Go Kit...",
-            "snippet": "Genealogy Research To Go Kit Learn more at: With the incredible amount of records now available online, it's tempting to do all of your... From: familytreemagazine Views: 672 0 ratings Time: 02:20 More in Howto & Style...",
-            "date": "2015-04-23",
-            "author_name": "familytreemagazine",
-            "categories": "genealogy",
-            "tags": "genealogy",
-            "recuweb_url": "http://en.recuweb.com/genealogy/youtube.com/2015/04/genealogy-research-to-go-kit",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=genealogy%2Bgenealogy&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=d_GPwSxBpKY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/d_GPwSxBpKY/0.jpg"
-        },
         "dailymotion.com/2015/04/genealogy-history-mini-course-free-informaton-on-family": {
             "title": "Genealogy History Mini Course - Free Informaton on Family History...",
             "snippet": "Genealogy History Mini Course - Free Informaton on Family HistoryAuthor: ValrieLessardTags: Genealogy History Mini Course - Free Informaton on Family Posted: 20 April 2015Rating:: 0...",
@@ -129,6 +118,18 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/genealogy+genealogy/0?af=1",
             "source_url": "http://dailymotion.com/video/x2maxzf_is-there-a-governing-body-of-genetic-genealogy-genetic-genealogy-defined_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2maxzf_is-there-a-governing-body-of-genetic-genealogy-genetic-genealogy-defined_lifestyle"
+        },
+        "dailymotion.com/2015/04/what-does-a-genealogist-do-genealogy-defined": {
+            "title": "What does a genealogist do?: Genealogy Defined...",
+            "snippet": "What does a genealogist do?: Genealogy DefinedAuthor: tohealthTags: kinship and descent cultural studies cultural anthropology Posted: 13 April 2015Rating:: 0...",
+            "date": "2015-04-13",
+            "author_name": "tohealth",
+            "categories": "cultural-anthropology,anthropology,genealogy",
+            "tags": "kinship,kinship-and-descent,descent,descent-cultural,descent-cultural-studies,cultural,cultural-studies,cultural-studies-cultural,studies,studies-cultural,studies-cultural-anthropology,cultural-anthropology,anthropology,genealogy,genealogy_definedauthor,definedauthor,genealogy_defined,defined,tohealthtags",
+            "recuweb_url": "http://en.recuweb.com/genealogy/dailymotion.com/2015/04/what-does-a-genealogist-do-genealogy-defined",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/genealogy/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2max8h_what-does-a-genealogist-do-genealogy-defined_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2max8h_what-does-a-genealogist-do-genealogy-defined_lifestyle"
         }
     }
 }
