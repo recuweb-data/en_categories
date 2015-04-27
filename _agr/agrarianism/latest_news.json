@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "agrarianism",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/agrarianism/",
@@ -10,14 +11,24 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/agrarianism/agrarianism/blogs.json"
     },
     "items": {
-        "csmonitor.com/2015/04/did-northern-europeans-resist-the-rise-of-agriculture": {
-            "title": "Did Northern Europeans resist the rise of agriculture?",
-            "snippet": "Their apparent aversion to agrarianism has yet to be fully explained. Rigaud suggests that the choice had more to do with belief than practicality. As we underline in the paper, research shows that the transition to farming was not a linear...",
-            "date": "2015-04-10",
-            "categories": "belief,agrarianism",
-            "tags": "shows,transition,than,agriculture,agrarianism",
-            "recuweb_url": "http://en.recuweb.com/agrarianism/csmonitor.com/2015/04/did-northern-europeans-resist-the-rise-of-agriculture",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=agrarianism&format=RSS&cc=us",
+        "thejewishstar.com/2015/04/can-a-holocaust-and-genoidce-be-predicted-the-jewish-star": {
+            "title": "Can a Holocaust and genoidce be predicted? - The Jewish Star...",
+            "snippet": "Can a Holocaust and genoidce be predicted?The Jewish StarThese include being obsessed with their own ideological preoccupations, which can range from racism or religious hatred, territorial expansion, romantic agrarianism, and obsession with...",
+            "date": "2015-04-23",
+            "categories": "agrarianism",
+            "tags": "own,jewish,agrarianism",
+            "recuweb_url": "http://en.recuweb.com/agrarianism/thejewishstar.com/2015/04/can-a-holocaust-and-genoidce-be-predicted-the-jewish-star",
+            "resource_url": "http://news.google.com/?hl=en&q=agrarianism&output=atom&nord=1",
+            "source_url": "http://thejewishstar.com/stories/Can-a-Holocaust-and-genoidce-be-predicted,5966?content_source=&category_id=&search_filter=&event_mode=&event_ts_from=&list_type=&order_by=&order_sort=&content_class=&sub_type=&town_id="
+        },
+        "csmonitor.com/2015/04/did-northern-europeans-resist-the-rise-of-agriculture-christian-science-monitor": {
+            "title": "Did Northern Europeans resist the rise of agriculture? - Christian Science Monitor...",
+            "snippet": "Christian Science MonitorDid Northern Europeans resist the rise of agriculture?Christian Science MonitorTheir apparent aversion to agrarianism has yet to be fully explained. Rigaud suggests that the choice had more to do with belief than...",
+            "date": "2015-04-08",
+            "categories": "belief,science,agrarianism",
+            "tags": "agriculture,agrarianism",
+            "recuweb_url": "http://en.recuweb.com/agrarianism/csmonitor.com/2015/04/did-northern-europeans-resist-the-rise-of-agriculture-christian-science-monitor",
+            "resource_url": "http://news.google.com/?hl=en&q=agrarianism&output=atom&nord=1",
             "source_url": "http://csmonitor.com/Science/2015/0408/Did-Northern-Europeans-resist-the-rise-of-agriculture"
         },
         "yahoo.com/2015/04/marco-rubio-wants-his-identity-back-yahoo-politics": {
@@ -25,7 +36,7 @@
             "snippet": "Yahoo PoliticsMarco Rubio wants his identity backYahoo PoliticsTouch the screen where it says economic policy, and Rubio expounds in fully formed paragraphs on the transition from agrarianism to industrialism at the dawn of the last century. Hit...",
             "date": "2015-04-04",
             "categories": "policy,yahoo,politics,agrarianism",
-            "tags": "last,transition,politics,agrarianism",
+            "tags": "politics,agrarianism",
             "recuweb_url": "http://en.recuweb.com/agrarianism/yahoo.com/2015/04/marco-rubio-wants-his-identity-back-yahoo-politics",
             "resource_url": "http://news.google.com/?hl=en&q=agrarianism&output=atom&nord=1",
             "source_url": "http://yahoo.com/politics/marco-rubio-wants-his-identity-back-someone-115257493301.html"
@@ -40,34 +51,24 @@
             "resource_url": "http://news.google.com/?hl=en&q=agrarianism&output=atom&nord=1",
             "source_url": "http://groundreport.com/the-columbian-government-and-farc-reached-an-agreement-for-the-removal-and-destruction-of-antipersonnel-landmines/"
         },
-        "thedailybeast.com/2015/03/the-stacks-poet-who-took-on-huey-long-daily-beast": {
-            "title": "The Stacks: The Poet Who Took on Huey Long - Daily Beast...",
-            "snippet": "Daily BeastThe Stacks: The Poet Who Took on Huey LongDaily BeastThe book champions agrarianism as a way of life. Warren's passions had been chiefly aesthetic until his involvement with the project, but during his correspondences and conversations...",
-            "date": "2015-03-21",
-            "categories": "life,agrarianism",
-            "tags": "book,agrarianism",
-            "recuweb_url": "http://en.recuweb.com/agrarianism/thedailybeast.com/2015/03/the-stacks-poet-who-took-on-huey-long-daily-beast",
-            "resource_url": "http://news.google.com/?hl=en&q=agrarianism&output=atom&nord=1",
-            "source_url": "http://thedailybeast.com/articles/2015/03/21/the-stacks-the-poet-who-took-on-huey-long.html"
-        },
-        "firstthings.com/2014/05/distributism-is-not-agrarianism-first-things-blog": {
-            "title": "Distributism is not Agrarianism - First Things (blog)...",
-            "snippet": "Distributism is not AgrarianismFirst Things (blog)I believe Br. Gregory Pine's piece, Why Is Distributism So Intolerable?, was meant to be a defense of distributismbut it is exactly the kind of defense that has made distributism seem like nothing...",
+        "firstthings.com/2014/05/distributism-is-not-agrarianism": {
+            "title": "Distributism is not Agrarianism...",
+            "snippet": "I believe Br. Gregory Pines piece, Why Is Distributism So Intolerable?, was meant to be a defense of distributismbut it is exactly the kind of defense that has made distributism seem like nothing more than charming nostalgia. Pines piece...",
             "date": "2014-05-30",
             "categories": "agrarianism",
-            "tags": "first,agrarianism",
-            "recuweb_url": "http://en.recuweb.com/agrarianism/firstthings.com/2014/05/distributism-is-not-agrarianism-first-things-blog",
-            "resource_url": "http://news.google.com/?hl=en&q=agrarianism&output=atom&nord=1",
+            "tags": "agrarianism",
+            "recuweb_url": "http://en.recuweb.com/agrarianism/firstthings.com/2014/05/distributism-is-not-agrarianism",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=agrarianism&format=RSS&cc=us",
             "source_url": "http://firstthings.com/blogs/firstthoughts/2014/05/distributism-is-not-agrarianism"
         },
-        "jewishledger.com/2013/09/down-on-the-farm-connecticut-rabbi-practices-jewish-agrarianism-ledger": {
-            "title": "Down on the farm: Connecticut Rabbi Practices Jewish Agrarianism - Connecticut Jewish Ledger...",
-            "snippet": "Down on the farm: Connecticut Rabbi Practices Jewish AgrarianismConnecticut Jewish LedgerIn Scripture, Culture and Agriculture: An Agrarian Reading of the Bible (Cambridge University Press, 2008), author Ellen F. Davis describes the Torah as...",
+        "jewishledger.com/2013/09/down-on-the-farm-connecticut-rabbi-practices-jewish-agrarianism": {
+            "title": "Down on the farm: Connecticut Rabbi Practices Jewish Agrarianism...",
+            "snippet": "In Scripture, Culture and Agriculture: An Agrarian Reading of the Bible (Cambridge University Press, 2008), author Ellen F. Davis describes the Torah as agrarian literature; a sort of ancient Farmers Almanac. It is the story of a people whose...",
             "date": "2013-09-25",
-            "categories": "university,agrarianism,culture",
-            "tags": "agrarian,agrarianism,farm,agriculture",
-            "recuweb_url": "http://en.recuweb.com/culture/jewishledger.com/2013/09/down-on-the-farm-connecticut-rabbi-practices-jewish-agrarianism-ledger",
-            "resource_url": "http://news.google.com/?hl=en&q=agrarianism&output=atom&nord=1",
+            "categories": "literature,university,agrarianism,culture",
+            "tags": "agrarian,jewish,agrarianism,farm,agriculture,people",
+            "recuweb_url": "http://en.recuweb.com/culture/jewishledger.com/2013/09/down-on-the-farm-connecticut-rabbi-practices-jewish-agrarianism",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=agrarianism&format=RSS&cc=us",
             "source_url": "http://jewishledger.com/2013/09/down-on-the-farm/"
         },
         "post-gazette.com/2012/04/on-the-menu-urban-agrarianism-now-in-a-catalog-near": {
@@ -75,7 +76,7 @@
             "snippet": "Raising backyard chickens isn't just for survivalists and hipsters these days. Urban homesteading, the practice of growing or raising a portion of one's own food, has become so popular that last week Williams-Sonoma introduced the Agrarian...",
             "date": "2012-04-20",
             "categories": "food,agrarianism",
-            "tags": "last,food,urban,agrarianism,agrarian",
+            "tags": "own,food,urban,agrarianism,agrarian",
             "recuweb_url": "http://en.recuweb.com/agrarianism/post-gazette.com/2012/04/on-the-menu-urban-agrarianism-now-in-a-catalog-near",
             "resource_url": "http://www.bing.com/news/search?first=1&q=agrarianism&format=RSS&cc=us",
             "source_url": "http://post-gazette.com/life/lifestyle/2012/04/19/On-the-Menu-Urban-agrarianism-now-in-a-catalog-near-you/stories/201204190346"
@@ -85,7 +86,7 @@
             "snippet": "In an article titled Rust Belt Cities and the New Urban Agrarianism, Huffington Post writer Aaron Bartley states, Cities like Detroit, Cleveland, Milwaukee and Buffalo have shown special promise as sites of food production. By melding a critical...",
             "date": "2012-02-29",
             "categories": "food,production,agrarianism",
-            "tags": "food,urban,urban_agrarianism,agrarianism,rust,rust_belt,rust_belt_cities,belt,belt_cities,cities,detroit,buffalo",
+            "tags": "shown,food,urban,urban_agrarianism,agrarianism,rust,rust_belt,rust_belt_cities,belt,belt_cities,cities,detroit,buffalo",
             "recuweb_url": "http://en.recuweb.com/agrarianism/freshwatercleveland.com/2012/02/huff-post-lauds-cleveland-and-its-new-urban-agrarianism",
             "resource_url": "http://www.bing.com/news/search?first=1&q=agrarianism&format=RSS&cc=us",
             "source_url": "http://freshwatercleveland.com/inthenews/urbanagrarianism030112.aspx"
@@ -95,7 +96,7 @@
             "snippet": "In the trying times of the early 1980s, with factory closings exacting a huge social and psychological toll, billboards posted prominently in Buffalo and Detroit read, Will the last one out of here please turn out the lights? The message captured...",
             "date": "2012-02-21",
             "categories": "agrarianism",
-            "tags": "last,urban,urban_agrarianism,agrarianism,rust,rust_belt,rust_belt_cities,belt,belt_cities,cities,buffalo,detroit",
+            "tags": "urban,urban_agrarianism,agrarianism,rust,rust_belt,rust_belt_cities,belt,belt_cities,cities,buffalo,detroit",
             "recuweb_url": "http://en.recuweb.com/agrarianism/huffingtonpost.com/2012/02/rust-belt-cities-and-the-new-urban-agrarianism",
             "resource_url": "http://www.bing.com/news/search?first=1&q=agrarianism&format=RSS&cc=us",
             "source_url": "http://huffingtonpost.com/aaron-bartley/rust-belt-cities-and-the-_b_1275167.html"
@@ -105,7 +106,7 @@
             "snippet": "Fair warning--this is a post for history nerds and wannabe history nerds. It's only a hair less obscure than my Warcraft post. Now then, I just put I'll Take My Stand on my Amazon wish list, mostly because I'm interested in Southern critiques of...",
             "date": "2010-12-29",
             "categories": "agrarianism,marxism",
-            "tags": "than,agrarianism,amazon",
+            "tags": "agrarianism",
             "recuweb_url": "http://en.recuweb.com/marxism/theatlantic.com/2010/12/talk-to-me-like-i-m-stupid-agrarianism-marxism-and-slavery",
             "resource_url": "http://www.bing.com/news/search?first=1&q=agrarianism&format=RSS&cc=us",
             "source_url": "http://theatlantic.com/personal/archive/2010/12/talk-to-me-like-im-stupid-agrarianism-marxism-and-slavery/68655/"
