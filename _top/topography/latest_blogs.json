@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "topography",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/topography/",
@@ -10,13 +11,24 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/topography/topography/blogs.json"
     },
     "items": {
+        "phys.org/2015/04/the-microscopic-topography-of-ink-on-paper": {
+            "title": "The microscopic topography of ink on paper -...",
+            "snippet": "\"We believe that this gives new insight, especially on how the topography of paper impacts the ink setting or consolidation,\" said Markko Myllys, an applied physicist at the University of Jyvaskyla in Finland. \"This in turn helps...",
+            "date": "2015-04-14",
+            "author_name": "unknown",
+            "categories": "topography,university",
+            "tags": "helps,gives,topography",
+            "recuweb_url": "http://en.recuweb.com/university/phys.org/2015/04/the-microscopic-topography-of-ink-on-paper",
+            "resource_url": "http://www.google.com/search?q=topography%2Btopography&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://phys.org/news/2015-04-microscopic-topography-ink-paper.html"
+        },
         "grumpygeophysicist.wordpress.com/2015/04/dynamic-topography-elephant-or-menagerie-the-grumpy": {
             "title": "Dynamic Topography: Elephant or Menagerie? The Grumpy...",
             "snippet": "Of late, dynamic topography has become something of a touchstone that might explain a number of different phenomena. In a recent workshop GG got to sit in on, it was invoked for things from the unexpectedly shallow depth...",
             "date": "2015-04-13",
             "author_name": "cjonescu",
             "categories": "topography",
-            "tags": "recent,something,topography,different",
+            "tags": "recent,explain,topography",
             "recuweb_url": "http://en.recuweb.com/topography/grumpygeophysicist.wordpress.com/2015/04/dynamic-topography-elephant-or-menagerie-the-grumpy",
             "resource_url": "http://www.google.com/search?q=topography%2Btopography&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://grumpygeophysicist.wordpress.com/2015/04/13/dynamic-topography-elephant-or-menagerie/"
@@ -27,7 +39,7 @@
             "date": "2015-04-08",
             "author_name": "Bonnie Waycott",
             "categories": "topography",
-            "tags": "colorful,water,underwater,underwater_topography,topography",
+            "tags": "savvy,underwater,underwater_topography,topography",
             "recuweb_url": "http://en.recuweb.com/topography/savvytokyo.com/2015/04/the-fascinating-underwater-topography-of-miyakojima-savvy-tokyo",
             "resource_url": "http://www.google.com/search?q=topography&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://savvytokyo.com/the-fascinating-underwater-topography-of-miyakojima/"
@@ -60,7 +72,7 @@
             "date": "2015-04-01",
             "author_name": "dw",
             "categories": "photography,topography",
-            "tags": "topographic,light,possibly,topography",
+            "tags": "gives,topographic,light,possibly,topography",
             "recuweb_url": "http://en.recuweb.com/topography/makebright.com/2015/04/topography-photography-makebright",
             "resource_url": "http://www.google.com/search?q=topography&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://makebright.com/2015/04/topography-photography/"
@@ -71,7 +83,7 @@
             "date": "2015-04-01",
             "author_name": "lumsir",
             "categories": "topography",
-            "tags": "project,topography",
+            "tags": "land,project,topography,designed",
             "recuweb_url": "http://en.recuweb.com/topography/designrulz.com/2015/04/defined-by-the-topography-of-land-house-in-q2-santiago",
             "resource_url": "http://www.google.com/search?q=topography%2Btopography&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://designrulz.com/design/2015/04/defined-by-the-topography-of-the-land-house-in-q2-by-santiago-viale/"
@@ -82,7 +94,7 @@
             "date": "2015-03-29",
             "author_name": "info@climatecentral.org",
             "categories": "climate-change,topography",
-            "tags": "possibly,factors,topography",
+            "tags": "study,possibly,topography",
             "recuweb_url": "http://en.recuweb.com/topography/climatecentral.org/2015/03/wildfires-tied-to-drought-heat-&-topography-not-beetles-climate",
             "resource_url": "http://www.google.com/search?q=topography%2Btopography&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://climatecentral.org/news/wildfires-tied-to-drought-heat-topography-not-beetles-18817"
@@ -93,7 +105,7 @@
             "date": "2015-03-27",
             "author_name": "the gentle author",
             "categories": "topography,life",
-            "tags": "topography",
+            "tags": "hospital,topography",
             "recuweb_url": "http://en.recuweb.com/life/spitalfieldslife.com/2015/03/john-thomas-smith-s-ancient-topography-spitalfields-life",
             "resource_url": "http://www.google.com/search?q=topography%2Btopography&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://spitalfieldslife.com/2015/03/27/john-thomas-smiths-ancient-topography/"
@@ -104,21 +116,10 @@
             "date": "2015-03-25",
             "author_name": "unknown",
             "categories": "topography,science",
-            "tags": "light,red,topography,science,map",
+            "tags": "light,national,topography,science,map",
             "recuweb_url": "http://en.recuweb.com/science/news.science360.gov/2015/03/red-blood-cell-topography-science360-news-service-national",
             "resource_url": "http://www.google.com/search?q=topography%2Btopography&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://news.science360.gov/obj/pic-day/183a9844-76d0-4f96-ba8e-428faff8fb88/red-blood-cell-topography"
-        },
-        "hydrol-earth-syst-sci.net/2015/03/hess-abstract-fractional-snow-covered-area-parameterization": {
-            "title": "HESS - Abstract - Fractional snow-covered area parameterization...",
-            "snippet": "10 Mar 2015. Fractional snow-covered area parameterization over complex topography. N. Helbig, A. van Herwijnen, J. Magnusson, and T. Jonas WSL Institute for Snow and Avalanche Research SLF, Davos Dorf, Switzerland. Received: 09...",
-            "date": "2015-03-09",
-            "author_name": "unknown",
-            "categories": "institute,topography",
-            "tags": "research,covered,area,topography",
-            "recuweb_url": "http://en.recuweb.com/topography/hydrol-earth-syst-sci.net/2015/03/hess-abstract-fractional-snow-covered-area-parameterization",
-            "resource_url": "http://www.google.com/search?q=topography%2Btopography&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://hydrol-earth-syst-sci.net/19/1339/2015/hess-19-1339-2015.html"
         }
     }
 }
