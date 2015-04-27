@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "banking",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/banking/",
@@ -10,16 +11,60 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/banking/banking/blogs.json"
     },
     "items": {
-        "jezebel.com/2015/04/gap-s-banking-on-your-never-changing-out-of-those-yoga": {
-            "title": "Gap's Banking on Your Never Changing Out of Those Yoga Pants...",
-            "snippet": "Oh, Gap. Whither Gap? Dress Normal didn't get their flagship brand anywhere; Piperlime's days are numbered. Now the company is trying to position itself for the newly dawning Age of Athleisure, betting everybody will start...",
-            "date": "2015-04-23",
-            "author_name": "Kelly Faircloth",
-            "categories": "yoga,banking",
-            "tags": "banking,company,age",
-            "recuweb_url": "http://en.recuweb.com/banking/jezebel.com/2015/04/gap-s-banking-on-your-never-changing-out-of-those-yoga",
+        "express.co.uk/2015/04/arsene-wenger-banking-on-olivier-giroud-s-animal-instincts-to-beat": {
+            "title": "Arsene Wenger banking on Olivier Giroud's 'animal'instincts to beat...",
+            "snippet": "So, with that other prize fighter, Diego Costa, ko'd by injury, Wenger is banking on Giroud to provide the knockout blows he very nearly administered himself when the two managers clashed at Stamford Bridge last year.",
+            "date": "2015-04-25",
+            "author_name": "unknown",
+            "categories": "banking",
+            "tags": "other,banking",
+            "recuweb_url": "http://en.recuweb.com/banking/express.co.uk/2015/04/arsene-wenger-banking-on-olivier-giroud-s-animal-instincts-to-beat",
             "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://jezebel.com/gaps-banking-on-your-never-changing-out-of-those-yoga-p-1699694090"
+            "source_url": "http://express.co.uk/sport/football/572926/Arsenal-Arsene-Wenger-Olivier-Giroud-animal-instincts-beat-Chelsea"
+        },
+        "bankrate.com/2015/04/would-you-pay-to-use-a-banking-app-bankrate-inc": {
+            "title": "Would you pay to use a banking app? Bankrate, Inc.",
+            "snippet": "A recent survey finds that many mobile banking users say their apps are so important, they would be willing to pay a monthly fee to continue using them.",
+            "date": "2015-04-25",
+            "author_name": "Claes Bell",
+            "categories": "banking",
+            "tags": "users,survey,mobile,banking",
+            "recuweb_url": "http://en.recuweb.com/banking/bankrate.com/2015/04/would-you-pay-to-use-a-banking-app-bankrate-inc",
+            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://bankrate.com/financing/banking/would-you-pay-to-use-a-banking-app/"
+        },
+        "bitcoinmagazine.com/2015/04/5-revelations-about-bitcoin-from-the-ing-2015-mobile-banking-survey": {
+            "title": "5 Revelations about Bitcoin from the ING 2015 Mobile Banking Survey...",
+            "snippet": "ING Bank hired global research firm, Ipsos, to survey 14,829 Internet users from 13 European countries, the United States and Australia. ING asked participants about mobile banking, payments and digital currency, such as...",
+            "date": "2015-04-23",
+            "author_name": "Jeffrey Maxim",
+            "categories": "banking,internet",
+            "tags": "mobile,survey,research,bank,banking,bitcoin,global,users,ries",
+            "recuweb_url": "http://en.recuweb.com/internet/bitcoinmagazine.com/2015/04/5-revelations-about-bitcoin-from-the-ing-2015-mobile-banking-survey",
+            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://bitcoinmagazine.com/20136/5-revelations-bitcoin-ing-2015-mobile-banking-survey/"
+        },
+        "coindesk.com/2015/04/bitcoin-exchange-itbit-seeks-bank-license-with-ex-fdic-chair": {
+            "title": "Bitcoin Exchange ItBit Seeks Bank License With Ex-FDIC Chair's...",
+            "snippet": "ItBit has filed an application for a state banking license in New York. In statements to CoinDesk, New York State Department of Financial Services (NYDFS) spokesman Matthew Anderson confirmed the filing. ItBit may be...",
+            "date": "2015-04-23",
+            "author_name": "Stan Higgins",
+            "categories": "financial-services,banking",
+            "tags": "financial,services,state,application,bitcoin,seeks,bank,banking",
+            "recuweb_url": "http://en.recuweb.com/banking/coindesk.com/2015/04/bitcoin-exchange-itbit-seeks-bank-license-with-ex-fdic-chair",
+            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://coindesk.com/bitcoin-exchange-itbit-seeks-bank-license-with-ex-fdic-chairs-support/"
+        },
+        "blogs.reuters.com/2015/04/french-investment-banking-has-less-than-meets-eye-reuters": {
+            "title": "French investment banking has less than meets eye - Reuters...",
+            "snippet": "French investment banking returns flatter to deceive. BNP Paribas and Societe Generale run their trading and advisory businesses with less equity against gross assets than their rivals. Before piling in, investors should recall...",
+            "date": "2015-04-23",
+            "author_name": "Dominic Elliott",
+            "categories": "business,banking",
+            "tags": "should,businesses,against,french,investment,banking,rivals",
+            "recuweb_url": "http://en.recuweb.com/banking/blogs.reuters.com/2015/04/french-investment-banking-has-less-than-meets-eye-reuters",
+            "resource_url": "http://www.google.com/search?q=banking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.reuters.com/breakingviews/2015/04/23/french-investment-banking-has-less-than-meets-eye/"
         },
         "radar.oreilly.com/2015/04/ibm-is-banking-on-design-s-roi-o-reilly-radar": {
             "title": "IBM is banking on design's ROI - O'Reilly Radar...",
@@ -27,98 +72,54 @@
             "date": "2015-04-23",
             "author_name": "Mary Treseler",
             "categories": "radar,banking",
-            "tags": "helping,recently,down,first,development,banking,companies",
+            "tags": "banking,development",
             "recuweb_url": "http://en.recuweb.com/banking/radar.oreilly.com/2015/04/ibm-is-banking-on-design-s-roi-o-reilly-radar",
             "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://radar.oreilly.com/2015/04/ibm-is-banking-on-designs-roi.html"
         },
-        "stabroeknews.com/2015/04/more-banking-licences-if-re-elected-stabroek-news-georgetown": {
-            "title": "More banking licences if re-elected - Stabroek News - Georgetown...",
-            "snippet": "If re-elected, President Donald Ramotar says that more commercial banking licences will be awarded as his government will begin its search for reputable ba.",
-            "date": "2015-04-23",
-            "author_name": "Staff Writer",
-            "categories": "banking",
-            "tags": "commercial,banking,government",
-            "recuweb_url": "http://en.recuweb.com/banking/stabroeknews.com/2015/04/more-banking-licences-if-re-elected-stabroek-news-georgetown",
-            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://stabroeknews.com/2015/news/stories/04/23/more-banking-licences-if-re-elected/"
-        },
-        "zacks.com/2015/04/decent-banking-earnings-fail-to-energize-financial-etfs-april-22": {
-            "title": "Decent Banking Earnings Fail to Energize Financial ETFs - April 22...",
-            "snippet": "The banking sector kicked off the earnings season on a strong note with the majority of the big banking clan beating estimates on both lines. However, the same optimism was not reflected in the financial ETFs.",
+        "defragyourmind.blogspot.com/2015/04/unsound-banking-why-most-of-the-worlds-banks-are-headed": {
+            "title": "Unsound Banking: Why Most of the Worlds Banks Are Headed for Collapse...",
+            "snippet": "By Doug Casey Youre likely thinking that a discussion of sound banking will be a bit boring. Well, banking should be boring. And were sure officials at central banks all over the world todaymany of whom have trouble sleepingwish it were. This brief...",
             "date": "2015-04-22",
-            "author_name": "Zacks Equity Research",
+            "author_name": "Salamanca",
             "categories": "banking",
-            "tags": "sector,off,season,note,big,banking",
-            "recuweb_url": "http://en.recuweb.com/banking/zacks.com/2015/04/decent-banking-earnings-fail-to-energize-financial-etfs-april-22",
-            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://zacks.com/stock/news/171664/decent-banking-earnings-fail-to-energize-financial-etfs"
+            "tags": "sure,sure-officials,officials,officials-at-central,central,central-banks,banks,world-todaymany,todaymany,trouble,trouble-sleepingwish,sleepingwish,should,should-be-boring,boring,bit,bit-boring,ely,ely-thinking,thinking,thinking-that-discussion,discussion,discussion-of-sound,sound,doug,doug_casey,casey,youre,banking,why,collapse,well",
+            "recuweb_url": "http://en.recuweb.com/banking/defragyourmind.blogspot.com/2015/04/unsound-banking-why-most-of-the-worlds-banks-are-headed",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=banking%2Bbanking&rss=1&lng=en",
+            "source_url": "http://defragyourmind.blogspot.com/2015/04/unsound-banking-why-most-of-worlds.html"
         },
-        "bankersadda.com/2015/04/bankers-adda-sbi-po-2015-banking-&-current-affairs-quiz": {
-            "title": "Bankers Adda: SBI PO 2015: Banking & Current Affairs Quiz...",
-            "snippet": "SBI PO 2015: Banking & Current Affairs Quiz. 1. The Government has launched HRIDAY project which is aimed at______. a) Rejuvenating rich cultural heritage of India. b) Establishing old age homes. c) Welfare of...",
-            "date": "2015-04-21",
-            "author_name": "ayushi jain",
-            "categories": "cultural-heritage,banking",
-            "tags": "age,bankers,banking,government",
-            "recuweb_url": "http://en.recuweb.com/banking/bankersadda.com/2015/04/bankers-adda-sbi-po-2015-banking-&-current-affairs-quiz",
-            "resource_url": "http://www.google.com/search?q=banking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bankersadda.com/2015/04/banking-current-affairs-quiz_23.html"
-        },
-        "bankrate.com/2015/04/smart-banking-what-to-keep-in-a-safe-deposit-box": {
-            "title": "Smart Banking: What To Keep In A Safe Deposit Box...",
-            "snippet": "A safe deposit box is a long, narrow box held in a secured area of a bank that customers lease, typically a year at a time. Boxes usually have two keyholes: one for your key and one for a guard key. Before bank personnel will...",
+        "thetimes.co.uk/2015/04/greek-banks-close-to-collapse-as-debt-soars-the-times": {
+            "title": "Greek banks 'close to collapse'as debt soars The Times...",
+            "snippet": "Greek debt costs leapt yesterday as the French central bank warned that the banking sector in Athens is on the verge of collapse. The euro fell 0.6 per cent to after International Monetary Fund and G20 meetings in...",
             "date": "2015-04-21",
             "author_name": "unknown",
             "categories": "banking",
-            "tags": "year,long,banking,bank,before",
+            "tags": "fund,collapse,costs,banks,bank,close,french,central,banking",
+            "recuweb_url": "http://en.recuweb.com/banking/thetimes.co.uk/2015/04/greek-banks-close-to-collapse-as-debt-soars-the-times",
+            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://thetimes.co.uk/tto/business/markets/europe/article4417577.ece"
+        },
+        "bankrate.com/2015/04/smart-banking-what-to-keep-in-a-safe-deposit-box": {
+            "title": "Smart Banking: What To Keep In A Safe-Deposit Box...",
+            "snippet": "A safe-deposit box is a long, narrow box held in a secured area of a bank that customers lease, typically a year at a time. Boxes usually have two keyholes: one for your key and one for a guard key. Before bank personnel will...",
+            "date": "2015-04-21",
+            "author_name": "unknown",
+            "categories": "banking",
+            "tags": "area,banking,long,bank",
             "recuweb_url": "http://en.recuweb.com/banking/bankrate.com/2015/04/smart-banking-what-to-keep-in-a-safe-deposit-box",
             "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bankrate.com/finance/banking/what-to-keep-in-safe-deposit-box.aspx"
         },
-        "thedailyrecord.com/2015/04/mortgage-banking-boosts-m&t-bank-s-results-maryland-daily-record": {
-            "title": "Mortgage banking boosts M&T Bank's results Maryland Daily Record...",
-            "snippet": "Significantly higher mortgage banking revenues helped M&T Bank Corp. record a 6 percent increase in net income over the first quarter of last year.",
-            "date": "2015-04-20",
-            "author_name": "Daily Record Staff",
+        "paulrevereandtheaiders.wordpress.com/2015/04/why-the-global-banking-system-is-in-serious-trouble": {
+            "title": "Why the Global Banking System is in Serious Trouble...",
+            "snippet": "From Doug Casey: Youre likely thinking that a discussion of sound banking will be a bit boring. Well, banking should be boring. And were sure officials at central banks all over the world todaymany of whom have trouble sleepingwish it were. This...",
+            "date": "2015-04-21",
+            "author_name": "Paul Revere and the Aiders",
             "categories": "banking",
-            "tags": "first,year,bank,mortgage,banking,significantly",
-            "recuweb_url": "http://en.recuweb.com/banking/thedailyrecord.com/2015/04/mortgage-banking-boosts-m&t-bank-s-results-maryland-daily-record",
-            "resource_url": "http://www.google.com/search?q=banking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://thedailyrecord.com/2015/04/20/morgtage-banking-boosts-mt-banks-results/"
-        },
-        "johnhcochrane.blogspot.com/2015/04/the-grumpy-economist-banking-at-irs": {
-            "title": "The Grumpy Economist: Banking at the IRS...",
-            "snippet": "Buy gift cards, subway cards, stamps; prepay bills, rent, mortgage and especially taxes -- the IRS will happily take your money now and you can credit it against future tax payments; have your bank make out a big certified...",
-            "date": "2015-04-16",
-            "author_name": "John H. Cochrane",
-            "categories": "credit,taxes,banking",
-            "tags": "big,credit,money,mortgage,cards,economist,banking,buy,bank",
-            "recuweb_url": "http://en.recuweb.com/banking/johnhcochrane.blogspot.com/2015/04/the-grumpy-economist-banking-at-irs",
-            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://johnhcochrane.blogspot.com/2015/04/banking-at-irs.html"
-        },
-        "businessinsider.com/2015/04/the-russian-banking-sector-is-about-to-implode-business-insider": {
-            "title": "The Russian banking sector is about to implode - Business Insider...",
-            "snippet": "Hundreds of Russian banks have no choice but to close down, merge or be acquired by larger rivals as a result of mismanagement, experts told Bloomberg. The country has more than 820 lenders, a staggering number of...",
-            "date": "2015-04-16",
-            "author_name": "Ryan Gorman",
-            "categories": "business,banking",
-            "tags": "number,down,business,sector,banking,banks",
-            "recuweb_url": "http://en.recuweb.com/banking/businessinsider.com/2015/04/the-russian-banking-sector-is-about-to-implode-business-insider",
-            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://businessinsider.com/experts-hundreds-of-russian-banks-on-the-verge-of-disappearing-2015-4"
-        },
-        "limitlesslife.wordpress.com/2015/03/why-our-government-needs-to-take-over-the-federal-reserve-bank": {
-            "title": "Why Our Government Needs to Take Over the Federal Reserve Bank ASAP...",
-            "snippet": "Exclusive to OpEdNews: OpEdNews Op Eds 3/26/2015 at 23:26:14 By Richard Clark (about the author) Permalink (Page 1 of 2 pages) Related Topic(s): Bankers; Banking; Banking Crime; Banking Crisis; Banking Fraud; Banksters; Derivatives; Federal Reserve;...",
-            "date": "2015-03-27",
-            "author_name": "limitlesslife",
-            "categories": "banking",
-            "tags": "bank,why,government,bankers,banking",
-            "recuweb_url": "http://en.recuweb.com/banking/limitlesslife.wordpress.com/2015/03/why-our-government-needs-to-take-over-the-federal-reserve-bank",
+            "tags": "sure,sure-officials,officials,officials-at-central,central,central-banks,banks,world-todaymany,todaymany,trouble,trouble-sleepingwish,sleepingwish,should,should-be-boring,boring,bit,bit-boring,ely,ely-thinking,thinking,thinking-that-discussion,discussion,discussion-of-sound,sound,doug,doug_casey,casey,global,global_banking,banking,system,why,youre,well",
+            "recuweb_url": "http://en.recuweb.com/banking/paulrevereandtheaiders.wordpress.com/2015/04/why-the-global-banking-system-is-in-serious-trouble",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=banking%2Bbanking&rss=1&lng=en",
-            "source_url": "http://limitlesslife.wordpress.com/2015/03/27/why-our-government-needs-to-take-over-the-federal-reserve-bank-asap/"
+            "source_url": "http://paulrevereandtheaiders.wordpress.com/2015/04/21/why-the-global-banking-system-is-in-serious-trouble/"
         }
     }
 }
