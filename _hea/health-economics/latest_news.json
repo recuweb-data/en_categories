@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "health-economics",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/health-economics/",
@@ -10,14 +11,44 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/health-economics/health-economics/blogs.json"
     },
     "items": {
+        "canberratimes.com.au/2015/04/diabetic-eye-disease-to-cost-australians-2-7-billion-in-2015": {
+            "title": "Diabetic eye disease to cost Australians 2.7 billion in 2015: Deloitte...",
+            "snippet": "In 2015, the total indirect cost of vision loss associated with DME is estimated to be billion, which corresponds to 28,729 per person with DME, the report said Lead partner of the study Lynne Pezzullo, who works with Deloitte's Health Economics...",
+            "date": "2015-04-27",
+            "categories": "health,health-economics",
+            "tags": "health,health_economics,economics,study,report,said,cost",
+            "recuweb_url": "http://en.recuweb.com/health-economics/canberratimes.com.au/2015/04/diabetic-eye-disease-to-cost-australians-2-7-billion-in-2015",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Beconomics&format=RSS&cc=us",
+            "source_url": "http://canberratimes.com.au/act-news/diabetic-eye-disease-to-cost-australians-27-billion-in-2015-deloitte-20150427-1muf0f.html"
+        },
+        "medicalxpress.com/2015/04/alcohol-use-disorders-stronger-predictor-of-mortality-than-chronic-hepatitis-c": {
+            "title": "Alcohol use disorders - stronger predictor of mortality than chronic hepatitis C virus infection...",
+            "snippet": "Micha\u00ebl Schwarzinger, Director, THEN (Translational Health Economics Network) and Vincent Mallet, Professor of Hepatology, Universit\u00e9 Paris Descartes and Assistance PubliqueH\u00f4pitaux de Paris, France, commented: There is an epidemiological...",
+            "date": "2015-04-25",
+            "categories": "health,health-economics",
+            "tags": "health,health_economics,economics,professor",
+            "recuweb_url": "http://en.recuweb.com/health-economics/medicalxpress.com/2015/04/alcohol-use-disorders-stronger-predictor-of-mortality-than-chronic-hepatitis-c",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Beconomics&format=RSS&cc=us",
+            "source_url": "http://medicalxpress.com/news/2015-04-alcohol-disorders-stronger-predictor.html"
+        },
+        "alanba.com.kw/2015/04/kuwait-conference-and-exhibition-on-national-health-economics": {
+            "title": "Kuwait Conference and Exhibition on National Health Economics...",
+            "snippet": "Professor Salek: The Conference is an excellent opportunity to put Health Economics into practical use in Kuwait. NoufEXPO and Kuwait Advancement for Conference & Exhibition Management Foundation (KADCEM) efforts are underway to finalize the...",
+            "date": "2015-04-22",
+            "categories": "management,health,health-economics",
+            "tags": "health,health_economics,economics,professor,national,national_health",
+            "recuweb_url": "http://en.recuweb.com/health-economics/alanba.com.kw/2015/04/kuwait-conference-and-exhibition-on-national-health-economics",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Beconomics&format=RSS&cc=us",
+            "source_url": "http://alanba.com.kw/en/english/553277/23-04-2015"
+        },
         "jobs.theconversation.com/2015/04/professor-health-economics-&-global-systems-research-the-conversation-au": {
             "title": "Professor, Health Economics & Global Health Systems Research - The Conversation AU...",
             "snippet": "Professor, Health Economics & Global Health Systems ResearchThe Conversation AUThe Nossal Institute is part of the University of Melbourne School of Population and Global Health. The Institute aims to strengthen health systems to support...",
             "date": "2015-04-22",
             "categories": "global-health,health,school,institute,health-economics,university",
-            "tags": "health,school,conversation,conversation_authe,authe,institute,research,health_economics,economics,professor,university",
+            "tags": "health,institute,research,health_economics,economics,professor,university",
             "recuweb_url": "http://en.recuweb.com/university/jobs.theconversation.com/2015/04/professor-health-economics-&-global-systems-research-the-conversation-au",
-            "resource_url": "http://news.google.com/?hl=en&q=health%2Beconomics%2Bhealth%2Beconomics&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=health%2Beconomics&output=atom&nord=1",
             "source_url": "http://jobs.theconversation.com/jobs/10331-professor-health-economics-and-global-health-systems-research"
         },
         "uab.edu/2015/04/bisakha-sen-phd": {
@@ -25,29 +56,39 @@
             "snippet": "Dr. Sen has published in various peer-reviewed outlets including Journal of Health Economics; Health Economics; Research in Labor Economics andReview of Social Economy...",
             "date": "2015-04-20",
             "categories": "economy,health,health-economics",
-            "tags": "economics,health,health_economics,research",
+            "tags": "economy,economics,health,health_economics,research",
             "recuweb_url": "http://en.recuweb.com/health-economics/uab.edu/2015/04/bisakha-sen-phd",
             "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Beconomics%2Bhealth%2Beconomics&format=RSS&cc=us",
             "source_url": "http://uab.edu/medicine/diabetes/faculty/faculty-bios/200-bisakha-sen"
         },
         "financial-news.co.uk/2015/04/precision-for-medicine-buys-health-economics": {
-            "title": "Precision for Medicine buys Precision Health Economics -...",
-            "snippet": "Precision for Medicine buys Precision Health world-renowned and cutting-edge health economics consultancy and analytics firm, PHE leverages the expertise of policy analysts, economists, clinicians, and academics to advance research on the most...",
+            "title": "Precision for Medicine buys Precision Health Economics...",
+            "snippet": "Precision for Medicine said it has acquired Precision Health Economics (PHE). A world-renowned and cutting-edge health economics consultancy and analytics firm, PHE leverages the expertise of policy analysts, economists, clinicians, and academics...",
             "date": "2015-04-20",
             "categories": "policy,health,health-economics,medicine",
-            "tags": "research,firm,cutting,health,health-economics,economics,precision,medicine,edge",
+            "tags": "consultancy,consultancy-and-analytics,analytics,said,acquired,health,health-economics,economics,precision,medicine,phe",
             "recuweb_url": "http://en.recuweb.com/medicine/financial-news.co.uk/2015/04/precision-for-medicine-buys-health-economics",
-            "resource_url": "http://news.google.com/?hl=en&q=health%2Beconomics%2Bhealth%2Beconomics&output=atom&nord=1",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Beconomics&format=RSS&cc=us",
             "source_url": "http://financial-news.co.uk/27853/2015/04/precision-for-medicine-buys-precision-health-economics/"
+        },
+        "socaltech.com/2015/04/precision-health-economics-acquired-by-for-medicine": {
+            "title": "Precision Health Economics Acquired By Precision For Medicine...",
+            "snippet": "Los Angeles-based Precision Health Economics, a provider of health economics consultancy and analytics, has been acquired by Maryland-based Precision for Medicine. Financial terms of the buy were not disclosed. PHE was founded by Drs. Dana Goldman,...",
+            "date": "2015-04-17",
+            "categories": "health,health-economics,medicine",
+            "tags": "acquired,consultancy,consultancy-and-analytics,analytics,precision,health,health_economics,economics,angeles,medicine,phe",
+            "recuweb_url": "http://en.recuweb.com/medicine/socaltech.com/2015/04/precision-health-economics-acquired-by-for-medicine",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Beconomics&format=RSS&cc=us",
+            "source_url": "http://socaltech.com/precision_health_economics_acquired_by_precision_for_medicine/s-0059843.html"
         },
         "insurancenewsnet.com/2015/04/findings-from-institute-of-health-economics-has-provided-new-data-on": {
             "title": "Findings from Institute of Health Economics Has Provided New Data on Health... - Insurance News Net...",
             "snippet": "Findings from Institute of Health Economics Has Provided New Data on Health...Insurance News NetOur news editors obtained a quote from the research from the Institute of Health Economics, \"Here, we evaluate established tools for assessing and...",
             "date": "2015-04-16",
             "categories": "insurance,health,health-economics,institute",
-            "tags": "established,research,insurance,insurance_news,insurance_news_net,net,health,health_economics,economics,data,findings,institute",
+            "tags": "research,insurance,insurance_news,insurance_news_net,net,health,health_economics,economics,data,institute",
             "recuweb_url": "http://en.recuweb.com/institute/insurancenewsnet.com/2015/04/findings-from-institute-of-health-economics-has-provided-new-data-on",
-            "resource_url": "http://news.google.com/?hl=en&q=health%2Beconomics%2Bhealth%2Beconomics&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=health%2Beconomics&output=atom&nord=1",
             "source_url": "http://insurancenewsnet.com/oarticle/2015/04/16/findings-from-institute-of-health-economics-has-provided-new-data-on-health-econ-a-613249.html"
         },
         "insurancenewsnet.com/2015/04/new-health-economics-data-have-been-reported-by-researchers-at-hebrew": {
@@ -55,60 +96,20 @@
             "snippet": "New Health Economics Data Have Been Reported by Researchers at Hebrew...Insurance News NetBy a News Reporter-Staff News Editor at Health & Medicine Week -- Fresh data on Health and Medicine are presented in a new report. According to news reporting...",
             "date": "2015-04-16",
             "categories": "medicine,insurance,health,health-economics",
-            "tags": "report,data,medicine,insurance,insurance_news,insurance_news_net,net,health,health_economics,economics,according",
+            "tags": "report,data,medicine,insurance,insurance_news,insurance_news_net,net,health,health_economics,economics",
             "recuweb_url": "http://en.recuweb.com/health-economics/insurancenewsnet.com/2015/04/new-health-economics-data-have-been-reported-by-researchers-at-hebrew",
-            "resource_url": "http://news.google.com/?hl=en&q=health%2Beconomics%2Bhealth%2Beconomics&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=health%2Beconomics&output=atom&nord=1",
             "source_url": "http://insurancenewsnet.com/oarticle/2015/04/15/new-health-economics-data-have-been-reported-by-researchers-at-hebrew-university-a-613220.html"
         },
-        "news-medical.net/2015/04/precision-for-medicine-announces-acquisition-of-health-economics": {
-            "title": "Precision for Medicine announces acquisition of Precision Health Economics -...",
-            "snippet": "Precision for Medicine announces acquisition of Precision Health for Medicine, a specialized services company supporting next-generation approaches to drug development and commercialization, today announced the acquisition of Precision Health...",
+        "bizjournals.com/2015/04/precision-for-medicine-acquires-health-economics": {
+            "title": "Precision for Medicine Acquires Precision Health Economics...",
+            "snippet": "BETHESDA, Md. and LOS ANGELES, April 16, 2015/PRNewswire/-- Precision for Medicine, a specialized services company supporting next-generation approaches to drug development and commercialization, today announced the acquisition of Precision...",
             "date": "2015-04-16",
             "categories": "health,health-economics,medicine",
-            "tags": "health,health-economics,economics,precision,medicine",
-            "recuweb_url": "http://en.recuweb.com/medicine/news-medical.net/2015/04/precision-for-medicine-announces-acquisition-of-health-economics",
-            "resource_url": "http://news.google.com/?hl=en&q=health%2Beconomics%2Bhealth%2Beconomics&output=atom&nord=1",
-            "source_url": "http://news-medical.net/news/20150416/Precision-for-Medicine-announces-acquisition-of-Precision-Health-Economics.aspx"
-        },
-        "insurancenewsnet.com/2015/04/report-summarizes-health-economics-study-findings-from-university-of-insurance-news": {
-            "title": "Report Summarizes Health Economics Study Findings from University of... - Insurance News Net...",
-            "snippet": "Report Summarizes Health Economics Study Findings from University of...Insurance News NetReport Summarizes Health Economics Study Findings from University of Groningen (The Effect Of Financial And Educational Incentives On Rational Prescribing. A...",
-            "date": "2015-04-16",
-            "categories": "insurance,health,health-economics,university",
-            "tags": "insurance,insurance_news,health,health_economics,economics,study,findings,insurance_news_net,net,report,university",
-            "recuweb_url": "http://en.recuweb.com/university/insurancenewsnet.com/2015/04/report-summarizes-health-economics-study-findings-from-university-of-insurance-news",
-            "resource_url": "http://news.google.com/?hl=en&q=health%2Beconomics%2Bhealth%2Beconomics&output=atom&nord=1",
-            "source_url": "http://insurancenewsnet.com/oarticle/2015/04/16/report-summarizes-health-economics-study-findings-from-university-of-groningen--a-613661.html"
-        },
-        "military-technologies.net/2015/04/health-economics-and-outcomes-research-spending-varies-greatly-among-military-technologies": {
-            "title": "Health Economics and Outcomes Research Spending Varies Greatly Among... - Military Technologies...",
-            "snippet": "Health Economics and Outcomes Research Spending Varies Greatly Among...Military TechnologiesRESEARCH TRIANGLE PARK, NC(Marketwired April 15, 2015) - According to a new report by life sciences intelligence firm Cutting Edge Information, surveyed...",
-            "date": "2015-04-15",
-            "categories": "life,health,health-economics",
-            "tags": "cutting,edge,report,firm,outcomes,outcomes_research,research,health,health_economics,economics,according",
-            "recuweb_url": "http://en.recuweb.com/health-economics/military-technologies.net/2015/04/health-economics-and-outcomes-research-spending-varies-greatly-among-military-technologies",
-            "resource_url": "http://news.google.com/?hl=en&q=health%2Beconomics%2Bhealth%2Beconomics&output=atom&nord=1",
-            "source_url": "http://military-technologies.net/2015/04/15/health-economics-and-outcomes-research-spending-varies-greatly-among-developing-compounds-and-marketed-products/"
-        },
-        "jobs.theconversation.com/2015/04/research-fellow-health-technology-assessment-economics-the-conversation-au": {
-            "title": "Research Fellow, Health Technology Assessment/Health Economics - The Conversation AU...",
-            "snippet": "Research Fellow, Health Technology Assessment/Health EconomicsThe Conversation AUThe Centre for Applied Health Economics (CAHE) sits within the School of Medicine, based at the Logan campus. The CAHE was established in 2006. The Centre currently...",
-            "date": "2015-04-10",
-            "categories": "health,health-economics,technology,school,medicine",
-            "tags": "established,within,health,conversation,conversation_authe,authe,health_economics,economics,research,school,medicine",
-            "recuweb_url": "http://en.recuweb.com/medicine/jobs.theconversation.com/2015/04/research-fellow-health-technology-assessment-economics-the-conversation-au",
-            "resource_url": "http://news.google.com/?hl=en&q=health%2Beconomics%2Bhealth%2Beconomics&output=atom&nord=1",
-            "source_url": "http://jobs.theconversation.com/jobs/10213-research-fellow-health-technology-assessment-health-economics"
-        },
-        "blogs.blouinnews.com/2015/04/feature-how-south-africa-battles-hiv-stigma": {
-            "title": "FEATURE: How South Africa battles HIV stigma...",
-            "snippet": "The Her Rights Initiative, the University of Kwazulu-Natal Health Economics and the HIV Research Division jointly claim to have collected evidence of 46 different cases since 1986. The complaint supported by Oxfam International contends that...",
-            "date": "2015-04-03",
-            "categories": "evidence,health,health-economics,rights,university",
-            "tags": "research,health,health_economics,economics,university",
-            "recuweb_url": "http://en.recuweb.com/university/blogs.blouinnews.com/2015/04/feature-how-south-africa-battles-hiv-stigma",
+            "tags": "angeles,health,health-economics,economics,precision,medicine",
+            "recuweb_url": "http://en.recuweb.com/medicine/bizjournals.com/2015/04/precision-for-medicine-acquires-health-economics",
             "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Beconomics&format=RSS&cc=us",
-            "source_url": "http://blogs.blouinnews.com/blouinbeatworld/2015/04/03/feature-how-south-africa-battles-hiv-stigma/"
+            "source_url": "http://bizjournals.com/prnewswire/press_releases/2015/04/16/PH82125"
         }
     }
 }
