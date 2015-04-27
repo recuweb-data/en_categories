@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "therapy",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/therapy/",
@@ -10,42 +11,92 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/therapy/therapy/blogs.json"
     },
     "items": {
-        "curbed.com/2015/04/assembling-ikea-furniture-is-now-a-tool-in-couples-therapy-curbed": {
-            "title": "Assembling Ikea Furniture is Now a Tool in Couples Therapy - Curbed National...",
-            "snippet": "Curbed NationalAssembling Ikea Furniture is Now a Tool in Couples TherapyCurbed NationalIt's often joked that Ikea's labyrinthine stores and hard-to-assemble furniture can ruin relationships (see: Tina Fey and James Marsden's Ikea-induced fight on...",
+        "curbed.com/2015/04/assembling-ikea-furniture-is-now-a-tool-in-couples-therapy": {
+            "title": "Assembling Ikea Furniture is Now a Tool in Couples Therapy...",
+            "snippet": "Durvasula now incorporates Ikea products in communications exercises, tasking couples with putting together a large piece of furniture at home and reporting back how it went. Durvasula tells WSJ that a small Norn\u00e4s coffee table is fairly...",
             "date": "2015-04-24",
-            "categories": "furniture,relationships,therapy",
-            "tags": "therapy",
-            "recuweb_url": "http://en.recuweb.com/therapy/curbed.com/2015/04/assembling-ikea-furniture-is-now-a-tool-in-couples-therapy-curbed",
-            "resource_url": "http://news.google.com/?hl=en&q=therapy%2Btherapy&output=atom&nord=1",
+            "categories": "coffee,furniture,home,therapy",
+            "tags": "home,back,therapy",
+            "recuweb_url": "http://en.recuweb.com/therapy/curbed.com/2015/04/assembling-ikea-furniture-is-now-a-tool-in-couples-therapy",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=therapy&format=RSS&cc=us",
             "source_url": "http://curbed.com/archives/2015/04/24/ikea-furniture-relationships-therapy.php"
         },
-        "medicalxpress.com/2015/04/hope-for-an-effective-malaria-therapy-with-just-one-tablet-medical": {
-            "title": "Hope for an effective malaria therapy with just one tablet - Medical Xpress...",
-            "snippet": "Medical XpressHope for an effective malaria therapy with just one tabletMedical XpressApproximately 584,000 people worldwide die of malaria each year. The epidemic strongly associated with poverty claims most of its victims in Africa, where it...",
+        "medicalxpress.com/2015/04/hope-for-an-effective-malaria-therapy-with-just-one-tablet": {
+            "title": "Hope for an effective malaria therapy with just one tablet...",
+            "snippet": "Approximately 584,000 people worldwide die of malaria each year. The epidemic strongly associated with poverty claims most of its victims in Africa, where it particularly affects the weakest, children and pregnant women. Current therapies have to be...",
             "date": "2015-04-24",
             "categories": "therapy",
-            "tags": "people,year,therapy",
-            "recuweb_url": "http://en.recuweb.com/therapy/medicalxpress.com/2015/04/hope-for-an-effective-malaria-therapy-with-just-one-tablet-medical",
-            "resource_url": "http://news.google.com/?hl=en&q=therapy%2Btherapy&output=atom&nord=1",
+            "tags": "claims,therapy",
+            "recuweb_url": "http://en.recuweb.com/therapy/medicalxpress.com/2015/04/hope-for-an-effective-malaria-therapy-with-just-one-tablet",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=therapy&format=RSS&cc=us",
             "source_url": "http://medicalxpress.com/news/2015-04-effective-malaria-therapy-tablet.html"
+        },
+        "mcknights.com/2015/04/is-the-failed-therapy-cap-repeal-for-best": {
+            "title": "Is the failed therapy cap repeal for the best?",
+            "snippet": "The recent battle over the SGR passage with the Cardin Amendment brought forth glaring differences in outpatient therapy providers and their priorities. While I, along with the entire therapy world, dream of the day that the arbitrary therapy caps...",
+            "date": "2015-04-24",
+            "categories": "therapy",
+            "tags": "brought,therapy",
+            "recuweb_url": "http://en.recuweb.com/therapy/mcknights.com/2015/04/is-the-failed-therapy-cap-repeal-for-best",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=therapy&format=RSS&cc=us",
+            "source_url": "http://mcknights.com/is-the-failed-therapy-cap-repeal-for-the-best/article/410807/"
+        },
+        "latinpost.com/2015/04/kerry-washington-nfl-husband-nnamdi-asomugha-allegedly-in-couple-s-therapy": {
+            "title": "Kerry Washington, NFL Husband Nnamdi Asomugha Allegedly in Couple's Therapy Over his Insecurities...",
+            "snippet": "After less than two years of marriage, Scandal star Kerry Washington and NFL husband Nnamdi Asomugha are allegedly in couple's therapy over problems largely brought on by her success. According to Radar, a source claims the root of the still...",
+            "date": "2015-04-24",
+            "categories": "marriage,therapy,radar",
+            "tags": "claims,brought,therapy",
+            "recuweb_url": "http://en.recuweb.com/radar/latinpost.com/2015/04/kerry-washington-nfl-husband-nnamdi-asomugha-allegedly-in-couple-s-therapy",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=therapy&format=RSS&cc=us",
+            "source_url": "http://latinpost.com/articles/49691/20150424/kerry-washington-nfl-husband-nnamdi-asomugha-couples-therapy-over-insecurities.htm"
+        },
+        "news-record.com/2015/04/kopper-top-therapy-horse-portrays-gen-lee-s-steed-in-reenactments": {
+            "title": "Kopper Top therapy horse portrays Gen. Lee's steed in reenactments - Greensboro News & Record...",
+            "snippet": "Greensboro News & RecordKopper Top therapy horse portrays Gen. Lee's steed in reenactmentsGreensboro News & RecordThomas Lee Jessee, portraying Confederate General Robert E. Lee and riding local therapy horse Zeus, leaves the McLean house after...",
+            "date": "2015-04-24",
+            "categories": "therapy",
+            "tags": "local,therapy",
+            "recuweb_url": "http://en.recuweb.com/therapy/news-record.com/2015/04/kopper-top-therapy-horse-portrays-gen-lee-s-steed-in-reenactments",
+            "resource_url": "http://news.google.com/?hl=en&q=therapy&output=atom&nord=1",
+            "source_url": "http://news-record.com/life/kopper-top-therapy-horse-portrays-gen-lee-s-steed-in/article_d8f53010-bcb8-5a2f-8076-bd9a2274e6b8.html"
         },
         "nbcsandiego.com/2015/04/missing-therapy-dog-reunited-with-marine-vet-owner-nbc-7-san": {
             "title": "Missing Therapy Dog Reunited with Marine Vet Owner - NBC 7 San Diego...",
             "snippet": "NBC 7 San DiegoMissing Therapy Dog Reunited with Marine Vet OwnerNBC 7 San DiegoA local Marine veteran's therapy dog that disappeared for four months has been found safe and reunited with her owner. Animal Services'officials received a call on...",
             "date": "2015-04-24",
             "categories": "therapy",
-            "tags": "animal,therapy",
+            "tags": "services,dog,marine,therapy,local",
             "recuweb_url": "http://en.recuweb.com/therapy/nbcsandiego.com/2015/04/missing-therapy-dog-reunited-with-marine-vet-owner-nbc-7-san",
-            "resource_url": "http://news.google.com/?hl=en&q=therapy%2Btherapy&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=therapy&output=atom&nord=1",
             "source_url": "http://nbcsandiego.com/news/local/Missing-Therapy-Dog-Reunited-with-Marine-Vet-Owner-301152661.html"
+        },
+        "blufftontoday.com/2015/04/naval-hospital-beaufort-s-therapy-dog-program-a-hit": {
+            "title": "Naval Hospital Beaufort's therapy dog program a hit...",
+            "snippet": "As recruits at Marine Corps Recruit Depot Parris Island sit waiting for the next round of medical in-processing procedures, they are greeted by a team of four-legged, fuzzy friends longing for a soft pet on the head. The therapy dogs are affiliated...",
+            "date": "2015-04-24",
+            "categories": "therapy",
+            "tags": "dogs,procedures,medical,marine,dog,therapy",
+            "recuweb_url": "http://en.recuweb.com/therapy/blufftontoday.com/2015/04/naval-hospital-beaufort-s-therapy-dog-program-a-hit",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=therapy&format=RSS&cc=us",
+            "source_url": "http://blufftontoday.com/bluffton-news/2015-04-24/naval-hospital-beauforts-therapy-dog-program-hit"
+        },
+        "cantondailyledger.com/2015/04/out-patient-therapy-services-expand-with-massive-graham-project": {
+            "title": "Out-patient therapy services expand with massive Graham project...",
+            "snippet": "After a year of planning, construction of the new 8 million Graham Medical Group Out-Patient Clinic is ready to begin. The addition provides a concentration of out-patient treatments in an out-patient friendly facility, according to Graham President...",
+            "date": "2015-04-24",
+            "categories": "construction,therapy",
+            "tags": "medical,group,services,therapy",
+            "recuweb_url": "http://en.recuweb.com/therapy/cantondailyledger.com/2015/04/out-patient-therapy-services-expand-with-massive-graham-project",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=therapy&format=RSS&cc=us",
+            "source_url": "http://cantondailyledger.com/article/20150424/NEWS/150429498/-1/boomers"
         },
         "christianexaminer.com/2015/04/research-contradicts-marco-rubio-s-stance-on-born-gay": {
             "title": "Research contradicts Marco Rubio's stance on 'born gay'...",
             "snippet": "I know guys and girls that when they came to Christ, they very quickly moved through whatever they needed to move throughwhether it was group meetings, group meetings and therapy, therapy, or whateverand they never looked back. I know others who...",
             "date": "2015-04-24",
             "categories": "therapy",
-            "tags": "group,research,therapy",
+            "tags": "back,group,therapy",
             "recuweb_url": "http://en.recuweb.com/therapy/christianexaminer.com/2015/04/research-contradicts-marco-rubio-s-stance-on-born-gay",
             "resource_url": "http://www.bing.com/news/search?first=1&q=therapy%2Btherapy&format=RSS&cc=us",
             "source_url": "http://christianexaminer.com/article/research.contradicts.marco.rubios.stance.on.born.gay/48805.htm"
@@ -55,60 +106,10 @@
             "snippet": "Bloomington PantagraphSalt-therapy fans say treatment helps breathing, other illsBloomington PantagraphDr. Norman Edelman, senior scientific adviser to the American Lung Association, said the salt particles in therapy rooms are too big to be inhaled...",
             "date": "2015-04-24",
             "categories": "therapy",
-            "tags": "say,treatment,therapy",
+            "tags": "treatment,therapy",
             "recuweb_url": "http://en.recuweb.com/therapy/pantagraph.com/2015/04/salt-therapy-fans-say-treatment-helps-breathing-other-ills-bloomington-pantagraph",
-            "resource_url": "http://news.google.com/?hl=en&q=therapy%2Btherapy&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=therapy&output=atom&nord=1",
             "source_url": "http://pantagraph.com/lifestyles/salt-therapy-fans-say-treatment-helps-breathing-other-ills/article_2097212b-7fad-5cfb-97c7-ef434fafbb0b.html"
-        },
-        "psychcentral.com/2015/04/verbal-updating-therapy-reduces-ptsd": {
-            "title": "Verbal 'Updating'Therapy Reduces PTSD -...",
-            "snippet": "'Updating'Therapy Reduces research suggests a therapy technique that blocks the consolidation of traumatic memories could protect against the long-term psychological and physiological effects of trauma. In a new study, UK researchers examined...",
-            "date": "2015-04-24",
-            "categories": "therapy",
-            "tags": "researchers,study,term,could,against,long,research,therapy",
-            "recuweb_url": "http://en.recuweb.com/therapy/psychcentral.com/2015/04/verbal-updating-therapy-reduces-ptsd",
-            "resource_url": "http://news.google.com/?hl=en&q=therapy%2Btherapy&output=atom&nord=1",
-            "source_url": "http://psychcentral.com/news/2015/04/24/verbal-updating-therapy-reduces-ptsd/83862.html"
-        },
-        "theguardian.com/2015/04/hopes-raised-for-new-genetic-therapy-to-prevent-inherited-diseases": {
-            "title": "Hopes raised for new genetic therapy to prevent inherited diseases - The Guardian...",
-            "snippet": "The GuardianHopes raised for new genetic therapy to prevent inherited diseasesThe GuardianResearchers in the US have raised hopes for a simple genetic therapy that could prevent devastating diseases being passed on from mothers to their children. A...",
-            "date": "2015-04-23",
-            "categories": "therapy",
-            "tags": "children,could,therapy",
-            "recuweb_url": "http://en.recuweb.com/therapy/theguardian.com/2015/04/hopes-raised-for-new-genetic-therapy-to-prevent-inherited-diseases",
-            "resource_url": "http://news.google.com/?hl=en&q=therapy%2Btherapy&output=atom&nord=1",
-            "source_url": "http://theguardian.com/science/2015/apr/23/hopes-raised-for-new-genetic-therapy-to-prevent-inherited-diseases"
-        },
-        "fox8.com/2015/04/your-child-s-health-art-therapy-and-autism": {
-            "title": "Your child's health: Art therapy and autism -...",
-            "snippet": "child's health: Art therapy and Five-year-old Arihant Sarabu likes to draw, but for him it is more than just about making pictures. Arihant is among 25 children with autism working with Art Therapist Michelle Chavez at Rainbow Babies and Children's...",
-            "date": "2015-04-23",
-            "categories": "health,therapy",
-            "tags": "children,health,art,therapy,year",
-            "recuweb_url": "http://en.recuweb.com/therapy/fox8.com/2015/04/your-child-s-health-art-therapy-and-autism",
-            "resource_url": "http://news.google.com/?hl=en&q=therapy%2Btherapy&output=atom&nord=1",
-            "source_url": "http://fox8.com/2015/04/23/your-childs-health-art-therapy-and-autism/"
-        },
-        "webmd.com/2015/04/mindfulness-therapy-as-good-depression-meds-webmd": {
-            "title": "Mindfulness Therapy as Good as Depression Meds - WebMD...",
-            "snippet": "Al Jazeera AmericaMindfulness Therapy as Good as Depression MedsWebMDMindfulness-based cognitive therapy brings together two treatment approaches. Guided mindfulness practices, which aim to increase awareness of negative spirals, are combined with...",
-            "date": "2015-04-22",
-            "categories": "therapy",
-            "tags": "mindfulness,treatment,cognitive,depression,therapy,meds,good",
-            "recuweb_url": "http://en.recuweb.com/therapy/webmd.com/2015/04/mindfulness-therapy-as-good-depression-meds-webmd",
-            "resource_url": "http://news.google.com/?hl=en&q=therapy%2Btherapy&output=atom&nord=1",
-            "source_url": "http://webmd.com/depression/news/20150421/mindfulness-based-therapy-as-good-as-meds-for-depression-study-says"
-        },
-        "cbsnews.com/2015/04/mindfulness-therapy-may-be-as-good-meds-for-depression-cbs-news": {
-            "title": "Mindfulness therapy may be as good as meds for depression - CBS News...",
-            "snippet": "therapy may be as good as meds for depressionCBS NewsMindfulness-based cognitive therapy might offer an alternative for people with depression who don't want to take antidepressants long-term, British researchers say. Their study, published April...",
-            "date": "2015-04-22",
-            "categories": "therapy",
-            "tags": "researchers,say,long,people,depression,cognitive,good,meds,mindfulness,therapy,term,study",
-            "recuweb_url": "http://en.recuweb.com/therapy/cbsnews.com/2015/04/mindfulness-therapy-may-be-as-good-meds-for-depression-cbs-news",
-            "resource_url": "http://news.google.com/?hl=en&q=therapy%2Btherapy&output=atom&nord=1",
-            "source_url": "http://cbsnews.com/news/mindfulness-therapy-as-good-as-meds-for-depression/"
         }
     }
 }
