@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "satellite-television",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/satellite-television/",
@@ -16,7 +17,7 @@
             "date": "2014-03-15",
             "author_name": "David Shelburne",
             "categories": "home,satellite-television,television",
-            "tags": "high,cable,channels,home,satellite,satellite-television,television,into,using,big",
+            "tags": "cable,channels,home,satellite,satellite-television,television,into",
             "recuweb_url": "http://en.recuweb.com/television/youtube.com/2014/03/history-of-home-satellite-tv",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=satellite%2Btelevision%2Bsatellite%2Btelevision&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=cWpLiMMQxcM&feature=youtube_gdata",
@@ -28,23 +29,11 @@
             "date": "2014-03-12",
             "author_name": "tvecourse",
             "categories": "television,computer-monitor",
-            "tags": "information,various,television,computer,many,satellite",
+            "tags": "here,information,various,television,computer,satellite",
             "recuweb_url": "http://en.recuweb.com/computer-monitor/youtube.com/2014/03/connecting-a-satellite-reciever-to-television",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=satellite%2Btelevision&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=cAIDwGda-jY&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/cAIDwGda-jY/0.jpg"
-        },
-        "youtube.com/2014/01/satellite-tv-on-your-pc-watch-television-for-free-computer-software": {
-            "title": "Satellite TV On Your PC Watch Television For Free Computer TV Software Review...",
-            "snippet": "Satellite TV On Your PC Watch Television For Free Computer TV Software Review Satellite TV On Your PC Software Time TV streaming on the net is a big thing that uses high speed system connector. Using free online Tv websites... From: Michael Meuterer...",
-            "date": "2014-01-18",
-            "author_name": "Michael Meuterer",
-            "categories": "television",
-            "tags": "free,online,streaming,big,high,system,television,computer,satellite,using",
-            "recuweb_url": "http://en.recuweb.com/television/youtube.com/2014/01/satellite-tv-on-your-pc-watch-television-for-free-computer-software",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=satellite%2Btelevision%2Bsatellite%2Btelevision&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=AqAs4-PzK-o&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/AqAs4-PzK-o/0.jpg"
         },
         "dailymotion.com/2013/07/satellite-television-dayton-progressive-call-937-569-0012": {
             "title": "Satellite Television Dayton Progressive Satellite Call (937) 569-0012...",
@@ -52,7 +41,7 @@
             "date": "2013-07-01",
             "author_name": "ProgressiveSatellite",
             "categories": "satellite-television,television",
-            "tags": "satellite,system,satellite_television,television",
+            "tags": "satellite,satellite_television,television",
             "recuweb_url": "http://en.recuweb.com/television/dailymotion.com/2013/07/satellite-television-dayton-progressive-call-937-569-0012",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/satellite+television+satellite+television/0?af=1",
             "source_url": "http://dailymotion.com/video/x11f0kv_satellite-television-dayton-progressive-satellite-call-937-569-0012_lifestyle",
@@ -64,7 +53,7 @@
             "date": "2012-11-04",
             "author_name": "Turkman_Azerbaijani",
             "categories": "television",
-            "tags": "television,television-broadcasts,television-broadcasts-many,broadcasts,broadcasts-many,broadcasts-many-different,many,many-different,many-different-satellite,different,different-satellite,satellite,gunaz,obali,azerbaijan,azerbaijanauthor,turkman,azerbaijanitags",
+            "tags": "television,television-broadcasts,broadcasts,broadcasts-many-different,different,different-satellite,satellite,gunaz,obali,azerbaijan,azerbaijanauthor,turkman,azerbaijanitags",
             "recuweb_url": "http://en.recuweb.com/television/dailymotion.com/2012/11/gunaz-obali-television-broadcasts-many-different-satellite-azerbaijan",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/satellite+television/0?af=1",
             "source_url": "http://dailymotion.com/video/xutmdq_gunaz-obali-television-broadcasts-many-different-satellite-azerbaijan_news",
@@ -76,7 +65,7 @@
             "date": "2012-11-04",
             "author_name": "Turkman_Azerbaijani",
             "categories": "television",
-            "tags": "television,television-broadcasts,television-broadcasts-many,broadcasts,broadcasts-many,broadcasts-many-different,many,many-different,many-different-satellite,different,different-satellite,satellite,obali,gunaz,azerbaijan,azerbaijanauthor,turkman,azerbaijanitags",
+            "tags": "television,television-broadcasts,broadcasts,broadcasts-many-different,different,different-satellite,satellite,obali,gunaz,azerbaijan,azerbaijanauthor,turkman,azerbaijanitags",
             "recuweb_url": "http://en.recuweb.com/television/dailymotion.com/2012/11/gunaz-milli-obali-ahmad-television-broadcasts-many-different-satellite-azerbaijan",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/satellite+television/0?af=1",
             "source_url": "http://dailymotion.com/video/xuto9u_gunaz-milli-obali-ahmad-television-broadcasts-many-different-satellite-azerbaijan_lifestyle",
@@ -84,15 +73,39 @@
         },
         "youtube.com/2012/10/ethiopian-comedy-hailemariam-desaleny-satellite-television-esat": {
             "title": "Ethiopian Comedy/Hailemariam Desaleny/Ethiopian Satellite Television (ESAT)...",
-            "snippet": "Ethiopian Comedy/Hailemariam Desaleny/Ethiopian Satellite Television (ESAT) PM Haile Mariam's responds to Azeb Mesfin Refusal to leave the Palace Ethiopian Satellite Television (ESAT) From: Motuma Kaba Views: 9458 7 ratings Time: 00:38 More in...",
+            "snippet": "Ethiopian Comedy/Hailemariam Desaleny/Ethiopian Satellite Television (ESAT) PM Haile Mariam's responds to Azeb Mesfin Refusal to leave the Palace Ethiopian Satellite Television (ESAT) From: Motuma Kaba Views: 9607 7 ratings Time: 00:38 More in...",
             "date": "2012-10-12",
             "author_name": "Motuma Kaba",
             "categories": "satellite-television,television,comedy",
             "tags": "satellite,satellite_television,television",
             "recuweb_url": "http://en.recuweb.com/comedy/youtube.com/2012/10/ethiopian-comedy-hailemariam-desaleny-satellite-television-esat",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=satellite%2Btelevision&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=satellite%2Btelevision%2Bsatellite%2Btelevision&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=ln5d18382-4&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/ln5d18382-4/0.jpg"
+        },
+        "dailymotion.com/2012/02/satellite-direct-watch-television-on-your-computer": {
+            "title": "Satellite Direct: Watch Television on Your Computer...",
+            "snippet": "'s software technology taps into more than 3,500 TV channels worldwide right over the Internet. Now you can enjoy more channels than your cable and satellite TV combined for a one-time fee less than one month of your monthly cable bill. You don't...",
+            "date": "2012-02-28",
+            "author_name": "everyoneguide",
+            "categories": "technology,television,internet",
+            "tags": "cable,channels,satellite,into,television,computer",
+            "recuweb_url": "http://en.recuweb.com/internet/dailymotion.com/2012/02/satellite-direct-watch-television-on-your-computer",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/satellite+television/0?af=1",
+            "source_url": "http://dailymotion.com/video/xp3hn5_satellite-direct-watch-television-on-your-computer_shortfilms",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/xp3hn5_satellite-direct-watch-television-on-your-computer_shortfilms"
+        },
+        "youtube.com/2012/02/how-to-get-free-unlimited-hd-satellite-tv-on-your-computer": {
+            "title": "How To Get FREE Unlimited HD Satellite TV on Your Computer...",
+            "snippet": "How To Get FREE Unlimited HD Satellite TV on Your Computer Here's how you can get unlimited satellite television streamed to your computer: With your ONE-TIME payment of 60, you can get UNLIMITED... From: sleep1915 Views: 118877 0 ratings Time:...",
+            "date": "2012-02-25",
+            "author_name": "sleep1915",
+            "categories": "satellite-television,television",
+            "tags": "satellite,satellite-television,television,computer,here",
+            "recuweb_url": "http://en.recuweb.com/television/youtube.com/2012/02/how-to-get-free-unlimited-hd-satellite-tv-on-your-computer",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=satellite%2Btelevision&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=UIgv7ZIub10&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/UIgv7ZIub10/0.jpg"
         },
         "youtube.com/2011/11/satellite-television-options-for-recreational-vehicles": {
             "title": "Satellite Television Options for Recreational Vehicles -...",
@@ -108,7 +121,7 @@
         },
         "youtube.com/2011/10/satellite-tv-providers-which-one-is-the-best": {
             "title": "Satellite TV Providers - Which One Is The Best?",
-            "snippet": "Satellite TV Providers - Which One Is The Best? - The satellite television deals offered by DirecTV and Dish Network are pretty comparable - give or take a few dollars... From: brianaria1 Views: 13190 18 ratings Time: 03:19 More in Entertainment...",
+            "snippet": "Satellite TV Providers - Which One Is The Best? - The satellite television deals offered by DirecTV and Dish Network are pretty comparable - give or take a few dollars... From: brianaria1 Views: 13976 20 ratings Time: 03:19 More in Entertainment...",
             "date": "2011-10-12",
             "author_name": "brianaria1",
             "categories": "satellite-television,television,entertainment",
@@ -117,18 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=satellite%2Btelevision&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=aYPnXESvTDc&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/aYPnXESvTDc/0.jpg"
-        },
-        "dailymotion.com/2011/06/satellite-direct-introduces-the-internet-television-revolution": {
-            "title": "Satellite Direct Introduces The Internet Television Revolution...",
-            "snippet": "Copy/Paste link on the left into browser for SatelliteDirect One-Time FeeAuthor: playpen007Tags: Watch Movies Sports Music And More With Satellite Direct online free internet digital channels watch video cable streaming satellite receivers Posted:...",
-            "date": "2011-06-11",
-            "author_name": "playpen007",
-            "categories": "internet,sport,music,television",
-            "tags": "cable,streaming,satellite,online,free,channels,into,television",
-            "recuweb_url": "http://en.recuweb.com/television/dailymotion.com/2011/06/satellite-direct-introduces-the-internet-television-revolution",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/satellite+television/0?af=1",
-            "source_url": "http://dailymotion.com/video/xj8f31_satellite-direct-introduces-the-internet-television-revolution_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/xj8f31_satellite-direct-introduces-the-internet-television-revolution_lifestyle"
         }
     }
 }
