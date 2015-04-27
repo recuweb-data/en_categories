@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "home-automation",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/home-automation/",
@@ -10,27 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/home-automation/home-automation/blogs.json"
     },
     "items": {
-        "sitepronews.com/2015/04/smart-home-automation-that-looks-and-feels-good-sitepronews": {
-            "title": "Smart Home Automation That Looks and Feels Good - SiteProNews...",
-            "snippet": "There's an obvious trend in the home improvement market and it involves Smart technologies and robust technology platforms. While there's no doubt that Sma.",
-            "date": "2015-04-20",
-            "author_name": "Larry Alton",
-            "categories": "home,home-automation,technology",
-            "tags": "trend,good,smart,smart_home,home,home_automation,automation,technology",
-            "recuweb_url": "http://en.recuweb.com/technology/sitepronews.com/2015/04/smart-home-automation-that-looks-and-feels-good-sitepronews",
-            "resource_url": "http://www.google.com/search?q=home%2Bautomation%2Bhome%2Bautomation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://sitepronews.com/2015/04/20/smart-home-automation-that-looks-and-feels-good/"
-        },
-        "cepro.com/2015/04/quirky-terribly-embarrassed-over-wink-home-automation-hub": {
-            "title": "Quirky 'Terribly Embarrassed'Over Wink Home Automation Hub...",
-            "snippet": "The bad news: The Wink home automation hub from Quirky is being recalled because the company failed to update its security software. The good news: The security worked! (Julie Jacobson/CE Pro)...",
-            "date": "2015-04-19",
-            "author_name": "jjacobson@ehpub.com",
+        "geeky-gadgets.com/2015/04/oomi-smart-home-automation-and-security-system-video": {
+            "title": "Oomi Smart Home Automation And Security System (video)...",
+            "snippet": "Oomi is a new smart home automation and security system that has launched over on the Indiegogo website this month, and has raised 350k in two days.",
+            "date": "2015-04-23",
+            "author_name": "Julian Horsey",
             "categories": "home,home-automation",
-            "tags": "good,update,home,home_automation,automation,hub,quirky,company,security,pro",
-            "recuweb_url": "http://en.recuweb.com/home-automation/cepro.com/2015/04/quirky-terribly-embarrassed-over-wink-home-automation-hub",
-            "resource_url": "http://www.google.com/search?q=home%2Bautomation%2Bhome%2Bautomation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://cepro.com/article/quirky_terribly_embarrassed_over_wink_home_automation_hub_recall/"
+            "tags": "system,smart,smart_home,smart_home_automation,home,home_automation,automation,security",
+            "recuweb_url": "http://en.recuweb.com/home-automation/geeky-gadgets.com/2015/04/oomi-smart-home-automation-and-security-system-video",
+            "resource_url": "http://www.google.com/search?q=home%2Bautomation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://geeky-gadgets.com/oomi-smart-home-automation-and-security-system-23-04-2015/"
         },
         "anandtech.com/2015/04/home-automation-systems-a-consumer-checklist": {
             "title": "Home Automation Systems - A Consumer Checklist...",
@@ -38,7 +28,7 @@
             "date": "2015-04-17",
             "author_name": "Ganesh T S",
             "categories": "home,home-automation,internet",
-            "tags": "many,main,concept,lot,last,years,check,home,home_automation,automation,internet,things,iot",
+            "tags": "none,space,lies,main,main-applications,applications,consumers,check,home,home_automation,automation,internet,things,iot",
             "recuweb_url": "http://en.recuweb.com/internet/anandtech.com/2015/04/home-automation-systems-a-consumer-checklist",
             "resource_url": "http://www.google.com/search?q=home%2Bautomation%2Bhome%2Bautomation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://anandtech.com/show/9174/home-automation-systems-a-consumer-checklist"
@@ -49,7 +39,7 @@
             "date": "2015-04-16",
             "author_name": "Kelly Jackson Higgins",
             "categories": "home,home-automation",
-            "tags": "home,home_automation,home_automation_system,automation,automation_system,system,via,security,next",
+            "tags": "next,attack,home,home_automation,home_automation_system,automation,automation_system,system,security",
             "recuweb_url": "http://en.recuweb.com/home-automation/darkreading.com/2015/04/popular-home-automation-system-backdoored-via-unpatched-flaw",
             "resource_url": "http://www.google.com/search?q=home%2Bautomation%2Bhome%2Bautomation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://darkreading.com/vulnerabilities---threats/popular-home-automation-system-backdoored-via-unpatched-flaw/d/d-id/1320004"
@@ -60,7 +50,7 @@
             "date": "2015-04-15",
             "author_name": "John Biggs",
             "categories": "home,home-automation",
-            "tags": "control,home,home_automation,home_automation_system,automation,automation_system,system",
+            "tags": "control,called,home,home_automation,home_automation_system,automation,automation_system,system",
             "recuweb_url": "http://en.recuweb.com/home-automation/techcrunch.com/2015/04/home-automation-system-seed-labs-launches-silvair-control-to",
             "resource_url": "http://www.google.com/search?q=home%2Bautomation%2Bhome%2Bautomation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://techcrunch.com/2015/04/15/home-automation-system-seed-labs-launches-silvair-control-to-make-your-lightbulbs-smart/"
@@ -71,53 +61,64 @@
             "date": "2015-04-14",
             "author_name": "Will Sweatman",
             "categories": "home,home-automation",
-            "tags": "belkin,belkin_wemo,wemo,along,home,home_automation,automation,amazon,gadgets",
+            "tags": "belkin,belkin_wemo,wemo,support,home,home_automation,automation",
             "recuweb_url": "http://en.recuweb.com/home-automation/hackaday.com/2015/04/ask-hackaday-is-amazon-echo-the-future-of-home-automation",
-            "resource_url": "http://www.google.com/search?q=home%2Bautomation%2Bhome%2Bautomation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=home%2Bautomation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://hackaday.com/2015/04/14/ask-hackaday-is-amazon-echo-the-future-of-home-automation/"
         },
-        "danadavisproperties.wordpress.com/2015/03/trends-home-lighting-&-automation": {
-            "title": "Trends: Home lighting & automation...",
-            "snippet": "Lamps by Wildwood Lamps & Accents are striking traditional and transitional creations that blend techniques and materials of the past to reflect todays designs. Room setting from Century Furniture available at Norris Home Furnishings. (Photo:...",
+        "foreclosures-dallas-texas.com/2015/04/house-automation-in-georgia": {
+            "title": "house automation in georgia...",
+            "snippet": "House Automation Tasks in Georgia Supports Innovations Progress A great deal of technological company in Georgia maintain their competitiveness with innovation with the help of advancement program. Among their advancement objectives focuses on home...",
+            "date": "2015-04-14",
+            "categories": "home",
+            "tags": "program,great,house,automation,company,home",
+            "recuweb_url": "http://en.recuweb.com/home/foreclosures-dallas-texas.com/2015/04/house-automation-in-georgia",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=home%2Bautomation%2Bhome%2Bautomation&rss=1&lng=en",
+            "source_url": "http://foreclosures-dallas-texas.com/house-automation-in-georgia/"
+        },
+        "engadget.com/2015/04/samsung-delays-its-next-gen-home-automation-devices-engadget": {
+            "title": "Samsung delays its next-gen home automation devices - Engadget...",
+            "snippet": "It'll take a while longer to see how Samsung's acquisition has improved SmartThings'Hub and sensors. The company was supposed to release its next-gen home automation devices this April, but now it's pushing back the...",
+            "date": "2015-04-01",
+            "author_name": "Mariella Moon",
+            "categories": "home",
+            "tags": "next,sensors,home,automation,devices,hub,company,release",
+            "recuweb_url": "http://en.recuweb.com/home/engadget.com/2015/04/samsung-delays-its-next-gen-home-automation-devices-engadget",
+            "resource_url": "http://www.google.com/search?q=home%2Bautomation%2Bhome%2Bautomation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://engadget.com/2015/03/31/samsung-smartthings-home-automation-version-/"
+        },
+        "engadget.com/2015/04/touchscreen-enabled-routers-double-as-home-automation-hubs": {
+            "title": "Touchscreen-enabled routers double as home automation hubs...",
+            "snippet": "The Almond and Almond 2015 both support ZigBee home automation, letting you program security camera, lights or lawn sprinkler automation on the built-in touchscreens. They both also function as full-featured routers, with...",
+            "date": "2015-04-01",
+            "author_name": "Steve Dent",
+            "categories": "touchscreen,home",
+            "tags": "routers,lights,program,support,home,automation,almond,security",
+            "recuweb_url": "http://en.recuweb.com/home/engadget.com/2015/04/touchscreen-enabled-routers-double-as-home-automation-hubs",
+            "resource_url": "http://www.google.com/search?q=home%2Bautomation%2Bhome%2Bautomation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://engadget.com/2015/04/01/almond-home-automation-routers/"
+        },
+        "techcrunch.com/2015/03/securifi-adds-serious-home-automation-to-its-almond-routers": {
+            "title": "Securifi Adds Serious Home Automation To Its Almond Routers...",
+            "snippet": "Own an Almond router? It's about to get a dose of home automation thanks to new firmware from Securifi. The company behind the clever (and attractive) routers just announced a new set of features that will better position its...",
             "date": "2015-03-31",
-            "author_name": "danadavisproperties",
-            "categories": "furniture,home,furnishings",
-            "tags": "available,lighting,trends,home,automation",
-            "recuweb_url": "http://en.recuweb.com/furnishings/danadavisproperties.wordpress.com/2015/03/trends-home-lighting-&-automation",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=home%2Bautomation%2Bhome%2Bautomation&rss=1&lng=en",
-            "source_url": "http://danadavisproperties.wordpress.com/2015/03/31/trends-home-lighting-automation/"
-        },
-        "reddit.com/2015/03/what-is-your-favorite-home-automation-idea": {
-            "title": "What is your favorite home automation idea?",
-            "snippet": "I'm new to the idea of home automation. I love the concept, but am struggling to imagine how it would be applicable in my life. What are some of your favorite projects? submitted by justcurious12345 to homeautomation link 51 comments...",
-            "date": "2015-03-14",
-            "categories": "love,home,life",
-            "tags": "projects,concept,home,automation,life",
-            "recuweb_url": "http://en.recuweb.com/life/reddit.com/2015/03/what-is-your-favorite-home-automation-idea",
-            "resource_url": "http://www.reddit.com/search.rss?q=home%2Bautomation%2Bhome%2Bautomation&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/homeautomation/comments/2yzsap/what_is_your_favorite_home_automation_idea/"
-        },
-        "gemma-day.blogspot.com/2015/03/do-it-yourself-home-automation-projects": {
-            "title": "Do-it-Yourself Home Automation Projects...",
-            "snippet": "You've been doing a lot of projects since you were in the elementary. There are times when you do it on your own, and sometimes you seek for your parents'help. Now that you're all grown-up, you can do many things alone, with no or less minimal...",
-            "date": "2015-03-12",
-            "author_name": "(How be Healthy)",
+            "author_name": "Matt Burns",
             "categories": "home,home-automation",
-            "tags": "many,own,lot,projects,home,home_automation,automation,things",
-            "recuweb_url": "http://en.recuweb.com/home-automation/gemma-day.blogspot.com/2015/03/do-it-yourself-home-automation-projects",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=home%2Bautomation%2Bhome%2Bautomation&rss=1&lng=en",
-            "source_url": "http://gemma-day.blogspot.com/2015/03/do-it-yourself-home-automation-projects.html"
+            "tags": "features,routers,securifi,adds,home,home_automation,automation,almond,company,announced",
+            "recuweb_url": "http://en.recuweb.com/home-automation/techcrunch.com/2015/03/securifi-adds-serious-home-automation-to-its-almond-routers",
+            "resource_url": "http://www.google.com/search?q=home%2Bautomation%2Bhome%2Bautomation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://techcrunch.com/2015/03/31/securifi-adds-serious-home-automation-to-its-almond-routers/"
         },
-        "gemma-day.blogspot.com/2015/03/home-automation-manufac-and-relay-boards": {
-            "title": "Home Automation Manufac and Relay Boards...",
-            "snippet": "The manufacturing industry is one of the biggest profit-earners in the world. This usually depends on the product that is manufactured, but since it is a big business, almost all manufacturing firms are earning quite of the leading companies...",
-            "date": "2015-03-09",
-            "author_name": "(How be Healthy)",
-            "categories": "business,home,home-automation",
-            "tags": "big,product,home,home_automation,automation",
-            "recuweb_url": "http://en.recuweb.com/home-automation/gemma-day.blogspot.com/2015/03/home-automation-manufac-and-relay-boards",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=home%2Bautomation%2Bhome%2Bautomation&rss=1&lng=en",
-            "source_url": "http://gemma-day.blogspot.com/2015/03/home-automation-manufac-and-relay-boards.html"
+        "digitaltrends.com/2015/03/securifi-adds-smart-home-automation-features-to-almond-routers": {
+            "title": "Securifi adds smart home automation features to Almond routers...",
+            "snippet": "Designed to provide a whole home automation solution without the need for a separate smarthome hub, a new home automation user interface has been added to the latest lineup of Securifi Almond Wi-Fi routers.",
+            "date": "2015-03-31",
+            "author_name": "Mike Flacy",
+            "categories": "home",
+            "tags": "interface,solution,hub,whole,features,securifi,adds,smart,home,automation,almond,routers,designed",
+            "recuweb_url": "http://en.recuweb.com/home/digitaltrends.com/2015/03/securifi-adds-smart-home-automation-features-to-almond-routers",
+            "resource_url": "http://www.google.com/search?q=home%2Bautomation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://digitaltrends.com/home/securifi-adds-smart-home-automation-features-to-almond-routers/"
         }
     }
 }
