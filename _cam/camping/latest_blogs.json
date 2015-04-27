@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "camping",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/camping/",
@@ -10,38 +11,71 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/camping/camping/blogs.json"
     },
     "items": {
+        "ourwonderland.blogspot.com/2015/04/first-ever-camping-trip": {
+            "title": "First EVER camping trip...",
+            "snippet": "We went camping... nuff said. hahaha Okay okay.. So it was Easter break. I finally had time to work 100% (not! hahaha) on my PhD. These few months have been HECTIC I tell ya! Background story/catch up: I have started tutoring, I had a postgraduate...",
+            "date": "2015-04-26",
+            "author_name": "(Mama Haraz)",
+            "categories": "camping",
+            "tags": "work,said,camping,trip",
+            "recuweb_url": "http://en.recuweb.com/camping/ourwonderland.blogspot.com/2015/04/first-ever-camping-trip",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=camping%2Bcamping&rss=1&lng=en",
+            "source_url": "http://ourwonderland.blogspot.com/2015/04/first-ever-camping-trip.html"
+        },
+        "q13fox.com/2015/04/olympic-national-park-closes-enchanted-valley-to-camping": {
+            "title": "Olympic National Park closes Enchanted Valley to camping after...",
+            "snippet": "The park said the Enchanted Valley area is closed to all camping between Pyrites Creek and the O'Neill Pass trail junction. The six-mile section of trail between these two locations remains open for hiking, but there is no...",
+            "date": "2015-04-24",
+            "author_name": "Q13 FOX News Staff",
+            "categories": "camping,hiking",
+            "tags": "area,closed,said,enchanted,enchanted_valley,valley,national,national_park,park,camping,hiking",
+            "recuweb_url": "http://en.recuweb.com/hiking/q13fox.com/2015/04/olympic-national-park-closes-enchanted-valley-to-camping",
+            "resource_url": "http://www.google.com/search?q=camping%2Bcamping&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://q13fox.com/2015/04/24/national-olympic-park-closes-enchanted-valley-to-camping-after-bears-approach-hikers/"
+        },
+        "businessinsider.com/2015/04/pop-up-camping-tent-is-super-easy-to-set-sale-business": {
+            "title": "Pop up camping tent is super easy to set up sale - Business Insider...",
+            "snippet": "The Insider Picks team writes about stuff we think you'll like. Business Insider has affiliate partnerships so we may get a share of the revenue from your purchase. Screen Shot 2015 04 23 at PM Amazon. Here's a great...",
+            "date": "2015-04-24",
+            "author_name": "Insider Picks",
+            "categories": "business,camping",
+            "tags": "tent,super,easy,camping",
+            "recuweb_url": "http://en.recuweb.com/camping/businessinsider.com/2015/04/pop-up-camping-tent-is-super-easy-to-set-sale-business",
+            "resource_url": "http://www.google.com/search?q=camping%2Bcamping&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://businessinsider.com/pop-up-camping-tent-is-super-easy-to-set-up-sale-2015-4"
+        },
+        "consequenceofsound.net/2015/04/win-tickets-to-backwoods-camping-&-music-festival-2015": {
+            "title": "Win tickets to Backwoods Camping & Music Festival 2015...",
+            "snippet": "Backwoods Camping & Music Festival will return to its home off Route 66 in Stroud, Oklahoma this Labor Day weekend, September 4th-6th. Headlining the bill at the Tatanka Ranch will be Porter Robinson (performing a live...",
+            "date": "2015-04-24",
+            "author_name": "Ben Kaye",
+            "categories": "home,music,camping",
+            "tags": "day,camping,off",
+            "recuweb_url": "http://en.recuweb.com/camping/consequenceofsound.net/2015/04/win-tickets-to-backwoods-camping-&-music-festival-2015",
+            "resource_url": "http://www.google.com/search?q=camping%2Bcamping&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://consequenceofsound.net/2015/04/win-tickets-to-backwoods-camping-music-festival-2015/"
+        },
         "mk331996.wordpress.com/2015/04/camping-in-wee-jasper": {
             "title": "Camping In Wee Jasper...",
             "snippet": "Camping Camping is fun, isnt it? I really like camping actually. Honestly. I was invite by some of my college friends to go camping for 2 days, like a field trip for photography. (we were given an project to work on and we needed ideas, the project...",
             "date": "2015-04-23",
             "author_name": "mk331996",
             "categories": "photography,college,camping",
-            "tags": "given,photography,fun,camping,really,days,trip",
+            "tags": "work,trip,fun,camping",
             "recuweb_url": "http://en.recuweb.com/camping/mk331996.wordpress.com/2015/04/camping-in-wee-jasper",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=camping%2Bcamping&rss=1&lng=en",
             "source_url": "http://mk331996.wordpress.com/2015/04/23/camping-in-wee-jasper/"
         },
-        "musicfeeds.com.au/2015/04/splendour-2015-tickets-camping-&-info-music-news-reviews": {
-            "title": "Splendour 2015: Tickets, Camping & Info - Music News, Reviews...",
-            "snippet": "Tickets for this year's mammoth Splendour In The Grass festival are right at this moment on sale, as punters prepare themselves to see over 100 acts set to take the stages in Byron Bay this July. It's going to be a big year at...",
-            "date": "2015-04-23",
-            "author_name": "Nastassia Baroni",
-            "categories": "music,camping",
-            "tags": "camping",
-            "recuweb_url": "http://en.recuweb.com/camping/musicfeeds.com.au/2015/04/splendour-2015-tickets-camping-&-info-music-news-reviews",
-            "resource_url": "http://www.google.com/search?q=camping%2Bcamping&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://musicfeeds.com.au/news/splendour-2015-tickets-camping-info/"
-        },
-        "whowhatwear.com/2015/04/how-to-look-like-the-ultimate-camping-babe": {
-            "title": "How to Look Like the Ultimate Camping Babe...",
-            "snippet": "Is it just us, or does it often seem that the more unstudied an outfit is, the cooler it look? Case in point: camping attire. The style ingredients usually revolve around no-frills, tomboyish colors, and silhouettes that somehow...",
+        "twobirdsboutique.blogspot.com/2015/04/game-time-travel-tin-made-from-upcycled-cookie-sheets": {
+            "title": ".: game time travel tin (made from upcycled cookie sheets)...",
+            "snippet": "Spring has at least it did, and then it snowed, and now it's coming get the idea. Anywho, with Spring and Summer comes camping, and with camping comes road trips. Our kids are pretty good on road trips; iPads and a DVD player (with headphones) in...",
             "date": "2015-04-22",
-            "author_name": "unknown",
-            "categories": "camping",
-            "tags": "style,usually,camping",
-            "recuweb_url": "http://en.recuweb.com/camping/whowhatwear.com/2015/04/how-to-look-like-the-ultimate-camping-babe",
-            "resource_url": "http://www.google.com/search?q=camping%2Bcamping&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://whowhatwear.com/what-to-wear-camping"
+            "author_name": "two birds",
+            "categories": "travel,camping,ipad",
+            "tags": "travel,game,camping,kids",
+            "recuweb_url": "http://en.recuweb.com/ipad/twobirdsboutique.blogspot.com/2015/04/game-time-travel-tin-made-from-upcycled-cookie-sheets",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=camping%2Bcamping&rss=1&lng=en",
+            "source_url": "http://twobirdsboutique.blogspot.com/2015/04/birdiy-game-time-travel-tin-made-from.html"
         },
         "lifehacker.com/2015/04/make-a-simple-self-inflating-camping-pillow-out-of-memory-foam": {
             "title": "Make a Simple, Self-Inflating Camping Pillow Out of Memory Foam...",
@@ -49,7 +83,7 @@
             "date": "2015-04-21",
             "author_name": "Patrick Allan",
             "categories": "memory,camping",
-            "tags": "enough,even,head,fun,camping,trip",
+            "tags": "easy,even,fun,camping,trip",
             "recuweb_url": "http://en.recuweb.com/camping/lifehacker.com/2015/04/make-a-simple-self-inflating-camping-pillow-out-of-memory-foam",
             "resource_url": "http://www.google.com/search?q=camping%2Bcamping&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://lifehacker.com/make-a-simple-self-inflating-camping-pillow-out-of-mem-1699301822"
@@ -60,7 +94,7 @@
             "date": "2015-04-20",
             "author_name": "Steve Casimiro",
             "categories": "camping",
-            "tags": "shape,camping",
+            "tags": "dimensions,camping,beyond",
             "recuweb_url": "http://en.recuweb.com/camping/adventureblog.nationalgeographic.com/2015/04/the-gourmand-s-camping-stove-beyond-edge",
             "resource_url": "http://www.google.com/search?q=camping%2Bcamping&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://adventureblog.nationalgeographic.com/2015/04/20/jetboil-minimo-camping-stove/"
@@ -71,53 +105,20 @@
             "date": "2015-04-17",
             "author_name": "By Andy Rathbun arathbun@pioneerpress.com",
             "categories": "places,camping",
-            "tags": "local,great,camp,want,camping,consider,tent",
+            "tags": "press,spots,tent,camping",
             "recuweb_url": "http://en.recuweb.com/camping/twincities.com/2015/04/13-great-minnesota-places-to-camp",
             "resource_url": "http://www.google.com/search?q=camping%2Bcamping&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://twincities.com/outdoors/ci_27929060/great-minnesota-camping-spots"
-        },
-        "gizmodo.com/2015/04/a-comfy-compact-camping-chair-that-packs-away-into-its-own": {
-            "title": "A Comfy Compact Camping Chair That Packs Away Into Its Own Legs...",
-            "snippet": "Even if you've opted to spend a weekend car camping instead of truly roughing it with nothing but a pack on your back, you still don't want to pack too much stuff. So in lieu of a couple of awkward folding lawn chairs for cozying...",
-            "date": "2015-04-17",
-            "author_name": "Andrew Liszewski",
-            "categories": "camping",
-            "tags": "couple,want,back,weekend,camping,away,into,own,even",
-            "recuweb_url": "http://en.recuweb.com/camping/gizmodo.com/2015/04/a-comfy-compact-camping-chair-that-packs-away-into-its-own",
-            "resource_url": "http://www.google.com/search?q=camping%2Bcamping&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://gizmodo.com/a-comfy-compact-camping-chair-that-packs-away-into-its-1698486079"
         },
         "reddit.com/2015/04/just-sent-my-baby-camping-for-a-couple-of-nights-without": {
             "title": "Just sent my baby camping for a couple of nights without me. It's bittersweet. I'm glad he loves it...",
             "snippet": "Just sent my baby camping for a couple of nights without me. It's bittersweet. I'm glad he loves it...",
             "date": "2015-04-17",
             "categories": "camping",
-            "tags": "couple,camping",
+            "tags": "camping,without",
             "recuweb_url": "http://en.recuweb.com/camping/reddit.com/2015/04/just-sent-my-baby-camping-for-a-couple-of-nights-without",
             "resource_url": "http://www.reddit.com/search.rss?q=camping%2Bcamping&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/camping/comments/32z1bo/just_sent_my_baby_camping_for_a_couple_of_nights/"
-        },
-        "blog.meritline.com/2015/04/the-beginners-guide-to-camping": {
-            "title": "The Beginners Guide To Camping...",
-            "snippet": "What Is Backcountry Camping? Backcountry or as its also referred to, primitive camping, means that you go in with few if any amenities. There is usually no electricity, no running water, no picnic tables and no restrooms. In short, its away from all...",
-            "date": "2015-04-17",
-            "author_name": "Aria",
-            "categories": "camping",
-            "tags": "away,picnic,usually,camping,back,water",
-            "recuweb_url": "http://en.recuweb.com/camping/blog.meritline.com/2015/04/the-beginners-guide-to-camping",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=camping%2Bcamping&rss=1&lng=en",
-            "source_url": "http://blog.meritline.com/2015/04/17/the-beginners-guide-to-camping/"
-        },
-        "daveysaunders.blogspot.com/2015/04/heavy-dose-of-spring": {
-            "title": "Heavy Dose of Spring...",
-            "snippet": "Turns out my kids really love camping. And by camping I mean ALL their pillows and blankets, some electronic gaming devices, and snacks in the comfort of their own tent set up inside the house. The weather isn't quite warm enough yet, but it's...",
-            "date": "2015-04-16",
-            "author_name": "davey",
-            "categories": "love,camping",
-            "tags": "enough,weather,own,really,spring,camping,tent,warm",
-            "recuweb_url": "http://en.recuweb.com/camping/daveysaunders.blogspot.com/2015/04/heavy-dose-of-spring",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=camping%2Bcamping&rss=1&lng=en",
-            "source_url": "http://daveysaunders.blogspot.com/2015/04/heavy-dose-of-spring.html"
         }
     }
 }
