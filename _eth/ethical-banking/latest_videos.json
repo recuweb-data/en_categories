@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "ethical-banking",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/ethical-banking/",
@@ -10,17 +11,41 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/ethical-banking/ethical-banking/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/what-is-ethical-banking-defined": {
+            "title": "What is ethical banking?: Banking Defined...",
+            "snippet": "What is ethical banking?: Sascha Hutchinson (Banking Expert)Author: steppingstonesTags: overdraft payment systems debit card cheque transactional account bank Posted: 15 April 2015Rating:: 0...",
+            "date": "2015-04-15",
+            "author_name": "steppingstones",
+            "categories": "banking,ethical-banking",
+            "tags": "banking,ethical,ethical-banking,bank",
+            "recuweb_url": "http://en.recuweb.com/ethical-banking/dailymotion.com/2015/04/what-is-ethical-banking-defined",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/ethical+banking+ethical+banking/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2mff0a_what-is-ethical-banking-banking-defined_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mff0a_what-is-ethical-banking-banking-defined_lifestyle"
+        },
         "youtube.com/2015/04/ethical-banking-zu-gast-beim-oberperflhof-in-katharinaberg": {
             "title": "Ethical Banking zu Gast beim Oberperflhof in Katharinaberg...",
-            "snippet": "Ethical Banking zu Gast beim Oberperflhof in Katharinaberg From: Ethical Banking Views: 22 0 ratings Time: 07:44 More in Education...",
+            "snippet": "Ethical Banking zu Gast beim Oberperflhof in Katharinaberg From: Ethical Banking Views: 36 0 ratings Time: 07:44 More in Education...",
             "date": "2015-04-01",
             "author_name": "Ethical Banking",
             "categories": "ethical-banking,banking,education",
-            "tags": "ethical,ethical_banking,banking,education",
+            "tags": "ethical,ethical_banking,banking,gast,beim,education",
             "recuweb_url": "http://en.recuweb.com/education/youtube.com/2015/04/ethical-banking-zu-gast-beim-oberperflhof-in-katharinaberg",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ethical%2Bbanking&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=A6H1cOGflTE&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/A6H1cOGflTE/0.jpg"
+        },
+        "youtube.com/2015/03/vdk-spaarbank-ethical-banking": {
+            "title": "VDK_Spaarbank Ethical Banking...",
+            "snippet": "VDK_Spaarbank Ethical Banking 3D Animation with a warm feeling. Paper cut out without the use of scissors. Seen on TV and at the Movies. From: Hoaxland3D Views: 0 0 ratings Time: 01:04 More in Film & Animation...",
+            "date": "2015-03-31",
+            "author_name": "Hoaxland3D",
+            "categories": "ethical-banking,banking",
+            "tags": "ethical,ethical_banking,banking",
+            "recuweb_url": "http://en.recuweb.com/banking/youtube.com/2015/03/vdk-spaarbank-ethical-banking",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ethical%2Bbanking&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=1_vwbJdd5UY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/1_vwbJdd5UY/0.jpg"
         },
         "dailymotion.com/2015/02/swissleaks-and-ethical-banking": {
             "title": "Swissleaks and ethical banking...",
@@ -28,7 +53,7 @@
             "date": "2015-02-10",
             "author_name": "france24english",
             "categories": "ethical-banking,banking",
-            "tags": "ethical,banking",
+            "tags": "ethical,ethical-banking,banking",
             "recuweb_url": "http://en.recuweb.com/banking/dailymotion.com/2015/02/swissleaks-and-ethical-banking",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/ethical+banking+ethical+banking/0?af=1",
             "source_url": "http://dailymotion.com/video/x2gu9kv_swissleaks-and-ethical-banking_news",
@@ -40,7 +65,7 @@
             "date": "2014-12-16",
             "author_name": "Al Rayan Bank",
             "categories": "banking,finance",
-            "tags": "ethical,system,products,banking,islamic,finance",
+            "tags": "ethical,system,products,banking,islamic",
             "recuweb_url": "http://en.recuweb.com/finance/youtube.com/2014/12/ethical-banking-sharia-complience-guarenteed",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ethical%2Bbanking%2Bethical%2Bbanking&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=_qsHxIxv8jo&feature=youtube_gdata",
@@ -48,11 +73,11 @@
         },
         "youtube.com/2014/12/cile-public-lecture-how-ethical-is-the-current-islamic-banking-system": {
             "title": "CILE Public Lecture How ethical is the current Islamic Banking System? 12/06/2014...",
-            "snippet": "CILE Public Lecture \"How ethical is the current Islamic Banking System?\" 12/06/2014 From: CILE Center: Research Center for Islamic Legislation and Ethics -Official Account- EN/FR/AR Views: 157 2 ratings Time: 01:10:54 More in Education...",
+            "snippet": "CILE Public Lecture \"How ethical is the current Islamic Banking System?\" 12/06/2014 From: CILE Center: Research Center for Islamic Legislation and Ethics -Official Account- EN/FR/AR Views: 170 2 ratings Time: 01:10:54 More in Education...",
             "date": "2014-12-14",
             "author_name": "CILE Center: Research Center for Islamic Legislation and Ethics -Official Account- EN/FR/AR",
             "categories": "banking,ethics,education",
-            "tags": "islamic,center,ethical,islamic_banking,banking,system,education",
+            "tags": "islamic,ethical,banking,system,education",
             "recuweb_url": "http://en.recuweb.com/education/youtube.com/2014/12/cile-public-lecture-how-ethical-is-the-current-islamic-banking-system",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ethical%2Bbanking%2Bethical%2Bbanking&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=qkgJg7BEjQs&feature=youtube_gdata",
@@ -66,7 +91,7 @@
             "categories": "ethical-banking,banking",
             "tags": "ethical,ethical_banking,banking,products,banks",
             "recuweb_url": "http://en.recuweb.com/banking/youtube.com/2014/11/datsyn-news-bankcoin-leads-the-way-with-its-ethical-banking-products",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ethical%2Bbanking%2Bethical%2Bbanking&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ethical%2Bbanking&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=svGYY4KS9X8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/svGYY4KS9X8/0.jpg"
         },
@@ -82,6 +107,18 @@
             "source_url": "http://youtube.com/watch?v=U1eLIbZ4YxY&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/U1eLIbZ4YxY/0.jpg"
         },
+        "youtube.com/2013/12/ethical-banking-zu-gast-beim-crozzol-hof-in-buchholz": {
+            "title": "Ethical Banking zu Gast beim Crozzol-Hof in Buchholz...",
+            "snippet": "Ethical Banking zu Gast beim Crozzol-Hof in Buchholz From: Ethical Banking Views: 202 0 ratings Time: 06:03 More in Education...",
+            "date": "2013-12-12",
+            "author_name": "Ethical Banking",
+            "categories": "ethical-banking,banking,education",
+            "tags": "ethical,ethical_banking,banking,gast,beim,education",
+            "recuweb_url": "http://en.recuweb.com/education/youtube.com/2013/12/ethical-banking-zu-gast-beim-crozzol-hof-in-buchholz",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ethical%2Bbanking%2Bethical%2Bbanking&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=wF7L6CyanHA&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/wF7L6CyanHA/0.jpg"
+        },
         "youtube.com/2013/03/ethical-banking-peter-kelly-unity-trust-bank": {
             "title": "Ethical Banking: Peter Kelly, Unity Trust Bank...",
             "snippet": "Ethical Banking: Peter Kelly, Unity Trust Bank High Street banks have \"a big job on their hands\" as they attempt to change the culture of their organisation, says the Marketing Director for Unity Trust Bank. Peter Kelly, who works for... From:...",
@@ -93,42 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ethical%2Bbanking%2Bethical%2Bbanking&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=6eKbqSkug9w&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/6eKbqSkug9w/0.jpg"
-        },
-        "youtube.com/2012/11/ethical-banking-workshop-ie-social-impact-finance-forum": {
-            "title": "Ethical Banking Workshop - IE Social Impact Finance Forum...",
-            "snippet": "Ethical Banking Workshop - IE Social Impact Finance Forum Ethical Banking Workshop. The Saudi Spanish Center for Economics and Finance recently organized it's Social Impact Finance Forum, to discuss the future of finance and alternative ways of...",
-            "date": "2012-11-26",
-            "author_name": "IEBusinessSchool",
-            "categories": "finance,ethical-banking,banking",
-            "tags": "finance,alternative,center,ethical,ethical_banking,banking",
-            "recuweb_url": "http://en.recuweb.com/banking/youtube.com/2012/11/ethical-banking-workshop-ie-social-impact-finance-forum",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ethical%2Bbanking%2Bethical%2Bbanking&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=0868n4d8R7M&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/0868n4d8R7M/0.jpg"
-        },
-        "dailymotion.com/2012/11/allahs-bankers-islamic-banking-as-an-ethical-alternative": {
-            "title": "Allahs Bankers Islamic Banking as an Ethical Alternative...",
-            "snippet": "Ugurlu Soylu, a bank manager of Turkish descent who lives in Germany, wants to launch an Islamic bank there. But he does not see it as a niche product solely for Muslim customers. He believes that the banking and financial crisis have spurred demand...",
-            "date": "2012-11-07",
-            "author_name": "tvnportal",
-            "categories": "banking",
-            "tags": "believes,banking,banking-and-financial,financial,financial-crisis,crisis,crisis-have-spurred,spurred,spurred-demand,demand,niche,niche-product,niche-product-solely,product,product-solely,solely,bank,wants,wants-to-launch,launch,descent,descent-who-lives,lives,bank-manager,manager,ugurlu,ugurlu_soylu,soylu,ethical,alternative,islamic,islamic_banking,turkish,germany,muslim,customers",
-            "recuweb_url": "http://en.recuweb.com/banking/dailymotion.com/2012/11/allahs-bankers-islamic-banking-as-an-ethical-alternative",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/ethical+banking+ethical+banking/0?af=1",
-            "source_url": "http://dailymotion.com/video/xuwenk_allahs-bankers-islamic-banking-as-an-ethical-alternative_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/xuwenk_allahs-bankers-islamic-banking-as-an-ethical-alternative_news"
-        },
-        "dailymotion.com/2012/11/islamic-banking-as-an-ethical-alternative-made-in-germany": {
-            "title": "Islamic banking as an ethical alternative Made in Germany...",
-            "snippet": "Ugurlu Soylu, a bank manager of Turkish descent who lives in Germany, wants to launch an Islamic bank there. But he does not see it as a niche product solely for Muslim customers. He believes that the banking and financial crisis have spurred demand...",
-            "date": "2012-11-07",
-            "author_name": "DW_English",
-            "categories": "banking",
-            "tags": "believes,banking,banking-and-financial,financial,financial-crisis,crisis,crisis-have-spurred,spurred,spurred-demand,demand,niche,niche-product,niche-product-solely,product,product-solely,solely,bank,wants,wants-to-launch,launch,descent,descent-who-lives,lives,bank-manager,manager,ugurlu,ugurlu_soylu,soylu,ethical,alternative,islamic,germany,turkish,muslim,customers",
-            "recuweb_url": "http://en.recuweb.com/banking/dailymotion.com/2012/11/islamic-banking-as-an-ethical-alternative-made-in-germany",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/ethical+banking+ethical+banking/0?af=1",
-            "source_url": "http://dailymotion.com/video/xuwtjz_islamic-banking-as-an-ethical-alternative-made-in-germany_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/xuwtjz_islamic-banking-as-an-ethical-alternative-made-in-germany_news"
         }
     }
 }
