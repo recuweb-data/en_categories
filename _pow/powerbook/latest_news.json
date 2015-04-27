@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "powerbook",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/powerbook/",
@@ -10,22 +11,52 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/powerbook/powerbook/blogs.json"
     },
     "items": {
-        "macobserver.com/2015/04/when-did-apple-stores-become-showrooms": {
-            "title": "When Did Apple Stores Become Apple Showrooms?",
-            "snippet": "Maybe a program (back when we called them programs) or a new mouse or a bag made to actually fit my new PowerBook G4. So just like the sadness I felt about the iPod Classic being discontinued, having Apple Watches and MacBooks be available to look...",
-            "date": "2015-04-15",
-            "categories": "ipod,powerbook,macbook",
-            "tags": "look,classic,back,did,apple,powerbook",
-            "recuweb_url": "http://en.recuweb.com/macbook/macobserver.com/2015/04/when-did-apple-stores-become-showrooms",
+        "time.com/2015/04/here-s-how-much-it-costs-to-be-an-apple-early": {
+            "title": "Here's How Much It Costs to Be an Apple Early Adopter - TIME...",
+            "snippet": "TIMEHere's How Much It Costs to Be an Apple Early AdopterTIMEI didn't consider the Macbook and Macbook Pro to be new products because both were extensions of a previous product linethe iBook and Powerbook, respectivelyand launched at the same price...",
+            "date": "2015-04-24",
+            "categories": "macbook,powerbook",
+            "tags": "pro,products,previous,apple,here,macbook,ibook,powerbook",
+            "recuweb_url": "http://en.recuweb.com/powerbook/time.com/2015/04/here-s-how-much-it-costs-to-be-an-apple-early",
+            "resource_url": "http://news.google.com/?hl=en&q=powerbook&output=atom&nord=1",
+            "source_url": "http://time.com/money/3828674/the-cost-of-being-an-apple-early-adopter/"
+        },
+        "cio.com/2015/04/a-clean-install-might-fix-lingering-os-x-yosemite-problems": {
+            "title": "A clean install might fix lingering OS X Yosemite problems...",
+            "snippet": "IfUHadAZuneIHateYou: \"Animation speed is still really awful. My Mac Pro (16GB/6 core) with Yosemite is substantially slower for basic tasks, most noticeably Expos\u00e9, than my PowerBook G4 with Leopard.\" CraigFL: \"The only real bug that I see on a...",
+            "date": "2015-04-23",
+            "categories": "powerbook",
+            "tags": "only,mac,pro,install,powerbook,leopard",
+            "recuweb_url": "http://en.recuweb.com/powerbook/cio.com/2015/04/a-clean-install-might-fix-lingering-os-x-yosemite-problems",
             "resource_url": "http://www.bing.com/news/search?first=1&q=powerbook&format=RSS&cc=us",
-            "source_url": "http://macobserver.com/tmo/article/when-did-apple-stores-become-apple-showrooms"
+            "source_url": "http://cio.com/article/2913999/apple-os/a-clean-install-might-fix-lingering-os-x-yosemite-problems.html"
+        },
+        "latimes.com/2015/04/jason-chung-shows-there-s-no-such-thing-as-giving-up": {
+            "title": "Jason Chung shows there's no such thing as giving up...",
+            "snippet": "Chung, 30, lost everything. And not just his live set-up and the PowerBook loaded with tracks that in performance he harnesses to build syrupy, bass-heavy electronic meditations. More crucially, the thieves stole Chung's backup hard drive containing...",
+            "date": "2015-04-23",
+            "categories": "meditation,powerbook",
+            "tags": "hard,hard-drive,drive,powerbook",
+            "recuweb_url": "http://en.recuweb.com/powerbook/latimes.com/2015/04/jason-chung-shows-there-s-no-such-thing-as-giving-up",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=powerbook&format=RSS&cc=us",
+            "source_url": "http://latimes.com/entertainment/music/la-et-ca-ms-nosaj-thing-jason-chung-review-20150424-column.html"
+        },
+        "zdnet.com/2015/04/refreshed-macbook-pro-stunningly-fast-storage-spooky-touchpad-delightful-zdnet": {
+            "title": "Refreshed MacBook Pro: Stunningly fast storage, spooky touchpad, delightful... - ZDNet...",
+            "snippet": "ZDNetRefreshed MacBook Pro: Stunningly fast storage, spooky touchpad, delightful...ZDNetPowerBook 150, circa 1994 - Image: Dana Sibera CC BY-SA 2.5 Here's an admission: this is the first Mac laptop I've had since my 1994 PowerBook 150. We were a...",
+            "date": "2015-04-21",
+            "categories": "macbook,powerbook",
+            "tags": "macbook,macbook_pro,pro,here,mac,laptop,powerbook",
+            "recuweb_url": "http://en.recuweb.com/powerbook/zdnet.com/2015/04/refreshed-macbook-pro-stunningly-fast-storage-spooky-touchpad-delightful-zdnet",
+            "resource_url": "http://news.google.com/?hl=en&q=powerbook&output=atom&nord=1",
+            "source_url": "http://zdnet.com/article/refreshed-macbook-pro-stunningly-fast-storage-spooky-touchpad-delightful-display/"
         },
         "foxnews.com/2015/04/apple-watch-another-jony-ive-design-triumph": {
             "title": "Apple Watch: Another Jony Ive design triumph?",
             "snippet": "But that just turned it into a cult classic. And its been revered ever since. MacBook Air and Titanium PowerBook G4 The MacBook Air (2008) has influenced laptop design more than any single portable in the last seven years. At the time, it was a...",
             "date": "2015-04-14",
             "categories": "powerbook,macbook",
-            "tags": "laptop,than,last,years,powerbook,macbook,into,classic,another,apple",
+            "tags": "laptop,powerbook,macbook,macbook_air,air,another,apple",
             "recuweb_url": "http://en.recuweb.com/macbook/foxnews.com/2015/04/apple-watch-another-jony-ive-design-triumph",
             "resource_url": "http://www.bing.com/news/search?first=1&q=powerbook&format=RSS&cc=us",
             "source_url": "http://foxnews.com/tech/2015/04/14/apple-watch-another-jony-ive-design-triumph/"
@@ -34,66 +65,17 @@
             "title": "Leyla Aliyeva joins presentation of Formula of Power book - AzerNews...",
             "snippet": "AzerNewsLeyla Aliyeva joins presentation of Formula of Power bookAzerNewsThe third volume of Formula of Power and 65 more interviews book by First Deputy Director General of Russian TASS news agency and well-known journalist, Mikhail Gusman has been...",
             "date": "2015-04-13",
-            "tags": "first,book,power,well",
+            "tags": "power,well",
             "recuweb_url": "http://en.recuweb.com/azernews.az/2015/04/leyla-aliyeva-joins-presentation-of-formula-power-book-azernews",
-            "resource_url": "http://news.google.com/?hl=en&q=powerbook%2Bpowerbook&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=powerbook&output=atom&nord=1",
             "source_url": "http://azernews.az/culture/80333.html"
-        },
-        "christianpost.com/2015/04/it-s-time-to-learn-about-genocide-20-things": {
-            "title": "It's Time to Learn About Genocide: 20 Things You Can Do - Christian Post...",
-            "snippet": "It's Time to Learn About Genocide: 20 Things You Can DoChristian PostRead a book about genocide, such as Genocide: A Comprehensive Introduction by Adam Jones, or read about past U.S. response to genocide in Samantha Power's book A Problem From Hell:...",
-            "date": "2015-04-11",
-            "tags": "book,power,hell",
-            "recuweb_url": "http://en.recuweb.com/christianpost.com/2015/04/it-s-time-to-learn-about-genocide-20-things",
-            "resource_url": "http://news.google.com/?hl=en&q=powerbook%2Bpowerbook&output=atom&nord=1",
-            "source_url": "http://christianpost.com/news/its-time-to-learn-about-genocide-20-things-you-can-do-137588/"
-        },
-        "technologytell.com/2015/04/ios-8-bugs-continue-ipads-stuck-in-grayscale-mode": {
-            "title": "iOS 8 bugs continue iPads stuck in grayscale mode...",
-            "snippet": "I said OK. The install seemed to go smoothly enough, but upon rebooting into 8.3, the display spontaneously went into grayscale mode, and I was back to the 16 grays on a 9-inch screen world in which I lived with my old PowerBook 5300 when we first...",
-            "date": "2015-04-11",
-            "categories": "ipad,powerbook",
-            "tags": "first,old,inch,screen,back,went,into,install,powerbook",
-            "recuweb_url": "http://en.recuweb.com/powerbook/technologytell.com/2015/04/ios-8-bugs-continue-ipads-stuck-in-grayscale-mode",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=powerbook&format=RSS&cc=us",
-            "source_url": "http://technologytell.com/apple/148815/ios-8-bugs-continue-ipad-ios-8-3-upgrade-gets-stuck-in-grayscale-mode"
-        },
-        "csmonitor.com/2015/04/new-macbook-review-roundup-ahead-of-its-time": {
-            "title": "New MacBook review roundup: Ahead of its time?",
-            "snippet": "At its Spring Forward media event last month, Apple announced a new vision for its MacBook laptop: a thinner screen, brand-new trackpad, edge-to-edge keyboard (a feature which hasnt been present on a Mac laptop since the PowerBook G4 released a...",
-            "date": "2015-04-10",
-            "categories": "macbook,powerbook",
-            "tags": "laptop,keyboard,screen,last,macbook,apple,mac,powerbook",
-            "recuweb_url": "http://en.recuweb.com/powerbook/csmonitor.com/2015/04/new-macbook-review-roundup-ahead-of-its-time",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=powerbook&format=RSS&cc=us",
-            "source_url": "http://csmonitor.com/Technology/2015/0410/New-MacBook-review-roundup-Ahead-of-its-time"
-        },
-        "pcmag.com/2015/04/apple-macbook-2015-pc-magazine": {
-            "title": "Apple MacBook (2015) - PC Magazine...",
-            "snippet": "TIMEApple MacBook (2015)PC MagazineEver since the PowerBook G4 went away almost 10 years ago, Apple fans have clamored for a premium laptop that emphasizes portability, but still has the computing power of a full-size Mac. The new Apple MacBook...",
-            "date": "2015-04-09",
-            "categories": "macbook,powerbook",
-            "tags": "power,laptop,years,went,macbook,apple,apple_macbook,powerbook,mac",
-            "recuweb_url": "http://en.recuweb.com/powerbook/pcmag.com/2015/04/apple-macbook-2015-pc-magazine",
-            "resource_url": "http://news.google.com/?hl=en&q=powerbook%2Bpowerbook&output=atom&nord=1",
-            "source_url": "http://pcmag.com/article2/0,2817,2480491,00.asp"
-        },
-        "businessinsider.com/2015/04/apple-s-new-super-thin-macbook-may-be-a-bad-deal": {
-            "title": "Apple's new super-thin MacBook may be a bad deal now, but just wait...",
-            "snippet": "When I was in college I did some major damage to my old PowerBook when I tripped over its charging cord. I have a feeling there will be more than a few damaged USB C chargers from new MacBook owners. USB C charging feels like a step backward. But...",
-            "date": "2015-04-09",
-            "categories": "college,macbook,powerbook",
-            "tags": "than,did,major,old,apple,macbook,powerbook",
-            "recuweb_url": "http://en.recuweb.com/powerbook/businessinsider.com/2015/04/apple-s-new-super-thin-macbook-may-be-a-bad-deal",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=powerbook&format=RSS&cc=us",
-            "source_url": "http://businessinsider.com/new-macbook-2015-4"
         },
         "geek.com/2015/04/2015-macbook-vs-2005-powerbook-g4-what-a-difference-decade-makes": {
             "title": "2015 MacBook vs. 2005 PowerBook G4: what a difference a decade makes...",
             "snippet": "Apple is a company all about regularly scheduled iteration and improvements to its products. You only have to look at how the iPhone has evolved over the years as proof of this. But Apple has also been steadily improving what its laptops can do in...",
             "date": "2015-04-06",
             "categories": "macbook,powerbook,iphone",
-            "tags": "years,look,macbook,powerbook,apple",
+            "tags": "only,look,products,macbook,powerbook,apple",
             "recuweb_url": "http://en.recuweb.com/iphone/geek.com/2015/04/2015-macbook-vs-2005-powerbook-g4-what-a-difference-decade-makes",
             "resource_url": "http://www.bing.com/news/search?first=1&q=powerbook&format=RSS&cc=us",
             "source_url": "http://geek.com/apple/2015-macbook-vs-2005-powerbook-g4-what-a-difference-a-decade-makes-1619614/"
@@ -103,10 +85,30 @@
             "snippet": "MacworldOde to the 12-inch PowerBook G4, Apple's first desktop-quality laptopMacworldAt its best, Apple has the ability to make stuff that reaches right around the rational, pragmatic part of your brain to grab your amygdala and squeeze it till the...",
             "date": "2015-03-25",
             "categories": "powerbook",
-            "tags": "laptop,first,inch,powerbook,apple,macworld",
+            "tags": "laptop,powerbook,apple,macworld",
             "recuweb_url": "http://en.recuweb.com/powerbook/macworld.com/2015/03/ode-to-the-12-inch-powerbook-g4-apple-s-first-desktop",
-            "resource_url": "http://news.google.com/?hl=en&q=powerbook%2Bpowerbook&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=powerbook&output=atom&nord=1",
             "source_url": "http://macworld.com/article/2901437/ode-to-the-12-inch-powerbook-g4-apples-first-desktop-quality-laptop.html"
+        },
+        "macworld.com/2015/03/the-new-macbook-is-cool-but-powerbook-duo-was-cooler-macworld": {
+            "title": "The new MacBook is cool, but the PowerBook Duo was cooler - Macworld...",
+            "snippet": "MacworldThe new MacBook is cool, but the PowerBook Duo was coolerMacworldWith all the excitement last week over the new MacBook, it seems only right and proper that today Think Retro turns its attention to Apple's original superlight laptop, the...",
+            "date": "2015-03-18",
+            "categories": "powerbook,macbook",
+            "tags": "laptop,only,powerbook,macbook,macworld,apple",
+            "recuweb_url": "http://en.recuweb.com/macbook/macworld.com/2015/03/the-new-macbook-is-cool-but-powerbook-duo-was-cooler-macworld",
+            "resource_url": "http://news.google.com/?hl=en&q=powerbook&output=atom&nord=1",
+            "source_url": "http://macworld.com/article/2897715/the-new-macbook-is-cool-but-the-powerbook-duo-was-cooler.html"
+        },
+        "macworld.com/2015/01/three-cheers-for-the-delightfully-personal-powerbook-1400": {
+            "title": "Three cheers for the delightfully personal PowerBook 1400...",
+            "snippet": "In its recent ad for the MacBook Air, Apple demonstrated how much people loved it by showing the ways in which people had personalized theirs with stickers. And although my current 2008 MacBook Pro is stickerless, my previous MacBook and iBook were...",
+            "date": "2015-01-22",
+            "categories": "macbook,powerbook",
+            "tags": "previous,macbook,macbook_pro,pro,macbook_air,air,powerbook,apple,ibook",
+            "recuweb_url": "http://en.recuweb.com/powerbook/macworld.com/2015/01/three-cheers-for-the-delightfully-personal-powerbook-1400",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=powerbook&format=RSS&cc=us",
+            "source_url": "http://macworld.com/article/2872814/three-cheers-for-the-delightfully-personal-powerbook-1400-with-bookcover.html"
         }
     }
 }
