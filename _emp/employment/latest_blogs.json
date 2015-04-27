@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "employment",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/employment/",
@@ -10,71 +11,93 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/employment/employment/blogs.json"
     },
     "items": {
-        "wnd.com/2015/04/america-s-job-divide-young-vs-old": {
-            "title": "America's job divide: Young vs. old...",
-            "snippet": "The truth about employment statistics is ugly when laid out in black and white. Last month, the U.S. economy added a mere 126,000 jobs, the weakest growth in more than a year. These were disappointing numbers.",
+        "timsackett.com/2015/04/how-do-you-turn-around-a-crappy-employment-brand-the-tim": {
+            "title": "How Do You Turn Around a Crappy Employment Brand? The Tim...",
+            "snippet": "I get two questions more than any others since I started blogging in HR and Talent over six years ago: 1. What ATS do you use? 2. How can we turn around our bad employment brand? (You can also replace brand with...",
+            "date": "2015-04-27",
+            "author_name": "Tim Sackett",
+            "categories": "employment",
+            "tags": "employment",
+            "recuweb_url": "http://en.recuweb.com/employment/timsackett.com/2015/04/how-do-you-turn-around-a-crappy-employment-brand-the-tim",
+            "resource_url": "http://www.google.com/search?q=employment%2Bemployment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://timsackett.com/2015/04/27/how-do-you-turn-around-a-crappy-employment-brand/"
+        },
+        "businessinsider.com/2015/04/employment-cost-index-baml-outlook-business-insider": {
+            "title": "Employment cost index BAML outlook - Business Insider...",
+            "snippet": "On Thursday morning, the employment cost index, or ECI, for the first quarter will be released. Unlike the average hourly earnings number released in the monthly jobs report, the ECI is a more comprehensive measure of...",
+            "date": "2015-04-26",
+            "author_name": "Myles Udland",
+            "categories": "business,employment",
+            "tags": "measure,monthly,jobs,report,business,cost,cost-index,index,employment,thursday,eci,released",
+            "recuweb_url": "http://en.recuweb.com/employment/businessinsider.com/2015/04/employment-cost-index-baml-outlook-business-insider",
+            "resource_url": "http://www.google.com/search?q=employment%2Bemployment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://businessinsider.com/employment-cost-index-baml-outlook-2015-4"
+        },
+        "bizbeatblog.dallasnews.com/2015/04/dallas-fed-lowers-its-forecast-again-for-texas-employment-to-grow": {
+            "title": "Dallas Fed lowers its forecast again for Texas employment to grow...",
+            "snippet": "The Federal Reserve Bank of Dallas has lowered its forecast again for Texas'job growth this year as it expects the slowness seen in the first three months to continue through the rest of this year. Mine Y\u00fccel, director of...",
+            "date": "2015-04-23",
+            "author_name": "Sheryl Jean",
+            "categories": "employment",
+            "tags": "job,job-growth,growth,months,federal,grow,fed,texas,employment",
+            "recuweb_url": "http://en.recuweb.com/employment/bizbeatblog.dallasnews.com/2015/04/dallas-fed-lowers-its-forecast-again-for-texas-employment-to-grow",
+            "resource_url": "http://www.google.com/search?q=employment%2Bemployment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://bizbeatblog.dallasnews.com/2015/04/dallas-fed-lowers-its-forecast-again-for-texas-employment-to-grow-0-5-to-1-5-this-year.html/"
+        },
+        "wnep.com/2015/04/employment-expo-2015": {
+            "title": "Employment Expo 2015...",
+            "snippet": "WILKES-BARRE TOWNSHIP Get ready to hear you're hired if you're on the hunt for a new job in our area. Newswatch 16's Ryan Leckey had a preview of Employment Expo 2015 which kicked off Tuesday.",
+            "date": "2015-04-21",
+            "author_name": "Raquel Ciampi",
+            "categories": "employment",
+            "tags": "kicked,kicked-off,off,pre,job,area,ready,employment,expo,tuesday",
+            "recuweb_url": "http://en.recuweb.com/employment/wnep.com/2015/04/employment-expo-2015",
+            "resource_url": "http://www.google.com/search?q=employment%2Bemployment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://wnep.com/2015/04/21/employment-expo-2015/"
+        },
+        "seekingalpha.com/2015/04/u-k-employment-surges-to-all-time-high-but-weak-pay": {
+            "title": "U.K. Employment Surges To All-Time High, But Weak Pay Growth...",
+            "snippet": "Employment has surged to an all-time high, and the unemployment rate has slipped to a near seven-year low, adding further evidence to suggest that the UK economy continued to grow strongly in the opening months of 2015...",
+            "date": "2015-04-19",
+            "author_name": "SeekingAlpha.com",
+            "categories": "economy,evidence,employment,unemployment",
+            "tags": "grow,months,rate,pay,growth,employment,unemployment",
+            "recuweb_url": "http://en.recuweb.com/unemployment/seekingalpha.com/2015/04/u-k-employment-surges-to-all-time-high-but-weak-pay",
+            "resource_url": "http://www.google.com/search?q=employment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://seekingalpha.com/article/3079926-u-k-employment-surges-to-all-time-high-but-weak-pay-growth-remains-a-concern"
+        },
+        "calculatedriskblog.com/2015/04/calculated-risk-lawler-texas-employment-declines-housing": {
+            "title": "Calculated Risk: Lawler: Texas Employment Declines (Housing...",
+            "snippet": "The Texas Workforce Commission reported that non-farm payroll employment in the Lone Star State declined by 25,400 (or%) on a seasonally adjust basis in March, the first monthly decline since September 2009 and...",
+            "date": "2015-04-17",
+            "author_name": "Bill McBride",
+            "categories": "employment,housing",
+            "tags": "monthly,state,texas,workforce,commission,employment,housing",
+            "recuweb_url": "http://en.recuweb.com/housing/calculatedriskblog.com/2015/04/calculated-risk-lawler-texas-employment-declines-housing",
+            "resource_url": "http://www.google.com/search?q=employment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://calculatedriskblog.com/2015/04/lawler-texas-employment-declines.html"
+        },
+        "federalregister.gov/2015/04/state-supported-employment-services-program-federal-register": {
+            "title": "State Supported Employment Services Program - Federal Register...",
+            "snippet": "The Secretary proposes to amend the regulations governing the State Vocational Rehabilitation Services program and the State Supported Employment Services program in order to implement changes to the Rehabilitation...",
+            "date": "2015-04-16",
+            "author_name": "Education Department",
+            "categories": "employment",
+            "tags": "state,supported,employment,federal,secretary",
+            "recuweb_url": "http://en.recuweb.com/employment/federalregister.gov/2015/04/state-supported-employment-services-program-federal-register",
+            "resource_url": "http://www.google.com/search?q=employment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://federalregister.gov/articles/2015/04/16/2015-05538/state-vocational-rehabilitation-services-program-state-supported-employment-services-program"
+        },
+        "disabilityscoop.com/2015/04/states-offered-15-million-to-spur-disability-employment": {
+            "title": "States Offered 15 Million To Spur Disability Employment - Disability...",
+            "snippet": "U.S. Secretary of Labor Thomas Perez said that new funding his agency is making available to states will help improve training opportunities for people with disabilities seeking employment. (U.S. Department of Labor/Flickr).",
             "date": "2015-04-15",
-            "author_name": "-NO AUTHOR-",
-            "categories": "employment,economy",
-            "tags": "numbers,growth,than,year,job,employment,month,economy,jobs",
-            "recuweb_url": "http://en.recuweb.com/economy/wnd.com/2015/04/america-s-job-divide-young-vs-old",
+            "author_name": "Shaun Heasley",
+            "categories": "disability,employment,flickr",
+            "tags": "opportunities,said,agency,states,labor,employment,secretary,training,people,disabilities,department",
+            "recuweb_url": "http://en.recuweb.com/flickr/disabilityscoop.com/2015/04/states-offered-15-million-to-spur-disability-employment",
             "resource_url": "http://www.google.com/search?q=employment%2Bemployment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://wnd.com/2015/04/americas-job-divide-young-vs-old/"
-        },
-        "forexcrunch.com/2015/04/aud-usd-trading-the-australian-employment-change-forex-crunch": {
-            "title": "AUD/USD: Trading the Australian Employment Change Forex Crunch...",
-            "snippet": "Australian Employment Change, which is released monthly, provides a snapshot of the strength of the Australian labor market. A reading which is higher than the.",
-            "date": "2015-04-14",
-            "author_name": "Kenny Fisher",
-            "categories": "employment",
-            "tags": "than,labor,labor-market,market,provides,strength,employment,released",
-            "recuweb_url": "http://en.recuweb.com/employment/forexcrunch.com/2015/04/aud-usd-trading-the-australian-employment-change-forex-crunch",
-            "resource_url": "http://www.google.com/search?q=employment%2Bemployment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://forexcrunch.com/audusd-trading-the-australian-employment-change-32/"
-        },
-        "disabled-world.com/2015/04/ny-direct-access-&-housing-employment-application-for-people": {
-            "title": "NY Direct Access & Housing Employment Application for People...",
-            "snippet": "Brief Synopsis: Housing and employment database to identify housing and employment vacancies directly to the recipient of services. Document Details: Special Citizens Futures Unlimited, Inc. (SCFU) is proud to announce...",
-            "date": "2015-04-14",
-            "author_name": "unknown",
-            "categories": "database,housing,employment",
-            "tags": "employment,people,inc",
-            "recuweb_url": "http://en.recuweb.com/employment/disabled-world.com/2015/04/ny-direct-access-&-housing-employment-application-for-people",
-            "resource_url": "http://www.google.com/search?q=employment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://disabled-world.com/disability/housing/direct-access.php"
-        },
-        "blogs.wsj.com/2015/04/taxes-on-employment-continue-to-rise-real-time-economics-wsj": {
-            "title": "Taxes on Employment Continue to Rise - Real Time Economics - WSJ...",
-            "snippet": "Governments in developed economies raised taxes on employment for the fourth straight year in 2014, although at a slower pace, as they strove to cut their budget deficits without doing too much harm to economic and jobs...",
-            "date": "2015-04-14",
-            "author_name": "Paul Hannon",
-            "categories": "taxes,employment",
-            "tags": "jobs,year,employment",
-            "recuweb_url": "http://en.recuweb.com/employment/blogs.wsj.com/2015/04/taxes-on-employment-continue-to-rise-real-time-economics-wsj",
-            "resource_url": "http://www.google.com/search?q=employment%2Bemployment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogs.wsj.com/economics/2015/04/14/taxes-on-employment-continue-to-rise/"
-        },
-        "iine.us/2015/04/employment-and-training-specialist-international-institute-of-new": {
-            "title": "Employment and Training Specialist International Institute of New...",
-            "snippet": "The International Institute of New England is a dynamic, forward-looking, smart and rapidly growing non-profit organization. We seek well-qualified, solutions-focused candidates who are experts in their respective fields.",
-            "date": "2015-04-13",
-            "author_name": "Development Staff",
-            "categories": "institute,employment",
-            "tags": "organization,growing,training,employment",
-            "recuweb_url": "http://en.recuweb.com/employment/iine.us/2015/04/employment-and-training-specialist-international-institute-of-new",
-            "resource_url": "http://www.google.com/search?q=employment%2Bemployment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://iine.us/2015/04/job-posting-employment-and-training-specialist-boston-ma/"
-        },
-        "whaleoil.co.nz/2015/04/dotcom-s-employment-antics-being-revealed-in-court-whale-oil": {
-            "title": "Dotcom's employment antics being revealed in court - Whale Oil...",
-            "snippet": "Dotcom's employment antics being revealed in court. by Cameron Slater on April 14, 2015 at 10:00am. Remember way back when I said that staff of the Dotcom's were being ripped off and paid less than the minimum wage? What readers...",
-            "date": "2015-04-13",
-            "author_name": "Cameron Slater",
-            "categories": "employment",
-            "tags": "paid,than,back,employment",
-            "recuweb_url": "http://en.recuweb.com/employment/whaleoil.co.nz/2015/04/dotcom-s-employment-antics-being-revealed-in-court-whale-oil",
-            "resource_url": "http://www.google.com/search?q=employment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://whaleoil.co.nz/2015/04/dotcoms-employment-antics-being-revealed-in-court/"
+            "source_url": "http://disabilityscoop.com/2015/04/15/states-spur-employment/20218/"
         },
         "realclearmarkets.com/2015/04/the-unemployment-rate-doesn-t-measure-labor-market-strength": {
             "title": "The Unemployment Rate Doesn't Measure Labor Market Strength...",
@@ -82,43 +105,21 @@
             "date": "2015-04-12",
             "author_name": "Jeffrey Dorfman",
             "categories": "health,unemployment,policy",
-            "tags": "month,searching,best,health,strength,labor,market,because,data,unemployment,rate,policy",
+            "tags": "labor,measure,unemployment,rate,data",
             "recuweb_url": "http://en.recuweb.com/policy/realclearmarkets.com/2015/04/the-unemployment-rate-doesn-t-measure-labor-market-strength",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=employment%2Bemployment&rss=1&lng=en",
             "source_url": "http://realclearmarkets.com/articles/2015/04/13/the_unemployment_rate_doesnt_measure_labor_market_strength_101619.html"
         },
-        "sltrib.com/2015/04/no-utah-employment-violations-cited-but-dabc-employees-say": {
-            "title": "No Utah employment violations cited, but DABC employees say...",
-            "snippet": "Still, DABC critics and outraged customers say the treatment of the 20-year-veteran employee is another blow for state liquor-store workers who for years have endured low pay and poor morale. \"We are aware of the concerns...",
-            "date": "2015-04-10",
-            "author_name": "unknown",
-            "categories": "employment",
-            "tags": "poor,employee,say,employment,years,state",
-            "recuweb_url": "http://en.recuweb.com/employment/sltrib.com/2015/04/no-utah-employment-violations-cited-but-dabc-employees-say",
-            "resource_url": "http://www.google.com/search?q=employment%2Bemployment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://sltrib.com/home/2377620-155/no-utah-employment-violations-cited-but"
-        },
-        "statcan.gc.ca/2015/04/the-daily-labour-force-survey-march-2015": {
-            "title": "The Daily Labour Force Survey, March 2015...",
-            "snippet": "Employment increased by 29,000 in March, driven by gains in part-time work. The unemployment rate was unchanged at 6.8%. Over the first quarter, employment gains totalled 63,000 (0.4%), the result of more part-time work...",
-            "date": "2015-04-10",
-            "author_name": "unknown",
+        "whitehouse.gov/2015/04/the-employment-situation-in-march-white-house": {
+            "title": "The Employment Situation in March The White House...",
+            "snippet": "The March employment report reflects a pace of monthly job growth below the recent trend, coming on the heels of February's strong report. The unemployment rate was stable, broader measures of unemployment fell, and...",
+            "date": "2015-04-03",
+            "author_name": "Jason Furman",
             "categories": "employment,unemployment",
-            "tags": "force,employment,unemployment,rate",
-            "recuweb_url": "http://en.recuweb.com/unemployment/statcan.gc.ca/2015/04/the-daily-labour-force-survey-march-2015",
+            "tags": "rate,report,monthly,job,job-growth,growth,employment,unemployment",
+            "recuweb_url": "http://en.recuweb.com/unemployment/whitehouse.gov/2015/04/the-employment-situation-in-march-white-house",
             "resource_url": "http://www.google.com/search?q=employment%2Bemployment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://statcan.gc.ca/daily-quotidien/150410/dq150410a-eng.htm?HPA"
-        },
-        "wpri.com/2015/04/study-ri-still-lagging-other-states-in-employment": {
-            "title": "Study: RI still lagging other states in employment...",
-            "snippet": "Although unemployment figures receive more media attention, the employment rate is a preferred index for many economists because it provides a sharper picture of changes in the labor market, Jeff Chapman and Julie...",
-            "date": "2015-04-07",
-            "author_name": "Ted Nesi",
-            "categories": "employment,unemployment",
-            "tags": "many,because,provides,labor,labor-market,market,states,employment,unemployment,rate",
-            "recuweb_url": "http://en.recuweb.com/unemployment/wpri.com/2015/04/study-ri-still-lagging-other-states-in-employment",
-            "resource_url": "http://www.google.com/search?q=employment&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://wpri.com/2015/04/07/study-ri-still-lagging-other-states-in-employment/"
+            "source_url": "http://whitehouse.gov/blog/2015/04/03/employment-situation-march"
         }
     }
 }
