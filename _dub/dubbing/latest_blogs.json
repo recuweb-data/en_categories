@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "dubbing",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/dubbing/",
@@ -10,37 +11,92 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/dubbing/dubbing/blogs.json"
     },
     "items": {
+        "gizmag.com/2015/04/disney-tech-may-lead-to-better-dubbing-of-foreign-films-gizmag": {
+            "title": "Disney tech may lead to better dubbing of foreign films - Gizmag...",
+            "snippet": "A team from Disney Research Pittsburgh and the University of East Anglia has developed a system that could make the dubbing of foreign-language films easier...",
+            "date": "2015-04-22",
+            "author_name": "Ben Coxworth",
+            "categories": "films,dubbing,university",
+            "tags": "language,films,research,lead,better,disney,dubbing",
+            "recuweb_url": "http://en.recuweb.com/university/gizmag.com/2015/04/disney-tech-may-lead-to-better-dubbing-of-foreign-films-gizmag",
+            "resource_url": "http://www.google.com/search?q=dubbing%2Bdubbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://gizmag.com/disney-dynamic-viseme-dubbing/37133/"
+        },
+        "spectrum.ieee.org/2015/04/disney-does-better-dubbing-ieee-spectrum": {
+            "title": "Disney Does Better Dubbing - IEEE Spectrum...",
+            "snippet": "They relied on the extreme level of ambiguity inherent in reading lips to increase the number of word possibilities that dubbing could place in people's mouths. The scientists will present their findings on 23 April at the IEEE...",
+            "date": "2015-04-21",
+            "author_name": "Charles Q. Choi",
+            "categories": "ambiguity,dubbing",
+            "tags": "reading,number,disney,better,dubbing,people",
+            "recuweb_url": "http://en.recuweb.com/dubbing/spectrum.ieee.org/2015/04/disney-does-better-dubbing-ieee-spectrum",
+            "resource_url": "http://www.google.com/search?q=dubbing%2Bdubbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://spectrum.ieee.org/tech-talk/consumer-electronics/audiovideo/disney-makes-better-dubbing"
+        },
+        "ubergizmo.com/2015/04/disney-research-finds-a-way-to-make-dubbing-more-believable": {
+            "title": "Disney Research Finds A Way To Make Dubbing More Believable...",
+            "snippet": "How often have we seen movies, TV shows, and music videos in an attempt to be more PG-friendly have certain words censored, muted, or dubbed over? While it probably won't affect the story much in general, it does make it...",
+            "date": "2015-04-21",
+            "author_name": "Tyler Lee",
+            "categories": "music,music-video,dubbing",
+            "tags": "dubbed,certain,music,movies,disney,research,way,dubbing",
+            "recuweb_url": "http://en.recuweb.com/dubbing/ubergizmo.com/2015/04/disney-research-finds-a-way-to-make-dubbing-more-believable",
+            "resource_url": "http://www.google.com/search?q=dubbing%2Bdubbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ubergizmo.com/2015/04/disney-research-finds-a-way-to-make-dubbing-more-believable/"
+        },
+        "ladunliadinews.com/2015/04/piracy-let-s-burn-down-dubbing-studios-shops-hunt-hawkers": {
+            "title": "Piracy: Let's Burn Down Dubbing Studios, Shops, Hunt Hawkers...",
+            "snippet": "\"WE MAY NOT ACTUALLY KILL ANYBODY LIKE IN MEXICO BUT WE CAN BURN DOWN DUBBING STUDIOS,SHOPS AND MAIMING HAWKERS ON THE STREET, MAYBE THAT WILL MAKE THE GOVERNMENT FEEL...",
+            "date": "2015-04-21",
+            "author_name": "Ladun Liadi",
+            "categories": "dubbing",
+            "tags": "shops,dubbing",
+            "recuweb_url": "http://en.recuweb.com/dubbing/ladunliadinews.com/2015/04/piracy-let-s-burn-down-dubbing-studios-shops-hunt-hawkers",
+            "resource_url": "http://www.google.com/search?q=dubbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ladunliadinews.com/2015/04/piracy-lets-burn-down-dubbing-studios.html"
+        },
+        "christy-media.com/2015/04/dubbing-and-servicing-coordinator-job-3826-christy-media-solutions": {
+            "title": "Dubbing and Servicing Coordinator job 3826 Christy Media Solutions...",
+            "snippet": "Job Details. We have an exciting 3 month fixed term contract opportunity available for an experienced Dubbing and Servicing Coordinator to join an international television broadcaster based in London. This role will require you to work to tight...",
+            "date": "2015-04-20",
+            "author_name": "autoposter",
+            "categories": "television,dubbing",
+            "tags": "role,international,dubbing,work",
+            "recuweb_url": "http://en.recuweb.com/dubbing/christy-media.com/2015/04/dubbing-and-servicing-coordinator-job-3826-christy-media-solutions",
+            "resource_url": "http://www.google.com/search?q=dubbing%2Bdubbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://christy-media.com/dubbing-and-servicing-coordinator/"
+        },
+        "linguisticator.com/2015/04/linguisticator-a-bit-more-on-subtitling-vs-dubbing": {
+            "title": "Linguisticator A Bit More on Subtitling vs. Dubbing...",
+            "snippet": "Following on from a recent post on subtitling and dubbing, I wanted to share something one of our users sent me in response to the previous post. Curious about the disconnect between subtitling and dubbing, he did some...",
+            "date": "2015-04-20",
+            "author_name": "Aaron Ralby",
+            "categories": "subtitling,dubbing",
+            "tags": "did,dubbing",
+            "recuweb_url": "http://en.recuweb.com/dubbing/linguisticator.com/2015/04/linguisticator-a-bit-more-on-subtitling-vs-dubbing",
+            "resource_url": "http://www.google.com/search?q=dubbing%2Bdubbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://linguisticator.com/a-bit-more-on-subtitling-vs-dubbing/"
+        },
         "reddit.com/2015/03/this-is-what-happens-when-you-give-an-anime-to": {
             "title": "This is what happens when you give an Anime to a Dubbing Studio and tell them they can do whatever...",
             "snippet": "This is what happens when you give an Anime to a Dubbing Studio and tell them they can do whatever...",
             "date": "2015-03-21",
             "categories": "dubbing",
-            "tags": "dubbing",
+            "tags": "dubbing,studio",
             "recuweb_url": "http://en.recuweb.com/dubbing/reddit.com/2015/03/this-is-what-happens-when-you-give-an-anime-to",
             "resource_url": "http://www.reddit.com/search.rss?q=dubbing%2Bdubbing&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/videos/comments/2ztz2b/this_is_what_happens_when_you_give_an_anime_to_a/"
         },
-        "thebiglead.com/2015/03/ric-flair-dubbed-over-in-spanish-is-exquisite-the-big-lead": {
-            "title": "Ric Flair Dubbed Over in Spanish Is Exquisite The Big Lead...",
-            "snippet": "The best wrestlers are the ones whose real life personas are merged with their characters such that there's no kayfabe to break, and Flair was most certainly like that. In this dubbing, it doesn't even matter what the translation...",
-            "date": "2015-03-12",
-            "author_name": "Ryan Glasspiegel",
-            "categories": "life,dubbing",
-            "tags": "even,best,life,lead,dubbed,dubbing",
-            "recuweb_url": "http://en.recuweb.com/dubbing/thebiglead.com/2015/03/ric-flair-dubbed-over-in-spanish-is-exquisite-the-big-lead",
+        "theguardian.com/2015/03/we-have-ways-of-making-you-talk-how-films-survive": {
+            "title": "We have ways of making you talk: how films survive the dubbing...",
+            "snippet": "To appreciate just how tricky dubbing is, you have to see it done badly as I did when I went to see Selma. In all fairness, it is a very speech-heavy film, which makes it harder to dub, and Martin Luther King's vocal cadences...",
+            "date": "2015-03-19",
+            "author_name": "Fred Wagner",
+            "categories": "films,dubbing",
+            "tags": "dub,did,films,film,making,dubbing",
+            "recuweb_url": "http://en.recuweb.com/dubbing/theguardian.com/2015/03/we-have-ways-of-making-you-talk-how-films-survive",
             "resource_url": "http://www.google.com/search?q=dubbing%2Bdubbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://thebiglead.com/2015/03/12/ric-flair-dubbed-over-in-spanish-is-exquisite/"
-        },
-        "scooppick.com/2015/03/the-best-and-humorous-dubbing-sequences-revealing-truth": {
-            "title": "The Best And Humorous Dubbing Sequences Revealing The Truth...",
-            "snippet": "Of all the art forms, Dubbing is an unique and distinct way to bring out the truth without hurting anybody's sentiments. Yes, even the serious and the most complicated concepts can be easily conveyed through dubbing for easy...",
-            "date": "2015-03-11",
-            "author_name": "nivedithatm",
-            "categories": "dubbing",
-            "tags": "easy,even,truth,best,dubbing,way",
-            "recuweb_url": "http://en.recuweb.com/dubbing/scooppick.com/2015/03/the-best-and-humorous-dubbing-sequences-revealing-truth",
-            "resource_url": "http://www.google.com/search?q=dubbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://scooppick.com/the-best-and-humorous-dubbing-sequences-revealing-the-truth/"
+            "source_url": "http://theguardian.com/film/filmblog/2015/mar/19/how-films-survive-the-dubbing-process-chappie-selma-inherent-vice"
         },
         "largeup.com/2015/03/keep-on-dubbing-inside-jamaica-s-rockers-international-record": {
             "title": "Keep on Dubbing: Inside Jamaica's Rockers International Record...",
@@ -48,75 +104,20 @@
             "date": "2015-03-05",
             "author_name": "Jesse Serwer",
             "categories": "life,dubbing",
-            "tags": "record,international,day,life,dubbing",
+            "tags": "shops,international,dubbing",
             "recuweb_url": "http://en.recuweb.com/dubbing/largeup.com/2015/03/keep-on-dubbing-inside-jamaica-s-rockers-international-record",
             "resource_url": "http://www.google.com/search?q=dubbing%2Bdubbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://largeup.com/2015/03/05/rockers-international-record-store/"
-        },
-        "theadvocateblog.net/2015/02/dubbing-notes-from-21-south-street": {
-            "title": "Dubbing - Notes from 21 South Street...",
-            "snippet": "From Hollywood with Love Disney's Frozen is one of the greatest success stories of modern dubbing. Available in 41 languages, it's enjoyed stratospheric international...",
-            "date": "2015-02-18",
-            "author_name": "theharvardadvocate",
-            "categories": "love,dubbing,languages",
-            "tags": "international,modern,love,disney,dubbing,available",
-            "recuweb_url": "http://en.recuweb.com/languages/theadvocateblog.net/2015/02/dubbing-notes-from-21-south-street",
-            "resource_url": "http://www.google.com/search?q=dubbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theadvocateblog.net/2015/02/18/the-problem-of-dubbing-in-international-cinema-part-one/"
-        },
-        "reedyoung.com/2015/02/dubbing-best-picture-vanity-fair-italy-reed-young": {
-            "title": "Dubbing Best Picture Vanity Fair Italy Reed Young...",
-            "snippet": "A few weeks ago I flew to Rome on assignment for Vanity Fair Italy. I was asked to recreate one scene from each of the 8 films that have been nominated for this year's Academy Award for Best Picture, using the dubbers who...",
-            "date": "2015-02-18",
-            "author_name": "reedyoung",
-            "categories": "academy,dubbing,films",
-            "tags": "best,dubbing,films",
-            "recuweb_url": "http://en.recuweb.com/films/reedyoung.com/2015/02/dubbing-best-picture-vanity-fair-italy-reed-young",
-            "resource_url": "http://www.google.com/search?q=dubbing%2Bdubbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://reedyoung.com/vf-dubbers/"
-        },
-        "whatswrongwiththeworld.net/2015/02/dc-christian-schools-need-to-be-dubbing-a-lot-of-ministerial": {
-            "title": "DC Christian schools need to be dubbing a lot of ministerial staff...",
-            "snippet": "While we're talkin'law (see previous post), here's a bit of catch-up on the religion law news: The Washington, DC, city council has eliminated the religious exemption from its statute on non-discrimination for \"sexual orientation...",
-            "date": "2015-02-14",
-            "author_name": "Lydia McGrew",
-            "categories": "religion,law,school,dubbing",
-            "tags": "catch,dubbing",
-            "recuweb_url": "http://en.recuweb.com/dubbing/whatswrongwiththeworld.net/2015/02/dc-christian-schools-need-to-be-dubbing-a-lot-of-ministerial",
-            "resource_url": "http://www.google.com/search?q=dubbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://whatswrongwiththeworld.net/2015/02/dc_christian_schools_need_to_b.html"
-        },
-        "operapulse.com/2015/02/ashraf-sewailam-leporello-teaching-and-dubbing-disney-in": {
-            "title": "Ashraf Sewailam: Leporello, Teaching and Dubbing Disney in...",
-            "snippet": "After debuting in 2012, Egyptian bass-baritone Ashraf Sewailam has become a familiar presence in subsequent seasons at San Diego Opera (Murder in the Ca...",
-            "date": "2015-02-13",
-            "author_name": "Erica Miner",
-            "categories": "dubbing,teaching",
-            "tags": "opera,dubbing,disney,after",
-            "recuweb_url": "http://en.recuweb.com/teaching/operapulse.com/2015/02/ashraf-sewailam-leporello-teaching-and-dubbing-disney-in",
-            "resource_url": "http://www.google.com/search?q=dubbing%2Bdubbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://operapulse.com/interviews/2015/02/13/ashraf-sewailam-leporello-teaching-and-dubbing-disney-in-arabic/"
         },
         "reddit.com/2015/02/what-do-you-think-of-the-dubbing-in-civ": {
             "title": "What do you think of the dubbing in Civ V?",
             "snippet": "I just want to know what do you guys think. As a spaniard, I don't like Isabella. I wonder how a french person thinks about Napoleon's dubbing and stuff like that. EDIT: I don't like Isabella because the actress seems like she is reading and her...",
             "date": "2015-02-01",
             "categories": "dubbing",
-            "tags": "because,actress,dubbing,don",
+            "tags": "reading,dubbing,actress",
             "recuweb_url": "http://en.recuweb.com/dubbing/reddit.com/2015/02/what-do-you-think-of-the-dubbing-in-civ",
             "resource_url": "http://www.reddit.com/search.rss?q=dubbing%2Bdubbing&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/civ/comments/2uehiu/what_do_you_think_of_the_dubbing_in_civ_v/"
-        },
-        "codecanyon.net/2015/01/mobile-voice-dubbing-app-in-ios-codecanyon": {
-            "title": "Mobile - Voice Dubbing App in iOS CodeCanyon...",
-            "snippet": "Record a video or select it from your library and start dubbing it in your own voice. Very intuitive and easy to use feature. This great applications lets you replace the original sound track of th...",
-            "date": "2015-01-14",
-            "author_name": "systematixinfo",
-            "categories": "dubbing",
-            "tags": "original,easy,start,voice,dubbing,record",
-            "recuweb_url": "http://en.recuweb.com/dubbing/codecanyon.net/2015/01/mobile-voice-dubbing-app-in-ios-codecanyon",
-            "resource_url": "http://www.google.com/search?q=dubbing%2Bdubbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://codecanyon.net/item/voice-dubbing-app-in-ios/10067068"
         }
     }
 }
