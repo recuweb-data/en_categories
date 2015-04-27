@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "foods",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/foods/",
@@ -10,112 +11,113 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/foods/foods/blogs.json"
     },
     "items": {
-        "mindbodygreen.com/2015/04/5-ways-to-integrate-more-fermented-foods-into-your-diet": {
-            "title": "5 Ways To Integrate More Fermented Foods Into Your Diet...",
-            "snippet": "If it seems like talk of fermented foods is everywhere these days, you're right and for good reason. The beauty of probiotic-rich fermented foods? They're active! They aren't just going to occupy that prime real estate in your...",
+        "naturalnews.com/2015/04/kraft-foods-defrauded-5-4-million-from-wheat-market-traders-cftc": {
+            "title": "Kraft Foods defrauded 5.4 million from wheat market traders, CFTC...",
+            "snippet": "(NaturalNews) The U.S. Commodity Futures Trading Commission (CFTC) has filed a lawsuit against Kraft Foods Group and Mondelez Global, alleging that the companies engaged in price manipulation of wheat and wheat...",
+            "date": "2015-04-27",
+            "author_name": "By David Gutierrez, staff writer",
+            "categories": "foods,food",
+            "tags": "wheat,foods,million",
+            "recuweb_url": "http://en.recuweb.com/food/naturalnews.com/2015/04/kraft-foods-defrauded-5-4-million-from-wheat-market-traders-cftc",
+            "resource_url": "http://www.google.com/search?q=foods%2Bfoods&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://naturalnews.com/049508_Kraft_Foods_wheat_futures_price_fixing.html"
+        },
+        "noflam.blogspot.com/2015/04/stay-away-from-foods-that-cause-joint-pain": {
+            "title": "Stay away from foods that cause joint pain...",
+            "snippet": "Joint pains are caused due to various things; maybe injury or using your muscles and joints in an abnormal way during work, etc but the major cause of joint pain is arthritis. There are over 100 types of arthritis and each one of them affects the...",
+            "date": "2015-04-27",
+            "author_name": "VitoPharma",
+            "categories": "foods,food",
+            "tags": "major,cause,work,using,due,various,stay,away,foods,things,way",
+            "recuweb_url": "http://en.recuweb.com/food/noflam.blogspot.com/2015/04/stay-away-from-foods-that-cause-joint-pain",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=foods%2Bfoods&rss=1&lng=en",
+            "source_url": "http://noflam.blogspot.com/2015/04/stay-away-from-foods-that-cause-joint.html"
+        },
+        "diabatesmedicineherbal.blogspot.com/2015/04/diets-for-diabetics": {
+            "title": "Diets For Diabetics...",
+            "snippet": "Doctors warn that individuals with health problems such as diabetes or heart disease should continue to avoid high-cholesterol foods, but such foods'overall impact on good health may be less significant than was previously thought. It's turned out...",
+            "date": "2015-04-26",
+            "author_name": "(ernestine jom)",
+            "categories": "health,foods,food",
+            "tags": "should,avoid,diets,health,foods",
+            "recuweb_url": "http://en.recuweb.com/food/diabatesmedicineherbal.blogspot.com/2015/04/diets-for-diabetics",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=foods%2Bfoods&rss=1&lng=en",
+            "source_url": "http://diabatesmedicineherbal.blogspot.com/2015/04/diets-for-diabetics.html"
+        },
+        "naturalsociety.com/2015/04/listeria-on-the-rise-how-to-fight-bad-bacteria-in": {
+            "title": "Listeria on the Rise: How to Fight Bad Bacteria in Your Food...",
+            "snippet": "The potentially deadly bacteria Listeria has always contaminated various foods we consume. Here are the foods to look out for and how to be safe.",
+            "date": "2015-04-26",
+            "author_name": "Robert Harrington",
+            "categories": "food,foods",
+            "tags": "eria,various,bad,foods,here",
+            "recuweb_url": "http://en.recuweb.com/foods/naturalsociety.com/2015/04/listeria-on-the-rise-how-to-fight-bad-bacteria-in",
+            "resource_url": "http://www.google.com/search?q=foods%2Bfoods&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://naturalsociety.com/listeria-on-the-rise-how-to-fight-bad-bacteria-in-your-food/"
+        },
+        "surelyloseweight.com/2015/04/how-to-drop-those-extra-pounds-successfully": {
+            "title": "How To Drop Those Extra Pounds Successfully...",
+            "snippet": "TIP! Do not buy overly tempting junk foods foods and put them in the house. Just by making the simple choice to leave the junk food outside the home, you will not need to constantly face temptation. There are so many diets and exercise routines out...",
+            "date": "2015-04-25",
+            "author_name": "admin",
+            "categories": "home,foods,food",
+            "tags": "diets,exercise,home,simple,foods,food,buy,success",
+            "recuweb_url": "http://en.recuweb.com/food/surelyloseweight.com/2015/04/how-to-drop-those-extra-pounds-successfully",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=foods%2Bfoods&rss=1&lng=en",
+            "source_url": "http://surelyloseweight.com/weightloss/how-to-drop-those-extra-pounds-successfully/"
+        },
+        "skinb5naturalacnetreatment.blogspot.com/2015/04/5-foods-to-avoid-for-your-skin-health": {
+            "title": "5 Foods to Avoid for Your Skin Health...",
+            "snippet": "The notion that what we eat can affect our skin health has been rather controversial over time. The idea that diet can cause breakouts was looked at nearly a century ago, but studies published in 1969 and 1971 put a stop to that belief for some time...",
+            "date": "2015-04-24",
+            "author_name": "(Zoltan Varg)",
+            "categories": "belief,health,foods,food",
+            "tags": "stop,cause,health,foods,avoid,eat,diet",
+            "recuweb_url": "http://en.recuweb.com/food/skinb5naturalacnetreatment.blogspot.com/2015/04/5-foods-to-avoid-for-your-skin-health",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=foods%2Bfoods&rss=1&lng=en",
+            "source_url": "http://skinb5naturalacnetreatment.blogspot.com/2015/04/5-foods-to-avoid-for-your-skin-health.html"
+        },
+        "consequenceofsound.net/2015/04/the-replacements-confirm-work-on-new-music-debut-whole-foods": {
+            "title": "The Replacements confirm work on new music, debut Whole Foods...",
+            "snippet": "The band has been touting a number called Whole Foods Blues at recent gigs, and now fan-shot video of the song has appeared online. The performance is from their show at Hollywood Palladium last Thursday, April 16th.",
+            "date": "2015-04-24",
+            "author_name": "Ben Kaye",
+            "categories": "foods,food,music",
+            "tags": "foods,work",
+            "recuweb_url": "http://en.recuweb.com/music/consequenceofsound.net/2015/04/the-replacements-confirm-work-on-new-music-debut-whole-foods",
+            "resource_url": "http://www.google.com/search?q=foods%2Bfoods&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://consequenceofsound.net/2015/04/the-replacements-confirm-work-on-new-music-debut-whole-foods-blues-watch/"
+        },
+        "foodsafetynews.com/2015/04/frozen-vegetables-smoothie-kits-recalled-food-safety-news": {
+            "title": "Frozen Vegetables, Smoothie Kits Recalled... - Food Safety News...",
+            "snippet": "Inventure Foods Inc. of Phoenix, AZ, has announced a recall of certain varieties of its Fresh Frozen line of frozen vegetables as well as select varieties of its Jamba At Home line of smoothie kits due to finding Listeria...",
             "date": "2015-04-23",
-            "author_name": "Meghan Telpner",
-            "categories": "real-estate,foods,food",
-            "tags": "rich,foods,diet",
-            "recuweb_url": "http://en.recuweb.com/food/mindbodygreen.com/2015/04/5-ways-to-integrate-more-fermented-foods-into-your-diet",
+            "author_name": "News Desk",
+            "categories": "home,foods,food,food-safety",
+            "tags": "due,home,frozen,foods,food,eria",
+            "recuweb_url": "http://en.recuweb.com/food-safety/foodsafetynews.com/2015/04/frozen-vegetables-smoothie-kits-recalled-food-safety-news",
             "resource_url": "http://www.google.com/search?q=foods%2Bfoods&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://mindbodygreen.com/0-18454/5-ways-to-integrate-more-fermented-foods-into-your-diet.html"
-        },
-        "psmag.com/2015/04/the-debate-over-gmos-is-about-to-change-pacific-standard": {
-            "title": "The Debate Over GMOs Is About to Change - Pacific Standard...",
-            "snippet": "Last month, the Food and Drug Administration gave the green light to two new genetically engineered foods, judging them as \"not materially different in safety, nutrition, composition, or other relevant characteristics\" from other...",
-            "date": "2015-04-22",
-            "author_name": "Michael White",
-            "categories": "drug-administration,food,foods",
-            "tags": "gmos,foods,other",
-            "recuweb_url": "http://en.recuweb.com/foods/psmag.com/2015/04/the-debate-over-gmos-is-about-to-change-pacific-standard",
-            "resource_url": "http://www.google.com/search?q=foods%2Bfoods&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://psmag.com/nature-and-technology/debate-over-gmos-is-about-to-change"
-        },
-        "authoritynutrition.com/2015/04/20-foods-that-are-bad-for-your-health-avoid": {
-            "title": "20 Foods That Are Bad For Your Health (Avoid Them!)...",
-            "snippet": "There is a lot of confusion out there about which foods are healthy, and which are not. Here is a list of 20 foods that are generally very unhealthy. If you want to lose weight and avoid chronic disease, then you shouldn't eat much of these foods.",
-            "date": "2015-04-15",
-            "author_name": "Kris Gunnars",
-            "categories": "foods,food,health",
-            "tags": "want,lose,avoid,unhealthy,healthy,foods,health,here,eat",
-            "recuweb_url": "http://en.recuweb.com/health/authoritynutrition.com/2015/04/20-foods-that-are-bad-for-your-health-avoid",
-            "resource_url": "http://www.google.com/search?q=foods%2Bfoods&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://authoritynutrition.com/20-foods-to-avoid-like-the-plague/"
+            "source_url": "http://foodsafetynews.com/2015/04/frozen-vegetables-smoothie-kits-recalled-after-listeria-found-in-ga-plant/"
         },
         "reddit.com/2015/04/lpt-enjoy-tastier-frozen-microwaved-foods-by-using-your-microwave": {
             "title": "LPT: Enjoy tastier frozen microwaved foods by using your microwave's power settings. Double the...",
             "snippet": "Frozen foods are becoming healthier and tastier so why ruin it by zapping it so much it becomes burnt and rubbery. I'm 30 years old and just recently started doing this so I figured there must be others ignoring this common sense feature. I don't...",
             "date": "2015-04-09",
             "categories": "foods,food",
-            "tags": "must,started,why,foods",
+            "tags": "why,becomes,using,frozen,foods",
             "recuweb_url": "http://en.recuweb.com/food/reddit.com/2015/04/lpt-enjoy-tastier-frozen-microwaved-foods-by-using-your-microwave",
             "resource_url": "http://www.reddit.com/search.rss?q=foods%2Bfoods&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/LifeProTips/comments/32183g/lpt_enjoy_tastier_frozen_microwaved_foods_by/"
-        },
-        "newszoom.com/2014/11/12-best-fat-burning-foods-newszoom": {
-            "title": "12 Best Fat Burning Foods - NewsZoom...",
-            "snippet": "12 Best Fat Burning Foods. These 12 foods will start narrowing your waist the minute they leave your fork and enter your mouth! Make sure these are added to your shopping list on your next trip.",
-            "date": "2014-11-07",
-            "author_name": "Hemanshu Agnihotri",
-            "categories": "foods,food",
-            "tags": "trip,best,fat,fat_burning,fat_burning_foods,burning,burning_foods,foods,make",
-            "recuweb_url": "http://en.recuweb.com/food/newszoom.com/2014/11/12-best-fat-burning-foods-newszoom",
-            "resource_url": "http://www.google.com/search?q=foods%2Bfoods&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://newszoom.com/womens-health/12-best-fat-burning-foods/"
         },
         "reddit.com/2012/07/fast-food-workers-of-reddit-what-is-the-one-menu-option": {
             "title": "Fast food workers of Reddit, what is the one menu option at your employment that you would...",
             "snippet": "The simple answer is probably, \"don't ever eat fast food.\" Sadly, for many people that's just not a realistic option (for reasons financially or other). So help us out! Those of you behind the scenes, what should we stay away from and what is...",
             "date": "2012-07-05",
-            "categories": "fast-food,food,employment",
-            "tags": "help,food,eat,people,other,should",
-            "recuweb_url": "http://en.recuweb.com/employment/reddit.com/2012/07/fast-food-workers-of-reddit-what-is-the-one-menu-option",
+            "categories": "employment,food",
+            "tags": "should,stay,away,other,simple,fast,food,eat,people,behind",
+            "recuweb_url": "http://en.recuweb.com/food/reddit.com/2012/07/fast-food-workers-of-reddit-what-is-the-one-menu-option",
             "resource_url": "http://www.reddit.com/search.rss?q=foods%2Bfoods&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/AskReddit/comments/w2sv3/fast_food_workers_of_reddit_what_is_the_one_menu/"
-        },
-        "reddit.com/2012/01/what-food-do-foreigners-consider-american": {
-            "title": "What food do foreigners consider American?",
-            "snippet": "I've always wondered what Europeans classify as \"American Food\". submitted by xtremelampshade to AskReddit [link] [8188 comments]...",
-            "date": "2012-01-24",
-            "categories": "food",
-            "tags": "american,food",
-            "recuweb_url": "http://en.recuweb.com/food/reddit.com/2012/01/what-food-do-foreigners-consider-american",
-            "resource_url": "http://www.reddit.com/search.rss?q=foods%2Bfoods&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/AskReddit/comments/oui3m/what_food_do_foreigners_consider_american/"
-        },
-        "homemade-baby-food-recipes.com/2010/08/baby-led-weaning-first-foodshomemade-food-recipes-to": {
-            "title": "Baby Led Weaning First FoodsHomemade Baby Food Recipes To...",
-            "snippet": "Baby Led Weaning First Foods This list of baby led weaning first foods includes a variety of naturally nutritious treats that will be easy for your baby to handle. If you're just getting started with baby led weaning, or simply want to know more...",
-            "date": "2010-08-20",
-            "author_name": "unknown",
-            "categories": "foods,food",
-            "tags": "want,started,baby,led,first,foods,food,baby_food,baby_food_recipes,food_recipes,recipes",
-            "recuweb_url": "http://en.recuweb.com/food/homemade-baby-food-recipes.com/2010/08/baby-led-weaning-first-foodshomemade-food-recipes-to",
-            "resource_url": "http://www.google.com/search?q=foods%2Bfoods&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://homemade-baby-food-recipes.com/baby-led-weaning-first-foods/"
-        },
-        "homemade-baby-food-recipes.com/2006/09/introducing-solid-foods-to-a-baby-with-refluxhomemade": {
-            "title": "Introducing Solid Foods To A Baby With RefluxHomemade Baby...",
-            "snippet": "Introducing Solid Foods To A Baby With Reflux Introducing solid foods to a baby with reflux can seem a daunting prospect. These tips will help minimize the problems that transitioning to solid foods may cause. IMPORTANT NOTE: The...",
-            "date": "2006-09-28",
-            "author_name": "unknown",
-            "categories": "foods,food",
-            "tags": "help,solid,baby,solid_foods,foods",
-            "recuweb_url": "http://en.recuweb.com/food/homemade-baby-food-recipes.com/2006/09/introducing-solid-foods-to-a-baby-with-refluxhomemade",
-            "resource_url": "http://www.google.com/search?q=foods%2Bfoods&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://homemade-baby-food-recipes.com/introducing-solid-foods-to-a-baby-with-reflux/"
-        },
-        "homemade-baby-food-recipes.com/2006/05/baby-constipation-and-solid-foods-homemade-food-recipes": {
-            "title": "Baby Constipation And Solid Foods - Homemade Baby Food Recipes...",
-            "snippet": "Add pureed fruits or vegetables to his cereal. Add a little ground flax to your baby's meals from around 7 months of age (please see this page for more information about flax seeds); Offer other foods that help soften stools these include pears...",
-            "date": "2006-05-02",
-            "author_name": "unknown",
-            "categories": "fruit,food,foods",
-            "tags": "help,seeds,baby,fruits,vegetables,baby_food,baby_food_recipes,foods,food_recipes,recipes,solid,solid_foods,other",
-            "recuweb_url": "http://en.recuweb.com/foods/homemade-baby-food-recipes.com/2006/05/baby-constipation-and-solid-foods-homemade-food-recipes",
-            "resource_url": "http://www.google.com/search?q=foods%2Bfoods&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://homemade-baby-food-recipes.com/?page_id=255"
         }
     }
 }
