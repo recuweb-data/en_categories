@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "quantum-mechanics",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/quantum-mechanics/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/quantum-mechanics/quantum-mechanics/blogs.json"
     },
     "items": {
+        "physics.aps.org/2015/04/notes-from-the-editors-snapshots-2015-aps-april-meeting": {
+            "title": "Notes from the Editors: Snapshots from the 2015 APS April Meeting...",
+            "snippet": "At an education session, two researchers discussed the challenges of learning undergraduate quantum mechanics. Chandralekha Singh of the University of Pittsburgh and her colleagues tested students at many universities with written conceptual exams...",
+            "date": "2015-04-24",
+            "categories": "students,learning,education,mechanics,university",
+            "tags": "students,researchers,quantum,mechanics",
+            "recuweb_url": "http://en.recuweb.com/university/physics.aps.org/2015/04/notes-from-the-editors-snapshots-2015-aps-april-meeting",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=quantum%2Bmechanics&format=RSS&cc=us",
+            "source_url": "http://physics.aps.org/articles/v8/38"
+        },
+        "benzinga.com/2015/04/qd-vision-wins-2015-bronze-edison-award-for-color-iq-quantum": {
+            "title": "QD Vision Wins 2015 Bronze Edison Award for Color IQ Quantum Dot Technology...",
+            "snippet": "Our entire QD Vision team is inspired by Mr. Edison as we continue to push the boundaries of quantum mechanics and nanotechnology to bring the world's best color to televisions, computer monitors, and other LCD displays. Being recognized with an...",
+            "date": "2015-04-24",
+            "categories": "computer-monitor,television,technology,mechanics",
+            "tags": "other,quantum,mechanics",
+            "recuweb_url": "http://en.recuweb.com/mechanics/benzinga.com/2015/04/qd-vision-wins-2015-bronze-edison-award-for-color-iq-quantum",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=quantum%2Bmechanics&format=RSS&cc=us",
+            "source_url": "http://benzinga.com/pressreleases/15/04/b5440933/qd-vision-wins-2015-bronze-edison-award-for-color-iq-quantum-dot-techno"
+        },
+        "phys.org/2015/04/researchers-take-a-step-towards-development-of-optical-single-phonon-detector": {
+            "title": "Researchers take a step towards development of optical single-phonon detector...",
+            "snippet": "As the understanding of quantum mechanics has progressed, scientists have found that energy comes in the form of grains called quanta. In the case of electromagnetism, the quanta are in the form of photons, which can now be seen individually using...",
+            "date": "2015-04-23",
+            "categories": "electromagnetism,mechanics",
+            "tags": "found,grains,researchers,quantum,mechanics",
+            "recuweb_url": "http://en.recuweb.com/mechanics/phys.org/2015/04/researchers-take-a-step-towards-development-of-optical-single-phonon-detector",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=quantum%2Bmechanics&format=RSS&cc=us",
+            "source_url": "http://phys.org/news/2015-04-optical-single-phonon-detector.html"
+        },
+        "sciencedaily.com/2015/04/from-metal-to-insulator-and-back-again": {
+            "title": "From metal to insulator and back again...",
+            "snippet": "This idea goes back to the birth of quantum mechanics in the early decades of the last century. But it was recently discovered that certain groups of metals become insulating under pressure-a remarkable finding that was not previously thought...",
+            "date": "2015-04-22",
+            "categories": "mechanics",
+            "tags": "quantum,mechanics",
+            "recuweb_url": "http://en.recuweb.com/mechanics/sciencedaily.com/2015/04/from-metal-to-insulator-and-back-again",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=quantum%2Bmechanics&format=RSS&cc=us",
+            "source_url": "http://sciencedaily.com/releases/2015/04/150422122031.htm"
+        },
+        "nature.com/2015/04/optomechanics-listening-to-quantum-grains-of-sound": {
+            "title": "Optomechanics: Listening to quantum grains of sound...",
+            "snippet": "Such quantum optomechanical control of matter could allow researchers both to test the fundamental principles of quantum mechanics and to venture into new applications in acoustics, thermal management and electrical-conductivity engineering.",
+            "date": "2015-04-22",
+            "categories": "engineering,management,mechanics",
+            "tags": "matter,researchers,fundamental,principles,grains,quantum,mechanics",
+            "recuweb_url": "http://en.recuweb.com/mechanics/nature.com/2015/04/optomechanics-listening-to-quantum-grains-of-sound",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=quantum%2Bmechanics&format=RSS&cc=us",
+            "source_url": "http://nature.com/nature/journal/v520/n7548/full/520441a.html"
+        },
+        "popsci.com/2015/04/how-it-works-death-by-black-hole": {
+            "title": "How It Works: Death By Black Hole...",
+            "snippet": "He showed that in their current forms, the two major pillars of physicsquantum mechanics and general relativitycant both be true near a black hole. General relativity governs how very massive objects work, while quantum mechanics governs how very...",
+            "date": "2015-04-21",
+            "categories": "death,mechanics",
+            "tags": "mechanics,quantum",
+            "recuweb_url": "http://en.recuweb.com/mechanics/popsci.com/2015/04/how-it-works-death-by-black-hole",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=quantum%2Bmechanics&format=RSS&cc=us",
+            "source_url": "http://popsci.com/how-it-works-death-black-hole?dom=tw&src=SOC"
+        },
+        "salon.com/2015/04/albert-is-an-old-fool-einstein-vs-schr%C3%B6dinger-in-battle-of": {
+            "title": "Albert is an old fool: Einstein vs Schr\u00f6dinger in battle of the Nobel laureates...",
+            "snippet": "Exiled in Ireland in the 1940s after the Nazi annexation of Austria, Schr\u00f6dinger shared Einsteins disdain for the orthodox interpretation of quantum mechanics and saw him as a natural co laborator. Einstein similarly found in...",
+            "date": "2015-04-18",
+            "categories": "mechanics",
+            "tags": "found,quantum,mechanics",
+            "recuweb_url": "http://en.recuweb.com/mechanics/salon.com/2015/04/albert-is-an-old-fool-einstein-vs-schr%C3%B6dinger-in-battle-of",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=quantum%2Bmechanics&format=RSS&cc=us",
+            "source_url": "http://salon.com/2015/04/18/albert_is_an_old_fool_einstein_vs_schrodinger_in_battle_of_the_nobel_laureates/"
+        },
+        "news.stanford.edu/2015/04/anton-zeilinger-to-deliver-stanford-s-annual-robert-hofstadter-memorial-lectures": {
+            "title": "Anton Zeilinger to deliver Stanford's annual Robert Hofstadter Memorial Lectures April 20-21...",
+            "snippet": "In a very profound way, he is one of the founders of the experimental study of quantum mechanics. Quantum mechanics is the field of physics devoted to the properties of atoms and other microscopic particles, and describes the odd and...",
+            "date": "2015-04-16",
+            "categories": "physics,mechanics",
+            "tags": "physics,other,particles,quantum,mechanics",
+            "recuweb_url": "http://en.recuweb.com/mechanics/news.stanford.edu/2015/04/anton-zeilinger-to-deliver-stanford-s-annual-robert-hofstadter-memorial-lectures",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=quantum%2Bmechanics&format=RSS&cc=us",
+            "source_url": "http://news.stanford.edu/news/2015/april/hofstadter-zeilinger-lecture-041615.html"
+        },
         "purdueexponent.org/2015/04/professor-gives-public-lecture-on-quantum-mechanics-purdue-exponent": {
             "title": "Professor gives public lecture on quantum mechanics - Purdue Exponent...",
             "snippet": "Purdue ExponentProfessor gives public lecture on quantum mechanicsPurdue ExponentErica Carlson, a professor of condensed matter physics, gave a presentation in the West Lafayette Public Library through the physics and astronomy outreach program to...",
             "date": "2015-04-16",
             "categories": "physics,astronomy,mechanics",
-            "tags": "physics,professor,quantum,mechanics",
+            "tags": "physics,matter,quantum,mechanics",
             "recuweb_url": "http://en.recuweb.com/mechanics/purdueexponent.org/2015/04/professor-gives-public-lecture-on-quantum-mechanics-purdue-exponent",
-            "resource_url": "http://news.google.com/?hl=en&q=quantum%2Bmechanics%2Bquantum%2Bmechanics&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=quantum%2Bmechanics&output=atom&nord=1",
             "source_url": "http://purdueexponent.org/campus/article_daac6edf-0dd8-56df-a591-092e77ba5c50.html"
         },
-        "forbes.com/2015/04/how-your-morning-starts-with-quantum-physics-forbes": {
-            "title": "How Your Morning Starts With Quantum Physics - Forbes...",
-            "snippet": "ForbesHow Your Morning Starts With Quantum PhysicsForbesQuantum mechanics ranks as one of the greatest intellectual achievements in human history, in no small part because it's such a counter-intuitive theory. Its most attention-grabbing predictions...",
+        "forbes.com/2015/04/how-your-morning-starts-with-quantum-physics": {
+            "title": "How Your Morning Starts With Quantum Physics...",
+            "snippet": "Quantum mechanics ranks as one of the greatest intellectual achievements in human history, in no small part because its such a counter-intuitive theory. Its most attention-grabbing predictions particles behaving like waves, quantum uncertainty...",
             "date": "2015-04-15",
             "categories": "physics,mechanics",
-            "tags": "predictions,theory,quantum,physics,mechanics",
-            "recuweb_url": "http://en.recuweb.com/mechanics/forbes.com/2015/04/how-your-morning-starts-with-quantum-physics-forbes",
-            "resource_url": "http://news.google.com/?hl=en&q=quantum%2Bmechanics%2Bquantum%2Bmechanics&output=atom&nord=1",
+            "tags": "particles,quantum,physics,mechanics,uncertainty",
+            "recuweb_url": "http://en.recuweb.com/mechanics/forbes.com/2015/04/how-your-morning-starts-with-quantum-physics",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=quantum%2Bmechanics&format=RSS&cc=us",
             "source_url": "http://forbes.com/sites/chadorzel/2015/04/15/how-your-morning-starts-with-quantum-physics/"
-        },
-        "theconversation.com/2015/03/when-quantum-mechanics-and-international-relations-collide-the-conversation-au": {
-            "title": "When quantum mechanics and international relations collide - The Conversation AU...",
-            "snippet": "The Conversation AUWhen quantum mechanics and international relations collideThe Conversation AUWars and atoms have, as it were, a conjugated history. On the eve of the second world war, physicists Albert Einstein and Le\u00f3 Szil\u00e1rd wrote a letter to...",
-            "date": "2015-03-30",
-            "categories": "international-relations,mechanics",
-            "tags": "albert,albert_einstein,einstein,world,quantum,mechanics,physicists",
-            "recuweb_url": "http://en.recuweb.com/mechanics/theconversation.com/2015/03/when-quantum-mechanics-and-international-relations-collide-the-conversation-au",
-            "resource_url": "http://news.google.com/?hl=en&q=quantum%2Bmechanics%2Bquantum%2Bmechanics&output=atom&nord=1",
-            "source_url": "http://theconversation.com/when-quantum-mechanics-and-international-relations-collide-39241"
-        },
-        "nbcnews.com/2015/03/physicists-prove-einstein-wrong-with-spooky-quantum-experiment": {
-            "title": "Physicists Prove Einstein Wrong With 'Spooky'Quantum Experiment -...",
-            "snippet": "Prove Einstein Wrong With 'Spooky'Quantum mechanics is one of the best-tested theories in science, and it's one of the few where physicists get to do experiments proving that Einstein was wrong. That's what a team at Griffith University and the...",
-            "date": "2015-03-27",
-            "categories": "university,science,mechanics",
-            "tags": "wrong,physicists,experiment,theories,einstein,quantum,mechanics",
-            "recuweb_url": "http://en.recuweb.com/mechanics/nbcnews.com/2015/03/physicists-prove-einstein-wrong-with-spooky-quantum-experiment",
-            "resource_url": "http://news.google.com/?hl=en&q=quantum%2Bmechanics%2Bquantum%2Bmechanics&output=atom&nord=1",
-            "source_url": "http://nbcnews.com/science/weird-science/proving-einstein-wrong-spooky-quantum-experiment-n331511"
-        },
-        "inquisitr.com/2015/03/it-seems-albert-einstein-was-wrong-about-quantum-mechanics": {
-            "title": "It Seems Albert Einstein Was Wrong About Quantum Mechanics...",
-            "snippet": "Quantum mechanics and Albert Einsteins theories are complex subjects. Lets jump in, agreeing that quantum mechanics are based on probabilities that occur in the smallest aspects of the known universe, called the sub-atomic. Albert Einsteins...",
-            "date": "2015-03-26",
-            "categories": "quantum-mechanics,mechanics",
-            "tags": "aspects,theories,complex,albert,albert_einstein,einstein,wrong,quantum,quantum_mechanics,mechanics",
-            "recuweb_url": "http://en.recuweb.com/mechanics/inquisitr.com/2015/03/it-seems-albert-einstein-was-wrong-about-quantum-mechanics",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=quantum%2Bmechanics%2Bquantum%2Bmechanics&format=RSS&cc=us",
-            "source_url": "http://inquisitr.com/1953676/albert-einstein-was-wrong-about-quantum-mechanics/"
-        },
-        "wenatcheeworld.com/2015/03/wilf-woods-plants-master-quantum-mechanics": {
-            "title": "Wilf Woods: Plants master quantum mechanics...",
-            "snippet": "Quantum mechanics, that strange world of subatomic particles, has been explored enough to convince scientists that it is real. In that world, they are now looking at photosynthesis, which converts sunlight into energy at 95 percent efficiency. Stay...",
-            "date": "2015-03-24",
-            "categories": "subatomic-particles,plants,mechanics",
-            "tags": "world,scientists,real,particles,quantum,mechanics",
-            "recuweb_url": "http://en.recuweb.com/mechanics/wenatcheeworld.com/2015/03/wilf-woods-plants-master-quantum-mechanics",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=quantum%2Bmechanics%2Bquantum%2Bmechanics&format=RSS&cc=us",
-            "source_url": "http://wenatcheeworld.com/news/2015/mar/24/wilf-woods-plants-master-quantum-mechanics/"
-        },
-        "sciencerecorder.com/2015/03/filming-a-paradox-study-captures-visual-proof-that-light-can-act": {
-            "title": "Filming a paradox: Study captures visual proof that light can act as both a wave and particle...",
-            "snippet": "While quantum mechanics says that light can behave as both a particle and a wave, no one has ever devised an experiment capable of capturing both aspects of light at the same time. Until now, that is. In a breakthrough study published in the journal...",
-            "date": "2015-03-02",
-            "categories": "mechanics",
-            "tags": "ever,experiment,aspects,light,same,light-can-behave,behave,particle,captures,wave,wave-and-particle,quantum,mechanics",
-            "recuweb_url": "http://en.recuweb.com/mechanics/sciencerecorder.com/2015/03/filming-a-paradox-study-captures-visual-proof-that-light-can-act",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=quantum%2Bmechanics&format=RSS&cc=us",
-            "source_url": "http://sciencerecorder.com/news/filming-a-paradox-study-captures-visual-proof-that-light-can-act-as-both-a-wave-and-particle/"
-        },
-        "sciencedaily.com/2015/03/first-ever-photograph-of-light-as-a-particle-and-wave": {
-            "title": "First ever photograph of light as a particle and a wave...",
-            "snippet": "Quantum mechanics tells us that light can behave simultaneously as a particle or a wave. However, there has never been an experiment able to capture both natures of light at the same time; the closest we have come is seeing either wave or...",
-            "date": "2015-03-02",
-            "categories": "mechanics",
-            "tags": "wave,experiment,light,same,light-can-behave,behave,particle,ever,first,quantum,mechanics,however",
-            "recuweb_url": "http://en.recuweb.com/mechanics/sciencedaily.com/2015/03/first-ever-photograph-of-light-as-a-particle-and-wave",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=quantum%2Bmechanics&format=RSS&cc=us",
-            "source_url": "http://sciencedaily.com/releases/2015/03/150302104731.htm"
-        },
-        "gizmag.com/2015/03/image-captures-light-as-both-wave-and-particle-for-very-first": {
-            "title": "Image captures light as both wave and particle for very first time...",
-            "snippet": "This demonstrated that the light on the nanowire was also behaving as particles. This experiment demonstrates that, for the first time ever, we can film quantum mechanics and its paradoxical nature directly, said Professor Carbone. Professor...",
-            "date": "2015-03-02",
-            "categories": "nature,mechanics",
-            "tags": "professor,ever,first,experiment,particles,light,captures,wave,wave-and-particle,particle,very,quantum,mechanics",
-            "recuweb_url": "http://en.recuweb.com/mechanics/gizmag.com/2015/03/image-captures-light-as-both-wave-and-particle-for-very-first",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=quantum%2Bmechanics&format=RSS&cc=us",
-            "source_url": "http://gizmag.com/first-photograph-light-particle-wave/36361/"
-        },
-        "escapistmagazine.com/2015/03/let-there-be-light-photo-shows-as-wave-and-particle": {
-            "title": "Let There Be Light! Photo Shows Light As Wave And Particle For First Time...",
-            "snippet": "According to quantum mechanics light acts as both a particle and a wave, but now we can finally see what that looks like. Quantum mechanics is an incredibly complex field for a simple reason: So much of what it studies can be two different things at...",
-            "date": "2015-03-02",
-            "categories": "mechanics",
-            "tags": "incredibly,complex,light,particle,wave,first,quantum,mechanics",
-            "recuweb_url": "http://en.recuweb.com/mechanics/escapistmagazine.com/2015/03/let-there-be-light-photo-shows-as-wave-and-particle",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=quantum%2Bmechanics&format=RSS&cc=us",
-            "source_url": "http://escapistmagazine.com/news/view/139986-Photo-Shows-Light-As-Wave-And-Particle-For-First-Time"
         }
     }
 }
