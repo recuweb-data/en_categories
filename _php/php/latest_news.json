@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "php",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/php/",
@@ -10,104 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/php/php/blogs.json"
     },
     "items": {
-        "sitepoint.com/2015/04/integrate-elasticsearch-with-silex": {
-            "title": "Integrate Elasticsearch with Silex...",
-            "snippet": "Well now create a small Silex application that reads data straight from Elasticsearch and returns it to the user. Silex is a great PHP micro framework developed by the same people that are behind the Symfony project. It is in fact using mainly...",
-            "date": "2015-04-10",
+        "net-security.org/2015/04/100-000-web-shops-open-to-compromise-as-attackers-exploit-magento": {
+            "title": "100,000 web shops open to compromise as attackers exploit Magento bug...",
+            "snippet": "The vulnerability is actually comprised of a chain of several vulnerabilities that ultimately allow an unauthenticated attacker to execute PHP code on the web server. The attacker bypasses all security mechanisms and gains control of the store and...",
+            "date": "2015-04-24",
+            "categories": "magento,php",
+            "tags": "attackers,code,web,web-server,server,unauthenticated,vulnerability,open,exploit,php",
+            "recuweb_url": "http://en.recuweb.com/php/net-security.org/2015/04/100-000-web-shops-open-to-compromise-as-attackers-exploit-magento",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=php&format=RSS&cc=us",
+            "source_url": "http://net-security.org/secworld.php?id=18300"
+        },
+        "investopedia.com/2015/04/expats-opening-a-bank-account-in-the-philippines": {
+            "title": "Expats: Opening A Bank Account In The Philippines...",
+            "snippet": "The official currency of the Philippines is the Philippine Peso (PHP). Notes come in denominations of 20, 50, 100, 200, 500 and 1,000 PHP. One peso is equal to 100 centavos, and coins are issued in 10, 5 and 1 PHP, and 50, 25, 10 and 5 centavos.",
+            "date": "2015-04-24",
             "categories": "php",
-            "tags": "using,developed,behind,create,well,php,project",
-            "recuweb_url": "http://en.recuweb.com/php/sitepoint.com/2015/04/integrate-elasticsearch-with-silex",
+            "tags": "php",
+            "recuweb_url": "http://en.recuweb.com/php/investopedia.com/2015/04/expats-opening-a-bank-account-in-the-philippines",
             "resource_url": "http://www.bing.com/news/search?first=1&q=php&format=RSS&cc=us",
-            "source_url": "http://sitepoint.com/integrate-elasticsearch-silex/"
+            "source_url": "http://investopedia.com/articles/personal-finance/042415/expats-opening-bank-account-philippines.asp"
         },
-        "businessdailyafrica.com/2015/04/meet-the-man-police-link-to-safaricom-nic-bank-frauds": {
-            "title": "Meet the man police link to Safaricom, NIC Bank frauds...",
-            "snippet": "Java, C, Web languages like Php, he added. A background check on social media gives a glimpse of Mr Mutukus IT savvy. On March 7, 2013, he posted on his Facebook account how he was able to download and read the Daily Nation e-paper for free using...",
-            "date": "2015-04-10",
-            "categories": "social-media,java,languages,php,facebook",
-            "tags": "free,using,java,web,php",
-            "recuweb_url": "http://en.recuweb.com/facebook/businessdailyafrica.com/2015/04/meet-the-man-police-link-to-safaricom-nic-bank-frauds",
+        "insidermedia.com/2015/04/php-funds-east-anglia-medical-centre": {
+            "title": "PHP funds East Anglia medical centre...",
+            "snippet": "Primary Health Properties (PHP) has struck a deal to fund the development of, and acquire, a purpose-built medical centre in East Anglia. The company, an investor in modern primary healthcare facilities, will pay a total sum of. The centre will...",
+            "date": "2015-04-24",
+            "categories": "health,php",
+            "tags": "primary,development,primary_health,primary_health_properties,health,health_properties,properties,php,company",
+            "recuweb_url": "http://en.recuweb.com/php/insidermedia.com/2015/04/php-funds-east-anglia-medical-centre",
             "resource_url": "http://www.bing.com/news/search?first=1&q=php&format=RSS&cc=us",
-            "source_url": "http://businessdailyafrica.com/Corporate-News/The-man-police-have-linked-to-Safaricom-NIC-Bank-fraud/-/539550/2681054/-/piookdz/-/index.html"
+            "source_url": "http://insidermedia.com/insider/central-and-east/138207-php-funds-east-anglia-medical-centre"
         },
-        "infoworld.com/2015/04/stack-overflow-survey-nearly-half-of-developers-are-self-taught": {
-            "title": "Stack Overflow survey: Nearly half of developers are self-taught...",
-            "snippet": "The most-used technologies cited in the report include JavaScript, SQL, Java, C, and PHP. JavaScript remains the most-used programming language. and AngularJS are busting out. Java is still the number-1 server side language (and the most...",
-            "date": "2015-04-10",
-            "categories": "javascript,java,php",
-            "tags": "server,side,technologies,developers,java,php,programming,language",
-            "recuweb_url": "http://en.recuweb.com/php/infoworld.com/2015/04/stack-overflow-survey-nearly-half-of-developers-are-self-taught",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=php&format=RSS&cc=us",
-            "source_url": "http://infoworld.com/article/2908474/application-development/stack-overflow-survey-finds-nearly-half-have-no-degree-in-computer-science.html"
-        },
-        "computerworld.com/2015/04/language-forks-bestow-new-power-on-programming": {
-            "title": "Language forks bestow new power on programming...",
-            "snippet": "Those evolutionary pressures drive users to either change it for the better or to leave it behind for another option. PHPs sheer popularity is both its blessing and its curse. The upside: Applications developed in the language are all but guaranteed...",
-            "date": "2015-04-09",
-            "tags": "developed,behind,language,programming,applications",
-            "recuweb_url": "http://en.recuweb.com/computerworld.com/2015/04/language-forks-bestow-new-power-on-programming",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=php&format=RSS&cc=us",
-            "source_url": "http://computerworld.com/article/2908004/language-forks-bestow-new-power-on-programming.html"
-        },
-        "itjungle.com/2015/04/winning-php-app-pops-ibm-i-precepts": {
-            "title": "Winning PHP App Pops IBM i Precepts...",
-            "snippet": "IBM i is often portrayed as out-of-date platform for running ancient applications long since placed into maintenance mode. If you want real innovation, the mainstream thinking goes, you'd best look to more modern platforms. But if the award that...",
-            "date": "2015-04-05",
+        "sitepoint.com/2015/04/sending-emails-in-php-with-phpmailer": {
+            "title": "Sending Emails in PHP with PHPMailer...",
+            "snippet": "PHPMailer is one of the most popular open source PHP libraries to send emails with. It was first released way back in 2001 and since then it has become a PHP developers favorite way of sending emails programmatically, aside from a few other fan...",
+            "date": "2015-04-24",
             "categories": "php",
-            "tags": "best,applications,php",
-            "recuweb_url": "http://en.recuweb.com/php/itjungle.com/2015/04/winning-php-app-pops-ibm-i-precepts",
+            "tags": "developers,open,source,php",
+            "recuweb_url": "http://en.recuweb.com/php/sitepoint.com/2015/04/sending-emails-in-php-with-phpmailer",
             "resource_url": "http://www.bing.com/news/search?first=1&q=php&format=RSS&cc=us",
-            "source_url": "http://itjungle.com/tfh/tfh040615-story03.html"
+            "source_url": "http://sitepoint.com/sending-emails-php-phpmailer/"
         },
-        "blogs.msdn.com/2015/04/installing-php-package-on-azure-website-using-pear-manager": {
-            "title": "Installing PHP Package on Azure Website Using PEAR Package Manager...",
-            "snippet": "1. Download for Windows from 2. Copy file to website root (/site/wwwroot) 3. Run php at website root. Select local to install a local copy, confirm your...",
-            "date": "2015-04-03",
+        "infoworld.com/2015/04/coming-soon-php-7-and-it-s-a-scorcher": {
+            "title": "Coming soon: PHP 7 -- and it's a scorcher...",
+            "snippet": "Get ready for PHP 7; it's going to be fast. In fact, 100-percent-plus performance improvements have been seen in version 7, Rasmus Lerdorf, the founder of the scripting language, said at the O'Reilly Fluent conference in San Francisco. Lerdorf...",
+            "date": "2015-04-23",
             "categories": "php",
-            "tags": "website,using,php,run",
-            "recuweb_url": "http://en.recuweb.com/php/blogs.msdn.com/2015/04/installing-php-package-on-azure-website-using-pear-manager",
+            "tags": "said,php,language",
+            "recuweb_url": "http://en.recuweb.com/php/infoworld.com/2015/04/coming-soon-php-7-and-it-s-a-scorcher",
             "resource_url": "http://www.bing.com/news/search?first=1&q=php&format=RSS&cc=us",
-            "source_url": "http://blogs.msdn.com/b/azureossds/archive/2015/04/03/installing-php-package-on-azure-website-using-pear-package-manager.aspx"
+            "source_url": "http://infoworld.com/article/2912902/php/coming-soon-php-7-and-its-a-scorcher.html"
         },
-        "cbronline.com/2015/04/10-of-the-best-paas-providers": {
-            "title": "10 of the best PaaS providers...",
-            "snippet": "Elastic Beanstalk is for deploying and scaling web applications which are developed on Java,.NET, PHP, PHP,, Python, Ruby, Go, and Docker. These will run on Apache servers as well as Nginx, Passenger and IIS. One of the big benefits is that AWS...",
-            "date": "2015-04-02",
-            "categories": "java,php",
-            "tags": "well,run,applications,developed,best,web,java,php",
-            "recuweb_url": "http://en.recuweb.com/php/cbronline.com/2015/04/10-of-the-best-paas-providers",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=php%2Bphp&format=RSS&cc=us",
-            "source_url": "http://cbronline.com/news/cloud/aas/10-of-the-best-paas-providers-4545381"
+        "pcworld.com/2015/04/hackers-exploit-magento-e-commerce-vulnerability": {
+            "title": "Hackers exploit Magento e-commerce vulnerability...",
+            "snippet": "Rubin wrote the vulnerability in Magento is composed of several flaws which allow an unauthenticated hacker to run PHP code on a web server. The flaws are within Magentos core code and affects default installations of Magentos Community and...",
+            "date": "2015-04-23",
+            "categories": "commerce,magento,php",
+            "tags": "code,web,web-server,server,unauthenticated,run,vulnerability,exploit,php",
+            "recuweb_url": "http://en.recuweb.com/php/pcworld.com/2015/04/hackers-exploit-magento-e-commerce-vulnerability",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=php&format=RSS&cc=us",
+            "source_url": "http://pcworld.com/article/2914512/hackers-exploit-magento-ecommerce-vulnerability.html"
         },
-        "pro-linux.de/2015/03/sicherheit-zahlen%C3%BCberlauf-in-php": {
-            "title": "Sicherheit: Zahlen\u00fcberlauf in PHP...",
-            "snippet": "PHP is an HTML-embedded scripting language. PHP attempts to make it easy for developers to write dynamically generated web pages. PHP also offers built-in database integration for several commercial and non-commercial database management systems,...",
-            "date": "2015-03-31",
-            "categories": "database,management,php,html",
-            "tags": "database,developers,scripting,php,language,web",
-            "recuweb_url": "http://en.recuweb.com/html/pro-linux.de/2015/03/sicherheit-zahlen%C3%BCberlauf-in-php",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=php%2Bphp&format=RSS&cc=us",
-            "source_url": "http://pro-linux.de/sicherheit/2/29779/zahlenueberlauf-in-php.html"
-        },
-        "siliconrepublic.com/2015/03/choosing-the-right-language-start-some-side-projects-in-php": {
-            "title": "Choosing the right language: Start some side projects in PHP -...",
-            "snippet": "the right language: Start some side projects in actually studied Java in college, explains Daniel Hunt, who graduated from DCU around 2005, but I was doing some PHP on the side, projects with friends, working on different web applications. At the...",
-            "date": "2015-03-26",
-            "categories": "college,php,java",
-            "tags": "side,language,php,java,web,applications",
-            "recuweb_url": "http://en.recuweb.com/java/siliconrepublic.com/2015/03/choosing-the-right-language-start-some-side-projects-in-php",
+        "mideasttime.com/2015/04/primary-health-properties-plc-receives-hold-rating-from-sanlam-securities-mideast": {
+            "title": "Primary Health Properties PLC Receives Hold Rating from Sanlam Securities... - Mideast Time...",
+            "snippet": "Primary Health Properties PLC Receives Hold Rating from Sanlam Securities...Mideast TimePrimary Health Properties PLC logo Sanlam Securities reissued their hold rating on shares of Primary Health Properties PLC (LON:PHP) in a research report sent to...",
+            "date": "2015-04-22",
+            "categories": "health,php",
+            "tags": "primary,primary_health,primary_health_properties,health,health_properties,properties,php",
+            "recuweb_url": "http://en.recuweb.com/php/mideasttime.com/2015/04/primary-health-properties-plc-receives-hold-rating-from-sanlam-securities-mideast",
             "resource_url": "http://news.google.com/?hl=en&q=php&output=atom&nord=1",
-            "source_url": "http://siliconrepublic.com/careers/item/41334-choosing-the-right-language"
+            "source_url": "http://mideasttime.com/primary-health-properties-plc-receives-hold-rating-from-sanlam-securities-php/412793/"
         },
-        "dhakatribune.com/2015/03/php-to-manufacture-car-for-the-first-time-in-bangladesh-dhakatribune": {
-            "title": "PHP to manufacture car for the first time in Bangladesh - DhakaTribune...",
-            "snippet": "PHP to manufacture car for the first time in BangladeshDhakaTribunePHP, a business conglomerate based in Chittagong, is going to manufacture sedan car, aiming to release them in the market by the beginning of next year. The company signed a deal...",
-            "date": "2015-03-20",
-            "categories": "business,php",
-            "tags": "first,php,company",
-            "recuweb_url": "http://en.recuweb.com/php/dhakatribune.com/2015/03/php-to-manufacture-car-for-the-first-time-in-bangladesh-dhakatribune",
-            "resource_url": "http://news.google.com/?hl=en&q=php&output=atom&nord=1",
-            "source_url": "http://dhakatribune.com/bangladesh/2015/mar/21/php-manufacture-car-first-time-bangladesh"
+        "computerworld.com/2015/04/microsoft-makes-debugging-php-less-painful-with-new-azure-tool": {
+            "title": "Microsoft makes debugging PHP less painful with new Azure tool...",
+            "snippet": "IDG News Service Apr 15, 2015 11:01 AM PT Microsoft is equipping its Azure cloud service with a tool to debug PHP-based Web applications that are running on the platform. The service offers in-depth insight into how an application is performing,...",
+            "date": "2015-04-15",
+            "categories": "php",
+            "tags": "depth,depth-insight,depth-insight-into,insight,insight-into,into,application-is-performing,performing,service,service-offers,offers,tool,painful,painful-with-new,makes,makes-debugging,debugging,microsoft,php,azure,web",
+            "recuweb_url": "http://en.recuweb.com/php/computerworld.com/2015/04/microsoft-makes-debugging-php-less-painful-with-new-azure-tool",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=php&format=RSS&cc=us",
+            "source_url": "http://computerworld.com/article/2910261/microsoft-makes-debugging-php-less-painful-with-new-azure-tool.html"
+        },
+        "itworld.com/2015/04/microsoft-makes-debugging-php-less-painful-with-new-azure-tool-itworld": {
+            "title": "Microsoft makes debugging PHP less painful with new Azure tool - ITworld...",
+            "snippet": "ITworldMicrosoft makes debugging PHP less painful with new Azure toolITworldThe service offers in-depth insight into how an application is performing, said Andi Gutmans, who is the CEO of Zend Technologies and one of the original developers of PHP.",
+            "date": "2015-04-15",
+            "categories": "php",
+            "tags": "developers,technologies,depth,depth-insight,depth-insight-into,insight,insight-into,into,application-is-performing,performing,service,service-offers,offers,painful,painful-with-new,makes,makes-debugging,debugging,microsoft,php,azure,tool,said",
+            "recuweb_url": "http://en.recuweb.com/php/itworld.com/2015/04/microsoft-makes-debugging-php-less-painful-with-new-azure-tool-itworld",
+            "resource_url": "http://news.google.com/?hl=en&q=php%2Bphp&output=atom&nord=1",
+            "source_url": "http://itworld.com/article/2910615/microsoft-makes-debugging-php-less-painful-with-new-azure-tool.html"
+        },
+        "bignewsnetwork.com/2015/04/php-cgi-information-disclosure-vulnerability": {
+            "title": "PHP 'php-cgi'Information Disclosure Vulnerability...",
+            "snippet": "PHP is prone to an information-disclosure vulnerability. Exploiting this issue allows remote attackers to view the source code of files in the context of the server process. This may allow the attacker to obtain sensitive information and to run...",
+            "date": "2015-04-15",
+            "categories": "php",
+            "tags": "attackers,information,run,source,code,server,vulnerability,php",
+            "recuweb_url": "http://en.recuweb.com/php/bignewsnetwork.com/2015/04/php-cgi-information-disclosure-vulnerability",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=php%2Bphp&format=RSS&cc=us",
+            "source_url": "http://bignewsnetwork.com/index.php/sid/232024477"
         }
     }
 }
