@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "chemical-classification",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/chemical-classification/",
@@ -10,6 +11,15 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/chemical-classification/chemical-classification/blogs.json"
     },
     "items": {
+        "euractiv.com/2015/04/cto-the-real-green-gold-euractiv": {
+            "title": "CTO: The Real Green Gold - EurActiv...",
+            "snippet": "EurActivCTO: The Real Green GoldEurActivThe incorrect classification of Crude Tall Oil as a residue is a serious threat to the European pine chemical industry. By adopting the ILUC Directive with CTO included in Annex IX, EU decision makers are...",
+            "date": "2015-04-27",
+            "tags": "crude,oil,classification,chemical",
+            "recuweb_url": "http://en.recuweb.com/euractiv.com/2015/04/cto-the-real-green-gold-euractiv",
+            "resource_url": "http://news.google.com/?hl=en&q=chemical%2Bclassification%2Bchemical%2Bclassification&output=atom&nord=1",
+            "source_url": "http://euractiv.com/video/cto-real-green-gold-314107"
+        },
         "chemicalwatch.com/2015/04/chemical-watch-survey-reveals-key-management-drivers-subscription": {
             "title": "Chemical Watch survey reveals key chemical management drivers - Chemical Watch (subscription)...",
             "snippet": "Chemical Watch survey reveals key chemical management driversChemical Watch (subscription)Controls relating to the implementation of the UN Globally Harmonized System (GHS) of classification and labelling of chemicals also feature highly. The EU CLP...",
@@ -19,25 +29,6 @@
             "recuweb_url": "http://en.recuweb.com/management/chemicalwatch.com/2015/04/chemical-watch-survey-reveals-key-management-drivers-subscription",
             "resource_url": "http://news.google.com/?hl=en&q=chemical%2Bclassification&output=atom&nord=1",
             "source_url": "http://chemicalwatch.com/23633/chemical-watch-survey-reveals-key-chemical-management-drivers"
-        },
-        "digitaltrends.com/2015/04/is-cell-phone-radiation-actually-dangerous-we-asked-an-expert-digital": {
-            "title": "Is cell phone radiation actually dangerous? We asked an expert - Digital Trends...",
-            "snippet": "Digital TrendsIs cell phone radiation actually dangerous? We asked an expertDigital TrendsTake for example the recent classification of glyphosate the main chemical in the pesticide Roundup as probably carcinogenic, a move that incurred the wrath of...",
-            "date": "2015-04-23",
-            "tags": "classification,chemical",
-            "recuweb_url": "http://en.recuweb.com/digitaltrends.com/2015/04/is-cell-phone-radiation-actually-dangerous-we-asked-an-expert-digital",
-            "resource_url": "http://news.google.com/?hl=en&q=chemical%2Bclassification&output=atom&nord=1",
-            "source_url": "http://digitaltrends.com/mobile/can-cell-phones-cause-brain-cancer/"
-        },
-        "chemicalwatch.com/2015/04/notifications-to-thailand-s-fda-must-be-ghs-compliant-chemical-watch": {
-            "title": "Notifications to Thailand's FDA must be GHS compliant - Chemical Watch (subscription)...",
-            "snippet": "Notifications to Thailand's FDA must be GHS compliantChemical Watch (subscription)The information on hazardous substances to be reported to Thailand's Food and Drug Administration (FDA) must now include classification data, based on the third...",
-            "date": "2015-04-23",
-            "categories": "drug-administration,food",
-            "tags": "hazardous,ghs,compliant,chemical,subscription,classification,data",
-            "recuweb_url": "http://en.recuweb.com/food/chemicalwatch.com/2015/04/notifications-to-thailand-s-fda-must-be-ghs-compliant-chemical-watch",
-            "resource_url": "http://news.google.com/?hl=en&q=chemical%2Bclassification&output=atom&nord=1",
-            "source_url": "http://chemicalwatch.com/23627/notifications-to-thailands-fda-must-be-ghs-compliant"
         },
         "chemicalwatch.com/2015/04/different-cosmetics-classifications-pose-challenge-in-asia-chemical-watch-subscription": {
             "title": "Different cosmetics classifications pose challenge in Asia - Chemical Watch (subscription)...",
@@ -53,36 +44,47 @@
             "title": "Hoquiam councils oil workshop produces questions...",
             "snippet": "John Pellegrini, a Ward 1 councilman, suggested zoning out very specific liquids based on their chemical classification. The discussion focused on the placards with 1267 classifications on rail cars carrying crude oil. Mayor Jack Durney added...",
             "date": "2015-04-21",
-            "tags": "classifications,classification,oil,chemical",
+            "tags": "classifications,classification,crude,oil,chemical",
             "recuweb_url": "http://en.recuweb.com/thedailyworld.com/2015/04/hoquiam-councils-oil-workshop-produces-questions",
             "resource_url": "http://www.bing.com/news/search?first=1&q=chemical%2Bclassification&format=RSS&cc=us",
             "source_url": "http://thedailyworld.com/news/local/hoquiam-council-s-oil-workshop-produces-questions"
+        },
+        "cambridgenetwork.co.uk/2015/04/physical-scientist-data-analysis": {
+            "title": "Physical Scientist: Data Analysis...",
+            "snippet": "The role will focus on exploration and analysis of ion-spectrum data to help build the next generation of chemical classification methods and libraries for Owlstones detection products. The successful candidate will have practical experimental...",
+            "date": "2015-04-20",
+            "categories": "exploration",
+            "tags": "products,data,chemical,classification",
+            "recuweb_url": "http://en.recuweb.com/exploration/cambridgenetwork.co.uk/2015/04/physical-scientist-data-analysis",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=chemical%2Bclassification&format=RSS&cc=us",
+            "source_url": "http://cambridgenetwork.co.uk/29430.article?ref=40712&type=jobs"
+        },
+        "chemicalwatch.com/2015/04/the-impact-of-canada-s-ghs-adoption-chemical-watch-subscription": {
+            "title": "The impact of Canada's GHS adoption - Chemical Watch (subscription)...",
+            "snippet": "The impact of Canada's GHS adoptionChemical Watch (subscription)On 11 February, Health Canada issued the final Hazardous Products Regulations (HPR), which implement the UNs Globally Harmonized System of Classification and Labelling of Chemicals...",
+            "date": "2015-04-15",
+            "categories": "health",
+            "tags": "globally,globally_harmonized,globally_harmonized_system,harmonized,harmonized_system,system,hazardous,products,regulations,ghs,chemicals,subscription,classification,labelling",
+            "recuweb_url": "http://en.recuweb.com/health/chemicalwatch.com/2015/04/the-impact-of-canada-s-ghs-adoption-chemical-watch-subscription",
+            "resource_url": "http://news.google.com/?hl=en&q=chemical%2Bclassification&output=atom&nord=1",
+            "source_url": "http://chemicalwatch.com/23535/the-impact-of-canadas-ghs-adoption"
         },
         "cricketworld.com/2015/04/headland-gearing-up-for-new-clp-hazard-warning-labelling": {
             "title": "Headland Gearing Up For New CLP Hazard Warning Labelling...",
             "snippet": "New Classification, Labelling and Packaging (CLP) Regulations are set to come into force in replacement of the current chemical classification law. It has become increasingly evident that in order for a higher degree of safety amongst users, a...",
             "date": "2015-04-09",
             "categories": "law",
-            "tags": "safety,classification,clp,hazard,labelling,chemical",
+            "tags": "safety,classification,clp,hazard,labelling,regulations,chemical",
             "recuweb_url": "http://en.recuweb.com/law/cricketworld.com/2015/04/headland-gearing-up-for-new-clp-hazard-warning-labelling",
             "resource_url": "http://www.bing.com/news/search?first=1&q=chemical%2Bclassification&format=RSS&cc=us",
             "source_url": "http://cricketworld.com/headland-gearing-up-for-new-clp-hazard-warning-labelling/40665.htm"
-        },
-        "powderbulksolids.com/2015/04/understanding-globally-harmonized-system-for-classification-and-labeling-of-powder-bulk": {
-            "title": "Understanding Globally Harmonized System for Classification and Labeling of... - Powder Bulk Solids...",
-            "snippet": "Understanding Globally Harmonized System for Classification and Labeling of...Powder Bulk SolidsIn March 2012, OSHA revised its 1983 Hazard Communication Standard (HCS) by aligning it with the United Nations'global chemical communication system: the...",
-            "date": "2015-04-06",
-            "tags": "communication,system,hazard,hazard_communication,hazard_communication_standard,communication_standard,standard,globally,globally_harmonized,globally_harmonized_system,harmonized,harmonized_system,classification,labeling,chemical",
-            "recuweb_url": "http://en.recuweb.com/powderbulksolids.com/2015/04/understanding-globally-harmonized-system-for-classification-and-labeling-of-powder-bulk",
-            "resource_url": "http://news.google.com/?hl=en&q=chemical%2Bclassification&output=atom&nord=1",
-            "source_url": "http://powderbulksolids.com/article/Understanding-Globally-Harmonized-System-for-Classification-and-Labeling-of-Chemicals-04-06-2015"
         },
         "jagranjosh.com/2015/03/cbse-class-11-some-basic-concept-of-chemistry-chemical-classification-matter": {
             "title": "CBSE Class 11: Some Basic Concept of Chemistry - Chemical Classification of Matter...",
             "snippet": "(i) Homogeneous mixture: The mixtures that have uniform composition throughout. eg. Air is a homogenous mixture of different gases. (ii) Heterogeneous mixture: The mixture that does not have uniform composition. e.g. oil in water. Pure substance:...",
             "date": "2015-03-17",
             "categories": "chemical-classification,chemistry",
-            "tags": "oil,different,chemical,chemical_classification,classification,chemistry,matter",
+            "tags": "oil,different,chemical,chemical_classification,classification,basic,chemistry,matter",
             "recuweb_url": "http://en.recuweb.com/chemistry/jagranjosh.com/2015/03/cbse-class-11-some-basic-concept-of-chemistry-chemical-classification-matter",
             "resource_url": "http://www.bing.com/news/search?first=1&q=chemical%2Bclassification&format=RSS&cc=us",
             "source_url": "http://jagranjosh.com/articles/cbse-class-11-some-basic-concept-of-chemistry-chemical-classification-of-matter-1426591515-1"
@@ -92,7 +94,7 @@
             "snippet": "GHS will provide a standardised approach to label contents and safety data sheets and is based on major existing systems around the world, including: OSHAs Hazard Communication Standard in the US and Chemical Classification and labelling systems...",
             "date": "2015-01-07",
             "categories": "chemical-classification",
-            "tags": "labelling,chemical,chemical_classification,classification,oshas,hazard,hazard_communication,hazard_communication_standard,communication,communication_standard,standard,labels,safety,safety-data,safety-data-sheets,data,data-sheets,sheets,major,compliant,ghs,available",
+            "tags": "labelling,chemical,chemical_classification,classification,oshas,hazard,communication,labels,safety,safety-data,safety-data-sheets,data,data-sheets,sheets,major,ghs,available",
             "recuweb_url": "http://en.recuweb.com/chemical-classification/gasworld.com/2015/01/ghs-compliant-labels-now-available",
             "resource_url": "http://www.bing.com/news/search?first=1&q=chemical%2Bclassification&format=RSS&cc=us",
             "source_url": "http://gasworld.com/ghs-compliant-labels-now-available/2004909.article"
@@ -102,7 +104,7 @@
             "snippet": "THE WOODLANDS, TX October 14, 2014 Huntsman Corporation's Polyurethanes division in the Americas region began implementing the use of Globally Harmonized System (GHS) safety data sheets and labels for products sent to customers, distributors, and...",
             "date": "2014-10-14",
             "categories": "chemical-classification",
-            "tags": "safety,safety-data,safety-data-sheets,data,data-sheets,sheets,labels,chemical,chemical_classification,classification,globally,globally_harmonized,globally_harmonized_system,harmonized,harmonized_system,system,labeling,ghs",
+            "tags": "safety,safety-data,safety-data-sheets,data,data-sheets,sheets,labels,products,chemical,chemical_classification,classification,globally,globally_harmonized,globally_harmonized_system,harmonized,harmonized_system,system,labeling,ghs",
             "recuweb_url": "http://en.recuweb.com/chemical-classification/sprayfoam.com/2014/10/huntsman-implements-use-of-globally-harmonized-system-chemical-classification-and-labeling",
             "resource_url": "http://www.bing.com/news/search?first=1&q=chemical%2Bclassification&format=RSS&cc=us",
             "source_url": "http://sprayfoam.com/npps/story.cfm?nppage=1854"
