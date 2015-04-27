@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "financial-economics",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/financial-economics/",
@@ -10,13 +11,24 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/financial-economics/financial-economics/blogs.json"
     },
     "items": {
+        "umdecon.blogspot.com/2015/04/financial-economics-econ-undergraduate-blog": {
+            "title": "Financial Economics - ECON Undergraduate Blog...",
+            "snippet": "New M.A. degree program in Financial Economics through Northern Illinois University... New M.A. degree program in Financial Economics thr... Paid Economics Internship with National Associatio... EAM Hosting John Downs...",
+            "date": "2015-04-16",
+            "author_name": "umdECON",
+            "categories": "university,financial-economics",
+            "tags": "john,economics,university,program,undergraduate,financial,financial_economics,degree",
+            "recuweb_url": "http://en.recuweb.com/financial-economics/umdecon.blogspot.com/2015/04/financial-economics-econ-undergraduate-blog",
+            "resource_url": "http://www.google.com/search?q=financial%2Beconomics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://umdecon.blogspot.com/2015/04/new-ma-degree-program-in-financial.html"
+        },
         "cfe.econ.jhu.edu/2015/03/center-for-financial-economics-dots": {
             "title": "Center for Financial Economics Dots...",
             "snippet": "Just before the release of the FOMC's Survey of Economic Projections (SEP) in December, I posted a piece saying that the dots would reveal nothing and arguing that, by design, the dot plot is not likely to help us understand...",
             "date": "2015-03-19",
             "author_name": "Jon Faust",
             "categories": "financial-economics",
-            "tags": "help,understand,economics,before,financial,financial_economics,center,fomc,survey,nothing",
+            "tags": "help,understand,economics,financial,financial_economics,center,fomc,survey",
             "recuweb_url": "http://en.recuweb.com/financial-economics/cfe.econ.jhu.edu/2015/03/center-for-financial-economics-dots",
             "resource_url": "http://www.google.com/search?q=financial%2Beconomics%2Bfinancial%2Beconomics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://cfe.econ.jhu.edu/2015/03/1842/"
@@ -27,7 +39,7 @@
             "date": "2015-03-16",
             "author_name": "Jon Faust",
             "categories": "financial-economics",
-            "tags": "could,long,before,down,fomc,conference,financial,financial_economics,economics,center",
+            "tags": "program,fomc,conference,financial,financial_economics,economics,center,rate",
             "recuweb_url": "http://en.recuweb.com/financial-economics/cfe.econ.jhu.edu/2015/03/center-for-financial-economics-happy-anniversary-chair-yellen",
             "resource_url": "http://www.google.com/search?q=financial%2Beconomics%2Bfinancial%2Beconomics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://cfe.econ.jhu.edu/2015/03/1825/"
@@ -37,9 +49,9 @@
             "snippet": "By Bob Barbera and Jon Faust. Simple plots of recent GDP and inflation data highlight two profoundly important questions facing monetary policymakers in the United States. GDP is at a level several percentage points below...",
             "date": "2015-02-27",
             "author_name": "CFEGuru",
-            "categories": "inflation,financial-economics",
-            "tags": "level,below,united,united_states,states,monetary,inflation,recent,financial,financial_economics,economics,center,important",
-            "recuweb_url": "http://en.recuweb.com/financial-economics/cfe.econ.jhu.edu/2015/02/center-for-financial-economics-two-big-questions",
+            "categories": "financial-economics,inflation",
+            "tags": "united,united_states,states,important,recent,financial,financial_economics,economics,center,gdp,inflation,level",
+            "recuweb_url": "http://en.recuweb.com/inflation/cfe.econ.jhu.edu/2015/02/center-for-financial-economics-two-big-questions",
             "resource_url": "http://www.google.com/search?q=financial%2Beconomics%2Bfinancial%2Beconomics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://cfe.econ.jhu.edu/2015/02/two-big-questions/"
         },
@@ -49,10 +61,21 @@
             "date": "2015-02-22",
             "author_name": "Administator",
             "categories": "finance,macroeconomics,financial-economics,management,university",
-            "tags": "finance,research,financial,financial_economics,economics,conference,macro,management,statistics,university",
+            "tags": "empirical,finance,financial,financial_economics,economics,conference,macro,department,management,statistics,university",
             "recuweb_url": "http://en.recuweb.com/university/econometricopedia.com/2015/02/11th-bmrc-dems-conference-on-macro-and-financial-economics",
             "resource_url": "http://www.google.com/search?q=financial%2Beconomics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://econometricopedia.com/annual-conferences/11th-bmrc-dems-conference-on-macro-and-financial-economicseconometrics-18-19th-of-may-2015/"
+        },
+        "cfe.econ.jhu.edu/2015/02/center-for-financial-economics-jobs-inflation-and-growth-in-2015": {
+            "title": "Center for Financial Economics Jobs, inflation, and growth in 2015...",
+            "snippet": "Recent readings for the U.S. economy are filled with contradictions. Non-farm payroll gains were quite strong. Unemployment fell to 5.7% from 6.1%, last September. Nonetheless, real GDP growth was soft, up only 2.6%.",
+            "date": "2015-02-16",
+            "author_name": "Bob Barbera",
+            "categories": "economy,financial-economics,inflation,unemployment",
+            "tags": "financial,financial_economics,economics,center,inflation,recent,gdp",
+            "recuweb_url": "http://en.recuweb.com/unemployment/cfe.econ.jhu.edu/2015/02/center-for-financial-economics-jobs-inflation-and-growth-in-2015",
+            "resource_url": "http://www.google.com/search?q=financial%2Beconomics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://cfe.econ.jhu.edu/2015/02/1788/"
         },
         "higheredjobs.com/2015/02/senior-lecturer-in-financial-economics-industrial": {
             "title": "Senior Lecturer/Lecturer in Financial Economics; Industrial...",
@@ -60,53 +83,32 @@
             "date": "2015-02-03",
             "author_name": "rss@higheredjobs.com (HigherEdJobs)",
             "categories": "financial-economics,university",
-            "tags": "undergraduate,international,financial,financial_economics,economics,university,offer,masters",
+            "tags": "undergraduate,financial,financial_economics,economics,university,international",
             "recuweb_url": "http://en.recuweb.com/university/higheredjobs.com/2015/02/senior-lecturer-in-financial-economics-industrial",
             "resource_url": "http://www.google.com/search?q=financial%2Beconomics%2Bfinancial%2Beconomics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://higheredjobs.com/details.cfm?JobCode=176015948"
+        },
+        "myoworvitosotistuconwoutarext.wordpress.com/2015/01/topics-for-dissertation-in-financial-economics": {
+            "title": "Topics for dissertation in financial economics...",
+            "snippet": "Topics for dissertation in financial economics click here Samples of character sketch essays While most of us are well aware of the mid-life crisis, we have a feeling less people...",
+            "date": "2015-01-07",
+            "author_name": "myoworvitosotistuconwoutarext",
+            "categories": "life",
+            "tags": "people,financial,economics,here,life,crisis",
+            "recuweb_url": "http://en.recuweb.com/life/myoworvitosotistuconwoutarext.wordpress.com/2015/01/topics-for-dissertation-in-financial-economics",
+            "resource_url": "http://en.search.wordpress.com/?q=financial%2Beconomics&f=feed&page=1",
+            "source_url": "http://myoworvitosotistuconwoutarext.wordpress.com/2015/01/07/topics-for-dissertation-in-financial-economics/"
         },
         "cfe.econ.jhu.edu/2014/12/center-for-financial-economics-patience-and-prices": {
             "title": "Center for Financial Economics Patience and prices...",
             "snippet": "Consensus expectations were off regarding the November estimate for U.S. CPI inflation released yesterday. The 0.3% fall for headline inflation was a larger drop than estimated by 82 of the 84 economists who ventured forth...",
             "date": "2014-12-18",
             "author_name": "CFEGuru",
-            "categories": "inflation,financial-economics",
-            "tags": "inflation,than,off,financial,financial_economics,economics,center",
-            "recuweb_url": "http://en.recuweb.com/financial-economics/cfe.econ.jhu.edu/2014/12/center-for-financial-economics-patience-and-prices",
+            "categories": "financial-economics,inflation",
+            "tags": "drop,prices,financial,financial_economics,economics,center,expectations,inflation",
+            "recuweb_url": "http://en.recuweb.com/inflation/cfe.econ.jhu.edu/2014/12/center-for-financial-economics-patience-and-prices",
             "resource_url": "http://www.google.com/search?q=financial%2Beconomics%2Bfinancial%2Beconomics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://cfe.econ.jhu.edu/2014/12/1764/"
-        },
-        "thefinancialengineer.net/2014/11/2015-economics-rankings-the-financial-engineer": {
-            "title": "2015 Economics Rankings The Financial Engineer...",
-            "snippet": "The Financial Engineer's 2015 Master of Economics Rankings are the most comprehensive rankings for graduate economics programs in the United States. These rankings have been recognized by Purdue University,...",
-            "date": "2014-11-29",
-            "author_name": "The Financial Engineer",
-            "categories": "university",
-            "tags": "university,rankings,recognized,united,united_states,states,programs,comprehensive,comprehensive-rankings,rankings-for-graduate,graduate,economics,economics_rankings,financial,financial_engineer,engineer,rankings_the_financial,master",
-            "recuweb_url": "http://en.recuweb.com/university/thefinancialengineer.net/2014/11/2015-economics-rankings-the-financial-engineer",
-            "resource_url": "http://www.google.com/search?q=financial%2Beconomics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://thefinancialengineer.net/economics-rankings/"
-        },
-        "atliogatonvehowdistlytluphocer.wordpress.com/2014/11/financial-economics-thesis": {
-            "title": "Financial economics thesis...",
-            "snippet": "Financial economics thesis get more info Essay on political ethics Growing number of cases of obesity has made it into a fully grown social problem child obesity is a much...",
-            "date": "2014-11-20",
-            "author_name": "atliogatonvehowdistlytluphocer",
-            "categories": "ethics",
-            "tags": "into,thesis,financial,economics,essay,ethics,number",
-            "recuweb_url": "http://en.recuweb.com/ethics/atliogatonvehowdistlytluphocer.wordpress.com/2014/11/financial-economics-thesis",
-            "resource_url": "http://en.search.wordpress.com/?q=financial%2Beconomics%2Bfinancial%2Beconomics&f=feed&page=1",
-            "source_url": "http://atliogatonvehowdistlytluphocer.wordpress.com/2014/11/20/financial-economics-thesis/"
-        },
-        "athlybamedlacoperuterptechfi.wordpress.com/2014/11/thesis-financial-monetary-economics": {
-            "title": "Thesis financial monetary economics...",
-            "snippet": "Thesis financial monetary economics click to continue Narrative essay personal pronouns The essay below was written as last week's national review cover story: to be honest, i didn't really think...",
-            "date": "2014-11-05",
-            "author_name": "athlybamedlacoperuterptechfi",
-            "tags": "really,essay,below,thesis,financial,monetary,economics",
-            "recuweb_url": "http://en.recuweb.com/athlybamedlacoperuterptechfi.wordpress.com/2014/11/thesis-financial-monetary-economics",
-            "resource_url": "http://en.search.wordpress.com/?q=financial%2Beconomics%2Bfinancial%2Beconomics&f=feed&page=1",
-            "source_url": "http://athlybamedlacoperuterptechfi.wordpress.com/2014/11/05/thesis-financial-monetary-economics/"
         },
         "thefinancialengineer.net/2014/09/2015-financial-economics-rankings-the-engineer": {
             "title": "2015 Financial Economics Rankings The Financial Engineer...",
@@ -114,7 +116,7 @@
             "date": "2014-09-26",
             "author_name": "The Financial Engineer",
             "categories": "financial-economics",
-            "tags": "rankings,recognized,united,united_states,states,programs,comprehensive,comprehensive-rankings,rankings-for-graduate,graduate,financial,financial_economics,economics,economics_rankings,financial_engineer,engineer,rankings_the_financial,master",
+            "tags": "united,united_states,states,financial,financial_economics,economics,master,graduate",
             "recuweb_url": "http://en.recuweb.com/financial-economics/thefinancialengineer.net/2014/09/2015-financial-economics-rankings-the-engineer",
             "resource_url": "http://www.google.com/search?q=financial%2Beconomics%2Bfinancial%2Beconomics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://thefinancialengineer.net/financial-economics-rankings/"
