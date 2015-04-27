@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "css",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/css/",
@@ -10,16 +11,60 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/css/css/blogs.json"
     },
     "items": {
+        "webdesigncoloradodenver.com/2015/04/css-the-lacking-guide": {
+            "title": "CSS: The Lacking Guide...",
+            "snippet": "Html Css CSS: The Missing Guide html css just click on the picture below for more data. ISBN13: 9780596802448 Condition: New Notes: Brand name NEW FROM PUBLISHER! one hundred% Fulfillment Assure. Monitoring provided on most orders. Get with...",
+            "date": "2015-04-25",
+            "author_name": "admin",
+            "categories": "html,css",
+            "tags": "guide,html,css",
+            "recuweb_url": "http://en.recuweb.com/css/webdesigncoloradodenver.com/2015/04/css-the-lacking-guide",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=css%2Bcss&rss=1&lng=en",
+            "source_url": "http://webdesigncoloradodenver.com/web-design/html-css/css-the-lacking-guide/"
+        },
+        "css-tricks.com/2015/04/chaining-multiple-blend-modes-css-tricks": {
+            "title": "Chaining Multiple Blend Modes CSS-Tricks...",
+            "snippet": "The background-blend-mode CSS property is nifty in lots of ways. It gives developers the ability to blend one background-image with its own background-colo.",
+            "date": "2015-04-24",
+            "author_name": "Robin Rendle",
+            "categories": "property,css",
+            "tags": "css,tricks",
+            "recuweb_url": "http://en.recuweb.com/css/css-tricks.com/2015/04/chaining-multiple-blend-modes-css-tricks",
+            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://css-tricks.com/chaining-multiple-blend-modes/"
+        },
+        "designmodo.com/2015/04/create-an-svg-animation-using-css-and-javascript-designmodo": {
+            "title": "Create an SVG Animation using CSS and JavaScript - Designmodo...",
+            "snippet": "I am going to show you how you can animation SVG using CSS and JavaScript using some icons, text and vector graphics that I created on Adobe Illustrator.",
+            "date": "2015-04-24",
+            "author_name": "Sam Norton",
+            "categories": "css,javascript",
+            "tags": "text,graphics,create,css,javascript",
+            "recuweb_url": "http://en.recuweb.com/javascript/designmodo.com/2015/04/create-an-svg-animation-using-css-and-javascript-designmodo",
+            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://designmodo.com/svg-animation/"
+        },
         "hongkiat.com/2015/04/30-cool-css-animations-you-have-to-see-hongkiat": {
             "title": "30 Cool CSS Animations You Have To See - Hongkiat...",
-            "snippet": "We've previously published the creative text effects you can make with CSS, and many other cool things you didn't think were possibly to make with CSS. This compilation however focuses on the many things you can animate with CSS, and...",
+            "snippet": "We've previously published the creative text effects you can make with CSS, and many other cool things you didn't think were possibly to make with CSS. This.",
             "date": "2015-04-22",
             "author_name": "Agus",
             "categories": "css",
-            "tags": "make,other,text,effects,css",
+            "tags": "text,css",
             "recuweb_url": "http://en.recuweb.com/css/hongkiat.com/2015/04/30-cool-css-animations-you-have-to-see-hongkiat",
             "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://hongkiat.com/blog/creative-css-animations/"
+        },
+        "css-tricks.com/2015/04/where-style-guides-fit-into-process-css-tricks": {
+            "title": "Where Style Guides Fit Into Process CSS-Tricks...",
+            "snippet": "Brad Frost was showing me some slides from one of his talks recently. He had some graphics that demonstrated different approaches to where a style guide can fit into a team's process. As you might imagine, it's a matter of...",
+            "date": "2015-04-20",
+            "author_name": "Chris Coyier",
+            "categories": "css",
+            "tags": "graphics,style,guide,into,css,tricks",
+            "recuweb_url": "http://en.recuweb.com/css/css-tricks.com/2015/04/where-style-guides-fit-into-process-css-tricks",
+            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://css-tricks.com/where-style-guides-fit-into-process/"
         },
         "css-tricks.com/2015/04/html-vs-body-in-css-tricks": {
             "title": "HTML vs Body in CSS CSS-Tricks...",
@@ -27,97 +72,53 @@
             "date": "2015-04-17",
             "author_name": "Geoff Graham",
             "categories": "css,html",
-            "tags": "than,into,well,should,written,css,html,tricks",
+            "tags": "into,well,should,written,css,html,tricks",
             "recuweb_url": "http://en.recuweb.com/html/css-tricks.com/2015/04/html-vs-body-in-css-tricks",
             "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://css-tricks.com/html-vs-body-in-css/"
         },
-        "css-tricks.com/2015/04/using-chrome-devtools-to-debug-javascript-in-any-css-tricks": {
-            "title": "Using Chrome DevTools to Debug JavaScript in Any... - CSS-Tricks...",
-            "snippet": "Modern desktop browsers offer powerful integrated developer tools that let you get to the bottom of CSS or JavaScript problems quickly. Whether it's Chrome, Firefox, Internet Explorer, or Safari, you will be able to inspect the...",
+        "synapseindiacurrentopening.wordpress.com/2015/04/which-web-development-language-is-useful-to-learn-synapseindia-current-openings": {
+            "title": "Which Web Development Language is Useful to Learn? SynapseIndia Current Openings...",
+            "snippet": "Weve all heard the terms HTML, CSS, PHP and ASP, just to specify a couple, and likely have some thought of the relationship between these scripts and the act of web development, however with regards to settling on a choice with respect to which...",
             "date": "2015-04-15",
-            "author_name": "Chris Coyier",
-            "categories": "internet,javascript,css",
-            "tags": "bottom,javascript,using,css,tricks",
-            "recuweb_url": "http://en.recuweb.com/css/css-tricks.com/2015/04/using-chrome-devtools-to-debug-javascript-in-any-css-tricks",
-            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://css-tricks.com/using-chrome-devtools-to-debug-javascript-in-any-browser-with-ghostlab-2/"
+            "author_name": "satyasingh9089",
+            "categories": "web-development,html,css,php",
+            "tags": "web,web_development,development,heard,language,learn,html,css",
+            "recuweb_url": "http://en.recuweb.com/php/synapseindiacurrentopening.wordpress.com/2015/04/which-web-development-language-is-useful-to-learn-synapseindia-current-openings",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=css%2Bcss&rss=1&lng=en",
+            "source_url": "http://synapseindiacurrentopening.wordpress.com/2015/04/15/which-web-development-language-is-useful-to-learn-synapseindia-current-openings/"
         },
         "reddit.com/2015/04/free-e-book-how-to-code-in-html5-and-css3": {
             "title": "Free e-book: How to Code in HTML5 and CSS3...",
             "snippet": "Hello, my friend, Damian, has written a book for people whod like to learn HTML5 and CSS3 from scratch. Its free and available for both reading on the web as well as in most popular formats (PDF, ePub, mobi). You can read or download it here: Enjoy!",
             "date": "2015-04-14",
             "categories": "html,css",
-            "tags": "here,well,learn,written,code,html,css,web,pdf,epub",
+            "tags": "here,web,well,learn,written,code,html,css,people",
             "recuweb_url": "http://en.recuweb.com/css/reddit.com/2015/04/free-e-book-how-to-code-in-html5-and-css3",
             "resource_url": "http://www.reddit.com/search.rss?q=css%2Bcss&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/learnprogramming/comments/32jq5q/free_ebook_how_to_code_in_html5_and_css3/"
         },
-        "thewaterbear.com/2015/04/landscape-parallax-using-css-the-water-bear": {
-            "title": "Landscape parallax using CSS - The Water Bear...",
-            "snippet": "The site was built using this implementation Keith Clark came up with. I've done a variety of parallax effects before using all kinds of javascript but this one is by far my favorite because it uses CSS only which is huge. Keith's...",
+        "kulkarnisoftware.com/2015/04/future-of-web-development-services-in-glasgow-html5-css3": {
+            "title": "Future of Web Development Services in Glasgow: HTML5 CSS3...",
+            "snippet": "Future of Web Development Services in Glasgow: HTML5 and CSS3 These days, everybody is aware of the importance of Hyper Text Mark-up Language (HTML) and Cascading Style Sheets (CSS) in web development. HTML is used to create web pages. It is simple...",
             "date": "2015-04-14",
-            "author_name": "ExplodingAds.com",
-            "categories": "javascript,landscape,css",
-            "tags": "effects,using,javascript,far,site,css",
-            "recuweb_url": "http://en.recuweb.com/css/thewaterbear.com/2015/04/landscape-parallax-using-css-the-water-bear",
-            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://thewaterbear.com/pure-css-landscape-parallax/"
-        },
-        "css-tricks.com/2015/04/more-control-over-text-decoration-css-tricks": {
-            "title": "More Control over Text Decoration CSS-Tricks...",
-            "snippet": "Marie Mosley just finished up a revamping of the text-decoration property (and friends) in the Almanac. You're probably aware of this property. For instanc.",
-            "date": "2015-04-14",
-            "author_name": "Chris Coyier",
-            "categories": "property,css",
-            "tags": "text,css,tricks",
-            "recuweb_url": "http://en.recuweb.com/css/css-tricks.com/2015/04/more-control-over-text-decoration-css-tricks",
-            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://css-tricks.com/more-control-over-text-decoration/"
-        },
-        "cssreset.com/2015/04/how-to-keep-the-footer-at-bottom-of-page-with-css": {
-            "title": "How To Keep The Footer At The Bottom of the Page with CSS...",
-            "snippet": "This tutorial demonstrates how to keep the footer at the bottom of the page on short documents or pages with little content, using CSS and HTML.",
-            "date": "2015-04-12",
-            "author_name": "Joss",
-            "categories": "css,html",
-            "tags": "tutorial,bottom,css,using,html",
-            "recuweb_url": "http://en.recuweb.com/html/cssreset.com/2015/04/how-to-keep-the-footer-at-bottom-of-page-with-css",
-            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://cssreset.com/how-to-keep-footer-at-bottom-of-page-with-css/"
-        },
-        "alfiansyahmaulana.blogspot.com/2015/04/lesson-1-what-is-css": {
-            "title": "Lesson 1: What is CSS?",
-            "snippet": "Maybe you already heard about CSS without really knowing what it is. In this lesson you will learn more about what CSS is and what it can do for you. CSS is an acronym for Cascading Style Sheets. What can I do with CSS? CSS is a style language that...",
-            "date": "2015-04-07",
-            "author_name": "(Maulana Alfiansyah)",
-            "categories": "css",
-            "tags": "learn,really,css,already",
-            "recuweb_url": "http://en.recuweb.com/css/alfiansyahmaulana.blogspot.com/2015/04/lesson-1-what-is-css",
+            "author_name": "Ashish Kulkarni",
+            "categories": "web-development,html,css",
+            "tags": "create,web,pages,web_development,development,style,text,services,future,html,css,language",
+            "recuweb_url": "http://en.recuweb.com/css/kulkarnisoftware.com/2015/04/future-of-web-development-services-in-glasgow-html5-css3",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=css%2Bcss&rss=1&lng=en",
-            "source_url": "http://alfiansyahmaulana.blogspot.com/2015/04/lesson-1-what-is-css.html"
+            "source_url": "http://kulkarnisoftware.com/blog/future-of-web-development-services-in-glasgow-html5-and-css3/"
         },
-        "websitestodesignbeforeisleep.wordpress.com/2015/04/html-confusing-i-dont-css-what-you-mean": {
-            "title": "HTML? Confusing? I dont CSS what you mean.",
-            "snippet": "Being introduced to coding was similar to being taught Spanish for the first time. I was intensely confused, concentrating harder than was humanly necessary, leaning forward and squinting hard at the PowerPoint slideshow in an effort to somehow...",
-            "date": "2015-04-01",
-            "author_name": "unashmedofthegospel",
-            "categories": "html,css",
-            "tags": "hard,than,html,css,first",
-            "recuweb_url": "http://en.recuweb.com/css/websitestodesignbeforeisleep.wordpress.com/2015/04/html-confusing-i-dont-css-what-you-mean",
+        "gomakethings.com/2015/04/automating-css-and-js-cache-busting-with-gulp-wordpress": {
+            "title": "Automating CSS and JS cache-busting with Gulp and WordPress...",
+            "snippet": "I serve my CSS and JavaScript files with far-future expires headers. This tells browsers to hold on to them for a really long time (in my case, a year), so that theres a few less assets to download on all visits and pages loads after the first. The...",
+            "date": "2015-04-13",
+            "author_name": "Chris Ferdinandi",
+            "categories": "css,wordpress,javascript",
+            "tags": "pages,long,future,css,javascript,hold",
+            "recuweb_url": "http://en.recuweb.com/javascript/gomakethings.com/2015/04/automating-css-and-js-cache-busting-with-gulp-wordpress",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=css%2Bcss&rss=1&lng=en",
-            "source_url": "http://websitestodesignbeforeisleep.wordpress.com/2015/04/01/html-confusing-i-dont-css-what-you-mean/"
-        },
-        "webdesigncoloradodenver.com/2015/04/what-is-far-more-proper-for-a-newbie-to-start-off": {
-            "title": "What is far more proper for a newbie to start off studying 1st HTML CSS or PHP MySQL?",
-            "snippet": "Html Css html css question by Cold: What is a lot more proper for a novice to begin finding out very first HTML CSS or PHP MySQL? I want to discover far more about net programming and advancement, so what is the correct way and what is the first...",
-            "date": "2015-04-01",
-            "author_name": "admin",
-            "categories": "php,mysql,html,css",
-            "tags": "want,far,html,css,off,first",
-            "recuweb_url": "http://en.recuweb.com/css/webdesigncoloradodenver.com/2015/04/what-is-far-more-proper-for-a-newbie-to-start-off",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=css%2Bcss&rss=1&lng=en",
-            "source_url": "http://webdesigncoloradodenver.com/web-design/html-css/what-is-far-more-proper-for-a-newbie-to-start-off-studying-1st-html-css-or-php-mysql/"
+            "source_url": "http://gomakethings.com/automating-css-and-js-cache-busting-with-gulp-and-wordpress/"
         }
     }
 }
