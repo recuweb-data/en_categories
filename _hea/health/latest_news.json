@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "health",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/health/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/health/health/blogs.json"
     },
     "items": {
-        "usatoday.com/2015/04/brca-gene-datashare-will-help-detect-cancer-risk": {
-            "title": "BRCA gene datashare will help detect cancer risk...",
-            "snippet": "Actress Angelina Jolie has spoken candidly about her health issues. (Photo: Kevin Winter, Getty Images) A first-of-its-kind genetic datashare program is being launched to zero in on patients with unclear BRCA test results and save more women from...",
-            "date": "2015-04-20",
-            "categories": "cancer,health",
-            "tags": "kind,program,launched,patients,help,cancer,risk,health,issues,photo",
-            "recuweb_url": "http://en.recuweb.com/health/usatoday.com/2015/04/brca-gene-datashare-will-help-detect-cancer-risk",
+        "ibtimes.com/2015/04/dangerous-spice-drug-cases-on-the-rise-overdoses-from-synthetic-marijuana": {
+            "title": "Dangerous Spice Drug Cases On The Rise, Overdoses From Synthetic Marijuana 4 Times As High As In...",
+            "snippet": "Use of a synthetic drug that can cause extreme anxiety, delusions and violent behavior is on the rise in several U.S. states, sending more people to hospitals than ever before. On Thursday, U.S. health officials saw 172 reports of overdoses from...",
+            "date": "2015-04-27",
+            "categories": "health",
+            "tags": "officials,people,drug,high,health",
+            "recuweb_url": "http://en.recuweb.com/health/ibtimes.com/2015/04/dangerous-spice-drug-cases-on-the-rise-overdoses-from-synthetic-marijuana",
             "resource_url": "http://www.bing.com/news/search?first=1&q=health&format=RSS&cc=us",
-            "source_url": "http://usatoday.com/story/news/2015/04/21/brca-genetic-datashare/26087241/"
+            "source_url": "http://ibtimes.com/dangerous-spice-drug-cases-rise-overdoses-synthetic-marijuana-4-times-high-2014-1897865"
         },
-        "abcnews.go.com/2015/04/cardinal-health-paying-26-8-million-in-ftc-settlement-abc-news": {
-            "title": "Cardinal Health Paying 26.8 Million in FTC Settlement - ABC News...",
-            "snippet": "Columbus DispatchCardinal Health Paying 26.8 Million in FTC SettlementABC NewsCardinal Health will pay 26.8 million as part of a settlement with the Federal Trade Commission over charges it monopolized the sale in 25 markets of diagnostic drugs...",
-            "date": "2015-04-20",
-            "categories": "markets,drugs,health",
-            "tags": "commission,part,health",
-            "recuweb_url": "http://en.recuweb.com/health/abcnews.go.com/2015/04/cardinal-health-paying-26-8-million-in-ftc-settlement-abc-news",
+        "philly.com/2015/04/depression-weapons-may-be-more-common-for-bullied-teens": {
+            "title": "Depression, Weapons May Be More Common for Bullied Teens...",
+            "snippet": "MONDAY, April 27, 2015 (HealthDay News) -- Bullied high school students have greater odds for depression and suicidal thoughts than others, and they're also more likely to take weapons to school, according to three new studies. Teens can be the...",
+            "date": "2015-04-27",
+            "categories": "school,students",
+            "tags": "ely,school,high,healthday,healthday_news,monday",
+            "recuweb_url": "http://en.recuweb.com/students/philly.com/2015/04/depression-weapons-may-be-more-common-for-bullied-teens",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Bhealth&format=RSS&cc=us",
+            "source_url": "http://philly.com/philly/health/kidshealth/HealthDay698751_20150427_Depression__Weapons_May_Be_More_Common_for_Bullied_Teens.html"
+        },
+        "philly.com/2015/04/doctors-say-head-lice-should-not-bar-kids-from-school": {
+            "title": "Doctors Say Head Lice Should Not Bar Kids From School...",
+            "snippet": "MONDAY, April 27, 2015 (HealthDay News) -- Outbreaks of head lice in kids can be effectively treated without banning infected children from school, new guidelines from the American Academy of Pediatrics (AAP) say. In fact, the AAP believes that...",
+            "date": "2015-04-27",
+            "categories": "academy,school",
+            "tags": "kids,infected,healthday,healthday_news,doctors,should,school,monday",
+            "recuweb_url": "http://en.recuweb.com/school/philly.com/2015/04/doctors-say-head-lice-should-not-bar-kids-from-school",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=health&format=RSS&cc=us",
+            "source_url": "http://philly.com/philly/health/kidshealth/HealthDay698654_20150427_Doctors_Say_Head_Lice_Should_Not_Bar_Kids_From_School.html"
+        },
+        "miami.cbslocal.com/2015/04/doctors-psychs-teaming-up-to-offer-integrated-health-care-cbs-local": {
+            "title": "Doctors, Psychs Teaming Up To Offer Integrated Health Care - CBS Local...",
+            "snippet": "CBS LocalDoctors, Psychs Teaming Up To Offer Integrated Health CareCBS LocalMost parents expect to be going to the pediatrician from the day their child is born, but few may think they'll need the services of a mental health specialist. It's...",
+            "date": "2015-04-27",
+            "categories": "health,health-care",
+            "tags": "mental,day,health,health_care,care,doctors",
+            "recuweb_url": "http://en.recuweb.com/health-care/miami.cbslocal.com/2015/04/doctors-psychs-teaming-up-to-offer-integrated-health-care-cbs-local",
             "resource_url": "http://news.google.com/?hl=en&q=health&output=atom&nord=1",
-            "source_url": "http://abcnews.go.com/Business/wireStory/cardinal-health-paying-268-million-ftc-settlement-30451222"
+            "source_url": "http://miami.cbslocal.com/2015/04/27/doctors-psychs-teaming-up-to-offer-integrated-health-care/"
         },
-        "usatoday.com/2015/04/celebrities-health-stories-help-others-tellusatoday": {
-            "title": "Celebrities'health stories help others: tellusatoday...",
-            "snippet": "We asked our followers what they thought about celebrities sharing their health decisions and treatment. Comments from Twitter are edited for clarity and grammar: If they share something that might make someone else go to the doctor and take care of...",
-            "date": "2015-04-20",
-            "categories": "grammar,health,twitter",
-            "tags": "might,make,help,health",
-            "recuweb_url": "http://en.recuweb.com/twitter/usatoday.com/2015/04/celebrities-health-stories-help-others-tellusatoday",
+        "nydailynews.com/2015/04/farmers-exposed-to-bird-flu-get-preventative-meds": {
+            "title": "Farmers exposed to bird flu get preventative meds...",
+            "snippet": "Hundreds of farm workers exposed to a highly pathogenic strain of bird flu have been offered antiviral medication as a preventative measure in recent days, U.S. public health officials said. To date, the virulent H5N2 influenza, which has infected...",
+            "date": "2015-04-27",
+            "categories": "health",
+            "tags": "infected,officials,said,health",
+            "recuweb_url": "http://en.recuweb.com/health/nydailynews.com/2015/04/farmers-exposed-to-bird-flu-get-preventative-meds",
             "resource_url": "http://www.bing.com/news/search?first=1&q=health&format=RSS&cc=us",
-            "source_url": "http://usatoday.com/story/opinion/2015/04/20/celebrities-cancer-awareness-tellusatoday-your-say/26101873/"
+            "source_url": "http://nydailynews.com/life-style/health/farmers-exposed-bird-flu-preventative-meds-article-1.2200398"
         },
-        "universityherald.com/2015/04/dietary-supplements-may-increase-cancer-risk": {
-            "title": "Dietary Supplements May Increase Cancer Risk...",
-            "snippet": "(Photo: Flickr) Dietary supplements could adversely affect your health if taken in excess, according to a recent study. Dietary supplements could adversely affect your health if taken in excess, according to a recent study. Researchers at the...",
-            "date": "2015-04-20",
-            "categories": "cancer,flickr,health",
-            "tags": "increase,cancer,risk,photo,health",
-            "recuweb_url": "http://en.recuweb.com/health/universityherald.com/2015/04/dietary-supplements-may-increase-cancer-risk",
+        "petoskeynews.com/2015/04/health-officials-say-ice-cream-is-safe-despite-some-recalls": {
+            "title": "Health officials say ice cream is safe despite some recalls...",
+            "snippet": "WASHINGTON (AP) Federal health officials say ice cream is still safe to eat even amid recalls by two ice cream companies after the discovery of listeria bacteria in their frozen confections. The Food and Drug Administration and the Centers for...",
+            "date": "2015-04-27",
+            "categories": "drug-administration,ice-cream,health,food",
+            "tags": "drug,officials,even,health",
+            "recuweb_url": "http://en.recuweb.com/food/petoskeynews.com/2015/04/health-officials-say-ice-cream-is-safe-despite-some-recalls",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Bhealth&format=RSS&cc=us",
+            "source_url": "http://petoskeynews.com/news/health/health-officials-say-ice-cream-is-safe-despite-some-recalls/article_7a9403ae-dad3-57d0-8c45-160bc543bfbd.html"
+        },
+        "forbes.com/2015/04/how-electronic-health-records-will-be-more-helpful-to-doctors": {
+            "title": "How Electronic Health Records Will Be More Helpful To Doctors -- And Patients...",
+            "snippet": "Twenty years ago, if patients wanted to read their own medical records, they likely had to sue their healthcare provider for access. Even after the Health Insurance Portability and Accountability Act was passed in 1996, legally guaranteeing patients...",
+            "date": "2015-04-27",
+            "categories": "health,insurance",
+            "tags": "health,ely,wanted,doctors,even",
+            "recuweb_url": "http://en.recuweb.com/insurance/forbes.com/2015/04/how-electronic-health-records-will-be-more-helpful-to-doctors",
             "resource_url": "http://www.bing.com/news/search?first=1&q=health&format=RSS&cc=us",
-            "source_url": "http://universityherald.com/articles/18195/20150421/diet-supplements-may-increase-cancer-risk.htm"
+            "source_url": "http://forbes.com/sites/cit/2015/04/27/how-electronic-health-records-will-be-more-helpful-to-doctors-and-patients/"
         },
-        "npr.org/2015/04/doctors-don-t-always-ask-about-pet-related-health-risks-npr": {
-            "title": "Doctors Don't Always Ask About Pet-Related Health Risks - NPR (blog)...",
-            "snippet": "NPR (blog)Doctors Don't Always Ask About Pet-Related Health RisksNPR (blog)The people doctors aren't asking their patients what kind of pets they have, Stull says, and veterinarians aren't asking owners about health issues that might increase their...",
-            "date": "2015-04-20",
-            "categories": "pets,health",
-            "tags": "issues,might,increase,patients,kind,people,health",
-            "recuweb_url": "http://en.recuweb.com/health/npr.org/2015/04/doctors-don-t-always-ask-about-pet-related-health-risks-npr",
+        "bbc.com/2015/04/jim-wells-resigns-as-northern-ireland-health-minister-bbc-news": {
+            "title": "Jim Wells resigns as Northern Ireland health minister - BBC News...",
+            "snippet": "BBC NewsJim Wells resigns as Northern Ireland health ministerBBC NewsThe Northern Ireland health minister at the centre of controversy over remarks about gay couples has resigned. Jim Wells said he wanted to help his wife Grace \"during her fight for...",
+            "date": "2015-04-27",
+            "categories": "health",
+            "tags": "said,wanted,health",
+            "recuweb_url": "http://en.recuweb.com/health/bbc.com/2015/04/jim-wells-resigns-as-northern-ireland-health-minister-bbc-news",
             "resource_url": "http://news.google.com/?hl=en&q=health%2Bhealth&output=atom&nord=1",
-            "source_url": "http://npr.org/blogs/health/2015/04/20/400989273/doctors-dont-always-ask-about-pet-related-health-risks"
+            "source_url": "http://bbc.com/news/election-2015-northern-ireland-32476991"
         },
-        "cbc.ca/2015/04/health-canada-s-curious-deletion-from-an-information-request": {
-            "title": "Health Canada's curious deletion from an information request...",
-            "snippet": "Kelly Crowe is a medical sciences correspondent for CBC News, specializing in health and biomedical research. She joined CBC in 1991, and has spent 25 years reporting on a wide range of national news and current affairs, with a particular interest...",
-            "date": "2015-04-20",
-            "categories": "health",
-            "tags": "health",
-            "recuweb_url": "http://en.recuweb.com/health/cbc.ca/2015/04/health-canada-s-curious-deletion-from-an-information-request",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Bhealth&format=RSS&cc=us",
-            "source_url": "http://cbc.ca/news/health/health-canada-s-curious-deletion-from-an-information-request-1.3033842"
+        "foxnews.com/2015/04/just-1-hour-of-tv-a-day-linked-to-unhealthy-weight": {
+            "title": "Just 1 hour of TV a day linked to unhealthy weight in kids, study says...",
+            "snippet": "A new study has researchers calling for stricter recommendations on screen time for kids following evidence that suggests watching only an hour of TV a day is linked to an unhealthy weight. Researchers from the University of Virginia analyzed data...",
+            "date": "2015-04-27",
+            "categories": "evidence,university",
+            "tags": "day,kids",
+            "recuweb_url": "http://en.recuweb.com/university/foxnews.com/2015/04/just-1-hour-of-tv-a-day-linked-to-unhealthy-weight",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=health&format=RSS&cc=us",
+            "source_url": "http://foxnews.com/health/2015/04/27/just-1-hour-tv-day-linked-to-unhealthy-weight-in-kids-study-says/"
         },
-        "hartlepoolmail.co.uk/2015/04/health-chief-thanks-people-for-hartlepool-petition": {
-            "title": "Health chief thanks people for Hartlepool health petition...",
-            "snippet": "HEALTH Minister Jeremy Hunt has written to the Mail thanking readers for taking part in our petition over hospital services. The Mail gathered a petition containing 12,000 signatures created through the Mails Bring them Back campaign to ensure...",
-            "date": "2015-04-20",
-            "categories": "health",
-            "tags": "part,health,people",
-            "recuweb_url": "http://en.recuweb.com/health/hartlepoolmail.co.uk/2015/04/health-chief-thanks-people-for-hartlepool-petition",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Bhealth&format=RSS&cc=us",
-            "source_url": "http://hartlepoolmail.co.uk/news/health/health-chief-thanks-people-for-hartlepool-health-petition-1-7216765"
-        },
-        "independent.ie/2015/04/health-service-to-get-boost-in-spending-from-fianna-f%C3%A1il": {
-            "title": "Health service to get boost in spending from Fianna F\u00e1il...",
-            "snippet": "Fianna F\u00e1il is expected to promise to raise spending by around an extra 450m to fund its new plan for the health service. The health policy, which will be formally launched today, is aimed at wooing the electorate in advance of the next general...",
-            "date": "2015-04-20",
-            "categories": "health,policy",
-            "tags": "launched,plan,health",
-            "recuweb_url": "http://en.recuweb.com/policy/independent.ie/2015/04/health-service-to-get-boost-in-spending-from-fianna-f%C3%A1il",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=health%2Bhealth&format=RSS&cc=us",
-            "source_url": "http://independent.ie/irish-news/health/health-service-to-get-boost-in-spending-from-fianna-fil-31158234.html"
-        },
-        "recode.net/2015/04/how-does-apple-watch-stack-up-as-a-health-and-fitness": {
-            "title": "How Does Apple Watch Stack Up as a Health-and-Fitness Tracker? - Re/code...",
-            "snippet": "Re/codeHow Does Apple Watch Stack Up as a Health-and-Fitness Tracker?Re/codeOne of the proposed benefits of wearable technology is the notion of having a health-and-fitness tracker attached to your body 24/7 or at least for a good portion of the...",
-            "date": "2015-04-20",
-            "categories": "technology,health",
-            "tags": "health",
-            "recuweb_url": "http://en.recuweb.com/health/recode.net/2015/04/how-does-apple-watch-stack-up-as-a-health-and-fitness",
+        "npr.org/2015/04/maybe-you-should-rethink-that-daily-aspirin-npr-blog": {
+            "title": "Maybe You Should Rethink That Daily Aspirin - NPR (blog)...",
+            "snippet": "NPR (blog)Maybe You Should Rethink That Daily AspirinNPR (blog)\"The vast majority of people in America who take aspirin for prevention are what I like to call the 'worried well,'\" Nissen says. \"They are perfectly healthy. They may not even have a...",
+            "date": "2015-04-27",
+            "categories": "prevention",
+            "tags": "even,people,should",
+            "recuweb_url": "http://en.recuweb.com/prevention/npr.org/2015/04/maybe-you-should-rethink-that-daily-aspirin-npr-blog",
             "resource_url": "http://news.google.com/?hl=en&q=health&output=atom&nord=1",
-            "source_url": "http://recode.net/2015/04/20/health-and-fitness-on-apple-watch-a-solid-start-with-limitations/"
-        },
-        "cnn.com/2015/04/indiana-governor-extends-public-health-emergency-due-to-hiv-epidemic-cnn": {
-            "title": "Indiana governor extends public health emergency due to HIV epidemic - CNN...",
-            "snippet": "CNNIndiana governor extends public health emergency due to HIV epidemicCNNLaw enforcement, emergency agencies and health officials are working together. Most notably, a temporary needle exchange program began April 4. As of Friday, more than 5,000...",
-            "date": "2015-04-20",
-            "categories": "health",
-            "tags": "program,indiana,health",
-            "recuweb_url": "http://en.recuweb.com/health/cnn.com/2015/04/indiana-governor-extends-public-health-emergency-due-to-hiv-epidemic-cnn",
-            "resource_url": "http://news.google.com/?hl=en&q=health&output=atom&nord=1",
-            "source_url": "http://cnn.com/2015/04/20/health/indiana-hiv-outbreak/"
+            "source_url": "http://npr.org/blogs/health/2015/04/27/402039544/maybe-you-should-rethink-that-daily-aspirin"
         }
     }
 }
