@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "social-network",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/social-network/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/social-network/social-network/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/the-training-on-use-of-internet-and-social-networks": {
+            "title": "The training on the use of Internet and Social Networks...",
+            "snippet": "Author: news_background_musicTags: The training on the use of Internet and Social Networks Posted: 24 April 2015Rating:: 0...",
+            "date": "2015-04-24",
+            "author_name": "news_background_music",
+            "categories": "social-network,internet",
+            "tags": "social,social_networks,networks,internet",
+            "recuweb_url": "http://en.recuweb.com/internet/dailymotion.com/2015/04/the-training-on-use-of-internet-and-social-networks",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/social+network/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nrar2_the-training-on-the-use-of-internet-and-social-networks_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nrar2_the-training-on-the-use-of-internet-and-social-networks_news"
+        },
         "dailymotion.com/2015/04/larry-summers-on-the-social-network": {
             "title": "Larry Summers on The Social Network...",
             "snippet": "Larry Summers on The Social NetworkAuthor: stepcomeTags: Larry Summers on The Social Network Posted: 23 April 2015Rating:: 0...",
@@ -28,7 +41,7 @@
             "date": "2015-04-22",
             "author_name": "IsamFelix",
             "categories": "internet",
-            "tags": "social,social_networking,networking",
+            "tags": "social,social_networking,networking,internet",
             "recuweb_url": "http://en.recuweb.com/internet/dailymotion.com/2015/04/kids-internet-safety-alliance-kinsa-virtually-safe-program-social-networking",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/social+network/0?af=1",
             "source_url": "http://dailymotion.com/video/x2nhkxh_kids-internet-safety-alliance-kinsa-virtually-safe-program-social-networking_news",
@@ -109,23 +122,11 @@
             "date": "2015-04-17",
             "author_name": "rantthief",
             "categories": "social-network",
-            "tags": "social",
+            "tags": "social,social_networks,networks",
             "recuweb_url": "http://en.recuweb.com/social-network/dailymotion.com/2015/04/im-very-grateful-to-social-networks-i-will-not-forget",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/social+network/0?af=1",
             "source_url": "http://dailymotion.com/video/x2n0ow1_im-very-grateful-to-social-networks-i-will-not-forget-that-director-mysskin-nakkheeran-webtv_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2n0ow1_im-very-grateful-to-social-networks-i-will-not-forget-that-director-mysskin-nakkheeran-webtv_news"
-        },
-        "dailymotion.com/2015/04/reid-hoffman-social-networking-in-business": {
-            "title": "Reid Hoffman: Social Networking in Business...",
-            "snippet": "Reid Hoffman: Social Networking in BusinessAuthor: AustinHittTags: Reid Hoffman: Social Networking in Business Posted: 17 April 2015Rating:: 0...",
-            "date": "2015-04-17",
-            "author_name": "AustinHitt",
-            "categories": "business",
-            "tags": "social,social_networking,networking",
-            "recuweb_url": "http://en.recuweb.com/business/dailymotion.com/2015/04/reid-hoffman-social-networking-in-business",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/social+network/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2n0i6c_reid-hoffman-social-networking-in-business_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n0i6c_reid-hoffman-social-networking-in-business_news"
         }
     }
 }
