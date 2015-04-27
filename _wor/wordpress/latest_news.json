@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "wordpress",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/wordpress/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/wordpress/wordpress/blogs.json"
     },
     "items": {
-        "techworld.com/2015/04/google-wordpress-lastpass-salesforce-new-usb-token-secures": {
-            "title": "Google, WordPress, LastPass, Salesforce - new USB token secures them all...",
-            "snippet": "Web users wanting to ditch insecure static passwords for two-factor authentication are being offered a new USB key that combines two of the industrys most important technologies in one more affordable product. Called the Yubikey Edge, the new USB...",
-            "date": "2015-04-18",
-            "categories": "google,wordpress",
-            "tags": "users,passwords,secures,wordpress",
-            "recuweb_url": "http://en.recuweb.com/wordpress/techworld.com/2015/04/google-wordpress-lastpass-salesforce-new-usb-token-secures",
+        "badgerherald.com/2015/04/city-of-madison-grow-startup-offers-wordpress-bootcamp-to-help-uw": {
+            "title": "City of Madison Grow Madison startup offers WordPress Bootcamp to help... - UW Badger Herald...",
+            "snippet": "UW Badger HeraldCity of Madison Grow Madison startup offers WordPress Bootcamp to help...UW Badger HeraldA startup in Madison engages local businesses, non-profits and students with a relaxing day of coffee, doughnuts and solutions to their...",
+            "date": "2015-04-27",
+            "categories": "students,coffee,business,wordpress",
+            "tags": "day,businesses,help,wordpress,offers,non",
+            "recuweb_url": "http://en.recuweb.com/wordpress/badgerherald.com/2015/04/city-of-madison-grow-startup-offers-wordpress-bootcamp-to-help-uw",
+            "resource_url": "http://news.google.com/?hl=en&q=wordpress&output=atom&nord=1",
+            "source_url": "http://badgerherald.com/news/2015/04/27/madison-startup-helps-community-solve-technology-problems/"
+        },
+        "practicalecommerce.com/2015/04/how-to-install-wordpress-woocommerce-on-amazon-web-services": {
+            "title": "How to Install WordPress, WooCommerce on Amazon Web Services...",
+            "snippet": "WooCommerce, a powerful ecommerce plugin for WordPress, can be a good foundation for an online store. Whats more, when you run that site on Amazon Web Services, you can have a cost effective host. Although there are several steps involved in...",
+            "date": "2015-04-27",
+            "categories": "web-services,wordpress",
+            "tags": "involved,host,online,online-store,store,powerful,ecommerce,install,wordpress,site",
+            "recuweb_url": "http://en.recuweb.com/wordpress/practicalecommerce.com/2015/04/how-to-install-wordpress-woocommerce-on-amazon-web-services",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
-            "source_url": "http://techworld.com/news/security/google-wordpress-lastpass-salesforce-new-usb-token-secures-them-all-3608300/"
+            "source_url": "http://practicalecommerce.com/articles/87321-How-to-Install-WordPress-WooCommerce-on-Amazon-Web-Services"
         },
-        "thonline.com/2015/04/strengthen-the-weak-points-of-popular-software": {
-            "title": "Strengthen the weak points of popular software...",
-            "snippet": "That should make you feel at least a little bit better. While WordPress () is ripe for attack, it is certainly not the only content management system that is targeted. Joomla (), Drupal (), Dot Net Nuke (...",
-            "date": "2015-04-18",
-            "categories": "management,wordpress,joomla,drupal",
-            "tags": "only,better,popular,make,wordpress",
-            "recuweb_url": "http://en.recuweb.com/drupal/thonline.com/2015/04/strengthen-the-weak-points-of-popular-software",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress%2Bwordpress&format=RSS&cc=us",
-            "source_url": "http://thonline.com/news/technology/article_0035e92e-2d67-5d1f-a253-2452bf3743cf.html"
+        "arstechnica.com/2015/04/just-released-wordpress-0day-makes-it-easy-to-hijack-millions-of": {
+            "title": "Just-released WordPress 0day makes it easy to hijack millions of websites...",
+            "snippet": "Enlarge/When viewed by an admin, this proof-of-concept exploit will hijack a website running the latest version of WordPress. The WordPress content management system used by millions of websites is vulnerable to two newly discovered threats that...",
+            "date": "2015-04-27",
+            "categories": "management,wordpress",
+            "tags": "vulnerable,discovered,content,content-management,content-management-system,management,management-system,system,version,admin,day,wordpress,websites,website",
+            "recuweb_url": "http://en.recuweb.com/wordpress/arstechnica.com/2015/04/just-released-wordpress-0day-makes-it-easy-to-hijack-millions-of",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
+            "source_url": "http://arstechnica.com/security/2015/04/27/just-released-wordpress-0day-makes-it-easy-to-hijack-millions-of-websites/"
         },
-        "networkworld.com/2015/04/wordfence-plugin-secures-wordpress-sites-solves-job-from-hell": {
-            "title": "Wordfence plugin secures WordPress sites; solves job from hell...",
-            "snippet": "Effectively managing your own passwords under any circumstances is hard work but managing your users passwords on a WordPress installation can become the job from hell. Say youre the admin of a WordPress site and you have a variety of users with...",
-            "date": "2015-04-18",
+        "news.softpedia.com/2015/04/wordpress-4-2-affected-by-zero-day-stored-xss-poc-available": {
+            "title": "WordPress 4.2 Affected by Zero-Day Stored XSS, PoC Available...",
+            "snippet": "An attacker taking advantage of the flaw could take control of the targeted website by creating new admin accounts. Aside from the current WordPress versions, build, and are also affected.",
+            "date": "2015-04-27",
             "categories": "wordpress",
-            "tags": "users,youre,own,passwords,any,work,plugin,secures,wordpress,sites,site",
-            "recuweb_url": "http://en.recuweb.com/wordpress/networkworld.com/2015/04/wordfence-plugin-secures-wordpress-sites-solves-job-from-hell",
+            "tags": "admin,available,day,wordpress,zero,website,versions,build",
+            "recuweb_url": "http://en.recuweb.com/wordpress/news.softpedia.com/2015/04/wordpress-4-2-affected-by-zero-day-stored-xss-poc-available",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
-            "source_url": "http://networkworld.com/article/2911701/security0/wordfence-plugin-secures-wordpress-sites-solves-job-from-hell.html"
+            "source_url": "http://news.softpedia.com/news/WordPress-4-2-Affected-by-Zero-Day-Stored-XSS-PoC-Available-479437.shtml"
         },
-        "cmscritic.com/2015/04/qards-1-2-for-wordpress-released": {
-            "title": "Qards 1.2 For WordPress Released...",
-            "snippet": "DesignModo, the company behind Startup Framework, has released a new version of their increasingly popular WordPress plugin, Qards. Qards brings drag-and-drop website building features to WordPress, enabling users to visually edit their pages. Each...",
-            "date": "2015-04-17",
-            "categories": "wordpress",
-            "tags": "users,building,features,drag,released,popular,company,wordpress,plugin,website",
-            "recuweb_url": "http://en.recuweb.com/wordpress/cmscritic.com/2015/04/qards-1-2-for-wordpress-released",
+        "forbes.com/2015/04/wordpress-under-attack-as-double-zero-day-trouble-lands": {
+            "title": "WordPress Under Attack As Double Zero-Day Trouble Lands...",
+            "snippet": "The WordPress platform is yet again under attack, thanks to vulnerabilities across old and new versions of the content management system. The most pressing issue is a fresh zero-day, a previously unknown and unpatched weakness, affecting the latest...",
+            "date": "2015-04-27",
+            "categories": "management,wordpress",
+            "tags": "zero,versions,content,content-management,content-management-system,management,management-system,system,day,wordpress",
+            "recuweb_url": "http://en.recuweb.com/wordpress/forbes.com/2015/04/wordpress-under-attack-as-double-zero-day-trouble-lands",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
-            "source_url": "http://cmscritic.com/qards-1.2-for-wordpress-released/"
+            "source_url": "http://forbes.com/sites/thomasbrewster/2015/04/27/wordpress-zero-day-exploits/"
         },
-        "searchenginejournal.com/2015/04/supercharge-seo-with-these-6-wordpress-plugins": {
-            "title": "Supercharge SEO With These 6 WordPress Plugins...",
-            "snippet": "WordPress is by far the most popular CMS today, with over 74.6 Million sites managed with the platform. The power of WordPress lies in the fact that its extremely flexible you can do nearly anything you want (with zero coding) using the help of...",
-            "date": "2015-04-17",
-            "categories": "wordpress",
-            "tags": "fact,want,sites,popular,wordpress,using",
-            "recuweb_url": "http://en.recuweb.com/wordpress/searchenginejournal.com/2015/04/supercharge-seo-with-these-6-wordpress-plugins",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
-            "source_url": "http://searchenginejournal.com/supercharge-seo-6-wordpress-plugins/129475/"
+        "missoulian.com/2015/04/shelf-life-missoula-public-library-to-host-class-on-using-wordpress": {
+            "title": "SHELF LIFE: Missoula Public Library to host class on using WordPress - The Missoulian...",
+            "snippet": "SHELF LIFE: Missoula Public Library to host class on using WordPressThe MissoulianHave you ever wanted to build your own website using WordPress? Well, now you can learn the tools of this popular website creation system when MPL hosts a class taught...",
+            "date": "2015-04-26",
+            "categories": "life,wordpress",
+            "tags": "host,system,own,ever,using,wordpress,build,website,learn",
+            "recuweb_url": "http://en.recuweb.com/wordpress/missoulian.com/2015/04/shelf-life-missoula-public-library-to-host-class-on-using-wordpress",
+            "resource_url": "http://news.google.com/?hl=en&q=wordpress&output=atom&nord=1",
+            "source_url": "http://missoulian.com/news/state-and-regional/shelf-life-missoula-public-library-to-host-class-on-using/article_7da2ae6b-1ddc-5992-8a2a-fe37ab31f679.html"
         },
-        "smallbiztrends.com/2015/04/are-you-backing-up-wordpress-youd-better": {
-            "title": "Are You Backing Up WordPress? Youd Better Be...",
-            "snippet": "If your small business is backing up WordPress only once in a while, then youre not alone. In fact, a survey of 503 WordPress users released March 10 by CodeGuard, a provider of cloud-based website backup services, reveals that 47 percent of...",
-            "date": "2015-04-16",
+        "lacrossetribune.com/2015/04/uw-l-offers-workshop-on-wordpress-websites-la-crosse-tribune": {
+            "title": "UW-L offers workshop on WordPress websites - La Crosse Tribune...",
+            "snippet": "UW-L offers workshop on WordPress websitesLa Crosse TribuneThe UW-La Crosse Small Business Development Center is offering Building a WordPress Website to help businesses improve their online presence. The workshop runs from 5:30 to 8:30 p.m. May 5...",
+            "date": "2015-04-26",
             "categories": "business,wordpress",
-            "tags": "users,released,youre,alone,only,business,better,wordpress,fact,website",
-            "recuweb_url": "http://en.recuweb.com/wordpress/smallbiztrends.com/2015/04/are-you-backing-up-wordpress-youd-better",
+            "tags": "website,help,businesses,business,online,small,development,offers,wordpress,websites,building",
+            "recuweb_url": "http://en.recuweb.com/wordpress/lacrossetribune.com/2015/04/uw-l-offers-workshop-on-wordpress-websites-la-crosse-tribune",
+            "resource_url": "http://news.google.com/?hl=en&q=wordpress&output=atom&nord=1",
+            "source_url": "http://lacrossetribune.com/news/local/state-and-regional/uw-l-offers-workshop-on-wordpress-websites/article_6a84d8fe-162d-533d-9d21-11aedda21c26.html"
+        },
+        "marketingland.com/2015/04/wordpress-4-2-now-available-speeds-up-publishing-&-sharing": {
+            "title": "WordPress 4.2 Now Available, Speeds Up Publishing & Sharing...",
+            "snippet": "Hot on the heels of the security release, WordPress has announced version 4.2, which is available now. This version of WordPress sports an updated Press This tool, which allows quick posting to your blog by quoting the text, video or images from...",
+            "date": "2015-04-25",
+            "categories": "sport,wordpress",
+            "tags": "text,version,available,security,wordpress",
+            "recuweb_url": "http://en.recuweb.com/wordpress/marketingland.com/2015/04/wordpress-4-2-now-available-speeds-up-publishing-&-sharing",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
-            "source_url": "http://smallbiztrends.com/2015/04/backing-up-wordpress-youd-better.html"
+            "source_url": "http://marketingland.com/wordpress-4-2-now-available-speeds-up-publishing-sharing-126279"
         },
-        "maximumpc.com/2015/04/head-2-wordpress-vs-squarespace": {
-            "title": "Head 2 Head: Wordpress vs. Squarespace...",
-            "snippet": "So, you've decided to build a website but don't know where to start, is that it? You're not alone. This is the Internet era, after all, and there are countless reasons why you might want a website of your own. It could be something as simple as an...",
-            "date": "2015-04-16",
-            "categories": "wordpress,internet",
-            "tags": "simple,own,why,want,alone,don,wordpress,build,website",
-            "recuweb_url": "http://en.recuweb.com/internet/maximumpc.com/2015/04/head-2-wordpress-vs-squarespace",
+        "searchenginejournal.com/2015/04/5-html-&-wordpress-hacks-for-non-coders": {
+            "title": "5 HTML & WordPress Hacks for Non-Coders...",
+            "snippet": "Facing computer code often draws the same reaction as an offensive odor or the sight of blood from non-coders. I used to manage a small business website, and once displayed the Text side of the page to the office manager. As tiny letters and...",
+            "date": "2015-04-24",
+            "categories": "business,wordpress,html",
+            "tags": "page,small,business,wordpress,non,website,text",
+            "recuweb_url": "http://en.recuweb.com/html/searchenginejournal.com/2015/04/5-html-&-wordpress-hacks-for-non-coders",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
-            "source_url": "http://maximumpc.com/head_2_head_wordpress_vs_squarespace_2015"
+            "source_url": "http://searchenginejournal.com/5-html-wordpress-hacks-non-coders/129296/"
         },
-        "wokv.com/2015/04/wordpress-website-creation-and-training": {
-            "title": "WordPress Website Creation and Training...",
-            "snippet": "WordPress Website Creation and Training In this Live One on One Training there will be 2 - 2 hour session in person sessions where you will create:A 5 page WordPress Website that you OWN and CONTROLTraining how to use it to generate businessTips...",
-            "date": "2015-04-15",
+        "threatpost.com/2015/04/details-on-wordpress-zero-day-disclosed": {
+            "title": "Details on WordPress Zero Day Disclosed...",
+            "snippet": "WordPress security issues have for the most part involved a vulnerable plug-in, but a Finnish researcher has disclosed some details on a zero-day vulnerability he discovered in the WordPress 4.2 and earlier core engine that could lead to remote...",
+            "date": "2015-04-24",
             "categories": "wordpress",
-            "tags": "wordpress,wordpress_website,website,create,page,own",
-            "recuweb_url": "http://en.recuweb.com/wordpress/wokv.com/2015/04/wordpress-website-creation-and-training",
+            "tags": "day,discovered,zero,security,involved,vulnerable,wordpress",
+            "recuweb_url": "http://en.recuweb.com/wordpress/threatpost.com/2015/04/details-on-wordpress-zero-day-disclosed",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
-            "source_url": "http://wokv.com/events/events/other/wordpress-website-creation-and-training/eCk7tK/"
-        },
-        "betaboston.com/2015/04/a-wordpress-for-genetic-data-curoverse-opens-in-beta-to-researchers": {
-            "title": "A WordPress for genetic data, Curoverse opens in beta to researchers - BetaBoston...",
-            "snippet": "BetaBostonA WordPress for genetic data, Curoverse opens in beta to researchersBetaBostonJust as blogging platforms like WordPress let journalists and writers upload their data text, videos, images and work with them, so Arvados lets researchers and...",
-            "date": "2015-04-14",
-            "categories": "wordpress",
-            "tags": "work,wordpress",
-            "recuweb_url": "http://en.recuweb.com/wordpress/betaboston.com/2015/04/a-wordpress-for-genetic-data-curoverse-opens-in-beta-to-researchers",
-            "resource_url": "http://news.google.com/?hl=en&q=wordpress%2Bwordpress&output=atom&nord=1",
-            "source_url": "http://betaboston.com/news/2015/04/14/a-wordpress-for-genetic-data-curoverse-opens-in-beta-to-researchers/"
-        },
-        "sitepoint.com/2015/04/search-replacements-for-wordpress": {
-            "title": "Search Replacements for WordPress...",
-            "snippet": "Most WordPress themes have a built in search feature, making it easy for visitors to find posts on the topics they are interested in. This is especially handy, because posts are shown in chronological order. Instead of making visitors sift...",
-            "date": "2015-04-14",
-            "categories": "wordpress",
-            "tags": "order,feature,wordpress,themes",
-            "recuweb_url": "http://en.recuweb.com/wordpress/sitepoint.com/2015/04/search-replacements-for-wordpress",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress%2Bwordpress&format=RSS&cc=us",
-            "source_url": "http://sitepoint.com/search-replacements-for-wordpress/"
+            "source_url": "http://threatpost.com/details-on-wordpress-zero-day-disclosed/112435"
         }
     }
 }
