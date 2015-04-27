@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "barred-galaxies",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/barred-galaxies/",
@@ -10,6 +11,17 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/barred-galaxies/barred-galaxies/blogs.json"
     },
     "items": {
+        "arxiver.wordpress.com/2015/04/discovery-of-kpc-scale-line-emission-in-barred-galaxies-not-linked": {
+            "title": "Discovery of kpc-scale line emission in barred galaxies, not linked to...",
+            "snippet": "We present an analysis of the optical line emission from nearby barred galaxies, and in particular look at the radial range occupied by the bar. In many cases this region is marked by what we...",
+            "date": "2015-04-17",
+            "author_name": "arxiver",
+            "categories": "galaxies",
+            "tags": "emission,scale,barred,galaxies,bar",
+            "recuweb_url": "http://en.recuweb.com/galaxies/arxiver.wordpress.com/2015/04/discovery-of-kpc-scale-line-emission-in-barred-galaxies-not-linked",
+            "resource_url": "http://www.google.com/search?q=barred%2Bgalaxies%2Bbarred%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://arxiver.wordpress.com/2015/04/17/discovery-of-kpc-scale-line-emission-in-barred-galaxies-not-linked-to-agn-or-star-formation-ga/"
+        },
         "blog.galaxyzoo.org/2015/03/what-s-all-the-fuss-about-bars-in-galaxies-galaxy-zoo": {
             "title": "What's all the fuss about bars in galaxies? Galaxy Zoo...",
             "snippet": "Barred spiral, NCG 1300, observed with the Hubble Space Telescope. Our research with the bars identified by you in the second phase of Galaxy Zoo continues to gives us hints that these structures in galaxies might be...",
@@ -27,21 +39,10 @@
             "date": "2015-03-13",
             "author_name": "arxiver",
             "categories": "galaxies",
-            "tags": "find,identified,resonance,barred,spiral,galaxies,using",
+            "tags": "identified,resonance,barred,spiral,galaxies,using,find",
             "recuweb_url": "http://en.recuweb.com/galaxies/arxiver.wordpress.com/2015/03/determination-of-resonance-locations-in-barred-spiral-galaxies-using",
             "resource_url": "http://www.google.com/search?q=barred%2Bgalaxies%2Bbarred%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://arxiver.wordpress.com/2015/03/13/determination-of-resonance-locations-in-barred-spiral-galaxies-using-multiband-photometry-ga/"
-        },
-        "arxiver.wordpress.com/2015/03/forming-double-barred-galaxies-from-dynamically-cool-inner-disks-ga": {
-            "title": "Forming Double-barred Galaxies From Dynamically Cool Inner Disks GA...",
-            "snippet": "About one third of early-type barred galaxies host small-scale secondary bars. The formation and evolution of such double-barred galaxies remain []...",
-            "date": "2015-03-10",
-            "author_name": "arxiver",
-            "categories": "galaxies",
-            "tags": "evolution,double,scale,secondary,third,barred,galaxies,bars,formation",
-            "recuweb_url": "http://en.recuweb.com/galaxies/arxiver.wordpress.com/2015/03/forming-double-barred-galaxies-from-dynamically-cool-inner-disks-ga",
-            "resource_url": "http://en.search.wordpress.com/?q=barred%2Bgalaxies%2Bbarred%2Bgalaxies&f=feed&page=1",
-            "source_url": "http://arxiver.wordpress.com/2015/03/10/forming-double-barred-galaxies-from-dynamically-cool-inner-disks-ga/"
         },
         "arxiver.wordpress.com/2015/02/how-can-double-barred-galaxies-be-long-lived-ga-arxiver": {
             "title": "How can double-barred galaxies be long-lived? GA arXiver...",
@@ -49,7 +50,7 @@
             "date": "2015-02-03",
             "author_name": "arxiver",
             "categories": "galaxies",
-            "tags": "structures,scale,secondary,stellar,third,double,barred,galaxies,arxiver,bars",
+            "tags": "structures,scale,third,double,barred,galaxies,arxiver,stellar,bars",
             "recuweb_url": "http://en.recuweb.com/galaxies/arxiver.wordpress.com/2015/02/how-can-double-barred-galaxies-be-long-lived-ga-arxiver",
             "resource_url": "http://www.google.com/search?q=barred%2Bgalaxies%2Bbarred%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://arxiver.wordpress.com/2015/02/03/how-can-double-barred-galaxies-be-long-lived-ga/"
@@ -60,7 +61,7 @@
             "date": "2014-10-06",
             "author_name": "arxiver",
             "categories": "galaxies",
-            "tags": "effects,spiral,galaxies,bars,barred,active",
+            "tags": "spiral,galaxies,effects,bars,barred,active",
             "recuweb_url": "http://en.recuweb.com/galaxies/arxiver.wordpress.com/2014/10/agn-spiral-galaxies-in-groups-effects-of-bars-ga",
             "resource_url": "http://en.search.wordpress.com/?q=barred%2Bgalaxies%2Bbarred%2Bgalaxies&f=feed&page=1",
             "source_url": "http://arxiver.wordpress.com/2014/10/06/agn-spiral-galaxies-in-groups-effects-of-bars-ga/"
@@ -71,7 +72,7 @@
             "date": "2014-08-20",
             "author_name": "arxiver",
             "categories": "galaxies",
-            "tags": "double,barred,galaxies,arxiver,gas,using",
+            "tags": "emission,double,barred,galaxies,arxiver,gas,using",
             "recuweb_url": "http://en.recuweb.com/galaxies/arxiver.wordpress.com/2014/08/the-ratio-of-pattern-speeds-in-double-barred-galaxies-ga-arxiver",
             "resource_url": "http://www.google.com/search?q=barred%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://arxiver.wordpress.com/2014/08/20/the-ratio-of-pattern-speeds-in-double-barred-galaxies-ga/"
@@ -84,15 +85,15 @@
             "categories": "galaxies",
             "tags": "milky,milky_way,way,universe,barred,barred_spiral,spiral,galaxy,hubble,astronomers,don,galaxies",
             "recuweb_url": "http://en.recuweb.com/galaxies/universetoday.com/2012/02/hubble-captures-a-classic-barred-spiral-galaxy-universe-today",
-            "resource_url": "http://www.google.com/search?q=barred%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=barred%2Bgalaxies%2Bbarred%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://universetoday.com/93306/hubble-captures-a-classic-barred-spiral-galaxy/"
         },
         "reddit.com/2011/03/are-there-any-significant-differences-between-galaxies": {
             "title": "Are there any significant differences between galaxies?",
             "snippet": "I was thinking about how hilariously impractical inter-galactic space flight would be, and I was thinking that there probably would never be any reason to do it. I know that some galaxies are spiral galaxies, some are barred, some are elliptical,...",
             "date": "2011-03-23",
-            "categories": "spaceflight,galaxies",
-            "tags": "space,galaxies,spiral,barred",
+            "categories": "galaxies",
+            "tags": "elliptical,galaxies,space,spiral,barred",
             "recuweb_url": "http://en.recuweb.com/galaxies/reddit.com/2011/03/are-there-any-significant-differences-between-galaxies",
             "resource_url": "http://www.reddit.com/search.rss?q=barred%2Bgalaxies%2Bbarred%2Bgalaxies&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/askscience/comments/g9dyq/are_there_any_significant_differences_between/"
@@ -103,7 +104,7 @@
             "date": "2008-07-29",
             "author_name": "unknown",
             "categories": "spiral-galaxies,galaxies",
-            "tags": "astronomers,found,hubble,hubble_space,hubble_space_telescope,space,space_telescope,telescope,than,barred,barred_spiral,spiral,galaxies,universe,study,galaxy,nasa",
+            "tags": "astronomers,found,hubble,hubble_space,hubble_space_telescope,space,space_telescope,telescope,barred,barred_spiral,spiral,galaxies,universe,study,galaxy,nasa",
             "recuweb_url": "http://en.recuweb.com/galaxies/hubblesite.org/2008/07/barred-spiral-galaxies-are-latecomers-to-the-universe-hubblesite",
             "resource_url": "http://www.google.com/search?q=barred%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://hubblesite.org/newscenter/archive/releases/cosmology/2008/29/"
