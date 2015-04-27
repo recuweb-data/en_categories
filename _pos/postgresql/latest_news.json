@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "postgresql",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/postgresql/",
@@ -10,102 +11,102 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
     },
     "items": {
-        "lxer.com/2015/03/announcing-the-release-of-fedora-22-alpha-for-aarch64-and-power64": {
-            "title": "Announcing the release of Fedora 22 Alpha for AARCH64 and POWER64! - LXer (press release)...",
-            "snippet": "Announcing the release of Fedora 22 Alpha for AARCH64 and POWER64!LXer (press release)The Fedora 22 release adds onto that work with a database server role based on PostgreSQL. -- Cockpit Updates: The Cockpit Web-based management application has...",
-            "date": "2015-03-30",
-            "categories": "management,database",
-            "tags": "management,work,database,gresql",
-            "recuweb_url": "http://en.recuweb.com/database/lxer.com/2015/03/announcing-the-release-of-fedora-22-alpha-for-aarch64-and-power64",
+        "theinquirer.net/2015/04/red-hat-launches-beta-of-linux-distro-fedora-22-inquirer": {
+            "title": "Red Hat launches beta of Linux distro Fedora 22 - Inquirer...",
+            "snippet": "Red Hat launches beta of Linux distro Fedora 22InquirerFedora 22 Server Beta offers a Database Server Role for the new Rolekit, and a Linux daemon to provide a stable D-Bus interface to manage deployment of server roles, based on PostgreSQL. Updates...",
+            "date": "2015-04-24",
+            "categories": "database",
+            "tags": "manage,server,stable,database,role,beta,red,red_hat,hat,linux,fedora,rolekit,gresql,updates",
+            "recuweb_url": "http://en.recuweb.com/database/theinquirer.net/2015/04/red-hat-launches-beta-of-linux-distro-fedora-22-inquirer",
             "resource_url": "http://news.google.com/?hl=en&q=postgresql%2Bpostgresql&output=atom&nord=1",
-            "source_url": "http://lxer.com/module/newswire/view/212261/"
+            "source_url": "http://theinquirer.net/inquirer/news/2405501/red-hat-launches-beta-of-linux-distro-fedora-22"
         },
-        "computerweekly.com/2015/03/google-cloud-launcher-accelerates-off-premise-open-source-app-deployments": {
-            "title": "Google Cloud Launcher accelerates off-premise open-source app deployments...",
-            "snippet": "It includes support for developer tools, including Apache Solr, Django, Gitlab, Jenkins LAMP,, and Ruby on Rails, and the MongoDB, MySQL and PostgreSQL databases. To deploy an app on the platform, users simply have to choose the package they want...",
-            "date": "2015-03-30",
-            "categories": "google,mysql",
-            "tags": "choose,platform,support,developer,source,open,google,cloud,cloud_launcher,launcher,mongodb,mysql,gresql,databases",
-            "recuweb_url": "http://en.recuweb.com/mysql/computerweekly.com/2015/03/google-cloud-launcher-accelerates-off-premise-open-source-app-deployments",
+        "virtual-strategy.com/2015/04/devart-introduces-new-dbexpress-drivers-with-support-for-rad-studio-xe8": {
+            "title": "Devart Introduces New dbExpress Drivers with Support for RAD Studio XE8...",
+            "snippet": "The list of supported databases includes Oracle Database, SQL Server, MySQL, InterBase/Firebird, PostgreSQL and SQLite. Discover more about dbExpress Drivers at the product pages: Discover more about dbExpress Drivers at About...",
+            "date": "2015-04-23",
+            "categories": "database,mysql,sqlite",
+            "tags": "product,sql,sql_server,server,oracle,database,rad,studio,devart,support,databases,mysql,interbase,firebird,gresql,sqlite",
+            "recuweb_url": "http://en.recuweb.com/sqlite/virtual-strategy.com/2015/04/devart-introduces-new-dbexpress-drivers-with-support-for-rad-studio-xe8",
             "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
-            "source_url": "http://computerweekly.com/news/4500243237/Google-Cloud-Launcher-accelerates-off-premise-open-source-app-deployments"
+            "source_url": "http://virtual-strategy.com/2015/04/23/devart-introduces-new-dbexpress-drivers-support-rad-studio-xe8"
         },
-        "siliconangle.com/2015/03/google-makes-cloud-platform-installs-easy-with-launcher": {
-            "title": "Google makes Cloud Platform installs easy with Cloud Launcher...",
-            "snippet": "Also included are popular databases like MongoDB, MySQL, PostgreSQL, as well as applications including WordPress, Drupal, JasperReports, Joomla and SugarCRM. Google claims that many of the packages have been specifically built and performance-tuned...",
-            "date": "2015-03-27",
-            "categories": "google,mysql,wordpress,drupal,joomla",
-            "tags": "many,built,popular,databases,cloud,cloud_launcher,launcher,platform,google,mongodb,mysql,gresql",
-            "recuweb_url": "http://en.recuweb.com/joomla/siliconangle.com/2015/03/google-makes-cloud-platform-installs-easy-with-launcher",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
-            "source_url": "http://siliconangle.com/blog/2015/03/27/google-makes-cloud-platform-installs-easy-with-cloud-launcher/"
-        },
-        "cbronline.com/2015/03/q&a-databases-open-source-&-virtualisation-with-ceo-vinay-joosery-computer": {
-            "title": "Q&A: Databases, Open Source & Virtualisation with CEO Vinay Joosery - Computer Business Review...",
-            "snippet": "Computer Business ReviewQ&A: Databases, Open Source & Virtualisation with CEO Vinay JooseryComputer Business ReviewAdding PostgreSQL coverage to the solution has enabled IT operators to manage the three most popular open source databases - MySQL,...",
-            "date": "2015-03-27",
-            "categories": "business,mysql",
-            "tags": "popular,open,open_source,source,databases,adding,gresql,mysql",
-            "recuweb_url": "http://en.recuweb.com/mysql/cbronline.com/2015/03/q&a-databases-open-source-&-virtualisation-with-ceo-vinay-joosery-computer",
+        "zdnet.com/2015/04/row-level-security-provides-enterprise-chops-zdnet": {
+            "title": "Row-level security provides enterprise chops - ZDNet...",
+            "snippet": "Row-level security provides enterprise chopsZDNetIn a blog post, SQL Server MVP Brent Ozar explains how the feature works -- and he also discusses how Oracle and PostgreSQL already have RLS features implemented, and released for general...",
+            "date": "2015-04-23",
+            "tags": "features,implemented,feature,sql,sql_server,server,security,enterprise,zdnet,oracle,gresql",
+            "recuweb_url": "http://en.recuweb.com/zdnet.com/2015/04/row-level-security-provides-enterprise-chops-zdnet",
             "resource_url": "http://news.google.com/?hl=en&q=postgresql%2Bpostgresql&output=atom&nord=1",
-            "source_url": "http://cbronline.com/news/it/software/qa-databases-open-source-virtualisation-with-ceo-vinay-joosery-4538250"
+            "source_url": "http://zdnet.com/article/row-level-security-provides-enterprise-chops/"
         },
-        "digitaljournal.com/2015/03/citus-data-releases-new-version-of-citusdb-4-0-for-hybrid": {
-            "title": "Citus Data Releases New Version of CitusDB 4.0 for Hybrid Transaction... - Digital Journal...",
-            "snippet": "Citus Data Releases New Version of CitusDB 4.0 for Hybrid Transaction...Digital JournalSAN FRANCISCO, CA--(Marketwired - Mar 26, 2015) - Citus Data, creators of solutions to scale out and extend the analytics capabilities of PostgreSQL, today...",
-            "date": "2015-03-26",
-            "tags": "creators,creators-of-solutions,solutions,solutions-to-scale,scale,scale-out,analytics,analytics-capabilities,capabilities,citus,citus_data,data,francisco,hybrid,hybrid_transaction,transaction,citus_data_releases,data_releases,data_releases_new,releases,releases_new,releases_new_version,version,citusdb,marketwired,mar,gresql,today",
-            "recuweb_url": "http://en.recuweb.com/digitaljournal.com/2015/03/citus-data-releases-new-version-of-citusdb-4-0-for-hybrid",
+        "zdnet.com/2015/04/red-hat-gives-developers-more-programming-goodies-zdnet": {
+            "title": "Red Hat gives developers more programming goodies - ZDNet...",
+            "snippet": "Red Hat gives developers more programming goodiesZDNetPerl - a recent stable release of Perl shipped with a set of additional utilities, scripts, and database connectors for MySQL and PostgreSQL; Ruby 2.2, and, in its own collection, Rails 4.1 give...",
+            "date": "2015-04-23",
+            "categories": "perl,database,mysql",
+            "tags": "stable,release,programming,red,red_hat,hat,zdnet,scripts,database,mysql,gresql",
+            "recuweb_url": "http://en.recuweb.com/mysql/zdnet.com/2015/04/red-hat-gives-developers-more-programming-goodies-zdnet",
             "resource_url": "http://news.google.com/?hl=en&q=postgresql%2Bpostgresql&output=atom&nord=1",
-            "source_url": "http://digitaljournal.com/pr/2505928"
+            "source_url": "http://zdnet.com/article/red-hat-gives-developers-more-programming-goodies/"
         },
-        "marketwired.com/2015/03/citus-data-releases-new-version-of-citusdb-4-0-for-hybrid": {
-            "title": "Citus Data Releases New Version of CitusDB 4.0 for Hybrid Transaction/Analytical Processing on...",
-            "snippet": "pg_shard 1.1 and cstore_fdw 1.2 Open Source Extensions Also Released SAN FRANCISCO, CA--(Marketwired - Mar 26, 2015) - Citus Data, creators of solutions to scale out and extend the analytics capabilities of PostgreSQL, today announced the general...",
-            "date": "2015-03-26",
-            "tags": "today,announced,creators,creators-of-solutions,solutions,solutions-to-scale,scale,scale-out,analytics,analytics-capabilities,capabilities,citus,citus_data,data,open,open_source,source,francisco,processing,hybrid,hybrid_transaction,transaction,citus_data_releases,data_releases,data_releases_new,releases,releases_new,releases_new_version,version,citusdb,marketwired,mar,gresql",
-            "recuweb_url": "http://en.recuweb.com/marketwired.com/2015/03/citus-data-releases-new-version-of-citusdb-4-0-for-hybrid",
+        "gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th": {
+            "title": "Call for Papers, PostgreSQL Session 7, September, 24th...",
+            "snippet": "After six successful sessions dedicated to the new features of PostgreSQL 9.0 (February 2011), to PostGIS (June 2011 & September 2014), to replication systems (February 2012), to migration from Oracle to PostgreSQL (October 2012), and to...",
+            "date": "2015-04-22",
+            "tags": "features,gresql,gis,oracle",
+            "recuweb_url": "http://en.recuweb.com/gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th",
             "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
-            "source_url": "http://marketwired.com/press-release/citus-data-releases-new-version-citusdb-40-hybrid-transaction-analytical-processing-2003978.htm"
+            "source_url": "http://gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th/"
         },
-        "developers.slashdot.org/2015/03/why-i-choose-postgresql-over-mysql-mariadb": {
-            "title": "Why I Choose PostgreSQL Over MySQL/MariaDB...",
-            "snippet": "Nerval's Lobster writes For the past ten years, developers and tech pros have made a game of comparing MySQL and PostgreSQL, with the latter seen by many as technically superior. Those who support PostgreSQL argue that its standards support and...",
-            "date": "2015-03-19",
-            "categories": "mysql",
-            "tags": "support,many,game,gresql,mysql,choose",
-            "recuweb_url": "http://en.recuweb.com/mysql/developers.slashdot.org/2015/03/why-i-choose-postgresql-over-mysql-mariadb",
+        "4-traders.com/2015/04/lenovo-enterprisedb-and-its-partner-to-promote-postgres-for-the-enterprise": {
+            "title": "Lenovo: EnterpriseDB and Its Partner Lenovo to Promote Postgres for the Enterprise...",
+            "snippet": "mission-critical workloads. Postgres Plus from EDB extends open source PostgreSQL with enterprise-class performance, security and manageability enhancements.",
+            "date": "2015-04-22",
+            "tags": "security,class,enterprise,source,gres,enterprisedb,edb,gresql",
+            "recuweb_url": "http://en.recuweb.com/4-traders.com/2015/04/lenovo-enterprisedb-and-its-partner-to-promote-postgres-for-the-enterprise",
             "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
-            "source_url": "http://developers.slashdot.org/story/15/03/19/1930226/why-i-choose-postgresql-over-mysqlmariadb"
+            "source_url": "http://4-traders.com/LENOVO-GROUP-LIMITED-1412726/news/Lenovo--EnterpriseDB-and-Its-Partner-Lenovo-to-Promote-Postgres-for-the-Enterprise-20238018/"
         },
-        "networkworld.com/2015/03/seven-killer-linux-apps-that-will-change-how-you-work": {
-            "title": "Seven killer Linux apps that will change how you work...",
-            "snippet": "Bundled with SQLite and compatible with MySQL and PostgreSQL databases (for both import and export), Kexi is fast and stable. A tool for migrating from Microsoft Access is available and it provides APIs covering most of its functionality. If youre...",
-            "date": "2015-03-17",
-            "categories": "sqlite,mysql",
-            "tags": "access,work,mysql,gresql,databases",
-            "recuweb_url": "http://en.recuweb.com/mysql/networkworld.com/2015/03/seven-killer-linux-apps-that-will-change-how-you-work",
+        "news.softpedia.com/2015/04/fedora-22-beta-server-edition-now-uses-xfs-as-the-default": {
+            "title": "Fedora 22 Beta Server Edition Now Uses XFS as the Default Filesystem...",
+            "snippet": "The first new feature implemented in Fedora 22 Beta Server Edition Linux operating system is the inclusion of a PostgreSQL-based database server role, which aims to be a companion to the Rolekit damon introduced in Fedora 21. The second new...",
+            "date": "2015-04-21",
+            "categories": "database",
+            "tags": "server,role,linux,feature,implemented,beta,edition,fedora,gresql,database,rolekit",
+            "recuweb_url": "http://en.recuweb.com/database/news.softpedia.com/2015/04/fedora-22-beta-server-edition-now-uses-xfs-as-the-default",
             "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
-            "source_url": "http://networkworld.com/article/2898174/linux/seven-killer-linux-apps-that-will-change-how-you-work.html"
+            "source_url": "http://news.softpedia.com/news/Fedora-22-Beta-Server-Edition-Now-Uses-XFS-as-the-Default-Filesystem-479018.shtml"
         },
-        "datanami.com/2015/03/fujitsu-adding-column-oriented-processing-engine-to-postgresql-datanami": {
-            "title": "Fujitsu Adding Column-Oriented Processing Engine to PostgreSQL - Datanami...",
-            "snippet": "Fujitsu Adding Column-Oriented Processing Engine to PostgreSQLDatanamiFujitsu Laboratories last week announced that it's developed a column-oriented data storage and processing engine that can quickly analyze large amounts of data stored on a...",
-            "date": "2015-03-06",
-            "tags": "data,processing,announced,adding,gresql",
-            "recuweb_url": "http://en.recuweb.com/datanami.com/2015/03/fujitsu-adding-column-oriented-processing-engine-to-postgresql-datanami",
-            "resource_url": "http://news.google.com/?hl=en&q=postgresql%2Bpostgresql&output=atom&nord=1",
-            "source_url": "http://datanami.com/2015/03/04/fujitsu-adding-column-oriented-processing-engine-to-postgresql/"
-        },
-        "infoworld.com/2014/08/postgresql-ramps-up-its-nosql-game-infoworld": {
-            "title": "PostgreSQL ramps up its NoSQL game - InfoWorld...",
-            "snippet": "PostgreSQL ramps up its NoSQL gameInfoWorldThe PostgreSQL Project, which EnterpriseDB supports, added NoSQL-style JSON processing features back in 2012. Now, the company is encouraging further work around that feature set by providing a developer...",
-            "date": "2014-08-21",
-            "categories": "json",
-            "tags": "work,developer,processing,gresql,game",
-            "recuweb_url": "http://en.recuweb.com/json/infoworld.com/2014/08/postgresql-ramps-up-its-nosql-game-infoworld",
+        "it.impressbm.co.jp/2015/04/dbawspostgresql-it-leaders": {
+            "title": "DBAWSPostgreSQL - IT Leaders...",
+            "snippet": "DBAWSPostgreSQLIT LeadersOSSOpen Source SoftwarePostgresDBEDB2015420AWSAmazon Web ServicesPostgres Plus Cloud Database...and more...",
+            "date": "2015-04-21",
+            "categories": "database,web-services",
+            "tags": "database,web,services,source,software,gresql,gres",
+            "recuweb_url": "http://en.recuweb.com/web-services/it.impressbm.co.jp/2015/04/dbawspostgresql-it-leaders",
             "resource_url": "http://news.google.com/?hl=en&q=postgresql&output=atom&nord=1",
-            "source_url": "http://infoworld.com/article/2608863/nosql/postgresql-ramps-up-its-nosql-game.html"
+            "source_url": "http://it.impressbm.co.jp/articles/-/12288"
+        },
+        "pressbox.co.uk/2015/04/devart-releases-data-access-components-for-delphi-with-support-rad-xe8": {
+            "title": "Devart Releases Data Access Components for Delphi with Support for RAD XE8...",
+            "snippet": "Pressbox (Press Release) - Devart updates DAC product line, which includes Delphi components for SQL Server, MySQL, Oracle, PostgreSQL, SQLite, Interbase/Firebird, and all-in-one solution UniDAC. New versions include support for new Embarcadero RAD...",
+            "date": "2015-04-15",
+            "categories": "mysql,sqlite",
+            "tags": "rad,support,solution,sql,sql_server,server,components,product,release,devart,releases,data,access,delphi,updates,mysql,oracle,gresql,sqlite,interbase,firebird",
+            "recuweb_url": "http://en.recuweb.com/sqlite/pressbox.co.uk/2015/04/devart-releases-data-access-components-for-delphi-with-support-rad-xe8",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
+            "source_url": "http://pressbox.co.uk/Computing/Devart_Releases_Data_Access_Components_for_Delphi_with_Support_for_RAD_XE8_1580673.html"
+        },
+        "andhranews.net/2015/04/enterprisedb-releases-new-postgres-enterprise-manager": {
+            "title": "EnterpriseDB Releases New Postgres Enterprise Manager...",
+            "snippet": "Market-leading Monitoring Tool for Postgres Plus and PostgreSQL Features Greater Customization and Expanded Analysis and Reporting EnterpriseDB (EDB), the leading worldwide provider of enterprise-class Postgres products and database compatibility...",
+            "date": "2015-04-14",
+            "categories": "database",
+            "tags": "gres,enterprise,enterprisedb,gresql,features,releases,edb,class,database",
+            "recuweb_url": "http://en.recuweb.com/database/andhranews.net/2015/04/enterprisedb-releases-new-postgres-enterprise-manager",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
+            "source_url": "http://andhranews.net/Intl/Web/59-129.asp"
         }
     }
 }
