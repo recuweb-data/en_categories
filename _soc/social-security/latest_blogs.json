@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "social-security",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/social-security/",
@@ -10,13 +11,24 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/social-security/social-security/blogs.json"
     },
     "items": {
+        "huffingtonpost.com/2015/04/the-surprise-issue-of-2016-election": {
+            "title": "The Surprise Issue of the 2016 Election?",
+            "snippet": "The 2016 election season is just beginning, but a surprise issue is already emerging among both Republican and Democratic candidates: Social Security. Some observers thought that conservative candidates would be inclined to avoid the so-called third...",
+            "date": "2015-04-22",
+            "author_name": "Richard (RJ) Eskow",
+            "categories": "social-security",
+            "tags": "third,candidates,social,social_security,security,republican",
+            "recuweb_url": "http://en.recuweb.com/social-security/huffingtonpost.com/2015/04/the-surprise-issue-of-2016-election",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=social%2Bsecurity%2Bsocial%2Bsecurity&rss=1&lng=en",
+            "source_url": "http://huffingtonpost.com/rj-eskow/the-surprise-issue-of-the_b_7114658.html?utm_hp_ref=politics&ir=Politics"
+        },
         "thedailysheeple.com/2015/04/tyrannical-fascist-rogues-presenting-your-social-security": {
             "title": "Tyrannical, Fascist Rogues Presenting Your Social Security...",
             "snippet": "But to Social Security she's been an outlaw not because she did anything wrong but because her father was overpaid more than 13,000 in disability. Grant grew outraged when Social Security seized her 1,500 tax...",
             "date": "2015-04-22",
             "author_name": "Rory Hall",
             "categories": "disability,social-security",
-            "tags": "did,than,social,social_security,security,tax",
+            "tags": "disability,did,social,social_security,security,tax",
             "recuweb_url": "http://en.recuweb.com/social-security/thedailysheeple.com/2015/04/tyrannical-fascist-rogues-presenting-your-social-security",
             "resource_url": "http://www.google.com/search?q=social%2Bsecurity%2Bsocial%2Bsecurity&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://thedailysheeple.com/tyrannical-fascist-rogues-presenting-your-social-security-department_042015"
@@ -27,7 +39,7 @@
             "date": "2015-04-22",
             "author_name": "unknown",
             "categories": "taxes,social-security",
-            "tags": "received,retirement,age,taxes,income,social,social_security,security,working,years,dear,benefits",
+            "tags": "received,retirement,social,social_security,security,working,dear,benefits",
             "recuweb_url": "http://en.recuweb.com/social-security/bankrate.com/2015/04/will-my-widow-get-more-in-social-security-when-i-die",
             "resource_url": "http://www.google.com/search?q=social%2Bsecurity%2Bsocial%2Bsecurity&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bankrate.com/finance/retirement/will-my-widow-get-more-in-social-security.aspx"
@@ -38,10 +50,21 @@
             "date": "2015-04-20",
             "author_name": "rss@dailykos.com (Joan McCarter)",
             "categories": "social-security",
-            "tags": "proposals,proposal,did,hampshire,hillary,hillary_clinton,clinton,cuts,off,social,social_security,security",
+            "tags": "proposals,proposal,did,hampshire,hillary,social,social_security,security,cuts,off,republican",
             "recuweb_url": "http://en.recuweb.com/social-security/dailykos.com/2015/04/did-hillary-clinton-just-take-social-security-cuts-off-the-table",
             "resource_url": "http://www.google.com/search?q=social%2Bsecurity%2Bsocial%2Bsecurity&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://dailykos.com/story/2015/04/20/1379050/-Did-Hillary-Clinton-just-take-Social-Security-cuts-off-the-nbsp-table"
+        },
+        "jobsanger.blogspot.com/2015/04/gop-candidates-launch-a-new-attack-on-social-security": {
+            "title": "GOP Candidates Launch A New Attack On Social Security...",
+            "snippet": "The Republican candidates for president have joined in the fight against Social Security now. Of course they will tell you they are trying to save Social Security, but that is a lie. They know they can't do away with it in one fell swoop, so they...",
+            "date": "2015-04-19",
+            "author_name": "Ted McLaughlin",
+            "categories": "social-security",
+            "tags": "fell,social,social_security,security,candidates,president,gop,republican",
+            "recuweb_url": "http://en.recuweb.com/social-security/jobsanger.blogspot.com/2015/04/gop-candidates-launch-a-new-attack-on-social-security",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=social%2Bsecurity%2Bsocial%2Bsecurity&rss=1&lng=en",
+            "source_url": "http://jobsanger.blogspot.com/2015/04/gop-candidates-launch-new-attack-on.html"
         },
         "motherjones.com/2015/04/chris-christie-s-social-security-proposal-is-cruel-and-callous": {
             "title": "Chris Christie's Social Security Proposal is Cruel and Callous...",
@@ -49,7 +72,7 @@
             "date": "2015-04-16",
             "author_name": "Kevin Drum",
             "categories": "social-security,politics",
-            "tags": "third,third-rail,rail,social,social_security,security,bold,proposal,chris,chris_christie,christie,benefits,politics",
+            "tags": "third,social,social_security,security,proposal,chris,chris_christie,christie,benefits",
             "recuweb_url": "http://en.recuweb.com/politics/motherjones.com/2015/04/chris-christie-s-social-security-proposal-is-cruel-and-callous",
             "resource_url": "http://www.google.com/search?q=social%2Bsecurity%2Bsocial%2Bsecurity&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://motherjones.com/kevin-drum/2015/04/chris-christies-social-security-proposal-cruel-and-callous"
@@ -60,7 +83,7 @@
             "date": "2015-04-16",
             "author_name": "unknown",
             "categories": "social-security,collecting",
-            "tags": "percent,working,another,years,social,social_security,security,dear,should,off,next,month,start,plan",
+            "tags": "plan,working,another,social,social_security,security,month,next,next-month,dear,pay,off",
             "recuweb_url": "http://en.recuweb.com/collecting/bankrate.com/2015/04/should-i-use-social-security-to-pay-off-second-mortgage",
             "resource_url": "http://www.google.com/search?q=social%2Bsecurity%2Bsocial%2Bsecurity&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bankrate.com/finance/retirement/use-social-security-to-pay-off-second-mortgage.aspx"
@@ -71,7 +94,7 @@
             "date": "2015-04-16",
             "author_name": "rdquinn",
             "categories": "social-security,facebook",
-            "tags": "social,social_security,security,left,proposals,gov,christie,before,medicare",
+            "tags": "truth,social,social_security,security,proposals,gov,christie,medicare",
             "recuweb_url": "http://en.recuweb.com/facebook/quinnscommentary.com/2015/04/slaming-gov-christie-on-social-security-proposals",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=social%2Bsecurity%2Bsocial%2Bsecurity&rss=1&lng=en",
             "source_url": "http://quinnscommentary.com/2015/04/16/slaming-gov-christie-on-social-security-proposals/"
@@ -82,7 +105,7 @@
             "date": "2015-04-15",
             "author_name": "dachsonwheels",
             "categories": "social-security",
-            "tags": "into,social,social_security,security,proposal,presidential,last,chris,chris_christie,christie,himself,other,republicans",
+            "tags": "social,social_security,security,proposal,presidential,chris,chris_christie,christie,means",
             "recuweb_url": "http://en.recuweb.com/social-security/wtimlen.wordpress.com/2015/04/christie-opens-with-a-clinker",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=social%2Bsecurity%2Bsocial%2Bsecurity&rss=1&lng=en",
             "source_url": "http://wtimlen.wordpress.com/2015/04/15/christie-opens-with-a-clinker/"
@@ -93,32 +116,10 @@
             "date": "2015-04-15",
             "author_name": "Pete Kasperowicz",
             "categories": "social-security",
-            "tags": "president,social,social_security,security,received,than,administration,gov,million",
+            "tags": "action,president,barack,barack_obama,obama,social,social_security,security,received,told,gov",
             "recuweb_url": "http://en.recuweb.com/social-security/theblaze.com/2015/04/senators-ask-gov-t-how-many-illegals-got-social-security-theblaze",
             "resource_url": "http://www.google.com/search?q=social%2Bsecurity&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://theblaze.com/stories/2015/04/15/senators-ask-govt-how-many-illegals-got-social-security-the-number-is-almost-unbelievable/"
-        },
-        "crooksandliars.com/2015/04/chris-christie-s-proposal-to-gut-social-security-gives-clinton": {
-            "title": "Chris Christie's Proposal To Gut Social Security Gives Clinton A Big...",
-            "snippet": "Speaking in New Hampshire today, Christie called for Social Security and Medicare to be gutted. You won't find that headline in the mainstream press. They refer to it with kinder, gentler terms like \"entitlement reform\" or...",
-            "date": "2015-04-14",
-            "author_name": "Karoli",
-            "categories": "social-security",
-            "tags": "entitlement,reform,find,social,social_security,security,called,hampshire,proposal,clinton,chris,chris_christie,christie,medicare",
-            "recuweb_url": "http://en.recuweb.com/social-security/crooksandliars.com/2015/04/chris-christie-s-proposal-to-gut-social-security-gives-clinton",
-            "resource_url": "http://www.google.com/search?q=social%2Bsecurity&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://crooksandliars.com/2015/04/chris-christies-proposal-gut-social"
-        },
-        "progressive-charlestown.com/2015/04/save-social-security": {
-            "title": "Save Social Security...",
-            "snippet": "Keeping Social Security off the GOP chopping block By Herb Weiss in Rhode Islands Future One of the first political skirmishes to protect the nations Social Security program, 589 days before next years Presidential election, took place on March 24th...",
-            "date": "2015-04-14",
-            "author_name": "(Will Collette)",
-            "categories": "social-security",
-            "tags": "before,next,years,social,social_security,security,political,off,program,presidential,election",
-            "recuweb_url": "http://en.recuweb.com/social-security/progressive-charlestown.com/2015/04/save-social-security",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=social%2Bsecurity%2Bsocial%2Bsecurity&rss=1&lng=en",
-            "source_url": "http://progressive-charlestown.com/2015/04/save-social-security.html"
         }
     }
 }
