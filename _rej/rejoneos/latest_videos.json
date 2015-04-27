@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "rejoneos",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/rejoneos/",
@@ -10,26 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/rejoneos/rejoneos/blogs.json"
     },
     "items": {
-        "youtube.com/2013/06/bar-rejoneo-sevilla-noche-flamenca": {
-            "title": "Bar Rejoneo Sevilla noche flamenca...",
-            "snippet": "Bar Rejoneo Sevilla noche flamenca Bar rejoneo en calle betis, canci\u00f3n llevame hasta la locura. From: javier flores Views: 1282 3 ratings Time: 06:05 More in People & Blogs...",
-            "date": "2013-06-11",
-            "author_name": "javier flores",
-            "recuweb_url": "http://en.recuweb.com/youtube.com/2013/06/bar-rejoneo-sevilla-noche-flamenca",
+        "youtube.com/2015/03/pablo-xtrm-&-rejoneos-prod-caracrimen-adelanto": {
+            "title": "Pablo Xtrm & Rejoneos Prod. Caracrimen ADELANTO...",
+            "snippet": "Pablo Xtrm & \"Rejoneos\" Prod. Caracrimen ADELANTO Adelanto de la proxima maqueta de junto a Xtrm, proximamente, producido por Caracrimen. From: Veneno Hellz Views: 169 9 ratings Time: 02:05 More in People & Blogs...",
+            "date": "2015-03-14",
+            "author_name": "Veneno Hellz",
+            "categories": "rejoneos",
+            "recuweb_url": "http://en.recuweb.com/rejoneos/youtube.com/2015/03/pablo-xtrm-&-rejoneos-prod-caracrimen-adelanto",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rejoneos%2Brejoneos&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=GiX5kx5iLiI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/GiX5kx5iLiI/0.jpg"
-        },
-        "youtube.com/2008/03/rejoneos-en-marbellas": {
-            "title": "Rejoneos en Marbellas...",
-            "snippet": "Rejoneos en Marbellas Pablo Hermoso de Mendoza en una tarde primaveral y gloriosa en Marbella. From: cordobaenmalaga Views: 1754 0 ratings Time: 01:53 More in Sports...",
-            "date": "2008-03-24",
-            "author_name": "cordobaenmalaga",
-            "categories": "rejoneos,sport",
-            "recuweb_url": "http://en.recuweb.com/sport/youtube.com/2008/03/rejoneos-en-marbellas",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rejoneos&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=XdPjkXNjJto&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/XdPjkXNjJto/0.jpg"
+            "source_url": "http://youtube.com/watch?v=t7x9zI9jQSI&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/t7x9zI9jQSI/0.jpg"
         }
     }
 }
