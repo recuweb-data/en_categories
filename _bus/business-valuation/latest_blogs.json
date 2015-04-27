@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "business-valuation",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/business-valuation/",
@@ -10,38 +11,49 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/business-valuation/business-valuation/blogs.json"
     },
     "items": {
-        "enterpriseirregulars.com/2015/04/one-more-time-what-drives-saas-company-valuation-growth": {
-            "title": "One More Time: What Drives SaaS Company Valuation? Growth...",
-            "snippet": "About two years ago, I did a post with a chart from JMP that showed the correlation between the value of a SaaS business and its growth rate. Today, I'm back with a chart from RBC 1 that shows things haven't changed.",
-            "date": "2015-04-20",
-            "author_name": "Dave Kellogg",
-            "categories": "business",
-            "tags": "shows,between,years,company,company_valuation,valuation,value,business,today",
-            "recuweb_url": "http://en.recuweb.com/business/enterpriseirregulars.com/2015/04/one-more-time-what-drives-saas-company-valuation-growth",
-            "resource_url": "http://www.google.com/search?q=business%2Bvaluation%2Bbusiness%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://enterpriseirregulars.com/88558/one-time-drives-saas-company-valuation-growth/"
-        },
-        "business-opportunities.biz/2015/04/tips-for-valuing-a-business-opportunities": {
-            "title": "Tips for Valuing a Business - Business Opportunities...",
-            "snippet": "When you need to calculate the valuation of a business for investors or when you are in the process of selling your business, make sure you're performing the right calculations to determine real business valuation.",
-            "date": "2015-04-14",
-            "author_name": "Dane Carlson",
-            "categories": "business",
-            "tags": "performing,determine,real,process,need,calculate,valuing,business,opportunities,valuation",
-            "recuweb_url": "http://en.recuweb.com/business/business-opportunities.biz/2015/04/tips-for-valuing-a-business-opportunities",
-            "resource_url": "http://www.google.com/search?q=business%2Bvaluation%2Bbusiness%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://business-opportunities.biz/2015/04/14/tips-valuing-business/"
-        },
-        "dataprivacymonitor.com/2015/03/like-it-or-not-big-data-decisions-affect-business-valuations": {
-            "title": "\"Like It\" or Not, Big Data Decisions Affect Business Valuations Data...",
-            "snippet": "Over the past decade, we have witnessed the emergence of data-driven enterprises, with business models built on the acquisition, use and sale of data. Incl.",
-            "date": "2015-03-23",
-            "author_name": "Judy Selby and Melissa Kosack",
+        "datafloq.com/2015/04/datafloq-the-impact-of-big-data-decisions-on-business-valuations": {
+            "title": "Datafloq - The Impact of Big Data Decisions on Business Valuations...",
+            "snippet": "Companies should be aware that use, misuse and governance of Big Data could have an impactful effect on their goodwill and resulting valuation.",
+            "date": "2015-04-18",
+            "author_name": "Judy Selby",
             "categories": "business,business-valuation",
-            "tags": "acquisition,business,valuations",
-            "recuweb_url": "http://en.recuweb.com/business-valuation/dataprivacymonitor.com/2015/03/like-it-or-not-big-data-decisions-affect-business-valuations",
+            "tags": "data,business,business_valuations,valuations,valuation",
+            "recuweb_url": "http://en.recuweb.com/business-valuation/datafloq.com/2015/04/datafloq-the-impact-of-big-data-decisions-on-business-valuations",
             "resource_url": "http://www.google.com/search?q=business%2Bvaluation%2Bbusiness%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://dataprivacymonitor.com/big-data-2/like-it-or-not-big-data-decisions-affect-business-valuations/"
+            "source_url": "http://datafloq.com/read/impact-big-data-decisions-business-valuation/1041"
+        },
+        "businessinsider.com/2015/04/domo-raises-200-million-at-a-2-billion-valuation-business-insider": {
+            "title": "Domo raises 200 million at a 2 billion valuation - Business Insider...",
+            "snippet": "After four years of silent running, Utah-based data management startup Domo is coming out of nowhere with a 2 billion valuation, based on its 100 million revenue run rate. Today, Domo announces the official launch of its...",
+            "date": "2015-04-08",
+            "author_name": "Matt Weinberger",
+            "categories": "management,business",
+            "tags": "million,revenue,here,data,management,startup,business,domo,raises,billion,valuation,utah,today",
+            "recuweb_url": "http://en.recuweb.com/business/businessinsider.com/2015/04/domo-raises-200-million-at-a-2-billion-valuation-business-insider",
+            "resource_url": "http://www.google.com/search?q=business%2Bvaluation%2Bbusiness%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://businessinsider.com/domo-raises-200-million-at-a-2-billion-valuation-2015-4"
+        },
+        "ironshield.ca/2015/04/business-valuation-ironshield-financial-planning": {
+            "title": "Business Valuation Ironshield Financial Planning...",
+            "snippet": "This article provides the basic science and math behind the most common business valuation techniques, but keep in mind that there will always be outliers...",
+            "date": "2015-04-01",
+            "author_name": "Scott Plaskett, CFP",
+            "categories": "mind,science,business,business-valuation",
+            "tags": "article,business,business_valuation,valuation,financial",
+            "recuweb_url": "http://en.recuweb.com/business-valuation/ironshield.ca/2015/04/business-valuation-ironshield-financial-planning",
+            "resource_url": "http://www.google.com/search?q=business%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ironshield.ca/business-owner-entrepreneur/business-valuation/"
+        },
+        "sillaslima.wordpress.com/2015/03/deloitte-posted-a-job-you-might-be-interested-in": {
+            "title": "Deloitte posted a job you might be interested in...",
+            "snippet": "Deloitte DTBA-Advisory- Business Valuation- ManagerGreater Atlanta Area, US - Contabilidade, Tecnologia da informa\u00e7\u00e3o e servi\u00e7os, Consultoria de gerenciamento This position is located in the following locations:Atlanta, GeorgiaBoston,...",
+            "date": "2015-03-27",
+            "author_name": "sillaslima",
+            "categories": "business,business-valuation",
+            "tags": "business,business_valuation,valuation,ing",
+            "recuweb_url": "http://en.recuweb.com/business-valuation/sillaslima.wordpress.com/2015/03/deloitte-posted-a-job-you-might-be-interested-in",
+            "resource_url": "http://en.search.wordpress.com/?q=business%2Bvaluation%2Bbusiness%2Bvaluation&f=feed&page=1",
+            "source_url": "http://sillaslima.wordpress.com/2015/03/27/deloitte-posted-a-job-you-might-be-interested-in-31/"
         },
         "sageworks.com/2015/03/business-valuations-as-performance-dashboards-for-accounting-clients": {
             "title": "Business valuations as performance dashboards for accounting clients...",
@@ -49,18 +61,18 @@
             "date": "2015-03-03",
             "author_name": "Admin",
             "categories": "business",
-            "tags": "performance,need,help,work,valuations,business,ing,clients",
+            "tags": "owners,help,work,revenue,ing,clients,valuations,business",
             "recuweb_url": "http://en.recuweb.com/business/sageworks.com/2015/03/business-valuations-as-performance-dashboards-for-accounting-clients",
             "resource_url": "http://www.google.com/search?q=business%2Bvaluation%2Bbusiness%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://sageworks.com/blog/post/2015/03/03/Business-valuations-as-performance-dashboards-for-accounting-clients.aspx"
         },
         "sageworks.com/2015/02/business-valuation-methods-matter-sageworks": {
             "title": "Business valuation methods matter - Sageworks...",
-            "snippet": "But as a recent survey shows, having the wrong number at the end of your business-valuation engagement can mean your client is unable to sell when he or she needs to, so it's important to use the best valuation approach.",
+            "snippet": "By Brad Spence, Director of Enterprise & Valuation Teams, Sageworks. Think performing quality business valuations is important? Consider this statistic: Roughly one in every three business-sale engagements for brokers...",
             "date": "2015-02-25",
             "author_name": "Admin",
             "categories": "business",
-            "tags": "important,sell,recent,shows,matter,business,valuation,sageworks",
+            "tags": "every,valuations,valuation,performing,quality,valuation_teams,teams,brad,brad_spence,spence,business,sageworks,director,enterprise",
             "recuweb_url": "http://en.recuweb.com/business/sageworks.com/2015/02/business-valuation-methods-matter-sageworks",
             "resource_url": "http://www.google.com/search?q=business%2Bvaluation%2Bbusiness%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://sageworks.com/blog/post/2015/02/25/Valuation-methods-matter.aspx"
@@ -71,21 +83,10 @@
             "date": "2015-02-18",
             "author_name": "Admin",
             "categories": "business",
-            "tags": "help,valuations,business,sageworks,director",
+            "tags": "help,people,quality,valuations,valuation_teams,teams,brad,brad_spence,spence,business,sageworks,director,enterprise",
             "recuweb_url": "http://en.recuweb.com/business/sageworks.com/2015/02/professional-standards-and-business-valuations-sageworks",
             "resource_url": "http://www.google.com/search?q=business%2Bvaluation%2Bbusiness%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://sageworks.com/blog/post/2015/02/18/Professional-standards-and-business-valuations.aspx"
-        },
-        "eltocheckcoqinv.wordpress.com/2015/02/download-or-read-the-small-business-valuation-book-easy-to-use": {
-            "title": "Download or Read The Small Business Valuation Book: Easy-to-use Techniques That Will Help You...",
-            "snippet": "Read online or Download The Small Business Valuation Book: Easy-to-use Techniques That Will Help You Determine A Fair Price, Negotiate Terms, Minimize Taxes by Lawrence W...",
-            "date": "2015-02-12",
-            "author_name": "eltocheckcoqinv",
-            "categories": "taxes,business,business-valuation",
-            "tags": "determine,small,small_business,small_business_valuation,business,business_valuation,valuation,online,help,read",
-            "recuweb_url": "http://en.recuweb.com/business-valuation/eltocheckcoqinv.wordpress.com/2015/02/download-or-read-the-small-business-valuation-book-easy-to-use",
-            "resource_url": "http://en.search.wordpress.com/?q=business%2Bvaluation%2Bbusiness%2Bvaluation&f=feed&page=1",
-            "source_url": "http://eltocheckcoqinv.wordpress.com/2015/02/12/download-or-read-the-small-business-valuation-book-easy-to-use-techniques-that-will-help-you-determine-a-fair-price-negotiate-terms-minimize-taxes-ebook-online/"
         },
         "sageworks.com/2015/02/stop-creating-frankenstein-business-valuation-reports-sageworks": {
             "title": "Stop creating Frankenstein business valuation reports - Sageworks...",
@@ -93,32 +94,31 @@
             "date": "2015-02-12",
             "author_name": "Admin",
             "categories": "business",
-            "tags": "performing,valuations,valuation,business,sageworks",
+            "tags": "major,performing,valuations,valuation,business,sageworks",
             "recuweb_url": "http://en.recuweb.com/business/sageworks.com/2015/02/stop-creating-frankenstein-business-valuation-reports-sageworks",
             "resource_url": "http://www.google.com/search?q=business%2Bvaluation%2Bbusiness%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://sageworks.com/blog/post/2015/02/12/writing-business-valuation-reports-efficiently.aspx"
         },
-        "sageworks.com/2015/01/optimizing-valuation-engagements-to-aid-business-development": {
-            "title": "Optimizing valuation engagements to aid business development...",
-            "snippet": "Bringing in new clients is a top priority for forensic and valuation accountants, with 87 percent calling the task somewhat or extremely important, according to a recent AICPA study. The emphasis on business development is...",
-            "date": "2015-01-14",
-            "author_name": "Mary Ellen Biery",
-            "categories": "business",
-            "tags": "recent,important,clients,top,top-priority,priority,forensic,valuation,business",
-            "recuweb_url": "http://en.recuweb.com/business/sageworks.com/2015/01/optimizing-valuation-engagements-to-aid-business-development",
-            "resource_url": "http://www.google.com/search?q=business%2Bvaluation%2Bbusiness%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://sageworks.com/blog/post/2015/01/14/how-optimizing-valuation-engagements-helps-accountants-develop-new-business.aspx"
-        },
-        "businessvaluationadvisors.wordpress.com/2014/12/small-business-valuation-in-chicago": {
-            "title": "Small Business Valuation In Chicago...",
-            "snippet": "The process of business valuation is crucial in case when either the businessman wants to sell or buy his business. This process is used to evaluate the real []...",
-            "date": "2014-12-23",
-            "author_name": "henryjane14",
+        "blearananrefasmeterkeega.wordpress.com/2014/08/business-valuation-bluebook-the-entrepreneur-s-resource": {
+            "title": "Business Valuation Bluebook: The Entrepreneur's Business Valuation Resource...",
+            "snippet": "Business Valuation Bluebook: The Entrepreneur's Business Valuation Resource Business Valuation Bluebook: The Entrepreneur's Business Valuation Resource by Chad Simmons====Download here:====download Business Valuation Bluebook: The Entrepreneur's...",
+            "date": "2014-08-05",
+            "author_name": "blearananrefasmeterkeega",
             "categories": "business,business-valuation",
-            "tags": "process,real,case,sell,buy,small,small_business,small_business_valuation,business,business_valuation,valuation",
-            "recuweb_url": "http://en.recuweb.com/business-valuation/businessvaluationadvisors.wordpress.com/2014/12/small-business-valuation-in-chicago",
+            "tags": "business,business_valuation,valuation,entrepreneur,here",
+            "recuweb_url": "http://en.recuweb.com/business-valuation/blearananrefasmeterkeega.wordpress.com/2014/08/business-valuation-bluebook-the-entrepreneur-s-resource",
             "resource_url": "http://en.search.wordpress.com/?q=business%2Bvaluation%2Bbusiness%2Bvaluation&f=feed&page=1",
-            "source_url": "http://businessvaluationadvisors.wordpress.com/2014/12/23/small-business-valuation-in-chicago/"
+            "source_url": "http://blearananrefasmeterkeega.wordpress.com/2014/08/05/business-valuation-bluebook-the-entrepreneurs-business-valuation-resource/"
+        },
+        "reddit.com/2014/06/i-will-provide-you-a-valuation-model-of-your-business": {
+            "title": "I Will Provide You a Valuation Model of Your Business...",
+            "snippet": "Recently, there was a request on this subreddit for a valuation of their business: After reading some of the comments, I thought I can help. fyi my background is in finance, investment banking and corporate M&A. I put together a valuation model that...",
+            "date": "2014-06-10",
+            "categories": "investment-banking,banking,finance,business",
+            "tags": "together,help,valuation,business,recently",
+            "recuweb_url": "http://en.recuweb.com/business/reddit.com/2014/06/i-will-provide-you-a-valuation-model-of-your-business",
+            "resource_url": "http://www.reddit.com/search.rss?q=business%2Bvaluation%2Bbusiness%2Bvaluation&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/Entrepreneur/comments/27tfrz/i_will_provide_you_a_valuation_model_of_your/"
         }
     }
 }
