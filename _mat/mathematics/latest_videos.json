@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "mathematics",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/mathematics/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/mathematics/mathematics/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/what-is-stem-science-technology-engineering-and-mathematics": {
+            "title": "What is STEM (Science, Technology, Engineering, and Mathematics)?",
+            "snippet": "What is STEM (Science, Technology, Engineering, and Mathematics)?Author: CyrusChappellTags: What is STEM Science Technology Engineering and Mathematics Posted: 24 April 2015Rating:: 0...",
+            "date": "2015-04-24",
+            "author_name": "CyrusChappell",
+            "categories": "science,technology,engineering,mathematics",
+            "tags": "mathematics",
+            "recuweb_url": "http://en.recuweb.com/mathematics/dailymotion.com/2015/04/what-is-stem-science-technology-engineering-and-mathematics",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mathematics/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nu4i1_what-is-stem-science-technology-engineering-and-mathematics_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nu4i1_what-is-stem-science-technology-engineering-and-mathematics_tech"
+        },
         "dailymotion.com/2015/04/dimensions-a-walk-through-mathematics-chapter-6-complex-numbers": {
             "title": "Dimensions - A Walk Through Mathematics Chapter 6 - Complex numbers...",
             "snippet": "Dimensions - A Walk Through Mathematics Chapter 6 - Complex numbersAuthor: BowmanJuanTags: Dimensions - A Walk Through Mathematics Chapter 6 Complex numbers Posted: 20 April 2015Rating:: 0...",
@@ -21,18 +34,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mathematics/0?af=1",
             "source_url": "http://dailymotion.com/video/x2na4iz_dimensions-a-walk-through-mathematics-chapter-6-complex-numbers_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2na4iz_dimensions-a-walk-through-mathematics-chapter-6-complex-numbers_tech"
-        },
-        "dailymotion.com/2015/04/the-beauty-of-mathematics-4": {
-            "title": "the beauty of mathematics 4...",
-            "snippet": "the beauty of mathematics 4Author: ChristopherFreedmanTags: the beauty of mathematics 4 Posted: 20 April 2015Rating:: 0...",
-            "date": "2015-04-20",
-            "author_name": "ChristopherFreedman",
-            "categories": "mathematics",
-            "tags": "mathematics",
-            "recuweb_url": "http://en.recuweb.com/mathematics/dailymotion.com/2015/04/the-beauty-of-mathematics-4",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mathematics/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2najx1_the-beauty-of-mathematics-4_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2najx1_the-beauty-of-mathematics-4_tech"
         },
         "dailymotion.com/2015/04/extreme-mathematics-chinese-multiplication-method-oriental-maya-japanese-math-2": {
             "title": "EXTREME MATHEMATICS - Chinese Multiplication - Chinese Method - Oriental/Maya/Japanese Math 2...",
