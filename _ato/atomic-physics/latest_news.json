@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "atomic-physics",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/atomic-physics/",
@@ -10,32 +11,42 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/atomic-physics/atomic-physics/blogs.json"
     },
     "items": {
+        "cerncourier.com/2015/04/faces-&-places": {
+            "title": "Faces & Places...",
+            "snippet": "The award recognizes her \"exceptionally strong merits within nuclear and atomic physics, in particular concerning experimental studies of exotic light subatomic systems, mainly her expertise within the field of -delayed particle emission is world...",
+            "date": "2015-04-27",
+            "categories": "places,physics",
+            "tags": "particle,world,field,experimental,studies,light,systems,nuclear,atomic,physics",
+            "recuweb_url": "http://en.recuweb.com/physics/cerncourier.com/2015/04/faces-&-places",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=atomic%2Bphysics&format=RSS&cc=us",
+            "source_url": "http://cerncourier.com/cws/article/cern/60879"
+        },
+        "thehindu.com/2015/04/qa-your-queries": {
+            "title": "QA: Your queries...",
+            "snippet": "At a later stage you can specialise in the areas of Astrophysics, Atomic Physics, Molecular Physics, Bio Physics, Chemical Physics, Geo Physics, Material Science, Nuclear Physics, Particle Physics, and Plasma Physics. At the engineering level (viz.,...",
+            "date": "2015-04-26",
+            "categories": "engineering,plasma-physics,physics,science,geophysics,molecular-physics,atomic-physics",
+            "tags": "level,physics,particle,nuclear,material,molecular,molecular_physics,atomic,atomic_physics",
+            "recuweb_url": "http://en.recuweb.com/atomic-physics/thehindu.com/2015/04/qa-your-queries",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=atomic%2Bphysics&format=RSS&cc=us",
+            "source_url": "http://thehindu.com/features/education/qa-your-queries/article7141468.ece"
+        },
         "phys.org/2015/04/nanophotonics-with-ultracold-atoms-for-simulating-quantum-many-body-systems": {
             "title": "Nanophotonics with ultracold atoms for simulating quantum many-body systems...",
             "snippet": "Ignacio Cirac (MPQ, Garching) and Prof. Jeff Kimble (California Institute of Technology) suggests a new setup that integrates the advantages of ultracold atomic physics and nano-photonics to circumvent these limitations predicting lattice constants...",
             "date": "2015-04-21",
             "categories": "institute,technology,physics",
-            "tags": "photonics,photonics-to-circumvent,circumvent,circumvent-these-limitations,limitations,limitations-predicting,limitations-predicting-lattice,predicting,predicting-lattice,predicting-lattice-constants,lattice,lattice-constants,constants,nano,suggests,suggests-new,integrates,integrates-the-advantages,advantages,advantages-of-ultracold,ultracold,california,california_institute,institute,jeff,jeff_kimble,kimble,ignacio,ignacio_cirac,cirac,atoms,quantum,mpq,garching,prof,technology,atomic,physics",
+            "tags": "photonics,photonics-to-circumvent,circumvent,circumvent-these-limitations,limitations,limitations-predicting,limitations-predicting-lattice,predicting,predicting-lattice,predicting-lattice-constants,lattice,lattice-constants,constants,nano,suggests,suggests-new,integrates,integrates-the-advantages,advantages,advantages-of-ultracold,ultracold,california,california_institute,institute,jeff,jeff_kimble,kimble,ignacio,ignacio_cirac,cirac,systems,atoms,quantum,mpq,garching,prof,technology,atomic,physics",
             "recuweb_url": "http://en.recuweb.com/physics/phys.org/2015/04/nanophotonics-with-ultracold-atoms-for-simulating-quantum-many-body-systems",
             "resource_url": "http://www.bing.com/news/search?first=1&q=atomic%2Bphysics&format=RSS&cc=us",
             "source_url": "http://phys.org/news/2015-04-nanophotonics-ultracold-atoms-simulating-quantum.html"
-        },
-        "azonano.com/2015/04/combining-nano-photonics-with-ultracold-atoms-could-help-create-new-states": {
-            "title": "Combining Nano-Photonics with Ultracold Atoms Could Help Create New States of Matter...",
-            "snippet": "The advantages offered by nano-photonics and ultracold atomic physics are integrated in a new set-up, with predicted lattice constants that are approximately ten times smaller than in free space optical lattices. This may also allow for mediation of...",
-            "date": "2015-04-20",
-            "categories": "physics",
-            "tags": "smaller,smaller-than,than,than-in-free,free,optical,lattice,lattice-constants,constants,photonics,ultracold,advantages,nano,atoms,help,atomic,physics",
-            "recuweb_url": "http://en.recuweb.com/physics/azonano.com/2015/04/combining-nano-photonics-with-ultracold-atoms-could-help-create-new-states",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=atomic%2Bphysics&format=RSS&cc=us",
-            "source_url": "http://azonano.com/news.aspx?newsID=32587"
         },
         "nytimes.com/2015/04/digging-up-the-root-of-carbon-dating": {
             "title": "Digging Up the Root of Carbon Dating...",
             "snippet": "On Dec. 28, 1947, in a roundup of the years events in atomic physics, Waldemar Kaempffert wrote that Prof. Willard F. Libby and his colleagues discovered that radioactive carbon 14 is produced by cosmic rays and that there is enough of it in all...",
             "date": "2015-04-20",
             "categories": "events,dating,physics",
-            "tags": "enough,years,atomic,physics,prof",
+            "tags": "enough,atomic,physics,prof",
             "recuweb_url": "http://en.recuweb.com/physics/nytimes.com/2015/04/digging-up-the-root-of-carbon-dating",
             "resource_url": "http://www.bing.com/news/search?first=1&q=atomic%2Bphysics&format=RSS&cc=us",
             "source_url": "http://nytimes.com/2015/04/21/science/digging-up-the-root-of-carbon-dating.html"
@@ -55,7 +66,7 @@
             "snippet": "Jeff Kimble (California Institute of Technology) suggests a new set-up that integrates the advantages of ultracold atomic physics and nano-photonics to circumvent these limitations predicting lattice constants about ten times smaller than in a free...",
             "date": "2015-04-17",
             "categories": "institute,technology,physics",
-            "tags": "smaller,smaller-than,than,than-in-free,free,photonics,photonics-to-circumvent,circumvent,circumvent-these-limitations,limitations,limitations-predicting,limitations-predicting-lattice,predicting,predicting-lattice,predicting-lattice-constants,lattice,lattice-constants,constants,nano,integrates,integrates-the-advantages,advantages,advantages-of-ultracold,ultracold,suggests,suggests-new,suggests-new-set,california,california_institute,institute,jeff,jeff_kimble,kimble,machine,atoms,photons,technology,atomic,physics",
+            "tags": "free,photonics,photonics-to-circumvent,circumvent,circumvent-these-limitations,limitations,limitations-predicting,limitations-predicting-lattice,predicting,predicting-lattice,predicting-lattice-constants,lattice,lattice-constants,constants,nano,integrates,integrates-the-advantages,advantages,advantages-of-ultracold,ultracold,suggests,suggests-new,suggests-new-set,california,california_institute,institute,jeff,jeff_kimble,kimble,machine,atoms,photons,technology,atomic,physics",
             "recuweb_url": "http://en.recuweb.com/physics/cemag.us/2015/04/pinball-machine-for-atoms-and-photons",
             "resource_url": "http://www.bing.com/news/search?first=1&q=atomic%2Bphysics&format=RSS&cc=us",
             "source_url": "http://cemag.us/news/2015/04/pinball-machine-atoms-and-photons"
@@ -90,25 +101,15 @@
             "resource_url": "http://news.google.com/?hl=en&q=atomic%2Bphysics%2Batomic%2Bphysics&output=atom&nord=1",
             "source_url": "http://nanowerk.com/nanotechnology-news/newsid=39778.php"
         },
-        "smallcapnetwork.com/2015/04/canada-listed-tech-micro-cap-sees-a-lucrative-future": {
-            "title": "Canada-Listed Tech Micro Cap Sees a Lucrative Future with Its Crystals...",
-            "snippet": "The LHC, over its lifetime, has proven the existence of what was previously only hypothesized in sub atomic physics, as we were unable to experiment on such a microscopic level. Zecoteks crystals are part of the imaging system that allows these...",
-            "date": "2015-04-13",
-            "categories": "life,physics",
-            "tags": "part,system,level,atomic,physics",
-            "recuweb_url": "http://en.recuweb.com/physics/smallcapnetwork.com/2015/04/canada-listed-tech-micro-cap-sees-a-lucrative-future",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=atomic%2Bphysics&format=RSS&cc=us",
-            "source_url": "http://smallcapnetwork.com/Canada-Listed-Tech-Micro-Cap-Sees-a-Lucrative-Future-with-Its-Crystals/s/via/28141/article/view/p/mid/1/id/61/"
-        },
-        "dailycamera.com/2015/03/cu-boulder-s-atomic-physics-program-again-ranked-no-1": {
-            "title": "CU-Boulder's atomic physics program again ranked No. 1 by US News & World Report...",
-            "snippet": "Several programs across the University of Colorado system earned high rankings in the U.S. News & World Report's 2016 list of the best graduate schools in the country. CU-Boulder's atomic/molecular/optical physics program, which was ranked as the...",
-            "date": "2015-03-10",
-            "categories": "school,physics,university",
-            "tags": "system,high,atomic,physics,molecular,optical",
-            "recuweb_url": "http://en.recuweb.com/university/dailycamera.com/2015/03/cu-boulder-s-atomic-physics-program-again-ranked-no-1",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=atomic%2Bphysics&format=RSS&cc=us",
-            "source_url": "http://dailycamera.com/cu-news/ci_27679594/cu-boulders-atomic-physics-program-again-ranked-no"
+        "bbc.co.uk/2015/04/what-next-for-the-large-hadron-collider-bbc-news": {
+            "title": "What next for the Large Hadron Collider? - BBC News...",
+            "snippet": "next for the Large Hadron Collider?BBC NewsSome are familiar from school physics lessons, household names if you like. One of the best known in the sub-atomic world is perhaps the electron, which orbits the atom and is involved in electricity and...",
+            "date": "2015-04-05",
+            "categories": "school,physics",
+            "tags": "world,physics,atomic,electron",
+            "recuweb_url": "http://en.recuweb.com/physics/bbc.co.uk/2015/04/what-next-for-the-large-hadron-collider-bbc-news",
+            "resource_url": "http://news.google.com/?hl=en&q=atomic%2Bphysics&output=atom&nord=1",
+            "source_url": "http://bbc.co.uk/news/science-environment-32106990"
         }
     }
 }
