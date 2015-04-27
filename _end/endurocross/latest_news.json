@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "endurocross",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/endurocross/",
@@ -10,14 +11,55 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/endurocross/endurocross/blogs.json"
     },
     "items": {
-        "bike-eu.com/2015/04/shimano-launches-deore-xt-m8000-groupset-bike-europe": {
-            "title": "Shimano Launches Deore XT M8000 Groupset - Bike Europe...",
-            "snippet": "Shimano Launches Deore XT M8000 GroupsetBike EuropeNUNSPEET, the Netherlands Shimano has added a new groupset for all enduro, cross-country and trail riders to its range of MTB components. The new Shimano Deore XT M8000 delivers the 11-speed...",
-            "date": "2015-04-23",
-            "tags": "enduro,cross",
-            "recuweb_url": "http://en.recuweb.com/bike-eu.com/2015/04/shimano-launches-deore-xt-m8000-groupset-bike-europe",
+        "motocrossactionmag.com/2015/04/we-ride-mike-browns-endurocross-husqvarna-fc350": {
+            "title": "WE RIDE MIKE BROWNS ENDUROCROSS HUSQVARNA FC350...",
+            "snippet": "Mike Brown is one of the greatest all-around racers to ever throw a leg over a motorcycle. Its a brazen statement, but facts dont lie. Brown spent his formative years racing Supercross and Nationals, making his mark by winning the 2001 AMA 125...",
+            "date": "2015-04-26",
+            "categories": "endurocross",
+            "tags": "mark,racing,ever,mike,endurocross,husqvarna,nationals,ama",
+            "recuweb_url": "http://en.recuweb.com/endurocross/motocrossactionmag.com/2015/04/we-ride-mike-browns-endurocross-husqvarna-fc350",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=endurocross&format=RSS&cc=us",
+            "source_url": "http://motocrossactionmag.com/news/we-ride-mike-browns-endurocross-husqvarna-fe350"
+        },
+        "cyclenews.com/2015/04/pre-qualified-riders-confirmed-for-2015-kenda-tennessee-knockout-cycle-news": {
+            "title": "Pre-Qualified Riders Confirmed for 2015 KENDA Tennessee Knockout - Cycle News...",
+            "snippet": "Cycle NewsPre-Qualified Riders Confirmed for 2015 KENDA Tennessee KnockoutCycle NewsWebb, who is also the defending GEICO AMA EnduroCross Champion, will face a long list of challengers for the 2015 KENDA TKO title. FMF KTM's Taylor Robert has...",
+            "date": "2015-04-25",
+            "categories": "endurocross",
+            "tags": "taylor,taylor_robert,robert,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,endurocross,cycle,cycle_news,riders",
+            "recuweb_url": "http://en.recuweb.com/endurocross/cyclenews.com/2015/04/pre-qualified-riders-confirmed-for-2015-kenda-tennessee-knockout-cycle-news",
             "resource_url": "http://news.google.com/?hl=en&q=endurocross%2Bendurocross&output=atom&nord=1",
-            "source_url": "http://bike-eu.com/sales-trends/nieuws/2015/4/shimano-launches-deore-xt-m8000-groupset-10123722"
+            "source_url": "http://cyclenews.com/45/33850/Racing-Article/Pre-Qualified-Riders-Confirmed-for-2015-KENDA-Tennessee-Knockout.aspx"
+        },
+        "motorcycle-usa.com/2015/04/exciting-list-of-riders-for-x-games-qualifier": {
+            "title": "Exciting List of Riders for X Games Qualifier...",
+            "snippet": "Last month, X Games announced the first ever X Games Step Up qualifier event to be held in collaboration with the 2015 GEICO AMA EnduroCross Round 3 on May 1, 2015, at the Orleans Arena in Las Vegas. The open call has attracted an exciting list of...",
+            "date": "2015-04-24",
+            "categories": "endurocross",
+            "tags": "exciting,las,las_vegas,vegas,orleans,orleans_arena,arena,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,ama_endurocross_round,endurocross,endurocross_round,round,held,held-in-collaboration,collaboration,step,qualifier,announced,ever,games,riders,month,event",
+            "recuweb_url": "http://en.recuweb.com/endurocross/motorcycle-usa.com/2015/04/exciting-list-of-riders-for-x-games-qualifier",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=endurocross&format=RSS&cc=us",
+            "source_url": "http://motorcycle-usa.com/507/25515/Motorcycle-Article/Exciting-List-of-Riders-for-X-Games-Qualifier.aspx"
+        },
+        "cyclenews.com/2015/04/exciting-list-of-riders-for-x-games-step-up-qualifier-cycle": {
+            "title": "Exciting List of Riders for X Games Step Up Qualifier - Cycle News...",
+            "snippet": "Cycle NewsExciting List of Riders for X Games Step Up QualifierCycle NewsIrvine, CA (April 24, 2015) Last month, X Games announced the first ever X Games Step Up qualifier event to be held in collaboration with the 2015 GEICO AMA EnduroCross Round 3...",
+            "date": "2015-04-24",
+            "categories": "endurocross",
+            "tags": "geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,ama_endurocross_round,endurocross,endurocross_round,round,held,held-in-collaboration,collaboration,step,qualifier,announced,ever,games,newsirvine,cycle,cycle_news,exciting,riders,month,event",
+            "recuweb_url": "http://en.recuweb.com/endurocross/cyclenews.com/2015/04/exciting-list-of-riders-for-x-games-step-up-qualifier-cycle",
+            "resource_url": "http://news.google.com/?hl=en&q=endurocross%2Bendurocross&output=atom&nord=1",
+            "source_url": "http://cyclenews.com/45/33847/Racing-Article/Exciting-List-of-Riders-for-X-Games-Step-Up-Qualifier.aspx"
+        },
+        "powersportsbusiness.com/2015/04/k&n-returns-as-endurocross-series-sponsor": {
+            "title": "K&N returns as EnduroCross Series sponsor...",
+            "snippet": "K&N returns as the official filter of the 2015 Geico Motorcycle AMA EnduroCross Series. We thoroughly enjoyed our first year of involvement with EnduroCross, said Caitlin Clement, series and track support manager for K&N. The racing is demanding...",
+            "date": "2015-04-24",
+            "categories": "endurocross",
+            "tags": "racing,track,geico,motorcycle,ama,returns,endurocross,endurocross_series,series",
+            "recuweb_url": "http://en.recuweb.com/endurocross/powersportsbusiness.com/2015/04/k&n-returns-as-endurocross-series-sponsor",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=endurocross&format=RSS&cc=us",
+            "source_url": "http://powersportsbusiness.com/features/2015/04/24/kn-returns-as-endurocross-series-sponsor/"
         },
         "cyclenews.com/2015/04/webb-and-haaker-tied-on-points-leading-into-las-vegas-endurocross": {
             "title": "Webb and Haaker Tied On Points Leading Into Las Vegas EnduroCross...",
@@ -36,77 +78,37 @@
             "categories": "endurocross",
             "tags": "challenging,challenging-track,track,orleans,orleans_arena,orleans_arena_friday,arena,arena_friday,friday,place,place-inside,inside,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,ama_endurocross_championship,endurocross,endurocross_championship,championship,haaker,haaker_tied,tied,tied_on_points,points,points_leading,points_leading_into,leading,leading_into,leading_into_las,into,into_las,into_las_vegas,las,las_vegas,las_vegas_endurocross,vegas,vegas_endurocross,webb,irvine,round",
             "recuweb_url": "http://en.recuweb.com/endurocross/off-road.com/2015/04/webb-and-haaker-tied-on-points-leading-into-las-vegas-endurocross",
-            "resource_url": "http://news.google.com/?hl=en&q=endurocross&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=endurocross%2Bendurocross&output=atom&nord=1",
             "source_url": "http://off-road.com/blog/2015/04/22/webb-and-haaker-tied-on-points-leading-into-las-vegas-endurocross/"
         },
-        "reviewjournal.com/2015/04/southwest-things-to-do-april-23-29-2015": {
-            "title": "Southwest Things to Do, April 23-29, 2015...",
-            "snippet": "Green Valley Parkway. Visit or call 702-207-4260. GEICO EnduroCross plans an indoor, off-road motorcycle race May 1 at the Orleans Arena, 4500 W. Tropicana Ave. Practice is slated from 9 a.m. to 3 p.m., and racing is set to begin at 8 p...",
+        "reviewjournal.com/2015/04/southwest-things-to-do-april-23-29-2015-las-vegas-review": {
+            "title": "Southwest Things to Do, April 23-29, 2015 - Las Vegas Review-Journal...",
+            "snippet": "Las Vegas Review-JournalSouthwest Things to Do, April 23-29, 2015Las Vegas Review-JournalGEICO EnduroCross plans an indoor, off-road motorcycle race May 1 at the Orleans Arena, 4500 W. Tropicana Ave. Practice is slated from 9 a.m. to 3 p.m., and...",
             "date": "2015-04-22",
             "categories": "endurocross",
-            "tags": "racing,orleans,orleans_arena,arena,road,motorcycle,race,geico,geico_endurocross,endurocross,off",
-            "recuweb_url": "http://en.recuweb.com/endurocross/reviewjournal.com/2015/04/southwest-things-to-do-april-23-29-2015",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=endurocross&format=RSS&cc=us",
+            "tags": "orleans,orleans_arena,arena,motorcycle,endurocross,las,las_vegas,vegas",
+            "recuweb_url": "http://en.recuweb.com/endurocross/reviewjournal.com/2015/04/southwest-things-to-do-april-23-29-2015-las-vegas-review",
+            "resource_url": "http://news.google.com/?hl=en&q=endurocross%2Bendurocross&output=atom&nord=1",
             "source_url": "http://reviewjournal.com/view/spring-valley/southwest-things-do-april-23-29-2015"
-        },
-        "motorcycle-usa.com/2015/04/2015-beta-480-rr-vs-430-race-edition": {
-            "title": "2015 Beta 480 RR vs. Beta 430 RR Race Edition -...",
-            "snippet": "Beta 480 RR vs. Beta 430 RR Race single track in the mountains, hitting the motocross track or battling an EnduroCross track, if it's on two wheels Boothy will have a smile on his face. Adam has served a mega ton of years in the off-road industry...",
-            "date": "2015-04-21",
-            "categories": "motocross,endurocross",
-            "tags": "road,years,off,wheels,track,race,endurocross",
-            "recuweb_url": "http://en.recuweb.com/endurocross/motorcycle-usa.com/2015/04/2015-beta-480-rr-vs-430-race-edition",
-            "resource_url": "http://news.google.com/?hl=en&q=endurocross&output=atom&nord=1",
-            "source_url": "http://motorcycle-usa.com/55/24498/motorcycle-article/2015-beta-480-rr-vs--beta-430-rr-race-edition.aspx"
-        },
-        "motocrossactionmag.com/2015/04/we-ride-mike-browns-endurocross-husqvarna-fc350": {
-            "title": "WE RIDE MIKE BROWNS ENDUROCROSS HUSQVARNA FC350...",
-            "snippet": "Mike Brown is one of the greatest all-around racers to ever throw a leg over a motorcycle. Its a brazen statement, but facts dont lie. Brown spent his formative years racing Supercross and Nationals, making his mark by winning the 2001 AMA 125...",
-            "date": "2015-04-19",
-            "categories": "endurocross",
-            "tags": "years,racing,mike,endurocross,husqvarna,nationals,ama",
-            "recuweb_url": "http://en.recuweb.com/endurocross/motocrossactionmag.com/2015/04/we-ride-mike-browns-endurocross-husqvarna-fc350",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=endurocross&format=RSS&cc=us",
-            "source_url": "http://motocrossactionmag.com/news/we-ride-mike-browns-endurocross-husqvarna-fe350"
-        },
-        "motorcycle-usa.com/2015/04/2015-las-vegas-endurocross-track-map": {
-            "title": "2015 Las Vegas EnduroCross Track Map...",
-            "snippet": "The 2015 GEICO AMA EnduroCross Championship returns home to Las Vegas on Friday, May 1st. Just like it all began in 2004, the Orleans Arena in Las Vegas will host the stars of EnduroCross. But this time theyll be tackling a track seemingly...",
-            "date": "2015-04-16",
-            "categories": "stars,home,endurocross",
-            "tags": "host,orleans,orleans_arena,arena,began,las,las_vegas,vegas,returns,returns-home,home,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,ama_endurocross_championship,endurocross,endurocross_championship,championship,las_vegas_endurocross,vegas_endurocross,vegas_endurocross_track,endurocross_track,endurocross_track_map,track,track_map,map,friday",
-            "recuweb_url": "http://en.recuweb.com/endurocross/motorcycle-usa.com/2015/04/2015-las-vegas-endurocross-track-map",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=endurocross&format=RSS&cc=us",
-            "source_url": "http://motorcycle-usa.com/507/24460/Motorcycle-Article/2015-Las-Vegas-EnduroCross-Track-Map.aspx"
         },
         "cyclenews.com/2015/04/2015-las-vegas-endurocross-track-map-cycle-news": {
             "title": "2015 Las Vegas EnduroCross Track Map - Cycle News...",
             "snippet": "Cycle News2015 Las Vegas EnduroCross Track MapCycle NewsIrvine, CA (April 16, 2015) The 2015 GEICO AMA EnduroCross Championship returns home to Las Vegas on Friday, May 1. Just like it all began in 2004, the Orleans Arena in Las Vegas will host the...",
             "date": "2015-04-16",
             "categories": "home,endurocross",
-            "tags": "host,orleans,orleans_arena,arena,began,las,las_vegas,vegas,returns,returns-home,home,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,ama_endurocross_championship,endurocross,endurocross_championship,championship,las_vegas_endurocross,vegas_endurocross,vegas_endurocross_track,endurocross_track,track,endurocross_track_map,track_map,map,friday",
+            "tags": "orleans,orleans_arena,arena,las,las_vegas,vegas,returns,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,ama_endurocross_championship,endurocross,endurocross_championship,championship,las_vegas_endurocross,vegas_endurocross,track,newsirvine,cycle,cycle_news,friday",
             "recuweb_url": "http://en.recuweb.com/endurocross/cyclenews.com/2015/04/2015-las-vegas-endurocross-track-map-cycle-news",
-            "resource_url": "http://news.google.com/?hl=en&q=endurocross&output=atom&nord=1",
-            "source_url": "http://cyclenews.com/45/32798/Racing-Article/2015-Las-Vegas-EnduroCross-Track-Map.aspx"
-        },
-        "motorcycle-usa.com/2015/04/backmarker-eric-peronnard-s-x-games": {
-            "title": "Backmarker: Eric Peronnard's X Games -...",
-            "snippet": ": Eric Peronnard's X 's paid back American motorcycle sport several times over, by promoting races and a whole new sport: EnduroCross. He also played a key role in getting America's most traditional motorcycle racing discipline Flat Track onto the...",
-            "date": "2015-04-16",
-            "categories": "sport,motorcycle-sport,endurocross",
-            "tags": "track,motorcycle,racing,endurocross",
-            "recuweb_url": "http://en.recuweb.com/endurocross/motorcycle-usa.com/2015/04/backmarker-eric-peronnard-s-x-games",
             "resource_url": "http://news.google.com/?hl=en&q=endurocross%2Bendurocross&output=atom&nord=1",
-            "source_url": "http://motorcycle-usa.com/811/24455/Motorcycle-Article/Backmarker--Eric-Peronnards-X-Games.aspx"
+            "source_url": "http://cyclenews.com/45/32798/Racing-Article/2015-Las-Vegas-EnduroCross-Track-Map.aspx"
         },
         "johnsoncitypress.com/2015/04/johnson-city-s-brown-gives-husqvarna-first-endurocross-win-press-subscription": {
             "title": "Johnson City's Brown gives Husqvarna first Endurocross win - Johnson City Press (subscription)...",
             "snippet": "Johnson City Press (subscription)Johnson City's Brown gives Husqvarna first Endurocross winJohnson City Press (subscription)Racing for a brand better known for its chain saws than motorcycles, Mike Brown cut the competition down to size at the...",
             "date": "2015-04-11",
             "categories": "endurocross",
-            "tags": "city,press,brown,husqvarna,endurocross,win,racing,mike",
+            "tags": "city,press,brown,husqvarna,endurocross,racing,mike",
             "recuweb_url": "http://en.recuweb.com/endurocross/johnsoncitypress.com/2015/04/johnson-city-s-brown-gives-husqvarna-first-endurocross-win-press-subscription",
-            "resource_url": "http://news.google.com/?hl=en&q=endurocross&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=endurocross%2Bendurocross&output=atom&nord=1",
             "source_url": "http://johnsoncitypress.com/article/125793/johnson-citys-brown-gives-husqvarna-first-endurocross-win"
         }
     }
