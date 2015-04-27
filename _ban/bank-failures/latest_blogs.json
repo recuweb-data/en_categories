@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "bank-failures",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/bank-failures/",
@@ -15,7 +16,7 @@
             "snippet": "Working Paper Series. Commercial bank failures during the Great. Recession: the real (estate) story. Macroprudential Research Network. Adonis Antoniades. Note: This Working Paper should not be reported as representing the views of the...",
             "date": "2015-04-07",
             "author_name": "unknown",
-            "tags": "should,series,great,great_recession,recession,during,bank,failures",
+            "tags": "working,series,recession,during,bank,failures,should",
             "recuweb_url": "http://en.recuweb.com/ecb.europa.eu/2015/04/commercial-bank-failures-during-the-great-recession-real-estate",
             "resource_url": "http://www.google.com/search?q=bank%2Bfailures%2Bbank%2Bfailures&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://ecb.europa.eu/pub/pdf/scpwps/ecbwp1779.en.pdf"
@@ -25,9 +26,9 @@
             "snippet": "Ukraine: Three Bank Failures in One Day. on: March 26, 2015. Loans are flowing into the country but not into the economy or banking system to prevent insolvency. Three Ukrainian banks have been declared insolvent by the Central bank in...",
             "date": "2015-03-26",
             "author_name": "Helga Green",
-            "categories": "economy,banking,bank-failures",
-            "tags": "banking,banks,bank_failures,failures,central",
-            "recuweb_url": "http://en.recuweb.com/bank-failures/novorossia.today/2015/03/ukraine-three-bank-failures-in-one-day-novorossia-today",
+            "categories": "bank-failures,economy,banking",
+            "tags": "into,day,today,banks,bank_failures,failures,loans,economy,banking,central",
+            "recuweb_url": "http://en.recuweb.com/banking/novorossia.today/2015/03/ukraine-three-bank-failures-in-one-day-novorossia-today",
             "resource_url": "http://www.google.com/search?q=bank%2Bfailures&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://novorossia.today/ukraine-three-bank-failures-in-one-day/"
         },
@@ -36,11 +37,21 @@
             "snippet": "Prior to the banking crisis that began in 2008 bank failures had been a rare occurrence with only 32 banking failures between 2000 to 2007. During 2008 the.",
             "date": "2015-03-04",
             "author_name": "Problem Bank List Staff",
-            "categories": "banking,bank-failures",
-            "tags": "banking,bank,bank_failures,failures,crisis,during",
-            "recuweb_url": "http://en.recuweb.com/bank-failures/problembanklist.com/2015/03/bank-failures-decline-but-still-above-pre-banking-crisis-levels",
+            "categories": "bank-failures,banking",
+            "tags": "bank,bank_failures,failures,banking,crisis,prior,between,during",
+            "recuweb_url": "http://en.recuweb.com/banking/problembanklist.com/2015/03/bank-failures-decline-but-still-above-pre-banking-crisis-levels",
             "resource_url": "http://www.google.com/search?q=bank%2Bfailures%2Bbank%2Bfailures&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://problembanklist.com/bank-failures-decline-but-still-above-pre-banking-crisis-levels-0692/"
+        },
+        "triblive.com/2015/02/jpmorgan-tops-worst-case-list-of-potential-bank-failures-treasury": {
+            "title": "JPMorgan tops worst-case list of potential bank failures, Treasury...",
+            "snippet": "From the shale fields to the cooling towers, Trib Total Media covers the energy industry in Western Pennsylvania and beyond. For the latest news and views on gas, coal, electricity and more, check out On the Grid today.",
+            "date": "2015-02-18",
+            "author_name": "Reuters",
+            "tags": "western,jpmorgan,bank,failures,treasury,today",
+            "recuweb_url": "http://en.recuweb.com/triblive.com/2015/02/jpmorgan-tops-worst-case-list-of-potential-bank-failures-treasury",
+            "resource_url": "http://www.google.com/search?q=bank%2Bfailures%2Bbank%2Bfailures&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://triblive.com/business/headlines/7797362-74/bank-risk-banks"
         },
         "fredblog.stlouisfed.org/2014/10/bank-failures-fred-blog": {
             "title": "Bank failures FRED Blog...",
@@ -48,7 +59,7 @@
             "date": "2014-10-20",
             "author_name": "unknown",
             "categories": "insurance",
-            "tags": "federal,federal_deposit,federal_deposit_insurance,deposit,deposit_insurance,insurance,number,bank,failures,recession,financial",
+            "tags": "federal,federal_deposit,federal_deposit_insurance,deposit,deposit_insurance,insurance,recession,bank,failures,financial",
             "recuweb_url": "http://en.recuweb.com/insurance/fredblog.stlouisfed.org/2014/10/bank-failures-fred-blog",
             "resource_url": "http://www.google.com/search?q=bank%2Bfailures&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://fredblog.stlouisfed.org/2014/10/bank-failures/"
@@ -59,7 +70,7 @@
             "date": "2014-10-18",
             "author_name": "mhasken",
             "categories": "insurance",
-            "tags": "federal,federal_deposit,federal_deposit_insurance,deposit,deposit_insurance,insurance,regulators,close,small,bank,failures,after",
+            "tags": "federal,federal_deposit,federal_deposit_insurance,deposit,deposit_insurance,insurance,closed,small,regulators,bank,failures",
             "recuweb_url": "http://en.recuweb.com/insurance/washington.cbslocal.com/2014/10/regulators-close-small-maryland-bank",
             "resource_url": "http://en.search.wordpress.com/?q=bank%2Bfailures%2Bbank%2Bfailures&f=feed&page=1",
             "source_url": "http://washington.cbslocal.com/2014/10/17/regulators-close-small-maryland-bank/"
@@ -70,7 +81,7 @@
             "date": "2014-09-24",
             "author_name": "falkpsychinthalrecisphyterders",
             "categories": "insurance,banking,bank-failures,finance",
-            "tags": "deposit,deposit_insurance,insurance,banking,bank,bank_failures,failures,finance",
+            "tags": "deposit,deposit_insurance,insurance,banking,bank,bank_failures,failures",
             "recuweb_url": "http://en.recuweb.com/finance/falkpsychinthalrecisphyterders.wordpress.com/2014/09/contagion-of-bank-failures-rle-banking-&-finance-the-relation-to",
             "resource_url": "http://en.search.wordpress.com/?q=bank%2Bfailures%2Bbank%2Bfailures&f=feed&page=1",
             "source_url": "http://falkpsychinthalrecisphyterders.wordpress.com/2014/09/24/contagion-of-bank-failures-rle-banking-finance-the-relation-to-deposit-insurance-and-information/"
@@ -81,7 +92,7 @@
             "date": "2014-08-29",
             "author_name": "antiknee",
             "categories": "bank-failures",
-            "tags": "bank,bank_failures,failures,first",
+            "tags": "bank,bank_failures,failures",
             "recuweb_url": "http://en.recuweb.com/bank-failures/saladofpearls.wordpress.com/2014/08/bank-failures-by-b-traven",
             "resource_url": "http://en.search.wordpress.com/?q=bank%2Bfailures%2Bbank%2Bfailures&f=feed&page=1",
             "source_url": "http://saladofpearls.wordpress.com/2014/08/29/bank-failures-by-b-traven/"
@@ -102,9 +113,9 @@
             "date": "2013-03-18",
             "author_name": "Gareth Vaughan",
             "categories": "insurance",
-            "tags": "any,reserve,bank,failures,deposit,insurance,scheme",
+            "tags": "deposit,insurance,reserve,bank,national,failures",
             "recuweb_url": "http://en.recuweb.com/insurance/interest.co.nz/2013/03/green-party-s-russel-norman-hits-out-at-government-cyprus-style",
-            "resource_url": "http://www.google.com/search?q=bank%2Bfailures%2Bbank%2Bfailures&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=bank%2Bfailures&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://interest.co.nz/personal-finance/63641/green-partys-russel-norman-hits-out-governments-cyprus-style-bank-failure"
         }
     }
