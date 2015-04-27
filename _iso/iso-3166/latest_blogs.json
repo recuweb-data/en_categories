@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "iso-3166",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/iso-3166/",
@@ -10,107 +11,106 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/iso-3166/iso-3166/blogs.json"
     },
     "items": {
-        "tools.ietf.org/2015/03/draft-lewis-user-assigned-tlds-00-iso-3166-1-alpha": {
-            "title": "draft-lewis-user-assigned-tlds-00 - User Assigned ISO 3166-1 Alpha...",
-            "snippet": "Independent Submission E. Lewis Internet-Draft ICANN Expires: September 9, 2015 Date: March 9, 2015 User Assigned ISO 3166-1 Alpha-2 Codes and the DNS Root Zone draft-lewis-user-assigned-tlds-00 Abstract The practice governing...",
-            "date": "2015-03-06",
-            "author_name": "unknown",
-            "categories": "internet",
-            "tags": "icann,internet,iso,alpha,date,codes",
-            "recuweb_url": "http://en.recuweb.com/internet/tools.ietf.org/2015/03/draft-lewis-user-assigned-tlds-00-iso-3166-1-alpha",
+        "gis.stackexchange.com/2015/04/united-kingdom-linking-iso-3166-1-and-2-with-postcode-data": {
+            "title": "united kingdom - Linking ISO 3166-1 and 3166-2 with postcode data...",
+            "snippet": "I understand that ISO 3166-1 and 3166-2 model the 'geo-administrative domain'of the world up to a certain subdivision level. I am mainly focused upon the UK and would like to link postcodes to these subdivision levels.",
+            "date": "2015-04-15",
+            "author_name": "csetzkorn",
+            "tags": "level,focused,domain,iso,code,world,codes",
+            "recuweb_url": "http://en.recuweb.com/gis.stackexchange.com/2015/04/united-kingdom-linking-iso-3166-1-and-2-with-postcode-data",
             "resource_url": "http://www.google.com/search?q=iso%2B3166%2Biso%2B3166&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://tools.ietf.org/html/draft-lewis-user-assigned-tlds-00"
+            "source_url": "http://gis.stackexchange.com/questions/142692/linking-iso-3166-1-and-3166-2-with-postcode-data"
+        },
+        "naylahot.blogspot.com/2015/04/iso-3166-god-emperor-of": {
+            "title": "ISO 3166 God Emperor of Dune...",
+            "snippet": "ISO 3166 is a standard published by the International Organization for Standardization (ISO) that defines codes for the names of countries, dependent territories, special areas of geographical interest, and their principal...",
+            "date": "2015-04-03",
+            "author_name": "sep resep",
+            "tags": "principal,dependent,dependent-territories,territories,defines,international,international_organization,organization,iso,standard,published,standardization,codes,names,ries,geographical",
+            "recuweb_url": "http://en.recuweb.com/naylahot.blogspot.com/2015/04/iso-3166-god-emperor-of",
+            "resource_url": "http://www.google.com/search?q=iso%2B3166%2Biso%2B3166&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://naylahot.blogspot.com/2015/04/iso-3166.html"
         },
         "pdf-search.co/2015/03/iso-3166-pdf-free-download": {
             "title": "ISO 3166 PDF Free Download...",
             "snippet": "What is ISO 3166 the ISO 3166 is the International Standard for country codes. The purpose of ISO 3166 is to establish codes for the representation of names of.",
-            "date": "2015-03-04",
+            "date": "2015-03-14",
             "author_name": "admin",
-            "tags": "international,standard,free,iso,codes,representation,names",
+            "tags": "international,standard,iso,codes,representation,names",
             "recuweb_url": "http://en.recuweb.com/pdf-search.co/2015/03/iso-3166-pdf-free-download",
             "resource_url": "http://www.google.com/search?q=iso%2B3166%2Biso%2B3166&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://pdf-search.co/iso-3166"
         },
-        "countries-s.blogspot.com/2015/02/countries-around-the-world-iso-3166": {
-            "title": "Countries around the world: ISO 3166...",
-            "snippet": "ISO 3166 is a standard published by the International Organization for Standardization (ISO). It defines codes for the names of countries, dependent territories, special areas of geographical interest, and their principal...",
+        "tools.ietf.org/2015/03/draft-lewis-user-assigned-tlds-00-iso-3166-1-alpha": {
+            "title": "draft-lewis-user-assigned-tlds-00 - User Assigned ISO 3166-1 Alpha...",
+            "snippet": "Independent Submission E. Lewis Internet-Draft ICANN Expires: September 9, 2015 Date: March 9, 2015 User Assigned ISO 3166-1 Alpha-2 Codes and the DNS Root Zone draft-lewis-user-assigned-tlds-00 Abstract The practice governing...",
+            "date": "2015-03-09",
+            "author_name": "unknown",
+            "categories": "internet",
+            "tags": "icann,internet,iso,alpha,codes",
+            "recuweb_url": "http://en.recuweb.com/internet/tools.ietf.org/2015/03/draft-lewis-user-assigned-tlds-00-iso-3166-1-alpha",
+            "resource_url": "http://www.google.com/search?q=iso%2B3166%2Biso%2B3166&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://tools.ietf.org/html/draft-lewis-user-assigned-tlds-00"
+        },
+        "howtocode.net/2015/03/critique-cil-country-codes-iso-3166": {
+            "title": "Critique CIL Country Codes (ISO 3166) How...",
+            "snippet": "Critique CIL Country Codes (ISO 3166). by dmoonfire via/r/csharp. Posted on March 6, 2015 Author adminTags.NET,/r/csharp, C...",
+            "date": "2015-03-06",
+            "author_name": "admin",
+            "tags": "codes,iso",
+            "recuweb_url": "http://en.recuweb.com/howtocode.net/2015/03/critique-cil-country-codes-iso-3166",
+            "resource_url": "http://www.google.com/search?q=iso%2B3166&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://howtocode.net/?p=152"
+        },
+        "countries-s.blogspot.com/2015/02/countries-around-the-world-iso-3166-2": {
+            "title": "Countries around the world: ISO 3166-2...",
+            "snippet": "ISO 3166-2 is part of the ISO 3166 standard published by the International Organization for Standardization (ISO), and defines codes for identifying the principal subdivisions (e.g., provinces or states) of all countries coded in...",
             "date": "2015-02-09",
             "author_name": "Jane Goetta",
-            "tags": "areas,geographical,dependent,dependent-territories,territories,international,international_organization,organization,around,ries,world,iso,standard,published,standardization,codes,names",
-            "recuweb_url": "http://en.recuweb.com/countries-s.blogspot.com/2015/02/countries-around-the-world-iso-3166",
+            "tags": "coded,provinces,provinces-or-states,states,identifying,identifying-the-principal,principal,principal-subdivisions,subdivisions,defines,international,international_organization,organization,ries,world,iso,part,standard,published,standardization,codes",
+            "recuweb_url": "http://en.recuweb.com/countries-s.blogspot.com/2015/02/countries-around-the-world-iso-3166-2",
             "resource_url": "http://www.google.com/search?q=iso%2B3166&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://countries-s.blogspot.com/2015/02/iso-3166_9.html"
+            "source_url": "http://countries-s.blogspot.com/2015/02/iso-3166-2_9.html"
+        },
+        "countries-s.blogspot.com/2015/02/countries-around-the-world-iso-3166-3": {
+            "title": "Countries around the world: ISO 3166-3...",
+            "snippet": "ISO 3166-3 is part of the ISO 3166 standard published by the International Organization for Standardization (ISO), and defines codes for country names which have been deleted from ISO 3166-1 since its first publication in...",
+            "date": "2015-02-09",
+            "author_name": "Jane Goetta",
+            "tags": "defines,international,international_organization,organization,ries,world,iso,part,standard,published,standardization,codes,names",
+            "recuweb_url": "http://en.recuweb.com/countries-s.blogspot.com/2015/02/countries-around-the-world-iso-3166-3",
+            "resource_url": "http://www.google.com/search?q=iso%2B3166%2Biso%2B3166&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://countries-s.blogspot.com/2015/02/iso-3166-3_9.html"
         },
         "countries-s.blogspot.com/2015/02/countries-around-the-world-iso-3166-1-alpha-2": {
             "title": "Countries around the world: ISO 3166-1 alpha-2...",
             "snippet": "ISO 3166-1 alpha-2 codes are two-letter country codes defined in ISO 3166-1, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), to represent countries, dependent territories,...",
             "date": "2015-02-07",
             "author_name": "Jane Goetta",
-            "tags": "dependent,dependent-territories,territories,represent,international,international_organization,organization,around,ries,world,iso,alpha,codes,letter,defined,part,standard,published,standardization",
+            "tags": "dependent,dependent-territories,territories,represent,international,international_organization,organization,ries,world,iso,alpha,codes,letter,defined,part,standard,published,standardization",
             "recuweb_url": "http://en.recuweb.com/countries-s.blogspot.com/2015/02/countries-around-the-world-iso-3166-1-alpha-2",
             "resource_url": "http://www.google.com/search?q=iso%2B3166%2Biso%2B3166&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://countries-s.blogspot.com/2015/02/iso-3166-1-alpha-2.html"
         },
-        "blog.infosecanalytics.com/2015/01/standardized-data-trees-un-iso-3166-1-3366-2": {
-            "title": "Standardized Data Trees (UN, ISO 3166-1, ISO 3366-2...",
-            "snippet": "Standardized Data Trees (UN, ISO 3166-1, ISO 3366-2, country population/area, NAICS). To help in aggregating, comparing, and validating data, I've created a pair of data of graphs which represent tree hierarchies of...",
-            "date": "2015-01-06",
-            "author_name": "Gabriel Bassett",
-            "tags": "represent,help,iso",
-            "recuweb_url": "http://en.recuweb.com/blog.infosecanalytics.com/2015/01/standardized-data-trees-un-iso-3166-1-3366-2",
+        "countries-s.blogspot.com/2015/01/iso-3166-2-countries-around-the-world": {
+            "title": "ISO 3166-2 Countries around the world...",
+            "snippet": "ISO 3166-2 is part of the ISO 3166 standard published by the International Organization for Standardization (ISO), and defines codes for identifying the principal subdivisions (e.g., provinces or states) of all countries coded in...",
+            "date": "2015-01-26",
+            "author_name": "Jane Goetta",
+            "tags": "coded,provinces,provinces-or-states,states,identifying,identifying-the-principal,principal,principal-subdivisions,subdivisions,defines,international,international_organization,organization,iso,ries,world,part,standard,published,standardization,codes",
+            "recuweb_url": "http://en.recuweb.com/countries-s.blogspot.com/2015/01/iso-3166-2-countries-around-the-world",
             "resource_url": "http://www.google.com/search?q=iso%2B3166%2Biso%2B3166&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.infosecanalytics.com/2015/01/standardized-data-trees-un-m49-iso-3166.html"
+            "source_url": "http://countries-s.blogspot.com/2015/01/iso-3166-2_25.html"
         },
-        "generaenergids.wordpress.com/2014/12/apartments-uki-locating": {
-            "title": "Apartments uki Locating...",
-            "snippet": "The ISO 3166-1 alpha-2 code for Montenegro is ME and the ISO 3166-1 alpha-3 is MNE. ISO 3166-1 Newsletter No. V-12, Date: 26 September 2006dead link Education...",
-            "date": "2014-12-28",
-            "author_name": "tocongutfper1977",
-            "categories": "education",
-            "tags": "iso,alpha,code,date,education",
-            "recuweb_url": "http://en.recuweb.com/education/generaenergids.wordpress.com/2014/12/apartments-uki-locating",
-            "resource_url": "http://en.search.wordpress.com/?q=iso%2B3166%2Biso%2B3166&f=feed&page=1",
-            "source_url": "http://generaenergids.wordpress.com/2014/12/28/apartments-uki-locating/"
-        },
-        "pypi.python.org/2014/11/pycountry-python-package-index": {
-            "title": "pycountry: Python Package Index...",
-            "snippet": "pycountry provides the ISO databases for the standards: 639: Languages; 3166: Countries; 3166-3: Deleted countries; 3166-2: Subdivisions of countries; 4217: Currencies; 15924: Scripts. The package includes a copy from...",
-            "date": "2014-11-10",
-            "author_name": "unknown",
-            "categories": "languages",
-            "tags": "standards,iso,ries",
-            "recuweb_url": "http://en.recuweb.com/languages/pypi.python.org/2014/11/pycountry-python-package-index",
+        "countries-s.blogspot.com/2015/01/countries-around-the-world-iso-3166-1-alpha-3": {
+            "title": "Countries around the world: ISO 3166-1 alpha-3...",
+            "snippet": "ISO 3166-1 alpha-3 codes are three-letter country codes defined in ISO 3166-1, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), to represent countries, dependent territories,...",
+            "date": "2015-01-25",
+            "author_name": "Jane Goetta",
+            "tags": "dependent,dependent-territories,territories,represent,international,international_organization,organization,ries,world,iso,alpha,codes,letter,defined,part,standard,published,standardization",
+            "recuweb_url": "http://en.recuweb.com/countries-s.blogspot.com/2015/01/countries-around-the-world-iso-3166-1-alpha-3",
             "resource_url": "http://www.google.com/search?q=iso%2B3166%2Biso%2B3166&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://pypi.python.org/pypi/pycountry/1.10"
-        },
-        "reddit.com/2014/11/iso3166-&-iso4217": {
-            "title": "ISO3166 & ISO4217...",
-            "snippet": "So I wrote these libs a while ago, just curious if anyone has any (constructive/useful) feedback or suggestions: submitted by borsnor to PHP link 28 comments...",
-            "date": "2014-11-07",
-            "categories": "php",
-            "tags": "any,iso",
-            "recuweb_url": "http://en.recuweb.com/php/reddit.com/2014/11/iso3166-&-iso4217",
-            "resource_url": "http://www.reddit.com/search.rss?q=iso%2B3166%2Biso%2B3166&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/PHP/comments/2lm58g/iso3166_iso4217/"
-        },
-        "reddit.com/2014/10/what-do-you-use-for-address-verification": {
-            "title": "What do you use for address verification?",
-            "snippet": "I'm working on an e-commerce site where they ship internationally. I've learned about keeping the list of countries up to date using the ISO-3166 standards and cross-referencing that with the PayPal list of countries and regions. So under shipping...",
-            "date": "2014-10-11",
-            "categories": "regions,commerce",
-            "tags": "standards,date,ries,iso",
-            "recuweb_url": "http://en.recuweb.com/commerce/reddit.com/2014/10/what-do-you-use-for-address-verification",
-            "resource_url": "http://www.reddit.com/search.rss?q=iso%2B3166%2Biso%2B3166&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/webdev/comments/2iz1zd/what_do_you_use_for_address_verification/"
-        },
-        "reddit.com/2014/10/fips-to-iso-3166-2": {
-            "title": "FIPS to ISO 3166-2...",
-            "snippet": "Not sure if this is the right place to ask this but I have searched every where possible to get a table(hopefuly free) that has both ISO and fips code i can make for divisions in each country. Any help would be appreciated and am sorry if this is...",
-            "date": "2014-10-02",
-            "tags": "help,free,iso,code,any",
-            "recuweb_url": "http://en.recuweb.com/reddit.com/2014/10/fips-to-iso-3166-2",
-            "resource_url": "http://www.reddit.com/search.rss?q=iso%2B3166%2Biso%2B3166&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/geospatial/comments/2i3ons/fips_to_iso_31662/"
+            "source_url": "http://countries-s.blogspot.com/2015/01/iso-3166-1-alpha-3.html"
         }
     }
 }
