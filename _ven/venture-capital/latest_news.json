@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "venture-capital",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/venture-capital/",
@@ -10,99 +11,101 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/venture-capital/venture-capital/blogs.json"
     },
     "items": {
-        "bostonglobe.com/2015/03/factory-fans-love-to-see-how-its-made": {
-            "title": "Factory fans love to see how its made...",
-            "snippet": "Bolt, a Boston venture capital firm that invests in hardware startups, has raised nearly 30 million since it was founded two years ago and backed at least 18 companies, including Petnet, which makes a smart feeding dish for dogs and cats, and...",
-            "date": "2015-03-14",
-            "categories": "love",
-            "tags": "years,firm,startups,made,venture,capital,companies",
-            "recuweb_url": "http://en.recuweb.com/love/bostonglobe.com/2015/03/factory-fans-love-to-see-how-its-made",
+        "ca.reuters.com/2015/04/canadian-private-equity-and-venture-capital-deals-surge-in-first-quarter": {
+            "title": "Canadian private equity and venture capital deals surge in first-quarter - Reuters Canada...",
+            "snippet": "Canadian private equity and venture capital deals surge in first-quarterReuters CanadaTORONTO (Reuters) - Acquisitions and financing deals led by private equity and venture capital firms surged in Canada in the first quarter, Thomson Reuters data...",
+            "date": "2015-04-27",
+            "tags": "quarter,firms,firms-surged,surged,financing,financing-deals,financing-deals-led,deals,deals-led,led,led-by-private,private,private-equity,equity,reuters,canada,deals-surge,surge,canadian,venture,capital,acquisitions,thomson,data",
+            "recuweb_url": "http://en.recuweb.com/ca.reuters.com/2015/04/canadian-private-equity-and-venture-capital-deals-surge-in-first-quarter",
+            "resource_url": "http://news.google.com/?hl=en&q=venture%2Bcapital%2Bventure%2Bcapital&output=atom&nord=1",
+            "source_url": "http://ca.reuters.com/article/businessNews/idCAKBN0NI08220150427"
+        },
+        "androidheadlines.com/2015/04/ah-primetime-cyanogen-in-depth-the-difference-and-relations-between-cyanogenmod": {
+            "title": "AH Primetime: Cyanogen In Depth: The Difference And Relations Between CyanogenMod, Cyanogen OS And...",
+            "snippet": "With funding from Venture Capital, Steve Kondik and Kirk McMaster founded Cyanogen Inc which they used to push CyanogenOS. As CyanogenOS popularity grew so did Cyanogen Inc. The start-up began to make its way into OEM territory, forming...",
+            "date": "2015-04-26",
+            "categories": "venture-capital",
+            "tags": "way,venture,venture_capital,capital,funding",
+            "recuweb_url": "http://en.recuweb.com/venture-capital/androidheadlines.com/2015/04/ah-primetime-cyanogen-in-depth-the-difference-and-relations-between-cyanogenmod",
             "resource_url": "http://www.bing.com/news/search?first=1&q=venture%2Bcapital&format=RSS&cc=us",
-            "source_url": "http://bostonglobe.com/business/2015/03/14/factory-tours-fuel-passion-for-manufacturing/l0g5DFqGC0hphdJjW7gp8J/story.html"
+            "source_url": "http://androidheadlines.com/2015/04/ah-primetime-cyanogen-depth-difference-relations-cyanogenmod-cyanogen-os-cyanogen-inc.html"
         },
-        "ibtimes.co.uk/2015/03/reddit-ceo-ellen-pao-enthrals-venture-capital-industry-with-silicon-valley": {
-            "title": "Reddit CEO Ellen Pao enthrals venture capital industry with Silicon Valley sexism claims...",
-            "snippet": "This week a 16m () gender discrimination trial against venture capital firm Kleiner Perkins Caufield & Byers (KPCB) that is captivating Silicon Valley, saw claimant, Reddit CEO Ellen Pao, questioned by jurors. Pao who earned 560,000 (...",
-            "date": "2015-03-14",
-            "tags": "kleiner,kleiner_perkins,kleiner_perkins_caufield,perkins,perkins_caufield,caufield,gender,gender-discrimination,discrimination,trial,against,silicon,silicon_valley,valley,reddit,reddit_ceo,reddit_ceo_ellen,ceo,ceo_ellen,ellen,ellen_pao,pao,venture,capital,week,firm,byers",
-            "recuweb_url": "http://en.recuweb.com/ibtimes.co.uk/2015/03/reddit-ceo-ellen-pao-enthrals-venture-capital-industry-with-silicon-valley",
+        "news.yahoo.com/2015/04/canadian-private-equity-and-venture-capital-deals-surge-in-first-quarter": {
+            "title": "Canadian private equity and venture capital deals surge in first-quarter...",
+            "snippet": "TORONTO (Reuters) - Acquisitions and financing deals led by private equity and venture capital firms surged in Canada in the first quarter, Thomson Reuters data showed, with many involving investment in software, information technology and natural...",
+            "date": "2015-04-26",
+            "categories": "technology",
+            "tags": "data,quarter,firms,firms-surged,surged,financing,financing-deals,financing-deals-led,deals,deals-led,led,led-by-private,private,private-equity,equity,deals-surge,surge,canadian,venture,capital,reuters,acquisitions,canada,thomson",
+            "recuweb_url": "http://en.recuweb.com/technology/news.yahoo.com/2015/04/canadian-private-equity-and-venture-capital-deals-surge-in-first-quarter",
             "resource_url": "http://www.bing.com/news/search?first=1&q=venture%2Bcapital&format=RSS&cc=us",
-            "source_url": "http://ibtimes.co.uk/sexism-valley-trial-ellen-pao-case-enthrals-venture-capital-industry-1491951"
+            "source_url": "http://news.yahoo.com/canadian-private-equity-venture-capital-deals-surge-first-040145727--sector.html"
         },
-        "newyorker.com/2015/03/the-ellen-pao-trial-what-do-we-mean-by-discrimination": {
-            "title": "The Ellen Pao Trial: What Do We Mean By Discrimination?",
-            "snippet": "The trial is the culmination of a lawsuit brought, in 2012, by Ellen Pao, a former junior partner at the venerable venture-capital firm Kleiner Perkins Caufield & Byers. (Pao is now the interim. of Reddit. Advance Publications, which owns Reddit...",
-            "date": "2015-03-14",
-            "tags": "interim,kleiner,kleiner_perkins,kleiner_perkins_caufield,perkins,perkins_caufield,caufield,ellen,ellen_pao,pao,trial,lawsuit,discrimination,venture,capital,firm,byers,reddit",
-            "recuweb_url": "http://en.recuweb.com/newyorker.com/2015/03/the-ellen-pao-trial-what-do-we-mean-by-discrimination",
+        "postandcourier.com/2015/04/dig-south-back-for-year-three-with-pitch-events-more-venture": {
+            "title": "Dig South back for year three with pitch events, more venture capital...",
+            "snippet": "This is the third staging of Dig South, but its the first time it will be held at Cinebarre in Mount Pleasant, a movie theater complex on Houston Northcutt Boulevard. Sponsorships are way up, which is always encouraging, Gray said. And we have...",
+            "date": "2015-04-26",
+            "categories": "events",
+            "tags": "way,venture,capital,said",
+            "recuweb_url": "http://en.recuweb.com/events/postandcourier.com/2015/04/dig-south-back-for-year-three-with-pitch-events-more-venture",
             "resource_url": "http://www.bing.com/news/search?first=1&q=venture%2Bcapital&format=RSS&cc=us",
-            "source_url": "http://newyorker.com/business/currency/the-ellen-pao-trial-what-do-we-mean-by-discrimination"
+            "source_url": "http://postandcourier.com/article/20150426/PC05/150429583"
         },
-        "venturebeat.com/2015/03/uber-mint-and-square-investor-rob-hayes-shares-what-he-looks": {
-            "title": "Uber, Mint, and Square investor Rob Hayes shares what he looks for in community-driven startups...",
-            "snippet": "Rob opened First Rounds San Francisco office in 2006, and he has played an integral role in building the venture capital firms far-reaching community of entrepreneurs ever since. In particular, hes made his mark contributing to the 6 billion in...",
-            "date": "2015-03-14",
-            "tags": "made,entrepreneurs,ever,firms,rounds,startups,looks,investor,venture,capital",
-            "recuweb_url": "http://en.recuweb.com/venturebeat.com/2015/03/uber-mint-and-square-investor-rob-hayes-shares-what-he-looks",
+        "tribune.com.pk/2015/04/aiming-to-be-a-billion-dollar-entity-in-5-years": {
+            "title": ": Aiming to be a billion-dollar entity in 5 years...",
+            "snippet": "This impressive growth helped the company secure 3.5 million funding in 2014 from Frontier Digital Ventures, a Malaysian venture capital fund focused on online classified businesses in the emerging and frontier markets. Though Saeed refused to...",
+            "date": "2015-04-26",
+            "categories": "business,markets",
+            "tags": "funding,dollar,billion,venture,capital",
+            "recuweb_url": "http://en.recuweb.com/markets/tribune.com.pk/2015/04/aiming-to-be-a-billion-dollar-entity-in-5-years",
             "resource_url": "http://www.bing.com/news/search?first=1&q=venture%2Bcapital&format=RSS&cc=us",
-            "source_url": "http://venturebeat.com/2015/03/14/uber-mint-and-square-investor-rob-hayes-shares-what-he-looks-for-in-community-driven-companies/"
+            "source_url": "http://tribune.com.pk/story/876313/pakwheels-com-aiming-to-be-a-billion-dollar-entity-in-5-years/"
         },
-        "news.yahoo.com/2015/03/attorney-woman-in-silicon-valley-suit-misrepresented-firing": {
-            "title": "Attorney: Woman in Silicon Valley suit misrepresented firing...",
-            "snippet": "The woman suing a prestigious Silicon Valley venture capital firm for alleged gender discrimination accepted a generous severance package that gave her a salary, access to her company email and kept her...",
-            "date": "2015-03-13",
-            "tags": "kept,firm,alleged,gender,gender-discrimination,discrimination,woman,suing,suit,silicon,silicon_valley,valley,venture,capital,company",
-            "recuweb_url": "http://en.recuweb.com/news.yahoo.com/2015/03/attorney-woman-in-silicon-valley-suit-misrepresented-firing",
-            "resource_url": "http://news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=venture%2Bcapital",
-            "source_url": "http://news.yahoo.com/attorney-woman-silicon-valley-suit-210226610.html"
-        },
-        "thedailyrecord.com/2015/03/maryland-venture-capital-funding-shrinks-daily-record-subscription": {
-            "title": "Maryland venture capital funding shrinks - Daily Record (subscription)...",
-            "snippet": "Maryland venture capital funding shrinksDaily Record (subscription)Firms in Maryland's two largest metro markets pulled in less venture capital funding in 2014 than the previous year, but some commercial real estate professionals remain optimistic...",
-            "date": "2015-03-13",
-            "categories": "real-estate,markets",
-            "tags": "than,year,record,venture,capital,firms",
-            "recuweb_url": "http://en.recuweb.com/markets/thedailyrecord.com/2015/03/maryland-venture-capital-funding-shrinks-daily-record-subscription",
-            "resource_url": "http://news.google.com/?hl=en&q=venture%2Bcapital&output=atom&nord=1",
-            "source_url": "http://thedailyrecord.com/2015/03/13/maryland-venture-capital-funding-shrinks/"
-        },
-        "theverge.com/2015/03/the-assassination-of-ellen-pao-s-character-by-venture-capital-firm": {
-            "title": "The assassination of Ellen Pao's character by the venture capital firm Kleiner... - The Verge...",
-            "snippet": "International Business Times UKThe assassination of Ellen Pao's character by the venture capital firm Kleiner...The VergePao, now the interim CEO of Reddit, is suing Kleiner, a well-known Silicon Valley venture capital firm, for gender...",
-            "date": "2015-03-13",
-            "categories": "business",
-            "tags": "gender,silicon,silicon_valley,valley,suing,interim,ellen,ellen_pao,pao,venture,capital,firm,kleiner,ceo,reddit",
-            "recuweb_url": "http://en.recuweb.com/business/theverge.com/2015/03/the-assassination-of-ellen-pao-s-character-by-venture-capital-firm",
-            "resource_url": "http://news.google.com/?hl=en&q=venture%2Bcapital&output=atom&nord=1",
-            "source_url": "http://theverge.com/2015/3/13/8200145/ellen-pao-lynne-hermle-reddit-kleiner-perkins"
-        },
-        "businessinsider.com/2015/03/these-numbers-prove-that-venture-capital-is-still-a-men": {
-            "title": "These numbers prove that venture capital is still a men's club...",
-            "snippet": "Venture capital is still very much a men's club. While more women are finding careers in venture capital than ever before, there's still a significant gender gap, according to research firm Preqin. The report comes amidst interim Reddit CEO Ellen...",
-            "date": "2015-03-13",
-            "tags": "reddit,reddit_ceo,reddit_ceo_ellen,ceo,ceo_ellen,ellen,report,interim,firm,gender,than,ever,venture,capital",
-            "recuweb_url": "http://en.recuweb.com/businessinsider.com/2015/03/these-numbers-prove-that-venture-capital-is-still-a-men",
+        "seattletimes.com/2015/04/sheryl-sandberg-on-ellen-pao-many-women-see-themselves": {
+            "title": "Sheryl Sandberg on Ellen Pao: Many women see themselves...",
+            "snippet": "Facebook Chief Operating Officer Sheryl Sandberg said many women see themselves in Ellen Pao, the former Kleiner Perkins Caufield & Byers junior partner who lost a gender-bias case against the venture capital firm. I thought what was so...",
+            "date": "2015-04-26",
+            "categories": "facebook",
+            "tags": "said,venture,capital",
+            "recuweb_url": "http://en.recuweb.com/facebook/seattletimes.com/2015/04/sheryl-sandberg-on-ellen-pao-many-women-see-themselves",
             "resource_url": "http://www.bing.com/news/search?first=1&q=venture%2Bcapital&format=RSS&cc=us",
-            "source_url": "http://businessinsider.com/vc-diversity-statistics-2015-3"
+            "source_url": "http://seattletimes.com/business/ellen-pao-bias-case-women-see-their-own-experiences-there/"
         },
-        "news.yahoo.com/2015/03/5-questions-about-silicon-valley-gender-bias-case": {
-            "title": "5 questions about Silicon Valley gender bias case...",
-            "snippet": "Ellen Pao has testified again in her lawsuit claiming gender bias kept her from advancing at a major Silicon Valley venture capital firm and that she was fired after she complained. Pao's third day on...",
-            "date": "2015-03-12",
-            "tags": "firm,lawsuit,gender,kept,ellen,ellen_pao,pao,silicon,silicon_valley,valley,venture,capital",
-            "recuweb_url": "http://en.recuweb.com/news.yahoo.com/2015/03/5-questions-about-silicon-valley-gender-bias-case",
-            "resource_url": "http://news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=venture%2Bcapital",
-            "source_url": "http://news.yahoo.com/5-questions-silicon-valley-gender-231120050.html"
+        "business.newsfactor.com/2015/04/tech-companies-continue-to-land-mega-vc-deals": {
+            "title": "Tech Companies Continue To Land Mega VC Deals...",
+            "snippet": "Venture capital investments in Silicon Valley tech companies dipped by 6.9 percent, from 6.5 billion in the last quarter of 2014 to 6 billion, and the number of deals VCs made also fell, by 8.5 percent to 323 investments, according to The...",
+            "date": "2015-04-26",
+            "tags": "deals,billion,quarter,venture,capital",
+            "recuweb_url": "http://en.recuweb.com/business.newsfactor.com/2015/04/tech-companies-continue-to-land-mega-vc-deals",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=venture%2Bcapital&format=RSS&cc=us",
+            "source_url": "http://business.newsfactor.com/story.xhtml?story_id=12200B9QTD48"
         },
-        "news.yahoo.com/2015/03/judge-finances-of-woman-behind-gender-suit-not-relevant": {
-            "title": "Judge: Finances of woman behind gender suit not relevant...",
-            "snippet": "A judge presiding over a gender discrimination lawsuit against a prestigious Silicon Valley venture capital firm says the defense cannot introduce evidence about the alleged financial difficulties of the...",
-            "date": "2015-03-12",
-            "categories": "evidence",
-            "tags": "firm,alleged,silicon,silicon_valley,valley,gender,gender-discrimination,discrimination,lawsuit,against,woman,suit,venture,capital",
-            "recuweb_url": "http://en.recuweb.com/evidence/news.yahoo.com/2015/03/judge-finances-of-woman-behind-gender-suit-not-relevant",
-            "resource_url": "http://news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=venture%2Bcapital",
-            "source_url": "http://news.yahoo.com/judge-finances-woman-behind-gender-225231186.html"
+        "forbes.com/2015/04/the-venture-capital-paradox-does-bro-culture-trump-returns": {
+            "title": "The Venture Capital Paradox: Does Bro-Culture Trump Returns?",
+            "snippet": "Theres an old joke about a man and an efficient market economist walking down the street. The man says, Isnt that a twenty dollar bill on the sidewalk? The efficient market economist responds, Couldnt be someone would have picked it...",
+            "date": "2015-04-26",
+            "categories": "walking,culture,venture-capital",
+            "tags": "dollar,venture,venture_capital,capital",
+            "recuweb_url": "http://en.recuweb.com/venture-capital/forbes.com/2015/04/the-venture-capital-paradox-does-bro-culture-trump-returns",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=venture%2Bcapital&format=RSS&cc=us",
+            "source_url": "http://forbes.com/sites/davidshaywitz/2015/04/26/how-do-you-square-venture-capitals-lack-of-diversity-with-the-efficient-market-hypothesis/"
+        },
+        "theaustralian.com.au/2015/04/venture-capital-investor-joshua-funder-claims-unfair-dismissal-the-australian": {
+            "title": "Venture capital investor Joshua Funder claims unfair dismissal - The Australian...",
+            "snippet": "Venture capital investor Joshua Funder claims unfair dismissalThe AustralianHowever, a recent downturn in the sector has limited many venture capital firms'ability to establish new funds. GBS is understood to have abandoned plans to launch a new...",
+            "date": "2015-04-26",
+            "tags": "venture,capital,australian,firms",
+            "recuweb_url": "http://en.recuweb.com/theaustralian.com.au/2015/04/venture-capital-investor-joshua-funder-claims-unfair-dismissal-the-australian",
+            "resource_url": "http://news.google.com/?hl=en&q=venture%2Bcapital%2Bventure%2Bcapital&output=atom&nord=1",
+            "source_url": "http://theaustralian.com.au/business/venture-capital-investor-joshua-funder-claims-unfair-dismissal/story-e6frg8zx-1227322004244"
+        },
+        "afr.com/2015/04/venture-capital-still-sees-value-despite-plummeting-bitcoin-price-the-australian": {
+            "title": "Venture capital still sees value despite plummeting bitcoin price - The Australian Financial Review...",
+            "snippet": "The Australian Financial ReviewVenture capital still sees value despite plummeting bitcoin priceThe Australian Financial ReviewThe falling price of bitcoin has not deterred some venture capitalists from investing in the currency. by Jessica Sier.",
+            "date": "2015-04-26",
+            "tags": "australian,financial,venture,capital",
+            "recuweb_url": "http://en.recuweb.com/afr.com/2015/04/venture-capital-still-sees-value-despite-plummeting-bitcoin-price-the-australian",
+            "resource_url": "http://news.google.com/?hl=en&q=venture%2Bcapital%2Bventure%2Bcapital&output=atom&nord=1",
+            "source_url": "http://afr.com/technology/web/ecommerce/venture-capital-still-sees-value-despite-plummeting-bitcoin-price-20150125-12uder"
         }
     }
 }
