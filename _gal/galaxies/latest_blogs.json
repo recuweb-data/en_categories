@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "galaxies",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/galaxies/",
@@ -10,115 +11,114 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/galaxies/galaxies/blogs.json"
     },
     "items": {
+        "sci-news.com/2015/04/cluster-merger-driven-shock-fronts-can-resurrect-red-and-dead-galaxies": {
+            "title": "Cluster Merger-Driven Shock Fronts Can Resurrect Red and Dead Galaxies...",
+            "snippet": "Red and dead galaxies that stopped forming stars in the distant past can sometimes come back to life, find two studies published in the journal Monthly Notices of the Royal Astronomical Society. According to structural formation hierarchy of the...",
+            "date": "2015-04-27",
+            "author_name": "Sci-News.com",
+            "categories": "society,life,galaxies,stars",
+            "tags": "formation,royal,royal_astronomical,royal_astronomical_society,astronomical,astronomical_society,society,monthly,monthly_notices,notices,studies,studies-published,published,life,dead,dead_galaxies,galaxies,red,cluster,merger,stopped,forming,stars,distant,back,find",
+            "recuweb_url": "http://en.recuweb.com/stars/sci-news.com/2015/04/cluster-merger-driven-shock-fronts-can-resurrect-red-and-dead-galaxies",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=galaxies%2Bgalaxies&rss=1&lng=en",
+            "source_url": "http://sci-news.com/astronomy/science-cluster-merger-resurrect-galaxies-02735.html"
+        },
+        "redorbit.com/2015/04/astronomers-discover-11-homeless-galaxies": {
+            "title": "Astronomers discover 11 'homeless'galaxies...",
+            "snippet": "Chuck Bednar for - BednarChuck Having already discovered nearly two-dozen runaway stars and even one star cluster that had been ejected from its galaxy, researchers have now reportedly located 11 homeless galaxies that were flung from their home...",
+            "date": "2015-04-25",
+            "categories": "galaxies,stars,home",
+            "tags": "researchers,stars,astronomers,discover,homeless,galaxies,discovered,dozen,runaway,even,cluster,galaxy,flung,home",
+            "recuweb_url": "http://en.recuweb.com/home/redorbit.com/2015/04/astronomers-discover-11-homeless-galaxies",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=galaxies%2Bgalaxies&rss=1&lng=en",
+            "source_url": "http://redorbit.com/news/space/1113378499/astronomers-discover-11-homeless-galaxies-042515/"
+        },
+        "sci-news.com/2015/04/astronomers-discover-11-runaway-galaxies-astronomy-sci-news": {
+            "title": "Astronomers Discover 11 Runaway Galaxies Astronomy Sci-News...",
+            "snippet": "Dr Igor Chilingarian of Harvard-Smithsonian Center for Astrophysics and his colleague from France have discovered 11 runaway compact elliptical galaxies.",
+            "date": "2015-04-24",
+            "author_name": "Sci-News.com",
+            "categories": "galaxies,astronomy",
+            "tags": "compact,compact-elliptical,elliptical,igor,runaway,runaway_galaxies,galaxies,astronomers,discover,discovered",
+            "recuweb_url": "http://en.recuweb.com/astronomy/sci-news.com/2015/04/astronomers-discover-11-runaway-galaxies-astronomy-sci-news",
+            "resource_url": "http://www.google.com/search?q=galaxies%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://sci-news.com/astronomy/science-runaway-compact-elliptical-galaxies-02732.html"
+        },
+        "phys.org/2015/04/giant-cosmic-tsunami-wakes-up-comatose-galaxies": {
+            "title": "Giant cosmic tsunami wakes up comatose galaxies -...",
+            "snippet": "Galaxies are often found in clusters, with many 'red and dead'neighbours that stopped forming stars in the distant past. Now an international team of astronomers, led by Andra Stroe of Leiden Observatory and David Sobral of...",
+            "date": "2015-04-24",
+            "author_name": "unknown",
+            "categories": "galaxies,stars",
+            "tags": "red,giant,cosmic,galaxies,found,clusters,dead,stopped,forming,stars,distant,astronomers",
+            "recuweb_url": "http://en.recuweb.com/stars/phys.org/2015/04/giant-cosmic-tsunami-wakes-up-comatose-galaxies",
+            "resource_url": "http://www.google.com/search?q=galaxies%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://phys.org/news/2015-04-giant-cosmic-tsunami-comatose-galaxies.html"
+        },
+        "phys.org/2015/04/astronomers-find-runaway-galaxies": {
+            "title": "Astronomers find runaway galaxies -...",
+            "snippet": "We know of about two dozen runaway stars, and have even found one runaway star cluster escaping its galaxy forever. Now, astronomers have spotted 11 runaway galaxies that have been flung out of their homes to wander...",
+            "date": "2015-04-23",
+            "author_name": "unknown",
+            "categories": "galaxies,stars",
+            "tags": "homes,homes-to-wander,wander,spotted,escaping,dozen,astronomers,find,runaway,galaxies,stars,star,even,found,cluster,galaxy,forever,flung",
+            "recuweb_url": "http://en.recuweb.com/stars/phys.org/2015/04/astronomers-find-runaway-galaxies",
+            "resource_url": "http://www.google.com/search?q=galaxies%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://phys.org/news/2015-04-astronomers-runaway-galaxies.html"
+        },
         "engadget.com/2015/04/the-amazing-star-wars-galaxies-jedi-mode-that-never": {
             "title": "The amazing 'Star Wars Galaxies'Jedi mode that never was...",
-            "snippet": "That's how Raph Koster, creative director of the 2003 MMO Star Wars Galaxies, begins discussing the problems that faced his design team back in the day. Jedi were too powerful, too desirable and too canonically rare to be...",
+            "snippet": "\"Well, my opinion is Jedi are evil.\" That's how Raph Koster, creative director of the 2003 MMO Star Wars Galaxies, begins discussing the problems that fa.",
             "date": "2015-04-23",
             "author_name": "Jessica Conditt",
             "categories": "galaxies",
-            "tags": "team,star,star_wars,star_wars_galaxies,wars,wars_galaxies,galaxies",
+            "tags": "star,star_wars,star_wars_galaxies,wars,wars_galaxies,galaxies,jedi,mmo",
             "recuweb_url": "http://en.recuweb.com/galaxies/engadget.com/2015/04/the-amazing-star-wars-galaxies-jedi-mode-that-never",
             "resource_url": "http://www.google.com/search?q=galaxies%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://engadget.com/2015/04/23/star-wars-galaxies-jedi-class/"
         },
-        "kotaku.com/2015/04/the-brilliant-star-wars-galaxies-idea-that-didn-t-happen-kotaku": {
-            "title": "The Brilliant Star Wars Galaxies Idea That Didn't Happen - Kotaku...",
-            "snippet": "In 2003, way before anyone could even imagine a Star Wars-Disney union, thousands of eager padawans signed up for an online game called Star Wars Galaxies. Today, Galaxies is no more, rendered obsolete by a glut of...",
-            "date": "2015-04-21",
-            "author_name": "Jason Schreier",
-            "categories": "galaxies",
-            "tags": "online,game,star,star_wars,wars,could,star_wars_galaxies,wars_galaxies,galaxies,way,today",
-            "recuweb_url": "http://en.recuweb.com/galaxies/kotaku.com/2015/04/the-brilliant-star-wars-galaxies-idea-that-didn-t-happen-kotaku",
+        "theguardian.com/2015/04/do-all-spiral-galaxies-rotate-in-the-same-direction-science": {
+            "title": "Do all spiral galaxies rotate in the same direction? Science The...",
+            "snippet": "Readers answer other readers'questions on subjects ranging from trivial flights of fancy to profound scientific concepts.",
+            "date": "2015-04-22",
+            "author_name": "Guardian Staff",
+            "categories": "galaxies,science",
+            "tags": "same,galaxies,science",
+            "recuweb_url": "http://en.recuweb.com/science/theguardian.com/2015/04/do-all-spiral-galaxies-rotate-in-the-same-direction-science",
             "resource_url": "http://www.google.com/search?q=galaxies%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://kotaku.com/the-brilliant-star-wars-galaxies-idea-that-didnt-happen-1699219345"
+            "source_url": "http://theguardian.com/science/2015/apr/22/spiral-galaxies-rotate-same-direction"
         },
-        "scientificamerican.com/2015/04/alien-supercivilizations-absent-from-100-000-nearby-galaxies": {
-            "title": "Alien Supercivilizations Absent from 100,000 Nearby Galaxies...",
-            "snippet": "Orange whorls of star-warmed dust fill the Andromeda galaxy's spiral arms in this false-color mid-infrared image from NASA's WISE space telescope. Such images could also potentially reveal the waste heat from...",
-            "date": "2015-04-17",
-            "author_name": "unknown",
+        "avclub.com/2015/04/read-this-how-the-jedi-killed-star-wars-galaxies-great-job": {
+            "title": "Read This: How the Jedi killed Star Wars Galaxies Great Job...",
+            "snippet": "Star Wars Galaxies, the Star Wars MMO released in the wild, wooly pre-World of Warcraft days, was a beautiful, insanely ambitious disaster. It allowed its players to get as close a simulation of living in the Star Wars universe...",
+            "date": "2015-04-22",
+            "author_name": "Eric Lindvall",
             "categories": "galaxies",
-            "tags": "could,heat,spiral,dust,nearby,galaxies,star,galaxy,nasa,space,telescope",
-            "recuweb_url": "http://en.recuweb.com/galaxies/scientificamerican.com/2015/04/alien-supercivilizations-absent-from-100-000-nearby-galaxies",
-            "resource_url": "http://www.google.com/search?q=galaxies%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://scientificamerican.com/article/alien-supercivilizations-absent-from-100-000-nearby-galaxies/"
-        },
-        "universetoday.com/2015/04/scientists-map-the-dark-matter-around-millions-of-galaxies": {
-            "title": "Scientists Map the Dark Matter Around Millions of Galaxies...",
-            "snippet": "This week, scientists with the Dark Energy Survey (DES) collaboration released the first in a series of detailed maps charting the distribution of dark mat.",
-            "date": "2015-04-17",
-            "author_name": "Ramin Skibba",
-            "categories": "dark-matter,galaxies",
-            "tags": "first,dark,survey,matter,around,millions,scientists,map,galaxies",
-            "recuweb_url": "http://en.recuweb.com/galaxies/universetoday.com/2015/04/scientists-map-the-dark-matter-around-millions-of-galaxies",
+            "tags": "star,star_wars,wars,beautiful,mmo,star_wars_galaxies,wars_galaxies,galaxies,jedi,universe",
+            "recuweb_url": "http://en.recuweb.com/galaxies/avclub.com/2015/04/read-this-how-the-jedi-killed-star-wars-galaxies-great-job",
             "resource_url": "http://www.google.com/search?q=galaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://universetoday.com/119848/scientists-map-the-dark-matter-around-millions-of-galaxies/"
+            "source_url": "http://avclub.com/article/read-how-jedi-killed-star-wars-galaxies-218394"
         },
-        "dailygalaxy.com/2015/04/colossal-ghostly-structures-found-shrouding-galaxies-powered-by-ancient-quasars": {
-            "title": "Colossal Ghostly Structures Found Shrouding Galaxies --Powered by Ancient Quasars...",
-            "snippet": "NASA's Hubble Space Telescope has photographed a set of wispy, goblin-green objects that are the ephemeral ghosts of quasars that flickered to life and then faded. The glowing structures have looping, helical, and braided shapes. They don't fit a...",
-            "date": "2015-04-03",
-            "author_name": "dailygalaxy.com",
-            "categories": "life,galaxies",
-            "tags": "shapes,green,hubble,hubble_space,hubble_space_telescope,space,space_telescope,telescope,found,galaxies,nasa,don",
-            "recuweb_url": "http://en.recuweb.com/galaxies/dailygalaxy.com/2015/04/colossal-ghostly-structures-found-shrouding-galaxies-powered-by-ancient-quasars",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=galaxies%2Bgalaxies&rss=1&lng=en",
-            "source_url": "http://dailygalaxy.com/my_weblog/2015/04/colossal-ghostly-structures-found-shrouding-galaxies.html"
-        },
-        "acrider.wordpress.com/2015/03/papers-on-extragalactic-hii-regions-in-irregular-galaxies": {
-            "title": "Papers on Extragalactic HII Regions in Irregular Galaxies...",
-            "snippet": "Figure 1 from Kewley at al. (2006): A BPT diagram made with SDSS data. Astronomers use a BPT diagram to separate the star-forming galaxies (with HII regions) were interested in from active galactic nuclei (AGN) that also have strong emission lines.",
-            "date": "2015-03-27",
-            "author_name": "acrider",
-            "categories": "irregular-galaxies,galaxies,regions",
-            "tags": "made,galaxies,regions,data,astronomers,star,forming",
-            "recuweb_url": "http://en.recuweb.com/regions/acrider.wordpress.com/2015/03/papers-on-extragalactic-hii-regions-in-irregular-galaxies",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=galaxies%2Bgalaxies&rss=1&lng=en",
-            "source_url": "http://acrider.wordpress.com/2015/03/27/papers-on-extragalactic-hii-regions/"
-        },
-        "spacetelescope.org/2014/08/best-view-yet-of-merging-galaxies-in-distant-universe-esa-hubble": {
-            "title": "Best view yet of merging galaxies in distant Universe ESA/Hubble...",
-            "snippet": "Using the NASA/ESA Hubble Space Telescope and many other telescopes on the ground and in space, an international team of astronomers has obtained the best view yet of a collision that took place between two galaxies...",
-            "date": "2014-08-26",
-            "author_name": "unknown",
+        "engadget.com/2015/04/here-s-how-the-largest-galaxies-die-engadget": {
+            "title": "Here's how the largest galaxies die - Engadget...",
+            "snippet": "Like it or not, all galaxies will eventually die. But have you wondered just how they meet their grisly ends? Researchers now have a good idea. They've studied 22 very large elliptical galaxies about 10 billion years old, and...",
+            "date": "2015-04-20",
+            "author_name": "Jon Fingas",
             "categories": "galaxies",
-            "tags": "place,best,international,international-team,team,space,telescope,many,universe,esa,merging,galaxies,distant,hubble,using,nasa,astronomers,between",
-            "recuweb_url": "http://en.recuweb.com/galaxies/spacetelescope.org/2014/08/best-view-yet-of-merging-galaxies-in-distant-universe-esa-hubble",
+            "tags": "old,elliptical,largest,here,galaxies,engadget,researchers,billion",
+            "recuweb_url": "http://en.recuweb.com/galaxies/engadget.com/2015/04/here-s-how-the-largest-galaxies-die-engadget",
             "resource_url": "http://www.google.com/search?q=galaxies%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://spacetelescope.org/news/heic1417/"
+            "source_url": "http://engadget.com/2015/04/20/how-large-galaxies-die/"
         },
-        "spacetelescope.org/2014/07/merging-galaxies-and-droplets-of-starbirth-esa-hubble": {
-            "title": "Merging galaxies and droplets of starbirth ESA/Hubble...",
-            "snippet": "Embedded within the egg-shaped blue ring at the centre of the frame are two galaxies. These galaxies have been found to be merging into one and a \"chain\" of young stellar superclusters are seen winding around the...",
-            "date": "2014-07-10",
-            "author_name": "unknown",
-            "categories": "galaxies",
-            "tags": "seen,around,found,merging,into,galaxies,esa,hubble,stellar",
-            "recuweb_url": "http://en.recuweb.com/galaxies/spacetelescope.org/2014/07/merging-galaxies-and-droplets-of-starbirth-esa-hubble",
-            "resource_url": "http://www.google.com/search?q=galaxies%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://spacetelescope.org/news/heic1414/"
-        },
-        "spacetelescope.org/2013/08/hubble-explores-the-origins-of-modern-galaxies-esa": {
-            "title": "Hubble explores the origins of modern galaxies ESA/Hubble...",
-            "snippet": "Astronomers have used observations from Hubble's CANDELS survey to explore the sizes, shapes, and colours of distant galaxies over the last 80% of the Universe's history. In the Universe today galaxies come in a variety of...",
-            "date": "2013-08-15",
-            "author_name": "unknown",
-            "categories": "observation,galaxies",
-            "tags": "survey,hubble,galaxies,esa,astronomers,shapes,distant,universe,today",
-            "recuweb_url": "http://en.recuweb.com/galaxies/spacetelescope.org/2013/08/hubble-explores-the-origins-of-modern-galaxies-esa",
-            "resource_url": "http://www.google.com/search?q=galaxies%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://spacetelescope.org/news/heic1315/"
-        },
-        "spacetelescope.org/2013/04/entire-galaxies-feel-the-heat-from-newborn-stars-esa-hubble": {
-            "title": "Entire galaxies feel the heat from newborn stars ESA/Hubble...",
-            "snippet": "An international team of astronomers observed 20 nearby galaxies, some of which were known to be undergoing a starburst. They found that the winds accompanying these star formation processes were capable of ionising...",
-            "date": "2013-04-25",
-            "author_name": "unknown",
-            "categories": "galaxies,stars",
-            "tags": "found,international,international-team,team,heat,galaxies,stars,star,esa,hubble,astronomers,nearby,formation",
-            "recuweb_url": "http://en.recuweb.com/stars/spacetelescope.org/2013/04/entire-galaxies-feel-the-heat-from-newborn-stars-esa-hubble",
-            "resource_url": "http://www.google.com/search?q=galaxies%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://spacetelescope.org/news/heic1308/"
+        "gizmodo.com/2015/04/the-universe-s-largest-galaxies-rotted-from-inside-out-gizmodo": {
+            "title": "The Universe's Largest Galaxies Rotted From the Inside Out - Gizmodo...",
+            "snippet": "Littered across the cosmos are massive, dead galaxies, containing roughly half the stars in the known Universe. Much about these cosmic graveyards remains a mystery, but a study published yesterday in Science study offers...",
+            "date": "2015-04-18",
+            "author_name": "Maddie Stone",
+            "categories": "cosmos,galaxies,stars,science",
+            "tags": "published,roughly,massive,largest,galaxies,universe,across,dead,stars,cosmic,science",
+            "recuweb_url": "http://en.recuweb.com/science/gizmodo.com/2015/04/the-universe-s-largest-galaxies-rotted-from-inside-out-gizmodo",
+            "resource_url": "http://www.google.com/search?q=galaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://gizmodo.com/the-universes-largest-galaxies-rotted-from-the-inside-o-1698582300"
         }
     }
 }
