@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "computer-hardware",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/computer-hardware/",
@@ -10,112 +11,107 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/computer-hardware/computer-hardware/blogs.json"
     },
     "items": {
-        "bits.blogs.nytimes.com/2015/03/for-hardware-makers-sharing-their-secrets-is-now-part-of": {
-            "title": "For Hardware Makers, Sharing Their Secrets Is Now Part of the... - Bits...",
-            "snippet": "Facebook has already shared designs for data storage, computer servers and rack designs, among other hardware, Mr. Parikh said, and has seen rapid improvements as a result. Rather than just building and testing a handful...",
-            "date": "2015-03-29",
-            "author_name": "By Quentin Hardy",
-            "categories": "facebook",
-            "tags": "than,building,already,hardware,computer,said",
-            "recuweb_url": "http://en.recuweb.com/facebook/bits.blogs.nytimes.com/2015/03/for-hardware-makers-sharing-their-secrets-is-now-part-of",
-            "resource_url": "http://www.google.com/search?q=computer%2Bhardware%2Bcomputer%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bits.blogs.nytimes.com/2015/03/29/open-sourcing-cars-and-computers/"
-        },
         "globalresearch.ca/2015/03/nsa-spy-agency-behind-malware-infection-of-computer-hardware": {
             "title": "NSA Spy Agency Behind Malware Infection of Computer Hardware...",
             "snippet": "The NSA's Equation Group is apparently behind the infection with malware of hard drive firmware on computers used by nations considered enemies by the United States. The installation of the malware is believed to have...",
             "date": "2015-03-29",
             "author_name": "Ulson Gunnar",
             "categories": "computer-hardware",
-            "tags": "installation,hard,firmware,computer,computer_hardware,hardware,nsa",
+            "tags": "hard,drive,firmware,computers,computer_hardware,hardware,nsa",
             "recuweb_url": "http://en.recuweb.com/computer-hardware/globalresearch.ca/2015/03/nsa-spy-agency-behind-malware-infection-of-computer-hardware",
             "resource_url": "http://www.google.com/search?q=computer%2Bhardware%2Bcomputer%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://globalresearch.ca/nsa-spy-agency-behind-malware-infection-of-computer-hardware-used-by-enemies-of-the-u-s/5439343"
         },
-        "higheredjobs.com/2015/03/computer-hardware-technician-higheredjobs": {
-            "title": "Computer Hardware Technician - HigherEdJobs...",
-            "snippet": "Job Description: Salary:. FLSA Status: eligible for overtime. Establishes and upgrades systems by installing and repairing hardware and peripherals. Maintains installation records by logging procedures and equipment...",
-            "date": "2015-03-28",
-            "author_name": "rss@higheredjobs.com (HigherEdJobs)",
-            "categories": "computer-hardware,salary",
-            "tags": "installation,systems,computer,computer_hardware,hardware",
-            "recuweb_url": "http://en.recuweb.com/salary/higheredjobs.com/2015/03/computer-hardware-technician-higheredjobs",
-            "resource_url": "http://www.google.com/search?q=computer%2Bhardware%2Bcomputer%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://higheredjobs.com/details.cfm?JobCode=176041318"
-        },
-        "cacm.acm.org/2015/03/technical-perspective-the-specialization-trend-in-computer": {
-            "title": "Technical Perspective: The Specialization Trend in Computer...",
-            "snippet": "This slowdown in scaling will have a profound impact across the whole spectrum of computing, starting with the manner in which hardware systems are architected in a future where increased functionality and much tighter power constraints...",
-            "date": "2015-03-23",
-            "author_name": "unknown",
-            "tags": "systems,increased,computer,computing,hardware",
-            "recuweb_url": "http://en.recuweb.com/cacm.acm.org/2015/03/technical-perspective-the-specialization-trend-in-computer",
-            "resource_url": "http://www.google.com/search?q=computer%2Bhardware%2Bcomputer%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://cacm.acm.org/magazines/2015/4/184696-technical-perspective-the-specialization-trend-in-computer-hardware/fulltext"
-        },
-        "youtube.com/2015/03/magic-leap-s-augmented-reality-this-week-in-computer-hardware": {
-            "title": "Magic Leap's Augmented Reality: This Week in Computer Hardware...",
-            "snippet": "Magic Leap's conceptual video of semamless augmented reality office gameplay. For the full episode, go to...",
-            "date": "2015-03-20",
-            "author_name": "Syndication",
-            "categories": "gameplay,computer-hardware,magic",
-            "tags": "office,computer,computer_hardware,hardware,week",
-            "recuweb_url": "http://en.recuweb.com/magic/youtube.com/2015/03/magic-leap-s-augmented-reality-this-week-in-computer-hardware",
-            "resource_url": "http://www.google.com/search?q=computer%2Bhardware%2Bcomputer%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://youtube.com/watch?v=_t3V_0nOyJs",
-            "img_url": "http://img.youtube.com/vi/_t3V_0nOyJs/0.jpg"
-        },
         "naturalnews.com/2015/03/nsa-has-infected-computer-hardware-with-spyware-at-the-firmware": {
             "title": "NSA has infected computer hardware with spyware at the firmware...",
-            "snippet": "Kaspersky says that NSA operatives managed a technological breakthrough after discovering how to place malicious software in the hardware-based code known as firmware, which launches every time a computer is turned...",
+            "snippet": "NSA has infected computer hardware with spyware at the firmware level: even NEW computers are infected from day one.",
             "date": "2015-03-14",
             "author_name": "By J. D. Heyes",
-            "tags": "firmware,after,spyware,nsa,computer,hardware,software",
+            "tags": "day,firmware,level,nsa,computers,hardware,even",
             "recuweb_url": "http://en.recuweb.com/naturalnews.com/2015/03/nsa-has-infected-computer-hardware-with-spyware-at-the-firmware",
             "resource_url": "http://www.google.com/search?q=computer%2Bhardware%2Bcomputer%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://naturalnews.com/048989_NSA_government_surveillance_computer_firmware.html"
-        },
-        "tomshardware.com/2015/03/best-computer-memory-march-2015-tom-s-hardware": {
-            "title": "Best Computer Memory: March 2015 - Tom's Hardware...",
-            "snippet": "Here are the best performing RAM kits we've tested: computer memory that's ideal for gaming, video editing and graphics-heavy applications.",
-            "date": "2015-03-05",
-            "author_name": "unknown",
-            "categories": "memory",
-            "tags": "gaming,best,computer,hardware,here",
-            "recuweb_url": "http://en.recuweb.com/memory/tomshardware.com/2015/03/best-computer-memory-march-2015-tom-s-hardware",
-            "resource_url": "http://www.google.com/search?q=computer%2Bhardware%2Bcomputer%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://tomshardware.com/reviews/best-ram,4057.html"
-        },
-        "benzinga.com/2015/03/brean-s-3-computer-hardware-stocks-to-buy-apple-inc-nasdaq": {
-            "title": "Brean's 3 Computer Hardware Stocks To Buy - Apple Inc. (NASDAQ...",
-            "snippet": "In a recent report, Brean Capital analyst gave their take on the outlook for the computer hardware business. Brean analysts are \"very bullish\" on several stocks in the space.",
-            "date": "2015-03-05",
-            "author_name": "Wayne Duggan",
-            "categories": "computer-hardware,business",
-            "tags": "computer,computer_hardware,hardware,report,business",
-            "recuweb_url": "http://en.recuweb.com/business/benzinga.com/2015/03/brean-s-3-computer-hardware-stocks-to-buy-apple-inc-nasdaq",
-            "resource_url": "http://www.google.com/search?q=computer%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://benzinga.com/analyst-ratings/analyst-color/15/03/5302315/breans-3-computer-hardware-stocks-to-buy"
-        },
-        "techxplore.com/2015/03/paperspace-computer-aims-to-resolve-hardware-distractions": {
-            "title": "Paperspace computer aims to resolve hardware distractions...",
-            "snippet": "What if we told you there was a better way, he said, throwing her computer off the table and on to the floor. Paperspace. The difference between a regular computer and Paperspace is that the computer is a piece of hardware...",
-            "date": "2015-03-05",
-            "author_name": "unknown",
-            "tags": "between,off,said,computer,hardware",
-            "recuweb_url": "http://en.recuweb.com/techxplore.com/2015/03/paperspace-computer-aims-to-resolve-hardware-distractions",
-            "resource_url": "http://www.google.com/search?q=computer%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://techxplore.com/news/2015-03-paperspace-aims-hardware-distractions.html"
         },
         "geniusboy7.com/2015/03/computer-and-smartphone-issues-hardware-software": {
             "title": "Computer and Smartphone Issues (Hardware/Software)...",
             "snippet": "Please fill out the form below to make a request for any computer and smartphone services. It could be a software upgrade or even a faulty device. Just...",
             "date": "2015-03-04",
             "author_name": "geniusboy7",
-            "tags": "could,computer,hardware,software,make,services",
+            "tags": "even,any,issues,computer,hardware,software,services",
             "recuweb_url": "http://en.recuweb.com/geniusboy7.com/2015/03/computer-and-smartphone-issues-hardware-software",
             "resource_url": "http://en.search.wordpress.com/?q=computer%2Bhardware%2Bcomputer%2Bhardware&f=feed&page=1",
             "source_url": "http://geniusboy7.com/products-and-services/general-computer-and-smartphone-issues-hardwaresoftware/"
+        },
+        "wonderfulworldit.blogspot.com/2015/02/blog-3-hindi-lang-saging-ang-may-puso": {
+            "title": "Blog 3: Hindi Lang Saging Ang May Puso...",
+            "snippet": "... maging computer may puso rin. Eh ikaw, bakit wala? FEBRUARY 24, 2015 In this lab session, we discussed about the computer hardware. Computer hardware is the physical parts or components of a computer, such as the monitor, mouse, keyboard,...",
+            "date": "2015-02-27",
+            "author_name": "Czarina Nicole Macatingrao",
+            "tags": "monitor,components,computer,hardware",
+            "recuweb_url": "http://en.recuweb.com/wonderfulworldit.blogspot.com/2015/02/blog-3-hindi-lang-saging-ang-may-puso",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=computer%2Bhardware%2Bcomputer%2Bhardware&rss=1&lng=en",
+            "source_url": "http://wonderfulworldit.blogspot.com/2015/02/blog-3-hindi-lang-saging-ang-may-puso_27.html"
+        },
+        "carlaksilva.wordpress.com/2015/02/blog-entry-2": {
+            "title": "Blog Entry 2...",
+            "snippet": "Computer Hardware, computer hardware.. somewhat boring to learn right? I know it is very timid to learn this lesson wherein there are so much things to remember. However, Maam made it so much exciting and fun. This day I learned a lot, very. I...",
+            "date": "2015-02-22",
+            "author_name": "cksilva96",
+            "categories": "computer-hardware",
+            "tags": "lot,made,learn,computer,computer_hardware,hardware,day",
+            "recuweb_url": "http://en.recuweb.com/computer-hardware/carlaksilva.wordpress.com/2015/02/blog-entry-2",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=computer%2Bhardware%2Bcomputer%2Bhardware&rss=1&lng=en",
+            "source_url": "http://carlaksilva.wordpress.com/2015/02/22/blog-entry-2/"
+        },
+        "reddit.com/2015/02/iwtl-how-to-learn-about-computer-hardware": {
+            "title": "IWTL How to learn about computer hardware...",
+            "snippet": "I want to learn how to learn about computer hardware, how to fix computers, build them, what makes a computer good, what makes a this gpu/cpu/anything else better than this one, and how to diagnose issues with hardware when building them. Any sort...",
+            "date": "2015-02-19",
+            "tags": "building,issues,better,build,want,learn,computers,hardware,cpu,any",
+            "recuweb_url": "http://en.recuweb.com/reddit.com/2015/02/iwtl-how-to-learn-about-computer-hardware",
+            "resource_url": "http://www.reddit.com/search.rss?q=computer%2Bhardware%2Bcomputer%2Bhardware&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/IWantToLearn/comments/2wgvlj/iwtl_how_to_learn_about_computer_hardware/"
+        },
+        "youtube.com/2015/02/ipad-case-forms-touchable-buttons-this-week-in-computer": {
+            "title": "iPad Case Forms Touchable Buttons: This Week in Computer...",
+            "snippet": "iPad Case Forms Touchable Buttons: This Week in Computer Hardware 302. TWiT Netcast Network. SubscribeSubscribedUnsubscribe 83,067. Subscription preferences. Loading... Loading... Working... Add to. Want to watch...",
+            "date": "2015-02-13",
+            "author_name": "Syndication",
+            "categories": "ipad",
+            "tags": "network,week,computer,hardware,want",
+            "recuweb_url": "http://en.recuweb.com/ipad/youtube.com/2015/02/ipad-case-forms-touchable-buttons-this-week-in-computer",
+            "resource_url": "http://www.google.com/search?q=computer%2Bhardware&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://youtube.com/watch?v=Vox7GxDv_0A",
+            "img_url": "http://img.youtube.com/vi/Vox7GxDv_0A/0.jpg"
+        },
+        "reddit.com/2015/01/with-a-new-ssd-and-8-gb-of-ram-my-4": {
+            "title": "With a new SSD and 8 GB of RAM, my 4 year old MacBookPro runs like a brand new computer. Total...",
+            "snippet": "I can't stress how much of a difference it has made to go from 4GB RAM and a 5400 RPM HDD to 8GB and an SDD. I highly recommend anyone with upgradable hardware to make the leap to an SSD. My computer boots in under ten seconds when it used to be...",
+            "date": "2015-01-28",
+            "tags": "under,made,ssd,runs,brand,computer,hardware",
+            "recuweb_url": "http://en.recuweb.com/reddit.com/2015/01/with-a-new-ssd-and-8-gb-of-ram-my-4",
+            "resource_url": "http://www.reddit.com/search.rss?q=computer%2Bhardware%2Bcomputer%2Bhardware&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/apple/comments/2tytpb/with_a_new_ssd_and_8_gb_of_ram_my_4_year_old/"
+        },
+        "studyguides4u.wordpress.com/2015/01/pr000041-the-gateway-to-basics-of-computer-hardware": {
+            "title": "PR000041: The Gateway to the Basics of Computer Hardware...",
+            "snippet": "What is PR000041? PR000041 Test Guides is one of the two PowerCenter Data Integration 9.x: Developer Specialist course offered by Informatica, one of the most well-known IT-certifications providers in []...",
+            "date": "2015-01-20",
+            "author_name": "hsafi1",
+            "categories": "computer-hardware",
+            "tags": "developer,data,test,computer,computer_hardware,hardware,basics",
+            "recuweb_url": "http://en.recuweb.com/computer-hardware/studyguides4u.wordpress.com/2015/01/pr000041-the-gateway-to-basics-of-computer-hardware",
+            "resource_url": "http://en.search.wordpress.com/?q=computer%2Bhardware%2Bcomputer%2Bhardware&f=feed&page=1",
+            "source_url": "http://studyguides4u.wordpress.com/2015/01/20/pr000041-the-gateway-to-the-basics-of-computer-hardware/"
+        },
+        "reddit.com/2015/01/discussion-how-does-one-make-a-living-with-knowledge-of-computer": {
+            "title": "Discussion How does one make a living with knowledge of computer hardware?",
+            "snippet": "I wanted to bring up a topic that has intrigued me since I became interested in building PCs. That is, how could I do this for a living? Subsequently, that leads to: What kind of opportunities are there for this skill? What type of...",
+            "date": "2015-01-08",
+            "tags": "building,discussion,computer,hardware,pcs,kind",
+            "recuweb_url": "http://en.recuweb.com/reddit.com/2015/01/discussion-how-does-one-make-a-living-with-knowledge-of-computer",
+            "resource_url": "http://www.reddit.com/search.rss?q=computer%2Bhardware%2Bcomputer%2Bhardware&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/buildapc/comments/2rp9j4/discussion_how_does_one_make_a_living_with/"
         }
     }
 }
