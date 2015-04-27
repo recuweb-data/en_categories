@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "php",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/php/",
@@ -10,16 +11,49 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/php/php/blogs.json"
     },
     "items": {
+        "easyphpprogramming.net/2015/04/the-popularity-of-php-web-hosting-explained": {
+            "title": "The Popularity of PHP Web Hosting Explained...",
+            "snippet": "What is PHP? PHP is short form of Hypertext Preprocessor, which is a widely used, server-side web programming language that was originally designed for web development to produce dynamic web pages. Advantages of PHP PHP gained a lot of popularity...",
+            "date": "2015-04-24",
+            "author_name": "Bart",
+            "categories": "php",
+            "tags": "php,dynamic,hypertext,hypertext_preprocessor,preprocessor,web,server,side,programming,language,development",
+            "recuweb_url": "http://en.recuweb.com/php/easyphpprogramming.net/2015/04/the-popularity-of-php-web-hosting-explained",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=en",
+            "source_url": "http://easyphpprogramming.net/internet-and-businesses-online/the-popularity-of-php-web-hosting-explained/"
+        },
+        "phpprogrammingtips.com/2015/04/php-programming-an-intelligent-choice-for-your-website-success": {
+            "title": "PHP Programming An Intelligent Choice For Your Website Success...",
+            "snippet": "PHP means Hypertext Preprocessor Programming; it is basically script based and server side programming language. Server side means the scripts will be in to the HTML but server processes on it first before sending that applications to browsers. You...",
+            "date": "2015-04-23",
+            "author_name": "Celine",
+            "categories": "php,html",
+            "tags": "sending,applications,side,script,hypertext,hypertext_preprocessor,preprocessor,programming,php,website,server,language,html",
+            "recuweb_url": "http://en.recuweb.com/html/phpprogrammingtips.com/2015/04/php-programming-an-intelligent-choice-for-your-website-success",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=en",
+            "source_url": "http://phpprogrammingtips.com/internet-and-businesses-online/php-programming-an-intelligent-choice-for-your-website-success/"
+        },
         "blog.astrumfutura.com/2015/04/tls-ssl-security-in-php-avoiding-the-lowest-common-insecure": {
             "title": "TLS/SSL Security In PHP: Avoiding The Lowest Common Insecure...",
             "snippet": "In the case of PHP users on Windows, this may include not having openssl or curl installed. Without either of these options, TLS verification in PHP becomes impossible without looking outside PHP (e.g. locally available...",
             "date": "2015-04-23",
             "author_name": "padraic",
             "categories": "php",
-            "tags": "either,users,php,windows",
+            "tags": "security,php",
             "recuweb_url": "http://en.recuweb.com/php/blog.astrumfutura.com/2015/04/tls-ssl-security-in-php-avoiding-the-lowest-common-insecure",
             "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.astrumfutura.com/2015/04/tlsssl-security-in-php-avoiding-the-lowest-common-insecure-denominator-trap/"
+        },
+        "captainbodgit.blogspot.com/2015/04/raspberry-pi-gpio-control-with-php": {
+            "title": "Raspberry Pi GPIO control with PHP...",
+            "snippet": "When I setup my Raspberry Pi server 8 months ago, one of its potential uses was for me to play with PHP and hopefully learn more about this language. I found a bit of time this week, so decided to try making a minimal PHP program to control the Pi...",
+            "date": "2015-04-22",
+            "author_name": "(SteveDee)",
+            "categories": "play,php",
+            "tags": "program,control,try,php,server,learn,language",
+            "recuweb_url": "http://en.recuweb.com/php/captainbodgit.blogspot.com/2015/04/raspberry-pi-gpio-control-with-php",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=en",
+            "source_url": "http://captainbodgit.blogspot.com/2015/04/raspberry-pi-gpio-control-with-php.html"
         },
         "stackoverflow.com/2015/04/apache-hard-links-between-php-files-in-different-directories": {
             "title": "apache - hard links between php files in different directories, what...",
@@ -27,10 +61,32 @@
             "date": "2015-04-22",
             "author_name": "user1279887",
             "categories": "php",
-            "tags": "file,different,content,websites,apache,php,using",
+            "tags": "file,different,websites,files,between,php,structure",
             "recuweb_url": "http://en.recuweb.com/php/stackoverflow.com/2015/04/apache-hard-links-between-php-files-in-different-directories",
             "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://stackoverflow.com/questions/29806175/hard-links-between-php-files-in-different-directories-what-should-be-the-expect"
+        },
+        "technology.ohmygoh.com/2015/04/easyphp-unable-to-load-php-extension": {
+            "title": "easyPHP: Unable to load PHP extension...",
+            "snippet": "Problem: After enable the intl extension in. There are two errors happen: System error: The program cant start because is missing from your computer. Try reinstalling the program to fix this problem. (Figure 1) PHP Startup: Unable to load dynamic...",
+            "date": "2015-04-21",
+            "author_name": "Administrator - Jason Goh",
+            "categories": "php",
+            "tags": "dynamic,program,because,php,system,try",
+            "recuweb_url": "http://en.recuweb.com/php/technology.ohmygoh.com/2015/04/easyphp-unable-to-load-php-extension",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=en",
+            "source_url": "http://technology.ohmygoh.com/easyphp-unable-to-load-php-extension-php_intl-dll/"
+        },
+        "mlscs.wordpress.com/2015/04/object-oriented-in-php": {
+            "title": "Object-Oriented in PHP...",
+            "snippet": "For my final project, I intend to write a program that explores the Object-Oriented Side of PHP. PHP being an object-oriented language, you can create objects with properties and methods. On this post, I will show how to create an object in PHP, how...",
+            "date": "2015-04-19",
+            "author_name": "mlseck",
+            "categories": "php",
+            "tags": "create,side,program,final,project,php,language,properties",
+            "recuweb_url": "http://en.recuweb.com/php/mlscs.wordpress.com/2015/04/object-oriented-in-php",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=en",
+            "source_url": "http://mlscs.wordpress.com/2015/04/19/object-oriented-in-php/"
         },
         "pakprogs.wordpress.com/2015/04/intro-to-php": {
             "title": "Intro to PHP...",
@@ -38,87 +94,32 @@
             "date": "2015-04-18",
             "author_name": "pakprogs",
             "categories": "languages,php,html,css,javascript",
-            "tags": "languages,server,server-side,side,types,php,language,web,development,run,user,html,javascript",
+            "tags": "system,side,server,php,language,web,development,run,html",
             "recuweb_url": "http://en.recuweb.com/javascript/pakprogs.wordpress.com/2015/04/intro-to-php",
             "resource_url": "http://en.search.wordpress.com/?q=php%2Bphp&f=feed&page=1",
             "source_url": "http://pakprogs.wordpress.com/2015/04/18/intro-to-php/"
         },
-        "futuresearcher.wordpress.com/2015/04/php-renewed-the-new-face-of": {
-            "title": "PHP renewed: The new face of PHP...",
-            "snippet": "The New Face of PHP: Discover the new language features in much more. phpPHP renewed: The new face of PHPIn the first installment of a four-part series...",
-            "date": "2015-04-15",
-            "author_name": "Erman Akdogan",
+        "uksor.blogspot.com/2015/04/the-different-between-variable-and-constants-in-php": {
+            "title": "The different between Variable and Constants in PHP...",
+            "snippet": "The different between Variable and Constants in PHP In PHP has two main command are similar is variable and constants. They are store the value to output or for calculation, but they are also different. Variables are declare by add sign before...",
+            "date": "2015-04-18",
+            "author_name": "(UKSOR Infor)",
             "categories": "php",
-            "tags": "series,php,language,first",
-            "recuweb_url": "http://en.recuweb.com/php/futuresearcher.wordpress.com/2015/04/php-renewed-the-new-face-of",
-            "resource_url": "http://en.search.wordpress.com/?q=php%2Bphp&f=feed&page=1",
-            "source_url": "http://futuresearcher.wordpress.com/2015/04/15/php-renewed-the-new-face-of-php/"
+            "tags": "different,store,between,php,variables",
+            "recuweb_url": "http://en.recuweb.com/php/uksor.blogspot.com/2015/04/the-different-between-variable-and-constants-in-php",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=en",
+            "source_url": "http://uksor.blogspot.com/2015/04/the-different-between-variable-and.html"
         },
-        "security.stackexchange.com/2015/04/malware-what-does-this-malicious-php-script-do-information": {
-            "title": "malware - What does this malicious PHP script do? - Information...",
-            "snippet": "Somebody hacked my site and uploaded this script () to my webroot and its content is:?php vIIJ30Y=Array('1'='F', '0'='j', '3'='s', '2'='l', '5'='M', '4'='0', '7'='W', '6'='L', '9'='Z', '8'='b', 'A'='i',...",
-            "date": "2015-04-15",
-            "author_name": "kenorb",
+        "synapseindiatraining.wordpress.com/2015/04/synapseindia-training-boost-your-it-career-with-php": {
+            "title": "SynapseIndia Training Boost Your IT Career With PHP Training...",
+            "snippet": "Web development and designs are currently getting be simple in light of the fact that its appearance in IT market. Most designers and in addition development organizations, likewise apply PHP in designing the site because of its adaptability and...",
+            "date": "2015-04-16",
+            "author_name": "satyasingh9089",
             "categories": "php",
-            "tags": "content,site,script,php",
-            "recuweb_url": "http://en.recuweb.com/php/security.stackexchange.com/2015/04/malware-what-does-this-malicious-php-script-do-information",
-            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://security.stackexchange.com/questions/86094/what-does-this-malicious-php-script-do"
-        },
-        "ostraining.com/2015/04/absolute-beginners-guide-to-php-arrays-ostraining": {
-            "title": "Absolute Beginners Guide to PHP Arrays - OSTraining...",
-            "snippet": "Arrays are wonderful ways to organize and use data in PHP. Quite simply, an array is a list. Here's a quick example of an array of types of transportation: transportation=array('Planes', 'Trains', 'Automobiles');.",
-            "date": "2015-04-14",
-            "author_name": "Topher DeRosia",
-            "categories": "php",
-            "tags": "arrays,types,data,php,simply",
-            "recuweb_url": "http://en.recuweb.com/php/ostraining.com/2015/04/absolute-beginners-guide-to-php-arrays-ostraining",
-            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://ostraining.com/blog/coding/arrays/"
-        },
-        "code.tutsplus.com/2015/04/building-your-startup-with-php-user-settings-profile-images": {
-            "title": "Building Your Startup With PHP: User Settings, Profile Images and...",
-            "snippet": "All of the code for Meeting Planner is written in the Yii2 Framework for PHP, which has built-in support for I18n. If you'd like to learn more about Yii2, check out our parallel series Programming With Yii2 at Tuts.",
-            "date": "2015-04-13",
-            "author_name": "Jeff Reifman",
-            "categories": "php",
-            "tags": "check,series,programming,built,code,user,php,framework,learn",
-            "recuweb_url": "http://en.recuweb.com/php/code.tutsplus.com/2015/04/building-your-startup-with-php-user-settings-profile-images",
-            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://code.tutsplus.com/tutorials/building-your-startup-with-php-user-settings-profile-images-and-contact-details--cms-23196"
-        },
-        "rkimiles.wordpress.com/2015/04/trying-out-reportico": {
-            "title": "Trying out Reportico...",
-            "snippet": "This days I needed a reporting solution. That's how I found Reportico. Reportico is an Open Source PHP web reporting tool. For more info in how to use it. Read...",
-            "date": "2015-04-12",
-            "author_name": "rokimiles",
-            "categories": "php",
-            "tags": "open,php,web,read",
-            "recuweb_url": "http://en.recuweb.com/php/rkimiles.wordpress.com/2015/04/trying-out-reportico",
-            "resource_url": "http://en.search.wordpress.com/?q=php&f=feed&page=1",
-            "source_url": "http://rkimiles.wordpress.com/2015/04/11/trying-out-reportico/"
-        },
-        "blog.jetbrains.com/2015/04/php-annotated-monthly-april-2015-jetbrains-phpstorm-blog": {
-            "title": "PHP Annotated Monthly April 2015 JetBrains PhpStorm Blog...",
-            "snippet": "Our April issue of PHP Annotated Monthly delivers updates on PHP, frameworks, tools, tips for coding, HHVM, news on RFCs for PHP 7, community, and much more. Read this month's digest curated by Mikhail Vink, PhpStorm...",
-            "date": "2015-04-09",
-            "author_name": "Mikhail Vink",
-            "categories": "php",
-            "tags": "month,php,read",
-            "recuweb_url": "http://en.recuweb.com/php/blog.jetbrains.com/2015/04/php-annotated-monthly-april-2015-jetbrains-phpstorm-blog",
-            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.jetbrains.com/phpstorm/2015/04/php-annotated-monthly-april-2015/"
-        },
-        "wpdevnotes.wordpress.com/2015/04/using-interfaces-effectively-in-php": {
-            "title": "Using Interfaces Effectively in PHP...",
-            "snippet": "Simply put: interfaces are contracts that some code implements and adheres to and other code depends upon. It allows us to have assurance that any given dependency will []...",
-            "date": "2015-04-02",
-            "author_name": "abrudtkuhl",
-            "categories": "php",
-            "tags": "code,using,php,simply",
-            "recuweb_url": "http://en.recuweb.com/php/wpdevnotes.wordpress.com/2015/04/using-interfaces-effectively-in-php",
-            "resource_url": "http://en.search.wordpress.com/?q=php%2Bphp&f=feed&page=1",
-            "source_url": "http://wpdevnotes.wordpress.com/2015/04/02/using-interfaces-effectively-in-php/"
+            "tags": "because,fact,training,php,web,development",
+            "recuweb_url": "http://en.recuweb.com/php/synapseindiatraining.wordpress.com/2015/04/synapseindia-training-boost-your-it-career-with-php",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=en",
+            "source_url": "http://synapseindiatraining.wordpress.com/2015/04/16/synapseindia-training-boost-your-it-career-with-php-training/"
         }
     }
 }
