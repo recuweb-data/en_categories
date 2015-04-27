@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "adwords",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/adwords/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/adwords/adwords/blogs.json"
     },
     "items": {
-        "searchengineland.com/2015/04/5-hidden-adwords-columns-to-help-improve-performance-&-save-time": {
-            "title": "5 Hidden AdWords Columns To Help Improve Performance & Save Time...",
-            "snippet": "Call them hidden gems, or maybe theyre just the handful of many AdWords columns that do not appear in your performance grid by default. Whatever the case, theres little doubt that these five columns can help advertisers save time, increase...",
-            "date": "2015-04-17",
+        "theeword.co.uk/2015/04/google-joins-theeword-to-demystify-digital-marketing": {
+            "title": "Google joins theEword to demystify digital marketing...",
+            "snippet": "To uncover the latest trends and lay all those digital marketing misconceptions to rest. To get us underway, Google AdWords Account Manager Navid Beni introduced the concept of Google Partners to the sixty-plus guests in the room. He spoke in depth...",
+            "date": "2015-04-27",
+            "categories": "adwords,google,marketing",
+            "tags": "partners,adwords,google,marketing",
+            "recuweb_url": "http://en.recuweb.com/marketing/theeword.co.uk/2015/04/google-joins-theeword-to-demystify-digital-marketing",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=us",
+            "source_url": "http://theeword.co.uk/online-marketing/google-joins-theeword-to-discover-and-demystify-digital-marketing/"
+        },
+        "seroundtable.com/2015/04/google-the-mobile-friendly-algorithm-does-not-affect-your-adwords-quality": {
+            "title": "Google: The Mobile Friendly Algorithm Does Not Affect Your AdWords Quality... - Search Engine...",
+            "snippet": "Google: The Mobile Friendly Algorithm Does Not Affect Your AdWords Quality...Search Engine Roundtablegoogle adwords mobile friendly algo Kate O'Donovan from the Google AdWords team in Dublin confirmed that the mobile friendly algorithm that began...",
+            "date": "2015-04-27",
+            "categories": "adwords,search-engine,google",
+            "tags": "mobile,mobile_friendly,friendly,adwords,search,search_engine,engine,quality,google",
+            "recuweb_url": "http://en.recuweb.com/google/seroundtable.com/2015/04/google-the-mobile-friendly-algorithm-does-not-affect-your-adwords-quality",
+            "resource_url": "http://news.google.com/?hl=en&q=adwords%2Badwords&output=atom&nord=1",
+            "source_url": "http://seroundtable.com/google-adwords-mobile-friendly-not-impacted-20210.html"
+        },
+        "promotionworld.com/2015/04/boston-businesses-invited-to-live-google-event-at-pepper-gang-adwords": {
+            "title": "Boston Businesses Invited to Live Google Event at Pepper Gang AdWords Agency...",
+            "snippet": "Boston, MA (PRWEB) April 23, 2015 - Boston AdWords agency, Pepper Gang, is delighted to invite Boston based businesses to join them for the livestream event they are hosting, Google Partners Connect, on May 13th, which will feature two speakers:...",
+            "date": "2015-04-23",
+            "categories": "google,business,adwords",
+            "tags": "google,partners,pepper,pepper_gang,gang,adwords,agency,boston",
+            "recuweb_url": "http://en.recuweb.com/adwords/promotionworld.com/2015/04/boston-businesses-invited-to-live-google-event-at-pepper-gang-adwords",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=us",
+            "source_url": "http://promotionworld.com/news/press/150423-boston-businesses-invited-live-google-event-pepper-gang-adwords-agency"
+        },
+        "blog.oregonlive.com/2015/04/logical-position-selected-as-first-oregon-company-to-qualify-adwords-premier": {
+            "title": "Logical Position Selected as First Oregon Company to Qualify as AdWords Premier SMB Partner...",
+            "snippet": "Logical Position (LP) is proud to announce its addition to the Google AdWords Premier SMB Partners (PSP) program. LP is one of only 27 companies in the U.S and Canada to qualify and the only partner headquartered in Oregon. Other program partners...",
+            "date": "2015-04-23",
+            "categories": "google,adwords",
+            "tags": "program,partners,google,google_adwords,adwords,addition",
+            "recuweb_url": "http://en.recuweb.com/adwords/blog.oregonlive.com/2015/04/logical-position-selected-as-first-oregon-company-to-qualify-adwords-premier",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=us",
+            "source_url": "http://blog.oregonlive.com/business-watch/2015/04/logical_position_selected_as_f_1.html"
+        },
+        "boatingindustry.com/2015/04/save-money-on-google-adwords-by-boosting-your-quality-score": {
+            "title": "Save money on Google Adwords by boosting your Quality Score...",
+            "snippet": "Paid search is a wonderful way to precisely target your prospective customers, but its not exactly the most intuitive way to advertise. All those menus, all that jargon and piles of competing advice make getting an ad online a bit of a headache for...",
+            "date": "2015-04-23",
+            "categories": "google,adwords",
+            "tags": "online,search,quality,google,google_adwords,adwords",
+            "recuweb_url": "http://en.recuweb.com/adwords/boatingindustry.com/2015/04/save-money-on-google-adwords-by-boosting-your-quality-score",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=us",
+            "source_url": "http://boatingindustry.com/blogs/nicholas-upton/2015/04/23/save-money-on-google-adwords-by-boosting-your-quality-score/"
+        },
+        "searchenginepeople.com/2015/04/what-you-need-to-know-about-adwords-&-the-google-display": {
+            "title": "What You Need To Know About Adwords & The Google Display Network...",
+            "snippet": "The Google Display Network is a set of millions of Google Owned and non-Owned websites which reaches more than 90% of online Canadian users. It may also include mobile sites and apps, and covers a pretty wide range of demographics and interest...",
+            "date": "2015-04-23",
+            "categories": "google,adwords",
+            "tags": "mobile,online,google,adwords",
+            "recuweb_url": "http://en.recuweb.com/adwords/searchenginepeople.com/2015/04/what-you-need-to-know-about-adwords-&-the-google-display",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=us",
+            "source_url": "http://searchenginepeople.com/blog/150440955-adwords-google-display-network.html"
+        },
+        "searchenginewatch.com/2015/04/adwords-search-funnels-aka-attribution-become-more-accessible": {
+            "title": "AdWords'Search Funnels (aka Attribution) Become More Accessible...",
+            "snippet": "Google recently posted on Google that Search Funnels in AdWords will be renamed Attribution. The Attribution section will be more discoverable and accessible under the tools menu, making this a great time to become reacquainted with this section,...",
+            "date": "2015-04-22",
+            "categories": "adwords,google",
+            "tags": "search,adwords,google",
+            "recuweb_url": "http://en.recuweb.com/google/searchenginewatch.com/2015/04/adwords-search-funnels-aka-attribution-become-more-accessible",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=us",
+            "source_url": "http://searchenginewatch.com/sew/how-to/2405089/adwords-search-funnels-aka-attribution-become-more-accessible"
+        },
+        "streetinsider.com/2015/04/zero-to-start-program-offers-one-month-adwords-fees-waived": {
+            "title": "ZERO to Start Program Offers One-Month AdWords, Fees Waived...",
+            "snippet": "Boston AdWords agency, Pepper Gang, eagerly encourages you to take advantage of the exclusive ZERO to Start Program, where all costs associated with the setup and first month's management of your new Google AdWords account will be waived. You can't...",
+            "date": "2015-04-22",
+            "categories": "google,adwords,management",
+            "tags": "google,google_adwords,adwords,program,pepper,pepper_gang,gang,boston,agency",
+            "recuweb_url": "http://en.recuweb.com/management/streetinsider.com/2015/04/zero-to-start-program-offers-one-month-adwords-fees-waived",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=us",
+            "source_url": "http://streetinsider.com/Press+Releases/ZERO+to+Start+Program+Offers+One-Month+AdWords,+Fees+Waived/10479711.html"
+        },
+        "wordstream.com/2015/04/7-ways-to-write-super-effective-adwords-ads-with-real-examples": {
+            "title": "7 Ways to Write Super-Effective AdWords Ads (with Real Examples) - WordStream (blog)...",
+            "snippet": "7 Ways to Write Super-Effective AdWords Ads (with Real Examples)WordStream (blog)Today we're featuring a post that originally appeared on the Unbounce blog. In addition, we're partnering with Unbounce to offer a free webinar this Thursday, 3 Steps...",
+            "date": "2015-04-21",
             "categories": "adwords",
-            "tags": "help,advertisers,case,appear,performance,many,adwords,improve",
-            "recuweb_url": "http://en.recuweb.com/adwords/searchengineland.com/2015/04/5-hidden-adwords-columns-to-help-improve-performance-&-save-time",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=us",
-            "source_url": "http://searchengineland.com/5-hidden-adwords-columns-help-improve-performance-save-time-218827"
+            "tags": "adwords,adwords_ads,ads,today,addition",
+            "recuweb_url": "http://en.recuweb.com/adwords/wordstream.com/2015/04/7-ways-to-write-super-effective-adwords-ads-with-real-examples",
+            "resource_url": "http://news.google.com/?hl=en&q=adwords%2Badwords&output=atom&nord=1",
+            "source_url": "http://wordstream.com/blog/ws/2015/04/21/adwords-ads"
         },
-        "marketingland.com/2015/04/7-things-cmos-need-to-know-about-search-engine-marketing": {
-            "title": "7 Things CMOs Need To Know About Search Engine Marketing...",
-            "snippet": "3. Remarketing Pays Off At Almost Every Level Of The Funnel AdWords alone has a slew of remarketing (Google-speak for retargeting) options: RLSA (Remarketing Lists for Search Ads), Search Companion remarketing, Similar Users remarketing, Dynamic...",
-            "date": "2015-04-16",
-            "categories": "adwords,search-engine,marketing,google",
-            "tags": "users,search,ads,off,adwords,search_engine,engine,marketing,google",
-            "recuweb_url": "http://en.recuweb.com/google/marketingland.com/2015/04/7-things-cmos-need-to-know-about-search-engine-marketing",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=us",
-            "source_url": "http://marketingland.com/7-things-cmos-need-know-sem-123028"
-        },
-        "seroundtable.com/2015/04/google-speeds-up-adwords-conversion-tracking-tags-search-engine-roundtable": {
-            "title": "Google Speeds Up AdWords Conversion Tracking Tags - Search Engine Roundtable...",
-            "snippet": "Google Speeds Up AdWords Conversion Tracking TagsSearch Engine RoundtableIf you add the code snippet to your page and then navigate to the page, Google will tell you within 60 minutes if the AdWords conversion tracking tags are valid or not. Plus,...",
-            "date": "2015-04-16",
-            "categories": "google,adwords,search-engine",
-            "tags": "tags,page,google,adwords,engine,search,search_engine",
-            "recuweb_url": "http://en.recuweb.com/search-engine/seroundtable.com/2015/04/google-speeds-up-adwords-conversion-tracking-tags-search-engine-roundtable",
-            "resource_url": "http://news.google.com/?hl=en&q=adwords&output=atom&nord=1",
-            "source_url": "http://seroundtable.com/google-adwords-conversion-tracking-tags-faster-20158.html"
-        },
-        "euronews.com/2015/04/google-defends-its-success": {
-            "title": "Google defends its success...",
-            "snippet": "How does that pay? Mostly through advertising. Googles online programme AdWords shows ads relevant to the content a users researching. Advertisers compete to appear. Placement is based on key words, location and language. Is AdWords impartial?",
-            "date": "2015-04-16",
-            "categories": "google,adwords",
-            "tags": "appear,ads,users,success,google,adwords,advertisers",
-            "recuweb_url": "http://en.recuweb.com/adwords/euronews.com/2015/04/google-defends-its-success",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=us",
-            "source_url": "http://euronews.com/2015/04/15/google-defends-its-success/"
-        },
-        "bandt.com.au/2015/04/how-marketers-can-generate-more-returns-with-attribution": {
-            "title": "How Marketers Can Generate More Returns With Attribution...",
-            "snippet": "This is where technology can help. Many advertisers in Australia and the broader APAC region still use the last-click model, as this is the standard when using any particular channel (such as Facebook or Google AdWords) directly. Marketers have been...",
-            "date": "2015-04-16",
-            "categories": "google,adwords,technology,facebook",
-            "tags": "google,google_adwords,adwords,using,advertisers,help,many",
-            "recuweb_url": "http://en.recuweb.com/facebook/bandt.com.au/2015/04/how-marketers-can-generate-more-returns-with-attribution",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=us",
-            "source_url": "http://bandt.com.au/marketing/how-marketers-can-generate-more-returns-with-attribution"
-        },
-        "wsj.com/2015/04/yahoo-angles-for-bigger-role-in-web-search": {
-            "title": "Yahoo Angles for Bigger Role in Web Search...",
-            "snippet": "the ubiquitous and lucrative AdWords product, beside search results on mobile phones for a small group of users, according to a person who was briefed on the tests. Yahoo may now have more freedom to team up with Google in more areas, such as...",
-            "date": "2015-04-16",
-            "categories": "yahoo,adwords,google",
-            "tags": "team,search,mobile,users,adwords,product,google",
-            "recuweb_url": "http://en.recuweb.com/google/wsj.com/2015/04/yahoo-angles-for-bigger-role-in-web-search",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=us",
-            "source_url": "http://wsj.com/articles/yahoo-microsoft-amend-search-agreement-1429190924?mod=rss_whats_news_us"
-        },
-        "searchengineland.com/2015/04/6-adwords-optimizations-using-dimensions-reports-search-engine-land": {
-            "title": "6 AdWords Optimizations Using Dimensions Reports - Search Engine Land...",
-            "snippet": "Search Engine Land6 AdWords Optimizations Using Dimensions ReportsSearch Engine LandLast month, Pauline Jakober wrote a great column about some of the awesome ways to use the AdWords Dimensions tab to improve account performance. That post inspired...",
-            "date": "2015-04-15",
-            "categories": "adwords,search-engine",
-            "tags": "improve,adwords,using,engine,search,search_engine,land,performance",
-            "recuweb_url": "http://en.recuweb.com/search-engine/searchengineland.com/2015/04/6-adwords-optimizations-using-dimensions-reports-search-engine-land",
-            "resource_url": "http://news.google.com/?hl=en&q=adwords&output=atom&nord=1",
-            "source_url": "http://searchengineland.com/6-adwords-optimizations-using-dimensions-reports-218357"
-        },
-        "sfgate.com/2015/04/uber-drivers-might-soon-earn-6-000-more-per-year-if": {
-            "title": "Uber drivers might soon earn 6,000 more per year if they allow ads in their cars...",
-            "snippet": "We're providing real intent-based marketing, it's more in line with Google Adwords. But for the real world. Viewswagen is currently a self-funded, three-man team based out of Minneapolis, but the company is hoping to spark the interest of investors...",
-            "date": "2015-04-15",
-            "categories": "google,adwords,marketing",
-            "tags": "team,world,google,google_adwords,adwords,marketing,ads",
-            "recuweb_url": "http://en.recuweb.com/marketing/sfgate.com/2015/04/uber-drivers-might-soon-earn-6-000-more-per-year-if",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=us",
-            "source_url": "http://sfgate.com/technology/businessinsider/article/Uber-drivers-might-soon-earn-6-000-more-per-year-6202305.php"
-        },
-        "insidebigdata.com/2015/04/xplenty-launches-google-analytics-&-adwords-integrations-insidebigdata": {
-            "title": "Xplenty Launches Google Analytics & Google AdWords Integrations - insideBIGDATA...",
-            "snippet": "Xplenty Launches Google Analytics & Google AdWords IntegrationsinsideBIGDATAXplenty, the big data integration platform that makes it easy to process more data more quickly, announced integrations with Google Analytics and Google AdWords. With the...",
-            "date": "2015-04-12",
-            "categories": "google,adwords",
-            "tags": "google,google_adwords,adwords",
-            "recuweb_url": "http://en.recuweb.com/adwords/insidebigdata.com/2015/04/xplenty-launches-google-analytics-&-adwords-integrations-insidebigdata",
-            "resource_url": "http://news.google.com/?hl=en&q=adwords&output=atom&nord=1",
-            "source_url": "http://insidebigdata.com/2015/04/12/xplenty-launches-google-analytics-google-adwords-integrations/"
-        },
-        "searchenginejournal.com/2015/04/6-tips-to-reduce-bounce-rates-in-google-adwords-display-campaign": {
-            "title": "6 Tips to Reduce Bounce Rates in Google AdWords Display Campaign...",
-            "snippet": "Bounce rate refers to the number of people who land on your website, take a quick look around, and subsequently leave. They never move to a second page. Now this isnt necessarily a bad thing. One page website design is all the rage right now, so...",
-            "date": "2015-04-10",
-            "categories": "google,adwords",
-            "tags": "page,land,google,google_adwords,adwords",
-            "recuweb_url": "http://en.recuweb.com/adwords/searchenginejournal.com/2015/04/6-tips-to-reduce-bounce-rates-in-google-adwords-display-campaign",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=us",
-            "source_url": "http://searchenginejournal.com/6-tips-reduce-bounce-rates-google-adwords-display-campaign/128476/"
+        "searchengineland.com/2015/04/spotted-mobile-friendly-tag-showing-for-adwords-ads-search-engine-land": {
+            "title": "Spotted: Mobile Friendly Tag Showing For AdWords Ads - Search Engine Land...",
+            "snippet": "Search Engine LandSpotted: Mobile Friendly Tag Showing For AdWords AdsSearch Engine LandOf course today marks the launch of Google's Mobile Friendly Update, but the The SEM Post spotted a mobile friendly tag within AdWords ads. The example occurred...",
+            "date": "2015-04-21",
+            "categories": "adwords,search-engine,google",
+            "tags": "mobile,mobile_friendly,friendly,today,adwords,engine,search,search_engine,adwords_ads,ads,google",
+            "recuweb_url": "http://en.recuweb.com/google/searchengineland.com/2015/04/spotted-mobile-friendly-tag-showing-for-adwords-ads-search-engine-land",
+            "resource_url": "http://news.google.com/?hl=en&q=adwords%2Badwords&output=atom&nord=1",
+            "source_url": "http://searchengineland.com/spotted-mobile-friendly-tag-showing-for-adwords-219419"
         }
     }
 }
