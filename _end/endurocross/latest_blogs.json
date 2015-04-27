@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "endurocross",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/endurocross/",
@@ -10,26 +11,37 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/endurocross/endurocross/blogs.json"
     },
     "items": {
+        "endurocross.com/2015/04/webb-and-haaker-tied-on-points-leading-into": {
+            "title": "Webb and Haaker Tied On Points Leading Into... -...",
+            "snippet": "Round three of the GEICO AMA EnduroCross Championship will take place inside the Orleans Arena Friday, May 1st. And if the challenging track and crazy obstacles aren't enough, Cody Webb and Colton Haaker will be...",
+            "date": "2015-04-22",
+            "author_name": "Shari Yee",
+            "categories": "endurocross",
+            "tags": "colton,colton_haaker,haaker,enough,crazy,orleans,orleans_arena,orleans_arena_friday,arena,arena_friday,friday,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,ama_endurocross_championship,endurocross,endurocross_championship,championship,haaker_tied,tied,tied_on_points,points,points_leading,points_leading_into,leading,leading_into,into,webb,round,place,inside,challenging,track,obstacles,cody",
+            "recuweb_url": "http://en.recuweb.com/endurocross/endurocross.com/2015/04/webb-and-haaker-tied-on-points-leading-into",
+            "resource_url": "http://www.google.com/search?q=endurocross%2Bendurocross&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://endurocross.com/news/webb-and-haaker-tied-on-points-leading-into-las-vegas-endurocross/"
+        },
+        "endurocross.com/2015/04/2015-las-vegas-endurocross-track-map": {
+            "title": "2015 Las Vegas EnduroCross Track Map...",
+            "snippet": "The 2015 GEICO AMA EnduroCross Championship returns home to Las Vegas on Friday, May 1st. Just like it all began in 2004, the Orleans Arena in Las Vegas will host the stars of EnduroCross. But this time they'll be...",
+            "date": "2015-04-16",
+            "author_name": "Shari Yee",
+            "categories": "stars,home,endurocross",
+            "tags": "host,orleans,orleans_arena,arena,began,las,las_vegas,vegas,home,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,ama_endurocross_championship,endurocross,endurocross_championship,championship,las_vegas_endurocross,vegas_endurocross,vegas_endurocross_track,endurocross_track,endurocross_track_map,track,track_map,map,returns,friday",
+            "recuweb_url": "http://en.recuweb.com/endurocross/endurocross.com/2015/04/2015-las-vegas-endurocross-track-map",
+            "resource_url": "http://www.google.com/search?q=endurocross%2Bendurocross&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://endurocross.com/features/2015-las-vegas-endurocross-track-map/"
+        },
         "reddit.com/2015/04/why-is-this-sub-never-busy": {
             "title": "Why is this sub never busy?",
             "snippet": "Cause we're all out riding;) Cheers to a brand new riding season everyone! submitted by megustaPRO to endurocross link 2 comments...",
             "date": "2015-04-05",
             "categories": "endurocross",
-            "tags": "submitted,brand,riding,endurocross",
+            "tags": "brand,riding,season,endurocross",
             "recuweb_url": "http://en.recuweb.com/endurocross/reddit.com/2015/04/why-is-this-sub-never-busy",
             "resource_url": "http://www.reddit.com/search.rss?q=endurocross%2Bendurocross&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/endurocross/comments/31h5a8/why_is_this_sub_never_busy/"
-        },
-        "endurocross.com/2015/04/salt-lake-city-geico-endurocross-on-tv-this-weekend": {
-            "title": "Salt Lake City GEICO EnduroCross on TV this Weekend...",
-            "snippet": "Round two of the 2015 GEICO AMA EnduroCross series will air on the CBS Sports Network this Sunday, April 5th at 12:00 PM EST. Check your local listings and set your DVR's for the full one hour show. Jason Weigandt...",
-            "date": "2015-04-01",
-            "author_name": "Shari Yee",
-            "categories": "sport,endurocross",
-            "tags": "local,sports,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,endurocross,salt,salt_lake,salt_lake_city,lake,lake_city,city,geico_endurocross,weekend,round,series,check",
-            "recuweb_url": "http://en.recuweb.com/endurocross/endurocross.com/2015/04/salt-lake-city-geico-endurocross-on-tv-this-weekend",
-            "resource_url": "http://www.google.com/search?q=endurocross%2Bendurocross&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://endurocross.com/news/salt-lake-city-geico-endurocross-on-tv-this-weekend/"
         },
         "endurocross.com/2015/03/mike-brown-wins-salt-lake-city-endurocross": {
             "title": "Mike Brown Wins Salt Lake City EnduroCross...",
@@ -37,21 +49,10 @@
             "date": "2015-03-23",
             "author_name": "Shari Yee",
             "categories": "endurocross",
-            "tags": "fmf,husqvarna,racing,salt,salt_lake,salt_lake_city,lake,lake_city,city,arena,geico,geico_endurocross,endurocross,first,mike,mike_brown,brown,lake_city_endurocross,city_endurocross,event,leading,inside,utah,ama",
+            "tags": "fmf,husqvarna,racing,salt,salt_lake,salt_lake_city,lake,lake_city,city,arena,geico,geico_endurocross,endurocross,mike,mike_brown,brown,lake_city_endurocross,city_endurocross,event,leading,inside,utah,ama",
             "recuweb_url": "http://en.recuweb.com/endurocross/endurocross.com/2015/03/mike-brown-wins-salt-lake-city-endurocross",
             "resource_url": "http://www.google.com/search?q=endurocross%2Bendurocross&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://endurocross.com/photos/mike-brown-wins-salt-lake-city-endurocross/"
-        },
-        "fox13now.com/2015/03/link-endurocross-comes-to-salt-lake-city": {
-            "title": "Link: EnduroCross comes to Salt Lake City...",
-            "snippet": "See complete forecast. Link: EnduroCross comes to Salt Lake City. Posted 8:53 pm, March 19, 2015, by FOX 13 News Facebook Twitter Pinterest LinkedIn Google Email.. Link: EnduroCross comes to Salt Lake City. Link: EnduroCross...",
-            "date": "2015-03-20",
-            "author_name": "FOX 13 News",
-            "categories": "google,facebook,twitter,endurocross",
-            "tags": "salt,salt_lake,salt_lake_city,lake,lake_city,city,endurocross",
-            "recuweb_url": "http://en.recuweb.com/endurocross/fox13now.com/2015/03/link-endurocross-comes-to-salt-lake-city",
-            "resource_url": "http://www.google.com/search?q=endurocross&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://fox13now.com/2015/03/19/link-endurocross-comes-to-salt-lake-city/"
         },
         "endurocross.com/2015/03/salt-lake-city-endurocross-tickets-available-at-local-dealers": {
             "title": "Salt Lake City EnduroCross Tickets Available at Local Dealers...",
@@ -59,27 +60,28 @@
             "date": "2015-03-19",
             "author_name": "Shari Yee",
             "categories": "endurocross",
-            "tags": "salt,salt_lake,salt_lake_city,lake,lake_city,city,local,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,ama_endurocross_series,endurocross,endurocross_series,series,lake_city_endurocross,city_endurocross,weekend,round",
+            "tags": "salt,salt_lake,salt_lake_city,lake,lake_city,city,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,ama_endurocross_series,endurocross,endurocross_series,series,lake_city_endurocross,city_endurocross,round",
             "recuweb_url": "http://en.recuweb.com/endurocross/endurocross.com/2015/03/salt-lake-city-endurocross-tickets-available-at-local-dealers",
             "resource_url": "http://www.google.com/search?q=endurocross%2Bendurocross&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://endurocross.com/news/salt-lake-city-endurocross-tickets-available-at-local-dealers/"
         },
-        "reddit.com/2015/03/so-lets-say-you-are-a-teen-and-wanna-buy-bike": {
-            "title": "So lets say you are a teen and wanna buy a bike.",
-            "snippet": "What bike do you get and how much do you save up? You ride trails but also want something you can use once you get your moto licence. submitted by IAmNamedMatt to endurocross [link] [10 comments]...",
-            "date": "2015-03-12",
-            "categories": "endurocross",
-            "tags": "submitted,ride,bike,endurocross",
-            "recuweb_url": "http://en.recuweb.com/endurocross/reddit.com/2015/03/so-lets-say-you-are-a-teen-and-wanna-buy-bike",
-            "resource_url": "http://www.reddit.com/search.rss?q=endurocross%2Bendurocross&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/endurocross/comments/2yqzig/so_lets_say_you_are_a_teen_and_wanna_buy_a_bike/"
+        "endurocross.com/2015/03/2015-geico-endurocross-tv-coverage-starts-this-week": {
+            "title": "2015 GEICO EnduroCross TV Coverage Starts This Week...",
+            "snippet": "Television coverage for the 2015 GEICO AMA EnduroCross Championship kicks off this week with a full hour of coverage from the season opener in Daytona Beach, Florida. The CBS Sports show from round one will air...",
+            "date": "2015-03-17",
+            "author_name": "Shari Yee",
+            "categories": "sport,endurocross,television",
+            "tags": "sports,daytona,daytona_beach,beach,season,opener,off,week,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,ama_endurocross_championship,endurocross,endurocross_championship,championship,geico_endurocross,florida,round",
+            "recuweb_url": "http://en.recuweb.com/television/endurocross.com/2015/03/2015-geico-endurocross-tv-coverage-starts-this-week",
+            "resource_url": "http://www.google.com/search?q=endurocross%2Bendurocross&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://endurocross.com/news/2015-geico-endurocross-tv-coverage-starts-this-week/"
         },
         "reddit.com/2015/03/new-subreddit-for-trail-woods-riders": {
             "title": "NEW Subreddit for trail/woods riders!",
             "snippet": "This post is moderator approved! By:/u/lethalweapon100 Do you ride woods/trail/enduro? This subreddit is most likely for you then. I decided to create/r/endurocross because/r/Dualsport is aimed at road legal bikes. This sub will only focus on pure...",
             "date": "2015-03-09",
             "categories": "endurocross",
-            "tags": "only,ride,riders,trail,enduro,endurocross,road",
+            "tags": "only,road,ride,riders,enduro,endurocross",
             "recuweb_url": "http://en.recuweb.com/endurocross/reddit.com/2015/03/new-subreddit-for-trail-woods-riders",
             "resource_url": "http://www.reddit.com/search.rss?q=endurocross%2Bendurocross&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/Dirtbikes/comments/2yfswl/new_subreddit_for_trailwoods_riders/"
@@ -90,7 +92,7 @@
             "date": "2015-03-07",
             "author_name": "Shari Yee",
             "categories": "endurocross",
-            "tags": "rider,daytona,daytona_beach,beach,ocean,ocean_center,center,opening,geico,geico_endurocross,endurocross,ama,championship,cody,cody_webb,webb,daytona_geico,daytona_geico_endurocross,off,win,round,inside,florida,fmf",
+            "tags": "rider,ktm,daytona,daytona_beach,beach,ocean,ocean_center,center,win,opening,geico,geico_endurocross,endurocross,ama,championship,off,cody,cody_webb,webb,daytona_geico,daytona_geico_endurocross,opener,round,inside,florida,fmf",
             "recuweb_url": "http://en.recuweb.com/endurocross/endurocross.com/2015/03/cody-webb-takes-daytona-geico-endurocross-opener",
             "resource_url": "http://www.google.com/search?q=endurocross%2Bendurocross&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://endurocross.com/news/cody-webb-takes-daytona-geico-endurocross-opener/"
@@ -101,7 +103,7 @@
             "date": "2015-03-05",
             "author_name": "DR Staff",
             "categories": "endurocross",
-            "tags": "daytona,endurocross,daytona_beach,beach,ocean,ocean_center,center,kick,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,ama_endurocross_championship,endurocross_championship,championship,rider,daytona_geico,daytona_geico_endurocross,geico_endurocross,geico_endurocross_track,endurocross_track,endurocross_track_revealed,track,track_revealed,revealed,off,friday,night,inside,florida,check,map,here",
+            "tags": "daytona,endurocross,daytona_beach,beach,ocean,ocean_center,center,kick,kick-off,off,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,ama_endurocross_championship,endurocross_championship,championship,rider,daytona_geico,daytona_geico_endurocross,geico_endurocross,geico_endurocross_track,endurocross_track,endurocross_track_revealed,track,track_revealed,revealed,friday,night,inside,florida,check,map,here",
             "recuweb_url": "http://en.recuweb.com/endurocross/dirtrider.com/2015/03/daytona-geico-endurocross-track-revealed-dirt-rider-magazine",
             "resource_url": "http://www.google.com/search?q=endurocross&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://dirtrider.com/features/daytona-geico-endurocross-track-revealed/"
@@ -112,7 +114,7 @@
             "date": "2015-03-05",
             "author_name": "Shari Yee",
             "categories": "endurocross",
-            "tags": "kick,daytona,bike,first,daytona_beach,beach,ocean,ocean_center,center,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,ama_endurocross_championship,endurocross,endurocross_championship,championship,daytona_geico,daytona_geico_endurocross,geico_endurocross,geico_endurocross_track,endurocross_track,endurocross_track_revealed,track,track_revealed,revealed,off,friday,night,inside,florida",
+            "tags": "week,kick,daytona,bike,daytona_beach,beach,ocean,ocean_center,center,kick-off,off,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,ama_endurocross_championship,endurocross,endurocross_championship,championship,daytona_geico,daytona_geico_endurocross,geico_endurocross,geico_endurocross_track,endurocross_track,endurocross_track_revealed,track,track_revealed,revealed,friday,night,inside,florida",
             "recuweb_url": "http://en.recuweb.com/endurocross/endurocross.com/2015/03/daytona-geico-endurocross-track-revealed",
             "resource_url": "http://www.google.com/search?q=endurocross%2Bendurocross&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://endurocross.com/news/daytona-geico-endurocross-track-revealed/"
