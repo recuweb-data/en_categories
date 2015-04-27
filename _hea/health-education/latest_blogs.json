@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "health-education",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/health-education/",
@@ -10,27 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/health-education/health-education/blogs.json"
     },
     "items": {
-        "uppermichiganssource.com/2015/04/up-health-system-hosts-diabetes-education-program-news": {
-            "title": "UP Health System hosts diabetes education program: News...",
-            "snippet": "\"Specifically at Portage Health, we've had diabetes self-management, self-education management program for a number of years,\" said Kelly Aho, clinical education coordinator. \"So patients can come in and see me or one of...",
-            "date": "2015-04-20",
-            "author_name": "Aleah Hordges",
-            "categories": "health,education,management",
-            "tags": "years,diabetes,health,education,self,management,said",
-            "recuweb_url": "http://en.recuweb.com/management/uppermichiganssource.com/2015/04/up-health-system-hosts-diabetes-education-program-news",
+        "huffingtonpost.com/2015/04/the-shocking-truth-about-senate-committee-on-health": {
+            "title": "The Shocking Truth About the Senate Committee on Health...",
+            "snippet": "In the news recently we have been reading about the Senate Committee on Education rewriting the No Child Left Behind Act. I thought it would be interesting to put actual names to this Senate Committee. The following is a list...",
+            "date": "2015-04-21",
+            "author_name": "Rob Furman",
+            "categories": "health,education",
+            "tags": "child,senate,health,education",
+            "recuweb_url": "http://en.recuweb.com/education/huffingtonpost.com/2015/04/the-shocking-truth-about-senate-committee-on-health",
             "resource_url": "http://www.google.com/search?q=health%2Beducation%2Bhealth%2Beducation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://uppermichiganssource.com/news/story.aspx?id=1193821"
-        },
-        "newsworks.org/2015/04/mayoral-candidates-say-education-is-integral-to-solving-city-s-public": {
-            "title": "Mayoral candidates say education is integral to solving city's public...",
-            "snippet": "Philadelphia s mayoral candidates are promising to work with the city s many public health organizations to address issues like health education and access to care Six of the candidates spoke at a.",
-            "date": "2015-04-17",
-            "author_name": "(Katie Hiler)",
-            "categories": "education,health",
-            "tags": "care,city,public,education,health",
-            "recuweb_url": "http://en.recuweb.com/health/newsworks.org/2015/04/mayoral-candidates-say-education-is-integral-to-solving-city-s-public",
-            "resource_url": "http://www.google.com/search?q=health%2Beducation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://newsworks.org/index.php/local/healthscience/80841-mayoral-candidates-say-education-is-integral-to-solving-citys-public-health-issues"
+            "source_url": "http://huffingtonpost.com/rob-furman/the-shocking-truth-about-_6_b_7099718.html"
         },
         "blog.nola.com/2015/04/health-education-classes-offered-in-marrero": {
             "title": "Health education classes offered in Marrero...",
@@ -38,7 +28,7 @@
             "date": "2015-04-16",
             "author_name": "Rosalie Simmons, Marrero Musings columnist",
             "categories": "health,education",
-            "tags": "team,healthy,center,health,education,first,friday,support,good",
+            "tags": "support,provide,healthy,center,health,education,friday",
             "recuweb_url": "http://en.recuweb.com/education/blog.nola.com/2015/04/health-education-classes-offered-in-marrero",
             "resource_url": "http://www.google.com/search?q=health%2Beducation%2Bhealth%2Beducation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.nola.com/westbank/2015/04/health_education_classes_offer.html"
@@ -60,7 +50,7 @@
             "date": "2015-04-16",
             "author_name": "The Microcredit Summit Campaign",
             "categories": "health,health-education,education",
-            "tags": "clients,project,million,health,health_education,education",
+            "tags": "project,aims,institutions,providing,ideas,health,health_education,education",
             "recuweb_url": "http://en.recuweb.com/education/100millionideas.org/2015/04/tbt-microfinance-as-a-platform-for-health-education-100-million-ideas",
             "resource_url": "http://www.google.com/search?q=health%2Beducation%2Bhealth%2Beducation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://100millionideas.org/2015/04/16/tbt-microfinance-as-a-platform-for-health-education/"
@@ -71,10 +61,21 @@
             "date": "2015-04-14",
             "author_name": "chipliv",
             "categories": "happiness,health,education",
-            "tags": "general,health,education,before",
+            "tags": "general,average,areas,health,education",
             "recuweb_url": "http://en.recuweb.com/education/stcroixsource.com/2015/04/cuba-diary-health-education-and-happiness-st-croix-source",
             "resource_url": "http://www.google.com/search?q=health%2Beducation%2Bhealth%2Beducation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://stcroixsource.com/content/news/local-news/2015/04/14/cuba-diary-health-education-and-happiness"
+        },
+        "cbpp.org/2015/04/policy-basics-where-do-our-state-tax-dollars-go-center-on": {
+            "title": "Policy Basics: Where Do Our State Tax Dollars Go? Center on...",
+            "snippet": "By far the largest areas of state spending, on average, are education (both K-12 and higher education) and health care. But states also fund a wide variety of other services, including transportation, corrections, pension and...",
+            "date": "2015-04-14",
+            "author_name": "unknown",
+            "categories": "pension,policy,education,health",
+            "tags": "services,higher,average,areas,state,policy,center,education,health,care",
+            "recuweb_url": "http://en.recuweb.com/health/cbpp.org/2015/04/policy-basics-where-do-our-state-tax-dollars-go-center-on",
+            "resource_url": "http://www.google.com/search?q=health%2Beducation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://cbpp.org/research/policy-basics-where-do-our-state-tax-dollars-go"
         },
         "ppvotesnw.net/2015/04/ak-students-at-risk-of-being-denied-sexual-health-education": {
             "title": "AK: Students at Risk of Being Denied Sexual Health Education...",
@@ -82,21 +83,10 @@
             "date": "2015-04-08",
             "author_name": "Erik",
             "categories": "health,health-education,education,students",
-            "tags": "sexual,sexual_health,health,health_education,education,programs,students",
+            "tags": "health,health_education,education",
             "recuweb_url": "http://en.recuweb.com/students/ppvotesnw.net/2015/04/ak-students-at-risk-of-being-denied-sexual-health-education",
             "resource_url": "http://www.google.com/search?q=health%2Beducation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://ppvotesnw.net/2015/04/08/ak-students-at-risk-of-being-denied-sexual-health-education/"
-        },
-        "seattletimes.com/2015/04/unkept-promises-of-public-health-education-on-marijuana-opinion": {
-            "title": "Unkept promises of public-health education on marijuana Opinion...",
-            "snippet": "However, to date, no marijuana excise-tax revenues have been allocated to the state Health Department. Therefore, these educational efforts haven't begun. In essence, 29 months have passed since voters approved I-502.",
-            "date": "2015-04-03",
-            "author_name": "unknown",
-            "categories": "health,education",
-            "tags": "health,date,public,education",
-            "recuweb_url": "http://en.recuweb.com/education/seattletimes.com/2015/04/unkept-promises-of-public-health-education-on-marijuana-opinion",
-            "resource_url": "http://www.google.com/search?q=health%2Beducation%2Bhealth%2Beducation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://seattletimes.com/html/opinion/2026037032_roffmanopedmarijuana03xml.html"
         },
         "realclearpolitics.com/2015/03/presented-by-healthcare-education-project-senate-s-marathon-vote": {
             "title": "Presented by Healthcare Education Project: Senate's Marathon Vote...",
@@ -104,7 +94,7 @@
             "date": "2015-03-27",
             "author_name": "Carl M. Cannon",
             "categories": "marathon,education",
-            "tags": "years,year,date,healthcare,healthcare_education,healthcare_education_project,education,education_project,project,presented,senate,good,morning,friday,ann",
+            "tags": "south,healthcare,healthcare_education,healthcare_education_project,education,education_project,project,presented,senate,morning,friday",
             "recuweb_url": "http://en.recuweb.com/education/realclearpolitics.com/2015/03/presented-by-healthcare-education-project-senate-s-marathon-vote",
             "resource_url": "http://www.google.com/search?q=health%2Beducation%2Bhealth%2Beducation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://realclearpolitics.com/articles/2015/03/27/presented_by_healthcare_education_project_senates_marathon_vote_session_did_scott_walker_shift_on_immigration_mark_twain_and_criminology_126072.html"
@@ -115,10 +105,21 @@
             "date": "2015-03-26",
             "author_name": "Carl M. Cannon",
             "categories": "economy,education",
-            "tags": "city,day,president,healthcare,healthcare_education,healthcare_education_project,education,education_project,project,presented,good,morning,community",
+            "tags": "today,president,healthcare,healthcare_education,healthcare_education_project,education,education_project,project,presented,morning,day,local,community",
             "recuweb_url": "http://en.recuweb.com/education/realclearpolitics.com/2015/03/presented-by-healthcare-education-project-house-gop-unites-on",
             "resource_url": "http://www.google.com/search?q=health%2Beducation%2Bhealth%2Beducation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://realclearpolitics.com/articles/2015/03/26/presented_by_healthcare_education_project_house_gop_unites_on_budget_bergdahl_fairy_tale_comes_undone_the_rise_of_conde_nast.html"
+        },
+        "theguardian.com/2015/03/why-is-personal-social-and-health-education-not-compulsory-in": {
+            "title": "Why is personal, social and health education not compulsory in...",
+            "snippet": "Why is personal, social and health education not compulsory in schools? Estelle Morris. For children to learn to make wise choices in life, PSHE needs good teachers, status in the curriculum, and recognition of the complexity...",
+            "date": "2015-03-24",
+            "author_name": "Estelle Morris",
+            "categories": "life,school,health,education",
+            "tags": "social,health,education",
+            "recuweb_url": "http://en.recuweb.com/education/theguardian.com/2015/03/why-is-personal-social-and-health-education-not-compulsory-in",
+            "resource_url": "http://www.google.com/search?q=health%2Beducation%2Bhealth%2Beducation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theguardian.com/education/2015/mar/24/personal-social-health-education-compulsory-schools-estelle-morris"
         }
     }
 }
