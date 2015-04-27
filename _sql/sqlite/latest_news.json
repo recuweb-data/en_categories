@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sqlite",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/sqlite/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/sqlite/sqlite/blogs.json"
     },
     "items": {
-        "en.kioskea.net/2015/03/graphical-interfaces-for-sqlite": {
-            "title": "Graphical interfaces for SQLite...",
-            "snippet": "SQLite is a powerful database management engine found in a relatively small C programming library; it requires no monitoring and can be used with most programming languages (C, C, Java, Python). Unlike SQL (client server database system), the...",
-            "date": "2015-03-27",
-            "categories": "languages,management,sqlite,database,java",
-            "tags": "library,sqlite,database,sql",
-            "recuweb_url": "http://en.recuweb.com/java/en.kioskea.net/2015/03/graphical-interfaces-for-sqlite",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite%2Bsqlite&format=RSS&cc=us",
-            "source_url": "http://en.kioskea.net/faq/629-graphical-interfaces-for-sqlite"
-        },
-        "arcticstartup.com/2015/03/realm-raises-18-m-series-b-to-bring-databases-mobile-arcticstartup": {
-            "title": "Realm Raises 18 M series B to bring databases to Mobile - ArcticStartup...",
-            "snippet": "Realm Raises 18 M series B to bring databases to MobileArcticStartupIt uses a brand-new storage architecture, not SQLite, and an easier API designed for needs of modern mobile apps and smartphones. It is already used by tens of thousands of app...",
-            "date": "2015-03-25",
-            "categories": "sqlite",
-            "tags": "mobile,apps,storage,databases,realm,sqlite",
-            "recuweb_url": "http://en.recuweb.com/sqlite/arcticstartup.com/2015/03/realm-raises-18-m-series-b-to-bring-databases-mobile-arcticstartup",
-            "resource_url": "http://news.google.com/?hl=en&q=sqlite&output=atom&nord=1",
-            "source_url": "http://arcticstartup.com/2015/03/25/realm-raises-e18-m-series-b-to-bring-databases-to-mobile"
-        },
-        "businessinsider.com/2015/03/a-startup-launched-9-months-ago-by-these-former-nokia-engineers": {
-            "title": "A startup launched 9 months ago by these former Nokia engineers is going... - Business Insider...",
-            "snippet": "Business InsiderA startup launched 9 months ago by these former Nokia engineers is going...Business InsiderRealm wants to take down SQLite, which is the mobile database recommended by Apple for iOS and Google for Android. SQLite is a rare form of...",
-            "date": "2015-03-24",
-            "categories": "business,sqlite,database,google",
-            "tags": "mobile,sqlite,database,apple,ios,android",
-            "recuweb_url": "http://en.recuweb.com/google/businessinsider.com/2015/03/a-startup-launched-9-months-ago-by-these-former-nokia-engineers",
-            "resource_url": "http://news.google.com/?hl=en&q=sqlite&output=atom&nord=1",
-            "source_url": "http://businessinsider.com/realm-started-by-former-nokia-engineers-is-going-bonkers-2015-3"
-        },
-        "forbes.com/2015/03/realm-picks-up-20m-to-further-its-mobile-ambitions": {
-            "title": "Realm Picks Up 20M To Further Its Mobile Ambitions...",
-            "snippet": "Realm claims customer wins with Groupon, Intuit, and Zynga. Of course Realm has competitors in particular SQLite, a database that has a long history and is now adapted for mobile obviously Realm claims its solution is better, being specifically...",
-            "date": "2015-03-24",
-            "categories": "sqlite,database",
-            "tags": "mobile,realm,sqlite,database",
-            "recuweb_url": "http://en.recuweb.com/database/forbes.com/2015/03/realm-picks-up-20m-to-further-its-mobile-ambitions",
+        "virtual-strategy.com/2015/04/devart-introduces-new-dbexpress-drivers-with-support-for-rad-studio-xe8": {
+            "title": "Devart Introduces New dbExpress Drivers with Support for RAD Studio XE8...",
+            "snippet": "The list of supported databases includes Oracle Database, SQL Server, MySQL, InterBase/Firebird, PostgreSQL and SQLite. Discover more about dbExpress Drivers at the product pages: Discover more about dbExpress Drivers at About...",
+            "date": "2015-04-23",
+            "categories": "database,mysql,sqlite",
+            "tags": "product,sql,sql_server,server,oracle,database,databases,rad,rad_studio,studio,dbexpress,dbexpress_drivers,drivers,devart,devart_introduces,devart_introduces_new,introduces,introduces_new,support,mysql,interbase,firebird,gresql,sqlite",
+            "recuweb_url": "http://en.recuweb.com/sqlite/virtual-strategy.com/2015/04/devart-introduces-new-dbexpress-drivers-with-support-for-rad-studio-xe8",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=us",
-            "source_url": "http://forbes.com/sites/benkepes/2015/03/24/realm-picks-up-20m-to-further-its-mobile-ambitions/"
+            "source_url": "http://virtual-strategy.com/2015/04/23/devart-introduces-new-dbexpress-drivers-support-rad-studio-xe8"
         },
-        "techfrag.com/2015/03/what-you-are-watching-privately-on-safari-is-not-as-private": {
-            "title": "What You Are Watching Privately On Safari, Is 'NOT'As Private As You Think - TechFrag...",
-            "snippet": "TechFragWhat You Are Watching Privately On Safari, Is 'NOT'As Private As You ThinkTechFragThe SQLite database can be opened using typical SQLite readers. Only if you have secured your MAC with FineVault, you can stop anyone from knowing which sites...",
-            "date": "2015-03-21",
-            "categories": "sqlite,database",
-            "tags": "using,private,sqlite,safari,database,mac",
-            "recuweb_url": "http://en.recuweb.com/database/techfrag.com/2015/03/what-you-are-watching-privately-on-safari-is-not-as-private",
-            "resource_url": "http://news.google.com/?hl=en&q=sqlite&output=atom&nord=1",
-            "source_url": "http://techfrag.com/2015/03/21/watching-privately-on-safari-is-not-as-private-as-you-think/"
-        },
-        "theregister.co.uk/2015/03/apple-safari-update-borked-private-browsing-the-register": {
-            "title": "Apple Safari update BORKED private browsing - The Register...",
-            "snippet": "The RegisterApple Safari update BORKED private browsingThe RegisterAs described by Macissues, users of recent Safari versions on the newest flavours of OSX are finding that so-called private URLs are turning up in the SQLite database that stores...",
-            "date": "2015-03-19",
-            "categories": "sqlite,database",
-            "tags": "private,safari,browsing,apple,urls,sqlite,database",
-            "recuweb_url": "http://en.recuweb.com/database/theregister.co.uk/2015/03/apple-safari-update-borked-private-browsing-the-register",
+        "military-technologies.net/2015/04/devart-introduces-new-dbexpress-drivers-with-support-for-rad-studio-xe8": {
+            "title": "Devart Introduces New dbExpress Drivers with Support for RAD Studio XE8 - Military Technologies...",
+            "snippet": "Devart Introduces New dbExpress Drivers with Support for RAD Studio XE8Military TechnologiesCompany's solutions support such databases as Microsoft SQL Server, Oracle, MySQL, PostgreSQL, InterBase, Firebird, SQLite, etc. Along with database oriented...",
+            "date": "2015-04-23",
+            "categories": "mysql,sqlite,database",
+            "tags": "sql,sql_server,server,support,databases,technologies,rad,rad_studio,studio,dbexpress,dbexpress_drivers,drivers,devart,devart_introduces,devart_introduces_new,introduces,introduces_new,oracle,mysql,gresql,interbase,firebird,sqlite,database",
+            "recuweb_url": "http://en.recuweb.com/database/military-technologies.net/2015/04/devart-introduces-new-dbexpress-drivers-with-support-for-rad-studio-xe8",
             "resource_url": "http://news.google.com/?hl=en&q=sqlite%2Bsqlite&output=atom&nord=1",
-            "source_url": "http://theregister.co.uk/2015/03/18/apple_safari_update_borked_private_browsing/"
+            "source_url": "http://military-technologies.net/2015/04/23/devart-introduces-new-dbexpress-drivers-with-support-for-rad-studio-xe8-3/"
         },
-        "fastcompany.com/2015/03/safari-private-browsing-history-is-not-forgotten-after-all-fast-company": {
-            "title": "Safari Private Browsing History Is Not Forgotten After All - Fast Company...",
-            "snippet": "Fast CompanySafari Private Browsing History Is Not Forgotten After AllFast CompanyTo find (and delete) your private browsing history, you need to access a database file and view it with a SQLite browser, as Lifehacker recommends. Other than being...",
-            "date": "2015-03-19",
-            "categories": "database,sqlite",
-            "tags": "file,private,private_browsing,browsing,fast,safari,find,access,database,sqlite,browser",
-            "recuweb_url": "http://en.recuweb.com/sqlite/fastcompany.com/2015/03/safari-private-browsing-history-is-not-forgotten-after-all-fast-company",
-            "resource_url": "http://news.google.com/?hl=en&q=sqlite&output=atom&nord=1",
-            "source_url": "http://fastcompany.com/3044018/fast-feed/safari-private-browsing-history-is-not-forgotten-after-all"
+        "crazyengineers.com/2015/04/sqlite-vs-mysql-better-rdbms-for-desktop-application": {
+            "title": "SQLite Vs MySQL:Better RDBMS for desktop application?",
+            "snippet": "So I am creating a Java SQL desktop is a better RDBMS?SQLite or MySQL? I Googled it and in one site it says that SQLite is an embedded RDBMS and better for desktop in several others it says that MySQL is most popular and...",
+            "date": "2015-04-23",
+            "categories": "java,sqlite,mysql",
+            "tags": "better,site,sql,creating,application,sqlite,mysql",
+            "recuweb_url": "http://en.recuweb.com/mysql/crazyengineers.com/2015/04/sqlite-vs-mysql-better-rdbms-for-desktop-application",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=us",
+            "source_url": "http://crazyengineers.com/threads/sqlite-vs-mysql-better-rdbms-for-desktop-application.80217/"
         },
-        "forensicmag.com/2015/03/forensic-analysis-of-sqlite-databases-free-lists-write-ahead-log-unallocated": {
-            "title": "Forensic Analysis of SQLite Databases: Free Lists, Write Ahead Log, Unallocated Space and Carving...",
-            "snippet": "SQLite is a popular database format that is used extensively. Both iOS and Android employ SQLite as a storage format of choice, with built-in and third-party applications relying on SQLite to keep their data. A wide range of desktop and mobile Web...",
-            "date": "2015-03-17",
+        "thehostingnews.com/2015/04/devart-releases-data-access-components-for-delphi-with-support-rad-xe8": {
+            "title": "Devart Releases Data Access Components for Delphi with Support for RAD XE8 - (press release) (blog)...",
+            "snippet": "Devart Releases Data Access Components for Delphi with Support for RAD (press release) (blog)(The Hosting News) Devart updates DAC product line, which includes Delphi components for SQL Server, MySQL, Oracle, PostgreSQL, SQLite, Interbase/Firebird,...",
+            "date": "2015-04-16",
+            "categories": "mysql,sqlite",
+            "tags": "sql,sql_server,server,components,product,product-line,line,press,release,devart,devart_releases,devart_releases_data,releases,releases_data,releases_data_access,data,data_access,data_access_components,access,access_components,delphi,support,rad,updates,dac,mysql,oracle,gresql,sqlite,interbase,firebird",
+            "recuweb_url": "http://en.recuweb.com/sqlite/thehostingnews.com/2015/04/devart-releases-data-access-components-for-delphi-with-support-rad-xe8",
+            "resource_url": "http://news.google.com/?hl=en&q=sqlite%2Bsqlite&output=atom&nord=1",
+            "source_url": "http://thehostingnews.com/devart-releases-data-access-components-for-delphi-with-support-for-rad-xe8.html"
+        },
+        "pressbox.co.uk/2015/04/devart-releases-data-access-components-for-delphi-with-support-rad-xe8": {
+            "title": "Devart Releases Data Access Components for Delphi with Support for RAD XE8...",
+            "snippet": "Pressbox (Press Release) - Devart updates DAC product line, which includes Delphi components for SQL Server, MySQL, Oracle, PostgreSQL, SQLite, Interbase/Firebird, and all-in-one solution UniDAC. New versions include support for new Embarcadero RAD...",
+            "date": "2015-04-15",
+            "categories": "mysql,sqlite",
+            "tags": "rad,support,sql,sql_server,server,components,product,product-line,line,press,release,devart,devart_releases,devart_releases_data,releases,releases_data,releases_data_access,data,data_access,data_access_components,access,access_components,delphi,updates,dac,mysql,oracle,gresql,sqlite,interbase,firebird",
+            "recuweb_url": "http://en.recuweb.com/sqlite/pressbox.co.uk/2015/04/devart-releases-data-access-components-for-delphi-with-support-rad-xe8",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=us",
+            "source_url": "http://pressbox.co.uk/Computing/Devart_Releases_Data_Access_Components_for_Delphi_with_Support_for_RAD_XE8_1580673.html"
+        },
+        "itjungle.com/2015/04/going-off-the-grid-with-ibm-i-mobile-apps-it-jungle": {
+            "title": "Going Off the Grid with IBM i Mobile Apps - IT Jungle...",
+            "snippet": "IT JungleGoing Off the Grid with IBM i Mobile AppsIT JungleCM First built the open source SQLite database directly into the client application, and added the necessary data synchronization processes to allow the apps to automatically update with the...",
+            "date": "2015-04-15",
             "categories": "sqlite,database",
-            "tags": "mobile,data,storage,sqlite,databases,free,database,ios,android",
-            "recuweb_url": "http://en.recuweb.com/database/forensicmag.com/2015/03/forensic-analysis-of-sqlite-databases-free-lists-write-ahead-log-unallocated",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=us",
-            "source_url": "http://forensicmag.com/articles/2015/03/forensic-analysis-sqlite-databases-free-lists-write-ahead-log-unallocated-space-and-carving"
+            "tags": "data,application,source,mobile,sqlite,database",
+            "recuweb_url": "http://en.recuweb.com/database/itjungle.com/2015/04/going-off-the-grid-with-ibm-i-mobile-apps-it-jungle",
+            "resource_url": "http://news.google.com/?hl=en&q=sqlite%2Bsqlite&output=atom&nord=1",
+            "source_url": "http://itjungle.com/tfh/tfh041515-story05.html"
         },
-        "lifehacker.com/2015/03/safari-s-private-browsing-mode-saves-urls-in-an-easily-accessible": {
-            "title": "Safari's Private Browsing Mode Saves URLs In an Easily Accessible File...",
-            "snippet": "Safari saves all the favicon images and URLs you visit in the/Library/Safari/file. You can open that file with any SQLite browser. Once you do, you'll find a full list of all the URLs you've ever visited in Safari, private mode or...",
-            "date": "2015-03-17",
+        "mactech.com/2015/04/mactech-benchmarks-outlook-email-account-types-server-impact": {
+            "title": "MacTech Benchmarks: Outlook, Email Account Types, Server Impact...",
+            "snippet": "One of the biggest benefits to the new underlying technologies for Outlook 2016 is that its using a modern SQLite database. There were some surprises, however. For all the details check out the complete report on the MacTech Labs web site, http...",
+            "date": "2015-04-14",
+            "categories": "sqlite,database",
+            "tags": "site,using,technologies,server,outlook,sqlite,database",
+            "recuweb_url": "http://en.recuweb.com/database/mactech.com/2015/04/mactech-benchmarks-outlook-email-account-types-server-impact",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=us",
+            "source_url": "http://mactech.com/2015/04/13/mactech-benchmarks-outlook-email-account-types-server-impact"
+        },
+        "computerworld.com/2015/04/review-office-2016-for-mac-offers-a-new-interface-and-better": {
+            "title": "Review: Office 2016 for Mac offers a new interface and better features - Computerworld...",
+            "snippet": "ComputerworldReview: Office 2016 for Mac offers a new interface and better featuresComputerworldMicrosoft says that's because it's switched from its previous proprietary database to SQLite. The company also says this makes Outlook's database not...",
+            "date": "2015-04-01",
+            "categories": "database,sqlite",
+            "tags": "makes,better,features,mac,database,sqlite,outlook",
+            "recuweb_url": "http://en.recuweb.com/sqlite/computerworld.com/2015/04/review-office-2016-for-mac-offers-a-new-interface-and-better",
+            "resource_url": "http://news.google.com/?hl=en&q=sqlite%2Bsqlite&output=atom&nord=1",
+            "source_url": "http://computerworld.com/article/2904266/review-office-2016-for-mac-offers-a-new-interface-and-better-features.html"
+        },
+        "visualstudiomagazine.com/2014/12/11-visual-studio-tools-to-simplify-data-access-magazine": {
+            "title": "11 Visual Studio Tools to Simplify Data Access - Visual Studio Magazine...",
+            "snippet": "11 Visual Studio Tools to Simplify Data AccessVisual Studio MagazineThe SQL Server Compact/SQLite Toolbox extension shown in Figure 1 provides a huge palette of features that makes light work of moving data between data sources, managing data...",
+            "date": "2014-12-05",
             "categories": "sqlite",
-            "tags": "private,find,file,private_browsing,browsing,urls,safari,library,sqlite,browser",
-            "recuweb_url": "http://en.recuweb.com/sqlite/lifehacker.com/2015/03/safari-s-private-browsing-mode-saves-urls-in-an-easily-accessible",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=us",
-            "source_url": "http://lifehacker.com/safaris-private-browsing-mode-saves-urls-in-an-easily-a-1691944343?amp;amp"
+            "tags": "data,features,makes,work,sqlite,studio,sql,sql_server,server,data_access,access",
+            "recuweb_url": "http://en.recuweb.com/sqlite/visualstudiomagazine.com/2014/12/11-visual-studio-tools-to-simplify-data-access-magazine",
+            "resource_url": "http://news.google.com/?hl=en&q=sqlite&output=atom&nord=1",
+            "source_url": "http://visualstudiomagazine.com/articles/2014/11/01/simplify-data-access.aspx"
         },
-        "networkworld.com/2015/03/seven-killer-linux-apps-that-will-change-how-you-work": {
-            "title": "Seven killer Linux apps that will change how you work...",
-            "snippet": "Available as part of the Calligra office suite, Kexi is a visual database creator and user interface. Bundled with SQLite and compatible with MySQL and PostgreSQL databases (for both import and export), Kexi is fast and stable. A tool for migrating...",
-            "date": "2015-03-17",
-            "categories": "database,sqlite,mysql",
-            "tags": "fast,import,export,creator,part,apps,work,linux,database,sqlite,mysql,databases",
-            "recuweb_url": "http://en.recuweb.com/mysql/networkworld.com/2015/03/seven-killer-linux-apps-that-will-change-how-you-work",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=us",
-            "source_url": "http://networkworld.com/article/2898174/linux/seven-killer-linux-apps-that-will-change-how-you-work.html"
+        "infoq.com/2014/10/realm-brings-sqlite-alternative-to-android": {
+            "title": "Realm Brings SQLite Alternative to Android -...",
+            "snippet": "Realm Brings SQLite Alternative to you have currently have an app that uses CoreData (on iOS) or SQLite (on Android) and want to migrate to Realm, there is definitely some work involved. It is not a drop-in change - Tim explains that CoreData and...",
+            "date": "2014-10-24",
+            "categories": "sqlite",
+            "tags": "work,sqlite,android",
+            "recuweb_url": "http://en.recuweb.com/sqlite/infoq.com/2014/10/realm-brings-sqlite-alternative-to-android",
+            "resource_url": "http://news.google.com/?hl=en&q=sqlite%2Bsqlite&output=atom&nord=1",
+            "source_url": "http://infoq.com/news/2014/10/Realm-android"
         }
     }
 }
