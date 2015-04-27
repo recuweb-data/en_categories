@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "outdoor-recreation",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/outdoor-recreation/",
@@ -10,62 +11,92 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/outdoor-recreation/outdoor-recreation/blogs.json"
     },
     "items": {
-        "bostonglobe.com/2015/04/new-on-the-presidential-campaign-menu-politics-and-pie": {
-            "title": "New on the presidential campaign menu: Politics and Pie...",
-            "snippet": "Known as the Snowshoe Club, it was built in 1892 by a small group of men who got together on the weekends for outdoor recreation. According to an official city history written at the end of the 19th century, the club was known for its Saturday...",
+        "monroenews.com/2015/04/cooking-beekeeping-among-activities-for-satuday-s-annual-earth-day-expo": {
+            "title": "Cooking, beekeeping among activities for Satuday's annual Earth Day Expo...",
+            "snippet": "outdoor recreation, sustainability and personal health and wellness. Lake Erie Transit will provide a hybrid bus for tours. A special exhibit titled Whats the Buzz? will showcase bee hive sculptures built by students at local schools using...",
             "date": "2015-04-24",
-            "categories": "politics,recreation",
-            "tags": "end,city,small,outdoor,recreation,according",
-            "recuweb_url": "http://en.recuweb.com/recreation/bostonglobe.com/2015/04/new-on-the-presidential-campaign-menu-politics-and-pie",
+            "categories": "students,school,sustainability,health,earth,cooking,recreation",
+            "tags": "local,special,provide,health,activities,outdoor,recreation",
+            "recuweb_url": "http://en.recuweb.com/recreation/monroenews.com/2015/04/cooking-beekeeping-among-activities-for-satuday-s-annual-earth-day-expo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=outdoor%2Brecreation&format=RSS&cc=us",
-            "source_url": "http://bostonglobe.com/metro/2015/04/23/new-presidential-campaign-menu-politics-and-pie/YjzL1Mal9UviYRsjM69hBP/story.html"
+            "source_url": "http://monroenews.com/news/2015/apr/24/cooking-beekeeping-among-activities-satudays-annua/?news"
         },
-        "thesheridanpress.com/2015/04/column-what-are-your-outdoor-recreation-goals": {
-            "title": "Column: What are your outdoor recreation goals?",
-            "snippet": "One of the most rewarding things about living in Sheridan is being able to contribute to the community that helped raise and shape me. For the past 11 years, I have had the great honor of serving on the Big Horn Education Fund Board of Directors, a...",
-            "date": "2015-04-23",
-            "categories": "education,honor,recreation",
-            "tags": "big,education,board,community,outdoor,recreation",
-            "recuweb_url": "http://en.recuweb.com/recreation/thesheridanpress.com/2015/04/column-what-are-your-outdoor-recreation-goals",
+        "hcpress.com/2015/04/health-economic-and-recreation-leaders-talk-shop-at-thursdays-high-country": {
+            "title": "Health, Economic and Recreation Leaders Talk Shop at Thursdays High Country Recreation Summit...",
+            "snippet": "The High Country is known for its world-class outdoor-adventure opportunities, and being five year since the previous Outdoor Recreation Summit, it was time to step back and reevaluate where things on that front stand today. So on Thursday...",
+            "date": "2015-04-24",
+            "categories": "adventure,recreation,health",
+            "tags": "outdoor,adventure,recreation,health",
+            "recuweb_url": "http://en.recuweb.com/health/hcpress.com/2015/04/health-economic-and-recreation-leaders-talk-shop-at-thursdays-high-country",
             "resource_url": "http://www.bing.com/news/search?first=1&q=outdoor%2Brecreation&format=RSS&cc=us",
+            "source_url": "http://hcpress.com/news/health-economic-and-recreation-leaders-talk-shop-at-thursdays-high-country-recreation-summit.html"
+        },
+        "turnto23.com/2015/04/mesa-verde-facility-officially-opens-in-central-bakersfield": {
+            "title": "Mesa Verde facility officially opens in Central Bakersfield...",
+            "snippet": "The 33,500 square-foot facility offers options for both contact and noncontact visits, two outdoor recreation areas covered with artificial turf, a computer lab, a library for legal research and recreational reading. Soon, the facility will begin...",
+            "date": "2015-04-24",
+            "categories": "recreation",
+            "tags": "recreational,central,outdoor,recreation",
+            "recuweb_url": "http://en.recuweb.com/recreation/turnto23.com/2015/04/mesa-verde-facility-officially-opens-in-central-bakersfield",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=outdoor%2Brecreation&format=RSS&cc=us",
+            "source_url": "http://turnto23.com/news/local-news/mesa-verde-facility-officially-opens-in-central-bakersfield-042315"
+        },
+        "clevelandbanner.com/2015/04/special-olympics-cant-get-a-break": {
+            "title": "Special Olympics cant get a break...",
+            "snippet": "Sometimes even the most endearing causes, and the most special of people, must bow to the wishes of Mother Nature, a lady who holds the fortune of outdoor recreation in the palm of her nurturing hand. In keeping with commitments to participant...",
+            "date": "2015-04-24",
+            "categories": "nature,recreation",
+            "tags": "palm,nature,special,outdoor,recreation",
+            "recuweb_url": "http://en.recuweb.com/recreation/clevelandbanner.com/2015/04/special-olympics-cant-get-a-break",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=outdoor%2Brecreation&format=RSS&cc=us",
+            "source_url": "http://clevelandbanner.com/stories/special-olympics-cant-get-a-break,7563"
+        },
+        "bclocalnews.com/2015/04/stave-west-master-plan-looks-to-tame-mission-s-wild": {
+            "title": "Stave West master plan looks to tame Mission's 'Wild West'...",
+            "snippet": "All three stakeholders have a vision for the area that would see it transformed from its current under-regulated and often abused state into a family-friendly destination for outdoor recreation and tourism development. Mission council adopted the...",
+            "date": "2015-04-24",
+            "categories": "tourism,recreation",
+            "tags": "tourism,state,vision,outdoor,recreation",
+            "recuweb_url": "http://en.recuweb.com/recreation/bclocalnews.com/2015/04/stave-west-master-plan-looks-to-tame-mission-s-wild",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=outdoor%2Brecreation&format=RSS&cc=us",
+            "source_url": "http://bclocalnews.com/news/301127111.html"
+        },
+        "thesheridanpress.com/2015/04/column-what-are-your-outdoor-recreation-goals-the-sheridan-press-subscription": {
+            "title": "Column: What are your outdoor recreation goals? - The Sheridan Press (subscription)...",
+            "snippet": "Column: What are your outdoor recreation goals?The Sheridan Press (subscription)Recreational outdoor adventure enthusiasts are often pigeonholed as fly by the seat of our pants last minute planners who lack long-term vision and organizational...",
+            "date": "2015-04-23",
+            "categories": "adventure,recreation",
+            "tags": "vision,adventure,outdoor,recreation,recreational",
+            "recuweb_url": "http://en.recuweb.com/recreation/thesheridanpress.com/2015/04/column-what-are-your-outdoor-recreation-goals-the-sheridan-press-subscription",
+            "resource_url": "http://news.google.com/?hl=en&q=outdoor%2Brecreation&output=atom&nord=1",
             "source_url": "http://thesheridanpress.com/?p=34375"
         },
-        "thedigitalcourier.com/2015/04/mulliger-connecting-the-county-one-trail-at-a-time": {
-            "title": "MULLIGER: Connecting the county, one trail at a time...",
-            "snippet": "It is exciting because there is no doubt that access to outdoor recreation and the health of a community go hand in hand. The county's most well-known trail, the Thermal Belt Rail Trail, continues to provide residents and visitors alike an...",
+        "wfmynews2.com/2015/04/tourism-to-guilford-military-park-has-10m-impact": {
+            "title": "Tourism To Guilford Military Park Has 10M Impact...",
+            "snippet": "To learn more about national parks in North Carolina and how the National Park Service works with North Carolina communities to help preserve local history, conserve the environment, and provide outdoor recreation, go to Get the WFMY News 2...",
             "date": "2015-04-23",
-            "categories": "health,recreation",
-            "tags": "well,health,community,access,outdoor,recreation",
-            "recuweb_url": "http://en.recuweb.com/recreation/thedigitalcourier.com/2015/04/mulliger-connecting-the-county-one-trail-at-a-time",
+            "categories": "environment,tourism,recreation",
+            "tags": "provide,conserve,local,national,north,learn,tourism,outdoor,recreation",
+            "recuweb_url": "http://en.recuweb.com/recreation/wfmynews2.com/2015/04/tourism-to-guilford-military-park-has-10m-impact",
             "resource_url": "http://www.bing.com/news/search?first=1&q=outdoor%2Brecreation&format=RSS&cc=us",
-            "source_url": "http://thedigitalcourier.com/opinion/x926854873/MULLIGER-Connecting-the-county-one-trail-at-a-time"
+            "source_url": "http://wfmynews2.com/story/news/local/2015/04/23/tourism-guilford-national-military-park/26261465/"
         },
-        "newsplex.com/2015/04/virginia-treasures-initiative-to-expand-outdoor-recreation-access": {
-            "title": "Virginia Treasures Initiative to Expand Outdoor Recreation Access...",
-            "snippet": "CHESTERFIELD, Va. (AP) -- Gov. Terry McAuliffe's administration plans to identify and conserve at least 1,000 properties across Virginia by the end of the governor's term. McAuliffe announced the Virginia Treasures initiative on Wednesday during a...",
+        "newsplex.com/2015/04/virginia-treasures-initiative-to-expand-outdoor-recreation-access-the-charlottesville-newsplex": {
+            "title": "Virginia Treasures Initiative to Expand Outdoor Recreation Access - The Charlottesville Newsplex...",
+            "snippet": "The Charlottesville NewsplexVirginia Treasures Initiative to Expand Outdoor Recreation AccessThe Charlottesville NewsplexMcAuliffe says the goal is conserve land and expand access to public outdoor recreation. The Virginia Department of Conservation...",
             "date": "2015-04-23",
             "categories": "outdoor-recreation,recreation",
-            "tags": "end,outdoor,outdoor_recreation,recreation,access",
-            "recuweb_url": "http://en.recuweb.com/recreation/newsplex.com/2015/04/virginia-treasures-initiative-to-expand-outdoor-recreation-access",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=outdoor%2Brecreation&format=RSS&cc=us",
+            "tags": "conserve,outdoor,outdoor_recreation,recreation",
+            "recuweb_url": "http://en.recuweb.com/recreation/newsplex.com/2015/04/virginia-treasures-initiative-to-expand-outdoor-recreation-access-the-charlottesville-newsplex",
+            "resource_url": "http://news.google.com/?hl=en&q=outdoor%2Brecreation&output=atom&nord=1",
             "source_url": "http://newsplex.com/home/headlines/Virginia-Treasures-Initiative-to-Expand-Outdoor-Recreation-Access-301072491.html"
-        },
-        "thv11.com/2015/04/zoo-breaks-ground-on-new-arkansas-heritage-farm-exhibit": {
-            "title": "Zoo breaks ground on new Arkansas Heritage Farm exhibit...",
-            "snippet": "The exhibit is funded by the City of Little Rock One Cent Capital Sales Tax passed in 2011, a grant from the Arkansas Department of Parks and Tourism Outdoor Recreation Grants Program, General Improvement Funds provided by the 90th General Assembly...",
-            "date": "2015-04-23",
-            "categories": "tourism,outdoor-recreation,recreation",
-            "tags": "outdoor,outdoor_recreation,recreation,department,capital,city,parks",
-            "recuweb_url": "http://en.recuweb.com/recreation/thv11.com/2015/04/zoo-breaks-ground-on-new-arkansas-heritage-farm-exhibit",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=outdoor%2Brecreation&format=RSS&cc=us",
-            "source_url": "http://thv11.com/story/news/2015/04/23/zoo-breaks-ground-on-new-arkansas-heritage-farm-exhibit/26235601/"
         },
         "ravallirepublic.com/2015/04/outdoor-recreation-big-piece-of-state-economy": {
             "title": "Outdoor recreation big piece of state economy...",
             "snippet": "Outdoor recreation contributes to 5.8 billion in consumer spending, 64,000 Montana jobs, 1.5 billion in wages and 403 million in state and local revenue, according to a recent report from the Small Business Majority, a national advocacy...",
             "date": "2015-04-22",
             "categories": "business,economy,recreation",
-            "tags": "national,small,according,million,billion,big,economy,outdoor,recreation",
+            "tags": "national,state,local,outdoor,recreation",
             "recuweb_url": "http://en.recuweb.com/recreation/ravallirepublic.com/2015/04/outdoor-recreation-big-piece-of-state-economy",
             "resource_url": "http://www.bing.com/news/search?first=1&q=outdoor%2Brecreation&format=RSS&cc=us",
             "source_url": "http://ravallirepublic.com/business/local/article_36b3fd7c-e949-11e4-af52-e383348b565a.html"
@@ -75,40 +106,10 @@
             "snippet": "Its been well-established that outdoor activities are beneficial to our overall physical, emotional and mental health. Outdoor recreation engenders close relationships, as participants instinctively learn how to share duties and work...",
             "date": "2015-04-22",
             "categories": "relationships,mental-health,health,recreation",
-            "tags": "work,health,well,outdoor,recreation",
+            "tags": "learn,work,health,activities,north,outdoor,recreation",
             "recuweb_url": "http://en.recuweb.com/recreation/denpubs.com/2015/04/outdoor-recreation-notes-from-the-north-woods",
             "resource_url": "http://www.bing.com/news/search?first=1&q=outdoor%2Brecreation&format=RSS&cc=us",
             "source_url": "http://denpubs.com/news/2015/apr/22/outdoor-recreation-notes-north-woods/"
-        },
-        "gympietimes.com.au/2015/04/gympie-to-host-outdoor-recreation-forum": {
-            "title": "Gympie to host outdoor recreation forum...",
-            "snippet": "A FORUM to be held near Gympie tomorrow night aims to unlock the potential for outdoor recreation opportunities in the Gympie region. Hosted by the Queensland Outdoor Recreation Federation, at the Boulder Creek Holiday Centre at Mothar Mountain, the...",
-            "date": "2015-04-21",
-            "categories": "outdoor-recreation,recreation",
-            "tags": "mountain,outdoor,outdoor_recreation,recreation",
-            "recuweb_url": "http://en.recuweb.com/recreation/gympietimes.com.au/2015/04/gympie-to-host-outdoor-recreation-forum",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=outdoor%2Brecreation&format=RSS&cc=us",
-            "source_url": "http://gympietimes.com.au/news/gympie-hosts-outdoor-recreation-forum/2614152/"
-        },
-        "insidetucsonbusiness.com/2015/04/outdoor-recreation-worth-646-billion-a-year-to-economy-experts-say": {
-            "title": "Outdoor recreation worth 646 billion a year to economy, experts say...",
-            "snippet": "Consumers spend 646 billion annually on outdoor recreation, said advocates, who called on the government Thursday to do a better job tracking the worth of what they called an undervalued industry. Speakers at the Center for American Progress event...",
-            "date": "2015-04-20",
-            "categories": "economy,recreation",
-            "tags": "american,american_progress,progress,said,billion,economy,outdoor,recreation,center",
-            "recuweb_url": "http://en.recuweb.com/recreation/insidetucsonbusiness.com/2015/04/outdoor-recreation-worth-646-billion-a-year-to-economy-experts-say",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=outdoor%2Brecreation&format=RSS&cc=us",
-            "source_url": "http://insidetucsonbusiness.com/news/outdoor-recreation-worth-billion-a-year-to-economy-experts-say/article_b5dc4204-e790-11e4-a3dd-f744d041cc21.html"
-        },
-        "sustainablecitiescollective.com/2015/04/the-growing-outdoor-recreation-economy": {
-            "title": "The Growing Outdoor Recreation Economy...",
-            "snippet": "At the Center for American Progress in Washington, D.C., U.S. Interior department Secretary Sally Jewell said national parks had their highest visitation rates ever in 2014, with more than 400 million visits, and those numbers are expected to only...",
-            "date": "2015-04-20",
-            "categories": "outdoor-recreation,recreation,economy",
-            "tags": "million,said,national,parks,american,american_progress,progress,outdoor,outdoor_recreation,recreation,economy,center,department",
-            "recuweb_url": "http://en.recuweb.com/economy/sustainablecitiescollective.com/2015/04/the-growing-outdoor-recreation-economy",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=outdoor%2Brecreation&format=RSS&cc=us",
-            "source_url": "http://sustainablecitiescollective.com/dirt/1066136/growing-outdoor-recreation-economy"
         }
     }
 }
