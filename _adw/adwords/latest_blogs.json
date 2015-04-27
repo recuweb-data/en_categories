@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "adwords",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/adwords/",
@@ -10,16 +11,104 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/adwords/adwords/blogs.json"
     },
     "items": {
+        "shekharsworld.wordpress.com/2015/04/new-in-seoprofiler-the-all-adwords-profiler-analyze-competitor-campaigns": {
+            "title": "New in SEOprofiler: the all-new AdWords Profiler (analyze competitor campaigns)...",
+            "snippet": "Saturday, 25 April 2015 The new AdWords Profiler tool in SEOprofiler enables you to spy on the Google AdWords campaigns of your competitors. The new AdWords Profiler replaces the []...",
+            "date": "2015-04-25",
+            "author_name": "mulikshekhar7",
+            "categories": "google,adwords",
+            "tags": "campaigns,google,google_adwords,adwords",
+            "recuweb_url": "http://en.recuweb.com/adwords/shekharsworld.wordpress.com/2015/04/new-in-seoprofiler-the-all-adwords-profiler-analyze-competitor-campaigns",
+            "resource_url": "http://en.search.wordpress.com/?q=adwords%2Badwords&f=feed&page=1",
+            "source_url": "http://shekharsworld.wordpress.com/2015/04/25/new-in-seoprofiler-the-all-new-adwords-profiler-analyze-competitor-campaigns/"
+        },
+        "searchenginewatch.com/2015/04/you-need-to-delete-98%-of-your-adwords-keywords-here": {
+            "title": "You Need to Delete 98% of Your AdWords Keywords - Here's Why...",
+            "snippet": "You're an AdWords unicorn. What I'm seeing across thousands of accounts is this troublesome trend where advertisers are testing, testing, testing new keywords and phrases - and that's great - but never ditching the junk...",
+            "date": "2015-04-23",
+            "author_name": "Larry Kim",
+            "categories": "adwords",
+            "tags": "great,advertisers,adwords,here",
+            "recuweb_url": "http://en.recuweb.com/adwords/searchenginewatch.com/2015/04/you-need-to-delete-98%-of-your-adwords-keywords-here",
+            "resource_url": "http://www.google.com/search?q=adwords%2Badwords&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://searchenginewatch.com/sew/how-to/2405301/attention-keyword-hoarders-you-need-to-delete-98-of-your-adwords-keywords-here-s-why"
+        },
+        "unbounce.com/2015/04/5-advanced-adwords-strategies-you-can-implement-today": {
+            "title": "5 Advanced AdWords Strategies You Can Implement Today...",
+            "snippet": "As AdWords gets increasingly competitive, marketers need to get creative. Here are some lesser-known features that'll keep you ahead of the competition.",
+            "date": "2015-04-21",
+            "author_name": "Igor Belogolovsky",
+            "categories": "adwords",
+            "tags": "competition,features,adwords,today,here",
+            "recuweb_url": "http://en.recuweb.com/adwords/unbounce.com/2015/04/5-advanced-adwords-strategies-you-can-implement-today",
+            "resource_url": "http://www.google.com/search?q=adwords%2Badwords&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://unbounce.com/ppc/5-adwords-hacks-to-help-you-step-up-your-ppc-game/"
+        },
+        "searchengineland.com/2015/04/new-adwords-campaign-detail-reporting-options-give-x-ray": {
+            "title": "New AdWords Campaign Detail Reporting Options Give X-Ray...",
+            "snippet": "Paid search professionals routinely talk about wrangling reports in AdWords in order to get the most pertinent data. Well so the days of wrestling with that data may be over thanks new features from AdWords are making some...",
+            "date": "2015-04-20",
+            "author_name": "Greg Finn",
+            "categories": "adwords",
+            "tags": "making,data,features,reports,adwords,adwords_campaign,campaign,detail,reporting,give,ray,paid,search",
+            "recuweb_url": "http://en.recuweb.com/adwords/searchengineland.com/2015/04/new-adwords-campaign-detail-reporting-options-give-x-ray",
+            "resource_url": "http://www.google.com/search?q=adwords%2Badwords&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://searchengineland.com/new-adwords-campaign-detail-reporting-options-give-x-ray-vision-inisght-into-campaigns-219358"
+        },
+        "searchengineland.com/2015/04/searchcap-mobilegeddon-is-coming-adwords-campaign": {
+            "title": "SearchCap: Mobilegeddon Is Coming, AdWords Campaign...",
+            "snippet": "New AdWords Campaign Detail Reporting Options Give X-Ray Vision Insight Into Campaigns. New options will allow advertisers to see exact settings of campaigns in one location without having to hop through any hoops.",
+            "date": "2015-04-20",
+            "author_name": "Barry Schwartz",
+            "categories": "adwords",
+            "tags": "any,advertisers,campaigns,campaign,ray,detail,reporting,give,adwords,adwords_campaign",
+            "recuweb_url": "http://en.recuweb.com/adwords/searchengineland.com/2015/04/searchcap-mobilegeddon-is-coming-adwords-campaign",
+            "resource_url": "http://www.google.com/search?q=adwords%2Badwords&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://searchengineland.com/searchcap-mobilegeddon-is-coming-adwords-campaign-reporting-france-wants-open-algorithm-219373"
+        },
+        "adwords.blogspot.com/2015/04/inside-adwords-ads-take-a-step-towards-https-everywhere": {
+            "title": "Inside AdWords: Ads Take a Step Towards HTTPS Everywhere...",
+            "snippet": "Also by June 30, 2015, advertisers using any of our buying platforms, including AdWords and DoubleClick, will be able to serve HTTPS-encrypted display ads to all HTTPS-enabled inventory. Of course we're not alone in this...",
+            "date": "2015-04-17",
+            "author_name": "Rob Newton",
+            "categories": "adwords",
+            "tags": "course,display,advertisers,using,any,ads,adwords",
+            "recuweb_url": "http://en.recuweb.com/adwords/adwords.blogspot.com/2015/04/inside-adwords-ads-take-a-step-towards-https-everywhere",
+            "resource_url": "http://www.google.com/search?q=adwords%2Badwords&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://adwords.blogspot.com/2015/04/ads-take-step-towards-https-everywhere.html"
+        },
         "persistseo.wordpress.com/2015/04/google-adwords-express-vs-which-one-wins-when-it-comes-to": {
             "title": "Google AdWords Express vs. Google AdWords: Which One Wins When It Comes to Small Business?",
             "snippet": "Theres no real competition in a Google AdWords Express vs. Google AdWords face-off Google AdWords Express vs. Google AdWords this is a decision many small businesses ponder...",
             "date": "2015-04-16",
             "author_name": "PersistSEO",
             "categories": "business,google,adwords",
-            "tags": "small,businesses,business,real,comes,google,google_adwords,adwords,theres,off,many",
+            "tags": "businesses,real,competition,google,google_adwords,adwords",
             "recuweb_url": "http://en.recuweb.com/adwords/persistseo.wordpress.com/2015/04/google-adwords-express-vs-which-one-wins-when-it-comes-to",
-            "resource_url": "http://en.search.wordpress.com/?q=adwords&f=feed&page=1",
+            "resource_url": "http://en.search.wordpress.com/?q=adwords%2Badwords&f=feed&page=1",
             "source_url": "http://persistseo.wordpress.com/2015/04/16/google-adwords-express-vs-google-adwords-which-one-wins-when-it-comes-to-small-business/"
+        },
+        "ezwebpromo.com/2015/04/using-google-adwords-to-drive-traffic-your-website": {
+            "title": "Using Google Adwords to Drive Traffic to your Website...",
+            "snippet": "Highly targeted traffic is one of the most important entities in the internet universe. Any website owner or administrator recognizes the importance of driving traffic to a website. The success of any website does not rely entirely on the site...",
+            "date": "2015-04-16",
+            "author_name": "Memo",
+            "categories": "internet,google,adwords",
+            "tags": "success,any,internet,using,google,google_adwords,adwords",
+            "recuweb_url": "http://en.recuweb.com/adwords/ezwebpromo.com/2015/04/using-google-adwords-to-drive-traffic-your-website",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=adwords%2Badwords&rss=1&lng=en",
+            "source_url": "http://ezwebpromo.com/2015/04/using-google-adwords-to-drive-traffic.html"
+        },
+        "searchengineland.com/2015/04/6-adwords-optimizations-using-dimensions-reports": {
+            "title": "6 AdWords Optimizations Using Dimensions Reports...",
+            "snippet": "Columnist Frederick Vallaeys discusses how you can use Google's data to improve your AdWords performance.",
+            "date": "2015-04-15",
+            "author_name": "Frederick Vallaeys",
+            "categories": "adwords,google",
+            "tags": "data,using,reports,adwords,google",
+            "recuweb_url": "http://en.recuweb.com/google/searchengineland.com/2015/04/6-adwords-optimizations-using-dimensions-reports",
+            "resource_url": "http://www.google.com/search?q=adwords%2Badwords&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://searchengineland.com/6-adwords-optimizations-using-dimensions-reports-218357"
         },
         "lighthouseinternetmedia.wordpress.com/2015/04/adwords-company-in-miami": {
             "title": "Adwords Company in Miami...",
@@ -27,97 +116,10 @@
             "date": "2015-04-15",
             "author_name": "siteadmin77",
             "categories": "internet,adwords",
-            "tags": "company,looking,adwords",
+            "tags": "area,internet,company,adwords",
             "recuweb_url": "http://en.recuweb.com/adwords/lighthouseinternetmedia.wordpress.com/2015/04/adwords-company-in-miami",
-            "resource_url": "http://en.search.wordpress.com/?q=adwords&f=feed&page=1",
-            "source_url": "http://lighthouseinternetmedia.wordpress.com/2015/04/15/adwords-company-in-miami/"
-        },
-        "pdfmaterial4us.wordpress.com/2015/04/how-to-get-hold-of-the-google-adwords-reporting-certification": {
-            "title": "How to Get Hold of the Google Adwords-Reporting Certification...",
-            "snippet": "Google is not just known for being a top search engine in the world. This also has become a great means to earn a great career in the []...",
-            "date": "2015-04-15",
-            "author_name": "assaf01",
-            "categories": "google,adwords",
-            "tags": "great,earn,certification,google,google_adwords,adwords,search,engine,world",
-            "recuweb_url": "http://en.recuweb.com/adwords/pdfmaterial4us.wordpress.com/2015/04/how-to-get-hold-of-the-google-adwords-reporting-certification",
-            "resource_url": "http://en.search.wordpress.com/?q=adwords&f=feed&page=1",
-            "source_url": "http://pdfmaterial4us.wordpress.com/2015/04/15/how-to-get-hold-of-the-google-adwords-reporting-certification/"
-        },
-        "yuxuanwu.wordpress.com/2015/04/why-google-adwords": {
-            "title": "Why Google Adwords?",
-            "snippet": "Google AdWords offers immediate traffic to Web sites against a certain investment, and therefore using this campaign comes with a host of advantages for Web sites and businesses. []...",
-            "date": "2015-04-13",
-            "author_name": "yuxuanwuplus",
-            "categories": "business,google,adwords",
-            "tags": "businesses,campaign,comes,google,google_adwords,adwords,web,using",
-            "recuweb_url": "http://en.recuweb.com/adwords/yuxuanwu.wordpress.com/2015/04/why-google-adwords",
-            "resource_url": "http://en.search.wordpress.com/?q=adwords&f=feed&page=1",
-            "source_url": "http://yuxuanwu.wordpress.com/2015/04/13/why-google-adwords/"
-        },
-        "latestexamkit.wordpress.com/2015/04/adwords-fundamentals-groundwork-for-google-advertising": {
-            "title": "AdWords Fundamentals Groundwork For Google Advertising...",
-            "snippet": "The Google Adword Advertising Fundamentals is one of the four exams which can be taken in association with Googles AdWords platform. This exam focuses more on the basic []...",
-            "date": "2015-04-07",
-            "author_name": "elizabethdjohnson3",
-            "categories": "adwords,google",
-            "tags": "exams,googles,adwords,google,advertising,platform",
-            "recuweb_url": "http://en.recuweb.com/google/latestexamkit.wordpress.com/2015/04/adwords-fundamentals-groundwork-for-google-advertising",
-            "resource_url": "http://en.search.wordpress.com/?q=adwords&f=feed&page=1",
-            "source_url": "http://latestexamkit.wordpress.com/2015/04/07/adwords-fundamentals-groundwork-for-google-advertising/"
-        },
-        "reddit.com/2015/04/is-there-any-interest-in-a-series-of-videos-around-writing": {
-            "title": "Is there any interest in a series of videos around writing AdWords Scripts?",
-            "snippet": "The point of the videos would be to introduce non-technical types (or those interested in branching into AdWords Scripts) to writing Scripts without help of an Engineer. I've got a ton of experience writing automated solutions for AdWords without...",
-            "date": "2015-04-03",
-            "categories": "adwords",
-            "tags": "would,adwords,any,interest,around,help",
-            "recuweb_url": "http://en.recuweb.com/adwords/reddit.com/2015/04/is-there-any-interest-in-a-series-of-videos-around-writing",
-            "resource_url": "http://www.reddit.com/search.rss?q=adwords%2Badwords&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/PPC/comments/31bdvr/is_there_any_interest_in_a_series_of_videos/"
-        },
-        "core21.blogspot.com/2015/04/rt-adwords-need-to-regain-access-a-google-analytics-account-here": {
-            "title": "RT adwords: Need to regain access to a Google Analytics account? Here are the steps you'll need to...",
-            "snippet": "Need to regain access to a Google Analytics account? Here are the steps you'll need to take: Google AdWords (adwords) April 3, 2015 from Twitter div...",
-            "date": "2015-04-03",
-            "author_name": "\u0410\u043d\u0434\u0440\u0456\u0439 \u0421\u043e\u043a\u043e\u043b\u043e\u0432\u0441\u044c\u043a\u0438\u0439",
-            "categories": "google,adwords,twitter",
-            "tags": "google,google_adwords,adwords,need,google_analytics,analytics,here",
-            "recuweb_url": "http://en.recuweb.com/twitter/core21.blogspot.com/2015/04/rt-adwords-need-to-regain-access-a-google-analytics-account-here",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=adwords%2Badwords&rss=1&lng=en",
-            "source_url": "http://core21.blogspot.com/2015/04/rt-adwords-need-to-regain-access-to.html"
-        },
-        "sharelocalbusiness.wordpress.com/2015/04/google-changes-adwords-certification-exams-&-certifications-validation": {
-            "title": "Google Changes AdWords Certification Exams & Certifications Validation...",
-            "snippet": "Google Adwords team last day announced on Google Adwords help support that they have made some changes to Google Adwords certification program exams. There are two most changes []...",
-            "date": "2015-04-01",
-            "author_name": "Share Local Business",
-            "categories": "google,adwords",
-            "tags": "exams,last,announced,google,google_adwords,adwords,team,help",
-            "recuweb_url": "http://en.recuweb.com/adwords/sharelocalbusiness.wordpress.com/2015/04/google-changes-adwords-certification-exams-&-certifications-validation",
-            "resource_url": "http://en.search.wordpress.com/?q=adwords&f=feed&page=1",
-            "source_url": "http://sharelocalbusiness.wordpress.com/2015/04/01/google-changes-adwords-certification-exams-certifications-validation/"
-        },
-        "lynbroderick.wordpress.com/2015/03/brief-article-teaches-you-the-ins-and-outs-of-online-income": {
-            "title": "Brief Article Teaches You The Ins and Outs of Online Income Reviews Golden Way Florence Sc And...",
-            "snippet": "In purchase to get the most out of the AdWords, AdWords Earnings two is one of very best strategy that will assist you to be successful in creating money on-line. AdWords Profits 2 is not just about how you can beat a minimum bid to in AdWords but...",
-            "date": "2015-03-29",
-            "author_name": "lynbroderick",
-            "categories": "adwords",
-            "tags": "online,adwords,line",
-            "recuweb_url": "http://en.recuweb.com/adwords/lynbroderick.wordpress.com/2015/03/brief-article-teaches-you-the-ins-and-outs-of-online-income",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=adwords%2Badwords&rss=1&lng=en",
-            "source_url": "http://lynbroderick.wordpress.com/2015/03/29/brief-article-teaches-you-the-ins-and-outs-of-online-income-reviews-golden-way-florence-sc-and-what/"
-        },
-        "digitalmarketingiel.wordpress.com/2015/03/would-you-like-adwords-definitive-guide": {
-            "title": "Would You Like Adwords Definitive Guide...",
-            "snippet": "Would you like to discover what those-in-the-know need certainly to say about adwords conclusive guide? The data in the content below comes straight from well-informed professionals with specific...",
-            "date": "2015-03-22",
-            "author_name": "digitalmarketingiel",
-            "categories": "adwords",
-            "tags": "data,content,comes,need,adwords,would",
-            "recuweb_url": "http://en.recuweb.com/adwords/digitalmarketingiel.wordpress.com/2015/03/would-you-like-adwords-definitive-guide",
             "resource_url": "http://en.search.wordpress.com/?q=adwords%2Badwords&f=feed&page=1",
-            "source_url": "http://digitalmarketingiel.wordpress.com/2015/03/22/would-you-like-adwords-definitive-guide/"
+            "source_url": "http://lighthouseinternetmedia.wordpress.com/2015/04/15/adwords-company-in-miami/"
         }
     }
 }
