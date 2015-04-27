@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "educational-materials",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/educational-materials/",
@@ -10,21 +11,45 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/educational-materials/educational-materials/blogs.json"
     },
     "items": {
-        "youtube.com/2015/02/gamergate-adl-wants-anita-sarkeesian-s-bias-to-be-part-of": {
-            "title": "GamerGate: ADL wants Anita Sarkeesian's bias to be part of teaching materials...",
-            "snippet": "GamerGate: ADL wants Anita Sarkeesian's bias to be part of teaching materials GamerGate video about the Anti-Defamation League (ADL). This organization recently made a new 'educational resource'available for their Current Events Class... From:...",
-            "date": "2015-02-11",
-            "author_name": "Atheist9000",
-            "categories": "events,teaching",
-            "tags": "educational,materials",
-            "recuweb_url": "http://en.recuweb.com/teaching/youtube.com/2015/02/gamergate-adl-wants-anita-sarkeesian-s-bias-to-be-part-of",
+        "youtube.com/2015/04/accessible-educational-materials-using-aem-in-your-own-setting": {
+            "title": "Accessible Educational Materials: Using AEM in Your Own Setting...",
+            "snippet": "Accessible Educational Materials: Using AEM in Your Own Setting This is the closing webinar in the series on \"Accessible Educational Materials\" with AT Specialist Joy Zabala. This segment, focused on \"Using AEM in your own setting\", Joy addressed...",
+            "date": "2015-04-20",
+            "author_name": "Center on Technology and Disability (CTD)",
+            "categories": "educational-materials",
+            "tags": "aem,joy,joy_zabala,zabala,webinar,accessible,accessible_educational,accessible_educational_materials,educational,educational_materials,materials",
+            "recuweb_url": "http://en.recuweb.com/educational-materials/youtube.com/2015/04/accessible-educational-materials-using-aem-in-your-own-setting",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=educational%2Bmaterials&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=w17O9QQ1Rg4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/w17O9QQ1Rg4/0.jpg"
+        },
+        "youtube.com/2015/04/accessible-educational-materials-with-joy-zabala": {
+            "title": "Accessible Educational Materials with Joy Zabala...",
+            "snippet": "Accessible Educational Materials with Joy Zabala This introductory webinar will provide foundational information about accessible materials and offer extensive resources on AEM, including state-specific contacts. From: Center on Technology and...",
+            "date": "2015-04-14",
+            "author_name": "Center on Technology and Disability (CTD)",
+            "categories": "educational-materials,technology",
+            "tags": "webinar,accessible,materials,resources,joy,joy_zabala,zabala,accessible_educational,accessible_educational_materials,educational,educational_materials,aem,center",
+            "recuweb_url": "http://en.recuweb.com/technology/youtube.com/2015/04/accessible-educational-materials-with-joy-zabala",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=educational%2Bmaterials&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=B8lymKaOsBc&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/B8lymKaOsBc/0.jpg"
+        },
+        "youtube.com/2015/03/simply-said-understanding-accessibility-in-digital-learning-materials": {
+            "title": "Simply Said: Understanding Accessibility in Digital Learning Materials...",
+            "snippet": "Simply Said: Understanding Accessibility in Digital Learning Materials The National Center on Accessible Educational Materials and PACER Center have developed a brief video in easy-to-understand language that provides an overview of accessibility...",
+            "date": "2015-03-03",
+            "author_name": "National Center on Accessible Educational Materials",
+            "categories": "educational-materials,learning",
+            "tags": "center,accessible,accessible_educational,accessible_educational_materials,educational,educational_materials,materials",
+            "recuweb_url": "http://en.recuweb.com/learning/youtube.com/2015/03/simply-said-understanding-accessibility-in-digital-learning-materials",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=educational%2Bmaterials%2Beducational%2Bmaterials&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=BPmV1uOJD-w&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/BPmV1uOJD-w/0.jpg"
+            "source_url": "http://youtube.com/watch?v=HzE5dj1WTSo&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/HzE5dj1WTSo/0.jpg"
         },
         "youtube.com/2015/02/vblog-disaster-educational-materials": {
             "title": "vblog (Disaster Educational Materials)...",
-            "snippet": "vblog (Disaster Educational Materials) Produced by: Ermar Bito-on Ken Cordero Shiane Martha Magno BB-4A. From: shiane magno Views: 38 0 ratings Time: 01:41 More in Film & Animation...",
+            "snippet": "vblog (Disaster Educational Materials) Produced by: Ermar Bito-on Ken Cordero Shiane Martha Magno BB-4A. From: shiane magno Views: 40 0 ratings Time: 01:41 More in Film & Animation...",
             "date": "2015-02-07",
             "author_name": "shiane magno",
             "categories": "educational-materials",
@@ -36,15 +61,62 @@
         },
         "youtube.com/2015/01/big-time-clock-educational-materials": {
             "title": "Big Time Clock - educational materials...",
-            "snippet": "Big Time Clock - educational materials e-APRICOT Big Mini (6. From: Views: 48 0 ratings Time: 00:55 More in Education...",
+            "snippet": "Big Time Clock - educational materials e-APRICOT Big Mini (6. From: Views: 81 0 ratings Time: 00:55 More in Education...",
             "date": "2015-01-21",
             "author_name": "\u30a2\u30d7\u30ea\u30b3\u30c3\u30c8\u51fa\u7248",
             "categories": "educational-materials,education",
-            "tags": "educational,educational-materials,materials,education",
+            "tags": "educational,educational-materials,materials,apricot,education",
             "recuweb_url": "http://en.recuweb.com/education/youtube.com/2015/01/big-time-clock-educational-materials",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=educational%2Bmaterials&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=educational%2Bmaterials%2Beducational%2Bmaterials&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=FR1E5VgjJu0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/FR1E5VgjJu0/0.jpg"
+        },
+        "youtube.com/2015/01/jumbo-magnifiers-educational-materials": {
+            "title": "Jumbo Magnifiers - educational materials...",
+            "snippet": "Jumbo Magnifiers - educational materials e-APRICOT. From: Views: 25 0 ratings Time: 00:44 More in Education...",
+            "date": "2015-01-21",
+            "author_name": "\u30a2\u30d7\u30ea\u30b3\u30c3\u30c8\u51fa\u7248",
+            "categories": "educational-materials,education",
+            "tags": "educational,educational-materials,materials,apricot,education",
+            "recuweb_url": "http://en.recuweb.com/education/youtube.com/2015/01/jumbo-magnifiers-educational-materials",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=educational%2Bmaterials&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=JADXeay4fP4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/JADXeay4fP4/0.jpg"
+        },
+        "youtube.com/2015/01/no-yell-bell-educational-materials": {
+            "title": "No Yell Bell - educational materials...",
+            "snippet": "No Yell Bell - educational materials e-APRICOT. From: Views: 60 0 ratings Time: 00:44 More in Education...",
+            "date": "2015-01-21",
+            "author_name": "\u30a2\u30d7\u30ea\u30b3\u30c3\u30c8\u51fa\u7248",
+            "categories": "educational-materials,education",
+            "tags": "educational,educational-materials,materials,apricot,education",
+            "recuweb_url": "http://en.recuweb.com/education/youtube.com/2015/01/no-yell-bell-educational-materials",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=educational%2Bmaterials&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=L19Kr0VdpYY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/L19Kr0VdpYY/0.jpg"
+        },
+        "youtube.com/2015/01/educational-materials-&-clothes-distributed-by-naak-offn-birgunj-nepal": {
+            "title": "Educational Materials & Clothes Distributed by NAAK & OFFN Birgunj Nepal...",
+            "snippet": "Educational Materials & Clothes Distributed by NAAK & OFFN Birgunj Nepal... From: HD BEST Video7 Views: 431 1 ratings Time: 29:38 More in People & Blogs...",
+            "date": "2015-01-16",
+            "author_name": "HD BEST Video7",
+            "categories": "educational-materials",
+            "tags": "educational,educational_materials,materials,people",
+            "recuweb_url": "http://en.recuweb.com/educational-materials/youtube.com/2015/01/educational-materials-&-clothes-distributed-by-naak-offn-birgunj-nepal",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=educational%2Bmaterials&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=Wp3tjIOTRVg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Wp3tjIOTRVg/0.jpg"
+        },
+        "youtube.com/2014/10/humana-educational-materials-for-accident-coverage": {
+            "title": "Humana Educational materials for Accident Coverage...",
+            "snippet": "Humana Educational materials for Accident Coverage A short video to explain the benefit offerings. From: Thom Bryson Views: 37 0 ratings Time: 00:53 More in People & Blogs...",
+            "date": "2014-10-06",
+            "author_name": "Thom Bryson",
+            "tags": "materials,educational,people",
+            "recuweb_url": "http://en.recuweb.com/youtube.com/2014/10/humana-educational-materials-for-accident-coverage",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=educational%2Bmaterials&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=7IWES3f5R9A&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/7IWES3f5R9A/0.jpg"
         },
         "dailymotion.com/2014/09/course-and-extra-educational-materials-for-starting-a-business": {
             "title": "Course and extra educational materials for starting a business...",
@@ -52,83 +124,11 @@
             "date": "2014-09-19",
             "author_name": "lauricedubuc",
             "categories": "business,educational-materials",
-            "tags": "tools,tools-and-resources,resources,resources-for-starting,starting,starting-small,starting-small-businesses,small,small-businesses,small-business,businesses,business,quickly,find,page,page-can-help,help,help-you-make,make,make-absolutely,make-absolutely-certain,absolutely,absolutely-certain,certain,building,building-your-small,only,only-succeeds,succeeds,extra,extra-educational,extra-educational-materials,educational,educational-materials,materials,materials-for-starting,starting-business,course",
+            "tags": "resources,educational,educational-materials,materials",
             "recuweb_url": "http://en.recuweb.com/educational-materials/dailymotion.com/2014/09/course-and-extra-educational-materials-for-starting-a-business",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/educational+materials+educational+materials/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/educational+materials/0?af=1",
             "source_url": "http://dailymotion.com/video/x268djc_course-and-extra-educational-materials-for-starting-a-business_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x268djc_course-and-extra-educational-materials-for-starting-a-business_news"
-        },
-        "dailymotion.com/2014/09/course-and-extra-educational-materials-for-starting-a-business-youtube-360p": {
-            "title": "Course and extra educational materials for starting a business - YouTube 360p...",
-            "snippet": "- You will find that the resources on this page can help you make absolutely certain that you are building your small business so that it not only succeeds, but that it does so quickly. Your tools and resources for starting a small businesses is...",
-            "date": "2014-09-19",
-            "author_name": "jammylucify",
-            "categories": "business,educational-materials",
-            "tags": "tools,tools-and-resources,resources,resources-for-starting,starting,starting-small,starting-small-businesses,small,small-businesses,small-business,businesses,business,quickly,find,page,page-can-help,help,help-you-make,make,make-absolutely,make-absolutely-certain,absolutely,absolutely-certain,certain,building,building-your-small,only,only-succeeds,succeeds,extra,extra-educational,extra-educational-materials,educational,educational-materials,materials,materials-for-starting,starting-business,course",
-            "recuweb_url": "http://en.recuweb.com/educational-materials/dailymotion.com/2014/09/course-and-extra-educational-materials-for-starting-a-business-youtube-360p",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/educational+materials+educational+materials/0?af=1",
-            "source_url": "http://dailymotion.com/video/x268bng_course-and-extra-educational-materials-for-starting-a-business-youtube-360p_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x268bng_course-and-extra-educational-materials-for-starting-a-business-youtube-360p_lifestyle"
-        },
-        "youtube.com/2014/08/educational-material-support-to-orphan-children": {
-            "title": "Educational Material Support to Orphan Children...",
-            "snippet": "Educational Material Support to Orphan Children Seruds Charity in Kurnool providing educational material regularly to the abandoned Orphan Children in Joy Home Children Orphanage. This timely educational s... From: Mallikarjuna Gorla Views: 50 0...",
-            "date": "2014-08-24",
-            "author_name": "Mallikarjuna Gorla",
-            "categories": "home",
-            "tags": "educational,children",
-            "recuweb_url": "http://en.recuweb.com/home/youtube.com/2014/08/educational-material-support-to-orphan-children",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=educational%2Bmaterials%2Beducational%2Bmaterials&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=BLyK9fhhM-4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/BLyK9fhhM-4/0.jpg"
-        },
-        "youtube.com/2014/08/at-educational-materials-shortened-video": {
-            "title": "AT Educational Materials Shortened video...",
-            "snippet": "AT Educational Materials Shortened video America's ToothFairy distributes educational materials to help educate children and teens on the importance of oral health. From: ncohf Views: 31 0 ratings Time: 00:24 More in Nonprofits & Activism...",
-            "date": "2014-08-15",
-            "author_name": "ncohf",
-            "categories": "educational-materials,health,activism",
-            "tags": "educational,educational_materials,materials,help,children",
-            "recuweb_url": "http://en.recuweb.com/activism/youtube.com/2014/08/at-educational-materials-shortened-video",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=educational%2Bmaterials&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=iDE34HKRZdw&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/iDE34HKRZdw/0.jpg"
-        },
-        "youtube.com/2014/08/veda-day-4-how-i-organize-our-educational-materials": {
-            "title": "VEDA DAY 4: How I Organize our Educational Materials!",
-            "snippet": "VEDA DAY 4: How I Organize our Educational Materials! Information & Links Below August 4, 2014 Hey guys! This is just a quick tour of how I am currently storing Abby's toys and educational materi... From: MommyOfTwo Views: 115 2 ratings Time: 14:35...",
-            "date": "2014-08-07",
-            "author_name": "MommyOfTwo",
-            "categories": "toys,educational-materials",
-            "tags": "educational,educational_materials,materials",
-            "recuweb_url": "http://en.recuweb.com/educational-materials/youtube.com/2014/08/veda-day-4-how-i-organize-our-educational-materials",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=educational%2Bmaterials&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=abTWRJY3eSU&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/abTWRJY3eSU/0.jpg"
-        },
-        "youtube.com/2014/04/ar-enchanced-educational-materials-aurasma": {
-            "title": "AR Enchanced Educational Materials - Aurasma...",
-            "snippet": "AR Enchanced Educational Materials - Aurasma This is the year of wearables, smart tech is starting to go not just in our pockets but around our writs, in our clothes and in front of our eyes. These devi... From: Eric Hawkinson Views: 107 2 ratings...",
-            "date": "2014-04-18",
-            "author_name": "Eric Hawkinson",
-            "categories": "educational-materials",
-            "tags": "starting,educational,educational_materials,materials",
-            "recuweb_url": "http://en.recuweb.com/educational-materials/youtube.com/2014/04/ar-enchanced-educational-materials-aurasma",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=educational%2Bmaterials&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=0eNeistUa5I&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/0eNeistUa5I/0.jpg"
-        },
-        "youtube.com/2014/02/06-criteria-for-quality-educational-materials": {
-            "title": "06 Criteria for Quality Educational Materials...",
-            "snippet": "06 Criteria for Quality Educational Materials From: Views: 342 3 ratings Time: 32:40 More in Education...",
-            "date": "2014-02-26",
-            "author_name": "\u0646\u0627\u062f\u0649 \u0627\u0644\u0637\u0641\u0648\u0644\u0629 \u0627\u0644\u0645\u0628\u0643\u0631\u0629",
-            "categories": "educational-materials,education",
-            "tags": "educational,educational_materials,materials,education",
-            "recuweb_url": "http://en.recuweb.com/education/youtube.com/2014/02/06-criteria-for-quality-educational-materials",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=educational%2Bmaterials&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=mHUg0Fpv_As&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/mHUg0Fpv_As/0.jpg"
         }
     }
 }
