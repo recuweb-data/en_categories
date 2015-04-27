@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "baseball",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/baseball/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/baseball/baseball/blogs.json"
     },
     "items": {
-        "bostonglobe.com/2015/03/baseball-notebook-alex-rodriguez-homers-didi-gregorius-gives-yankees-injury-scare": {
-            "title": "Baseball notebook: Alex Rodriguez homers, Didi Gregorius gives Yankees injury scare...",
-            "snippet": "Alex Rodriguez hit his third homer and improved his batting average to.306, new shortstop Didi Gregorius gave New York a scare, and the Yankees lost, 10-2, to the Orioles Saturday in Tampa. Rodriguez hit a long first-pitch leadoff shot in the...",
-            "date": "2015-03-28",
+        "stltoday.com/2015/04/baseball-notebook-injured-scherzer-wants-dh-in-nl": {
+            "title": "Baseball notebook: Injured Scherzer wants DH in NL...",
+            "snippet": "Max Scherzer, who will probably miss his next start for the Washington Nationals with a sprained thumb, says the National League would be better served if pitchers werent asked to bat, and CBS sports reported. Following his injury batting and...",
+            "date": "2015-04-27",
+            "categories": "sport,baseball",
+            "tags": "injury,sports,league,start,baseball",
+            "recuweb_url": "http://en.recuweb.com/baseball/stltoday.com/2015/04/baseball-notebook-injured-scherzer-wants-dh-in-nl",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=baseball%2Bbaseball&format=RSS&cc=us",
+            "source_url": "http://stltoday.com/sports/baseball/baseball-notebook-injured-scherzer-wants-dh-in-nl/article_559cb340-41fe-5bdc-9ed7-6eb04264c410.html"
+        },
+        "thewestonforum.com/2015/04/baseball-weston-secures-first-victory": {
+            "title": "Baseball: Weston secures first victory...",
+            "snippet": "A strong pitching performance got the offensive support it needed when the Weston High baseball team visited Pomperaug. Nick Mitchell threw a complete game shutout, scattering four hits and striking out eight as the Trojans won 5-0 on Wednesday for...",
+            "date": "2015-04-27",
             "categories": "baseball",
-            "tags": "long,first,saturday,baseball,tampa",
-            "recuweb_url": "http://en.recuweb.com/baseball/bostonglobe.com/2015/03/baseball-notebook-alex-rodriguez-homers-didi-gregorius-gives-yankees-injury-scare",
+            "tags": "team,victory,baseball,high,game",
+            "recuweb_url": "http://en.recuweb.com/baseball/thewestonforum.com/2015/04/baseball-weston-secures-first-victory",
             "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=us",
-            "source_url": "http://bostonglobe.com/sports/2015/03/28/baseball-notebook-alex-rodriguez-homers-didi-gregorius-gives-yankees-injury-scare/As5MFIUaTgWRPsoyznfUOL/story.html"
+            "source_url": "http://thewestonforum.com/47395/baseball-weston-secures-first-victory/"
         },
-        "nypost.com/2015/03/college-baseball-team-cancels-its-season-over-hazing-charges": {
-            "title": "College baseball team cancels its season over hazing charges...",
-            "snippet": "NORTHFIELD, Minn. St. Olaf College announced Friday that it is canceling the rest of its baseball season because of hazing. St. Olaf said federal law and college policy limit its ability to discuss details but said an investigation found the...",
-            "date": "2015-03-28",
-            "categories": "law,college,policy,baseball",
-            "tags": "said,college,season,team,baseball,friday",
-            "recuweb_url": "http://en.recuweb.com/baseball/nypost.com/2015/03/college-baseball-team-cancels-its-season-over-hazing-charges",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=us",
-            "source_url": "http://nypost.com/2015/03/28/college-baseball-team-cancels-its-season-over-hazing-charges/"
-        },
-        "torontosun.com/2015/03/fantasy-baseball-preview-2015-catchers-dhs": {
-            "title": "Fantasy Baseball Preview 2015: Catchers, DHs...",
-            "snippet": "The first serious cuts are being made and the starting lineups are beginning to resemble what well see on opening day. It can mean only that the fantasy baseball season is upon us. And once again, to help you make those tough decisions, we present...",
-            "date": "2015-03-28",
-            "categories": "baseball",
-            "tags": "season,fantasy,first,made,fantasy_baseball,baseball",
-            "recuweb_url": "http://en.recuweb.com/baseball/torontosun.com/2015/03/fantasy-baseball-preview-2015-catchers-dhs",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=us",
-            "source_url": "http://torontosun.com/2015/03/28/fantasy-baseball-preview-2015-catchers-dhs"
-        },
-        "bleacherreport.com/2015/03/for-russell-wilson-is-baseball-a-dream-or-future-reality-bleacher": {
-            "title": "For Russell Wilson, Is Baseball a Dream or a Future Reality? - Bleacher Report...",
-            "snippet": "Bleacher ReportFor Russell Wilson, Is Baseball a Dream or a Future Reality?Bleacher ReportAfter practice concludes that evening in Madison, Wilson leans against a wall outside of the locker room and reflects on how his love for another...",
-            "date": "2015-03-28",
-            "categories": "love,baseball",
-            "tags": "against,evening,baseball",
-            "recuweb_url": "http://en.recuweb.com/baseball/bleacherreport.com/2015/03/for-russell-wilson-is-baseball-a-dream-or-future-reality-bleacher",
-            "resource_url": "http://news.google.com/?hl=en&q=baseball%2Bbaseball&output=atom&nord=1",
-            "source_url": "http://bleacherreport.com/articles/2410511-for-russell-wilson-is-baseball-a-dream-or-a-future-reality"
-        },
-        "ctpost.com/2015/03/harsh-winter-leaves-many-baseball-softball-fields-unplayable": {
-            "title": "Harsh winter leaves many baseball, softball fields unplayable...",
-            "snippet": "On Monday, the spring high school sports season officially began around Connecticut, but if you think that meant area baseball and softball fields were filled with players, you would be wrong. In many cases the grass fields used by schools still had...",
-            "date": "2015-03-28",
-            "categories": "school,baseball,sport",
-            "tags": "many,school,season,high,high-school,baseball,sports",
-            "recuweb_url": "http://en.recuweb.com/sport/ctpost.com/2015/03/harsh-winter-leaves-many-baseball-softball-fields-unplayable",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=us",
-            "source_url": "http://ctpost.com/highschool/article/Harsh-winter-leaves-many-baseball-softball-6165375.php"
-        },
-        "kentucky.com/2015/03/kentucky-baseball-beats-no-1-lsu-in-12-innings-lexington-herald": {
-            "title": "Kentucky baseball beats No. 1 LSU in 12 innings - Lexington Herald Leader...",
-            "snippet": "Lexington Herald LeaderKentucky baseball beats No. 1 LSU in 12 inningsLexington Herald LeaderLSU left fielder Jake Fraley (23) steals second base against Kentucky second baseman Javon Shelby (5) in the second inning of an NCAA baseball game Friday,...",
-            "date": "2015-03-28",
-            "categories": "baseball",
-            "tags": "against,baseball,game,friday",
-            "recuweb_url": "http://en.recuweb.com/baseball/kentucky.com/2015/03/kentucky-baseball-beats-no-1-lsu-in-12-innings-lexington-herald",
-            "resource_url": "http://news.google.com/?hl=en&q=baseball%2Bbaseball&output=atom&nord=1",
-            "source_url": "http://kentucky.com/2015/03/28/3772619/kentucky-baseball-beats-no-1-lsu.html"
-        },
-        "coloradoan.com/2015/03/liberty-common-baseball-vs-resurrection-christian": {
-            "title": "Liberty Common baseball vs. Resurrection Christian...",
-            "snippet": "Liberty Common baseball vs. Resurrection Christian Liberty Common's Ted Webber pitches Saturday, March 28, 2015 at Resurrection Christian High School in Loveland, CO. Check out this story on:...",
-            "date": "2015-03-28",
+        "seacoastonline.com/2015/04/baseball-winless-warriors-allow-nine-runs-in-eighth-loss-to-salem": {
+            "title": "Baseball: Winless Warriors allow nine runs in eighth in loss to Salem...",
+            "snippet": "HAMPTON To witness the top of the eighth inning Friday afternoon was to view a distillation of the Winnacunnet High School baseball teams 0-5 start in total. The Warriors who had just left the bases loaded in the bottom of the seventh...",
+            "date": "2015-04-27",
             "categories": "school,baseball",
-            "tags": "high,high-school,school,baseball,saturday",
-            "recuweb_url": "http://en.recuweb.com/baseball/coloradoan.com/2015/03/liberty-common-baseball-vs-resurrection-christian",
+            "tags": "start,high,high_school,school,baseball,top",
+            "recuweb_url": "http://en.recuweb.com/baseball/seacoastonline.com/2015/04/baseball-winless-warriors-allow-nine-runs-in-eighth-loss-to-salem",
             "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=us",
-            "source_url": "http://coloradoan.com/picture-gallery/sports/2015/03/28/liberty-common-baseball-vs-resurrection-christian/70601842/"
+            "source_url": "http://seacoastonline.com/article/20150427/SPORTS/150429246/-1/BIZ06"
         },
-        "krem.com/2015/03/longtime-wsu-baseball-coach-dies": {
-            "title": "Longtime WSU baseball coach dies...",
-            "snippet": "PULLMAN, Wash. Chuck Bobo Brayton, the long-time Washington State baseball coach and college Hall of Famer who had 1,162 career wins, has died at the age of 89. The university said Brayton died on Saturday morning. Brayton played baseball,...",
-            "date": "2015-03-28",
-            "categories": "university,college,baseball",
-            "tags": "university,said,college,long,baseball,saturday",
-            "recuweb_url": "http://en.recuweb.com/baseball/krem.com/2015/03/longtime-wsu-baseball-coach-dies",
+        "theguardian.com/2015/04/chris-rock-says-black-people-no-longer-like-baseball": {
+            "title": "Chris Rock says black people no longer like baseball and he may be right...",
+            "snippet": "Chris Rock got attention this week for his monologue on HBOs Real Sports on why baseball no longer appeals to black people and the youth. Rock makes a lot of good if not original points in his seven-minute rant. Baseballs glacial pace and stodgy...",
+            "date": "2015-04-27",
+            "categories": "sport,baseball",
+            "tags": "youth,sports,week",
+            "recuweb_url": "http://en.recuweb.com/baseball/theguardian.com/2015/04/chris-rock-says-black-people-no-longer-like-baseball",
             "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=us",
-            "source_url": "http://krem.com/story/news/local/whitman-county/2015/03/28/longtime-wsu-baseball-coach-dies/70599998/"
+            "source_url": "http://theguardian.com/sport/blog/2015/apr/27/chris-rock-says-black-people-no-longer-like-baseball-and-he-may-be-right"
         },
-        "ftw.usatoday.com/2015/03/nascar-s-aric-almirola-is-a-huge-baseball-fan-usa-today": {
-            "title": "NASCAR's Aric Almirola is a huge baseball fan - USA TODAY...",
-            "snippet": "USA TODAYNASCAR's Aric Almirola is a huge baseball fanUSA TODAYMARTINSVILLE, Va. Although race car drivers typically immerse themselves in auto racing, many of them find time to be fans of other sports. Growing up in Tampa, Fla., Aric Almirola was...",
-            "date": "2015-03-28",
-            "categories": "auto-racing,baseball,sport",
-            "tags": "many,racing,baseball,sports,tampa",
-            "recuweb_url": "http://en.recuweb.com/sport/ftw.usatoday.com/2015/03/nascar-s-aric-almirola-is-a-huge-baseball-fan-usa-today",
-            "resource_url": "http://news.google.com/?hl=en&q=baseball%2Bbaseball&output=atom&nord=1",
-            "source_url": "http://ftw.usatoday.com/2015/03/aric-almirola-nascar-baseball"
+        "bleacherreport.com/2015/04/daily-fantasy-baseball-2015-mlb-draftkings-studs-and-duds-for-april": {
+            "title": "Daily Fantasy Baseball 2015: MLB DraftKings Studs and Duds for April 27...",
+            "snippet": "Monday starts a massive week in the world of sports, but MLB fantasy players know it can also be the start of another lucrative week. A full slate of 12 games will be played on Monday night, so owners looking to craft the perfect lineup need to know...",
+            "date": "2015-04-27",
+            "categories": "sport,baseball",
+            "tags": "games,week,fantasy,players,world,sports,mlb,daily,fantasy_baseball,baseball,monday",
+            "recuweb_url": "http://en.recuweb.com/baseball/bleacherreport.com/2015/04/daily-fantasy-baseball-2015-mlb-draftkings-studs-and-duds-for-april",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=us",
+            "source_url": "http://bleacherreport.com/articles/2444485-daily-fantasy-baseball-2015-mlb-draftkings-studs-and-duds-for-april-27"
         },
-        "thv11.com/2015/03/razorback-baseball-falls-short-to-ole-miss-thv-11": {
-            "title": "Razorback baseball falls short to Ole Miss - THV 11...",
-            "snippet": "THV 11Razorback baseball falls short to Ole MissTHV 11The University of Arkansas baseball team (13-13, 2-6) saw a late rally come up short Friday evening as Ole Miss (14-13, 4-4) made an early lead stand up in a 5-4 victory at Baum Stadium in SEC...",
-            "date": "2015-03-28",
-            "categories": "baseball,university",
-            "tags": "stadium,made,evening,baseball,university,team,friday",
-            "recuweb_url": "http://en.recuweb.com/university/thv11.com/2015/03/razorback-baseball-falls-short-to-ole-miss-thv-11",
-            "resource_url": "http://news.google.com/?hl=en&q=baseball%2Bbaseball&output=atom&nord=1",
-            "source_url": "http://thv11.com/story/sports/baseball/2015/03/28/razorbacks-fall-short-to-ole-miss/70582684/"
+        "nypost.com/2015/04/de-blasio-new-yorkers-are-too-mean-to-me-at-baseball": {
+            "title": "De Blasio: New Yorkers are too mean to me at baseball games - New York Post...",
+            "snippet": "New York PostDe Blasio: New Yorkers are too mean to me at baseball gamesNew York PostMayor Bill de Blasio whined to a crowd of hayseeds in the Midwest about how New Yorkers are too mean to him at baseball games and said he was jealous of how well...",
+            "date": "2015-04-27",
+            "categories": "baseball",
+            "tags": "games,baseball",
+            "recuweb_url": "http://en.recuweb.com/baseball/nypost.com/2015/04/de-blasio-new-yorkers-are-too-mean-to-me-at-baseball",
+            "resource_url": "http://news.google.com/?hl=en&q=baseball&output=atom&nord=1",
+            "source_url": "http://nypost.com/2015/04/27/de-blasio-new-yorkers-are-too-mean-to-me-at-baseball-games/"
+        },
+        "sportingnews.com/2015/04/fantasy-baseball-first-pitch-monday-april-27": {
+            "title": "Fantasy Baseball First Pitch: Monday, April 27 -...",
+            "snippet": "Baseball First Pitch: Monday, April 's note: FanDuel is giving away trips to Vegas and tickets to the Mayweather-Pacquiao fight! Find out how to win! BOOKMARK: Sporting News Fantasy FOLLOW: SN_Fantasy. Ryan Braun (Getty Images). SPLITS TO KNOW. -...",
+            "date": "2015-04-27",
+            "categories": "baseball",
+            "tags": "fantasy,baseball,fantasy_baseball,monday",
+            "recuweb_url": "http://en.recuweb.com/baseball/sportingnews.com/2015/04/fantasy-baseball-first-pitch-monday-april-27",
+            "resource_url": "http://news.google.com/?hl=en&q=baseball&output=atom&nord=1",
+            "source_url": "http://sportingnews.com/fantasy/mlb/story/2015-04-26/fantasy-baseball-sleepers-pitcher-rankings-streamers-matchups-weather-splits-closers-dfs-braun-price-kluber"
+        },
+        "thestate.com/2015/04/gamecocks-in-pro-baseball": {
+            "title": "Gamecocks in Pro Baseball...",
+            "snippet": "Is 0-0 with a ERA. Has struck out 11 and walked seven in 11 2-3 innings. Steve Pearce, OF, Baltimore Hitting.196 with two homers and seven RBIs in 15 games. Justin Smoak, 1B, Toronto Hitting.229 with no homers and six RBIs in 16 games. Steven...",
+            "date": "2015-04-27",
+            "categories": "baseball",
+            "tags": "baseball,innings,games",
+            "recuweb_url": "http://en.recuweb.com/baseball/thestate.com/2015/04/gamecocks-in-pro-baseball",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=us",
+            "source_url": "http://thestate.com/sports/college/university-of-south-carolina/david-cloninger-blog/article19704783.html"
+        },
+        "radioiowa.com/2015/04/iowa-baseball-team-sweeps-nebraska": {
+            "title": "Iowa baseball team sweeps Nebraska...",
+            "snippet": "The 17th ranked Iowa baseball team completed a sweep of Nebraska on Sunday. Tyler Peyton bounced back from a foot injury and pitched 8 and a third innings as the Hawks completed the sweep with a 5-1 victory. A great sweep against these guys, a...",
+            "date": "2015-04-27",
+            "categories": "baseball",
+            "tags": "great,innings,injury,back,team,baseball,victory",
+            "recuweb_url": "http://en.recuweb.com/baseball/radioiowa.com/2015/04/iowa-baseball-team-sweeps-nebraska",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=us",
+            "source_url": "http://radioiowa.com/2015/04/27/iowa-baseball-team-sweeps-nebraska/"
+        },
+        "dailycaller.com/2015/04/is-baseball-too-white-daily-caller": {
+            "title": "Is Baseball Too White? - Daily Caller...",
+            "snippet": "Chicago Tribune (blog)Is Baseball Too White?Daily CallerHe has stats to back up his contention that baseball is dying. Little League participation is down 20 percent since 1995 and TV ratings for the World Series are down 50 percent and five out of...",
+            "date": "2015-04-27",
+            "categories": "baseball",
+            "tags": "world,series,league,back,daily,baseball",
+            "recuweb_url": "http://en.recuweb.com/baseball/dailycaller.com/2015/04/is-baseball-too-white-daily-caller",
+            "resource_url": "http://news.google.com/?hl=en&q=baseball&output=atom&nord=1",
+            "source_url": "http://dailycaller.com/2015/04/26/is-baseball-too-white/"
         }
     }
 }
