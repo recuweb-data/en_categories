@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "economy",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/economy/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/economy/economy/blogs.json"
     },
     "items": {
-        "nytimes.com/2015/04/china-s-economy-puts-new-pressure-on-its-lopsided-job-market": {
-            "title": "China's Economy Puts New Pressure on Its Lopsided Job Market - New York Times...",
-            "snippet": "New York TimesChina's Economy Puts New Pressure on Its Lopsided Job MarketNew York TimesAgriculture jobs have been declining for years, the result of urbanization and the country's continuing economic transformation. And China's huge manufacturing...",
-            "date": "2015-04-22",
-            "categories": "urbanization,economy",
-            "tags": "huge,economic,economy",
-            "recuweb_url": "http://en.recuweb.com/economy/nytimes.com/2015/04/china-s-economy-puts-new-pressure-on-its-lopsided-job-market",
-            "resource_url": "http://news.google.com/?hl=en&q=economy%2Beconomy&output=atom&nord=1",
-            "source_url": "http://nytimes.com/2015/04/22/business/international/chinas-economy-puts-new-pressure-on-a-changing-job-market.html"
-        },
-        "businessinsider.com/2015/04/economy-to-rebound-in-second-quarter-strong-dollar-a-threat-reuters": {
-            "title": "Economy to rebound in second quarter; strong dollar a threat: Reuters poll - Business Insider...",
-            "snippet": "Business InsiderEconomy to rebound in second quarter; strong dollar a threat: Reuters pollBusiness InsiderWASHINGTON (Reuters) - U.S. economic growth is set to rebound in the second quarter, but a strong dollar could slow momentum and push the first...",
-            "date": "2015-04-22",
-            "categories": "economic-growth,business,economy",
-            "tags": "economic,economy,reuters,poll",
-            "recuweb_url": "http://en.recuweb.com/economy/businessinsider.com/2015/04/economy-to-rebound-in-second-quarter-strong-dollar-a-threat-reuters",
-            "resource_url": "http://news.google.com/?hl=en&q=economy%2Beconomy&output=atom&nord=1",
-            "source_url": "http://businessinsider.com/r-economy-to-rebound-in-second-quarter-strong-dollar-a-threat-reuters-poll-2015-4"
-        },
-        "bbc.co.uk/2015/04/election-2015-economy-debate-takes-centre-stage-bbc-news": {
-            "title": "Election 2015: Economy debate takes centre stage - BBC News...",
-            "snippet": "BBC NewsElection 2015: Economy debate takes centre stageBBC NewsElection campaigning is to focus on the economy as Labour and the Tories attack each other's plans before independent analysts present their verdict. Labour leader Ed Miliband will...",
-            "date": "2015-04-22",
-            "categories": "economy",
-            "tags": "economy",
-            "recuweb_url": "http://en.recuweb.com/economy/bbc.co.uk/2015/04/election-2015-economy-debate-takes-centre-stage-bbc-news",
-            "resource_url": "http://news.google.com/?hl=en&q=economy%2Beconomy&output=atom&nord=1",
-            "source_url": "http://bbc.co.uk/news/election-2015-32424739"
-        },
-        "foxnews.com/2015/04/fox-news-poll-voters-are-feeling-better-about-the-economy": {
-            "title": "Fox News Poll: Voters are feeling better about the economy, but not great...",
-            "snippet": "More than half of voters remain dissatisfied with the direction of the country -- despite economic sentiment improving significantly since President Obama took office. That's according to a Fox News poll released Wednesday. Fifty-six percent of...",
-            "date": "2015-04-22",
-            "categories": "economy",
-            "tags": "poll,economic,economy",
-            "recuweb_url": "http://en.recuweb.com/economy/foxnews.com/2015/04/fox-news-poll-voters-are-feeling-better-about-the-economy",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=economy&format=RSS&cc=us",
-            "source_url": "http://foxnews.com/politics/2015/04/22/fox-news-poll-voters-are-feeling-better-about-economy-but-not-great/"
-        },
-        "reuters.com/2015/04/germany-s-economy-is-back-on-track": {
-            "title": "Germany's economy is back on track...",
-            "snippet": "Germany's government is predicting a bright spring outlook for the economy. But with train strikes causing commuter misery and a Greek exit from the euro zone still a prospect there are obstacles, as Ivor Bennett reports. 3,000 train drivers at...",
-            "date": "2015-04-22",
-            "categories": "economy",
-            "tags": "back,back-on-track,track,economy,exit",
-            "recuweb_url": "http://en.recuweb.com/economy/reuters.com/2015/04/germany-s-economy-is-back-on-track",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=economy&format=RSS&cc=us",
-            "source_url": "http://reuters.com/video/2015/04/22/germanys-economy-is-back-on-track?videoId=363953536"
-        },
-        "reuters.com/2015/04/japan-march-export-gains-may-get-economy-back-on-track-reuters": {
-            "title": "Japan March export gains may get economy back on track - Reuters...",
-            "snippet": "ReutersJapan March export gains may get economy back on trackReutersPolicymakers are keen to see exports accelerate because it is an important driver of corporate earnings, which they hope will eventually translate into higher salaries for workers...",
-            "date": "2015-04-22",
-            "categories": "economy",
-            "tags": "into,corporate,back,back-on-track,track,economy,reuters",
-            "recuweb_url": "http://en.recuweb.com/economy/reuters.com/2015/04/japan-march-export-gains-may-get-economy-back-on-track-reuters",
+        "reuters.com/2015/04/africa-business-lagos-port-still-a-bottleneck-for-s-top-economy": {
+            "title": "AFRICA BUSINESS-Lagos port still a bottleneck for Africa's top economy - Reuters...",
+            "snippet": "AFRICA BUSINESS-Lagos port still a bottleneck for Africa's top economyReutersLAGOS, April 27 (Reuters) - The road leading to the Lagos port, which handles nearly everything that Africa's biggest economy imports, is one of the most congested in a...",
+            "date": "2015-04-27",
+            "categories": "business,economy",
+            "tags": "nearly,economy",
+            "recuweb_url": "http://en.recuweb.com/economy/reuters.com/2015/04/africa-business-lagos-port-still-a-bottleneck-for-s-top-economy",
             "resource_url": "http://news.google.com/?hl=en&q=economy&output=atom&nord=1",
-            "source_url": "http://reuters.com/article/2015/04/22/us-japan-economy-trade-idUSKBN0ND01R20150422"
+            "source_url": "http://reuters.com/article/2015/04/27/nigeria-port-idUSL5N0XI4V820150427"
         },
-        "sltrib.com/2015/04/national-parks-pumped-730m-into-utahs-economy-last-year": {
-            "title": "National parks pumped 730M into Utahs economy last year...",
-            "snippet": "Washington Visitors to Utah's national parks pumped 730 million into the state's economy last year, a three-year high that the National Park Service suggests shows the increasing value of protecting treasured landscapes across the country. Utah's...",
-            "date": "2015-04-22",
+        "express.co.uk/2015/04/david-cameron-we-have-just-11-days-to-save-britain": {
+            "title": "David Cameron: We have just 11 days to save Britain...",
+            "snippet": "The Prime Minister also pledged to end the North-South divide and deliver a truly balanced recovery with his commitment to focus on economy, economy, economy in the partys first 100 days in power. Mr Cameron said only the Tory party could...",
+            "date": "2015-04-27",
             "categories": "economy",
-            "tags": "into,economy",
-            "recuweb_url": "http://en.recuweb.com/economy/sltrib.com/2015/04/national-parks-pumped-730m-into-utahs-economy-last-year",
+            "tags": "said,days,power,recovery,focus,minister,economy",
+            "recuweb_url": "http://en.recuweb.com/economy/express.co.uk/2015/04/david-cameron-we-have-just-11-days-to-save-britain",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=economy%2Beconomy&format=RSS&cc=us",
+            "source_url": "http://express.co.uk/news/politics/572955/Economy-number-one-priority-vows-PM"
+        },
+        "news.asiaone.com/2015/04/decline-in-us-science-spending-threatens-economy-security-mit": {
+            "title": "Decline in US science spending threatens economy, security: MIT...",
+            "snippet": "NEW YORK - Warning of an innovation deficit, scientists at the Massachusetts Institute of Technology say declining government spending on basic research is holding back potentially life-saving advances in 15 fields, from robotics and fusion energy...",
+            "date": "2015-04-27",
+            "categories": "robotics,government-spending,life,institute,science,economy,technology",
+            "tags": "spending,back,york,economy",
+            "recuweb_url": "http://en.recuweb.com/technology/news.asiaone.com/2015/04/decline-in-us-science-spending-threatens-economy-security-mit",
             "resource_url": "http://www.bing.com/news/search?first=1&q=economy&format=RSS&cc=us",
-            "source_url": "http://sltrib.com/news/2429112-155/national-parks-pumped-730m-into-utahs"
+            "source_url": "http://news.asiaone.com/news/science-and-tech/decline-us-science-spending-threatens-economy-security-mit"
         },
-        "theguardian.com/2015/04/oceans-are-world-s-seventh-largest-economy-worth-24tn-says-wwf": {
-            "title": "Oceans are world's seventh largest economy worth 24tn, says WWF report - The Guardian...",
-            "snippet": "The GuardianOceans are world's seventh largest economy worth 24tn, says WWF reportThe GuardianThis economic clout would make the oceans the seventh largest economy in the world although the report's authors, which include the Boston Consulting...",
-            "date": "2015-04-22",
+        "business-reporter.co.uk/2015/04/economists-expecting-economy-to-slow-down": {
+            "title": "Economists expecting economy to slow down...",
+            "snippet": "The pace of Britains economic recovery will come into focus tomorrow with official figures expected to reveal that it slowed in the first three months of this year. Official figures on GDP will come nine days ahead of the General Election and are...",
+            "date": "2015-04-27",
             "categories": "economy",
-            "tags": "world,report,economic,economy",
-            "recuweb_url": "http://en.recuweb.com/economy/theguardian.com/2015/04/oceans-are-world-s-seventh-largest-economy-worth-24tn-says-wwf",
-            "resource_url": "http://news.google.com/?hl=en&q=economy%2Beconomy&output=atom&nord=1",
-            "source_url": "http://theguardian.com/environment/2015/apr/23/oceans-are-worlds-seventh-largest-economy-worth-24tn-says-wwf-report"
-        },
-        "bloombergview.com/2015/04/south-koreans-bicker-over-their-tanking-economy-bloomberg": {
-            "title": "South Koreans Bicker Over Their Tanking Economy - Bloomberg View...",
-            "snippet": "Bloomberg ViewSouth Koreans Bicker Over Their Tanking EconomyBloomberg ViewWhen Korea's economy crashed in 1997, the catalyst was massive corporate debt. As part of its recovery efforts, Seoul created incentives to shift the nation's debt profile...",
-            "date": "2015-04-22",
-            "categories": "economy",
-            "tags": "efforts,corporate,economy",
-            "recuweb_url": "http://en.recuweb.com/economy/bloombergview.com/2015/04/south-koreans-bicker-over-their-tanking-economy-bloomberg",
-            "resource_url": "http://news.google.com/?hl=en&q=economy%2Beconomy&output=atom&nord=1",
-            "source_url": "http://bloombergview.com/articles/2015-04-22/south-koreans-bicker-over-their-tanking-economy"
-        },
-        "forbes.com/2015/04/the-vast-implications-of-networked-economy": {
-            "title": "The Vast Implications Of The Networked Economy...",
-            "snippet": "Connections are changing the world. The connectivity enabled by the Internet has huge implications for the very structure of the global economy. While estimates of the Nets contribution to economic output vary, its generally thought that it...",
-            "date": "2015-04-22",
-            "categories": "economy,internet",
-            "tags": "economic,huge,world,economy,global",
-            "recuweb_url": "http://en.recuweb.com/internet/forbes.com/2015/04/the-vast-implications-of-networked-economy",
+            "tags": "election,days,recovery,into,focus,economy",
+            "recuweb_url": "http://en.recuweb.com/economy/business-reporter.co.uk/2015/04/economists-expecting-economy-to-slow-down",
             "resource_url": "http://www.bing.com/news/search?first=1&q=economy&format=RSS&cc=us",
-            "source_url": "http://forbes.com/sites/techonomy/2015/04/22/the-vast-implications-of-the-networked-economy/"
+            "source_url": "http://business-reporter.co.uk/2015/04/27/economists-expecting-economy-to-slow-down/"
+        },
+        "multihousingnews.com/2015/04/economy-watch-transit-indicators-positive-for-retail-industrial-sectors": {
+            "title": "Economy Watch: Transit Indicators Positive for Retail, Industrial Sectors...",
+            "snippet": "Trucking is as a barometer of the U.S. economy, since it tracks the movement of manufactured and retail goodswhich move in response to demand. All together, the trucking industry represents nearly 70 percent of tonnage carried by all modes of U.S...",
+            "date": "2015-04-27",
+            "categories": "economy",
+            "tags": "nearly,move,economy",
+            "recuweb_url": "http://en.recuweb.com/economy/multihousingnews.com/2015/04/economy-watch-transit-indicators-positive-for-retail-industrial-sectors",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=economy&format=RSS&cc=us",
+            "source_url": "http://multihousingnews.com/headlinenews/economy-watch-transit-indicators-positive-for-retail-industrial-sectors/1004119261.html"
+        },
+        "nytimes.com/2015/04/kazakhstan-president-set-to-win-fifth-term-even-as-economy-falters": {
+            "title": "Kazakhstan President Set to Win Fifth Term, Even as Economy Falters - New York Times...",
+            "snippet": "New York TimesKazakhstan President Set to Win Fifth Term, Even as Economy FaltersNew York TimesThe election was called in February, seen as a move by Mr. Nazarbayev to win a vote of confidence as Kazakhstan, Central Asia's largest country, faces a...",
+            "date": "2015-04-27",
+            "categories": "economy",
+            "tags": "faces,central,move,election,economy,york",
+            "recuweb_url": "http://en.recuweb.com/economy/nytimes.com/2015/04/kazakhstan-president-set-to-win-fifth-term-even-as-economy-falters",
+            "resource_url": "http://news.google.com/?hl=en&q=economy%2Beconomy&output=atom&nord=1",
+            "source_url": "http://nytimes.com/2015/04/27/world/asia/kazakhstan-president-nursultan-nazarbayev-election.html"
+        },
+        "10news.com/2015/04/nepal-s-earthquake-could-cripple-its-vital-tourism-economy": {
+            "title": "Nepal's Earthquake Could Cripple Its Vital Tourism Economy...",
+            "snippet": "Mount Everest is host to hundreds of visitors every year, yet some never return. After Nepal's devastating earthquake Saturday, world traveler Carsten Lillelund Pedersen posted this video to his Use The World Facebook page Sunday showing just how...",
+            "date": "2015-04-27",
+            "categories": "facebook,tourism,economy",
+            "tags": "world,facebook,economy,nepal,sunday",
+            "recuweb_url": "http://en.recuweb.com/economy/10news.com/2015/04/nepal-s-earthquake-could-cripple-its-vital-tourism-economy",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=economy&format=RSS&cc=us",
+            "source_url": "http://10news.com/newsy/nepals-earthquake-could-cripple-its-vital-tourism-economy"
+        },
+        "bloomberg.com/2015/04/nepal-s-slowing-economy-set-for-freefall-without-world-help-bloomberg": {
+            "title": "Nepal's Slowing Economy Set for Freefall Without World's Help - Bloomberg...",
+            "snippet": "BloombergNepal's Slowing Economy Set for Freefall Without World's HelpBloombergKathmandu is central to the nation's economy, and it's crippled, Madhukar SJB Rana, a former finance minister, said in a phone interview on Sunday after spending the...",
+            "date": "2015-04-27",
+            "categories": "finance,economy",
+            "tags": "spending,said,minister,central,world,economy,nepal,sunday",
+            "recuweb_url": "http://en.recuweb.com/economy/bloomberg.com/2015/04/nepal-s-slowing-economy-set-for-freefall-without-world-help-bloomberg",
+            "resource_url": "http://news.google.com/?hl=en&q=economy%2Beconomy&output=atom&nord=1",
+            "source_url": "http://bloomberg.com/news/articles/2015-04-26/nepal-s-slowing-economy-set-for-freefall-without-world-s-help"
+        },
+        "economictimes.indiatimes.com/2015/04/not-just-lives-quake-flattens-nepal-s-impoverished-economy-too": {
+            "title": "Not just lives, quake flattens Nepal's impoverished economy too...",
+            "snippet": "ET SPECIAL:Love visual aspect of news? Enjoy this exclusive slideshows treat! KATHMANDU: Nepal faces a crippling multi-billion dollar post-quake reconstruction bill that will set it back years, just as its economy was looking up after a decade-long...",
+            "date": "2015-04-27",
+            "categories": "economy,love",
+            "tags": "back,faces,nepal,economy",
+            "recuweb_url": "http://en.recuweb.com/love/economictimes.indiatimes.com/2015/04/not-just-lives-quake-flattens-nepal-s-impoverished-economy-too",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=economy&format=RSS&cc=us",
+            "source_url": "http://economictimes.indiatimes.com/news/international/world-news/not-just-lives-quake-flattens-nepals-impoverished-economy-too/articleshow/47069287.cms"
+        },
+        "america.aljazeera.com/2015/04/nuclear-deal-could-unleash-iran-s-economy-al-jazeera-america": {
+            "title": "Nuclear deal could unleash Iran's economy - Al Jazeera America...",
+            "snippet": "Al Jazeera AmericaNuclear deal could unleash Iran's economyAl Jazeera AmericaAfter almost 15 years of intermittent negotiations, Iran and the P5 1 group of six major world powers have reached a comprehensive agreement over Iran's nuclear program.",
+            "date": "2015-04-27",
+            "categories": "economy",
+            "tags": "world,economy",
+            "recuweb_url": "http://en.recuweb.com/economy/america.aljazeera.com/2015/04/nuclear-deal-could-unleash-iran-s-economy-al-jazeera-america",
+            "resource_url": "http://news.google.com/?hl=en&q=economy%2Beconomy&output=atom&nord=1",
+            "source_url": "http://america.aljazeera.com/opinions/2015/4/nuclear-deal-could-unleash-irans-economy.html"
         }
     }
 }
