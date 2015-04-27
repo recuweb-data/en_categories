@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "homebrewing",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/homebrewing/",
@@ -10,48 +11,15 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/homebrewing/homebrewing/blogs.json"
     },
     "items": {
-        "thelocalgood.ca/2015/04/home-brewing-in-edmonton-the-local-good": {
-            "title": "Home brewing in Edmonton The Local Good...",
-            "snippet": "Home brewing is an easy, creative, fun and rewarding hobby. Find out how to get started in Edmonton!",
-            "date": "2015-04-23",
-            "author_name": "Elyse Williams",
-            "categories": "home",
-            "tags": "fun,hobby,local,good,home,brewing,easy",
-            "recuweb_url": "http://en.recuweb.com/home/thelocalgood.ca/2015/04/home-brewing-in-edmonton-the-local-good",
-            "resource_url": "http://www.google.com/search?q=homebrewing%2Bhomebrewing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://thelocalgood.ca/edmonton-beer-clubs-offer-advice-on-home-brewing/"
-        },
-        "beersmith.com/2015/04/three-of-my-favorite-beer-styles-with-recipes-home-brewing": {
-            "title": "Three of my Favorite Beer Styles with Recipes Home Brewing Beer...",
-            "snippet": "Today I thought I would share a few of my favorite beer styles and provide links to a few recipes you also might enjoy. These are all ales you can brew yourself.",
-            "date": "2015-04-20",
-            "author_name": "Brad Smith and Friends",
-            "categories": "home,homebrewing",
-            "tags": "ales,enjoy,would,recipes,home,home_brewing,brewing,brewing_beer,beer,today,brew",
-            "recuweb_url": "http://en.recuweb.com/homebrewing/beersmith.com/2015/04/three-of-my-favorite-beer-styles-with-recipes-home-brewing",
-            "resource_url": "http://www.google.com/search?q=homebrewing%2Bhomebrewing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://beersmith.com/blog/2015/04/20/three-of-my-favorite-beer-styles-with-recipes/"
-        },
-        "uplandbeer.com/2015/04/upcup-homebrewing-competition-upland": {
-            "title": "UpCup Homebrewing Competition Upland...",
-            "snippet": "It's about that time of year where our focus at Upland turns to our homebrewing brethren. Every Spring,Upland Brewing Company hosts the UpCup, a homebrewing competition where brewers can have their beer judged by...",
-            "date": "2015-04-18",
-            "author_name": "admin",
-            "categories": "homebrewing",
-            "tags": "competition,brewers,brewing,every,year,homebrewing,beer",
-            "recuweb_url": "http://en.recuweb.com/homebrewing/uplandbeer.com/2015/04/upcup-homebrewing-competition-upland",
-            "resource_url": "http://www.google.com/search?q=homebrewing%2Bhomebrewing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://uplandbeer.com/event/upcup-homebrewing-competition/"
-        },
         "bostonlocalfoodfestival.com/2015/04/10-must-do-steps-for-sustainable-homebrewing-boston-local": {
             "title": "10 Must-Do Steps for Sustainable Homebrewing - Boston Local...",
             "snippet": "1.2 million U.S. homebrewers brew smaller batches, but use fewer resources. They use kegs or reuse bottles, but no need for distribution.",
             "date": "2015-04-17",
             "author_name": "Mili",
             "categories": "homebrewing",
-            "tags": "local,homebrewing,homebrewers,brew,need",
+            "tags": "local,homebrewing,homebrewers,brew",
             "recuweb_url": "http://en.recuweb.com/homebrewing/bostonlocalfoodfestival.com/2015/04/10-must-do-steps-for-sustainable-homebrewing-boston-local",
-            "resource_url": "http://www.google.com/search?q=homebrewing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=homebrewing%2Bhomebrewing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bostonlocalfoodfestival.com/2015/04/10-must-steps-sustainable-homebrewing/"
         },
         "mountainroseblog.com/2015/04/the-mountain-rose-blog-adventures-in-herbal-home-brewing": {
@@ -60,7 +28,7 @@
             "date": "2015-04-13",
             "author_name": "Kori",
             "categories": "love,home,homebrewing",
-            "tags": "attempt,years,home,home_brewing,brewing,first,beer,making,grain",
+            "tags": "attempt,home,home_brewing,brewing,beer,making,grain",
             "recuweb_url": "http://en.recuweb.com/homebrewing/mountainroseblog.com/2015/04/the-mountain-rose-blog-adventures-in-herbal-home-brewing",
             "resource_url": "http://www.google.com/search?q=homebrewing%2Bhomebrewing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://mountainroseblog.com/adventures-home-brewing/"
@@ -70,7 +38,7 @@
             "snippet": "About to take the leap from homebrewing to semi-professional brewing. Here's my wife trying out one...",
             "date": "2015-03-10",
             "categories": "homebrewing",
-            "tags": "homebrewing,brewing,here",
+            "tags": "wife,homebrewing,brewing,here",
             "recuweb_url": "http://en.recuweb.com/homebrewing/reddit.com/2015/03/about-to-take-the-leap-from-homebrewing-semi-professional-brewing-here",
             "resource_url": "http://www.reddit.com/search.rss?q=homebrewing%2Bhomebrewing&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/Homebrewing/comments/2yldlb/about_to_take_the_leap_from_homebrewing_to/"
@@ -81,7 +49,7 @@
             "date": "2015-02-17",
             "author_name": "Brad Smith and Friends",
             "categories": "home",
-            "tags": "believe,book,homebrew,home,brewing,week",
+            "tags": "book,randy,randy_mosher,mosher,homebrew,home,brewing,week",
             "recuweb_url": "http://en.recuweb.com/home/beersmith.com/2015/02/mastering-homebrew-with-randy-mosher-beersmith-podcast-98",
             "resource_url": "http://www.google.com/search?q=homebrewing%2Bhomebrewing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://beersmith.com/blog/2015/02/17/mastering-homebrew-with-randy-mosher-beersmith-podcast-98/"
@@ -92,31 +60,64 @@
             "date": "2015-02-06",
             "author_name": "helenhollyman-admin",
             "categories": "life,homebrewing",
-            "tags": "able,life,homebrewing,ingredients,work",
+            "tags": "ingredients,said,life,homebrewing",
             "recuweb_url": "http://en.recuweb.com/homebrewing/munchies.vice.com/2015/02/how-illegal-homebrewing-in-saudi-arabia-changed-my-life",
             "resource_url": "http://www.google.com/search?q=homebrewing%2Bhomebrewing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://munchies.vice.com/articles/how-illegal-homebrewing-in-teetotaling-saudi-arabia-changed-my-life"
         },
-        "fox17online.com/2014/12/zymatic-beer-machine": {
-            "title": "Zymatic Beer Machine...",
-            "snippet": "[ooyala code=\"1zcW9jcjr-DAcr8Y1jGmFR7L5Iw1H7Tu\" player_id=\"5303db80d4274ad2b2ceadc3cffff2ae\"] From Homebrewing Frustrations to the PicoBrew Zymatic We believe everyone should be able to enjoy the art of homebrewing and make their own damn-good craft...",
-            "date": "2014-12-18",
-            "author_name": "FOX 17",
-            "categories": "homebrewing",
-            "tags": "own,believe,able,enjoy,homebrewing,beer,make,good,craft",
-            "recuweb_url": "http://en.recuweb.com/homebrewing/fox17online.com/2014/12/zymatic-beer-machine",
-            "resource_url": "http://en.search.wordpress.com/?q=homebrewing%2Bhomebrewing&f=feed&page=1",
-            "source_url": "http://fox17online.com/2014/12/18/zymatic-beer-machine/"
+        "wired.co.uk/2015/01/home-brewing-machine-automates-craft-beer-creation-wired-uk": {
+            "title": "Home brewing machine automates craft beer creation (Wired UK)...",
+            "snippet": "CES is full of kitchen gadgets from the mundane to the bizarre, but when we were presented with the world's first fully automatic all-grain beer brewing appliance, we were intrigued, and maybe just a little thirsty. The PicoBrew...",
+            "date": "2015-01-08",
+            "author_name": "Katie Collins",
+            "categories": "kitchen,home",
+            "tags": "maybe,home,brewing,craft,beer,world,grain",
+            "recuweb_url": "http://en.recuweb.com/home/wired.co.uk/2015/01/home-brewing-machine-automates-craft-beer-creation-wired-uk",
+            "resource_url": "http://www.google.com/search?q=homebrewing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://wired.co.uk/news/archive/2015-01/08/picobrew-zymatic"
         },
         "reddit.com/2014/09/where-are-you-from-r-homebrewing": {
             "title": "Where are you from,/r/homebrewing?",
             "snippet": "Hi all After reading the/r/homebrewing competition thread, it got me thinking- where is everybody from? I know there are a great many Americans in this sub, but exactly how many are from elsewhere? And if you are from the States- which state?",
             "date": "2014-09-05",
             "categories": "homebrewing",
-            "tags": "state,many,great,thinking,competition,homebrewing",
+            "tags": "state,great,thinking,homebrewing",
             "recuweb_url": "http://en.recuweb.com/homebrewing/reddit.com/2014/09/where-are-you-from-r-homebrewing",
             "resource_url": "http://www.reddit.com/search.rss?q=homebrewing%2Bhomebrewing&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/Homebrewing/comments/2fjwkm/where_are_you_from_rhomebrewing/"
+        },
+        "leoprefinsudolimenthankmet.wordpress.com/2014/07/the-complete-joy-of-homebrewing-charles-papazian-ray-daniels-john-j": {
+            "title": "The Complete Joy of Homebrewing - Charles Papazian, Ray Daniels, John J. Palmer, Randy Mosher, Stan...",
+            "snippet": "The Complete Joy of Homebrewing - Charles Papazian, Ray Daniels, John J. Palmer, Randy Mosher, Stan...",
+            "date": "2014-07-26",
+            "author_name": "leoprefinsudolimenthankmet",
+            "categories": "homebrewing",
+            "tags": "randy,randy_mosher,mosher,ray,ray_daniels,daniels,charles,charles_papazian,papazian,complete,complete_joy,joy,homebrewing,john",
+            "recuweb_url": "http://en.recuweb.com/homebrewing/leoprefinsudolimenthankmet.wordpress.com/2014/07/the-complete-joy-of-homebrewing-charles-papazian-ray-daniels-john-j",
+            "resource_url": "http://en.search.wordpress.com/?q=homebrewing%2Bhomebrewing&f=feed&page=1",
+            "source_url": "http://leoprefinsudolimenthankmet.wordpress.com/2014/07/26/the-complete-joy-of-homebrewing-charles-papazian-ray-daniels-john-j-palmer-randy-mosher-stan-hieronymus-sam-calagione-chris-white-garrett-oliver-christina-perozzi-maureen-ogle-stephen-ha/"
+        },
+        "senbcolgoldsturenberokese.wordpress.com/2014/06/homebrewer-s-companion-second-edition-the-complete-joy-of-homebrewing-master": {
+            "title": "Homebrewer's Companion Second Edition: The Complete Joy of Homebrewing, Master's Edition...",
+            "snippet": "Homebrewer's Companion Second Edition: The Complete Joy of Homebrewing, Master's Edition Homebrewer's Companion Second Edition: The Complete Joy of Homebrewing, Master's Edition by Charles Papazian, Ray Daniels, Randy Mosher,...",
+            "date": "2014-06-03",
+            "author_name": "senbcolgoldsturenberokese",
+            "categories": "homebrewing",
+            "tags": "randy,randy_mosher,mosher,ray,ray_daniels,daniels,charles,charles_papazian,papazian,complete,complete_joy,joy,edition,homebrewer,homebrewing",
+            "recuweb_url": "http://en.recuweb.com/homebrewing/senbcolgoldsturenberokese.wordpress.com/2014/06/homebrewer-s-companion-second-edition-the-complete-joy-of-homebrewing-master",
+            "resource_url": "http://en.search.wordpress.com/?q=homebrewing%2Bhomebrewing&f=feed&page=1",
+            "source_url": "http://senbcolgoldsturenberokese.wordpress.com/2014/06/03/homebrewers-companion-second-edition-the-complete-joy-of-homebrewing-masters-edition/"
+        },
+        "raspberrypi.org/2014/03/automated-home-brewing-raspberry-pi": {
+            "title": "Automated home brewing Raspberry Pi...",
+            "snippet": "The office conversation this lunchtime went a bit like this: Me: Two beer posts in a week is too much, isn't it. Ben: Maybe. Me: OK. Damn shame: I've been sent a great automated brewing project; it's way more complicated...",
+            "date": "2014-03-28",
+            "author_name": "liz",
+            "categories": "home",
+            "tags": "way,great,home,brewing,beer,maybe",
+            "recuweb_url": "http://en.recuweb.com/home/raspberrypi.org/2014/03/automated-home-brewing-raspberry-pi",
+            "resource_url": "http://www.google.com/search?q=homebrewing%2Bhomebrewing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://raspberrypi.org/automated-home-brewing/"
         }
     }
 }
