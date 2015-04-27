@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "diacritics",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/diacritics/",
@@ -10,72 +11,62 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/diacritics/diacritics/blogs.json"
     },
     "items": {
-        "washingtonpost.com/2015/02/the-surprisingly-complex-reason-you-never-see-emoji-urls": {
-            "title": "The surprisingly complex reason you never see emoji URLs...",
-            "snippet": "See, in ye earlie days of the Internet, URLs the things you type into an address bar to navigate to a Web site could only be written in Latin characters without diacritics, like the ones Im currently typing in. Latin characters correspond...",
-            "date": "2015-02-23",
-            "categories": "internet,diacritics",
-            "tags": "type,into,never,urls,latin,characters,diacritics",
-            "recuweb_url": "http://en.recuweb.com/diacritics/washingtonpost.com/2015/02/the-surprisingly-complex-reason-you-never-see-emoji-urls",
+        "news.cornell.edu/2015/04/scholars-cite-role-of-cornell-in-humanities-transformation": {
+            "title": "Scholars cite role of Cornell in humanities transformation...",
+            "snippet": "Culler emphasized contributions by other Cornell scholars including government professor Benedict Anderson, whose 1983 work Imagined Communities assessed cultural factors in creating communities and national identities; the Diacritics journal...",
+            "date": "2015-04-26",
+            "categories": "humanities,diacritics",
+            "tags": "other,diacritics",
+            "recuweb_url": "http://en.recuweb.com/diacritics/news.cornell.edu/2015/04/scholars-cite-role-of-cornell-in-humanities-transformation",
             "resource_url": "http://www.bing.com/news/search?first=1&q=diacritics&format=RSS&cc=us",
-            "source_url": "http://washingtonpost.com/news/the-intersect/wp/2015/02/23/the-surprisingly-complex-reason-you-never-see-emoji-urls/"
+            "source_url": "http://news.cornell.edu/stories/2015/04/scholars-cite-role-cornell-humanities-transformation"
         },
-        "examiner.com/2015/02/how-to-avoid-resume-parsing-issues": {
-            "title": "How to Avoid Resume Parsing Issues...",
-            "snippet": "Diacritics, such as those accent marks found over the es in the word resume may cause your resume to be parsed incorrectly. Some common parsing mistakes include your name ending up in the incorrect fields, one phone number that is parsed into...",
-            "date": "2015-02-19",
-            "categories": "diacritics",
-            "tags": "into,accent,accent-marks,marks,found,diacritics",
-            "recuweb_url": "http://en.recuweb.com/diacritics/examiner.com/2015/02/how-to-avoid-resume-parsing-issues",
+        "fastcodesign.com/2015/04/new-poster-makes-understanding-type-as-easy-learning-the-abcs": {
+            "title": "New Poster Makes Understanding Type As Easy As Learning The ABCs...",
+            "snippet": "Although the design seems simple at first glance, there's actually a lot to discover here. Kerning, glyphs, line spacing, leading, diacritics, swashes, and more are all covered. It's a great poster for type-loving adults, but it'd also be a great...",
+            "date": "2015-04-22",
+            "categories": "learning,diacritics",
+            "tags": "type,here,design,diacritics",
+            "recuweb_url": "http://en.recuweb.com/diacritics/fastcodesign.com/2015/04/new-poster-makes-understanding-type-as-easy-learning-the-abcs",
             "resource_url": "http://www.bing.com/news/search?first=1&q=diacritics&format=RSS&cc=us",
-            "source_url": "http://examiner.com/article/how-to-avoid-resume-parsing-issues"
+            "source_url": "http://fastcodesign.com/3045230/infographic-of-the-day/new-poster-makes-understanding-type-as-easy-as-learning-the-abcs"
+        },
+        "pri.org/2015/04/after-a-little-political-pressure-lindstr%C3%B6m-minnesota-gets-its-%C3%B6-back": {
+            "title": "After a little political pressure, Lindstr\u00f6m, Minnesota, gets its \u00d6 back...",
+            "snippet": "Generally speaking English is thought of as the language where diacritics go to die. All of the accents and the dots usually disappear, he says. America is the place where when you come to America, you sort of drop your clothes from the Old World...",
+            "date": "2015-04-15",
+            "categories": "diacritics",
+            "tags": "old,world,come,accents,little,back,english,diacritics",
+            "recuweb_url": "http://en.recuweb.com/diacritics/pri.org/2015/04/after-a-little-political-pressure-lindstr%C3%B6m-minnesota-gets-its-%C3%B6-back",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=diacritics&format=RSS&cc=us",
+            "source_url": "http://pri.org/stories/2015-04-16/governor-orders-minnesota-towns-twin-dots-be-restored"
+        },
+        "express.co.uk/2015/03/98-years-old-and-still-proud-to-be-pedantic": {
+            "title": "98 years old and STILL proud to be pedantic -...",
+            "snippet": "98 years old and STILL proud to be make matters worse, the EU Committee for Diacritics, Diphthongs and Allied Accents are encouraging it by their decision to add the diaeresis to their list of diacritics on the verge of extinction. Why are you...",
+            "date": "2015-03-07",
+            "categories": "diacritics",
+            "tags": "accents,old,diacritics,why",
+            "recuweb_url": "http://en.recuweb.com/diacritics/express.co.uk/2015/03/98-years-old-and-still-proud-to-be-pedantic",
+            "resource_url": "http://news.google.com/?hl=en&q=diacritics&output=atom&nord=1",
+            "source_url": "http://express.co.uk/comment/beachcomber/562132/Beachcomber-on-grammar-spelling-diaeresis"
         },
         "fastcodesign.com/2015/02/a-nation-s-storied-design-heritage-reduced-to-single-font": {
             "title": "A Nation's Storied Design Heritage, Reduced To A Single Font -...",
             "snippet": "Nation's Storied Design Heritage, Reduced To A Single in English, these characters help bring to mind some of the diacritics that, thanks to Ikea, we think of when we think of Sweden. Asked to describe the finished typeface, Robinell and Hattenbach...",
             "date": "2015-02-17",
             "categories": "mind,diacritics",
-            "tags": "english,characters,diacritics,ikea",
+            "tags": "design,english,characters,diacritics",
             "recuweb_url": "http://en.recuweb.com/diacritics/fastcodesign.com/2015/02/a-nation-s-storied-design-heritage-reduced-to-single-font",
             "resource_url": "http://news.google.com/?hl=en&q=diacritics&output=atom&nord=1",
             "source_url": "http://fastcodesign.com/3042449/what-does-sweden-look-like-as-a-font"
-        },
-        "businessinsider.com/2015/02/the-curious-case-of-disappearing-polish-s-one-keyboard-bug-three": {
-            "title": "The curious case of the disappearing Polish S: one keyboard bug three decades in the making...",
-            "snippet": "This is the base Latin/Roman alphabet, also used by English: Original Polish words never contain Q, V or X, although we keep them for Latin and other borrowed words: In exchange for those three, however, Polish adds nine additional diacritics using...",
-            "date": "2015-02-04",
-            "categories": "diacritics",
-            "tags": "other,words,never,keyboard,latin,alphabet,english,diacritics",
-            "recuweb_url": "http://en.recuweb.com/diacritics/businessinsider.com/2015/02/the-curious-case-of-disappearing-polish-s-one-keyboard-bug-three",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=diacritics&format=RSS&cc=us",
-            "source_url": "http://businessinsider.com/one-keyboard-bug-three-decades-in-the-making-2015-2"
-        },
-        "downloads.zdnet.com/2015/02/ipa-keyboard-a-complete-international-phonetic-alphabet-zdnet": {
-            "title": "IPA Keyboard - A complete International Phonetic Alphabet keyboard - ZDNet...",
-            "snippet": "IPA Keyboard - A complete International Phonetic Alphabet keyboardZDNetA complete International Phonetic Alphabet (including all sounds and diacritics) keyboard which CAN BE USED IN OTHER you are a linguist, actor, presenter, public speaker or...",
-            "date": "2015-02-03",
-            "categories": "diacritics",
-            "tags": "other,keyboard,international,alphabet,diacritics",
-            "recuweb_url": "http://en.recuweb.com/diacritics/downloads.zdnet.com/2015/02/ipa-keyboard-a-complete-international-phonetic-alphabet-zdnet",
-            "resource_url": "http://news.google.com/?hl=en&q=diacritics&output=atom&nord=1",
-            "source_url": "http://downloads.zdnet.com/product/2094-76263817/"
-        },
-        "fastcodesign.com/2015/01/finally-a-video-game-about-building-ikea-furniture": {
-            "title": "Finally! A Video Game About Building Ikea Furniture! -...",
-            "snippet": "Finally! A Video Game About Building Ikea Furniture! \u00f6me Improvis\u00e5tionnote the diacritics, which are to Ikea what umlauts once were to death metal bandscame out of Global Game Jam, a 48-hour event that challenges developers to create the best...",
-            "date": "2015-01-29",
-            "categories": "death,furniture,diacritics",
-            "tags": "umlauts,ikea,diacritics",
-            "recuweb_url": "http://en.recuweb.com/diacritics/fastcodesign.com/2015/01/finally-a-video-game-about-building-ikea-furniture",
-            "resource_url": "http://news.google.com/?hl=en&q=diacritics&output=atom&nord=1",
-            "source_url": "http://fastcodesign.com/3041596/finally-a-video-game-about-building-ikea-furniture"
         },
         "blogs.msdn.com/2014/11/the-crazy-world-of-stripping-diacritics": {
             "title": "The crazy world of stripping diacritics...",
             "snippet": "Today's Little Program strips diacritics from a Unicode string. Why? Hey, I said that Little Programs require little to no motivation. It might come in handy in a spam filter, since it was popular, at least for a time, to put random accent marks on...",
             "date": "2014-11-24",
             "categories": "diacritics",
-            "tags": "accent,accent-marks,marks,might,diacritics",
+            "tags": "accent-marks,marks,come,little,world,diacritics,why",
             "recuweb_url": "http://en.recuweb.com/diacritics/blogs.msdn.com/2014/11/the-crazy-world-of-stripping-diacritics",
             "resource_url": "http://www.bing.com/news/search?first=1&q=diacritics&format=RSS&cc=us",
             "source_url": "http://blogs.msdn.com/b/oldnewthing/archive/2014/11/24/10575362.aspx"
@@ -85,7 +76,7 @@
             "snippet": "Accentuate the positiveColumbia Journalism ReviewEnglish has no accents, formally known as diacritical marks, or diacritics. But many words that arrived from other languages do have them, sometimes. Is it cafe or caf\u00e9? fa\u00e7ade or facade? Jalape\u00f1o...",
             "date": "2014-06-10",
             "categories": "languages,journalism,diacritics",
-            "tags": "other,words,diacritical,marks,english,accents,diacritics",
+            "tags": "other,diacritical,marks,accents,english,diacritics",
             "recuweb_url": "http://en.recuweb.com/diacritics/cjr.org/2014/06/accentuate-the-positive-columbia-journalism-review",
             "resource_url": "http://news.google.com/?hl=en&q=diacritics&output=atom&nord=1",
             "source_url": "http://cjr.org/language_corner/language_corner_060914.php"
@@ -105,10 +96,20 @@
             "snippet": "Meet the new Arsenal basically the same as the old Arsenal, just with a new-found fascination of diacritics. There was a brief suggestion that their title challenge might be back on after the win at Tottenham last month but that was instantly...",
             "date": "2014-04-15",
             "categories": "diacritics",
-            "tags": "might,found,diacritics",
+            "tags": "back,old,diacritics",
             "recuweb_url": "http://en.recuweb.com/diacritics/theguardian.com/2014/04/same-as-the-old-arsenal-just-with-a-new-found-fascination",
             "resource_url": "http://www.bing.com/news/search?first=1&q=diacritics&format=RSS&cc=us",
             "source_url": "http://theguardian.com/football/2014/apr/15/the-fiver-arsenal-west-ham"
+        },
+        "techrepublic.com/2013/11/quick-tip-get-your-custom-google-url-right-here": {
+            "title": "Quick Tip: Get your custom Google URL right here...",
+            "snippet": "(Figure C) Well, Google states you can't really change it so much as switch lower case to upper case characters (ScottMatteson to scottmatteson for instance) or adjust accents and diacritics. I have to admit I didn't know what the heck a diacritic...",
+            "date": "2013-11-08",
+            "categories": "google,diacritics",
+            "tags": "diacritics,accents,here,url,well,characters",
+            "recuweb_url": "http://en.recuweb.com/diacritics/techrepublic.com/2013/11/quick-tip-get-your-custom-google-url-right-here",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=diacritics&format=RSS&cc=us",
+            "source_url": "http://techrepublic.com/blog/google-in-the-enterprise/quick-tip-get-your-custom-google-url-right-here/"
         }
     }
 }
