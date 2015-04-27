@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "cybercrime",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/cybercrime/",
@@ -10,27 +11,49 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/cybercrime/cybercrime/blogs.json"
     },
     "items": {
+        "tribune.com.pk/2015/04/voicing-concerns-committee-formed-to-prevent-cybercrime-bill": {
+            "title": "Voicing concerns: Committee formed to prevent cybercrime bill from...",
+            "snippet": "The purpose of the committee is to prevent the bill from being passed as a law. STOCK IMAGE. KARACHI: After an extensive discussion at Karachi Press Club, experts and journalists formed a 'Cybercrime Bill Review...",
+            "date": "2015-04-25",
+            "author_name": "Our Correspondent",
+            "categories": "cybercrime,law",
+            "tags": "cybercrime,bill,experts,committee,prevent,law",
+            "recuweb_url": "http://en.recuweb.com/law/tribune.com.pk/2015/04/voicing-concerns-committee-formed-to-prevent-cybercrime-bill",
+            "resource_url": "http://www.google.com/search?q=cybercrime%2Bcybercrime&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://tribune.com.pk/story/876048/voicing-concerns-committee-formed-to-prevent-cybercrime-bill-from-being-enacted/"
+        },
+        "en.rsf.org/2015/04/legislators-urged-to-overhaul-draconian-cyber-crime-bill-reporters": {
+            "title": "Legislators urged to overhaul draconian cyber-crime bill - Reporters...",
+            "snippet": "Alarmed by the draconian nature of a cyber-crime bill that a Pakistani parliamentary committee approved last week, Reporters Without Borders (RSF) and its partner, Freedom Network, are calling for a complete overhaul of the...",
+            "date": "2015-04-23",
+            "author_name": "unknown",
+            "categories": "borders,nature",
+            "tags": "committee,bill,cyber,crime",
+            "recuweb_url": "http://en.recuweb.com/nature/en.rsf.org/2015/04/legislators-urged-to-overhaul-draconian-cyber-crime-bill-reporters",
+            "resource_url": "http://www.google.com/search?q=cybercrime%2Bcybercrime&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://en.rsf.org/pakistan-legislators-urged-to-overhaul-23-04-2015,47801.html"
+        },
+        "betanews.com/2015/04/cybercrime-gets-smarter-and-more-complex-betanews": {
+            "title": "Cybercrime gets smarter and more complex - BetaNews...",
+            "snippet": "There are 85000 new malicious IPs launched every day and the top phishing targets are technology companies and financial institutions.",
+            "date": "2015-04-22",
+            "author_name": "Ian Barker",
+            "categories": "technology,financial-institutions,cybercrime",
+            "tags": "every,top,technology,companies,cybercrime",
+            "recuweb_url": "http://en.recuweb.com/cybercrime/betanews.com/2015/04/cybercrime-gets-smarter-and-more-complex-betanews",
+            "resource_url": "http://www.google.com/search?q=cybercrime%2Bcybercrime&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://betanews.com/2015/04/22/cybercrime-gets-smarter-and-more-complex/"
+        },
         "advocacy.globalvoicesonline.org/2015/04/netizen-report-the-spring-of-cybercrime-laws-global-voices": {
             "title": "Netizen Report: The Spring of Cybercrime Laws - Global Voices...",
             "snippet": "A wave of new cybercrime legislation is passing over the globe this April. Newly minted laws in Egypt, Pakistan, and Tanzania aim to curb a wide variety of online crimesbut they introduce just as many, if not more, risks for...",
             "date": "2015-04-22",
             "author_name": "Netizen Report Team",
             "categories": "cybercrime",
-            "tags": "risks,laws,global,global_voices,voices,cybercrime,cybercrime_laws,netizen,netizen_report,report,spring,online",
+            "tags": "globe,global,cybercrime,report,pakistan",
             "recuweb_url": "http://en.recuweb.com/cybercrime/advocacy.globalvoicesonline.org/2015/04/netizen-report-the-spring-of-cybercrime-laws-global-voices",
             "resource_url": "http://www.google.com/search?q=cybercrime%2Bcybercrime&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://advocacy.globalvoicesonline.org/2015/04/22/netizen-report-the-spring-of-cybercrime-laws/"
-        },
-        "thepittmanreport.com/2015/04/un-crime-congress-in-doha-qatar-focuses-day-on-cyber": {
-            "title": "UN Crime Congress in Doha, Qatar, Focuses Day on Cyber Crime...",
-            "snippet": "Efforts to tame the fast-growing cybercrime threat took center stage at the United Nations Crime Congress under way in Doha, Qatar, as a diverse group of experts in...",
-            "date": "2015-04-18",
-            "author_name": "James Pittman",
-            "categories": "cybercrime",
-            "tags": "group,united,united_nations,nations,crime,congress,cyber,cyber_crime,cybercrime,day,growing,threat,way",
-            "recuweb_url": "http://en.recuweb.com/cybercrime/thepittmanreport.com/2015/04/un-crime-congress-in-doha-qatar-focuses-day-on-cyber",
-            "resource_url": "http://en.search.wordpress.com/?q=cybercrime%2Bcybercrime&f=feed&page=1",
-            "source_url": "http://thepittmanreport.com/2015/04/17/un-crime-congress-in-doha-qatar-focuses-day-on-cyber-crime/"
         },
         "phys.org/2015/04/cybercrime-now-number-one-threat-europol-chief": {
             "title": "Cybercrime now 'number one'threat: Europol chief -...",
@@ -38,10 +61,21 @@
             "date": "2015-04-17",
             "author_name": "unknown",
             "categories": "cybercrime",
-            "tags": "agency,big,number,cybercrime,threat,chief,become,security",
+            "tags": "agency,number,cybercrime,threat,security",
             "recuweb_url": "http://en.recuweb.com/cybercrime/phys.org/2015/04/cybercrime-now-number-one-threat-europol-chief",
             "resource_url": "http://www.google.com/search?q=cybercrime%2Bcybercrime&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://phys.org/news/2015-04-cybercrime-threat-europol-chief.html"
+        },
+        "blog.trendmicro.com/2015/04/joining-forces-with-law-enforcement-against-cybercrime": {
+            "title": "Joining Forces with Law Enforcement against Cybercrime...",
+            "snippet": "Public/private partnerships are essential to the effective fight against the rise of international cybercrime by well-funded, state-sponsored and criminal organizations around the globe. Trend Micro has a long and proud history...",
+            "date": "2015-04-16",
+            "author_name": "Tom Kellermann (Chief Cybersecurity Officer)",
+            "categories": "law,cybercrime",
+            "tags": "organizations,globe,well,against,rise,law,cybercrime,essential,international",
+            "recuweb_url": "http://en.recuweb.com/cybercrime/blog.trendmicro.com/2015/04/joining-forces-with-law-enforcement-against-cybercrime",
+            "resource_url": "http://www.google.com/search?q=cybercrime%2Bcybercrime&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.trendmicro.com/trend-micro-at-rsa-2015-joining-forces-with-law-enforcement-against-cybercrime/"
         },
         "recode.net/2015/04/cyber-crime-still-rising-using-nine-basic-attack-methods-re-code": {
             "title": "Cyber Crime Still Rising, Using Nine Basic Attack Methods Re/code...",
@@ -49,75 +83,42 @@
             "date": "2015-04-14",
             "author_name": "Arik Hesseldahl",
             "categories": "cybercrime",
-            "tags": "rise,number,using,attacks,cyber,cyber_crime,crime,rising,computer,security,companies",
+            "tags": "attack,government,other,organizations,rise,companies,number,significant,cyber,cyber_crime,crime,computer,security",
             "recuweb_url": "http://en.recuweb.com/cybercrime/recode.net/2015/04/cyber-crime-still-rising-using-nine-basic-attack-methods-re-code",
             "resource_url": "http://www.google.com/search?q=cybercrime%2Bcybercrime&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://recode.net/2015/04/13/cyber-crime-still-on-the-rise-using-nine-basic-attack-methods/"
         },
-        "nbcnews.com/2015/04/cybercriminals-had-banner-year-in-2014-symantec-report-says": {
+        "nbcnews.com/2015/04/cybercriminals-had-banner-year-in-2014-symantec-report": {
             "title": "Cybercriminals Had Banner Year in 2014, Symantec Report Says...",
             "snippet": "Cybercrime is on the rise and the criminals are finding new ways to attack us. The 2015 Internet Security Threat Report from Symantec (makers of Norton security software) released on Tuesday characterizes 2014 as a year...",
             "date": "2015-04-14",
             "author_name": "Herb Weisbaum",
             "categories": "internet,cybercrime",
-            "tags": "internet,security,threat,report,rise,says,year,cybercrime,criminals",
-            "recuweb_url": "http://en.recuweb.com/cybercrime/nbcnews.com/2015/04/cybercriminals-had-banner-year-in-2014-symantec-report-says",
+            "tags": "internet,internet_security,internet_security_threat,security,security_threat,security_threat_report,threat,threat_report,report,rise,criminals,attack,symantec,cybercrime",
+            "recuweb_url": "http://en.recuweb.com/cybercrime/nbcnews.com/2015/04/cybercriminals-had-banner-year-in-2014-symantec-report",
             "resource_url": "http://www.google.com/search?q=cybercrime%2Bcybercrime&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://nbcnews.com/tech/security/cybercriminals-had-banner-year-2014-new-report-says-n340856"
         },
-        "engadget.com/2015/04/frenemies-us-and-china-join-forces-to-fight-cyber-crime-engadget": {
-            "title": "Frenemies US and China join forces to fight cyber crime - Engadget...",
-            "snippet": "The US and China are going to try to work together to take on cyber criminals. The Department of Homeland Security says that the US and China \"intend to establish cyber discussions\" on the path to reestablishing full...",
+        "philadelphia.cbslocal.com/2015/04/computer-security-experts-fighting-back-against-latest-cyber": {
+            "title": "Computer Security Experts Fighting Back Against Latest Cyber...",
+            "snippet": "Computer Security Experts Fighting Back Against Latest Cyber Crime, 'Ransomware'. April 14, 2015 2:06 PM. Share on email? View Comments. (Kaspersky Labs'\"ransomware decryptor\" web page.) (Kaspersky Labs'ransomware decryptor...",
             "date": "2015-04-14",
-            "author_name": "Roberto Baldwin",
-            "tags": "says,security,work,fight,cyber,crime,criminals,department",
-            "recuweb_url": "http://en.recuweb.com/engadget.com/2015/04/frenemies-us-and-china-join-forces-to-fight-cyber-crime-engadget",
+            "author_name": "Ed Fischer",
+            "tags": "ransomware,computer,security,experts,against,cyber,crime",
+            "recuweb_url": "http://en.recuweb.com/philadelphia.cbslocal.com/2015/04/computer-security-experts-fighting-back-against-latest-cyber",
             "resource_url": "http://www.google.com/search?q=cybercrime%2Bcybercrime&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://engadget.com/2015/04/13/dhs-china-cyber-security/"
+            "source_url": "http://philadelphia.cbslocal.com/2015/04/14/computer-security-experts-fighting-back-against-latest-cyber-crime-ransomware/"
         },
-        "prisonplanet.com/2015/04/eighth-grader-charged-with-felony-cybercrime-prison": {
-            "title": "Eighth Grader Charged With Felony Cybercrime... - Prison...",
-            "snippet": "Student used admin-level password to access school network. Mikael Thalen Prison. April 10, 2015. An eighth grade student in Florida was charged with a felony cybercrime Wednesday after changing his...",
-            "date": "2015-04-10",
-            "author_name": "admin",
-            "categories": "school,cybercrime",
-            "tags": "after,school,network,cybercrime,wednesday",
-            "recuweb_url": "http://en.recuweb.com/cybercrime/prisonplanet.com/2015/04/eighth-grader-charged-with-felony-cybercrime-prison",
-            "resource_url": "http://www.google.com/search?q=cybercrime&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://prisonplanet.com/eighth-grader-charged-with-felony-cybercrime-for-changing-teachers-desktop-wallpaper.html"
-        },
-        "eff.org/2015/04/the-white-house-s-new-executive-order-on-cyber-crime-is": {
-            "title": "The White House's New Executive Order On Cyber Crime is...",
-            "snippet": "The White House's New Executive Order On Cyber Crime is (Unfortunately) No Joke. On the morning of April 1st, the White House issued a new executive order (EO) that asserts that malicious cyber-enabled activities are a...",
-            "date": "2015-04-07",
-            "author_name": "Kurt Opsahl and Nadia Kayyali",
+        "tripwire.com/2015/03/cybercrime-is-now-more-profitable-than-the-drug-trade-tripwire": {
+            "title": "Cybercrime Is Now More Profitable Than The Drug Trade - Tripwire...",
+            "snippet": "\"Total Global Impact of CyberCrime US 3 Trillion, making it more profitable than the global trade in marijuana, cocaine and heroin combined.\"...",
+            "date": "2015-03-31",
+            "author_name": "Irfahn Khimji",
             "categories": "cybercrime",
-            "tags": "malicious,cyber,cyber_crime,crime",
-            "recuweb_url": "http://en.recuweb.com/cybercrime/eff.org/2015/04/the-white-house-s-new-executive-order-on-cyber-crime-is",
-            "resource_url": "http://www.google.com/search?q=cybercrime%2Bcybercrime&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://eff.org/deeplinks/2015/04/whitehouses-new-executive-order-cyber-crime-unfortunately-no-joke"
-        },
-        "citadel-information.com/2015/03/cyber-security-news-of-the-week-march-29-2015": {
-            "title": "Cyber Security News of the Week, March 29, 2015...",
-            "snippet": "Cyber Crime Gloucester County School District Targeted By Hackers: Swedesboro Woolwich School District felt like it was thrown back into the Stone Age after hackers wreaked havoc, taking over the districts computer network and holding it for ransom.",
-            "date": "2015-03-28",
-            "author_name": "Stan Stahl Ph.D.",
-            "categories": "school,cybercrime",
-            "tags": "network,after,hackers,age,back,into,school,cyber,cyber_crime,crime,cyber_security,security,week,computer",
-            "recuweb_url": "http://en.recuweb.com/cybercrime/citadel-information.com/2015/03/cyber-security-news-of-the-week-march-29-2015",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=cybercrime%2Bcybercrime&rss=1&lng=en",
-            "source_url": "http://citadel-information.com/2015/03/cyber-security-news-of-the-week-march-29-2015/"
-        },
-        "wethenomad.wordpress.com/2015/03/cybercrime-in-singapore": {
-            "title": "Cybercrime in Singapore...",
-            "snippet": "You may be asking yourself, \"what is cybercrime?\" Well, cybercrime is criminal activity done using computers and the Internet. It includes anything from downloading illegal music files (hmm...)...",
-            "date": "2015-03-23",
-            "author_name": "tabithaloke",
-            "categories": "music,cybercrime,internet",
-            "tags": "illegal,done,using,computers,cybercrime,well,internet",
-            "recuweb_url": "http://en.recuweb.com/internet/wethenomad.wordpress.com/2015/03/cybercrime-in-singapore",
-            "resource_url": "http://en.search.wordpress.com/?q=cybercrime%2Bcybercrime&f=feed&page=1",
-            "source_url": "http://wethenomad.wordpress.com/2015/03/23/cybercrime-in-singapore/"
+            "tags": "global,cybercrime",
+            "recuweb_url": "http://en.recuweb.com/cybercrime/tripwire.com/2015/03/cybercrime-is-now-more-profitable-than-the-drug-trade-tripwire",
+            "resource_url": "http://www.google.com/search?q=cybercrime&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://tripwire.com/state-of-security/regulatory-compliance/pci/cybercrime-is-now-more-profitable-than-the-drug-trade/"
         }
     }
 }
