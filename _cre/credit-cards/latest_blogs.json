@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "credit-cards",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/credit-cards/",
@@ -10,49 +11,82 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/credit-cards/credit-cards/blogs.json"
     },
     "items": {
-        "frugaltravelguy.com/2015/04/the-best-credit-card-from-each-issuer-frugal-travel-guy": {
-            "title": "The Best Credit Card From Each Issuer Frugal Travel Guy...",
-            "snippet": "I'm frequently asked, What one credit card should I get? To which my response usually is, It depends. If I had to pick one card as my favorite, it would be the Starwood Preferred Guest Credit Card from American Express, but...",
+        "consumerist.com/2015/04/apple-pay-now-accepts-all-major-credit-cards-after-finally-adding": {
+            "title": "Apple Pay Now Accepts All Major Credit Cards After Finally Adding...",
+            "snippet": "Apple Pay currently has deals in place with the other three major U.S. credit card issuers Visa, MasterCard and American Express as well as, several large banks. The mobile payment system allows consumers to scan and...",
+            "date": "2015-04-27",
+            "author_name": "Ashlee Kieler",
+            "categories": "credit,credit-cards",
+            "tags": "payment,system,large,banks,american,deals,other,major,credit,credit_cards,cards,card,apple,apple_pay,pay,issuers,mastercard,consumers",
+            "recuweb_url": "http://en.recuweb.com/credit-cards/consumerist.com/2015/04/apple-pay-now-accepts-all-major-credit-cards-after-finally-adding",
+            "resource_url": "http://www.google.com/search?q=credit%2Bcards%2Bcredit%2Bcards&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://consumerist.com/2015/04/27/apple-pay-now-accepts-all-major-credit-cards-after-finally-adding-discover/"
+        },
+        "patheos.com/2015/04/the-credit-card-number-of-beast-patheos": {
+            "title": "The Credit Card Number of the Beast - Patheos...",
+            "snippet": "Finding the number of the beast in credit cards, like finding 666 in UPC barcodes, is a passtime of people who don't understand the Book of Revelation. And like the doctrine of Biblical inerrancy popular in the same circles,...",
+            "date": "2015-04-26",
+            "author_name": "James F. McGrath",
+            "categories": "credit",
+            "tags": "same,finding,beast,credit,credit_card,cards,number",
+            "recuweb_url": "http://en.recuweb.com/credit/patheos.com/2015/04/the-credit-card-number-of-beast-patheos",
+            "resource_url": "http://www.google.com/search?q=credit%2Bcards%2Bcredit%2Bcards&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://patheos.com/blogs/exploringourmatrix/2015/04/the-credit-card-number-of-the-beast.html"
+        },
+        "thepointsguy.com/2015/04/top-april-credit-cards-spg-and-club-carlson-bonus-points": {
+            "title": "Top April Credit Cards, SPG and Club Carlson Bonus Points...",
+            "snippet": "Award travel news from this week includes top April credit card offers, SPG and Club Carlson bonus points, 50 Alaska Airlines discount, and more.",
+            "date": "2015-04-25",
+            "author_name": "The Points Guy",
+            "categories": "credit,credit-cards,travel",
+            "tags": "points,top,credit,credit_cards,cards,card,award,travel,offers",
+            "recuweb_url": "http://en.recuweb.com/travel/thepointsguy.com/2015/04/top-april-credit-cards-spg-and-club-carlson-bonus-points",
+            "resource_url": "http://www.google.com/search?q=credit%2Bcards%2Bcredit%2Bcards&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://thepointsguy.com/2015/04/top-april-credit-cards-spg-and-club-carlson-bonus-points/"
+        },
+        "boingboing.net/2015/04/credit-card-swipe-machines-have-shipped-with-the-same-password": {
+            "title": "Credit card swipe machines have shipped with the same password...",
+            "snippet": "The vendor wasn't named by the researchers, David Byrne and Charles Henderson, but they did disclose the password: 166816. A Google search reveals that's the default password for several models of credit card terminal...",
+            "date": "2015-04-24",
+            "author_name": "Rob Beschizza",
+            "categories": "credit,google",
+            "tags": "david,same,credit,card",
+            "recuweb_url": "http://en.recuweb.com/google/boingboing.net/2015/04/credit-card-swipe-machines-have-shipped-with-the-same-password",
+            "resource_url": "http://www.google.com/search?q=credit%2Bcards%2Bcredit%2Bcards&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://boingboing.net/2015/04/24/credit-card-swipe-machines-hav.html"
+        },
+        "dailyfinance.com/2015/04/we-need-to-talk-about-credit-card-debt-dailyfinance": {
+            "title": "We Need to Talk About Credit Card Debt - DailyFinance...",
+            "snippet": "According to a survey by the National Foundation for Consumer Counseling, 37 percent of Americans would be more embarrassed to admit the balance on their credit cards than their age or weight. Why are so many of us...",
+            "date": "2015-04-24",
+            "author_name": "Nick Clements",
+            "categories": "credit",
+            "tags": "credit,credit_card,cards,why",
+            "recuweb_url": "http://en.recuweb.com/credit/dailyfinance.com/2015/04/we-need-to-talk-about-credit-card-debt-dailyfinance",
+            "resource_url": "http://www.google.com/search?q=credit%2Bcards%2Bcredit%2Bcards&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://dailyfinance.com/2015/04/24/we-must-talk-about-credit-card-debt/"
+        },
+        "ktla.com/2015/04/woman-sought-for-using-stolen-credit-cards-to-make-purchases": {
+            "title": "Woman Sought for Using Stolen Credit Cards to Make Purchases at...",
+            "snippet": "The unidentified woman was spotted on a surveillance camera at a Target store where she used stolen credit cards to make large purchases, according to a news release from the Pomona Police Department. The woman is...",
             "date": "2015-04-23",
-            "author_name": "Howie Rappaport",
-            "categories": "credit,travel",
-            "tags": "preferred,credit,credit_card,card,would,travel,guy,best,best_credit,best_credit_card,should",
-            "recuweb_url": "http://en.recuweb.com/travel/frugaltravelguy.com/2015/04/the-best-credit-card-from-each-issuer-frugal-travel-guy",
-            "resource_url": "http://www.google.com/search?q=credit%2Bcards%2Bcredit%2Bcards&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://frugaltravelguy.com/2015/04/the-best-credit-card-from-each-issuer.html"
-        },
-        "macrumors.com/2015/04/apple-watch-debit-and-credit-card-charges-begin-in-the-uk": {
-            "title": "Apple Watch Debit and Credit Card Charges Begin in the UK...",
-            "snippet": "The charges in the United Kingdom, Germany, and France come after customers in the United States yesterday began first experiencing charges taken from their debit or credit cards, followed by a change of order status from...",
-            "date": "2015-04-21",
-            "author_name": "Mitchel Broussard",
-            "categories": "credit",
-            "tags": "change,began,first,charges,credit,credit_card,cards,apple,debit",
-            "recuweb_url": "http://en.recuweb.com/credit/macrumors.com/2015/04/apple-watch-debit-and-credit-card-charges-begin-in-the-uk",
-            "resource_url": "http://www.google.com/search?q=credit%2Bcards%2Bcredit%2Bcards&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://macrumors.com/2015/04/21/apple-watch-charges-begin-uk/"
-        },
-        "business.financialpost.com/2015/04/canada-s-credit-card-war-is-shifting-to-new-battleground-financial": {
-            "title": "Canada's credit card war is shifting to new battleground Financial...",
-            "snippet": "The number of credit cards issued in Canada rose seven per cent to 95 million in 2014, or almost three cards for every Canadian a trend Canaccord Genuity analyst Gabriel Dechaine called an explosion in the level of...",
-            "date": "2015-04-21",
-            "author_name": "Jonathan Ratner",
-            "categories": "credit",
-            "tags": "almost,shifting,credit,cards,financial,number",
-            "recuweb_url": "http://en.recuweb.com/credit/business.financialpost.com/2015/04/canada-s-credit-card-war-is-shifting-to-new-battleground-financial",
+            "author_name": "shawnmcginnis",
+            "categories": "surveillance,credit,credit-cards",
+            "tags": "police,release,large,purchases,store,camera,using,stolen,credit,credit_cards,cards,target",
+            "recuweb_url": "http://en.recuweb.com/credit-cards/ktla.com/2015/04/woman-sought-for-using-stolen-credit-cards-to-make-purchases",
             "resource_url": "http://www.google.com/search?q=credit%2Bcards&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://business.financialpost.com/investing/trading-desk/canadas-credit-card-war-shifting-to-new-battleground"
+            "source_url": "http://ktla.com/2015/04/22/woman-sought-for-using-stolen-credit-cards-to-make-purchases-at-target/"
         },
-        "9to5mac.com/2015/04/apple-preparing-to-ship-out-first-watch-orders-as-customer": {
-            "title": "Apple preparing to ship out first Apple Watch orders as customer...",
-            "snippet": "Ahead of the expected first Apple Watch arrivals on April 24th, Apple has began charging customer credit and debit cards. Various users on social media that pre-ordered the Apple Watch are reporting that they have been...",
-            "date": "2015-04-20",
-            "author_name": "Chance Miller",
-            "categories": "social-media,credit",
-            "tags": "ordered,began,first,apple,credit,debit,cards",
-            "recuweb_url": "http://en.recuweb.com/credit/9to5mac.com/2015/04/apple-preparing-to-ship-out-first-watch-orders-as-customer",
+        "clickondetroit.com/2015/04/credit-card-security-chip-and-pin-debate-ruth-to-the-rescue": {
+            "title": "Credit card security: Chip and PIN debate Ruth To The Rescue...",
+            "snippet": "Since the Target data breach affected millions in 2013, American consumers have become painfully aware of how security on their credit cards stacks up against the security in other countries.",
+            "date": "2015-04-21",
+            "author_name": "unknown",
+            "categories": "credit",
+            "tags": "security,other,credit,cards,chip,target,american,consumers",
+            "recuweb_url": "http://en.recuweb.com/credit/clickondetroit.com/2015/04/credit-card-security-chip-and-pin-debate-ruth-to-the-rescue",
             "resource_url": "http://www.google.com/search?q=credit%2Bcards%2Bcredit%2Bcards&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://9to5mac.com/2015/04/20/apple-watch-charged/"
+            "source_url": "http://clickondetroit.com/consumer/consumer/credit-card-security-chip-and-pin-debate/32472548"
         },
         "somaticstrength.wordpress.com/2015/04/comment-on-the-perpetual-imminent-return-of-christ-by-somaticstrength": {
             "title": "Comment on The Perpetual Imminent Return of Christ by somaticstrength...",
@@ -60,10 +94,21 @@
             "date": "2015-04-20",
             "author_name": "somaticstrength",
             "categories": "belief,credit",
-            "tags": "thought,very,credit,cards",
+            "tags": "mark,beast,probably,return,credit,cards",
             "recuweb_url": "http://en.recuweb.com/credit/somaticstrength.wordpress.com/2015/04/comment-on-the-perpetual-imminent-return-of-christ-by-somaticstrength",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=credit%2Bcards%2Bcredit%2Bcards&rss=1&lng=en",
             "source_url": "http://somaticstrength.wordpress.com/2015/04/20/the-perpetual-imminent-return-of-christ/#comment-1167"
+        },
+        "dailyfinance.com/2015/04/millennials-and-credit-cards-how-we-re-getting-it-wrong": {
+            "title": "Millennials and Credit Cards: How We're Getting It Wrong...",
+            "snippet": "The best time of life to get a credit card is when you're college-aged, but that's not how many millennials are finding things are working.",
+            "date": "2015-04-20",
+            "author_name": "MainStreet.com",
+            "categories": "college,life,credit,credit-cards",
+            "tags": "finding,things,getting,credit,credit_cards,cards,card",
+            "recuweb_url": "http://en.recuweb.com/credit-cards/dailyfinance.com/2015/04/millennials-and-credit-cards-how-we-re-getting-it-wrong",
+            "resource_url": "http://www.google.com/search?q=credit%2Bcards&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://dailyfinance.com/2015/04/20/millennials-credit-cards/"
         },
         "thepointsguy.com/2015/04/top-10-travel-credit-card-offers-for-april-2015-the-points": {
             "title": "Top 10 Travel Credit Card Offers for April 2015 - The Points Guy...",
@@ -71,53 +116,10 @@
             "date": "2015-04-20",
             "author_name": "The Points Guy",
             "categories": "landscape,travel,credit",
-            "tags": "change,frequent,shifting,loyalty,points,points_guy,guy,travel,credit,credit_card,cards,top",
+            "tags": "frequent,points,programs,change,carry,key,award,loyalty,travel,credit,credit_card,cards,offers,top",
             "recuweb_url": "http://en.recuweb.com/credit/thepointsguy.com/2015/04/top-10-travel-credit-card-offers-for-april-2015-the-points",
             "resource_url": "http://www.google.com/search?q=credit%2Bcards&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://thepointsguy.com/2015/04/top-10-travel-credit-card-offers-for-april-2015/"
-        },
-        "thepointsguy.com/2015/04/which-credit-cards-offer-bonuses-for-pharmacy-purchases": {
-            "title": "Which Credit Cards Offer Bonuses for Pharmacy Purchases?",
-            "snippet": "The Points Guy, Brian Kelly, answers a reader question about credit cards that offer bonus points on pharmacy purchases, including the Amex Blue Cash preferred.",
-            "date": "2015-04-19",
-            "author_name": "The Points Guy",
-            "categories": "credit,credit-cards",
-            "tags": "cash,purchases,question,points,points_guy,guy,credit,credit_cards,cards,preferred",
-            "recuweb_url": "http://en.recuweb.com/credit-cards/thepointsguy.com/2015/04/which-credit-cards-offer-bonuses-for-pharmacy-purchases",
-            "resource_url": "http://www.google.com/search?q=credit%2Bcards%2Bcredit%2Bcards&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://thepointsguy.com/2015/04/which-credit-cards-offer-bonuses-for-pharmacy-purchases/"
-        },
-        "techcrunch.com/2015/04/coin-the-one-credit-card-to-rule-them-all-is-finally": {
-            "title": "Coin, The One Credit Card To Rule Them All, Is Finally Shipping...",
-            "snippet": "The Coin (promising to let you combine all your credit/debit/loyalty cards into a single piece of tech) has delayed for so long that you might have forgotten that you ordered one. In November of 2013, the YC-backed company...",
-            "date": "2015-04-17",
-            "author_name": "Jordan Crook",
-            "categories": "credit",
-            "tags": "ordered,tech,credit,credit_card,cards,debit,loyalty",
-            "recuweb_url": "http://en.recuweb.com/credit/techcrunch.com/2015/04/coin-the-one-credit-card-to-rule-them-all-is-finally",
-            "resource_url": "http://www.google.com/search?q=credit%2Bcards%2Bcredit%2Bcards&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://techcrunch.com/2015/04/17/coin-the-one-credit-card-to-rule-them-all-is-finally-shipping/"
-        },
-        "fastcompany.com/2015/04/no-internet-credit-cards-problem-how-airbnb-launched-in": {
-            "title": "No Internet, No Credit Cards, No Problem: How Airbnb Launched In...",
-            "snippet": "Cuba runs on cash and almost no one has easy access to the Internet. But Airbnb found a way to beat U.S. hotels to the market nevertheless.",
-            "date": "2015-04-13",
-            "author_name": "Sarah Kessler",
-            "categories": "credit,credit-cards,internet",
-            "tags": "market,way,almost,credit,credit_cards,cards,cash,found",
-            "recuweb_url": "http://en.recuweb.com/internet/fastcompany.com/2015/04/no-internet-credit-cards-problem-how-airbnb-launched-in",
-            "resource_url": "http://www.google.com/search?q=credit%2Bcards%2Bcredit%2Bcards&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://fastcompany.com/3044895/most-creative-people/no-internet-no-credit-cards-no-problem-how-airbnb-launched-in-cuba"
-        },
-        "reddit.com/2015/03/psa-don-t-pay-your-mortgage-with-a-credit-card": {
-            "title": "PSA: Don't pay your mortgage with a credit card...",
-            "snippet": "I have a mortgage, checking account, and credit card all with the same bank. The credit card account shows up as an option to pay the mortgage with. I thought I would be smart and take advantage of the 1% rewards on my credit card - well, it...",
-            "date": "2015-03-04",
-            "categories": "credit",
-            "tags": "would,same,bank,don,pay,credit,card,thought",
-            "recuweb_url": "http://en.recuweb.com/credit/reddit.com/2015/03/psa-don-t-pay-your-mortgage-with-a-credit-card",
-            "resource_url": "http://www.reddit.com/search.rss?q=credit%2Bcards%2Bcredit%2Bcards&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/personalfinance/comments/2xxe02/psa_dont_pay_your_mortgage_with_a_credit_card/"
         }
     }
 }
