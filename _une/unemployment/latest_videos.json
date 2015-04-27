@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "unemployment",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/unemployment/",
@@ -10,6 +11,66 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/unemployment/unemployment/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/finland-youth-unemployment-in-the-model-education-country-made-germany": {
+            "title": "Finland Youth unemployment in the model education country Made in Germany...",
+            "snippet": "Finland Youth unemployment in the model education country Made in GermanyAuthor: amuckunpleasantTags: Finland Youth unemployment in the model education country Made Germany Posted: 25 April 2015Rating:: 0...",
+            "date": "2015-04-25",
+            "author_name": "amuckunpleasant",
+            "categories": "unemployment,education",
+            "tags": "unemployment,youth",
+            "recuweb_url": "http://en.recuweb.com/education/dailymotion.com/2015/04/finland-youth-unemployment-in-the-model-education-country-made-germany",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/unemployment/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nvnod_finland-youth-unemployment-in-the-model-education-country-made-in-germany_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nvnod_finland-youth-unemployment-in-the-model-education-country-made-in-germany_news"
+        },
+        "dailymotion.com/2015/04/global-youth-unemployment-epidemic": {
+            "title": "Global Youth Unemployment Epidemic...",
+            "snippet": "Global Youth Unemployment EpidemicAuthor: BurrelLimTags: Global Youth Unemployment Epidemic Posted: 25 April 2015Rating:: 0...",
+            "date": "2015-04-25",
+            "author_name": "BurrelLim",
+            "categories": "unemployment",
+            "tags": "youth,youth_unemployment,unemployment",
+            "recuweb_url": "http://en.recuweb.com/unemployment/dailymotion.com/2015/04/global-youth-unemployment-epidemic",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/unemployment/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nwnps_global-youth-unemployment-epidemic_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nwnps_global-youth-unemployment-epidemic_news"
+        },
+        "dailymotion.com/2015/04/massive-unemployment-could-lead-to-riots-says-dr-brzezinski": {
+            "title": "Massive unemployment could lead to riots says Dr. Brzezinski...",
+            "snippet": "Massive unemployment could lead to riots says Dr. BrzezinskiAuthor: GalenWhittenTags: Massive unemployment could lead to riots says Dr. Brzezinski Posted: 25 April 2015Rating:: 0...",
+            "date": "2015-04-25",
+            "author_name": "GalenWhitten",
+            "categories": "unemployment",
+            "tags": "unemployment",
+            "recuweb_url": "http://en.recuweb.com/unemployment/dailymotion.com/2015/04/massive-unemployment-could-lead-to-riots-says-dr-brzezinski",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/unemployment/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nxdap_massive-unemployment-could-lead-to-riots-says-dr-brzezinski_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nxdap_massive-unemployment-could-lead-to-riots-says-dr-brzezinski_news"
+        },
+        "dailymotion.com/2015/04/trapped-in-unemployment": {
+            "title": "Trapped in Unemployment...",
+            "snippet": "Trapped in UnemploymentAuthor: JennetteWhyteTags: Trapped in Unemployment Posted: 25 April 2015Rating:: 0...",
+            "date": "2015-04-25",
+            "author_name": "JennetteWhyte",
+            "categories": "unemployment",
+            "tags": "unemployment,unemploymentauthor",
+            "recuweb_url": "http://en.recuweb.com/unemployment/dailymotion.com/2015/04/trapped-in-unemployment",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/unemployment/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nx8ah_trapped-in-unemployment_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nx8ah_trapped-in-unemployment_news"
+        },
+        "dailymotion.com/2015/04/youth-unemployment-young-people-giving-up-signs-of-economic-collapse": {
+            "title": "Youth Unemployment, Young People Giving Up, Signs of Economic Collapse...",
+            "snippet": "Youth Unemployment, Young People Giving Up, Signs of Economic CollapseAuthor: TatsuoNimTags: Youth Unemployment Young People Giving Up Signs of Economic Collapse Posted: 25 April 2015Rating:: 0...",
+            "date": "2015-04-25",
+            "author_name": "TatsuoNim",
+            "categories": "unemployment",
+            "tags": "youth,youth_unemployment,unemployment",
+            "recuweb_url": "http://en.recuweb.com/unemployment/dailymotion.com/2015/04/youth-unemployment-young-people-giving-up-signs-of-economic-collapse",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/unemployment/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nvt0k_youth-unemployment-young-people-giving-up-signs-of-economic-collapse_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nvt0k_youth-unemployment-young-people-giving-up-signs-of-economic-collapse_news"
+        },
         "dailymotion.com/2015/04/how-can-we-tackle-youth-unemployment": {
             "title": "How Can We Tackle Youth Unemployment?",
             "snippet": "How Can We Tackle Youth Unemployment?Author: hipfollyTags: How Can We Tackle Youth Unemployment Posted: 23 April 2015Rating:: 0...",
@@ -69,66 +130,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/unemployment/0?af=1",
             "source_url": "http://dailymotion.com/video/x2nm1mi_rethinking-unemployment-in-nigeria-emmanuel-okeleji-at-tedxife_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2nm1mi_rethinking-unemployment-in-nigeria-emmanuel-okeleji-at-tedxife_news"
-        },
-        "dailymotion.com/2015/04/unemployment-drops-in-ecuador": {
-            "title": "Unemployment Drops in Ecuador...",
-            "snippet": "As unemployment continues to fall in Ecuador, a total of 8,000 workers of 13 provinces in Ecuador have received their certificates for the training they have undergone to install induction ranges throughout the country. Thanks to the Ministry of...",
-            "date": "2015-04-22",
-            "author_name": "telesurenglish",
-            "categories": "unemployment",
-            "tags": "unemployment",
-            "recuweb_url": "http://en.recuweb.com/unemployment/dailymotion.com/2015/04/unemployment-drops-in-ecuador",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/unemployment/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2nhvie_unemployment-drops-in-ecuador_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nhvie_unemployment-drops-in-ecuador_news"
-        },
-        "dailymotion.com/2015/04/german-unemployment-numbers-better-than-expected-in-january-economy": {
-            "title": "German unemployment numbers better than expected in January - economy...",
-            "snippet": "German unemployment numbers better than expected in January - economyAuthor: AnderaChoiTags: German unemployment numbers better than expected in January - economy Posted: 21 April 2015Rating:: 0...",
-            "date": "2015-04-21",
-            "author_name": "AnderaChoi",
-            "categories": "unemployment,economy",
-            "tags": "unemployment",
-            "recuweb_url": "http://en.recuweb.com/economy/dailymotion.com/2015/04/german-unemployment-numbers-better-than-expected-in-january-economy",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/unemployment/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2nenfi_german-unemployment-numbers-better-than-expected-in-january-economy_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nenfi_german-unemployment-numbers-better-than-expected-in-january-economy_news"
-        },
-        "dailymotion.com/2015/04/study-milwaukee-has-nation-s-second-worst-unemployment-rate": {
-            "title": "Study: Milwaukee Has Nation's Second-Worst Unemployment Rate...",
-            "snippet": "Study: Milwaukee Has Nation's Second-Worst Unemployment RateAuthor: AntonyRuthTags: Study: Milwaukee Has Nations Second-Worst Unemployment Rate Posted: 21 April 2015Rating:: 0...",
-            "date": "2015-04-21",
-            "author_name": "AntonyRuth",
-            "categories": "unemployment",
-            "tags": "unemployment",
-            "recuweb_url": "http://en.recuweb.com/unemployment/dailymotion.com/2015/04/study-milwaukee-has-nation-s-second-worst-unemployment-rate",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/unemployment/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2ngpos_study-milwaukee-has-nation-s-second-worst-unemployment-rate_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ngpos_study-milwaukee-has-nation-s-second-worst-unemployment-rate_news"
-        },
-        "dailymotion.com/2015/04/unemployment-in-the-usa": {
-            "title": "Unemployment In The USA...",
-            "snippet": "Unemployment In The USAAuthor: ChandraDunneTags: Unemployment In The USA Posted: 21 April 2015Rating:: 0...",
-            "date": "2015-04-21",
-            "author_name": "ChandraDunne",
-            "categories": "unemployment",
-            "tags": "unemployment",
-            "recuweb_url": "http://en.recuweb.com/unemployment/dailymotion.com/2015/04/unemployment-in-the-usa",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/unemployment/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2ndist_unemployment-in-the-usa_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ndist_unemployment-in-the-usa_news"
-        },
-        "dailymotion.com/2015/04/unemployment-in-england-you-are-not-alone": {
-            "title": "Unemployment in England (You are not alone)...",
-            "snippet": "Unemployment in England (You are not alone)Author: ArletteWentworthTags: Unemployment in England You are not alone Posted: 21 April 2015Rating:: 0...",
-            "date": "2015-04-21",
-            "author_name": "ArletteWentworth",
-            "categories": "unemployment",
-            "tags": "unemployment",
-            "recuweb_url": "http://en.recuweb.com/unemployment/dailymotion.com/2015/04/unemployment-in-england-you-are-not-alone",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/unemployment/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2nf3xa_unemployment-in-england-you-are-not-alone_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nf3xa_unemployment-in-england-you-are-not-alone_news"
         }
     }
 }
