@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "xampp",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/xampp/",
@@ -10,114 +11,112 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/xampp/xampp/blogs.json"
     },
     "items": {
-        "joomlashine.com/2015/03/joomlashine-help-topic-dome-joomla-xampp-1": {
-            "title": "JoomlaShine Help:: Topic: Dome Joomla XAMPP (1/1)...",
-            "snippet": "developing a site with JSN Dome. I have the latest version of all components Xampp, Joomla and Dome I tried ins... - English (en-GB)...",
-            "date": "2015-03-22",
+        "reddit.com/2015/04/help-with-xampp": {
+            "title": "Help with Xampp...",
+            "snippet": "Hey! I have an assignment in my database class and it requires me to download Xampp. I currently have the control panel up and there are 5 modules associated with it including: Apache, MySQL, FileZilla, Mercury, and Tomcat. Every module is working...",
+            "date": "2015-04-24",
+            "categories": "xampp,database,mysql",
+            "tags": "panel,help,xampp,database,apache,mysql,filezilla,mercury",
+            "recuweb_url": "http://en.recuweb.com/mysql/reddit.com/2015/04/help-with-xampp",
+            "resource_url": "http://www.reddit.com/search.rss?q=xampp%2Bxampp&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/webdev/comments/33o8uh/help_with_xampp/"
+        },
+        "2ad7-downloads.phpnuke.org/2015/04/xampp-free-download-latest-version-in-english-on-phpnuke": {
+            "title": "XAMPP (free) - Download latest version in English on phpnuke...",
+            "snippet": "Review. XAMPP is an application for servers which contain several tools for your webpages to design and program them. With XAMPP you will be able to create efficiently and develop your online projects. To avoid problems...",
+            "date": "2015-04-22",
             "author_name": "unknown",
-            "categories": "joomla,xampp",
-            "tags": "version,components,developing,joomla,xampp,topic,site,latest",
-            "recuweb_url": "http://en.recuweb.com/xampp/joomlashine.com/2015/03/joomlashine-help-topic-dome-joomla-xampp-1",
+            "categories": "xampp",
+            "tags": "problems,create,develop,tools,program,version,xampp,free,online",
+            "recuweb_url": "http://en.recuweb.com/xampp/2ad7-downloads.phpnuke.org/2015/04/xampp-free-download-latest-version-in-english-on-phpnuke",
             "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://joomlashine.com/forum/49-jsn-dome/154060-dome-joomla-3-4-1-xampp"
+            "source_url": "http://2ad7-downloads.phpnuke.org/en/c50258/xampp"
         },
-        "community.apachefriends.org/2015/03/custom-php-mysql-version-apache-friends-support-forum-xampp": {
-            "title": "Custom php/mysql version - Apache Friends Support Forum - Xampp...",
-            "snippet": "I have PHP and MySQL on the server and I need the same things on local PC, so that behavior of my program was the same on both servers. Can I choose somehow the version I need? The closest configuration...",
-            "date": "2015-03-20",
-            "author_name": "plavozont",
-            "categories": "php,mysql,xampp",
-            "tags": "version,program,same,server,local,apache,apache_friends,apache_friends_support,friends,friends_support,friends_support_forum,support,support_forum,forum,custom,php,mysql,xampp,need,configuration",
-            "recuweb_url": "http://en.recuweb.com/xampp/community.apachefriends.org/2015/03/custom-php-mysql-version-apache-friends-support-forum-xampp",
+        "nbcdns.com/2015/04/how-to-make-xampp-apache-mysql-php-perl-can-run-on": {
+            "title": "How to make Xampp (Apache MySQL PHP Perl) can run on different partitions...",
+            "snippet": "How to make Xampp (Apache MySQL PHP Perl) can run on different partitions - In my article this time I will try to share my experience using XAMPP, before I will explain a little about XAMPP. XAMPP is a software that supports many operating systems...",
+            "date": "2015-04-17",
+            "author_name": "ar13s27 code",
+            "categories": "mysql,php,perl,xampp",
+            "tags": "try,apache,mysql,php,perl,xampp,run,using,software,systems",
+            "recuweb_url": "http://en.recuweb.com/xampp/nbcdns.com/2015/04/how-to-make-xampp-apache-mysql-php-perl-can-run-on",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=xampp%2Bxampp&rss=1&lng=en",
+            "source_url": "http://nbcdns.com/2015/04/howtomake-xampp-canrun-different-partitions.html"
+        },
+        "superuser.com/2015/04/write-permissions-to-xampp-on-windows-7-super-user": {
+            "title": "Write permissions to xampp on windows 7 - Super User...",
+            "snippet": "Your web server is unable to create directories inside of: C:xampphtdocsTimeTrexinterfaceinstall.... emplates_c, please give your webserver write permissions to this directory. For help on this topic click here.",
+            "date": "2015-04-13",
+            "author_name": "Kunwar",
+            "categories": "xampp",
+            "tags": "help,topic,please,webserver,directory,create,xampp,windows,web,server,here",
+            "recuweb_url": "http://en.recuweb.com/xampp/superuser.com/2015/04/write-permissions-to-xampp-on-windows-7-super-user",
             "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://community.apachefriends.org/viewtopic.php?p=241376&sid=f5cfd2469d13318eef012355894218e0"
+            "source_url": "http://superuser.com/questions/901194/write-permissions-to-xampp-on-windows-7"
         },
-        "community.apachefriends.org/2015/03/xampp-&-mac-os-x-yosemite-sending-emails": {
-            "title": "XAMPP & Mac OS X Yosemite sending emails...",
-            "snippet": "I've been searching the web for weeks, unsuccessfully, looking for a solution to send an email generated with PHP through mac mail. Has anyone had any luck with this? Is it even possible? Thank you. mhiga: Posts: 2: Joined:...",
-            "date": "2015-03-19",
-            "author_name": "mhiga",
-            "categories": "xampp,php",
-            "tags": "possible,anyone,mac,yosemite,xampp,web,solution,php,mail",
-            "recuweb_url": "http://en.recuweb.com/php/community.apachefriends.org/2015/03/xampp-&-mac-os-x-yosemite-sending-emails",
+        "wpfy.me/2015/04/install-a-xampp-web-server-on-your-windows-pc-in-five": {
+            "title": "Install a XAMPP web server on your Windows PC in five easy steps...",
+            "snippet": "In this post I will show you how you can install a XAMPP web server on your Windows PC. It takes only five easy steps. And XAMPP delivers everything you need to install and use WordPress locally. What do we need?",
+            "date": "2015-04-10",
+            "author_name": "Wil Ransz",
+            "categories": "xampp,wordpress",
+            "tags": "everything,install,xampp,web,server,windows,easy,show,wordpress,locally",
+            "recuweb_url": "http://en.recuweb.com/wordpress/wpfy.me/2015/04/install-a-xampp-web-server-on-your-windows-pc-in-five",
             "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://community.apachefriends.org/f/viewtopic.php?t=70435&p=241438"
+            "source_url": "http://wpfy.me/xampp-web-server/"
         },
-        "blogtechie.com/2015/03/xampp-installation-error-port-80-or-443-already-in": {
-            "title": "XAMPP Installation Error:Port 80 or 443 already in...",
-            "snippet": "After you have installed Xampp on your hard drive, running Mysql, Tomcat, Filezilla, Mercury and other add on components seems to be fairly easy. However, Apache, an essential component needed for your local server may...",
-            "date": "2015-03-18",
-            "author_name": "Mohsin Patel",
+        "amilaepage.wordpress.com/2015/04/error-in-laravel-installation": {
+            "title": "Error in Laravel Installation...",
+            "snippet": "If this error comes while install laravel. please update your composer.. Warning: require(C:xampphtdocslaravel_login_appbootstrap/../vendor/): failed to open stream: No such file or directory in C:xampphtdocslaravel_login_appbootstrap on line 17...",
+            "date": "2015-04-07",
+            "author_name": "meamila88",
+            "tags": "directory,please,laravel,installation,install,require,open",
+            "recuweb_url": "http://en.recuweb.com/amilaepage.wordpress.com/2015/04/error-in-laravel-installation",
+            "resource_url": "http://en.search.wordpress.com/?q=xampp%2Bxampp&f=feed&page=1",
+            "source_url": "http://amilaepage.wordpress.com/2015/04/07/error-in-laravel-installation/"
+        },
+        "ravindersinghgne.wordpress.com/2015/04/how-to-install-xampp": {
+            "title": "How to install xampp...",
+            "snippet": "Download xampp for 32bit: wget Linux/Download xampp for 64bit: wget Linux/Change permision for executable and run: sudo chmod x sudo./now click next next it will installed. To stop the xampp service: sudo...",
+            "date": "2015-04-01",
+            "author_name": "ravindersinghgne",
+            "categories": "xampp",
+            "tags": "installed,install,xampp,bit,linux,change,run",
+            "recuweb_url": "http://en.recuweb.com/xampp/ravindersinghgne.wordpress.com/2015/04/how-to-install-xampp",
+            "resource_url": "http://en.search.wordpress.com/?q=xampp%2Bxampp&f=feed&page=1",
+            "source_url": "http://ravindersinghgne.wordpress.com/2015/04/01/how-to-install-xampp/"
+        },
+        "community.apachefriends.org/2015/03/xampp-and-access-via-internet-apache-friends-support-forum": {
+            "title": "xampp and access via internet - Apache Friends Support Forum...",
+            "snippet": "i installed xampp on windows server 2008 on VM. i made all the neccesary changes to \"allow from all\" and i achieve to access my wordpress site via my static ip. i have 2 problems 1. i cant see all the site... theme and photos (i...",
+            "date": "2015-03-30",
+            "author_name": "manospiraeus",
+            "categories": "internet,xampp,wordpress",
+            "tags": "via,access,installed,apache,apache_friends,apache_friends_support,friends,friends_support,friends_support_forum,support,support_forum,forum,xampp,windows,server,wordpress,site,problems",
+            "recuweb_url": "http://en.recuweb.com/wordpress/community.apachefriends.org/2015/03/xampp-and-access-via-internet-apache-friends-support-forum",
+            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://community.apachefriends.org/viewtopic.php?p=241580&sid=e2283629a2a9d6610a69a915029137c7"
+        },
+        "community.apachefriends.org/2015/03/apache-friends-support-forum-view-topic-xampp-won-t-work": {
+            "title": "Apache Friends Support Forum View topic - XAMPP won't work?",
+            "snippet": "Hello, I downloaded XAMPP yesterday, it worked, but when I tried to open the admin panel of MySQL, it brings me to a page with 'Webpage not available'. I reinstalled it today without firewalls (I use Bitdefender Total Security...",
+            "date": "2015-03-29",
+            "author_name": "Altrea",
             "categories": "xampp,mysql",
-            "tags": "components,local,installed,xampp,xampp_installation,installation,error,already,running,mysql,filezilla,mercury,easy,apache,server",
-            "recuweb_url": "http://en.recuweb.com/mysql/blogtechie.com/2015/03/xampp-installation-error-port-80-or-443-already-in",
-            "resource_url": "http://www.google.com/search?q=xampp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogtechie.com/xampp-installation-error-port-80-443-already-in-use-apache-service-failed/"
-        },
-        "community.apachefriends.org/2015/03/apache-friends-support-forum-view-topic-xampp": {
-            "title": "Apache Friends Support Forum View topic - XAMPP Apache...",
-            "snippet": "10:11:26 AM main XAMPP Version: 10:11:26 AM main Control Panel Version: Compiled: May 7th 2013 10:11:26 AM main Running with Administrator rights - good! 10:11:26 AM main XAMPP Installation...",
-            "date": "2015-03-18",
-            "author_name": "poulav",
-            "categories": "xampp,rights",
-            "tags": "xampp,xampp_installation,installation,version,apache,apache_friends,apache_friends_support,friends,friends_support,friends_support_forum,support,support_forum,forum,topic,compiled,running",
-            "recuweb_url": "http://en.recuweb.com/rights/community.apachefriends.org/2015/03/apache-friends-support-forum-view-topic-xampp",
+            "tags": "panel,work,apache,apache_friends,apache_friends_support,friends,friends_support,friends_support_forum,support,support_forum,forum,topic,xampp,open,mysql,available",
+            "recuweb_url": "http://en.recuweb.com/mysql/community.apachefriends.org/2015/03/apache-friends-support-forum-view-topic-xampp-won-t-work",
             "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://community.apachefriends.org/f/viewtopic.php?f=16&p=241297&sid=729d25c3151a0bcd71a6c7e06fb61591"
-        },
-        "superuser.com/2015/03/osx-restoring-the-xampp-installation-in-mac-mysql-super-user": {
-            "title": "osx - Restoring the XAMPP installation in Mac, MySql - Super User...",
-            "snippet": "I have a XAMPP on Mac Yosemite that during a mess I was having, I copied the entire directory under/Applications/XAMPP/to another location. Then I copied it back, but its not working, Apache runs, but not MySql and...",
-            "date": "2015-03-18",
-            "author_name": "Ahmed Nassar",
-            "categories": "xampp,mysql",
-            "tags": "yosemite,user,installation,xampp,mac,mysql,apache",
-            "recuweb_url": "http://en.recuweb.com/mysql/superuser.com/2015/03/osx-restoring-the-xampp-installation-in-mac-mysql-super-user",
-            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://superuser.com/questions/891124/restoring-the-xampp-installation-in-mac-mysql"
+            "source_url": "http://community.apachefriends.org/f/viewtopic.php?f=16&t=70506"
         },
         "reddit.com/2015/03/using-xampp-or-virtualization-l5": {
             "title": "Using XAMPP or Virtualization? L5...",
             "snippet": "Hi folks! Since i started learning web development i always use xampp, maybe it's time to starting using virtualization. What you guys think? What should i use? I'm using Windows 8.1 and i have 32gb ram submitted by srtgt to laravel link 18 comments...",
             "date": "2015-03-15",
             "categories": "learning,xampp",
-            "tags": "should,using,xampp,web,development,guys,windows",
+            "tags": "laravel,development,learning,using,xampp,web,guys,windows",
             "recuweb_url": "http://en.recuweb.com/xampp/reddit.com/2015/03/using-xampp-or-virtualization-l5",
             "resource_url": "http://www.reddit.com/search.rss?q=xampp%2Bxampp&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/laravel/comments/2z6572/using_xampp_or_virtualization_l5/"
-        },
-        "telituare.wordpress.com/2015/03/download-xampp-on-windows-7": {
-            "title": "Download xampp on windows 7...",
-            "snippet": "DOWNLOAD Download XAMPP for Windows, Linux, and OS X. Older versions of Solaris XAMPP is an easy to install Apache distribution containing MySQL, PHP, and Perl. XAMPP is the...",
-            "date": "2015-03-12",
-            "author_name": "telituare",
-            "categories": "xampp,mysql,php,perl",
-            "tags": "distribution,distribution-containing,containing,solaris,xampp,windows,linux,easy,install,apache,mysql,php,perl",
-            "recuweb_url": "http://en.recuweb.com/perl/telituare.wordpress.com/2015/03/download-xampp-on-windows-7",
-            "resource_url": "http://en.search.wordpress.com/?q=xampp%2Bxampp&f=feed&page=1",
-            "source_url": "http://telituare.wordpress.com/2015/03/12/download-xampp-on-windows-7/"
-        },
-        "lanotheader.wordpress.com/2015/03/xampp-download-beta": {
-            "title": "Xampp download beta...",
-            "snippet": "Download XAMPP is an easy to install Apache distribution containing MySQL, PHP, and Perl. Just download and start the installer. Its that easy. 19 Nov 2014 Download (65.5 MB) xampp-macosx-, 2012-10-16, 77.0 MB, 1 1 weekly. 19 Nov 2014 Dow...",
-            "date": "2015-03-12",
-            "author_name": "lanotheader",
-            "categories": "xampp,mysql,php,perl",
-            "tags": "start,start-the-installer,installer,distribution,distribution-containing,containing,xampp,easy,install,apache,mysql,php,perl",
-            "recuweb_url": "http://en.recuweb.com/perl/lanotheader.wordpress.com/2015/03/xampp-download-beta",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=xampp%2Bxampp&rss=1&lng=en",
-            "source_url": "http://lanotheader.wordpress.com/2015/03/12/xampp-download-beta/"
-        },
-        "fighluseli.wordpress.com/2015/03/xampp-download-installer": {
-            "title": "Xampp download installer...",
-            "snippet": "Download XAMPP is an easy to install Apache distribution containing MySQL, PHP, and Perl. Just download and start the installer. Its that easy. XAMPP is the most popular PHP development environment. XAMPP is a completely free, easy to install Apache...",
-            "date": "2015-03-12",
-            "author_name": "fighluseli",
-            "categories": "xampp,mysql,php,perl,environment",
-            "tags": "start,start-the-installer,installer,distribution,distribution-containing,containing,xampp,easy,install,apache,mysql,php,perl,development,free",
-            "recuweb_url": "http://en.recuweb.com/environment/fighluseli.wordpress.com/2015/03/xampp-download-installer",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=xampp%2Bxampp&rss=1&lng=en",
-            "source_url": "http://fighluseli.wordpress.com/2015/03/12/xampp-download-installer/"
         }
     }
 }
