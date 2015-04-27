@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "markets",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/markets/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/markets/markets/blogs.json"
     },
     "items": {
-        "businessinsider.com/2015/04/10-things-you-need-to-know-in-markets-today": {
-            "title": "10 things you need to know in markets today...",
-            "snippet": "REUTERS/Peter MacdiarmidThe Conservative party have taken a one-point lead over Labour in the latest polls Good morning! Here are 10 things you need to know in markets today. Eurozone consumer confidence is coming. Confidence figures are out at 3...",
-            "date": "2015-04-22",
+        "blogs.wsj.com/2015/04/asia-s-markets-barrel-past-milestones-wall-street-journal-blog": {
+            "title": "Asia's Markets Barrel Past Milestones - Wall Street Journal (blog)...",
+            "snippet": "Wall Street Journal (blog)Asia's Markets Barrel Past MilestonesWall Street Journal (blog)From Shanghai to Tokyo, stock markets in Asia Pacific are hitting new milestones this year. But the reasons are far from sound fundamentals in the region's...",
+            "date": "2015-04-27",
             "categories": "markets",
-            "tags": "latest,markets,reuters,good,morning,here",
-            "recuweb_url": "http://en.recuweb.com/markets/businessinsider.com/2015/04/10-things-you-need-to-know-in-markets-today",
+            "tags": "fundamentals,markets,street,wall,wall_street,tokyo,stock",
+            "recuweb_url": "http://en.recuweb.com/markets/blogs.wsj.com/2015/04/asia-s-markets-barrel-past-milestones-wall-street-journal-blog",
+            "resource_url": "http://news.google.com/?hl=en&q=markets%2Bmarkets&output=atom&nord=1",
+            "source_url": "http://blogs.wsj.com/moneybeat/2015/04/27/asias-markets-barrel-past-milestones/"
+        },
+        "usnews.com/2015/04/asian-markets-rise-after-wall-street-gains-u-s-news-&": {
+            "title": "Asian markets rise after Wall Street gains - U.S. News & World Report...",
+            "snippet": "USA TODAYAsian markets rise after Wall Street gainsU.S. News & World ReportBEIJING (AP) Asian stock markets rose Monday after Wall Street gained on strong earnings and investors looked ahead to Apple results and this week's U.S. Federal Reserve...",
+            "date": "2015-04-27",
+            "categories": "markets",
+            "tags": "week,strong,earnings,investors,investors-looked,investors-looked-ahead,looked,looked-ahead,ahead,world,wall,wall_street,street,asian,markets,gains,stock,monday",
+            "recuweb_url": "http://en.recuweb.com/markets/usnews.com/2015/04/asian-markets-rise-after-wall-street-gains-u-s-news-&",
+            "resource_url": "http://news.google.com/?hl=en&q=markets%2Bmarkets&output=atom&nord=1",
+            "source_url": "http://usnews.com/news/business/articles/2015/04/26/asian-markets-rise-after-wall-street-gains"
+        },
+        "economictimes.indiatimes.com/2015/04/dalal-street-muted-q4-earnings-worries-over-mat-to-keep-markets": {
+            "title": "Dalal Street: Muted Q4 earnings, worries over MAT to keep markets choppy in... - Economic Times...",
+            "snippet": "Dalal Street: Muted Q4 earnings, worries over MAT to keep markets choppy in...Economic TimesMUMBAI: Dalal Street may continue to grapple with disappointing corporate earnings and the threat of Minimum Alternate Tax (MAT) on foreign funds this week.",
+            "date": "2015-04-27",
+            "categories": "markets",
+            "tags": "funds,week,continue,earnings,worries,street,markets",
+            "recuweb_url": "http://en.recuweb.com/markets/economictimes.indiatimes.com/2015/04/dalal-street-muted-q4-earnings-worries-over-mat-to-keep-markets",
+            "resource_url": "http://news.google.com/?hl=en&q=markets%2Bmarkets&output=atom&nord=1",
+            "source_url": "http://economictimes.indiatimes.com/markets/stocks/news/dalal-street-muted-q4-earnings-worries-over-mat-to-keep-markets-choppy-in-following-week/articleshow/47064099.cms"
+        },
+        "cityam.com/2015/04/european-markets-sink-as-greece-jitters-continue": {
+            "title": "European markets sink as Greece jitters continue...",
+            "snippet": "Another week, another set of worries about Greece. Although European markets started the day well, that rally faded quickly, with the FTSE 100 falling per cent by mid-morning. At the same time, Germany's Dax dropped per cent and France's Cac 40...",
+            "date": "2015-04-27",
+            "categories": "markets",
+            "tags": "rally,rally-faded,faded,worries,continue,markets,greece,week,ftse",
+            "recuweb_url": "http://en.recuweb.com/markets/cityam.com/2015/04/european-markets-sink-as-greece-jitters-continue",
             "resource_url": "http://www.bing.com/news/search?first=1&q=markets&format=RSS&cc=us",
-            "source_url": "http://businessinsider.com/european-markets-open-april-22-2015-2015-4"
+            "source_url": "http://cityam.com/214567/european-markets-sink-greece-jitters-continue"
         },
-        "wsj.com/2015/04/boe-issues-rates-reminder-to-markets": {
-            "title": "BOE Issues Rates Reminder to Markets...",
-            "snippet": "The Bank of England is swimming against the tide, albeit gently. In a world where central banks have been loosening policy in droves, the BOE is still thinking about raising rates. That is despite inflation remaining at zeroa strange phenomenon...",
-            "date": "2015-04-22",
-            "categories": "inflation,policy,swimming,markets",
-            "tags": "markets",
-            "recuweb_url": "http://en.recuweb.com/markets/wsj.com/2015/04/boe-issues-rates-reminder-to-markets",
+        "everyinvestor.co.uk/2015/04/funds-for-global-emerging-markets": {
+            "title": "Funds for global emerging markets...",
+            "snippet": "Global Emerging Markets funds are defined as those which invest 80% or more of their assets in emerging market equities as defined by the relevant FTSE or MSCI Global Emerging Markets index. In looking for funds in this area, we also selectively...",
+            "date": "2015-04-27",
+            "categories": "markets",
+            "tags": "funds,msci,markets,equities,global,emerging,emerging_markets,ftse,index",
+            "recuweb_url": "http://en.recuweb.com/markets/everyinvestor.co.uk/2015/04/funds-for-global-emerging-markets",
             "resource_url": "http://www.bing.com/news/search?first=1&q=markets&format=RSS&cc=us",
-            "source_url": "http://wsj.com/articles/boe-issues-rates-reminder-to-markets-1429716287?tesla=y"
+            "source_url": "http://everyinvestor.co.uk/2015/04/27/funds-for-global-emerging-markets/"
         },
-        "blogs.wsj.com/2015/04/flash-crash-and-other-scandals-how-london-s-unknown-rocked-markets": {
-            "title": "Flash Crash and Other Scandals: How London's Unknown Rocked Markets - Wall Street Journal (blog)...",
-            "snippet": "Wall Street Journal (blog)Flash Crash and Other Scandals: How London's Unknown Rocked MarketsWall Street Journal (blog)A semi-detached house in London's commuter belt has found itself at the centre of the 2010 Wall Street flash crash which wiped...",
-            "date": "2015-04-22",
+        "reuters.com/2015/04/global-markets-china-stocks-at-7-yr-peaks-on-stimulus-hopes": {
+            "title": "GLOBAL MARKETS-China stocks at 7-yr peaks on stimulus hopes, focus on... - Reuters...",
+            "snippet": "LivemintGLOBAL MARKETS-China stocks at 7-yr peaks on stimulus hopes, focus on...ReutersSome markets were slightly more subdued as the focus shifted to central bank meetings this week in the United States and Japan. MSCI's broadest index of...",
+            "date": "2015-04-27",
             "categories": "markets",
-            "tags": "flash,flash_crash,crash,wall,wall_street,street,street_journal,journal,wall_street_journal,markets",
-            "recuweb_url": "http://en.recuweb.com/markets/blogs.wsj.com/2015/04/flash-crash-and-other-scandals-how-london-s-unknown-rocked-markets",
+            "tags": "index,united,focus,central,central-bank,central-bank-meetings,bank,bank-meetings,meetings,week,markets,ulus,ulus-hopes,hopes,peaks,global,global_markets,china,stocks,reuters,msci",
+            "recuweb_url": "http://en.recuweb.com/markets/reuters.com/2015/04/global-markets-china-stocks-at-7-yr-peaks-on-stimulus-hopes",
             "resource_url": "http://news.google.com/?hl=en&q=markets%2Bmarkets&output=atom&nord=1",
-            "source_url": "http://blogs.wsj.com/moneybeat/2015/04/22/flash-crash-and-other-scandals-how-londons-unknown-rocked-markets/"
+            "source_url": "http://reuters.com/article/2015/04/27/markets-global-idUSL4N0XO07S20150427"
         },
-        "reuters.com/2015/04/global-markets-shares-climb-on-earnings-u-s-treasuries-fall": {
-            "title": "GLOBAL MARKETS-Shares climb on earnings; U.S. Treasuries fall...",
-            "snippet": "NEW YORK, April 22 (Reuters) - Stocks in major markets drifted higher on Wednesday as investors took an optimistic view of the latest batch of U.S. corporate earnings, while U.S. Treasury prices declined after home sales data added to anticipation...",
-            "date": "2015-04-22",
-            "categories": "home,markets",
-            "tags": "prices,after,home,sales,earnings,latest,investors,drifted,drifted-higher,higher,major,york,global,global_markets,markets,shares,treasuries,reuters,stocks,wednesday",
-            "recuweb_url": "http://en.recuweb.com/markets/reuters.com/2015/04/global-markets-shares-climb-on-earnings-u-s-treasuries-fall",
+        "uk.reuters.com/2015/04/global-markets-china-stocks-at-7-yr-peaks-on-stimulus-hopes": {
+            "title": "GLOBAL MARKETS-China stocks at 7-yr peaks on stimulus hopes, focus on central bks...",
+            "snippet": "Asian shares hit 7-yr high after U.S. hi-tech gains TOKYO, April 27 (Reuters) - A rally in Chinese stocks led Asian equities to 7-year highs thanks to expectations of more stimulus from Beijing with stellar earnings from a few U.S. hi-tech giants...",
+            "date": "2015-04-27",
+            "categories": "markets",
+            "tags": "tech,earnings,high,equities,rally,gains,shares,shares-hit,hit,focus,central,ulus,ulus-hopes,hopes,peaks,global,global_markets,markets,china,stocks,asian,tokyo,reuters,led",
+            "recuweb_url": "http://en.recuweb.com/markets/uk.reuters.com/2015/04/global-markets-china-stocks-at-7-yr-peaks-on-stimulus-hopes",
             "resource_url": "http://www.bing.com/news/search?first=1&q=markets&format=RSS&cc=us",
-            "source_url": "http://reuters.com/article/2015/04/22/markets-global-idUSL1N0XJ2NJ20150422"
+            "source_url": "http://uk.reuters.com/article/2015/04/27/markets-global-idUKL4N0XO07S20150427"
         },
-        "reuters.com/2015/04/global-markets-shares-edge-up-on-earnings-us-treasuries-dip-reuters": {
-            "title": "GLOBAL MARKETS-Shares edge up on earnings; US Treasuries dip - Reuters...",
-            "snippet": "City MARKETS-Shares edge up on earnings; US Treasuries dipReutersBrent advances on Yemen, WTI crude choppy (Adds close of European markets). By Chuck Mikolajczak. NEW YORK, April 22 (Reuters) - Stocks in major markets edged higher on Wednesday as...",
-            "date": "2015-04-22",
+        "reuters.com/2015/04/global-markets-world-shares-hit-new-high-but-europe-rally-fades": {
+            "title": "GLOBAL MARKETS-World shares hit new high but Europe rally fades on Greece...",
+            "snippet": "World shares hit new high, Greece worries pull Europe down LONDON, April 27 (Reuters) - World shares hit a new high on Monday, led by China, though the global rally faded in Europe as investors looked ahead to central bank meetings in the United...",
+            "date": "2015-04-27",
             "categories": "markets",
-            "tags": "higher,major,york,markets,edge,earnings,global,global_markets,shares,treasuries,reuters,yemen,european,stocks,wednesday",
-            "recuweb_url": "http://en.recuweb.com/markets/reuters.com/2015/04/global-markets-shares-edge-up-on-earnings-us-treasuries-dip-reuters",
+            "tags": "investors,investors-looked,investors-looked-ahead,looked,looked-ahead,ahead,central,central-bank,central-bank-meetings,bank,bank-meetings,meetings,global,rally,rally-faded,faded,led,shares,shares-hit,hit,high,worries,global_markets,markets,world,greece,down,reuters,monday,china,united",
+            "recuweb_url": "http://en.recuweb.com/markets/reuters.com/2015/04/global-markets-world-shares-hit-new-high-but-europe-rally-fades",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=markets&format=RSS&cc=us",
+            "source_url": "http://reuters.com/article/2015/04/27/markets-global-idUSL8N0XO1EG20150427"
+        },
+        "globegazette.com/2015/04/iowa-farmers-markets-vie-to-retain-customers-vendors-mason-city-globe": {
+            "title": "Iowa farmers markets vie to retain customers, vendors - Mason City Globe Gazette...",
+            "snippet": "Mason City Globe GazetteIowa farmers markets vie to retain customers, vendorsMason City Globe GazetteNational data suggest the tremendous growth in farmers markets has begun to ebb, with a slight decline in sales adjusted for inflation, but...",
+            "date": "2015-04-27",
+            "categories": "inflation,markets",
+            "tags": "sales,markets",
+            "recuweb_url": "http://en.recuweb.com/markets/globegazette.com/2015/04/iowa-farmers-markets-vie-to-retain-customers-vendors-mason-city-globe",
             "resource_url": "http://news.google.com/?hl=en&q=markets%2Bmarkets&output=atom&nord=1",
-            "source_url": "http://reuters.com/article/2015/04/22/markets-global-idUSL1N0XJ1UU20150422"
+            "source_url": "http://globegazette.com/ap/state/iowa-farmers-markets-vie-to-retain-customers-vendors/article_e03adf56-b78d-578e-b10f-deec1bfe504a.html"
         },
-        "ourfuture.org/2015/04/here-is-proof-that-conservatives-actually-hate-markets": {
-            "title": "Here Is Proof That Conservatives Actually Hate Markets...",
-            "snippet": "Conservatives are supposedly all about markets. Markets should decide, not voters. But when it comes to the law of supply and demand for government debt, they go blind. Greg Ip in the Wall Street Journal poses this surprising question: Is...",
-            "date": "2015-04-22",
-            "categories": "law,markets",
-            "tags": "wall,wall_street,wall_street_journal,street,street_journal,journal,here,markets",
-            "recuweb_url": "http://en.recuweb.com/markets/ourfuture.org/2015/04/here-is-proof-that-conservatives-actually-hate-markets",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=markets%2Bmarkets&format=RSS&cc=us",
-            "source_url": "http://ourfuture.org/20150422/here-is-proof-that-conservatives-actually-hate-markets"
-        },
-        "money.cnn.com/2015/04/home-buyers-in-these-markets-have-the-upper-hand-cnnmoney": {
-            "title": "Home buyers in these markets have the upper hand - CNNMoney...",
-            "snippet": "CNNMoneyHome buyers in these markets have the upper handCNNMoneyThe top housing markets for buyers are Philadelphia, Chicago and Cleveland, according to a report from Zillow. In these markets, inventory tends to be strong and homes stay on the...",
-            "date": "2015-04-22",
-            "categories": "housing,home,markets",
-            "tags": "stay,report,housing,home,markets,chicago",
-            "recuweb_url": "http://en.recuweb.com/markets/money.cnn.com/2015/04/home-buyers-in-these-markets-have-the-upper-hand-cnnmoney",
-            "resource_url": "http://news.google.com/?hl=en&q=markets%2Bmarkets&output=atom&nord=1",
-            "source_url": "http://money.cnn.com/2015/04/22/real_estate/housing-markets-buyers/"
-        },
-        "chicagotribune.com/2015/04/illinois-and-chicago-spring-housing-markets-up-11-5-percent-tribune": {
-            "title": "Illinois and Chicago spring housing markets up 11.5 percent - Chicago Tribune...",
-            "snippet": "Chicago TribuneIllinois and Chicago spring housing markets up 11.5 percentChicago Tribune\"The surge in sales and median prices throughout the state in March clearly shows consumers know they have to be willing to pay more as they face a slightly...",
-            "date": "2015-04-22",
-            "categories": "housing,markets",
-            "tags": "sales,prices,housing,chicago,markets",
-            "recuweb_url": "http://en.recuweb.com/markets/chicagotribune.com/2015/04/illinois-and-chicago-spring-housing-markets-up-11-5-percent-tribune",
-            "resource_url": "http://news.google.com/?hl=en&q=markets&output=atom&nord=1",
-            "source_url": "http://chicagotribune.com/business/ct-home-sales-0423-biz-20150422-story.html"
-        },
-        "reuters.com/2015/04/mideast-stocks-middle-east-markets-edge-up-as-yemen-air-strikes": {
-            "title": "MIDEAST STOCKS-Middle East markets edge up as Yemen air strikes end - Reuters...",
-            "snippet": "MIDEAST STOCKS-Middle East markets edge up as Yemen air strikes endReutersDUBAI, April 22 (Reuters) - Most major stock markets in the Middle East rose modestly on Wednesday after Saudi Arabia and its allies in the region decided to end a campaign of...",
-            "date": "2015-04-22",
+        "msn.com/2015/04/markets-are-assuming-there-wont-be-a-grexit-saywell": {
+            "title": "Markets Are Assuming There Wont Be a Grexit: Saywell...",
+            "snippet": "April 27 -- BNP Paribas Global Head of FX Strategy Steven Saywell discuss Greeces debt crisis and its impact on the euro. He speaks to Bloombergs Mark Barton, Caroline Hyde and Manus Cranny on Countdown. READ MORE SEE LESS Bloomberg...",
+            "date": "2015-04-27",
             "categories": "markets",
-            "tags": "major,stocks,edge,markets,yemen,reuters,wednesday,after",
-            "recuweb_url": "http://en.recuweb.com/markets/reuters.com/2015/04/mideast-stocks-middle-east-markets-edge-up-as-yemen-air-strikes",
-            "resource_url": "http://news.google.com/?hl=en&q=markets&output=atom&nord=1",
-            "source_url": "http://reuters.com/article/2015/04/22/mideast-markets-wrap-idUSL5N0XJ3S620150422"
-        },
-        "reuters.com/2015/04/markets-drift-higher-as-ypf-makes-opportunistic-tap-reuters": {
-            "title": "Markets drift higher as YPF makes opportunistic tap - Reuters...",
-            "snippet": "Markets drift higher as YPF makes opportunistic tapReutersNEW YORK, April 22 (IFR) - Market focus remained firmly on upcoming Petrobras results and Argentina's latest market foray as Latin America credits drifted higher Wednesday morning. Bonds...",
-            "date": "2015-04-22",
-            "categories": "credit,markets",
-            "tags": "drifted,drifted-higher,higher,latest,markets,york,reuters,wednesday,morning",
-            "recuweb_url": "http://en.recuweb.com/markets/reuters.com/2015/04/markets-drift-higher-as-ypf-makes-opportunistic-tap-reuters",
-            "resource_url": "http://news.google.com/?hl=en&q=markets%2Bmarkets&output=atom&nord=1",
-            "source_url": "http://reuters.com/article/2015/04/22/markets-emerging-latam-idUSL5N0XJ4IY20150422"
+            "tags": "global,markets,down",
+            "recuweb_url": "http://en.recuweb.com/markets/msn.com/2015/04/markets-are-assuming-there-wont-be-a-grexit-saywell",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=markets&format=RSS&cc=us",
+            "source_url": "http://msn.com/en-us/video/watch/markets-are-assuming-there-won\u2019t-be-a-\u2018grexit\u2019-saywell/vi-BBiJ3DH"
         }
     }
 }
