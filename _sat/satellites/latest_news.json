@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "satellites",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/satellites/",
@@ -10,105 +11,104 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/satellites/satellites/blogs.json"
     },
     "items": {
-        "satellitetoday.com/2015/04/denmark-expects-milsatcom-capacity-surge-to-continue": {
-            "title": "Denmark Expects Milsatcom Capacity Surge to Continue...",
-            "snippet": "How does satellite work with other communications technologies? Malmberg: For broadband services, satellites are a lifeline. We have discussed lately what we would do if we had no satellites. So, we are thinking of a life without satellites so...",
-            "date": "2015-04-09",
-            "categories": "life,satellites",
-            "tags": "life,satellite,satellites",
-            "recuweb_url": "http://en.recuweb.com/satellites/satellitetoday.com/2015/04/denmark-expects-milsatcom-capacity-surge-to-continue",
+        "c4isrnet.com/2015/04/exelis-ships-gps-satellite-encryption-tools": {
+            "title": "Exelis ships GPS satellite encryption tools...",
+            "snippet": "The Air Force will use the encryptors to protect information sent between OCX and navigation payloads aboard GPS satellites, according to Exelis. The encryptors are an essential component in the management of cryptographic keys used throughout the...",
+            "date": "2015-04-24",
+            "categories": "management,navigation,satellites",
+            "tags": "management,information,satellite,satellites",
+            "recuweb_url": "http://en.recuweb.com/satellites/c4isrnet.com/2015/04/exelis-ships-gps-satellite-encryption-tools",
             "resource_url": "http://www.bing.com/news/search?first=1&q=satellites&format=RSS&cc=us",
-            "source_url": "http://satellitetoday.com/regional/2015/04/09/denmark-expects-milsatcom-capacity-surge-to-continue/"
+            "source_url": "http://c4isrnet.com/story/military-tech/satellites/2015/04/24/exelis-raytheon-gps-encryption/26295443/"
         },
-        "news.sciencemag.org/2015/04/feature-how-tiny-satellites-spawned-in-silicon-valley-will-monitor": {
-            "title": "Feature: How tiny satellites spawned in Silicon Valley will monitor a changing... - Science/AAAS...",
-            "snippet": "Science/AAASFeature: How tiny satellites spawned in Silicon Valley will monitor a changing...Science/AAASFor decades, engineers have been building satellites like bespoke Swiss watches, sparing no expense and spending years to perfect them. More...",
-            "date": "2015-04-09",
-            "categories": "satellites,science",
-            "tags": "satellites,science",
-            "recuweb_url": "http://en.recuweb.com/science/news.sciencemag.org/2015/04/feature-how-tiny-satellites-spawned-in-silicon-valley-will-monitor",
+        "eham.net/2015/04/fox-1c-1d-satellites-to-include-l-band-uplink-1e-linear": {
+            "title": "Fox-1C, 1D Satellites to Include L-Band Uplink; Fox-1E Linear Transponder: -...",
+            "snippet": "Fox-1C, 1D Satellites to Include L-Band Uplink; Fox-1E Linear Transponder: Vice President-Engineering Jerry Buxton, N0JY, has announced plans to incorporate an L-band receiver in the Fox-1C and Fox-1D satellites. This will allow ground controllers...",
+            "date": "2015-04-24",
+            "categories": "engineering,satellites",
+            "tags": "ground,announced,plans,satellites",
+            "recuweb_url": "http://en.recuweb.com/satellites/eham.net/2015/04/fox-1c-1d-satellites-to-include-l-band-uplink-1e-linear",
             "resource_url": "http://news.google.com/?hl=en&q=satellites&output=atom&nord=1",
-            "source_url": "http://news.sciencemag.org/space/2015/04/feature-how-tiny-satellites-spawned-silicon-valley-will-monitor-changing-earth"
+            "source_url": "http://eham.net/articles/34458"
         },
-        "gpsworld.com/2015/04/galileo-ground-segment-back-online": {
-            "title": "Galileo Ground Segment Back Online...",
-            "snippet": "A satnav receiver determines its position by calculating the time it takes for signals to arrive from multiple satellites in space. To keep those timings sufficiently precise, the entire Galileo system can be thought of as one gigantic...",
-            "date": "2015-04-09",
+        "spaceflightnow.com/2015/04/multiple-satellites-planned-in-long-term-landsat-program-spaceflight-now": {
+            "title": "Multiple satellites planned in long-term Landsat program - Spaceflight Now...",
+            "snippet": "Universe TodayMultiple satellites planned in long-term Landsat programSpaceflight NowLandsat satellites have amassed a catalog of multi-spectral, moderate-resolution imagery of the world's land masses since the first spacecraft in the series...",
+            "date": "2015-04-24",
+            "categories": "spacecraft,satellites,spaceflight",
+            "tags": "world,satellites",
+            "recuweb_url": "http://en.recuweb.com/spaceflight/spaceflightnow.com/2015/04/multiple-satellites-planned-in-long-term-landsat-program-spaceflight-now",
+            "resource_url": "http://news.google.com/?hl=en&q=satellites&output=atom&nord=1",
+            "source_url": "http://spaceflightnow.com/2015/04/21/multiple-satellites-planned-in-long-term-landsat-program/"
+        },
+        "breakingdefense.com/2015/04/russia-drives-hasc-stratforces-markup-weather-sats-rd-180-breaking-defense": {
+            "title": "Russia Drives HASC StratForces Markup: Weather Sats, RD-180 - Breaking Defense...",
+            "snippet": "Breaking DefenseRussia Drives HASC StratForces Markup: Weather Sats, RD-180Breaking DefenseThe draft bill includes provisions restricting spending on the new Weather Satellite System until the Pentagon adequately briefs the subcommittee. A key...",
+            "date": "2015-04-24",
+            "tags": "subcommittee,satellite,russia",
+            "recuweb_url": "http://en.recuweb.com/breakingdefense.com/2015/04/russia-drives-hasc-stratforces-markup-weather-sats-rd-180-breaking-defense",
+            "resource_url": "http://news.google.com/?hl=en&q=satellites&output=atom&nord=1",
+            "source_url": "http://breakingdefense.com/2015/04/russia-drives-hasc-stratforces-markup-weather-satellites-missile-defense-rd-180/"
+        },
+        "modernghana.com/2015/04/satellites-squad-sellas-satisfied-with-black": {
+            "title": "Satellites squad: Sellas satisfied with Black Satellites squad...",
+            "snippet": "Head coach of Ghana national U-20 team, Sellas Tetteh says he will like to have all his provisional squad in camp before naming his final squad for this year's World Youth Championship due next month. The Black Satellites have started preparation...",
+            "date": "2015-04-24",
             "categories": "satellites",
-            "tags": "system,thought,satellites,space",
-            "recuweb_url": "http://en.recuweb.com/satellites/gpsworld.com/2015/04/galileo-ground-segment-back-online",
+            "tags": "started,started-preparation,preparation,black,due,due-next,due-next-month,next,next-month,month,world,world_youth,world_youth_championship,youth,youth_championship,championship,provisional,provisional-squad,squad,squad-in-camp,camp,camp-before-naming,naming,naming-his-final,final,final-squad,tetteh,coach,satisfied,satisfied-with-black,satellites,sellas,head,ghana,national,team",
+            "recuweb_url": "http://en.recuweb.com/satellites/modernghana.com/2015/04/satellites-squad-sellas-satisfied-with-black",
             "resource_url": "http://www.bing.com/news/search?first=1&q=satellites&format=RSS&cc=us",
-            "source_url": "http://gpsworld.com/galileo-ground-segment-back-online/"
+            "source_url": "http://modernghana.com/sports/613346/2/satellites-squad-sellas-satisfied-with-bla.html"
         },
-        "universetoday.com/2015/04/heres-how-you-can-watch-the-spacexs-crs-6-mission": {
-            "title": "Heres How You Can Watch the SpaceXs CRS-6 Mission From Your Backyard...",
-            "snippet": "Hunting for satellites from your backyard can be positively addicting. Sure, the Orion Nebula or the Andromeda Galaxy appear grand and theyll also look exactly the same throughout the short span of our fleeting human lifetimes. Since the launch...",
-            "date": "2015-04-09",
-            "categories": "life,hunting,satellites",
-            "tags": "launch,human,life,mission,satellites",
-            "recuweb_url": "http://en.recuweb.com/satellites/universetoday.com/2015/04/heres-how-you-can-watch-the-spacexs-crs-6-mission",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=satellites&format=RSS&cc=us",
-            "source_url": "http://universetoday.com/119672/chasing-the-dragon-following-spacexs-crs-6-mission-from-your-backyard/"
-        },
-        "dailygalaxy.com/2015/04/invisible-violence-of-the-solar-winds-revealed-by-esa-s-cluster": {
-            "title": "Invisible Violence of the Solar Winds --Revealed by ESA's Cluster Satellites...",
-            "snippet": "ESAs pioneering Cluster mission is celebrating its 10th anniversary. During the past decade, Clusters four satellites have provided extraordinary insights into the largely invisible interaction between the Sun and Earth. Clusters four satellites...",
-            "date": "2015-04-09",
-            "categories": "satellites,sun,earth",
-            "tags": "mission,satellites,into,earth",
-            "recuweb_url": "http://en.recuweb.com/earth/dailygalaxy.com/2015/04/invisible-violence-of-the-solar-winds-revealed-by-esa-s-cluster",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=satellites&format=RSS&cc=us",
-            "source_url": "http://dailygalaxy.com/my_weblog/2015/04/invisible-violence-of-the-solar-winds-revealed-by-esas-cluster-satellites.html"
-        },
-        "en.yibada.com/2015/04/stunning-images-of-algal-blooms-taken-by-nasa-satellites-from-space": {
-            "title": "Stunning Images Of Algal Blooms Taken By NASA Satellites From Space - Yibada (English Edition)...",
-            "snippet": "Yibada (English Edition)Stunning Images Of Algal Blooms Taken By NASA Satellites From SpaceYibada (English Edition)NASA's multi-agency project aims to provide colored ocean images from space satellites to determine where algal blooms will take...",
-            "date": "2015-04-09",
+        "allsports.com.gh/2015/04/satellites-squad-sellas-satisfied-with-black": {
+            "title": "Satellites squad: Sellas satisfied with Black Satellites squad -...",
+            "snippet": "Ghana Broadcasting CorporationSatellites squad: Sellas satisfied with Black Satellites coach of Ghana national U-20 team, Sellas Tetteh says he will like to have all his provisional squad in camp before naming his final squad for this year's World...",
+            "date": "2015-04-24",
             "categories": "satellites",
-            "tags": "agency,images,nasa,satellites,space",
-            "recuweb_url": "http://en.recuweb.com/satellites/en.yibada.com/2015/04/stunning-images-of-algal-blooms-taken-by-nasa-satellites-from-space",
+            "tags": "provisional,provisional-squad,squad,squad-in-camp,camp,camp-before-naming,naming,naming-his-final,final,final-squad,tetteh,coach,ghana,satisfied,satisfied-with-black,black,satellites,sellas,national,team,world",
+            "recuweb_url": "http://en.recuweb.com/satellites/allsports.com.gh/2015/04/satellites-squad-sellas-satisfied-with-black",
             "resource_url": "http://news.google.com/?hl=en&q=satellites&output=atom&nord=1",
-            "source_url": "http://en.yibada.com/articles/25490/20150409/stunning-images-algal-blooms-taken-nasa-satellites-space.htm"
+            "source_url": "http://allsports.com.gh/football/satellites-squad-sellas-satisfied-with-black-satellites-squad-id3694497.html"
         },
-        "gulfnews.com/2015/04/uae-likely-to-join-elite-club-of-space-powers": {
-            "title": "UAE likely to join elite club of space powers...",
-            "snippet": "He said the progress the UAE has achieved in telecommunication sector with Yahsat the company developing satellites and in space with the UAE space agency, is visible. We are happy associate with these very important developments, Le Gall...",
-            "date": "2015-04-09",
-            "categories": "telecommunication,satellites",
-            "tags": "company,space,satellites,agency",
-            "recuweb_url": "http://en.recuweb.com/satellites/gulfnews.com/2015/04/uae-likely-to-join-elite-club-of-space-powers",
+        "ghanaweb.com/2015/04/sellas-satisfied-with-black-satellites-squad": {
+            "title": "Sellas satisfied with Black Satellites squad...",
+            "snippet": "Head coach of Ghana national U-20 team, Sellas Tetteh says he will like to have all his provisional squad in camp before naming his final squad for this year's World Youth Championship due next month. The Black Satellites have started preparation...",
+            "date": "2015-04-24",
+            "categories": "satellites",
+            "tags": "started,started-preparation,preparation,due,due-next,due-next-month,next,next-month,month,world,world_youth,world_youth_championship,youth,youth_championship,championship,provisional,provisional-squad,squad,squad-in-camp,camp,camp-before-naming,naming,naming-his-final,final,final-squad,tetteh,coach,black,satellites,satisfied,sellas,head,ghana,national,team",
+            "recuweb_url": "http://en.recuweb.com/satellites/ghanaweb.com/2015/04/sellas-satisfied-with-black-satellites-squad",
             "resource_url": "http://www.bing.com/news/search?first=1&q=satellites&format=RSS&cc=us",
-            "source_url": "http://gulfnews.com/business/sectors/technology/uae-likely-to-join-elite-club-of-space-powers-1.1489177"
+            "source_url": "http://ghanaweb.com/GhanaHomePage/SportsArchive/artikel.php?ID=355836"
         },
-        "chron.com/2015/04/nasa-satellites-map-springtime-across-the-country": {
-            "title": "NASA satellites map springtime across the country -...",
-            "snippet": "satellites map springtime across the surveillance is broader than you thought. It turns out the feds aren't just watching text message and email traffic, they have satellites in the air keeping a close eye on the nation's forests. Granted, this...",
-            "date": "2015-04-08",
-            "categories": "surveillance,satellites",
-            "tags": "air,aren,thought,nasa,satellites",
-            "recuweb_url": "http://en.recuweb.com/satellites/chron.com/2015/04/nasa-satellites-map-springtime-across-the-country",
-            "resource_url": "http://news.google.com/?hl=en&q=satellites&output=atom&nord=1",
-            "source_url": "http://chron.com/news/nation-world/space/article/Colorful-maps-show-springtime-across-the-country-6187300.php"
+        "spaceref.com/2015/04/space-traffic-management-and-small-satellites-to-be-included-in-united": {
+            "title": "Space traffic management and small satellites to be included in United Nations international space...",
+            "snippet": "VIENNA, 24 April (UN Information Service) The main international forum for governments to discuss the laws governing outer space, the Legal Subcommittee of the United Nations Committee on the Peaceful Uses of Outer Space (COPUOS), agreed today to...",
+            "date": "2015-04-24",
+            "categories": "management,satellites",
+            "tags": "outer,subcommittee,information,management,small,space,satellites",
+            "recuweb_url": "http://en.recuweb.com/satellites/spaceref.com/2015/04/space-traffic-management-and-small-satellites-to-be-included-in-united",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=satellites&format=RSS&cc=us",
+            "source_url": "http://spaceref.com/news/viewpr.html?pid=45664"
         },
-        "gizmag.com/2015/04/nasa-s-space-launch-system-to-deploy-11-additional-satellites-on": {
-            "title": "NASA's Space Launch System to deploy 11 additional satellites on maiden launch - Gizmag...",
-            "snippet": "GizmagNASA's Space Launch System to deploy 11 additional satellites on maiden launchGizmagNASA is planning to maximize the scientific potential of the maiden launch of its next generation launch vehicle, the Space Launch System (SLS), by selecting...",
-            "date": "2015-04-07",
-            "categories": "satellites",
-            "tags": "launch,next,space,system,nasa,satellites",
-            "recuweb_url": "http://en.recuweb.com/satellites/gizmag.com/2015/04/nasa-s-space-launch-system-to-deploy-11-additional-satellites-on",
-            "resource_url": "http://news.google.com/?hl=en&q=satellites&output=atom&nord=1",
-            "source_url": "http://gizmag.com/nasaspace-launch-system-11-cubesats-satellites/36887/"
+        "vice.com/2015/04/we-asked-a-military-expert-what-would-happen-if": {
+            "title": "We Asked a Military Expert What Would Happen if There Were a War in Space...",
+            "snippet": "Ever since 1967, when the US and USSR signed the Outer Space Treaty, expressly banning the use of nuclear weapons in space and establishing a norm of restraint and pacifism to preserve the vital infrastructure of satellites, most of us have come to...",
+            "date": "2015-04-24",
+            "categories": "pacifism,satellites",
+            "tags": "outer,space,satellites",
+            "recuweb_url": "http://en.recuweb.com/satellites/vice.com/2015/04/we-asked-a-military-expert-what-would-happen-if",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=satellites&format=RSS&cc=us",
+            "source_url": "http://vice.com/read/we-asked-a-military-expert-what-would-happen-if-there-were-a-war-in-space-424"
         },
-        "dailycaller.com/2015/04/new-2-4-billion-missile-defense-satellites-will-be-out-of": {
-            "title": "New 2.4 Billion Missile Defense Satellites Will Be Out Of Date Before They... - Daily Caller...",
-            "snippet": "New 2.4 Billion Missile Defense Satellites Will Be Out Of Date Before They...Daily CallerTwo Air Force missile-alert satellites aren't ready for launch and by the time they will be, they could be long out of date. At this point, according to...",
-            "date": "2015-04-07",
-            "categories": "satellites",
-            "tags": "date,launch,air,satellites,aren",
-            "recuweb_url": "http://en.recuweb.com/satellites/dailycaller.com/2015/04/new-2-4-billion-missile-defense-satellites-will-be-out-of",
-            "resource_url": "http://news.google.com/?hl=en&q=satellites&output=atom&nord=1",
-            "source_url": "http://dailycaller.com/2015/04/07/new-2-4-billion-missile-defense-satellites-will-be-out-of-date-before-they-even-launch/"
+        "redorbit.com/2015/04/redorbit-mit-exclusive-why-cubesats-are-cool": {
+            "title": "redOrbit MIT exclusive: Why CubeSats are cool...",
+            "snippet": "CubeSats are miniature satellites and range in size from the size of a coffee cup to the size of shoebox, the planetary scientist explained. They are popular now for two reasons. 1) They can be tucked into rockets and taken into space pretty...",
+            "date": "2015-04-24",
+            "categories": "coffee,satellites",
+            "tags": "size,satellites,into,space",
+            "recuweb_url": "http://en.recuweb.com/satellites/redorbit.com/2015/04/redorbit-mit-exclusive-why-cubesats-are-cool",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=satellites&format=RSS&cc=us",
+            "source_url": "http://redorbit.com/news/space/1113378111/redorbit-mit-exclusive-why-cubesats-are-cool-042415/"
         }
     }
 }
