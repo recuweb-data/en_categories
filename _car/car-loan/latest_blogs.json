@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "car-loan",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/car-loan/",
@@ -10,26 +11,58 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/car-loan/car-loan/blogs.json"
     },
     "items": {
+        "reddit.com/2015/04/can-i-negotiate-the-price-of-my-car-with-financing": {
+            "title": "Can I negotiate the price of my car with financing and then just pay off the entire loan the next...",
+            "snippet": "Ok so long story short, there is a car I want and the saleman flatly said \"I can probably get you the price you want if you finance it through us.\" which is sales speak for \"I'll get you on the interest rate.\" I told him I didn't want to discuss...",
+            "date": "2015-04-25",
+            "categories": "finance",
+            "tags": "said,finance,next,financing,pay,entire,car,loan,interest,rate",
+            "recuweb_url": "http://en.recuweb.com/finance/reddit.com/2015/04/can-i-negotiate-the-price-of-my-car-with-financing",
+            "resource_url": "http://www.reddit.com/search.rss?q=car%2Bloan%2Bcar%2Bloan&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/personalfinance/comments/33spc2/can_i_negotiate_the_price_of_my_car_with/"
+        },
+        "budapesttimes.hu/2015/04/central-banker-wants-conversion-of-car-loans-the-budapest-times": {
+            "title": "Central banker wants conversion of car loans The Budapest Times...",
+            "snippet": "Foreign-exchange car purchase loans and personal loans should be converted into forint debt to eliminate the exchange rate risk from the financial system, managing director of the National Bank of Hungary (NBH) M\u00e1rton...",
+            "date": "2015-04-25",
+            "author_name": "BT",
+            "tags": "national,national_bank,bank,financial,into,debt,eliminate,rate,wants,car,loans,purchase,should",
+            "recuweb_url": "http://en.recuweb.com/budapesttimes.hu/2015/04/central-banker-wants-conversion-of-car-loans-the-budapest-times",
+            "resource_url": "http://www.google.com/search?q=car%2Bloan%2Bcar%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://budapesttimes.hu/2015/04/25/central-banker-wants-conversion-of-car-loans/"
+        },
         "bankrate.com/2015/04/car-loan-amounts-terms-climbing-bankrate-inc": {
             "title": "Car loan amounts, terms climbing Bankrate, Inc.",
             "snippet": "More consumers are purchasing new and used cars with auto loans, and those loans are for higher amounts and longer terms.",
             "date": "2015-04-18",
             "author_name": "Tara Baukus Mello",
             "categories": "climbing",
-            "tags": "higher,terms,car,loans,consumers,cars,auto",
+            "tags": "higher,consumers,cars,car,loans,auto",
             "recuweb_url": "http://en.recuweb.com/climbing/bankrate.com/2015/04/car-loan-amounts-terms-climbing-bankrate-inc",
             "resource_url": "http://www.google.com/search?q=car%2Bloan%2Bcar%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bankrate.com/financing/cars/car-loan-amounts-terms-climbing/"
         },
-        "zerohedge.com/2015/04/auto-loan-bubble-endgame-used-car-prices-have-stalled-zero": {
-            "title": "Auto-Loan Bubble Endgame - Used-Car Prices Have Stalled Zero...",
-            "snippet": "As auto-loan volumes explode (and terms are extended), many of the post-cash-for-clunkers herd are rapidly coming to the realization that the loan they are carrying (and increasingly not paying) is on a wasting asset.",
-            "date": "2015-04-09",
-            "author_name": "Tyler Durden",
-            "tags": "many,terms,car,zero,loan,auto",
-            "recuweb_url": "http://en.recuweb.com/zerohedge.com/2015/04/auto-loan-bubble-endgame-used-car-prices-have-stalled-zero",
-            "resource_url": "http://www.google.com/search?q=car%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://zerohedge.com/news/2015-04-08/auto-loan-bubble-endgame-used-car-prices-have-stalled"
+        "lhccu.com/2015/04/telltale-signs-of-a-bad-car-loan-guiding-your-financial-future": {
+            "title": "Telltale Signs of a Bad Car Loan Guiding Your Financial Future...",
+            "snippet": "The amount of auto loan debt hit record highs in 2014, partly because these days auto dealerships are making the majority of their profits on financingnot the sale itself. Here are some signs of bad auto loan: Auto loan markups. In some...",
+            "date": "2015-04-17",
+            "author_name": "Lynn Heitz",
+            "categories": "car-loan",
+            "tags": "making,debt,record,bad,car,car_loan,loan,financial,auto,here,markups",
+            "recuweb_url": "http://en.recuweb.com/car-loan/lhccu.com/2015/04/telltale-signs-of-a-bad-car-loan-guiding-your-financial-future",
+            "resource_url": "http://www.google.com/search?q=car%2Bloan%2Bcar%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://lhccu.com/telltale-signs-of-a-bad-car-loan/"
+        },
+        "mifamiliaautoss.wordpress.com/2015/04/we-buy-any-house-houston": {
+            "title": "we buy any house houston...",
+            "snippet": "Are you searching for Buy Here Pay here Dealership in Houston, you have come to the right place MiFamilia Autos. Bad credit car loans in house financing car []...",
+            "date": "2015-04-10",
+            "author_name": "mifamiliaautoss",
+            "categories": "credit",
+            "tags": "financing,buy,here,pay,bad,credit,car,loans",
+            "recuweb_url": "http://en.recuweb.com/credit/mifamiliaautoss.wordpress.com/2015/04/we-buy-any-house-houston",
+            "resource_url": "http://en.search.wordpress.com/?q=car%2Bloan%2Bcar%2Bloan&f=feed&page=1",
+            "source_url": "http://mifamiliaautoss.wordpress.com/2015/04/10/we-buy-any-house-houston/"
         },
         "huffingtonpost.com/2015/04/can-i-get-a-car-loan-if-have-no-credit-steve": {
             "title": "Can I Get a Car Loan If I Have No Credit? Steve Rhode...",
@@ -37,30 +70,19 @@
             "date": "2015-04-08",
             "author_name": "Steve Rhode",
             "categories": "car-loan,credit",
-            "tags": "consumer,dealer,car,car_loan,loan,credit,make,auto",
+            "tags": "said,consumer,record,dealer,car,car_loan,loan,credit,auto",
             "recuweb_url": "http://en.recuweb.com/credit/huffingtonpost.com/2015/04/can-i-get-a-car-loan-if-have-no-credit-steve",
             "resource_url": "http://www.google.com/search?q=car%2Bloan%2Bcar%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://huffingtonpost.com/steve-rhode/can-i-get-a-car-loan-if-i-have-no-credit_b_7025198.html"
-        },
-        "zerohedge.com/2015/04/revolving-debt-crashes-most-in-four-years-as-student-car-loans": {
-            "title": "Revolving Debt Crashes Most In Four Years, As Student, Car Loans...",
-            "snippet": "There was only bad news in the just released Fed consumer credit report for the month of February. First, the \"good credit\", the one that consumer should load up on when they feel comfortable about the future, i.e., credit card,...",
-            "date": "2015-04-07",
-            "author_name": "Tyler Durden",
-            "categories": "credit,car-loan",
-            "tags": "feel,consumer,credit,month,car,car_loans,loans,debt,only,bad,first,should",
-            "recuweb_url": "http://en.recuweb.com/car-loan/zerohedge.com/2015/04/revolving-debt-crashes-most-in-four-years-as-student-car-loans",
-            "resource_url": "http://www.google.com/search?q=car%2Bloan%2Bcar%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://zerohedge.com/news/2015-04-07/revolving-debt-crashes-most-four-years-student-car-loans-go-exponential-bank-lending"
         },
         "bankrate.com/2015/04/auto-refinance-quote-is-higher-than-current-loan": {
             "title": "Auto Refinance Quote Is Higher Than Current Loan?",
             "snippet": "A lower interest rate should save you money on your car loan. Here's why this auto refinance offer costs more.",
             "date": "2015-04-03",
             "author_name": "unknown",
-            "tags": "refinance,save,auto,higher,than,loan,lower,interest,rate,should,car,here",
+            "tags": "refinance,money,auto,higher,loan,interest,rate,should,car,here,why",
             "recuweb_url": "http://en.recuweb.com/bankrate.com/2015/04/auto-refinance-quote-is-higher-than-current-loan",
-            "resource_url": "http://www.google.com/search?q=car%2Bloan%2Bcar%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=car%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bankrate.com/finance/auto/why-is-auto-refinance-quote-so-high.aspx"
         },
         "autonews.com/2015/04/nyc-aims-to-remove-dealers-as-middlemen-on-used-car-loans": {
@@ -69,21 +91,10 @@
             "date": "2015-04-01",
             "author_name": "unknown",
             "categories": "marketing,education",
-            "tags": "consumer,york,york_city,city,department,car,loans,last,month,auto",
+            "tags": "consumer,program,york,york_city,city,department,car,loans,month,auto",
             "recuweb_url": "http://en.recuweb.com/education/autonews.com/2015/04/nyc-aims-to-remove-dealers-as-middlemen-on-used-car-loans",
             "resource_url": "http://www.google.com/search?q=car%2Bloan%2Bcar%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://autonews.com/article/20150401/FINANCE_AND_INSURANCE/150339947/nyc-aims-to-remove-dealers-as-middlemen-on-used-car-loans"
-        },
-        "blog.credit.com/2015/03/how-to-get-a-car-loan-after-bankruptcy": {
-            "title": "How to Get a Car Loan After Bankruptcy...",
-            "snippet": "Buying a car can feel stressful enough, but after a bankruptcy it may feel terrifying. Here's how to get a car loan after bankruptcy.",
-            "date": "2015-03-30",
-            "author_name": "unknown",
-            "categories": "car-loan",
-            "tags": "bankruptcy,feel,car,car_loan,car_loan_after,loan,loan_after,after,buying,here",
-            "recuweb_url": "http://en.recuweb.com/car-loan/blog.credit.com/2015/03/how-to-get-a-car-loan-after-bankruptcy",
-            "resource_url": "http://www.google.com/search?q=car%2Bloan%2Bcar%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.credit.com/2015/03/how-to-get-a-car-loan-after-bankruptcy-112471/"
         },
         "bankrate.com/2015/03/subprime-car-loans-5-questions-to-ask": {
             "title": "Subprime Car Loans: 5 Questions To Ask...",
@@ -91,7 +102,7 @@
             "date": "2015-03-12",
             "author_name": "unknown",
             "categories": "car-loan,credit",
-            "tags": "subprime,score,shopping,car,car_loans,loans,loan,credit,before",
+            "tags": "shopping,car,car_loans,loans,loan,credit",
             "recuweb_url": "http://en.recuweb.com/credit/bankrate.com/2015/03/subprime-car-loans-5-questions-to-ask",
             "resource_url": "http://www.google.com/search?q=car%2Bloan%2Bcar%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bankrate.com/finance/auto/subprime-car-loans-questions-to-ask-1.aspx"
@@ -102,21 +113,10 @@
             "date": "2015-03-10",
             "author_name": "Tyler Durden",
             "categories": "car-loan",
-            "tags": "debt,last,wants,give,car,car_loan,loan,zero,auto,year",
+            "tags": "debt,wants,give,car,car_loan,loan,auto",
             "recuweb_url": "http://en.recuweb.com/car-loan/zerohedge.com/2015/03/warren-buffett-wants-to-give-you-a-car-loan-zero-hedge",
             "resource_url": "http://www.google.com/search?q=car%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://zerohedge.com/news/2015-03-10/warren-buffett-wants-give-you-car-loan"
-        },
-        "theguardian.com/2015/03/subprime-car-loans-may-not-be-as-risky-home-but-abuses": {
-            "title": "Subprime car loans may not be as risky as home loans but abuses...",
-            "snippet": "No car, no job means subprime loans are not necessarily a bad thing for borrowers among the working poor but excessive interest rates and unnecessary extras are.",
-            "date": "2015-03-05",
-            "author_name": "Suzanne McGee",
-            "categories": "home",
-            "tags": "rates,thing,subprime,car,loans,bad,borrowers,interest",
-            "recuweb_url": "http://en.recuweb.com/home/theguardian.com/2015/03/subprime-car-loans-may-not-be-as-risky-home-but-abuses",
-            "resource_url": "http://www.google.com/search?q=car%2Bloan%2Bcar%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/money/us-money-blog/2015/mar/05/subprime-car-loans-may-not-be-as-risky-as-home-loans-but-abuses-need-tackling"
         }
     }
 }
