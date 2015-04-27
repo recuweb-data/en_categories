@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "boardsports",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/boardsports/",
@@ -10,6 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/boardsports/boardsports/blogs.json"
     },
     "items": {
+        "mauinews.com/2015/04/find-your-yoga-sweet-spot-maui-news": {
+            "title": "find your yoga sweet spot - Maui News...",
+            "snippet": "Maui Newsfind your yoga sweet spotMaui NewsWith Hawaii a leader in the world of board sports, it's only natural that someone would eventually try a back bend on a board. Jenn Gladwin, owner of Get Glad Maui and founder of the nonprofit Kelea...",
+            "date": "2015-04-26",
+            "categories": "yoga,sport",
+            "tags": "only,try,world,hawaii,board,sports",
+            "recuweb_url": "http://en.recuweb.com/sport/mauinews.com/2015/04/find-your-yoga-sweet-spot-maui-news",
+            "resource_url": "http://news.google.com/?hl=en&q=boardsports&output=atom&nord=1",
+            "source_url": "http://mauinews.com/page/content.detail/id/597440/find-your-yoga-sweet-spot.html?nav=5184"
+        },
         "wakewindandsurf.com/2015/04/volcom-skullcandy-sponsor-siargao-international-women-s-surfing-cup-wake-wind": {
             "title": "Volcom, Skullcandy sponsor Siargao International Women's Surfing Cup - Wake, Wind and Surf...",
             "snippet": "Wake, Wind and SurfVolcom, Skullcandy sponsor Siargao International Women's Surfing CupWake, Wind and SurfOur heritage is in board sports culture and we couldn't be more excited to foster that culture in the Philippines through competitive surfing...",
@@ -20,24 +31,14 @@
             "resource_url": "http://news.google.com/?hl=en&q=boardsports%2Bboardsports&output=atom&nord=1",
             "source_url": "http://wakewindandsurf.com/surf-news/volcom-skullcandy-sponsor-siargao-international-womens-surfing-cup/18713"
         },
-        "menafn.com/2015/04/east-of-maui-the-premier-boardshop-in-annapolis-washington-and-baltimore": {
-            "title": "East of Maui The Premier Boardshop in the Annapolis Washington and Baltimore Area...",
-            "snippet": "Changes may have happened in the shops windsurfing equipment but its passion for boardsports and then products it sells has not changed. East of Maui continues to assess and pick the best products available. For more information feel free to visit...",
-            "date": "2015-04-15",
-            "categories": "windsurfing,boardsports",
-            "tags": "visit,passion,windsurfing,equipment,boardsports,best",
-            "recuweb_url": "http://en.recuweb.com/boardsports/menafn.com/2015/04/east-of-maui-the-premier-boardshop-in-annapolis-washington-and-baltimore",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=boardsports&format=RSS&cc=us",
-            "source_url": "http://menafn.com/1094168091/East-of-Maui-The-Premier-Boardshop-in-the-Annapolis-Washington-and-Baltimore-Area&src=RSS"
-        },
         "shop-eat-surf.com/2015/04/quiksilver-launches-julien-david-collection": {
             "title": "Quiksilver launches Julien David collection -...",
             "snippet": "launches Julien David collection is an emblematic boardsports brand, founded by a group of surfing enthusiasts in Australia in 1969. True to a unique lifestyle, Quiksilver holds passion, authenticity and innovation to be fundamental values. The...",
             "date": "2015-04-10",
             "categories": "lifestyle,surfing,boardsports",
-            "tags": "passion,surfing,boardsports",
+            "tags": "surfing,enthusiasts,quiksilver,boardsports",
             "recuweb_url": "http://en.recuweb.com/boardsports/shop-eat-surf.com/2015/04/quiksilver-launches-julien-david-collection",
-            "resource_url": "http://news.google.com/?hl=en&q=boardsports%2Bboardsports&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=boardsports&output=atom&nord=1",
             "source_url": "http://shop-eat-surf.com/2015/04/quiksilver-launches-julien-david-quiksilver-collection/"
         },
         "stabroeknews.com/2015/04/t&t-cricket-board-sports-ministry-sign-million-dollar-club-deal-stabroek": {
@@ -47,7 +48,7 @@
             "categories": "sport",
             "tags": "dollar,deal,million,president,cricket,board,sports,minister,brent,brent_sancho,sancho,trinidad,trinidad_guardian,guardian,dollar-club,club,dollar-club-deal,club-deal,sign,sign-million,sports_ministry,ministry",
             "recuweb_url": "http://en.recuweb.com/sport/stabroeknews.com/2015/04/t&t-cricket-board-sports-ministry-sign-million-dollar-club-deal-stabroek",
-            "resource_url": "http://news.google.com/?hl=en&q=boardsports%2Bboardsports&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=boardsports&output=atom&nord=1",
             "source_url": "http://stabroeknews.com/2015/sports/04/03/tt-cricket-board-sports-ministry-sign-million-dollar-club-deal/"
         },
         "guardian.co.tt/2015/04/cricket-board-sports-ministry-sign-million-dollar-club-deal-trinidad-guardian": {
@@ -57,45 +58,25 @@
             "categories": "sport",
             "tags": "during,brent,brent_sancho,sancho,check,dollar,dollar-club,club,trinidad,board,trinidad_guardian,guardian,dollar-club-deal,club-deal,deal,sign,sign-million,million,sports,sports_ministry,ministry,cricket,president,minister",
             "recuweb_url": "http://en.recuweb.com/sport/guardian.co.tt/2015/04/cricket-board-sports-ministry-sign-million-dollar-club-deal-trinidad-guardian",
-            "resource_url": "http://news.google.com/?hl=en&q=boardsports%2Bboardsports&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=boardsports&output=atom&nord=1",
             "source_url": "http://guardian.co.tt/sport/2015-04-02/cricket-board-sports-ministry-sign-million-dollar-club-deal"
-        },
-        "jhnewsandguide.com/2015/03/gallery-focuses-on-art-of-board-sports-jackson-hole-news&guide": {
-            "title": "Gallery focuses on art of board sports - Jackson Hole News&Guide...",
-            "snippet": "Jackson Hole News&GuideGallery focuses on art of board sportsJackson Hole News&GuideIn 2009 pro snowboarder Travis Rice saw a major lack in the world of board sports: With all the talent and creativity that surrounds the extreme sports...",
-            "date": "2015-03-25",
-            "categories": "sport",
-            "tags": "extreme,world,board,sports",
-            "recuweb_url": "http://en.recuweb.com/sport/jhnewsandguide.com/2015/03/gallery-focuses-on-art-of-board-sports-jackson-hole-news&guide",
-            "resource_url": "http://news.google.com/?hl=en&q=boardsports%2Bboardsports&output=atom&nord=1",
-            "source_url": "http://jhnewsandguide.com/news/business/biz_quiz/gallery-focuses-on-art-of-board-sports/article_b3807654-1fcc-5797-abfe-740120a07d2b.html"
         },
         "wkrg.com/2014/12/global-boardsports-market": {
             "title": "Global Boardsports Market...",
             "snippet": "Table 11: World Recent Past, Current and Future Analysis forSummer BoardSports by Geographic Region - US, Canada, Japan,Europe, Asia-Pacific and Rest of World Markets IndependentlyAnalyzed with Annual Sales in US Million for Years 2013through...",
             "date": "2014-12-31",
             "categories": "markets,boardsports",
-            "tags": "million,annual,annual_sales,sales,world,world_markets,world_markets_independentlyanalyzed,markets,market,markets_independentlyanalyzed,independentlyanalyzed,geographic,geographic_region,region,forsummer,forsummer_boardsports,boardsports,future,future_analysis,analysis,world_recent,world_recent_past,recent,recent_past,past,global,global_boardsports,global_boardsports_market,boardsports_market,table,current,canada,japan,europe,asia,pacific,rest,years",
+            "tags": "million,annual,world,market,boardsports,recent,global,boardsports_market",
             "recuweb_url": "http://en.recuweb.com/boardsports/wkrg.com/2014/12/global-boardsports-market",
             "resource_url": "http://www.bing.com/news/search?first=1&q=boardsports&format=RSS&cc=us",
             "source_url": "http://wkrg.com/story/27731225/global-boardsports-market"
-        },
-        "14news.com/2014/12/global-boardsports-market-tri-state-news-weather-&-sports": {
-            "title": "Global Boardsports Market - Tri-State News, Weather & Sports...",
-            "snippet": "Table 11: World Recent Past, Current and Future Analysis forSummer BoardSports by Geographic Region - US, Canada, Japan,Europe, Asia-Pacific and Rest of World Markets IndependentlyAnalyzed with Annual Sales in US Million for Years 2013through...",
-            "date": "2014-12-30",
-            "categories": "markets,boardsports,sport",
-            "tags": "million,annual,annual_sales,sales,world,world_markets,world_markets_independentlyanalyzed,markets,market,markets_independentlyanalyzed,independentlyanalyzed,geographic,geographic_region,region,forsummer,forsummer_boardsports,boardsports,future,future_analysis,analysis,world_recent,world_recent_past,recent,recent_past,past,global,global_boardsports,global_boardsports_market,boardsports_market,sports,table,current,canada,japan,europe,asia,pacific,rest,years",
-            "recuweb_url": "http://en.recuweb.com/sport/14news.com/2014/12/global-boardsports-market-tri-state-news-weather-&-sports",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=boardsports&format=RSS&cc=us",
-            "source_url": "http://14news.com/story/27731225/global-boardsports-market"
         },
         "live-pr.com/2014/12/global-boardsports-market-is-spurred-by-strong-media-coverage": {
             "title": "Global boardsports market is spurred by strong media coverage...",
             "snippet": "() - Boardsports is a part of extreme sports which comprise high risk activities involving speed, physical exertion, and use of highly specialized gear. Despite the growing popularity of boardsports, only a few countries such as the United...",
             "date": "2014-12-19",
             "categories": "boardsports,sport",
-            "tags": "gear,high,extreme,market,global,boardsports,sports",
+            "tags": "only,gear,high,extreme,market,strong,global,boardsports,sports",
             "recuweb_url": "http://en.recuweb.com/sport/live-pr.com/2014/12/global-boardsports-market-is-spurred-by-strong-media-coverage",
             "resource_url": "http://www.bing.com/news/search?first=1&q=boardsports&format=RSS&cc=us",
             "source_url": "http://live-pr.com/en/global-boardsports-market-is-spurred-by-r1050531220.htm"
@@ -109,6 +90,16 @@
             "recuweb_url": "http://en.recuweb.com/boardsports/business.transworld.net/2010/07/alpinestars-on-launching-from-moto-into-boardsports",
             "resource_url": "http://www.bing.com/news/search?first=1&q=boardsports&format=RSS&cc=us",
             "source_url": "http://business.transworld.net/39690/uncategorized/alpinestars-on-launching-from-moto-into-boardsports/"
+        },
+        "businesswire.com/2007/07/learn-about-the-boardsports-market-apparel-equipments-and-accessories": {
+            "title": "Learn about the Boardsports Market: Apparel, Equipments and Accessories...",
+            "snippet": "Boardsports market is very strong right now, driven by sports enthusiasts and the fashion-conscious youth brigade. Major brands are trying to capitalize on the changing trends in fashion. A recent example is of Quiksilver, the undisputed market...",
+            "date": "2007-07-11",
+            "categories": "boardsports,sport",
+            "tags": "market,recent,enthusiasts,strong,boardsports,boardsports_market,apparel,accessories,sports,quiksilver",
+            "recuweb_url": "http://en.recuweb.com/sport/businesswire.com/2007/07/learn-about-the-boardsports-market-apparel-equipments-and-accessories",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=boardsports&format=RSS&cc=us",
+            "source_url": "http://businesswire.com/news/home/20070712005043/en/Learn-Boardsports-Market-Apparel-Equipments-Accessories"
         }
     }
 }
