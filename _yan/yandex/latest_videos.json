@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "yandex",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/yandex/",
@@ -10,13 +11,37 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/yandex/yandex/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/yandex-direct-one-eared-pirate-fastway-moscou": {
+            "title": "Yandex Direct- One-eared pirate - Fastway (Moscou)...",
+            "snippet": "Secteur: Services Agence: Fastway (Moscou) R\u00e9alisateur: Ilya SOLOVIOV: lamiamosbahTags: Posted: 22 April 2015Rating:: 0...",
+            "date": "2015-04-22",
+            "author_name": "lamiamosbah",
+            "categories": "yandex",
+            "tags": "yandex",
+            "recuweb_url": "http://en.recuweb.com/yandex/dailymotion.com/2015/04/yandex-direct-one-eared-pirate-fastway-moscou",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/yandex+yandex/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2njk8b_yandex-direct-one-eared-pirate-fastway-moscou_tv",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2njk8b_yandex-direct-one-eared-pirate-fastway-moscou_tv"
+        },
+        "dailymotion.com/2015/04/video-how-to-download-file-from-narod-yandex-ru-2015": {
+            "title": "Video How To Download File From Narod Yandex ru 2015...",
+            "snippet": "Video How To Download File From Narod Yandex ru 2015 Video,How,To,Download,File,From,Narod,Yandex,ru,2015Author: dm_522f0641227ceTags: Posted: 19 April 2015Rating:: 0...",
+            "date": "2015-04-19",
+            "author_name": "dm_522f0641227ce",
+            "categories": "yandex",
+            "tags": "yandex",
+            "recuweb_url": "http://en.recuweb.com/yandex/dailymotion.com/2015/04/video-how-to-download-file-from-narod-yandex-ru-2015",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/yandex+yandex/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2n6rkc_video-how-to-download-file-from-narod-yandex-ru-2015_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n6rkc_video-how-to-download-file-from-narod-yandex-ru-2015_lifestyle"
+        },
         "youtube.com/2015/04/chrome-yandex-mozilla-safari-explorer-opera-thug-life-k%C3%BCf%C3%BCr-%C3%A7erir": {
             "title": "Chrome,Yandex,Mozilla,Safari,Explorer,Opera Thug Life (K\u00fcf\u00fcr \u00e7erir)...",
-            "snippet": "Chrome,Yandex,Mozilla,Safari,Explorer,Opera Thug Life (K\u00fcf\u00fcr \u00e7erir) Chrome,Yandex,Mozilla,Safari,Explorer,Opera Thug Life (K\u00fcf\u00fcr \u00e7erir):) From: Sercan \u00d6zyurt Views: 9090 64 ratings Time: 01:30 More in People & Blogs...",
+            "snippet": "Chrome,Yandex,Mozilla,Safari,Explorer,Opera Thug Life (K\u00fcf\u00fcr \u00e7erir) Chrome,Yandex,Mozilla,Safari,Explorer,Opera Thug Life (K\u00fcf\u00fcr \u00e7erir):) From: Sercan \u00d6zyurt Views: 11629 76 ratings Time: 01:30 More in People & Blogs...",
             "date": "2015-04-08",
             "author_name": "Sercan \u00d6zyurt",
             "categories": "life,yandex",
-            "tags": "sercan,sercan_\u00f6zyurt,\u00f6zyurt,opera,thug,thug_life,life,chrome,yandex,mozilla,safari,explorer,k\u00fcf\u00fcr,\u00e7erir,people",
+            "tags": "sercan,sercan_\u00f6zyurt,\u00f6zyurt,opera,thug,life,chrome,yandex,mozilla,safari,explorer,k\u00fcf\u00fcr,\u00e7erir,people",
             "recuweb_url": "http://en.recuweb.com/yandex/youtube.com/2015/04/chrome-yandex-mozilla-safari-explorer-opera-thug-life-k%C3%BCf%C3%BCr-%C3%A7erir",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yandex%2Byandex&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=iG1h5F_g1Z4&feature=youtube_gdata",
@@ -28,7 +53,7 @@
             "date": "2015-04-05",
             "author_name": "G\u00fcncel ADAM",
             "categories": "yandex",
-            "tags": "chrome,yandex,abone,part",
+            "tags": "chrome,yandex",
             "recuweb_url": "http://en.recuweb.com/yandex/youtube.com/2015/04/chrome-vs-yandex-b%C3%BCt%C3%BCn-kapmalar-tek-part",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yandex%2Byandex&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=OhYYpyrSemY&feature=youtube_gdata",
@@ -36,99 +61,75 @@
         },
         "youtube.com/2015/04/k%C3%BCf%C3%BCrl%C3%BC-google-ve-yandex-kapmas": {
             "title": "K\u00fcf\u00fcrl\u00fc Google ve Yandex Kapmas...",
-            "snippet": "K\u00fcf\u00fcrl\u00fc Google ve Yandex Kapmas Google Chrome ve Yandex Browser k\u00fcf\u00fcrl\u00fc sigara kapmas. From: Munay Ahmet Views: 1905 15 ratings Time: 03:10 More in Entertainment...",
+            "snippet": "K\u00fcf\u00fcrl\u00fc Google ve Yandex Kapmas Google Chrome ve Yandex Browser k\u00fcf\u00fcrl\u00fc sigara kapmas. From: Munay Ahmet Views: 2533 15 ratings Time: 03:10 More in Entertainment...",
             "date": "2015-04-04",
             "author_name": "Munay Ahmet",
             "categories": "yandex,google,entertainment",
-            "tags": "kapmas,yandex,browser,google,chrome,entertainment",
+            "tags": "yandex,google,chrome,entertainment",
             "recuweb_url": "http://en.recuweb.com/entertainment/youtube.com/2015/04/k%C3%BCf%C3%BCrl%C3%BC-google-ve-yandex-kapmas",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yandex%2Byandex&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=CAa2Gn5g9KU&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/CAa2Gn5g9KU/0.jpg"
         },
-        "youtube.com/2015/04/chrome-yandex-mozilla-opera-explorer-thug-life": {
-            "title": "Chrome,Yandex,Mozilla,Opera,Explorer Thug Life...",
-            "snippet": "Chrome,Yandex,Mozilla,Opera,Explorer Thug Life Chrome,Yandex,Mozilla,Opera,Explorer Thug Life:) Chrome,Yandex,Mozilla,Safari,Explorer,Opera Thug Life (K\u00fcf\u00fcr \u00e7erir) ------ From: Sercan \u00d6zyurt Views: 9580 65 ratings Time: 00:37 More in People &...",
-            "date": "2015-04-02",
+        "youtube.com/2015/04/chrome-yandex-mozilla-opera-safari-thug-life": {
+            "title": "Chrome Yandex Mozilla Opera Safari Thug Life...",
+            "snippet": "Chrome Yandex Mozilla Opera Safari Thug Life Chrome Yandex Mozilla Opera Safari Thug Life Chrome,Yandex,Mozilla,Opera,Safari,Explorer Thug Life (K\u00fcf\u00fcr \u00e7erir) ----- Chrome,Yandex,Mozilla,Safari,Explorer,Opera... From: Sercan \u00d6zyurt Views: 12584...",
+            "date": "2015-04-03",
             "author_name": "Sercan \u00d6zyurt",
             "categories": "life,yandex",
-            "tags": "sercan,sercan_\u00f6zyurt,\u00f6zyurt,thug,thug_life,life,explorer,explorer_thug,explorer_thug_life,chrome,yandex,mozilla,opera,safari,k\u00fcf\u00fcr,\u00e7erir,people",
-            "recuweb_url": "http://en.recuweb.com/yandex/youtube.com/2015/04/chrome-yandex-mozilla-opera-explorer-thug-life",
+            "tags": "sercan,sercan_\u00f6zyurt,\u00f6zyurt,explorer,thug,life,chrome,yandex,mozilla,opera,safari,k\u00fcf\u00fcr,\u00e7erir",
+            "recuweb_url": "http://en.recuweb.com/yandex/youtube.com/2015/04/chrome-yandex-mozilla-opera-safari-thug-life",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yandex%2Byandex&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=V8UnSFAozwE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/V8UnSFAozwE/0.jpg"
+            "source_url": "http://youtube.com/watch?v=2R7P4Z0ZjA8&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/2R7P4Z0ZjA8/0.jpg"
         },
-        "youtube.com/2015/03/google-yandex-explorer-thug-life-18": {
-            "title": "Google - Yandex Explorer Thug Life 18...",
-            "snippet": "Google - Yandex Explorer Thug Life 18 From: Furkan Dikmen Views: 2611 15 ratings Time: 03:10 More in Comedy...",
+        "youtube.com/2015/03/chrome-yandex-explorer-konumas": {
+            "title": "Chrome, Yandex, Explorer konumas...",
+            "snippet": "Chrome, Yandex, Explorer konumas A:SD:SAD. From: Oguzhan Altan Views: 1781 16 ratings Time: 03:10 More in Entertainment...",
+            "date": "2015-03-31",
+            "author_name": "Oguzhan Altan",
+            "categories": "yandex,entertainment",
+            "tags": "chrome,yandex,explorer,entertainment",
+            "recuweb_url": "http://en.recuweb.com/entertainment/youtube.com/2015/03/chrome-yandex-explorer-konumas",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yandex%2Byandex&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=-lwrW5aJbVY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/-lwrW5aJbVY/0.jpg"
+        },
+        "youtube.com/2015/03/chrome-yandex-explorer-n-bretlik-hikayesi": {
+            "title": "Chrome,Yandex,Explorer'n bretlik Hikayesi...",
+            "snippet": "Chrome,Yandex,Explorer'n bretlik Hikayesi THUG LFE TURKEY. From: Metehan Kasap Views: 12024 76 ratings Time: 03:10 More in People & Blogs...",
             "date": "2015-03-30",
-            "author_name": "Furkan Dikmen",
-            "categories": "yandex,life,google,comedy",
-            "tags": "yandex,explorer,explorer_thug,explorer_thug_life,thug,thug_life,life,google",
-            "recuweb_url": "http://en.recuweb.com/comedy/youtube.com/2015/03/google-yandex-explorer-thug-life-18",
+            "author_name": "Metehan Kasap",
+            "categories": "yandex",
+            "tags": "thug,turkey,chrome,yandex,explorer,people",
+            "recuweb_url": "http://en.recuweb.com/yandex/youtube.com/2015/03/chrome-yandex-explorer-n-bretlik-hikayesi",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yandex%2Byandex&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=7LPRW8uSa4A&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/7LPRW8uSa4A/0.jpg"
+            "source_url": "http://youtube.com/watch?v=tayKOfsX0Z8&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/tayKOfsX0Z8/0.jpg"
         },
-        "youtube.com/2015/03/google-chrome-vs-yandex-sgara-kapmas": {
-            "title": "Google Chrome Vs Yandex Sgara Kapmas...",
-            "snippet": "Google Chrome Vs Yandex Sgara Kapmas Dj Ubay: Yabanc Remixler seviyorsanz buraya:) Chrome THUG LFE Part 1: Chrome THUG LFE Part 2... From: Dominic Torretto Views: 9000 59 ratings Time: 03:10 More in Entertainment...",
-            "date": "2015-03-29",
-            "author_name": "Dominic Torretto",
-            "categories": "google,yandex,entertainment",
-            "tags": "chrome,thug,part,google,google_chrome,chrome_vs_yandex,yandex,kapmas,entertainment",
-            "recuweb_url": "http://en.recuweb.com/entertainment/youtube.com/2015/03/google-chrome-vs-yandex-sgara-kapmas",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yandex%2Byandex&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=JjzstqTcJGk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/JjzstqTcJGk/0.jpg"
+        "dailymotion.com/2015/03/the-end-of-russia-internet-play-yandex": {
+            "title": "The End of Russia Internet Play Yandex...",
+            "snippet": "Live trading, live streaming, video on demand, trading courses, earnings calls, live markets commentary and analysis PROJECT:: stockmarketliveTags: Investimento Banco de investimento Fundo de investimento MarketWatch Posted: 22 March 2015Rating:: 0...",
+            "date": "2015-03-22",
+            "author_name": "stockmarketlive",
+            "categories": "markets,internet,play,yandex",
+            "tags": "yandex",
+            "recuweb_url": "http://en.recuweb.com/yandex/dailymotion.com/2015/03/the-end-of-russia-internet-play-yandex",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/yandex+yandex/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2k87jz_the-end-of-russia-internet-play-yandex_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2k87jz_the-end-of-russia-internet-play-yandex_news"
         },
         "youtube.com/2015/03/thuglife-turkey-google-chrome-vs-yandex-s%C3%BCper": {
             "title": "ThuGLiFe Turkey - Google Chrome vs Yandex S\u00fcper Thuglife...",
-            "snippet": "ThuGLiFe Turkey - Google Chrome vs Yandex S\u00fcper Thuglife ThuGLiFe Turkey - Google Chrome vs Yandex S\u00fcper Thuglife. From: ThuGLiFe Turkey Views: 22902 87 ratings Time: 00:41 More in Film & Animation...",
+            "snippet": "ThuGLiFe Turkey - Google Chrome vs Yandex S\u00fcper Thuglife ThuGLiFe Turkey - Google Chrome vs Yandex S\u00fcper Thuglife. From: ThuGLiFe Turkey Views: 24053 88 ratings Time: 00:41 More in Film & Animation...",
             "date": "2015-03-20",
             "author_name": "ThuGLiFe Turkey",
             "categories": "yandex,google",
-            "tags": "yandex,google,google_chrome,chrome",
+            "tags": "yandex,google,chrome,turkey",
             "recuweb_url": "http://en.recuweb.com/google/youtube.com/2015/03/thuglife-turkey-google-chrome-vs-yandex-s%C3%BCper",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yandex%2Byandex&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=SpmPM1QnczM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/SpmPM1QnczM/0.jpg"
-        },
-        "dailymotion.com/2015/02/keygen-yandex-slovari-2015": {
-            "title": "Keygen (yandex slovari 2015)...",
-            "snippet": ".. INSTANT ACCESS:. Get It Here. 2015. alpha 1.5 apk yandex browser indir yandex browser t\u00fcrk\u00e7e yandex browser android yandex browser indir gezginler yandex browser lamborghini yandex browser fenerbah\u00e7e indir Surf the Internet safely with a...",
-            "date": "2015-02-20",
-            "author_name": "anecenme198820",
-            "categories": "yandex,internet",
-            "tags": "yandex,browser",
-            "recuweb_url": "http://en.recuweb.com/internet/dailymotion.com/2015/02/keygen-yandex-slovari-2015",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/yandex+yandex/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2ho44n_yandex-browser-keygen-yandex-slovari-2015_latino",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ho44n_yandex-browser-keygen-yandex-slovari-2015_latino"
-        },
-        "youtube.com/2015/01/chrome-yandex-laf-kapmas": {
-            "title": "Chrome Yandex Laf Kapmas...",
-            "snippet": "Chrome Yandex Laf Kapmas Beendiyseniz Abone Olmay Unutmayn:):) From: Ayya Oyuncu Views: 14325 38 ratings Time: 00:40 More in People & Blogs...",
-            "date": "2015-01-25",
-            "author_name": "Ayya\u015f Oyuncu",
-            "categories": "yandex",
-            "tags": "abone,chrome,yandex,kapmas,people",
-            "recuweb_url": "http://en.recuweb.com/yandex/youtube.com/2015/01/chrome-yandex-laf-kapmas",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yandex%2Byandex&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=K8pg7-Xeb08&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/K8pg7-Xeb08/0.jpg"
-        },
-        "youtube.com/2015/01/chrome-vs-yandex-hardcore": {
-            "title": "Chrome VS YANDEX HARDCORE -, -...",
-            "snippet": "Chrome VS YANDEX HARDCORE -, - VOL 1. From: 720p-HDGamerZ Views: 6110 37 ratings Time: 00:18 More in Gaming...",
-            "date": "2015-01-20",
-            "author_name": "720p-HDGamerZ\u2122 \u00a9",
-            "categories": "yandex",
-            "tags": "chrome,chrome_vs_yandex,yandex",
-            "recuweb_url": "http://en.recuweb.com/yandex/youtube.com/2015/01/chrome-vs-yandex-hardcore",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yandex%2Byandex&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=64XQkBOD3vU&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/64XQkBOD3vU/0.jpg"
         }
     }
 }
