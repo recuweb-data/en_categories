@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "hacking",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/hacking/",
@@ -10,49 +11,49 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/hacking/hacking/blogs.json"
     },
     "items": {
-        "psfk.com/2015/04/attention-hacking-in-an-unconventional-master-class": {
-            "title": "Attention Hacking in an Unconventional Master Class -...",
-            "snippet": "At the PSFK 2015 Master Class in Attention Hacking, Faris Yakob gave a 90-minute crash course in catching the ears and eyeballs of an unfocused world.",
-            "date": "2015-04-22",
-            "author_name": "Samantha Cole",
+        "moonofalabama.org/2015/04/m-of-a-nsa-failure-this-hacking-the-white-house": {
+            "title": "M of A - NSA Failure - THIS Hacking Of The White House Was Not...",
+            "snippet": "Some of President Obama's email correspondence was swept up by Russian hackers last year in a breach of the White House's unclassified computer system that was far more intrusive and worrisome than has been publicly...",
+            "date": "2015-04-26",
+            "author_name": "b",
             "categories": "hacking",
-            "tags": "course,class,hacking,world",
-            "recuweb_url": "http://en.recuweb.com/hacking/psfk.com/2015/04/attention-hacking-in-an-unconventional-master-class",
+            "tags": "system,white,white_house,house,breach,correspondence,president,president_obama,obama,hacking,email,russian,hackers,computer",
+            "recuweb_url": "http://en.recuweb.com/hacking/moonofalabama.org/2015/04/m-of-a-nsa-failure-this-hacking-the-white-house",
             "resource_url": "http://www.google.com/search?q=hacking%2Bhacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://psfk.com/2015/04/psfk-conference-2015-attention-hacking-faris-yakob.html"
+            "source_url": "http://moonofalabama.org/2015/04/nsa-failure-this-hacking-of-the-white-house-was-not-really-severe.html"
         },
-        "express.co.uk/2015/04/malaysia-government-was-hacked-on-night-flight-daily-express": {
-            "title": "Malaysia government was HACKED on night flight... - Daily Express...",
-            "snippet": "... government was HACKED on night flight vanished. A GROUP of \"extremely active\" cyber criminals allegedly launched a hacking attack on Malaysian authorities around the time Malaysia Airlines Flight MH370 disappeared.",
-            "date": "2015-04-22",
-            "author_name": "unknown",
+        "nakedsecurity.sophos.com/2015/04/nigerian-accused-of-hacking-bank-computer-to-steal-340-million": {
+            "title": "Nigerian accused of hacking bank computer to steal 340 million...",
+            "snippet": "A Nigerian man has been charged with hacking into a bank server and siphoning out more than N68 billion (over 340 million).",
+            "date": "2015-04-24",
+            "author_name": "John Hawes",
             "categories": "hacking",
-            "tags": "airlines,flight,around,cyber,daily,government,hacked,hacking",
-            "recuweb_url": "http://en.recuweb.com/hacking/express.co.uk/2015/04/malaysia-government-was-hacked-on-night-flight-daily-express",
+            "tags": "server,charged,accused,hacking,computer,million,into",
+            "recuweb_url": "http://en.recuweb.com/hacking/nakedsecurity.sophos.com/2015/04/nigerian-accused-of-hacking-bank-computer-to-steal-340-million",
             "resource_url": "http://www.google.com/search?q=hacking%2Bhacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://express.co.uk/news/world/572098/Cyber-crooks-launched-attack-Malaysia-officials-Flight-MH370-disappeared"
+            "source_url": "http://nakedsecurity.sophos.com/2015/04/24/nigerian-accused-of-hacking-bank-computer-to-steal-340-million/"
         },
-        "wreg.com/2015/04/bug-in-apps-could-open-apple-devices-to-hacking": {
-            "title": "Bug in apps could open Apple devices to hacking...",
-            "snippet": "NEW YORK A major security flaw has been identified in a piece of networking software that could leave users of about 1,000 apps vulnerable to hacking. Cybersecurity firm SourceDNA discovered that an oversight in a...",
+        "whotv.com/2015/04/police-warn-of-new-facebook-hacking-method": {
+            "title": "Police Warn of New Facebook Hacking Method...",
+            "snippet": "Last Thursday, Liz Huebsch, reported her personal information was hacked after a conversation she had on Facebook with a friend. However, Huebsch later learned the hacker disguised itself as her Facebook friend to...",
+            "date": "2015-04-23",
+            "author_name": "Jodi Whitworth",
+            "categories": "facebook,hacking",
+            "tags": "personal,facebook,hacking,police,hacked,however,hacker",
+            "recuweb_url": "http://en.recuweb.com/hacking/whotv.com/2015/04/police-warn-of-new-facebook-hacking-method",
+            "resource_url": "http://www.google.com/search?q=hacking%2Bhacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://whotv.com/2015/04/23/police-warn-of-new-facebook-hacking-method/"
+        },
+        "theguardian.com/2015/04/piers-morgan-questioned-for-a-second-time-over-phone-hacking": {
+            "title": "Piers Morgan questioned for a second time over phone-hacking...",
+            "snippet": "Former Mirror editor, who is now a TV host and editor-at-large of Mail Online in the US, has always denied he was personally involved in hacking.",
             "date": "2015-04-21",
-            "author_name": "Eryn Taylor",
+            "author_name": "Mark Sweney and Jane Martinson",
             "categories": "hacking",
-            "tags": "security,could,bug,hacking",
-            "recuweb_url": "http://en.recuweb.com/hacking/wreg.com/2015/04/bug-in-apps-could-open-apple-devices-to-hacking",
+            "tags": "involved,host,phone,hacking",
+            "recuweb_url": "http://en.recuweb.com/hacking/theguardian.com/2015/04/piers-morgan-questioned-for-a-second-time-over-phone-hacking",
             "resource_url": "http://www.google.com/search?q=hacking%2Bhacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://wreg.com/2015/04/21/bug-in-apps-could-open-apple-devices-to-hacking/"
-        },
-        "bellanaija.com/2015/04/social-media-drama-instagram-hacking-&-more-between-oritsefemi": {
-            "title": "Social Media Drama, Instagram Hacking & More between Oritsefemi...",
-            "snippet": "Yesterday when Oritsefemi's Instagram account was hacked and his private messages were revealed, he was able to regain control of his account and he posted a photo of himself and MI Abaga laughing with a caption...",
-            "date": "2015-04-21",
-            "author_name": "BellaNaija.com",
-            "categories": "hacking,social-media",
-            "tags": "photo,control,hacked,private,private-messages,messages,instagram,hacking,between,oritsefemi",
-            "recuweb_url": "http://en.recuweb.com/social-media/bellanaija.com/2015/04/social-media-drama-instagram-hacking-&-more-between-oritsefemi",
-            "resource_url": "http://www.google.com/search?q=hacking%2Bhacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bellanaija.com/2015/04/21/social-media-drama-instagram-hacking-more-between-oritsefemi-and-his-fiancee-of-5-years/"
+            "source_url": "http://theguardian.com/media/2015/apr/21/piers-morgan-phone-hacking-mirror"
         },
         "theguardian.com/2015/04/united-airlines-bars-security-researcher-from-flight-after-tweet": {
             "title": "United Airlines bars security researcher from flight after tweet about...",
@@ -60,7 +61,7 @@
             "date": "2015-04-19",
             "author_name": "Associated Press in Washington",
             "categories": "hacking",
-            "tags": "could,ing,flight,chris,chris_roberts,roberts,tweet,security,united,airlines,after,hacking,said",
+            "tags": "flight,security,united,hacking",
             "recuweb_url": "http://en.recuweb.com/hacking/theguardian.com/2015/04/united-airlines-bars-security-researcher-from-flight-after-tweet",
             "resource_url": "http://www.google.com/search?q=hacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://theguardian.com/business/2015/apr/19/united-airlines-security-researcher-chris-roberts-hacking"
@@ -71,7 +72,7 @@
             "date": "2015-04-18",
             "author_name": "Cory Doctorow",
             "categories": "ebook,hacking",
-            "tags": "many,cyber,sony,hacking",
+            "tags": "cyber,next,sony,hacking",
             "recuweb_url": "http://en.recuweb.com/hacking/boingboing.net/2015/04/sony-pirated-ebooks-on-hacking",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=hacking%2Bhacking&rss=1&lng=en",
             "source_url": "http://boingboing.net/2015/04/18/sony-pirated-ebooks-on-hacking.html"
@@ -81,7 +82,7 @@
             "snippet": "This isn't a debate about the prevalence of hacking. There are plenty of threads on that, and my opinion will not be included here. However, in those thread, I frequently see people say \"He even admitted to hacking.\" Of course he did. If you accuse...",
             "date": "2015-04-17",
             "categories": "hacking",
-            "tags": "course,even,hacking,people",
+            "tags": "did,even,here,hacking,however,people",
             "recuweb_url": "http://en.recuweb.com/hacking/reddit.com/2015/04/admitting-to-hacking-does-not-actually-mean-someone-is",
             "resource_url": "http://www.reddit.com/search.rss?q=hacking%2Bhacking&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/GlobalOffensive/comments/32xfwm/admitting_to_hacking_does_not_actually_mean/"
@@ -92,7 +93,7 @@
             "date": "2015-04-17",
             "author_name": "Amul Kalia",
             "categories": "hacking",
-            "tags": "computer,hacking,year",
+            "tags": "using,charged,green,justice,hacking,computer",
             "recuweb_url": "http://en.recuweb.com/hacking/eff.org/2015/04/is-this-justice-charging-an-eighth-grader-with-a-felony",
             "resource_url": "http://www.google.com/search?q=hacking%2Bhacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://eff.org/deeplinks/2015/04/justice-charging-eight-grader-felony-hacking"
@@ -103,21 +104,21 @@
             "date": "2015-04-17",
             "author_name": "Sam Thielman in New York",
             "categories": "hacking",
-            "tags": "says,hacked,between,government,data,scandal,sony,hacking,hollywood",
+            "tags": "scandal,sony,hacking,hacked,government",
             "recuweb_url": "http://en.recuweb.com/hacking/theguardian.com/2015/04/wikileaks-republishes-all-sony-hacking-scandal-documents",
             "resource_url": "http://www.google.com/search?q=hacking%2Bhacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://theguardian.com/technology/2015/apr/16/wikileaks-documents-sony-hacking-school"
         },
-        "adriennescatholiccorner.blogspot.com/2015/04/hacking-for-hackings-sake": {
-            "title": "Hacking for hackings sake...",
-            "snippet": "guilty. Just a quickie before moving on with the painting of my office. I read Stop Hacking Your Life over at the Art of Manliness and it really struck a nerve. I can't seem to boil an egg anymore without looking up the bestest way to boil an egg.",
-            "date": "2015-04-15",
-            "author_name": "Adrienne",
-            "categories": "life,painting,hacking",
-            "tags": "looking,really,life,moving,hacking",
-            "recuweb_url": "http://en.recuweb.com/hacking/adriennescatholiccorner.blogspot.com/2015/04/hacking-for-hackings-sake",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=hacking%2Bhacking&rss=1&lng=en",
-            "source_url": "http://adriennescatholiccorner.blogspot.com/2015/04/hacking-for-hackings-sake.html"
+        "kdvr.com/2015/04/wi-fi-enabled-planes-might-be-susceptible-to-hacking-gao-reports": {
+            "title": "Wi-Fi enabled planes might be susceptible to hacking, GAO reports...",
+            "snippet": "Investigators for the Government Accountability Office (GAO) found that hackers could potentially use the on-flight Wi-Fi network to commandeer aircraft computer systems and jeopardize flights, using just a laptop. The report...",
+            "date": "2015-04-16",
+            "author_name": "Hsing Tseng",
+            "categories": "aircraft,hacking",
+            "tags": "using,systems,flight,network,hacking,report,government,hackers,computer",
+            "recuweb_url": "http://en.recuweb.com/hacking/kdvr.com/2015/04/wi-fi-enabled-planes-might-be-susceptible-to-hacking-gao-reports",
+            "resource_url": "http://www.google.com/search?q=hacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://kdvr.com/2015/04/15/wi-fi-enabled-planes-might-be-susceptible-to-hacking-gao-reports-warn/"
         }
     }
 }
