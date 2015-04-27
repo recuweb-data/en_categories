@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "vocabulary",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/vocabulary/",
@@ -10,15 +11,45 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/vocabulary/vocabulary/blogs.json"
     },
     "items": {
+        "examiner.com/2015/04/the-30-million-word-gap": {
+            "title": "The 30 million word gap...",
+            "snippet": "And the gap increases as they move up in grades. If children do not hear words, often repeated, they do not learn vocabulary. With less vocabulary background, they have a more difficult time reading. With less reading, they know less history,...",
+            "date": "2015-04-24",
+            "categories": "vocabulary",
+            "tags": "children,gap,words,learn,vocabulary,reading",
+            "recuweb_url": "http://en.recuweb.com/vocabulary/examiner.com/2015/04/the-30-million-word-gap",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=vocabulary&format=RSS&cc=us",
+            "source_url": "http://examiner.com/article/the-30-million-word-gap"
+        },
         "fxempire.com/2015/04/flash-crash-and-spoofing-the-new-vocabulary-of-investing-fx-empire": {
             "title": "Flash Crash and Spoofing the new vocabulary of Investing - FX Empire...",
             "snippet": "FX EmpireFlash Crash and Spoofing the new vocabulary of InvestingFX EmpireThis week's news headlines have centered on the extradition of the infamous UK trader Navinder Singh Sarao.The trader is opposed to his extradition to the United States to...",
             "date": "2015-04-24",
             "categories": "vocabulary,empire",
-            "tags": "united,states,vocabulary,week",
+            "tags": "united,states,vocabulary",
             "recuweb_url": "http://en.recuweb.com/empire/fxempire.com/2015/04/flash-crash-and-spoofing-the-new-vocabulary-of-investing-fx-empire",
             "resource_url": "http://news.google.com/?hl=en&q=vocabulary%2Bvocabulary&output=atom&nord=1",
             "source_url": "http://fxempire.com/news/stocks-news/flash-crash-and-spoofing-the-new-vocabulary-of-investing/"
+        },
+        "thesnapper.com/2015/04/changing-our-vocabulary": {
+            "title": "Changing our vocabulary...",
+            "snippet": "When Harriet Kenderdine, a long-time member of the League of Women Voters of Lancaster County, died, she did something rather spectacular: she set aside funds so that lecturers could attend public events on behalf of the LWV, underwriting the costs...",
+            "date": "2015-04-23",
+            "categories": "events,vocabulary",
+            "tags": "long,vocabulary",
+            "recuweb_url": "http://en.recuweb.com/vocabulary/thesnapper.com/2015/04/changing-our-vocabulary",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=vocabulary&format=RSS&cc=us",
+            "source_url": "http://thesnapper.com/2015/04/23/changing-our-vocabulary-2/"
+        },
+        "waynesvilledailyguide.com/2015/04/east-elementary-hosts-vocabulary-parade": {
+            "title": "East Elementary hosts vocabulary parade...",
+            "snippet": "On April 2, East Elementary hosted its inaugural Love of Reading Evening featuring a vocabulary parade. The parade is based on the book, Miss Alaineus A Vocabulary Disaster. East students, with help from their families, created costumes based...",
+            "date": "2015-04-23",
+            "categories": "vocabulary,love,students",
+            "tags": "costumes,vocabulary,reading,love,students,help",
+            "recuweb_url": "http://en.recuweb.com/students/waynesvilledailyguide.com/2015/04/east-elementary-hosts-vocabulary-parade",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=vocabulary&format=RSS&cc=us",
+            "source_url": "http://waynesvilledailyguide.com/article/20150422/NEWS/150429533"
         },
         "news.forexlive.com/2015/04/time-to-add-a-new-word-your-vocabulary-grimbo-forexlive": {
             "title": "Time to add a new word to your vocabulary... 'Grimbo'- ForexLive...",
@@ -30,6 +61,16 @@
             "resource_url": "http://news.google.com/?hl=en&q=vocabulary%2Bvocabulary&output=atom&nord=1",
             "source_url": "http://news.forexlive.com/!/time-to-add-a-new-word-to-your-vocabulary--grimbo-20150423"
         },
+        "edweek.org/2015/04/key-to-vocabulary-gap-is-quality-of-conversation-not-dearth-words": {
+            "title": "Key to Vocabulary Gap Is Quality of Conversation, Not Dearth of Words...",
+            "snippet": "For 20 years, a chasm of words has yawned between the children of college-educated professionals and those of high school dropouts, quantifying the academic disadvantage faced by the latter group long before they even start school. That statistic...",
+            "date": "2015-04-22",
+            "categories": "college,vocabulary,school",
+            "tags": "long,even,children,vocabulary,gap,words,school",
+            "recuweb_url": "http://en.recuweb.com/school/edweek.org/2015/04/key-to-vocabulary-gap-is-quality-of-conversation-not-dearth-words",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=vocabulary&format=RSS&cc=us",
+            "source_url": "http://edweek.org/ew/articles/2015/04/22/key-to-vocabulary-gap-is-quality-of.html"
+        },
         "espncricinfo.com/2015/04/why-i-want-the-word-match-winner-erased-from-cricket": {
             "title": "Why I want the word 'match-winner'erased from cricket's vocabulary - (blog)...",
             "snippet": "(blog)Why I want the word 'match-winner'erased from cricket's vocabulary (blog)There are three buzzwords I'd like erased from the cricket vocabulary: right areas, knowledgeable crowd and match-winner. If I can choose only one, I'll go with...",
@@ -40,75 +81,35 @@
             "resource_url": "http://news.google.com/?hl=en&q=vocabulary%2Bvocabulary&output=atom&nord=1",
             "source_url": "http://espncricinfo.com/blogs/content/story/863961.html"
         },
-        "edweek.org/2015/04/key-to-vocabulary-gap-is-quality-of-conversation-not-dearth-words": {
-            "title": "Key to Vocabulary Gap Is Quality of Conversation, Not Dearth of Words - Education Week News...",
-            "snippet": "Education Week News (subscription)Key to Vocabulary Gap Is Quality of Conversation, Not Dearth of WordsEducation Week News (subscription)For 20 years, a chasm of words has yawned between the children of college-educated professionals and those of...",
+        "streetinsider.com/2015/04/ultimate-vocabulary-edu-featured-on-engaging-web-apps-ereflect-reports": {
+            "title": "Ultimate Vocabulary EDU Featured On Engaging Web Apps, eReflect Reports...",
+            "snippet": "Ultimate Vocabulary EDU has been presented and discussed by educational organization Engaging Web Apps in an effort to raise awareness of the program's suitability for classroom learning, eReflect announced today. Ultimate Vocabulary EDU is the...",
             "date": "2015-04-21",
-            "categories": "college,education,vocabulary",
-            "tags": "children,week,education,vocabulary,words",
-            "recuweb_url": "http://en.recuweb.com/vocabulary/edweek.org/2015/04/key-to-vocabulary-gap-is-quality-of-conversation-not-dearth-words",
-            "resource_url": "http://news.google.com/?hl=en&q=vocabulary%2Bvocabulary&output=atom&nord=1",
-            "source_url": "http://edweek.org/ew/articles/2015/04/22/key-to-vocabulary-gap-is-quality-of.html"
+            "categories": "learning,vocabulary",
+            "tags": "raise,vocabulary",
+            "recuweb_url": "http://en.recuweb.com/vocabulary/streetinsider.com/2015/04/ultimate-vocabulary-edu-featured-on-engaging-web-apps-ereflect-reports",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=vocabulary&format=RSS&cc=us",
+            "source_url": "http://streetinsider.com/Press+Releases/Ultimate+Vocabulary+EDU+Featured+On+Engaging+Web+Apps,+eReflect+Reports/10477327.html"
         },
         "swnews4u.com/2015/04/build-your-vocabulary-with-neologisms-swnews4u": {
             "title": "Build your vocabulary with neologisms - Swnews4u...",
             "snippet": "Build your vocabulary with neologismsSwnews4uOne of my favorite features of Reader's Digest growing up was the page dealing with building up your vocabulary called 'It Pays to Increase Your Word Power.'It may still be a part of that iconic magazine.",
             "date": "2015-04-17",
             "categories": "vocabulary",
-            "tags": "word,building,vocabulary",
+            "tags": "word,vocabulary",
             "recuweb_url": "http://en.recuweb.com/vocabulary/swnews4u.com/2015/04/build-your-vocabulary-with-neologisms-swnews4u",
             "resource_url": "http://news.google.com/?hl=en&q=vocabulary%2Bvocabulary&output=atom&nord=1",
             "source_url": "http://swnews4u.com/section/95/article/26470/"
         },
-        "ksl.com/2015/04/5-phrases-to-eliminate-from-your-parenting-vocabulary": {
-            "title": "5 phrases to eliminate from your parenting vocabulary -...",
-            "snippet": "phrases to eliminate from your parenting LAKE CITY We regularly teach our children how to respond in certain social situations. We train them to hold the door for strangers, to smile politely when eye contact is made, and we expect them to reach...",
-            "date": "2015-04-16",
-            "categories": "parenting,vocabulary",
-            "tags": "children,certain,phrases,vocabulary",
-            "recuweb_url": "http://en.recuweb.com/vocabulary/ksl.com/2015/04/5-phrases-to-eliminate-from-your-parenting-vocabulary",
-            "resource_url": "http://news.google.com/?hl=en&q=vocabulary%2Bvocabulary&output=atom&nord=1",
-            "source_url": "http://ksl.com/?nid=1009&sid=34240589"
-        },
-        "svherald.com/2015/04/chalk-talk-for-april-17": {
-            "title": "CHALK TALK for April 17...",
-            "snippet": "They have been studying measurement, fractions, sequence, citizenship, and vocabulary, vocabulary, vocabulary! They look forward to visiting the Bisbee Copper Mine Museum and the Copper Queen Mine in May. Students in Ms. Torres fifth grade ELL class...",
-            "date": "2015-04-16",
-            "categories": "vocabulary,students",
-            "tags": "talk,vocabulary",
-            "recuweb_url": "http://en.recuweb.com/students/svherald.com/2015/04/chalk-talk-for-april-17",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=vocabulary%2Bvocabulary&format=RSS&cc=us",
-            "source_url": "http://svherald.com/content/submitted/2015/04/16/395544"
-        },
-        "sfchronicle.com/2015/04/third-space-s-f-building-boom-creating-new-vocabulary-san-francisco": {
-            "title": "'Third space': S.F. building boom creating new vocabulary - San Francisco Chronicle...",
-            "snippet": "San Francisco Chronicle'Third space': S.F. building boom creating new vocabularySan Francisco ChronicleLet us catch you up on your civic-engagement vocabulary with the help of Laura Tepper of the Mission Bay Development Group. Your first place is...",
-            "date": "2015-04-15",
-            "categories": "vocabulary",
-            "tags": "development,building,vocabulary,help",
-            "recuweb_url": "http://en.recuweb.com/vocabulary/sfchronicle.com/2015/04/third-space-s-f-building-boom-creating-new-vocabulary-san-francisco",
-            "resource_url": "http://news.google.com/?hl=en&q=vocabulary%2Bvocabulary&output=atom&nord=1",
-            "source_url": "http://sfchronicle.com/bayarea/nevius/article/Third-space-S-F-building-boom-creating-new-6202524.php"
-        },
-        "dailycaller.com/2015/04/public-school-sixth-graders-get-sperm-bank-vocabulary-question-daily-caller": {
-            "title": "Public School Sixth Graders Get SPERM BANK Vocabulary Question - Daily Caller...",
-            "snippet": "Public School Sixth Graders Get SPERM BANK Vocabulary QuestionDaily CallerThe school district suspended its contract with over the sperm-donation-sentence-completion kerfuffle (at least temporarily), according to the Naples Daily News. We...",
-            "date": "2015-04-14",
-            "categories": "school,vocabulary",
-            "tags": "daily,school,vocabulary",
-            "recuweb_url": "http://en.recuweb.com/vocabulary/dailycaller.com/2015/04/public-school-sixth-graders-get-sperm-bank-vocabulary-question-daily-caller",
-            "resource_url": "http://news.google.com/?hl=en&q=vocabulary%2Bvocabulary&output=atom&nord=1",
-            "source_url": "http://dailycaller.com/2015/04/14/public-school-sixth-graders-get-sperm-bank-vocabulary-question/"
-        },
-        "allafrica.com/2015/04/angola-defends-drafting-of-angolan-vocabulary-in-portuguese-language": {
-            "title": "Angola Defends Drafting of Angolan Vocabulary in Portuguese Language... -...",
-            "snippet": "Angola Defends Drafting of Angolan Vocabulary in Portuguese Language... The Republic of Angola supports the development of a national vocabulary and the correction of certain technical scientific basis to ratify the Portuguese Language Orthographic...",
-            "date": "2015-04-13",
-            "categories": "vocabulary",
-            "tags": "certain,development,language,vocabulary",
-            "recuweb_url": "http://en.recuweb.com/vocabulary/allafrica.com/2015/04/angola-defends-drafting-of-angolan-vocabulary-in-portuguese-language",
-            "resource_url": "http://news.google.com/?hl=en&q=vocabulary&output=atom&nord=1",
-            "source_url": "http://allafrica.com/stories/201504131361.html"
+        "sippican.villagesoup.com/2015/04/vocabulary-takes-center-stage-at-sippican-school": {
+            "title": "Vocabulary takes center stage at Sippican School...",
+            "snippet": "Marion Vocabulary Day at Sippican School provided any librocubicularists out there a chance to expand their literary horizons. Friday marked the eleventh year in a row where students and teachers wore costumes to highlight new words learned...",
+            "date": "2015-04-17",
+            "categories": "students,school,vocabulary",
+            "tags": "students,costumes,any,day,school,vocabulary,words",
+            "recuweb_url": "http://en.recuweb.com/vocabulary/sippican.villagesoup.com/2015/04/vocabulary-takes-center-stage-at-sippican-school",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=vocabulary&format=RSS&cc=us",
+            "source_url": "http://sippican.villagesoup.com/p/vocabulary-takes-center-stage-at-sippican-school/1334709"
         }
     }
 }
