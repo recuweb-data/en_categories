@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "retail-financial-services",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/retail-financial-services/",
@@ -10,40 +11,70 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/retail-financial-services/retail-financial-services/blogs.json"
     },
     "items": {
+        "news.morningstar.com/2015/04/a-solid-manager-finds-new-footing": {
+            "title": "A Solid Manager Finds New Footing -...",
+            "snippet": "A Solid Manager Finds New 2012, the fund's first full calendar year, it returned 27.4%, catapulting it to near the top of the category rankings and outpacing the Russell index by 9 percentage points as an overweight to small-cap financial services...",
+            "date": "2015-04-25",
+            "tags": "small,index,finds,financial,services",
+            "recuweb_url": "http://en.recuweb.com/news.morningstar.com/2015/04/a-solid-manager-finds-new-footing",
+            "resource_url": "http://news.google.com/?hl=en&q=retail%2Bfinancial%2Bservices&output=atom&nord=1",
+            "source_url": "http://news.morningstar.com/articlenet/article.aspx?id=694093"
+        },
+        "money.cnn.com/2015/04/amazon-lifts-curtain-on-secretive-5-billion-cloud-business-cnnmoney": {
+            "title": "Amazon lifts curtain on secretive 5 billion cloud business - CNNMoney...",
+            "snippet": "BenzingaAmazon lifts curtain on secretive 5 billion cloud businessCNNMoneyBut like most products other than Amazon's retail business, the company has kept its Amazon Web Services cloud business shrouded in the mystery of the \"other\" field in its...",
+            "date": "2015-04-24",
+            "categories": "web-services,business",
+            "tags": "services,business,company,products,retail",
+            "recuweb_url": "http://en.recuweb.com/business/money.cnn.com/2015/04/amazon-lifts-curtain-on-secretive-5-billion-cloud-business-cnnmoney",
+            "resource_url": "http://news.google.com/?hl=en&q=retail%2Bfinancial%2Bservices&output=atom&nord=1",
+            "source_url": "http://money.cnn.com/2015/04/23/technology/amazon-earnings/"
+        },
+        "tickerreport.com/2015/04/community-west-bancshares-cwbc-announces-earnings-results": {
+            "title": "Community West Bancshares (CWBC) Announces Earnings Results...",
+            "snippet": "CWBC provides management and shareholder services to the bank. The Bank offers a range of commercial and retail financial services to professionals, small to mid-sized businesses and individual households. Receive News & Ratings for Community...",
+            "date": "2015-04-24",
+            "categories": "business,management",
+            "tags": "businesses,small,management,services,retail,financial",
+            "recuweb_url": "http://en.recuweb.com/management/tickerreport.com/2015/04/community-west-bancshares-cwbc-announces-earnings-results",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=retail%2Bfinancial%2Bservices&format=RSS&cc=us",
+            "source_url": "http://tickerreport.com/banking-finance/471692/community-west-bancshares-cwbc-announces-earnings-results/"
+        },
+        "triblive.com/2015/04/retailers-vie-for-workers-in-tightening-labor-market-tribune-review": {
+            "title": "Retailers vie for workers in tightening labor market - Tribune-Review...",
+            "snippet": "Retailers vie for workers in tightening labor marketTribune-ReviewShifts in retail pay could foreshadow a broader trend, though. I think it is reflective of a tightening labor market overall, said Gus Faucher, an economist at PNC Financial Services...",
+            "date": "2015-04-24",
+            "categories": "financial-services",
+            "tags": "pnc,pnc_financial,pnc_financial_services,financial,financial_services,services,retail,said",
+            "recuweb_url": "http://en.recuweb.com/financial-services/triblive.com/2015/04/retailers-vie-for-workers-in-tightening-labor-market-tribune-review",
+            "resource_url": "http://news.google.com/?hl=en&q=retail%2Bfinancial%2Bservices%2Bretail%2Bfinancial%2Bservices&output=atom&nord=1",
+            "source_url": "http://triblive.com/business/headlines/8209618-74/job-aldi-retail"
+        },
+        "1to1media.com/2015/04/create-emotionally-engaging-customer-experiences": {
+            "title": "Create Emotionally Engaging Customer Experiences...",
+            "snippet": "In the research firm's latest U.S. Customer Experience Index, Forrester analysts polled about 46,000 adults about their customer experiences across 18 industries such as retail, financial services, and health insurance. Financial services firms and...",
+            "date": "2015-04-23",
+            "categories": "health,insurance",
+            "tags": "insurance,industries,customer,index,retail,financial,services",
+            "recuweb_url": "http://en.recuweb.com/insurance/1to1media.com/2015/04/create-emotionally-engaging-customer-experiences",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=retail%2Bfinancial%2Bservices&format=RSS&cc=us",
+            "source_url": "http://1to1media.com/weblog/2015/04/create_emotionally-engaging_cu.html"
+        },
         "benzinga.com/2015/04/alaska-usa-streamlines-payment-capabilities-with-fis": {
             "title": "Alaska USA Streamlines Payment Capabilities with FIS...",
             "snippet": "Wolf, executive director of Retail Financial Services, Alaska USA Federal Credit Union. The breadth of FIS'leading-edge capabilities offered us the kind of modern payments services that our members are looking for. The new deal includes EMV card...",
             "date": "2015-04-22",
             "categories": "credit,retail-financial-services,financial-services",
-            "tags": "credit,retail,financial,financial_services,services,leading,card",
+            "tags": "members,credit,retail,financial,financial_services,services,leading",
             "recuweb_url": "http://en.recuweb.com/financial-services/benzinga.com/2015/04/alaska-usa-streamlines-payment-capabilities-with-fis",
             "resource_url": "http://www.bing.com/news/search?first=1&q=retail%2Bfinancial%2Bservices&format=RSS&cc=us",
             "source_url": "http://benzinga.com/pressreleases/15/04/b5431113/alaska-usa-streamlines-payment-capabilities-with-fis"
-        },
-        "lightreading.com/2015/04/avni-lets-carriers-offer-cloud-portability": {
-            "title": "Avni Lets Carriers Offer Cloud Portability...",
-            "snippet": "The software is currently in use in the retail, financial services and media industries. To use the software, enterprises create a blueprint of their app by dragging and dropping policies, test apps and built-in SDN services, then deploy to the...",
-            "date": "2015-04-22",
-            "tags": "app,industries,currently,currently-in-use,avni,cloud,retail,financial,services,sdn",
-            "recuweb_url": "http://en.recuweb.com/lightreading.com/2015/04/avni-lets-carriers-offer-cloud-portability",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=retail%2Bfinancial%2Bservices&format=RSS&cc=us",
-            "source_url": "http://lightreading.com/services/cloud-services/avni-lets-carriers-offer-cloud-portability/d/d-id/715231"
-        },
-        "roadracingworld.com/2015/04/harley-davidson-announces-mixed-financial-results-for-first-quarter-of-2015": {
-            "title": "Harley-Davidson Announces Mixed Financial Results For First Quarter Of 2015 -...",
-            "snippet": "Announces Mixed Financial Results For First Quarter Of 2015 Financial Services provides wholesale and retail financing, insurance, extended service and other protection plans and credit card programs to Harley-Davidson dealers and riders in the...",
-            "date": "2015-04-22",
-            "categories": "financial-services,insurance,credit",
-            "tags": "card,service,financial,financial_services,services,first,retail,insurance,credit",
-            "recuweb_url": "http://en.recuweb.com/credit/roadracingworld.com/2015/04/harley-davidson-announces-mixed-financial-results-for-first-quarter-of-2015",
-            "resource_url": "http://news.google.com/?hl=en&q=retail%2Bfinancial%2Bservices&output=atom&nord=1",
-            "source_url": "http://roadracingworld.com/news/harley-davidson-announces-mixed-financial-results-for-first-quarter-of-2015/"
         },
         "networkworld.com/2015/04/sdn-start-up-stitches-together-clouds": {
             "title": "SDN start-up stitches together clouds...",
             "snippet": "Avni SDC is currently in use in about five global companies in the retail, financial services, and media industries, and at two cloud providers, company officials say. Citing data from Goldman Sachs and Computerworld, Avni says cloud revenues are...",
             "date": "2015-04-22",
-            "tags": "company,industries,currently,currently-in-use,global,avni,sdn,retail,financial,services",
+            "tags": "company,industries,global,companies,together,retail,financial,services",
             "recuweb_url": "http://en.recuweb.com/networkworld.com/2015/04/sdn-start-up-stitches-together-clouds",
             "resource_url": "http://www.bing.com/news/search?first=1&q=retail%2Bfinancial%2Bservices&format=RSS&cc=us",
             "source_url": "http://networkworld.com/article/2913594/cloud-computing/sdn-start-up-avni-stitches-together-clouds.html"
@@ -53,58 +84,30 @@
             "snippet": "Unified agrees to sell insurance operationsSupermarket NewsUnified Grocers said Wednesday it has reached a definitive agreement to sell its insurance businesses to AmTrust Financial Services, a New York-based insurance holding company. It said it...",
             "date": "2015-04-22",
             "categories": "insurance,financial-services,business",
-            "tags": "insurance,company,financial,financial_services,services,sell",
+            "tags": "said,insurance,holding,holding-company,company,financial,financial_services,services,sell,businesses",
             "recuweb_url": "http://en.recuweb.com/business/supermarketnews.com/2015/04/unified-agrees-to-sell-insurance-operations-supermarket-news",
-            "resource_url": "http://news.google.com/?hl=en&q=retail%2Bfinancial%2Bservices&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=retail%2Bfinancial%2Bservices%2Bretail%2Bfinancial%2Bservices&output=atom&nord=1",
             "source_url": "http://supermarketnews.com/retail-financial/unified-agrees-sell-insurance-operations"
         },
-        "blogs.wsj.com/2015/04/wells-fargo-exits-us-retail-electronic-equity-market-making-wall-street": {
-            "title": "Wells Fargo Exits US Retail Electronic Equity Market Making - Wall Street Journal (blog)...",
-            "snippet": "Wall Street Journal (blog)Wells Fargo Exits US Retail Electronic Equity Market MakingWall Street Journal (blog)The trend has played out across Wall Street since the financial crisis, resulting in several of the largest global banks trimming their...",
-            "date": "2015-04-22",
-            "tags": "global,retail,financial",
-            "recuweb_url": "http://en.recuweb.com/blogs.wsj.com/2015/04/wells-fargo-exits-us-retail-electronic-equity-market-making-wall-street",
-            "resource_url": "http://news.google.com/?hl=en&q=retail%2Bfinancial%2Bservices&output=atom&nord=1",
-            "source_url": "http://blogs.wsj.com/moneybeat/2015/04/22/wells-fargo-exits-u-s-retail-electronic-equity-market-making/"
-        },
-        "consumerelectronicsnet.com/2015/04/xmatters-launches-intelligent-communications-solution-for-servicenow-app-store": {
-            "title": "xMatters Launches Intelligent Communications Solution for ServiceNow App Store...",
-            "snippet": "Customers come from the retail, financial services, energy, technology, services, media, consumer goods, manufacturing and healthcare industries. xMatters is demonstrating its cloud communications technology at Knowledge15 this week in booth 715.",
-            "date": "2015-04-22",
-            "categories": "technology",
-            "tags": "cloud,industries,consumer,app,service,retail,financial,services",
-            "recuweb_url": "http://en.recuweb.com/technology/consumerelectronicsnet.com/2015/04/xmatters-launches-intelligent-communications-solution-for-servicenow-app-store",
+        "globenewswire.com/2015/04/weaker-customer-relationships-and-competitive-threats-from-non-banks-challenge-retail": {
+            "title": "Weaker Customer Relationships and Competitive Threats From Non-Banks Challenge Retail Bankers Finds...",
+            "snippet": "As a global not-for-profit organization, Efma brings together more than 3300 retail financial services companies from over 130 countries. With membership from almost a third of all large retail banks worldwide, Efma has proven to be a valuable...",
+            "date": "2015-04-21",
+            "categories": "relationships",
+            "tags": "together,global,retail,finds,customer,financial,services,companies",
+            "recuweb_url": "http://en.recuweb.com/relationships/globenewswire.com/2015/04/weaker-customer-relationships-and-competitive-threats-from-non-banks-challenge-retail",
             "resource_url": "http://www.bing.com/news/search?first=1&q=retail%2Bfinancial%2Bservices&format=RSS&cc=us",
-            "source_url": "http://consumerelectronicsnet.com/article/xMatters-Launches-Intelligent-Communications-Solution-for-ServiceNow-App-Store--3859410"
+            "source_url": "http://globenewswire.com/news-release/2015/04/22/726817/10130016/en/Weaker-Customer-Relationships-and-Competitive-Threats-From-Non-Banks-Challenge-Retail-Bankers-Finds-World-Retail-Banking-Report-2015.html"
         },
-        "professionalplanner.com.au/2015/04/life-insurance-and-advice-working-group-where-to-from-here": {
-            "title": "Life Insurance and Advice Working Group: Where to from here?",
-            "snippet": "The chosen architect of the LIAWG Report, John Trowbridge, has impeccable credentials. An actuary, his experience ranges from competition in retail financial services, to capital structure issues, system stability, regulation, life and general...",
-            "date": "2015-04-21",
-            "categories": "life,capital-structure,insurance",
-            "tags": "advice,insurance,retail,financial,services",
-            "recuweb_url": "http://en.recuweb.com/insurance/professionalplanner.com.au/2015/04/life-insurance-and-advice-working-group-where-to-from-here",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=retail%2Bfinancial%2Bservices&format=RSS&cc=us",
-            "source_url": "http://professionalplanner.com.au/risk/2015/04/22/life-insurance-and-advice-working-group-where-to-from-here-36016/"
-        },
-        "businesswire.com/2015/04/synchrony-financial-opens-career-center-at-kettering-site-business-wire-press": {
-            "title": "Synchrony Financial Opens Career Center at Kettering Site - Business Wire (press release)...",
-            "snippet": "Business Wire (press release)Synchrony Financial Opens Career Center at Kettering SiteBusiness Wire (press release)KETTERING, Ohio--(BUSINESS WIRE)--Synchrony Financial (NYSE:SYF), a premier consumer financial services company with 80 years of...",
-            "date": "2015-04-21",
-            "categories": "business",
-            "tags": "years,company,premier,premier-consumer,consumer,synchrony,synchrony_financial,financial,kettering,business,kettering_site,site,synchrony_financial_opens,financial_opens,financial_opens_career,opens,opens_career,opens_career_center,career,career_center,center,ohio,nyse,syf,services",
-            "recuweb_url": "http://en.recuweb.com/business/businesswire.com/2015/04/synchrony-financial-opens-career-center-at-kettering-site-business-wire-press",
-            "resource_url": "http://news.google.com/?hl=en&q=retail%2Bfinancial%2Bservices&output=atom&nord=1",
-            "source_url": "http://businesswire.com/news/home/20150421006655/en/Synchrony-Financial-Opens-Career-Center-Kettering-Site"
-        },
-        "finances.com/2015/04/synchrony-financial-opens-career-center-at-kettering-site": {
-            "title": "Synchrony Financial Opens Career Center at Kettering Site -...",
-            "snippet": "Financial Opens Career Center at Kettering Site Financial (NYSE:SYF), a premier consumer financial services company with 80 years of retail heritage, today opened a Career Center at its site in Kettering, Ohio. Margaret Keane, CEO and president of...",
-            "date": "2015-04-21",
-            "tags": "site,career,career_center,center,years,company,premier,premier-consumer,consumer,financial,financial_opens,financial_opens_career,opens,opens_career,opens_career_center,kettering,kettering_site,synchrony,synchrony_financial,synchrony_financial_opens,nyse,syf,services,retail,ohio",
-            "recuweb_url": "http://en.recuweb.com/finances.com/2015/04/synchrony-financial-opens-career-center-at-kettering-site",
+        "housingwire.com/2015/04/home-point-financial-expands-into-retail-mortgage-lending-housingwire": {
+            "title": "Home Point Financial expands into retail mortgage lending - HousingWire...",
+            "snippet": "HousingWireHome Point Financial expands into retail mortgage lendingHousingWireHome Point Financial, a subsidiary of Home Point Capital, a financial services holding company founded in 2014 and owned by members of management and by investment funds...",
+            "date": "2015-04-20",
+            "categories": "management,home",
+            "tags": "members,management,holding,holding-company,company,financial,retail,services",
+            "recuweb_url": "http://en.recuweb.com/home/housingwire.com/2015/04/home-point-financial-expands-into-retail-mortgage-lending-housingwire",
             "resource_url": "http://news.google.com/?hl=en&q=retail%2Bfinancial%2Bservices%2Bretail%2Bfinancial%2Bservices&output=atom&nord=1",
-            "source_url": "http://finances.com/company-news/86783-synchrony-financial-opens-career-center-at-kettering-site.htm"
+            "source_url": "http://housingwire.com/articles/33621-home-point-financial-expands-into-retail-mortgage-lending"
         }
     }
 }
