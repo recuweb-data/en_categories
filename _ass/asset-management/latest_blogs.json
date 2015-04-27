@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "asset-management",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/asset-management/",
@@ -10,38 +11,58 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/asset-management/asset-management/blogs.json"
     },
     "items": {
+        "reddit.com/2015/04/recommend-me-the-absolute-must-read-intros-to-asset-management": {
+            "title": "Recommend me the absolute MUST READ intros to asset management...",
+            "snippet": "Turned 20 today and I've finally decided what I wanna do with my working life; asset management. 1) I'll be applying for internships later this winter and I plan on dedicating my entire free time this summer to learning as much as possible about AM,...",
+            "date": "2015-04-26",
+            "categories": "learning,life,management",
+            "tags": "later,absolute,asset,management",
+            "recuweb_url": "http://en.recuweb.com/management/reddit.com/2015/04/recommend-me-the-absolute-must-read-intros-to-asset-management",
+            "resource_url": "http://www.reddit.com/search.rss?q=asset%2Bmanagement%2Basset%2Bmanagement&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/finance/comments/33wnvs/recommend_me_the_absolute_must_read_intros_to/"
+        },
+        "niftydirect.com/2015/04/reliance-capital-ropes-in-samsung-amc-for-strategic-alliance": {
+            "title": "Reliance Capital ropes in Samsung AMC for strategic alliance...",
+            "snippet": "Reliance Capital has signed an MoU with Samsung Asset Management Co, Korea, for a strategic alliance under which the two companies will use their expertise to explore areas for developing, managing, marketing, and distributing each others investment...",
+            "date": "2015-04-24",
+            "categories": "asset-management,management,marketing",
+            "tags": "investment,under,companies,samsung,samsung_asset,samsung_asset_management,asset,asset_management,management,signed,reliance,reliance_capital,capital,mou,korea",
+            "recuweb_url": "http://en.recuweb.com/marketing/niftydirect.com/2015/04/reliance-capital-ropes-in-samsung-amc-for-strategic-alliance",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=asset%2Bmanagement%2Basset%2Bmanagement&rss=1&lng=en",
+            "source_url": "http://niftydirect.com/reliance-capital-ropes-in-samsung-amc-for-strategic-alliance/"
+        },
         "business.financialpost.com/2015/04/sprott-asset-management-plans-us800-million-unsolicited-bid": {
             "title": "Sprott Asset Management plans US800-million unsolicited bid for...",
             "snippet": "Sprott Asset Management LP is planning to make an unsolicited offer to acquire Central GoldTrust and Silver Bullion Trust valued at US800 million, a person with knowledge of the matter said.",
             "date": "2015-04-23",
             "author_name": "Scott Deveau, Bloomberg News",
             "categories": "asset-management,management",
-            "tags": "planning,million,asset,asset_management,management,plans,acquire,said",
+            "tags": "said,asset,asset_management,management",
             "recuweb_url": "http://en.recuweb.com/management/business.financialpost.com/2015/04/sprott-asset-management-plans-us800-million-unsolicited-bid",
             "resource_url": "http://www.google.com/search?q=asset%2Bmanagement%2Basset%2Bmanagement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://business.financialpost.com/investing/sprott-asset-management-said-to-be-planning-us800-million-unsolicited-bid-for-canadian-metals-trusts"
         },
-        "multifamilybiz.com/2015/04/associated-estates-sells-to-brookfield-asset-management-in": {
-            "title": "Associated Estates Sells to Brookfield Asset Management in a...",
-            "snippet": "Brookfield is a global alternative asset manager with more than 200 billion in assets under management. Brookfield has over a 100-year history of owning and operating assets with a focus on property, renewable energy,...",
-            "date": "2015-04-22",
-            "author_name": "unknown",
-            "categories": "renewable-energy,asset-management,management,property",
-            "tags": "renewable,focus,billion,brookfield,brookfield_asset,brookfield_asset_management,assets,asset_management,management,global,under,property",
-            "recuweb_url": "http://en.recuweb.com/property/multifamilybiz.com/2015/04/associated-estates-sells-to-brookfield-asset-management-in",
+        "businessinsider.com/2015/04/the-fed-is-trying-to-avoid-a-nightmare-scenario-business-insider": {
+            "title": "The Fed is trying to avoid a 'nightmare scenario'- Business Insider...",
+            "snippet": "Asset managers have said they are systemically safe. But Fed officials have noted a surge in asset management inflows and concentration. One example is fixed income exchange-traded-fund assets, which reached 246...",
+            "date": "2015-04-23",
+            "author_name": "By Michael Flaherty and Jonathan Spicer",
+            "categories": "fixed-income,business,management",
+            "tags": "reached,managers,said,business,avoid,assets,management,fund",
+            "recuweb_url": "http://en.recuweb.com/management/businessinsider.com/2015/04/the-fed-is-trying-to-avoid-a-nightmare-scenario-business-insider",
             "resource_url": "http://www.google.com/search?q=asset%2Bmanagement%2Basset%2Bmanagement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://multifamilybiz.com/News/6147/Associated_Estates_Sells_to_Brookfield_Asset_Manag..."
+            "source_url": "http://businessinsider.com/r-fed-eyes-ability-of-asset-managers-to-repay-in-a-panic-2015-4"
         },
-        "proactiveinvestors.com/2015/04/brookfield-asset-management-buys-more-us-assets-proactive": {
-            "title": "Brookfield Asset Management buys more US assets - Proactive...",
-            "snippet": "Brookfield Asset Management Inc. is a global asset management company focused on property, power and infrastructure assets. The Company operates and manages the assets in Renewable Power Generation, commercial...",
+        "seismic.com/2015/04/asset-management-firms-must-personalize-the-advisor-experience": {
+            "title": "Asset Management Firms Must Personalize the Advisor Experience...",
+            "snippet": "Legacy systems, siloed functions, manual processes, and turf battles stand in the way of personalization for asset management firms. How can they get past them?",
             "date": "2015-04-22",
-            "author_name": "unknown",
-            "categories": "asset-management,management,property",
-            "tags": "renewable,infrastructure,brookfield,brookfield_asset,brookfield_asset_management,assets,asset_management,management,proactive,inc,global,company,property",
-            "recuweb_url": "http://en.recuweb.com/property/proactiveinvestors.com/2015/04/brookfield-asset-management-buys-more-us-assets-proactive",
-            "resource_url": "http://www.google.com/search?q=asset%2Bmanagement%2Basset%2Bmanagement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://proactiveinvestors.com/companies/news/61118/brookfield-asset-management-buys-more-us-assets-61118.html"
+            "author_name": "Alyssa Drury",
+            "categories": "asset-management,management",
+            "tags": "asset,asset_management,management",
+            "recuweb_url": "http://en.recuweb.com/management/seismic.com/2015/04/asset-management-firms-must-personalize-the-advisor-experience",
+            "resource_url": "http://www.google.com/search?q=asset%2Bmanagement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://seismic.com/blog/post/asset-management-firms-must-personalize-the-advisor-experience/"
         },
         "zacks.com/2015/04/why-brookfield-asset-management-bam-stock-might-be-a-great-pick": {
             "title": "Why Brookfield Asset Management (BAM) Stock Might be a Great Pick...",
@@ -49,9 +70,9 @@
             "date": "2015-04-22",
             "author_name": "Zacks Equity Research",
             "categories": "asset-management,management",
-            "tags": "great,stock,earnings,brookfield,brookfield_asset,brookfield_asset_management,asset,asset_management,management,company",
+            "tags": "great,company,stock,investors,earnings,asset,asset_management,management",
             "recuweb_url": "http://en.recuweb.com/management/zacks.com/2015/04/why-brookfield-asset-management-bam-stock-might-be-a-great-pick",
-            "resource_url": "http://www.google.com/search?q=asset%2Bmanagement%2Basset%2Bmanagement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=asset%2Bmanagement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://zacks.com/stock/news/171685/why-brookfield-asset-management-bam-stock-might-be-a-great-pick"
         },
         "seekingalpha.com/2015/04/ameriprise-fianancial-another-great-asset-management-company": {
@@ -60,10 +81,21 @@
             "date": "2015-04-21",
             "author_name": "SeekingAlpha.com",
             "categories": "asset-management,management",
-            "tags": "great,asset,asset_management,management,company",
+            "tags": "company,great,asset,asset_management,management",
             "recuweb_url": "http://en.recuweb.com/management/seekingalpha.com/2015/04/ameriprise-fianancial-another-great-asset-management-company",
             "resource_url": "http://www.google.com/search?q=asset%2Bmanagement%2Basset%2Bmanagement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://seekingalpha.com/article/3084506-ameriprise-fianancial-another-great-asset-management-company-to-consider"
+        },
+        "industryweek.com/2015/04/monitoring-asset-management-strategy-execution-with-kpis": {
+            "title": "Monitoring Asset Management Strategy Execution with KPIs...",
+            "snippet": "Using the ISO 55000 standard for reference, this article outlines how KPIs can be effectively deployed so that the asset management organization will not simply be efficient, but also effective for the greater organization.",
+            "date": "2015-04-21",
+            "author_name": "unknown",
+            "categories": "asset-management,management",
+            "tags": "asset,asset_management,management,using",
+            "recuweb_url": "http://en.recuweb.com/management/industryweek.com/2015/04/monitoring-asset-management-strategy-execution-with-kpis",
+            "resource_url": "http://www.google.com/search?q=asset%2Bmanagement%2Basset%2Bmanagement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://industryweek.com/maintenance/monitoring-asset-management-strategy-execution-kpis"
         },
         "controlglobal.com/2015/04/benefits-of-integrating-smart-i-o-in-asset-management-system": {
             "title": "Benefits of integrating smart I/O in asset management system...",
@@ -76,49 +108,16 @@
             "resource_url": "http://www.google.com/search?q=asset%2Bmanagement%2Basset%2Bmanagement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://controlglobal.com/articles/2015/benefits-of-integrating-smart-io-in-asset-management-system/"
         },
-        "therealdeal.com/2015/04/asset-management-firm-acquires-four-lenox-hill-the-real-deal": {
-            "title": "Asset management firm acquires four Lenox Hill... - The Real Deal...",
-            "snippet": "SRI LLC, a Midtown-based asset management firm, picked up four office condominium units in a mixed-use Lenox Hill building for 25.6 million.",
-            "date": "2015-04-17",
-            "author_name": "Rey Mashayekhi",
-            "categories": "management",
-            "tags": "real,asset,management,million",
-            "recuweb_url": "http://en.recuweb.com/management/therealdeal.com/2015/04/asset-management-firm-acquires-four-lenox-hill-the-real-deal",
-            "resource_url": "http://www.google.com/search?q=asset%2Bmanagement%2Basset%2Bmanagement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://therealdeal.com/blog/2015/04/17/asset-management-firm-acquires-four-lenox-hill-office-condos-for-26m/"
-        },
         "seekingalpha.com/2015/04/asset-managers-are-cheap-which-stock-stands-out-seeking": {
             "title": "Asset Managers Are Cheap - Which Stock Stands Out? Seeking...",
             "snippet": "I've been screening for opportunities over the past couple of weeks and asset management companies, like Franklin Resources (NYSE:BEN), T. Rowe Price.",
             "date": "2015-04-16",
             "author_name": "SeekingAlpha.com",
             "categories": "management",
-            "tags": "price,stock,asset,asset_managers,managers,management,nyse",
+            "tags": "price,stock,asset,managers,management,companies",
             "recuweb_url": "http://en.recuweb.com/management/seekingalpha.com/2015/04/asset-managers-are-cheap-which-stock-stands-out-seeking",
             "resource_url": "http://www.google.com/search?q=asset%2Bmanagement%2Basset%2Bmanagement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://seekingalpha.com/article/3075776-asset-managers-are-cheap-which-stock-stands-out"
-        },
-        "seismic.com/2015/04/asset-managers-top-players-doing-menial-tasks-seismic-software": {
-            "title": "Asset Managers'Top Players Doing Menial Tasks Seismic Software...",
-            "snippet": "One major challenge asset management firms experience is forcing their top performers to perform menial tasks in the name of cost cutting. It's not working.",
-            "date": "2015-04-15",
-            "author_name": "Alyssa Drury",
-            "categories": "management",
-            "tags": "software,asset,asset_managers,managers,management",
-            "recuweb_url": "http://en.recuweb.com/management/seismic.com/2015/04/asset-managers-top-players-doing-menial-tasks-seismic-software",
-            "resource_url": "http://www.google.com/search?q=asset%2Bmanagement%2Basset%2Bmanagement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://seismic.com/blog/post/opportunity-cost-asset-managers-top-players-doing-menial-tasks/"
-        },
-        "investopedia.com/2015/04/what-does-asset-management-mean-in-regards-to-real-estate": {
-            "title": "What does asset management mean in regards to real estate?",
-            "snippet": "Unlike real estate property managers, who handle the day-to-day activities related to a property's operation, real estate asset managers focus on maximizing property value for investment purposes. The purpose of asset management, whether...",
-            "date": "2015-04-08",
-            "author_name": "Investopedia",
-            "categories": "real-estate,management,property",
-            "tags": "focus,real,real-estate,estate,asset,management,property,managers",
-            "recuweb_url": "http://en.recuweb.com/property/investopedia.com/2015/04/what-does-asset-management-mean-in-regards-to-real-estate",
-            "resource_url": "http://www.google.com/search?q=asset%2Bmanagement%2Basset%2Bmanagement&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://investopedia.com/ask/answers/040815/what-does-asset-management-mean-regards-real-estate.asp"
         }
     }
 }
