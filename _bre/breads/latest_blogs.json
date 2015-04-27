@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "breads",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/breads/",
@@ -10,16 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/breads/breads/blogs.json"
     },
     "items": {
-        "breadexperience.com/2015/04/whole-grain-bread-recipes-experience": {
-            "title": "Whole Grain Bread Recipes - Bread Experience...",
-            "snippet": "Home Home Milling Whole Grain Breads. This section includes a variety of whole grain bread recipes that incorporate a portion of or all whole wheat flour to provide added nutrition and, einkorn, emmer, and triticale flour can all...",
+        "breadexperience.com/2015/04/bread-recipes-for-the-most-popular-breads-experience": {
+            "title": "Bread recipes for the most popular breads - Bread Experience...",
+            "snippet": "We've gathered a variety of bread recipes for your bread making enjoyment. Choose a recipe from our selection...",
             "date": "2015-04-20",
             "author_name": "unknown",
-            "categories": "home,breads",
-            "tags": "flour,wheat,nutrition,recipes,home,whole,grain,breads,bread,bread_experience,experience",
-            "recuweb_url": "http://en.recuweb.com/breads/breadexperience.com/2015/04/whole-grain-bread-recipes-experience",
+            "categories": "breads",
+            "tags": "recipes,breads,experience,making,choose,recipe",
+            "recuweb_url": "http://en.recuweb.com/breads/breadexperience.com/2015/04/bread-recipes-for-the-most-popular-breads-experience",
             "resource_url": "http://www.google.com/search?q=breads%2Bbreads&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://breadexperience.com/whole-grain-bread-recipes/"
+            "source_url": "http://breadexperience.com/bread-recipes/"
         },
         "nivedhanams.blogspot.com/2015/03/fire-up-the-ovenmega-baking-marathon": {
             "title": "Fire up the OvenMega Baking Marathon...",
@@ -27,7 +28,7 @@
             "date": "2015-03-29",
             "author_name": "Nivedhanams Sowmya",
             "categories": "marathon,breads",
-            "tags": "baking,cakes,quick,breads",
+            "tags": "oven,baking,cakes,quick,breads",
             "recuweb_url": "http://en.recuweb.com/breads/nivedhanams.blogspot.com/2015/03/fire-up-the-ovenmega-baking-marathon",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=breads%2Bbreads&rss=1&lng=en",
             "source_url": "http://nivedhanams.blogspot.com/2015/03/fire-up-ovenmega-baking-marathon.html"
@@ -37,7 +38,7 @@
             "snippet": "On his way out she says \"and if they have eggs, get a dozen\". The programmer husband returns home with 12 loaves of bread.... submitted by Ex1tStrategy to Jokes link 142 comments...",
             "date": "2015-03-16",
             "categories": "home",
-            "tags": "loaves,way,says,grocery,grocery-store,store,loaf,bread,home",
+            "tags": "way,grocery,grocery-store,store,loaf,bread,home",
             "recuweb_url": "http://en.recuweb.com/home/reddit.com/2015/03/a-wife-sends-her-programmer-husband-to-the-grocery-store",
             "resource_url": "http://www.reddit.com/search.rss?q=breads%2Bbreads&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/Jokes/comments/2z83kl/a_wife_sends_her_programmer_husband_to_the/"
@@ -48,7 +49,7 @@
             "date": "2015-03-16",
             "author_name": "Tess Liu",
             "categories": "home,breads",
-            "tags": "actually,quite,here,away,excited,try,bakery,home,breads",
+            "tags": "actually,quite,bakery,home,here,breads",
             "recuweb_url": "http://en.recuweb.com/breads/pastriesandshenanigans.wordpress.com/2015/03/wu-pao-chun-bakery",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=breads%2Bbreads&rss=1&lng=en",
             "source_url": "http://pastriesandshenanigans.wordpress.com/2015/03/16/wu-pao-chun-bakery/"
@@ -59,7 +60,7 @@
             "date": "2015-03-15",
             "author_name": "kuroneko147",
             "categories": "love,breads",
-            "tags": "good,cakes,after,bakery,breads,delicious,many,people,prefer",
+            "tags": "people,cakes,delicious,bakery,buy,breads",
             "recuweb_url": "http://en.recuweb.com/breads/soultastetination.wordpress.com/2015/03/bakery-hotel-ciputra",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=breads%2Bbreads&rss=1&lng=en",
             "source_url": "http://soultastetination.wordpress.com/2015/03/15/bakery-hotel-ciputra/"
@@ -70,16 +71,27 @@
             "date": "2015-03-14",
             "author_name": "PatrickWu",
             "categories": "breads",
-            "tags": "many,after,fermentation,first,breads,make",
+            "tags": "ate,breads",
             "recuweb_url": "http://en.recuweb.com/breads/201409patrick.wordpress.com/2015/03/reflection-of-fermentation-first-week",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=breads%2Bbreads&rss=1&lng=en",
             "source_url": "http://201409patrick.wordpress.com/2015/03/14/reflection-of-fermentation-first-week/"
+        },
+        "breadexperience.com/2014/12/spelt-bread-recipes-the-experience": {
+            "title": "Spelt Bread Recipes - The Bread Experience...",
+            "snippet": "Home Bread Recipes Spelt Bread Recipes. I enjoy using Spelt in breads for a number of reasons. It has a delicious, nutty flavor; it's fairly easy to find in stores or at the farmer's market; and it's a genetically unmodified grain. Spelt is one...",
+            "date": "2014-12-09",
+            "author_name": "unknown",
+            "categories": "home,breads",
+            "tags": "market,find,delicious,reasons,home,breads,bread_recipes,recipes,bread_experience,experience,spelt,easy",
+            "recuweb_url": "http://en.recuweb.com/breads/breadexperience.com/2014/12/spelt-bread-recipes-the-experience",
+            "resource_url": "http://www.google.com/search?q=breads%2Bbreads&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://breadexperience.com/spelt-bread/"
         },
         "reddit.com/2013/10/my-boss-saves-me-from-an-idiot-who-wants-bread": {
             "title": "My boss saves me from an idiot who wants bread.",
             "snippet": "So I work in the dairy aisle in a supermarket. It's a good job usually and like any supermarket job there are people that will come up and ask if you have a product. In this case we would tell them where it is and then just continue with our day.",
             "date": "2013-10-08",
-            "tags": "would,come,work,saves,bread,people",
+            "tags": "people,come,work,dairy,bread",
             "recuweb_url": "http://en.recuweb.com/reddit.com/2013/10/my-boss-saves-me-from-an-idiot-who-wants-bread",
             "resource_url": "http://www.reddit.com/search.rss?q=breads%2Bbreads&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/TalesFromRetail/comments/1o0ire/my_boss_saves_me_from_an_idiot_who_wants_bread/"
@@ -88,30 +100,21 @@
             "title": "French Bread Solution...",
             "snippet": "The grocery store I used to work for was completely open to hiring people who had special needs, or were extremely socially awkward. This wasn't a problem and they, just like anyone else, were solid grocery baggers who would chit-chat with...",
             "date": "2013-05-30",
-            "tags": "grocery,would,anyone,special,work,grocery-store,store,french,french_bread,bread,solution,people",
+            "tags": "grocery,work,open,people,special,grocery-store,store,french,french_bread,bread",
             "recuweb_url": "http://en.recuweb.com/reddit.com/2013/05/french-bread-solution",
             "resource_url": "http://www.reddit.com/search.rss?q=breads%2Bbreads&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/TalesFromRetail/comments/1fc1vk/french_bread_solution/"
         },
-        "reddit.com/2011/07/why-aren-t-there-loaves-of-bread-packaged-for-single-people": {
-            "title": "Why aren't there loaves of bread packaged for single people?",
-            "snippet": "Whenever I pick up a loaf of bread from the store, there always seems to be way too many pieces in a loaf. Most of the time I can maybe get through half a loaf of bread before it goes stale or starts to mold. My Question is: Why not sell bread in 10...",
-            "date": "2011-07-11",
-            "tags": "goes,starts,way,many,store,loaves,bread,people,loaf",
-            "recuweb_url": "http://en.recuweb.com/reddit.com/2011/07/why-aren-t-there-loaves-of-bread-packaged-for-single-people",
-            "resource_url": "http://www.reddit.com/search.rss?q=breads%2Bbreads&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/AskReddit/comments/immp2/why_arent_there_loaves_of_bread_packaged_for/"
-        },
-        "breadexperience.com/2011/05/how-to-make-sprouted-bread-experience": {
-            "title": "How to Make Sprouted Bread - Bread Experience...",
-            "snippet": "Using sprouted wheat in breads adds unique texture and crunch to the loaves, and it greatly enhances the nutrition and digestibility of the grains. So not only do these types of breads taste great, but they are better for you, and are generally...",
-            "date": "2011-05-03",
+        "breadexperience.com/2012/06/healthy-bread-recipes-experience": {
+            "title": "Healthy Bread Recipes - Bread Experience...",
+            "snippet": "This section includes an assortment of healthy bread recipes. Many of these breads are made with whole wheat, some are gluten-free and some are made with a combination of wheat and gluten-free flour. Healthy Breads. Spelt flour, kamut...",
+            "date": "2012-06-01",
             "author_name": "unknown",
             "categories": "breads",
-            "tags": "nutrition,loaves,wheat,breads,bread_experience,experience,make,using,great",
-            "recuweb_url": "http://en.recuweb.com/breads/breadexperience.com/2011/05/how-to-make-sprouted-bread-experience",
-            "resource_url": "http://www.google.com/search?q=breads%2Bbreads&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://breadexperience.com/sprouted-bread/"
+            "tags": "healthy,breads,bread,made,wheat,bread_experience,experience,bread_recipes,recipes,whole,flour,spelt",
+            "recuweb_url": "http://en.recuweb.com/breads/breadexperience.com/2012/06/healthy-bread-recipes-experience",
+            "resource_url": "http://www.google.com/search?q=breads&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://breadexperience.com/healthy-bread-recipes/"
         }
     }
 }
