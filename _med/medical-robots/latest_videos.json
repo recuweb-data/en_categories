@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "medical-robots",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/medical-robots/",
@@ -10,13 +11,37 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/medical-robots/medical-robots/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/agv-robots-at-rush-university-medical-center": {
+            "title": "AGV Robots at Rush University Medical Center...",
+            "snippet": "AGV Robots at Rush University Medical CenterAuthor: MurrayToyTags: AGV Robots at Rush University Medical Center Posted: 07 April 2015Rating:: 0...",
+            "date": "2015-04-07",
+            "author_name": "MurrayToy",
+            "categories": "university",
+            "tags": "university,medical,robots",
+            "recuweb_url": "http://en.recuweb.com/university/dailymotion.com/2015/04/agv-robots-at-rush-university-medical-center",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/medical+robots+medical+robots/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2m01ox_agv-robots-at-rush-university-medical-center_auto",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2m01ox_agv-robots-at-rush-university-medical-center_auto"
+        },
+        "youtube.com/2015/03/deploy-pioneering-medical-robots-in-germany": {
+            "title": "Deploy Pioneering Medical Robots in Germany...",
+            "snippet": "Deploy Pioneering Medical Robots in Germany In Germany, Japan's advanced robotic technology contributes to medical treatment for patients with mobility problems. Robots developed by Professor Sankai of the University of Tsukuba have... From: Prime...",
+            "date": "2015-03-16",
+            "author_name": "Prime Minister's Office of Japan",
+            "categories": "technology,medical-robots,university",
+            "tags": "medical,treatment,medical_robots,robots,university",
+            "recuweb_url": "http://en.recuweb.com/university/youtube.com/2015/03/deploy-pioneering-medical-robots-in-germany",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=medical%2Brobots%2Bmedical%2Brobots&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=jn94x3yApqA&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/jn94x3yApqA/0.jpg"
+        },
         "youtube.com/2014/10/vts-16-1-medical-robots-final-version": {
             "title": "VTS 16 1: Medical Robots:Final Version...",
-            "snippet": "VTS 16 1: Medical Robots:Final Version Informative Speech. From: rojcoker77 Views: 176 0 ratings Time: 07:02 More in People & Blogs...",
+            "snippet": "VTS 16 1: Medical Robots:Final Version Informative Speech. From: rojcoker77 Views: 263 1 ratings Time: 07:02 More in People & Blogs...",
             "date": "2014-10-10",
             "author_name": "rojcoker77",
             "categories": "medical-robots",
-            "tags": "informative,speech,medical,medical_robots,robots,people",
+            "tags": "medical,medical_robots,robots",
             "recuweb_url": "http://en.recuweb.com/medical-robots/youtube.com/2014/10/vts-16-1-medical-robots-final-version",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=medical%2Brobots%2Bmedical%2Brobots&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=nPgQsMdWg_8&feature=youtube_gdata",
@@ -33,18 +58,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/medical+robots+medical+robots/0?af=1",
             "source_url": "http://dailymotion.com/video/x22dcaf_worldwide-forecast-of-medical-robots-industry-to-2018_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x22dcaf_worldwide-forecast-of-medical-robots-industry-to-2018_news"
-        },
-        "youtube.com/2014/04/meet-hope-and-mona-medical-center-of-mckinney-surgical-robots": {
-            "title": "Meet HOPE and MONA - Medical Center of McKinney Surgical Robots...",
-            "snippet": "Meet HOPE and MONA - Medical Center of McKinney Surgical Robots The newest members of Medical Center of McKinney's surgical team officially have names thanks to two creative McKinney ISD elementary students. Addison Cusac... From: MedCtrMcKinney...",
-            "date": "2014-04-04",
-            "author_name": "MedCtrMcKinney",
-            "categories": "students",
-            "tags": "thanks,robots,medical",
-            "recuweb_url": "http://en.recuweb.com/students/youtube.com/2014/04/meet-hope-and-mona-medical-center-of-mckinney-surgical-robots",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=medical%2Brobots&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=uM4ikXFjxn8&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/uM4ikXFjxn8/0.jpg"
         },
         "youtube.com/2014/02/the-new-frontier-of-medical-robots-a-world-economic-forum-discussion": {
             "title": "The New Frontier of Medical Robots-A World Economic Forum Discussion-Ideas Davos-WIRED Live...",
@@ -70,16 +83,17 @@
             "source_url": "http://dailymotion.com/video/x1cknxq_wired-live-the-new-frontier-of-medical-robots_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1cknxq_wired-live-the-new-frontier-of-medical-robots_tech"
         },
-        "dailymotion.com/2013/11/doctors-beamed-up-by-robots": {
-            "title": "Doctors beamed up by robots...",
-            "snippet": "Thanks to new remote-controlled robots, introduced in hospitals across California and some other US states, doctors are now able to beam themselves into patients rooms and offer medical advice during physician can log into the device by using a...",
-            "date": "2013-11-20",
-            "author_name": "euronews-en",
-            "tags": "medical,using,doctors,robots,thanks",
-            "recuweb_url": "http://en.recuweb.com/dailymotion.com/2013/11/doctors-beamed-up-by-robots",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/medical+robots/0?af=1",
-            "source_url": "http://dailymotion.com/video/x17f5do_doctors-beamed-up-by-robots_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x17f5do_doctors-beamed-up-by-robots_news"
+        "youtube.com/2014/01/ces-day-1-takanori-shibata-and-medical-robots": {
+            "title": "CES Day 1: Takanori Shibata and Medical Robots...",
+            "snippet": "CES Day 1: Takanori Shibata and Medical Robots Takanori Shibata shows Robothespian and attendees at CES his medical device robot Paro. While it may only look like a stuffed animal, Paro is covered in tactile sensors and is FDA approved... From:...",
+            "date": "2014-01-08",
+            "author_name": "IEEEorg",
+            "categories": "medical-robots",
+            "tags": "medical,robots,medical_robots,shows",
+            "recuweb_url": "http://en.recuweb.com/medical-robots/youtube.com/2014/01/ces-day-1-takanori-shibata-and-medical-robots",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=medical%2Brobots%2Bmedical%2Brobots&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=Uief0zpLTf0&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Uief0zpLTf0/0.jpg"
         },
         "dailymotion.com/2013/11/robots-assist-doctors-at-mercy-san-juan-hospital": {
             "title": "Robots assist doctors at Mercy San Juan Hospital...",
@@ -87,7 +101,7 @@
             "date": "2013-11-20",
             "author_name": "KCRA",
             "categories": "medical-robots,medical-treatments",
-            "tags": "robots,doctors,medical,using",
+            "tags": "robots,medical,treatment",
             "recuweb_url": "http://en.recuweb.com/medical-treatments/dailymotion.com/2013/11/robots-assist-doctors-at-mercy-san-juan-hospital",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/medical+robots+medical+robots/0?af=1",
             "source_url": "http://dailymotion.com/video/x17fi3e_robots-assist-doctors-at-mercy-san-juan-hospital_news",
@@ -95,35 +109,23 @@
         },
         "youtube.com/2013/10/medical-robots-in-action-ivar-mendez-at-tedxtoronto": {
             "title": "Medical robots in action: Ivar Mendez at TEDxToronto...",
-            "snippet": "Medical robots in action: Ivar Mendez at TEDxToronto The fifth annual TEDxToronto conference took place on September 26, 2013 at The Royal Conservatory of Music. For our 2013 TEDxToronto Conference, all talks,... From: TEDx Talks Views: 4981 16...",
+            "snippet": "Medical robots in action: Ivar Mendez at TEDxToronto The fifth annual TEDxToronto conference took place on September 26, 2013 at The Royal Conservatory of Music. For our 2013 TEDxToronto Conference, all talks, performances and demos were rooted...",
             "date": "2013-10-16",
             "author_name": "TEDx Talks",
             "categories": "music",
-            "tags": "tedx,tedx_talks,talks,robots,medical",
+            "tags": "robots,medical",
             "recuweb_url": "http://en.recuweb.com/music/youtube.com/2013/10/medical-robots-in-action-ivar-mendez-at-tedxtoronto",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=medical%2Brobots%2Bmedical%2Brobots&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=FQU2w-OPz90&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/FQU2w-OPz90/0.jpg"
         },
-        "youtube.com/2013/09/informative-speech-what-needs-improvement-medical-robots": {
-            "title": "Informative Speech: What Needs Improvement? Medical Robots...",
-            "snippet": "Informative Speech: What Needs Improvement? Medical Robots From: Liz Bockman Views: 382 0 ratings Time: 03:25 More in People & Blogs...",
-            "date": "2013-09-30",
-            "author_name": "Liz Bockman",
-            "categories": "medical-robots",
-            "tags": "medical,medical_robots,robots,informative,speech,people",
-            "recuweb_url": "http://en.recuweb.com/medical-robots/youtube.com/2013/09/informative-speech-what-needs-improvement-medical-robots",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=medical%2Brobots%2Bmedical%2Brobots&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=TlYRkVgsHMk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/TlYRkVgsHMk/0.jpg"
-        },
         "youtube.com/2012/11/building-medical-robots-bacteria-sized-bradley-nelson-at-tedxzurich": {
             "title": "Building Medical Robots, Bacteria sized: Bradley Nelson at TEDxZurich...",
-            "snippet": "Building Medical Robots, Bacteria sized: Bradley Nelson at TEDxZurich We learned of the existence of bacteria over 300 years ago and we have far more of them in our bodies than human cells, but it was less than 40 years ago whe... From: TEDx Talks...",
+            "snippet": "Building Medical Robots, Bacteria sized: Bradley Nelson at TEDxZurich We learned of the existence of bacteria over 300 years ago and we have far more of them in our bodies than human cells, but it was less than 40 years ago when we first realized...",
             "date": "2012-11-28",
             "author_name": "TEDx Talks",
             "categories": "medical-robots",
-            "tags": "tedx,tedx_talks,talks,medical,medical_robots,robots",
+            "tags": "medical,medical_robots,robots",
             "recuweb_url": "http://en.recuweb.com/medical-robots/youtube.com/2012/11/building-medical-robots-bacteria-sized-bradley-nelson-at-tedxzurich",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=medical%2Brobots%2Bmedical%2Brobots&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=DfV8xu2nHy4&feature=youtube_gdata",
