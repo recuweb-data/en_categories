@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "public-sector",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/public-sector/",
@@ -10,101 +11,103 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/public-sector/public-sector/blogs.json"
     },
     "items": {
-        "economictimes.indiatimes.com/2015/04/government-hunting-non-executive-chairmen-for-public-sector-banks-economic-times": {
-            "title": "Government hunting non-executive chairmen for public sector banks - Economic Times...",
-            "snippet": "Government hunting non-executive chairmen for public sector banksEconomic TimesNEW DELHI: Government is in the process of finding non-executive chairmen for public sector banks and it has already appointed managing directors and chief executive...",
+        "900chml.com/2015/04/managing-public-sector-compensation-easier-said-than-done-am900-chml": {
+            "title": "'Managing Public Sector Compensation'Easier Said Than Done - AM900 CHML...",
+            "snippet": "'Managing Public Sector Compensation'Easier Said Than DoneAM900 CHMLSousa stated that for the government to deal with the massive deficit, they will have to 'manage the compensation of public employees'. That's a benign way of stating that they will...",
+            "date": "2015-04-24",
+            "categories": "public-sector",
+            "tags": "government,managing,public,public_sector,sector,employees",
+            "recuweb_url": "http://en.recuweb.com/public-sector/900chml.com/2015/04/managing-public-sector-compensation-easier-said-than-done-am900-chml",
+            "resource_url": "http://news.google.com/?hl=en&q=public%2Bsector&output=atom&nord=1",
+            "source_url": "http://900chml.com/2015/04/24/managing-public-sector-compensation-easier-said-than-done/"
+        },
+        "economictimes.indiatimes.com/2015/04/government-hunting-non-executive-chairmen-for-public-sector-banks": {
+            "title": "Government hunting non-executive chairmen for public sector banks...",
+            "snippet": "NEW DELHI: Government is in the process of finding non-executive chairmen for public sector banks and it has already appointed managing directors and chief executive officers in five public sector banks. The government has appointed MD & CEOs in...",
             "date": "2015-04-24",
             "categories": "hunting",
-            "tags": "government,public,sector",
-            "recuweb_url": "http://en.recuweb.com/hunting/economictimes.indiatimes.com/2015/04/government-hunting-non-executive-chairmen-for-public-sector-banks-economic-times",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bsector%2Bpublic%2Bsector&output=atom&nord=1",
+            "tags": "government,managing,public,sector",
+            "recuweb_url": "http://en.recuweb.com/hunting/economictimes.indiatimes.com/2015/04/government-hunting-non-executive-chairmen-for-public-sector-banks",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=public%2Bsector&format=RSS&cc=us",
             "source_url": "http://economictimes.indiatimes.com/industry/banking/finance/banking/government-hunting-non-executive-chairmen-for-public-sector-banks/articleshow/47038436.cms"
+        },
+        "itv.com/2015/04/jersey-public-sector-workers-pay-freeze": {
+            "title": "Jersey public sector workers pay freeze...",
+            "snippet": "Jersey's government has announced a public sector pay freeze for 2015. Unions were warned there would be no cost of living increase for 2015 for all workers, except nurses and midwives who will receive a 0.4% increase. Jersey's government has...",
+            "date": "2015-04-24",
+            "tags": "government,increase,except,except-nurses,nurses,nurses-and-midwives,midwives,workers,warned,warned-there-would,cost,cost-of-living,living,pay,pay-freeze,freeze,government-has-announced,announced,jersey,public,sector,unions",
+            "recuweb_url": "http://en.recuweb.com/itv.com/2015/04/jersey-public-sector-workers-pay-freeze",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=public%2Bsector&format=RSS&cc=us",
+            "source_url": "http://itv.com/news/channel/story/2015-04-24/jersey-public-sector-workers-pay-freeze/"
+        },
+        "am980.ca/2015/04/opposition-parties-public-sector-unions-slam-ontario-budget-am980-london-news": {
+            "title": "Opposition Parties, Public Sector Unions Slam Ontario Budget - Am980 London News...",
+            "snippet": "Am980 London NewsOpposition Parties, Public Sector Unions Slam Ontario BudgetAm980 London NewsThe opposition parties say the 2015 Ontario budget will mean higher electricity rates, fewer nurses in hospitals and cuts to other government services...",
+            "date": "2015-04-24",
+            "categories": "public-sector",
+            "tags": "nurses,government,public,public_sector,sector,unions",
+            "recuweb_url": "http://en.recuweb.com/public-sector/am980.ca/2015/04/opposition-parties-public-sector-unions-slam-ontario-budget-am980-london-news",
+            "resource_url": "http://news.google.com/?hl=en&q=public%2Bsector&output=atom&nord=1",
+            "source_url": "http://am980.ca/2015/04/24/opposision-parties-react-to-2015-ontario-budget/"
+        },
+        "jerseyeveningpost.com/2015/04/pay-freeze-for-all-public-sector-workers": {
+            "title": "Pay freeze for all public sector workers...",
+            "snippet": "PUBLIC sector workers will have their pay frozen for 2015, the States Employment Board has announced. The pay freeze, which covers all public sector workers except nurses and midwives, was revealed to employees after members of the States Employment...",
+            "date": "2015-04-24",
+            "categories": "employment",
+            "tags": "states,employees,workers,except,except-nurses,nurses,nurses-and-midwives,midwives,pay,pay-freeze,freeze,announced,public,sector",
+            "recuweb_url": "http://en.recuweb.com/employment/jerseyeveningpost.com/2015/04/pay-freeze-for-all-public-sector-workers",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=public%2Bsector&format=RSS&cc=us",
+            "source_url": "http://jerseyeveningpost.com/news/2015/04/24/pay-freeze-for-all-public-sector-workers/"
         },
         "itv.com/2015/04/pay-freeze-for-public-sector-workers-in-jersey-itv-news": {
             "title": "Pay freeze for public sector workers in Jersey - ITV News...",
-            "snippet": "Pay freeze for public sector workers in JerseyITV NewsJersey public sector workers pay freeze. Jersey's government has announced a public sector pay freeze for 2015. Unions were warned there would be no cost of living increase for 2015 for all...",
+            "snippet": "Pay freeze for public sector workers in JerseyITV NewsJersey's government has announced a public sector pay freeze. The States met with unions yesterday to explain plans for staff pay this year. Unions were warned there would be no cost of living...",
             "date": "2015-04-24",
-            "tags": "warned,would,pay,government,announced,workers,public,sector,unions",
+            "tags": "warned,warned-there-would,cost,cost-of-living,living,unions,pay,pay-freeze,freeze,government,government-has-announced,announced,workers,public,sector,jersey,states",
             "recuweb_url": "http://en.recuweb.com/itv.com/2015/04/pay-freeze-for-public-sector-workers-in-jersey-itv-news",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bsector%2Bpublic%2Bsector&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=public%2Bsector&output=atom&nord=1",
             "source_url": "http://itv.com/news/channel/update/2015-04-24/pay-freeze-for-public-sector-workers-in-jersey/"
         },
+        "timesofindia.indiatimes.com/2015/04/seminar-on-make-in-india-for-defence": {
+            "title": "Seminar on Make in India for defence...",
+            "snippet": "Various sessions on challenges in defence manufacturing and suggested solutions, policy imperatives for Make in India, industry-public sector partnership for Make in India among others will also be conducted.",
+            "date": "2015-04-24",
+            "categories": "policy",
+            "tags": "policy,challenges,various,public,sector",
+            "recuweb_url": "http://en.recuweb.com/policy/timesofindia.indiatimes.com/2015/04/seminar-on-make-in-india-for-defence",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=public%2Bsector&format=RSS&cc=us",
+            "source_url": "http://timesofindia.indiatimes.com/city/pune/Seminar-on-Make-in-India-for-defence/articleshow/47041801.cms"
+        },
+        "allafrica.com/2015/04/south-africa-public-sector-wage-demand-unsustainable": {
+            "title": "South Africa: Public Sector Wage Demand Unsustainable...",
+            "snippet": "The DA calls on the Acting Minister of Public Service and Administration, Nathi Mthethwa, to immediately engage with the various unions on their demands for a 10% increase in salaries following the ongoing public sector workers strike. We are of the...",
+            "date": "2015-04-24",
+            "categories": "public-sector",
+            "tags": "workers,increase,various,unions,demand,public,public_sector,sector,administration",
+            "recuweb_url": "http://en.recuweb.com/public-sector/allafrica.com/2015/04/south-africa-public-sector-wage-demand-unsustainable",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=public%2Bsector&format=RSS&cc=us",
+            "source_url": "http://allafrica.com/stories/201504240138.html"
+        },
+        "ewn.co.za/2015/04/cosatu-unions-march-for-better-public-sector-wages-eyewitness-news": {
+            "title": "Cosatu unions march for better public sector wages - Eyewitness News...",
+            "snippet": "Eyewitness NewsCosatu unions march for better public sector wagesEyewitness NewsSome of the posters being displayed read, Forward with inquiry into public health spending. The significant turnout is Cosatu's strongest show force since the start of...",
+            "date": "2015-04-23",
+            "categories": "health",
+            "tags": "unions,public,sector",
+            "recuweb_url": "http://en.recuweb.com/health/ewn.co.za/2015/04/cosatu-unions-march-for-better-public-sector-wages-eyewitness-news",
+            "resource_url": "http://news.google.com/?hl=en&q=public%2Bsector&output=atom&nord=1",
+            "source_url": "http://ewn.co.za/2015/04/23/Cosatu-unions-march-for-better-public-sector-wages"
+        },
         "greece.greekreporter.com/2015/04/greek-finmin-demand-for-further-austerity-in-the-public-sector-irrational": {
-            "title": "Greek FinMin: Demand for Further Austerity in the Public Sector Irrational - Greek Reporter...",
-            "snippet": "Greek ReporterGreek FinMin: Demand for Further Austerity in the Public Sector IrrationalGreek ReporterA troika demand for further austerity and shrinking of the public sector, without taking in mind the impact on the Greek society and economy,...",
+            "title": "Greek FinMin: Demand for Further Austerity in the Public Sector Irrational...",
+            "snippet": "A troika demand for further austerity and shrinking of the public sector, without taking in mind the impact on the Greek society and economy, serves only a strict implementation of lending terms and it is not based on some macro-economic model,...",
             "date": "2015-04-23",
             "categories": "society,economy,mind,public-sector",
-            "tags": "demand,austerity,public,public_sector,sector,greek",
+            "tags": "demand,public,public_sector,sector",
             "recuweb_url": "http://en.recuweb.com/public-sector/greece.greekreporter.com/2015/04/greek-finmin-demand-for-further-austerity-in-the-public-sector-irrational",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bsector%2Bpublic%2Bsector&output=atom&nord=1",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=public%2Bsector&format=RSS&cc=us",
             "source_url": "http://greece.greekreporter.com/2015/04/23/greek-finmin-demand-for-further-austerity-in-the-public-sector-irrational/"
-        },
-        "bdlive.co.za/2015/04/public-sector-demand-will-bust-budget-by-r50bn-bdlive": {
-            "title": "Public sector demand will bust budget by R50bn - BDlive...",
-            "snippet": "Public sector demand will bust budget by R50bnBDliveA SENIOR government official warned on Wednesday that the wage demands of public sector unions are unaffordable and would add R50bn to the budget. Finance Minister Nhlanhla Nene has said a 10%...",
-            "date": "2015-04-23",
-            "categories": "finance",
-            "tags": "unions,would,demands,demand,government,warned,public,sector,wednesday",
-            "recuweb_url": "http://en.recuweb.com/finance/bdlive.co.za/2015/04/public-sector-demand-will-bust-budget-by-r50bn-bdlive",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bsector%2Bpublic%2Bsector&output=atom&nord=1",
-            "source_url": "http://bdlive.co.za/national/labour/2015/04/23/public-sector-demand-will-bust-budget-by-r50bn"
-        },
-        "ewn.co.za/2015/04/thousands-of-public-sector-unions-members-to-march-pretoria-eyewitness-news": {
-            "title": "Thousands of public sector unions members to march to Pretoria - Eyewitness News...",
-            "snippet": "Eyewitness NewsThousands of public sector unions members to march to PretoriaEyewitness NewsJOHANNESBURG Congress of South African Trade Unions (Cosatu)'s public sector unions say thousands of workers will march to the National Treasury in Pretoria...",
-            "date": "2015-04-23",
-            "tags": "unions,workers,public,sector",
-            "recuweb_url": "http://en.recuweb.com/ewn.co.za/2015/04/thousands-of-public-sector-unions-members-to-march-pretoria-eyewitness-news",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bsector%2Bpublic%2Bsector&output=atom&nord=1",
-            "source_url": "http://ewn.co.za/2015/04/23/Thousands-of-Public-sector-unions-members-to-march-to-Pretoria"
-        },
-        "theguardian.com/2015/04/nick-clegg-vows-to-end-public-sector-pay-cuts-the-guardian": {
-            "title": "Nick Clegg vows to end public sector pay cuts - The Guardian...",
-            "snippet": "The GuardianNick Clegg vows to end public sector pay cutsThe GuardianThe Liberal Democrats would end public sector pay cuts if they were returned to government, guaranteeing that salaries rise by at least inflation, Nick Clegg has announced. Public...",
-            "date": "2015-04-22",
-            "categories": "inflation",
-            "tags": "announced,pay,government,would,guardianthe,public,sector,guardian",
-            "recuweb_url": "http://en.recuweb.com/inflation/theguardian.com/2015/04/nick-clegg-vows-to-end-public-sector-pay-cuts-the-guardian",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bsector%2Bpublic%2Bsector&output=atom&nord=1",
-            "source_url": "http://theguardian.com/politics/2015/apr/22/lib-dems-would-end-public-sector-pay-cuts-nick-clegg"
-        },
-        "abcnews.go.com/2015/04/transport-chaos-as-public-sector-strike-hits-brussels-abc-news": {
-            "title": "Transport Chaos as Public Sector Strike Hits Brussels - ABC News...",
-            "snippet": "Transport Chaos as Public Sector Strike Hits BrusselsABC NewsMuch of the transport in Europe's capital, Brussels, came to a halt Wednesday as public sector workers held a one-day strike over Belgian government austerity measures. International train...",
-            "date": "2015-04-22",
-            "categories": "public-sector",
-            "tags": "government,austerity,workers,public,public_sector,sector,wednesday",
-            "recuweb_url": "http://en.recuweb.com/public-sector/abcnews.go.com/2015/04/transport-chaos-as-public-sector-strike-hits-brussels-abc-news",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bsector%2Bpublic%2Bsector&output=atom&nord=1",
-            "source_url": "http://abcnews.go.com/International/wireStory/transport-chaos-public-sector-strike-hits-brussels-30492512"
-        },
-        "theguardian.com/2015/04/athens-demands-cash-reserves-from-public-sector-funds-the-guardian": {
-            "title": "Athens demands cash reserves from public sector funds - The Guardian...",
-            "snippet": "The GuardianAthens demands cash reserves from public sector fundsThe GuardianThe Greek government has issued a decree forcing public sector bodies to transfer idle cash reserves to the central bank in a sign of how severe the country's cash crunch...",
-            "date": "2015-04-20",
-            "tags": "central,government,guardianthe,greek,demands,public,sector,guardian",
-            "recuweb_url": "http://en.recuweb.com/theguardian.com/2015/04/athens-demands-cash-reserves-from-public-sector-funds-the-guardian",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bsector%2Bpublic%2Bsector&output=atom&nord=1",
-            "source_url": "http://theguardian.com/business/2015/apr/20/athens-issues-decree-demanding-cash-reserves-from-local-government"
-        },
-        "ukauthority.com/2015/04/digital-scotland-shows-green-route": {
-            "title": "Digital Scotland shows green route...",
-            "snippet": "Public sector organisations in Scotland have been urged to rationalise their data centres, look at maturity models for procurement and re-use and recycle more of their ICT as part of a nationwide green strategy. The recommendations are included in...",
-            "date": "2015-04-14",
-            "tags": "public,sector",
-            "recuweb_url": "http://en.recuweb.com/ukauthority.com/2015/04/digital-scotland-shows-green-route",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=public%2Bsector%2Bpublic%2Bsector&format=RSS&cc=us",
-            "source_url": "http://ukauthority.com/news/5304/digital-scotland-shows-green-route"
-        },
-        "newindianexpress.com/2015/03/cvc-advices-central-public-sector-enterprises-to-handover-fraud-cases-cbi": {
-            "title": "CVC Advices Central Public Sector Enterprises to Handover Fraud Cases to CBI - The New Indian...",
-            "snippet": "The New Indian ExpressCVC Advices Central Public Sector Enterprises to Handover Fraud Cases to CBIThe New Indian ExpressThe Central Vigilance Commission has told the central public sector enterprises (CPSEs) that all cases of fraud of over Rs 25...",
-            "date": "2015-03-22",
-            "categories": "public-sector",
-            "tags": "central,public,public_sector,sector",
-            "recuweb_url": "http://en.recuweb.com/public-sector/newindianexpress.com/2015/03/cvc-advices-central-public-sector-enterprises-to-handover-fraud-cases-cbi",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bsector&output=atom&nord=1",
-            "source_url": "http://newindianexpress.com/nation/CVC-Advices-Central-Public-Sector-Enterprises-to-Handover-Fraud-Cases-to-CBI/2015/03/22/article2724986.ece"
         }
     }
 }
