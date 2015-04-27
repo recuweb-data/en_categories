@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "apple-hardware",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/apple-hardware/",
@@ -10,40 +11,77 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/apple-hardware/apple-hardware/blogs.json"
     },
     "items": {
-        "electronista.com/2015/04/investment-bank-bets-aapl-will-hit-185-become-trillion-dollar-firm": {
-            "title": "Investment bank bets AAPL will hit 185, become trillion-dollar firm...",
-            "snippet": "AAPL year to date performance Increased sales of Apple hardware, including Macs and Apple Watches in the US and European markets alongside rising iPhone and iPad growth in China and other emerging markets will keep the hardware side highly...",
-            "date": "2015-04-23",
-            "categories": "markets,iphone,ipad",
-            "tags": "other,sales,year,aapl,apple,hardware,iphone,ipad",
-            "recuweb_url": "http://en.recuweb.com/ipad/electronista.com/2015/04/investment-bank-bets-aapl-will-hit-185-become-trillion-dollar-firm",
+        "wsj.com/2015/04/strong-iphone-sales-will-power-apples-encore": {
+            "title": "Strong iPhone Sales Will Power Apples Encore...",
+            "snippet": "Apples website says new orders wont ship until June. The Watch is the first all-new piece of Apple hardware since the iPad in 2010. It is an important litmus test of the companys ability to continue to innovate, but its financial impact is...",
+            "date": "2015-04-27",
+            "categories": "iphone,ipad",
+            "tags": "test,continue,iphone,sales,power,apple,hardware,ipad",
+            "recuweb_url": "http://en.recuweb.com/ipad/wsj.com/2015/04/strong-iphone-sales-will-power-apples-encore",
             "resource_url": "http://www.bing.com/news/search?first=1&q=apple%2Bhardware&format=RSS&cc=us",
-            "source_url": "http://electronista.com/articles/15/04/23/apple.is.three.quarters.to.previously.unthinkable.all.time.world.record/"
+            "source_url": "http://wsj.com/articles/strong-iphone-sales-will-power-apples-encore-1430072143?mod=LS1"
         },
-        "bgr.com/2015/04/jony-ive-is-the-new-steve-jobs": {
+        "dayherald.com/2015/04/apple-ipad-mini-4-hardware-speculations-and-price-rumors-reports-indicate": {
+            "title": "Apple iPad Mini 4 Hardware Speculations and Price Rumors, Reports Indicate... - Day Herald...",
+            "snippet": "Day HeraldApple iPad Mini 4 Hardware Speculations and Price Rumors, Reports Indicate...Day HeraldCurrently, Apple's upcoming mega tablet, the Apple iPad Pro has been the major topic of discussion. At the same time, the Apple iPad Mini 4 has started...",
+            "date": "2015-04-26",
+            "categories": "ipad",
+            "tags": "ipad,pro,hardware,apple",
+            "recuweb_url": "http://en.recuweb.com/ipad/dayherald.com/2015/04/apple-ipad-mini-4-hardware-speculations-and-price-rumors-reports-indicate",
+            "resource_url": "http://news.google.com/?hl=en&q=apple%2Bhardware&output=atom&nord=1",
+            "source_url": "http://dayherald.com/apple-ipad-mini-4-hardware-speculations-and-price-rumors-reports-indicate-slimmest-tablet-with-a9-processor/2104/"
+        },
+        "finance.yahoo.com/2015/04/fbr-answers-questions-about-1-trillion-apple-valuation": {
+            "title": "FBR Answers Questions About 1 Trillion Apple Valuation...",
+            "snippet": "Whether it be via the Apple Watch or other Apple hardware and/or software, analysts believe that Apple is in prime position to capitalize. At Its Size, Can Apple Continue To Deliver Solid Execution/Growth? Despite many initial critics of the new...",
+            "date": "2015-04-26",
+            "tags": "continue,believe,other,via,apple,hardware,software",
+            "recuweb_url": "http://en.recuweb.com/finance.yahoo.com/2015/04/fbr-answers-questions-about-1-trillion-apple-valuation",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=apple%2Bhardware&format=RSS&cc=us",
+            "source_url": "http://finance.yahoo.com/news/fbr-answers-questions-1-trillion-163714424.html"
+        },
+        "computerworld.com.au/2015/04/apple-watch-apps-australia-roundup": {
+            "title": "Apple Watch apps Australia roundup...",
+            "snippet": "Read more Commonwealth Bank pilots Android smart watch app Once the Apple hardware arrives in Australia and we have fully tested the app we will announce a launch date, said a CBA spokesperson. Australia Post customers will be able to view parcel...",
+            "date": "2015-04-24",
+            "tags": "able,tested,app,apple,android,smart,hardware",
+            "recuweb_url": "http://en.recuweb.com/computerworld.com.au/2015/04/apple-watch-apps-australia-roundup",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=apple%2Bhardware&format=RSS&cc=us",
+            "source_url": "http://computerworld.com.au/article/573418/apple-watch-apps-australia-roundup/"
+        },
+        "seekingalpha.com/2015/04/apple-ibm-an-engagement-focused-on-healthcare-analytics": {
+            "title": "Apple, IBM: An Engagement Focused On Healthcare Analytics...",
+            "snippet": "When Apple and IBM announced a partnership last summer to transform enterprise mobility, my first impression was that the deal would be primarily focused on pushing Apple hardware to corporations, as well as incorporating IBM applications and...",
+            "date": "2015-04-24",
+            "tags": "apple,hardware",
+            "recuweb_url": "http://en.recuweb.com/seekingalpha.com/2015/04/apple-ibm-an-engagement-focused-on-healthcare-analytics",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=apple%2Bhardware&format=RSS&cc=us",
+            "source_url": "http://seekingalpha.com/article/3098896-apple-ibm-an-engagement-focused-on-healthcare-analytics"
+        },
+        "prnewswire.com/2015/04/technology-hardware-storage-and-peripherals-stocks-review-apple-hewlett-pr-newswire": {
+            "title": "Technology Hardware, Storage and Peripherals Stocks Review -- Apple, Hewlett... - PR Newswire...",
+            "snippet": "Technology Hardware, Storage and Peripherals Stocks Review -- Apple, Hewlett...PR Newswire (press release)Free research report on Apple can be accessed at On Thursday, April 23, 2015, the NASDAQ Composite ended at 5,, up%, the Dow Jones Industrial...",
+            "date": "2015-04-24",
+            "categories": "technology",
+            "tags": "release,technology,hardware,apple",
+            "recuweb_url": "http://en.recuweb.com/technology/prnewswire.com/2015/04/technology-hardware-storage-and-peripherals-stocks-review-apple-hewlett-pr-newswire",
+            "resource_url": "http://news.google.com/?hl=en&q=apple%2Bhardware%2Bapple%2Bhardware&output=atom&nord=1",
+            "source_url": "http://prnewswire.com/news-releases/technology-hardware-storage-and-peripherals-stocks-review----apple-hewlett-packard-sandisk-seagate-technology-and-qlogic-501200321.html"
+        },
+        "news.yahoo.com/2015/04/jony-ive-is-the-new-steve-jobs": {
             "title": "Jony Ive is the new Steve Jobs...",
             "snippet": "Thats the way I set it up. With Forstall gone, the power vacuum within Apple narrowed, enabling Ive to fully impart his own tastes and sensibilities across both Apple hardware and software. We saw the first manifestation of this with iOS 7 and the...",
             "date": "2015-04-23",
-            "tags": "first,steve,steve_jobs,jobs,way,apple,hardware,software,ios",
-            "recuweb_url": "http://en.recuweb.com/bgr.com/2015/04/jony-ive-is-the-new-steve-jobs",
+            "tags": "power,steve,steve_jobs,jobs,way,apple,hardware,software,ios",
+            "recuweb_url": "http://en.recuweb.com/news.yahoo.com/2015/04/jony-ive-is-the-new-steve-jobs",
             "resource_url": "http://www.bing.com/news/search?first=1&q=apple%2Bhardware&format=RSS&cc=us",
-            "source_url": "http://bgr.com/2015/04/23/jony-ive-apple-steve-jobs/"
-        },
-        "tomshardware.com/2015/04/report-nokia-to-sell-here-maps-apple-may-be-favorite-bidder": {
-            "title": "Report: Nokia To Sell HERE Maps, Apple May Be Favorite Bidder - Tom's Hardware...",
-            "snippet": "Tom's HardwareReport: Nokia To Sell HERE Maps, Apple May Be Favorite BidderTom's HardwareHERE Maps on iOSBloomberg reported that Nokia is auctioning its HERE Maps business and is expecting to get at least 3.2 billion for it. The main bidders seem to...",
-            "date": "2015-04-23",
-            "categories": "business",
-            "tags": "here,apple,nokia,hardware",
-            "recuweb_url": "http://en.recuweb.com/business/tomshardware.com/2015/04/report-nokia-to-sell-here-maps-apple-may-be-favorite-bidder",
-            "resource_url": "http://news.google.com/?hl=en&q=apple%2Bhardware%2Bapple%2Bhardware&output=atom&nord=1",
-            "source_url": "http://tomshardware.com/news/nokia-selling-here-maps-division,28979.html"
+            "source_url": "http://news.yahoo.com/jony-ive-steve-jobs-135540564.html"
         },
         "digitaltrends.com/2015/04/you-may-lose-youtube-users-with-old-apple-tvs-iphones": {
             "title": "You may lose YouTube: Users with old Apple TVs, iPhones, and other devices may be cut off...",
             "snippet": "Users of Apple hardware running anything less than iOS 7 will either need to update or watch YouTube videos via the Safari browser, while second-generation Apple TV users will only be able to watch YouTube content by streaming via AirPlay from...",
             "date": "2015-04-21",
-            "tags": "content,second,other,devices,off,apple,youtube,hardware,ios",
+            "tags": "via,able,other,devices,off,apple,youtube,hardware,ios",
             "recuweb_url": "http://en.recuweb.com/digitaltrends.com/2015/04/you-may-lose-youtube-users-with-old-apple-tvs-iphones",
             "resource_url": "http://www.bing.com/news/search?first=1&q=apple%2Bhardware&format=RSS&cc=us",
             "source_url": "http://digitaltrends.com/home-theater/youtube-discontinues-apps-older-hardware/"
@@ -53,59 +91,20 @@
             "snippet": "LiliputingYouTube drops support for older hardware (Apple TV, Google TV etc)LiliputingOverall this is a good reminder of why it's a good idea to spend 30 100 on a smart TV box like a Google Chromecast, Amazon Fire TV, Roku, Apple TV, or Google Nexus...",
             "date": "2015-04-21",
             "categories": "google",
-            "tags": "google,youtube,hardware,apple",
+            "tags": "google,smart,youtube,hardware,apple",
             "recuweb_url": "http://en.recuweb.com/google/liliputing.com/2015/04/youtube-drops-support-for-older-hardware-apple-tv-google-etc-liliputing",
-            "resource_url": "http://news.google.com/?hl=en&q=apple%2Bhardware%2Bapple%2Bhardware&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=apple%2Bhardware&output=atom&nord=1",
             "source_url": "http://liliputing.com/2015/04/youtube-drops-support-for-older-hardware-apple-tv-google-tv-etc.html"
-        },
-        "cio.com/2015/04/are-retail-employees-second-class-members-of-the-apple-family": {
-            "title": "Are retail employees second class members of the Apple family?",
-            "snippet": "Fortunately, I have had relatively few problems with the Apple hardware I've bought over the years. I don't know if that's luck or just a general statement about the quality of Apple's devices. Years ago I did have a 24-inch iMac that had to be...",
-            "date": "2015-04-20",
-            "categories": "imac",
-            "tags": "devices,few,second,apple,family,hardware",
-            "recuweb_url": "http://en.recuweb.com/imac/cio.com/2015/04/are-retail-employees-second-class-members-of-the-apple-family",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=apple%2Bhardware&format=RSS&cc=us",
-            "source_url": "http://cio.com/article/2910605/careers-staffing/are-retail-employees-second-class-members-of-the-apple-family.html"
         },
         "seekingalpha.com/2015/04/apple-linx-acquisition-addresses-a-hardware-risk-aapl-seeking-alpha": {
             "title": "Apple: LinX Acquisition Addresses A Hardware Risk (AAPL) - Seeking Alpha...",
             "snippet": "Apple: LinX Acquisition Addresses A Hardware Risk (AAPL)Seeking AlphaGiven LinX's expertise in CMOS camera module and depth-sensing algo, I believe this could be a precursor to what consumers can expect with the launch of the iPhone7 next year as...",
             "date": "2015-04-18",
             "categories": "iphone",
-            "tags": "year,could,expect,camera,hardware,apple,aapl,iphone",
+            "tags": "believe,camera,hardware,apple,iphone",
             "recuweb_url": "http://en.recuweb.com/iphone/seekingalpha.com/2015/04/apple-linx-acquisition-addresses-a-hardware-risk-aapl-seeking-alpha",
-            "resource_url": "http://news.google.com/?hl=en&q=apple%2Bhardware%2Bapple%2Bhardware&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=apple%2Bhardware&output=atom&nord=1",
             "source_url": "http://seekingalpha.com/article/3077676-apple-linx-acquisition-addresses-a-hardware-risk"
-        },
-        "thenextweb.com/2015/04/the-most-popular-tnw-deals-this-week-grab": {
-            "title": "The most popular TNW Deals this week grab them while you can!",
-            "snippet": "Then, learn to secure Apple hardware and software on OS X. In addition, youll also learn to protect WordPress blogs from attacks and content theft. Theres also a handy course to help familiarize you with the command line in Linux, so you can use...",
-            "date": "2015-04-18",
-            "categories": "wordpress",
-            "tags": "content,deals,apple,hardware,software,linux",
-            "recuweb_url": "http://en.recuweb.com/wordpress/thenextweb.com/2015/04/the-most-popular-tnw-deals-this-week-grab",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=apple%2Bhardware&format=RSS&cc=us",
-            "source_url": "http://thenextweb.com/offers/2015/04/18/the-most-popular-tnw-deals-this-week-grab-them-while-you-can/"
-        },
-        "extremetech.com/2015/04/new-apple-macbook-ties-for-worst-repairability-score-ever": {
-            "title": "New Apple MacBook ties for worst repairability score ever...",
-            "snippet": "If it aint broke, make it out of, like, three more metal pieces in funky shapes. Frustrated iFixit personnel, channeling Apple hardware designers. The step-by-step teardown isnt without positives iFixit calls the motherboard/logic...",
-            "date": "2015-04-16",
-            "categories": "motherboard,macbook",
-            "tags": "apple,macbook,hardware",
-            "recuweb_url": "http://en.recuweb.com/macbook/extremetech.com/2015/04/new-apple-macbook-ties-for-worst-repairability-score-ever",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=apple%2Bhardware&format=RSS&cc=us",
-            "source_url": "http://extremetech.com/extreme/203580-new-apple-macbook-ties-for-worst-repairability-score-ever"
-        },
-        "trustedreviews.com/2015/04/wwdc-2015-what-to-expect": {
-            "title": "WWDC 2015 - What to expect...",
-            "snippet": "WWDC isn't typically the location for new Apple hardware, but it's not entirely out of the question. In particular, Apple might want to reveal a new Apple TV here so as to get developers on board early. It's claimed that the new Apple TV will be a...",
-            "date": "2015-04-16",
-            "tags": "here,expect,apple,hardware",
-            "recuweb_url": "http://en.recuweb.com/trustedreviews.com/2015/04/wwdc-2015-what-to-expect",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=apple%2Bhardware&format=RSS&cc=us",
-            "source_url": "http://trustedreviews.com/opinions/wwdc-2015-what-to-expect"
         }
     }
 }
