@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "touchscreen",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/touchscreen/",
@@ -10,33 +11,83 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/touchscreen/touchscreen/blogs.json"
     },
     "items": {
+        "autoblog.com/2015/04/2015-chevrolet-corvette-z06": {
+            "title": "2015 Chevrolet Corvette Z06...",
+            "snippet": "The gauge cluster was bright, crisp, and readable in every shade of daylight. It was tough to access some of the features in the eight-inch touchscreen, but that's because there's so much content housed within. Visibility was excellent everywhere...",
+            "date": "2015-04-24",
+            "categories": "touchscreen",
+            "tags": "inch,touchscreen,visibility",
+            "recuweb_url": "http://en.recuweb.com/touchscreen/autoblog.com/2015/04/2015-chevrolet-corvette-z06",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=touchscreen&format=RSS&cc=us",
+            "source_url": "http://autoblog.com/2015/04/24/2015-chevrolet-corvette-z06-review/"
+        },
+        "starcourier.com/2015/04/deal-of-the-day-this-fitness-storage-belt-for-runners-is": {
+            "title": "DEAL OF THE DAY: This fitness storage belt for runners is 37% off right now...",
+            "snippet": "Plus, the belt's reflective exterior maximizes your visibility and safety at night. TECH DEALS OF THE DAY: Touchscreen laptops, charging stations, and more Here are the 16 best luggage deals this week up to 82% off Code your way to a higher...",
+            "date": "2015-04-24",
+            "categories": "touchscreen",
+            "tags": "visibility,touchscreen,code",
+            "recuweb_url": "http://en.recuweb.com/touchscreen/starcourier.com/2015/04/deal-of-the-day-this-fitness-storage-belt-for-runners-is",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=touchscreen&format=RSS&cc=us",
+            "source_url": "http://starcourier.com/article/20150424/BUSINESS/304249993/-1/health"
+        },
+        "thestreet.com/2015/04/global-touchscreen-market-2015-2019-emergence-of-multi-touch-screens": {
+            "title": "Global Touchscreen Market 2015-2019 - Emergence Of Multi-touch Screens With Nissha Printing, TPK,...",
+            "snippet": "DUBLIN, Apr. 24, 2015/PRNewswire/--Research and Markets () has announced the addition of the \"Global Touchscreen Market 2015-2019\" report to their offering. The analysts forecast the Global Touch...",
+            "date": "2015-04-24",
+            "categories": "touchscreen,markets",
+            "tags": "global,global_touch,touch,report,offering,global_touchscreen,global_touchscreen_market,touchscreen,touchscreen_market,markets,screens,nissha,emergence,multi,research",
+            "recuweb_url": "http://en.recuweb.com/markets/thestreet.com/2015/04/global-touchscreen-market-2015-2019-emergence-of-multi-touch-screens",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=touchscreen&format=RSS&cc=us",
+            "source_url": "http://thestreet.com/story/13125239/1/global-touchscreen-market-2015-2019--emergence-of-multi-touch-screens-with-nissha-printing-tpk-wintek-young-fast-dominating.html"
+        },
+        "prnewswire.com/2015/04/global-touchscreen-market-2015-2019-emergence-of-multi-touch-screens": {
+            "title": "Global Touchscreen Market 2015-2019 - Emergence of Multi-touch Screens with... - PR Newswire (press...",
+            "snippet": "Global Touchscreen Market 2015-2019 - Emergence of Multi-touch Screens with...PR Newswire (press release)In this report, a detailed study of the Global Touch Screen market is presented across all the technologies. The report considers the revenue...",
+            "date": "2015-04-24",
+            "categories": "touchscreen",
+            "tags": "report,report-considers,considers,considers-the-revenue,revenue,market,market-is-presented,presented,presented-across,across,technologies,global,global_touch,global_touch_screen,global_touchscreen,touch,touch_screen,touchscreen,screens,detailed,detailed-study,study,press,press-release,release,global_touchscreen_market,touchscreen_market,emergence,multi",
+            "recuweb_url": "http://en.recuweb.com/touchscreen/prnewswire.com/2015/04/global-touchscreen-market-2015-2019-emergence-of-multi-touch-screens",
+            "resource_url": "http://news.google.com/?hl=en&q=touchscreen&output=atom&nord=1",
+            "source_url": "http://prnewswire.com/news-releases/global-touchscreen-market-2015-2019---emergence-of-multi-touch-screens-with-nissha-printing-tpk-wintek--young-fast-dominating-300071720.html"
+        },
         "pcmag.com/2015/04/grab-a-dell-xps-12-touch-screen-ultrabook-for-700-pc": {
             "title": "Grab a Dell XPS 12 Touch-Screen Ultrabook for 700 - PC Magazine...",
             "snippet": "The Straits TimesGrab a Dell XPS 12 Touch-Screen Ultrabook for 700PC MagazineFor a limited time, Dell is offering the XPS 12 convertible touch-screen ultrabook for just. Simply use coupon code \"M6PMKJDTR42QV\" in your shopping cart, and instantly...",
             "date": "2015-04-24",
-            "tags": "screen,limited,dell,touch",
+            "tags": "code,screen,ultrabook,offering,dell,dell_xps,xps,touch",
             "recuweb_url": "http://en.recuweb.com/pcmag.com/2015/04/grab-a-dell-xps-12-touch-screen-ultrabook-for-700-pc",
-            "resource_url": "http://news.google.com/?hl=en&q=touchscreen%2Btouchscreen&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=touchscreen&output=atom&nord=1",
             "source_url": "http://pcmag.com/article2/0,2817,2482979,00.asp"
+        },
+        "efytimes.com/2015/04/mystery-revealed-xiaomi-unveiled-the-new-mi-4i-at-global-phone": {
+            "title": "Mystery Revealed: Xiaomi Unveiled The New Mi 4i At Global Mi Phone Premiere...",
+            "snippet": "It is also claims to be the first smartphone to run on Android 5.0 with MIUI 6. Xiaomi Mi 4i comes with a 13-cm (5-inch) HD screen with IPS touchscreen. Powered by a Qualcomm Snapdragon 615 octa-core 64-bit processor, the handset packs 3120 mAh...",
+            "date": "2015-04-24",
+            "categories": "touchscreen",
+            "tags": "screen,global,android,inch,touchscreen,core,processor",
+            "recuweb_url": "http://en.recuweb.com/touchscreen/efytimes.com/2015/04/mystery-revealed-xiaomi-unveiled-the-new-mi-4i-at-global-phone",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=touchscreen&format=RSS&cc=us",
+            "source_url": "http://efytimes.com/e1/fullnews.asp?edid=165537"
         },
         "businesswire.com/2015/04/research-and-markets-global-touchscreen-market-2015-2019-with-nissha-business": {
             "title": "Research and Markets: Global Touchscreen Market 2015-2019 with Nissha... - Business Wire (press...",
             "snippet": "Research and Markets: Global Touchscreen Market 2015-2019 with Nissha...Business Wire (press release)In this report, a detailed study of the Global Touch Screen market is presented across all the technologies. The report considers the revenue...",
             "date": "2015-04-24",
             "categories": "touchscreen,business,markets",
-            "tags": "touch,touch_screen,touchscreen,screen,press,release",
+            "tags": "report,report-considers,considers,considers-the-revenue,revenue,markets,market-is-presented,presented,presented-across,across,technologies,global,global_touch,global_touch_screen,global_touchscreen,touch,touch_screen,touchscreen,screen,detailed,detailed-study,study,press,press-release,release,global_touchscreen_market,touchscreen_market,research,nissha",
             "recuweb_url": "http://en.recuweb.com/markets/businesswire.com/2015/04/research-and-markets-global-touchscreen-market-2015-2019-with-nissha-business",
             "resource_url": "http://news.google.com/?hl=en&q=touchscreen%2Btouchscreen&output=atom&nord=1",
             "source_url": "http://businesswire.com/news/home/20150424005146/en/Research-Markets-Global-Touchscreen-Market-2015-2019-Nissha"
         },
-        "engadget.com/2015/04/technology-turns-touchscreen-displays-into-biometric-scanners-engadget": {
-            "title": "Technology turns touchscreen displays into biometric scanners - Engadget...",
-            "snippet": "EngadgetTechnology turns touchscreen displays into biometric scannersEngadgetIt's a biometric system called \"Bodyprint,\" and it only needs devices'capacitive touchscreen displays to authenticate body parts. Since displays have lower input resolution...",
+        "engadget.com/2015/04/technology-turns-touchscreen-displays-into-biometric-scanners": {
+            "title": "Technology turns touchscreen displays into biometric scanners...",
+            "snippet": "A team of researchers from Yahoo Labs has developed a much affordable alternative to fingerprint sensors for phones. It's a biometric system called Bodyprint, and it only needs devices'capacitive touchscreen displays to authenticate body parts.",
             "date": "2015-04-24",
-            "categories": "technology,touchscreen",
-            "tags": "resolution,into,technology,touchscreen",
-            "recuweb_url": "http://en.recuweb.com/touchscreen/engadget.com/2015/04/technology-turns-touchscreen-displays-into-biometric-scanners-engadget",
-            "resource_url": "http://news.google.com/?hl=en&q=touchscreen%2Btouchscreen&output=atom&nord=1",
+            "categories": "yahoo,technology,touchscreen",
+            "tags": "needs,devices,system,affordable,into,touchscreen",
+            "recuweb_url": "http://en.recuweb.com/touchscreen/engadget.com/2015/04/technology-turns-touchscreen-displays-into-biometric-scanners",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=touchscreen&format=RSS&cc=us",
             "source_url": "http://engadget.com/2015/04/24/bodyprint-yahoo-biometric-scanner/"
         },
         "crn.com.au/2015/04/acer-to-enter-comms-market-with-hybrid-pbx-and-touchscreen-deskphone": {
@@ -44,7 +95,7 @@
             "snippet": "CRN AustraliaAcer to enter comms market with hybrid PBX and touchscreen deskphoneCRN AustraliaAcer is taking its first step into corporate unified communications with the planned release of a touchscreen deskphone and hybrid PBX for traditional and...",
             "date": "2015-04-23",
             "categories": "touchscreen",
-            "tags": "first,into,release,touchscreen",
+            "tags": "into,release,market,touchscreen",
             "recuweb_url": "http://en.recuweb.com/touchscreen/crn.com.au/2015/04/acer-to-enter-comms-market-with-hybrid-pbx-and-touchscreen-deskphone",
             "resource_url": "http://news.google.com/?hl=en&q=touchscreen%2Btouchscreen&output=atom&nord=1",
             "source_url": "http://crn.com.au/News/403102,acer-to-enter-comms-market-with-hybrid-pbx-and-touchscreen-deskphone.aspx"
@@ -53,60 +104,10 @@
             "title": "Affordable Space Adventures is a great touch screen reminder - TechnologyTell...",
             "snippet": "TechnologyTellAffordable Space Adventures is a great touch screen reminderTechnologyTellAffordable Space Adventures manages to make heavy use of the GamePad's touch screen not feel like a mobile game, and it does so by limiting its ambitions. You're...",
             "date": "2015-04-23",
-            "tags": "screen,make,great,touch",
+            "tags": "screen,affordable,touch",
             "recuweb_url": "http://en.recuweb.com/technologytell.com/2015/04/affordable-space-adventures-is-a-great-touch-screen-reminder-technologytell",
             "resource_url": "http://news.google.com/?hl=en&q=touchscreen%2Btouchscreen&output=atom&nord=1",
             "source_url": "http://technologytell.com/gaming/145927/affordable-space-adventures-great-touch-screen-reminder/"
-        },
-        "techspot.com/2015/04/get-the-hand-stylus-40%-off-a-touchscreen-for-your-tablet": {
-            "title": "Get the Hand Stylus 40% off: a touchscreen stylus for your tablet - TechSpot...",
-            "snippet": "Get the Hand Stylus 40% off: a touchscreen stylus for your tabletTechSpotWished you had a touchscreen pen for your iPad or Android tablet? Well, here's a good one and it's 40% off. The Hand Stylus is a best-in-class touch-pen that ensures maximum...",
-            "date": "2015-04-23",
-            "categories": "touchscreen,ipad",
-            "tags": "tablet,touchscreen,ipad,here,touch",
-            "recuweb_url": "http://en.recuweb.com/ipad/techspot.com/2015/04/get-the-hand-stylus-40%-off-a-touchscreen-for-your-tablet",
-            "resource_url": "http://news.google.com/?hl=en&q=touchscreen%2Btouchscreen&output=atom&nord=1",
-            "source_url": "http://techspot.com/news/60446-get-hand-stylus-40-off-touchscreen-stylus-tablet.html"
-        },
-        "pressconnects.com/2015/04/my-computer-getting-back-in-touchscreen-with-surface-3-press-&": {
-            "title": "My Computer: Getting back in touchscreen with Surface 3 - Press & Sun-Bulletin...",
-            "snippet": "Press & Sun-BulletinMy Computer: Getting back in touchscreen with Surface 3Press & Sun-BulletinThere are a few solutions you can try. First, clean the screen. Use a soft, lint-free cloth dampened with water or eyeglass cleaner, but don't apply...",
-            "date": "2015-04-23",
-            "categories": "touchscreen,sun",
-            "tags": "screen,few,back,getting,touchscreen,surface,press,first",
-            "recuweb_url": "http://en.recuweb.com/sun/pressconnects.com/2015/04/my-computer-getting-back-in-touchscreen-with-surface-3-press-&",
-            "resource_url": "http://news.google.com/?hl=en&q=touchscreen%2Btouchscreen&output=atom&nord=1",
-            "source_url": "http://pressconnects.com/story/news/local/2015/04/23/getting-back-touchscreen-microsoft-surface/26249881/"
-        },
-        "democratandchronicle.com/2015/04/ask-nick-getting-back-in-touchscreen-rochester-democrat-and-chronicle": {
-            "title": "Ask Nick: Getting back in touchscreen - Rochester Democrat and Chronicle...",
-            "snippet": "Rochester Democrat and ChronicleAsk Nick: Getting back in touchscreenRochester Democrat and ChronicleI have a new Microsoft Surface 3 Tablet thing. I love it! Or I did. When I first got it, it was great. I learned to do stuff easily. But lately,...",
-            "date": "2015-04-22",
-            "categories": "love,touchscreen",
-            "tags": "great,first,surface,democrat,rochester,rochester_democrat,back,getting,touchscreen,chronicle,tablet",
-            "recuweb_url": "http://en.recuweb.com/touchscreen/democratandchronicle.com/2015/04/ask-nick-getting-back-in-touchscreen-rochester-democrat-and-chronicle",
-            "resource_url": "http://news.google.com/?hl=en&q=touchscreen%2Btouchscreen&output=atom&nord=1",
-            "source_url": "http://democratandchronicle.com/story/money/columnist/francesco/2015/04/22/getting-back-touchscreen-microsoft-surface/26154805/"
-        },
-        "democratandchronicle.com/2015/04/unipixel-buys-touchscreen-competitor-rochester-democrat-and-chronicle": {
-            "title": "UniPixel buys touchscreen competitor - Rochester Democrat and Chronicle...",
-            "snippet": "Rochester Democrat and ChronicleUniPixel buys touchscreen competitorRochester Democrat and ChronicleTexas-based touchscreen sensor maker UniPixel Inc. which has struggled in its years-old plan to co-manufacture product with Eastman Kodak Co. has...",
-            "date": "2015-04-17",
-            "categories": "touchscreen",
-            "tags": "democrat,rochester,rochester_democrat,touchscreen,chronicle",
-            "recuweb_url": "http://en.recuweb.com/touchscreen/democratandchronicle.com/2015/04/unipixel-buys-touchscreen-competitor-rochester-democrat-and-chronicle",
-            "resource_url": "http://news.google.com/?hl=en&q=touchscreen%2Btouchscreen&output=atom&nord=1",
-            "source_url": "http://democratandchronicle.com/story/money/2015/04/17/unipixel-buys-touchscreen-competitor/25951089/"
-        },
-        "autoblog.com/2015/03/2015-vw-passat-limited-edition-priced-from-23-995": {
-            "title": "2015 VW Passat Limited Edition priced from 23,995...",
-            "snippet": "An intelligent key with push-button start, 17-inch alloy wheels, a rear-view camera, heated leatherette seats with power controls on the driver's side and a touchscreen radio with an eight-speaker stereo, along with a few lesser options, like fog...",
-            "date": "2015-03-08",
-            "categories": "radio,touchscreen",
-            "tags": "few,limited,inch,touchscreen",
-            "recuweb_url": "http://en.recuweb.com/touchscreen/autoblog.com/2015/03/2015-vw-passat-limited-edition-priced-from-23-995",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=touchscreen&format=RSS&cc=us",
-            "source_url": "http://autoblog.com/2015/03/08/2015-vw-passat-limited-edition-23995-price/"
         }
     }
 }
