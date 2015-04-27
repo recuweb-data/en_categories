@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "adventure-travel",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/adventure-travel/",
@@ -10,13 +11,49 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/adventure-travel/adventure-travel/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/north-island-new-zealand-peterpans-adventure-travel": {
+            "title": "North Island New Zealand - Peterpans Adventure Travel...",
+            "snippet": "Author: travel_new_zealandTags: North Island New Zealand - Peterpans Adventure Travel Posted: 27 April 2015Rating:: 0...",
+            "date": "2015-04-26",
+            "author_name": "travel_new_zealand",
+            "categories": "adventure,adventure-travel,travel",
+            "tags": "adventure,adventure_travel,travel",
+            "recuweb_url": "http://en.recuweb.com/travel/dailymotion.com/2015/04/north-island-new-zealand-peterpans-adventure-travel",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/adventure+travel+adventure+travel/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2o3111_north-island-new-zealand-peterpans-adventure-travel_travel",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o3111_north-island-new-zealand-peterpans-adventure-travel_travel"
+        },
+        "dailymotion.com/2015/04/ben-fogle-adventure-in-the-azores-unravel-travel-tv": {
+            "title": "Ben Fogle Adventure In The Azores - Unravel Travel TV...",
+            "snippet": "Ben Fogle Adventure In The Azores - Unravel Travel TVAuthor: JovanyLoneTags: Ben Fogle Adventure In The Azores - Unravel Travel TV Posted: 24 April 2015Rating:: 0...",
+            "date": "2015-04-24",
+            "author_name": "JovanyLone",
+            "categories": "travel,adventure",
+            "tags": "travel,adventure",
+            "recuweb_url": "http://en.recuweb.com/adventure/dailymotion.com/2015/04/ben-fogle-adventure-in-the-azores-unravel-travel-tv",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/adventure+travel/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2ntsv4_ben-fogle-adventure-in-the-azores-unravel-travel-tv_travel",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ntsv4_ben-fogle-adventure-in-the-azores-unravel-travel-tv_travel"
+        },
+        "dailymotion.com/2015/04/gopro-travel-adventure-australia-&-southeast-asia": {
+            "title": "GoPro Travel Adventure - Australia & Southeast Asia...",
+            "snippet": "Author: travel_around_thailandTags: GoPro Travel Adventure - Australia Southeast Asia Posted: 24 April 2015Rating:: 0...",
+            "date": "2015-04-24",
+            "author_name": "travel_around_thailand",
+            "categories": "travel,adventure",
+            "tags": "travel,travel_adventure,adventure",
+            "recuweb_url": "http://en.recuweb.com/adventure/dailymotion.com/2015/04/gopro-travel-adventure-australia-&-southeast-asia",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/adventure+travel/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nres7_gopro-travel-adventure-australia-southeast-asia_travel",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nres7_gopro-travel-adventure-australia-southeast-asia_travel"
+        },
         "dailymotion.com/2015/04/adventures-in-iceland-travel-video-of-this-beautiful-country": {
             "title": "Adventures in ICELAND! travel video of this beautiful country.",
             "snippet": "Adventures in ICELAND! travel video of this beautiful: TravelTravelTravelTags: Adventures in ICELAND travel video of this beautiful country. Posted: 23 April 2015Rating:: 0...",
             "date": "2015-04-23",
             "author_name": "TravelTravelTravel",
             "categories": "travel",
-            "tags": "travel,adventures",
+            "tags": "travel",
             "recuweb_url": "http://en.recuweb.com/travel/dailymotion.com/2015/04/adventures-in-iceland-travel-video-of-this-beautiful-country",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/adventure+travel/0?af=1",
             "source_url": "http://dailymotion.com/video/x2no5tb_adventures-in-iceland-travel-video-of-this-beautiful-country_travel",
@@ -28,7 +65,7 @@
             "date": "2015-04-20",
             "author_name": "Alexa Poletti",
             "categories": "home,adventure,adventure-travel,travel",
-            "tags": "home,adventure,travel",
+            "tags": "home,adventure,adventure_travel,travel",
             "recuweb_url": "http://en.recuweb.com/travel/youtube.com/2015/04/imats-&-big-apple-adventure-travel-vlog-new-york-ny",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=adventure%2Btravel%2Badventure%2Btravel&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=6pL2QmAU7RY&feature=youtube_gdata",
@@ -93,42 +130,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/adventure+travel/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mphj4_meet-tully-smyth-visitbritain-wildcard-adventure-sta-travel_travel",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2mphj4_meet-tully-smyth-visitbritain-wildcard-adventure-sta-travel_travel"
-        },
-        "dailymotion.com/2015/04/danny-s-adventures-around-europe-travel-introduction": {
-            "title": "Danny's Adventures Around Europe: Travel Introduction...",
-            "snippet": "Author: travel_around_europeTags: Dannys Adventures Around Europe: Travel Introduction Posted: 13 April 2015Rating:: 0...",
-            "date": "2015-04-13",
-            "author_name": "travel_around_europe",
-            "categories": "travel",
-            "tags": "travel,adventures,around",
-            "recuweb_url": "http://en.recuweb.com/travel/dailymotion.com/2015/04/danny-s-adventures-around-europe-travel-introduction",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/adventure+travel/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mjirw_danny-s-adventures-around-europe-travel-introduction_travel",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mjirw_danny-s-adventures-around-europe-travel-introduction_travel"
-        },
-        "youtube.com/2015/04/minecraft-dr-cosmo-s-time-travel-adventure-redemption-custom-map-ep": {
-            "title": "Minecraft DR COSMO'S TIME TRAVEL ADVENTURE! Redemption Custom Map Ep 3/3...",
-            "snippet": "Minecraft DR COSMO'S TIME TRAVEL ADVENTURE! Redemption Custom Map Ep 3/3 A Time Travel Minecraft Adventure! TeamTC! PLEASE POKE THAT LIKE BUTTON! pokes SUB and join TeamTC HERE! My name is Dr Cosmo, I am a scientist who just so... From: ThnxCya...",
-            "date": "2015-04-13",
-            "author_name": "ThnxCya",
-            "categories": "travel,adventure",
-            "tags": "travel,adventure,travel_adventure",
-            "recuweb_url": "http://en.recuweb.com/adventure/youtube.com/2015/04/minecraft-dr-cosmo-s-time-travel-adventure-redemption-custom-map-ep",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=adventure%2Btravel%2Badventure%2Btravel&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=tIT9vTxVqwA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/tIT9vTxVqwA/0.jpg"
-        },
-        "dailymotion.com/2015/04/travel-around-the-world-australia-chile-morocco-croatia-ultimate-solo-adventures": {
-            "title": "Travel around the world Australia, Chile, Morocco, Croatia Ultimate solo adventures!",
-            "snippet": "Author: travel_around_japanTags: Travel around the world Australia Chile Morocco Croatia Ultimate solo adventures Posted: 13 April 2015Rating:: 0...",
-            "date": "2015-04-13",
-            "author_name": "travel_around_japan",
-            "categories": "travel",
-            "tags": "adventures,around,travel",
-            "recuweb_url": "http://en.recuweb.com/travel/dailymotion.com/2015/04/travel-around-the-world-australia-chile-morocco-croatia-ultimate-solo-adventures",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/adventure+travel/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mhvot_travel-around-the-world-australia-chile-morocco-croatia-ultimate-solo-adventures_travel",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mhvot_travel-around-the-world-australia-chile-morocco-croatia-ultimate-solo-adventures_travel"
         }
     }
 }
