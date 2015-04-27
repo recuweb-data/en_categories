@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "clothing",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/clothing/",
@@ -10,93 +11,71 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/clothing/clothing/blogs.json"
     },
     "items": {
-        "shefinds.com/2015/04/mcdonalds-clothing-line-fashion-colette": {
-            "title": "McDonalds Clothing Line McDonalds Fashion McDonalds Colette...",
-            "snippet": "The restaurant teamed up with French store Colette on a capsule collection of clothes and accessories, featuring pixelated images of the foods you know and love: Big Macs, soft serve and those fires (mmm). Surprisingly, the line is actually...",
-            "date": "2015-04-23",
-            "author_name": "Sara Alderman",
-            "categories": "love,foods,food,clothing",
-            "tags": "love,images,accessories,collection,teamed,clothing,clothing_line,line,fashion,store,clothes",
-            "recuweb_url": "http://en.recuweb.com/clothing/shefinds.com/2015/04/mcdonalds-clothing-line-fashion-colette",
-            "resource_url": "http://www.google.com/search?q=clothing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://shefinds.com/2015/mcdonalds-is-teaming-up-with-colette-on-a-clothing-line/"
+        "yourboulder.com/2015/04/first-rate-secondhand-clothing-shops-in-boulder": {
+            "title": "First-Rate Secondhand Clothing Shops in Boulder Your Boulder...",
+            "snippet": "Buff Exchange is the trendiest of the used clothing places in Boulder: they are super-selective with what they accept for sale, and are constantly shifting their inventory for the seasons, fashion trends, etc. The good news about...",
+            "date": "2015-04-27",
+            "author_name": "Jennifer Zukowski",
+            "categories": "places,clothing",
+            "tags": "constantly,sale,super,places,clothing,fashion",
+            "recuweb_url": "http://en.recuweb.com/clothing/yourboulder.com/2015/04/first-rate-secondhand-clothing-shops-in-boulder",
+            "resource_url": "http://www.google.com/search?q=clothing%2Bclothing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://yourboulder.com/boulder-thrift-stores/"
         },
-        "oregonlive.com/2015/04/nike-mentioned-as-possible-buyer-of-quiksilver-clothing-chain": {
-            "title": "Nike mentioned as possible buyer of Quiksilver clothing chain...",
-            "snippet": "Quiksilver Inc. investor Consac LLC is renewing calls for the clothing chain to put itself up for sale after it lost almost three-quarters of its value in the past year. Ryan Drexler, Consac's president, sent a letter to Quiksilver saying...",
-            "date": "2015-04-23",
-            "author_name": "Bloomberg News",
+        "towleroad.com/2015/04/john-oliver-sizes-up-the-fashion-industry-and-human-cost-of": {
+            "title": "John Oliver Sizes Up the Fashion Industry and the Human Cost of...",
+            "snippet": "Are you loving the current deluge of trendy and inexpensive clothing options at so-called \"fast fashion\" retailers? Well you might love those perfect spring shorts a little less if you actually thought about how they were made,...",
+            "date": "2015-04-27",
+            "author_name": "Kyler Geoffroy",
+            "categories": "clothing,love",
+            "tags": "little,called,fashion,loving,industry,john,john_oliver,oliver,sizes,clothing,retailers,love,spring",
+            "recuweb_url": "http://en.recuweb.com/love/towleroad.com/2015/04/john-oliver-sizes-up-the-fashion-industry-and-human-cost-of",
+            "resource_url": "http://www.google.com/search?q=clothing%2Bclothing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://towleroad.com/2015/04/john-oliver-sizes-up-the-fashion-industry-and-the-human-cost-of-cheap-clothing-video.html"
+        },
+        "mariahinenamugrace.wordpress.com/2015/04/sexism-and-clothing-part-two-boy-or-girl": {
+            "title": "Sexism and Clothing Part Two Boy OR Girl...",
+            "snippet": "We go to the shop and we choose something we like. We try it on, agree with the mirror we are hot stuff, and then purchase it. All the while believing we choose our purchase But we didnt. Thats right, we dont choose our clothing. The clothing...",
+            "date": "2015-04-27",
+            "author_name": "Maria Hinenamu Grace",
             "categories": "clothing",
-            "tags": "president,year,clothing",
-            "recuweb_url": "http://en.recuweb.com/clothing/oregonlive.com/2015/04/nike-mentioned-as-possible-buyer-of-quiksilver-clothing-chain",
-            "resource_url": "http://www.google.com/search?q=clothing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://oregonlive.com/playbooks-profits/index.ssf/2015/04/nike_mentioned_as_possible_buy.html"
+            "tags": "try,shop,clothing,girl,thats",
+            "recuweb_url": "http://en.recuweb.com/clothing/mariahinenamugrace.wordpress.com/2015/04/sexism-and-clothing-part-two-boy-or-girl",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=clothing%2Bclothing&rss=1&lng=en",
+            "source_url": "http://mariahinenamugrace.wordpress.com/2015/04/27/sexism-and-clothing-part-two-boy-or-girl/"
         },
-        "ktla.com/2015/04/melissa-joan-hart-s-king-of-harts-clothing-line-ktla": {
-            "title": "Melissa Joan Hart's 'King of Harts'Clothing Line KTLA...",
-            "snippet": "Actress Melissa Joan Hart joined us live with a preview of the spring collection from her new clothing line King of Harts. For more information, click HERE. Filed in: Morning News. KTLA 5 News on Twitter. What do you think?",
+        "usmagazine.com/2015/04/how-plus-size-clothes-fit-entirely-different-on": {
+            "title": "How Plus-Size Clothes Fit Entirely Different on... -...",
+            "snippet": "BuzzFeed tested out plus-size clothing from top brands including Forever 21 and ASOS to compare the fit on real women and models.",
+            "date": "2015-04-24",
+            "author_name": "Us Magazine Team",
+            "categories": "clothing",
+            "tags": "women,size,clothes,clothing,forever",
+            "recuweb_url": "http://en.recuweb.com/clothing/usmagazine.com/2015/04/how-plus-size-clothes-fit-entirely-different-on",
+            "resource_url": "http://www.google.com/search?q=clothing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://usmagazine.com/celebrity-style/news/plus-size-fashion-real-women-models-how-they-differ-2015244"
+        },
+        "hollywoodlife.com/2015/04/bruce-jenner-living-as-woman-female-clothing-mannerisms-in": {
+            "title": "Bruce Jenner Living As Woman Female Clothing, Mannerisms In...",
+            "snippet": "Bruce Jenner isn't unveiling the results of his still-ongoing gender transition with the world just yet, but privately, he's already living as a woman. has the EXCLUSIVE scoop on the former Olympian's life...",
             "date": "2015-04-22",
-            "author_name": "nancycruzktla",
-            "categories": "clothing,twitter",
-            "tags": "clothing,clothing_line,line,spring,collection,here,twitter",
-            "recuweb_url": "http://en.recuweb.com/twitter/ktla.com/2015/04/melissa-joan-hart-s-king-of-harts-clothing-line-ktla",
-            "resource_url": "http://www.google.com/search?q=clothing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://ktla.com/2015/04/22/melissa-joan-harts-king-of-harts-clothing-line/"
+            "author_name": "Alyssa Norwin",
+            "categories": "life,clothing",
+            "tags": "gender,jenner,clothing",
+            "recuweb_url": "http://en.recuweb.com/clothing/hollywoodlife.com/2015/04/bruce-jenner-living-as-woman-female-clothing-mannerisms-in",
+            "resource_url": "http://www.google.com/search?q=clothing%2Bclothing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://hollywoodlife.com/2015/04/22/bruce-jenner-living-as-woman-privately-womens-clothing-mannerisms/"
         },
-        "moneyaware.co.uk/2015/04/10-clothing-tips-that-ll-save-you-money-stepchange-moneyaware": {
-            "title": "10 clothing tips that'll save you money StepChange MoneyAware...",
-            "snippet": "10 clothing tips that'll save you money. Make sure your clothes last with these top tips for clothes shopping on a budget and making clothes last longer.",
+        "huffingtonpost.com/2015/04/eye-catching-clothing-line-uses-biology-themed-designs-to": {
+            "title": "Eye-Catching Clothing Line Uses Biology-Themed Designs To...",
+            "snippet": "An aspiring doctor is using a clothing line to inspire young girls to get interested in science. Lizzie Cochran, a 24-year-old student at Columbia University, came up with the idea of Epidemia Designs -- a clothing line which...",
             "date": "2015-04-20",
-            "author_name": "Jenny",
-            "categories": "clothing",
-            "tags": "last,top,save,clothing,make,sure,clothes",
-            "recuweb_url": "http://en.recuweb.com/clothing/moneyaware.co.uk/2015/04/10-clothing-tips-that-ll-save-you-money-stepchange-moneyaware",
+            "author_name": "Kimberly Yam",
+            "categories": "university,science,clothing,biology",
+            "tags": "girls,clothing,clothing_line,line,using",
+            "recuweb_url": "http://en.recuweb.com/biology/huffingtonpost.com/2015/04/eye-catching-clothing-line-uses-biology-themed-designs-to",
             "resource_url": "http://www.google.com/search?q=clothing%2Bclothing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://moneyaware.co.uk/2015/04/10-clothing-tips/"
-        },
-        "hypebot.com/2015/04/don-henley-wins-legal-action-against-clothing-retailer-hypebot": {
-            "title": "Don Henley Wins Legal Action Against Clothing Retailer - hypebot...",
-            "snippet": "Few artists protect the integrity of their brand more aggressively than Don Henley and The Eagles. Now they've won another round; this time against a Wisconsin retailer selling a henley style shirt. A clothing retailer in...",
-            "date": "2015-04-20",
-            "author_name": "Bruce Houghton",
-            "categories": "clothing",
-            "tags": "selling,action,clothing,style",
-            "recuweb_url": "http://en.recuweb.com/clothing/hypebot.com/2015/04/don-henley-wins-legal-action-against-clothing-retailer-hypebot",
-            "resource_url": "http://www.google.com/search?q=clothing%2Bclothing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://hypebot.com/hypebot/2015/04/don-henley-wins-legal-action-against-clothing-retailer.html"
-        },
-        "brownstoner.com/2015/04/women-s-clothing-boutique-opens-on-atlantic-avenue-in-boerum": {
-            "title": "Women's Clothing Boutique Opens on Atlantic Avenue in Boerum...",
-            "snippet": "Womenswear boutique Hudson Lawrence opened last month at 355 Atlantic Avenue in Boerum Hill. The store carries clothing from small and medium designers around.",
-            "date": "2015-04-20",
-            "author_name": "Cate",
-            "categories": "clothing",
-            "tags": "opened,last,clothing,boutique,women,store",
-            "recuweb_url": "http://en.recuweb.com/clothing/brownstoner.com/2015/04/women-s-clothing-boutique-opens-on-atlantic-avenue-in-boerum",
-            "resource_url": "http://www.google.com/search?q=clothing%2Bclothing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://brownstoner.com/blog/2015/04/womens-clothing-boutique-opens-on-atlantic-in-boerum-hill/"
-        },
-        "fox6now.com/2015/04/garage-offering-clothing-&-accessories-for-young-women-coming": {
-            "title": "Garage, offering clothing & accessories for young women coming...",
-            "snippet": "Garage is known for its effortlessly stylish clothing and accessories. Expect the season's hottest denim, the latest must-have styles and everyday fashion basics for teen girls and the young at heart within a casually cool, unique...",
-            "date": "2015-04-20",
-            "author_name": "Katie DeLong",
-            "categories": "clothing",
-            "tags": "latest,accessories,women,clothing,fashion",
-            "recuweb_url": "http://en.recuweb.com/clothing/fox6now.com/2015/04/garage-offering-clothing-&-accessories-for-young-women-coming",
-            "resource_url": "http://www.google.com/search?q=clothing%2Bclothing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://fox6now.com/2015/04/20/garage-offering-clothing-accessories-for-young-women-coming-to-mayfair-mall/"
-        },
-        "chicago.cbslocal.com/2015/04/smash-and-grab-thieves-hit-gold-coast-clothing-store-cbs": {
-            "title": "Smash-And-Grab Thieves Hit Gold Coast Clothing Store CBS...",
-            "snippet": "Last September, thieves rammed a vehicle through the front of the store, before getting away with thousands of dollars of expensive clothing. It's not surprising, given how expensive the merchandise is on this street, and...",
-            "date": "2015-04-17",
-            "author_name": "Todd Feurer",
-            "categories": "clothing",
-            "tags": "before,away,thousands,last,hit,clothing,store",
-            "recuweb_url": "http://en.recuweb.com/clothing/chicago.cbslocal.com/2015/04/smash-and-grab-thieves-hit-gold-coast-clothing-store-cbs",
-            "resource_url": "http://www.google.com/search?q=clothing%2Bclothing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://chicago.cbslocal.com/2015/04/17/smash-and-grab-thieves-hit-gold-coast-clothing-store/"
+            "source_url": "http://huffingtonpost.com/2015/04/20/epidemia-designs_n_7082548.html"
         },
         "everydayfeminism.com/2015/04/how-society-polices-women-s-clothing-no-matter-what-we-wear": {
             "title": "How Society Polices Women's Clothing (No Matter What We Wear...",
@@ -104,21 +83,42 @@
             "date": "2015-04-16",
             "author_name": "Alli Kirkham",
             "categories": "society,clothing",
-            "tags": "under,down,women,clothing",
+            "tags": "constantly,wear,women,clothing,down",
             "recuweb_url": "http://en.recuweb.com/clothing/everydayfeminism.com/2015/04/how-society-polices-women-s-clothing-no-matter-what-we-wear",
-            "resource_url": "http://www.google.com/search?q=clothing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=clothing%2Bclothing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://everydayfeminism.com/2015/04/policing-womens-clothing/"
         },
-        "engadget.com/2015/04/light-sensitive-clothing-takes-us-back-to-the-hypercolor-era": {
-            "title": "Light-sensitive clothing takes us back to the 'hypercolor'era...",
-            "snippet": "The Crated has married clothing and tech before with 3D-printed dresses and shirts that have built-in electronics. It teamed with a company called Print All Over Me to develop the Photochromia garments with inks that change...",
+        "huffingtonpost.com/2015/04/tj-maxx-now-sells-plus-size-clothing-on-its-website-huffington": {
+            "title": "TJ Maxx Now Sells Plus-Size Clothing On Its Website - Huffington Post...",
+            "snippet": "TJ Maxx has always been one of the few retailers that gets it right when it comes to clothing in a broad range of sizes, so the move into digital space is not surprising. What may surprise many people is the fact that TJ Maxx...",
             "date": "2015-04-16",
-            "author_name": "Steve Dent",
-            "categories": "electronics,clothing",
-            "tags": "teamed,company,shirts,before,clothing,dresses",
-            "recuweb_url": "http://en.recuweb.com/clothing/engadget.com/2015/04/light-sensitive-clothing-takes-us-back-to-the-hypercolor-era",
+            "author_name": "Jamie Feldman",
+            "categories": "clothing",
+            "tags": "move,move-into,into,space,sizes,few,size,clothing,retailers",
+            "recuweb_url": "http://en.recuweb.com/clothing/huffingtonpost.com/2015/04/tj-maxx-now-sells-plus-size-clothing-on-its-website-huffington",
             "resource_url": "http://www.google.com/search?q=clothing%2Bclothing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://engadget.com/2015/04/16/photochromia-hypercolor-clothing/"
+            "source_url": "http://huffingtonpost.com/2015/04/16/tj-maxx-plus-size_n_7078554.html"
+        },
+        "surfclothing575.wordpress.com/2015/04/surf-clothing-buying-online": {
+            "title": "Surf Clothing: Buying Online Surf Clothing...",
+            "snippet": "Surf Apparel Consultants Beach clothing is considered as one of the most essential things needed while traveling to any beach where you can spend your holiday with your...",
+            "date": "2015-04-05",
+            "author_name": "surfclothing575",
+            "categories": "clothing",
+            "tags": "online,clothing,things",
+            "recuweb_url": "http://en.recuweb.com/clothing/surfclothing575.wordpress.com/2015/04/surf-clothing-buying-online",
+            "resource_url": "http://en.search.wordpress.com/?q=clothing%2Bclothing&f=feed&page=1",
+            "source_url": "http://surfclothing575.wordpress.com/2015/04/05/surf-clothing-buying-online-surf-clothing/"
+        },
+        "reddit.com/2015/03/clothing-chain-h&m-creates-fake-metal-bands-to-sell-merch-releases": {
+            "title": "Clothing Chain H&M Creates Fake Metal Bands to Sell Merch, Releases a Song Called Vaginal's Juice...",
+            "snippet": "Clothing Chain H&M Creates Fake Metal Bands to Sell Merch, Releases a Song Called Vaginal's Juice...",
+            "date": "2015-03-24",
+            "categories": "clothing",
+            "tags": "called,clothing,h&m",
+            "recuweb_url": "http://en.recuweb.com/clothing/reddit.com/2015/03/clothing-chain-h&m-creates-fake-metal-bands-to-sell-merch-releases",
+            "resource_url": "http://www.reddit.com/search.rss?q=clothing%2Bclothing&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/Music/comments/304ggo/clothing_chain_hm_creates_fake_metal_bands_to/"
         }
     }
 }
