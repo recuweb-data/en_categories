@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "molecules",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/molecules/",
@@ -10,23 +11,93 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/molecules/molecules/blogs.json"
     },
     "items": {
+        "theguardian.com/2015/04/french-perfume-maker-bottles-scent-of-the-departed": {
+            "title": "French perfume maker bottles scent of the departed...",
+            "snippet": "We take the persons clothing and extract the odour which represents about a hundred molecules and we reconstruct it in the form of a perfume in four days, explained the universitys Geraldine Savary. The powerful link between smell and...",
+            "date": "2015-04-24",
+            "categories": "university,clothing,molecules",
+            "tags": "between,smell,form,molecules,powerful",
+            "recuweb_url": "http://en.recuweb.com/molecules/theguardian.com/2015/04/french-perfume-maker-bottles-scent-of-the-departed",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=molecules&format=RSS&cc=us",
+            "source_url": "http://theguardian.com/world/2015/apr/24/french-perfume-maker-bottles-scent-of-the-dead"
+        },
+        "spacedaily.com/2015/04/comb-detects-terahertz-waves-with-extreme-precision": {
+            "title": "Comb detects terahertz waves with extreme precision...",
+            "snippet": "Caltech chemists have developed a precise ruler of terahertz light that will aid in the study of organic molecules in space, and the soft interactions between molecules in water. Due to its resemblance to a hair comb, the ruler is called a...",
+            "date": "2015-04-23",
+            "categories": "molecules",
+            "tags": "called,water,between,light,organic,waves,molecules,space",
+            "recuweb_url": "http://en.recuweb.com/molecules/spacedaily.com/2015/04/comb-detects-terahertz-waves-with-extreme-precision",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=molecules&format=RSS&cc=us",
+            "source_url": "http://spacedaily.com/reports/Researchers_create_comb_that_detects_terahertz_waves_with_extreme_precision_999.html"
+        },
+        "technologyreview.com/2015/04/an-algorithm-set-revolutionizes-3-d-protein-structure-discovery": {
+            "title": "An Algorithm Set Revolutionizes 3-D Protein Structure Discovery...",
+            "snippet": "That works well for molecules that form crystals easily. But many proteins, perhaps most, do not form crystals easily. And even when they do, they often take on unnatural configurations that do not resemble their natural shape. So finding another...",
+            "date": "2015-04-23",
+            "categories": "molecules",
+            "tags": "form,proteins,molecules",
+            "recuweb_url": "http://en.recuweb.com/molecules/technologyreview.com/2015/04/an-algorithm-set-revolutionizes-3-d-protein-structure-discovery",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=molecules&format=RSS&cc=us",
+            "source_url": "http://technologyreview.com/view/536976/an-algorithm-set-revolutionizes-3-d-protein-structure-discovery/"
+        },
+        "economictimes.indiatimes.com/2015/04/mankind-keen-on-lowering-cancer-drug-prices-awaiting-government-policies": {
+            "title": "Mankind keen on lowering cancer drug prices, awaiting government policies, says Ramesh Juneja...",
+            "snippet": "Mankind has slashed prices of many drugs but at times faced questions around the quality of its drugs. Your comment? Most of our molecules have been very cost effective. While the strategy had its merits, we also had to face some unique challenges...",
+            "date": "2015-04-23",
+            "categories": "drugs,cancer,molecules",
+            "tags": "molecules",
+            "recuweb_url": "http://en.recuweb.com/molecules/economictimes.indiatimes.com/2015/04/mankind-keen-on-lowering-cancer-drug-prices-awaiting-government-policies",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=molecules&format=RSS&cc=us",
+            "source_url": "http://economictimes.indiatimes.com/opinion/interviews/mankind-keen-on-lowering-cancer-drug-prices-awaiting-government-policies-says-ramesh-juneja/articleshow/47034206.cms"
+        },
+        "au.ibtimes.com/2015/04/proteins-that-cause-anxiety-in-humans-and-moulting-insects-share": {
+            "title": "Proteins That Cause Anxiety in Humans and Moulting In Insects Share The Same Origin...",
+            "snippet": "The remarkable process of evolution means that molecules that once had the same function can, over hundreds of millions of years, change to control such different processes as anxiety in humans and moulting in insects, claimed Dean Semmens, the...",
+            "date": "2015-04-23",
+            "categories": "molecules",
+            "tags": "change,proteins,molecules",
+            "recuweb_url": "http://en.recuweb.com/molecules/au.ibtimes.com/2015/04/proteins-that-cause-anxiety-in-humans-and-moulting-insects-share",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=molecules&format=RSS&cc=us",
+            "source_url": "http://au.ibtimes.com/proteins-cause-anxiety-humans-moulting-insects-share-same-origin-1442446"
+        },
+        "techienews.co.uk/2015/04/successful-gene-editing-paves-way-to-prevent-mitochondrial-diseases": {
+            "title": "Successful gene-editing paves way to prevent mitochondrial diseases...",
+            "snippet": "In most patients with mitochondrial disease, mutated and normal mitochondrial DNA molecules are mixed together in cells. A high percentage of mutated mitochondrial DNA can lead to the degeneration and catastrophic failure of various organs,...",
+            "date": "2015-04-23",
+            "categories": "organs,molecules",
+            "tags": "gene,molecules",
+            "recuweb_url": "http://en.recuweb.com/molecules/techienews.co.uk/2015/04/successful-gene-editing-paves-way-to-prevent-mitochondrial-diseases",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=molecules&format=RSS&cc=us",
+            "source_url": "http://techienews.co.uk/9728977/successful-gene-editing-paves-way-to-prevent-mitochondrial-diseases/"
+        },
+        "mashable.com/2015/04/watch-the-chilean-volcano-send-shockwaves-through-atmosphere": {
+            "title": "Watch the Chilean volcano send shockwaves through the atmosphere...",
+            "snippet": "It occurs because some atoms and molecules get excited from the sun's ultraviolet radiation. This energy is emitted as visible and infrared light, according to Universe Today. Gravity waves (arrows) rippling out from the Calbuco volcano (oval)...",
+            "date": "2015-04-23",
+            "categories": "sun,atmosphere,molecules",
+            "tags": "energy,light,sun,atoms,molecules,waves",
+            "recuweb_url": "http://en.recuweb.com/molecules/mashable.com/2015/04/watch-the-chilean-volcano-send-shockwaves-through-atmosphere",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=molecules&format=RSS&cc=us",
+            "source_url": "http://mashable.com/2015/04/23/chile-volcano-shockwaves-atmosphere/"
+        },
         "gizmag.com/2015/04/world-s-first-light-activated-molecule-sized-switch-gets-turned-on": {
             "title": "World's first light-activated, molecule-sized switch gets turned on - Gizmag...",
             "snippet": "GizmagWorld's first light-activated, molecule-sized switch gets turned onGizmagThe researchers claim that the breakthrough capability of being able to switch a molecule on to conduct electrical current has never been fully proven before. This, they...",
             "date": "2015-04-23",
-            "tags": "before,breakthrough,molecule,first,light",
+            "tags": "breakthrough,molecule,light",
             "recuweb_url": "http://en.recuweb.com/gizmag.com/2015/04/world-s-first-light-activated-molecule-sized-switch-gets-turned-on",
-            "resource_url": "http://news.google.com/?hl=en&q=molecules%2Bmolecules&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=molecules&output=atom&nord=1",
             "source_url": "http://gizmag.com/nanotechnology-molecule-switch-light-activated/37090/"
         },
         "phys.org/2015/04/a-leap-for-artificial-leaf-generating-power-by-breaking-up-water": {
-            "title": "A leap for 'artificial leaf': Generating power by breaking up water molecules -...",
-            "snippet": "leap for 'artificial leaf': Generating power by breaking up water molecules s an idea, the notion of an \"artificial leaf\" was always meant to be simple: Could scientists, using a handful of relatively cheap materials, harness the power of light to...",
+            "title": "A leap for 'artificial leaf': Generating power by breaking up water molecules...",
+            "snippet": "With support from Harvard President Drew Fausts Climate Change Solutions Fund, Patterson Rockwood Professor of Energy Daniel Nocera and colleagues created an efficient method to harness the power of light to generate two powerful fuels. Credit:...",
             "date": "2015-04-22",
-            "categories": "molecules",
-            "tags": "light,materials,water,molecules,scientists",
-            "recuweb_url": "http://en.recuweb.com/molecules/phys.org/2015/04/a-leap-for-artificial-leaf-generating-power-by-breaking-up-water",
-            "resource_url": "http://news.google.com/?hl=en&q=molecules%2Bmolecules&output=atom&nord=1",
+            "categories": "climate-change,molecules,credit",
+            "tags": "light,powerful,energy,change,water,gene,molecules",
+            "recuweb_url": "http://en.recuweb.com/credit/phys.org/2015/04/a-leap-for-artificial-leaf-generating-power-by-breaking-up-water",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=molecules&format=RSS&cc=us",
             "source_url": "http://phys.org/news/2015-04-artificial-leaf-power-molecules.html"
         },
         "business-standard.com/2015/04/isro-s-chandrayaan-nasa-lro-confirm-presence-of-hydroxyl-and-water": {
@@ -36,78 +107,8 @@
             "categories": "moon,business,molecules",
             "tags": "water,molecules",
             "recuweb_url": "http://en.recuweb.com/molecules/business-standard.com/2015/04/isro-s-chandrayaan-nasa-lro-confirm-presence-of-hydroxyl-and-water",
-            "resource_url": "http://news.google.com/?hl=en&q=molecules%2Bmolecules&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=molecules&output=atom&nord=1",
             "source_url": "http://business-standard.com/article/current-affairs/isro-s-chandrayaan-nasa-s-lro-confirms-hydroxyl-and-water-molecules-presence-on-the-moon-115042200961_1.html"
-        },
-        "consortiumnews.com/2015/04/we-lucky-molecules-consortium-news": {
-            "title": "We Lucky Molecules - Consortium News...",
-            "snippet": "Consortium NewsWe Lucky MoleculesConsortium NewsScientists don't know how many atoms and molecules there are in the Universe, but it's clear that the vast, vast, vast majority find themselves locked in lifeless form perhaps consumed by the fire of...",
-            "date": "2015-04-22",
-            "categories": "molecules",
-            "tags": "find,clear,many,many-atoms,atoms,molecules",
-            "recuweb_url": "http://en.recuweb.com/molecules/consortiumnews.com/2015/04/we-lucky-molecules-consortium-news",
-            "resource_url": "http://news.google.com/?hl=en&q=molecules%2Bmolecules&output=atom&nord=1",
-            "source_url": "http://consortiumnews.com/2015/04/22/we-lucky-molecules/"
-        },
-        "today.tamu.edu/2015/04/eminent-scholar-lecture-series-having-fun-with-molecules-peter-j-stang": {
-            "title": "Eminent Scholar Lecture Series: 'Having Fun with Molecules,'With Peter J. Stang - Texas A&M...",
-            "snippet": "Texas A&M UniversityEminent Scholar Lecture Series: 'Having Fun with Molecules,'With Peter J. StangTexas A&M Universitymolecules-350 During a Texas A&M University Institute for Advanced Study (TIAS) Eminent Scholars Lecture on May 4, an...",
-            "date": "2015-04-21",
-            "categories": "university,institute,molecules",
-            "tags": "molecules",
-            "recuweb_url": "http://en.recuweb.com/molecules/today.tamu.edu/2015/04/eminent-scholar-lecture-series-having-fun-with-molecules-peter-j-stang",
-            "resource_url": "http://news.google.com/?hl=en&q=molecules%2Bmolecules&output=atom&nord=1",
-            "source_url": "http://today.tamu.edu/2015/04/21/eminent-scholar-lecture-series-having-fun-with-molecules-with-peter-j-stang/"
-        },
-        "phys.org/2015/04/protosuns-teeming-with-prebiotic-molecules": {
-            "title": "Protosuns teeming with prebiotic molecules -...",
-            "snippet": "teeming with prebiotic organic molecules such as formamide, from which sugars, amino acids and even nucleic acids essential for life can be made, already appear in the regions where stars similar to our Sun are born. Astrophysicists from Spain and...",
-            "date": "2015-04-16",
-            "categories": "regions,stars,life,molecules,sun",
-            "tags": "stars,life,made,organic,molecules,sun",
-            "recuweb_url": "http://en.recuweb.com/sun/phys.org/2015/04/protosuns-teeming-with-prebiotic-molecules",
-            "resource_url": "http://news.google.com/?hl=en&q=molecules%2Bmolecules&output=atom&nord=1",
-            "source_url": "http://phys.org/news/2015-04-protosuns-teeming-prebiotic-molecules.html"
-        },
-        "lakecountrycalendar.com/2015/04/taylor-can-you-hear-what-i-think": {
-            "title": "Taylor: Can you hear what I think?",
-            "snippet": "We want to belong to something bigger than ourselves. Its a universal pattern, he says. Atoms bind together into molecules, molecules into proteins, proteins into cells, cells into living bodies. And bodies want to belong to groups. But must a...",
-            "date": "2015-04-15",
-            "categories": "molecules",
-            "tags": "atoms,molecules",
-            "recuweb_url": "http://en.recuweb.com/molecules/lakecountrycalendar.com/2015/04/taylor-can-you-hear-what-i-think",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=molecules%2Bmolecules&format=RSS&cc=us",
-            "source_url": "http://lakecountrycalendar.com/opinion/299589611.html"
-        },
-        "scientificamerican.com/2015/04/stretch-it-how-does-temperature-affect-a-rubber-band": {
-            "title": "Stretch It! How Does Temperature Affect a Rubber Band?",
-            "snippet": "One cool science surprise! How does temperature change a rubber band's stretchiness? Gather up some common household materials and get ready to stretch your understanding of physics! Materials are made up of atoms and molecules. (Molecules are...",
-            "date": "2015-04-09",
-            "categories": "physics,science,molecules",
-            "tags": "made,atoms,materials,science,molecules",
-            "recuweb_url": "http://en.recuweb.com/molecules/scientificamerican.com/2015/04/stretch-it-how-does-temperature-affect-a-rubber-band",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=molecules%2Bmolecules&format=RSS&cc=us",
-            "source_url": "http://scientificamerican.com/article/stretch-it-how-does-temperature-affect-a-rubber-band/"
-        },
-        "washingtonpost.com/2015/04/for-the-first-time-scientists-find-complex-organic-molecules-in-an": {
-            "title": "For the first time, scientists find complex organic molecules in an infant... - Washington Post...",
-            "snippet": "Los Angeles TimesFor the first time, scientists find complex organic molecules in an infant...Washington PostWe're not special. Or our complex organic molecules aren't, anyway. And that's good news in the hunt for extraterrestrial life. In a new...",
-            "date": "2015-04-08",
-            "categories": "extraterrestrial-life,life,molecules",
-            "tags": "life,complex,organic,scientists,find,first,molecules",
-            "recuweb_url": "http://en.recuweb.com/molecules/washingtonpost.com/2015/04/for-the-first-time-scientists-find-complex-organic-molecules-in-an",
-            "resource_url": "http://news.google.com/?hl=en&q=molecules%2Bmolecules&output=atom&nord=1",
-            "source_url": "http://washingtonpost.com/news/speaking-of-science/wp/2015/04/08/for-the-first-time-scientists-find-complex-organic-molecules-in-an-infant-star-system/"
-        },
-        "wsj.com/2015/03/can-personal-air-purifiers-keep-cold-and-flu-bugs-away": {
-            "title": "Can Personal Air Purifiers Keep Cold and Flu Bugs Away?",
-            "snippet": "Personal air purifiers work by emitting electrically charged molecules or atoms called ions, companies say. The ions transfer the charge to particlessuch as one carrying a flu virusin the users breathing zone and since like-charged particles...",
-            "date": "2015-03-16",
-            "categories": "molecules",
-            "tags": "atoms,called,molecules",
-            "recuweb_url": "http://en.recuweb.com/molecules/wsj.com/2015/03/can-personal-air-purifiers-keep-cold-and-flu-bugs-away",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=molecules&format=RSS&cc=us",
-            "source_url": "http://wsj.com/articles/can-personal-air-purifiers-keep-cold-and-flu-bugs-away-1426523645"
         }
     }
 }
