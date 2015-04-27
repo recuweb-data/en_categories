@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "archaeology",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/archaeology/",
@@ -10,60 +11,38 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/archaeology/archaeology/blogs.json"
     },
     "items": {
-        "mediterraneanworld.wordpress.com/2015/04/punk-archaeology-project-update-the-of": {
-            "title": "Punk Archaeology Project Update The Archaeology of the...",
-            "snippet": "It's been just over 200 days since The Digital Press at the University of North Dakota published their inaugural volume: Punk Archaeology. Since that time, the book has been cited twice. Once in Koji Mizoguchi, A Future of...",
-            "date": "2015-04-23",
-            "author_name": "Bill Caraher",
-            "categories": "archaeology,university",
-            "tags": "archaeology,published,press,university",
-            "recuweb_url": "http://en.recuweb.com/university/mediterraneanworld.wordpress.com/2015/04/punk-archaeology-project-update-the-of",
-            "resource_url": "http://www.google.com/search?q=archaeology%2Barchaeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://mediterraneanworld.wordpress.com/2015/04/23/punk-archaeology-project-update-2/"
-        },
-        "mediterraneanworld.wordpress.com/2015/04/slow-archaeology-publishing-and-collaboration": {
-            "title": "Slow Archaeology, Publishing, and Collaboration The Archaeology...",
-            "snippet": "At the same time, I've been working on revising an updated version of Slow Archaeology article before I head to the Mediterranean this summer. In my revisions to that paper, I try to put a bit more emphasis on the social...",
-            "date": "2015-04-22",
-            "author_name": "Bill Caraher",
-            "categories": "archaeology,mediterranean",
-            "tags": "working,archaeology",
-            "recuweb_url": "http://en.recuweb.com/mediterranean/mediterraneanworld.wordpress.com/2015/04/slow-archaeology-publishing-and-collaboration",
-            "resource_url": "http://www.google.com/search?q=archaeology%2Barchaeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://mediterraneanworld.wordpress.com/2015/04/22/slow-archaeology-publishing-and-collaboration/"
-        },
-        "archaeology.org/2015/04/archaeological-news-from-archaeology-magazine": {
-            "title": "Archaeological News from Archaeology Magazine - Archaeology...",
-            "snippet": "The excavations will continue and we will be working to unearth the rest of the wall, as well as any archaeological elements which could help us to know more about this early period of Egyptian history, added Galina A. Belova, director of the...",
-            "date": "2015-04-16",
-            "author_name": "Jessica E. Saraceni",
+        "r-bloggers.com/2015/04/doing-quantitative-archaeology-with-open-source-software-r": {
+            "title": "Doing quantitative archaeology with open source software R...",
+            "snippet": "This is a guest post by Ben Marwick, originally published on ATOR blog) This short post is written for archaeologists who frequently perform common data.",
+            "date": "2015-04-25",
+            "author_name": "Tal Galili",
             "categories": "archaeology",
-            "tags": "director,help,any,excavations,working,archaeology,archaeology_magazine,magazine,archaeological",
-            "recuweb_url": "http://en.recuweb.com/archaeology/archaeology.org/2015/04/archaeological-news-from-archaeology-magazine",
+            "tags": "open,archaeology,archaeologists",
+            "recuweb_url": "http://en.recuweb.com/archaeology/r-bloggers.com/2015/04/doing-quantitative-archaeology-with-open-source-software-r",
             "resource_url": "http://www.google.com/search?q=archaeology%2Barchaeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://archaeology.org/news?p=2903"
+            "source_url": "http://r-bloggers.com/doing-quantitative-archaeology-with-open-source-software/"
         },
-        "archaeology.org/2015/04/imported-artifacts-unearthed-at-1000-year-old-alaska-archaeology": {
-            "title": "Imported Artifacts Unearthed at 1000-Year-Old Alaska... - Archaeology...",
-            "snippet": "rising whale trade BOULDER, COLORADOBronze and obsidian artifacts discovered in a dwelling at Alaska's Rising Whale site bolster the idea that there had been a trading relationship between the New World and East...",
-            "date": "2015-04-16",
+        "archaeology.org/2015/04/iron-age-owl-brooch-unearthed-in-denmark-archaeology-magazine": {
+            "title": "Iron Age Owl Brooch Unearthed in Denmark - Archaeology Magazine...",
+            "snippet": "There are very few of these types of fasteners, archaeologist Christina Seehusen of Bornholm Museum told The Copenhagen Post. It was probably made along the Roman frontier, in Cologne or another nearby town. There...",
+            "date": "2015-04-21",
             "author_name": "unknown",
             "categories": "archaeology",
-            "tags": "site,between,old,unearthed,year,archaeology",
-            "recuweb_url": "http://en.recuweb.com/archaeology/archaeology.org/2015/04/imported-artifacts-unearthed-at-1000-year-old-alaska-archaeology",
+            "tags": "made,along,museum,few,archaeology,archaeology_magazine,magazine,age,archaeologist,frontier",
+            "recuweb_url": "http://en.recuweb.com/archaeology/archaeology.org/2015/04/iron-age-owl-brooch-unearthed-in-denmark-archaeology-magazine",
             "resource_url": "http://www.google.com/search?q=archaeology%2Barchaeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://archaeology.org/news/3213-150416-rising-whale-trade"
+            "source_url": "http://archaeology.org/news/3224-150421-denmark-bronze-clasp"
         },
-        "gizmodo.com/2015/04/italian-man-s-quest-to-fix-toilet-led-amazing-archaeology": {
-            "title": "Italian Man's Quest to Fix Toilet Led to Amazing Archaeology...",
-            "snippet": "Fifteen years ago, Luciano Faggiano of Lecce, Italy sent his sons out digging for a broken sewer line. They didn't find the pipe, but they did find a Messapian tomb, a Roman granary, a Franciscan chapel and even etchings...",
-            "date": "2015-04-15",
-            "author_name": "Sarah Zhang",
+        "archaeology.org/2015/04/the-cult-of-amun-archaeology-magazine": {
+            "title": "The Cult of Amun - Archaeology Magazine...",
+            "snippet": "Nubia Cult of Amun Aerial Archaeologists have excavated the remains of a sprawling temple complex dedicated to the god Amun at the Sudanese site of Dangeil, shown in this aerial view. In its 3,000-year history as a state,...",
+            "date": "2015-04-17",
+            "author_name": "unknown",
             "categories": "archaeology",
-            "tags": "find,line,archaeology,man,years,italy,digging",
-            "recuweb_url": "http://en.recuweb.com/archaeology/gizmodo.com/2015/04/italian-man-s-quest-to-fix-toilet-led-amazing-archaeology",
+            "tags": "archaeologists,remains,temple,god,archaeology,archaeology_magazine,magazine,site,state",
+            "recuweb_url": "http://en.recuweb.com/archaeology/archaeology.org/2015/04/the-cult-of-amun-archaeology-magazine",
             "resource_url": "http://www.google.com/search?q=archaeology%2Barchaeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://gizmodo.com/italian-mans-quest-to-fix-toilet-led-to-amazing-archaeo-1698019974"
+            "source_url": "http://archaeology.org/issues/174-1505/features/3146-sudan-nubia-dangeil-cult-of-amun-ra"
         },
         "archaeology.org/2015/04/study-suggests-chins-evolved-as-faces-shrank-archaeology": {
             "title": "Study Suggests Chins Evolved as Faces Shrank - Archaeology...",
@@ -71,7 +50,7 @@
             "date": "2015-04-15",
             "author_name": "unknown",
             "categories": "sport,archaeology",
-            "tags": "modern,humans,city,study,suggests,archaeology",
+            "tags": "similar,why,iowa,study,suggests,archaeology,young",
             "recuweb_url": "http://en.recuweb.com/archaeology/archaeology.org/2015/04/study-suggests-chins-evolved-as-faces-shrank-archaeology",
             "resource_url": "http://www.google.com/search?q=archaeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://archaeology.org/news/3207-150415-modern-human-chin"
@@ -82,7 +61,7 @@
             "date": "2015-04-14",
             "author_name": "unknown",
             "categories": "archaeology",
-            "tags": "study,suggests,site,old,archaeology,archaeology_magazine,magazine,year",
+            "tags": "study,suggests,old,archaeology,archaeology_magazine,magazine,site",
             "recuweb_url": "http://en.recuweb.com/archaeology/archaeology.org/2015/04/cut-marks-on-neanderthal-bones-analyzed-archaeology-magazine",
             "resource_url": "http://www.google.com/search?q=archaeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://archaeology.org/news/3204-150414-france-neanderthal-bones"
@@ -93,21 +72,10 @@
             "date": "2015-04-13",
             "author_name": "unknown",
             "categories": "archaeology",
-            "tags": "archaeology,researchers,archaeologist",
+            "tags": "archaeologist,archaeology",
             "recuweb_url": "http://en.recuweb.com/archaeology/archaeology.org/2015/04/mass-grave-detected-at-nazi-concentration-camp-archaeology",
             "resource_url": "http://www.google.com/search?q=archaeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://archaeology.org/news/3197-150413-germany-mass-grave"
-        },
-        "voices.nationalgeographic.com/2015/04/3-surprising-discoveries-from-the-archaeology-of-food-voices": {
-            "title": "3 Surprising Discoveries From the Archaeology of Food Voices...",
-            "snippet": "The archaeology of food is filling in the gaps between all the grand monuments and intricately crafted objects that occupied researchers and the public for.",
-            "date": "2015-04-09",
-            "author_name": "Andrew Howley",
-            "categories": "food,archaeology",
-            "tags": "between,researchers,public,discoveries,archaeology",
-            "recuweb_url": "http://en.recuweb.com/archaeology/voices.nationalgeographic.com/2015/04/3-surprising-discoveries-from-the-archaeology-of-food-voices",
-            "resource_url": "http://www.google.com/search?q=archaeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://voices.nationalgeographic.com/2015/04/09/3-surprising-discoveries-from-the-archaeology-of-food/"
         },
         "phys.org/2015/04/archaeology-of-a-million-stars-to-unravel-galaxies-evolution": {
             "title": "Archaeology of a million stars to unravel galaxies'evolution -...",
@@ -119,6 +87,38 @@
             "recuweb_url": "http://en.recuweb.com/archaeology/phys.org/2015/04/archaeology-of-a-million-stars-to-unravel-galaxies-evolution",
             "resource_url": "http://www.google.com/search?q=archaeology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://phys.org/news/2015-04-archaeology-million-stars-unravel-galaxies.html"
+        },
+        "twipa.blogspot.com/2015/03/why-the-y-in-archaeology-is-so-important": {
+            "title": "Why the Y in Archaeology is so important...",
+            "snippet": "This week our letter is Y and in thinking of topics to cover it occurred to us that perhaps instead of looking at words beginning with the letter Y, we should look at words ending in y. The obvious choice then is the y in archaeology. Archaeology is...",
+            "date": "2015-03-27",
+            "author_name": "PA Archaeology",
+            "categories": "archaeology",
+            "tags": "look,important,why,archaeology",
+            "recuweb_url": "http://en.recuweb.com/archaeology/twipa.blogspot.com/2015/03/why-the-y-in-archaeology-is-so-important",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=archaeology%2Barchaeology&rss=1&lng=en",
+            "source_url": "http://twipa.blogspot.com/2015/03/why-y-in-archaeology-is-so-important.html"
+        },
+        "thestudentroom.co.uk/2015/03/other-not-applicable-help-me-uni-choices-archaeology-&-anthropology": {
+            "title": "Other/Not applicable HELP ME UNI CHOICES Archaeology/Archaeology & Anthropology UNI CHOICES HELP ME...",
+            "snippet": "Thread Starter HELP ME UNI CHOICES Archaeology/Archaeology & Anthropology UNI CHOICES HELP ME Follow 36 minutes ago 36m ago Hi, I'm sure there are 101 other people posting similar questions/worries about uni choices, and I understand that deciding...",
+            "date": "2015-03-26",
+            "author_name": "tillyb",
+            "categories": "anthropology,archaeology",
+            "tags": "similar,anthropology,archaeology",
+            "recuweb_url": "http://en.recuweb.com/archaeology/thestudentroom.co.uk/2015/03/other-not-applicable-help-me-uni-choices-archaeology-&-anthropology",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=archaeology%2Barchaeology&rss=1&lng=en",
+            "source_url": "http://thestudentroom.co.uk/showthread.php?t=3225365&goto=newpost"
+        },
+        "reddit.com/2015/03/ama-bronze-age-archaeology-and-history": {
+            "title": "AMA - Bronze Age Archaeology and History...",
+            "snippet": "I am Eric H. Cline, an ancient historian and archaeologist at The George Washington University, in Washington DC, where I am a Professor of Classics and Anthropology as well as Director of the Capitol Archaeological Institute. I have degrees from...",
+            "date": "2015-03-17",
+            "categories": "institute,university,archaeology,anthropology",
+            "tags": "archaeological,archaeologist,age,archaeology,ancient,anthropology",
+            "recuweb_url": "http://en.recuweb.com/anthropology/reddit.com/2015/03/ama-bronze-age-archaeology-and-history",
+            "resource_url": "http://www.reddit.com/search.rss?q=archaeology%2Barchaeology&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/AskHistorians/comments/2zde5t/ama_bronze_age_archaeology_and_history/"
         }
     }
 }
