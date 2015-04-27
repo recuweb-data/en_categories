@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "beverages",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/beverages/",
@@ -10,29 +11,41 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/beverages/beverages/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/100-more-beverages-outlets-in-kerala": {
+            "title": "100 100 More beverages outlets in Kerala...",
+            "snippet": "100 100 More beverages outlets in Kerala More in the Playlist Click Here To Subscribe! Website Facebook Twitter... From: asianetnews Views: 75 0 ratings Time: 01:56 More in News & Politics...",
+            "date": "2015-04-24",
+            "author_name": "asianetnews",
+            "categories": "facebook,twitter,beverages,play,politics",
+            "tags": "subscribe,beverages",
+            "recuweb_url": "http://en.recuweb.com/politics/youtube.com/2015/04/100-more-beverages-outlets-in-kerala",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=beverages&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=4InYy8T6Xg4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/4InYy8T6Xg4/0.jpg"
+        },
+        "dailymotion.com/2015/04/aisle-by-choosing-foods-wisely-healthy-beverages": {
+            "title": "Aisle by Aisle: Choosing Foods Wisely - Choosing Healthy Beverages...",
+            "snippet": "Aisle by Aisle: Choosing Foods Wisely - Choosing Healthy BeveragesAuthor: ErinnMullisTags: Aisle by Aisle: Choosing Foods Wisely - Healthy Beverages Posted: 24 April 2015Rating:: 0...",
+            "date": "2015-04-24",
+            "author_name": "ErinnMullis",
+            "categories": "beverages,foods,food",
+            "tags": "beverages,choosing",
+            "recuweb_url": "http://en.recuweb.com/food/dailymotion.com/2015/04/aisle-by-choosing-foods-wisely-healthy-beverages",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/beverages+beverages/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nsumv_aisle-by-aisle-choosing-foods-wisely-choosing-healthy-beverages_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nsumv_aisle-by-aisle-choosing-foods-wisely-choosing-healthy-beverages_lifestyle"
+        },
         "dailymotion.com/2015/04/how-can-i-save-on-beverages-for-my-party-to-drinks": {
             "title": "How can I save on beverages for my party?: How To Save On Drinks For Your Party...",
             "snippet": "This video How can I save on beverages for my party? is from the series How To Save On Drinks For Your PartyAuthor: scribbleTags: party save drinks Posted: 15 April 2015Rating:: 0...",
             "date": "2015-04-15",
             "author_name": "scribble",
             "categories": "drink,beverages",
-            "tags": "party,save,series,save-on-beverages,beverages,scribbletags",
+            "tags": "party,series,beverages,scribbletags",
             "recuweb_url": "http://en.recuweb.com/beverages/dailymotion.com/2015/04/how-can-i-save-on-beverages-for-my-party-to-drinks",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/beverages/0?af=1",
             "source_url": "http://dailymotion.com/video/x2me7e2_how-can-i-save-on-beverages-for-my-party-how-to-save-on-drinks-for-your-party_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2me7e2_how-can-i-save-on-beverages-for-my-party-how-to-save-on-drinks-for-your-party_lifestyle"
-        },
-        "dailymotion.com/2015/04/how-can-i-save-on-beverages-for-my-party-budget": {
-            "title": "How can I save on beverages for my party?: Party Budget...",
-            "snippet": "This video How can I save on beverages for my party? is from the series Party BudgetAuthor: scribbleTags: costs english law civil procedure parking Posted: 15 April 2015Rating:: 0...",
-            "date": "2015-04-15",
-            "author_name": "scribble",
-            "categories": "law,beverages",
-            "tags": "party,series,save,save-on-beverages,beverages,scribbletags",
-            "recuweb_url": "http://en.recuweb.com/beverages/dailymotion.com/2015/04/how-can-i-save-on-beverages-for-my-party-budget",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/beverages/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2me73t_how-can-i-save-on-beverages-for-my-party-party-budget_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2me73t_how-can-i-save-on-beverages-for-my-party-party-budget_lifestyle"
         },
         "dailymotion.com/2015/04/what-kinds-of-food-and-beverages-can-i-serve": {
             "title": "What kinds of food and beverages can I serve at a green event?: Hosting Green Events...",
@@ -40,7 +53,7 @@
             "date": "2015-04-15",
             "author_name": "loveyourhome",
             "categories": "events,food,beverages",
-            "tags": "parties,food,beverages",
+            "tags": "parties,beverages",
             "recuweb_url": "http://en.recuweb.com/beverages/dailymotion.com/2015/04/what-kinds-of-food-and-beverages-can-i-serve",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/beverages/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mdpqy_what-kinds-of-food-and-beverages-can-i-serve-at-a-green-event-hosting-green-events_lifestyle",
@@ -52,23 +65,11 @@
             "date": "2015-04-15",
             "author_name": "scribble",
             "categories": "beverages",
-            "tags": "party,series,parties,beverages,scribbletags",
+            "tags": "party,series,parties,choosing,beverages,scribbletags",
             "recuweb_url": "http://en.recuweb.com/beverages/dailymotion.com/2015/04/what-should-i-consider-when-choosing-the-beverages-for-my-party",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/beverages/0?af=1",
             "source_url": "http://dailymotion.com/video/x2me5v6_what-should-i-consider-when-choosing-the-beverages-for-my-party-menu-planning-for-parties_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2me5v6_what-should-i-consider-when-choosing-the-beverages-for-my-party-menu-planning-for-parties_lifestyle"
-        },
-        "dailymotion.com/2015/04/what-are-healthy-beverages-for-my-child-food-information-adolescents": {
-            "title": "What are healthy beverages for my child?: Food Information For Adolescents...",
-            "snippet": "This video What are healthy beverages for my child? is from the series Food Information For AdolescentsAuthor: tohealthTags: food guide pyramid healthy diet soft drink diet food Posted: 13 April 2015Rating:: 0...",
-            "date": "2015-04-13",
-            "author_name": "tohealth",
-            "categories": "food,drink,beverages",
-            "tags": "food,drink,series,beverages",
-            "recuweb_url": "http://en.recuweb.com/beverages/dailymotion.com/2015/04/what-are-healthy-beverages-for-my-child-food-information-adolescents",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/beverages/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mazax_what-are-healthy-beverages-for-my-child-food-information-for-adolescents_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mazax_what-are-healthy-beverages-for-my-child-food-information-for-adolescents_lifestyle"
         },
         "dailymotion.com/2015/03/why-i-don-t-drink-beer-or-other-alcoholic-beverages": {
             "title": "Why I Don't Drink Beer Or Other Alcoholic Beverages...",
@@ -76,7 +77,7 @@
             "date": "2015-03-07",
             "author_name": "anjim10",
             "categories": "drink,alcoholic-beverages,beverages",
-            "tags": "drink,beverages",
+            "tags": "under,drink,beverages,beverage",
             "recuweb_url": "http://en.recuweb.com/beverages/dailymotion.com/2015/03/why-i-don-t-drink-beer-or-other-alcoholic-beverages",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/beverages/0?af=1",
             "source_url": "http://dailymotion.com/video/x2iwvee_why-i-don-t-drink-beer-or-other-alcoholic-beverages_lifestyle",
@@ -100,35 +101,35 @@
             "date": "2015-01-23",
             "author_name": "Rayna Allyson",
             "categories": "beverages",
-            "tags": "box,beatbox,beatbox_beverages,beverages,shark,shark_tank,tank",
+            "tags": "brand,beatbox,beatbox_beverages,beverages,shark,shark_tank,tank",
             "recuweb_url": "http://en.recuweb.com/beverages/youtube.com/2015/01/shark-tank-mark-cuban-s-best-pitch-1-million-deal-beatbox",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=beverages%2Bbeverages&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=qAEKYi0u5IM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/qAEKYi0u5IM/0.jpg"
         },
-        "youtube.com/2014/11/conversations-with-shark-tank-winners-beatbox-beverages-is-party-in": {
-            "title": "Conversations With Shark Tank Winners: BeatBox Beverages Is Party In A Box!",
-            "snippet": "Conversations With Shark Tank Winners: BeatBox Beverages Is Party In A Box! () Conversations With Shark Tank Winners - Hosted by Rey Ybarra: BeatBox Beverages () Is Party In A Box! From: Pax Stereo Tv Views: 2013 6 ratings Time: 50:31 More in...",
-            "date": "2014-11-30",
-            "author_name": "Pax Stereo Tv",
-            "categories": "beverages",
-            "tags": "party,box,beatbox,beatbox_beverages,beverages,shark,shark_tank,tank",
-            "recuweb_url": "http://en.recuweb.com/beverages/youtube.com/2014/11/conversations-with-shark-tank-winners-beatbox-beverages-is-party-in",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=beverages&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=FaPYpNMzin4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/FaPYpNMzin4/0.jpg"
-        },
         "youtube.com/2014/10/shark-tank-beatbox-beverages": {
             "title": "Shark Tank - BeatBox Beverages...",
-            "snippet": "Shark Tank - BeatBox Beverages BeatBox Beverages is a party in a box! Check out this rad sneak peek from tonight's all-new SharkTank! Subscribe: Follow Shark Tank: Shark... From: ABC Television Network Views: 9368 14 ratings Time: 01:39 More in...",
+            "snippet": "Shark Tank - BeatBox Beverages BeatBox Beverages is a party in a box! Check out this rad sneak peek from tonight's all-new SharkTank! Subscribe: Follow Shark Tank: Shark... From: ABC Television Network Views: 9756 15 ratings Time: 01:39 More in...",
             "date": "2014-10-24",
             "author_name": "ABC Television Network",
             "categories": "television,beverages",
-            "tags": "beatbox,beatbox_beverages,beverages,party,shark,shark_tank,tank",
+            "tags": "beatbox,beatbox_beverages,beverages,party,shark,shark_tank,tank,subscribe",
             "recuweb_url": "http://en.recuweb.com/beverages/youtube.com/2014/10/shark-tank-beatbox-beverages",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=beverages%2Bbeverages&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=rQafXaRkPC0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/rQafXaRkPC0/0.jpg"
+        },
+        "youtube.com/2014/10/hector-beverages-ceo-on-newer-products-international-markets-and-pricing-strategy": {
+            "title": "Hector Beverages CEO on newer products, international markets and pricing strategy...",
+            "snippet": "Hector Beverages CEO on newer products, international markets and pricing strategy Gurgaon-based Hector Beverages Pvt Ltd, which entered the beverage market with energy drink under the brand Tzinga has witnessed an interesting last 18 months since...",
+            "date": "2014-10-22",
+            "author_name": "Editor @VCCircle",
+            "categories": "drink,beverages,markets",
+            "tags": "beverage,drink,under,brand,beverages",
+            "recuweb_url": "http://en.recuweb.com/markets/youtube.com/2014/10/hector-beverages-ceo-on-newer-products-international-markets-and-pricing-strategy",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=beverages%2Bbeverages&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=0vzSKI0ndd4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/0vzSKI0ndd4/0.jpg"
         }
     }
 }
