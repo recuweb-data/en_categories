@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "elliptical-galaxies",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/elliptical-galaxies/",
@@ -10,16 +11,38 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/elliptical-galaxies/elliptical-galaxies/blogs.json"
     },
     "items": {
-        "arxiver.wordpress.com/2015/04/comparison-of-simple-mass-estimators-for-slowly-rotating-elliptical": {
-            "title": "Comparison of simple mass estimators for slowly rotating elliptical...",
-            "snippet": "We compare the performance of mass estimators for elliptical galaxies that rely on the directly observable surface brightness and velocity dispersion profiles, without invoking computationally...",
-            "date": "2015-04-16",
-            "author_name": "arxiver",
-            "categories": "galaxies",
-            "tags": "rotating,elliptical,galaxies",
-            "recuweb_url": "http://en.recuweb.com/galaxies/arxiver.wordpress.com/2015/04/comparison-of-simple-mass-estimators-for-slowly-rotating-elliptical",
+        "ritholtz.com/2015/04/giant-elliptical-galaxy-the-big-picture": {
+            "title": "Giant Elliptical Galaxy The Big Picture...",
+            "snippet": "Two very different galaxies are drifting through space together in this image. The peculiar galaxy pair is called Arp 116 which is composed of a giant elliptical galaxy known as Messier 60 or M60 (C) and a much smaller spiral...",
+            "date": "2015-04-23",
+            "author_name": "Barry Ritholtz",
+            "categories": "drifting,galaxies",
+            "tags": "giant,called,together,image,elliptical,elliptical_galaxy,galaxy,galaxies,space,spiral",
+            "recuweb_url": "http://en.recuweb.com/galaxies/ritholtz.com/2015/04/giant-elliptical-galaxy-the-big-picture",
             "resource_url": "http://www.google.com/search?q=elliptical%2Bgalaxies%2Belliptical%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://arxiver.wordpress.com/2015/04/16/comparison-of-simple-mass-estimators-for-slowly-rotating-elliptical-galaxies-ga/"
+            "source_url": "http://ritholtz.com/blog/2015/04/giant-elliptical-galaxy/"
+        },
+        "scitechdaily.com/2015/04/new-observations-reveal-how-star-formation-shuts-down-in": {
+            "title": "New Observations Reveal How Star Formation Shuts Down in...",
+            "snippet": "New research reveals that three billion years after the Big Bang, massive elliptical galaxies still made stars on their outskirts, but no longer in their interiors. Astronomers have shown for the first time how star formation in dead...",
+            "date": "2015-04-20",
+            "author_name": "James Kelly",
+            "categories": "observation,galaxies,stars",
+            "tags": "dead,longer,interiors,outskirts,made,bang,research,reveal,billion,billion-years,observations,stars,star_formation,formation,massive,elliptical,galaxies,astronomers",
+            "recuweb_url": "http://en.recuweb.com/stars/scitechdaily.com/2015/04/new-observations-reveal-how-star-formation-shuts-down-in",
+            "resource_url": "http://www.google.com/search?q=elliptical%2Bgalaxies%2Belliptical%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://scitechdaily.com/new-observations-reveal-how-star-formation-shuts-down-in-elliptical-galaxies/"
+        },
+        "sci-news.com/2015/04/star-formation-stops-in-cores-of-elliptical-galaxies": {
+            "title": "Star Formation Stops in Cores of Elliptical Galaxies First...",
+            "snippet": "A new study in the journal Science has revealed that 3 billion years after the Big Bang, elliptical galaxies still made stars on their outskirts, but no longer in their interiors. Resembling looming rain clouds on a stormy day, dark...",
+            "date": "2015-04-17",
+            "author_name": "Sci-News.com",
+            "categories": "elliptical-galaxies,galaxies,science,stars",
+            "tags": "longer,interiors,outskirts,made,bang,billion,billion-years,revealed,elliptical,elliptical_galaxies,galaxies,stars,star_formation,formation,science,dark",
+            "recuweb_url": "http://en.recuweb.com/stars/sci-news.com/2015/04/star-formation-stops-in-cores-of-elliptical-galaxies",
+            "resource_url": "http://www.google.com/search?q=elliptical%2Bgalaxies%2Belliptical%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://sci-news.com/astronomy/science-star-formation-elliptical-galaxies-02712.html"
         },
         "eso.org/2015/04/giant-galaxies-die-from-the-inside-out-eso": {
             "title": "Giant Galaxies Die from the Inside Out ESO...",
@@ -27,7 +50,7 @@
             "date": "2015-04-16",
             "author_name": "unknown",
             "categories": "galaxies",
-            "tags": "inside,inside_out,eso,giant,galaxies,galaxies_die,die,major,astrophysical,mystery,centred,massive,quiescent,elliptical,common,modern,universe,quenched,once,furious,rates,star,formation,colossal,called",
+            "tags": "called,once,modern,mystery,inside,giant,galaxies,massive,elliptical,universe,star,formation",
             "recuweb_url": "http://en.recuweb.com/galaxies/eso.org/2015/04/giant-galaxies-die-from-the-inside-out-eso",
             "resource_url": "http://www.google.com/search?q=elliptical%2Bgalaxies%2Belliptical%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://eso.org/public/news/eso1516/"
@@ -38,7 +61,7 @@
             "date": "2015-04-16",
             "author_name": "Keith Cooper",
             "categories": "observation,galaxies,astronomy,stars",
-            "tags": "outskirts,show,massive,galaxies,inside,astronomy,elliptical,light,years,stars,formation",
+            "tags": "outskirts,light,observations,inside,massive,galaxies,astronomy,elliptical,stars,formation",
             "recuweb_url": "http://en.recuweb.com/stars/astronomynow.com/2015/04/massive-galaxies-died-from-the-inside-out-astronomy-now",
             "resource_url": "http://www.google.com/search?q=elliptical%2Bgalaxies%2Belliptical%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://astronomynow.com/2015/04/16/massive-galaxies-died-from-the-inside-out/"
@@ -49,21 +72,21 @@
             "date": "2015-04-13",
             "author_name": "James Kelly",
             "categories": "galaxies,stars",
-            "tags": "contains,gas,young,rotating,old,elliptical,elliptical_galaxy,galaxy,hubble,hubble_space,hubble_space_telescope,space,space_telescope,telescope,galaxies,stars",
+            "tags": "contains,gas,young,relatively,elliptical,elliptical_galaxy,galaxy,hubble,space,telescope,galaxies,stars",
             "recuweb_url": "http://en.recuweb.com/stars/scitechdaily.com/2015/04/hubble-space-telescope-views-elliptical-galaxy-ngc-2865",
             "resource_url": "http://www.google.com/search?q=elliptical%2Bgalaxies%2Belliptical%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://scitechdaily.com/hubble-space-telescope-views-elliptical-galaxy-ngc-2865/"
         },
-        "aaronsreality.blogspot.com/2015/04/aaron-s-reality-elliptical-galaxies": {
-            "title": "Aaron's Reality: Elliptical Galaxies...",
-            "snippet": "In the Standard Vibration Model, the Elliptical Galaxies are similar to Thermonuclear explosions in space where there is little pressure against them from external densities, magnetism or Dark Matter. The more pressure...",
-            "date": "2015-04-06",
-            "author_name": "Aaron Guerami",
-            "categories": "dark-matter,elliptical-galaxies,galaxies",
-            "tags": "dark,matter,elliptical,elliptical_galaxies,galaxies,space",
-            "recuweb_url": "http://en.recuweb.com/galaxies/aaronsreality.blogspot.com/2015/04/aaron-s-reality-elliptical-galaxies",
-            "resource_url": "http://www.google.com/search?q=elliptical%2Bgalaxies%2Belliptical%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://aaronsreality.blogspot.com/2015/04/elliptical-galaxies.html"
+        "theastroholic.wordpress.com/2015/02/the-universe-in-10-features-7-elliptical-galaxies": {
+            "title": "The Universe in 10 Features: 7. Elliptical Galaxies...",
+            "snippet": "Our 7th feature is about elliptical galaxies. Elliptical galaxies are the other main class of galaxies we find in our universe. They have a spherical stellar distribution, meaning...",
+            "date": "2015-02-13",
+            "author_name": "DrCarpineti",
+            "categories": "elliptical-galaxies,galaxies",
+            "tags": "find,other,main,elliptical,elliptical_galaxies,galaxies,universe,stellar",
+            "recuweb_url": "http://en.recuweb.com/galaxies/theastroholic.wordpress.com/2015/02/the-universe-in-10-features-7-elliptical-galaxies",
+            "resource_url": "http://en.search.wordpress.com/?q=elliptical%2Bgalaxies%2Belliptical%2Bgalaxies&f=feed&page=1",
+            "source_url": "http://theastroholic.wordpress.com/2015/02/13/the-universe-in-10-features-7-elliptical-galaxies/"
         },
         "coleyartastro.wordpress.com/2015/02/most-massive-galaxies": {
             "title": "most massive galaxies...",
@@ -71,7 +94,7 @@
             "date": "2015-02-02",
             "author_name": "coleyartastro",
             "categories": "elliptical-galaxies,galaxies,stars",
-            "tags": "randomly,within,elliptical,elliptical_galaxies,galaxies,massive,giant,stars,galaxy",
+            "tags": "randomly,within,sky,giant,elliptical,elliptical_galaxies,galaxies,massive,stars,galaxy",
             "recuweb_url": "http://en.recuweb.com/stars/coleyartastro.wordpress.com/2015/02/most-massive-galaxies",
             "resource_url": "http://en.search.wordpress.com/?q=elliptical%2Bgalaxies%2Belliptical%2Bgalaxies&f=feed&page=1",
             "source_url": "http://coleyartastro.wordpress.com/2015/02/02/most-massive-galaxies/"
@@ -82,21 +105,10 @@
             "date": "2014-11-16",
             "author_name": "barbaral1742",
             "categories": "dark-matter,stars,galaxies",
-            "tags": "main,dark,matter,gas,galaxy,dust,stars,galaxies,elliptical,spiral",
+            "tags": "main,dark,matter,together,gas,galaxy,dust,stars,galaxies,elliptical,spiral",
             "recuweb_url": "http://en.recuweb.com/galaxies/barbarasguidethroughthegalaxies.wordpress.com/2014/11/what-is-a-galaxy",
             "resource_url": "http://en.search.wordpress.com/?q=elliptical%2Bgalaxies%2Belliptical%2Bgalaxies&f=feed&page=1",
             "source_url": "http://barbarasguidethroughthegalaxies.wordpress.com/2014/11/16/what-is-a-galaxy/"
-        },
-        "spacetelescope.org/2014/07/merging-galaxies-and-droplets-of-starbirth-esa-hubble": {
-            "title": "Merging galaxies and droplets of starbirth ESA/Hubble...",
-            "snippet": "At the centre of this image lie two elliptical galaxies, part of a galaxy cluster known as HGO2008SDSS J1531 3414, which have strayed into each other's paths. While this region has been observed before, this new Hubble...",
-            "date": "2014-07-10",
-            "author_name": "unknown",
-            "categories": "galaxies",
-            "tags": "other,image,lie,droplets,starbirth,merging,galaxies,esa,hubble,elliptical,galaxy,cluster,sdss,into",
-            "recuweb_url": "http://en.recuweb.com/galaxies/spacetelescope.org/2014/07/merging-galaxies-and-droplets-of-starbirth-esa-hubble",
-            "resource_url": "http://www.google.com/search?q=elliptical%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://spacetelescope.org/news/heic1414/"
         },
         "phys.org/2014/05/elliptical-galaxies-chandra-helps-explain-red-and-dead": {
             "title": "Elliptical galaxies: Chandra helps explain 'red and dead galaxies'...",
@@ -104,21 +116,10 @@
             "date": "2014-05-30",
             "author_name": "unknown",
             "categories": "evidence,galaxies,stars",
-            "tags": "black,light,dead,elliptical,galaxies,nasa,mystery,giant,young,stars",
+            "tags": "black,light,mystery,giant,dead,elliptical,galaxies,nasa,young,stars",
             "recuweb_url": "http://en.recuweb.com/stars/phys.org/2014/05/elliptical-galaxies-chandra-helps-explain-red-and-dead",
             "resource_url": "http://www.google.com/search?q=elliptical%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://phys.org/news/2014-05-elliptical-galaxies-chandra-red-dead.html"
-        },
-        "cfa.harvard.edu/2012/10/split-personality-elliptical-galaxy-holds-a-hidden-spiral2012-29": {
-            "title": "Split-Personality Elliptical Galaxy Holds a Hidden Spiral2012-29...",
-            "snippet": "Most big galaxies fit into one of two camps: pinwheel-shaped spiral galaxies and blobby elliptical galaxies. Spirals like the Milky Way are hip and happening places, with plenty of gas and dust to birth new stars. Ellipticals are...",
-            "date": "2012-10-22",
-            "author_name": "unknown",
-            "categories": "places,personality,galaxies,stars",
-            "tags": "gas,dust,milky,milky_way,way,elliptical_galaxy,galaxy,big,galaxies,into,shaped,stars",
-            "recuweb_url": "http://en.recuweb.com/stars/cfa.harvard.edu/2012/10/split-personality-elliptical-galaxy-holds-a-hidden-spiral2012-29",
-            "resource_url": "http://www.google.com/search?q=elliptical%2Bgalaxies%2Belliptical%2Bgalaxies&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://cfa.harvard.edu/news/2012-29"
         }
     }
 }
