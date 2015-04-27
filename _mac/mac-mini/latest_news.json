@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "mac-mini",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/mac-mini/",
@@ -10,6 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/mac-mini/mac-mini/blogs.json"
     },
     "items": {
+        "mashable.com/2015/04/acer-s-adorable-little-revo-one-mini-pc-takes-on": {
+            "title": "Acer's adorable little Revo One mini PC takes on the Mac Mini - Mashable...",
+            "snippet": "MashableAcer's adorable little Revo One mini PC takes on the Mac MiniMashableThe hard drives are all easily user-swappable, unlike the Mac Mini's, which requires a whole lot more disassembling, according to iFixit. Each drive can have a maximum...",
+            "date": "2015-04-24",
+            "categories": "mac-mini",
+            "tags": "drive,lot,hard,mac,mac_mini,mini,little",
+            "recuweb_url": "http://en.recuweb.com/mac-mini/mashable.com/2015/04/acer-s-adorable-little-revo-one-mini-pc-takes-on",
+            "resource_url": "http://news.google.com/?hl=en&q=mac%2Bmini&output=atom&nord=1",
+            "source_url": "http://mashable.com/2015/04/23/acer-revo-one-mini-pc-hands-on/"
+        },
         "tonedeaf.com.au/2015/04/watch-this-hilarious-mac-demarco-mini-doco-on-new-music-ciggies": {
             "title": "Watch This Hilarious Mac DeMarco Mini-Doco On New Music, Ciggies & Other... - Tone Deaf...",
             "snippet": "Tone DeafWatch This Hilarious Mac DeMarco Mini-Doco On New Music, Ciggies & Other...Tone DeafHowever, courtesy of a fresh video that just popped-up online, we've got something to tie us over until he makes he triumphant return Down Under. First...",
@@ -25,7 +36,7 @@
             "snippet": "Lastly, support for Intel-based Apple Macs got a lot better, especially the Mac Mini computer, various mixed-mode EFI systems are now supported, including the 64-bit Intel Bay Trail platform, as well as the addition of 32-bit EFI to the i386...",
             "date": "2015-04-22",
             "categories": "mac-mini",
-            "tags": "mac,mac_mini,mini,apple,macs,support,intel,little,computer",
+            "tags": "mac,mac_mini,mini,lot,apple,macs,support,intel,little,computer",
             "recuweb_url": "http://en.recuweb.com/mac-mini/news.softpedia.com/2015/04/debian-8-0-adds-support-for-arm64-powerpc64-little-endian",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=us",
             "source_url": "http://news.softpedia.com/news/Debian-8-0-Adds-Support-for-ARM64-PowerPC64-Little-Endian-and-Intel-Bay-Trail-Architectures-479139.shtml"
@@ -34,7 +45,7 @@
             "title": "Intel Compute Stick Review: World's Smallest Windows PC...",
             "snippet": "How small can Windows PCs get? Forget about the Tupperware-size Mac mini or sandwich-size NUC Intel's Computer Stick is the size and shape of a large USB key, but runs a full version of Microsoft's OS. With its Atom CPU, 2GB of RAM and 32GB of...",
             "date": "2015-04-22",
-            "tags": "computer,intel,windows,small,mac,mini,usb",
+            "tags": "computer,intel,small,mac,mini,usb",
             "recuweb_url": "http://en.recuweb.com/tomsguide.com/2015/04/intel-compute-stick-review-world-s-smallest-windows-pc",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=us",
             "source_url": "http://tomsguide.com/us/intel-compute-stick,review-2770.html"
@@ -46,7 +57,7 @@
             "categories": "home",
             "tags": "demarco,mini,mac,mac_demarco",
             "recuweb_url": "http://en.recuweb.com/home/rollingstone.com/2015/04/mac-demarco-plots-mini-lp-another-one-massive-tour",
-            "resource_url": "http://news.google.com/?hl=en&q=mac%2Bmini%2Bmac%2Bmini&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=mac%2Bmini&output=atom&nord=1",
             "source_url": "http://rollingstone.com/music/news/mac-demarco-plots-mini-lp-another-one-massive-tour-20150422"
         },
         "benzinsider.com/2015/04/mercedes-benz-g63-amg-based-phoenix-of-alpha-armouring": {
@@ -74,7 +85,7 @@
             "snippet": "As a test set, I compared my main 2013 27-inch maxed-out iMac with my late 2012 Mac mini (where I replaced the hard drive with an SSD) with the new MacBook Pro. Overall performance: As comes as no real surprise, overall performance of my Core i7...",
             "date": "2015-04-21",
             "categories": "macbook,imac",
-            "tags": "macbook,macbook_pro,pro,drive,late,inch,test,display,fast,imac,mac,mini,core",
+            "tags": "macbook,macbook_pro,pro,hard,drive,inch,test,display,fast,imac,mac,mini,core",
             "recuweb_url": "http://en.recuweb.com/imac/zdnet.com/2015/04/refreshed-macbook-pro-stunningly-fast-storage-spooky-touchpad-delightful-display",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=us",
             "source_url": "http://zdnet.com/article/refreshed-macbook-pro-stunningly-fast-storage-spooky-touchpad-delightful-display/"
@@ -98,16 +109,6 @@
             "recuweb_url": "http://en.recuweb.com/mac-mini/tomshardware.com/2015/04/should-i-get-a-mac-mini-or-build-custom-pc",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=us",
             "source_url": "http://tomshardware.com/answers/id-2608074/mac-mini-build-custom-business-editing-gaming.html"
-        },
-        "electronista.com/2015/04/back-to-the-mac-backing-up-mini": {
-            "title": "Back to the Mac: Backing up the Mac mini...",
-            "snippet": "Earlier this year, staff writer and long-time Windows user Malcolm Owen returned to the Mac following a five-year absence. Back to the Mac is a series of posts where he charts his progress in introducing Apple to his computing environment again. In...",
-            "date": "2015-04-10",
-            "categories": "environment",
-            "tags": "computing,mac,mini,windows,apple",
-            "recuweb_url": "http://en.recuweb.com/environment/electronista.com/2015/04/back-to-the-mac-backing-up-mini",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=us",
-            "source_url": "http://electronista.com/articles/15/04/10/users.even.power.users.are.often.lackadaisical.about.this.vital.duty/"
         }
     }
 }
