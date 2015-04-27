@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "postgresql",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/postgresql/",
@@ -16,20 +17,10 @@
             "date": "2015-04-23",
             "author_name": "ExplodingAds.com",
             "categories": "database,events",
-            "tags": "easy,gresql,database,data",
+            "tags": "easy,into,integration,water,gresql,database,data",
             "recuweb_url": "http://en.recuweb.com/events/blog.confluent.io/2015/04/bottled-water-real-time-integration-of-postgresql-and-kafka",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.confluent.io/2015/04/23/bottled-water-real-time-integration-of-postgresql-and-kafka/"
-        },
-        "postgresql.org/2015/04/call-for-papers-postgresql-session-7-september-24th": {
-            "title": "Call for Papers, PostgreSQL Session 7, September, 24th...",
-            "snippet": "After six successful sessions dedicated to the new features of PostgreSQL 9.0 (February 2011), to PostGIS (June 2011 & September 2014), to replication systems (February 2012), to migration from Oracle to PostgreSQL...",
-            "date": "2015-04-20",
-            "author_name": "unknown",
-            "tags": "replication,features,gresql,papers",
-            "recuweb_url": "http://en.recuweb.com/postgresql.org/2015/04/call-for-papers-postgresql-session-7-september-24th",
-            "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://postgresql.org/about/news/1582/"
         },
         "postgresql.org/2015/04/postgresql-maestro-15-4-released": {
             "title": "PostgreSQL: PostgreSQL Maestro 15.4 released...",
@@ -37,7 +28,7 @@
             "date": "2015-04-09",
             "author_name": "unknown",
             "categories": "database",
-            "tags": "immediately,server,solution,gui,powerful,announces,announces-the-release,release,sql,sql_maestro,sql_maestro_group,maestro,maestro_group,group,gresql,released,database,development,version",
+            "tags": "version,version-is-immediately,immediately,administration,powerful,announces,sql,sql_maestro,sql_maestro_group,maestro,maestro_group,group,gresql,released,release,solution,database,server,development",
             "recuweb_url": "http://en.recuweb.com/database/postgresql.org/2015/04/postgresql-maestro-15-4-released",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://postgresql.org/about/news/1580/"
@@ -48,7 +39,7 @@
             "date": "2015-03-26",
             "author_name": "unknown",
             "categories": "database",
-            "tags": "immediately,available,tool,powerful,easy,announces,announces-the-release,release,sql,sql_maestro,sql_maestro_group,maestro,maestro_group,group,data,gresql,released,database,version",
+            "tags": "version,version-is-immediately,immediately,synchronization,tool,powerful,easy,announces,sql,sql_maestro,sql_maestro_group,maestro,maestro_group,group,data,sync,gresql,released,release,database",
             "recuweb_url": "http://en.recuweb.com/database/postgresql.org/2015/03/postgresql-data-sync-15-3-released",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://postgresql.org/about/news/1579/"
@@ -58,7 +49,7 @@
             "snippet": "The Call For Papers for PostgresOpen 2015, being held in Dallas, Texas from September 16th to 18th, is now open! If you are working with PostgreSQL, please visit and submit a talk! We're looking for presentations on any...",
             "date": "2015-03-17",
             "author_name": "unknown",
-            "tags": "please,visit,working,papers,gresql,open",
+            "tags": "papers,gresql,open,working",
             "recuweb_url": "http://en.recuweb.com/postgresql.org/2015/03/postgresql-postgresopen-2015-in-dallas-call-for-papers",
             "resource_url": "http://www.google.com/search?q=postgresql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://postgresql.org/about/news/1578/"
@@ -68,7 +59,7 @@
             "snippet": "The simplest way to do this is open a terminal and type: 1. sudo apt-get --purge remove postgresql 1.1 sudo apt-get remove postgresql This will also prompt you to remove that...",
             "date": "2015-03-13",
             "author_name": "Admin",
-            "tags": "computer,open,gresql",
+            "tags": "open,gres,gresql",
             "recuweb_url": "http://en.recuweb.com/randvblog.wordpress.com/2015/03/how-to-remove-uinstall-complete-postgres-from-my-ubuntu-computer",
             "resource_url": "http://en.search.wordpress.com/?q=postgresql%2Bpostgresql&f=feed&page=1",
             "source_url": "http://randvblog.wordpress.com/2015/03/13/how-to-removeuinstall-complete-postgres-from-my-ubuntu-computer/"
@@ -78,7 +69,7 @@
             "snippet": "Also note that up until PostgreSQL 9.1 (including), we've seen a significant performance drop once we exceeded the number of CPUs (the machine has 8 cores in total, which is exactly the point where the number of...",
             "date": "2015-03-05",
             "author_name": "Onadvertise",
-            "tags": "seen,performance,gresql",
+            "tags": "performance,once,gresql",
             "recuweb_url": "http://en.recuweb.com/blog.pgaddict.com/2015/03/performance-since-postgresql-7-4-pgbench-addict",
             "resource_url": "http://www.google.com/search?q=postgresql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.pgaddict.com/posts/performance-since-postgresql-7-4-to-9-4-pgbench"
@@ -88,7 +79,7 @@
             "snippet": "!/bin/bash for i in SOURCES BUILD SCRIPTS COMPONENTS LOGS STARTUP SHUTDOWN MONITORS TMP DATA DATA/postgresql BACKUPS do if! -d/i; then echo \"Making directory i.\" mkdir/i fi chmod 770/i done VERSION=DOWNLOAD=PG_BUILD_DIR=/BUILD/postgresql-VERSION...",
             "date": "2015-02-16",
             "author_name": "Robert Jerrells",
-            "tags": "components,startup,data,work,gresql,version",
+            "tags": "scripts,components,data,gresql,version",
             "recuweb_url": "http://en.recuweb.com/ki4wyr.wordpress.com/2015/02/postgresql-standalone-build-script-work-in-progress",
             "resource_url": "http://en.search.wordpress.com/?q=postgresql%2Bpostgresql&f=feed&page=1",
             "source_url": "http://ki4wyr.wordpress.com/2015/02/16/postgresql-standalone-build-script-work-in-progress/"
@@ -99,7 +90,7 @@
             "date": "2015-02-05",
             "author_name": "unknown",
             "categories": "database",
-            "tags": "development,group,released,gresql,database",
+            "tags": "versions,supported,development,group,released,gresql,security,database,system",
             "recuweb_url": "http://en.recuweb.com/database/postgresql.org/2015/02/postgresql-&-released",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://postgresql.org/about/news/1569/"
@@ -109,10 +100,20 @@
             "snippet": "Andreas 'ads'Scherbaum As Josh Berkus blogged before, Pivotal is hosting the inaugural South Bay PostgreSQL Meetup in the Palo Alto office. We were able to secure two very good speaker: Mason Sharp, from TransLattice: Scale-out PostgreSQL with...",
             "date": "2015-01-28",
             "author_name": "(Andreas 'ads' Scherbaum)",
-            "tags": "josh,berkus,gresql,scale",
+            "tags": "gresql,office",
             "recuweb_url": "http://en.recuweb.com/andreas.scherbaum.la/2015/01/the-inaugural-south-bay-postgresql-meetup",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=postgresql%2Bpostgresql&rss=1&lng=en",
             "source_url": "http://andreas.scherbaum.la/blog/archives/892-The-inaugural-South-Bay-PostgreSQL-Meetup.html"
+        },
+        "postgresql.org/2015/01/postgresql-codeless-sync-with-office-365-sharepoint-exchange": {
+            "title": "PostgreSQL codeless sync with Office 365, SharePoint, Exchange...",
+            "snippet": "Layer2, one of the leading providers of codeless data integration and synchronization tools in Europe, has announced full PostgreSQL support for their Cloud Connector. You will find more Information here:.",
+            "date": "2015-01-27",
+            "author_name": "unknown",
+            "tags": "cloud,integration,synchronization,leading,sync,gresql,office,data,support,here",
+            "recuweb_url": "http://en.recuweb.com/postgresql.org/2015/01/postgresql-codeless-sync-with-office-365-sharepoint-exchange",
+            "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://postgresql.org/about/news/1568/"
         }
     }
 }
