@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "solar-system",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/solar-system/",
@@ -10,14 +11,14 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/solar-system/solar-system/blogs.json"
     },
     "items": {
-        "libn.com/2015/04/solar-system-going-up-in-robert-moses-state-park-long-island": {
-            "title": "solar system going up in Robert Moses State Park - Long Island Business News...",
-            "snippet": "Long Island Business solar system going up in Robert Moses State ParkLong Island Business NewsAs part of a plan to help parks go green with alternative energy, New York State is installing a 1.7 million, 500-kilowatt solar system inRobert Moses...",
+        "libn.com/2015/04/solar-system-going-up-in-robert-moses-state-park": {
+            "title": "solar system going up in Robert Moses State Park...",
+            "snippet": "The sun shines brightly on many summer days in Robert Moses State Park. But now in addition to enhancing recreation, the sun will also provide electricity at the facility thanks to photovoltaic panels being installed in the park. As part of a plan...",
             "date": "2015-04-24",
-            "categories": "business",
-            "tags": "part,green,long,solar,system",
-            "recuweb_url": "http://en.recuweb.com/business/libn.com/2015/04/solar-system-going-up-in-robert-moses-state-park-long-island",
-            "resource_url": "http://news.google.com/?hl=en&q=solar%2Bsystem%2Bsolar%2Bsystem&output=atom&nord=1",
+            "categories": "sun,recreation",
+            "tags": "part,solar,system,photovoltaic",
+            "recuweb_url": "http://en.recuweb.com/recreation/libn.com/2015/04/solar-system-going-up-in-robert-moses-state-park",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=solar%2Bsystem&format=RSS&cc=us",
             "source_url": "http://libn.com/2015/04/24/1-7m-solar-system-going-up-in-robert-moses-state-park/"
         },
         "dailymail.co.uk/2015/04/vintage-space-tourism-posters-reveal-a-colonised-solar-system-and-earth": {
@@ -25,9 +26,9 @@
             "snippet": "Daily Mail'Vintage'space tourism posters reveal a colonised solar system and Earth in ruinDaily MailThat's the future envisioned by an artist in a fantastic series of 'tourism'posters, showcasing his dream for how we might one day explore the stars.",
             "date": "2015-04-24",
             "categories": "stars,space-tourism,tourism,earth",
-            "tags": "series,daily,space,solar,system,earth",
+            "tags": "space,solar,system,earth",
             "recuweb_url": "http://en.recuweb.com/earth/dailymail.co.uk/2015/04/vintage-space-tourism-posters-reveal-a-colonised-solar-system-and-earth",
-            "resource_url": "http://news.google.com/?hl=en&q=solar%2Bsystem%2Bsolar%2Bsystem&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=solar%2Bsystem&output=atom&nord=1",
             "source_url": "http://dailymail.co.uk/sciencetech/article-3053645/Fascinating-space-tourism-posters-reveal-colonised-solar-Earth-ruin.html"
         },
         "nola.com/2015/04/attorney-general-buddy-caldwell-warns-against-solar-power-system-costs-scams": {
@@ -35,77 +36,79 @@
             "snippet": "General Buddy Caldwell warns against solar power system costs, \"Consumers may consider solar systems to be a good investment because of the potential for long-term savings and the possibility of incentives and credits that may be available for...",
             "date": "2015-04-24",
             "categories": "credit",
-            "tags": "systems,system,long,solar,power",
+            "tags": "solar,systems",
             "recuweb_url": "http://en.recuweb.com/credit/nola.com/2015/04/attorney-general-buddy-caldwell-warns-against-solar-power-system-costs-scams",
-            "resource_url": "http://news.google.com/?hl=en&q=solar%2Bsystem%2Bsolar%2Bsystem&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=solar%2Bsystem&output=atom&nord=1",
             "source_url": "http://nola.com/business/baton-rouge/index.ssf/2015/04/solar_power_system_scams_attorney_general_buddy_caldwell.html"
+        },
+        "gizmodo.in/2015/04/nasas-nexss-initiative-will-hunt-for-sign-of-life-outside": {
+            "title": "NASAs NExSS initiative will hunt for sign of life outside our solar system...",
+            "snippet": "In order to the search for life on planets outside our solar system, the US space agency NASA is bringing together the top minds in a variety of scientific fields. The ambitious initiative, which is known as the Nexus for Exoplanet System Science...",
+            "date": "2015-04-24",
+            "categories": "science,mind,life,planets",
+            "tags": "exoplanet,system,science,initiative,bringing,bringing-together,together,top,fields,space,search,search-for-life,life,planets,outside,life-outside,nasa,nexss,solar,nexus",
+            "recuweb_url": "http://en.recuweb.com/planets/gizmodo.in/2015/04/nasas-nexss-initiative-will-hunt-for-sign-of-life-outside",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=solar%2Bsystem&format=RSS&cc=us",
+            "source_url": "http://gizmodo.in/indiamodo/NASAs-NExSS-initiative-will-hunt-for-sign-of-life-outside-our-solar-system/articleshow/47040073.cms"
+        },
+        "space.com/2015/04/nearby-alien-planets-not-so-life-friendly": {
+            "title": "Nearby Alien Planets Not So Life-Friendly After All...",
+            "snippet": "The odds of finding alien life in our solar system's backyard have just taken a bit of a hit. The star Tau Ceti, which lies just 11.9 light-years from Earth, is thought to host five exoplanets, two of which have been posited to lie in the habitable...",
+            "date": "2015-04-24",
+            "categories": "exoplanets,life,planets,earth",
+            "tags": "alien,alien-life,life,planets,solar,system,earth",
+            "recuweb_url": "http://en.recuweb.com/earth/space.com/2015/04/nearby-alien-planets-not-so-life-friendly",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=solar%2Bsystem&format=RSS&cc=us",
+            "source_url": "http://space.com/29191-exoplanets-tau-ceti-alien-life.html"
+        },
+        "marketbusinessnews.com/2015/04/search-for-alien-life-outside-our-solar-system-stepped-up": {
+            "title": "Search for alien life outside our solar system stepped up by NASA...",
+            "snippet": "NASA is stepping up the search for alien life outside our solar system by bringing together science experts from various fields in what it describes as an unprecedented initiative dedicated to the search for life. NExSS (Nexus for Exoplanet...",
+            "date": "2015-04-24",
+            "categories": "life,science",
+            "tags": "fields,unprecedented,unprecedented-initiative,unprecedented-initiative-dedicated,initiative,initiative-dedicated,dedicated,search,search-for-life,life,bringing,bringing-together,together,science,alien,alien-life,life-outside,outside,solar,system,nasa,nexss,nexus,exoplanet",
+            "recuweb_url": "http://en.recuweb.com/science/marketbusinessnews.com/2015/04/search-for-alien-life-outside-our-solar-system-stepped-up",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=solar%2Bsystem&format=RSS&cc=us",
+            "source_url": "http://marketbusinessnews.com/search-for-alien-life-outside-our-solar-system-stepped-up-by-nasa/57989"
         },
         "agrinews.com/2015/04/farmers-like-their-solar-systems-agri-news": {
             "title": "Farmers like their solar systems - Agri News...",
             "snippet": "Agri NewsFarmers like their solar systemsAgri NewsCarlton Kjos, a Decorah beef and crop farmer; Roger Egeland, an Ossian dairy producer, and Lyle Luzum, who is retired and operates a small organic farm near Calmar, described their systems as part of...",
             "date": "2015-04-23",
-            "tags": "systems,part,organic,solar",
+            "tags": "part,small,solar,systems",
             "recuweb_url": "http://en.recuweb.com/agrinews.com/2015/04/farmers-like-their-solar-systems-agri-news",
-            "resource_url": "http://news.google.com/?hl=en&q=solar%2Bsystem%2Bsolar%2Bsystem&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=solar%2Bsystem&output=atom&nord=1",
             "source_url": "http://agrinews.com/news/iowa_news/farmers-like-their-solar-systems/article_4b735abf-9696-54c6-9f33-75b766c17ff0.html"
+        },
+        "newsela.com/2015/04/jupiter-gets-credit-for-earth-s-place-in-the-solar-system": {
+            "title": "Jupiter gets credit for Earth's place in the solar system...",
+            "snippet": "A comparison of Earth, Jupiter, and the Great Red Spot located in the top center of this photo. The raging storm known as the Great Red Spot on Jupiter could swallow up the whole Earth. Photo: Wikimedia Commons In Roman times, many people...",
+            "date": "2015-04-23",
+            "categories": "credit,earth",
+            "tags": "top,place,earth,solar,system",
+            "recuweb_url": "http://en.recuweb.com/earth/newsela.com/2015/04/jupiter-gets-credit-for-earth-s-place-in-the-solar-system",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=solar%2Bsystem&format=RSS&cc=us",
+            "source_url": "http://newsela.com/articles/jupiter-earth/id/8746/"
         },
         "uwyo.edu/2015/04/nasa-taps-uw-scientist-in-search-for-life-beyond-the-solar": {
             "title": "NASA Taps UW Scientist in Search for Life Beyond the Solar System - University of Wyoming News...",
             "snippet": "University of Wyoming NewsNASA Taps UW Scientist in Search for Life Beyond the Solar SystemUniversity of Wyoming NewsApril 23, 2015 University of Wyoming researcher Hannah Jang-Condell is playing a key role in an unprecedented initiative dedicated...",
             "date": "2015-04-23",
             "categories": "solar-system,life,university",
-            "tags": "solar,solar_system,system,life,beyond",
+            "tags": "unprecedented,unprecedented-initiative,unprecedented-initiative-dedicated,initiative,initiative-dedicated,dedicated,solar,solar_system,system,life,nasa,search",
             "recuweb_url": "http://en.recuweb.com/university/uwyo.edu/2015/04/nasa-taps-uw-scientist-in-search-for-life-beyond-the-solar",
-            "resource_url": "http://news.google.com/?hl=en&q=solar%2Bsystem%2Bsolar%2Bsystem&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=solar%2Bsystem&output=atom&nord=1",
             "source_url": "http://uwyo.edu/uw/news/2015/04/nasa-taps-uw-scientist-in-search-for-life-beyond-the-solar-system.html"
         },
-        "pasoroblesdailynews.com/2015/04/pear-valley-turns-sunshine-into-wine-with-new-solar-system-paso": {
-            "title": "Pear Valley turns 'sunshine into wine'with new solar system - Paso Robles Daily News...",
-            "snippet": "Paso Robles Daily NewsPear Valley turns 'sunshine into wine'with new solar systemPaso Robles Daily NewsPear Valley and Solarponics have successfully implemented a solar system at Pear Valley Winery that generates more power than the winery uses. The...",
-            "date": "2015-04-22",
-            "tags": "power,than,daily,solar,system",
-            "recuweb_url": "http://en.recuweb.com/pasoroblesdailynews.com/2015/04/pear-valley-turns-sunshine-into-wine-with-new-solar-system-paso",
-            "resource_url": "http://news.google.com/?hl=en&q=solar%2Bsystem%2Bsolar%2Bsystem&output=atom&nord=1",
-            "source_url": "http://pasoroblesdailynews.com/pear-valley-turns-sunshine-into-wine-with-new-solar-system/34553/"
-        },
-        "nature.com/2015/04/the-organic-solar-system": {
-            "title": "The organic Solar System -...",
-            "snippet": "The organic Solar the first part of this two-essay series it was pointed out that over 100 different organic compounds have been detected in space, and that there are many locations in the Solar System where complex and as yet uncharacterized...",
-            "date": "2015-04-22",
-            "categories": "solar-system",
-            "tags": "organic,space,series,part,solar,solar_system,system",
-            "recuweb_url": "http://en.recuweb.com/solar-system/nature.com/2015/04/the-organic-solar-system",
-            "resource_url": "http://news.google.com/?hl=en&q=solar%2Bsystem%2Bsolar%2Bsystem&output=atom&nord=1",
-            "source_url": "http://nature.com/nchem/journal/v7/n5/full/nchem.2241.html"
-        },
-        "cleantechnica.com/2015/04/ghana-off-grid-households-to-benefit-from-100000-solar-pv-systems": {
-            "title": "Ghana Off-Grid Households To Benefit From 100000 Solar PV Systems - CleanTechnica...",
-            "snippet": "CleanTechnicaGhana Off-Grid Households To Benefit From 100000 Solar PV SystemsCleanTechnicaUK provider of commercial PayGo solar systems, Azuri Technology, has announced that it plans to partner with Oasis African Resources to provide 100,000...",
-            "date": "2015-04-21",
-            "categories": "technology",
-            "tags": "provide,solar,systems",
-            "recuweb_url": "http://en.recuweb.com/technology/cleantechnica.com/2015/04/ghana-off-grid-households-to-benefit-from-100000-solar-pv-systems",
-            "resource_url": "http://news.google.com/?hl=en&q=solar%2Bsystem%2Bsolar%2Bsystem&output=atom&nord=1",
-            "source_url": "http://cleantechnica.com/2015/04/21/ghana-off-grid-households-benefit-100000-solar-systems/"
-        },
-        "androidheadlines.com/2015/04/sponsored-app-review-solar-system": {
-            "title": "Sponsored App Review: Solar System...",
-            "snippet": "Solar System is an Android app that aims to educate users, both young and old, about the universe, specifically the planets that make up our own solar system. How the app does this is through interactive displays with 3D renders that show things...",
-            "date": "2015-04-21",
-            "categories": "solar-system,planets",
-            "tags": "own,solar,solar_system,system,universe,planets",
-            "recuweb_url": "http://en.recuweb.com/planets/androidheadlines.com/2015/04/sponsored-app-review-solar-system",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=solar%2Bsystem%2Bsolar%2Bsystem&format=RSS&cc=us",
-            "source_url": "http://androidheadlines.com/2015/04/sponsored-app-review-solar-system.html"
-        },
-        "timesunion.com/2015/04/solar-system-growth-alarms-utilities-albany-times-union": {
-            "title": "Solar system growth alarms utilities - Albany Times Union...",
-            "snippet": "Albany Times UnionSolar system growth alarms utilitiesAlbany Times UnionHonolulu. Allan Akamine has looked all around the winding, palm tree-lined cul-de-sacs of his suburban neighborhood in Miliani here on Oahu and, with an equal mix of frustration...",
-            "date": "2015-04-19",
-            "tags": "around,solar,system",
-            "recuweb_url": "http://en.recuweb.com/timesunion.com/2015/04/solar-system-growth-alarms-utilities-albany-times-union",
-            "resource_url": "http://news.google.com/?hl=en&q=solar%2Bsystem%2Bsolar%2Bsystem&output=atom&nord=1",
-            "source_url": "http://timesunion.com/news/article/Solar-system-growth-alarms-utilities-6209015.php"
+        "redding.com/2015/04/nasa-evidence-of-ocean-beneath-solar-system-s-biggest-moon": {
+            "title": "NASA: Evidence of ocean beneath solar system's biggest moon...",
+            "snippet": "LOS ANGELES (AP) The largest moon in the solar system harbors a salty ocean beneath its icy shell, the latest member to join a growing club of watery moons, NASA said Thursday. The solar system is now looking like a pretty soggy place, said Jim...",
+            "date": "2015-04-23",
+            "categories": "moons,moon,evidence",
+            "tags": "place,nasa,solar,system",
+            "recuweb_url": "http://en.recuweb.com/evidence/redding.com/2015/04/nasa-evidence-of-ocean-beneath-solar-system-s-biggest-moon",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=solar%2Bsystem&format=RSS&cc=us",
+            "source_url": "http://redding.com/lifestyle/nasa-evidence-of-ocean-beneath-solar-systems-biggest-moon"
         }
     }
 }
