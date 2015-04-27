@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "php",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/php/",
@@ -10,17 +11,29 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/php/php/blogs.json"
     },
     "items": {
-        "youtube.com/2015/03/php-7-paradise-season-opener-2015-locastro-lockwood-albright-hedden-smith": {
-            "title": "PHP 7 - Paradise Season Opener, 2015 (Locastro, Lockwood, Albright, Hedden, Smith)...",
-            "snippet": "PHP 7 - Paradise Season Opener, 2015 (Locastro, Lockwood, Albright, Hedden, Smith) YouTube/PureHyzerProductions Sponsor: Final Round, Open Lead Card Coverage from the Paradise Season Opener... From: Pure Hyzer Productions Views: 20312 78 ratings...",
-            "date": "2015-03-03",
+        "youtube.com/2015/04/php-9a-the-browns-valley-throw-down-2015-round-1-greenhoe": {
+            "title": "PHP 9a - The Browns Valley Throw Down, 2015 - Round 1 (Greenhoe, Kinney, Weese, Locastro)...",
+            "snippet": "PHP 9a - The Browns Valley Throw Down, 2015 - Round 1 (Greenhoe, Kinney, Weese, Locastro) YouTube/PureHyzerProductions Round 2: Sponsors: Axiom: Cali Connection:... From: Pure Hyzer Productions Views: 5355 60 ratings Time: 01:01:09 More in Sports...",
+            "date": "2015-04-12",
             "author_name": "Pure Hyzer Productions",
-            "categories": "production,php",
-            "tags": "lead,final,final_round,round,php",
-            "recuweb_url": "http://en.recuweb.com/php/youtube.com/2015/03/php-7-paradise-season-opener-2015-locastro-lockwood-albright-hedden-smith",
+            "categories": "production,php,sport",
+            "tags": "down,php,round",
+            "recuweb_url": "http://en.recuweb.com/sport/youtube.com/2015/04/php-9a-the-browns-valley-throw-down-2015-round-1-greenhoe",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=lq0RNGhgIKo&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/lq0RNGhgIKo/0.jpg"
+            "source_url": "http://youtube.com/watch?v=mCh5T9ySWIY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/mCh5T9ySWIY/0.jpg"
+        },
+        "youtube.com/2015/02/php-upload-file-in-tutorial-007": {
+            "title": "PHP Upload File - Upload File In PHP - PHP Upload Tutorial - 007...",
+            "snippet": "PHP Upload File - Upload File In PHP - PHP Upload Tutorial - 007 007 - PHP Upload File - Upload File In PHP - PHP Upload Tutorial VDOS LEARNING channel is a part of Information Technology that shows videos tutorial about T... From: VDOS LEARNING...",
+            "date": "2015-02-15",
+            "author_name": "VDOS LEARNING",
+            "categories": "technology,learning,php",
+            "tags": "php",
+            "recuweb_url": "http://en.recuweb.com/php/youtube.com/2015/02/php-upload-file-in-tutorial-007",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=iRb8mw4zmo4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/iRb8mw4zmo4/0.jpg"
         },
         "dailymotion.com/2015/02/php-and-mysql-chapter-4-variables-arrays-functions-include-require": {
             "title": "PHP and MySQL - Chapter 4 - PHP Variables and Arrays - Functions, Include and Require...",
@@ -28,23 +41,11 @@
             "date": "2015-02-09",
             "author_name": "eduonix",
             "categories": "php,mysql",
-            "tags": "php,mysql,learn,variables,chapter,arrays,eduonixtags",
+            "tags": "php,mysql,learn,arrays",
             "recuweb_url": "http://en.recuweb.com/mysql/dailymotion.com/2015/02/php-and-mysql-chapter-4-variables-arrays-functions-include-require",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/php+php/0?af=1",
             "source_url": "http://dailymotion.com/video/x2gqv8e_php-and-mysql-chapter-4-php-variables-and-arrays-functions-include-and-require_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2gqv8e_php-and-mysql-chapter-4-php-variables-and-arrays-functions-include-and-require_tech"
-        },
-        "dailymotion.com/2015/02/php-and-mysql-chapter-7-variables-arrays-conditionals-regex": {
-            "title": "PHP and MySQL - Chapter 7 - PHP Variables and Arrays - Conditionals and RegEx...",
-            "snippet": "Learn more about PHP conditionals and regexAuthor: eduonixTags: Posted: 09 February 2015Rating:: 0...",
-            "date": "2015-02-09",
-            "author_name": "eduonix",
-            "categories": "php,mysql",
-            "tags": "variables,php,mysql,chapter,arrays,learn,eduonixtags",
-            "recuweb_url": "http://en.recuweb.com/mysql/dailymotion.com/2015/02/php-and-mysql-chapter-7-variables-arrays-conditionals-regex",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/php+php/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2gqv8y_php-and-mysql-chapter-7-php-variables-and-arrays-conditionals-and-regex_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2gqv8y_php-and-mysql-chapter-7-php-variables-and-arrays-conditionals-and-regex_tech"
         },
         "dailymotion.com/2014/12/php-development-india-outsource-company": {
             "title": "PHP Development india, Outsource PHP Development Company...",
@@ -52,7 +53,7 @@
             "date": "2014-12-05",
             "author_name": "nethuestechnologies",
             "categories": "php",
-            "tags": "development,php,company",
+            "tags": "php",
             "recuweb_url": "http://en.recuweb.com/php/dailymotion.com/2014/12/php-development-india-outsource-company",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/php+php/0?af=1",
             "source_url": "http://dailymotion.com/video/x2btkcg_php-development-india-outsource-php-development-company_tech",
@@ -64,35 +65,35 @@
             "date": "2014-11-17",
             "author_name": "Pure Hyzer Productions",
             "categories": "stroke,php",
-            "tags": "lead,final,final_round,round,php",
+            "tags": "round,down,php",
             "recuweb_url": "http://en.recuweb.com/php/youtube.com/2014/11/php-4b-norcal-series-championships-2014-final-round-nichols-addiego-anthon",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=gq5_Uq1XSwo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/gq5_Uq1XSwo/0.jpg"
         },
-        "dailymotion.com/2014/10/php-live-project-training-ahmedabad-classes": {
-            "title": "PHP Live Project Training Ahmedabad, PHP Classes Ahmedabad, PHP Training Ahmedabad...",
-            "snippet": "NicheTech Computer Solutions is the best web development company in Ahmedabad. NicheTech is offering best PHP Training Ahmedabad. PHP is the best technology for Live Project Training. Take a right step for live project training. PHP is a technology...",
-            "date": "2014-10-01",
-            "author_name": "nichetechinstitute",
-            "categories": "technology,web-development,php",
-            "tags": "live,live_project,live_project_training,project,project_training,training,web,web-development,development,company,php,classes,php_live,php_live_project",
-            "recuweb_url": "http://en.recuweb.com/php/dailymotion.com/2014/10/php-live-project-training-ahmedabad-classes",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/php+php/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2705y7_php-live-project-training-ahmedabad-php-classes-ahmedabad-php-training-ahmedabad_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2705y7_php-live-project-training-ahmedabad-php-classes-ahmedabad-php-training-ahmedabad_tech"
+        "youtube.com/2014/08/multi-dimension-arrays-in-php": {
+            "title": "Multi Dimension arrays in PHP...",
+            "snippet": "Multi Dimension arrays in PHP Multi Dimension arrays in PHP Php and Mysql Course Php tutorials, Php g\u00f6rsel eitim seti Array Data Structure,PHP (Programming Language),Array Data Type,Oper... From: Learn by TechnoLab Views: 14 1 ratings Time: 05:13...",
+            "date": "2014-08-06",
+            "author_name": "Learn by TechnoLab",
+            "categories": "mysql,php",
+            "tags": "arrays,data,programming,programming_language,language,structure,g\u00f6rsel,mysql,course,php,tutorials,seti,learn,technolab",
+            "recuweb_url": "http://en.recuweb.com/php/youtube.com/2014/08/multi-dimension-arrays-in-php",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=H_o_5iiXLrM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/H_o_5iiXLrM/0.jpg"
         },
-        "youtube.com/2014/08/cooonfiiguring-emaes-for-php-and-first-program": {
-            "title": "COOONFIIGURING EMAES FOR PHP AND FIRST PROGRAM...",
-            "snippet": "COOONFIIGURING EMAES FOR PHP AND FIRST PROGRAM PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. As of January 2013, PHP was ins... From: Views: 3 0 ratings Time: 12:22 More...",
-            "date": "2014-08-08",
-            "author_name": "Phpweblab.com",
-            "categories": "web-development,php",
-            "tags": "programming,programming-language,language,web,web-development,development,php",
-            "recuweb_url": "http://en.recuweb.com/php/youtube.com/2014/08/cooonfiiguring-emaes-for-php-and-first-program",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=3CtqdZV694Q&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/3CtqdZV694Q/0.jpg"
+        "youtube.com/2014/08/strrev-structure-in-php": {
+            "title": "Strrev() Structure in PHP...",
+            "snippet": "Strrev() Structure in PHP Strrev() Structure in PHP Php operat\u00f6rler Php and Mysql Course Php tutorials, Php g\u00f6rsel eitim seti Array Data Structure,PHP (Programming Language),Array Da... From: Learn by TechnoLab Views: 9 0 ratings Time: 01:51 More...",
+            "date": "2014-08-06",
+            "author_name": "Learn by TechnoLab",
+            "categories": "mysql,php",
+            "tags": "programming,programming_language,language,seti,data,g\u00f6rsel,mysql,course,structure,php,tutorials,learn,technolab",
+            "recuweb_url": "http://en.recuweb.com/php/youtube.com/2014/08/strrev-structure-in-php",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=UQE5Cg6BEaw&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/UQE5Cg6BEaw/0.jpg"
         },
         "dailymotion.com/2014/07/hublaa-autoliker-script-download-free-php": {
             "title": "Hublaa Autoliker Script Download Free - Download Hublaa php Script Free...",
@@ -106,29 +107,29 @@
             "source_url": "http://dailymotion.com/video/x21vbin_hublaa-autoliker-script-download-free-download-hublaa-php-script-free_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x21vbin_hublaa-autoliker-script-download-free-download-hublaa-php-script-free_tech"
         },
-        "dailymotion.com/2014/07/php-training-in-urdu-10-connecting-with-mysql-database": {
-            "title": "Php training in urdu - 10 - connecting php with mysql database...",
-            "snippet": "In this video i will show you how to connect php with mysql. This tutorial video is in urdu and hindi: itreleaseTags: MySQL PHP php mysql connection tutorial training urdu hindi Posted: 11 July 2014Rating:: 0...",
-            "date": "2014-07-11",
-            "author_name": "itrelease",
-            "categories": "php,mysql,database",
-            "tags": "php,mysql,training",
-            "recuweb_url": "http://en.recuweb.com/database/dailymotion.com/2014/07/php-training-in-urdu-10-connecting-with-mysql-database",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/php+php/0?af=1",
-            "source_url": "http://dailymotion.com/video/x21a7v3_php-training-in-urdu-10-connecting-php-with-mysql-database_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x21a7v3_php-training-in-urdu-10-connecting-php-with-mysql-database_tech"
-        },
         "dailymotion.com/2014/07/php-live-project-training-in-gurgaon-course-classes": {
             "title": "PHP Live Project Training In Gurgaon - PHP Course Classes...",
             "snippet": "Delta IT Training provides six month project training for MCA, BCA,, IT, IT Students in Gurgaon and Delhi NCR. We provide live project training in PHP.: deltawebservicesTags: PHP Institute of IT Training Programming language Summer Training PHP...",
             "date": "2014-07-10",
             "author_name": "deltawebservices",
             "categories": "institute,students,php",
-            "tags": "training,programming,programming-language,language,live,live_project,live_project_training,project,project_training,php,classes,php_live,php_live_project",
+            "tags": "programming,language,php,course",
             "recuweb_url": "http://en.recuweb.com/php/dailymotion.com/2014/07/php-live-project-training-in-gurgaon-course-classes",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/php+php/0?af=1",
             "source_url": "http://dailymotion.com/video/x217i6n_php-live-project-training-in-gurgaon-php-course-classes_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x217i6n_php-live-project-training-in-gurgaon-php-course-classes_tech"
+        },
+        "youtube.com/2014/06/12-if-else-statements-in-php-video-tutorial-hindi-urdu": {
+            "title": "12 - if, if else statements in php - PHP Video Tutorial in Hindi-Urdu...",
+            "snippet": "12 - if, if else statements in php - PHP Video Tutorial in Hindi-Urdu Please visit for more video tutorials like C Programming Language Video Tutorial, C Programming Language Video Tutorial, Java Progra... From: Views: 19 0 ratings Time: 03:34 More...",
+            "date": "2014-06-09",
+            "author_name": "techosh.com",
+            "categories": "java,php",
+            "tags": "programming,programming_language,language,tutorials,php",
+            "recuweb_url": "http://en.recuweb.com/php/youtube.com/2014/06/12-if-else-statements-in-php-video-tutorial-hindi-urdu",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=r_sbLYkRWNE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/r_sbLYkRWNE/0.jpg"
         }
     }
 }
