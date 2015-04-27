@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "healthcare-reform",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/healthcare-reform/",
@@ -10,104 +11,104 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/healthcare-reform/healthcare-reform/blogs.json"
     },
     "items": {
-        "burlingtonfreepress.com/2015/04/committee-tries-to-rescue-health-care-reform": {
-            "title": "Committee tries to rescue health care reform...",
-            "snippet": "MONTPELIER The chairman of the House health care committee Thursday proposed raising the states cigarette tax to fund a 12 million health care reform package. The committees centerpiece health care reform and is stalled in...",
-            "date": "2015-04-23",
+        "huffingtonpost.com/2015/04/advance-directives-2-0": {
+            "title": "Advance Directives 2.0...",
+            "snippet": "This year marks the fifth anniversary of healthcare reform in this country. Many of its goals regarding patient-centered care remain elusive, which is not surprising given the scope of the problem. We need new directions to improve the quality of...",
+            "date": "2015-04-27",
+            "tags": "quality,care,healthcare,reform",
+            "recuweb_url": "http://en.recuweb.com/huffingtonpost.com/2015/04/advance-directives-2-0",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=healthcare%2Breform&format=RSS&cc=us",
+            "source_url": "http://huffingtonpost.com/angelo-volandes/advance-directives-20_b_7142154.html"
+        },
+        "nytimes.com/2015/04/federal-push-for-privacy-hampers-addiction-research-and-care": {
+            "title": "Federal Push for Privacy Hampers Addiction Research and Care...",
+            "snippet": "The current privacy protection pulls at some of the ambitions of health care reform. The Affordable Care Act and other recent legislation promote the exchange of electronic medical data and analysis of such data to enhance the quality and efficiency...",
+            "date": "2015-04-27",
+            "categories": "privacy,health",
+            "tags": "act,quality,federal,care,health,reform,affordable",
+            "recuweb_url": "http://en.recuweb.com/health/nytimes.com/2015/04/federal-push-for-privacy-hampers-addiction-research-and-care",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=healthcare%2Breform&format=RSS&cc=us",
+            "source_url": "http://nytimes.com/2015/04/28/upshot/federal-push-for-privacy-hampers-addiction-research-and-care.html"
+        },
+        "lvb.com/2015/04/future-of-health-care-innovation-and-personalized-medicine": {
+            "title": "Future of health care: innovation and personalized medicine...",
+            "snippet": "The health care industry last year underwent a dramatic change as it weathered through the integral stages of the most historic piece of federal health care reform since Medicare in the 1960s. Known as the Affordable Care Act or Obamacare the...",
+            "date": "2015-04-27",
+            "categories": "medicine,health",
+            "tags": "affordable,affordable_care,affordable_care_act,care,care_act,act,change,federal,future,health,reform",
+            "recuweb_url": "http://en.recuweb.com/health/lvb.com/2015/04/future-of-health-care-innovation-and-personalized-medicine",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=healthcare%2Breform&format=RSS&cc=us",
+            "source_url": "http://lvb.com/article/20150427/LVB01/304249989/future-of-health-care-innovation-and-personalized-medicine"
+        },
+        "wsj.com/2015/04/pharmaceutical-companies-buy-rivals-drugs-then-jack-up-the-prices": {
+            "title": "Pharmaceutical Companies Buy Rivals Drugs, Then Jack Up the Prices...",
+            "snippet": "Were already under tremendous pressure to reduce costs because of reimbursement changes due to health-care reform, said Scott Knoer, Cleveland Clinics chief pharmacy officer. He had hoped to lower his drug budget by 10 million this...",
+            "date": "2015-04-27",
+            "categories": "drugs,health",
+            "tags": "under,health,care,reform,said",
+            "recuweb_url": "http://en.recuweb.com/health/wsj.com/2015/04/pharmaceutical-companies-buy-rivals-drugs-then-jack-up-the-prices",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=healthcare%2Breform&format=RSS&cc=us",
+            "source_url": "http://wsj.com/articles/pharmaceutical-companies-buy-rivals-drugs-then-jack-up-the-prices-1430096431?mod=pls_whats_news_us_business_f"
+        },
+        "cpbj.com/2015/04/q-the-state-level-future-of-health-care-reformsource": {
+            "title": "Q: The state-level future of health care reformSource:...",
+            "snippet": "At the state levelwhere, unlike Congress, elected officials actually have to governRepublicans are already proposing and even enacting their own approaches to healthcare reform. The likely result is a national consensus, at some point in the...",
+            "date": "2015-04-27",
             "categories": "health",
-            "tags": "states,tax,care,health,reform",
-            "recuweb_url": "http://en.recuweb.com/health/burlingtonfreepress.com/2015/04/committee-tries-to-rescue-health-care-reform",
+            "tags": "future,health,care,healthcare,reform",
+            "recuweb_url": "http://en.recuweb.com/health/cpbj.com/2015/04/q-the-state-level-future-of-health-care-reformsource",
             "resource_url": "http://www.bing.com/news/search?first=1&q=healthcare%2Breform&format=RSS&cc=us",
-            "source_url": "http://burlingtonfreepress.com/story/news/politics/2015/04/23/committee-tries-rescue-health-care-reform/26239901/"
+            "source_url": "http://cpbj.com/article/20150427/HEALTHCARE/150429769/the-statelevel-future-of-health-care-reform"
         },
-        "marketwired.com/2015/04/envita-medical-center-reveals-innovative-cancer-treatment-to-congressman-matt-salmon": {
-            "title": "Envita Medical Center Reveals Innovative Cancer Treatment to Congressman Matt Salmon and Goldwater...",
-            "snippet": "Congressman Salmon is already leading the way in healthcare reform and attempting to ensure that patients have access to the treatments and plans that they prefer. Many times, late stage cancer patients are abandoned in hospice (if cancer treatment...",
-            "date": "2015-04-23",
-            "categories": "cancer",
-            "tags": "patients,medical,healthcare,reform,many",
-            "recuweb_url": "http://en.recuweb.com/cancer/marketwired.com/2015/04/envita-medical-center-reveals-innovative-cancer-treatment-to-congressman-matt-salmon",
+        "healthleadersmedia.com/2015/04/vt-healthcare-reform-tax-package-progresses": {
+            "title": "VT healthcare reform tax package progresses...",
+            "snippet": "Vermonters would start paying sales tax on candy and soft drinks, a meals tax on vending machine foods and higher taxes on tobacco products July 1 under a new revenue package approved by the House Ways and Means Committee Friday to pay for health...",
+            "date": "2015-04-27",
+            "categories": "foods,food,taxes,candy,soft-drinks,drink,health",
+            "tags": "under,tobacco,candy,healthcare,reform,health",
+            "recuweb_url": "http://en.recuweb.com/health/healthleadersmedia.com/2015/04/vt-healthcare-reform-tax-package-progresses",
             "resource_url": "http://www.bing.com/news/search?first=1&q=healthcare%2Breform&format=RSS&cc=us",
-            "source_url": "http://marketwired.com/press-release/envita-medical-center-reveals-innovative-cancer-treatment-congressman-matt-salmon-goldwater-2013055.htm"
+            "source_url": "http://healthleadersmedia.com/content/FIN-315697/VT-healthcare-reform-tax-package-progresses"
         },
-        "afr.com/2015/04/george-savvides-on-the-need-for-speed-in-healthcare-reform": {
-            "title": "George Savvides on the need for speed in healthcare reform and IPO challenges - The Australian...",
-            "snippet": "The Australian Financial ReviewGeorge Savvides on the need for speed in healthcare reform and IPO challengesThe Australian Financial ReviewReflecting on the pressure of managing Australia's second-biggest ever IPO, he says he is confident about...",
-            "date": "2015-04-23",
-            "tags": "healthcare,reform",
-            "recuweb_url": "http://en.recuweb.com/afr.com/2015/04/george-savvides-on-the-need-for-speed-in-healthcare-reform",
+        "news-press.com/2015/04/dr-sal-change-begins-with-you-so-take-control": {
+            "title": "Dr. Sal: Change begins with you, so take control...",
+            "snippet": "We have been hearing for years about health care reform and the impression I get from many folks is that this is a government initiative that will make the delivery of health care in the US better. Like many readers, I have been watching to see if...",
+            "date": "2015-04-26",
+            "categories": "health",
+            "tags": "care,government,change,health,reform",
+            "recuweb_url": "http://en.recuweb.com/health/news-press.com/2015/04/dr-sal-change-begins-with-you-so-take-control",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=healthcare%2Breform&format=RSS&cc=us",
+            "source_url": "http://news-press.com/story/life/wellness/2015/04/27/dr-sal-change-begins-take-control/26317289/"
+        },
+        "rochestercitynewspaper.com/2015/04/health-care-reform": {
+            "title": "Health Care Reform...",
+            "snippet": "This free workshop will help you understand the Affordable Care Act and provide you with clear guidance on what your options are. It's an excellent opportunity for unbiased counseling on an important topic. It's designed for those who work in the...",
+            "date": "2015-04-26",
+            "categories": "health,health-care",
+            "tags": "affordable,affordable_care,affordable_care_act,care,care_act,act,free,health,health_care,health_care_reform,care_reform,reform",
+            "recuweb_url": "http://en.recuweb.com/health-care/rochestercitynewspaper.com/2015/04/health-care-reform",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=healthcare%2Breform&format=RSS&cc=us",
+            "source_url": "http://rochestercitynewspaper.com/rochester/health-care-reform/Event?oid=2519187"
+        },
+        "bangkokpost.com/2015/04/healthcare-reform-faces-uphill-battle-bangkok": {
+            "title": "Healthcare reform faces uphill battle - Bangkok Post...",
+            "snippet": "Healthcare reform faces uphill battleBangkok PostMerging the government's three healthcare programmes into one will tackle inequalities in the system but poses an uphill task, the Public Health Minister has said. Speaking at seminar on public health...",
+            "date": "2015-04-26",
+            "categories": "public-health,health",
+            "tags": "said,health,government,healthcare,reform",
+            "recuweb_url": "http://en.recuweb.com/health/bangkokpost.com/2015/04/healthcare-reform-faces-uphill-battle-bangkok",
             "resource_url": "http://news.google.com/?hl=en&q=healthcare%2Breform&output=atom&nord=1",
-            "source_url": "http://afr.com/brand/healthcare2-0/george-savvides-on-the-need-for-speed-in-healthcare-reform-and-ipo-challenges-20150423-1mrei6"
+            "source_url": "http://bangkokpost.com/news/general/541291/healthcare-reform-faces-uphill-battle"
         },
-        "heraldandnews.com/2015/04/health-care-reform-leads-to-more-food-stamp-requests": {
-            "title": "Health care reform leads to more food stamp requests...",
-            "snippet": "CHICAGO (AP) President Barack Obama's health care law has had a surprising side effect: In some states, it appears to be enticing more Americans to apply for food stamps, even as the economy improves. New, streamlined application systems built for...",
-            "date": "2015-04-23",
-            "categories": "economy,food,law,health",
-            "tags": "states,care,law,president,obama,health,reform",
-            "recuweb_url": "http://en.recuweb.com/health/heraldandnews.com/2015/04/health-care-reform-leads-to-more-food-stamp-requests",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=healthcare%2Breform&format=RSS&cc=us",
-            "source_url": "http://heraldandnews.com/news/nation_world/health-care-reform-leads-to-more-food-stamp-requests/article_2e106d99-e706-5796-86c8-fed3f33590d7.html"
-        },
-        "theaggie.org/2015/04/news-in-brief-health-care-reform-advocates-find-outlet-picnic-day": {
-            "title": "News in brief: Health care reform advocates find outlet in Picnic Day Parade - The Aggie...",
-            "snippet": "News in brief: Health care reform advocates find outlet in Picnic Day ParadeThe AggieSeveral members of the Yolo County chapter of Health Care For All (HCA), a statewide health care reform nonprofit, paraded at last Saturday's Picnic Day to endorse...",
-            "date": "2015-04-23",
-            "categories": "health",
-            "tags": "care,health,reform",
-            "recuweb_url": "http://en.recuweb.com/health/theaggie.org/2015/04/news-in-brief-health-care-reform-advocates-find-outlet-picnic-day",
+        "mychamplainvalley.com/2015/04/health-care-reform-bill-draws-money-from-soda-candy-my-champlain": {
+            "title": "Health Care Reform Bill Draws Money from Soda, Candy - My Champlain Valley FOX44 & ABC22...",
+            "snippet": "My Champlain Valley FOX44 & ABC22Health Care Reform Bill Draws Money from Soda, CandyMy Champlain Valley FOX44 & ABC22\"Like a sin tax with tobacco so I'm very pro-that and that it's being transfered to something like health care is something I...",
+            "date": "2015-04-25",
+            "categories": "health,health-care,candy",
+            "tags": "care,tobacco,health,health_care,health_care_reform,care_reform,reform,candy",
+            "recuweb_url": "http://en.recuweb.com/candy/mychamplainvalley.com/2015/04/health-care-reform-bill-draws-money-from-soda-candy-my-champlain",
             "resource_url": "http://news.google.com/?hl=en&q=healthcare%2Breform%2Bhealthcare%2Breform&output=atom&nord=1",
-            "source_url": "http://theaggie.org/2015/04/23/news-in-brief-health-care-reform-advocates-find-outlet-in-picnic-day-parade/"
-        },
-        "hotair.com/2015/04/senate-gop-leadership-wants-to-restore-federal-obamacare-subsidies-through-2017": {
-            "title": "Senate GOP leadership wants to restore federal ObamaCare subsidies through 2017 if SCOTUS strikes...",
-            "snippet": "Which, actually, might not be the worst possible outcome: If you want to force the GOP to push its own version of repeal-and-replace health-care reform, the prospect of them having to take a tough vote periodically on giving billions to people who...",
-            "date": "2015-04-23",
-            "categories": "leadership,health",
-            "tags": "gop,obamacare,health,care,reform",
-            "recuweb_url": "http://en.recuweb.com/health/hotair.com/2015/04/senate-gop-leadership-wants-to-restore-federal-obamacare-subsidies-through-2017",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=healthcare%2Breform&format=RSS&cc=us",
-            "source_url": "http://hotair.com/archives/2015/04/23/senate-gop-leadership-backs-bill-to-restore-federal-obamacare-subsidies-until-2017-if-scotus-strikes-them-down/"
-        },
-        "cpapracticeadvisor.com/2015/04/thomson-reuters-launches-health-care-reform-certificate-program-for-tax-&": {
-            "title": "Thomson Reuters Launches Health Care Reform Certificate Program for Tax & Accounting Pros...",
-            "snippet": "Thomson Reuters has launched a new Checkpoint Learning Health Care Reform Certificate Program. The program provides in-depth knowledge and helps practitioners develop expertise related to the legislative and tax implications of health care reform.",
-            "date": "2015-04-23",
-            "categories": "learning,health,health-care",
-            "tags": "tax,health,health_care,health_care_reform,care,care_reform,reform,ing",
-            "recuweb_url": "http://en.recuweb.com/health-care/cpapracticeadvisor.com/2015/04/thomson-reuters-launches-health-care-reform-certificate-program-for-tax-&",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=healthcare%2Breform&format=RSS&cc=us",
-            "source_url": "http://cpapracticeadvisor.com/news/12067902/thomson-reuters-launches-health-care-reform-certificate-program-for-tax-accounting-pros"
-        },
-        "timesofindia.indiatimes.com/2015/04/wipro-eyes-2-billion-revenues-by-2018-in-healthcare-business": {
-            "title": "Wipro eyes 2 billion revenues by 2018 in healthcare business...",
-            "snippet": "with top customers looking to increase spending on technology amid the Obamacare healthcare reform in the United States, unit head Sangita Singh told ETin an interview on Wednesday. India's third largest software services exporter has hired...",
-            "date": "2015-04-23",
-            "categories": "technology,business",
-            "tags": "states,healthcare,obamacare,reform",
-            "recuweb_url": "http://en.recuweb.com/business/timesofindia.indiatimes.com/2015/04/wipro-eyes-2-billion-revenues-by-2018-in-healthcare-business",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=healthcare%2Breform&format=RSS&cc=us",
-            "source_url": "http://timesofindia.indiatimes.com/business/india-business/Wipro-eyes-2-billion-revenues-by-2018-in-healthcare-business/articleshow/47024702.cms"
-        },
-        "healthaffairs.org/2015/04/health-care-reform-and-the-trap-of-iron-law": {
-            "title": "Health Care Reform And The Trap Of The Iron Law...",
-            "snippet": "With alarming regularity, many promising pilots in the health care improvement and implementation field have little overall impact when applied more broadly. For example, following early reports that care coordination programs benefit patients and...",
-            "date": "2015-04-22",
-            "categories": "health,health-care,law",
-            "tags": "ing,care,patients,many,health,health_care,health_care_reform,care_reform,reform,law",
-            "recuweb_url": "http://en.recuweb.com/law/healthaffairs.org/2015/04/health-care-reform-and-the-trap-of-iron-law",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=healthcare%2Breform&format=RSS&cc=us",
-            "source_url": "http://healthaffairs.org/blog/2015/04/22/health-care-reform-and-the-trap-of-the-iron-law/"
-        },
-        "nwpr.org/2015/04/healthcare-reform-leaves-widespread-medical-debt-largely-untouched-northwest-public-radio": {
-            "title": "Healthcare Reform Leaves Widespread Medical Debt Largely Untouched - Northwest Public Radio...",
-            "snippet": "Northwest Public RadioHealthcare Reform Leaves Widespread Medical Debt Largely UntouchedNorthwest Public RadioAt the Yakima County courthouse, Presiding District Court Judge Kevin Roy walks past a rattling dot-matrix printer and long rows of...",
-            "date": "2015-04-21",
-            "categories": "printer,radio,healthcare-reform",
-            "tags": "reform,medical,healthcare,healthcare_reform",
-            "recuweb_url": "http://en.recuweb.com/healthcare-reform/nwpr.org/2015/04/healthcare-reform-leaves-widespread-medical-debt-largely-untouched-northwest-public-radio",
-            "resource_url": "http://news.google.com/?hl=en&q=healthcare%2Breform&output=atom&nord=1",
-            "source_url": "http://nwpr.org/post/healthcare-reform-leaves-widespread-medical-debt-largely-untouched"
+            "source_url": "http://mychamplainvalley.com/story/d/story/health-care-reform-bill-draws-money-from-soda-cand/24187/dqhOnGQeT0eG1RLNtu4zbw"
         }
     }
 }
