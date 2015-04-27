@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "linguistics",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/linguistics/",
@@ -10,53 +11,93 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/linguistics/linguistics/blogs.json"
     },
     "items": {
+        "newindianexpress.com/2015/04/bold-steps-towards-a-dance-revolution": {
+            "title": "Bold Steps Towards a Dance Revolution...",
+            "snippet": "Let me go further in proposing to enrich choreography with the humanities (history, literature, philosophy and linguistics). Personally, I would particularly enjoy storytelling, martial arts, and I mean it very seriously, culinary arts. We in India...",
+            "date": "2015-04-25",
+            "categories": "arts,martial-arts,humanities,dance,literature,linguistics",
+            "tags": "literature,linguistics,india",
+            "recuweb_url": "http://en.recuweb.com/linguistics/newindianexpress.com/2015/04/bold-steps-towards-a-dance-revolution",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linguistics&format=RSS&cc=us",
+            "source_url": "http://newindianexpress.com/magazine/Bold-Steps-Towards-a-Dance-Revolution/2015/04/26/article2779718.ece"
+        },
+        "dawn.com/2015/04/punjab-did-you-hear-what-the-chinese-president-said": {
+            "title": "Punjab: Did you hear what the Chinese president said?",
+            "snippet": "Can you trace the history of linguistics without knowing the Paninis Ashatadhyayi, the first book on grammar? Where did all this flourished? In the land which now constitutes Pakistan if you know a bit of history! What appears apparently Indian...",
+            "date": "2015-04-25",
+            "categories": "grammar,linguistics",
+            "tags": "grammar,chinese,linguistics",
+            "recuweb_url": "http://en.recuweb.com/linguistics/dawn.com/2015/04/punjab-did-you-hear-what-the-chinese-president-said",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linguistics&format=RSS&cc=us",
+            "source_url": "http://dawn.com/news/1177902/punjab-did-you-hear-what-the-chinese-president-said"
+        },
+        "news.psu.edu/2015/04/penn-state-spanish-and-linguistics-professor-receives-order-of-don-quijote": {
+            "title": "Penn State Spanish and linguistics professor receives Order of Don Quijote Award - Penn State News...",
+            "snippet": "Penn State Spanish and linguistics professor receives Order of Don Quijote AwardPenn State NewsJohn M. Lipski, the Edwin Earle Sparks Professor of Spanish and Linguistics, received the Order of Don Quijote, the highest honor conferred by Sigma Delta...",
+            "date": "2015-04-24",
+            "categories": "honor,linguistics",
+            "tags": "highest,professor,linguistics",
+            "recuweb_url": "http://en.recuweb.com/linguistics/news.psu.edu/2015/04/penn-state-spanish-and-linguistics-professor-receives-order-of-don-quijote",
+            "resource_url": "http://news.google.com/?hl=en&q=linguistics%2Blinguistics&output=atom&nord=1",
+            "source_url": "http://news.psu.edu/story/354429/2015/04/23/academics/penn-state-spanish-and-linguistics-professor-receives-order-don"
+        },
+        "csmonitor.com/2015/04/what-will-the-english-language-look-like-in-100-years": {
+            "title": "What will the English language look like in 100 years?",
+            "snippet": "Historically, British adventurism, expansionism, as well as slave trade and Christian evangelism led to the global spread of the English language and its diverse forms, Joseph Osoba, English Linguistics professor at the University of Lagos in...",
+            "date": "2015-04-24",
+            "categories": "linguistics,university",
+            "tags": "linguistics,professor,language,well,english,university",
+            "recuweb_url": "http://en.recuweb.com/university/csmonitor.com/2015/04/what-will-the-english-language-look-like-in-100-years",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linguistics&format=RSS&cc=us",
+            "source_url": "http://csmonitor.com/Science/Science-Notebook/2015/0423/What-will-the-English-language-look-like-in-100-years"
+        },
+        "examiner.com/2015/04/on-fleek-has-been-raising-plenty-of-eyebrows-lately": {
+            "title": "On fleek has been raising plenty of eyebrows lately...",
+            "snippet": "But in my opinion, the word has created a commotion about terminology and the divide of linguistics amongst modern Americans. This term has single-handedly created internet uproar all while becoming more prevalent with teens and young adults.",
+            "date": "2015-04-23",
+            "categories": "internet,linguistics",
+            "tags": "created,young,word,linguistics",
+            "recuweb_url": "http://en.recuweb.com/linguistics/examiner.com/2015/04/on-fleek-has-been-raising-plenty-of-eyebrows-lately",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linguistics&format=RSS&cc=us",
+            "source_url": "http://examiner.com/article/on-fleek-has-been-raising-plenty-of-eyebrows-lately"
+        },
         "theconversation.com/2015/04/how-a-phd-in-linguistics-prepared-me-for-motherhood-the-conversation": {
             "title": "How a PhD in linguistics prepared me for motherhood - The Conversation AU...",
             "snippet": "The Conversation AUHow a PhD in linguistics prepared me for motherhoodThe Conversation AUUnlike most newborns, on his arrival into the world, my newly-minted son found himself in the arms of someone well-versed in the the most fiercely contested...",
             "date": "2015-04-23",
             "categories": "linguistics",
-            "tags": "found,well,into,world,conversation,linguistics",
+            "tags": "well,world,linguistics",
             "recuweb_url": "http://en.recuweb.com/linguistics/theconversation.com/2015/04/how-a-phd-in-linguistics-prepared-me-for-motherhood-the-conversation",
             "resource_url": "http://news.google.com/?hl=en&q=linguistics%2Blinguistics&output=atom&nord=1",
             "source_url": "http://theconversation.com/how-a-phd-in-linguistics-prepared-me-for-motherhood-39499"
         },
-        "theinterrobang.com/2015/04/according-to-social-media-tuesday-is-the-saddest-day-of-week": {
-            "title": "According To Social Media, Tuesday Is The Saddest Day Of The Week...",
-            "snippet": "Using information gathered from the Hedonometer, which follows social media activity from around the world and analyzes linguistics, it found that Tuesday is the saddest day of the week. That day is when people tweet the saddest things. This is true...",
-            "date": "2015-04-22",
-            "categories": "social-media,linguistics",
-            "tags": "found,world,linguistics",
-            "recuweb_url": "http://en.recuweb.com/linguistics/theinterrobang.com/2015/04/according-to-social-media-tuesday-is-the-saddest-day-of-week",
+        "chinadaily.com.cn/2015/04/major-scholars-set-up-linguistics-fund": {
+            "title": "Major scholars set up linguistics fund...",
+            "snippet": "Linguistics scholars Michael Halliday and Ruqaiya Hasan set up a fund at Beijing Normal University on Thursday to support linguistics studies and researchers worldwide. The Halliday-Hasan International Fund for the Study of Language and Other...",
+            "date": "2015-04-23",
+            "categories": "university,linguistics",
+            "tags": "studies,researchers,university,major,linguistics,language",
+            "recuweb_url": "http://en.recuweb.com/linguistics/chinadaily.com.cn/2015/04/major-scholars-set-up-linguistics-fund",
             "resource_url": "http://www.bing.com/news/search?first=1&q=linguistics&format=RSS&cc=us",
-            "source_url": "http://theinterrobang.com/according-to-social-media-tuesday-is-the-saddest-day-of-the-week/"
+            "source_url": "http://chinadaily.com.cn/china/2015-04/23/content_20522891.htm"
         },
-        "inmenlo.com/2015/04/frances-reneau-draws-on-her-experience-as-ranger-for-mposd-in": {
-            "title": "Frances Reneau draws on her experience as ranger for MPOSD in her first book, Rangerchick...",
-            "snippet": "When Menlo Park resident Frances Reneau graduated from Stanford with a degree in Germanic Linguistics, she viewed herself as a studious and academic person. That translated into some indoor pursuit, which for her was initially classroom teaching and...",
-            "date": "2015-04-21",
-            "categories": "teaching,linguistics",
-            "tags": "into,linguistics,degree",
-            "recuweb_url": "http://en.recuweb.com/linguistics/inmenlo.com/2015/04/frances-reneau-draws-on-her-experience-as-ranger-for-mposd-in",
+        "phys.org/2015/04/understanding-secret-urban-languages": {
+            "title": "Understanding 'secret'urban languages...",
+            "snippet": "Dr Saudah Namyalo from Makerere University and Dr Jenneke van der Wal from Cambridge's Department of Theoretical and Applied Linguistics have joined forces to understand how this increasingly popular, yet currently undocumented, urban language is...",
+            "date": "2015-04-23",
+            "categories": "linguistics,university,languages",
+            "tags": "language,linguistics,university,languages",
+            "recuweb_url": "http://en.recuweb.com/languages/phys.org/2015/04/understanding-secret-urban-languages",
             "resource_url": "http://www.bing.com/news/search?first=1&q=linguistics&format=RSS&cc=us",
-            "source_url": "http://inmenlo.com/2015/04/21/frances-reneau-draws-on-her-experience-as-ranger-for-mposd-in-her-first-book-rangerchick/"
-        },
-        "wmich.edu/2015/04/summer-registration-underway-for-low-cost-chinese-culture-courses": {
-            "title": "Summer registration underway for low-cost Chinese culture courses...",
-            "snippet": "Materials fee: 20. Xu Zhou is the instructor for Basic Tai Chi. She received her masters degree from Beijing Language and Culture University in 2013, where she majored in linguistics and applied linguistics. Baoqing Qian, instructor of Basic...",
-            "date": "2015-04-21",
-            "categories": "culture,university,linguistics",
-            "tags": "applied,university,language,received,degree,chinese,linguistics",
-            "recuweb_url": "http://en.recuweb.com/linguistics/wmich.edu/2015/04/summer-registration-underway-for-low-cost-chinese-culture-courses",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linguistics&format=RSS&cc=us",
-            "source_url": "http://wmich.edu/news/2015/04/23091"
+            "source_url": "http://phys.org/news/2015-04-secret-urban-languages.html"
         },
         "hawaii.edu/2015/04/chinese-language-major-to-spend-capstone-year-at-nanjing-university": {
             "title": "Chinese language major to spend capstone year at Nanjing University...",
             "snippet": "The UHM Chinese Language Flagship Program, in the College of Languages, Linguistics and Literature, trains students to a professional level of language proficiency while they earn a degree of their choice. The program does this through individual...",
             "date": "2015-04-20",
-            "categories": "university,college,languages,linguistics,literature,students",
-            "tags": "degree,level,language,university,chinese,languages,linguistics,students",
-            "recuweb_url": "http://en.recuweb.com/students/hawaii.edu/2015/04/chinese-language-major-to-spend-capstone-year-at-nanjing-university",
+            "categories": "students,university,college,languages,linguistics,literature",
+            "tags": "students,level,language,university,major,chinese,languages,linguistics,literature",
+            "recuweb_url": "http://en.recuweb.com/literature/hawaii.edu/2015/04/chinese-language-major-to-spend-capstone-year-at-nanjing-university",
             "resource_url": "http://www.bing.com/news/search?first=1&q=linguistics&format=RSS&cc=us",
             "source_url": "http://hawaii.edu/news/article.php?aId=7161"
         },
@@ -65,50 +106,10 @@
             "snippet": "One who studies Vedas subject wise will be amazed to see the level of knowledge in all the faculties at such an early age. They have reached the highest level in Grammar and Linguistics. Nowhere in the world were grammar and etymology part of...",
             "date": "2015-04-19",
             "categories": "grammar,etymology,linguistics",
-            "tags": "here,world,level,linguistics",
+            "tags": "world,grammar,highest,level,studies,india,linguistics",
             "recuweb_url": "http://en.recuweb.com/linguistics/speakingtree.in/2015/04/advanced-grammar-and-linguistics-in-vedic-india",
             "resource_url": "http://www.bing.com/news/search?first=1&q=linguistics&format=RSS&cc=us",
             "source_url": "http://speakingtree.in/spiritual-blogs/seekers/faith-and-rituals/advanced-grammar-and-linguistics-in-vedic-india"
-        },
-        "reason.com/2015/04/kind-fruit-and-nut-bars-get-fda-linguistics-lesson-words-only": {
-            "title": "KIND Fruit and Nut Bars Get FDA Linguistics Lesson: Words Only Mean What Bureaucrats Say They Mean...",
-            "snippet": "The logic here is maddening. A bar of sugar cubes held together with agave nectar would be fat free, but that hardly makes it healthy. Conversely, the simple presence of saturated fat alone doesn't make something unhealthy. Saturated fat is actually...",
-            "date": "2015-04-16",
-            "categories": "linguistics,fruit",
-            "tags": "here,linguistics",
-            "recuweb_url": "http://en.recuweb.com/fruit/reason.com/2015/04/kind-fruit-and-nut-bars-get-fda-linguistics-lesson-words-only",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linguistics&format=RSS&cc=us",
-            "source_url": "http://reason.com/blog/2015/04/15/kind-bars-are-not-healthy-says-fda"
-        },
-        "streetinsider.com/2015/04/teneo-linguistics-company-llc-announces-extension-of-gsa-schedule-contract": {
-            "title": "Teneo Linguistics Company, LLC, Announces Extension of GSA Schedule Contract...",
-            "snippet": "Teneo Linguistics Company, LLC, received an extension of its GSA Schedules contract. The contract, originally awarded in 2010, has now been extended until June of 2020, with a wider offering of languages and introduction of pricing based on levels...",
-            "date": "2015-04-15",
-            "categories": "languages,linguistics",
-            "tags": "languages,received,linguistics,introduction",
-            "recuweb_url": "http://en.recuweb.com/linguistics/streetinsider.com/2015/04/teneo-linguistics-company-llc-announces-extension-of-gsa-schedule-contract",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linguistics&format=RSS&cc=us",
-            "source_url": "http://streetinsider.com/Press+Releases/Teneo+Linguistics+Company,+LLC,+Announces+Extension+of+GSA+Schedule+Contract/10458438.html"
-        },
-        "jobs.theconversation.com/2015/04/lecturer-applied-linguistics-language-education-the-conversation-au": {
-            "title": "Lecturer Applied Linguistics/Language Education - The Conversation AU...",
-            "snippet": "Lecturer Applied Linguistics/Language EducationThe Conversation AUThe School wishes to appoint a full time Level B Lecturer in Applied Linguistics/Language Education. This role is linked with significant growth in applied linguistics in the past 3-5...",
-            "date": "2015-04-04",
-            "categories": "linguistics,school,education",
-            "tags": "applied,linguistics,level,language,conversation",
-            "recuweb_url": "http://en.recuweb.com/education/jobs.theconversation.com/2015/04/lecturer-applied-linguistics-language-education-the-conversation-au",
-            "resource_url": "http://news.google.com/?hl=en&q=linguistics%2Blinguistics&output=atom&nord=1",
-            "source_url": "http://jobs.theconversation.com/jobs/10191-lecturer-applied-linguistics-language-education"
-        },
-        "news-medical.net/2015/04/new-study-sheds-light-on-linguistic-characteristic-of-autistic-children": {
-            "title": "New study sheds light on linguistic characteristic of autistic children -...",
-            "snippet": "study sheds light on linguistic characteristic of autistic new study by a linguistics professor and an alumnus from The University of Texas at Austin sheds light on a well-known linguistic characteristic of autistic children their reluctance to use...",
-            "date": "2015-04-04",
-            "categories": "linguistics,university",
-            "tags": "linguistics,children,well,study,university",
-            "recuweb_url": "http://en.recuweb.com/university/news-medical.net/2015/04/new-study-sheds-light-on-linguistic-characteristic-of-autistic-children",
-            "resource_url": "http://news.google.com/?hl=en&q=linguistics%2Blinguistics&output=atom&nord=1",
-            "source_url": "http://news-medical.net/news/20150406/New-study-sheds-light-on-linguistic-characteristic-of-autistic-children.aspx"
         }
     }
 }
