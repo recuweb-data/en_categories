@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "web-services",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/web-services/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/web-services/web-services/blogs.json"
     },
     "items": {
-        "wsj.com/2015/04/amazon-to-offer-window-into-web-services-business": {
-            "title": "Amazon to Offer Window Into Web Services Business...",
-            "snippet": "When Inc.% reports its quarterly earnings Thursday, it will, for the first time, provide financial information on an important division: Amazon Web Services. AWS has grown over the past decade into a front-runner in the race to build...",
-            "date": "2015-04-23",
+        "modernreaders.com/2015/04/amazon-web-services-generates-billion-sales-proves-that-cloud": {
+            "title": "Amazon Web Services Generates Billion Sales, Proves that Cloud Can Be Profitable...",
+            "snippet": "Amazon had one of the most interesting quarterly reports among tech companies, as the retail leader reported this week that its cloud-based web services business earned billion in sales in the first calendar quarter of 2015, putting the arm well...",
+            "date": "2015-04-25",
             "categories": "web-services,business",
-            "tags": "build,web,web_services,services,provide,first,earnings,business,amazon,aws",
-            "recuweb_url": "http://en.recuweb.com/business/wsj.com/2015/04/amazon-to-offer-window-into-web-services-business",
+            "tags": "well,billion,sales,quarter,reported,week,cloud,reports,tech,companies,profitable,amazon,amazon_web,amazon_web_services,web,web_services,services,business",
+            "recuweb_url": "http://en.recuweb.com/business/modernreaders.com/2015/04/amazon-web-services-generates-billion-sales-proves-that-cloud",
             "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Bservices&format=RSS&cc=us",
-            "source_url": "http://wsj.com/articles/amazon-wants-to-be-corporate-americas-data-center-1429748256"
+            "source_url": "http://modernreaders.com/amazon-web-services-generates-1-57-billion-sales-proves-that-cloud-can-be-profitable/24246/mark-kesler"
         },
-        "news.investors.com/2015/04/analysts-cautious-on-ahead-of-q1-earnings": {
-            "title": "Analysts Cautious On Ahead Of Q1 Earnings...",
-            "snippet": "They expect revenue to rise 14% to 22.4 billion. For the first time, Amazon is expected to break out results for its Amazon Web Services unit, which has more than 1 million customers. Launched in 2006, AWS provides cloud computing infrastructure...",
-            "date": "2015-04-22",
-            "categories": "web-services",
-            "tags": "cloud,than,web,web-services,services,first,earnings,amazon,launched,aws,provides",
-            "recuweb_url": "http://en.recuweb.com/web-services/news.investors.com/2015/04/analysts-cautious-on-ahead-of-q1-earnings",
+        "timesofindia.indiatimes.com/2015/04/amazon-web-services-gives-jitters-to-microsoft-google": {
+            "title": "Amazon Web Services gives 'jitters'to Microsoft, Google...",
+            "snippet": "SEATTLE: Amazon unveiled the financial performance of its powerful growth engine for the first time, and the numbers sure looked pretty -- especially compared with big companies like Microsoft and Google that are chasing it. While Amazon is...",
+            "date": "2015-04-25",
+            "categories": "web-services,google",
+            "tags": "companies,growth,amazon,amazon_web,amazon_web_services,web,web_services,services,microsoft,google",
+            "recuweb_url": "http://en.recuweb.com/google/timesofindia.indiatimes.com/2015/04/amazon-web-services-gives-jitters-to-microsoft-google",
             "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Bservices&format=RSS&cc=us",
-            "source_url": "http://news.investors.com/042215-749039-amazon-quarterly-earnings-preview.htm?ven=investopediacp&src=aurlagy"
+            "source_url": "http://timesofindia.indiatimes.com/tech/tech-news/Amazon-Web-Services-gives-jitters-to-Microsoft-Google/articleshow/47048717.cms"
         },
-        "fiercecio.com/2015/04/microsoft-courts-cloud-wary-enterprises-with-new-office-365-updates": {
-            "title": "Microsoft courts cloud-wary enterprises with new Office 365 updates...",
-            "snippet": "Currently in preview, the RESTful API lets enterprises gain access to more than 150 types of transactions through third-party web services or in-house apps for auditing and compliance purposes. Supported services are SharePoint Online, Exchange...",
-            "date": "2015-04-22",
-            "categories": "auditing",
-            "tags": "online,house,than,api,cloud,microsoft,web,services",
-            "recuweb_url": "http://en.recuweb.com/auditing/fiercecio.com/2015/04/microsoft-courts-cloud-wary-enterprises-with-new-office-365-updates",
+        "bignewsnetwork.com/2015/04/amazon-reports-loss-but-foresees-promising-growth-in-web-services": {
+            "title": "Amazon reports loss but foresees promising growth in web services...",
+            "snippet": "WASHINGTON - Technology giant Amazon Thursday reported a revenue of billion along with a net loss of loss of 57 million or 12 cents per share for the first quarter of the year but saw the market receive the results well with hopes resting on its...",
+            "date": "2015-04-25",
+            "categories": "technology",
+            "tags": "per,per-share,share,quarter,results,well,reported,revenue,billion,reports,growth,amazon,web,services,technology,giant",
+            "recuweb_url": "http://en.recuweb.com/technology/bignewsnetwork.com/2015/04/amazon-reports-loss-but-foresees-promising-growth-in-web-services",
             "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Bservices&format=RSS&cc=us",
-            "source_url": "http://fiercecio.com/story/microsoft-courts-cloud-wary-enterprises-new-office-365-updates/2015-04-22"
+            "source_url": "http://bignewsnetwork.com/index.php/sid/232263293"
         },
-        "techpinions.com/2015/04/netflix-a-lot-more-than-house-of-cards": {
-            "title": "Netflix: A Lot More than House of Cards...",
-            "snippet": "But another place Netflix has by itself is as a huge and extremely clever, successful user of Amazon Web Services (AWS), to which it moved its operations in 2010. Any Netflix service a customer gets from signing up to a subscription to making the...",
-            "date": "2015-04-22",
-            "categories": "web-services",
-            "tags": "amazon,amazon_web,amazon_web_services,web,web_services,services,than,house,aws,service",
-            "recuweb_url": "http://en.recuweb.com/web-services/techpinions.com/2015/04/netflix-a-lot-more-than-house-of-cards",
+        "gadgetgestures.com/2015/04/web-services-by-amazon-are-irritating-tech-giants-microsoft-google": {
+            "title": "Web Services by Amazon Are Irritating Tech Giants Microsoft, Google...",
+            "snippet": "If your view upon the world of technology is reducible to a list of several big names like Apple, Google, Microsoft or Facebook, there are some reports to prove you wrong. For instance, web services by Amazon are irritating tech giants, like the...",
+            "date": "2015-04-25",
+            "categories": "technology,web-services,google,facebook",
+            "tags": "tech,reports,technology,amazon,microsoft,web,web_services,services,google",
+            "recuweb_url": "http://en.recuweb.com/facebook/gadgetgestures.com/2015/04/web-services-by-amazon-are-irritating-tech-giants-microsoft-google",
             "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Bservices&format=RSS&cc=us",
-            "source_url": "http://techpinions.com/netflix-a-lot-more-than-house-of-cards/39803"
+            "source_url": "http://gadgetgestures.com/web-services-by-amazon-are-irritating-tech-giants-microsoft-google/83414918"
         },
-        "cbronline.com/2015/04/amazon-web-services-acquired-amiato-to-boost-redshift-service-computer-business": {
-            "title": "Amazon Web Services acquired Amiato to boost Redshift service - Computer Business Review...",
-            "snippet": "WallStreet ScopeAmazon Web Services acquired Amiato to boost Redshift serviceComputer Business ReviewAmazon Web Services reportedly acquired a data-migration startup Amiato, last year, in an attempt to boost itspetabyte-scale data warehouse solution...",
-            "date": "2015-04-21",
-            "categories": "business,web-services",
-            "tags": "scale,data,last,business,web,web_services,services,amazon,amazon_web,amazon_web_services,service",
-            "recuweb_url": "http://en.recuweb.com/web-services/cbronline.com/2015/04/amazon-web-services-acquired-amiato-to-boost-redshift-service-computer-business",
+        "investorplace.com/2015/04/10-internet-and-web-service-stocks-to-sell-now": {
+            "title": "10 Internet and Web Service Stocks to Sell Now -...",
+            "snippet": "10 Internet and Web Service Stocks to Sell rating of Marchex, Inc. Class B (MCHX) declines this week from a D to an F. Marchex offers call-based advertising and related services, pay-per-click advertising and related services and proprietary traffic...",
+            "date": "2015-04-24",
+            "categories": "internet",
+            "tags": "related,week,web,web_service,web_service_stocks,service,service_stocks,stocks,internet,inc,offers,services,per",
+            "recuweb_url": "http://en.recuweb.com/internet/investorplace.com/2015/04/10-internet-and-web-service-stocks-to-sell-now",
             "resource_url": "http://news.google.com/?hl=en&q=web%2Bservices%2Bweb%2Bservices&output=atom&nord=1",
-            "source_url": "http://cbronline.com/news/big-data/platforms/amazon-web-services-acquired-amiato-to-boost-redshift-service-210415-4558367"
+            "source_url": "http://investorplace.com/2015/04/10-internet-and-web-service-stocks-to-sell-now-yoku-mchx-upip-7/"
         },
-        "networkworld.com/2015/04/in-case-you-arent-suitably-impressed-by-the-scale-of-amazon": {
-            "title": "In case you arent suitably impressed by the scale of Amazon Web Services...",
-            "snippet": "Although the video has been up for awhile, if you havent had the chance to watch Amazon Web Services VP & Distinguished Engineer James Hamilton spell out AWS facts at the re:Invent conference last November, do yourself a favor and pull up a chair.",
-            "date": "2015-04-21",
-            "categories": "web-services",
-            "tags": "last,amazon,amazon_web,amazon_web_services,web,web_services,services,scale,aws",
-            "recuweb_url": "http://en.recuweb.com/web-services/networkworld.com/2015/04/in-case-you-arent-suitably-impressed-by-the-scale-of-amazon",
+        "investorplace.com/2015/04/4-internet-and-web-service-stocks-to-buy-now": {
+            "title": "4 Internet and Web Service Stocks to Buy Now -...",
+            "snippet": "4 Internet and Web Service Stocks to Buy Software provides messaging, antivirus, and Web security solutions to OEM customers, enterprises, and service providers primarily in Israel, North America, Europe, and Asia. In Portfolio Grader's specific...",
+            "date": "2015-04-24",
+            "categories": "internet",
+            "tags": "software,web,web_service,web_service_stocks,service,service_stocks,stocks,internet,customers",
+            "recuweb_url": "http://en.recuweb.com/internet/investorplace.com/2015/04/4-internet-and-web-service-stocks-to-buy-now",
+            "resource_url": "http://news.google.com/?hl=en&q=web%2Bservices%2Bweb%2Bservices&output=atom&nord=1",
+            "source_url": "http://investorplace.com/2015/04/4-internet-and-web-service-stocks-to-buy-now-ctch-open-inap-9/"
+        },
+        "foxbusiness.com/2015/04/amazon-reaches-all-time-high-discloses-web-services-figures": {
+            "title": "Amazon Reaches All-Time High, Discloses Amazon Web Services Figures...",
+            "snippet": "(AMZN), the e-commerce powerhouse, is solidly higher in early trading, up over 15% to around 450 per share, after reporting stronger-than-expected 1Q sales results. The current price eclipses its previous high of set in January of 2014.",
+            "date": "2015-04-24",
+            "categories": "commerce,web-services",
+            "tags": "price,sales,results,per,per-share,share,amazon,amazon_web,amazon_web_services,web,web_services,services,amzn",
+            "recuweb_url": "http://en.recuweb.com/web-services/foxbusiness.com/2015/04/amazon-reaches-all-time-high-discloses-web-services-figures",
             "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Bservices&format=RSS&cc=us",
-            "source_url": "http://networkworld.com/article/2912467/cloud-computing/in-case-you-aren-t-suitably-impressed-by-the-scale-of-amazon-web-services.html"
+            "source_url": "http://foxbusiness.com/technology/2015/04/24/amazon-reaches-all-time-high-discloses-amazon-web-services-figures/"
         },
-        "marketwired.com/2015/04/planet-os-joins-amazon-web-services-in-data-discovery-for-noaa": {
-            "title": "Planet OS Joins Amazon Web Services in Data Discovery for NOAA's Big Data... - Marketwired (press...",
-            "snippet": "MashablePlanet OS Joins Amazon Web Services in Data Discovery for NOAA's Big Data...Marketwired (press release)SUNNYVALE, CA--(Marketwired - April 21, 2015) - Planet OS is honored to join Amazon Web Services (AWS) as a member of their Data Alliance...",
-            "date": "2015-04-21",
+        "online.barrons.com/2015/04/amazon-web-services-upside-boosts-five-stocks": {
+            "title": "Amazon Web Services Upside Boosts Five Stocks...",
+            "snippet": "Amazon Web Services is on track to delivering long-term operating margin of about 43%. (ticker: AMZN) reported the much-awaited Amazon Web Services (AWS) group revenue and operating profit for the March 2015 and 2014 quarters. Operating margin...",
+            "date": "2015-04-24",
             "categories": "web-services",
-            "tags": "data,amazon,amazon_web,amazon_web_services,web,web_services,services,press,press-release,release,aws",
-            "recuweb_url": "http://en.recuweb.com/web-services/marketwired.com/2015/04/planet-os-joins-amazon-web-services-in-data-discovery-for-noaa",
-            "resource_url": "http://news.google.com/?hl=en&q=web%2Bservices%2Bweb%2Bservices&output=atom&nord=1",
-            "source_url": "http://marketwired.com/press-release/planet-os-joins-amazon-web-services-in-data-discovery-for-noaas-big-data-project-2011975.htm"
+            "tags": "profit,group,group-revenue,revenue,revenue-and-ope,ope,reported,reported-the-much,margin,amazon,amazon_web,amazon_web_services,web,web_services,services,web_services_upside,services_upside,services_upside_boosts,upside,upside_boosts,upside_boosts_five,boosts,boosts_five,boosts_five_stocks,stocks,amzn,awaited,aws,quarters",
+            "recuweb_url": "http://en.recuweb.com/web-services/online.barrons.com/2015/04/amazon-web-services-upside-boosts-five-stocks",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Bservices&format=RSS&cc=us",
+            "source_url": "http://online.barrons.com/articles/amazon-web-services-upside-boosts-five-stocks-1429905880?tesla=y"
         },
-        "satprnews.com/2015/04/smartronix-hires-former-amazon-web-services-aws-microsoft-executive-paul-satellite": {
-            "title": "Smartronix Hires Former Amazon Web Services (AWS)/Microsoft Executive Paul... - Satellite PR News...",
-            "snippet": "Smartronix Hires Former Amazon Web Services (AWS)/Microsoft Executive Paul...Satellite PR News (press release)HERNDON, VA(Apr 21, 2015) Smartronix announced today that it hired Mr. Paul Beda as Principal Cloud Architect & Strategist. In this role,...",
-            "date": "2015-04-21",
-            "categories": "web-services,strategist",
-            "tags": "cloud,press,press-release,release,microsoft,amazon,amazon_web,amazon_web_services,web,web_services,services,aws",
-            "recuweb_url": "http://en.recuweb.com/strategist/satprnews.com/2015/04/smartronix-hires-former-amazon-web-services-aws-microsoft-executive-paul-satellite",
-            "resource_url": "http://news.google.com/?hl=en&q=web%2Bservices&output=atom&nord=1",
-            "source_url": "http://satprnews.com/2015/04/21/smartronix-hires-former-amazon-web-services-awsmicrosoft-executive-paul-beda-to-facilitate-cloud-growth/"
-        },
-        "bostinno.streetwise.co/2015/04/why-amazon-is-finally-giving-us-a-glimpse-inside-aws-bostinno": {
-            "title": "Why Amazon Is Finally Giving Us a Glimpse Inside AWS - BostInno...",
-            "snippet": "USA TODAYWhy Amazon Is Finally Giving Us a Glimpse Inside AWSBostInnoFor the first time in its history, the Seattle-based e-commerce giant is busting out the specific financials for Amazon Web Services, aka AWS. While on the earnings call, Amazon is...",
-            "date": "2015-04-21",
-            "categories": "web-services,commerce",
-            "tags": "earnings,amazon,amazon_web,amazon_web_services,web,web_services,services,first,aws",
-            "recuweb_url": "http://en.recuweb.com/commerce/bostinno.streetwise.co/2015/04/why-amazon-is-finally-giving-us-a-glimpse-inside-aws-bostinno",
+        "online.barrons.com/2015/04/amazon-web-services-upside-boosts-five-stocks-barron": {
+            "title": "Amazon Web Services Upside Boosts Five Stocks - Barron's...",
+            "snippet": "Amazon Web Services Upside Boosts Five StocksBarron's... reported the much-awaited Amazon Web Services (AWS) group revenue and operating profit for the March 2015 and 2014 quarters. Operating margin deteriorated year-over-year from 23.3% to 16.9%.",
+            "date": "2015-04-24",
+            "categories": "web-services",
+            "tags": "margin,profit,group,group-revenue,revenue,revenue-and-ope,ope,amazon,amazon_web,amazon_web_services,web,web_services,services,reported,reported-the-much,web_services_upside,services_upside,services_upside_boosts,upside,upside_boosts,upside_boosts_five,boosts,boosts_five,boosts_five_stocks,stocks,awaited,aws,quarters",
+            "recuweb_url": "http://en.recuweb.com/web-services/online.barrons.com/2015/04/amazon-web-services-upside-boosts-five-stocks-barron",
             "resource_url": "http://news.google.com/?hl=en&q=web%2Bservices%2Bweb%2Bservices&output=atom&nord=1",
-            "source_url": "http://bostinno.streetwise.co/2015/04/21/amzn-earnings-amazon-web-services-aws-revenue-q1-release/"
+            "source_url": "http://online.barrons.com/articles/amazon-web-services-upside-boosts-five-stocks-1429905880"
         },
-        "infoq.com/2015/04/amazon-web-services-launches-machine-learning-service": {
-            "title": "Amazon Web Services launches Machine Learning Service -...",
-            "snippet": "Amazon Web Services launches Machine Learning Web Services have recently launched their Amazon Machine Learning service that allows users to learn predictive models in the cloud. After Google with Prediction API, and Microsoft with Azure Machine...",
-            "date": "2015-04-17",
-            "categories": "google,learning,web-services",
-            "tags": "api,cloud,amazon,launched,web,web_services,services,service,amazon_web,amazon_web_services,microsoft",
-            "recuweb_url": "http://en.recuweb.com/web-services/infoq.com/2015/04/amazon-web-services-launches-machine-learning-service",
-            "resource_url": "http://news.google.com/?hl=en&q=web%2Bservices%2Bweb%2Bservices&output=atom&nord=1",
-            "source_url": "http://infoq.com/news/2015/04/aws-launches-machine-learning"
+        "bidnessetc.com/2015/04/inc-web-services-what-we-now-know-about-the-cloud-giant": {
+            "title": "Inc. Web Services: What We Now Know About The Cloud Giant...",
+            "snippet": ", Inc. (NASDAQ:AMZN) disclosed the revenue stream of its highly profitable cloud-computing business, Amazon Web Services (AWS), for the first time on April 24. The AWS sells storage space, computing power, and other related services to both...",
+            "date": "2015-04-24",
+            "categories": "web-services,business",
+            "tags": "related,revenue,highly,profitable,cloud,giant,web,web_services,services,inc,amzn,business,amazon,aws",
+            "recuweb_url": "http://en.recuweb.com/business/bidnessetc.com/2015/04/inc-web-services-what-we-now-know-about-the-cloud-giant",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=web%2Bservices&format=RSS&cc=us",
+            "source_url": "http://bidnessetc.com/40906-amazoncom-inc-web-services-what-we-now-know-about-the-cloud-giant/"
         }
     }
 }
