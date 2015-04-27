@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "motorcycle-sport",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/motorcycle-sport/",
@@ -10,33 +11,13 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/motorcycle-sport/motorcycle-sport/blogs.json"
     },
     "items": {
-        "cycleworld.com/2015/04/2016-aprilia-rsv4-rf-sportbike-first-ride-motorcycle-review": {
-            "title": "2016 Aprilia RSV4 RF Sportbike FIRST RIDE Motorcycle Review...",
-            "snippet": "The 2016 version represents another crucial step in the ongoing development of the RSV4 model. Learn more and view the RSV4 RF photos and specifications a at.",
-            "date": "2015-04-22",
-            "author_name": "Thomas Montano",
-            "tags": "photos,photos-and-specifications,specifications,represents,sportbike,first,first_ride,first_ride_motorcycle,ride,ride_motorcycle,motorcycle,learn",
-            "recuweb_url": "http://en.recuweb.com/cycleworld.com/2015/04/2016-aprilia-rsv4-rf-sportbike-first-ride-motorcycle-review",
-            "resource_url": "http://www.google.com/search?q=motorcycle%2Bsport%2Bmotorcycle%2Bsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://cycleworld.com/2015/04/22/2016-aprilia-rsv4-rf-first-ride-sportbike-motorcycle-review-photos-specifications/"
-        },
-        "cycleworld.com/2015/04/yamaha-yzf-r1-best-used-sportbike-motorcycle-review": {
-            "title": "Yamaha YZF-R1- Best Used Sportbike Motorcycle Review...",
-            "snippet": "While quite capable as a trackday weapon, the R1 was a top choice among its peers for general street duty. Learn more and view other Best Used Bikes at.",
-            "date": "2015-04-16",
-            "author_name": "Cycle World",
-            "tags": "best,bikes,choice,sportbike,motorcycle,yamaha,yamaha_yzf,yzf,top,street,learn",
-            "recuweb_url": "http://en.recuweb.com/cycleworld.com/2015/04/yamaha-yzf-r1-best-used-sportbike-motorcycle-review",
-            "resource_url": "http://www.google.com/search?q=motorcycle%2Bsport%2Bmotorcycle%2Bsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://cycleworld.com/2015/04/16/yamaha-yzf-r1-sportbike-best-used-motorcycles-review/"
-        },
         "themotorcyclemag.com/2015/04/harley-davidson-flat-track-racing-newest-medal-sport": {
             "title": "Harley-Davidson Flat-Track Racing Newest Medal Sport...",
             "snippet": "It's official. A new motorcycle racing competition will throw dirt June 4 during the inaugural Harley-Davidson Flat-Track Racing at ESPN's X Games Austin. Harley-Davidson sponsored two flat-track exhibitions last year, and...",
             "date": "2015-04-14",
             "author_name": "Steven Blackburn",
             "categories": "sport",
-            "tags": "flat,track,racing,sport,davidson,harley,motorcycle,dirt,during",
+            "tags": "track,games,racing,sport,davidson,harley,motorcycle,during",
             "recuweb_url": "http://en.recuweb.com/sport/themotorcyclemag.com/2015/04/harley-davidson-flat-track-racing-newest-medal-sport",
             "resource_url": "http://www.google.com/search?q=motorcycle%2Bsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://themotorcyclemag.com/home/harley-davidson-flat-track-racing-newest-medal-sport/"
@@ -47,10 +28,20 @@
             "date": "2015-03-23",
             "author_name": "Blake Conner",
             "categories": "honor,sport",
-            "tags": "open,best,dual,sport,motorcycles",
+            "tags": "far,dual,sport,motorcycles",
             "recuweb_url": "http://en.recuweb.com/sport/cycleworld.com/2015/03/compared-three-european-dual-sport-500cc-motorcycles",
             "resource_url": "http://www.google.com/search?q=motorcycle%2Bsport%2Bmotorcycle%2Bsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://cycleworld.com/2015/03/23/beta-500-rs-vs-husqvarna-fe-501-s-vs-ktm-500-exc-dual-sport-motorcycles-comparison-test-motorcycle-review/"
+        },
+        "cycleworld.com/2015/03/2015-yamaha-yzf-r3-first-ride-sportbike-motorcycle-review": {
+            "title": "2015 Yamaha YZF-R3 FIRST RIDE Sportbike Motorcycle Review...",
+            "snippet": "The new 2015 YZF-R3 entry-level sportbike from Yamaha is sporty, inexpensive, and ready for street or track. Learn more and view the photos and specs at.",
+            "date": "2015-03-20",
+            "author_name": "Thomas Montano",
+            "tags": "photos,track,ride,sportbike,motorcycle,yamaha,street,learn",
+            "recuweb_url": "http://en.recuweb.com/cycleworld.com/2015/03/2015-yamaha-yzf-r3-first-ride-sportbike-motorcycle-review",
+            "resource_url": "http://www.google.com/search?q=motorcycle%2Bsport%2Bmotorcycle%2Bsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://cycleworld.com/2015/03/20/2015-yamaha-yzf-r3-sportbike-motorcycle-review-first-ride-photos-specifications/"
         },
         "motorcycle.com/2015/03/reader-s-choice-best-sport-touring-motorcycle-of-2015-bmw": {
             "title": "Reader's Choice Best Sport-Touring Motorcycle Of 2015: BMW...",
@@ -58,7 +49,7 @@
             "date": "2015-03-09",
             "author_name": "Tom Roderick",
             "categories": "sport",
-            "tags": "touring,designed,today,touring_motorcycle,motorcycle,choice,best,best_sport,sport,bmw",
+            "tags": "touring,won,touring_motorcycle,motorcycle,sport,bmw,available,today",
             "recuweb_url": "http://en.recuweb.com/sport/motorcycle.com/2015/03/reader-s-choice-best-sport-touring-motorcycle-of-2015-bmw",
             "resource_url": "http://www.google.com/search?q=motorcycle%2Bsport%2Bmotorcycle%2Bsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://motorcycle.com/readers-choice-awards/readers-choice-best-sport-touring-motorcycle-2015-bmw-r1200rt.html"
@@ -69,7 +60,7 @@
             "date": "2015-02-26",
             "author_name": "Bob Ponting",
             "categories": "sport",
-            "tags": "crash,motorcycle,after,road,honda,harley,davidson",
+            "tags": "road,crash,sports,motorcycle,fox,honda,harley,davidson",
             "recuweb_url": "http://en.recuweb.com/sport/fox5sandiego.com/2015/02/both-drivers-injured-when-sports-car-motorcycle-crash-fox5-san",
             "resource_url": "http://www.google.com/search?q=motorcycle%2Bsport%2Bmotorcycle%2Bsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://fox5sandiego.com/2015/02/26/both-drivers-injured-when-sports-car-motorcycle-crash/"
@@ -80,7 +71,7 @@
             "date": "2015-01-20",
             "author_name": "Bruno dePrato",
             "categories": "sport",
-            "tags": "photos,photos-and-specifications,specifications,first,tourer,tourer_motorcycle,motorcycle,sport,latest,learn",
+            "tags": "photos,photos-and-specifications,specifications,tourer,tourer_motorcycle,motorcycle,sport,learn",
             "recuweb_url": "http://en.recuweb.com/sport/cycleworld.com/2015/01/ducati-multistrada-1200-sport-tourer-motorcycle-review-photos",
             "resource_url": "http://www.google.com/search?q=motorcycle%2Bsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://cycleworld.com/2015/01/20/2015-ducati-multistrada-1200-sport-touring-motorcycle-review-photos-specifications/"
@@ -91,7 +82,7 @@
             "date": "2015-01-19",
             "author_name": "Bruno dePrato",
             "categories": "sport",
-            "tags": "tourer,represents,tourer_motorcycle,motorcycle,bmw,sport,photos,today,bike",
+            "tags": "tourer,bike,tourer_motorcycle,motorcycle,bmw,sport,photos,today",
             "recuweb_url": "http://en.recuweb.com/sport/cycleworld.com/2015/01/bmw-r1200rs-sport-tourer-motorcycle-review-photos-new",
             "resource_url": "http://www.google.com/search?q=motorcycle%2Bsport%2Bmotorcycle%2Bsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://cycleworld.com/2015/01/19/2015-bmw-r1200rs-sport-touring-motorcycle-review-photos/"
@@ -102,7 +93,7 @@
             "date": "2014-12-18",
             "author_name": "Don Canet",
             "categories": "sport",
-            "tags": "photos,photos-and-specifications,specifications,tourer,first,first_ride,first_ride_motorcycle,ride,ride_motorcycle,motorcycle,yamaha,sport,middleweight,learn",
+            "tags": "photos,photos-and-specifications,specifications,tourer,ride,motorcycle,yamaha,sport,learn",
             "recuweb_url": "http://en.recuweb.com/sport/cycleworld.com/2014/12/2015-yamaha-fj-09-sport-tourer-first-ride-motorcycle-review",
             "resource_url": "http://www.google.com/search?q=motorcycle%2Bsport%2Bmotorcycle%2Bsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://cycleworld.com/2014/12/17/2015-yamaha-fj-09-sport-touring-motorcycle-review-first-ride-photos-specifications/"
@@ -113,10 +104,21 @@
             "date": "2014-12-13",
             "author_name": "ibibyho",
             "categories": "sport",
-            "tags": "sport,sport_motorcycle,motorcycle,classic,check,best",
+            "tags": "auto,sport,sport_motorcycle,motorcycle,check",
             "recuweb_url": "http://en.recuweb.com/sport/jumpset260.wordpress.com/2014/12/classic-motorgear-sport-deluxe-motorcycle-covers",
             "resource_url": "http://en.search.wordpress.com/?q=motorcycle%2Bsport%2Bmotorcycle%2Bsport&f=feed&page=1",
             "source_url": "http://jumpset260.wordpress.com/2014/12/13/classic-motorgear-sport-deluxe-motorcycle-covers/"
+        },
+        "cycleworld.com/2014/12/2015-kawasaki-concours-14-first-ride-sport-touring-motorcycle": {
+            "title": "2015 Kawasaki Concours 14 First Ride Sport-Touring Motorcycle...",
+            "snippet": "You won't find much new on Kawasaki's new Concours 14 sport-tourer for 2015but that's not necessarily a bad thing. Learn more and view the photos at.",
+            "date": "2014-12-05",
+            "author_name": "Paul Dean",
+            "categories": "sport",
+            "tags": "photos,tourer,touring,touring_motorcycle,motorcycle,ride,sport,won,find,learn",
+            "recuweb_url": "http://en.recuweb.com/sport/cycleworld.com/2014/12/2015-kawasaki-concours-14-first-ride-sport-touring-motorcycle",
+            "resource_url": "http://www.google.com/search?q=motorcycle%2Bsport&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://cycleworld.com/2014/12/05/2015-kawasaki-concours-14-sport-tourer-motorcycle-review-first-ride-photos/"
         }
     }
 }
