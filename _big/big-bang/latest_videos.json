@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "big-bang",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/big-bang/",
@@ -10,37 +11,69 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/big-bang/big-bang/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/the-big-bang-theory-graduation-transmission-sneak-peek-1": {
-            "title": "The Big Bang Theory - The Graduation Transmission (Sneak Peek 1)...",
-            "snippet": "The Big Bang Theory - The Graduation Transmission (Sneak Peek 1) Wolowitz questions his engineering abilities when he and Sheldon can't get a toy drone to fly; A cancelled flight nearly prevents Leonard from giving the commencement address at his...",
-            "date": "2015-04-22",
-            "author_name": "The Big Bang Theory",
-            "categories": "engineering,big-bang",
-            "tags": "questions,graduation,graduation_transmission,transmission,big,big_bang,big_bang_theory,bang,bang_theory,theory,sheldon,leonard",
-            "recuweb_url": "http://en.recuweb.com/big-bang/youtube.com/2015/04/the-big-bang-theory-graduation-transmission-sneak-peek-1",
+        "youtube.com/2015/04/bigbang-fantastic-baby-full-performance-seoul-by-minvipelf-i-am-maigane150425": {
+            "title": "BIGBANG () FANTASTIC BABY FULL PERFORMANCE SEOUL by MinVipELF I AM MAIGANE150425...",
+            "snippet": "BIGBANG () FANTASTIC BABY FULL PERFORMANCE SEOUL by MinVipELF I AM MAIGANE150425 BIGBANG () performing \"Fantastic Baby\" during the ENCORE. Full Live Performance 2015 World Tour MADE in Seoul, South Korea (Olympic Gymnastics Arena) on Saturday 25th...",
+            "date": "2015-04-26",
+            "author_name": "MinVIPELF",
+            "tags": "tour,made,live,bigbang",
+            "recuweb_url": "http://en.recuweb.com/youtube.com/2015/04/bigbang-fantastic-baby-full-performance-seoul-by-minvipelf-i-am-maigane150425",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=big%2Bbang%2Bbig%2Bbang&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=TJBpy3ihkhs&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/TJBpy3ihkhs/0.jpg"
+            "source_url": "http://youtube.com/watch?v=-uepGAFrGQQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/-uepGAFrGQQ/0.jpg"
         },
-        "youtube.com/2015/04/the-big-bang-theory-graduation-transmission-preview": {
-            "title": "The Big Bang Theory - The Graduation Transmission (Preview)...",
-            "snippet": "The Big Bang Theory - The Graduation Transmission (Preview) A new Big Bang Theory airs Thursday at 8/7c! Only CBS. From: The Big Bang Theory Views: 44223 540 ratings Time: 00:21 More in Entertainment...",
-            "date": "2015-04-20",
+        "youtube.com/2015/04/the-big-bang-theory-machine-uprising": {
+            "title": "The Big Bang Theory - Machine Uprising!",
+            "snippet": "The Big Bang Theory - Machine Uprising! As Raj, Sheldon, Wolowitz and Bernadette wait to get technical help for their drone, a sudden surge of power gives it a mind of its own. Leonard and Sheldon are brilliant physicists - geniuses... From: The Big...",
+            "date": "2015-04-24",
             "author_name": "The Big Bang Theory",
-            "categories": "big-bang,entertainment",
-            "tags": "graduation,graduation_transmission,transmission,big,big_bang,big_bang_theory,bang,bang_theory,theory",
-            "recuweb_url": "http://en.recuweb.com/entertainment/youtube.com/2015/04/the-big-bang-theory-graduation-transmission-preview",
+            "tags": "brilliant,brilliant-physicists,physicists,drone,bang,bang_theory,theory,raj,sheldon,wolowitz,leonard,geniuses",
+            "recuweb_url": "http://en.recuweb.com/youtube.com/2015/04/the-big-bang-theory-machine-uprising",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=big%2Bbang%2Bbig%2Bbang&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=I1csn1EzW-k&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/I1csn1EzW-k/0.jpg"
+            "source_url": "http://youtube.com/watch?v=vfKLosrB-ug&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/vfKLosrB-ug/0.jpg"
+        },
+        "youtube.com/2015/04/the-big-bang-theory-my-drone": {
+            "title": "The Big Bang Theory - My Drone!",
+            "snippet": "The Big Bang Theory - My Drone! Raj gets some surprising news from his father as Sheldon and Wolowitz try to fix a drone with mechanical problems. Leonard and Sheldon are brilliant physicists - geniuses in the laboratory,... From: The Big Bang...",
+            "date": "2015-04-24",
+            "author_name": "The Big Bang Theory",
+            "tags": "bang,geniuses,laboratory,brilliant,brilliant-physicists,physicists,drone,bang_theory,theory,raj,sheldon,wolowitz,leonard",
+            "recuweb_url": "http://en.recuweb.com/youtube.com/2015/04/the-big-bang-theory-my-drone",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=big%2Bbang%2Bbig%2Bbang&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=VVoQumgygDE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/VVoQumgygDE/0.jpg"
+        },
+        "youtube.com/2015/04/the-big-bang-theory-cap-and-gown": {
+            "title": "The Big Bang Theory - The Cap and Gown...",
+            "snippet": "The Big Bang Theory - The Cap and Gown Leonard shows Penny his commencement outfit. Leonard and Sheldon are brilliant physicists - geniuses in the laboratory, but socially challenged everywhere else. Enter beautiful, street-smart... From: The Big...",
+            "date": "2015-04-24",
+            "author_name": "The Big Bang Theory",
+            "tags": "socially,socially-challenged,socially-challenged-everywhere,challenged,challenged-everywhere,challenged-everywhere-else,everywhere,everywhere-else,else,geniuses,laboratory,brilliant,brilliant-physicists,physicists,commencement,bang,bang_theory,theory,leonard,penny,sheldon,enter,beautiful,street,smart",
+            "recuweb_url": "http://en.recuweb.com/youtube.com/2015/04/the-big-bang-theory-cap-and-gown",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=big%2Bbang%2Bbig%2Bbang&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=XHFnQtFQIK0&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/XHFnQtFQIK0/0.jpg"
+        },
+        "youtube.com/2015/04/the-big-bang-theory-high-school-speech": {
+            "title": "The Big Bang Theory - The High School Speech...",
+            "snippet": "The Big Bang Theory - The High School Speech As Leonard prepares to give a commencement speech at his old high school, the gang has some interesting ideas on how to keep it fresh. Leonard and Sheldon are brilliant physicists - geniuses... From: The...",
+            "date": "2015-04-24",
+            "author_name": "The Big Bang Theory",
+            "categories": "school",
+            "tags": "brilliant,brilliant-physicists,physicists,commencement,bang,bang_theory,theory,leonard,sheldon,geniuses",
+            "recuweb_url": "http://en.recuweb.com/school/youtube.com/2015/04/the-big-bang-theory-high-school-speech",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=big%2Bbang%2Bbig%2Bbang&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=cD1PAmB9D8w&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/cD1PAmB9D8w/0.jpg"
         },
         "youtube.com/2015/04/bigbang-made-tour-trailer": {
             "title": "BIGBANG - 'MADE'TOUR TRAILER...",
-            "snippet": "BIGBANG - 'MADE'TOUR TRAILER TVcast: BGM CREDIT TITLE: Live Twice BAND: PNFD LYRICS BY G-DRAGON COMPOSED BY KUSH, SEO WON JIN ARRANGED BY KUSH, SEO... From: BIGBANG Views: 1735206 88064 ratings Time: 02:21 More in Music...",
+            "snippet": "BIGBANG - 'MADE'TOUR TRAILER TVcast: BGM CREDIT TITLE: Live Twice BAND: PNFD LYRICS BY G-DRAGON COMPOSED BY KUSH, SEO WON JIN ARRANGED BY KUSH, SEO... From: BIGBANG Views: 1980209 94281 ratings Time: 02:21 More in Music...",
             "date": "2015-04-17",
             "author_name": "BIGBANG",
             "categories": "credit,music",
-            "tags": "tour,tour_trailer,trailer,bigbang,made,music",
+            "tags": "live,tour,bigbang,made,music",
             "recuweb_url": "http://en.recuweb.com/music/youtube.com/2015/04/bigbang-made-tour-trailer",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=big%2Bbang%2Bbig%2Bbang&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=VwV2I5tH4no&feature=youtube_gdata",
@@ -48,62 +81,25 @@
         },
         "youtube.com/2015/04/bigbang-made-tour-teaser": {
             "title": "BIGBANG - Made Tour - teaser...",
-            "snippet": "BIGBANG - Made Tour - teaser From: Kpop & Jpop Teaser Views: 36227 525 ratings Time: 01:16 More in People & Blogs...",
+            "snippet": "BIGBANG - Made Tour - teaser From: Kpop & Jpop Teaser Views: 55706 670 ratings Time: 01:16 More in People & Blogs...",
             "date": "2015-04-17",
             "author_name": "Kpop & Jpop Teaser",
-            "tags": "made,made_tour,tour,bigbang",
+            "tags": "made,tour,bigbang",
             "recuweb_url": "http://en.recuweb.com/youtube.com/2015/04/bigbang-made-tour-teaser",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=big%2Bbang%2Bbig%2Bbang&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=8IUmst2qNFc&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/8IUmst2qNFc/0.jpg"
-        },
-        "youtube.com/2015/04/hot-mess-reaction-to-big-bang-made-tour-trailer": {
-            "title": "Hot Mess Reaction to: Big Bang MADE Tour Trailer...",
-            "snippet": "Hot Mess Reaction to: Big Bang \"MADE\" Tour Trailer Our quick hot mess reaction to Big Bang's trailer lol Send us cool stuff!_P.O. Box 1993 Augusta, GA 30903 Have any questions? Become a Friend and Subscribe! bi... From: TalagaGaGirls Views: 10892...",
-            "date": "2015-04-17",
-            "author_name": "TalagaGaGirls",
-            "categories": "big-bang",
-            "tags": "questions,trailer,tour,tour_trailer,big,big_bang,bang,made,made_tour,subscribe",
-            "recuweb_url": "http://en.recuweb.com/big-bang/youtube.com/2015/04/hot-mess-reaction-to-big-bang-made-tour-trailer",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=big%2Bbang%2Bbig%2Bbang&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=6ujoZtbVCzI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/6ujoZtbVCzI/0.jpg"
         },
         "youtube.com/2015/04/the-big-bang-theory-a-wise-man": {
             "title": "The Big Bang Theory - A Wise Man...",
             "snippet": "The Big Bang Theory - A Wise Man Penny comes to Sheldon for advice. Leonard and Sheldon are brilliant physicists - geniuses in the laboratory, but socially challenged everywhere else. Enter beautiful, street-smart neighbor,... From: The Big Bang...",
             "date": "2015-04-17",
             "author_name": "The Big Bang Theory",
-            "categories": "big-bang",
-            "tags": "big,big_bang,bang,socially,socially-challenged,socially-challenged-everywhere,challenged,challenged-everywhere,challenged-everywhere-else,everywhere,everywhere-else,else,geniuses,laboratory,brilliant,brilliant-physicists,physicists,penny,big_bang_theory,bang_theory,theory,sheldon,leonard,enter,beautiful",
-            "recuweb_url": "http://en.recuweb.com/big-bang/youtube.com/2015/04/the-big-bang-theory-a-wise-man",
+            "tags": "bang,smart,socially,socially-challenged,socially-challenged-everywhere,challenged,challenged-everywhere,challenged-everywhere-else,everywhere,everywhere-else,else,geniuses,laboratory,brilliant,brilliant-physicists,physicists,penny,bang_theory,theory,sheldon,leonard,enter,beautiful,street",
+            "recuweb_url": "http://en.recuweb.com/youtube.com/2015/04/the-big-bang-theory-a-wise-man",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=big%2Bbang%2Bbig%2Bbang&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=V-1aLQJOvcM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/V-1aLQJOvcM/0.jpg"
-        },
-        "youtube.com/2015/04/the-big-bang-theory-change-my-life": {
-            "title": "The Big Bang Theory - Change My Life...",
-            "snippet": "The Big Bang Theory - Change My Life Penny realizes that she doesn't want to be an actress anymore. Leonard and Sheldon are brilliant physicists - geniuses in the laboratory, but socially challenged everywhere else. Enter beautiful,... From: The Big...",
-            "date": "2015-04-17",
-            "author_name": "The Big Bang Theory",
-            "categories": "life,big-bang",
-            "tags": "socially,socially-challenged,socially-challenged-everywhere,challenged,challenged-everywhere,challenged-everywhere-else,everywhere,everywhere-else,else,geniuses,laboratory,brilliant,brilliant-physicists,physicists,penny,life,big,big_bang,big_bang_theory,bang,bang_theory,theory,leonard,sheldon,enter,beautiful",
-            "recuweb_url": "http://en.recuweb.com/big-bang/youtube.com/2015/04/the-big-bang-theory-change-my-life",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=big%2Bbang%2Bbig%2Bbang&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=UGIlkdnA70w&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/UGIlkdnA70w/0.jpg"
-        },
-        "youtube.com/2015/04/the-big-bang-theory-pop-it-like-a-zit": {
-            "title": "The Big Bang Theory - Pop It Like A Zit...",
-            "snippet": "The Big Bang Theory - Pop It Like A Zit Howard creates a new alcoholic drink to make Raj jealous. Leonard and Sheldon are brilliant physicists - geniuses in the laboratory, but socially challenged everywhere else. Enter beautiful,... From: The Big...",
-            "date": "2015-04-17",
-            "author_name": "The Big Bang Theory",
-            "categories": "drink,big-bang",
-            "tags": "socially,socially-challenged,socially-challenged-everywhere,challenged,challenged-everywhere,challenged-everywhere-else,everywhere,everywhere-else,else,geniuses,laboratory,brilliant,brilliant-physicists,physicists,big,big_bang,big_bang_theory,bang,bang_theory,theory,leonard,sheldon,enter,beautiful",
-            "recuweb_url": "http://en.recuweb.com/big-bang/youtube.com/2015/04/the-big-bang-theory-pop-it-like-a-zit",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=big%2Bbang%2Bbig%2Bbang&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=R_cc2dbgIJ4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/R_cc2dbgIJ4/0.jpg"
         },
         "youtube.com/2015/04/bigbang-japan-dome-tour-20142015-x-full-dvd-concert": {
             "title": "BIGBANG Japan Dome Tour 20142015 X (Full DVD Concert)...",
@@ -121,9 +117,9 @@
             "snippet": "Borgeous & David Solano - Big Bang (2015 Life In Color Anthem) Official Music Video Borgeous & David Solano - Big Bang (2015 Life In Color Anthem) is OUT NOW! Grab your copy on Beatport HERE: Subscribe to Spinnin'TV now: From: Spinnin'Records Views:...",
             "date": "2015-04-14",
             "author_name": "Spinnin' Records",
-            "categories": "music,music-video,life,big-bang",
-            "tags": "music,life,big,big_bang,bang,subscribe",
-            "recuweb_url": "http://en.recuweb.com/big-bang/youtube.com/2015/04/borgeous-&-david-solano-big-bang-2015-life-in-color-anthem",
+            "categories": "music,music-video,life",
+            "tags": "music,bang",
+            "recuweb_url": "http://en.recuweb.com/life/youtube.com/2015/04/borgeous-&-david-solano-big-bang-2015-life-in-color-anthem",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=big%2Bbang%2Bbig%2Bbang&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=QEDe9Yu_EMo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/QEDe9Yu_EMo/0.jpg"
