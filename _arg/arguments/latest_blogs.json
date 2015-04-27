@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "arguments",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/arguments/",
@@ -10,114 +11,114 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/arguments/arguments/blogs.json"
     },
     "items": {
-        "nakedcapitalism.com/2015/04/more-craven-arguments-used-to-sell-tpp-and-fast-track": {
-            "title": "More Craven Arguments Used to Sell TPP and Fast Track to...",
-            "snippet": "The latest on the fast track bill that will pave the way for TPP, and the increasingly incoherent arguments being used to sell it.",
-            "date": "2015-04-23",
-            "author_name": "David Dayen",
+        "towleroad.com/2015/04/nationwide-marriage-equality-rallies-tv-ads-planned-in-advance": {
+            "title": "Nationwide Marriage Equality Rallies, TV Ads Planned In Advance...",
+            "snippet": "Marriage equality rallies are planned in more than 40 cities over the next few days to mark Tuesday's oral arguments at the U.S. Supreme Court. From Unite For Marriage: Like in 2013, a coalition of organizations and...",
+            "date": "2015-04-26",
+            "author_name": "John Wright",
+            "categories": "marriage,arguments",
+            "tags": "supreme,supreme_court,court,oral,marriage,tuesday,arguments",
+            "recuweb_url": "http://en.recuweb.com/arguments/towleroad.com/2015/04/nationwide-marriage-equality-rallies-tv-ads-planned-in-advance",
+            "resource_url": "http://www.google.com/search?q=arguments%2Barguments&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://towleroad.com/2015/04/marriage-equality-rallies-planned-across-us-in-advance-of-tuesdays-scotus-arguments.html"
+        },
+        "sentencing.typepad.com/2015/04/sentencing-law-and-policy-arguments-against-death-penalty": {
+            "title": "Sentencing Law and Policy: Arguments against death penalty...",
+            "snippet": "Arguments against death penalty abolition prevail in great Intelligence Squared debate. Download I have long been a fan of the Intelligence Squared debate series, which I often hear on my local NPR station (and which too...",
+            "date": "2015-04-26",
+            "author_name": "Douglas A. Berman",
+            "categories": "law,policy,arguments,death",
+            "tags": "hear,series,intelligence,law,arguments,against,death,penalty,local",
+            "recuweb_url": "http://en.recuweb.com/death/sentencing.typepad.com/2015/04/sentencing-law-and-policy-arguments-against-death-penalty",
+            "resource_url": "http://www.google.com/search?q=arguments%2Barguments&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://sentencing.typepad.com/sentencing_law_and_policy/2015/04/arguments-against-death-penalty-abolition-prevail-in-great-intelligence-squared-debate-.html"
+        },
+        "scotusblog.com/2015/04/this-week-s-arguments-scotusblog": {
+            "title": "This week's arguments: SCOTUSblog...",
+            "snippet": "Department of Agriculture. Posted in Everything Else. Recommended Citation: Oyez Project, This week's arguments, SCOTUSblog (Apr. 24, 2015, 3:58 PM), Share...",
+            "date": "2015-04-24",
+            "author_name": "Oyez Project",
             "categories": "arguments",
-            "tags": "arguments",
-            "recuweb_url": "http://en.recuweb.com/arguments/nakedcapitalism.com/2015/04/more-craven-arguments-used-to-sell-tpp-and-fast-track",
+            "tags": "arguments,apr",
+            "recuweb_url": "http://en.recuweb.com/arguments/scotusblog.com/2015/04/this-week-s-arguments-scotusblog",
             "resource_url": "http://www.google.com/search?q=arguments%2Barguments&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://nakedcapitalism.com/2015/04/craven-arguments-used-sell-tpp-fast-track-congress-mixed-results.html"
+            "source_url": "http://scotusblog.com/2015/04/this-weeks-arguments-5/"
         },
-        "viewfromll2.com/2015/04/serial-lies-damned-and-closing-arguments": {
-            "title": "Serial: Lies, Damned Lies, and Closing Arguments The View From...",
-            "snippet": "In closing arguments, the prosecution is entitled to considerable latitude in summation to argue the evidence and any reasonable inferences that can be drawn from that evidence, United States v. Green, 25 206, 210 (3d...",
+        "pennlive.com/2015/04/ag-kathleen-kane-hearing-postponed-oral-arguments-to-proceed": {
+            "title": "AG Kathleen Kane hearing postponed, oral arguments to proceed...",
+            "snippet": "Attorney General Kathleen Kane will still appear before a panel of three judges Monday to explain her firing of a top aide, but her contempt hearing has been postponed.",
             "date": "2015-04-23",
-            "author_name": "Susan Simpson",
-            "categories": "evidence,arguments",
-            "tags": "evidence,argue,closing,closing_arguments,arguments",
-            "recuweb_url": "http://en.recuweb.com/arguments/viewfromll2.com/2015/04/serial-lies-damned-and-closing-arguments",
+            "author_name": "Wallace McKelvey | WMckelvey@pennlive.com",
+            "categories": "arguments",
+            "tags": "attorney,oral,arguments,monday",
+            "recuweb_url": "http://en.recuweb.com/arguments/pennlive.com/2015/04/ag-kathleen-kane-hearing-postponed-oral-arguments-to-proceed",
             "resource_url": "http://www.google.com/search?q=arguments%2Barguments&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://viewfromll2.com/2015/04/22/serial-lies-damned-lies-and-closing-arguments/"
+            "source_url": "http://pennlive.com/politics/index.ssf/2015/04/kathleen_kane_hearing_postpone.html"
         },
-        "java.dzone.com/2015/04/spring-sweets-using-value-for-constructor-arguments-javalobby": {
-            "title": "Spring Sweets: Using Value for Constructor Arguments Javalobby...",
-            "snippet": "In Spring we can use the Value annotation to set property or arguments values based on a SpEL expression. If we want to use the Value annotation for a constructor argument we must not forget to add the Autowired...",
-            "date": "2015-04-22",
-            "author_name": "mrhaki",
-            "categories": "property,arguments",
-            "tags": "arguments",
-            "recuweb_url": "http://en.recuweb.com/arguments/java.dzone.com/2015/04/spring-sweets-using-value-for-constructor-arguments-javalobby",
+        "wpri.com/2015/04/judge-hears-conflict-of-interest-arguments-in-teen-manslaughter": {
+            "title": "Judge hears conflict-of-interest arguments in teen manslaughter...",
+            "snippet": "NEW BEDFORD, Mass. (WPRI) A New Bedford Juvenile Court judge heard arguments Thursday morning over whether the Bristol County District Attorney's office has a conflict of interest in the involuntary manslaughter...",
+            "date": "2015-04-23",
+            "author_name": "Darren Soens",
+            "categories": "arguments",
+            "tags": "attorney,court,hears,arguments",
+            "recuweb_url": "http://en.recuweb.com/arguments/wpri.com/2015/04/judge-hears-conflict-of-interest-arguments-in-teen-manslaughter",
+            "resource_url": "http://www.google.com/search?q=arguments&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://wpri.com/2015/04/23/judge-hears-conflict-of-interest-arguments-in-teen-manslaughter-case/"
+        },
+        "desiringgod.org/2015/04/nine-arguments-against-anxiety-desiring-god": {
+            "title": "Nine Arguments Against Anxiety Desiring God...",
+            "snippet": "This three-part series of labs takes on anxiety by studying Matthew 6:2427. If the Bible is going to effectively speak to our anxious hearts, we need to learn how to read it well. In this lab, John Piper lays out the arguments and...",
+            "date": "2015-04-23",
+            "author_name": "John Piper",
+            "categories": "arguments",
+            "tags": "read,well,series,arguments,arguments_against,against,god,part",
+            "recuweb_url": "http://en.recuweb.com/arguments/desiringgod.org/2015/04/nine-arguments-against-anxiety-desiring-god",
             "resource_url": "http://www.google.com/search?q=arguments%2Barguments&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://java.dzone.com/articles/spring-sweets-using-value"
+            "source_url": "http://desiringgod.org/labs/nine-arguments-against-anxiety"
         },
         "blogs.sap.com/2015/04/a-bucket-of-wings-case-study-better-informed-decisions": {
             "title": "A Bucket of Wings: A Case Study of Better-Informed Decisions...",
             "snippet": "In my blog Use Data To Support Arguments, Not Arguments To Support Data, I articulated how better-informed decisions are typically made and the role that business intelligence (BI) should play. Shortly after I wrote the blog, I experienced a...",
             "date": "2015-04-21",
             "author_name": "Kaan Turnali",
-            "categories": "play,business,arguments",
-            "tags": "should,arguments,support,case,made,after",
-            "recuweb_url": "http://en.recuweb.com/arguments/blogs.sap.com/2015/04/a-bucket-of-wings-case-study-better-informed-decisions",
+            "categories": "business,arguments,play",
+            "tags": "intelligence,arguments,support,case,should",
+            "recuweb_url": "http://en.recuweb.com/play/blogs.sap.com/2015/04/a-bucket-of-wings-case-study-better-informed-decisions",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=arguments%2Barguments&rss=1&lng=en",
             "source_url": "http://blogs.sap.com/analytics/2015/04/21/a-bucket-of-wings-a-case-study-of-better-informed-decisions/"
         },
-        "blogs.wsj.com/2015/04/closing-arguments-loom-in-aig-bailout-trial-moneybeat-wsj": {
-            "title": "Closing Arguments Loom in AIG Bailout Trial - MoneyBeat - WSJ...",
-            "snippet": "After years of legal wrangling, closing arguments are finally approaching in the federal lawsuit over the legality of the bailout of American International Group%. Lawyers for each side will have two hours apiece...",
+        "rawstory.com/2015/04/this-free-university-course-will-teach-you-how-to-demolish": {
+            "title": "This free university course will teach you how to demolish...",
+            "snippet": "This free university course will teach you how to demolish arguments from climate change deniers. Dana Nuccitelli, The Guardian 21 Apr 2015 at 10:12 ET. Antarctic animals, penguin Adelie (Shutterstock). Don't miss stories. Follow Raw...",
             "date": "2015-04-21",
-            "author_name": "Leslie Scism",
-            "categories": "arguments",
-            "tags": "legal,trial,closing,closing_arguments,arguments,after",
-            "recuweb_url": "http://en.recuweb.com/arguments/blogs.wsj.com/2015/04/closing-arguments-loom-in-aig-bailout-trial-moneybeat-wsj",
-            "resource_url": "http://www.google.com/search?q=arguments%2Barguments&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogs.wsj.com/moneybeat/2015/04/21/closing-arguments-loom-in-aig-bailout-trial/"
-        },
-        "fox43.com/2015/04/judge-hears-arguments-over-police-shooting-video-wpmt-fox43": {
-            "title": "Judge hears arguments over police shooting video WPMT FOX43...",
-            "snippet": "On Tuesday, a battle played out in court over whether to release video that shows a Dauphin County police officer shooting an unarmed man. The judge declined to rule on the case, saying it was premature because the...",
-            "date": "2015-04-21",
-            "author_name": "Katie Kyros",
-            "categories": "arguments",
-            "tags": "saying,judge,man,whether,battle,hears,arguments,police,tuesday,court,case",
-            "recuweb_url": "http://en.recuweb.com/arguments/fox43.com/2015/04/judge-hears-arguments-over-police-shooting-video-wpmt-fox43",
-            "resource_url": "http://www.google.com/search?q=arguments%2Barguments&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://fox43.com/2015/04/21/judge-hears-arguments-over-police-shooting-video/"
-        },
-        "crisismagazine.com/2015/04/why-religious-liberty-arguments-aren-t-working-crisis-magazine": {
-            "title": "Why Religious Liberty Arguments Aren't Working - Crisis Magazine...",
-            "snippet": "The uproar over the Indiana Religious Freedom Restoration Act demonstrates that religious liberty arguments don't work anymore. I take no pleasure in saying this. But religious liberty arguments are not compelling enough to...",
-            "date": "2015-04-16",
-            "author_name": "Jennifer Roback Morse",
-            "categories": "pleasure,arguments",
-            "tags": "saying,arguments",
-            "recuweb_url": "http://en.recuweb.com/arguments/crisismagazine.com/2015/04/why-religious-liberty-arguments-aren-t-working-crisis-magazine",
-            "resource_url": "http://www.google.com/search?q=arguments%2Barguments&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://crisismagazine.com/2015/religious-liberty-arguments-arent-working"
+            "author_name": "Dana Nuccitelli, The Guardian",
+            "categories": "climate-change,university,arguments,animals",
+            "tags": "arguments,guardian,apr",
+            "recuweb_url": "http://en.recuweb.com/animals/rawstory.com/2015/04/this-free-university-course-will-teach-you-how-to-demolish",
+            "resource_url": "http://www.google.com/search?q=arguments&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://rawstory.com/2015/04/this-free-university-course-will-teach-you-how-to-demolish-arguments-from-climate-change-deniers/"
         },
         "reddit.com/2015/04/lpt-when-writing-an-essay-put-your-weakest-arguments-in": {
             "title": "LPT: When writing an essay, put your weakest arguments in the middle and your strongest arguments...",
             "snippet": "This method allows you to start and end your essays/papers with most strength. Note: This is by far not the best method to write an essay. Use this only if you are really stuck or have no other options. Ideally, you should have ALL strong well...",
             "date": "2015-04-12",
             "categories": "arguments",
-            "tags": "should,best,start,end,arguments",
+            "tags": "well,only,arguments,should",
             "recuweb_url": "http://en.recuweb.com/arguments/reddit.com/2015/04/lpt-when-writing-an-essay-put-your-weakest-arguments-in",
             "resource_url": "http://www.reddit.com/search.rss?q=arguments%2Barguments&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/LifeProTips/comments/32c9z5/lpt_when_writing_an_essay_put_your_weakest/"
         },
-        "theguardian.com/2015/04/arguments-over-greek-debt-echo-ancient-disputes-about-easter": {
-            "title": "Arguments over Greek debt echo ancient disputes about Easter...",
-            "snippet": "Arguments over Greek debt echo ancient disputes about Easter. Giles Fraser. For eastern Christians, the emphasis is on Christ leaping from the grave not hanging on a cross. It is about life triumphant over death.",
-            "date": "2015-04-10",
-            "author_name": "Giles Fraser",
-            "categories": "life,death,arguments",
-            "tags": "death,arguments",
-            "recuweb_url": "http://en.recuweb.com/arguments/theguardian.com/2015/04/arguments-over-greek-debt-echo-ancient-disputes-about-easter",
-            "resource_url": "http://www.google.com/search?q=arguments%2Barguments&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/commentisfree/belief/2015/apr/10/argument-about-greek-debt-echo-ancient-disputes-about-easter"
-        },
-        "nbcnews.com/2015/04/aaron-hernandez-trial-defense-lawyer-says-client-witnessed": {
-            "title": "Aaron Hernandez Trial: Defense Lawyer Says Client Witnessed...",
-            "snippet": "A defense lawyer for Aaron Hernandez, the former New England Patriots tight end on trial for murder, told jurors during closing arguments Tuesday that they shouldn't convict \"an innocent man.\" \"This is a terrible case,\"...",
-            "date": "2015-04-07",
-            "author_name": "unknown",
+        "openculture.com/2015/04/read-an-illustrated-book-of-bad-arguments-a-fun-primer-on": {
+            "title": "Read An Illustrated Book of Bad Arguments: A Fun Primer on How to...",
+            "snippet": "They've had some opportunity to access higher order thinking skills and to override knee-jerk reactions. Most arguments take place in the frayfamily dinners, online forum warsbut even in these cases, applying the best of...",
+            "date": "2015-04-06",
+            "author_name": "Josh Jones",
             "categories": "arguments",
-            "tags": "man,told,end,defense,says,trial,murder,during,closing,arguments,tuesday,case",
-            "recuweb_url": "http://en.recuweb.com/arguments/nbcnews.com/2015/04/aaron-hernandez-trial-defense-lawyer-says-client-witnessed",
-            "resource_url": "http://www.google.com/search?q=arguments%2Barguments&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://nbcnews.com/storyline/aaron-hernandez/closing-arguments-start-aaron-hernandez-trial-n337136"
+            "tags": "order,arguments,read",
+            "recuweb_url": "http://en.recuweb.com/arguments/openculture.com/2015/04/read-an-illustrated-book-of-bad-arguments-a-fun-primer-on",
+            "resource_url": "http://www.google.com/search?q=arguments&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://openculture.com/2015/04/an-illustrated-book-of-bad-arguments.html"
         }
     }
 }
