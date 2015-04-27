@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sikhism",
-        "language": "en"
+        "language": "en",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/sikhism/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/sikhism/sikhism/blogs.json"
     },
     "items": {
+        "youtube.com/2015/03/from-sikhism-to-christianity-sukhwant-bhatia": {
+            "title": "From Sikhism to Christianity - Sukhwant Bhatia...",
+            "snippet": "From Sikhism to Christianity - Sukhwant Bhatia Dr. Sukhwant Bhatia, Founder and President of Seek Partners International in New Delhi, India, tells his story of coming to faith in Jesus Christ from a sikhism background. Comments:... From:...",
+            "date": "2015-03-03",
+            "author_name": "dallasseminary",
+            "categories": "sikhism,christianity",
+            "tags": "sikhism,faith,tells,founder",
+            "recuweb_url": "http://en.recuweb.com/christianity/youtube.com/2015/03/from-sikhism-to-christianity-sukhwant-bhatia",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sikhism&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=4soHwOHD7JY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/4soHwOHD7JY/0.jpg"
+        },
         "dailymotion.com/2015/02/sikhism-cracked-beliefs": {
             "title": "Sikhism Cracked (sikhism beliefs)...",
             "snippet": ".. Click Here: Download Sikhism 2014! - access instantly! Sikhism sikhism sikhism basic beliefs sikhism facts sikhism beliefs sikhism religion sikhism holidays sikhism definition sikhism symbols sikhism view of good and evil sikhism origin Learn...",
@@ -28,7 +41,7 @@
             "date": "2015-01-15",
             "author_name": "Basics of Sikhi",
             "categories": "sikhism,hinduism,islam",
-            "tags": "sikhism,q&a",
+            "tags": "sikhism",
             "recuweb_url": "http://en.recuweb.com/islam/youtube.com/2015/01/but-sikhism-is-a-mix-of-hinduism-and-islam-anti-conversion",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sikhism%2Bsikhism&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=JGMcfnVqOCg&feature=youtube_gdata",
@@ -40,9 +53,9 @@
             "date": "2014-12-13",
             "author_name": "21st century Education",
             "categories": "belief,life,religion,sikhism",
-            "tags": "beliefs,life,founder,religion,documentary,sikhism",
+            "tags": "faith,beliefs,life,founder,religion,documentary,sikhism",
             "recuweb_url": "http://en.recuweb.com/sikhism/youtube.com/2014/12/sikhism-religion-documentary",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sikhism&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sikhism%2Bsikhism&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=yFsPByVifEo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/yFsPByVifEo/0.jpg"
         },
@@ -52,7 +65,7 @@
             "date": "2014-11-03",
             "author_name": "Lost Treasures of the Sikh Kingdom",
             "categories": "sikhism",
-            "tags": "founder,sikh,documentary,sikhism",
+            "tags": "tells,founder,sikh,documentary,sikhism",
             "recuweb_url": "http://en.recuweb.com/sikhism/youtube.com/2014/11/lost-treasures-of-the-sikh-kingdom-bbc-documentary-2014-full-punjab",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sikhism%2Bsikhism&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=mbgX34cggqg&feature=youtube_gdata",
@@ -88,7 +101,7 @@
             "date": "2014-07-05",
             "author_name": "SikhVoice",
             "categories": "meat,sikhism",
-            "tags": "sikhism,sikh,guru",
+            "tags": "sikhism,sikh",
             "recuweb_url": "http://en.recuweb.com/sikhism/dailymotion.com/2014/07/eating-meat-in-sikhism",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/sikhism/0?af=1",
             "source_url": "http://dailymotion.com/video/x20ui4o_eating-meat-in-sikhism_lifestyle",
@@ -106,29 +119,17 @@
             "source_url": "http://dailymotion.com/video/x20ihfm_download-ebook-a-popular-dictionary-of-sikhism-pdf-epub_shortfilms",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x20ihfm_download-ebook-a-popular-dictionary-of-sikhism-pdf-epub_shortfilms"
         },
-        "youtube.com/2014/04/do-aliens-exist-as-per-sikhism-q&a-3-uc-davis-ssa": {
-            "title": "Do Aliens exist (as per Sikhism)? - Q&A 3 UC Davis SSA...",
-            "snippet": "Do Aliens exist (as per Sikhism)? - Q&A 3 UC Davis SSA Question from audience was \"Do aliens exist?\" This Q&A followed the UC Davis SSA talk \"Challenging our pre-conceptions of Sikhi Basics of Sikhi is a project by... From: Basics of Sikhi Views:...",
-            "date": "2014-04-26",
-            "author_name": "Basics of Sikhi",
+        "dailymotion.com/2014/05/hindu-pandit-s-views-on-langar-and-sikhism-must-watch": {
+            "title": "Hindu Pandit's Views on Langar and Sikhism Must Watch...",
+            "snippet": "A Hindu Pandit's thoughts on SikhismAuthor: dailysikhupdatesTags: langar hindhu pandit sikhism seva Posted: 03 May 2014Rating:: 0...",
+            "date": "2014-05-03",
+            "author_name": "dailysikhupdates",
             "categories": "sikhism",
-            "tags": "q&a,sikhism",
-            "recuweb_url": "http://en.recuweb.com/sikhism/youtube.com/2014/04/do-aliens-exist-as-per-sikhism-q&a-3-uc-davis-ssa",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sikhism&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=dFSL2QwDEq8&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/dFSL2QwDEq8/0.jpg"
-        },
-        "dailymotion.com/2014/04/guru-nanak-founder-of-the-religion-sikhism": {
-            "title": "Guru Nanak,Founder of the Religion of Sikhism...",
-            "snippet": "Guru Nanak About this sound pronunciation (helpinfo)(Punjabi:; Hindi:, Urdu:, [u nnk] Gur Nnak) (15 April 1469 22 September 1539) is the founder of the religion of Sikhism and is the first of the Sikh Gurus. Read More:: bharathiyaTags: 15th April...",
-            "date": "2014-04-14",
-            "author_name": "bharathiya",
-            "categories": "religion,sikhism",
-            "tags": "sikh,guru,founder,religion,sikhism",
-            "recuweb_url": "http://en.recuweb.com/sikhism/dailymotion.com/2014/04/guru-nanak-founder-of-the-religion-sikhism",
+            "tags": "sikhism",
+            "recuweb_url": "http://en.recuweb.com/sikhism/dailymotion.com/2014/05/hindu-pandit-s-views-on-langar-and-sikhism-must-watch",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/sikhism/0?af=1",
-            "source_url": "http://dailymotion.com/video/x1oad1b_guru-nanak-founder-of-the-religion-of-sikhism_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x1oad1b_guru-nanak-founder-of-the-religion-of-sikhism_lifestyle"
+            "source_url": "http://dailymotion.com/video/x1st12b_hindu-pandit-s-views-on-langar-and-sikhism-must-watch_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x1st12b_hindu-pandit-s-views-on-langar-and-sikhism-must-watch_news"
         }
     }
 }
