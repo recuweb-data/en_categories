@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "model-organisms",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/model-organisms/",
@@ -11,13 +11,24 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/model-organisms/model-organisms/blogs.json"
     },
     "items": {
+        "fightaging.org/2015/04/a-brief-introduction-to-model-organisms-in-aging-research": {
+            "title": "A Brief Introduction to Model Organisms in Aging Research...",
+            "snippet": "The varied approaches to research developed over past decades by the aging research community are driven by two things: firstly that we live for a long time, and secondly the absence of a way to accurately determine an...",
+            "date": "2015-04-16",
+            "author_name": "Reason",
+            "categories": "model-organisms,organisms",
+            "tags": "long,community,aging,research,model,model_organisms,organisms,live",
+            "recuweb_url": "http://en.recuweb.com/organisms/fightaging.org/2015/04/a-brief-introduction-to-model-organisms-in-aging-research",
+            "resource_url": "http://www.google.com/search?q=model%2Borganisms%2Bmodel%2Borganisms&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://fightaging.org/archives/2015/04/a-brief-introduction-to-model-organisms-in-aging-research.php"
+        },
         "yeastmeetswestblog.wordpress.com/2015/04/day-11-model-organisms": {
             "title": "Day 11: Model organisms...",
             "snippet": "I work in a yeast lab, but were based in the BC Cancer Agency. How are yeast related to human health? Yes, a yeast cell is much different from []...",
             "date": "2015-04-14",
             "author_name": "Karissa",
             "categories": "cancer,organisms,health",
-            "tags": "yeast,cell,model,organisms,lab,human",
+            "tags": "yeast,related,cancer,model,organisms,lab,human,cell",
             "recuweb_url": "http://en.recuweb.com/health/yeastmeetswestblog.wordpress.com/2015/04/day-11-model-organisms",
             "resource_url": "http://en.search.wordpress.com/?q=model%2Borganisms%2Bmodel%2Borganisms&f=feed&page=1",
             "source_url": "http://yeastmeetswestblog.wordpress.com/2015/04/14/day-11-model-organisms/"
@@ -28,21 +39,10 @@
             "date": "2015-04-14",
             "author_name": "ISCB Admin",
             "categories": "model-organisms,organisms,biology",
-            "tags": "leading,model,model_organisms,organisms,systems,biology,functional,open,scientists",
+            "tags": "conference,leading,model,model_organisms,organisms,systems,biology,functional,open,long,scientists",
             "recuweb_url": "http://en.recuweb.com/biology/news.iscb.org/2015/04/registration-open-functional-genomics-and-systems-biology",
             "resource_url": "http://www.google.com/search?q=model%2Borganisms%2Bmodel%2Borganisms&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://news.iscb.org/2015/04/registration-open-functional-genomics.html"
-        },
-        "moseslab.csb.utoronto.ca/2015/04/model-organism-emoji-moses-lab-blog": {
-            "title": "Model organism emoji Moses Lab Blog...",
-            "snippet": "Dear readers: I'm looking for standard emoticons for model organisms. Does anyone know where to find these? So far I found: Mouse:3). Fish)))). What about flies, worms, arabidopsis and yeast? Is yeast just Oo?",
-            "date": "2015-04-10",
-            "author_name": "Alan Moses",
-            "categories": "organisms",
-            "tags": "yeast,flies,lab,lab_blog,model,organisms,far,fish",
-            "recuweb_url": "http://en.recuweb.com/organisms/moseslab.csb.utoronto.ca/2015/04/model-organism-emoji-moses-lab-blog",
-            "resource_url": "http://www.google.com/search?q=model%2Borganisms%2Bmodel%2Borganisms&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://moseslab.csb.utoronto.ca/blog/?p=262"
         },
         "mdpi.com/2015/04/molecules-free-full-text-model-organisms-in-the-fight-against": {
             "title": "Molecules Free Full-Text Model Organisms in the Fight against...",
@@ -61,7 +61,7 @@
             "date": "2015-04-03",
             "author_name": "arne hendriks",
             "categories": "culture,organisms",
-            "tags": "species,understand,model,model_organism,organisms",
+            "tags": "understand,model,model_organism,organisms",
             "recuweb_url": "http://en.recuweb.com/organisms/the-incredible-shrinking-man.net/2015/04/the-incredible-shrinking-man-we-are-model-organism",
             "resource_url": "http://www.google.com/search?q=model%2Borganisms%2Bmodel%2Borganisms&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://the-incredible-shrinking-man.net/?p=9580"
@@ -72,7 +72,7 @@
             "date": "2015-04-02",
             "author_name": "Keith Bradnam",
             "categories": "students,organisms",
-            "tags": "open,non,model,organisms",
+            "tags": "community,open,non,model,organisms",
             "recuweb_url": "http://en.recuweb.com/organisms/genomecenter.ucdavis.edu/2015/04/workshop-on-mrnaseq-for-non-model-organisms-organized",
             "resource_url": "http://www.google.com/search?q=model%2Borganisms%2Bmodel%2Borganisms&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://genomecenter.ucdavis.edu/2015/04/02/workshop-on-mrnaseq-for-non-model-organisms-organized-by-titus-brown-may-4-5/"
@@ -83,7 +83,7 @@
             "date": "2015-03-26",
             "author_name": "Travis Parsons (Ph.D. Student)",
             "categories": "organisms,biology",
-            "tags": "models,model,perform,experiments,humans,human,student,lab,lab_blog,why,research,organisms,using,biology,ing",
+            "tags": "model,focused,perform,human,lab,why,research,organisms,using,biology,ing",
             "recuweb_url": "http://en.recuweb.com/biology/rafterylab.wordpress.com/2015/03/why-do-research-on-model-organisms-the-raftery-lab-blog",
             "resource_url": "http://www.google.com/search?q=model%2Borganisms&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://rafterylab.wordpress.com/2015/03/25/why-do-research-on-model-organisms/"
@@ -93,9 +93,9 @@
             "snippet": "Based on their impact on many ecosystems, we review the relevance of mosses in research regarding stress tolerance, metabolism, and cell biology. We introduce the potential use of mosses as complementary model...",
             "date": "2015-03-21",
             "author_name": "Erwin Dreyer",
-            "categories": "biology,organisms,metabolism",
-            "tags": "cell,biology,model,organisms,research,impact,metabolism",
-            "recuweb_url": "http://en.recuweb.com/metabolism/ist.blogs.inra.fr/2015/03/can-mosses-serve-as-model-organisms-for-forest-research",
+            "categories": "organisms,metabolism,biology",
+            "tags": "model,organisms,research,metabolism,cell,biology",
+            "recuweb_url": "http://en.recuweb.com/biology/ist.blogs.inra.fr/2015/03/can-mosses-serve-as-model-organisms-for-forest-research",
             "resource_url": "http://www.google.com/search?q=model%2Borganisms&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://ist.blogs.inra.fr/afs/2015/03/21/can-mosses-serve-as-model-organisms-for-forest-research/"
         },
@@ -105,7 +105,7 @@
             "date": "2015-03-18",
             "author_name": "Thomas Lumley",
             "categories": "organisms",
-            "tags": "made,fish,model,organisms,organism,research",
+            "tags": "model,organisms,organism,research",
             "recuweb_url": "http://en.recuweb.com/organisms/statschat.org.nz/2015/03/model-organisms-stats-chat",
             "resource_url": "http://www.google.com/search?q=model%2Borganisms%2Bmodel%2Borganisms&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://statschat.org.nz/2015/03/19/model-organisms/"
@@ -116,7 +116,7 @@
             "date": "2015-01-12",
             "author_name": "Melissa DeBiasse",
             "categories": "organisms",
-            "tags": "perform,today,non,ing,model,researchers,organisms",
+            "tags": "perform,genome,data,non,ing,model,researchers,organisms",
             "recuweb_url": "http://en.recuweb.com/organisms/molecularecologist.com/2015/01/linking-gene-expression-and-phenotype-in-an-emerging-model",
             "resource_url": "http://www.google.com/search?q=model%2Borganisms%2Bmodel%2Borganisms&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://molecularecologist.com/2015/01/linking-gene-expression-and-phenotype-in-an-emerging-model-organism/"
