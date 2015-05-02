@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "medical-robots",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/medical-robots/",
@@ -11,24 +11,43 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/medical-robots/medical-robots/blogs.json"
     },
     "items": {
+        "imedicalapps.com/2015/04/surgical-robot-hacked-by-computer-science-experts-not-the-imminent-threat": {
+            "title": "Surgical robot hacked by computer science experts, not the imminent threat being implied in media...",
+            "snippet": "One of the main use cases highlighted for surgical robots, or any number of medical robots for that matter, is that they can function in remote, difficult to reach, and underserved areas. In those areas, some of the conditions of this study are...",
+            "date": "2015-04-27",
+            "categories": "science",
+            "tags": "reach,surgical,robots,hacked,experts,medical",
+            "recuweb_url": "http://en.recuweb.com/science/imedicalapps.com/2015/04/surgical-robot-hacked-by-computer-science-experts-not-the-imminent-threat",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=medical%2Brobots&format=RSS&cc=us",
+            "source_url": "http://imedicalapps.com/2015/04/robot-hack/"
+        },
+        "gizmodo.com/2015/04/medical-robots-can-be-hacked-during-surgery-researchers-find": {
+            "title": "Medical Robots Can Be Hacked During Surgery, Researchers Find...",
+            "snippet": "Researchers at the University of Washington in Seattle have just hijacked a teleoperated surgical robot, demonstrating major security weaknesses in the machines that may eventually replace a surgeons hands in hospitals worldwide. Yikes. When...",
+            "date": "2015-04-25",
+            "categories": "medical-robots,surgery,university",
+            "tags": "security,machines,surgeons,worldwide,teleoperated,surgical,robots,researchers,medical,medical_robots,hacked,surgery,university",
+            "recuweb_url": "http://en.recuweb.com/university/gizmodo.com/2015/04/medical-robots-can-be-hacked-during-surgery-researchers-find",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=medical%2Brobots&format=RSS&cc=us",
+            "source_url": "http://gizmodo.com/medical-robots-can-be-hacked-during-surgery-researcher-1700143736"
+        },
+        "technologyreview.com/2015/04/security-experts-hack-teleoperated-surgical-robot": {
+            "title": "Security Experts Hack Teleoperated Surgical Robot...",
+            "snippet": "Indeed, the sale of medical robots is increasing at a rate of 20 percent per year. But while the advantages are clear, the disadvantages have been less well explored. Telesurgery relies on cutting edge technologies in fields as diverse as...",
+            "date": "2015-04-24",
+            "tags": "well,security,experts,teleoperated,surgical,robots,medical",
+            "recuweb_url": "http://en.recuweb.com/technologyreview.com/2015/04/security-experts-hack-teleoperated-surgical-robot",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=medical%2Brobots&format=RSS&cc=us",
+            "source_url": "http://technologyreview.com/view/537001/security-experts-hack-teleoperated-surgical-robot/"
+        },
         "myarklamiss.com/2015/04/medical-center-gets-fund-to-enhance-facilities": {
             "title": "Medical Center Gets Fund to Enhance Facilities...",
             "snippet": "St. Francis will also use this fund to improve the downtown campus as well as investing in medical robots. The money given to St. Francis is coming from Monroe's Economic Development Fund.",
             "date": "2015-04-22",
-            "tags": "economic,development,medical,medical_center,center,robots",
+            "tags": "economic,campus,well,medical,medical_center,center,robots",
             "recuweb_url": "http://en.recuweb.com/myarklamiss.com/2015/04/medical-center-gets-fund-to-enhance-facilities",
             "resource_url": "http://www.bing.com/news/search?first=1&q=medical%2Brobots&format=RSS&cc=us",
             "source_url": "http://myarklamiss.com/story/d/story/stfrancis-medical-center-gets-fund-to-enhance-faci/89846/UCcvdqL9w02UE74pw6eSQQ"
-        },
-        "dailymail.co.uk/2015/04/south-glasgow-university-hospital-introduces-fleet-of-robot-porters-daily-mail": {
-            "title": "South Glasgow University Hospital introduces fleet of robot porters - Daily Mail...",
-            "snippet": "Daily MailSouth Glasgow University Hospital introduces fleet of robot portersDaily MailA hospital has bought a fleet of 26 robots with their own network of underground tunnels to carry supplies. They will be used to move medical equipment, linen,...",
-            "date": "2015-04-20",
-            "categories": "university",
-            "tags": "carry,hospital,robots,daily,university,daily_mail,mail,medical",
-            "recuweb_url": "http://en.recuweb.com/university/dailymail.co.uk/2015/04/south-glasgow-university-hospital-introduces-fleet-of-robot-porters-daily-mail",
-            "resource_url": "http://news.google.com/?hl=en&q=medical%2Brobots&output=atom&nord=1",
-            "source_url": "http://dailymail.co.uk/news/article-3046353/Robot-porters-let-loose-NHS-New-hospital-introduces-fleet-26-supplies-including-linen-food-using-underground-tunnels.html"
         },
         "seekingalpha.com/2015/04/the-rise-of-robots-story-titan-medical-seeking-alpha": {
             "title": "The Rise Of The Robots: The Story Of Titan Medical - Seeking Alpha...",
@@ -37,7 +56,7 @@
             "categories": "sport,technology",
             "tags": "robotic,surgical,single,technology,medical,robots",
             "recuweb_url": "http://en.recuweb.com/technology/seekingalpha.com/2015/04/the-rise-of-robots-story-titan-medical-seeking-alpha",
-            "resource_url": "http://news.google.com/?hl=en&q=medical%2Brobots&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=medical%2Brobots%2Bmedical%2Brobots&output=atom&nord=1",
             "source_url": "http://seekingalpha.com/article/3066426-the-rise-of-the-robots-the-story-of-titan-medical"
         },
         "healthcaredive.com/2015/04/how-current-robotics-advancements-can-have-real-world-applications-healthcare-dive": {
@@ -50,31 +69,12 @@
             "resource_url": "http://news.google.com/?hl=en&q=medical%2Brobots&output=atom&nord=1",
             "source_url": "http://healthcaredive.com/news/how-current-robotics-advancements-can-have-real-world-applications/382219/"
         },
-        "ajw.asahi.com/2015/04/medicaroid-starting-full-development-of-medical-robots": {
-            "title": "Medicaroid starting full development of medical robots...",
-            "snippet": "Sysmex Corp. and Kawasaki Heavy Industries Ltd. will pump 2.5 billion yen (20.9 million) into Medicaroid Corp. for the full-fledged development of medical robots, Medicaroid said April 2. The Kobe-based joint venture aims to market its industrial...",
-            "date": "2015-04-02",
-            "tags": "market,development,billion,medical,robots",
-            "recuweb_url": "http://en.recuweb.com/ajw.asahi.com/2015/04/medicaroid-starting-full-development-of-medical-robots",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=medical%2Brobots&format=RSS&cc=us",
-            "source_url": "http://ajw.asahi.com/article/business/AJ201504020085"
-        },
-        "dailymail.co.uk/2015/03/google-is-working-with-johnson-&-on-medical-robots-daily-mail": {
-            "title": "Google is working with Johnson & Johnson on medical robots - Daily Mail...",
-            "snippet": "Daily MailGoogle is working with Johnson & Johnson on medical robotsDaily Mail'The companies seek to develop new robotic tools and capabilities for surgeons and operating room professionals that integrate best-in-class medical device technology with...",
-            "date": "2015-03-27",
-            "categories": "technology,google",
-            "tags": "device,technology,develop,robotic,surgeons,mail,daily,daily_mail,medical,robots",
-            "recuweb_url": "http://en.recuweb.com/google/dailymail.co.uk/2015/03/google-is-working-with-johnson-&-on-medical-robots-daily-mail",
-            "resource_url": "http://news.google.com/?hl=en&q=medical%2Brobots&output=atom&nord=1",
-            "source_url": "http://dailymail.co.uk/sciencetech/article-3014869/Google-teams-J-J-robotic-surgery.html"
-        },
         "ibtimes.co.uk/2015/03/medical-robots-set-to-help-surgeons-carry-out-kidney-transplants": {
             "title": "Medical robots set to help surgeons carry out kidney transplants...",
             "snippet": "Robots are poised to help surgeons perform kidney transplants for the first time in Britain, the Sunday Times has reported. The machines will perform a vital part of keyhole kidney surgery at Guy's and St Thomas'NHS Foundation Trust from April. They...",
             "date": "2015-03-08",
             "categories": "surgery",
-            "tags": "surgery,surgeons,carry,medical,robots,perform",
+            "tags": "surgery,machines,surgeons,medical,robots,perform",
             "recuweb_url": "http://en.recuweb.com/surgery/ibtimes.co.uk/2015/03/medical-robots-set-to-help-surgeons-carry-out-kidney-transplants",
             "resource_url": "http://www.bing.com/news/search?first=1&q=medical%2Brobots&format=RSS&cc=us",
             "source_url": "http://ibtimes.co.uk/medical-robots-set-help-surgeons-carry-out-kidney-transplants-1491012"
@@ -84,7 +84,7 @@
             "snippet": "Capability of service robots to offer sustainable medical provision without affecting quality of care has made healthcare a lucrative field for service robotics. Reluctance of substituting manual labor with service robots in traditional field...",
             "date": "2014-12-09",
             "categories": "robotics",
-            "tags": "healthcare,robotics,billion,market,robots,medical",
+            "tags": "healthcare,robotics,reach,market,robots,medical",
             "recuweb_url": "http://en.recuweb.com/robotics/whatech.com/2014/12/service-robotics-market-is-expected-to-reach-usd-billion-by-2020",
             "resource_url": "http://www.bing.com/news/search?first=1&q=medical%2Brobots%2Bmedical%2Brobots&format=RSS&cc=us",
             "source_url": "http://whatech.com/market-research-reports/press-release/medical/36343-service-robotics-market-is-expected-to-reach-usd-15-69-billion-by-2020"
@@ -99,15 +99,15 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=medical%2Brobots&format=RSS&cc=us",
             "source_url": "http://medcitynews.com/2014/11/century-medical-robots/"
         },
-        "companiesandmarkets.com/2014/10/surgical-robots-to-have-a-home-at-the-center-for-automation": {
-            "title": "Surgical robots to have a home at the Center for Automation and Learning for Medical Robots in...",
-            "snippet": "A centre to research and develop medical robots and computer assisted surgical systems is set to open in November at the University of California, Berkeley. Set up by two engineer and computer science professors and one postdoctoral researcher, the...",
-            "date": "2014-10-29",
-            "categories": "science,medical-robots,home,learning,university",
-            "tags": "surgical,develop,medical,medical_robots,robots,center,university",
-            "recuweb_url": "http://en.recuweb.com/university/companiesandmarkets.com/2014/10/surgical-robots-to-have-a-home-at-the-center-for-automation",
+        "dailycal.org/2014/10/campus-creates-center-to-develop-medical-robots": {
+            "title": "Campus creates center to develop medical robots...",
+            "snippet": "Campus researchers will create a center devoted to developing medical robots that can complete repetitive surgical tasks, allowing human surgeons to focus on more complex operations. The Center for Automation and Learning for Medical Robotics was...",
+            "date": "2014-10-27",
+            "categories": "medical-robotics,robotics,learning",
+            "tags": "medical,robotics,human,surgeons,surgical,researchers,center,campus,robots",
+            "recuweb_url": "http://en.recuweb.com/learning/dailycal.org/2014/10/campus-creates-center-to-develop-medical-robots",
             "resource_url": "http://www.bing.com/news/search?first=1&q=medical%2Brobots&format=RSS&cc=us",
-            "source_url": "http://companiesandmarkets.com/News/Healthcare-and-Medical/Surgical-robots-to-have-a-home-at-the-Center-for-Automation-and-Learning-for-Medical-Robots-in-Berkeley-California/NI9648"
+            "source_url": "http://dailycal.org/2014/10/27/campus-creates-new-center-research-medical-robots/"
         }
     }
 }
