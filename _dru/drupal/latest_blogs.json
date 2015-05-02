@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "drupal",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/drupal/",
@@ -17,7 +17,7 @@
             "date": "2015-04-25",
             "author_name": "Rob Mayzes",
             "categories": "web-development,drupal",
-            "tags": "small,create,start,working,today,web,development,drupal",
+            "tags": "idea,create,start,working,web,development,drupal",
             "recuweb_url": "http://en.recuweb.com/drupal/robmayzes.wordpress.com/2015/04/amateur-web-development-and-drupal",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
             "source_url": "http://robmayzes.wordpress.com/2015/04/25/amateur-web-development-and-drupal/"
@@ -28,7 +28,7 @@
             "date": "2015-04-24",
             "author_name": "Sreelal MU",
             "categories": "drupal",
-            "tags": "create,article,add,tweet,drupal",
+            "tags": "create,article,add,tweet,drupal,ckeditor",
             "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/drupal-how-to-create-a-custom-plugin-for-ckeditor-in-6",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
             "source_url": "http://zyxware.com/articles/4040/drupal-how-to-create-a-custom-plugin-for-ckeditor-in-drupal-6"
@@ -39,7 +39,7 @@
             "date": "2015-04-24",
             "author_name": "Sarath Mohan",
             "categories": "drupal",
-            "tags": "called,user,cases,tweet,drupal",
+            "tags": "cases,tweet,drupal,user,called",
             "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/drupal-how-to-implement-confirmation-form-in-7",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
             "source_url": "http://zyxware.com/articles/4039/drupal-how-to-implement-confirmation-form-in-drupal-7"
@@ -50,7 +50,7 @@
             "date": "2015-04-24",
             "author_name": "Deepa N",
             "categories": "mind,drupal",
-            "tags": "solution,applying,tweet,drupal",
+            "tags": "tweet,drupal",
             "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/drupal-how-to-remove-view-results-duplicates-programmatically",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
             "source_url": "http://zyxware.com/articles/4289/solved-drupal-7-views-how-to-remove-duplicates-programmatically"
@@ -66,13 +66,24 @@
             "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://drupaleasy.com/podcast/2015/04/drupaleasy-podcast-150-ultracat-cathy-theys-drupal-code-governance"
         },
+        "themeforest.net/2015/04/5pika-drupal-theme-themeforest": {
+            "title": "5pika - Drupal Theme ThemeForest...",
+            "snippet": "Panel Slider; Refine Slider; Unlimited Color Variations; Shop (drupal commerce); Unlimited Galleries; Filterable Portfolio; Google Fonts (570); Logo Uploader; Background Uploader; 17 Pre-defined awesome background...",
+            "date": "2015-04-21",
+            "author_name": "ardianmusliu",
+            "categories": "google,drupal,commerce",
+            "tags": "defined,drupal,theme,themeforest",
+            "recuweb_url": "http://en.recuweb.com/commerce/themeforest.net/2015/04/5pika-drupal-theme-themeforest",
+            "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://themeforest.net/item/5pika-drupal-theme-/4793170"
+        },
         "zyxware.com/2015/04/solveddrupal-pdoexception-sqlstatehy000-general-error-1366-incorrect-string-value-xe2x81x842": {
             "title": "SOLVEDDrupal PDOException: SQLSTATEHY000: General error: 1366 Incorrect string value: 'xE2x81x842...",
             "snippet": "Tweet In one of the Drupal sites were working on, the members of the site frequently found that the nodes they had created were crashing. They would enter content into the node fields and try to save the node. The node would appear to save with...",
             "date": "2015-04-18",
             "author_name": "Binny Thomas",
             "categories": "drupal",
-            "tags": "try,sites,working,solveddrupal,tweet,drupal,site,content",
+            "tags": "sites,working,solveddrupal,tweet,drupal,site,content",
             "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/solveddrupal-pdoexception-sqlstatehy000-general-error-1366-incorrect-string-value-xe2x81x842",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
             "source_url": "http://zyxware.com/articles/4803/solved-drupal-pdoexception-sqlstate-hy000-general-error-1366-incorrect-string-value-xe2-x81-x842-t"
@@ -83,10 +94,21 @@
             "date": "2015-04-16",
             "author_name": "Webmaster",
             "categories": "drupal",
-            "tags": "using,number,users,solveddrupal,tweet,drupal,module",
+            "tags": "number,solveddrupal,users,tweet,drupal,using,module",
             "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/solveddrupal-organic-groups-cannot-see-the-that-user-and-admin-belongs",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
             "source_url": "http://zyxware.com/node/3512"
+        },
+        "themeforest.net/2015/04/inspiro-b-responsive-theme-for-drupal-7-themeforest": {
+            "title": "Inspiro B - Responsive Theme for Drupal 7 ThemeForest...",
+            "snippet": "Compatible with Drupal 7 (tested with Drupal); Easy to install- 2 profile installations, clean and full package. WYSIWY editor (CKEditor); 5 homepage styles; 10 colours variation; Responsive HTML5 and CSS3 design...",
+            "date": "2015-04-15",
+            "author_name": "ardianmusliu",
+            "categories": "html,drupal,css",
+            "tags": "variation,theme,drupal,themeforest,ckeditor,design",
+            "recuweb_url": "http://en.recuweb.com/css/themeforest.net/2015/04/inspiro-b-responsive-theme-for-drupal-7-themeforest",
+            "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://themeforest.net/item/inspiro-b-responsive-theme-for-drupal-7/3854468"
         },
         "zyxware.com/2015/04/drupal-how-to-upload-images-amazon-s3-via-code-in": {
             "title": "Drupal How to upload images to Amazon S3 via code in Drupal...",
@@ -94,32 +116,10 @@
             "date": "2015-04-14",
             "author_name": "Chithra K",
             "categories": "drupal",
-            "tags": "file,code,article,add,drupal,tweet,site,module",
+            "tags": "defined,file,code,article,add,drupal,tweet,site,module",
             "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/drupal-how-to-upload-images-amazon-s3-via-code-in",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
             "source_url": "http://zyxware.com/articles/4802/drupal-upload-images-to-amazon-s3-via-code-in-drupal-7"
-        },
-        "zyxware.com/2015/04/how-to-add-conditional-css-for-internet-explorer": {
-            "title": "How to add conditional css for Internet Explorer?",
-            "snippet": "Tweet Some alignment issues occurring in IE may be a test for your patience. We had once worked in a Drupal 6 site, and the design look well every where, but there is a small alignment problem shown up in IE. Applying a conditional style sheet saved...",
-            "date": "2015-04-10",
-            "author_name": "Meera L",
-            "categories": "internet,css,drupal",
-            "tags": "small,shown,design,every,add,tweet,drupal,site,applying",
-            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/how-to-add-conditional-css-for-internet-explorer",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://zyxware.com/articles/3653/how-to-add-conditional-css-for-internet-explorer"
-        },
-        "drupal.org/2015/04/new-try-drupal-program": {
-            "title": "New Try Drupal Program...",
-            "snippet": "One of the Drupal Association's primary missions is to grow the adoption of Drupal. We are about to launch a new program on April 15th called Try Drupal. The program will make it easy and fast for evaluators to try Drupal and...",
-            "date": "2015-04-10",
-            "author_name": "clacina",
-            "categories": "drupal",
-            "tags": "try,called,drupal",
-            "recuweb_url": "http://en.recuweb.com/drupal/drupal.org/2015/04/new-try-drupal-program",
-            "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://drupal.org/news/new-try-drupal-program"
         }
     }
 }
