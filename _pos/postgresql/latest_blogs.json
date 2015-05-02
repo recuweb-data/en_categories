@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "postgresql",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/postgresql/",
@@ -15,7 +15,7 @@
             "title": "Bottled Water: Real-time integration of PostgreSQL and Kafka...",
             "snippet": "It lets you transform your PostgreSQL database into a stream of structured Kafka events. This is tremendously useful for data integration. Writing to a database is easy, but getting the data out again is surprisingly hard.",
             "date": "2015-04-23",
-            "author_name": "ExplodingAds.com",
+            "author_name": "Martin Kleppmann",
             "categories": "database,events",
             "tags": "easy,into,integration,water,gresql,database,data",
             "recuweb_url": "http://en.recuweb.com/events/blog.confluent.io/2015/04/bottled-water-real-time-integration-of-postgresql-and-kafka",
@@ -28,7 +28,7 @@
             "date": "2015-04-09",
             "author_name": "unknown",
             "categories": "database",
-            "tags": "version,version-is-immediately,immediately,administration,powerful,announces,sql,sql_maestro,sql_maestro_group,maestro,maestro_group,group,gresql,released,release,solution,database,server,development",
+            "tags": "version,version-is-immediately,immediately,administration,solution,powerful,announces,announces-the-release,release,sql,sql_maestro,sql_maestro_group,maestro,maestro_group,group,gresql,released,database,server,development",
             "recuweb_url": "http://en.recuweb.com/database/postgresql.org/2015/04/postgresql-maestro-15-4-released",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://postgresql.org/about/news/1580/"
@@ -39,7 +39,7 @@
             "date": "2015-03-26",
             "author_name": "unknown",
             "categories": "database",
-            "tags": "version,version-is-immediately,immediately,synchronization,tool,powerful,easy,announces,sql,sql_maestro,sql_maestro_group,maestro,maestro_group,group,data,sync,gresql,released,release,database",
+            "tags": "version,version-is-immediately,immediately,synchronization,tool,powerful,easy,announces,announces-the-release,release,sql,sql_maestro,sql_maestro_group,maestro,maestro_group,group,data,sync,gresql,released,database",
             "recuweb_url": "http://en.recuweb.com/database/postgresql.org/2015/03/postgresql-data-sync-15-3-released",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://postgresql.org/about/news/1579/"
@@ -59,20 +59,10 @@
             "snippet": "The simplest way to do this is open a terminal and type: 1. sudo apt-get --purge remove postgresql 1.1 sudo apt-get remove postgresql This will also prompt you to remove that...",
             "date": "2015-03-13",
             "author_name": "Admin",
-            "tags": "open,gres,gresql",
+            "tags": "ubuntu,gres,open,gresql",
             "recuweb_url": "http://en.recuweb.com/randvblog.wordpress.com/2015/03/how-to-remove-uinstall-complete-postgres-from-my-ubuntu-computer",
             "resource_url": "http://en.search.wordpress.com/?q=postgresql%2Bpostgresql&f=feed&page=1",
             "source_url": "http://randvblog.wordpress.com/2015/03/13/how-to-removeuinstall-complete-postgres-from-my-ubuntu-computer/"
-        },
-        "blog.pgaddict.com/2015/03/performance-since-postgresql-7-4-pgbench-addict": {
-            "title": "Performance since PostgreSQL 7.4/pgbench PostgreSQL Addict...",
-            "snippet": "Also note that up until PostgreSQL 9.1 (including), we've seen a significant performance drop once we exceeded the number of CPUs (the machine has 8 cores in total, which is exactly the point where the number of...",
-            "date": "2015-03-05",
-            "author_name": "Onadvertise",
-            "tags": "performance,once,gresql",
-            "recuweb_url": "http://en.recuweb.com/blog.pgaddict.com/2015/03/performance-since-postgresql-7-4-pgbench-addict",
-            "resource_url": "http://www.google.com/search?q=postgresql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.pgaddict.com/posts/performance-since-postgresql-7-4-to-9-4-pgbench"
         },
         "ki4wyr.wordpress.com/2015/02/postgresql-standalone-build-script-work-in-progress": {
             "title": "PostgreSQL Standalone Build Script - Work In Progress...",
@@ -90,7 +80,7 @@
             "date": "2015-02-05",
             "author_name": "unknown",
             "categories": "database",
-            "tags": "versions,supported,development,group,released,gresql,security,database,system",
+            "tags": "supported,development,group,released,gresql,security,database,system",
             "recuweb_url": "http://en.recuweb.com/database/postgresql.org/2015/02/postgresql-&-released",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://postgresql.org/about/news/1569/"
@@ -110,10 +100,20 @@
             "snippet": "Layer2, one of the leading providers of codeless data integration and synchronization tools in Europe, has announced full PostgreSQL support for their Cloud Connector. You will find more Information here:.",
             "date": "2015-01-27",
             "author_name": "unknown",
-            "tags": "cloud,integration,synchronization,leading,sync,gresql,office,data,support,here",
+            "tags": "cloud,integration,synchronization,leading,sync,gresql,office,layer,data,support,here",
             "recuweb_url": "http://en.recuweb.com/postgresql.org/2015/01/postgresql-codeless-sync-with-office-365-sharepoint-exchange",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://postgresql.org/about/news/1568/"
+        },
+        "postgresql.org/2015/01/postgresql-barman-released": {
+            "title": "PostgreSQL: Barman released...",
+            "snippet": "26 January 2015: 2ndQuadrant is proud to announce the release of version of Barman, Backup and Recovery Manager for PostgreSQL. This major release features file-level incremental backup, a kind of full periodic...",
+            "date": "2015-01-26",
+            "author_name": "unknown",
+            "tags": "release,manager,version,gresql,released,features",
+            "recuweb_url": "http://en.recuweb.com/postgresql.org/2015/01/postgresql-barman-released",
+            "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://postgresql.org/about/news/1566/"
         }
     }
 }
