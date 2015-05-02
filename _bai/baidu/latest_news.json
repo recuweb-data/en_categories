@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "baidu",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/baidu/",
@@ -11,45 +11,55 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/baidu/baidu/blogs.json"
     },
     "items": {
-        "tickerreport.com/2015/04/baidu-bidu-to-release-quarterly-earnings-on-wednesday": {
-            "title": "Baidu (BIDU) to Release Quarterly Earnings on Wednesday...",
-            "snippet": "Baidu (NASDAQ:BIDU) is scheduled to be issuing its Q115 quarterly earnings data on Wednesday, April 29th. Analysts expect the company to announce earnings of per share and revenue of billion for the quarter. Parties interested in listening to...",
+        "techcrunch.com/2015/04/android-surpasses-ios-in-revenue-if-chinas-app-stores-are-combined": {
+            "title": "Android Surpasses iOS In Revenue, If Chinas Android App Stores Are Combined...",
+            "snippet": "Thats why Digi-Capitals analysis examined all the major app stores in China, including Apple, but also Baidu, Qihoo 360, Tencent, Wandoujia, and other smaller ones. Apple and Google took very different approaches to China. Apple embraced China...",
             "date": "2015-04-27",
-            "categories": "baidu",
-            "tags": "company,earnings,baidu,bidu,wednesday,nasdaq,analysts",
-            "recuweb_url": "http://en.recuweb.com/baidu/tickerreport.com/2015/04/baidu-bidu-to-release-quarterly-earnings-on-wednesday",
+            "categories": "baidu,google",
+            "tags": "different,analysis,major,chinas,china,android,baidu",
+            "recuweb_url": "http://en.recuweb.com/google/techcrunch.com/2015/04/android-surpasses-ios-in-revenue-if-chinas-app-stores-are-combined",
             "resource_url": "http://www.bing.com/news/search?first=1&q=baidu&format=RSS&cc=us",
-            "source_url": "http://tickerreport.com/banking-finance/474198/baidu-bidu-to-release-quarterly-earnings-on-wednesday/"
+            "source_url": "http://techcrunch.com/2015/04/27/android-surpasses-ios-in-revenue-if-chinas-android-app-stores-are-combined/"
         },
-        "fool.com/2015/04/baidu-inc-has-plenty-to-prove-on-april-29-motley-fool": {
-            "title": "Baidu Inc. Has Plenty to Prove on April 29 - Motley Fool...",
-            "snippet": "Motley FoolBaidu Inc. Has Plenty to Prove on April 29Motley FoolThere's a lot riding on Wednesday night when Baidu (NASDAQ: BIDU), China's leading search engine, reports its latest financial results. The original dot-com darling in the world's most...",
+        "thestreet.com/2015/04/baidu-bidu-showing-signs-of-being-a-momo-momentum-stock": {
+            "title": "Baidu (BIDU) Showing Signs Of Being A Momo Momentum Stock...",
+            "snippet": "Editor's Note: Any reference to TheStreet Ratings and its underlying recommendation does not reflect the opinion of TheStreet, Inc. or any of its contributors including Jim Cramer. Trade-Ideas LLC identified Baidu (BIDU) as a momo momentum...",
             "date": "2015-04-27",
             "categories": "baidu",
-            "tags": "world,reports,leading,leading-search,search,inc,baidu,baidu_inc,wednesday,nasdaq,bidu,china,engine",
-            "recuweb_url": "http://en.recuweb.com/baidu/fool.com/2015/04/baidu-inc-has-plenty-to-prove-on-april-29-motley-fool",
-            "resource_url": "http://news.google.com/?hl=en&q=baidu&output=atom&nord=1",
+            "tags": "stock,baidu,bidu,note,inc,trade",
+            "recuweb_url": "http://en.recuweb.com/baidu/thestreet.com/2015/04/baidu-bidu-showing-signs-of-being-a-momo-momentum-stock",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=baidu&format=RSS&cc=us",
+            "source_url": "http://thestreet.com/story/13127207/1/baidu-bidu-showing-signs-of-being-a-momo-momentum-stock.html"
+        },
+        "bidnessetc.com/2015/04/baidu-inc-adr-bidu-q1-earnings-preview-top-line-to-rebound": {
+            "title": "Baidu Inc (ADR) (BIDU) Q1 Earnings Preview: Top Line to Rebound Solidly, Says Oppenheimer...",
+            "snippet": "In a sell-side report published on Monday, Oppenheimer stays bullish on Baidu Inc (ADR) (NASDAQ:BIDU) stock ahead of the first quarter of fiscal year 2015 (1QFY15) financial results. The sell-side adjusted up its 1QFY15 earnings by 14% as they...",
+            "date": "2015-04-27",
+            "categories": "baidu",
+            "tags": "earnings,financial,financial-results,results,stock,quarter,fiscal,fiscal-year,report,sell,pre,baidu,baidu_inc,inc,adr,bidu,monday,nasdaq",
+            "recuweb_url": "http://en.recuweb.com/baidu/bidnessetc.com/2015/04/baidu-inc-adr-bidu-q1-earnings-preview-top-line-to-rebound",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=baidu&format=RSS&cc=us",
+            "source_url": "http://bidnessetc.com/41057-baidu-inc-adr-bidu-q1-earnings-preview-top-line-to-rebound-solidly-says-opp/"
+        },
+        "fool.com/2015/04/baidu-inc-has-plenty-to-prove-on-april-29": {
+            "title": "Baidu Inc. Has Plenty to Prove on April 29...",
+            "snippet": "There's a lot riding on Wednesday night when Baidu (NASDAQ: BIDU), China's leading search engine, reports its latest financial results. The original dot-com darling in the world's most populous nation has seen its stock hold up well -- even when...",
+            "date": "2015-04-27",
+            "categories": "baidu",
+            "tags": "stock,world,financial,financial-results,results,leading,leading-search,search,baidu,baidu_inc,inc,nasdaq,bidu,china,engine",
+            "recuweb_url": "http://en.recuweb.com/baidu/fool.com/2015/04/baidu-inc-has-plenty-to-prove-on-april-29",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=baidu&format=RSS&cc=us",
             "source_url": "http://fool.com/investing/general/2015/04/27/baidu-inc-has-plenty-to-prove-on-apr-29.aspx"
         },
-        "mideasttime.com/2015/04/baidu-stock-rating-lowered-by-vetr-inc-bidu": {
+        "tickerreport.com/2015/04/baidu-stock-rating-lowered-by-vetr-inc-bidu": {
             "title": "Baidu Stock Rating Lowered by Vetr Inc. (BIDU)...",
             "snippet": "Baidu (NASDAQ:BIDU) was downgraded by equities research analysts at Vetr from a strong-buy rating to a buy rating in a research note issued to investors on Monday. They currently have a target price on the stock. Vetrs price target...",
             "date": "2015-04-27",
             "categories": "baidu",
-            "tags": "currently,stock,analysts,inc,baidu,bidu,nasdaq",
-            "recuweb_url": "http://en.recuweb.com/baidu/mideasttime.com/2015/04/baidu-stock-rating-lowered-by-vetr-inc-bidu",
+            "tags": "currently,stock,note,inc,baidu,bidu,nasdaq,monday",
+            "recuweb_url": "http://en.recuweb.com/baidu/tickerreport.com/2015/04/baidu-stock-rating-lowered-by-vetr-inc-bidu",
             "resource_url": "http://www.bing.com/news/search?first=1&q=baidu&format=RSS&cc=us",
-            "source_url": "http://mideasttime.com/baidu-stock-rating-lowered-by-vetr-inc-bidu/419305/"
-        },
-        "techinasia.com/2015/04/baidu-s-robin-li-vcs-are-trying-to-coax-employees-of": {
-            "title": "Baidu's Robin Li: VCs are trying to coax employees of China's top tech firms... - Tech in Asia...",
-            "snippet": "Tech in AsiaBaidu's Robin Li: VCs are trying to coax employees of China's top tech firms...Tech in AsiaChina's startup boom is in full swing. So much so, in fact, that according to Baidu CEO and founder Robin Li, China's VCs are camped out in coffee...",
-            "date": "2015-04-27",
-            "categories": "coffee,baidu",
-            "tags": "startup,tech,baidu,china,asia,asiabaidu",
-            "recuweb_url": "http://en.recuweb.com/baidu/techinasia.com/2015/04/baidu-s-robin-li-vcs-are-trying-to-coax-employees-of",
-            "resource_url": "http://news.google.com/?hl=en&q=baidu&output=atom&nord=1",
-            "source_url": "http://techinasia.com/robin-li-vcs-coax-employees-top-tech-firms-startups/"
+            "source_url": "http://tickerreport.com/banking-finance/474458/baidu-stock-rating-lowered-by-vetr-inc-bidu/"
         },
         "scmp.com/2015/04/baidu-backed-video-site-iqiyi-to-expand-into-hong-kong": {
             "title": "Baidu-backed video site iQiyi to expand into Hong Kong with major advertising... - South China...",
@@ -58,25 +68,35 @@
             "categories": "baidu",
             "tags": "major,china,baidu",
             "recuweb_url": "http://en.recuweb.com/baidu/scmp.com/2015/04/baidu-backed-video-site-iqiyi-to-expand-into-hong-kong",
-            "resource_url": "http://news.google.com/?hl=en&q=baidu&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=baidu%2Bbaidu&output=atom&nord=1",
             "source_url": "http://scmp.com/tech/enterprises/article/1775525/baidu-backed-video-site-iqiyi-expand-hong-kong-major-advertising"
         },
-        "fool.com/2015/04/apple-linkedin-and-baidu-3-must-watch-tech-earnings-reports-next": {
-            "title": "Apple, LinkedIn, and Baidu: 3 Must-Watch Tech Earnings Reports Next Week...",
-            "snippet": "We're in the thick of earnings season with many of tech's most important names reporting either in the past week or in the week upcoming. It's a frenetic time of year, but one that in isolation won't make or break saving toward retirement for...",
-            "date": "2015-04-25",
-            "categories": "baidu",
-            "tags": "earnings,tech,reports,baidu",
-            "recuweb_url": "http://en.recuweb.com/baidu/fool.com/2015/04/apple-linkedin-and-baidu-3-must-watch-tech-earnings-reports-next",
+        "techtimes.com/2015/04/nokia-no-current-plans-to-make-or-sell-smartphones": {
+            "title": "Nokia: No Current Plans To Make Or Sell Smartphones...",
+            "snippet": "Together with Baidu, a new customer for us, we want to help the growing number of Chinese tourists get the most from their travels, Bruno Bourguet, Here's senior vice president and head of sales, said at the time. Already powering China's Baidu...",
+            "date": "2015-04-27",
+            "categories": "travel,baidu",
+            "tags": "sell,baidu,china",
+            "recuweb_url": "http://en.recuweb.com/baidu/techtimes.com/2015/04/nokia-no-current-plans-to-make-or-sell-smartphones",
             "resource_url": "http://www.bing.com/news/search?first=1&q=baidu&format=RSS&cc=us",
-            "source_url": "http://fool.com/investing/general/2015/04/25/apple-linkedin-and-baidu-3-must-watch-tech-earning.aspx"
+            "source_url": "http://techtimes.com/articles/48913/20150427/nokia-no-current-plans-to-make-or-sell-smartphones.htm"
+        },
+        "zacks.com/2015/04/will-baidu-bidu-disappoint-earnings-estimates-this-season": {
+            "title": "Will Baidu (BIDU) Disappoint Earnings Estimates this Season?",
+            "snippet": "Baidu, Inc. (BIDU - Snapshot Report) is set to report first-quarter 2015 results on Apr 29. Last quarter, the company posted a 9.4% negative earnings surprise. Lets see how things are shaping up for this announcement. Factors at Play Baidus...",
+            "date": "2015-04-27",
+            "categories": "play,baidu",
+            "tags": "baidu,earnings,company,results,report,bidu,inc,quarter",
+            "recuweb_url": "http://en.recuweb.com/baidu/zacks.com/2015/04/will-baidu-bidu-disappoint-earnings-estimates-this-season",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=baidu&format=RSS&cc=us",
+            "source_url": "http://zacks.com/stock/news/172393/will-baidu-bidu-disappoint-earnings-estimates-this-season"
         },
         "blog.webcertain.com/2015/04/baidu-announces-the-launch-of-mall": {
             "title": "Baidu Announces The Launch Of Baidu Mall...",
             "snippet": "Chinas leading search engine Baidu has announced that it is entering the world of ecommerce and will soon be launching Baidu Mall. Baidu Mall will be an ecommerce platform for China and is expected to launch to consumers in June of this year,...",
             "date": "2015-04-24",
             "categories": "baidu",
-            "tags": "platform,announced,world,leading,leading-search,search,baidu,china,engine",
+            "tags": "world,leading,leading-search,search,baidu,chinas,china,engine",
             "recuweb_url": "http://en.recuweb.com/baidu/blog.webcertain.com/2015/04/baidu-announces-the-launch-of-mall",
             "resource_url": "http://www.bing.com/news/search?first=1&q=baidu&format=RSS&cc=us",
             "source_url": "http://blog.webcertain.com/baidu-announces-the-launch-of-baidu-mall/24/04/2015/"
@@ -86,30 +106,10 @@
             "snippet": "Bidness ETCBaidu Inc (ADR) (BIDU) Stock UpdateBidness ETCBaidu Inc (ADR) (NASDAQ:BIDU) has planned some major changes in the company's outlook and business strategy for the fiscal year 2015 (FY15). Baidu is currently creating different ventures in...",
             "date": "2015-04-24",
             "categories": "business,baidu",
-            "tags": "currently,major,company,stock,inc,baidu,baidu_inc,adr,bidu,nasdaq",
+            "tags": "currently,different,fiscal,fiscal-year,major,company,stock,inc,baidu,baidu_inc,adr,bidu,nasdaq",
             "recuweb_url": "http://en.recuweb.com/baidu/bidnessetc.com/2015/04/baidu-inc-adr-bidu-stock-update-bidness-etc",
-            "resource_url": "http://news.google.com/?hl=en&q=baidu&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=baidu%2Bbaidu&output=atom&nord=1",
             "source_url": "http://bidnessetc.com/40886-baidu-inc-adr-bidu-stock-update/"
-        },
-        "valuewalk.com/2015/04/baidu-inc-bidu-unveils-multilingual-translation-robot": {
-            "title": "Baidu Inc (BIDU) Unveils Multilingual Translation Robot...",
-            "snippet": "Chinese search engine giant Baidu Inc (ADR) (NASDAQ:BIDU) has started showing its innovation capabilities. The company has unveiled the worlds first multilingual translation robot. Baidus robot can speak multiple languages, conduct interviews, and...",
-            "date": "2015-04-24",
-            "categories": "languages,baidu",
-            "tags": "company,baidu_inc,inc,bidu,search,engine,adr,nasdaq",
-            "recuweb_url": "http://en.recuweb.com/baidu/valuewalk.com/2015/04/baidu-inc-bidu-unveils-multilingual-translation-robot",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=baidu&format=RSS&cc=us",
-            "source_url": "http://valuewalk.com/2015/04/baidu-multilingual-translation-robot/"
-        },
-        "techinasia.com/2015/04/baidu-invests-11m-in-restaurant-management-platform-to-bring-more-local": {
-            "title": "Baidu invests 11M in restaurant management platform to bring more local... - Tech in Asia...",
-            "snippet": "Tech in AsiaBaidu invests 11M in restaurant management platform to bring more local...Tech in AsiaRestaurant management software-as-a-service startup Keru Cloud today announced it has secured RMB 66 million (US10.7 million) in series B funding led...",
-            "date": "2015-04-24",
-            "categories": "management,baidu",
-            "tags": "announced,startup,platform,baidu,tech,asia,asiabaidu",
-            "recuweb_url": "http://en.recuweb.com/baidu/techinasia.com/2015/04/baidu-invests-11m-in-restaurant-management-platform-to-bring-more-local",
-            "resource_url": "http://news.google.com/?hl=en&q=baidu&output=atom&nord=1",
-            "source_url": "http://techinasia.com/baidu-invests-11m-restaurant-management-platform-bring-local-businesses-wing/"
         }
     }
 }
