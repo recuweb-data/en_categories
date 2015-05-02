@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "javascript",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/javascript/",
@@ -11,27 +11,71 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/javascript/javascript/blogs.json"
     },
     "items": {
+        "davidwalsh.name/2015/04/preventing-side-effects-in-javascript-david-walsh": {
+            "title": "Preventing Side Effects in JavaScript - David Walsh...",
+            "snippet": "JavaScript is very dynamic these days but I still see a lot of legacy code, whether it be for optimal backward compatibility or simply that the code hasn't been maintained. One of the practices that makes me cringe is coding that...",
+            "date": "2015-04-28",
+            "author_name": "David Walsh",
+            "categories": "javascript",
+            "tags": "simply,david,javascript,code",
+            "recuweb_url": "http://en.recuweb.com/javascript/davidwalsh.name/2015/04/preventing-side-effects-in-javascript-david-walsh",
+            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://davidwalsh.name/preventing-sideeffects-javascript"
+        },
+        "raganwald.com/2015/04/hilbert-s-grand-javascript-school-2015-edition-via": {
+            "title": "Hilbert's Grand JavaScript School (2015 Edition) - via...",
+            "snippet": "(This material originally appeared, using ECMAScript-5 semantics, in 2013.) Dr. Hilbert Bertie David grows tired of blogging about JavaScript, and decides to cash in on the seemingly inexhaustible supply of impressionable...",
+            "date": "2015-04-25",
+            "author_name": "Onadvertise",
+            "categories": "javascript,school,semantics",
+            "tags": "david,javascript,using",
+            "recuweb_url": "http://en.recuweb.com/semantics/raganwald.com/2015/04/hilbert-s-grand-javascript-school-2015-edition-via",
+            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://raganwald.com/2015/04/24/hilberts-school.html"
+        },
+        "googleonlinesecurity.blogspot.com/2015/04/a-javascript-based-ddos-attack-as-seen-by-safe-browsing": {
+            "title": "A Javascript-based DDoS Attack as seen by Safe Browsing...",
+            "snippet": "This allows us to determine if a page contains malicious content, such as Javascript meant to exploit user machines. While machine learning algorithms select which web pages to inspect, we analyze millions of web pages...",
+            "date": "2015-04-24",
+            "author_name": "Google Security PR",
+            "categories": "learning,javascript",
+            "tags": "machine,content,javascript,user,web",
+            "recuweb_url": "http://en.recuweb.com/javascript/googleonlinesecurity.blogspot.com/2015/04/a-javascript-based-ddos-attack-as-seen-by-safe-browsing",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://googleonlinesecurity.blogspot.com/2015/04/a-javascript-based-ddos-attack-as-seen.html"
+        },
+        "designmodo.com/2015/04/create-an-svg-animation-using-css-and-javascript-designmodo": {
+            "title": "Create an SVG Animation using CSS and JavaScript - Designmodo...",
+            "snippet": "I am going to show you how you can animation SVG using CSS and JavaScript using some icons, text and vector graphics that I created on Adobe Illustrator.",
+            "date": "2015-04-24",
+            "author_name": "Sam Norton",
+            "categories": "css,javascript",
+            "tags": "adobe,created,show,using,css,javascript",
+            "recuweb_url": "http://en.recuweb.com/javascript/designmodo.com/2015/04/create-an-svg-animation-using-css-and-javascript-designmodo",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://designmodo.com/svg-animation/"
+        },
+        "r-bloggers.com/2015/04/introducing-shinyjs-perform-common-javascript-operations-in-shiny": {
+            "title": "Introducing shinyjs: perform common JavaScript operations in Shiny...",
+            "snippet": "shinyjs is my second R package that managed to find its way past the CRAN review process. It lets you perform common useful JavaScript operations in.",
+            "date": "2015-04-24",
+            "author_name": "Dean Attali's R Blog",
+            "categories": "javascript",
+            "tags": "common,package,find,second,javascript",
+            "recuweb_url": "http://en.recuweb.com/javascript/r-bloggers.com/2015/04/introducing-shinyjs-perform-common-javascript-operations-in-shiny",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://r-bloggers.com/introducing-shinyjs-perform-common-javascript-operations-in-shiny-apps-using-plain-r-code/"
+        },
         "boingboing.net/2015/04/javascript-is-the-most-popular-language-at-github-boing": {
             "title": "Javascript is the most popular language at GitHub - Boing Boing...",
             "snippet": "\"Based on the historical GitHub Archive and GitHut data starting in 2012, we analyzed the most common developer actions within GitHub and turned it into these infographics\". Interesting factoid: four of the top five entries...",
             "date": "2015-04-21",
             "author_name": "Rob Beschizza",
             "categories": "javascript",
-            "tags": "into,common,data,popular,language,javascript,interesting",
+            "tags": "top,common,developer,popular,language,javascript,into,interesting",
             "recuweb_url": "http://en.recuweb.com/javascript/boingboing.net/2015/04/javascript-is-the-most-popular-language-at-github-boing",
             "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://boingboing.net/2015/04/21/javascript-is-the-most-popular.html"
-        },
-        "hacks.mozilla.org/2015/04/easier-in-app-payments-with-fxpay-mozilla-hacks-the-web": {
-            "title": "Easier in-app payments with fxpay Mozilla Hacks the Web...",
-            "snippet": "... J\u00e4gerMonkey (5); JavaScript (145); Labs (3); Learning (5); Localization (5); localStorage (4); MDN (82); Media Queries (5); Mission:Mozilla (9); Mobile (46); Mozilla (32); Mozilla Hacks Weekly (64); Multi-touch (7); News (5)...",
-            "date": "2015-04-21",
-            "author_name": "kumar303",
-            "categories": "javascript,learning,localization",
-            "tags": "web,javascript",
-            "recuweb_url": "http://en.recuweb.com/localization/hacks.mozilla.org/2015/04/easier-in-app-payments-with-fxpay-mozilla-hacks-the-web",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://hacks.mozilla.org/2015/04/easier-in-app-payments-with-fxpay/"
         },
         "amoyerblog.wordpress.com/2015/04/inquiries-about-jquery": {
             "title": "Inquiries about jQuery...",
@@ -39,21 +83,10 @@
             "date": "2015-04-21",
             "author_name": "April Moyer",
             "categories": "javascript,jquery",
-            "tags": "functions,language,things,javascript,popular,here,help,jquery,keep,code",
+            "tags": "functions,language,things,javascript,popular,here,help,code",
             "recuweb_url": "http://en.recuweb.com/jquery/amoyerblog.wordpress.com/2015/04/inquiries-about-jquery",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=javascript%2Bjavascript&rss=1&lng=en",
             "source_url": "http://amoyerblog.wordpress.com/2015/04/21/inquiries-about-jquery/"
-        },
-        "hongkiat.com/2015/04/9-javascript-libraries-to-build-interactive-charts-hongkiat": {
-            "title": "9 Javascript Libraries To Build Interactive Charts - Hongkiat...",
-            "snippet": "So you have in your hand tons of data, with a number of variables, that you have to somehow relay to somebody else. Raw, unorganized data is going to be difficult for them to understand. This is why you need help from charts. In web design...",
-            "date": "2015-04-20",
-            "author_name": "Agus",
-            "categories": "javascript",
-            "tags": "web,help,data,javascript,javascript_libraries,libraries",
-            "recuweb_url": "http://en.recuweb.com/javascript/hongkiat.com/2015/04/9-javascript-libraries-to-build-interactive-charts-hongkiat",
-            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://hongkiat.com/blog/js-library-interactive-charts/"
         },
         "debugmode.net/2015/04/11-things-about-javascript-functions-that-net-developers-should-know-part": {
             "title": "11 things about JavaScript functions that.NET developers should know: Part 2...",
@@ -61,21 +94,10 @@
             "date": "2015-04-17",
             "author_name": "Dhananjay Kumar",
             "categories": "javascript",
-            "tags": "functions,developers,should,things,javascript",
+            "tags": "functions,developers,should,second,things,javascript",
             "recuweb_url": "http://en.recuweb.com/javascript/debugmode.net/2015/04/11-things-about-javascript-functions-that-net-developers-should-know-part",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=javascript%2Bjavascript&rss=1&lng=en",
             "source_url": "http://debugmode.net/2015/04/17/11-things-about-javascript-functions-that-net-developers-should-know-part-2/"
-        },
-        "noupe.com/2015/04/almost-oop-simple-inheritance-with-javascript-noupe": {
-            "title": "Almost OOP: Simple Inheritance with JavaScript NOUPE...",
-            "snippet": "A lot of my friends are C or C developers. They are used to use inheritance in their projects and when they want to learn or discover JavaScript, one of the first question they ask is: But how can I do inheritance with...",
-            "date": "2015-04-17",
-            "author_name": "David Catuhe",
-            "categories": "javascript",
-            "tags": "inheritance,want,javascript,developers,learn",
-            "recuweb_url": "http://en.recuweb.com/javascript/noupe.com/2015/04/almost-oop-simple-inheritance-with-javascript-noupe",
-            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://noupe.com/development/almost-oop-simple-inheritance-with-javascript-91170.html"
         },
         "cmpfun.blogspot.com/2015/04/function-of-javascript": {
             "title": "Function of Javascript...",
@@ -83,21 +105,10 @@
             "date": "2015-04-17",
             "author_name": "(sheikh hunny)",
             "categories": "html,javascript",
-            "tags": "any,programming,language,javascript,web,here,code,open",
+            "tags": "html,any,language,javascript,web,here,run,code,open",
             "recuweb_url": "http://en.recuweb.com/javascript/cmpfun.blogspot.com/2015/04/function-of-javascript",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=javascript%2Bjavascript&rss=1&lng=en",
             "source_url": "http://cmpfun.blogspot.com/2015/04/function-of-javascript.html"
-        },
-        "lifehacker.com/2015/04/code-kingdoms-teaches-kids-javascript-with-a-puzzle-adventure": {
-            "title": "Code Kingdoms Teaches Kids JavaScript with a Puzzle Adventure...",
-            "snippet": "Besides teaching actual JavaScript through play, Code Kingdoms also helps kids develop problem-solving skills and the encouragement to keep pushing on when they're faced with a challenge in the gamemuch like...",
-            "date": "2015-04-16",
-            "author_name": "Melanie Pinola",
-            "categories": "play,teaching,adventure,javascript",
-            "tags": "keep,code,javascript",
-            "recuweb_url": "http://en.recuweb.com/javascript/lifehacker.com/2015/04/code-kingdoms-teaches-kids-javascript-with-a-puzzle-adventure",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://lifehacker.com/code-kingdoms-teaches-kids-javascript-with-a-puzzle-adv-1698253164"
         },
         "greggalipeau.com/2015/04/dynamically-add-css-and-javascript-to-brand-sharepoint": {
             "title": "Dynamically Add CSS and JavaScript to Brand SharePoint...",
@@ -105,21 +116,10 @@
             "date": "2015-04-15",
             "author_name": "ggalipeau",
             "categories": "css,javascript",
-            "tags": "want,only,javascript,well",
+            "tags": "want,only,few,css,javascript",
             "recuweb_url": "http://en.recuweb.com/javascript/greggalipeau.com/2015/04/dynamically-add-css-and-javascript-to-brand-sharepoint",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=javascript%2Bjavascript&rss=1&lng=en",
             "source_url": "http://greggalipeau.com/dynamically-add-css-and-javascript-to-brand-sharepoint/"
-        },
-        "readwrite.com/2015/04/npm-wants-to-push-javascript-developers-make-lego-like": {
-            "title": "NPM Wants To Push JavaScript Developers To Make Lego-Like...",
-            "snippet": "For all its virtues as the lingua franca for developing Web apps, JavaScript hasn't always lent itself to modern and efficient programming practices. Not long ago, for instance, shortcomings in the language led many developers...",
-            "date": "2015-04-15",
-            "author_name": "Lauren Orsini",
-            "categories": "javascript",
-            "tags": "language,programming,wants,javascript,developers,web",
-            "recuweb_url": "http://en.recuweb.com/javascript/readwrite.com/2015/04/npm-wants-to-push-javascript-developers-make-lego-like",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://readwrite.com/2015/04/15/npm-private-modules-github"
         }
     }
 }
