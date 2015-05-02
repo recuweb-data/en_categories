@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "theatre",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/theatre/",
@@ -11,49 +11,93 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/theatre/theatre/blogs.json"
     },
     "items": {
-        "artsjournal.com/2015/04/british-theatre-has-gone-election-mad-artsjournal": {
-            "title": "British Theatre Has Gone Election-Mad ArtsJournal...",
-            "snippet": "But on stage particularly in the hands of young, experimental theatre-makers the workings of democracy have rarely seemed so charged with possibility. Email this to someone Share on Facebook Tweet about this on...",
-            "date": "2015-04-24",
-            "author_name": "Matthew Westphal",
-            "categories": "facebook,theatre",
-            "tags": "facebook,stage,young,theatre,gone,share",
-            "recuweb_url": "http://en.recuweb.com/theatre/artsjournal.com/2015/04/british-theatre-has-gone-election-mad-artsjournal",
-            "resource_url": "http://www.google.com/search?q=theatre%2Btheatre&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://artsjournal.com/2015/04/british-theatre-has-gone-election-mad.html"
+        "towleroad.com/2015/04/finding-neverland-amazing-grace-king-charles-iii-towleroad": {
+            "title": "'Finding Neverland', 'Amazing Grace', 'King Charles III'- Towleroad...",
+            "snippet": "Alicia Silverstone will star in the New York premiere of Melissa Ross'play Of Good Stock Off Broadway at Manhattan Theatre Club's New York City Center Stage I, the company announced this month. The play about three...",
+            "date": "2015-04-27",
+            "author_name": "Naveen Kumar",
+            "categories": "play,theatre",
+            "tags": "company,city,stage,theatre,off,broadway",
+            "recuweb_url": "http://en.recuweb.com/theatre/towleroad.com/2015/04/finding-neverland-amazing-grace-king-charles-iii-towleroad",
+            "resource_url": "http://www.google.com/search?q=theatre&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://towleroad.com/2015/04/theatre-news-an-american-in-paris-and-finding-neverland-to-tour-amazing-grace-king-charles-iii-the-g.html"
         },
-        "copiousnotes.bloginky.com/2015/04/kentucky-theatre-summer-classics-2015-copious-notes": {
-            "title": "Kentucky Theatre Summer Classics 2015 Copious Notes...",
-            "snippet": "This year's Summer Classics series as the Kentucky Theatre takes a similar tact, loading the lineup with some of the biggest titles in movie history, including Gone With The Wind, The Wizard of Oz and Casablanca, as well as...",
-            "date": "2015-04-24",
-            "author_name": "Rich Copley",
+        "wgnradio.com/2015/04/inner-sanctum-duffy-s-tavern-the-adventures-of-sam-wgn-radio": {
+            "title": "Inner Sanctum, Duffy's Tavern, The Adventures of Sam... - WGN Radio...",
+            "snippet": "Carl Amari and Lisa Wolf bring you the best from the Golden Age of Radio and delve deep into film history with name-that-movie clips on WGN Radio Theatre from April 26, 2015. This week: Inner Sanctum: The Confession...",
+            "date": "2015-04-27",
+            "author_name": "dlongwgnam",
+            "categories": "radio,theatre",
+            "tags": "film,age,radio,theatre,week",
+            "recuweb_url": "http://en.recuweb.com/theatre/wgnradio.com/2015/04/inner-sanctum-duffy-s-tavern-the-adventures-of-sam-wgn-radio",
+            "resource_url": "http://www.google.com/search?q=theatre&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://wgnradio.com/2015/04/27/wgn-radio-theatre-3-inner-sanctum-duffys-tavern-the-adventures-of-sam-spade/"
+        },
+        "tucsonweekly.com/2015/04/the-fox-theatre-was-vandalized-this-weekend-tucson-weekly": {
+            "title": "The Fox Theatre Was Vandalized This Weekend - Tucson Weekly...",
+            "snippet": "It appears someone thought it was a great idea to vandalize a Tucson historical landmark, The Fox Theatre. A few photos were posted on the Facebook page Weird Stuff You'll Only See In/Near Tucson late last night and this...",
+            "date": "2015-04-27",
+            "author_name": "Mar\u00eda In\u00e9s Taracena",
+            "categories": "theatre,facebook",
+            "tags": "night,only,theatre,historical,facebook,page",
+            "recuweb_url": "http://en.recuweb.com/facebook/tucsonweekly.com/2015/04/the-fox-theatre-was-vandalized-this-weekend-tucson-weekly",
+            "resource_url": "http://www.google.com/search?q=theatre&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://tucsonweekly.com/TheRange/archives/2015/04/27/the-fox-theatre-was-vandalized-this-weekend"
+        },
+        "twincities.com/2015/04/happy-days-at-minneapolis-musical-theatre-not-destined-to": {
+            "title": "'Happy Days'at Minneapolis Musical Theatre not destined to be a...",
+            "snippet": "The cast of \"Happy Days\" does their best to put on a happy face, with lots of frenetic energy, loud singing and over-the-top mugging in Minneapolis Musical Theatre's newest production.",
+            "date": "2015-04-25",
+            "author_name": "By Renee Valois Special to the Pioneer Press",
+            "categories": "theatre,production",
+            "tags": "top,singing,cast,musical,musical_theatre,theatre,production",
+            "recuweb_url": "http://en.recuweb.com/production/twincities.com/2015/04/happy-days-at-minneapolis-musical-theatre-not-destined-to",
+            "resource_url": "http://www.google.com/search?q=theatre%2Btheatre&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://twincities.com/stage/ci_27987868/happy-days-at-minneapolis-muscial-theatre-not-destined"
+        },
+        "consequenceofsound.net/2015/04/live-review-damien-rice-at-the-greek-theatre-in-los-angeles": {
+            "title": "Live Review: Damien Rice at the Greek Theatre in Los Angeles (4/24)...",
+            "snippet": "There were a couple brief moments during Damien Rice's sold-out performance at the Greek Theatre in Los Angeles on Friday night where the attention of nearly 6,000 wasn't held squarely in his hands. The first was when he...",
+            "date": "2015-04-25",
+            "author_name": "Philip Cosores",
             "categories": "theatre",
-            "tags": "well,gone,kentucky,kentucky_theatre,theatre,series,summer,copious,copious_notes,notes",
-            "recuweb_url": "http://en.recuweb.com/theatre/copiousnotes.bloginky.com/2015/04/kentucky-theatre-summer-classics-2015-copious-notes",
+            "tags": "held,hands,night,performance,during,theatre,live",
+            "recuweb_url": "http://en.recuweb.com/theatre/consequenceofsound.net/2015/04/live-review-damien-rice-at-the-greek-theatre-in-los-angeles",
             "resource_url": "http://www.google.com/search?q=theatre%2Btheatre&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://copiousnotes.bloginky.com/2015/04/24/kentucky-theatre-summer-classics-2015/"
+            "source_url": "http://consequenceofsound.net/2015/04/live-review-damien-rice-at-the-greek-theatre-in-los-angeles-424/"
         },
-        "express.co.uk/2015/04/madonna-reprimanded-for-texting-during-theatre-show": {
-            "title": "Madonna reprimanded for TEXTING during theatre show and...",
-            "snippet": "MADONNA reportedly practised some poor theatre etiquette at the weekend, during a performance of Hamilton in New York City.",
-            "date": "2015-04-23",
-            "author_name": "unknown",
+        "theguardian.com/2015/04/tate-modern-boss-to-leave-for-leading-role-at-berlin": {
+            "title": "Tate Modern boss to leave for leading role at Berlin's Volksb\u00fchne...",
+            "snippet": "Departure of Chris Dercon, who will take charge of Berlin's experimental theatre in 2017, means Tate has lost two directors in as many months.",
+            "date": "2015-04-24",
+            "author_name": "Mark Brown Arts correspondent",
             "categories": "theatre",
-            "tags": "performance,show,theatre",
-            "recuweb_url": "http://en.recuweb.com/theatre/express.co.uk/2015/04/madonna-reprimanded-for-texting-during-theatre-show",
+            "tags": "lost,charge,theatre",
+            "recuweb_url": "http://en.recuweb.com/theatre/theguardian.com/2015/04/tate-modern-boss-to-leave-for-leading-role-at-berlin",
             "resource_url": "http://www.google.com/search?q=theatre%2Btheatre&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://express.co.uk/news/showbiz/572332/Madonna-texting-theatre-show-banned-backstage"
+            "source_url": "http://theguardian.com/artanddesign/2015/apr/24/tate-modern-boss-chris-dercon-berlin-volksbuhne-theatre"
         },
-        "copiousnotes.bloginky.com/2015/04/review-ben-sollee-at-the-kentucky-theatre-copious-notes": {
-            "title": "Review: Ben Sollee at the Kentucky Theatre Copious Notes...",
-            "snippet": "But it was only fitting that the holiday Ben Sollee chose to make a Kentucky Theatre stand was Earth Day. After all, this is the guy who has a cello carrier on his bicycle and sometimes tours that way and has a catalog full...",
+        "theguardian.com/2015/04/this-week-s-new-theatre-the-guardian": {
+            "title": "This week's new theatre - The Guardian...",
+            "snippet": "Cardiff's first pub theatre has got off to a good start with challenging plays from Sarah Kane and Howard Barker. Now it looks closer to home with a brand-new piece, and one that's bilingual to boot. Written by Alun Saunders,...",
+            "date": "2015-04-24",
+            "author_name": "Mark Cook & Lyn Gardner",
+            "categories": "home,play,theatre",
+            "tags": "piece,brand,sarah,plays,week,theatre,guardian,off",
+            "recuweb_url": "http://en.recuweb.com/theatre/theguardian.com/2015/04/this-week-s-new-theatre-the-guardian",
+            "resource_url": "http://www.google.com/search?q=theatre&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theguardian.com/stage/2015/apr/24/this-weeks-new-theatre"
+        },
+        "theguardian.com/2015/04/who-s-in-charge-the-dramas-of-running-a-theatre-guardian": {
+            "title": "Who's in charge? The dramas of running a theatre - The Guardian...",
+            "snippet": "In theatre companies, as in all organisations, a crucial question is: Who's in charge? An early lesson taught at business schools is the trouble that can result if lines of responsibility and reporting are unclear. If any business...",
             "date": "2015-04-23",
-            "author_name": "Rich Copley",
-            "categories": "earth,theatre",
-            "tags": "way,kentucky,kentucky_theatre,theatre,only,copious,copious_notes,notes",
-            "recuweb_url": "http://en.recuweb.com/theatre/copiousnotes.bloginky.com/2015/04/review-ben-sollee-at-the-kentucky-theatre-copious-notes",
-            "resource_url": "http://www.google.com/search?q=theatre%2Btheatre&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://copiousnotes.bloginky.com/2015/04/23/review-ben-sollee-at-the-kentucky-theatre/"
+            "author_name": "Mark Lawson",
+            "categories": "business,school,theatre",
+            "tags": "any,schools,charge,theatre,guardian",
+            "recuweb_url": "http://en.recuweb.com/theatre/theguardian.com/2015/04/who-s-in-charge-the-dramas-of-running-a-theatre-guardian",
+            "resource_url": "http://www.google.com/search?q=theatre&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theguardian.com/stage/2015/apr/23/tessa-ross-national-theatre-matthew-warchus-kenneth-branagh"
         },
         "backstageattheoctagon.wordpress.com/2015/04/the-octagon-theatre-presents-three-brand-new-summer-school-projects": {
             "title": "THE OCTAGON THEATRE PRESENTS THREE BRAND NEW SUMMER SCHOOL PROJECTS FOR 2015...",
@@ -61,65 +105,21 @@
             "date": "2015-04-22",
             "author_name": "octagonyeovil",
             "categories": "love,theatre,school",
-            "tags": "run,young,love,theatre,here,summer,way,musical",
+            "tags": "singing,musical,theatre,way,brand,young",
             "recuweb_url": "http://en.recuweb.com/school/backstageattheoctagon.wordpress.com/2015/04/the-octagon-theatre-presents-three-brand-new-summer-school-projects",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=theatre%2Btheatre&rss=1&lng=en",
             "source_url": "http://backstageattheoctagon.wordpress.com/2015/04/22/the-octagon-theatre-presents-three-brand-new-summer-school-projects-for-2015/"
         },
-        "kuku4slovenia.wordpress.com/2015/04/rehearsal-for-life-erasmus-project": {
-            "title": "Rehearsal for Life Erasmus project...",
-            "snippet": "At the moment we (Kuku) are implementing an Erasmus project here in Ptuj. In the training course, participants will acquire new alternative methods that are included in the large field of Social Theatre, Theatre of the Oppressed for dealing with...",
-            "date": "2015-04-20",
-            "author_name": "kuku4slovenia",
-            "categories": "theatre,life",
-            "tags": "theatre,course,here,life",
-            "recuweb_url": "http://en.recuweb.com/life/kuku4slovenia.wordpress.com/2015/04/rehearsal-for-life-erasmus-project",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=theatre%2Btheatre&rss=1&lng=en",
-            "source_url": "http://kuku4slovenia.wordpress.com/2015/04/20/rehearsal-for-life-erasmus-project/"
-        },
-        "swowen9.blogspot.com/2015/04/gypsy-at-the-savoy-theatre": {
-            "title": "'Gypsy'at the Savoy Theatre...",
-            "snippet": "Last years'season at Chichester included three great musicals - 'Amadeus'(with Rupert Everett), 'Guys and Dolls'(with Sophie Thompson) and 'Gypsy'(with Imelda Staunton). The only production to transfer to London is 'Gypsy'which has just opened for a...",
-            "date": "2015-04-19",
-            "author_name": "Owen",
-            "categories": "theatre,production",
-            "tags": "theatre,only,production",
-            "recuweb_url": "http://en.recuweb.com/production/swowen9.blogspot.com/2015/04/gypsy-at-the-savoy-theatre",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=theatre%2Btheatre&rss=1&lng=en",
-            "source_url": "http://swowen9.blogspot.com/2015/04/gypsy-at-savoy-theatre.html"
-        },
-        "clarkechroniclerspubs.blogspot.com/2015/04/94-the-robin-hood-ashton-under-lyne": {
-            "title": "94 The Robin Hood - Ashton-under-Lyne...",
-            "snippet": "First visited: 19 April 2015 At some point the Robin Hood changed its name to The Theatre Tavern, reflecting its position next to the town's Hippodrome Theatre. The theatre actually closed in 2008 and was at one point threatened with demolition...",
-            "date": "2015-04-19",
-            "author_name": "MikeMCSG",
+        "theguardian.com/2015/04/why-british-theatre-has-gone-election-mad-the-guardian": {
+            "title": "why British theatre has gone election mad - The Guardian...",
+            "snippet": "From a doom-metal George Osborne to Judi Dench placing her cross live on polling day, British theatre has caught election fever. Can playwrights swing the vote? Andrew Dickson talks to David Hare, James Graham and...",
+            "date": "2015-04-22",
+            "author_name": "Andrew Dickson",
             "categories": "theatre",
-            "tags": "theatre,next,changed,under",
-            "recuweb_url": "http://en.recuweb.com/theatre/clarkechroniclerspubs.blogspot.com/2015/04/94-the-robin-hood-ashton-under-lyne",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=theatre%2Btheatre&rss=1&lng=en",
-            "source_url": "http://clarkechroniclerspubs.blogspot.com/2015/04/94-robin-hood-ashton-under-lyne.html"
-        },
-        "sherryclaytonworks.wordpress.com/2015/04/sounds-so-sweet": {
-            "title": "Sounds So Sweet...",
-            "snippet": "Friday night, I was invited to preview a performance of Sounds So Sweet at the Black Ensemble Theatre in Chicago. I can not share much about the play since the potential for spoilers is high, but I can tell you it is outstanding. I have traveled to...",
-            "date": "2015-04-19",
-            "author_name": "Sherry Clayton",
-            "categories": "theatre,play",
-            "tags": "share,theatre,performance,invited,friday,night,play",
-            "recuweb_url": "http://en.recuweb.com/play/sherryclaytonworks.wordpress.com/2015/04/sounds-so-sweet",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=theatre%2Btheatre&rss=1&lng=en",
-            "source_url": "http://sherryclaytonworks.wordpress.com/2015/04/19/sounds-so-sweet/"
-        },
-        "deadline.com/2015/04/helen-hayes-theatre-broadway-deadline": {
-            "title": "Helen Hayes Theatre Broadway - Deadline...",
-            "snippet": "Second Stage theater confirmed Saturday Deadline's exclusive report that its purchase of the Helen Hayes Theatre was completed yesterday. Second Stage said that renovation of the theater will begin next year, under the...",
-            "date": "2015-04-18",
-            "author_name": "Jeremy Gerard",
-            "categories": "theatre",
-            "tags": "under,said,next,theatre,exclusive,stage",
-            "recuweb_url": "http://en.recuweb.com/theatre/deadline.com/2015/04/helen-hayes-theatre-broadway-deadline",
+            "tags": "live,theatre,guardian",
+            "recuweb_url": "http://en.recuweb.com/theatre/theguardian.com/2015/04/why-british-theatre-has-gone-election-mad-the-guardian",
             "resource_url": "http://www.google.com/search?q=theatre%2Btheatre&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://deadline.com/2015/04/helen-hayes-theatre-sold-for-25-million-fourth-nonprofit-on-broadway-1201412183/"
+            "source_url": "http://theguardian.com/stage/2015/apr/22/british-theatre-general-election-2015-the-vote-early-days-absence-of-war"
         }
     }
 }
