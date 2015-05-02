@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "memory",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/memory/",
@@ -11,71 +11,60 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/memory/memory/blogs.json"
     },
     "items": {
-        "kitguru.net/2015/04/debuts-world-s-fastest-128gb-ddr4-memory-kit": {
-            "title": "debuts 'world's fastest'128GB DDR4 memory kit...",
-            "snippet": "When it comes to high-end memory modules for enthusiasts, there is always a trade-off between their clock-rates and capacities. It is not easy to overclock.",
+        "blogs.msdn.com/2015/04/an-in-depth-look-at-memory-sql-server-2012-2014-journey": {
+            "title": "An In-depth look at memory - SQL Server 2012/2014 - SQL Journey...",
+            "snippet": "The memory architecture for the SQL Server relational database engine was practically overhauled with SQL Server 2012, and most of it has remained the same in SQL 2014. Please note that the In-memory OLTP feature...",
+            "date": "2015-04-27",
+            "author_name": "HarshDeep_Singh",
+            "categories": "database,memory",
+            "tags": "practically,memory,feature",
+            "recuweb_url": "http://en.recuweb.com/memory/blogs.msdn.com/2015/04/an-in-depth-look-at-memory-sql-server-2012-2014-journey",
+            "resource_url": "http://www.google.com/search?q=memory%2Bmemory&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.msdn.com/b/sqljourney/archive/2015/04/27/an-in-depth-look-at-memory-sql-server-2012-2014.aspx"
+        },
+        "sltrib.com/2015/04/utahns-gather-in-memory-of-1-5-million-massacred-armenians": {
+            "title": "Utahns gather in memory of 1.5 million massacred Armenians The...",
+            "snippet": "(Steve Griffin The Salt Lake Tribune) The Armenian Flag waves as hundreds of Utah Armenians and supporters demonstrate in front of Wallace F. Bennett Federal Building in Salt Lake City, Friday, April 24, 2015.",
+            "date": "2015-04-25",
+            "author_name": "unknown",
+            "categories": "memory",
+            "tags": "steve,memory",
+            "recuweb_url": "http://en.recuweb.com/memory/sltrib.com/2015/04/utahns-gather-in-memory-of-1-5-million-massacred-armenians",
+            "resource_url": "http://www.google.com/search?q=memory%2Bmemory&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://sltrib.com/news/2439228-155/utahns-gather-in-memory-of-15"
+        },
+        "wired.co.uk/2015/04/spies-exploring-memory-extraction-says-ucl-neuroscientist-wired": {
+            "title": "Spies exploring memory-extraction, says UCL neuroscientist (Wired...",
+            "snippet": "Surveillance agencies may already be practically examining the possibility of using neuroscience to pluck memories from the minds of suspects and examine them for clues, it was revealed at WIRED Health 2015.",
+            "date": "2015-04-24",
+            "author_name": "Michael Rundle",
+            "categories": "health,mind,memory,surveillance",
+            "tags": "practically,using,memory,memories",
+            "recuweb_url": "http://en.recuweb.com/surveillance/wired.co.uk/2015/04/spies-exploring-memory-extraction-says-ucl-neuroscientist-wired",
+            "resource_url": "http://www.google.com/search?q=memory%2Bmemory&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://wired.co.uk/news/archive/2015-04/24/eleanor-maguire-wired-health-2015"
+        },
+        "blog.jetbrains.com/2015/04/analyzing-ineffective-memory-usage-with-dotmemory-jetbrains": {
+            "title": "Analyzing ineffective memory usage with dotMemory JetBrains...",
+            "snippet": "Memory issues in.NET apps can be generally divided into 1) leaks, 2) large memory traffic, and 3) ineffective memory usage. In this blog we've written extensively about how dotMemory helps you deal with the first two...",
             "date": "2015-04-23",
-            "author_name": "Anton Shilov",
+            "author_name": "Alexey Totin",
             "categories": "memory",
-            "tags": "easy,off,between,high,fastest,world,ddr,memory,kit",
-            "recuweb_url": "http://en.recuweb.com/memory/kitguru.net/2015/04/debuts-world-s-fastest-128gb-ddr4-memory-kit",
-            "resource_url": "http://www.google.com/search?q=memory&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://kitguru.net/components/memory/anton-shilov/g-skill-debuts-worlds-fastest-128gb-ddr4-memory-kit-with-2-80ghz-frequency/"
-        },
-        "goal.com/2015/04/ancelotti-should-stay-but-madrid-supporters-don-t-have-a-memory": {
-            "title": "'Ancelotti should stay but Madrid supporters don't have a memory...",
-            "snippet": "Bearing in mind the history of Real Madrid, the supporters don't have a memory, he added. That's why Real Madrid always want to win titles every year. It's very similar to Iker. He came out of the youth team and it's unfair...",
-            "date": "2015-04-22",
-            "author_name": "unknown",
-            "categories": "mind,memory",
-            "tags": "want,titles,real,should,memory",
-            "recuweb_url": "http://en.recuweb.com/memory/goal.com/2015/04/ancelotti-should-stay-but-madrid-supporters-don-t-have-a-memory",
-            "resource_url": "http://www.google.com/search?q=memory&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://goal.com/en/news/596/exclusive/2015/04/22/10930852/ancelotti-should-stay-but-madrid-supporters-dont-have-a"
-        },
-        "naturalsociety.com/2015/04/love-napping-it-could-actually-improve-memory-fivefold-study": {
-            "title": "Love Napping? It Could Actually Improve Memory Fivefold, Study...",
-            "snippet": "Napping can actually have numerous positive effects - with one recent study suggesting that taking a nap can improve memory fivefold.",
-            "date": "2015-04-22",
-            "author_name": "Andre Evans",
-            "categories": "memory,love",
-            "tags": "recent,study,improve,positive,memory",
-            "recuweb_url": "http://en.recuweb.com/love/naturalsociety.com/2015/04/love-napping-it-could-actually-improve-memory-fivefold-study",
+            "tags": "into,memory",
+            "recuweb_url": "http://en.recuweb.com/memory/blog.jetbrains.com/2015/04/analyzing-ineffective-memory-usage-with-dotmemory-jetbrains",
             "resource_url": "http://www.google.com/search?q=memory%2Bmemory&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://naturalsociety.com/love-napping-it-could-actually-improve-memory-fivefold-study-says/"
+            "source_url": "http://blog.jetbrains.com/dotnet/2015/04/23/analyzing-ineffective-memory-usage-with-dotmemory/"
         },
-        "phys.org/2015/04/putting-a-new-spin-on-computing-memory": {
-            "title": "Putting a new spin on computing memory -...",
-            "snippet": "In spintronics memory applications, the spin of electrons can be controlled to encode data via the \"up\" and \"down\" binary pair of their spin. Credit: Drexel University. Ever since computers have been small enough to be fixtures...",
-            "date": "2015-04-22",
-            "author_name": "unknown",
-            "categories": "university,memory,credit",
-            "tags": "enough,data,down,memory",
-            "recuweb_url": "http://en.recuweb.com/credit/phys.org/2015/04/putting-a-new-spin-on-computing-memory",
-            "resource_url": "http://www.google.com/search?q=memory%2Bmemory&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://phys.org/news/2015-04-memory.html"
-        },
-        "greatergood.berkeley.edu/2015/04/can-music-help-keep-memory-alive-greater-good": {
-            "title": "Can Music Help Keep Memory Alive? Greater Good...",
-            "snippet": "Michael Rossato-Bennett first met Dan Cohen about three years ago, when he was assigned to do a short video for a foundation supporting Cohen's Music and Memory project. Cohen had begun a campaign to provide iPods...",
-            "date": "2015-04-21",
-            "author_name": "Greater Good",
-            "categories": "music,memory,ipod",
-            "tags": "short,music,help,memory",
-            "recuweb_url": "http://en.recuweb.com/ipod/greatergood.berkeley.edu/2015/04/can-music-help-keep-memory-alive-greater-good",
-            "resource_url": "http://www.google.com/search?q=memory%2Bmemory&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://greatergood.berkeley.edu/article/item/can_music_help_keep_memory_alive"
-        },
-        "lifehacker.com/2015/04/embrace-selective-short-term-memory-to-move-past-failure-quickly": {
-            "title": "Embrace Selective Short-Term Memory to Move Past Failure Quickly...",
-            "snippet": "When you fail at something, it's easy to get down on yourself and let it undermine your confidence. Rather than wrestling with your failure endlessly, sometimes it may be better to indulge in a little short-term memory loss to get...",
-            "date": "2015-04-21",
-            "author_name": "Eric Ravenscraft",
+        "dev.opera.com/2015/04/opera-s-work-to-reduce-chromium-memory-use": {
+            "title": "Opera's work to reduce Chromium's memory use...",
+            "snippet": "That vision is shared throughout Opera. We know that the vast majority of the world isn't using the latest greatest laptop or smartphone, so one of the projects that our engineers are working on is improving the memory use of...",
+            "date": "2015-04-23",
+            "author_name": "Bruce Lawson",
             "categories": "memory",
-            "tags": "loss,better,short,easy,down,memory",
-            "recuweb_url": "http://en.recuweb.com/memory/lifehacker.com/2015/04/embrace-selective-short-term-memory-to-move-past-failure-quickly",
+            "tags": "using,world,memory",
+            "recuweb_url": "http://en.recuweb.com/memory/dev.opera.com/2015/04/opera-s-work-to-reduce-chromium-memory-use",
             "resource_url": "http://www.google.com/search?q=memory%2Bmemory&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://lifehacker.com/embrace-selective-short-term-memory-to-move-past-failur-1699157423"
+            "source_url": "http://dev.opera.com/blog/reducing-memory-use/"
         },
         "lifehacker.com/2015/04/make-a-simple-self-inflating-camping-pillow-out-of-memory-foam": {
             "title": "Make a Simple, Self-Inflating Camping Pillow Out of Memory Foam...",
@@ -83,21 +72,21 @@
             "date": "2015-04-21",
             "author_name": "Patrick Allan",
             "categories": "camping,memory",
-            "tags": "enough,easy,even,memory",
+            "tags": "even,fun,memory,lot",
             "recuweb_url": "http://en.recuweb.com/memory/lifehacker.com/2015/04/make-a-simple-self-inflating-camping-pillow-out-of-memory-foam",
             "resource_url": "http://www.google.com/search?q=memory%2Bmemory&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://lifehacker.com/make-a-simple-self-inflating-camping-pillow-out-of-mem-1699301822"
         },
-        "swiss-miss.com/2015/04/swissmiss-analog-memory-desk": {
-            "title": "swissmiss Analog Memory Desk...",
-            "snippet": "Analog Memory Desk. analog memory desk. YES! This analog memory desk made me smile. I want one. 04/20/2015; 0. furniture gift guide: kids. Leave a Comment. Click here to cancel reply. Your email is never published nor shared.",
+        "seekingalpha.com/2015/04/you-can-benefit-from-lam-s-exposure-to-memory-research": {
+            "title": "You Can Benefit From Lam's Exposure To Memory - Lam Research...",
+            "snippet": "Customers of the company include memory manufacturers, foundries and IDMs. Applied Materials (NASDAQ:AMAT) is one of the primary competitors of the company. Lam Research was founded in 1980 and is based in...",
             "date": "2015-04-21",
-            "author_name": "swissmiss",
-            "categories": "furniture,memory",
-            "tags": "here,want,memory",
-            "recuweb_url": "http://en.recuweb.com/memory/swiss-miss.com/2015/04/swissmiss-analog-memory-desk",
-            "resource_url": "http://www.google.com/search?q=memory%2Bmemory&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://swiss-miss.com/2015/04/analog-memory-desk.html"
+            "author_name": "SeekingAlpha.com",
+            "categories": "memory",
+            "tags": "research,memory",
+            "recuweb_url": "http://en.recuweb.com/memory/seekingalpha.com/2015/04/you-can-benefit-from-lam-s-exposure-to-memory-research",
+            "resource_url": "http://www.google.com/search?q=memory&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://seekingalpha.com/article/3080526-you-can-benefit-from-lams-exposure-to-memory"
         },
         "collective-evolution.com/2015/04/this-new-breakthough-alzheimer-s-treatment-fully-restores": {
             "title": "This New Breakthough Alzheimer's Treatment Fully Restores...",
@@ -105,7 +94,7 @@
             "date": "2015-04-20",
             "author_name": "Jeff Roberts",
             "categories": "places,memory",
-            "tags": "remember,should,recognize,performance,alzheimer,memory",
+            "tags": "remember,should,alzheimer,performance,memory",
             "recuweb_url": "http://en.recuweb.com/memory/collective-evolution.com/2015/04/this-new-breakthough-alzheimer-s-treatment-fully-restores",
             "resource_url": "http://www.google.com/search?q=memory%2Bmemory&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://collective-evolution.com/2015/04/20/this-new-breakthough-alzheimers-treatment-fully-restores-memory-function/"
@@ -116,10 +105,21 @@
             "date": "2015-04-15",
             "author_name": "By Nicholas Bakalar",
             "categories": "memory",
-            "tags": "positive,onset,study,disease,decline,problems,sleep,off,memory,alzheimer",
+            "tags": "study,memory,breathing,alzheimer",
             "recuweb_url": "http://en.recuweb.com/memory/well.blogs.nytimes.com/2015/04/treating-sleep-apnea-may-ward-off-memory-decline",
             "resource_url": "http://www.google.com/search?q=memory%2Bmemory&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://well.blogs.nytimes.com/2015/04/15/treating-sleep-apnea-may-ward-off-memory-problems/"
+        },
+        "huffingtonpost.com/2015/03/how-power-naps-can-turbocharge-your-memory-huffington": {
+            "title": "How Power Naps Can Turbocharge Your Memory - Huffington Post...",
+            "snippet": "For the study, which was published in the journal Neurobiology of Learning and Memory, the researchers tested the memory of 41 volunteers who had been asked to remember specific words and word pairs. Then, half of the...",
+            "date": "2015-03-23",
+            "author_name": "Carolyn Gregoire",
+            "categories": "memory,learning",
+            "tags": "remember,researchers,study,memory,huffington",
+            "recuweb_url": "http://en.recuweb.com/learning/huffingtonpost.com/2015/03/how-power-naps-can-turbocharge-your-memory-huffington",
+            "resource_url": "http://www.google.com/search?q=memory&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://huffingtonpost.com/2015/03/23/naps-boost-memory-_n_6922788.html"
         }
     }
 }
