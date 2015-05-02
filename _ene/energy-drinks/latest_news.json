@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "energy-drinks",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/energy-drinks/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/energy-drinks/energy-drinks/blogs.json"
     },
     "items": {
+        "seekingalpha.com/2015/04/this-could-be-a-huge-game-changer-for-the-energy-drink": {
+            "title": "This Could Be A Huge Game-Changer For The Energy Drink Market...",
+            "snippet": "PepsiCo (NYSE:PEP) owns Amp, Starbucks bottled drinks and Mountain Dew Kickstart. Dr. Pepper-Snapple Group (NYSE:DPS) owns Venom Energy Drinks. Besides the brands owned by the beverage industry behemoths, there are a host of independent brands,...",
+            "date": "2015-04-27",
+            "categories": "energy-drinks,drink",
+            "tags": "beverage,energy,energy_drinks,drinks,market,game,pep",
+            "recuweb_url": "http://en.recuweb.com/drink/seekingalpha.com/2015/04/this-could-be-a-huge-game-changer-for-the-energy-drink",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=energy%2Bdrinks&format=RSS&cc=us",
+            "source_url": "http://seekingalpha.com/article/3105846-this-could-be-a-huge-game-changer-for-the-energy-drink-market"
+        },
         "myfoxphilly.com/2015/04/high-school-softball-coach-suspended-for-giving-energy-drinks-to-players": {
             "title": "High School Softball Coach Suspended For Giving Energy Drinks To Players - MyFox Philadelphia...",
             "snippet": "High School Softball Coach Suspended For Giving Energy Drinks To PlayersMyFox PhiladelphiaLAKE OSWEGO, OR--A high school softball coach found himself in hot water after he gave his players energy drinks. This is Mike McCormack's second year as head...",
@@ -20,16 +30,6 @@
             "recuweb_url": "http://en.recuweb.com/drink/myfoxphilly.com/2015/04/high-school-softball-coach-suspended-for-giving-energy-drinks-to-players",
             "resource_url": "http://news.google.com/?hl=en&q=energy%2Bdrinks&output=atom&nord=1",
             "source_url": "http://myfoxphilly.com/story/28902854/high-school-softball-coach"
-        },
-        "live-pr.com/2015/04/now-available-energy-drinks-in-ireland": {
-            "title": "Now Available: Energy Drinks in Ireland...",
-            "snippet": "() - Energy drinks recorded a 1% decline in total value terms in 2014 with the category valued at EUR129 million. Off-trade volume sales experienced a marginal decline as some consumers reduced their intake of energy drinks due to the high...",
-            "date": "2015-04-26",
-            "categories": "energy-drinks,drink",
-            "tags": "high,consumers,recorded,energy,energy_drinks,drinks",
-            "recuweb_url": "http://en.recuweb.com/drink/live-pr.com/2015/04/now-available-energy-drinks-in-ireland",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=energy%2Bdrinks&format=RSS&cc=us",
-            "source_url": "http://live-pr.com/en/now-available-energy-drinks-in-ireland-r1050576095.htm"
         },
         "thenorthwestern.com/2015/04/healthy-oshkosh-get-a-boost-from-energy-drink-alternatives": {
             "title": "Healthy Oshkosh: Get a healthy boost from energy drink alternatives...",
@@ -46,7 +46,7 @@
             "snippet": "Tualatin, OR The varsity softball coach at Lakeridge High School has been suspended for giving his players energy drinks. Mike McCormack has been the head coach of the Lakeridge softball team for two years. Just before a game on Monday, McCormack...",
             "date": "2015-04-24",
             "categories": "school,drink",
-            "tags": "softball,team,head,coach,mike,mike_mccormack,mccormack,school,suspended,suspended-for-giving,giving,players,softball-coach,coach-suspended,giving-players,high,energy,drinks,lakeridge",
+            "tags": "game,softball,team,head,coach,mike,mike_mccormack,mccormack,school,suspended,suspended-for-giving,giving,players,softball-coach,coach-suspended,giving-players,high,energy,drinks,lakeridge",
             "recuweb_url": "http://en.recuweb.com/drink/q13fox.com/2015/04/high-school-coach-suspended-for-giving-players-energy-drinks",
             "resource_url": "http://www.bing.com/news/search?first=1&q=energy%2Bdrinks&format=RSS&cc=us",
             "source_url": "http://q13fox.com/2015/04/24/high-school-coach-suspended-for-giving-players-energy-drinks/"
@@ -58,27 +58,17 @@
             "categories": "school,drink",
             "tags": "making,oswego,school,drinks,high,softball,softball-coach,coach,suspended,suspended-for-giving,giving,team,coach-suspended,giving-players,players,lakeridge,energy",
             "recuweb_url": "http://en.recuweb.com/drink/katu.com/2015/04/lakeridge-softball-coach-suspended-for-giving-players-energy-drinks-defends-katu",
-            "resource_url": "http://news.google.com/?hl=en&q=energy%2Bdrinks%2Benergy%2Bdrinks&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=energy%2Bdrinks&output=atom&nord=1",
             "source_url": "http://katu.com/news/investigators/Lakeridge-softball-coach-Mike-McCormack-suspended-giving-players-energy-drinks-301178351.html"
         },
-        "news.investors.com/2015/04/energy-drinks-fuel-monster-beverage-coke-jolt-next": {
+        "nasdaq.com/2015/04/energy-drinks-fuel-monster-beverage-coke-jolt-next": {
             "title": "Energy Drinks Fuel Monster Beverage; Coke Jolt Next...",
-            "snippet": "Talk about caffeine highs and lows. After negative publicity surrounding the health risks of consuming too much caffeine slowed growth in 2013, the energy-drink market resumed its run last year. Health risks apparently weren't shown to be strong...",
+            "snippet": "T alk about caffeine highs and lows. After negative publicity surrounding the health risks of consuming too much caffeine slowed growth in 2013, the energy-drink market resumed its run last year. Health risks apparently weren't shown to be strong...",
             "date": "2015-04-23",
             "categories": "drink,health,energy-drinks",
-            "tags": "shown,strong,risks,risks-apparently,risks-apparently-weren,apparently,apparently-weren,weren,drinks,run,health,caffeine,coke,coke_jolt,coke_jolt_next,jolt,jolt_next,next,energy,energy_drinks,energy_drinks_fuel,drinks_fuel,drinks_fuel_monster,fuel,fuel_monster,fuel_monster_beverage,monster,monster_beverage,beverage",
-            "recuweb_url": "http://en.recuweb.com/energy-drinks/news.investors.com/2015/04/energy-drinks-fuel-monster-beverage-coke-jolt-next",
+            "tags": "drinks,market,run,health,caffeine,coke,energy,energy_drinks,fuel,monster,beverage",
+            "recuweb_url": "http://en.recuweb.com/energy-drinks/nasdaq.com/2015/04/energy-drinks-fuel-monster-beverage-coke-jolt-next",
             "resource_url": "http://www.bing.com/news/search?first=1&q=energy%2Bdrinks&format=RSS&cc=us",
-            "source_url": "http://news.investors.com/042315-749279-monster-beverage-grows-faster-than-energy-drink-market.htm?ven=investopediacp&src=aurlagy"
-        },
-        "nasdaq.com/2015/04/energy-drinks-fuel-monster-beverage-coke-jolt-next-nasdaq": {
-            "title": "Energy Drinks Fuel Monster Beverage; Coke Jolt Next - Nasdaq...",
-            "snippet": "NasdaqEnergy Drinks Fuel Monster Beverage; Coke Jolt NextNasdaqHealth risks apparently weren't shown to be strong enough to hold back core energy-drink consumers for too long. \"The fact is, a lot of core consumers of energy drinks -- young males --...",
-            "date": "2015-04-23",
-            "categories": "drink,energy-drinks",
-            "tags": "young,consumers,drinks,shown,strong,back,risks,risks-apparently,risks-apparently-weren,apparently,apparently-weren,weren,coke,coke_jolt,jolt,drinks_fuel,drinks_fuel_monster,fuel,fuel_monster,fuel_monster_beverage,monster,monster_beverage,beverage,coke_jolt_next,jolt_next,next,energy,energy_drinks,energy_drinks_fuel",
-            "recuweb_url": "http://en.recuweb.com/energy-drinks/nasdaq.com/2015/04/energy-drinks-fuel-monster-beverage-coke-jolt-next-nasdaq",
-            "resource_url": "http://news.google.com/?hl=en&q=energy%2Bdrinks%2Benergy%2Bdrinks&output=atom&nord=1",
             "source_url": "http://nasdaq.com/article/energy-drinks-fuel-monster-beverage-coke-jolt-next-cm468733"
         },
         "newsok.com/2015/04/share-for-young-athletes-water-is-better": {
@@ -110,6 +100,16 @@
             "recuweb_url": "http://en.recuweb.com/drink/channelnewsasia.com/2015/04/should-there-be-restrictions-on-the-consumption-of-energy-drinks",
             "resource_url": "http://www.bing.com/news/search?first=1&q=energy%2Bdrinks&format=RSS&cc=us",
             "source_url": "http://channelnewsasia.com/news/singapore/should-there-be/1796036.html"
+        },
+        "uloop.com/2015/04/the-truth-behind-energy-drinks": {
+            "title": "The Truth Behind Energy Drinks...",
+            "snippet": "We all know the struggle of burning midnight oil. Some of us, myself included are intimately familiar with burning the midnight oil and even the one, two, or even three oclock oil. This semester alone, I have pulled three all-nighters. While I...",
+            "date": "2015-04-18",
+            "categories": "energy-drinks,drink",
+            "tags": "energy,energy_drinks,drinks",
+            "recuweb_url": "http://en.recuweb.com/drink/uloop.com/2015/04/the-truth-behind-energy-drinks",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=energy%2Bdrinks&format=RSS&cc=us",
+            "source_url": "http://uloop.com/news/view.php/157342/The-Truth-Behind-Energy-Drinks"
         }
     }
 }
