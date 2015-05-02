@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "json",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/json/",
@@ -11,16 +11,38 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/json/json/blogs.json"
     },
     "items": {
-        "javacodegeeks.com/2015/04/spring-from-the-trenches-returning-git-commit-information-as-json": {
-            "title": "Spring From the Trenches: Returning Git Commit Information as JSON...",
-            "snippet": "... configuration beans and helps you to do it. Spring From the Trenches: Returning Runtime Configuration as JSON describes how you can write the runtime configuration of a web application to a log file and return it as JSON.",
-            "date": "2015-04-23",
-            "author_name": "unknown",
+        "blogs.mathworks.com/2015/04/parsing-json-files-matlab-central-blogs-mathworks": {
+            "title": "Parsing JSON files - MATLAB Central Blogs - MathWorks...",
+            "snippet": "Recently, I've been working quite a bit with JSON files. I needed a way to read the files and parse out some content. With structured files like these, it's not terribly difficult to find tags and extract out information. But it does take...",
+            "date": "2015-04-24",
+            "author_name": "Jiro Doke",
             "categories": "json",
-            "tags": "log,web,describes,information,json,configuration,application,file",
-            "recuweb_url": "http://en.recuweb.com/json/javacodegeeks.com/2015/04/spring-from-the-trenches-returning-git-commit-information-as-json",
+            "tags": "information,working,quite,parsing,json,files,recently,read",
+            "recuweb_url": "http://en.recuweb.com/json/blogs.mathworks.com/2015/04/parsing-json-files-matlab-central-blogs-mathworks",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://javacodegeeks.com/2015/04/spring-from-the-trenches-returning-git-commit-information-as-json.html"
+            "source_url": "http://blogs.mathworks.com/pick/2015/04/24/parsing-json-files/"
+        },
+        "theburningmonk.com/2015/04/binary-and-json-benchmarks-updated": {
+            "title": "Binary and Json benchmarks updated...",
+            "snippet": "DISCLAIMER: as always, you should benchmark against your payload and use case, the benchmark numbers I have produced here is unlikely to be.",
+            "date": "2015-04-23",
+            "author_name": "theburningmonk",
+            "categories": "json",
+            "tags": "produced,should,json,here",
+            "recuweb_url": "http://en.recuweb.com/json/theburningmonk.com/2015/04/binary-and-json-benchmarks-updated",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theburningmonk.com/2015/04/binary-and-json-benchmarks-updated-2/"
+        },
+        "drupal.org/2015/04/json-jsonb-field": {
+            "title": "JSON/JSONB Field...",
+            "snippet": "This module implements a Drupal field type that stores JSON or JSONB data. A core patch is required to get the data type supported at the moment. Currently, only PostgreSQL database (version 9.2 or higher) is supported,...",
+            "date": "2015-04-20",
+            "author_name": "kevinquillen",
+            "categories": "json,drupal,database",
+            "tags": "json,data,database,version",
+            "recuweb_url": "http://en.recuweb.com/database/drupal.org/2015/04/json-jsonb-field",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://drupal.org/project/jsonb"
         },
         "google-opensource.blogspot.com/2015/04/jsonnet-a-more-elegant-language-for-composing-json": {
             "title": "Jsonnet: a more elegant language for composing JSON...",
@@ -28,32 +50,10 @@
             "date": "2015-04-20",
             "author_name": "Open Source Programs Office",
             "categories": "json",
-            "tags": "programming,simple,quietly,few,jsonnet,language,json,configuration,data",
+            "tags": "quietly,released,jsonnet,language,json,configuration,data",
             "recuweb_url": "http://en.recuweb.com/json/google-opensource.blogspot.com/2015/04/jsonnet-a-more-elegant-language-for-composing-json",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://google-opensource.blogspot.com/2015/04/jsonnet-more-elegant-language-for.html"
-        },
-        "blog.netspi.com/2015/04/playing-with-content-type-xxe-on-json-endpoints-netspi-blog": {
-            "title": "Playing with Content-Type XXE on JSON Endpoints - NetSPI Blog...",
-            "snippet": "Many web and mobile applications rely on web services communication for client-server interaction. Most common data formats for web services are XML, whether SOAP or RESTful, and JSON. While a web service may be...",
-            "date": "2015-04-20",
-            "author_name": "ExplodingAds.com",
-            "categories": "json,xml",
-            "tags": "web,web-service,service,server,json,services,data,formats,xml",
-            "recuweb_url": "http://en.recuweb.com/xml/blog.netspi.com/2015/04/playing-with-content-type-xxe-on-json-endpoints-netspi-blog",
-            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.netspi.com/playing-content-type-xxe-json-endpoints/"
-        },
-        "r-bloggers.com/2015/04/how-to-convert-an-r-json-bloggers": {
-            "title": "How to convert an R to JSON R-bloggers...",
-            "snippet": "I've been asked how to convert a to an XML or JSON. So here's the answer. Bear in mind that has not been built for this purpose, so we need to do a few extra steps and the code is not really beautiful.",
-            "date": "2015-04-18",
-            "author_name": "gluc",
-            "categories": "mind,json,xml",
-            "tags": "few,json,bloggers,xml,here,code",
-            "recuweb_url": "http://en.recuweb.com/xml/r-bloggers.com/2015/04/how-to-convert-an-r-json-bloggers",
-            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://r-bloggers.com/how-to-convert-an-r-data-tree-to-json/"
         },
         "dgielis.blogspot.com/2015/04/dimitri-gielis-blog-oracle-application-express-apex-json": {
             "title": "Dimitri Gielis Blog (Oracle Application Express - APEX): JSON for...",
@@ -61,21 +61,10 @@
             "date": "2015-04-17",
             "author_name": "Dimitri Gielis",
             "categories": "database,json",
-            "tags": "query,information,examples,look,application,json,read,sql",
+            "tags": "basically,information,database,interested,application,json,read,sql",
             "recuweb_url": "http://en.recuweb.com/json/dgielis.blogspot.com/2015/04/dimitri-gielis-blog-oracle-application-express-apex-json",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://dgielis.blogspot.com/2015/04/json-for-apex-developers-part-3.html"
-        },
-        "r-bloggers.com/2015/04/json-serialization-now-even-faster-and-prettier-r-bloggers": {
-            "title": "JSON serialization now even faster and prettier R-bloggers...",
-            "snippet": "The jsonlite package implements a robust, high performance JSON parser and generator for R, optimized for statistical data and the web. This week version.",
-            "date": "2015-04-13",
-            "author_name": "Jeroen Ooms",
-            "categories": "json",
-            "tags": "version,web,json,bloggers,data",
-            "recuweb_url": "http://en.recuweb.com/json/r-bloggers.com/2015/04/json-serialization-now-even-faster-and-prettier-r-bloggers",
-            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://r-bloggers.com/json-serialization-now-even-faster-and-prettier/"
         },
         "blog.najmanowicz.com/2015/04/rapid-api-prototyping-for-sitecore-with-powershell-extensions": {
             "title": "Rapid API prototyping for Sitecore with PowerShell Extensions...",
@@ -83,21 +72,10 @@
             "date": "2015-04-13",
             "author_name": "Adam Najmanowicz",
             "categories": "html,json,xml",
-            "tags": "apis,describes,api,json,xml,available",
+            "tags": "describes,api,json,xml,available",
             "recuweb_url": "http://en.recuweb.com/xml/blog.najmanowicz.com/2015/04/rapid-api-prototyping-for-sitecore-with-powershell-extensions",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=json%2Bjson&rss=1&lng=en",
             "source_url": "http://blog.najmanowicz.com/2015/04/13/rapid-api-prototyping-for-sitecore-with-powershell-extensions/"
-        },
-        "mysqlserverteam.com/2015/04/json-labs-release-overview-mysql-server-blog": {
-            "title": "JSON Labs Release: Overview MySQL Server Blog...",
-            "snippet": "We're very happy to announce that the MySQL JSON Labs release is now available on MySQL Labs! With this work, MySQL continues to grow as a hybrid SQL/NoSQL DBMS, one that can offer the best of both worlds to...",
-            "date": "2015-04-12",
-            "author_name": "Matt Lord",
-            "categories": "mysql,json",
-            "tags": "mysql,labs,mysql_json,json,json_labs,server,json_labs_release,labs_release,release,available,sql",
-            "recuweb_url": "http://en.recuweb.com/json/mysqlserverteam.com/2015/04/json-labs-release-overview-mysql-server-blog",
-            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://mysqlserverteam.com/json-labs-release-overview/"
         },
         "mysqlserverteam.com/2015/04/json-labs-release-functions-part-2-querying-data": {
             "title": "JSON Labs Release: JSON Functions, Part 2 Querying JSON Data...",
@@ -105,21 +83,43 @@
             "date": "2015-04-10",
             "author_name": "Dag Wanvik",
             "categories": "mysql,json",
-            "tags": "using,introduced,mysql,mysql_json,json,json_labs,json_data,data,json_labs_release,labs,labs_release,release",
+            "tags": "introduced,json,json_data,data,release",
             "recuweb_url": "http://en.recuweb.com/json/mysqlserverteam.com/2015/04/json-labs-release-functions-part-2-querying-data",
             "resource_url": "http://www.google.com/search?q=json&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://mysqlserverteam.com/mysql-5-7-lab-release-json-functions-part-2-querying-json-data/"
         },
-        "blogs.dropbox.com/2015/03/json-in-urls-dropbox-developer-blog": {
-            "title": "JSON in URLs Dropbox Developer Blog...",
-            "snippet": "... as URL path and query parameters. For example, a call to the Dropbox API's filename search endpoint might look like: While URL encoding seems fine for simple examples, using JSON might have some advantages.",
-            "date": "2015-03-25",
-            "author_name": "F. Metsys",
-            "categories": "json",
-            "tags": "seems,simple,examples,look,api,query,developer,json,search,using",
-            "recuweb_url": "http://en.recuweb.com/json/blogs.dropbox.com/2015/03/json-in-urls-dropbox-developer-blog",
+        "threatpost.com/2015/04/critical-vulnerabilities-affecting-json-web-token-libraries": {
+            "title": "Critical Vulnerabilities Affecting JSON Web Token Libraries...",
+            "snippet": "Critical vulnerabilities exist in several JSON Web Token (JWT) libraries namely the JavaScript and PHP versions that could let an attacker bypass the verification step. Tim McLean, a Canadian security researcher who...",
+            "date": "2015-04-01",
+            "author_name": "Chris Brook",
+            "categories": "json,javascript,php",
+            "tags": "step,json,web",
+            "recuweb_url": "http://en.recuweb.com/php/threatpost.com/2015/04/critical-vulnerabilities-affecting-json-web-token-libraries",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogs.dropbox.com/developers/2015/03/json-in-urls/"
+            "source_url": "http://threatpost.com/critical-vulnerabilities-affect-json-web-token-libraries/111943"
+        },
+        "clipizdecon.wordpress.com/2015/03/download-game-vba-json-library": {
+            "title": "Download game vba json library...",
+            "snippet": "DOWNLOAD I have a json like below: {\"sentences\": Role-playing Games; more (21) Mathematics; Cross Validated (stats) Theoretical Computer Science; Physics. Have difficulty with the downloads, If you are interested []...",
+            "date": "2015-03-26",
+            "author_name": "clipizdecon",
+            "categories": "science,json,mathematics,physics",
+            "tags": "interested,difficulty,computer,game,json,role",
+            "recuweb_url": "http://en.recuweb.com/physics/clipizdecon.wordpress.com/2015/03/download-game-vba-json-library",
+            "resource_url": "http://en.search.wordpress.com/?q=json%2Bjson&f=feed&page=1",
+            "source_url": "http://clipizdecon.wordpress.com/2015/03/26/download-game-vba-json-library/"
+        },
+        "tbray.org/2015/03/ongoing-by-tim-bray-rfc-7493-the-i-json-message-format": {
+            "title": "ongoing by Tim Bray RFC 7493: The I-JSON Message Format...",
+            "snippet": "Back story Basically, RFC 7159 is the JSON RFC; it describes the existing panoply of JSON specs, and also more-or-less unifies the (small) incompatibilities between them. The history is here, from which I quote: If you're...",
+            "date": "2015-03-23",
+            "author_name": "Tim Bray",
+            "categories": "json",
+            "tags": "between,describes,json,format,basically,here",
+            "recuweb_url": "http://en.recuweb.com/json/tbray.org/2015/03/ongoing-by-tim-bray-rfc-7493-the-i-json-message-format",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://tbray.org/ongoing/When/201x/2015/03/23/i-json"
         }
     }
 }
