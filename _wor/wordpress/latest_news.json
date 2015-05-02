@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "wordpress",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/wordpress/",
@@ -11,22 +11,72 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/wordpress/wordpress/blogs.json"
     },
     "items": {
+        "en.blog.wordpress.com/2015/04/all-sites-protected-against-zero-day-vulnerability": {
+            "title": "All Sites Protected Against Zero Day Vulnerability...",
+            "snippet": "Akismet is protecting all sites against the Zero Day XSS vulnerability. You may have seen news of a new zero-day vulnerability regarding comments in self-hosted versions of WordPress 4.2. All sites including...",
+            "date": "2015-04-27",
+            "categories": "wordpress",
+            "tags": "sites,versions,vulnerability,zero,xss,wordpress",
+            "recuweb_url": "http://en.recuweb.com/wordpress/en.blog.wordpress.com/2015/04/all-sites-protected-against-zero-day-vulnerability",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
+            "source_url": "http://en.blog.wordpress.com/2015/04/27/zero-day-vulnerabilty/"
+        },
+        "kevin.lexblog.com/2015/04/banks-using-wordpress-for-their-websites-real-lawyers-have-blogs-blog": {
+            "title": "Banks using WordPress for their websites - Real Lawyers Have Blogs (blog)...",
+            "snippet": "Banks using WordPress for their websitesReal Lawyers Have Blogs (blog)There's probably not a ton of benefit to having the online banking/billpay/etc portion of a bank's website on WordPress, however there is no reason you couldn't run the front-end...",
+            "date": "2015-04-27",
+            "categories": "banking,wordpress",
+            "tags": "run,using,wordpress,websites,website",
+            "recuweb_url": "http://en.recuweb.com/wordpress/kevin.lexblog.com/2015/04/banks-using-wordpress-for-their-websites-real-lawyers-have-blogs-blog",
+            "resource_url": "http://news.google.com/?hl=en&q=wordpress%2Bwordpress&output=atom&nord=1",
+            "source_url": "http://kevin.lexblog.com/2015/04/27/banks-using-wordpress-for-their-websites/"
+        },
         "badgerherald.com/2015/04/city-of-madison-grow-startup-offers-wordpress-bootcamp-to-help-uw": {
             "title": "City of Madison Grow Madison startup offers WordPress Bootcamp to help... - UW Badger Herald...",
             "snippet": "UW Badger HeraldCity of Madison Grow Madison startup offers WordPress Bootcamp to help...UW Badger HeraldA startup in Madison engages local businesses, non-profits and students with a relaxing day of coffee, doughnuts and solutions to their...",
             "date": "2015-04-27",
             "categories": "students,coffee,business,wordpress",
-            "tags": "day,businesses,help,wordpress,offers,non",
+            "tags": "help,wordpress",
             "recuweb_url": "http://en.recuweb.com/wordpress/badgerherald.com/2015/04/city-of-madison-grow-startup-offers-wordpress-bootcamp-to-help-uw",
-            "resource_url": "http://news.google.com/?hl=en&q=wordpress&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=wordpress%2Bwordpress&output=atom&nord=1",
             "source_url": "http://badgerherald.com/news/2015/04/27/madison-startup-helps-community-solve-technology-problems/"
+        },
+        "theregister.co.uk/2015/04/comments-considered-harmful-wordpress-web-hijack-bug-revealed": {
+            "title": "Comments considered harmful: WordPress web hijack bug revealed...",
+            "snippet": "We'll BUY your patents for cash, says Google just don't feed the trolls A frustrated Finnish security researcher has gone public with a vulnerability in WordPress that lets attackers hijack website admin accounts. The flaw was found by Jouko...",
+            "date": "2015-04-27",
+            "categories": "wordpress,google",
+            "tags": "flaw,admin,hijack,security,vulnerability,web,bug,wordpress,google,website",
+            "recuweb_url": "http://en.recuweb.com/google/theregister.co.uk/2015/04/comments-considered-harmful-wordpress-web-hijack-bug-revealed",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
+            "source_url": "http://theregister.co.uk/2015/04/27/wordpress_zero_day_xss/"
+        },
+        "sitepoint.com/2015/04/create-a-url-shortener-plugin-for-wordpress": {
+            "title": "Create a URL Shortener Plugin for WordPress...",
+            "snippet": "URL shortening is a technique in which a URL is made substantially shorter in length and still links to the required page. This is achieved by using a redirect on a domain name that is short, which links to the web page that has the longer URL. In...",
+            "date": "2015-04-27",
+            "categories": "wordpress",
+            "tags": "web,page,longer,plugin,create,wordpress,using",
+            "recuweb_url": "http://en.recuweb.com/wordpress/sitepoint.com/2015/04/create-a-url-shortener-plugin-for-wordpress",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
+            "source_url": "http://sitepoint.com/create-a-url-shortener-plugin-for-wordpress/"
+        },
+        "motherboard.vice.com/2015/04/hackers-could-take-over-wordpress-blogs-with-a-single-comment": {
+            "title": "Hackers Could Take Over WordPress Blogs with a Single Comment...",
+            "snippet": "If you have a WordPress blog, be wary of extremely long commentsit could be a hacker trying to take over your site. Thanks to a bug in WordPress, the content management platform that powers more than 20 percent of the entire web, an attacker can...",
+            "date": "2015-04-27",
+            "categories": "management,wordpress",
+            "tags": "web,content,content-management,management,platform,bug,wordpress,single,site,thanks",
+            "recuweb_url": "http://en.recuweb.com/wordpress/motherboard.vice.com/2015/04/hackers-could-take-over-wordpress-blogs-with-a-single-comment",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
+            "source_url": "http://motherboard.vice.com/en_ca/read/hackers-could-take-over-wordpress-blogs-with-a-single-comment"
         },
         "practicalecommerce.com/2015/04/how-to-install-wordpress-woocommerce-on-amazon-web-services": {
             "title": "How to Install WordPress, WooCommerce on Amazon Web Services...",
             "snippet": "WooCommerce, a powerful ecommerce plugin for WordPress, can be a good foundation for an online store. Whats more, when you run that site on Amazon Web Services, you can have a cost effective host. Although there are several steps involved in...",
             "date": "2015-04-27",
             "categories": "web-services,wordpress",
-            "tags": "involved,host,online,online-store,store,powerful,ecommerce,install,wordpress,site",
+            "tags": "run,store,powerful,ecommerce,plugin,web,install,wordpress,site",
             "recuweb_url": "http://en.recuweb.com/wordpress/practicalecommerce.com/2015/04/how-to-install-wordpress-woocommerce-on-amazon-web-services",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
             "source_url": "http://practicalecommerce.com/articles/87321-How-to-Install-WordPress-WooCommerce-on-Amazon-Web-Services"
@@ -36,80 +86,30 @@
             "snippet": "Enlarge/When viewed by an admin, this proof-of-concept exploit will hijack a website running the latest version of WordPress. The WordPress content management system used by millions of websites is vulnerable to two newly discovered threats that...",
             "date": "2015-04-27",
             "categories": "management,wordpress",
-            "tags": "vulnerable,discovered,content,content-management,content-management-system,management,management-system,system,version,admin,day,wordpress,websites,website",
+            "tags": "vulnerable,content,content-management,content-management-system,management,management-system,system,millions,version,exploit,hijack,admin,wordpress,websites,website",
             "recuweb_url": "http://en.recuweb.com/wordpress/arstechnica.com/2015/04/just-released-wordpress-0day-makes-it-easy-to-hijack-millions-of",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
             "source_url": "http://arstechnica.com/security/2015/04/27/just-released-wordpress-0day-makes-it-easy-to-hijack-millions-of-websites/"
         },
-        "news.softpedia.com/2015/04/wordpress-4-2-affected-by-zero-day-stored-xss-poc-available": {
-            "title": "WordPress 4.2 Affected by Zero-Day Stored XSS, PoC Available...",
-            "snippet": "An attacker taking advantage of the flaw could take control of the targeted website by creating new admin accounts. Aside from the current WordPress versions, build, and are also affected.",
+        "businessinsider.com/2015/04/millions-of-wordpress-sites-are-vulnerable-to-this-major-security-flaw": {
+            "title": "Millions of Wordpress sites are vulnerable to this major security flaw...",
+            "snippet": "Ars Technica reports that the discovery was made by Finland-based security research firm Klikki Oy. The exploit is present in the latest version of WordPress (4.2) and there is currently no patch available. Known as a cross-site scripting (XSS) bug,...",
             "date": "2015-04-27",
             "categories": "wordpress",
-            "tags": "admin,available,day,wordpress,zero,website,versions,build",
-            "recuweb_url": "http://en.recuweb.com/wordpress/news.softpedia.com/2015/04/wordpress-4-2-affected-by-zero-day-stored-xss-poc-available",
+            "tags": "exploit,version,security,sites,vulnerable,flaw,millions,wordpress,site,xss,bug",
+            "recuweb_url": "http://en.recuweb.com/wordpress/businessinsider.com/2015/04/millions-of-wordpress-sites-are-vulnerable-to-this-major-security-flaw",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
-            "source_url": "http://news.softpedia.com/news/WordPress-4-2-Affected-by-Zero-Day-Stored-XSS-PoC-Available-479437.shtml"
+            "source_url": "http://businessinsider.com/millions-of-wordpress-sites-are-vulnerable-to-this-major-security-flaw-2015-4"
         },
         "forbes.com/2015/04/wordpress-under-attack-as-double-zero-day-trouble-lands": {
             "title": "WordPress Under Attack As Double Zero-Day Trouble Lands...",
             "snippet": "The WordPress platform is yet again under attack, thanks to vulnerabilities across old and new versions of the content management system. The most pressing issue is a fresh zero-day, a previously unknown and unpatched weakness, affecting the latest...",
             "date": "2015-04-27",
             "categories": "management,wordpress",
-            "tags": "zero,versions,content,content-management,content-management-system,management,management-system,system,day,wordpress",
+            "tags": "zero,thanks,versions,content,content-management,content-management-system,management,management-system,system,platform,wordpress",
             "recuweb_url": "http://en.recuweb.com/wordpress/forbes.com/2015/04/wordpress-under-attack-as-double-zero-day-trouble-lands",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
             "source_url": "http://forbes.com/sites/thomasbrewster/2015/04/27/wordpress-zero-day-exploits/"
-        },
-        "missoulian.com/2015/04/shelf-life-missoula-public-library-to-host-class-on-using-wordpress": {
-            "title": "SHELF LIFE: Missoula Public Library to host class on using WordPress - The Missoulian...",
-            "snippet": "SHELF LIFE: Missoula Public Library to host class on using WordPressThe MissoulianHave you ever wanted to build your own website using WordPress? Well, now you can learn the tools of this popular website creation system when MPL hosts a class taught...",
-            "date": "2015-04-26",
-            "categories": "life,wordpress",
-            "tags": "host,system,own,ever,using,wordpress,build,website,learn",
-            "recuweb_url": "http://en.recuweb.com/wordpress/missoulian.com/2015/04/shelf-life-missoula-public-library-to-host-class-on-using-wordpress",
-            "resource_url": "http://news.google.com/?hl=en&q=wordpress&output=atom&nord=1",
-            "source_url": "http://missoulian.com/news/state-and-regional/shelf-life-missoula-public-library-to-host-class-on-using/article_7da2ae6b-1ddc-5992-8a2a-fe37ab31f679.html"
-        },
-        "lacrossetribune.com/2015/04/uw-l-offers-workshop-on-wordpress-websites-la-crosse-tribune": {
-            "title": "UW-L offers workshop on WordPress websites - La Crosse Tribune...",
-            "snippet": "UW-L offers workshop on WordPress websitesLa Crosse TribuneThe UW-La Crosse Small Business Development Center is offering Building a WordPress Website to help businesses improve their online presence. The workshop runs from 5:30 to 8:30 p.m. May 5...",
-            "date": "2015-04-26",
-            "categories": "business,wordpress",
-            "tags": "website,help,businesses,business,online,small,development,offers,wordpress,websites,building",
-            "recuweb_url": "http://en.recuweb.com/wordpress/lacrossetribune.com/2015/04/uw-l-offers-workshop-on-wordpress-websites-la-crosse-tribune",
-            "resource_url": "http://news.google.com/?hl=en&q=wordpress&output=atom&nord=1",
-            "source_url": "http://lacrossetribune.com/news/local/state-and-regional/uw-l-offers-workshop-on-wordpress-websites/article_6a84d8fe-162d-533d-9d21-11aedda21c26.html"
-        },
-        "marketingland.com/2015/04/wordpress-4-2-now-available-speeds-up-publishing-&-sharing": {
-            "title": "WordPress 4.2 Now Available, Speeds Up Publishing & Sharing...",
-            "snippet": "Hot on the heels of the security release, WordPress has announced version 4.2, which is available now. This version of WordPress sports an updated Press This tool, which allows quick posting to your blog by quoting the text, video or images from...",
-            "date": "2015-04-25",
-            "categories": "sport,wordpress",
-            "tags": "text,version,available,security,wordpress",
-            "recuweb_url": "http://en.recuweb.com/wordpress/marketingland.com/2015/04/wordpress-4-2-now-available-speeds-up-publishing-&-sharing",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
-            "source_url": "http://marketingland.com/wordpress-4-2-now-available-speeds-up-publishing-sharing-126279"
-        },
-        "searchenginejournal.com/2015/04/5-html-&-wordpress-hacks-for-non-coders": {
-            "title": "5 HTML & WordPress Hacks for Non-Coders...",
-            "snippet": "Facing computer code often draws the same reaction as an offensive odor or the sight of blood from non-coders. I used to manage a small business website, and once displayed the Text side of the page to the office manager. As tiny letters and...",
-            "date": "2015-04-24",
-            "categories": "business,wordpress,html",
-            "tags": "page,small,business,wordpress,non,website,text",
-            "recuweb_url": "http://en.recuweb.com/html/searchenginejournal.com/2015/04/5-html-&-wordpress-hacks-for-non-coders",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
-            "source_url": "http://searchenginejournal.com/5-html-wordpress-hacks-non-coders/129296/"
-        },
-        "threatpost.com/2015/04/details-on-wordpress-zero-day-disclosed": {
-            "title": "Details on WordPress Zero Day Disclosed...",
-            "snippet": "WordPress security issues have for the most part involved a vulnerable plug-in, but a Finnish researcher has disclosed some details on a zero-day vulnerability he discovered in the WordPress 4.2 and earlier core engine that could lead to remote...",
-            "date": "2015-04-24",
-            "categories": "wordpress",
-            "tags": "day,discovered,zero,security,involved,vulnerable,wordpress",
-            "recuweb_url": "http://en.recuweb.com/wordpress/threatpost.com/2015/04/details-on-wordpress-zero-day-disclosed",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=us",
-            "source_url": "http://threatpost.com/details-on-wordpress-zero-day-disclosed/112435"
         }
     }
 }
