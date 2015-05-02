@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "xml",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/xml/",
@@ -17,7 +17,7 @@
             "date": "2015-04-24",
             "author_name": "unknown",
             "categories": "xml,json",
-            "tags": "only,thing,simple,apis,xml,json",
+            "tags": "only,thing,simple,multiple,apis,xml,json",
             "recuweb_url": "http://en.recuweb.com/json/javacodegeeks.com/2015/04/jax-rs-2-x-vs-spring-mvc-returning-an-xml-representation",
             "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://javacodegeeks.com/2015/04/jax-rs-2-x-vs-spring-mvc-returning-an-xml-representation-of-a-list-of-objects.html"
@@ -28,32 +28,10 @@
             "date": "2015-04-24",
             "author_name": "Nathan Miller",
             "categories": "xml",
-            "tags": "nodes,xml,data,help",
+            "tags": "nodes,help,nathan,xml,data",
             "recuweb_url": "http://en.recuweb.com/xml/theprovingground.org/2015/04/the-proving-ground-by-nathan-miller-integrating-xml-with-dynamo",
             "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://theprovingground.org/2015/04/integrating-xml-with-dynamo-via-lunchbox.html"
-        },
-        "community.dynamics.com/2015/04/xrmservicetoolkit-doesn-t-work-with-retrieving-record-from-xml-on": {
-            "title": "XRMServicetoolkit doesn't work with retrieving record from XML on...",
-            "snippet": "Hi,. I were using XRMServicetookit as var tileData=(fetchxml); where fetchxml parameter contains the xml from advance find. This particuler piece of code were working with simple xml where...",
-            "date": "2015-04-23",
-            "author_name": "Abhishek Gupta",
-            "categories": "xml",
-            "tags": "code,simple,find,work,xml,using",
-            "recuweb_url": "http://en.recuweb.com/xml/community.dynamics.com/2015/04/xrmservicetoolkit-doesn-t-work-with-retrieving-record-from-xml-on",
-            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://community.dynamics.com/crm/f/117/t/158728"
-        },
-        "stackoverflow.com/2015/04/advice-on-android-setlistadapter-and-combining-two-xml-layout": {
-            "title": "Advice on android setlistadapter and combining two.xml layout...",
-            "snippet": "You don't need to merge list_item1 and resultList2 layouts for whatever you are trying to of extending ListActivity or ListFragment, use ordinary activity and setContentView with a layout that has two listviews in its xml...",
-            "date": "2015-04-21",
-            "author_name": "Aroma88",
-            "categories": "xml",
-            "tags": "android,xml",
-            "recuweb_url": "http://en.recuweb.com/xml/stackoverflow.com/2015/04/advice-on-android-setlistadapter-and-combining-two-xml-layout",
-            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://stackoverflow.com/questions/29778640/advice-on-android-setlistadapter-and-combining-two-xml-layout"
         },
         "blog.rstudio.org/2015/04/parse-and-process-xml-html-with-xml2-rstudio-blog": {
             "title": "Parse and process XML (and HTML) with xml2 RStudio Blog...",
@@ -61,10 +39,21 @@
             "date": "2015-04-21",
             "author_name": "hadleywickham",
             "categories": "xml,html",
-            "tags": "library,work,available,version,parse,xml",
+            "tags": "library,available,parse,xml,version",
             "recuweb_url": "http://en.recuweb.com/html/blog.rstudio.org/2015/04/parse-and-process-xml-html-with-xml2-rstudio-blog",
             "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.rstudio.org/2015/04/21/xml2/"
+        },
+        "nbevans.wordpress.com/2015/04/super-skinny-xml-document-generation-with-f-nathan-evans": {
+            "title": "Super skinny XML document generation with F Nathan Evans...",
+            "snippet": "I needed to generate some simple XML documents, in memory, from some F script. From my C days I was already familiar with the namespace, which I still quite like. But it wasn't particularly clean to use...",
+            "date": "2015-04-15",
+            "author_name": "Nathan B. Evans",
+            "categories": "memory,xml",
+            "tags": "simple,nathan,documents,xml",
+            "recuweb_url": "http://en.recuweb.com/xml/nbevans.wordpress.com/2015/04/super-skinny-xml-document-generation-with-f-nathan-evans",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://nbevans.wordpress.com/2015/04/15/super-skinny-xml-document-generation-with-f/"
         },
         "datacenterknowledge.com/2015/04/data-center-layout-visualization-with-xml-and-xslt": {
             "title": "Data Center Layout Visualization With XML and XSLT Data Center...",
@@ -83,19 +72,19 @@
             "date": "2015-04-03",
             "author_name": "(mlc)",
             "categories": "xml",
-            "tags": "code,xml,available,validation",
+            "tags": "guide,xml,available,validation",
             "recuweb_url": "http://en.recuweb.com/xml/apswpa.blogspot.com/2015/04/exercise-set-on-xml",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=xml%2Bxml&rss=1&lng=en",
             "source_url": "http://apswpa.blogspot.com/2015/04/exercise-set-on-xml.html"
         },
-        "evertpot.com/2015/04/an-xml-library-for-php-you-may-not-hate": {
-            "title": "An XML library for PHP you may not hate.",
+        "evertpot.com/2015/04/an-xml-library-for-php-you-may-not-hate-evert-pot": {
+            "title": "An XML library for PHP you may not hate. - Evert Pot...",
             "snippet": "If you are a PHP programmer, chances are that you will need to write and parse XML from time to time. You may even consider this a good thing. Chances are though that dealing with XML has caused you to flock to JSON.",
             "date": "2015-04-01",
             "author_name": "Evert Pot",
             "categories": "xml,php,json",
-            "tags": "caused,thing,parse,library,xml,json",
-            "recuweb_url": "http://en.recuweb.com/json/evertpot.com/2015/04/an-xml-library-for-php-you-may-not-hate",
+            "tags": "thing,parse,library,xml,json",
+            "recuweb_url": "http://en.recuweb.com/json/evertpot.com/2015/04/an-xml-library-for-php-you-may-not-hate-evert-pot",
             "resource_url": "http://www.google.com/search?q=xml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://evertpot.com/an-xml-library-you-may-not-hate/"
         },
@@ -105,7 +94,7 @@
             "date": "2015-04-01",
             "author_name": "qill",
             "categories": "xml,technology",
-            "tags": "only,xml,technology",
+            "tags": "only,xml,schema,technology,information",
             "recuweb_url": "http://en.recuweb.com/technology/qillknows.wordpress.com/2015/04/semantic-web-uri-xml-and-schema",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=xml%2Bxml&rss=1&lng=en",
             "source_url": "http://qillknows.wordpress.com/2015/04/01/semantic-web-uri-xml-and-xml-schema-2/"
@@ -116,10 +105,21 @@
             "date": "2015-03-31",
             "author_name": "B2F",
             "categories": "xml",
-            "tags": "xml,files",
+            "tags": "module,gene,xml,sitemap,files",
             "recuweb_url": "http://en.recuweb.com/xml/drupal.org/2015/03/xml-sitemap-http-cache",
             "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://drupal.org/project/xhc"
+        },
+        "drupal.org/2015/03/multi-domain-xml-sitemap": {
+            "title": "Multi-domain XML Sitemap...",
+            "snippet": "This is a simple module that builds on top of XML Sitemap module (v2.0). It allows generating for multiple domains that point to the same Drupal site. For example, you might have,,...",
+            "date": "2015-03-26",
+            "author_name": "danithaca",
+            "categories": "xml,drupal",
+            "tags": "multiple,gene,simple,module,xml,sitemap,site",
+            "recuweb_url": "http://en.recuweb.com/drupal/drupal.org/2015/03/multi-domain-xml-sitemap",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://drupal.org/project/xmlsitemap_domain"
         }
     }
 }
