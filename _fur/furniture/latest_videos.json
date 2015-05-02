@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "furniture",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/furniture/",
@@ -11,18 +11,6 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/furniture/furniture/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/04/how-to-make-your-own-furniture-and-wood-crafts-9000-plans": {
-            "title": "How To Make Your Own Furniture and Wood Crafts 9000 Plans With Furniture & Wood plans...",
-            "snippet": "How To Make Your Own Furniture and Wood Crafts 9000 Plans With Furniture & Wood plansAuthor: woodstyle1Tags: How To Make Your Own Furniture and Wood Crafts 9000 Plans With plans Posted: 26 April 2015Rating:: 0...",
-            "date": "2015-04-25",
-            "author_name": "woodstyle1",
-            "categories": "furniture",
-            "tags": "furniture",
-            "recuweb_url": "http://en.recuweb.com/furniture/dailymotion.com/2015/04/how-to-make-your-own-furniture-and-wood-crafts-9000-plans",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/furniture+furniture/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2nzjiu_how-to-make-your-own-furniture-and-wood-crafts-9000-plans-with-furniture-wood-plans_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nzjiu_how-to-make-your-own-furniture-and-wood-crafts-9000-plans-with-furniture-wood-plans_lifestyle"
-        },
         "dailymotion.com/2015/04/dinning-table-furniture-by-hudson": {
             "title": "Dinning Table Furniture By Hudson Furniture...",
             "snippet": "As Sydney premier manufacturer of handmade mahogany furniture, Hudson Furniture takes great pride in producing the finest replica and custom pieces to suit all tastes. We meticulously handcraft each item to exacting standards, with all of the...",
@@ -41,7 +29,7 @@
             "date": "2015-04-23",
             "author_name": "SugarCharmShop",
             "categories": "furniture",
-            "tags": "chairs,chair,furniture",
+            "tags": "chairs,chair,dining,furniture",
             "recuweb_url": "http://en.recuweb.com/furniture/youtube.com/2015/04/miniature-furniture-dining-chair-tutorial",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=furniture&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=v8_HoMQcNPk&feature=youtube_gdata",
@@ -71,18 +59,6 @@
             "source_url": "http://youtube.com/watch?v=gIRTAPxGoRY&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/gIRTAPxGoRY/0.jpg"
         },
-        "dailymotion.com/2015/04/raana-furniture-60-seconds-in-electronic-city-bangalore-pin-code": {
-            "title": "- Raana Furniture 60 Seconds Furniture in Electronic City - Bangalore - Pin Code...",
-            "snippet": "Official Website: is an online platform owned by PinCoTV Internet Private Limited. It was created to help people discover local stores and other useful places in their neighborhood. The platform enables its users to watch documentary videos, get...",
-            "date": "2015-04-15",
-            "author_name": "PinCodeTV",
-            "categories": "places,internet,furniture",
-            "tags": "online,furniture",
-            "recuweb_url": "http://en.recuweb.com/furniture/dailymotion.com/2015/04/raana-furniture-60-seconds-in-electronic-city-bangalore-pin-code",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/furniture+furniture/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mpq81_pincodetv-com-raana-furniture-60-seconds-furniture-in-electronic-city-bangalore-pin-code-560100-indi_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mpq81_pincodetv-com-raana-furniture-60-seconds-furniture-in-electronic-city-bangalore-pin-code-560100-indi_lifestyle"
-        },
         "dailymotion.com/2015/04/asnaghi-furniture-of": {
             "title": "Asnaghi Furniture Furniture of...",
             "snippet": "Asnaghi Furniture Furniture of: TierraJayTags: Asnaghi Furniture of Posted: 09 April 2015Rating:: 0...",
@@ -94,18 +70,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/furniture+furniture/0?af=1",
             "source_url": "http://dailymotion.com/video/x2m6aa1_asnaghi-furniture-furniture-of-italy-net_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2m6aa1_asnaghi-furniture-furniture-of-italy-net_lifestyle"
-        },
-        "dailymotion.com/2015/04/align-office-furniture-collection-national-business": {
-            "title": "Align Office Furniture Collection National Business Furniture...",
-            "snippet": "Align Office Furniture Collection National Business FurnitureAuthor: ShellySandovalTags: Align Office Furniture Collection National Business Posted: 03 April 2015Rating:: 0...",
-            "date": "2015-04-02",
-            "author_name": "ShellySandoval",
-            "categories": "furniture,business",
-            "tags": "office,furniture",
-            "recuweb_url": "http://en.recuweb.com/business/dailymotion.com/2015/04/align-office-furniture-collection-national-business",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/furniture+furniture/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2llzv6_align-office-furniture-collection-national-business-furniture_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2llzv6_align-office-furniture-collection-national-business-furniture_lifestyle"
         },
         "youtube.com/2015/03/restoring-furniture-for-profit-38-craigslist-hunter": {
             "title": "Restoring Furniture For Profit 38 Craigslist Hunter...",
@@ -125,11 +89,47 @@
             "date": "2015-03-19",
             "author_name": "dm_50b832b0932fa",
             "categories": "furniture",
-            "tags": "furniture,office,chairs,online",
+            "tags": "furniture,office,chairs",
             "recuweb_url": "http://en.recuweb.com/furniture/dailymotion.com/2015/03/big-&-tall-office-chairs-furniture-online",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/furniture+furniture/0?af=1",
             "source_url": "http://dailymotion.com/video/xvhml1_big-tall-office-chairs-furniture-online-office-furniture_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/xvhml1_big-tall-office-chairs-furniture-online-office-furniture_lifestyle"
+        },
+        "dailymotion.com/2015/02/commercial-furniture-in-1stfoldingchairs": {
+            "title": "Commercial Furniture in 1stfoldingchairs...",
+            "snippet": "The company is the biggest and largest to take orders and deliver in areas like Downey, CA, Miami, FL, New Jersey, and Chicago, IL, where customers are seeking genuine: 1stfoldingchairsTags: Posted: 27 February 2015Rating:: 0...",
+            "date": "2015-02-27",
+            "author_name": "1stfoldingchairs",
+            "categories": "furniture",
+            "tags": "furniture",
+            "recuweb_url": "http://en.recuweb.com/furniture/dailymotion.com/2015/02/commercial-furniture-in-1stfoldingchairs",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/furniture/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2i953a_commercial-furniture-in-1stfoldingchairs_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2i953a_commercial-furniture-in-1stfoldingchairs_lifestyle"
+        },
+        "dailymotion.com/2015/02/matroshka-furniture-swedish-multifunctional": {
+            "title": "Matroshka Furniture - Swedish multifunctional furniture...",
+            "snippet": "Transformable FurnitureAuthor: smallspacesaddictionTags: Meuble furniture transformation Posted: 10 February 2015Rating:: 0...",
+            "date": "2015-02-10",
+            "author_name": "smallspacesaddiction",
+            "categories": "furniture",
+            "tags": "furniture",
+            "recuweb_url": "http://en.recuweb.com/furniture/dailymotion.com/2015/02/matroshka-furniture-swedish-multifunctional",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/furniture+furniture/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2gv4ip_matroshka-furniture-swedish-multifunctional-furniture_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2gv4ip_matroshka-furniture-swedish-multifunctional-furniture_lifestyle"
+        },
+        "dailymotion.com/2015/02/dining-set-online-furniture-singapore-chinese-antique": {
+            "title": "Dining Set - Online Furniture Singapore - Chinese Antique Furniture...",
+            "snippet": "- Grab the unique Chinese antique furniture with Nook and Cranny online furniture store in Singapore. Buy best dining room furniture including dining chairs, dining tables, dining set to decorate your home. You would find the different selections...",
+            "date": "2015-02-09",
+            "author_name": "chinesefurnitureinfo",
+            "categories": "home,furniture",
+            "tags": "dining,furniture,chairs",
+            "recuweb_url": "http://en.recuweb.com/furniture/dailymotion.com/2015/02/dining-set-online-furniture-singapore-chinese-antique",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/furniture+furniture/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2groja_dining-set-online-furniture-singapore-chinese-antique-furniture_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2groja_dining-set-online-furniture-singapore-chinese-antique-furniture_lifestyle"
         }
     }
 }
