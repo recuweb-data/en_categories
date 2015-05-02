@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "dark-matter",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/dark-matter/",
@@ -11,35 +11,45 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/dark-matter/dark-matter/blogs.json"
     },
     "items": {
+        "phys.org/2015/04/astrophyicists-draw-most-comprehensive-map-of-the-universe": {
+            "title": "Astrophyicists draw most comprehensive map of the universe...",
+            "snippet": "The spherical map of galaxy superclusters will lead to a greater understanding of how matter is distributed in the universe and provide key insights into dark matter, one of physics'greatest mysteries. Professor Mike Hudson, Jonathan Carrick and...",
+            "date": "2015-04-27",
+            "categories": "physics,galaxy-superclusters",
+            "tags": "professor,universe,matter,dark",
+            "recuweb_url": "http://en.recuweb.com/galaxy-superclusters/phys.org/2015/04/astrophyicists-draw-most-comprehensive-map-of-the-universe",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=dark%2Bmatter&format=RSS&cc=us",
+            "source_url": "http://phys.org/news/2015-04-astrophyicists-comprehensive-universe.html"
+        },
+        "digitaljournal.com/2015/04/dark-matter-stalked-from-every-which-way-digital-journal": {
+            "title": "Dark matter Stalked from every which way - Digital Journal...",
+            "snippet": "Digital JournalDark matter Stalked from every which wayDigital JournalDark matter is hunted in space, in the Solar system and in distant galaxies. Signs of its interactions, its fingerprint and its decay are pursued. Whether WIMP, axion or neutrino,...",
+            "date": "2015-04-27",
+            "categories": "galaxies",
+            "tags": "interactions,galaxies,space,way,dark,matter,signs",
+            "recuweb_url": "http://en.recuweb.com/galaxies/digitaljournal.com/2015/04/dark-matter-stalked-from-every-which-way-digital-journal",
+            "resource_url": "http://news.google.com/?hl=en&q=dark%2Bmatter%2Bdark%2Bmatter&output=atom&nord=1",
+            "source_url": "http://digitaljournal.com/science/dark-matter-stalked-from-every-which-way/article/431820"
+        },
         "cerncourier.com/2015/04/dark-matter-self-interactions-are-weak": {
             "title": "Dark-matter self-interactions are weak...",
             "snippet": "Astronomers using observations from the NASA/ESA Hubble Space Telescope and NASAs Chandra X-ray Observatory have studied how dark matter in clusters of galaxies behaves when the clusters collide. The results confirm the distinct existence of dark...",
             "date": "2015-04-27",
             "categories": "galaxies,observation",
-            "tags": "results,existence,galaxies,hubble,space,telescope,observations,dark,matter,astronomers",
+            "tags": "results,existence,galaxies,space,observations,interactions,dark,matter,astronomers",
             "recuweb_url": "http://en.recuweb.com/observation/cerncourier.com/2015/04/dark-matter-self-interactions-are-weak",
             "resource_url": "http://www.bing.com/news/search?first=1&q=dark%2Bmatter&format=RSS&cc=us",
             "source_url": "http://cerncourier.com/cws/article/cern/60874"
         },
-        "newstatesman.com/2015/04/happy-birthday-hubble-after-25-years-here-are-of-the-space": {
-            "title": "Happy birthday, Hubble! After 25 years, here are 25 of the space telescope's greatest achievements...",
-            "snippet": "Constituting about 25 per cent of everything in the observable universe is dark matter stuff we can't see, hence no image with this first entry. (Visible matter what we can see, eg stars, planets, asteroids, etc. - makes up only five per cent of...",
+        "edn.com/2015/04/is-dark-matter-about-to-be-discovered-blog": {
+            "title": "Is dark matter about to be discovered? - (blog)...",
+            "snippet": "(blog)Is dark matter about to be discovered? (blog)The evidence that dark matter exists is pretty simple: the visible mass of galaxies is too small to account for how tightly gravity holds them together. In other words, if the visible mass is all...",
             "date": "2015-04-27",
-            "categories": "stars,planets,asteroids",
-            "tags": "only,stuff,space,telescope,hubble,universe,dark,matter,visible",
-            "recuweb_url": "http://en.recuweb.com/asteroids/newstatesman.com/2015/04/happy-birthday-hubble-after-25-years-here-are-of-the-space",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=dark%2Bmatter&format=RSS&cc=us",
-            "source_url": "http://newstatesman.com/sci-tech/2015/04/happy-birthday-hubble-after-25-years-here-are-25-space-telescopes-greatest"
-        },
-        "esbtrib.com/2015/04/dark-matter-dispensing-both-beneficial-and-sinister-causatum-empire-state-tribune": {
-            "title": "Dark Matter: Dispensing Both Beneficial and Sinister Causatum - Empire State Tribune...",
-            "snippet": "Empire State TribuneDark Matter: Dispensing Both Beneficial and Sinister CausatumEmpire State TribuneDark matter is thought to record a significant part of the mass present in the universe, yet it stays imperceptible by direct perception.",
-            "date": "2015-04-26",
-            "categories": "perception,empire,dark-matter",
-            "tags": "yet,matter,dark,dark_matter,mass,universe",
-            "recuweb_url": "http://en.recuweb.com/dark-matter/esbtrib.com/2015/04/dark-matter-dispensing-both-beneficial-and-sinister-causatum-empire-state-tribune",
-            "resource_url": "http://news.google.com/?hl=en&q=dark%2Bmatter&output=atom&nord=1",
-            "source_url": "http://esbtrib.com/2015/04/25/10438/dark-matter-what-are-its-dark-conceivable-outcomes/"
+            "categories": "galaxies,evidence",
+            "tags": "visible,gravity,galaxies,simple,evidence,dark,matter,mass",
+            "recuweb_url": "http://en.recuweb.com/evidence/edn.com/2015/04/is-dark-matter-about-to-be-discovered-blog",
+            "resource_url": "http://news.google.com/?hl=en&q=dark%2Bmatter%2Bdark%2Bmatter&output=atom&nord=1",
+            "source_url": "http://edn.com/electronics-blogs/measure-of-things/4439202/Is-dark-matter-about-to-be-discovered-"
         },
         "thehoopsnews.com/2015/04/scientists-going-crazy-over-dark-matter-existence-it-has-side-too": {
             "title": "Scientists going crazy over Dark Matter existence, it has DARK side too - The Hoops News...",
@@ -48,38 +58,18 @@
             "categories": "dark-matter",
             "tags": "dark,dark_matter,matter,scientists,existence",
             "recuweb_url": "http://en.recuweb.com/dark-matter/thehoopsnews.com/2015/04/scientists-going-crazy-over-dark-matter-existence-it-has-side-too",
-            "resource_url": "http://news.google.com/?hl=en&q=dark%2Bmatter&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=dark%2Bmatter%2Bdark%2Bmatter&output=atom&nord=1",
             "source_url": "http://thehoopsnews.com/2015/04/26/4604/scientists-going-crazy-over-dark-matter-existence-it-has-dark-side-too/"
         },
-        "edn.com/2015/04/is-dark-matter-about-to-be-discovered": {
-            "title": "Is dark matter about to be discovered?",
-            "snippet": "The evidence that dark matter exists is pretty simple: the visible mass of galaxies is too small to account for how tightly gravity holds them together. In other words, if the visible mass is all there is, then galaxies should be flying apart much...",
+        "esbtrib.com/2015/04/dark-matter-what-are-its-conceivable-outcomes": {
+            "title": "Dark Matter: What are its Dark Conceivable Outcomes?",
+            "snippet": "Dark matter is thought to record a significant part of the mass present in the universe, yet it stays imperceptible by direct perception. Researchers depend on perceptions of obvious space articles to focus the vicinity of dark matter. It is...",
             "date": "2015-04-25",
-            "categories": "galaxies,evidence",
-            "tags": "galaxies,visible,other,gravity,simple,evidence,dark,matter,mass",
-            "recuweb_url": "http://en.recuweb.com/evidence/edn.com/2015/04/is-dark-matter-about-to-be-discovered",
+            "categories": "perception,dark-matter",
+            "tags": "space,dark,dark_matter,matter,mass,universe",
+            "recuweb_url": "http://en.recuweb.com/dark-matter/esbtrib.com/2015/04/dark-matter-what-are-its-conceivable-outcomes",
             "resource_url": "http://www.bing.com/news/search?first=1&q=dark%2Bmatter&format=RSS&cc=us",
-            "source_url": "http://edn.com/electronics-blogs/measure-of-things/4439202/Is-dark-matter-about-to-be-discovered-"
-        },
-        "hotair.com/2015/04/scientists-wife-suggests-accepting-god-if-hes-sciency-enough": {
-            "title": "Scientists wife suggests accepting God if Hes sciency enough...",
-            "snippet": "Primack, one of the principle drivers behind the rise of Dark Matter and Dark Energy theory. (Without going into all this yet again, lets just say that I find the idea of Dark Matter being settled science which might not be completely disproven...",
-            "date": "2015-04-25",
-            "categories": "science,dark-matter",
-            "tags": "science,completely,into,yet,dark,energy,dark_matter,matter,suggests,scientists",
-            "recuweb_url": "http://en.recuweb.com/dark-matter/hotair.com/2015/04/scientists-wife-suggests-accepting-god-if-hes-sciency-enough",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=dark%2Bmatter&format=RSS&cc=us",
-            "source_url": "http://hotair.com/archives/2015/04/25/scientists-wife-suggests-accepting-god-if-hes-sciency-enough/"
-        },
-        "io9.com/2015/04/the-ultimate-guide-to-this-summer-s-science-fiction-and-supernatural": {
-            "title": "The Ultimate Guide To This Summer's Science Fiction And Supernatural TV...",
-            "snippet": "Joseph Mallozzi and Paul Mullie (Stargate) have adapted their popular graphic novel Dark Matter into a Syfy series. We only just recently got a look at the trailer, which looks like a lot of space drama goodness. But officially, The story follows a...",
-            "date": "2015-04-24",
-            "categories": "dark-matter,science,supernatural",
-            "tags": "space,only,trailer,into,dark,dark_matter,matter,science,syfy",
-            "recuweb_url": "http://en.recuweb.com/supernatural/io9.com/2015/04/the-ultimate-guide-to-this-summer-s-science-fiction-and-supernatural",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=dark%2Bmatter&format=RSS&cc=us",
-            "source_url": "http://io9.com/the-ultimate-guide-to-this-summers-science-fiction-and-1700022386"
+            "source_url": "http://esbtrib.com/2015/04/25/10438/dark-matter-what-are-its-dark-conceivable-outcomes/"
         },
         "newscientist.com/2015/04/biggest-dark-matter-detector-lies-in-wait-for-antisocial-wimps-new": {
             "title": "Biggest dark matter detector lies in wait for antisocial WIMPs - New Scientist...",
@@ -87,28 +77,37 @@
             "date": "2015-04-23",
             "tags": "metal,feel,scientist,dark,matter",
             "recuweb_url": "http://en.recuweb.com/newscientist.com/2015/04/biggest-dark-matter-detector-lies-in-wait-for-antisocial-wimps-new",
-            "resource_url": "http://news.google.com/?hl=en&q=dark%2Bmatter&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=dark%2Bmatter%2Bdark%2Bmatter&output=atom&nord=1",
             "source_url": "http://newscientist.com/article/mg22630184.300-biggest-dark-matter-detector-lies-in-wait-for-antisocial-wimps.html"
+        },
+        "wired.com/2015/04/science-is-closing-in-on-dark-matter-but-beware-the-hype": {
+            "title": "Science Is Closing in on Dark Matter, But Beware the Hype - Wired...",
+            "snippet": "WiredScience Is Closing in on Dark Matter, But Beware the HypeWiredRecently, many instruments designed to hunt for dark matter have come online (including those in the gallery above), and scientists are finally beginning to see results emergeas...",
+            "date": "2015-04-23",
+            "categories": "dark-matter,science",
+            "tags": "results,come,dark,dark_matter,matter,scientists",
+            "recuweb_url": "http://en.recuweb.com/science/wired.com/2015/04/science-is-closing-in-on-dark-matter-but-beware-the-hype",
+            "resource_url": "http://news.google.com/?hl=en&q=dark%2Bmatter%2Bdark%2Bmatter&output=atom&nord=1",
+            "source_url": "http://wired.com/2015/04/science-closing-dark-matter-beware-hype/"
         },
         "express.co.uk/2015/04/dark-matter-wiped-out-the-dinosaurs-and-could-end-human-race": {
             "title": "Dark matter wiped out the dinosaurs and could end human race, scientist claims -...",
             "snippet": "matter wiped out the dinosaurs and could end human race, scientist York University professor and geologist Michael Rampino carried out research which suggests dark matter - the mysterious invisible stuff making up most of the mass in the universe -...",
             "date": "2015-04-22",
             "categories": "university",
-            "tags": "stuff,suggests,scientist,dark,matter,mass,universe",
+            "tags": "suggests,professor,scientist,dark,matter,mass,universe",
             "recuweb_url": "http://en.recuweb.com/university/express.co.uk/2015/04/dark-matter-wiped-out-the-dinosaurs-and-could-end-human-race",
-            "resource_url": "http://news.google.com/?hl=en&q=dark%2Bmatter&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=dark%2Bmatter%2Bdark%2Bmatter&output=atom&nord=1",
             "source_url": "http://express.co.uk/news/nature/572109/Dark-matter-wiped-out-the-dinosaurs-and-could-end-human-race-scientist-claims"
         },
-        "wired.com/2015/04/science-is-closing-in-on-dark-matter-but-beware-the-hype": {
-            "title": "Science Is Closing in on Dark Matter, But Beware the Hype - Wired...",
-            "snippet": "WiredScience Is Closing in on Dark Matter, But Beware the HypeWiredRecently, many instruments designed to hunt for dark matter have come online (including those in the gallery above), and scientists are finally beginning to see results emergeas...",
+        "redorbit.com/2015/04/wtf-is-dark-matter": {
+            "title": "WTF is dark matter?!",
+            "snippet": "About 1/4 of the universe is composed of dark matter, so its kind of a big deal. Or, to put it another way, up until about 30 years ago, most scientists believed that the universe was composed of atomsthe tiny pieces of each chemical elementand...",
             "date": "2015-04-22",
-            "categories": "dark-matter,science",
-            "tags": "results,come,dark,dark_matter,matter,science,scientists",
-            "recuweb_url": "http://en.recuweb.com/science/wired.com/2015/04/science-is-closing-in-on-dark-matter-but-beware-the-hype",
-            "resource_url": "http://news.google.com/?hl=en&q=dark%2Bmatter&output=atom&nord=1",
-            "source_url": "http://wired.com/2015/04/science-closing-dark-matter-beware-hype/"
+            "tags": "way,dark,matter,universe,scientists",
+            "recuweb_url": "http://en.recuweb.com/redorbit.com/2015/04/wtf-is-dark-matter",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=dark%2Bmatter%2Bdark%2Bmatter&format=RSS&cc=us",
+            "source_url": "http://redorbit.com/news/space/1113376285/wtf-is-dark-matter-042215/"
         }
     }
 }
