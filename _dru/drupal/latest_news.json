@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "drupal",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/drupal/",
@@ -11,6 +11,36 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/drupal/drupal/blogs.json"
     },
     "items": {
+        "federalnewsradio.com/2015/04/open-source-in-the-federal-government": {
+            "title": "Open source in the federal government...",
+            "snippet": "In a similar vein, there is an open source offering for content management called Drupal. Much like Red Hat, NuCivic takes Drupal and offers it as a variation on Drupal for content management. During the discussion, Hoppin talks about success he...",
+            "date": "2015-04-28",
+            "categories": "management,drupal",
+            "tags": "content,content-management,management,open,source,called,drupal",
+            "recuweb_url": "http://en.recuweb.com/drupal/federalnewsradio.com/2015/04/open-source-in-the-federal-government",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
+            "source_url": "http://federalnewsradio.com/254/3847072/Open-source-in-the-federal-government"
+        },
+        "electronicdesign.com/2015/04/what-s-the-difference-between-json-xml-and-yaml": {
+            "title": "What's the Difference Between JSON, XML, and YAML?",
+            "snippet": "Still, many platforms utilize this for configuration information that a programmer or user generates. For example, Drupal, a content management system (CMS), is now based on Symfony, a PHP framework, that uses YAML for its configuration files. There...",
+            "date": "2015-04-28",
+            "categories": "management,json,xml,drupal,php",
+            "tags": "content,content-management,content-management-system,management,management-system,system,user,drupal,cms",
+            "recuweb_url": "http://en.recuweb.com/php/electronicdesign.com/2015/04/what-s-the-difference-between-json-xml-and-yaml",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
+            "source_url": "http://electronicdesign.com/dev-tools/whats-difference-between-json-xml-and-yaml"
+        },
+        "eweek.com/2015/04/tesla-s-website-and-twitter-account-hackedbriefly": {
+            "title": "Tesla's Website and Twitter Account HackedBriefly...",
+            "snippet": "It appears as though Tesla Motors is using the Akamai content delivery network (CDN) as its hosting provider, as well as the open-source Drupal content management system (CMS). The idea of attacking a domain registrar to redirect and attack a...",
+            "date": "2015-04-27",
+            "categories": "management,twitter,drupal",
+            "tags": "content,content-management,content-management-system,management,management-system,system,open,hosting,hosting-provider,provider,using,website,source,drupal,cms",
+            "recuweb_url": "http://en.recuweb.com/drupal/eweek.com/2015/04/tesla-s-website-and-twitter-account-hackedbriefly",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
+            "source_url": "http://eweek.com/blogs/security-watch/teslas-website-and-twitter-account-hackedbriefly.html"
+        },
         "threatpost.com/2015/04/assume-every-drupal-7-site-was-compromised-unless-patched-by-oct": {
             "title": "Assume Every Drupal 7 Site Was Compromised Unless Patched By Oct. 15...",
             "snippet": "The maintainers of the Drupal content management system are warning users that any site owners who havent patched a critical vulnerability in Drupal Core disclosed earlier this month should consider their sites to be compromised. The...",
@@ -26,7 +56,7 @@
             "snippet": ", a Drupal hosting review and resource site, today announced the top 10 Drupal web hosting providers for 2015. As is introduced, the providers are WebHostingHub, InMotion Hosting, BlueHost, JustHost, Arvixe, GreenGeeks, iPage, A2Hosting...",
             "date": "2015-04-23",
             "categories": "drupal",
-            "tags": "hosting,today,announced,site,drupal,drupal_web,web,announces",
+            "tags": "hosting,site,drupal,drupal_web,web,announces",
             "recuweb_url": "http://en.recuweb.com/drupal/security.itbusinessnet.com/2015/04/announces-top-10-drupal-web-hosting-providers-for-2015",
             "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
             "source_url": "http://security.itbusinessnet.com/article/DrupalHostsorg-Announces-Top-10-Drupal-Web-Hosting-Providers-for-2015-3862411"
@@ -36,7 +66,7 @@
             "snippet": "Councils in move for joint Drupal content management councils, which already share a number of services, are proposing to procure a hosting provider to run their CMSs on the Drupal platform to power their websites and intranets. The procurement is...",
             "date": "2015-04-22",
             "categories": "management,drupal",
-            "tags": "platform,hosting,content,content-management,management,content-management-system,management-system,system,drupal,services",
+            "tags": "platform,hosting,hosting-provider,provider,content,content-management,management,content-management-system,management-system,system,drupal,services",
             "recuweb_url": "http://en.recuweb.com/drupal/publictechnology.net/2015/04/councils-in-move-for-joint-drupal-content-management-system",
             "resource_url": "http://news.google.com/?hl=en&q=drupal%2Bdrupal&output=atom&nord=1",
             "source_url": "http://publictechnology.net/articles/news/councils-move-joint-drupal-content-management-system"
@@ -46,7 +76,7 @@
             "snippet": "Lets start by creating the new Drupal module. To do that we should first create a folder called likepost in the sitesallmodulescustom directory of your Drupal installation as shown below: Inside this folder, you should create a file called...",
             "date": "2015-04-20",
             "categories": "drupal",
-            "tags": "should,creating,drupal,module",
+            "tags": "should,called,creating,drupal,module",
             "recuweb_url": "http://en.recuweb.com/drupal/sitepoint.com/2015/04/drupal-goes-social-building-a-liking-module-in",
             "resource_url": "http://www.bing.com/news/search?first=1&q=drupal%2Bdrupal&format=RSS&cc=us",
             "source_url": "http://sitepoint.com/drupal-goes-social-building-liking-module-drupal/"
@@ -71,45 +101,15 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=drupal%2Bdrupal&format=RSS&cc=us",
             "source_url": "http://thonline.com/news/technology/article_0035e92e-2d67-5d1f-a253-2452bf3743cf.html"
         },
-        "efytimes.com/2015/04/announces-excellent-drupal-hosting-solution": {
-            "title": "Announces Excellent Drupal Hosting Solution...",
-            "snippet": "Friday, April 17, 2015: was established with the goal to provide high quality hosting services for everyone. They believe that providing high quality services should come at an affordable price. For this reason they have provided...",
-            "date": "2015-04-16",
-            "categories": "drupal",
-            "tags": "should,providing,hosting,announces,drupal,services",
-            "recuweb_url": "http://en.recuweb.com/drupal/efytimes.com/2015/04/announces-excellent-drupal-hosting-solution",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
-            "source_url": "http://efytimes.com/e1/fullnews.asp?edid=164889"
-        },
-        "thestreet.com/2015/04/ftc-orlando-hosts-largest-educational-conference-in-florida-of-drupal-web": {
-            "title": "FTC Orlando Hosts Largest Educational Conference In Florida Of Drupal Web Developers...",
-            "snippet": "ORLANDO, Fla., April 16, 2015/PRNewswire/-- More than 300 web developers from all over the world met at Florida Technical College, Orlando, for two days of learning, networking, and professional advancement during Florida DrupalCamp 2015. The event...",
-            "date": "2015-04-16",
-            "categories": "learning,college,drupal",
-            "tags": "florida,ftc,ftc_orlando,ftc_orlando_hosts,orlando,orlando_hosts,orlando_hosts_largest,hosts,hosts_largest,hosts_largest_educational,largest,largest_educational,largest_educational_conference,educational,educational_conference,conference,drupal,drupal_web,web",
-            "recuweb_url": "http://en.recuweb.com/drupal/thestreet.com/2015/04/ftc-orlando-hosts-largest-educational-conference-in-florida-of-drupal-web",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
-            "source_url": "http://thestreet.com/story/13115162/1/ftc-orlando-hosts-largest-educational-conference-in-florida-of-drupal-web-developers.html"
-        },
         "prnewswire.com/2015/04/ftc-orlando-hosts-largest-educational-conference-in-florida-of-drupal-web": {
             "title": "FTC Orlando Hosts Largest Educational Conference in Florida of Drupal Web... - PR Newswire (press...",
             "snippet": "FTC Orlando Hosts Largest Educational Conference in Florida of Drupal Web...PR Newswire (press release)Drupal is a popular, free content management system. It is used to build everything from personal blogs to a diversity of business applications.",
             "date": "2015-04-16",
             "categories": "business,management,drupal",
-            "tags": "content,content-management,content-management-system,management,management-system,system,popular,release,drupal,drupal_web,web,ftc,ftc_orlando,ftc_orlando_hosts,orlando,orlando_hosts,orlando_hosts_largest,hosts,hosts_largest,hosts_largest_educational,largest,largest_educational,largest_educational_conference,educational,educational_conference,conference,florida",
+            "tags": "content,content-management,content-management-system,management,management-system,system,popular,drupal,drupal_web,web,conference",
             "recuweb_url": "http://en.recuweb.com/drupal/prnewswire.com/2015/04/ftc-orlando-hosts-largest-educational-conference-in-florida-of-drupal-web",
             "resource_url": "http://news.google.com/?hl=en&q=drupal%2Bdrupal&output=atom&nord=1",
             "source_url": "http://prnewswire.com/news-releases/ftc-orlando-hosts-largest-educational-conference-in-florida-of-drupal-web-developers-300067014.html"
-        },
-        "computerworld.com.au/2015/04/govcms-to-release-its-own-drupal-distribution-computerworld-australia": {
-            "title": "govCMS to release its own Drupal distribution - Computerworld Australia...",
-            "snippet": "Computerworld AustraliagovCMS to release its own Drupal distributionComputerworld AustraliaThe government's govCMS project will make its own Drupal distribution publicly available for download, it announced today. The distribution will be a fork of...",
-            "date": "2015-04-16",
-            "categories": "drupal",
-            "tags": "announced,today,release,drupal",
-            "recuweb_url": "http://en.recuweb.com/drupal/computerworld.com.au/2015/04/govcms-to-release-its-own-drupal-distribution-computerworld-australia",
-            "resource_url": "http://news.google.com/?hl=en&q=drupal%2Bdrupal&output=atom&nord=1",
-            "source_url": "http://computerworld.com.au/article/572793/govcms-release-its-own-drupal-distribution/"
         }
     }
 }
