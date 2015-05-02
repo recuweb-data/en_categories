@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "wiki",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/wiki/",
@@ -11,16 +11,38 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/wiki/wiki/blogs.json"
     },
     "items": {
-        "blogs.technet.com/2015/04/who-are-the-top-20-technet-guru-award-winners-wiki-ninjas": {
-            "title": "Who are the Top 20 TechNet Guru Award Winners? - Wiki Ninjas...",
-            "snippet": "Wiki Ninjas is a group of authors who celebrate and evangelize the community catalyst and social-authoring excellence that is called TechNet Wiki. Wiki Ninjas - Categories. Monday - Interview with a Wiki Ninja.",
-            "date": "2015-04-24",
+        "blogs.technet.com/2015/04/interview-with-a-wiki-ninja-yan-grenier-small-basic-and-c": {
+            "title": "Interview with a Wiki Ninja - Yan Grenier: Small Basic and C Expert...",
+            "snippet": "Wiki Comments: 227. Blog Posts: 3. Let's start the interview!. Who are you, where you are and what you do? Hello, my name is Yan Grenier, I am responsible for technology (CTO) of two small companies (which I am a partner...",
+            "date": "2015-04-27",
             "author_name": "Ed Price - MSFT",
+            "categories": "technology,wiki",
+            "tags": "wiki",
+            "recuweb_url": "http://en.recuweb.com/wiki/blogs.technet.com/2015/04/interview-with-a-wiki-ninja-yan-grenier-small-basic-and-c",
+            "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.technet.com/b/wikininjas/archive/2015/04/27/interview-with-a-wiki-ninja-yan-grenier-small-basic-and-c-expert-microsoft-partner-and-french-wiki-ninja-blog-author.aspx"
+        },
+        "enworld.org/2015/04/communities-calendar-and-wiki-en-world": {
+            "title": "Communities: Calendar and Wiki - EN World...",
+            "snippet": "I've set up \"recurring\" events on my community calendar several times now, and the calendar just eats them up and eliminates them. They were weekly events, and two of them, so I would expect to see 6-8 of them in the \"next...",
+            "date": "2015-04-26",
+            "author_name": "DMMike",
+            "categories": "events,wiki",
+            "tags": "community,wiki,world",
+            "recuweb_url": "http://en.recuweb.com/wiki/enworld.org/2015/04/communities-calendar-and-wiki-en-world",
+            "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://enworld.org/forum/showthread.php?445196-Communities-Calendar-and-Wiki"
+        },
+        "blogs.technet.com/2015/04/top-contributors-awards-net-4-5-removing-lingering-objects": {
+            "title": "Top Contributors Awards!.Net 4.5, Removing lingering objects...",
+            "snippet": "Welcome back for another analysis of contributions to TechNet Wiki over the last week. A day late because the crawler is suffering issues again, I can only show some results, and it did not save, so I'll do my best, and add...",
+            "date": "2015-04-26",
+            "author_name": "XAML guy",
             "categories": "wiki",
-            "tags": "wiki,wiki_ninjas,ninjas,group,community",
-            "recuweb_url": "http://en.recuweb.com/wiki/blogs.technet.com/2015/04/who-are-the-top-20-technet-guru-award-winners-wiki-ninjas",
-            "resource_url": "http://www.google.com/search?q=wiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogs.technet.com/b/wikininjas/archive/2015/04/24/who-are-the-top-20-technet-guru-award-winners.aspx"
+            "tags": "only,show,because,wiki,top,welcome,week",
+            "recuweb_url": "http://en.recuweb.com/wiki/blogs.technet.com/2015/04/top-contributors-awards-net-4-5-removing-lingering-objects",
+            "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.technet.com/b/wikininjas/archive/2015/04/26/top-contributors-awards-net-4-5-removing-lingering-objects-gurus-sharepoint-and-sooo-much-mooooore.aspx"
         },
         "markwadsworth.blogspot.com/2015/04/fast-&-furious-show-7": {
             "title": "Fast & Furious Show 7...",
@@ -28,32 +50,10 @@
             "date": "2015-04-23",
             "author_name": "Mark Wadsworth",
             "categories": "wiki",
-            "tags": "team,nick,furious,fast,wiki,into",
+            "tags": "team,into,furious,show,fast,wiki",
             "recuweb_url": "http://en.recuweb.com/wiki/markwadsworth.blogspot.com/2015/04/fast-&-furious-show-7",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=wiki%2Bwiki&rss=1&lng=en",
             "source_url": "http://markwadsworth.blogspot.com/2015/04/fast-furious-show-7.html"
-        },
-        "blogs.technet.com/2015/04/wiki-life-what-does-it-mean-to-be-a-ninja-ninjas": {
-            "title": "Wiki Life - What does it mean to be a Wiki Ninja??? - Wiki Ninjas...",
-            "snippet": "Because being Wiki Ninja? It is difficult to speak of a ninja before knowing its history. With pride I am part of this community since 2008. Seven years go by fast. I remember my first day in the community, everything was very...",
-            "date": "2015-04-22",
-            "author_name": "Hezequias Vasconcelos",
-            "categories": "wiki,life",
-            "tags": "everything,day,community,ing,ninjas,wiki,wiki_ninjas,because,part,fast",
-            "recuweb_url": "http://en.recuweb.com/life/blogs.technet.com/2015/04/wiki-life-what-does-it-mean-to-be-a-ninja-ninjas",
-            "resource_url": "http://www.google.com/search?q=wiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogs.technet.com/b/wikininjas/archive/2015/04/22/wiki-life-because-being-wiki-ninja.aspx"
-        },
-        "scienceblogs.com/2015/04/wikipedia-grant-shapps-stoat-scienceblogs": {
-            "title": "Wikipedia: Grant Shapps Stoat - ScienceBlogs...",
-            "snippet": "By popular request. And I've not seen anyone else wiki-literate discussing this, so I will. the Graun says. Grant Shapps accused of editing Wikipedia pages of Tory rivals. Online encyclopedia administrators block user account...",
-            "date": "2015-04-22",
-            "author_name": "William M. Connolley",
-            "categories": "wiki",
-            "tags": "pages,accused,grant,grant_shapps,shapps,wikipedia,wiki,editing,tory,rivals,online,user",
-            "recuweb_url": "http://en.recuweb.com/wiki/scienceblogs.com/2015/04/wikipedia-grant-shapps-stoat-scienceblogs",
-            "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://scienceblogs.com/stoat/2015/04/22/wikipedia-grant-shapps/"
         },
         "astrobetter.com/2015/04/astrobetter-rumor-mill": {
             "title": "AstroBetter Rumor Mill...",
@@ -61,21 +61,42 @@
             "date": "2015-04-22",
             "author_name": "anonymous",
             "categories": "wiki",
-            "tags": "progress,ing,page,wiki",
+            "tags": "wiki",
             "recuweb_url": "http://en.recuweb.com/wiki/astrobetter.com/2015/04/astrobetter-rumor-mill",
             "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://astrobetter.com/wiki/Rumor+Mill"
         },
-        "gamingbolt.com/2015/04/silence-the-whispered-world-2-wiki-everything-you-need-to-know": {
-            "title": "Silence: The Whispered World 2 Wiki Everything you need to know...",
-            "snippet": "Silence: The Whispered World 2 is an upcoming adventure game and successor to The Whispered World, which launched in 2009 to fair praise and criticism. The game is currently being developed by Daedalic Entertainment,...",
-            "date": "2015-04-21",
-            "author_name": "Martin Toney",
-            "categories": "entertainment,adventure,wiki",
-            "tags": "entertainment,developed,game,upcoming,wiki,wiki_everything,everything,world,currently",
-            "recuweb_url": "http://en.recuweb.com/wiki/gamingbolt.com/2015/04/silence-the-whispered-world-2-wiki-everything-you-need-to-know",
+        "loudwire.com/2015/04/slayer-s-kerry-king-wikipedia-fact-or-fiction-part-1-loudwire": {
+            "title": "Slayer's Kerry King: 'Wikipedia: Fact or Fiction?'(Part 1) - Loudwire...",
+            "snippet": "We were lucky enough to get some time with Slayer shredder Kerry King for a Wiki segment so good, we had to split it into two parts. Kerry King famously pulls no punches, so the original Slayer shredder's take on the band's...",
+            "date": "2015-04-22",
+            "author_name": "Graham 'Gruhamed' Hartmann",
+            "categories": "wiki",
+            "tags": "original,into,part,king,wikipedia,wiki",
+            "recuweb_url": "http://en.recuweb.com/wiki/loudwire.com/2015/04/slayer-s-kerry-king-wikipedia-fact-or-fiction-part-1-loudwire",
             "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://gamingbolt.com/silence-the-whispered-world-2-wiki"
+            "source_url": "http://loudwire.com/slayer-kerry-king-wikipedia-fact-or-fiction-part-1/"
+        },
+        "theguardian.com/2015/04/grant-shapps-accused-of-editing-wikipedia-pages-tory-rivals": {
+            "title": "Grant Shapps accused of editing Wikipedia pages of Tory rivals...",
+            "snippet": "Online encyclopedia administrators block user account believed to be run by Tory party co-chairman or 'someone else... under his clear direction'...",
+            "date": "2015-04-21",
+            "author_name": "Randeep Ramesh Social affairs editor",
+            "tags": "under,someone,chairman,party,grant,grant_shapps,shapps,editing,wikipedia,rivals,user",
+            "recuweb_url": "http://en.recuweb.com/theguardian.com/2015/04/grant-shapps-accused-of-editing-wikipedia-pages-tory-rivals",
+            "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theguardian.com/politics/2015/apr/21/grant-shapps-accused-of-editing-wikipedia-pages-of-tory-rivals"
+        },
+        "avclub.com/2015/04/beware-the-full-moonwikipedia-s-got-werewolves-wiki-wormhole": {
+            "title": "Beware the full moonWikipedia's got werewolves! Wiki Wormhole...",
+            "snippet": "With more than 4.8 million articles, Wikipedia is an invaluable resource, whether you're throwing a term paper together at the last minute, or re-living the fart battle of Japanese lore. We explore some of Wikipedia's oddities in...",
+            "date": "2015-04-20",
+            "author_name": "Mike Vago",
+            "categories": "wiki",
+            "tags": "throwing,throwing-term,throwing-term-paper,term,term-paper,term-paper-together,paper,paper-together,together,minute,whether,invaluable,invaluable-resource,resource,wiki,million,articles,wikipedia",
+            "recuweb_url": "http://en.recuweb.com/wiki/avclub.com/2015/04/beware-the-full-moonwikipedia-s-got-werewolves-wiki-wormhole",
+            "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://avclub.com/article/beware-full-moonwikipedias-got-werewolves-218062"
         },
         "terrelldailyphoto.com/2015/04/wiki-man-triathlon": {
             "title": "Wiki Wiki Man Triathlon...",
@@ -83,43 +104,20 @@
             "date": "2015-04-19",
             "author_name": "Jim Klenke",
             "categories": "wiki,triathlon",
-            "tags": "team,wiki,wiki_man,man,won",
+            "tags": "won,team,wiki",
             "recuweb_url": "http://en.recuweb.com/triathlon/terrelldailyphoto.com/2015/04/wiki-man-triathlon",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=wiki%2Bwiki&rss=1&lng=en",
             "source_url": "http://terrelldailyphoto.com/2015/04/wiki-wiki-man-triathlon.html"
         },
-        "llariley.blogspot.com/2015/04/wiki-dissection-lc-jh": {
-            "title": "Wiki Dissection LC JH...",
-            "snippet": "What is the purpose of this Wiki? This wiki talks about disruptive technology in the classroom. It debates whether some are sustaining or disruptive. When was the last post? June 23, 2010 How was this Wiki created? It was created by setting up an...",
-            "date": "2015-04-16",
-            "author_name": "(Llariley)",
-            "categories": "technology,wiki",
-            "tags": "whether,wiki",
-            "recuweb_url": "http://en.recuweb.com/wiki/llariley.blogspot.com/2015/04/wiki-dissection-lc-jh",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=wiki%2Bwiki&rss=1&lng=en",
-            "source_url": "http://llariley.blogspot.com/2015/04/wiki-dissection-lc-jh.html"
-        },
-        "wpbeginner.com/2015/04/how-to-create-a-wiki-knowledge-base-using-wordpress": {
-            "title": "How to Create a Wiki Knowledge Base using WordPress...",
-            "snippet": "The biggest downside of using any WordPress Wiki & Knowledge Base theme is that you cannot use them on your main site. You have to do the setup on a subdomain or directory because these themes do not really match...",
-            "date": "2015-04-09",
-            "author_name": "Editorial Staff",
-            "categories": "wiki,wordpress",
-            "tags": "because,wiki",
-            "recuweb_url": "http://en.recuweb.com/wordpress/wpbeginner.com/2015/04/how-to-create-a-wiki-knowledge-base-using-wordpress",
-            "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://wpbeginner.com/wp-tutorials/how-to-create-a-wiki-knowledge-base-using-wordpress/"
-        },
-        "avclub.com/2015/04/see-wikipedia-s-list-of-the-last-survivors-historic-events-wiki": {
-            "title": "See Wikipedia's list of the last survivors of historic events Wiki...",
-            "snippet": "With more than 4.7 million articles, Wikipedia is an invaluable resource, whether you're throwing a term paper together at the last minute, or checking out the terrific Lewis and Clark 10 bill we missed in the dollar bill entry a...",
-            "date": "2015-04-06",
-            "author_name": "Mike Vago",
-            "categories": "events,wiki",
-            "tags": "entry,whether,wikipedia,wiki",
-            "recuweb_url": "http://en.recuweb.com/wiki/avclub.com/2015/04/see-wikipedia-s-list-of-the-last-survivors-historic-events-wiki",
-            "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://avclub.com/article/see-wikipedias-list-last-survivors-historic-events-217223"
+        "reddit.com/2015/04/ysk-about-pc-gaming-wiki-a-user-curated-collection-of-wikipedia": {
+            "title": "YSK about PC Gaming Wiki, a user curated collection of Wikipedia-style articles collecting fixes...",
+            "snippet": "PC Gaming Wiki is a user curated collection of Wikipedia-style articles collecting fixes and improvement hacks for PC games. I can't remember the last time I had to Google a problem I'm having with a game. The fix is always up there already. It's...",
+            "date": "2015-04-05",
+            "categories": "collecting,wiki,google",
+            "tags": "articles,gaming,wiki,user,wikipedia",
+            "recuweb_url": "http://en.recuweb.com/google/reddit.com/2015/04/ysk-about-pc-gaming-wiki-a-user-curated-collection-of-wikipedia",
+            "resource_url": "http://www.reddit.com/search.rss?q=wiki%2Bwiki&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/YouShouldKnow/comments/31hcae/ysk_about_pc_gaming_wiki_a_user_curated/"
         }
     }
 }
