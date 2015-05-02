@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "real-estate",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/real-estate/",
@@ -11,13 +11,25 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/real-estate/real-estate/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/real-estate-101": {
+            "title": "Real Estate 101...",
+            "snippet": "Gennady Barsky talks about the fundamentals of real estate business and teaches you how to start pursuing a career in real estate!Author: gennadybarskyTags: gennady barsky real estate Posted: 27 April 2015Rating:: 0...",
+            "date": "2015-04-27",
+            "author_name": "gennadybarsky",
+            "categories": "real-estate,business",
+            "tags": "gennady,gennady_barsky,gennady-barsky-real,barsky,barsky-real,barsky-real-estate,real,real_estate,estate,gennadybarskytags",
+            "recuweb_url": "http://en.recuweb.com/business/dailymotion.com/2015/04/real-estate-101",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/real+estate/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2o6pa9_real-estate-101_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o6pa9_real-estate-101_lifestyle"
+        },
         "dailymotion.com/2015/04/homeless-real-estate-agent": {
             "title": "Homeless real estate agent...",
             "snippet": "Homeless real estate agentAuthor: JaquanNickTags: Homeless real estate agent Posted: 26 April 2015Rating:: 0...",
             "date": "2015-04-26",
             "author_name": "JaquanNick",
             "categories": "real-estate",
-            "tags": "real,real-estate,estate,agent",
+            "tags": "real,real-estate,estate",
             "recuweb_url": "http://en.recuweb.com/real-estate/dailymotion.com/2015/04/homeless-real-estate-agent",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/real+estate/0?af=1",
             "source_url": "http://dailymotion.com/video/x2o1zf0_homeless-real-estate-agent_lifestyle",
@@ -29,7 +41,7 @@
             "date": "2015-04-26",
             "author_name": "ScottThames",
             "categories": "real-estate",
-            "tags": "investing,real,real_estate,real_estate_investingauthor,estate,estate_investingauthor,investingauthor,real_estate_investing,estate_investing,real_estate_investments,estate_investments,investments",
+            "tags": "real,real_estate,estate",
             "recuweb_url": "http://en.recuweb.com/real-estate/dailymotion.com/2015/04/how-to-value-real-estate-investments-much-is-my-house-worth",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/real+estate+real+estate/0?af=1",
             "source_url": "http://dailymotion.com/video/x2nzrnh_how-to-value-real-estate-investments-how-much-is-my-house-worth-real-estate-investing_lifestyle",
@@ -41,7 +53,7 @@
             "date": "2015-04-16",
             "author_name": "gennadybarsky",
             "categories": "real-estate,education",
-            "tags": "gennady,gennady_barsky,barsky,real,real_estate,estate,education,learn",
+            "tags": "gennady,gennady_barsky,gennady-barsky-real,barsky,barsky-real,barsky-real-estate,real,real_estate,estate,learn,gennadybarskytags",
             "recuweb_url": "http://en.recuweb.com/education/dailymotion.com/2015/04/real-estate-training-with-gennady-barsky",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/real+estate/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mw2o0_real-estate-training-with-gennady-barsky_lifestyle",
@@ -53,7 +65,7 @@
             "date": "2015-04-15",
             "author_name": "steppingstones",
             "categories": "property,real-estate",
-            "tags": "real,real_estate,estate,real-estate-properties,estate-properties,properties,guide",
+            "tags": "commercial,real,real_estate,estate,real-estate-properties,estate-properties,properties",
             "recuweb_url": "http://en.recuweb.com/real-estate/dailymotion.com/2015/04/how-to-earn-in-real-estate",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/real+estate/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mffr0_how-to-earn-in-real-estate_lifestyle",
@@ -77,23 +89,11 @@
             "date": "2015-04-13",
             "author_name": "nealestristan",
             "categories": "real-estate",
-            "tags": "real,real_estate,real-estate-properties,estate,estate-properties,properties,learn",
+            "tags": "real,real_estate,real-estate-properties,estate,estate-properties,properties,learn,here",
             "recuweb_url": "http://en.recuweb.com/real-estate/dailymotion.com/2015/04/eric-blackwell-real-estate",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/real+estate/0?af=1",
             "source_url": "http://dailymotion.com/video/x2miwvz_eric-blackwell-real-estate_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2miwvz_eric-blackwell-real-estate_lifestyle"
-        },
-        "dailymotion.com/2015/04/should-i-have-an-llc-or-c-corp-for-my-real": {
-            "title": "Should I Have An LLC or C Corp For My Real Estate Investments? - Real Estate Investing...",
-            "snippet": "Should I Have An LLC or C Corp For My Real Estate Investments? - Real Estate InvestingAuthor: BlaiseLarkTags: Should I Have An LLC or C Corp For My Real Estate Investments - Investing Posted: 10 April 2015Rating:: 0...",
-            "date": "2015-04-10",
-            "author_name": "BlaiseLark",
-            "categories": "real-estate",
-            "tags": "real,real_estate,real_estate_investingauthor,estate,estate_investingauthor,investingauthor,real_estate_investing,estate_investing,investing,real_estate_investments,estate_investments,investments",
-            "recuweb_url": "http://en.recuweb.com/real-estate/dailymotion.com/2015/04/should-i-have-an-llc-or-c-corp-for-my-real",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/real+estate+real+estate/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2m9bns_should-i-have-an-llc-or-c-corp-for-my-real-estate-investments-real-estate-investing_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2m9bns_should-i-have-an-llc-or-c-corp-for-my-real-estate-investments-real-estate-investing_lifestyle"
         },
         "youtube.com/2015/04/jay-estate-morrison-speaks-on-his-life-transformation-at-rutgers-university": {
             "title": "Jay \" Estate\" Morrison Speaks on His Life Transformation at Rutgers University...",
@@ -101,35 +101,35 @@
             "date": "2015-04-03",
             "author_name": "JayMrRealEstate",
             "categories": "life,university",
-            "tags": "visit,real,estate",
+            "tags": "real,estate",
             "recuweb_url": "http://en.recuweb.com/university/youtube.com/2015/04/jay-estate-morrison-speaks-on-his-life-transformation-at-rutgers-university",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=real%2Bestate%2Breal%2Bestate&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=3AwBxkTy6tI&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/3AwBxkTy6tI/0.jpg"
         },
-        "youtube.com/2015/03/milionaire-real-estate-agent-audiobook-part-1": {
-            "title": "Milionaire Real Estate Agent audiobook part 1...",
-            "snippet": "Milionaire Real Estate Agent audiobook part 1 From: Nekretnine Kragujevac Views: 407 3 ratings Time: 06:16:27 More in Education...",
-            "date": "2015-03-28",
-            "author_name": "Nekretnine Kragujevac",
-            "categories": "real-estate,education",
-            "tags": "real,real_estate,estate,agent,education",
-            "recuweb_url": "http://en.recuweb.com/education/youtube.com/2015/03/milionaire-real-estate-agent-audiobook-part-1",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=real%2Bestate&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=1ERl_tpRom4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/1ERl_tpRom4/0.jpg"
-        },
-        "dailymotion.com/2015/03/charleston-sc-real-estate": {
-            "title": "Charleston SC Real Estate...",
-            "snippet": "Visit this site for more information on charleston sc real estate. If you are planning to buy a beautiful home in charleston then the best way to do that is to hire a Charleston SC Real Estate Agent who will help you guide through the process of...",
-            "date": "2015-03-25",
-            "author_name": "CharlestonSc_RealEstate",
-            "categories": "home,real-estate",
-            "tags": "agent,guide,real,real_estate,estate,visit",
-            "recuweb_url": "http://en.recuweb.com/real-estate/dailymotion.com/2015/03/charleston-sc-real-estate",
+        "dailymotion.com/2015/04/marketing-strategies-for-real-estate-investors": {
+            "title": "Marketing Strategies for Real Estate Investors...",
+            "snippet": "Marketing Strategies for Real Estate InvestorsAuthor: KrystleCasillasTags: Marketing Strategies for Real Estate Investors Posted: 03 April 2015Rating:: 0...",
+            "date": "2015-04-03",
+            "author_name": "KrystleCasillas",
+            "categories": "real-estate,marketing",
+            "tags": "real,real_estate,estate",
+            "recuweb_url": "http://en.recuweb.com/marketing/dailymotion.com/2015/04/marketing-strategies-for-real-estate-investors",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/real+estate/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2kj0bj_charleston-sc-real-estate_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2kj0bj_charleston-sc-real-estate_lifestyle"
+            "source_url": "http://dailymotion.com/video/x2lojf5_marketing-strategies-for-real-estate-investors_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lojf5_marketing-strategies-for-real-estate-investors_lifestyle"
+        },
+        "dailymotion.com/2015/04/real-estate-projects-in-greater-noida": {
+            "title": "Real Estate Projects in Greater Noida...",
+            "snippet": "There are lots of new upcoming real estate projects in greater noida, if you are interested in buy 1/2/3/4 bhk flats in Greater Noida? Then this is the right place for you. Here you can find lots of residential and commercial project at prime...",
+            "date": "2015-04-01",
+            "author_name": "jkminfrastructur01",
+            "categories": "real-estate",
+            "tags": "commercial,real,real_estate,estate,here",
+            "recuweb_url": "http://en.recuweb.com/real-estate/dailymotion.com/2015/04/real-estate-projects-in-greater-noida",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/real+estate/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2le890_real-estate-projects-in-greater-noida_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2le890_real-estate-projects-in-greater-noida_lifestyle"
         }
     }
 }
