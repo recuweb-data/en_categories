@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mental-health-law",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/mental-health-law/",
@@ -11,16 +11,49 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/mental-health-law/mental-health-law/blogs.json"
     },
     "items": {
-        "lawprofessors.typepad.com/2015/04/offering-sessions-on-mental-health-in-the-practice-of-law": {
-            "title": "Offering Sessions on Mental Health in the Practice of Law...",
-            "snippet": "\"The program will discuss the statistics of depression and suicide in the legal profession, the effects of mental illness and what this may look like, how lawyer stress might contribute to depression and anxiety, the causes and...",
-            "date": "2015-04-12",
-            "author_name": "Katherine C. Pearson, Penn State Dickinson Law",
-            "categories": "mental-health,health,law",
-            "tags": "depression,anxiety,effects,program,suicide,legal,mental,mental_health,health,law",
-            "recuweb_url": "http://en.recuweb.com/law/lawprofessors.typepad.com/2015/04/offering-sessions-on-mental-health-in-the-practice-of-law",
+        "ehln.org/2015/04/headspace-mcdonaldisation-of-youth-mental-healthcare-a-ticking": {
+            "title": "Headspace: 'McDonaldisation'of youth mental healthcare a ticking...",
+            "snippet": "Ethics & Health Law News. Stay updated with the latest news and journal articles on health law & ethics. Search... Leading mental health experts have called on the Prime Minister to urgently address what they say is an unfolding disaster within...",
+            "date": "2015-04-26",
+            "author_name": "Lorena Aparicio",
+            "categories": "ethics,health,law",
+            "tags": "disaster,experts,journal,articles,health,health_law,law,mental",
+            "recuweb_url": "http://en.recuweb.com/law/ehln.org/2015/04/headspace-mcdonaldisation-of-youth-mental-healthcare-a-ticking",
+            "resource_url": "http://www.google.com/search?q=mental%2Bhealth%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ehln.org/?p=36625"
+        },
+        "mhlcwa.org.au/2015/04/law-week-2015-inquizition-presented-by-mhlc-mental-health": {
+            "title": "Law Week 2015 InQUIZition presented by MHLC Mental Health...",
+            "snippet": "Law Week 2015 InQUIZition presented by MHLC. The Mental Health Law Centre is holding the InQUIZition quiz event for Law Week 2015. 14 May 2015 at the Grosvenor Hotel from 5pm -7pm. Prizes available. Please book...",
+            "date": "2015-04-24",
+            "author_name": "Pip Hill",
+            "categories": "mental-health,mental-health-law,health,law",
+            "tags": "mental,mental_health,mental_health_law,health,health_law,law,available",
+            "recuweb_url": "http://en.recuweb.com/law/mhlcwa.org.au/2015/04/law-week-2015-inquizition-presented-by-mhlc-mental-health",
             "resource_url": "http://www.google.com/search?q=mental%2Bhealth%2Blaw%2Bmental%2Bhealth%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://lawprofessors.typepad.com/elder_law/2015/04/a-trend-in-cles-offering-sessions-on-mental-health-in-the-practice-of-law.html"
+            "source_url": "http://mhlcwa.org.au/events/law-week-2015-inquizition-presented-by-mhlc/"
+        },
+        "blogs.wsj.com/2015/04/states-struggle-to-provide-mental-health-treatment-for-defendants": {
+            "title": "States Struggle to Provide Mental-Health Treatment for Defendants...",
+            "snippet": "W. Lawrence Fitch, a law professor at University of Maryland who wrote the report for the National Association of State Mental Health Program Directors, attributed the increase in part to lawyers and courts improperly...",
+            "date": "2015-04-20",
+            "author_name": "Jacob Gershman",
+            "categories": "mental-health,health,law,university",
+            "tags": "part,lawyers,mental,mental_health,mental_health_program,health,health_program,program,report,professor,treatment,law",
+            "recuweb_url": "http://en.recuweb.com/university/blogs.wsj.com/2015/04/states-struggle-to-provide-mental-health-treatment-for-defendants",
+            "resource_url": "http://www.google.com/search?q=mental%2Bhealth%2Blaw%2Bmental%2Bhealth%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.wsj.com/law/2015/04/20/states-struggle-to-provide-mental-health-treatment-for-defendants/"
+        },
+        "agicriminalsolicitors.co.uk/2015/04/mental-health-law-agi-criminal-solicitors": {
+            "title": "Mental Health Law - AGI Criminal Solicitors...",
+            "snippet": "Our solicitors advise people who are detained under the Mental Health Act 1983, and represent people at Mental Health Tribunal hearings and Hospital Managers'meetings. AGI Criminal Solicitors hold a contract with the Legal Aid Agency to...",
+            "date": "2015-04-16",
+            "author_name": "AGI Admin",
+            "categories": "mental-health,health,mental-health-law,law",
+            "tags": "legal,aid,mental,mental_health,health,mental_health_act,health_act,act,criminal,mental_health_law,health_law,law,people",
+            "recuweb_url": "http://en.recuweb.com/law/agicriminalsolicitors.co.uk/2015/04/mental-health-law-agi-criminal-solicitors",
+            "resource_url": "http://www.google.com/search?q=mental%2Bhealth%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://agicriminalsolicitors.co.uk/mental-health-law/"
         },
         "federalregister.gov/2015/04/mental-health-parity-and-addiction-equity-act-of-federal-register": {
             "title": "Mental Health Parity and Addiction Equity Act of... - Federal Register...",
@@ -28,21 +61,10 @@
             "date": "2015-04-10",
             "author_name": "Health and Human Services Department",
             "categories": "health,insurance,mental-health",
-            "tags": "care,requirements,health,federal,act,mental,mental_health,children",
+            "tags": "requirements,health,act,mental,mental_health,children",
             "recuweb_url": "http://en.recuweb.com/mental-health/federalregister.gov/2015/04/mental-health-parity-and-addiction-equity-act-of-federal-register",
             "resource_url": "http://www.google.com/search?q=mental%2Bhealth%2Blaw%2Bmental%2Bhealth%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://federalregister.gov/articles/2015/04/10/2015-08135/medicaid-and-childrens-health-insurance-programs-mental-health-parity-and-addiction-equity-act-of"
-        },
-        "blogs.orrick.com/2015/04/airline-tragedy-prompts-renewed-discussion-on-employment": {
-            "title": "Airline Tragedy Prompts Renewed Discussion on Employment...",
-            "snippet": "Given that various federal and state laws limit the availability of employment-related mental health screenings, employers must balance concerns about public and workplace safety against an employee's right to medical...",
-            "date": "2015-04-07",
-            "author_name": "Jill Rosenberg",
-            "categories": "workplace,employment,health",
-            "tags": "concerns,public,federal,state,given,mental,health",
-            "recuweb_url": "http://en.recuweb.com/health/blogs.orrick.com/2015/04/airline-tragedy-prompts-renewed-discussion-on-employment",
-            "resource_url": "http://www.google.com/search?q=mental%2Bhealth%2Blaw%2Bmental%2Bhealth%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogs.orrick.com/employment/2015/04/07/airline-tragedy-prompts-renewed-discussion-on-employment-inquiries-into-mental-health/"
         },
         "baltimore.cbslocal.com/2015/03/delegates-to-consider-mental-health-units-in-law-enforcement": {
             "title": "Delegates To Consider Mental Health Units In Law Enforcement...",
@@ -50,7 +72,7 @@
             "date": "2015-03-20",
             "author_name": "cbssonia",
             "categories": "mental-health,health,law",
-            "tags": "bill,program,police,mental,mental_health,health,law",
+            "tags": "bill,program,mental,mental_health,health,law,enforcement,police",
             "recuweb_url": "http://en.recuweb.com/law/baltimore.cbslocal.com/2015/03/delegates-to-consider-mental-health-units-in-law-enforcement",
             "resource_url": "http://www.google.com/search?q=mental%2Bhealth%2Blaw%2Bmental%2Bhealth%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://baltimore.cbslocal.com/2015/03/20/delegates-to-consider-mental-health-units-in-law-enforcement/"
@@ -61,17 +83,28 @@
             "date": "2015-03-12",
             "author_name": "unknown",
             "categories": "mental-health,health",
-            "tags": "individuals,effects,president,mental,mental_health,health,health_services,services,act",
+            "tags": "individuals,report,mental,mental_health,health,services,act",
             "recuweb_url": "http://en.recuweb.com/health/californiahealthline.org/2015/03/report-details-effects-of-calif-s-mental-health-services-act",
             "resource_url": "http://www.google.com/search?q=mental%2Bhealth%2Blaw%2Bmental%2Bhealth%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://californiahealthline.org/articles/2015/3/12/report-details-effects-of-califs-mental-health-services-act"
+        },
+        "capitolrecord.org/2015/03/sheena-and-chris-henderson-law-other-mental-health-bills-pass": {
+            "title": "Sheena and Chris Henderson Law, other mental health bills, pass...",
+            "snippet": "The House passed six mental health bills off the floor Monday, including the Sheena and Chris Henderson Law. HB 1448 would allow officers responding to a threat of suicide to refer the person to a designated mental health...",
+            "date": "2015-03-09",
+            "author_name": "Venice Buhain",
+            "categories": "law,health",
+            "tags": "officers,person,law,mental,health",
+            "recuweb_url": "http://en.recuweb.com/health/capitolrecord.org/2015/03/sheena-and-chris-henderson-law-other-mental-health-bills-pass",
+            "resource_url": "http://www.google.com/search?q=mental%2Bhealth%2Blaw%2Bmental%2Bhealth%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://capitolrecord.org/2015/03/sheena-and-chris-henderson-law-other-mental-health-bills-pass-house/"
         },
         "reddit.com/2015/03/law-school-&-mental-health": {
             "title": "Law school & mental health...",
             "snippet": "I'm a 2L and I've enjoyed law school for the most part. Over the past year though, I've really been struggling with not feeling like myself (decreased energy, disrupted sleep patterns, shorter fuse, increasingly isolated myself, etc.) I decided to...",
             "date": "2015-03-02",
             "categories": "school,law,health",
-            "tags": "school,part,law,mental,health",
+            "tags": "part,law,mental,health",
             "recuweb_url": "http://en.recuweb.com/health/reddit.com/2015/03/law-school-&-mental-health",
             "resource_url": "http://www.reddit.com/search.rss?q=mental%2Bhealth%2Blaw%2Bmental%2Bhealth%2Blaw&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/LawSchool/comments/2xpqg7/law_school_mental_health/"
@@ -82,43 +115,10 @@
             "date": "2015-02-23",
             "author_name": "Lucy Series",
             "categories": "places,mental-health,mental-health-law,health,law",
-            "tags": "mental,mental_health,health,law",
+            "tags": "available,general,mental,mental_health,mental_health_law,health,health_law,law",
             "recuweb_url": "http://en.recuweb.com/law/thesmallplaces.wordpress.com/2015/02/mental-health-law-online-annual-review-2014-the-small-places",
             "resource_url": "http://www.google.com/search?q=mental%2Bhealth%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://thesmallplaces.wordpress.com/2015/02/23/mental-health-law-online-annual-review-2014/"
-        },
-        "spamdagamtarotjuncversgulfman1973.wordpress.com/2015/02/mental-health-law-essay": {
-            "title": "mental health law essay...",
-            "snippet": "Click to continue essay michael jordan biography mental health law essay essay about school life versus university life essay on birds in urdu language a model citizen essay short essay...",
-            "date": "2015-02-14",
-            "author_name": "spamdagamtarotjuncversgulfman1973",
-            "categories": "school,life,university,health,law",
-            "tags": "school,mental,health,law",
-            "recuweb_url": "http://en.recuweb.com/law/spamdagamtarotjuncversgulfman1973.wordpress.com/2015/02/mental-health-law-essay",
-            "resource_url": "http://en.search.wordpress.com/?q=mental%2Bhealth%2Blaw%2Bmental%2Bhealth%2Blaw&f=feed&page=1",
-            "source_url": "http://spamdagamtarotjuncversgulfman1973.wordpress.com/2015/02/14/mental-health-law-essay/"
-        },
-        "alert.psychnews.org/2015/02/president-obama-signs-key-veterans-mental-healthlaw": {
-            "title": "President Obama Signs Key Veterans'Mental HealthLaw...",
-            "snippet": "President Barack Obama today signed into law the Clay Hunt Suicide Prevention for American Veterans (SAV) Act, intended to reduce suicide and improve access to mental health care for veterans. The bill had been passed...",
-            "date": "2015-02-12",
-            "author_name": "noreply@blogger.com (Psychiatric News Alert)",
-            "categories": "prevention,law,health",
-            "tags": "bill,suicide,prevention,into,president,mental,law,act,health,care",
-            "recuweb_url": "http://en.recuweb.com/health/alert.psychnews.org/2015/02/president-obama-signs-key-veterans-mental-healthlaw",
-            "resource_url": "http://www.google.com/search?q=mental%2Bhealth%2Blaw%2Bmental%2Bhealth%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://alert.psychnews.org/2015/02/president-obama-signs-key-veterans.html"
-        },
-        "capitolrecord.org/2015/01/sheena-s-law-other-mental-health-bills-get-hearing-in-house": {
-            "title": "Sheena's Law, other mental health bills get hearing in House...",
-            "snippet": "Kristen Otoupalik of Spokane said if her friend Christopher Henderson's suicide threat history could have been recorded by mental health professionals and police, courts might have been able to force him into getting help...",
-            "date": "2015-01-28",
-            "author_name": "Venice Buhain",
-            "categories": "law,health",
-            "tags": "courts,able,force,into,help,police,suicide,law,mental,health",
-            "recuweb_url": "http://en.recuweb.com/health/capitolrecord.org/2015/01/sheena-s-law-other-mental-health-bills-get-hearing-in-house",
-            "resource_url": "http://www.google.com/search?q=mental%2Bhealth%2Blaw%2Bmental%2Bhealth%2Blaw&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://capitolrecord.org/2015/01/sheenas-law-other-mental-health-bills-get-hearing-in-house/"
         }
     }
 }
