@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mysql",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/mysql/",
@@ -11,27 +11,104 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
     },
     "items": {
+        "stackoverflow.com/2015/04/can-t-commit-mysql-query-from-python-stack-overflow": {
+            "title": "Can't commit mysql query from Python - Stack Overflow...",
+            "snippet": "From this question: MySQL not updating after calling () with Flask (WORKING). In the third last line of your code, change it from cursor=().cursor() to cursor=(). This will ensure that the...",
+            "date": "2015-04-30",
+            "author_name": "Simon Brix",
+            "categories": "mysql",
+            "tags": "updating,stack,mysql",
+            "recuweb_url": "http://en.recuweb.com/mysql/stackoverflow.com/2015/04/can-t-commit-mysql-query-from-python-stack-overflow",
+            "resource_url": "http://www.google.com/search?q=mysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/29976867/cant-commit-mysql-query-from-python"
+        },
+        "java.dzone.com/2015/04/diagnosing-sst-errors-with-percona-xtradb-cluster-for-mysql": {
+            "title": "Diagnosing SST Errors with Percona XtraDB Cluster for MySQL...",
+            "snippet": "I specialise MySQL Server performance as well as in performance of application stacks using MySQL, especially LAMP. Web sites handling millions of visitors a day dealing with terabytes of data and hundreds of servers is...",
+            "date": "2015-04-27",
+            "author_name": "PeterZaitsev",
+            "categories": "mysql",
+            "tags": "servers,server,application,cluster,mysql,performance,using,lamp,web,data",
+            "recuweb_url": "http://en.recuweb.com/mysql/java.dzone.com/2015/04/diagnosing-sst-errors-with-percona-xtradb-cluster-for-mysql",
+            "resource_url": "http://www.google.com/search?q=mysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://java.dzone.com/articles/diagnosing-sst-errors-percona"
+        },
+        "javaguru.fi/2015/04/monitoring-mariadb-mysql-with-new-relic-javaguru": {
+            "title": "Monitoring MariaDB/MySQL with New Relic - Javaguru...",
+            "snippet": "Monitoring MariaDB/MySQL with New Relic. In order to size your system correctly you need metrics and you need those also from your database. Not only is it important to know what's happening in your database for capacity...",
+            "date": "2015-04-27",
+            "author_name": "Mika Koivisto",
+            "categories": "mysql,database",
+            "tags": "only,mysql,database",
+            "recuweb_url": "http://en.recuweb.com/database/javaguru.fi/2015/04/monitoring-mariadb-mysql-with-new-relic-javaguru",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://javaguru.fi/monitoring-mariadb-mysql-new-relic.html"
+        },
+        "mysqlworkbench.org/2015/04/mysql-workbench-ga-has-been-released": {
+            "title": "MySQL Workbench GA has been released...",
+            "snippet": "MySQL Workbench GA has been released. April 24, 2015 3:36 pm by MySQL Release Team. Dear MySQL users,. The MySQL developer tools team announces as our GA release for MySQL Workbench 6.3. For the full list of...",
+            "date": "2015-04-24",
+            "author_name": "MySQL Release Team",
+            "categories": "mysql",
+            "tags": "team,mysql,released,mysql_workbench,workbench",
+            "recuweb_url": "http://en.recuweb.com/mysql/mysqlworkbench.org/2015/04/mysql-workbench-ga-has-been-released",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://mysqlworkbench.org/2015/04/mysql-workbench-6-3-3-ga-has-been-released/"
+        },
+        "mysqlserverteam.com/2015/04/mysql-enterprise-database-firewall-control-and-monitor-sql": {
+            "title": "MySQL Enterprise Database Firewall Control and Monitor SQL...",
+            "snippet": "As of MySQL, MySQL Enterprise Edition includes MySQL Enterprise Firewall, an application-level firewall (it runs within the mysql database process) that enables database administrators to permit or deny SQL...",
+            "date": "2015-04-23",
+            "author_name": "Tony Darnell",
+            "categories": "mysql,database",
+            "tags": "within,level,application,enterprise,sql,mysql,database",
+            "recuweb_url": "http://en.recuweb.com/database/mysqlserverteam.com/2015/04/mysql-enterprise-database-firewall-control-and-monitor-sql",
+            "resource_url": "http://www.google.com/search?q=mysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://mysqlserverteam.com/mysql-enterprise-edition-database-firewall-control-and-monitor-sql-statement-executions/"
+        },
+        "mysqlserverteam.com/2015/04/ssl-tls-and-rsa-improvements-for-openssl-linked-mysql-5-7": {
+            "title": "SSL/TLS and RSA Improvements for OpenSSL Linked MySQL 5.7...",
+            "snippet": "What? MySQL 5.7 server binaries compiled with the OpenSSL library now make it easy to set up SSL/TLS and RSA artifacts, and to enable them within MySQL. Two new read-only global options have been introduced through...",
+            "date": "2015-04-21",
+            "author_name": "Harin Vadodaria",
+            "categories": "mysql",
+            "tags": "only,enable,within,server,ssl,tls,mysql",
+            "recuweb_url": "http://en.recuweb.com/mysql/mysqlserverteam.com/2015/04/ssl-tls-and-rsa-improvements-for-openssl-linked-mysql-5-7",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://mysqlserverteam.com/ssltls-and-rsa-improvements-for-openssl-linked-mysql-5-7-binaries/"
+        },
+        "ubuntu.com/2015/04/usn-2575-1-mysql-vulnerabilities-ubuntu": {
+            "title": "USN-2575-1: MySQL vulnerabilities Ubuntu...",
+            "snippet": "Multiple security issues were discovered in MySQL and this update includes a new upstream MySQL version to fix these issues. MySQL has been updated to. In addition to security fixes, the updated packages contain...",
+            "date": "2015-04-21",
+            "author_name": "unknown",
+            "categories": "mysql",
+            "tags": "packages,version,mysql,security",
+            "recuweb_url": "http://en.recuweb.com/mysql/ubuntu.com/2015/04/usn-2575-1-mysql-vulnerabilities-ubuntu",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ubuntu.com/usn/usn-2575-1/"
+        },
+        "linux.com/2015/04/upgrade-mysql-version-on-linux-server": {
+            "title": "upgrade mysql version on linux server...",
+            "snippet": "You can upgrade your mysql version from 5.0 to 5.5 by using following steps. 1. Enable remi repository for yum. wget...",
+            "date": "2015-04-21",
+            "author_name": "rishikesh vispute",
+            "categories": "mysql",
+            "tags": "version,linux,server,mysql,using,enable",
+            "recuweb_url": "http://en.recuweb.com/mysql/linux.com/2015/04/upgrade-mysql-version-on-linux-server",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://linux.com/community/blogs/129-servers/824859-upgrade-mysql-version-on-linux-server"
+        },
         "mesosphere.com/2015/04/mysql-on-mesos-today-s-database-meets-tomorrow-datacenter": {
             "title": "MySQL on Mesos: today's database meets tomorrow's datacenter...",
             "snippet": "In case you missed it on Thursday, Twitter released some details of its large MySQL implementation and a proposal for a new Apache Software Foundation project called Mysos. As the pormanteau suggests, Mysos is a...",
             "date": "2015-04-17",
             "author_name": "ExplodingAds.com",
             "categories": "mysql,database,twitter",
-            "tags": "software,released,mysql,today,database,twitter",
+            "tags": "called,apache,software,released,case,mysql,database",
             "recuweb_url": "http://en.recuweb.com/twitter/mesosphere.com/2015/04/mysql-on-mesos-today-s-database-meets-tomorrow-datacenter",
             "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://mesosphere.com/blog/2015/04/17/mysql-on-mesos-todays-database-meets-tomorrows-datacenter/"
-        },
-        "blog.mclaughlinsoftware.com/2015/04/how-to-write-java-mysql-linux-programs-maclochlainns-weblog": {
-            "title": "How to write Java-MySQL Linux Programs - MacLochlainns Weblog...",
-            "snippet": "It turns out that configuring Perl wasn't the last step for my student instance. It appears that I neglected to configure my student instance to support Java connectivity to MySQL. This post reviews the configuration of Java to run...",
-            "date": "2015-04-17",
-            "author_name": "maclochlainn",
-            "categories": "mysql,java,perl",
-            "tags": "configure,support,configuring,mysql,java,run",
-            "recuweb_url": "http://en.recuweb.com/perl/blog.mclaughlinsoftware.com/2015/04/how-to-write-java-mysql-linux-programs-maclochlainns-weblog",
-            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.mclaughlinsoftware.com/2015/04/17/java-mysql-program/"
         },
         "blogs.vmware.com/2015/04/introducing-vmware-continuent-4-0-mysql-clustering-and-real": {
             "title": "Introducing VMware Continuent 4.0 MySQL Clustering and Real...",
@@ -39,87 +116,10 @@
             "date": "2015-04-17",
             "author_name": "vCloud Team",
             "categories": "pleasure,mysql",
-            "tags": "data,replication,mysql,introducing",
+            "tags": "availability,mysql,real,data",
             "recuweb_url": "http://en.recuweb.com/mysql/blogs.vmware.com/2015/04/introducing-vmware-continuent-4-0-mysql-clustering-and-real",
             "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.vmware.com/vcloud/2015/04/introducing-vmware-continuent-4-0-mysql-clustering-and-real-time-replication-to-data-warehouses.html"
-        },
-        "clusterdb.com/2015/04/mysql-cluster-7-4-new-features-webinar-replay-andrew-morgan": {
-            "title": "MySQL Cluster 7.4 New Features Webinar Replay Andrew Morgan...",
-            "snippet": "I recently hosted a webinar introducing MySQL Cluster and then looking into what's new in the latest version (MySQL Cluster 7.4) in some more detail. The replay of the MySQL Cluster 7.4 webinar is now available here.",
-            "date": "2015-04-16",
-            "author_name": "andrew",
-            "categories": "mysql",
-            "tags": "here,into,introducing,mysql",
-            "recuweb_url": "http://en.recuweb.com/mysql/clusterdb.com/2015/04/mysql-cluster-7-4-new-features-webinar-replay-andrew-morgan",
-            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://clusterdb.com/mysql-cluster/mysql-cluster-7-4-new-features-webinar-replay"
-        },
-        "javacodegeeks.com/2015/04/docker-mysql-persistence-java-code-geeks": {
-            "title": "Docker MySQL Persistence Java Code Geeks...",
-            "snippet": "One of the recipes in 9 Docker recipes for Java developers is using MySQL container with WildFly. Docker containers are ephemeral, and so any state stored in them is gone after they are terminated and removed. So even...",
-            "date": "2015-04-16",
-            "author_name": "unknown",
-            "categories": "mysql,java",
-            "tags": "gone,mysql,java,code,using",
-            "recuweb_url": "http://en.recuweb.com/java/javacodegeeks.com/2015/04/docker-mysql-persistence-java-code-geeks",
-            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://javacodegeeks.com/2015/04/docker-mysql-persistence.html"
-        },
-        "securityweek.com/2015/04/oracle-security-update-contains-critical-patches-for-mysql-java-se": {
-            "title": "Oracle Security Update Contains Critical Patches for MySQL, Java SE...",
-            "snippet": "Oracle released a security update with a whopping 98 fixes, including 17 for Oracle Fusion Middleware and 26 for Oracle MySQL. The fixes arrived on Tuesday the same day as a bevy of patches from Microsoft and Adobe...",
-            "date": "2015-04-15",
-            "author_name": "Brian Prince",
-            "categories": "mysql,java",
-            "tags": "released,update,oracle,mysql,java",
-            "recuweb_url": "http://en.recuweb.com/java/securityweek.com/2015/04/oracle-security-update-contains-critical-patches-for-mysql-java-se",
-            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://securityweek.com/oracle-security-update-contains-critical-patches-mysql-java-se"
-        },
-        "percona.com/2015/04/docstore-document-database-for-mysql-at-facebook-pdf-percona": {
-            "title": "DocStore: Document Database for MySQL at Facebook pdf - Percona...",
-            "snippet": "Overview of DocStore. What is DocStore? Stands for Document Store. A JSON document database built on top of MySQL. The goal of DocStore. To provide a easy-to-use, flexible, and schema-less storage solution. 3...",
-            "date": "2015-04-14",
-            "author_name": "blog.explodingads.com",
-            "categories": "database,mysql,facebook,json",
-            "tags": "database,mysql,facebook,percona,easy",
-            "recuweb_url": "http://en.recuweb.com/json/percona.com/2015/04/docstore-document-database-for-mysql-at-facebook-pdf-percona",
-            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://percona.com/live/mysql-conference-2015/sites/default/files/slides/Facebook+DocStore+Percona+2015.pdf"
-        },
-        "mysqlhighavailability.com/2015/04/mysql-it-is-easier-to-switch-master-now-high": {
-            "title": "MySQL: It is easier to switch master now! MySQL High...",
-            "snippet": "Introduction. One of the primary objectives of MySQL replication is providing an easy failover process i.e. switching to a redundant system if the primary MySQL server fails. In MySQL this translates to switching to the most...",
-            "date": "2015-04-13",
-            "author_name": "Shivji Jha",
-            "categories": "mysql",
-            "tags": "system,process,replication,switch,mysql,high,easy,server",
-            "recuweb_url": "http://en.recuweb.com/mysql/mysqlhighavailability.com/2015/04/mysql-it-is-easier-to-switch-master-now-high",
-            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://mysqlhighavailability.com/mysql-5-7-6-it-is-easier-to-switch-master-now/"
-        },
-        "papitv.com/2015/04/learn-mysql-fundamentals-from-industry-leaders-at-the-largest-conference-2015": {
-            "title": "Learn MySQL Fundamentals from Industry Leaders at the Largest MySQL Conference 2015...",
-            "snippet": "Learn MySQL Fundamentals from Industry Leaders at the Largest MySQL Conference The 2015 Percona Live MySQL 101 Program: Learn MySQL Fundamentals from Industry Leaders at the Largest MySQL Conference Hello Silicon Valley Techies, More and more, our...",
-            "date": "2015-04-12",
-            "author_name": "KC Leung",
-            "categories": "mysql",
-            "tags": "hello,percona,mysql,learn",
-            "recuweb_url": "http://en.recuweb.com/mysql/papitv.com/2015/04/learn-mysql-fundamentals-from-industry-leaders-at-the-largest-conference-2015",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=mysql%2Bmysql&rss=1&lng=en",
-            "source_url": "http://papitv.com/learn-mysql-fundamentals-from-industry-leaders-at-the-largest-mysql-conference"
-        },
-        "kotiravi.blogspot.com/2015/04/setting-password-for-new-mysql-database-on-mac": {
-            "title": "Setting Password for new Mysql database on MAC...",
-            "snippet": "Try the command FLUSH PRIVILEGES when you log into the MySQL terminal. If that doesn't work, try the following set of commands while in the MySQL terminal mysql -u root mysql use mysql; mysql update user set...",
-            "date": "2015-04-11",
-            "author_name": "(kotiravi)",
-            "categories": "mysql,database",
-            "tags": "update,try,into,mysql,database",
-            "recuweb_url": "http://en.recuweb.com/database/kotiravi.blogspot.com/2015/04/setting-password-for-new-mysql-database-on-mac",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=mysql%2Bmysql&rss=1&lng=en",
-            "source_url": "http://kotiravi.blogspot.com/2015/04/setting-password-for-new-mysql-database.html"
         }
     }
 }
