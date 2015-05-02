@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "web-application",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/web-application/",
@@ -11,13 +11,24 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/web-application/web-application/blogs.json"
     },
     "items": {
+        "community.qualys.com/2015/04/deploy-virtual-patches-on-qualys-waf-based-detected-web-app": {
+            "title": "Deploy Virtual Patches on Qualys WAF Based on Detected Web App...",
+            "snippet": "Two new features extend Qualys Web Application Firewall (WAF) 2.0 into an end-to-end solution for protecting web applications from attack. Virtual Patching lets organizations fine-tune security policies, remove false positives...",
+            "date": "2015-04-21",
+            "author_name": "community-admin@qualys.com",
+            "categories": "web-application",
+            "tags": "web,web_application,web_application_firewall,applications,application_firewall,firewall,web_app,app,waf,patches,into,security",
+            "recuweb_url": "http://en.recuweb.com/web-application/community.qualys.com/2015/04/deploy-virtual-patches-on-qualys-waf-based-detected-web-app",
+            "resource_url": "http://www.google.com/search?q=web%2Bapplication%2Bweb%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://community.qualys.com/blogs/qualys-tech/2015/04/21/deploy-virtual-patches-on-qualys-waf-automatically-based-on-detected-web-app-vulnerabilities"
+        },
         "blogs.technet.com/2015/04/adfs-2012-r2-web-application-proxy-re-establish-trust": {
             "title": "ADFS 2012 R2 Web Application Proxy - Re-Establish Proxy Trust...",
             "snippet": "In the Tailspintoys environment, the administrator (moi) was a bit slack. They let the ADFS 2012 R2 proxy get into a bad state. The ADFS Proxy was not contacting the ADFS server on the internal network, and this allowed the...",
             "date": "2015-04-20",
             "author_name": "Rhoderick Milne [MSFT]",
             "categories": "web-application,environment",
-            "tags": "server,into,web,web_application,application",
+            "tags": "server,trust,web,web_application,application,into",
             "recuweb_url": "http://en.recuweb.com/environment/blogs.technet.com/2015/04/adfs-2012-r2-web-application-proxy-re-establish-trust",
             "resource_url": "http://www.google.com/search?q=web%2Bapplication%2Bweb%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.technet.com/b/rmilne/archive/2015/04/20/adfs-2012-r2-web-application-proxy-_2d00_-re_2d00_establish-proxy-trust.aspx"
@@ -28,27 +39,28 @@
             "date": "2015-04-20",
             "author_name": "Daniel Cid",
             "categories": "web-application,prevention,wordpress",
-            "tags": "open,help,web,web_application,web_application_firewall,application,application_firewall,firewall,system,vulnerability,security",
+            "tags": "help,web,web_application,web_application_firewall,application,application_firewall,firewall,system,vulnerability,security,waf",
             "recuweb_url": "http://en.recuweb.com/wordpress/blog.sucuri.net/2015/04/security-advisory-xss-vulnerability-affecting-multiple-wordpress",
             "resource_url": "http://www.google.com/search?q=web%2Bapplication%2Bweb%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.sucuri.net/2015/04/security-advisory-xss-vulnerability-affecting-multiple-wordpress-plugins.html"
         },
-        "golang-challenge.com/2015/04/go-challenge-3-learn-by-solving-problems": {
-            "title": "Go Challenge 3 Go Challenge Learn Go by solving problems...",
-            "snippet": "He has been doing software development for 20 years, mostly in web application development. He is active in the Ruby and Go developer communities and has contributed to open source projects and spoke at meetups and...",
-            "date": "2015-04-18",
-            "author_name": "Onadvertise",
-            "tags": "developer,open,open-source,source,projects,software,learn,development,web,application",
-            "recuweb_url": "http://en.recuweb.com/golang-challenge.com/2015/04/go-challenge-3-learn-by-solving-problems",
-            "resource_url": "http://www.google.com/search?q=web%2Bapplication%2Bweb%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://golang-challenge.com/go-challenge3/"
+        "higheredjobs.com/2015/04/web-application-developer-higheredjobs": {
+            "title": "Web Application Developer - HigherEdJobs...",
+            "snippet": "Position Information The Web Application Developer will provide web application development for the UCR School of Medicine. Duties encompass designing, modifying, developing, and implementing software application...",
+            "date": "2015-04-17",
+            "author_name": "rss@higheredjobs.com (HigherEdJobs)",
+            "categories": "school,web-application,medicine",
+            "tags": "web,web_application,web_application_developer,application,application_developer,developer,provide,development,duties,software",
+            "recuweb_url": "http://en.recuweb.com/medicine/higheredjobs.com/2015/04/web-application-developer-higheredjobs",
+            "resource_url": "http://www.google.com/search?q=web%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://higheredjobs.com/details.cfm?JobCode=176051329"
         },
         "bigideasphl.com/2015/04/design-a-web-application-for-online-registration-and-collection-of": {
             "title": "Design a web application for online registration and collection of...",
             "snippet": "HOTEL TAX E-Z. Statement of Work. City of Philadelphia. Department of Revenue. INTRODUCTION. Cities of all sizes around the world are experiencing an increase in short-term rentals of homes and apartments, facilitated...",
             "date": "2015-04-17",
             "author_name": "K. Chirackel",
-            "tags": "online,design,web,application",
+            "tags": "term,design,web,application",
             "recuweb_url": "http://en.recuweb.com/bigideasphl.com/2015/04/design-a-web-application-for-online-registration-and-collection-of",
             "resource_url": "http://www.google.com/search?q=web%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bigideasphl.com/2015/04/17/design-a-web-application-for-online-registration-and-collection-of-hotel-tax/"
@@ -58,7 +70,7 @@
             "snippet": "AirDroid has patched an authentication flaw in its web application that could allow an attacker to remotely control and manipulate a victim's Android device. AirDroid, which is similar to Apple's native iMessage app, allows a...",
             "date": "2015-04-15",
             "author_name": "Michael Mimoso",
-            "tags": "vic,web,app,vulnerability,threat,application,android",
+            "tags": "patches,web,web_app,app,vulnerability,application,android",
             "recuweb_url": "http://en.recuweb.com/threatpost.com/2015/04/airdroid-patches-web-app-hijacking-vulnerability-threatpost",
             "resource_url": "http://www.google.com/search?q=web%2Bapplication%2Bweb%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://threatpost.com/airdroid-patches-web-app-hijacking-vulnerability/112268"
@@ -68,7 +80,7 @@
             "snippet": "By combining Elixir powerful web framework with ejabberd realtime messaging platform, you can build extremely powerful applications. This tutorial will help you get started. Here is the screencast showing the whole process.",
             "date": "2015-04-14",
             "author_name": "Micka\u00ebl R\u00e9mond",
-            "tags": "help,build,platform,framework,web,into,applications,tutorial",
+            "tags": "help,platform,web,into,applications,build,tutorial",
             "recuweb_url": "http://en.recuweb.com/blog.process-one.net/2015/04/embedding-ejabberd-into-an-elixir-phoenix-web-application-blog",
             "resource_url": "http://www.google.com/search?q=web%2Bapplication%2Bweb%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.process-one.net/embedding-ejabberd-into-an-elixir-phoenix-web-application/"
@@ -101,21 +113,10 @@
             "date": "2015-04-07",
             "author_name": "Peleus Uhley",
             "categories": "web-application",
-            "tags": "projects,into,explore,web,web_application,application,cloud",
+            "tags": "impact,web,web_application,application,cloud,into",
             "recuweb_url": "http://en.recuweb.com/web-application/blogs.adobe.com/2015/04/re-assessing-web-application-vulnerabilities-for-the-cloud",
             "resource_url": "http://www.google.com/search?q=web%2Bapplication%2Bweb%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.adobe.com/security/2015/04/re-assessing-web-application-vulnerabilities-for-the-cloud.html"
-        },
-        "darknet.org.uk/2015/04/watcher-passive-web-application-vulnerability-scanner-darknet": {
-            "title": "Watcher - Passive Web Application Vulnerability Scanner - Darknet...",
-            "snippet": "Watcher is a passive web application vulnerability scanner built as a Fiddler add-on with over 30 security checks built in by default.",
-            "date": "2015-04-07",
-            "author_name": "Darknet",
-            "categories": "web-application",
-            "tags": "vulnerability,web,web_application,application,security",
-            "recuweb_url": "http://en.recuweb.com/web-application/darknet.org.uk/2015/04/watcher-passive-web-application-vulnerability-scanner-darknet",
-            "resource_url": "http://www.google.com/search?q=web%2Bapplication%2Bweb%2Bapplication&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://darknet.org.uk/2015/04/watcher-passive-web-application-vulnerability-scanner/"
         }
     }
 }
