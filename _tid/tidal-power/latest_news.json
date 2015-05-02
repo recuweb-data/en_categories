@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "tidal-power",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/tidal-power/",
@@ -11,6 +11,15 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/tidal-power/tidal-power/blogs.json"
     },
     "items": {
+        "maritimejournal.com/2015/04/swedes-welcome-welsh-report": {
+            "title": "Swedes welcome Welsh report...",
+            "snippet": "Minestos tidal power plant, called Deep Green, looks like an underwater kite and is based on a fundamentally new principle for electricity generation from tidal and ocean currents. Deep Green is the only proven marine power plant to generate...",
+            "date": "2015-04-27",
+            "tags": "generate,marine,ocean,electricity,generation,green,report,tidal,power,plant",
+            "recuweb_url": "http://en.recuweb.com/maritimejournal.com/2015/04/swedes-welcome-welsh-report",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tidal%2Bpower&format=RSS&cc=us",
+            "source_url": "http://maritimejournal.com/news101/marine-renewable-energy/swedes-welcome-welsh-report"
+        },
         "cbc.ca/2015/04/tidal-power-potentially-worth-billions-to-maritimes-report-finds": {
             "title": "Tidal power potentially worth billions to Maritimes, report finds...",
             "snippet": "Tidal power could be a multi-billion industry in the Maritimes, according a new study commissioned by the Offshore Energy Research Association. The Bay of Fundy has the potential to generate 1.7 billion for the Nova Scotia economy by 2040, the study...",
@@ -45,7 +54,7 @@
             "snippet": "Black Rock Tidal Power (BRTP), a SCHOTTEL HYDRO company, said it continues to honor its commitment to hire local as Dr. Sue Molloy has been brought on board as General Manager to guide the company as it grows from its first project with the Fundy...",
             "date": "2015-04-22",
             "categories": "honor,tidal-power",
-            "tags": "project,guide,guide-the-company,company,grows,sue,sue_molloy,molloy,said,local,hydro,black,black_rock,black_rock_tidal,rock,rock_tidal,rock_tidal_power,tidal,tidal_power,power,general,manager,fundy",
+            "tags": "project,guide,guide-the-company,company,grows,sue,sue_molloy,molloy,said,local,schottel,schottel_hydro,hydro,black,black_rock,black_rock_tidal,rock,rock_tidal,rock_tidal_power,tidal,tidal_power,power,general,manager,fundy",
             "recuweb_url": "http://en.recuweb.com/tidal-power/maritimeprofessional.com/2015/04/brtp-hires-molloy-as-general-manager",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tidal%2Bpower&format=RSS&cc=us",
             "source_url": "http://maritimeprofessional.com/news/brtp-hires-molloy-general-manager-269774"
@@ -60,16 +69,6 @@
             "resource_url": "http://news.google.com/?hl=en&q=tidal%2Bpower&output=atom&nord=1",
             "source_url": "http://trurodaily.com/Business/2015-04-21/article-4119689/Feds-announce-$6.3-million-for-tidal-power-project/1"
         },
-        "renews.biz/2015/04/ns-tidal-player-taps-local-expertise-renews": {
-            "title": "NS tidal player taps local expertise - reNews...",
-            "snippet": "reNewsNS tidal player taps local expertisereNewsSchottel Hydro company Black Rock Tidal Power has hired local Sue Molloy as general manager in Nova Scotia. She will guide the company as it grows from its first project with the Fundy Ocean Research...",
-            "date": "2015-04-22",
-            "categories": "tidal-power",
-            "tags": "fundy,fundy_ocean,fundy_ocean_research,ocean,ocean_research,research,project,guide,guide-the-company,company,grows,nova,nova_scotia,scotia,general,manager,sue,sue_molloy,molloy,local,black,black_rock,black_rock_tidal,rock,rock_tidal,rock_tidal_power,tidal,tidal_power,power,hydro",
-            "recuweb_url": "http://en.recuweb.com/tidal-power/renews.biz/2015/04/ns-tidal-player-taps-local-expertise-renews",
-            "resource_url": "http://news.google.com/?hl=en&q=tidal%2Bpower&output=atom&nord=1",
-            "source_url": "http://renews.biz/87458/ns-tidal-player-taps-local-expertise/"
-        },
         "ns.dailybusinessbuzz.ca/2015/04/feds-announce-6-3-million-for-tidal-power-project": {
             "title": "Feds announce 6.3 million for tidal power project...",
             "snippet": "WEST BAY, Cumberland County - One of the developers of tidal energy technology in the Minas Passage has received a 6.3 million boost from the federal government. Andrew Wagstaff - TC Media More than 6.3 million in federal funding was announced...",
@@ -79,6 +78,16 @@
             "recuweb_url": "http://en.recuweb.com/technology/ns.dailybusinessbuzz.ca/2015/04/feds-announce-6-3-million-for-tidal-power-project",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tidal%2Bpower&format=RSS&cc=us",
             "source_url": "http://ns.dailybusinessbuzz.ca/Provincial-News/2015-04-22/article-4120509/Feds-announce-$6.3-million-for-tidal-power-project/1"
+        },
+        "renews.biz/2015/04/ns-tidal-player-taps-local-expertise": {
+            "title": "NS tidal player taps local expertise...",
+            "snippet": "Schottel Hydro company Black Rock Tidal Power has hired local Sue Molloy as general manager in Nova Scotia. She will guide the company as it grows from its first project with the Fundy Ocean Research Center for Energy to be a leader in Canadian...",
+            "date": "2015-04-21",
+            "categories": "tidal-power",
+            "tags": "fundy,fundy_ocean,fundy_ocean_research,ocean,ocean_research,research,project,guide,guide-the-company,company,grows,nova,nova_scotia,scotia,general,manager,sue,sue_molloy,molloy,local,black,black_rock,black_rock_tidal,rock,rock_tidal,rock_tidal_power,tidal,tidal_power,power,schottel,schottel_hydro,hydro,energy",
+            "recuweb_url": "http://en.recuweb.com/tidal-power/renews.biz/2015/04/ns-tidal-player-taps-local-expertise",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tidal%2Bpower&format=RSS&cc=us",
+            "source_url": "http://renews.biz/87458/ns-tidal-player-taps-local-expertise/"
         },
         "examiner.com/2015/04/celebrate-earth-day-with-stem-toys-from-thames-&-kosmos": {
             "title": "Celebrate Earth Day with STEM toys from Thames & Kosmos...",
@@ -94,19 +103,10 @@
             "title": "SME to test 1-MW tidal power array at EMEC site - SeeNews Renewables...",
             "snippet": "SeeNews RenewablesSME to test 1-MW tidal power array at EMEC siteSeeNews RenewablesApril 20 (SeeNews) - Isle of Wight-based Sustainable Marine Energy Ltd (SME) plans to deploy a 1-MW tidal power array at one of the European Marine Energy Centre's...",
             "date": "2015-04-20",
-            "tags": "european,european_marine,european_marine_energy,marine,marine_energy,marine_energy_centre,energy,energy_centre,centre,renewablesapril,seenews,seenews_renewables,renewables,tidal,power,emec,plans",
+            "tags": "marine,energy,centre,tidal,power,plans",
             "recuweb_url": "http://en.recuweb.com/renewables.seenews.com/2015/04/sme-to-test-1-mw-tidal-power-array-at-emec-site",
             "resource_url": "http://news.google.com/?hl=en&q=tidal%2Bpower&output=atom&nord=1",
             "source_url": "http://renewables.seenews.com/news/sme-to-test-1-mw-tidal-power-array-at-emec-site-473167"
-        },
-        "renewables.seenews.com/2015/04/itm-to-equip-tidal-power-hydrogen-system-for-emec-in-scotland": {
-            "title": "ITM to equip tidal power-to-hydrogen system for EMEC in Scotland - SeeNews Renewables...",
-            "snippet": "SeeNews RenewablesITM to equip tidal power-to-hydrogen system for EMEC in ScotlandSeeNews RenewablesApril 17 (SeeNews) - ITM Power plc (LON:ITM) has won a (USD) contract from the European Marine Energy Centre (EMEC) to supply a 500-kW electrolyser...",
-            "date": "2015-04-17",
-            "tags": "supply,european,european_marine,european_marine_energy,marine,marine_energy,marine_energy_centre,energy,energy_centre,centre,power,renewablesapril,seenews,seenews_renewables,renewables,tidal,emec,scotland",
-            "recuweb_url": "http://en.recuweb.com/renewables.seenews.com/2015/04/itm-to-equip-tidal-power-hydrogen-system-for-emec-in-scotland",
-            "resource_url": "http://news.google.com/?hl=en&q=tidal%2Bpower%2Btidal%2Bpower&output=atom&nord=1",
-            "source_url": "http://renewables.seenews.com/news/itm-to-equip-tidal-power-to-hydrogen-system-for-emec-in-scotland-472871"
         }
     }
 }
