@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "postgresql",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/postgresql/",
@@ -11,50 +11,51 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
     },
     "items": {
-        "theinquirer.net/2015/04/red-hat-launches-beta-of-linux-distro-fedora-22-inquirer": {
-            "title": "Red Hat launches beta of Linux distro Fedora 22 - Inquirer...",
-            "snippet": "Red Hat launches beta of Linux distro Fedora 22InquirerFedora 22 Server Beta offers a Database Server Role for the new Rolekit, and a Linux daemon to provide a stable D-Bus interface to manage deployment of server roles, based on PostgreSQL. Updates...",
-            "date": "2015-04-24",
-            "categories": "database",
-            "tags": "manage,server,stable,database,role,beta,red,red_hat,hat,linux,fedora,rolekit,gresql,updates",
-            "recuweb_url": "http://en.recuweb.com/database/theinquirer.net/2015/04/red-hat-launches-beta-of-linux-distro-fedora-22-inquirer",
-            "resource_url": "http://news.google.com/?hl=en&q=postgresql%2Bpostgresql&output=atom&nord=1",
-            "source_url": "http://theinquirer.net/inquirer/news/2405501/red-hat-launches-beta-of-linux-distro-fedora-22"
-        },
-        "virtual-strategy.com/2015/04/devart-introduces-new-dbexpress-drivers-with-support-for-rad-studio-xe8": {
-            "title": "Devart Introduces New dbExpress Drivers with Support for RAD Studio XE8...",
-            "snippet": "The list of supported databases includes Oracle Database, SQL Server, MySQL, InterBase/Firebird, PostgreSQL and SQLite. Discover more about dbExpress Drivers at the product pages: Discover more about dbExpress Drivers at About...",
-            "date": "2015-04-23",
-            "categories": "database,mysql,sqlite",
-            "tags": "product,sql,sql_server,server,oracle,database,rad,studio,devart,support,databases,mysql,interbase,firebird,gresql,sqlite",
-            "recuweb_url": "http://en.recuweb.com/sqlite/virtual-strategy.com/2015/04/devart-introduces-new-dbexpress-drivers-with-support-for-rad-studio-xe8",
+        "benzinga.com/2015/04/fujitsu-enhances-snapec-series-of-integrated-ec-solutions-for-the-omnichannel": {
+            "title": "Fujitsu Enhances SNAPEC Series of Integrated EC Solutions for the Omnichannel Retail Era...",
+            "snippet": "In addition, for the existing FUJITSU Business Application SNAPEC-EX offering, which integrates the three services of e-commerce website operations, promotions, and marketing, enhanced functions have been added, such as support for the PostgreSQL...",
+            "date": "2015-04-27",
+            "categories": "marketing,commerce,business",
+            "tags": "support,added,website,services,application,solutions,gresql",
+            "recuweb_url": "http://en.recuweb.com/business/benzinga.com/2015/04/fujitsu-enhances-snapec-series-of-integrated-ec-solutions-for-the-omnichannel",
             "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
-            "source_url": "http://virtual-strategy.com/2015/04/23/devart-introduces-new-dbexpress-drivers-support-rad-studio-xe8"
+            "source_url": "http://benzinga.com/pressreleases/15/04/a5445690/fujitsu-enhances-snapec-series-of-integrated-ec-solutions-for-the-omnic"
         },
-        "zdnet.com/2015/04/row-level-security-provides-enterprise-chops-zdnet": {
-            "title": "Row-level security provides enterprise chops - ZDNet...",
-            "snippet": "Row-level security provides enterprise chopsZDNetIn a blog post, SQL Server MVP Brent Ozar explains how the feature works -- and he also discusses how Oracle and PostgreSQL already have RLS features implemented, and released for general...",
-            "date": "2015-04-23",
-            "tags": "features,implemented,feature,sql,sql_server,server,security,enterprise,zdnet,oracle,gresql",
-            "recuweb_url": "http://en.recuweb.com/zdnet.com/2015/04/row-level-security-provides-enterprise-chops-zdnet",
-            "resource_url": "http://news.google.com/?hl=en&q=postgresql%2Bpostgresql&output=atom&nord=1",
-            "source_url": "http://zdnet.com/article/row-level-security-provides-enterprise-chops/"
+        "markets.financialcontent.com/2015/04/gartner-names-itapp-a-2015-cool-vendor-in-cloud-management": {
+            "title": "Gartner Names ITapp a 2015 Cool Vendor in Cloud Management...",
+            "snippet": "Another feature that speeds time-to-value is its Enterprise IT app store that offers out-of-the-box content for compute, storage and network services as well as application services including Apache, PostgreSQL, Cassandra, MySQL, SQL Server, and...",
+            "date": "2015-04-27",
+            "categories": "management,mysql",
+            "tags": "sql,sql_server,server,services,application,management,vendor,enterprise,gresql,mysql",
+            "recuweb_url": "http://en.recuweb.com/mysql/markets.financialcontent.com/2015/04/gartner-names-itapp-a-2015-cool-vendor-in-cloud-management",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
+            "source_url": "http://markets.financialcontent.com/stocks/news/read?GUID=29749516"
         },
-        "zdnet.com/2015/04/red-hat-gives-developers-more-programming-goodies-zdnet": {
-            "title": "Red Hat gives developers more programming goodies - ZDNet...",
-            "snippet": "Red Hat gives developers more programming goodiesZDNetPerl - a recent stable release of Perl shipped with a set of additional utilities, scripts, and database connectors for MySQL and PostgreSQL; Ruby 2.2, and, in its own collection, Rails 4.1 give...",
-            "date": "2015-04-23",
-            "categories": "perl,database,mysql",
-            "tags": "stable,release,programming,red,red_hat,hat,zdnet,scripts,database,mysql,gresql",
-            "recuweb_url": "http://en.recuweb.com/mysql/zdnet.com/2015/04/red-hat-gives-developers-more-programming-goodies-zdnet",
-            "resource_url": "http://news.google.com/?hl=en&q=postgresql%2Bpostgresql&output=atom&nord=1",
-            "source_url": "http://zdnet.com/article/red-hat-gives-developers-more-programming-goodies/"
+        "lxer.com/2015/04/debian-8-is-released": {
+            "title": "Debian 8 is released...",
+            "snippet": "KDE Plasma Workspaces and KDE Applications LibreOffice Linux MariaDB and MySQL Nagios OpenJDK 7u75 Perl PHP PostgreSQL Python and Samba Tomcat and Xen...",
+            "date": "2015-04-26",
+            "categories": "perl,php,mysql",
+            "tags": "gresql,python,php,mysql,linux",
+            "recuweb_url": "http://en.recuweb.com/mysql/lxer.com/2015/04/debian-8-is-released",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
+            "source_url": "http://lxer.com/module/newswire/view/213401/index.html"
+        },
+        "infoq.com/2015/04/scaling-microservices-at-gilt-with-scala-docker-and-aws": {
+            "title": "Scaling Microservices at Gilt with Scala, Docker and AWS...",
+            "snippet": "Its our own self-imposed denial of service attack, every day... The website was originally built in 2007 as a monolithic Ruby on Rails application with a PostgreSQL database. As traffic increased a memcached caching layer was added, and certain...",
+            "date": "2015-04-26",
+            "categories": "database",
+            "tags": "added,application,website,gresql,database",
+            "recuweb_url": "http://en.recuweb.com/database/infoq.com/2015/04/scaling-microservices-at-gilt-with-scala-docker-and-aws",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
+            "source_url": "http://infoq.com/news/2015/04/scaling-microservices-gilt"
         },
         "gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th": {
             "title": "Call for Papers, PostgreSQL Session 7, September, 24th...",
             "snippet": "After six successful sessions dedicated to the new features of PostgreSQL 9.0 (February 2011), to PostGIS (June 2011 & September 2014), to replication systems (February 2012), to migration from Oracle to PostgreSQL (October 2012), and to...",
             "date": "2015-04-22",
-            "tags": "features,gresql,gis,oracle",
+            "tags": "systems,features,gresql,gis,oracle",
             "recuweb_url": "http://en.recuweb.com/gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th",
             "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
             "source_url": "http://gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th/"
@@ -63,50 +64,50 @@
             "title": "Lenovo: EnterpriseDB and Its Partner Lenovo to Promote Postgres for the Enterprise...",
             "snippet": "mission-critical workloads. Postgres Plus from EDB extends open source PostgreSQL with enterprise-class performance, security and manageability enhancements.",
             "date": "2015-04-22",
-            "tags": "security,class,enterprise,source,gres,enterprisedb,edb,gresql",
+            "tags": "security,security-and-manageability,manageability,manageability-enhancements,enhancements,class,class-performance,performance,enterprise,extends,extends-open,extends-open-source,open,open-source,source,gres,partner,lenovo,enterprisedb,promote,edb,gresql",
             "recuweb_url": "http://en.recuweb.com/4-traders.com/2015/04/lenovo-enterprisedb-and-its-partner-to-promote-postgres-for-the-enterprise",
             "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
             "source_url": "http://4-traders.com/LENOVO-GROUP-LIMITED-1412726/news/Lenovo--EnterpriseDB-and-Its-Partner-Lenovo-to-Promote-Postgres-for-the-Enterprise-20238018/"
         },
-        "news.softpedia.com/2015/04/fedora-22-beta-server-edition-now-uses-xfs-as-the-default": {
-            "title": "Fedora 22 Beta Server Edition Now Uses XFS as the Default Filesystem...",
-            "snippet": "The first new feature implemented in Fedora 22 Beta Server Edition Linux operating system is the inclusion of a PostgreSQL-based database server role, which aims to be a companion to the Rolekit damon introduced in Fedora 21. The second new...",
-            "date": "2015-04-21",
+        "pressbox.co.uk/2015/04/devart-introduces-new-dbexpress-drivers-with-support-for-rad-studio-xe8": {
+            "title": "Devart Introduces New dbExpress Drivers with Support for RAD Studio XE8...",
+            "snippet": "The list of supported databases includes Oracle Database, SQL Server, MySQL, InterBase/Firebird, PostgreSQL and SQLite. Devart is a recognized vendor of database connectivity solutions for Microsoft.NET and Embarcadero Delphi development platforms...",
+            "date": "2015-04-20",
+            "categories": "database,mysql,sqlite",
+            "tags": "delphi,solutions,vendor,sql,sql_server,server,oracle,database,studio,support,databases,mysql,gresql",
+            "recuweb_url": "http://en.recuweb.com/sqlite/pressbox.co.uk/2015/04/devart-introduces-new-dbexpress-drivers-with-support-for-rad-studio-xe8",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
+            "source_url": "http://pressbox.co.uk/Computing/Devart_Introduces_New_dbExpress_Drivers_with_Support_for_RAD_Studio_XE8_1581998.html"
+        },
+        "bloomberg.com/2015/04/enterprisedb-and-its-partner-lenovo-to-promote-postgres-for-the-enterprise": {
+            "title": "EnterpriseDB and Its Partner Lenovo to Promote Postgres for the Enterprise...",
+            "snippet": "Postgres Plus from EDB extends open source PostgreSQL with enterprise-class performance, security and manageability enhancements. Traditional databases are the most expensive component of the server, operating system and database infrastructure...",
+            "date": "2015-04-20",
             "categories": "database",
-            "tags": "server,role,linux,feature,implemented,beta,edition,fedora,gresql,database,rolekit",
-            "recuweb_url": "http://en.recuweb.com/database/news.softpedia.com/2015/04/fedora-22-beta-server-edition-now-uses-xfs-as-the-default",
+            "tags": "server,security,security-and-manageability,manageability,manageability-enhancements,enhancements,class,class-performance,performance,enterprise,extends,extends-open,extends-open-source,open,open-source,source,gres,partner,lenovo,enterprisedb,promote,edb,gresql,databases,database",
+            "recuweb_url": "http://en.recuweb.com/database/bloomberg.com/2015/04/enterprisedb-and-its-partner-lenovo-to-promote-postgres-for-the-enterprise",
             "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
-            "source_url": "http://news.softpedia.com/news/Fedora-22-Beta-Server-Edition-Now-Uses-XFS-as-the-Default-Filesystem-479018.shtml"
-        },
-        "it.impressbm.co.jp/2015/04/dbawspostgresql-it-leaders": {
-            "title": "DBAWSPostgreSQL - IT Leaders...",
-            "snippet": "DBAWSPostgreSQLIT LeadersOSSOpen Source SoftwarePostgresDBEDB2015420AWSAmazon Web ServicesPostgres Plus Cloud Database...and more...",
-            "date": "2015-04-21",
-            "categories": "database,web-services",
-            "tags": "database,web,services,source,software,gresql,gres",
-            "recuweb_url": "http://en.recuweb.com/web-services/it.impressbm.co.jp/2015/04/dbawspostgresql-it-leaders",
-            "resource_url": "http://news.google.com/?hl=en&q=postgresql&output=atom&nord=1",
-            "source_url": "http://it.impressbm.co.jp/articles/-/12288"
-        },
-        "pressbox.co.uk/2015/04/devart-releases-data-access-components-for-delphi-with-support-rad-xe8": {
-            "title": "Devart Releases Data Access Components for Delphi with Support for RAD XE8...",
-            "snippet": "Pressbox (Press Release) - Devart updates DAC product line, which includes Delphi components for SQL Server, MySQL, Oracle, PostgreSQL, SQLite, Interbase/Firebird, and all-in-one solution UniDAC. New versions include support for new Embarcadero RAD...",
-            "date": "2015-04-15",
-            "categories": "mysql,sqlite",
-            "tags": "rad,support,solution,sql,sql_server,server,components,product,release,devart,releases,data,access,delphi,updates,mysql,oracle,gresql,sqlite,interbase,firebird",
-            "recuweb_url": "http://en.recuweb.com/sqlite/pressbox.co.uk/2015/04/devart-releases-data-access-components-for-delphi-with-support-rad-xe8",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
-            "source_url": "http://pressbox.co.uk/Computing/Devart_Releases_Data_Access_Components_for_Delphi_with_Support_for_RAD_XE8_1580673.html"
+            "source_url": "http://bloomberg.com/article/2015-04-21/abZ.3BQB42JY.html"
         },
         "andhranews.net/2015/04/enterprisedb-releases-new-postgres-enterprise-manager": {
             "title": "EnterpriseDB Releases New Postgres Enterprise Manager...",
             "snippet": "Market-leading Monitoring Tool for Postgres Plus and PostgreSQL Features Greater Customization and Expanded Analysis and Reporting EnterpriseDB (EDB), the leading worldwide provider of enterprise-class Postgres products and database compatibility...",
             "date": "2015-04-14",
             "categories": "database",
-            "tags": "gres,enterprise,enterprisedb,gresql,features,releases,edb,class,database",
+            "tags": "gres,enterprise,enterprisedb,gresql,features,edb,class,database",
             "recuweb_url": "http://en.recuweb.com/database/andhranews.net/2015/04/enterprisedb-releases-new-postgres-enterprise-manager",
             "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
             "source_url": "http://andhranews.net/Intl/Web/59-129.asp"
+        },
+        "theplatform.net/2015/04/etsy-shows-how-to-be-just-crafty-enough-with-systems": {
+            "title": "Etsy Shows How To Be Just Crafty Enough With Systems - The Platform...",
+            "snippet": "Etsy Shows How To Be Just Crafty Enough With SystemsThe PlatformBack in 2007, when Etsy was still young, the company used Ubuntu Server Linux as its main platform, PostgreSQL as its database, and PHP and Python as its two programming languages. Most...",
+            "date": "2015-04-08",
+            "categories": "languages,database,php",
+            "tags": "programming,server,linux,systems,gresql,database,php,python",
+            "recuweb_url": "http://en.recuweb.com/php/theplatform.net/2015/04/etsy-shows-how-to-be-just-crafty-enough-with-systems",
+            "resource_url": "http://news.google.com/?hl=en&q=postgresql&output=atom&nord=1",
+            "source_url": "http://theplatform.net/2015/04/07/etsy-shows-how-to-be-just-crafty-enough-with-platforms/"
         }
     }
 }
