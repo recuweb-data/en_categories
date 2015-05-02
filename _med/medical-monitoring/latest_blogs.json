@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "medical-monitoring",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/medical-monitoring/",
@@ -11,26 +11,15 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/medical-monitoring/medical-monitoring/blogs.json"
     },
     "items": {
-        "medicalxpress.com/2015/04/monitoring-maternal-and-children-health-in-rural-india-medical-xpress": {
-            "title": "Monitoring maternal and children health in rural India - Medical Xpress...",
-            "snippet": "Monitoring maternal and children health in rural India. Women and children in West bengal. Credit: Wikimedia. Imagine community health workers fanning out across rural villages and muddy fields to survey villagers in West...",
-            "date": "2015-04-17",
-            "author_name": "unknown",
-            "categories": "health,credit",
-            "tags": "health,workers,rural,medical,medical_xpress,xpress,monitoring,india,west,credit",
-            "recuweb_url": "http://en.recuweb.com/credit/medicalxpress.com/2015/04/monitoring-maternal-and-children-health-in-rural-india-medical-xpress",
-            "resource_url": "http://www.google.com/search?q=medical%2Bmonitoring&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://medicalxpress.com/news/2015-04-maternal-children-health-rural-india.html"
-        },
-        "blog.monitronics.com/2015/03/medical-alert-services-&-monitoring-monitronics-homes": {
-            "title": "Medical Alert Services & Medical Monitoring Monitronics Homes...",
+        "blog.monitronics.com/2015/03/medical-alert-services-&-monitoring": {
+            "title": "Medical Alert Services & Medical Monitoring...",
             "snippet": "Medical monitoring from Monitronics Home Security provides medical alert services to seniors, to help them remain independent.",
             "date": "2015-03-25",
             "author_name": "Monitronics",
             "categories": "home,medical-monitoring",
-            "tags": "remain,monitronics,monitronics_home,monitronics_home_security,home,home_security,security,medical,medical_monitoring,medical_monitoring_monitronics,monitoring,monitoring_monitronics,homes,medical_alert,medical_alert_services,alert,alert_services,services,provides,seniors,help,independent",
-            "recuweb_url": "http://en.recuweb.com/medical-monitoring/blog.monitronics.com/2015/03/medical-alert-services-&-monitoring-monitronics-homes",
-            "resource_url": "http://www.google.com/search?q=medical%2Bmonitoring%2Bmedical%2Bmonitoring&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "tags": "remain,monitronics,monitronics_home,monitronics_home_security,home,home_security,security,medical,medical_monitoring,monitoring,medical_alert,medical_alert_services,alert,alert_services,services,seniors,help,independent",
+            "recuweb_url": "http://en.recuweb.com/medical-monitoring/blog.monitronics.com/2015/03/medical-alert-services-&-monitoring",
+            "resource_url": "http://www.google.com/search?q=medical%2Bmonitoring&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.monitronics.com/2015/03/medical-alert-services-medical-monitoring/"
         },
         "molawyersmedia.com/2015/03/civil-practice-class-certification-asbestos-exposure-medical": {
@@ -39,10 +28,21 @@
             "date": "2015-03-18",
             "author_name": "Stephanie Maniscalco",
             "categories": "engineering",
-            "tags": "company,asbestos,medical,practice,monitoring",
+            "tags": "asbestos,medical,practice,monitoring",
             "recuweb_url": "http://en.recuweb.com/engineering/molawyersmedia.com/2015/03/civil-practice-class-certification-asbestos-exposure-medical",
-            "resource_url": "http://www.google.com/search?q=medical%2Bmonitoring%2Bmedical%2Bmonitoring&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=medical%2Bmonitoring&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://molawyersmedia.com/2015/03/18/civil-practice-class-certification-asbestos-exposure-medical-monitoring/"
+        },
+        "druganddevicelaw.blogspot.com/2015/03/medical-monitoring-for-soft-drink-purchasers": {
+            "title": "Medical Monitoring For Soft Drink Purchasers...",
+            "snippet": "SimilarlyOK, not similarly at all, but we get latitude in an introduction like with leading questions to an expert about her qualifications at the start of direct examinationmedical monitoring used to be a big deal and it was...",
+            "date": "2015-03-13",
+            "author_name": "Eric Alexander",
+            "categories": "medical-monitoring,drink",
+            "tags": "deal,leading,leading-questions,questions,expert,qualifications,start,start-of-direct,direct,direct-examinationmedical,examinationmedical,latitude,introduction,similarly,medical,medical_monitoring,monitoring,monitoring_for_soft,soft,soft_drink,soft_drink_purchasers,drink,drink_purchasers,purchasers,similarlyok",
+            "recuweb_url": "http://en.recuweb.com/drink/druganddevicelaw.blogspot.com/2015/03/medical-monitoring-for-soft-drink-purchasers",
+            "resource_url": "http://www.google.com/search?q=medical%2Bmonitoring&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://druganddevicelaw.blogspot.com/2015/03/medical-monitoring-for-soft-drink.html"
         },
         "jdsupra.com/2015/03/medical-monitoring-for-soft-drink-purchasers-not-the-choice": {
             "title": "Medical Monitoring For Soft Drink Purchasers: Not The Choice For...",
@@ -50,21 +50,10 @@
             "date": "2015-03-13",
             "author_name": "Reed Smith",
             "categories": "medical-monitoring,drink",
-            "tags": "leading,leading-questions,questions,expert,qualifications,start,start-of-direct,direct,direct-examinationmedical,examinationmedical,latitude,introduction,similarly,medical,medical_monitoring,monitoring,monitoring_for_soft,soft,soft_drink,soft_drink_purchasers,drink,drink_purchasers,purchasers,similarlyok,deal",
+            "tags": "deal,leading,leading-questions,questions,expert,qualifications,start,start-of-direct,direct,direct-examinationmedical,examinationmedical,latitude,introduction,similarly,medical,medical_monitoring,monitoring,monitoring_for_soft,soft,soft_drink,soft_drink_purchasers,drink,drink_purchasers,purchasers,similarlyok",
             "recuweb_url": "http://en.recuweb.com/drink/jdsupra.com/2015/03/medical-monitoring-for-soft-drink-purchasers-not-the-choice",
             "resource_url": "http://www.google.com/search?q=medical%2Bmonitoring%2Bmedical%2Bmonitoring&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://jdsupra.com/legalnews/medical-monitoring-for-soft-drink-purcha-67050/"
-        },
-        "druganddevicelaw.blogspot.com/2015/03/drug-and-device-law-medical-monitoring-for-soft-drink-purchasers": {
-            "title": "Drug and Device Law: Medical Monitoring For Soft Drink Purchasers...",
-            "snippet": "SimilarlyOK, not similarly at all, but we get latitude in an introduction like with leading questions to an expert about her qualifications at the start of direct examinationmedical monitoring used to be a big deal and it was...",
-            "date": "2015-03-13",
-            "author_name": "Eric Alexander",
-            "categories": "medical-monitoring,drink,law",
-            "tags": "leading,leading-questions,questions,expert,qualifications,start,start-of-direct,direct,direct-examinationmedical,examinationmedical,latitude,introduction,similarly,medical,medical_monitoring,monitoring,monitoring_for_soft,soft,soft_drink,soft_drink_purchasers,drink,drink_purchasers,purchasers,device,similarlyok,deal",
-            "recuweb_url": "http://en.recuweb.com/law/druganddevicelaw.blogspot.com/2015/03/drug-and-device-law-medical-monitoring-for-soft-drink-purchasers",
-            "resource_url": "http://www.google.com/search?q=medical%2Bmonitoring&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://druganddevicelaw.blogspot.com/2015/03/medical-monitoring-for-soft-drink.html"
         },
         "beveragedaily.com/2015/03/californian-federal-court-dismisses-4-mei-medical-monitoring-lawsuit": {
             "title": "Californian federal court dismisses 4-MEI medical monitoring lawsuit...",
@@ -72,40 +61,19 @@
             "date": "2015-03-09",
             "author_name": "Rachel.ARTHUR@wrbm.com (Rachel ARTHUR)",
             "categories": "health",
-            "tags": "due,health,risk,should,entitled,federal,lawsuit,medical,monitoring",
+            "tags": "health,risk,should,federal,court,medical,monitoring",
             "recuweb_url": "http://en.recuweb.com/health/beveragedaily.com/2015/03/californian-federal-court-dismisses-4-mei-medical-monitoring-lawsuit",
             "resource_url": "http://www.google.com/search?q=medical%2Bmonitoring%2Bmedical%2Bmonitoring&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://beveragedaily.com/Regulation-Safety/Californian-federal-court-dismisses-4-MEI-medical-monitoring-lawsuit-targeting-PepsiCo"
         },
-        "medicalxpress.com/2015/02/remote-patient-monitoring-sector-increasing-rapidly-medical-xpress": {
-            "title": "Remote patient monitoring sector increasing rapidly - Medical Xpress...",
-            "snippet": "(HealthDay)The remote patient monitoring sector is growing rapidly and could have a considerable impact on health care, according to an article published in Medical Economics.",
-            "date": "2015-02-25",
-            "author_name": "unknown",
-            "categories": "health,health-care",
-            "tags": "medical,growing,health,health-care,care,medical_xpress,xpress,patient,monitoring",
-            "recuweb_url": "http://en.recuweb.com/health-care/medicalxpress.com/2015/02/remote-patient-monitoring-sector-increasing-rapidly-medical-xpress",
-            "resource_url": "http://www.google.com/search?q=medical%2Bmonitoring&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://medicalxpress.com/news/2015-02-remote-patient-sector-rapidly.html"
-        },
-        "readwrite.com/2015/02/the-apple-watch-may-have-its-first-medical-appa-glucose": {
-            "title": "The Apple Watch May Have Its First Medical AppA Glucose...",
-            "snippet": "Over the weekend, the Wall Street Journal reported that a new Apple Watch app is on the way from DexCom, a California company that provides diabetics with devices for continuous glucose monitoring, or CGM. According to...",
-            "date": "2015-02-10",
-            "author_name": "Brian P. Rubin",
-            "tags": "company,provides,medical,devices,monitoring",
-            "recuweb_url": "http://en.recuweb.com/readwrite.com/2015/02/the-apple-watch-may-have-its-first-medical-appa-glucose",
-            "resource_url": "http://www.google.com/search?q=medical%2Bmonitoring%2Bmedical%2Bmonitoring&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://readwrite.com/2015/02/10/apple-watch-dexcom-app-diabetes-glucose-monitoring"
-        },
-        "recode.net/2015/02/credit-monitoring-won-t-catch-medical-id-theft-re-code": {
-            "title": "Credit Monitoring Won't Catch Medical ID Theft - Re/code...",
+        "recode.net/2015/02/anthem-hack-credit-monitoring-won-t-catch-medical-id-theft-re": {
+            "title": "Anthem Hack Credit Monitoring Won't Catch Medical ID Theft Re...",
             "snippet": "Health insurer Anthem is offering free credit monitoring after a major breach that may have affected as many as 80 million records, but customers should watch out for an especially insidious type of fraud: Medical identity theft.",
             "date": "2015-02-05",
             "author_name": "Julianne Pepitone",
             "categories": "credit,health",
-            "tags": "should,affected,credit,medical,monitoring,health,million",
-            "recuweb_url": "http://en.recuweb.com/health/recode.net/2015/02/credit-monitoring-won-t-catch-medical-id-theft-re-code",
+            "tags": "should,offering,medical,monitoring,health,million,records",
+            "recuweb_url": "http://en.recuweb.com/health/recode.net/2015/02/anthem-hack-credit-monitoring-won-t-catch-medical-id-theft-re",
             "resource_url": "http://www.google.com/search?q=medical%2Bmonitoring%2Bmedical%2Bmonitoring&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://recode.net/2015/02/05/anthem-hack-credit-monitoring-wont-catch-medical-identity-theft/"
         },
@@ -115,10 +83,42 @@
             "date": "2015-02-04",
             "author_name": "lueapharmacy",
             "categories": "injuries,health,health-care",
-            "tags": "exposed,health,health-care,care,workers,medical,monitoring",
+            "tags": "patients,via,exposed,health,care,medical,monitoring",
             "recuweb_url": "http://en.recuweb.com/health-care/lueapharmacy.wordpress.com/2015/02/medical-news-today-two-military-medics-back-in-uk-for-ebola",
             "resource_url": "http://en.search.wordpress.com/?q=medical%2Bmonitoring%2Bmedical%2Bmonitoring&f=feed&page=1",
             "source_url": "http://lueapharmacy.wordpress.com/2015/02/04/medical-news-today-two-military-medics-back-in-uk-for-ebola-monitoring/"
+        },
+        "wvrecord.com/2015/01/c-8-medical-monitoring-invoices-released": {
+            "title": "C-8 medical monitoring invoices released...",
+            "snippet": "PARKERSBURG A group has made public 9 million in invoices paid by DuPont to a firm that is overseeing the medical monitoring program for C-8 litigation. DuPont's Washington Works plant. But records also show that the...",
+            "date": "2015-01-27",
+            "author_name": "Chris Dickerson",
+            "tags": "records,medical,monitoring,million,program",
+            "recuweb_url": "http://en.recuweb.com/wvrecord.com/2015/01/c-8-medical-monitoring-invoices-released",
+            "resource_url": "http://www.google.com/search?q=medical%2Bmonitoring&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://wvrecord.com/news/272105-c-8-medical-monitoring-invoices-released"
+        },
+        "globenewswire.com/2015/01/medicomp-introduces-a-patch-style-medical-monitoring-system": {
+            "title": "Medicomp Introduces a Patch-Style Medical Monitoring System...",
+            "snippet": "8, 2015 (GLOBE NEWSWIRE) -- via PRWEB - Medicomp, Inc., announces the pending release of an external patch-style medical monitoring system. Medicomp's new offering will initially provide flexible Holter, Event, and...",
+            "date": "2015-01-09",
+            "author_name": "unknown",
+            "categories": "medical-monitoring",
+            "tags": "offering,provide,release,medical,medical_monitoring,monitoring,monitoring_system,system,via,event",
+            "recuweb_url": "http://en.recuweb.com/medical-monitoring/globenewswire.com/2015/01/medicomp-introduces-a-patch-style-medical-monitoring-system",
+            "resource_url": "http://www.google.com/search?q=medical%2Bmonitoring%2Bmedical%2Bmonitoring&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://globenewswire.com/news-release/2015/01/08/696140/10114841/en/Medicomp-Introduces-a-Patch-Style-Medical-Monitoring-System.html"
+        },
+        "zmescience.com/2014/12/smart-fibers-can-turn-your-sweater-into-a-medical-monitoring-station": {
+            "title": "Smart fibers can turn your sweater into a medical monitoring station...",
+            "snippet": "The more data doctors have of their patients'health, the better the treatments they can prescribe. Ideally, you'd want patients to be constantly monitored.",
+            "date": "2014-12-10",
+            "author_name": "Tibi Puiu",
+            "categories": "health",
+            "tags": "patients,better,medical,monitoring,health",
+            "recuweb_url": "http://en.recuweb.com/health/zmescience.com/2014/12/smart-fibers-can-turn-your-sweater-into-a-medical-monitoring-station",
+            "resource_url": "http://www.google.com/search?q=medical%2Bmonitoring%2Bmedical%2Bmonitoring&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://zmescience.com/medicine/smart-fiber-for-medicine-05464/"
         }
     }
 }
