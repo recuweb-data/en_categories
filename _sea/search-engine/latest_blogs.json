@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "search-engine",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/search-engine/",
@@ -11,92 +11,71 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/search-engine/search-engine/blogs.json"
     },
     "items": {
+        "searchenginewatch.com/2015/04/the-value-of-links-sew-search-engine-watch": {
+            "title": "The Value of Links SEW - Search Engine Watch...",
+            "snippet": "Perhaps this is overstating it there's no doubt that links serve a critical function in search engine optimization. All search engines use links as a signal of relevance, authority, and trust. Even Yandex has reversed its position,...",
+            "date": "2015-04-27",
+            "author_name": "Cory Collins",
+            "categories": "yandex,search-engine",
+            "tags": "even,yandex,search,search_engine,engine,perhaps,ization,engines,authority",
+            "recuweb_url": "http://en.recuweb.com/search-engine/searchenginewatch.com/2015/04/the-value-of-links-sew-search-engine-watch",
+            "resource_url": "http://www.google.com/search?q=search%2Bengine%2Bsearch%2Bengine&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://searchenginewatch.com/sew/how-to/2405738/the-value-of-links"
+        },
+        "searchenginejournal.com/2015/04/will-amazon-become-the-source-for-home-repair-search-engine": {
+            "title": "Will Amazon Become the Source for Home Repair? - Search Engine...",
+            "snippet": "Amazon has just launched a marketplace to offer consumers a place to search for professionals called Amazon Home Services. Offering 700 separate options for search parameters, Amazon wants to corner the market on...",
+            "date": "2015-04-26",
+            "author_name": "Pierre Zarokian",
+            "categories": "home,search-engine",
+            "tags": "market,professionals,search,search_engine,engine",
+            "recuweb_url": "http://en.recuweb.com/search-engine/searchenginejournal.com/2015/04/will-amazon-become-the-source-for-home-repair-search-engine",
+            "resource_url": "http://www.google.com/search?q=search%2Bengine%2Bsearch%2Bengine&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://searchenginejournal.com/will-amazon-become-source-home-repair/130152/"
+        },
+        "searchengineland.com/2015/04/are-these-the-winners-&-losers-of-google-mobilegeddon": {
+            "title": "Are These The Winners & Losers Of Google Mobilegeddon?",
+            "snippet": "Danny Sullivan is a Founding Editor of Search Engine Land. He's a widely cited authority on search engines and search marketing issues who has covered the space since 1996. Danny also serves as Chief Content Officer for...",
+            "date": "2015-04-25",
+            "author_name": "Danny Sullivan",
+            "categories": "search-engine,google,marketing",
+            "tags": "content,serves,authority,search,search_engine,search_engine_land,engine,engine_land,land,editor,google,engines,marketing",
+            "recuweb_url": "http://en.recuweb.com/marketing/searchengineland.com/2015/04/are-these-the-winners-&-losers-of-google-mobilegeddon",
+            "resource_url": "http://www.google.com/search?q=search%2Bengine%2Bsearch%2Bengine&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://searchengineland.com/winners-losers-google-mobilegeddon-219786"
+        },
+        "searchengineland.com/2015/04/google-maps-hack-shows-android-mascot-relieving-itself-on-apple": {
+            "title": "Google Maps Hack Shows Android Mascot Relieving Itself On Apple...",
+            "snippet": "Greg Sterling is a Contributing Editor at Search Engine Land. He writes a personal blog, Screenwerk, about connecting the dots between digital media and real-world consumer behavior. He is also VP of Strategy and Insights...",
+            "date": "2015-04-24",
+            "author_name": "Greg Sterling",
+            "categories": "search-engine,google",
+            "tags": "search,search_engine,search_engine_land,engine,engine_land,land,editor,google,shows,world",
+            "recuweb_url": "http://en.recuweb.com/google/searchengineland.com/2015/04/google-maps-hack-shows-android-mascot-relieving-itself-on-apple",
+            "resource_url": "http://www.google.com/search?q=search%2Bengine%2Bsearch%2Bengine&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://searchengineland.com/google-maps-hack-shows-android-mascot-relieving-itself-on-apple-logo-219754"
+        },
         "searchenginewatch.com/2015/04/will-yandex-penalizing-paid-links-affect-other-search-engines": {
             "title": "Will Yandex Penalizing Paid Links Affect Other Search Engines...",
             "snippet": "The move by the Russian search engine to penalize paid links may be a smart one, but will it have a ripple effect on other search engines such as Baidu and Naver?",
             "date": "2015-04-23",
             "author_name": "Michael Bonfils",
             "categories": "yandex,baidu",
-            "tags": "smart,search,search_engines,engines,engine",
+            "tags": "paid,search,search_engines,engines,yandex,engine",
             "recuweb_url": "http://en.recuweb.com/baidu/searchenginewatch.com/2015/04/will-yandex-penalizing-paid-links-affect-other-search-engines",
             "resource_url": "http://www.google.com/search?q=search%2Bengine%2Bsearch%2Bengine&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://searchenginewatch.com/sew/how-to/2405308/will-yandex-penalizing-paid-links-affect-other-search-engines-ranking-factors"
         },
-        "searchenginejournal.com/2015/04/create-branded-seo-reports-with-webceo-sej-search-engine": {
-            "title": "Create Branded SEO Reports With WebCEO SEJ - Search Engine...",
-            "snippet": "Run your SEO team with white labeled automatic reporting and a robust system that shows what you need to fix with WebCEO.",
-            "date": "2015-04-22",
-            "author_name": "Laura Cruz",
-            "categories": "search-engine",
-            "tags": "fix,search,search_engine,engine,create,seo,run",
-            "recuweb_url": "http://en.recuweb.com/search-engine/searchenginejournal.com/2015/04/create-branded-seo-reports-with-webceo-sej-search-engine",
-            "resource_url": "http://www.google.com/search?q=search%2Bengine&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://searchenginejournal.com/need-optimized-bring-ceo-webceo-review-sponsored-post/130299/"
-        },
-        "searchenginewatch.com/2015/04/google-mobilegeddon-has-officially-arrived-search-engine-watch": {
-            "title": "Google \"Mobilegeddon\" Has Officially Arrived - Search Engine Watch...",
-            "snippet": "Nearly two months after its announcement, Google has changed its algorithm to favor mobile-friendly sites. Brands like Ryanair and American Apparel are already suffering in the search rankings.",
+        "searchengineland.com/2015/04/google-says-there-are-4-7%-more-mobile-friendly-websites-today": {
+            "title": "Google Says There Are 4.7% More Mobile-Friendly Websites Today...",
+            "snippet": "Barry Schwartz is Search Engine Land's News Editor and owns RustyBrick, a NY based web consulting firm. He also runs Search Engine Roundtable, a popular search blog on very advanced SEM topics. Barry's can be...",
             "date": "2015-04-21",
-            "author_name": "Mike O'Brien",
+            "author_name": "Barry Schwartz",
             "categories": "search-engine,google",
-            "tags": "friendly,sites,algorithm,search,search_engine,engine,google,nearly,mobile,rankings",
-            "recuweb_url": "http://en.recuweb.com/google/searchenginewatch.com/2015/04/google-mobilegeddon-has-officially-arrived-search-engine-watch",
+            "tags": "search,search_engine,engine,web,firm,editor,search_engine_land,engine_land,land,friendly,google,mobile,advanced,topics",
+            "recuweb_url": "http://en.recuweb.com/google/searchengineland.com/2015/04/google-says-there-are-4-7%-more-mobile-friendly-websites-today",
             "resource_url": "http://www.google.com/search?q=search%2Bengine%2Bsearch%2Bengine&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://searchenginewatch.com/sew/news/2405046/google-mobilegeddon-has-officially-arrived"
-        },
-        "searchenginewatch.com/2015/04/redirects-for-seo-soup-to-nuts-sew-search-engine-watch": {
-            "title": "Redirects for SEO: Soup to Nuts SEW - Search Engine Watch...",
-            "snippet": "If you're redesigning or moving a site and your URLs are changing, you will need redirects. So save your site's search equity and be an SEO hero by following this redirects for SEO plan.",
-            "date": "2015-04-21",
-            "author_name": "Andrew Delamarter",
-            "categories": "search-engine",
-            "tags": "changing,search,search_engine,engine,seo,site",
-            "recuweb_url": "http://en.recuweb.com/search-engine/searchenginewatch.com/2015/04/redirects-for-seo-soup-to-nuts-sew-search-engine-watch",
-            "resource_url": "http://www.google.com/search?q=search%2Bengine&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://searchenginewatch.com/sew/how-to/2404872/redirects-for-seo-soup-to-nuts"
-        },
-        "fmprice.blogspot.com/2015/04/how-put-your-blog-on-search-engine-very-easy": {
-            "title": "How put Your Blog on Search Engine Very Easy...",
-            "snippet": "If we make a blog on the any topic, then we mush have most knowledge about this you have no knowledge about this topic then you can not write best one for your Search engine not sport you,and you blog not run and come on search engine come out those...",
-            "date": "2015-04-18",
-            "author_name": "Du Mont",
-            "categories": "sport,search-engine",
-            "tags": "run,any,search,search_engine,engine,easy",
-            "recuweb_url": "http://en.recuweb.com/search-engine/fmprice.blogspot.com/2015/04/how-put-your-blog-on-search-engine-very-easy",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=search%2Bengine%2Bsearch%2Bengine&rss=1&lng=en",
-            "source_url": "http://fmprice.blogspot.com/2015/04/how-put-your-blog-on-search-engine-very.html"
-        },
-        "fmprice.blogspot.com/2015/04/submit-blogger-site-maps-on-search-engine-yahoo-bing-very-easy": {
-            "title": "Submit Blogger Site Maps on Search Engine,Yahoo,bing very easy...",
-            "snippet": "Search is most important feature for any site,if search engine not support any site then this never work, we must post and work as the search engine require and first our work is that we should use such keyword on the post title which are most...",
-            "date": "2015-04-18",
-            "author_name": "Du Mont",
-            "categories": "search-engine,yahoo,bing",
-            "tags": "should,require,any,important,easy,search,search_engine,engine,site,yahoo,bing,work",
-            "recuweb_url": "http://en.recuweb.com/bing/fmprice.blogspot.com/2015/04/submit-blogger-site-maps-on-search-engine-yahoo-bing-very-easy",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=search%2Bengine%2Bsearch%2Bengine&rss=1&lng=en",
-            "source_url": "http://fmprice.blogspot.com/2015/04/submit-blogger-site-maps-on-search.html"
-        },
-        "zoho.com/2015/04/introducing-inbox-insight-a-search-engine-for-your-zoho": {
-            "title": "Introducing Inbox Insight: A Search Engine For Your Inbox Zoho...",
-            "snippet": "If you're like me, you read perhaps a hundred emails a day. A few are very important. Some need follow up. Some become references to important infor...",
-            "date": "2015-04-17",
-            "author_name": "Revanth C",
-            "categories": "search-engine",
-            "tags": "important,search,search_engine,engine",
-            "recuweb_url": "http://en.recuweb.com/search-engine/zoho.com/2015/04/introducing-inbox-insight-a-search-engine-for-your-zoho",
-            "resource_url": "http://www.google.com/search?q=search%2Bengine%2Bsearch%2Bengine&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://zoho.com/mail/blog/inbox-insight-app.html"
-        },
-        "solutionsforyourweb.blogspot.com/2015/04/the-need-for-efficient-seo-agency-sydney-today": {
-            "title": "The Need for Efficient SEO Agency Sydney Today...",
-            "snippet": "SEO services are a great method of increasing search hits of a site in a search engine by search engine optimization techniques. It has a lot of strategies and techniques, and an entire industry has developed to accommodate this. However, there is a...",
-            "date": "2015-04-17",
-            "author_name": "Beryl Brittni",
-            "tags": "strategies,techniques,great,seo,today,search,site,engine,ization,however",
-            "recuweb_url": "http://en.recuweb.com/solutionsforyourweb.blogspot.com/2015/04/the-need-for-efficient-seo-agency-sydney-today",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=search%2Bengine%2Bsearch%2Bengine&rss=1&lng=en",
-            "source_url": "http://solutionsforyourweb.blogspot.com/2015/04/the-need-for-efficient-seo-agency.html"
+            "source_url": "http://searchengineland.com/google-says-there-are-4-7-more-mobile-friendly-web-sites-today-than-two-months-ago-219487"
         },
         "searchengineland.com/2015/04/bing-reaches-20-percent-search-market-share-milestone-in": {
             "title": "Bing Reaches 20 Percent Search Market Share Milestone In US...",
@@ -104,21 +83,43 @@
             "date": "2015-04-16",
             "author_name": "Greg Sterling",
             "categories": "bing,yahoo",
-            "tags": "nearly,search,bing,however,engines,results,yahoo",
+            "tags": "volume,serves,results,nearly,effective,major,search,market,bing,engines,yahoo",
             "recuweb_url": "http://en.recuweb.com/yahoo/searchengineland.com/2015/04/bing-reaches-20-percent-search-market-share-milestone-in",
             "resource_url": "http://www.google.com/search?q=search%2Bengine%2Bsearch%2Bengine&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://searchengineland.com/bing-reaches-20-percent-search-milestone-in-us-market-218574"
         },
-        "wendellzbdo.wordpress.com/2015/04/insurance-search-engine-advertising-for-agent-leads": {
-            "title": "Insurance Search Engine Advertising For Insurance Agent Leads...",
-            "snippet": "For several insurance companies and insuranceagencies, insurance search engine search engine marketing techniques is a brave new world, filled using a litany of acronyms and confusingphrases. Like any emerging field, what might look confusing at...",
-            "date": "2015-04-15",
-            "author_name": "wendellzbdo",
-            "categories": "insurance,search-engine,marketing",
-            "tags": "look,any,techniques,search,search_engine,engine,marketing",
-            "recuweb_url": "http://en.recuweb.com/marketing/wendellzbdo.wordpress.com/2015/04/insurance-search-engine-advertising-for-agent-leads",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=search%2Bengine%2Bsearch%2Bengine&rss=1&lng=en",
-            "source_url": "http://wendellzbdo.wordpress.com/2015/04/15/insurance-search-engine-advertising-for-insurance-agent-leads/"
+        "consequenceofsound.net/2015/04/let-me-drake-that-for-you-is-the-all-drizzy-search": {
+            "title": "Let Me Drake That For You is the all-Drizzy search engine of your...",
+            "snippet": "Tired of turning to Google for your inquisitive needs? Looking for a little something extra from your search engine, perhaps? Enter Let Me Drake That For You, a new web portal that provides the Drizzy-related answers to all...",
+            "date": "2015-04-09",
+            "author_name": "Michelle Geslani",
+            "categories": "google",
+            "tags": "web,let,drake,search,engine,google,looking,perhaps",
+            "recuweb_url": "http://en.recuweb.com/google/consequenceofsound.net/2015/04/let-me-drake-that-for-you-is-the-all-drizzy-search",
+            "resource_url": "http://www.google.com/search?q=search%2Bengine&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://consequenceofsound.net/2015/04/let-me-drake-that-for-you-is-the-all-drizzy-search-engine-of-your-dreams/"
+        },
+        "danseos87info.wordpress.com/2015/04/search-engine-optimization-a-subset-of-advertising-is": {
+            "title": "Search engine optimization (Search Engine Optimization), a subset of search engine advertising, is...",
+            "snippet": "Search Engine Marketing (SEO), a subset of online search engine marketing, is the procedure of enhancing the volume and quality of traffic to a web website from search...",
+            "date": "2015-04-01",
+            "author_name": "logan3e2w9of2",
+            "categories": "marketing",
+            "tags": "volume,web,engine,marketing,search,ization,advertising,seo,website",
+            "recuweb_url": "http://en.recuweb.com/marketing/danseos87info.wordpress.com/2015/04/search-engine-optimization-a-subset-of-advertising-is",
+            "resource_url": "http://en.search.wordpress.com/?q=search%2Bengine%2Bsearch%2Bengine&f=feed&page=1",
+            "source_url": "http://danseos87info.wordpress.com/2015/04/01/search-engine-optimization-search-engine-optimization-a-subset-of-search-engine-advertising-is-the-process-of-improving-the-volume-and-quality-of-traffic-to-an-internet-website-from-search-engines/"
+        },
+        "searchengineland.com/2015/03/mobile-friendly-update-search-engine-land": {
+            "title": "Mobile Friendly Update - Search Engine Land...",
+            "snippet": "(3) The fastest way to see if your web pages are mobile-friendly is to see if you have the mobile-friendly label in the live mobile search results now. If not, check the mobile-friendly testing tool, which should match the live...",
+            "date": "2015-03-25",
+            "author_name": "Barry Schwartz",
+            "categories": "search-engine",
+            "tags": "friendly,mobile,web,search,search_engine,search_engine_land,engine,engine_land,land,results,tool,should",
+            "recuweb_url": "http://en.recuweb.com/search-engine/searchengineland.com/2015/03/mobile-friendly-update-search-engine-land",
+            "resource_url": "http://www.google.com/search?q=search%2Bengine%2Bsearch%2Bengine&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://searchengineland.com/google-clarifies-the-mobile-friendly-algorithm-will-roll-out-over-a-week-be-a-yesno-response-more-217399"
         }
     }
 }
