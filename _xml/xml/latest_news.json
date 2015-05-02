@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "xml",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/xml/",
@@ -11,22 +11,52 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/xml/xml/blogs.json"
     },
     "items": {
-        "publishersweekly.com/2015/04/charting-the-transformation-in-digital-content-and-solutions-publishers-weekly": {
-            "title": "Charting the Transformation in Digital Content and Solutions: Digital... - Publishers Weekly...",
-            "snippet": "Charting the Transformation in Digital Content and Solutions: Digital...Publishers WeeklyThe fact that XMLwhich was introduced 20 years ago, in 1996was a focus 10 years ago, and has since become nearly ubiquitous, drives home the point that new...",
-            "date": "2015-04-24",
-            "categories": "home",
-            "tags": "solutions",
-            "recuweb_url": "http://en.recuweb.com/home/publishersweekly.com/2015/04/charting-the-transformation-in-digital-content-and-solutions-publishers-weekly",
-            "resource_url": "http://news.google.com/?hl=en&q=xml%2Bxml&output=atom&nord=1",
-            "source_url": "http://publishersweekly.com/pw/by-topic/digital/devices/article/66400-charting-the-transformation-in-digital-content-and-solutions-digital-solutions-in-india-2015.html"
+        "streetinsider.com/2015/04/british-virgin-islands-government-launches-fatca-&-aeoi-portal-with-vizor": {
+            "title": "British Virgin Islands Government Launches FATCA & AEOI Portal with Vizor Software...",
+            "snippet": "Extensive validation of FATCA and CRS data, including validation against XML schema, validation against account information, GIIN validation, and many additional business rules such as those specified in the FATCA XML version 1.1 User Guide.",
+            "date": "2015-04-27",
+            "categories": "business,xml",
+            "tags": "user,business,validation,software,data,xml,information,version",
+            "recuweb_url": "http://en.recuweb.com/xml/streetinsider.com/2015/04/british-virgin-islands-government-launches-fatca-&-aeoi-portal-with-vizor",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=us",
+            "source_url": "http://streetinsider.com/Press+Releases/British+Virgin+Islands+Government+Launches+FATCA+&amp;+AEOI+Portal+with+Vizor+Software/10489822.html"
+        },
+        "traveldailynews.com/2015/04/xml-travelgate-sees-growth-potential-in-middle-east": {
+            "title": "XML Travelgate sees growth potential in Middle East...",
+            "snippet": "The business is an XML integration specialist. It aggregates inventory from suppliers'APIs into a hub and then gives access to the hub to online agents and tour operators. XML Travelgate, a travel technology business based in Spain, is exhibiting...",
+            "date": "2015-04-27",
+            "categories": "travel,technology,business,xml",
+            "tags": "exhibiting,travel,travel-technology,travel-technology-business,technology,technology-business,technology-business-based,business,business-based,agents,integration,middle,middle_east,east,sees,sees-growth,sees-growth-potential,growth,growth-potential,potential,xml,xml_travelgate,travelgate,apis,into,access,spain",
+            "recuweb_url": "http://en.recuweb.com/xml/traveldailynews.com/2015/04/xml-travelgate-sees-growth-potential-in-middle-east",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=us",
+            "source_url": "http://traveldailynews.com/news/article/65814"
+        },
+        "traveldailynews.com/2015/04/xml-travelgate-sees-growth-potential-in-middle-east-travel-daily-news": {
+            "title": "XML Travelgate sees growth potential in Middle East - Travel Daily News International...",
+            "snippet": "XML Travelgate sees growth potential in Middle EastTravel Daily News InternationalXML Travelgate, a travel technology business based in Spain, is exhibiting at Arabian Travel Market in Dubai for the first time to kickstart its move into the Middle...",
+            "date": "2015-04-27",
+            "categories": "travel,technology,business,xml",
+            "tags": "kickstart,kickstart-its-move,move,arabian,arabian_travel,arabian_travel_market,travel,travel_market,market,exhibiting,travel-technology,travel-technology-business,technology,technology-business,technology-business-based,business,business-based,middle,daily,travelgate,travel_daily,middle_east,east,sees,sees-growth,sees-growth-potential,growth,growth-potential,potential,xml,xml_travelgate,spain,dubai,into",
+            "recuweb_url": "http://en.recuweb.com/xml/traveldailynews.com/2015/04/xml-travelgate-sees-growth-potential-in-middle-east-travel-daily-news",
+            "resource_url": "http://news.google.com/?hl=en&q=xml&output=atom&nord=1",
+            "source_url": "http://traveldailynews.com/news/article/65814/xml-travelgate-sees-growth-potential"
+        },
+        "guardianlv.com/2015/04/microsoft-corporation-perks-up-enterprise-mode-and-discovery": {
+            "title": "Microsoft Corporation Perks Up Enterprise Mode and Enterprise Discovery...",
+            "snippet": "Secondly, new Group Policy Object settings were then created, plus the new bulk import feature for Enterprise Mode, so users can import XML files with information collected via the GPOs. This time, Microsoft Corporation added the new option IE7...",
+            "date": "2015-04-25",
+            "categories": "policy,xml",
+            "tags": "microsoft,information,enterprise,enterprise_mode,mode,discovery,xml,files",
+            "recuweb_url": "http://en.recuweb.com/xml/guardianlv.com/2015/04/microsoft-corporation-perks-up-enterprise-mode-and-discovery",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=us",
+            "source_url": "http://guardianlv.com/2015/04/microsoft-corporation-perks-up-enterprise-mode-and-enterprise-discovery/"
         },
         "forbes.com/2015/04/cybersecurity-at-rsa-all-about-the-tools-no-trouble": {
             "title": "Cybersecurity At RSA: All About The Tools, No Trouble?",
             "snippet": "Today, this product has moved well beyond its XML appliance roots to a user-friendly tool for handing all the security around APIs, so that developers dont have to worry about the nuts and bolts when publishing their software interfaces. Certes...",
             "date": "2015-04-24",
             "categories": "xml",
-            "tags": "xml,apis,software",
+            "tags": "user,xml,apis,software",
             "recuweb_url": "http://en.recuweb.com/xml/forbes.com/2015/04/cybersecurity-at-rsa-all-about-the-tools-no-trouble",
             "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=us",
             "source_url": "http://forbes.com/sites/jasonbloomberg/2015/04/24/cybersecurity-at-rsa-all-about-the-tools-no-trouble/"
@@ -36,57 +66,27 @@
             "snippet": "The improvements include an update to Microsoft's Enterprise Mode browser compatibility solution, along with an option to use XML output with a site discovery tool. The improvements are a bit obscure, but Microsoft has been changing its browser...",
             "date": "2015-04-24",
             "categories": "xml",
-            "tags": "microsoft,xml",
+            "tags": "discovery,enterprise,enterprise_mode,mode,microsoft,xml",
             "recuweb_url": "http://en.recuweb.com/xml/redmondmag.com/2015/04/enterprise-mode-for-ie-gets-some-compatibility-enhancements",
             "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=us",
             "source_url": "http://redmondmag.com/articles/2015/04/24/enterprise-mode-for-ie.aspx"
         },
-        "gcn.com/2015/04/solving-the-search-problem-for-large-scale-repositories": {
-            "title": "Solving the search problem for large-scale repositories...",
-            "snippet": "Solutions exist to help these agencies organize and structure the documents, often by converting images and scanned documents to Extensible Markup Language (XML), which provides for sophisticated search, verification, document review and printing...",
-            "date": "2015-04-22",
-            "categories": "xml",
-            "tags": "documents,provides,help,solutions,xml",
-            "recuweb_url": "http://en.recuweb.com/xml/gcn.com/2015/04/solving-the-search-problem-for-large-scale-repositories",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=us",
-            "source_url": "http://gcn.com/articles/2015/04/22/document-conversion.aspx"
-        },
-        "breakingtravelnews.com/2015/04/xml-travelgate-sees-growth-potential-in-middle-east-breaking-travel-news": {
-            "title": "XML Travelgate sees growth potential in Middle East - Breaking Travel News...",
-            "snippet": "XML Travelgate sees growth potential in Middle EastBreaking Travel NewsXML Travelgate, a travel technology business based in Spain, is exhibiting at Arabian Travel Market in Dubai for the first time to kickstart its move into the Middle East and...",
+        "traveldailymedia.com/2015/04/travel-daily-mexml-travelgate-taps-into-the-middle-east-potential-media": {
+            "title": "Travel Daily MEXML Travelgate taps into the Middle East potential - Travel Daily Media (press...",
+            "snippet": "Travel Daily MEXML Travelgate taps into the Middle East potentialTravel Daily Media (press release) (registration) (blog)XML Travelgate, a Spanish-based travel technology business will participate in this year's Arabian Travel Market to kick start...",
             "date": "2015-04-22",
             "categories": "travel,technology,business,xml",
-            "tags": "kickstart,kickstart-its-move,move,arabian,arabian_travel,arabian_travel_market,travel,travel_market,market,exhibiting,travel-technology,travel-technology-business,technology,technology-business,technology-business-based,business,business-based,middle,travelgate,middle_east,east,potential,xml,xml_travelgate,spain,dubai,into",
-            "recuweb_url": "http://en.recuweb.com/xml/breakingtravelnews.com/2015/04/xml-travelgate-sees-growth-potential-in-middle-east-breaking-travel-news",
-            "resource_url": "http://news.google.com/?hl=en&q=xml%2Bxml&output=atom&nord=1",
-            "source_url": "http://breakingtravelnews.com/news/article/xml-travelgate-sees-growth-potential-in-middle-east/"
-        },
-        "traveldailymedia.com/2015/04/xml-travelgate-taps-into-the-middle-east-potential": {
-            "title": "XML Travelgate taps into the Middle East potential...",
-            "snippet": "XML Travelgate, a Spanish-based travel technology business will participate in this years Arabian Travel Market to kick start its move into the Middle East and Asia. The business aggregates inventory from suppliers APIs into a hub and provides...",
-            "date": "2015-04-22",
-            "categories": "business,travel,technology,xml",
-            "tags": "provides,business,move,arabian,arabian_travel,arabian_travel_market,travel,travel_market,market,travel-technology,travel-technology-business,technology,technology-business,middle,middle_east,east,xml,xml_travelgate,travelgate,into,potential,asia,apis",
-            "recuweb_url": "http://en.recuweb.com/xml/traveldailymedia.com/2015/04/xml-travelgate-taps-into-the-middle-east-potential",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=us",
+            "tags": "arabian,arabian_travel,arabian_travel_market,travel,travel_market,market,travel-technology,travel-technology-business,technology,technology-business,business,xml,xml_travelgate,travelgate,daily,travel_daily,middle,middle_east,east,into,potential",
+            "recuweb_url": "http://en.recuweb.com/xml/traveldailymedia.com/2015/04/travel-daily-mexml-travelgate-taps-into-the-middle-east-potential-media",
+            "resource_url": "http://news.google.com/?hl=en&q=xml&output=atom&nord=1",
             "source_url": "http://traveldailymedia.com/220834/xml-travelgate-taps-into-the-middle-east-potential/"
-        },
-        "androidheadlines.com/2015/04/top-12-hidden-features-of-the-galaxy-s6-and-edge": {
-            "title": "Top 12 Hidden Features of the Galaxy S6 and Galaxy S6 Edge...",
-            "snippet": "Its important to remind everyone that you will need root for this. As you will be needing to use the Root Explorer to edit these XML files. Its also important to note that we, Android Headlines, are not responsible for any issues caused by...",
-            "date": "2015-04-21",
-            "categories": "xml",
-            "tags": "xml,files",
-            "recuweb_url": "http://en.recuweb.com/xml/androidheadlines.com/2015/04/top-12-hidden-features-of-the-galaxy-s6-and-edge",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=us",
-            "source_url": "http://androidheadlines.com/2015/04/top-12-hidden-features-of-the-galaxy-s6-and-galaxy-s6-edge.html"
         },
         "tradearabia.com/2015/04/xml-travelgate-targets-the-middle-east": {
             "title": "XML Travelgate targets the Middle East...",
             "snippet": "XML Travelgate, a travel technology business based in Spain, is exhibiting at Arabian Travel Market in Dubai next month for the first time to kickstart its move into the Middle East and Asia. CEO Pedro Br\u00fccher explained that the priority for the...",
             "date": "2015-04-21",
             "categories": "travel,technology,business,xml",
-            "tags": "kickstart,kickstart-its-move,move,next,arabian,arabian_travel,arabian_travel_market,travel,travel_market,market,exhibiting,travel-technology,travel-technology-business,technology,technology-business,technology-business-based,business,business-based,middle,middle_east,east,xml,xml_travelgate,travelgate,spain,dubai,into,asia",
+            "tags": "kickstart,kickstart-its-move,move,next,arabian,arabian_travel,arabian_travel_market,travel,travel_market,market,exhibiting,travel-technology,travel-technology-business,technology,technology-business,technology-business-based,business,business-based,middle,middle_east,east,xml,xml_travelgate,travelgate,spain,dubai,into",
             "recuweb_url": "http://en.recuweb.com/xml/tradearabia.com/2015/04/xml-travelgate-targets-the-middle-east",
             "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=us",
             "source_url": "http://tradearabia.com/news/TTN_280274.html"
@@ -98,7 +98,7 @@
             "categories": "business,database,xml,json",
             "tags": "business,data,next,xml",
             "recuweb_url": "http://en.recuweb.com/json/itjungle.com/2015/04/it-s-tr-time-what-next-for-the-ibm-i-database",
-            "resource_url": "http://news.google.com/?hl=en&q=xml%2Bxml&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=xml&output=atom&nord=1",
             "source_url": "http://itjungle.com/tfh/tfh042015-story02.html"
         },
         "law360.com/2015/04/merits-of-an-xml-based-invention-disclosure-standard-law360-subscription": {
@@ -106,9 +106,9 @@
             "snippet": "Merits Of An XML-Based Invention Disclosure StandardLaw360 (subscription)1 An XML-based invention disclosure standard can fulfill a critical need that conventional invention disclosure forms fail to address, namely validation of invention data and...",
             "date": "2015-04-17",
             "categories": "xml,law",
-            "tags": "data,xml",
+            "tags": "validation,data,xml",
             "recuweb_url": "http://en.recuweb.com/law/law360.com/2015/04/merits-of-an-xml-based-invention-disclosure-standard-law360-subscription",
-            "resource_url": "http://news.google.com/?hl=en&q=xml%2Bxml&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=xml&output=atom&nord=1",
             "source_url": "http://law360.com/articles/640012/merits-of-an-xml-based-invention-disclosure-standard"
         }
     }
