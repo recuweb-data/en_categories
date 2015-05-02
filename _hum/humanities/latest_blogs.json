@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "humanities",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/humanities/",
@@ -11,15 +11,48 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/humanities/humanities/blogs.json"
     },
     "items": {
+        "library.miami.edu/2015/05/digital-humanities-task-force-university-of-miami-libraries": {
+            "title": "Digital Humanities Task Force University of Miami Libraries...",
+            "snippet": "Maria Estorino (Chair, Cuban Heritage Collection, UM Libraries) and Meiyolet M\u00e9ndez (CHC Archivist) quoted in article about the Undergraduate Scholars Symposium hosted by the Cuban Heritage Collection. April 21, e-...",
+            "date": "2015-05-01",
+            "author_name": "admin",
+            "categories": "humanities,university",
+            "tags": "scholars,digital,humanities,university,chair",
+            "recuweb_url": "http://en.recuweb.com/university/library.miami.edu/2015/05/digital-humanities-task-force-university-of-miami-libraries",
+            "resource_url": "http://www.google.com/search?q=humanities&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://library.miami.edu/digital-humanities-task-force/"
+        },
+        "newscenter.berkeley.edu/2015/04/national-humanities-center-awards-fellowship-to-english-prof": {
+            "title": "National Humanities Center awards fellowship to English prof...",
+            "snippet": "The National Humanities Center has awarded a fellowship to UC Berkeley English professor Colleen Lye. She is the 23rd member of the Berkeley faculty to be selected as a fellow by the center.",
+            "date": "2015-04-29",
+            "author_name": "Anne Brice",
+            "categories": "humanities",
+            "tags": "awarded,awards,national,humanities,humanities_center,center,english,professor",
+            "recuweb_url": "http://en.recuweb.com/humanities/newscenter.berkeley.edu/2015/04/national-humanities-center-awards-fellowship-to-english-prof",
+            "resource_url": "http://www.google.com/search?q=humanities&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://newscenter.berkeley.edu/2015/04/29/national-humanities-center-awards-fellowship-to-english-prof/"
+        },
+        "huffingtonpost.com/2015/04/does-it-make-sense-to-pursue-a-humanities-doctorate-the-pros": {
+            "title": "Does it Make Sense to Pursue a Humanities Doctorate? The Pros...",
+            "snippet": "What you need to know before deciding to pursue a Ph.D. in the humanities is that when you finish your degree you will be entering a very difficult job market, in part because many colleges and universities supplement their...",
+            "date": "2015-04-27",
+            "author_name": "Daniel R. Schwarz",
+            "categories": "humanities",
+            "tags": "humanities,part",
+            "recuweb_url": "http://en.recuweb.com/humanities/huffingtonpost.com/2015/04/does-it-make-sense-to-pursue-a-humanities-doctorate-the-pros",
+            "resource_url": "http://www.google.com/search?q=humanities&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://huffingtonpost.com/daniel-r-schwarz/does-it-make-sense-to-pur_b_7151004.html"
+        },
         "stephenslighthouse.com/2015/04/new-aaas-the-state-of-humanities-higher-education-2015": {
             "title": "New AAAS The State of the Humanities: Higher Education 2015...",
             "snippet": "The State of the Humanities: Higher Education 2015 (24 pages; PDF) was released by the Humanities Indicators Project at the American Academy of Arts and Sciences. Special Note: Page 19 of the report includes a chart...",
             "date": "2015-04-26",
             "author_name": "Stephen Abram",
             "categories": "academy,higher-education,education,humanities,arts",
-            "tags": "report,american,american_academy,academy,indicators,released,higher,higher_education,education,state,humanities,arts,sciences",
+            "tags": "report,american,academy,released,higher,higher_education,education,state,humanities,pdf,arts,sciences",
             "recuweb_url": "http://en.recuweb.com/arts/stephenslighthouse.com/2015/04/new-aaas-the-state-of-humanities-higher-education-2015",
-            "resource_url": "http://www.google.com/search?q=humanities&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=humanities%2Bhumanities&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://stephenslighthouse.com/2015/04/26/aaas-the-state-of-the-humanities-higher-education-2015\u2033/"
         },
         "centreforscienceandpolicy.wordpress.com/2015/04/enriching-and-informing-society-what-do-the-humanities-have-to-offer": {
@@ -50,7 +83,7 @@
             "date": "2015-04-22",
             "author_name": "Valerie Alhart",
             "categories": "literature,humanities,arts",
-            "tags": "cultures,announced,sciences,humanities,dean,arts",
+            "tags": "support,support-multidisciplinary,support-multidisciplinary-engagement,multidisciplinary,multidisciplinary-engagement,multidisciplinary-engagement-around,engagement,engagement-around,engagement-around-literature,literature,creation,sciences,sciences_gloria,sciences_gloria_culver,gloria,gloria_culver,culver,humanities,humanities_center,center,dean,arts,announced",
             "recuweb_url": "http://en.recuweb.com/arts/rochester.edu/2015/04/humanities-center-created-newscenter",
             "resource_url": "http://www.google.com/search?q=humanities%2Bhumanities&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://rochester.edu/newscenter/humanities-center-created-99722/"
@@ -61,21 +94,10 @@
             "date": "2015-04-22",
             "author_name": "By Jennifer Schuessler",
             "categories": "institute,technology,humanities,science",
-            "tags": "sciences,panel,institute,technology,humanities,social,science",
+            "tags": "sciences,panel,institute,humanities,science",
             "recuweb_url": "http://en.recuweb.com/science/artsbeat.blogs.nytimes.com/2015/04/new-200-000-carnegie-fellowships-to-aid-researchers-in",
             "resource_url": "http://www.google.com/search?q=humanities%2Bhumanities&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://artsbeat.blogs.nytimes.com/2015/04/22/new-200000-carnegie-fellowships-to-aid-researchers-in-humanities-and-social-science/"
-        },
-        "digitalhumanitiesnow.org/2015/04/cfp-digital-humanities-forum-2015-now": {
-            "title": "CFP: Digital Humanities Forum 2015 Digital Humanities Now...",
-            "snippet": "The Institute for Digital Research in the Humanities at the University of Kansas has issued a call for proposals for Digital Humanities Forum 2015, to take place September 25-26, 2015. The theme for 2015 is Peripheries,...",
-            "date": "2015-04-21",
-            "author_name": "The Editors",
-            "categories": "humanities,institute,university",
-            "tags": "place,digital,research,humanities,institute,university",
-            "recuweb_url": "http://en.recuweb.com/university/digitalhumanitiesnow.org/2015/04/cfp-digital-humanities-forum-2015-now",
-            "resource_url": "http://www.google.com/search?q=humanities%2Bhumanities&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://digitalhumanitiesnow.org/2015/04/cfp-digital-humanities-forum-2015/"
         },
         "hybridpedagogy.com/2015/04/a-letter-to-the-humanities-dh-will-not-save-you-hybrid": {
             "title": "A Letter to the Humanities: DH Will Not Save You - Hybrid Pedagogy...",
@@ -83,7 +105,7 @@
             "date": "2015-04-19",
             "author_name": "Sean Michael Morris",
             "categories": "humanities",
-            "tags": "humanities,research",
+            "tags": "tools,humanities,research",
             "recuweb_url": "http://en.recuweb.com/humanities/hybridpedagogy.com/2015/04/a-letter-to-the-humanities-dh-will-not-save-you-hybrid",
             "resource_url": "http://www.google.com/search?q=humanities%2Bhumanities&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://hybridpedagogy.com/journal/a-letter-to-the-humanities-dh-will-not-save-you/"
@@ -94,32 +116,10 @@
             "date": "2015-04-16",
             "author_name": "Richie DeMaria",
             "categories": "education,humanities",
-            "tags": "awards,education,humanities",
+            "tags": "art,children,awards,education,humanities,thursday",
             "recuweb_url": "http://en.recuweb.com/humanities/independent.com/2015/04/bro-ing-out-over-humanities-the-santa-barbara-independent",
             "resource_url": "http://www.google.com/search?q=humanities%2Bhumanities&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://independent.com/news/2015/apr/16/bro-ing-out-over-humanities/"
-        },
-        "dailynous.com/2015/04/data-on-the-humanities-daily-nous": {
-            "title": "Data on the Humanities Daily Nous...",
-            "snippet": "The American Academy of Arts & Sciences has published its Humanities Indicators report for the United States, The State of the Humanities: Higher Education 2015. Among its findings: Humanities represent a little more than...",
-            "date": "2015-04-14",
-            "author_name": "Justin",
-            "categories": "higher-education,education,humanities,academy,arts",
-            "tags": "higher,higher_education,education,report,humanities,indicators,american,american_academy,academy,daily,data,arts,sciences,state",
-            "recuweb_url": "http://en.recuweb.com/arts/dailynous.com/2015/04/data-on-the-humanities-daily-nous",
-            "resource_url": "http://www.google.com/search?q=humanities%2Bhumanities&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://dailynous.com/2015/04/13/data-on-the-humanities/"
-        },
-        "insidehighered.com/2015/04/report-offers-a-mixed-picture-of-state-the-humanities-in-2015": {
-            "title": "Report offers a mixed picture of state of the humanities in 2015...",
-            "snippet": "The last year has seen plenty of concern about the state of the humanities. Once popular English departments worry about their declining numbers of majors. New data show that foreign language enrollments are shrinking.",
-            "date": "2015-04-13",
-            "author_name": "Inside Higher Ed",
-            "categories": "humanities",
-            "tags": "data,language,departments,majors,state,report,humanities,english",
-            "recuweb_url": "http://en.recuweb.com/humanities/insidehighered.com/2015/04/report-offers-a-mixed-picture-of-state-the-humanities-in-2015",
-            "resource_url": "http://www.google.com/search?q=humanities%2Bhumanities&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://insidehighered.com/news/2015/04/13/report-offers-mixed-picture-state-humanities-2015"
         }
     }
 }
