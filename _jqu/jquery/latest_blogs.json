@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "jquery",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/jquery/",
@@ -11,16 +11,49 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/jquery/jquery/blogs.json"
     },
     "items": {
+        "9lessons.info/2015/04/google-charts-with-jquery-ajax": {
+            "title": "Google Charts with Jquery Ajax -...",
+            "snippet": "How to do Google Charts with Jquery Ajax. Tutorial focused on Programming, Jquery, Ajax, PHP, Demos, Web Design, Javascript, Software and MySQL.",
+            "date": "2015-04-27",
+            "author_name": "srinivas.tamada@gmail.com (Srinivas Tamada)",
+            "categories": "jquery,google,php,javascript,mysql",
+            "tags": "web,design,jquery,google,tutorial,php,javascript",
+            "recuweb_url": "http://en.recuweb.com/mysql/9lessons.info/2015/04/google-charts-with-jquery-ajax",
+            "resource_url": "http://www.google.com/search?q=jquery&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://9lessons.info/2015/04/google-charts-with-jquery-ajax.html"
+        },
+        "denniswebproductionproject.blogspot.com/2015/04/jquery-and-javascript": {
+            "title": "JQuery and Javascript...",
+            "snippet": "Introduction In this piece of work I am going to be describing the purpose and function of Javascript and Jquery and how it is used in websites. Both have their own set of pros and cons for use in a website and I will be going through some of them.",
+            "date": "2015-04-25",
+            "author_name": "dennis ly",
+            "categories": "jquery,javascript",
+            "tags": "own,website,function,work,jquery,javascript,introduction",
+            "recuweb_url": "http://en.recuweb.com/javascript/denniswebproductionproject.blogspot.com/2015/04/jquery-and-javascript",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=jquery%2Bjquery&rss=1&lng=en",
+            "source_url": "http://denniswebproductionproject.blogspot.com/2015/04/introduction-in-this-piece-of-work-i-am.html"
+        },
         "blog.jquery.com/2015/04/announcing-globalize-1-0-official-jquery-blog": {
             "title": "Announcing Globalize 1.0 Official jQuery Blog...",
             "snippet": "The jQuery Foundation is excited to announce the 1.0 release of the Globalize project, our internationalization (i18n) library. This release has been a long time coming and as Globalize picks up steam and gains more and...",
             "date": "2015-04-23",
             "author_name": "Rafael Xavier de Souza",
             "categories": "internationalization,jquery",
-            "tags": "release,long,announce,jquery,jquery_foundation,foundation,jquery_blog,announcing,globalize,official,project,library",
+            "tags": "release,announce,jquery,jquery_foundation,foundation,jquery_blog,announcing,globalize,official,project,library",
             "recuweb_url": "http://en.recuweb.com/jquery/blog.jquery.com/2015/04/announcing-globalize-1-0-official-jquery-blog",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.jquery.com/2015/04/23/announcing-globalize-1-0/"
+        },
+        "codyhouse.co/2015/04/jquery-hero-slider-codyhouse": {
+            "title": "jQuery Hero Slider CodyHouse...",
+            "snippet": "Therefore we built for you a ready-to-use jQuery slider, with some built in options like video/image backgrounds and different text alignments. In an attempt to increase user engagement, we replaced the navigation arrows...",
+            "date": "2015-04-22",
+            "author_name": "unknown",
+            "categories": "navigation,jquery",
+            "tags": "user,built,jquery,hero,slider,image,text",
+            "recuweb_url": "http://en.recuweb.com/jquery/codyhouse.co/2015/04/jquery-hero-slider-codyhouse",
+            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://codyhouse.co/gem/hero-slider/"
         },
         "blog.jquery.com/2015/04/announcing-pep-official-jquery-blog": {
             "title": "Announcing PEP Official jQuery Blog...",
@@ -28,21 +61,10 @@
             "date": "2015-04-21",
             "author_name": "Scott Gonzalez",
             "categories": "events,jquery,google",
-            "tags": "order,jquery,jquery_foundation,foundation,announce,release,jquery_blog,announcing,official,today",
+            "tags": "work,order,polyfill,pointer,pointer_events,events,jquery,jquery_foundation,foundation,announce,release,jquery_blog,announcing,pep,official,google",
             "recuweb_url": "http://en.recuweb.com/google/blog.jquery.com/2015/04/announcing-pep-official-jquery-blog",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.jquery.com/2015/04/21/announcing-pep-0-3-0/"
-        },
-        "designyourway.net/2015/04/want-a-jquery-or-javascript-carousel-plugin-here-are-the-best": {
-            "title": "Want A jQuery Or Javascript Carousel Plugin? Here Are The Best Of...",
-            "snippet": "jQuery carousel plugins make tasks easy and help present website content and images in creative and innovative ways. They also come with different features.",
-            "date": "2015-04-21",
-            "author_name": "Bogdan Sandu",
-            "categories": "jquery,javascript",
-            "tags": "plugins,plugin,easy,present,jquery,javascript,want,website,content,images",
-            "recuweb_url": "http://en.recuweb.com/javascript/designyourway.net/2015/04/want-a-jquery-or-javascript-carousel-plugin-here-are-the-best",
-            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://designyourway.net/blog/jquery/jquery-javascript-carousel-plugin-best/"
         },
         "harrisalomaa.blogspot.com/2015/04/selecting-client-side-framework-for-webbench": {
             "title": "Selecting client side framework for WebBench...",
@@ -50,7 +72,7 @@
             "date": "2015-04-20",
             "author_name": "(Harri J. Salomaa)",
             "categories": "jquery,javascript",
-            "tags": "jquery,any,javascript,libraries,ing",
+            "tags": "jquery,any,design,javascript,libraries",
             "recuweb_url": "http://en.recuweb.com/javascript/harrisalomaa.blogspot.com/2015/04/selecting-client-side-framework-for-webbench",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=jquery%2Bjquery&rss=1&lng=en",
             "source_url": "http://harrisalomaa.blogspot.com/2015/04/selecting-client-side-framework-for.html"
@@ -61,7 +83,7 @@
             "date": "2015-04-19",
             "author_name": "(Sujay Kundu)",
             "categories": "drupal,jquery",
-            "tags": "drupal,module,present,jquery,jquery_image,jquery_image_slider,image,image_slider,slider,plugin,website,content,highly",
+            "tags": "plugin,website,content,jquery,jquery_image,jquery_image_slider,image,image_slider,slider,highly",
             "recuweb_url": "http://en.recuweb.com/jquery/sujaykundu.blogspot.com/2015/04/jcoverflip-image-slider",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=jquery%2Bjquery&rss=1&lng=en",
             "source_url": "http://sujaykundu.blogspot.com/2015/04/jcoverflip-image-slider.html"
@@ -72,9 +94,9 @@
             "date": "2015-04-17",
             "author_name": "Agus",
             "categories": "jquery,css",
-            "tags": "plugins,libraries,using,jquery,called,css",
+            "tags": "libraries,jquery,css",
             "recuweb_url": "http://en.recuweb.com/css/hongkiat.com/2015/04/15-jquery-plugins-to-make-smart-sticky-elements-hongkiat",
-            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=jquery&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://hongkiat.com/blog/sticky-elements-jquery-plugins/"
         },
         "hendrixski.wordpress.com/2015/04/adding-only-the-parts-of-jquery-ui-that-you-need-into": {
@@ -83,7 +105,7 @@
             "date": "2015-04-17",
             "author_name": "hendrixski",
             "categories": "jquery",
-            "tags": "order,add,app,requirejs,only,jquery,project,simple",
+            "tags": "order,user,built,only,jquery,into,project,simple",
             "recuweb_url": "http://en.recuweb.com/jquery/hendrixski.wordpress.com/2015/04/adding-only-the-parts-of-jquery-ui-that-you-need-into",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=jquery%2Bjquery&rss=1&lng=en",
             "source_url": "http://hendrixski.wordpress.com/2015/04/17/adding-only-the-parts-of-jquery-ui-that-you-need-into-your-requirejs-project/"
@@ -94,32 +116,10 @@
             "date": "2015-04-13",
             "author_name": "Danny",
             "categories": "jquery,css",
-            "tags": "etc,want,jquery,css,provides,flip,plugin",
+            "tags": "plugin,jquery,css,provides",
             "recuweb_url": "http://en.recuweb.com/css/bililite.com/2015/04/animating-arbitrary-values-with-jquery",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=jquery%2Bjquery&rss=1&lng=en",
             "source_url": "http://bililite.com/blog/2015/04/12/animating-arbitrary-values-with-jquery/"
-        },
-        "rajeevkumarsinghblog.blogspot.com/2015/04/how-to-use-jquery-api": {
-            "title": "How to use jquery API...",
-            "snippet": "In the introduction of jquery we told that jquery is the collections of scripts written in JavaScript to perform various task including the document traversal and manipulation, event handling, animation etc. We also expressed some of the benefits of...",
-            "date": "2015-04-12",
-            "author_name": "(Rajeev Kumar Singh)",
-            "categories": "jquery,javascript",
-            "tags": "etc,jquery,javascript",
-            "recuweb_url": "http://en.recuweb.com/javascript/rajeevkumarsinghblog.blogspot.com/2015/04/how-to-use-jquery-api",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=jquery%2Bjquery&rss=1&lng=en",
-            "source_url": "http://rajeevkumarsinghblog.blogspot.com/2015/04/how-to-use-jquery-api.html"
-        },
-        "ejohn.org/2015/04/john-resig-annotated-version-of-the-original-jquery-release": {
-            "title": "John Resig - Annotated Version of the Original jQuery Release...",
-            "snippet": "Recently I was prompted by Daniel Lamb to try and find old versions of jQuery for his jQuery Archive project. Thankfully I was able to find one in the Internet Archive from just a couple weeks after its release, in January 2006.",
-            "date": "2015-04-07",
-            "author_name": "John Resig",
-            "categories": "internet,jquery",
-            "tags": "release,find,version,jquery,project",
-            "recuweb_url": "http://en.recuweb.com/jquery/ejohn.org/2015/04/john-resig-annotated-version-of-the-original-jquery-release",
-            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://ejohn.org/blog/annotated-version-of-the-original-jquery-release/"
         }
     }
 }
