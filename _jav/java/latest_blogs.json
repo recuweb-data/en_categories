@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "java",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/java/",
@@ -11,16 +11,38 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/java/java/blogs.json"
     },
     "items": {
-        "java.dzone.com/2015/04/java-maven-angularjs-seed-project-javalobby": {
-            "title": "Java Maven AngularJS Seed Project Javalobby...",
-            "snippet": "In this article I'll try to find the answer to a couple of basic questions like: Is there a marriage possible between AngularJS, Java and Maven? Can it...",
-            "date": "2015-04-23",
-            "author_name": "ivonet",
-            "categories": "marriage,java",
-            "tags": "answer,questions,java,project",
-            "recuweb_url": "http://en.recuweb.com/java/java.dzone.com/2015/04/java-maven-angularjs-seed-project-javalobby",
+        "blog.pluralsight.com/2015/04/learning-path-jump-into-java-pluralsight-blog": {
+            "title": "Learning Path: Jump into Java - Pluralsight blog...",
+            "snippet": "This learning path will get you up and running with the Java language, and will also introduce you to some of the tools and best practices for your Java code.",
+            "date": "2015-04-27",
+            "author_name": "Amelia White",
+            "categories": "learning,java",
+            "tags": "tools,running,into,java,language,code",
+            "recuweb_url": "http://en.recuweb.com/java/blog.pluralsight.com/2015/04/learning-path-jump-into-java-pluralsight-blog",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://java.dzone.com/articles/java-maven-angularjs-seed"
+            "source_url": "http://blog.pluralsight.com/learning-path-jump-into-java"
+        },
+        "javacodegeeks.com/2015/04/using-rhino-with-java-8-code-geeks": {
+            "title": "Using Rhino with Java 8 Java Code Geeks...",
+            "snippet": "Java brings Nashorn as new JavaScript implementation for JSR 223 (). While this is certainly great news (Nashorn is way faster than Rhino by directly generating Java code), it comes with some challenges:.",
+            "date": "2015-04-24",
+            "author_name": "unknown",
+            "categories": "java,javascript",
+            "tags": "code,using,java,way",
+            "recuweb_url": "http://en.recuweb.com/javascript/javacodegeeks.com/2015/04/using-rhino-with-java-8-code-geeks",
+            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://javacodegeeks.com/2015/04/using-rhino-with-java-8.html"
+        },
+        "infoq.com/2015/04/java-9-and-beyond-infoq": {
+            "title": "Java 9 and Beyond - InfoQ...",
+            "snippet": "Mark Reinhold keynotes on Java 9's impact and features platform module system, security, performance, maintenance-, and speculates on what might come after that, including the Java VM.",
+            "date": "2015-04-23",
+            "author_name": "ExplodingAds.com",
+            "categories": "java",
+            "tags": "java,security",
+            "recuweb_url": "http://en.recuweb.com/java/infoq.com/2015/04/java-9-and-beyond-infoq",
+            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://infoq.com/presentations/java-9-10"
         },
         "springonlinetrainingcenter.wordpress.com/2015/04/learn-about-ejb3-online-training": {
             "title": "Learn About EJB3 Online Training...",
@@ -28,21 +50,10 @@
             "date": "2015-04-23",
             "author_name": "iamjosephlevi",
             "categories": "java,business",
-            "tags": "well,enterprise,learn,developer,java,business",
+            "tags": "version,well,enterprise,learn,developer,java,business",
             "recuweb_url": "http://en.recuweb.com/business/springonlinetrainingcenter.wordpress.com/2015/04/learn-about-ejb3-online-training",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=en",
             "source_url": "http://springonlinetrainingcenter.wordpress.com/2015/04/23/learn-about-ejb3-online-training-2/"
-        },
-        "365tomorrows.com/2015/04/java-365-tomorrows-a-new-flash-of-science-fiction-every-day": {
-            "title": "Java: 365 tomorrows: A New Flash of Science Fiction Every Day...",
-            "snippet": "Java. by submission. April 22nd, 2015. Author: Bob Newbell. I handed the teenager her milk and syrup laden drink and went back to the cash register. Just then, a Yedla walked into the coffee shop. He was a good seven feet tall and had a...",
-            "date": "2015-04-22",
-            "author_name": "submission",
-            "categories": "milk,drink,science,java,coffee",
-            "tags": "into,day,flash,java,coffee",
-            "recuweb_url": "http://en.recuweb.com/coffee/365tomorrows.com/2015/04/java-365-tomorrows-a-new-flash-of-science-fiction-every-day",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://365tomorrows.com/04/22/java/"
         },
         "ekiras.com/2015/04/test-java-7": {
             "title": "Test: Java_7...",
@@ -50,21 +61,10 @@
             "date": "2015-04-22",
             "author_name": "(Ekansh Rastogi)",
             "categories": "java",
-            "tags": "point,answers,answer,questions,java",
+            "tags": "point,java",
             "recuweb_url": "http://en.recuweb.com/java/ekiras.com/2015/04/test-java-7",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=en",
             "source_url": "http://ekiras.com/2015/04/test-java-7.html"
-        },
-        "adam-bien.com/2015/04/upcoming-java-ee-testing-html-5-persistence": {
-            "title": "Upcoming Java EE/Java/Testing/HTML 5/Persistence...",
-            "snippet": "Workshop: HTML 5 for Java EE Developers Workshop at Munich Airport, April 28th; Free and interactive live streaming: Airhacks Questions and Answers Ask questions now!, May 4th, 6 pm CET...",
-            "date": "2015-04-22",
-            "author_name": "admin",
-            "categories": "java,html",
-            "tags": "answers,questions,live,java,free",
-            "recuweb_url": "http://en.recuweb.com/html/adam-bien.com/2015/04/upcoming-java-ee-testing-html-5-persistence",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://adam-bien.com/roller/abien/entry/upcoming_java_ee_java_testing"
         },
         "asmawoo.wordpress.com/2015/04/happy-birthday-java-is-20": {
             "title": "HAPPY BIRTHDAY JAVA!, JAVA IS 20.",
@@ -72,21 +72,10 @@
             "date": "2015-04-20",
             "author_name": "asmawoo",
             "categories": "syntax,sun,fruit,java",
-            "tags": "write,code,language,project,java",
+            "tags": "write,run,virtual,code,language,java",
             "recuweb_url": "http://en.recuweb.com/java/asmawoo.wordpress.com/2015/04/happy-birthday-java-is-20",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=en",
             "source_url": "http://asmawoo.wordpress.com/2015/04/20/happy-birthday-java-java-is-20/"
-        },
-        "securityaffairs.co/2015/04/java-new-vulnerabilities-affects-million-applicationssecurity-affairs": {
-            "title": "Java - New vulnerabilities affects million applicationsSecurity Affairs...",
-            "snippet": "Oracle warned that a dozen of new Java security vulnerabilities could be exploitable remotely to gain access to a target application without login.",
-            "date": "2015-04-18",
-            "author_name": "Pierluigi Paganini",
-            "categories": "java",
-            "tags": "security,java,oracle,access",
-            "recuweb_url": "http://en.recuweb.com/java/securityaffairs.co/2015/04/java-new-vulnerabilities-affects-million-applicationssecurity-affairs",
-            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://securityaffairs.co/wordpress/36084/hacking/new-java-vulnerabilities.html"
         },
         "androidauthority.com/2015/04/java-basics-a-tutorial-for-beginners-android-authority": {
             "title": "Java basics: a tutorial for beginners - Android Authority...",
@@ -94,7 +83,7 @@
             "date": "2015-04-17",
             "author_name": "Gary Sims",
             "categories": "java",
-            "tags": "language,programming,write,own,android,beginners,java,basics",
+            "tags": "language,app,programming,write,own,android,java,basics",
             "recuweb_url": "http://en.recuweb.com/java/androidauthority.com/2015/04/java-basics-a-tutorial-for-beginners-android-authority",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://androidauthority.com/java-tutorial-beginners-582147/"
@@ -105,10 +94,21 @@
             "date": "2015-04-14",
             "author_name": "BrianKrebs",
             "categories": "java",
-            "tags": "via,applications,java,updates,windows,flash,security,web,software",
+            "tags": "via,control,java,windows,flash,security,web,applications,software",
             "recuweb_url": "http://en.recuweb.com/java/krebsonsecurity.com/2015/04/critical-updates-for-windows-flash-java-krebs-on-security",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://krebsonsecurity.com/2015/04/critical-updates-for-windows-flash-java/"
+        },
+        "javaworld.com/2015/03/java-the-once-and-future-king-of-internet-programming-javaworld": {
+            "title": "Java: The once and future king of Internet programming JavaWorld...",
+            "snippet": "What is Java to you? A programming language you learned in college? The lingua franca of corporate IT? Would you believe that Java is poised to dominate the next explosion of the Internet? Built for embedded computing...",
+            "date": "2015-03-24",
+            "author_name": "Cameron Laird",
+            "categories": "college,java,internet",
+            "tags": "programming,programming-language,language,future,java",
+            "recuweb_url": "http://en.recuweb.com/internet/javaworld.com/2015/03/java-the-once-and-future-king-of-internet-programming-javaworld",
+            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://javaworld.com/article/2900842/mobile-java/java-the-once-and-future-king-of-internet-programming.html"
         },
         "extremetech.com/2015/03/java-now-pollutes-your-mac-with-adware-here-s-how-to": {
             "title": "Java now pollutes your Mac with adware here's how to uninstall it...",
