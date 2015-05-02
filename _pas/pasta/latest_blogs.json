@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pasta",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/pasta/",
@@ -11,49 +11,82 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/pasta/pasta/blogs.json"
     },
     "items": {
+        "stonegableblog.com/2015/04/pasta-carbonara-and-family-dinner-night-stonegable": {
+            "title": "PASTA CARBONARA AND FAMILY DINNER NIGHT - StoneGable...",
+            "snippet": "Pasta Carbonara is one of those fabulous meals that you have to eat to understand! And when you try it you will be hooked forever! It is so delicious and creamy and cheesy and infused with great bacon flavor! It's what I call a...",
+            "date": "2015-04-27",
+            "author_name": "StoneGable",
+            "categories": "pasta",
+            "tags": "bacon,flavor,creamy,eat,pasta,carbonara,dinner,delicious,great",
+            "recuweb_url": "http://en.recuweb.com/pasta/stonegableblog.com/2015/04/pasta-carbonara-and-family-dinner-night-stonegable",
+            "resource_url": "http://www.google.com/search?q=pasta%2Bpasta&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stonegableblog.com/pasta-carbonara-and-family-dinner-night/"
+        },
+        "thesouthernladycooks.com/2015/04/italian-chicken-peppers-and-pasta-skillet-the-southern": {
+            "title": "ITALIAN CHICKEN, PEPPERS AND PASTA SKILLET The Southern...",
+            "snippet": "This recipe for Italian Chicken, Peppers and Pasta is easy and makes a quick meal. This keeps well in the fridge and is good leftover, too. Just reheat in the microwave or on the stove. 1 pound boneless, skinless chicken cut...",
+            "date": "2015-04-26",
+            "author_name": "The Southern Lady",
+            "categories": "pasta",
+            "tags": "chicken,quick,pasta,italian,recipe,easy,meal,well",
+            "recuweb_url": "http://en.recuweb.com/pasta/thesouthernladycooks.com/2015/04/italian-chicken-peppers-and-pasta-skillet-the-southern",
+            "resource_url": "http://www.google.com/search?q=pasta&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://thesouthernladycooks.com/2015/04/26/italian-chicken-peppers-and-pasta-skillet/"
+        },
+        "gigswwa.blogspot.com/2015/04/schar-brand-pasta-bonta-d-italia": {
+            "title": "Schar Brand Pasta - Bonta d'Italia...",
+            "snippet": "From Italy to you! This authentic pasta made with millet, a nutritious ancient grain, has won Italy's 2014 Sapore Dell'Anno award for best tasting pasta. The pasta is made in Italy using non-GMO ingredients. Schar is the world leader in gluten-free:...",
+            "date": "2015-04-25",
+            "author_name": "GIG SW WA",
+            "categories": "pasta",
+            "tags": "gluten,pasta,italy,authentic,using,non,ingredients,free",
+            "recuweb_url": "http://en.recuweb.com/pasta/gigswwa.blogspot.com/2015/04/schar-brand-pasta-bonta-d-italia",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=pasta%2Bpasta&rss=1&lng=en",
+            "source_url": "http://gigswwa.blogspot.com/2015/04/schar-brand-pasta-bonta-d-italia.html"
+        },
+        "7online.com/2015/04/neighborhood-eats-la-casa-bella-s-pasta-butternut-squash": {
+            "title": "Neighborhood Eats: La Casa Bella's pasta, butternut squash and...",
+            "snippet": "This week in Neighborhood Eats is a restaurant with quite a menu. If you don't find something you like, they'll whip up what you do want. It's called La Casa Bella and they are located at 2579 Cropsey Avenue in Bensonhurst,...",
+            "date": "2015-04-24",
+            "author_name": "unknown",
+            "categories": "squash,pasta",
+            "tags": "want,quite,week,casa,pasta",
+            "recuweb_url": "http://en.recuweb.com/pasta/7online.com/2015/04/neighborhood-eats-la-casa-bella-s-pasta-butternut-squash",
+            "resource_url": "http://www.google.com/search?q=pasta%2Bpasta&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://7online.com/food/neighborhood-eats-la-casa-bellas-pasta-butternut-squash-and-shrimp/680429/"
+        },
+        "huffingtonpost.com/2015/04/apparently-you-ve-been-putting-sauce-on-your-pasta-all-wrong": {
+            "title": "Apparently You've Been Putting Sauce On Your Pasta All Wrong...",
+            "snippet": "Are you plopping sauce right on top of your pasta as soon as you finish cooking it? As chef Andrew Carmellini would say, \"You're doing it all wrong.\" Most people dump out their unwanted pasta water and immediately start...",
+            "date": "2015-04-23",
+            "author_name": "Carly Ledbetter",
+            "categories": "pasta,cooking",
+            "tags": "water,start,sauce,pasta,cooking,chef,people",
+            "recuweb_url": "http://en.recuweb.com/cooking/huffingtonpost.com/2015/04/apparently-you-ve-been-putting-sauce-on-your-pasta-all-wrong",
+            "resource_url": "http://www.google.com/search?q=pasta%2Bpasta&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://huffingtonpost.com/2015/04/23/pasta-sauce_n_7120234.html"
+        },
         "thinktasty.com/2015/04/pasta-with-bacon-simple-smoky-and-good": {
             "title": "Pasta with Bacon: Simple, Smoky, and Good...",
             "snippet": "This isnt quite pasta carbonara for that, youd have to leave out the cured meat and add a couple of raw eggs, which would quickly cook when you tossed them with the hot pasta and bacon. But its a good way to make a dish that uses pasta as a...",
             "date": "2015-04-23",
             "author_name": "<a target=\"_blank\" href=\"http://pekupublications.com/jane-wangersky\">Jane Wangersky</a>",
             "categories": "meat,pasta",
-            "tags": "way,quickly,add,raw,pasta,simple,dish",
+            "tags": "way,bacon,carbonara,isnt,quite,pasta,simple,raw,dish",
             "recuweb_url": "http://en.recuweb.com/pasta/thinktasty.com/2015/04/pasta-with-bacon-simple-smoky-and-good",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=pasta%2Bpasta&rss=1&lng=en",
             "source_url": "http://thinktasty.com/pasta-with-bacon-simple-smoky-and-good/"
         },
-        "preventionrd.com/2015/04/simple-caesar-salad-with-salmon-and-pasta-prevention-rd": {
-            "title": "Simple Caesar Salad with Salmon and Pasta - Prevention RD...",
-            "snippet": "Caesar Salad with Salmon and Pasta 1. I'm a social media fanatic. If you follow me on Instagram, you probably already know as much. Babies, dogs, and FOOD! What more could people possibly want to waste time looking at...",
-            "date": "2015-04-23",
-            "author_name": "Nicole Morrissey",
-            "categories": "pasta,prevention,food",
-            "tags": "looking,people,want,salad,simple,pasta,food",
-            "recuweb_url": "http://en.recuweb.com/food/preventionrd.com/2015/04/simple-caesar-salad-with-salmon-and-pasta-prevention-rd",
-            "resource_url": "http://www.google.com/search?q=pasta%2Bpasta&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://preventionrd.com/2015/04/simple-caesar-salad-with-salmon-and-pasta/"
-        },
-        "elizabethminchilliinrome.com/2015/04/cauliflower-and-nduja-pasta-elizabeth-minchilli-in-rome": {
-            "title": "cauliflower and 'nduja pasta - Elizabeth Minchilli in Rome...",
-            "snippet": "As Flavio started telling me about the producer in Calabria that he got it from, he also began giving me recipes for how to use it: In pasta, on bruschetta, on pizza. But as he told me the quantities, I realized that he was talking...",
-            "date": "2015-04-23",
-            "author_name": "Elizabeth",
-            "categories": "pasta",
-            "tags": "began,pasta,recipes",
-            "recuweb_url": "http://en.recuweb.com/pasta/elizabethminchilliinrome.com/2015/04/cauliflower-and-nduja-pasta-elizabeth-minchilli-in-rome",
-            "resource_url": "http://www.google.com/search?q=pasta%2Bpasta&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://elizabethminchilliinrome.com/2015/04/cauliflower-and-nduja-pasta/"
-        },
-        "happyherbivore.com/2015/04/beef-bourguignon-lemony-asparagus-pasta-mongolian": {
-            "title": "\"Beef\" Bourguignon, Lemony Asparagus Pasta, Mongolian...",
-            "snippet": "It's another super short shopping list super fast prep on this week's meal plan!There's 7 (SEVEN!) all NEW! healthy & mouthwatering recipes for you to enjoy this week:...",
+        "joannagoddard.blogspot.com/2015/04/a-cup-of-jo-boursin-pasta-with-spring-peas": {
+            "title": "A CUP OF JO: Boursin Pasta With Spring Peas...",
+            "snippet": "This week, our month of easy pasta continues with this insanely delicious dish, using Boursin cheese from the grocery store. Danielle from I Will Not Eat Oysters shares the recipe she's perfected over the years... Creamy Shells...",
             "date": "2015-04-22",
-            "author_name": "Lindsay S. Nixon",
+            "author_name": "Joanna Goddard",
             "categories": "pasta",
-            "tags": "week,asparagus,pasta,super,healthy,recipes",
-            "recuweb_url": "http://en.recuweb.com/pasta/happyherbivore.com/2015/04/beef-bourguignon-lemony-asparagus-pasta-mongolian",
+            "tags": "creamy,eat,store,month,pasta,spring,week,easy,delicious,dish,using,recipe",
+            "recuweb_url": "http://en.recuweb.com/pasta/joannagoddard.blogspot.com/2015/04/a-cup-of-jo-boursin-pasta-with-spring-peas",
             "resource_url": "http://www.google.com/search?q=pasta%2Bpasta&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://happyherbivore.com/2015/04/vegan-beef-bourguidnon-mongolian-chickpeas-lemony/"
+            "source_url": "http://joannagoddard.blogspot.com/2015/04/creamy-boursin-pasta-with-spring-peas.html"
         },
         "gfreelife4health.blogspot.com/2015/04/alfredo-with-chicken-and-asparagus-it-s-safe": {
             "title": "Alfredo with Chicken and Asparagus and it's Safe!",
@@ -61,61 +94,32 @@
             "date": "2015-04-22",
             "author_name": "(Cori and Dennis)",
             "categories": "pasta",
-            "tags": "rice,across,day,even,quick,chicken,asparagus,pasta,easy,free,items,simply",
+            "tags": "rice,simply,even,fan,quick,chicken,pasta,easy,free",
             "recuweb_url": "http://en.recuweb.com/pasta/gfreelife4health.blogspot.com/2015/04/alfredo-with-chicken-and-asparagus-it-s-safe",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=pasta%2Bpasta&rss=1&lng=en",
             "source_url": "http://gfreelife4health.blogspot.com/2015/04/alfredo-with-chicken-and-asparagus-and.html"
         },
-        "twopeasandtheirpod.com/2015/04/spring-pasta-salad-recipe-two-peas-&-their-pod": {
-            "title": "Spring Pasta Salad Recipe Two Peas & Their Pod...",
-            "snippet": "This healthy pasta salad has all of your favorite spring vegetables-asparagus, peas, artichokes, and spinach! It is great as a main dish or side dish!",
+        "luminous-cactus.blogspot.com/2015/04/food-20-21-22-4-15": {
+            "title": "Food 20/, 21/, 22/4/15...",
+            "snippet": "Monday: Couscous. This thing from Will. This apple. Bean burger, mushroom thing, veg. This noodle thing. Rice and veg. Tuesday: Rice and veg. Bean burger, pasta, mushroom thing. A sort of pineapple-lime-vodka cocktail. A pizza split with Kadek while...",
             "date": "2015-04-22",
-            "author_name": "Two Peas",
-            "categories": "pasta",
-            "tags": "spinach,salad,vegetables,pasta,recipe,healthy,asparagus,dish",
-            "recuweb_url": "http://en.recuweb.com/pasta/twopeasandtheirpod.com/2015/04/spring-pasta-salad-recipe-two-peas-&-their-pod",
-            "resource_url": "http://www.google.com/search?q=pasta%2Bpasta&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://twopeasandtheirpod.com/spring-pasta-salad/"
-        },
-        "reddit.com/2015/04/what-is-your-secret-pasta-sauce-ingredient": {
-            "title": "What is your secret pasta sauce ingredient?",
-            "snippet": "Mine is bone broth, made in my pressure cooker. I like to add a few cups of stock to my tomato sauce, and then reduce it down. You get an incredible meaty flavor and an extra rich texture. I also use add some kind of acid to it, to give it a bit of...",
-            "date": "2015-04-22",
-            "categories": "pasta",
-            "tags": "add,rich,broth,secret,pasta,sauce,ingredient,made",
-            "recuweb_url": "http://en.recuweb.com/pasta/reddit.com/2015/04/what-is-your-secret-pasta-sauce-ingredient",
-            "resource_url": "http://www.reddit.com/search.rss?q=pasta%2Bpasta&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/Cooking/comments/33jbrw/what_is_your_secret_pasta_sauce_ingredient/"
-        },
-        "themagicmelodicmask.tumblr.com/2015/04/lilygigg-that-one-idiot-themagicmelodicmask-idi": {
-            "title": "lilygigg: that-one-idiot: themagicmelodicmask: that-one-idiot: themagicmelodicmask: that-one-idi...",
-            "snippet": "lilygigg: that-one-idiot: themagicmelodicmask: that-one-idiot: themagicmelodicmask: that-one-idiot: lilygigg: themagicmelodicmask: that-one-idiot: TO ANYONE ASKING, YES WE ARE HAVING A CONVERSATION ABOUT MAKING PASTA IN THE TAGS BECAUSE YOU CANNOT...",
-            "date": "2015-04-22",
-            "categories": "pasta",
-            "tags": "yes,having,having_conversation,conversation,conversation_about_making,making,making_pasta,pasta,tags,because,cannot,anyone,anyone_asking,asking,lilygigg,idiot,themagicmelodicmask",
-            "recuweb_url": "http://en.recuweb.com/pasta/themagicmelodicmask.tumblr.com/2015/04/lilygigg-that-one-idiot-themagicmelodicmask-idi",
+            "author_name": "Letti \u269d",
+            "categories": "food,pasta",
+            "tags": "veg,thing,food,monday,rice,pasta",
+            "recuweb_url": "http://en.recuweb.com/pasta/luminous-cactus.blogspot.com/2015/04/food-20-21-22-4-15",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=pasta%2Bpasta&rss=1&lng=en",
-            "source_url": "http://themagicmelodicmask.tumblr.com/post/117052224398"
+            "source_url": "http://luminous-cactus.blogspot.com/2015/04/food-20-21-22415.html"
         },
-        "themagicmelodicmask.tumblr.com/2015/04/that-one-idiot-lilygigg-themagicmelodicmask-themagicmelodicma": {
-            "title": "that-one-idiot: lilygigg: that-one-idiot: themagicmelodicmask: that-one-idiot: themagicmelodicma...",
-            "snippet": "that-one-idiot: lilygigg: that-one-idiot: themagicmelodicmask: that-one-idiot: themagicmelodicmask: that-one-idiot: lilygigg: themagicmelodicmask: that-one-idiot: TO ANYONE ASKING, YES WE ARE HAVING A CONVERSATION ABOUT MAKING PASTA IN THE TAGS...",
+        "thekitchn.com/2015/04/let-this-fresh-spring-pasta-salad-tag-along-on-your-next": {
+            "title": "Let This Fresh Spring Pasta Salad Tag Along on Your Next Picnic...",
+            "snippet": "Want to go on a picnic the next day it's nice out? I've got a recipe for you. This is my kind of pasta salad: half vegetables, half pasta, and just a tiny bit of mayo to bring the whole thing together. I'm also a big fan of this type of...",
             "date": "2015-04-22",
+            "author_name": "Ariel Knutson",
             "categories": "pasta",
-            "tags": "yes,having,having_conversation,conversation,conversation_about_making,making,making_pasta,pasta,tags,anyone,anyone_asking,asking,idiot,lilygigg,themagicmelodicmask",
-            "recuweb_url": "http://en.recuweb.com/pasta/themagicmelodicmask.tumblr.com/2015/04/that-one-idiot-lilygigg-themagicmelodicmask-themagicmelodicma",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=pasta%2Bpasta&rss=1&lng=en",
-            "source_url": "http://themagicmelodicmask.tumblr.com/post/117052493933"
-        },
-        "themagicmelodicmask.tumblr.com/2015/04/that-one-idiot-lilygigg-themagicmelodicmask-to-anyone-asking-yes-we": {
-            "title": "that-one-idiot: lilygigg: themagicmelodicmask: that-one-idiot: TO ANYONE ASKING, YES WE ARE...",
-            "snippet": "that-one-idiot: lilygigg: themagicmelodicmask: that-one-idiot: TO ANYONE ASKING, YES WE ARE HAVING A CONVERSATION ABOUT MAKING PASTA IN THE TAGS BECAUSE YOU CANNOT MAKE A STATEMENT LIKE THAT AND NOT EXPECT SOME COMMENTS IM HERE FOR THE PASTA PASTA...",
-            "date": "2015-04-22",
-            "categories": "pasta",
-            "tags": "pasta,having,conversation,making,tags,because,cannot,anyone,anyone_asking,asking,idiot,lilygigg,themagicmelodicmask,yes",
-            "recuweb_url": "http://en.recuweb.com/pasta/themagicmelodicmask.tumblr.com/2015/04/that-one-idiot-lilygigg-themagicmelodicmask-to-anyone-asking-yes-we",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=pasta%2Bpasta&rss=1&lng=en",
-            "source_url": "http://themagicmelodicmask.tumblr.com/post/117051238238"
+            "tags": "fan,bring,thing,next,let,fresh,spring,spring_pasta,pasta,pasta_salad,salad,want,recipe",
+            "recuweb_url": "http://en.recuweb.com/pasta/thekitchn.com/2015/04/let-this-fresh-spring-pasta-salad-tag-along-on-your-next",
+            "resource_url": "http://www.google.com/search?q=pasta&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://thekitchn.com/delicious-links-218354"
         }
     }
 }
