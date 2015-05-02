@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "xampp",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/xampp/",
@@ -11,12 +11,23 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/xampp/xampp/blogs.json"
     },
     "items": {
+        "stackoverflow.com/2015/04/php-xampp-control-panel-apache-port-is-not-opening-stack-overflow": {
+            "title": "php - xampp control panel Apache port is not opening - Stack Overflow...",
+            "snippet": "For change port skype, you can choose menu Tools options then choose advanced Connection read it change port besides 80...",
+            "date": "2015-04-25",
+            "author_name": "user3693338",
+            "categories": "php,xampp",
+            "tags": "change,control,control-panel,panel,php,xampp,apache,tools",
+            "recuweb_url": "http://en.recuweb.com/xampp/stackoverflow.com/2015/04/php-xampp-control-panel-apache-port-is-not-opening-stack-overflow",
+            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/29867696/xampp-control-panel-apache-port-is-not-opening"
+        },
         "reddit.com/2015/04/help-with-xampp": {
             "title": "Help with Xampp...",
             "snippet": "Hey! I have an assignment in my database class and it requires me to download Xampp. I currently have the control panel up and there are 5 modules associated with it including: Apache, MySQL, FileZilla, Mercury, and Tomcat. Every module is working...",
             "date": "2015-04-24",
             "categories": "xampp,database,mysql",
-            "tags": "panel,help,xampp,database,apache,mysql,filezilla,mercury",
+            "tags": "control,control-panel,panel,help,xampp,database,apache,mysql,filezilla,mercury",
             "recuweb_url": "http://en.recuweb.com/mysql/reddit.com/2015/04/help-with-xampp",
             "resource_url": "http://www.reddit.com/search.rss?q=xampp%2Bxampp&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/webdev/comments/33o8uh/help_with_xampp/"
@@ -27,10 +38,21 @@
             "date": "2015-04-22",
             "author_name": "unknown",
             "categories": "xampp",
-            "tags": "problems,create,develop,tools,program,version,xampp,free,online",
+            "tags": "problems,create,develop,application,tools,program,version,xampp,free",
             "recuweb_url": "http://en.recuweb.com/xampp/2ad7-downloads.phpnuke.org/2015/04/xampp-free-download-latest-version-in-english-on-phpnuke",
             "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://2ad7-downloads.phpnuke.org/en/c50258/xampp"
+        },
+        "community.apachefriends.org/2015/04/apache-friends-support-forum-view-topic-bugs-xampp": {
+            "title": "Apache Friends Support Forum View topic - BUGS XAMPP...",
+            "snippet": "In this thread we collect all information about issues with XAMPP for Windows &. To report a bug simply create a new forum thread. XAMPP confirmed. Security page Security page with italian location...",
+            "date": "2015-04-22",
+            "author_name": "Altrea",
+            "categories": "xampp",
+            "tags": "page,create,forum,information,issues,xampp,apache,apache_friends,apache_friends_support,friends,friends_support,friends_support_forum,support,support_forum,topic,windows,security",
+            "recuweb_url": "http://en.recuweb.com/xampp/community.apachefriends.org/2015/04/apache-friends-support-forum-view-topic-bugs-xampp",
+            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://community.apachefriends.org/f/viewtopic.php?t=70653&p=241997"
         },
         "nbcdns.com/2015/04/how-to-make-xampp-apache-mysql-php-perl-can-run-on": {
             "title": "How to make Xampp (Apache MySQL PHP Perl) can run on different partitions...",
@@ -38,7 +60,7 @@
             "date": "2015-04-17",
             "author_name": "ar13s27 code",
             "categories": "mysql,php,perl,xampp",
-            "tags": "try,apache,mysql,php,perl,xampp,run,using,software,systems",
+            "tags": "apache,mysql,php,perl,xampp,run,try,using,software,systems",
             "recuweb_url": "http://en.recuweb.com/xampp/nbcdns.com/2015/04/how-to-make-xampp-apache-mysql-php-perl-can-run-on",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=xampp%2Bxampp&rss=1&lng=en",
             "source_url": "http://nbcdns.com/2015/04/howtomake-xampp-canrun-different-partitions.html"
@@ -49,28 +71,17 @@
             "date": "2015-04-13",
             "author_name": "Kunwar",
             "categories": "xampp",
-            "tags": "help,topic,please,webserver,directory,create,xampp,windows,web,server,here",
+            "tags": "help,topic,please,webserver,directory,create,user,xampp,windows,web,server,here",
             "recuweb_url": "http://en.recuweb.com/xampp/superuser.com/2015/04/write-permissions-to-xampp-on-windows-7-super-user",
             "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://superuser.com/questions/901194/write-permissions-to-xampp-on-windows-7"
-        },
-        "wpfy.me/2015/04/install-a-xampp-web-server-on-your-windows-pc-in-five": {
-            "title": "Install a XAMPP web server on your Windows PC in five easy steps...",
-            "snippet": "In this post I will show you how you can install a XAMPP web server on your Windows PC. It takes only five easy steps. And XAMPP delivers everything you need to install and use WordPress locally. What do we need?",
-            "date": "2015-04-10",
-            "author_name": "Wil Ransz",
-            "categories": "xampp,wordpress",
-            "tags": "everything,install,xampp,web,server,windows,easy,show,wordpress,locally",
-            "recuweb_url": "http://en.recuweb.com/wordpress/wpfy.me/2015/04/install-a-xampp-web-server-on-your-windows-pc-in-five",
-            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://wpfy.me/xampp-web-server/"
         },
         "amilaepage.wordpress.com/2015/04/error-in-laravel-installation": {
             "title": "Error in Laravel Installation...",
             "snippet": "If this error comes while install laravel. please update your composer.. Warning: require(C:xampphtdocslaravel_login_appbootstrap/../vendor/): failed to open stream: No such file or directory in C:xampphtdocslaravel_login_appbootstrap on line 17...",
             "date": "2015-04-07",
             "author_name": "meamila88",
-            "tags": "directory,please,laravel,installation,install,require,open",
+            "tags": "directory,please,error,installation,install,require,open",
             "recuweb_url": "http://en.recuweb.com/amilaepage.wordpress.com/2015/04/error-in-laravel-installation",
             "resource_url": "http://en.search.wordpress.com/?q=xampp%2Bxampp&f=feed&page=1",
             "source_url": "http://amilaepage.wordpress.com/2015/04/07/error-in-laravel-installation/"
@@ -92,7 +103,7 @@
             "date": "2015-03-30",
             "author_name": "manospiraeus",
             "categories": "internet,xampp,wordpress",
-            "tags": "via,access,installed,apache,apache_friends,apache_friends_support,friends,friends_support,friends_support_forum,support,support_forum,forum,xampp,windows,server,wordpress,site,problems",
+            "tags": "access,installed,apache,apache_friends,apache_friends_support,friends,friends_support,friends_support_forum,support,support_forum,forum,xampp,windows,server,wordpress,site,problems",
             "recuweb_url": "http://en.recuweb.com/wordpress/community.apachefriends.org/2015/03/xampp-and-access-via-internet-apache-friends-support-forum",
             "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://community.apachefriends.org/viewtopic.php?p=241580&sid=e2283629a2a9d6610a69a915029137c7"
@@ -103,20 +114,10 @@
             "date": "2015-03-29",
             "author_name": "Altrea",
             "categories": "xampp,mysql",
-            "tags": "panel,work,apache,apache_friends,apache_friends_support,friends,friends_support,friends_support_forum,support,support_forum,forum,topic,xampp,open,mysql,available",
+            "tags": "security,page,panel,worked,work,apache,apache_friends,apache_friends_support,friends,friends_support,friends_support_forum,support,support_forum,forum,topic,xampp,open,mysql,available",
             "recuweb_url": "http://en.recuweb.com/mysql/community.apachefriends.org/2015/03/apache-friends-support-forum-view-topic-xampp-won-t-work",
             "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://community.apachefriends.org/f/viewtopic.php?f=16&t=70506"
-        },
-        "reddit.com/2015/03/using-xampp-or-virtualization-l5": {
-            "title": "Using XAMPP or Virtualization? L5...",
-            "snippet": "Hi folks! Since i started learning web development i always use xampp, maybe it's time to starting using virtualization. What you guys think? What should i use? I'm using Windows 8.1 and i have 32gb ram submitted by srtgt to laravel link 18 comments...",
-            "date": "2015-03-15",
-            "categories": "learning,xampp",
-            "tags": "laravel,development,learning,using,xampp,web,guys,windows",
-            "recuweb_url": "http://en.recuweb.com/xampp/reddit.com/2015/03/using-xampp-or-virtualization-l5",
-            "resource_url": "http://www.reddit.com/search.rss?q=xampp%2Bxampp&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/laravel/comments/2z6572/using_xampp_or_virtualization_l5/"
         }
     }
 }
