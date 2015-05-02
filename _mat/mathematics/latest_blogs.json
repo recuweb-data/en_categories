@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mathematics",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/mathematics/",
@@ -11,27 +11,82 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/mathematics/mathematics/blogs.json"
     },
     "items": {
-        "evanweinberg.com/2015/04/ib-mathematics-hl-vectors-&-planes-gealgerobophysiculus": {
-            "title": "IB Mathematics HL: Vectors & Planes gealgerobophysiculus...",
-            "snippet": "There's nothing big to report here, but I did want to share a really successful approach I put together relating vectors and planes. This is a required topic for the IB HL Mathematics curriculum. All of the textbooks I looked in did a...",
-            "date": "2015-04-23",
-            "author_name": "Evan Weinberg",
-            "categories": "mathematics",
-            "tags": "approach,mathematics,here,curriculum",
-            "recuweb_url": "http://en.recuweb.com/mathematics/evanweinberg.com/2015/04/ib-mathematics-hl-vectors-&-planes-gealgerobophysiculus",
-            "resource_url": "http://www.google.com/search?q=mathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://evanweinberg.com/2015/04/23/ib-mathematics-hl-vectors-planes/"
-        },
-        "motls.blogspot.com/2015/04/the-reference-frame-lack-of-surprises-in-discrete-mathematics": {
-            "title": "The Reference Frame: Lack of surprises in discrete mathematics?",
-            "snippet": "Scott Aaronson, an electrical engineer, starts by the question whether mathematics is mysterious. Well, there are lots of unsolved problems. They are usually propositions that may be right or wrong and we don't have any...",
-            "date": "2015-04-22",
+        "motls.blogspot.com/2015/04/dijkgraaf-on-quantum-physics-gifts-to-mathematics-the-reference": {
+            "title": "Dijkgraaf on quantum physics'gifts to mathematics - The Reference...",
+            "snippet": "The title was \"The Unreasonable Effectiveness of Quantum Physics in Modern Mathematics\" and Robbert covered lots of cute mathematical legends, numerology, and things that many people find exciting, as well some more...",
+            "date": "2015-04-29",
             "author_name": "Lubo\u0161 Motl",
-            "categories": "mathematics",
-            "tags": "don,mathematics",
-            "recuweb_url": "http://en.recuweb.com/mathematics/motls.blogspot.com/2015/04/the-reference-frame-lack-of-surprises-in-discrete-mathematics",
+            "categories": "mathematics,physics,numerology",
+            "tags": "find,modern,mathematics,mathematical,people",
+            "recuweb_url": "http://en.recuweb.com/numerology/motls.blogspot.com/2015/04/dijkgraaf-on-quantum-physics-gifts-to-mathematics-the-reference",
             "resource_url": "http://www.google.com/search?q=mathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://motls.blogspot.com/2015/04/lack-of-surprises-in-discrete.html"
+            "source_url": "http://motls.blogspot.com/2015/04/dijkgraaf-on-quantum-physics-gifts-to.html"
+        },
+        "phys.org/2015/04/mathematics-reveals-how-fluid-flow-affects-bacteria": {
+            "title": "Mathematics reveals how fluid flow affects bacteria -...",
+            "snippet": "Researchers from the University of Liverpool have used mathematical equations to shed new light on how flowing fluid hinders the movement of bacteria in their search for food.",
+            "date": "2015-04-28",
+            "author_name": "unknown",
+            "categories": "food,mathematics,university",
+            "tags": "bacteria,mathematics,researchers,university,mathematical,equations",
+            "recuweb_url": "http://en.recuweb.com/university/phys.org/2015/04/mathematics-reveals-how-fluid-flow-affects-bacteria",
+            "resource_url": "http://www.google.com/search?q=mathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://phys.org/news/2015-04-mathematics-reveals-fluid-affects-bacteria.html"
+        },
+        "jamesgarypbi.wordpress.com/2015/04/billings-equity-african-american-students-mathematics": {
+            "title": "Billings Equity African American Students Mathematics...",
+            "snippet": "What do I know? African American students are performing poorly in school mathematics, and have been for some length of time. One of the possible reasons is that there is a disconnect between the language they they speak at home and the language...",
+            "date": "2015-04-23",
+            "author_name": "garymilstead",
+            "categories": "home,students,school,mathematics",
+            "tags": "students,school,mathematics",
+            "recuweb_url": "http://en.recuweb.com/mathematics/jamesgarypbi.wordpress.com/2015/04/billings-equity-african-american-students-mathematics",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=mathematics%2Bmathematics&rss=1&lng=en",
+            "source_url": "http://jamesgarypbi.wordpress.com/2015/04/23/billings-equity-african-american-students-mathematics/"
+        },
+        "ieet.org/2015/04/how-evolution-gave-us-mathematics": {
+            "title": "How Evolution Gave Us Mathematics...",
+            "snippet": "THIS IS MY RESPONSE TO THE EDGE QUESTION OF A FEW YEARS BACK: WHAT SCIENTIFIC IDEA IS READY FOR RETIREMENT? MY ANSWER: The intrinsic beauty and elegance of mathematics allows it to describe...",
+            "date": "2015-04-23",
+            "author_name": "krisnotaro@gmail.com",
+            "categories": "mathematics",
+            "tags": "beauty,idea,question,mathematics",
+            "recuweb_url": "http://en.recuweb.com/mathematics/ieet.org/2015/04/how-evolution-gave-us-mathematics",
+            "resource_url": "http://www.google.com/search?q=mathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ieet.org/index.php/IEET/more/benford20150423"
+        },
+        "phys.org/2015/04/mechanical-cloaks-of-invisibilitywithout-complicated-mathematics": {
+            "title": "Mechanical cloaks of invisibilitywithout complicated mathematics...",
+            "snippet": "... desired in mechanics. Researchers of Karlsruhe Institute of Technology (KIT) have now found a new principle that considerably facilitates the mathematical approach and produces promising results with simple means.",
+            "date": "2015-04-23",
+            "author_name": "unknown",
+            "categories": "institute,mechanics,mathematics,technology",
+            "tags": "found,institute,mathematics,researchers,technology,mathematical",
+            "recuweb_url": "http://en.recuweb.com/technology/phys.org/2015/04/mechanical-cloaks-of-invisibilitywithout-complicated-mathematics",
+            "resource_url": "http://www.google.com/search?q=mathematics%2Bmathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://phys.org/news/2015-04-mechanical-cloaks-invisibilitywithout-complicated-mathematics.html"
+        },
+        "willatworklearning.com/2015/04/research-on-mathematics-education-for-us-first-graders": {
+            "title": "Research on Mathematics Education for US First Graders...",
+            "snippet": "A recent research review (by Paul L. Morgan, George Farkas, and Steve Maczuga) finds that teacher-directed mathematics instruction in first grade is superior to other methods for students with \"math difficulties.\" Specifically...",
+            "date": "2015-04-23",
+            "author_name": "Will Thalheimer",
+            "categories": "students,mathematics,education",
+            "tags": "students,math,research,mathematics,education",
+            "recuweb_url": "http://en.recuweb.com/education/willatworklearning.com/2015/04/research-on-mathematics-education-for-us-first-graders",
+            "resource_url": "http://www.google.com/search?q=mathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://willatworklearning.com/2015/04/research-on-mathematics-education-for-us-first-graders.html"
+        },
+        "scientiasalon.wordpress.com/2015/04/smolin-on-mathematics-scientia-salon": {
+            "title": "Smolin on mathematics Scientia Salon...",
+            "snippet": "Smolin begins by acknowledging that some version of mathematical Platonism the idea that mathematics is the study of a timeless but real realm of mathematical objects, is common among mathematicians (and, I would...",
+            "date": "2015-04-21",
+            "author_name": "Massimo",
+            "categories": "mathematics",
+            "tags": "idea,mathematics,mathematical",
+            "recuweb_url": "http://en.recuweb.com/mathematics/scientiasalon.wordpress.com/2015/04/smolin-on-mathematics-scientia-salon",
+            "resource_url": "http://www.google.com/search?q=mathematics%2Bmathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://scientiasalon.wordpress.com/2015/04/21/smolin-on-mathematics/"
         },
         "akwadefender.blogspot.com/2015/04/why-students-fail-mathematics-in-nigeria": {
             "title": "Why students fail Mathematics In Nigeria...",
@@ -39,21 +94,21 @@
             "date": "2015-04-21",
             "author_name": "(Efukikata Efet)",
             "categories": "students,mathematics",
-            "tags": "across,students,mathematics,why",
+            "tags": "statistics,students,fail,mathematics,every,why",
             "recuweb_url": "http://en.recuweb.com/mathematics/akwadefender.blogspot.com/2015/04/why-students-fail-mathematics-in-nigeria",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=mathematics%2Bmathematics&rss=1&lng=en",
             "source_url": "http://akwadefender.blogspot.com/2015/04/why-students-fail-mathematics.html"
         },
-        "newsletter.blogs.wesleyan.edu/2015/04/students-in-natural-sciences-and-mathematics-present-research": {
-            "title": "Students in Natural Sciences and Mathematics Present Research...",
-            "snippet": "On April 17, 30 senior and BA/MA students in the Natural Sciences and Mathematics Division presented their research to the Wesleyan community. Nearly 100 people attended the annual Celebration of Science Theses...",
+        "getschooled.blog.ajc.com/2015/04/state-s-most-challenging-high-school-gwinnett-of": {
+            "title": "State's most challenging high school: Gwinnett School of...",
+            "snippet": "The Gwinnett School of Mathematics, Science and Technology emerges Georgia's most challenging high school on a new ranking. (AJC Photo). For the past 17 years, the Post's education columnist Jay Mathews ranks...",
             "date": "2015-04-20",
-            "author_name": "Lauren Rubenstein",
-            "categories": "science,mathematics,students",
-            "tags": "science,people,mathematics,senior,natural,students",
-            "recuweb_url": "http://en.recuweb.com/students/newsletter.blogs.wesleyan.edu/2015/04/students-in-natural-sciences-and-mathematics-present-research",
-            "resource_url": "http://www.google.com/search?q=mathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://newsletter.blogs.wesleyan.edu/2015/04/20/nsmposter2015/"
+            "author_name": "Maureen Downey",
+            "categories": "education,school,mathematics,science,technology",
+            "tags": "education,school,state,mathematics,science,technology",
+            "recuweb_url": "http://en.recuweb.com/technology/getschooled.blog.ajc.com/2015/04/state-s-most-challenging-high-school-gwinnett-of",
+            "resource_url": "http://www.google.com/search?q=mathematics%2Bmathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://getschooled.blog.ajc.com/2015/04/19/states-most-challenging-high-school-gwinnett-school-of-mathematics-science-and-technology/"
         },
         "martyrion.blogspot.com/2015/04/from-mathematics-to-inspiration-the-boundaries-of-natural-science-lecture-3": {
             "title": "From mathematics to Inspiration. The Boundaries of Natural Science, lecture 3...",
@@ -61,65 +116,10 @@
             "date": "2015-04-19",
             "author_name": "Larry Clark",
             "categories": "science,mathematics",
-            "tags": "seen,seen-that-one,arrives,arrives-at-two,limits,limits-when-one,seeks,seeks-either,either,either-to-penetrate,penetrate,penetrate-more-deeply,deeply,deeply-into,deeply-into-natural,into,into-natural,into-natural-phenomena,natural,natural-phenomena,phenomena,rudolf,rudolf_steiner,steiner,natural_science,science,mathematics,boundaries,lecture,dornach,switzerland,proceeding",
+            "tags": "into,science,mathematics",
             "recuweb_url": "http://en.recuweb.com/mathematics/martyrion.blogspot.com/2015/04/from-mathematics-to-inspiration-the-boundaries-of-natural-science-lecture-3",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=mathematics%2Bmathematics&rss=1&lng=en",
             "source_url": "http://martyrion.blogspot.com/2015/04/from-mathematics-to-inspiration.html"
-        },
-        "martyrion.blogspot.com/2015/04/where-mathematics-comes-from-the-boundaries-of-natural-science-lecture-3": {
-            "title": "Where mathematics comes from. The Boundaries of Natural Science, lecture 3...",
-            "snippet": "The Boundaries of Natural Science. Lecture 3 of 8. Rudolf Steiner, Dornach, Switzerland, September 29, 1920: We have seen that one arrives at two limits when one seeks either to penetrate more deeply into natural phenomena or, proceeding from the...",
-            "date": "2015-04-19",
-            "author_name": "Larry Clark",
-            "categories": "science,mathematics",
-            "tags": "seen,seen-that-one,arrives,arrives-at-two,limits,limits-when-one,seeks,seeks-either,either,either-to-penetrate,penetrate,penetrate-more-deeply,deeply,deeply-into,deeply-into-natural,into,into-natural,into-natural-phenomena,natural,natural-phenomena,phenomena,rudolf,rudolf_steiner,steiner,natural_science,science,mathematics,boundaries,lecture,dornach,switzerland,proceeding",
-            "recuweb_url": "http://en.recuweb.com/mathematics/martyrion.blogspot.com/2015/04/where-mathematics-comes-from-the-boundaries-of-natural-science-lecture-3",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=mathematics%2Bmathematics&rss=1&lng=en",
-            "source_url": "http://martyrion.blogspot.com/2015/04/where-mathematics-comes-from-boundaries.html"
-        },
-        "globalresearch.ca/2015/04/5-000-silver-the-mathematics-of-a-potential-price-surge-global": {
-            "title": "5,000 Silver? The Mathematics of a Potential Price Surge Global...",
-            "snippet": "To refresh your memory, let's do some basic mathematics. The U.S. purportedly has 262 million ounces of gold. (As a side note, if you understand how much gold China has imported just over the last six years and compare...",
-            "date": "2015-04-17",
-            "author_name": "Bill Holter",
-            "categories": "memory,mathematics",
-            "tags": "potential,mathematics,basic",
-            "recuweb_url": "http://en.recuweb.com/mathematics/globalresearch.ca/2015/04/5-000-silver-the-mathematics-of-a-potential-price-surge-global",
-            "resource_url": "http://www.google.com/search?q=mathematics%2Bmathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://globalresearch.ca/5000-silver-the-mathematics-of-a-potential-price-surge/5443477"
-        },
-        "pullo4mbina.wordpress.com/2015/04/mathematics-and-the-metaphysics-of-sufism-concepts-versus-objects-how-aristotle": {
-            "title": "Mathematics And The Metaphysics Of Sufism:- Concepts Versus Objects And How Aristotle Murdered...",
-            "snippet": "Ancient wisdom, collected from a variety of civilisations, bequeathed us two major lines of philosophical discourse concerning the nature of existence; one that holds the primacy of thoughts and ideas over concrete matter and the other insisting on...",
-            "date": "2015-04-17",
-            "author_name": "pullo4mbina",
-            "categories": "nature,mathematics,sufism",
-            "tags": "philosophical,nature,concepts,mathematics",
-            "recuweb_url": "http://en.recuweb.com/sufism/pullo4mbina.wordpress.com/2015/04/mathematics-and-the-metaphysics-of-sufism-concepts-versus-objects-how-aristotle",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=mathematics%2Bmathematics&rss=1&lng=en",
-            "source_url": "http://pullo4mbina.wordpress.com/2015/04/17/mathematics-the-metaphysics-of-sufism-concepts-versus-objects-and-aristotle-murdered-philosophy/"
-        },
-        "news-prod.wcu.edu/2015/04/region-s-top-mathematics-students-win-honors-at-wcu-contest": {
-            "title": "Region's top mathematics students win honors at WCU contest...",
-            "snippet": "More than 400 of Western North Carolina's high school and junior high school mathematics students competed for honors during the recent High School Mathematics Contest held at Western Carolina University. The students...",
-            "date": "2015-04-17",
-            "author_name": "rholcomb",
-            "categories": "university,school,mathematics,honor,students",
-            "tags": "university,high,school,mathematics,contest,competed,top,students,junior",
-            "recuweb_url": "http://en.recuweb.com/students/news-prod.wcu.edu/2015/04/region-s-top-mathematics-students-win-honors-at-wcu-contest",
-            "resource_url": "http://www.google.com/search?q=mathematics%2Bmathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://news-prod.wcu.edu/2015/04/regions-top-mathematics-students-win-honors-at-wcu-contest/"
-        },
-        "news.stanford.edu/2015/04/stanford-professor-designs-mathematics-and-mindset-boost": {
-            "title": "Stanford professor designs mathematics and mindset boost for...",
-            "snippet": "Stanford professor designs mathematics and mindset boost for teachers and students across the nation. The \"Week of Inspirational Math\" curriculum will be available for free online. It includes videos and math tasks, and is...",
-            "date": "2015-04-17",
-            "author_name": "unknown",
-            "categories": "mathematics,students",
-            "tags": "week,math,curriculum,across,teachers,professor,mathematics,students,free",
-            "recuweb_url": "http://en.recuweb.com/students/news.stanford.edu/2015/04/stanford-professor-designs-mathematics-and-mindset-boost",
-            "resource_url": "http://www.google.com/search?q=mathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://news.stanford.edu/news/2015/april/math-week-boaler-041715.html"
         }
     }
 }
