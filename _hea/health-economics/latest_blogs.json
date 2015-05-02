@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "health-economics",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/health-economics/",
@@ -11,16 +11,48 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/health-economics/health-economics/blogs.json"
     },
     "items": {
+        "reddit.com/2015/04/a-study-by-the-london-school-of-economics-found-that-government": {
+            "title": "A study by the London School of Economics found that government spending on mental health provides...",
+            "snippet": "A study by the London School of Economics found that government spending on mental health provides...",
+            "date": "2015-04-26",
+            "categories": "government-spending,school,health",
+            "tags": "found,school,study,economics,health,provides",
+            "recuweb_url": "http://en.recuweb.com/health/reddit.com/2015/04/a-study-by-the-london-school-of-economics-found-that-government",
+            "resource_url": "http://www.reddit.com/search.rss?q=health%2Beconomics%2Bhealth%2Beconomics&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/psychology/comments/33wwb1/a_study_by_the_london_school_of_economics_found/"
+        },
+        "healthcare-economist.com/2015/04/precision-for-medicine-acquires-health-economics": {
+            "title": "Precision for Medicine Acquires Precision Health Economics...",
+            "snippet": "Extends Leadership in Health Economics and Outcomes Research With a Focus on Evidence Generation in an Era of Precision Medicine. Bethesda, MD, and Los Angeles, April 16, 2015 Precision for Medicine (Precision),...",
+            "date": "2015-04-20",
+            "author_name": "Jason Shafrin",
+            "categories": "evidence,leadership,health,health-economics,medicine",
+            "tags": "angeles,evidence,research,health,health_economics,economics,precision,medicine",
+            "recuweb_url": "http://en.recuweb.com/medicine/healthcare-economist.com/2015/04/precision-for-medicine-acquires-health-economics",
+            "resource_url": "http://www.google.com/search?q=health%2Beconomics%2Bhealth%2Beconomics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://healthcare-economist.com/2015/04/19/precision-for-medicine-acquires-precision-health-economics/"
+        },
         "apatientvoice.com/2015/04/health-economics-a-patient-voice": {
             "title": "Health Economics A Patient Voice...",
             "snippet": "I was delighted to read this article in the April 16th edition of the Toronto Star that informs the public about the link between poverty and health and hopefully promotes healthcare literacy about the Social Determinants of...",
             "date": "2015-04-17",
             "author_name": "Harlon",
             "categories": "health,health-economics",
-            "tags": "social,healthcare,health,health_economics,economics",
+            "tags": "social,healthcare,public,health,health_economics,economics",
             "recuweb_url": "http://en.recuweb.com/health-economics/apatientvoice.com/2015/04/health-economics-a-patient-voice",
             "resource_url": "http://www.google.com/search?q=health%2Beconomics%2Bhealth%2Beconomics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://apatientvoice.com/2015/04/17/health-economics/"
+        },
+        "socaltech.com/2015/04/precision-health-economics-acquired-by-for-medicine": {
+            "title": "Precision Health Economics Acquired By Precision For Medicine...",
+            "snippet": "Los Angeles-based Precision Health Economics, a provider of health economics consultancy and analytics, has been acquired by Maryland-based Precision for Medicine. Financial terms o.",
+            "date": "2015-04-17",
+            "author_name": "unknown",
+            "categories": "health,health-economics,medicine",
+            "tags": "precision,precision_health,precision_health_economics,health,health_economics,economics,angeles,medicine",
+            "recuweb_url": "http://en.recuweb.com/medicine/socaltech.com/2015/04/precision-health-economics-acquired-by-for-medicine",
+            "resource_url": "http://www.google.com/search?q=health%2Beconomics%2Bhealth%2Beconomics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://socaltech.com/precision_health_economics_acquired_by_precision_for_medicine/s-0059843.html"
         },
         "machequity.com/2015/04/international-health-economics-association-machequity": {
             "title": "International Health Economics Association Machequity...",
@@ -28,7 +60,7 @@
             "date": "2015-04-07",
             "author_name": "Nicole Kim",
             "categories": "health,health-economics,evidence",
-            "tags": "world,health,health_economics,economics,child,evidence",
+            "tags": "international,health,health_economics,economics,impact,child,evidence",
             "recuweb_url": "http://en.recuweb.com/evidence/machequity.com/2015/04/international-health-economics-association-machequity",
             "resource_url": "http://www.google.com/search?q=health%2Beconomics%2Bhealth%2Beconomics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://machequity.com/international-health-economics-association/"
@@ -50,7 +82,7 @@
             "date": "2015-03-24",
             "author_name": "unknown",
             "categories": "health,health-economics",
-            "tags": "within,economist,job,health,health_economics,economics,director",
+            "tags": "within,economist,health,health_economics,economics,office,director",
             "recuweb_url": "http://en.recuweb.com/health-economics/econ-jobs.com/2015/03/recruiting-for-two-positions-at-the-office-of-health-economics-job",
             "resource_url": "http://www.google.com/search?q=health%2Beconomics%2Bhealth%2Beconomics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://econ-jobs.com/economics-jobs/recruiting-for-two-positions-at-the-office-of-health-economics-10588"
@@ -72,7 +104,7 @@
             "date": "2015-02-12",
             "author_name": "Jon Nelson",
             "categories": "death,health,health-economics",
-            "tags": "alcohol,billion,economics,health,health_economics,text,ated",
+            "tags": "alcohol,billion,economics,deaths,health,health_economics,text,ated",
             "recuweb_url": "http://en.recuweb.com/health-economics/healtheconomicsreview.com/2015/02/health-economics-review-full-text-binge-drinking-and-alcohol",
             "resource_url": "http://www.google.com/search?q=health%2Beconomics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://healtheconomicsreview.com/content/5/1/6"
@@ -87,39 +119,6 @@
             "recuweb_url": "http://en.recuweb.com/luxury/healtheconomicsreview.com/2015/02/is-healthcare-a-necessity-or-luxury-health-economics-review",
             "resource_url": "http://www.google.com/search?q=health%2Beconomics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://healtheconomicsreview.com/content/5/1/3"
-        },
-        "antranik1.wordpress.com/2014/10/health-care-economics": {
-            "title": "Health care economics...",
-            "snippet": "People are living longer than means there are more people needing health people often need more care and treatment than young people.",
-            "date": "2014-10-04",
-            "author_name": "costellotony7",
-            "categories": "health",
-            "tags": "health,care,economics",
-            "recuweb_url": "http://en.recuweb.com/health/antranik1.wordpress.com/2014/10/health-care-economics",
-            "resource_url": "http://en.search.wordpress.com/?q=health%2Beconomics%2Bhealth%2Beconomics&f=feed&page=1",
-            "source_url": "http://antranik1.wordpress.com/2014/10/04/health-care-economics/"
-        },
-        "ngwvobdl.wordpress.com/2014/02/critique-of-a-research-paper-on-health-economics": {
-            "title": "critique of a research paper on health economics...",
-            "snippet": "critique of a research paper on health economics collateral assignment of lease vs leasehold mortgage critique of a research paper on health economics essay on how friendship...",
-            "date": "2014-02-18",
-            "author_name": "kigcsrox",
-            "categories": "health",
-            "tags": "research,health,economics",
-            "recuweb_url": "http://en.recuweb.com/health/ngwvobdl.wordpress.com/2014/02/critique-of-a-research-paper-on-health-economics",
-            "resource_url": "http://en.search.wordpress.com/?q=health%2Beconomics%2Bhealth%2Beconomics&f=feed&page=1",
-            "source_url": "http://ngwvobdl.wordpress.com/2014/02/19/critique-of-a-research-paper-on-health-economics/"
-        },
-        "dragonapp.wordpress.com/2014/01/economics-health-manager": {
-            "title": "Economics-Health Economics Manager...",
-            "snippet": "Job description Health Economics Manager Location: Berkshire area, Greater London. Salary: Up to 80k base p.a company benefits. Start: ASAP Our client is a global pharmaceutical company, which also has core competencies...",
-            "date": "2014-01-20",
-            "author_name": "dragonapp",
-            "categories": "health,salary",
-            "tags": "global,company,health,economics,job",
-            "recuweb_url": "http://en.recuweb.com/salary/dragonapp.wordpress.com/2014/01/economics-health-manager",
-            "resource_url": "http://en.search.wordpress.com/?q=health%2Beconomics%2Bhealth%2Beconomics&f=feed&page=1",
-            "source_url": "http://dragonapp.wordpress.com/2014/01/20/economics-health-economics-manager/"
         }
     }
 }
