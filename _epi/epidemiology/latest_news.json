@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "epidemiology",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/epidemiology/",
@@ -11,52 +11,82 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/epidemiology/epidemiology/blogs.json"
     },
     "items": {
-        "dailystar.co.uk/2015/04/kissing-bug-killer-parasite-strikes-in-bed-while-you-sleep-heading": {
-            "title": "'Kissing bug'killer parasite strikes in bed while you sleep, heading to UK...",
-            "snippet": "They have to be taken for two months and each can have strong side effects. Recently, researchers at the Center for Clinical Epidemiology and Biostatistics revealed that bed bugs can also transmit Trypanosoma cruzi, the infectious parasitic agent...",
+        "phys.org/2015/04/dc-center-for-aids-research-established-with-new-grant": {
+            "title": "DC Center for AIDS Research established with new grant from the NIH...",
+            "snippet": "An interdisciplinary, city-wide consortium of researchers, led by Alan E. Greenberg, MD, MPH, professor and chair, Department of Epidemiology and Biostatistics at Milken Institute School of Public Health (Milken Institute SPH) at the George...",
             "date": "2015-04-27",
-            "categories": "epidemiology",
-            "tags": "parasitic,parasitic-agent,agent,revealed,revealed-that-bed,bed,bed-bugs,bugs,transmit,clinical,clinical_epidemiology,epidemiology,researchers,parasite,kissing,recently,center,biostatistics,trypanosoma,cruzi,infectious",
-            "recuweb_url": "http://en.recuweb.com/epidemiology/dailystar.co.uk/2015/04/kissing-bug-killer-parasite-strikes-in-bed-while-you-sleep-heading",
+            "categories": "institute,public-health,health,school,epidemiology",
+            "tags": "institute,public,public_health,health,school,professor,researchers,research,center,city,department,epidemiology,biostatistics",
+            "recuweb_url": "http://en.recuweb.com/epidemiology/phys.org/2015/04/dc-center-for-aids-research-established-with-new-grant",
             "resource_url": "http://www.bing.com/news/search?first=1&q=epidemiology&format=RSS&cc=us",
-            "source_url": "http://dailystar.co.uk/news/latest-news/438891/Kissing-bug-warning-silent-night-killer-parasite-UK-fear"
+            "source_url": "http://phys.org/wire-news/191588074/dc-center-for-aids-research-established-with-new-grant-from-the.html"
         },
         "express.co.uk/2015/04/deadly-kissing-parasite-that-sneaks-in-beds-and-bites-your-face": {
             "title": "Deadly 'KISSING PARASITE'that sneaks in beds and bites YOUR face in night is invading UK...",
             "snippet": "Recently, researchers at the Center for Clinical Epidemiology and Biostatistics revealed that bed bugs can transmit Trypanosoma cruzi, the infectious parasitic agent that causes Chagas disease. They found that bed bugs, a cousin of the kissing...",
             "date": "2015-04-27",
             "categories": "epidemiology",
-            "tags": "kissing,bed,bed-bugs,bugs,parasitic,parasitic-agent,agent,revealed,revealed-that-bed,transmit,clinical,clinical_epidemiology,epidemiology,researchers,parasite,recently,center,biostatistics,trypanosoma,cruzi,infectious,disease",
+            "tags": "causes,clinical,epidemiology,researchers,center,biostatistics,infectious,disease",
             "recuweb_url": "http://en.recuweb.com/epidemiology/express.co.uk/2015/04/deadly-kissing-parasite-that-sneaks-in-beds-and-bites-your-face",
             "resource_url": "http://www.bing.com/news/search?first=1&q=epidemiology&format=RSS&cc=us",
             "source_url": "http://express.co.uk/news/weird/573213/Deadly-kissing-bug-sneaks-bedrooms-bites-face-in-night-invades-UK"
+        },
+        "esciencenews.com/2015/04/google-searches-for-n-word-associated-with-black-mortality": {
+            "title": "Google searches for 'n-word'associated with black mortality...",
+            "snippet": "Chae, assistant professor of epidemiology in the University of Maryland School of Public Health, is the first to examine an Internet query-based measure of racism in relation to mortality risk, and is published in the journal PLOS ONE.",
+            "date": "2015-04-27",
+            "categories": "public-health,health,school,google,epidemiology,university,internet",
+            "tags": "risk,public,public_health,health,school,professor,epidemiology,university",
+            "recuweb_url": "http://en.recuweb.com/internet/esciencenews.com/2015/04/google-searches-for-n-word-associated-with-black-mortality",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=epidemiology&format=RSS&cc=us",
+            "source_url": "http://esciencenews.com/sources/physorg/2015/04/27/google.searches.n.word.associated.with.black.mortality"
+        },
+        "cmaj.ca/2015/04/kidney-function-and-the-use-of-nitrofurantoin-to-treat-urinary-tract": {
+            "title": "Kidney function and the use of nitrofurantoin to treat urinary tract infections in older women...",
+            "snippet": "Division of Nephrology, Department of Medicine (Singh, Gandhi, McArthur, Moist, Jain, Liu, Garg), and the Department of Epidemiology and Biostatistics (Gandhi, Moist, Liu, Garg), Western University, London, Ont.; Institute for Clinical Evaluative...",
+            "date": "2015-04-27",
+            "categories": "university,medicine,epidemiology,institute",
+            "tags": "clinical,university,department,medicine,epidemiology,biostatistics,institute",
+            "recuweb_url": "http://en.recuweb.com/institute/cmaj.ca/2015/04/kidney-function-and-the-use-of-nitrofurantoin-to-treat-urinary-tract",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=epidemiology&format=RSS&cc=us",
+            "source_url": "http://cmaj.ca/content/early/2015/04/27/cmaj.150067"
+        },
+        "mainlinemedianews.com/2015/04/letter-more-needs-to-be-done-combat-drug-addiction": {
+            "title": "Letter: More needs to be done to combat drug addiction...",
+            "snippet": "For example, Sestak voted to fund the National Institute on Drug Abuse programs, which include Epidemiology, Services, and Prevention Research that focus on understanding on the ways a persons environment causes drug abuse-related problems. The...",
+            "date": "2015-04-27",
+            "categories": "environment,prevention,institute,epidemiology",
+            "tags": "problems,causes,prevention,research,national,institute,needs,done,epidemiology",
+            "recuweb_url": "http://en.recuweb.com/epidemiology/mainlinemedianews.com/2015/04/letter-more-needs-to-be-done-combat-drug-addiction",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=epidemiology&format=RSS&cc=us",
+            "source_url": "http://mainlinemedianews.com/articles/2015/04/27/main_line_times/opinion/doc5538e0b59838b866020596.txt"
         },
         "golocalpdx.com/2015/04/nfl-concussion-settlement-emphasizes-need-for-better-brain-injury-prevention": {
             "title": "NFL Concussion Settlement Emphasizes Need for Better Brain Injury Prevention and Analysis...",
             "snippet": "Johns Hopkins Medicine hosted a press conference on the epidemiology of head injury in professional football based on specific evidence recovered from TBIs suffered during play. Doctors recommended that there should be more research conducted with...",
             "date": "2015-04-27",
             "categories": "play,football,evidence,medicine,prevention,epidemiology",
-            "tags": "research,press,brain,epidemiology",
+            "tags": "research,press,medicine,brain,prevention,analysis,epidemiology",
             "recuweb_url": "http://en.recuweb.com/epidemiology/golocalpdx.com/2015/04/nfl-concussion-settlement-emphasizes-need-for-better-brain-injury-prevention",
             "resource_url": "http://www.bing.com/news/search?first=1&q=epidemiology&format=RSS&cc=us",
             "source_url": "http://golocalpdx.com/sports/nfl-concussion-settlement-emphasizes-need-for-better-brain-injury-preventio"
         },
-        "reliefweb.int/2015/04/programme-design-and-development-specialist": {
-            "title": "Programme Design and Development Specialist...",
-            "snippet": "The successful candidate will have: A Masters in Public Health, Epidemiology, Social Sciences, Development Studies or similar fields A Masters in Public Health, Epidemiology, Social Sciences, Development Studies or similar fields, or equivalent...",
+        "news-medical.net/2015/04/new-analysis-finds-that-rates-of-health-insurance-coverage-vary": {
+            "title": "New analysis finds that rates of health insurance coverage vary by demographics, cancer type...",
+            "snippet": "Epidemiology, and End Results (SEER) database, which compiles incidence and survival data from population-based cancer registries in the United States. Their analysis included 688,794 patients age 18 to 64 years who were diagnosed with one of the...",
             "date": "2015-04-27",
-            "categories": "public-health,health,epidemiology",
-            "tags": "similar,studies,public,public_health,health,epidemiology",
-            "recuweb_url": "http://en.recuweb.com/epidemiology/reliefweb.int/2015/04/programme-design-and-development-specialist",
+            "categories": "cancer,insurance,health,epidemiology,database",
+            "tags": "analysis,health,epidemiology,population",
+            "recuweb_url": "http://en.recuweb.com/database/news-medical.net/2015/04/new-analysis-finds-that-rates-of-health-insurance-coverage-vary",
             "resource_url": "http://www.bing.com/news/search?first=1&q=epidemiology&format=RSS&cc=us",
-            "source_url": "http://reliefweb.int/job/957086/programme-design-and-development-specialist"
+            "source_url": "http://news-medical.net/news/20150427/New-analysis-finds-that-rates-of-health-insurance-coverage-vary-by-demographics-cancer-type.aspx"
         },
         "biomedcentral.com/2015/04/recognizing-and-managing-sepsis-what-needs-to-be-done": {
             "title": "Recognizing and managing sepsis: what needs to be done?",
             "snippet": "Figure 4. Marian Knight is Professor of Maternal and Child Population Health, NIHR Research Professor and Honorary Consultant in Public Health at the National Perinatal Epidemiology Unit, University of Oxford. Her research interests include severe...",
             "date": "2015-04-27",
             "categories": "epidemiology,public-health,health,sepsis,university",
-            "tags": "research,national,epidemiology,unit,public,public_health,health,population,professor,university",
+            "tags": "research,national,epidemiology,unit,public,public_health,health,population,needs,done,professor,university",
             "recuweb_url": "http://en.recuweb.com/university/biomedcentral.com/2015/04/recognizing-and-managing-sepsis-what-needs-to-be-done",
             "resource_url": "http://www.bing.com/news/search?first=1&q=epidemiology&format=RSS&cc=us",
             "source_url": "http://biomedcentral.com/1741-7015/13/98"
@@ -66,7 +96,7 @@
             "snippet": "Wilker, a researcher in the Cardiovascular Epidemiology Research Unit at Beth Israel Deaconess Medical Center and the Harvard T.H. Chan School of Public Health in Boston, said in a press release. Long-term exposure to air pollution showed harmful...",
             "date": "2015-04-26",
             "categories": "pollution,public-health,health,school,epidemiology",
-            "tags": "exposure,exposure-to-air,air,pollution,said,press,public,public_health,health,chan,chan_school,school,beth,beth_israel,beth_israel_deaconess,israel,israel_deaconess,israel_deaconess_medical,deaconess,deaconess_medical,deaconess_medical_center,medical,medical_center,center,cardiovascular,cardiovascular_epidemiology,cardiovascular_epidemiology_research,epidemiology,epidemiology_research,epidemiology_research_unit,research,research_unit,unit,researcher,brain,wilker,harvard,term",
+            "tags": "exposure,air,pollution,said,press,public,public_health,health,school,beth,beth_israel,beth_israel_deaconess,israel,israel_deaconess,israel_deaconess_medical,deaconess,deaconess_medical,deaconess_medical_center,medical,medical_center,center,cardiovascular,cardiovascular_epidemiology,cardiovascular_epidemiology_research,epidemiology,epidemiology_research,epidemiology_research_unit,research,research_unit,unit,researcher,brain,wilker,term",
             "recuweb_url": "http://en.recuweb.com/epidemiology/ibtimes.com/2015/04/air-pollution-can-shrink-brain-lead-to-dementia",
             "resource_url": "http://www.bing.com/news/search?first=1&q=epidemiology&format=RSS&cc=us",
             "source_url": "http://ibtimes.com/air-pollution-can-shrink-brain-lead-dementia-1896943"
@@ -76,40 +106,10 @@
             "snippet": "\"This is one of the first studies to look at the relationship between ambient air pollution and brain structure,\" Elissa Wilker, a researcher in the Cardiovascular Epidemiology Research Unit at Beth Israel Deaconess Medical Center, said in a...",
             "date": "2015-04-26",
             "categories": "epidemiology,pollution",
-            "tags": "said,beth,beth_israel,beth_israel_deaconess,israel,israel_deaconess,israel_deaconess_medical,deaconess,deaconess_medical,deaconess_medical_center,medical,medical_center,center,cardiovascular,cardiovascular_epidemiology,cardiovascular_epidemiology_research,epidemiology,epidemiology_research,epidemiology_research_unit,research,research_unit,unit,researcher,elissa,elissa_wilker,wilker,studies,air,air-pollution,pollution,brain,exposure",
+            "tags": "said,beth,beth_israel,beth_israel_deaconess,israel,israel_deaconess,israel_deaconess_medical,deaconess,deaconess_medical,deaconess_medical_center,medical,medical_center,center,cardiovascular,cardiovascular_epidemiology,cardiovascular_epidemiology_research,epidemiology,epidemiology_research,epidemiology_research_unit,research,research_unit,unit,researcher,wilker,air,pollution,brain,exposure,city,risk",
             "recuweb_url": "http://en.recuweb.com/pollution/universityherald.com/2015/04/exposure-to-city-pollution-may-pose-risk-brain-structure-cognitive-functions",
             "resource_url": "http://www.bing.com/news/search?first=1&q=epidemiology&format=RSS&cc=us",
             "source_url": "http://universityherald.com/articles/18350/20150426/exposure-to-city-pollution-may-pose-risk-to-brain-structure-cognitive-functions.htm"
-        },
-        "bangaloremirror.com/2015/04/india-us-to-join-hands-combat-avian-influenza-on-a-global": {
-            "title": "India, US TO join hands to combat avian influenza on a global scale...",
-            "snippet": "Dr White was leading a three-member expert veterinary epidemiologist team from USDA to ICAR - National Institute of Veterinary Epidemiology and Disease Informatics (NIVEDI), Bengaluru, to train Indian veterinary scientists and field officers from...",
-            "date": "2015-04-26",
-            "categories": "epidemiology,institute",
-            "tags": "scientists,disease,epidemiology,national,team,global",
-            "recuweb_url": "http://en.recuweb.com/institute/bangaloremirror.com/2015/04/india-us-to-join-hands-combat-avian-influenza-on-a-global",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=epidemiology&format=RSS&cc=us",
-            "source_url": "http://bangaloremirror.com/others/sci-tech/India-US-TO-join-hands-to-combat-avian-influenza-on-a-global-scale/articleshow/47061415.cms"
-        },
-        "bbc.co.uk/2015/04/scientists-call-for-action-on-resistance-to-antibiotics": {
-            "title": "Scientists call for action on resistance to antibiotics...",
-            "snippet": "Prof Mark Woolhouse, a professor of infectious disease epidemiology at the University of Edinburgh, said international co-operation has resulted in targets being set for reducing the factors causing climate change. He argued similar action was now...",
-            "date": "2015-04-26",
-            "categories": "climate-change,epidemiology,university",
-            "tags": "similar,change,said,professor,scientists,infectious,disease,epidemiology,university",
-            "recuweb_url": "http://en.recuweb.com/university/bbc.co.uk/2015/04/scientists-call-for-action-on-resistance-to-antibiotics",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=epidemiology&format=RSS&cc=us",
-            "source_url": "http://bbc.co.uk/news/uk-scotland-32474719"
-        },
-        "upi.com/2015/04/prolonged-exposure-to-air-pollution-linked-brain-damage-new-study-finds": {
-            "title": "Prolonged exposure to air pollution linked to brain damage, new study finds...",
-            "snippet": "Investigator Elissa Wilker of the Cardiovascular Epidemiology Research Unit at Beth Israel Deaconess Medical Center and the Harvard T.H. Chan School of Public Health, along with colleagues, published their findings in the journal Stroke. The team...",
-            "date": "2015-04-25",
-            "categories": "public-health,health,school,epidemiology,pollution,stroke",
-            "tags": "public,public_health,health,chan,chan_school,school,beth,beth_israel,beth_israel_deaconess,israel,israel_deaconess,israel_deaconess_medical,deaconess,deaconess_medical,deaconess_medical_center,medical,medical_center,center,cardiovascular,cardiovascular_epidemiology,cardiovascular_epidemiology_research,epidemiology,epidemiology_research,epidemiology_research_unit,research,research_unit,unit,elissa,elissa_wilker,wilker,study,brain,exposure,exposure-to-air,air,air-pollution,pollution,harvard,team",
-            "recuweb_url": "http://en.recuweb.com/stroke/upi.com/2015/04/prolonged-exposure-to-air-pollution-linked-brain-damage-new-study-finds",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=epidemiology&format=RSS&cc=us",
-            "source_url": "http://upi.com/Health_News/2015/04/25/Prolonged-exposure-to-air-pollution-linked-to-brain-damage-new-study-finds/1481429970069/"
         }
     }
 }
