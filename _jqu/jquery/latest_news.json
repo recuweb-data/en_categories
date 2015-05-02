@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "jquery",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/jquery/",
@@ -11,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/jquery/jquery/blogs.json"
     },
     "items": {
-        "4-traders.com/2015/04/business-machines-451-research-survey-of-almost-2-000-companies-confirms": {
-            "title": "Business Machines: 451 Research Survey of Almost 2,000 Companies Confirms IBM as Most Likely Cloud...",
-            "snippet": "12:03p Twelve Companies Demonstrate Interoperability for OASIS KMIP and PKCS 11 Enc.. 10:00a BUSINESS MACHINES: jQuery Foundation Launches Globalize v 1.0 08:09a BUSINESS MACHINES: Swiss Re Corporate Solutions Joins Forces with IBM to Offer..",
+        "scmagazineuk.com/2015/04/taking-a-trip-of-discovery-into-the-unknown": {
+            "title": "Taking a trip of discovery into the unknown...",
+            "snippet": "In fact, jQuery, the world's most used JavaScript library, has been attacked several times. Another area of vulnerability is in broken SSL certificates that can potentially allow attackers to perform man-in-the-middle attacks or can fail to prevent...",
+            "date": "2015-04-27",
+            "categories": "jquery,javascript",
+            "tags": "into,jquery,javascript,library",
+            "recuweb_url": "http://en.recuweb.com/javascript/scmagazineuk.com/2015/04/taking-a-trip-of-discovery-into-the-unknown",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
+            "source_url": "http://scmagazineuk.com/taking-a-trip-of-discovery-into-the-unknown/article/411210/"
+        },
+        "phpmagazin.de/2015/04/jquery-foundation-ver%C3%B6ffentlicht-globalize-1-0-php-magazin": {
+            "title": "jQuery Foundation ver\u00f6ffentlicht Globalize 1.0 - php magazin...",
+            "snippet": "php magazinjQuery Foundation ver\u00f6ffentlicht Globalize magazinBis zur gerade erschienen Version 1.0 der Internationalisierungs-Library Globalize hat es zwar eine ganze Weile gedauert, daf\u00fcr bringt die von der jQuery Foundation ver\u00f6ffentlichte...",
+            "date": "2015-04-27",
+            "categories": "php,jquery",
+            "tags": "foundation,jquery,jquery_foundation,globalize,version,library",
+            "recuweb_url": "http://en.recuweb.com/jquery/phpmagazin.de/2015/04/jquery-foundation-ver%C3%B6ffentlicht-globalize-1-0-php-magazin",
+            "resource_url": "http://news.google.com/?hl=en&q=jquery&output=atom&nord=1",
+            "source_url": "http://phpmagazin.de/news/jquery-foundation-globalize-1-0-179468"
+        },
+        "web.developpez.com/2015/04/globalize-1-0-l-outil-d-internationalisation-de-jquery-rendez-vous": {
+            "title": "Globalize 1.0: l'outil d'internationalisation de jQuery, rendez-vous vos... -...",
+            "snippet": "Globalize 1.0: l'outil d'internationalisation de jQuery, rendez-vous vos... est le projet d'internationalisation (i18n) de jQuery. Un tel projet a pour objectif de pallier aux probl\u00e8mes d'affichage des dates, des nombres, des devises, pourcentage...",
+            "date": "2015-04-26",
+            "categories": "jquery",
+            "tags": "est,outil,globalize,jquery",
+            "recuweb_url": "http://en.recuweb.com/jquery/web.developpez.com/2015/04/globalize-1-0-l-outil-d-internationalisation-de-jquery-rendez-vous",
+            "resource_url": "http://news.google.com/?hl=en&q=jquery%2Bjquery&output=atom&nord=1",
+            "source_url": "http://web.developpez.com/actu/84341/Globalize-1-0-l-outil-d-internationalisation-de-jQuery-rendez-vous-vos-applications-accessibles-a-tous/"
+        },
+        "thenextweb.com/2015/04/10%-off-select-lifetime-deals-this-weekend-only": {
+            "title": "10% off select lifetime deals, this weekend only!",
+            "snippet": "JavaScript and jQuery. Its not just for beginners browse Train Simples library to discover a wide range of courses for every skill level, with new ones added frequently. And best of all, you can watch and learn at your own pace online...",
+            "date": "2015-04-25",
+            "categories": "life,javascript,jquery",
+            "tags": "learn,library,only,off,life,javascript,jquery",
+            "recuweb_url": "http://en.recuweb.com/jquery/thenextweb.com/2015/04/10%-off-select-lifetime-deals-this-weekend-only",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
+            "source_url": "http://thenextweb.com/offers/2015/04/25/10-off-select-lifetime-deals-this-weekend-only/"
+        },
+        "javascript.developpez.com/2015/04/pep-polyfill-pointer-events-de-google-est-repris-par-jquery-afin": {
+            "title": "PEP: polyfill Pointer Events de Google est repris par jQuery afin de... -...",
+            "snippet": "PEP: polyfill Pointer Events de Google est repris par jQuery afin de... y a quelques mois, l'\u00e9quipe jQuery annon\u00e7ait que l'\u00e9quipe Polymer de Google leur avait transf\u00e9r\u00e9 le d\u00e9veloppement du polyfill Pointer Events afin de maintenir l'outil car...",
+            "date": "2015-04-25",
+            "categories": "events,google,jquery",
+            "tags": "outil,est,jquery",
+            "recuweb_url": "http://en.recuweb.com/jquery/javascript.developpez.com/2015/04/pep-polyfill-pointer-events-de-google-est-repris-par-jquery-afin",
+            "resource_url": "http://news.google.com/?hl=en&q=jquery%2Bjquery&output=atom&nord=1",
+            "source_url": "http://javascript.developpez.com/actu/84339/PEP-0-3-0-polyfill-Pointer-Events-de-Google-est-repris-par-jQuery-afin-de-maintenir-l-outil-de-normalisation-des-evenements/"
+        },
+        "geeky-gadgets.com/2015/04/interactive-coding-bootcamp-for-39-save-92%": {
+            "title": "Interactive Coding Bootcamp For 39, Save 92%...",
+            "snippet": "The course features HTML, CSS, Javascript, jQuery & frameworks like AngularJS training, plus Ruby on Rails,, e-commerce, databases & more. You can now get the Interactive Coding Bootcamp for 39 and save 92% off the normal retail price of 499 with...",
+            "date": "2015-04-24",
+            "categories": "html,css,javascript,jquery,commerce",
+            "tags": "off,course,html,css,javascript,jquery",
+            "recuweb_url": "http://en.recuweb.com/commerce/geeky-gadgets.com/2015/04/interactive-coding-bootcamp-for-39-save-92%",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
+            "source_url": "http://geeky-gadgets.com/interactive-coding-bootcamp-for-39-save-92/"
+        },
+        "mediaite.com/2015/04/the-14-most-important-media-reporters-in-america": {
+            "title": "The 14 Most Important Media Reporters in America...",
+            "snippet": "To use our slideshows you need to enable javascript. There's no cross domain hackery or tracking voodoo, it's just some sweet jQuery animations. Please, think of the animations. In the meantime, enjoy the html version below. I guess. If that's your...",
+            "date": "2015-04-24",
+            "categories": "javascript,jquery,html",
+            "tags": "mean,slideshows,javascript,jquery,html,version",
+            "recuweb_url": "http://en.recuweb.com/html/mediaite.com/2015/04/the-14-most-important-media-reporters-in-america",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
+            "source_url": "http://mediaite.com/online/the-14-most-important-media-reporters/"
+        },
+        "searchenginepeople.com/2015/04/20-basic-html-&-css-tricks-marketers-should-know": {
+            "title": "20 Basic HTML & CSS Tricks Marketers Should Know...",
+            "snippet": "If there's no errors we can proceed with the form as usual!//The ID of the submit button on the form (in our example) was 'get-quote'so we bind our listener to that jQuery(get-quote).click(function()//Declare and reset our error value each time...",
+            "date": "2015-04-23",
+            "categories": "css,html,jquery",
+            "tags": "css,html,jquery",
+            "recuweb_url": "http://en.recuweb.com/jquery/searchenginepeople.com/2015/04/20-basic-html-&-css-tricks-marketers-should-know",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
+            "source_url": "http://searchenginepeople.com/blog/150450955-know-basic-html-css.html"
+        },
+        "4-traders.com/2015/04/business-machines-jquery-foundation-launches-globalize-v-1-0": {
+            "title": "Business Machines: jQuery Foundation Launches Globalize v 1.0...",
+            "snippet": "The jQuery Foundation today announces the immediate availability of version 1.0 of its highly-anticipated Globalize project. Globalize provides developers with always up-to-date global number formatting and parsing, date and time formatting and...",
             "date": "2015-04-23",
             "categories": "jquery,business",
-            "tags": "jquery,jquery_foundation,jquery_foundation_launches,foundation,foundation_launches,foundation_launches_globalize,launches,launches_globalize,globalize,cloud",
-            "recuweb_url": "http://en.recuweb.com/business/4-traders.com/2015/04/business-machines-451-research-survey-of-almost-2-000-companies-confirms",
+            "tags": "provides,provides-developers,developers,highly,announces,announces-the-immediate,immediate,immediate-availability,availability,jquery,jquery_foundation,foundation,jquery_foundation_launches,foundation_launches,foundation_launches_globalize,launches,launches_globalize,globalize,version,anticipated,project",
+            "recuweb_url": "http://en.recuweb.com/business/4-traders.com/2015/04/business-machines-jquery-foundation-launches-globalize-v-1-0",
             "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
-            "source_url": "http://4-traders.com/INTERNATIONAL-BUSINESS-MA-4828/news/Business-Machines--451-Research-Survey-of-Almost-2000-Companies-Confirms-IBM-as-Most-Likely-Cloud-20247795/"
+            "source_url": "http://4-traders.com/INTERNATIONAL-BUSINESS-MA-4828/news/Business-Machines--jQuery-Foundation-Launches-Globalize-v-10-20246062/"
         },
         "hostreview.com/2015/04/jquery-foundation-launches-globalize-v-1-0-press-release": {
             "title": "JQuery Foundation Launches Globalize V 1.0 - (press release)...",
             "snippet": "JQuery Foundation Launches Globalize V (press release)Walnut, CA. (PRWEB) April 23, 2015 - The jQuery Foundation today announces the immediate availability of version 1.0 of its highly-anticipated Globalize project. Globalize provides developers...",
             "date": "2015-04-23",
             "categories": "jquery",
-            "tags": "provides,provides-developers,developers,highly,today,today-announces,announces,announces-the-immediate,immediate,immediate-availability,availability,jquery,jquery_foundation,foundation,jquery_foundation_launches,foundation_launches,foundation_launches_globalize,launches,launches_globalize,globalize,version,anticipated,project",
+            "tags": "provides,provides-developers,developers,highly,announces,announces-the-immediate,immediate,immediate-availability,availability,jquery,jquery_foundation,foundation,jquery_foundation_launches,foundation_launches,foundation_launches_globalize,launches,launches_globalize,globalize,version,anticipated,project",
             "recuweb_url": "http://en.recuweb.com/jquery/hostreview.com/2015/04/jquery-foundation-launches-globalize-v-1-0-press-release",
-            "resource_url": "http://news.google.com/?hl=en&q=jquery&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=jquery%2Bjquery&output=atom&nord=1",
             "source_url": "http://hostreview.com/news/150423-jquery-foundation-launches-globalize-v-10"
-        },
-        "blogs.edweek.org/2015/04/learning-to-speak-tech-as-a-non-technical-co-founder-education": {
-            "title": "Learning to Speak 'Tech'as a Non-Technical Co-Founder - Education Week Blogs (subscription) (blog)...",
-            "snippet": "Education Week Blogs (subscription) (blog)Learning to Speak 'Tech'as a Non-Technical Co-FounderEducation Week Blogs (subscription) (blog)jQuery, to forking vs. branching vs. cloning in GitHub, I often joke that we should create a ProfessorWord tool...",
-            "date": "2015-04-23",
-            "categories": "education,learning,jquery",
-            "tags": "week,education,jquery,create",
-            "recuweb_url": "http://en.recuweb.com/jquery/blogs.edweek.org/2015/04/learning-to-speak-tech-as-a-non-technical-co-founder-education",
-            "resource_url": "http://news.google.com/?hl=en&q=jquery&output=atom&nord=1",
-            "source_url": "http://blogs.edweek.org/edweek/the_startup_blog/2015/04/learning_to_speak_tech.html"
-        },
-        "cad.digitalmedianet.com/2015/04/jquery-foundation-launches-globalize-v-1-0": {
-            "title": "jQuery Foundation Launches Globalize v 1.0...",
-            "snippet": "The jQuery Foundation today announces the immediate availability of version 1.0 of its highly-anticipated Globalize project. Globalize provides developers with always up-to-date global number formatting and parsing, date and time formatting and...",
-            "date": "2015-04-23",
-            "categories": "jquery",
-            "tags": "provides,provides-developers,developers,highly,today,today-announces,announces,announces-the-immediate,immediate,immediate-availability,availability,jquery,jquery_foundation,foundation,jquery_foundation_launches,foundation_launches,foundation_launches_globalize,launches,launches_globalize,globalize,version,anticipated,project",
-            "recuweb_url": "http://en.recuweb.com/jquery/cad.digitalmedianet.com/2015/04/jquery-foundation-launches-globalize-v-1-0",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
-            "source_url": "http://cad.digitalmedianet.com/articles/viewarticle.jsp?id=3862059"
-        },
-        "techspot.com/2015/04/freebie-learn-core-web-development-with-this-free-course-bundle": {
-            "title": "Freebie: Learn core web development with this free course bundle...",
-            "snippet": "Best of all, it wont cost you a dime. These five courses cover the basics of the core programming languages: HTML, HTML5, CSS, JavaScript, and jQuery. Each course is just 1 hour long, and theyre designed to give you a solid working knowledge of...",
-            "date": "2015-04-22",
-            "categories": "languages,web-development,html,css,javascript,jquery",
-            "tags": "course,courses,free,learn,html,css,javascript,jquery,each",
-            "recuweb_url": "http://en.recuweb.com/jquery/techspot.com/2015/04/freebie-learn-core-web-development-with-this-free-course-bundle",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
-            "source_url": "http://techspot.com/news/60441-freebie-learn-core-web-development-free-course-bundle.html"
-        },
-        "thenextweb.com/2015/04/get-70%-off-lifetime-access-to-over-5-000-adobe-training": {
-            "title": "Get 70% off lifetime access to over 5,000 Adobe training videos...",
-            "snippet": "JavaScript and jQuery. And its not just for beginners youll find a wide range of courses for every skill level, with new ones added frequently. And best of all, you can watch and learn at your own pace online, and on-the-go with mobile app...",
-            "date": "2015-04-22",
-            "categories": "life,javascript,jquery",
-            "tags": "mobile,learn,online,courses,life,javascript,jquery",
-            "recuweb_url": "http://en.recuweb.com/jquery/thenextweb.com/2015/04/get-70%-off-lifetime-access-to-over-5-000-adobe-training",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
-            "source_url": "http://thenextweb.com/offers/2015/04/22/get-70-off-lifetime-access-to-over-5000-adobe-training-videos/"
-        },
-        "linuxexpres.cz/2015/04/jquery-9-funkce-jako-parametr-linuxexpres": {
-            "title": "jQuery (9) funkce jako parametr - LinuxEXPRES...",
-            "snippet": "jQuery (9) funkce jako parametrLinuxEXPRESP\u00edklad piad\u00ed k dal\u00edmu pouit\u00ed do promnn\u00e9 a instanci jQuery s vyfiltrovan\u00fdmi objekty odkaz. Nejprve si definujeme funkci myFilter(), kter\u00e1 bude zajiovat filtraci. V tomto p\u00edpad funguje tak, e prvn\u00ed...",
-            "date": "2015-04-21",
-            "categories": "jquery",
-            "tags": "jquery",
-            "recuweb_url": "http://en.recuweb.com/jquery/linuxexpres.cz/2015/04/jquery-9-funkce-jako-parametr-linuxexpres",
-            "resource_url": "http://news.google.com/?hl=en&q=jquery&output=atom&nord=1",
-            "source_url": "http://linuxexpres.cz/software/jquery-9-funkce-jako-parametr"
-        },
-        "sitepoint.com/2015/04/drupal-goes-social-building-a-liking-module-in": {
-            "title": "Drupal goes Social: Building a Liking Module in Drupal...",
-            "snippet": "This menu callback will be called from our JQuery AJAX call and will update the UI with the JSON it receives. Once we have created the callback, we need to show the like link on each of the posts. We can do so by implementing hook_node_view() as...",
-            "date": "2015-04-20",
-            "categories": "jquery,drupal,json",
-            "tags": "each,jquery,ajax,menu,ing,module",
-            "recuweb_url": "http://en.recuweb.com/json/sitepoint.com/2015/04/drupal-goes-social-building-a-liking-module-in",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
-            "source_url": "http://sitepoint.com/drupal-goes-social-building-liking-module-drupal/"
-        },
-        "blogs.msdn.com/2015/04/using-requirejs-with-visual-studio": {
-            "title": "Using RequireJS with Visual Studio...",
-            "snippet": "In the services/file, add the following code to define a RequireJS module that returns a single function that gets a list of images: In, I can now refer to the jQuery library simply as jquery and use the.ajax() function to...",
-            "date": "2015-04-20",
-            "categories": "jquery",
-            "tags": "images,module,single,ing,code,jquery,ajax",
-            "recuweb_url": "http://en.recuweb.com/jquery/blogs.msdn.com/2015/04/using-requirejs-with-visual-studio",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
-            "source_url": "http://blogs.msdn.com/b/visualstudio/archive/2015/04/20/using-requirejs-with-visual-studio.aspx"
-        },
-        "java.dzone.com/2015/04/the-best-of-week-apr-10-mobile-zone": {
-            "title": "The Best of the Week (Apr 10): Mobile Zone...",
-            "snippet": "2. Packaging a jQuery Mobile Application with Cordova/Phonegap In this article we are going to learn the process of packaging a jQuery Mobile Application with Cordova/Phonegap. The application that we will use in the article is the Meeting Room...",
-            "date": "2015-04-19",
-            "categories": "jquery",
-            "tags": "learn,jquery,mobile,week",
-            "recuweb_url": "http://en.recuweb.com/jquery/java.dzone.com/2015/04/the-best-of-week-apr-10-mobile-zone",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
-            "source_url": "http://java.dzone.com/articles/best-week-apr-10-mobile-zone?mz=27249-mobile"
         }
     }
 }
