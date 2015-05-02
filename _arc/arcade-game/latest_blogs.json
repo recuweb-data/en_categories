@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "arcade-game",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/arcade-game/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/arcade-game/arcade-game/blogs.json"
     },
     "items": {
+        "toucharcade.com/2015/04/apple-watch-games-first-impressions-of-touch-arcade": {
+            "title": "Apple Watch Games - First Impressions of... - Touch Arcade...",
+            "snippet": "With the first Apple Watches being delivered, we take a look at a few of the games already available on its App Store.",
+            "date": "2015-04-25",
+            "author_name": "Eric Ford",
+            "tags": "store,touch,touch_arcade,arcade,games,look,available",
+            "recuweb_url": "http://en.recuweb.com/toucharcade.com/2015/04/apple-watch-games-first-impressions-of-touch-arcade",
+            "resource_url": "http://www.google.com/search?q=arcade%2Bgame%2Barcade%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://toucharcade.com/2015/04/24/apple-watch-games-first-impressions-of-spy_watch-letterpad-watch-quest-and-runeblade/"
+        },
         "theawesomer.com/2015/04/maimai-arcade-game-the-awesomer": {
             "title": "MaiMai Arcade Game - The Awesomer...",
             "snippet": "Watch an expert take on the exact opposite of the generous arcade game. Sega's MaiMai is a rhythm arcade game with eight buttons and a touchscreen. It's like Dance Dance Revolution but for hands.",
@@ -27,7 +37,7 @@
             "snippet": "We had to watch this video several times to figure out how this video game works. But we're still not sure. It definitely involves a lot of hand gestures, flashing lights, and sounds. And it requires entirely too much dexterity for a normal human.",
             "date": "2015-04-23",
             "author_name": "Josh Urich",
-            "tags": "definitely,arcade,game",
+            "tags": "definitely,japanese,arcade,game",
             "recuweb_url": "http://en.recuweb.com/holykaw.alltop.com/2015/04/this-japanese-arcade-game-requires-far-too-much-talent-video",
             "resource_url": "http://www.google.com/search?q=arcade%2Bgame%2Barcade%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://holykaw.alltop.com/this-japanese-arcade-game-requires-far-too-much-talent-video"
@@ -38,28 +48,17 @@
             "date": "2015-04-22",
             "author_name": "Jawad Ashraf",
             "categories": "playstation",
-            "tags": "fighter,definitely,live,quite,classics,arcade,games,pac,man",
+            "tags": "fighter,definitely,live,quite,aren,store,classics,arcade,games,pac,man",
             "recuweb_url": "http://en.recuweb.com/playstation/blog.eu.playstation.com/2015/04/big-savings-on-arcade-classics-start-today-playstation-store",
             "resource_url": "http://www.google.com/search?q=arcade%2Bgame%2Barcade%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.eu.playstation.com/2015/04/22/big-savings-arcade-classics-start-today-playstation-store/"
-        },
-        "kotaku.com/2015/04/hands-on-with-the-dissidia-final-fantasy-arcade-game-kotaku": {
-            "title": "Hands-on with the Dissidia: Final Fantasy Arcade Game - Kotaku...",
-            "snippet": "This past weekend in Tokyo, Square Enix did their first location test of the upcoming Dissidia: Final Fantasy arcadeand Kotaku was on hand to try it out.",
-            "date": "2015-04-21",
-            "author_name": "Richard Eisenbeis",
-            "categories": "arcade-game",
-            "tags": "hands,final,final_fantasy,fantasy,upcoming,square,square_enix,enix,final_fantasy_arcade,fantasy_arcade,fantasy_arcade_game,arcade,arcade_game,game,dissidia",
-            "recuweb_url": "http://en.recuweb.com/arcade-game/kotaku.com/2015/04/hands-on-with-the-dissidia-final-fantasy-arcade-game-kotaku",
-            "resource_url": "http://www.google.com/search?q=arcade%2Bgame%2Barcade%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://kotaku.com/hands-on-with-the-dissidia-final-fantasy-arcade-game-1699128823"
         },
         "opensource.com/2015/04/building-a-game-engine-twist-on-classic-arcade": {
             "title": "Building a game engine, a twist on classic arcade... -...",
             "snippet": "Hello, open gaming fans! In this week's edition, we take a look at the benefits of developing an open source game engine, a new release that combines three arcade classics, and more!",
             "date": "2015-04-18",
             "author_name": "robinmuilwijk",
-            "tags": "release,look,developing,open,source,week,gaming,game,classics,arcade",
+            "tags": "release,developing,open,source,week,gaming,game,classics,arcade,look",
             "recuweb_url": "http://en.recuweb.com/opensource.com/2015/04/building-a-game-engine-twist-on-classic-arcade",
             "resource_url": "http://www.google.com/search?q=arcade%2Bgame%2Barcade%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://opensource.com/life/15/4/open-gaming-april-18"
@@ -90,7 +89,7 @@
             "date": "2015-04-10",
             "author_name": "Sato",
             "categories": "arcade-game",
-            "tags": "developing,team,team_ninja,ninja,koei,tecmo,company,dissidia,dissidia_final,dissidia_final_fantasy,final,final_fantasy,fantasy,shared,upcoming,square,square_enix,enix,closed,closed_conference,conference,final_fantasy_arcade,fantasy_arcade,fantasy_arcade_game,arcade,arcade_game,game,during,special,dengeki",
+            "tags": "developing,team,team_ninja,ninja,koei,tecmo,company,dissidia,dissidia_final,dissidia_final_fantasy,final,final_fantasy,fantasy,shared,square,square_enix,enix,closed,closed_conference,conference,final_fantasy_arcade,fantasy_arcade,fantasy_arcade_game,arcade,arcade_game,game,during,special,dengeki",
             "recuweb_url": "http://en.recuweb.com/arcade-game/siliconera.com/2015/04/dissidia-final-fantasy-arcade-game-is-being-developed-by-team",
             "resource_url": "http://www.google.com/search?q=arcade%2Bgame%2Barcade%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://siliconera.com/2015/04/10/dissidia-final-fantasy-arcade-game-developed-team-ninja/"
@@ -112,7 +111,7 @@
             "date": "2015-04-10",
             "author_name": "Brian Ashcraft",
             "categories": "arcade-game",
-            "tags": "developer,reports,team,team_ninja,ninja,tecmo,koei,developing,square,square_enix,enix,dissidia,dissidia_final,dissidia_final_fantasy,final,final_fantasy,final_fantasy_arcade,fantasy,fantasy_arcade,fantasy_arcade_game,arcade,arcade_game,game,inside",
+            "tags": "developer,reports,team,team_ninja,ninja,tecmo,koei,developing,square,square_enix,enix,dissidia,dissidia_final,dissidia_final_fantasy,final,final_fantasy,final_fantasy_arcade,fantasy,fantasy_arcade,fantasy_arcade_game,arcade,arcade_game,game,fighting,inside",
             "recuweb_url": "http://en.recuweb.com/arcade-game/kotaku.com/2015/04/team-ninja-is-making-the-dissidia-final-fantasy-arcade-game",
             "resource_url": "http://www.google.com/search?q=arcade%2Bgame%2Barcade%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://kotaku.com/team-ninja-is-making-the-dissidia-final-fantasy-arcade-1696950838"
