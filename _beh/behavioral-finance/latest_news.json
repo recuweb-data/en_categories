@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "behavioral-finance",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/behavioral-finance/",
@@ -11,14 +11,54 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/behavioral-finance/behavioral-finance/blogs.json"
     },
     "items": {
-        "krugman.blogs.nytimes.com/2015/04/choose-your-heterodoxy-wonkish-new-york-times-blog": {
-            "title": "Choose Your Heterodoxy (Wonkish) - New York Times (blog)...",
-            "snippet": "Choose Your Heterodoxy (Wonkish)New York Times (blog)Why not appeal to behavioral economics, behavioral finance in particular, to make sense of bubbles? Why not appeal to the clear evidence of price and wage stickiness perhaps grounded in bounded...",
-            "date": "2015-04-25",
-            "categories": "evidence,finance",
-            "tags": "why,behavioral,economics,finance",
-            "recuweb_url": "http://en.recuweb.com/finance/krugman.blogs.nytimes.com/2015/04/choose-your-heterodoxy-wonkish-new-york-times-blog",
+        "seekingalpha.com/2015/04/bull-bear-tug-of-war-spy-seeking-alpha": {
+            "title": "Bull-Bear Tug-Of-War (SPY) - Seeking Alpha...",
+            "snippet": "Seeking AlphaBull-Bear Tug-Of-War (SPY)Seeking AlphaWhile attention to market data indicators (such as Advance/Decline lines, TRIN, and volatility) is essential, at Williams Market Analytics we place an equal importance on behavioral finance. As...",
+            "date": "2015-04-27",
+            "categories": "finance",
+            "tags": "market,behavioral,finance",
+            "recuweb_url": "http://en.recuweb.com/finance/seekingalpha.com/2015/04/bull-bear-tug-of-war-spy-seeking-alpha",
             "resource_url": "http://news.google.com/?hl=en&q=behavioral%2Bfinance&output=atom&nord=1",
+            "source_url": "http://seekingalpha.com/article/3104816-bull-bear-tug-of-war"
+        },
+        "benzinga.com/2015/04/imca-unveils-new-applied-behavioral-finance-course": {
+            "title": "IMCA Unveils New Applied Behavioral Finance Course...",
+            "snippet": "Investment Management Consultants Association (IMCA) announced today at its Annual Conference that its board of directors voted to introduce a new online behavioral finance program this summer. The online certificate program is designed to help...",
+            "date": "2015-04-27",
+            "categories": "management,behavioral-finance,finance",
+            "tags": "announced,management,behavioral,behavioral_finance,finance",
+            "recuweb_url": "http://en.recuweb.com/finance/benzinga.com/2015/04/imca-unveils-new-applied-behavioral-finance-course",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=behavioral%2Bfinance&format=RSS&cc=us",
+            "source_url": "http://benzinga.com/pressreleases/15/04/p5446064/imca-unveils-new-applied-behavioral-finance-course"
+        },
+        "onlineathens.com/2015/04/broad-street-capital-hosts-client-symposium": {
+            "title": "Broad Street Capital hosts client symposium...",
+            "snippet": "Breakout sessions include presentations on family financial strategies, strategic charitable giving, target date investments and behavioral finance principals for retirement plans. Closing remarks will be presented at noon by Charles Porch, a...",
+            "date": "2015-04-26",
+            "categories": "finance",
+            "tags": "retirement,investments,financial,behavioral,finance",
+            "recuweb_url": "http://en.recuweb.com/finance/onlineathens.com/2015/04/broad-street-capital-hosts-client-symposium",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=behavioral%2Bfinance&format=RSS&cc=us",
+            "source_url": "http://onlineathens.com/business/2015-04-26/broad-street-capital-hosts-client-symposium"
+        },
+        "pennlive.com/2015/04/want-better-returns-stop-tinkering-with-your-investments-anthony-m-conte": {
+            "title": "Want better returns? Stop tinkering with your investments: Anthony M. Conte...",
+            "snippet": "According to the study in behavioral finance, one feels more strongly the distress from a 200 loss than he or she would feel celebratory bliss from a 200 gain in the same portfolio. The study posits that the apparent emotional discrepancy stems from...",
+            "date": "2015-04-26",
+            "categories": "finance",
+            "tags": "same,loss,feels,investments,behavioral,finance",
+            "recuweb_url": "http://en.recuweb.com/finance/pennlive.com/2015/04/want-better-returns-stop-tinkering-with-your-investments-anthony-m-conte",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=behavioral%2Bfinance&format=RSS&cc=us",
+            "source_url": "http://pennlive.com/business-news/index.ssf/2015/04/want_better_returns_stop_tinke.html"
+        },
+        "krugman.blogs.nytimes.com/2015/04/choose-your-heterodoxy-wonkish": {
+            "title": "Choose Your Heterodoxy (Wonkish)...",
+            "snippet": "That strikes me as a bizarre choice. Why not appeal to behavioral economics, behavioral finance in particular, to make sense of bubbles? Why not appeal to the clear evidence of price and wage stickiness perhaps grounded in bounded rationality to...",
+            "date": "2015-04-25",
+            "categories": "evidence,rationality,finance",
+            "tags": "why,behavioral,economics,finance",
+            "recuweb_url": "http://en.recuweb.com/finance/krugman.blogs.nytimes.com/2015/04/choose-your-heterodoxy-wonkish",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=behavioral%2Bfinance&format=RSS&cc=us",
             "source_url": "http://krugman.blogs.nytimes.com/2015/04/25/choose-your-heterodoxy-wonkish/"
         },
         "valuewalk.com/2015/04/colin-camerer-talks-behavioral-finance-with-michael-covel": {
@@ -31,22 +71,12 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=behavioral%2Bfinance&format=RSS&cc=us",
             "source_url": "http://valuewalk.com/2015/04/colin-camerer-talks-behavioral-finance-with-michael-covel/"
         },
-        "montereyherald.com/2015/04/liza-horvath-senior-advocate-love-and-money": {
-            "title": "Liza Horvath, Senior Advocate: Love and money...",
-            "snippet": "Behavioral finance, a relatively new field of study, combines behavioral and cognitive theory with conventional economics and finance and seeks to explain why we respond the way we do to money. This new science shows that we can be counseled out...",
-            "date": "2015-04-24",
-            "categories": "science,love,finance",
-            "tags": "way,theory,economics,money,behavioral,finance,why",
-            "recuweb_url": "http://en.recuweb.com/finance/montereyherald.com/2015/04/liza-horvath-senior-advocate-love-and-money",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=behavioral%2Bfinance&format=RSS&cc=us",
-            "source_url": "http://montereyherald.com/opinion/20150424/liza-horvath-senior-advocate-love-and-money"
-        },
         "pokerfuse.com/2015/04/pokerstars-branded-mastercard-has-roots-in-behavioral-finance-theory": {
             "title": "PokerStars Branded Mastercard Has Roots in Behavioral Finance Theory...",
             "snippet": "UK listed company SafeCharge has announced that it has launched a PokerStars-branded prepaid MasterCard. The card is currently restricted to UK players and allows them to deposit and withdraw directly from their PokerStars account. The StarsCard...",
             "date": "2015-04-24",
             "categories": "behavioral-finance,finance",
-            "tags": "behavioral,behavioral_finance,finance,theory",
+            "tags": "announced,behavioral,behavioral_finance,finance",
             "recuweb_url": "http://en.recuweb.com/finance/pokerfuse.com/2015/04/pokerstars-branded-mastercard-has-roots-in-behavioral-finance-theory",
             "resource_url": "http://www.bing.com/news/search?first=1&q=behavioral%2Bfinance&format=RSS&cc=us",
             "source_url": "http://pokerfuse.com/news/poker-room-news/26785-pokerstars-branded-mastercard-has-roots-behavioral-finance/"
@@ -56,9 +86,9 @@
             "snippet": "Behavioral FinanceRetirement Income Journal (subscription)This industry includes members of the insurance, asset management, banking, pension, structured products, reverse mortgage, information technology, financial planning and academic communities...",
             "date": "2015-04-23",
             "categories": "technology,asset-management,management,insurance,behavioral-finance,finance,banking,pension",
-            "tags": "technology,behavioral,retirement,behavioral_finance,finance,financial",
+            "tags": "technology,management,behavioral,retirement,behavioral_finance,finance,financial",
             "recuweb_url": "http://en.recuweb.com/pension/retirementincomejournal.com/2015/04/behavioral-finance-retirement-income-journal-subscription",
-            "resource_url": "http://news.google.com/?hl=en&q=behavioral%2Bfinance%2Bbehavioral%2Bfinance&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=behavioral%2Bfinance&output=atom&nord=1",
             "source_url": "http://retirementincomejournal.com/issue/april-23-2015/section/behavioral-finance1"
         },
         "seekingalpha.com/2015/04/are-value-investing-and-momentum-robust-anomalies": {
@@ -66,7 +96,7 @@
             "snippet": "Name an anomaly and we can probably tell you the stats on it fairly quickly. Legitimate anomalies can usually be described via a behavioral finance lens: Can we identify poor psychology in the market? (Why do prices get dislocated along the way...",
             "date": "2015-04-22",
             "categories": "psychology,finance",
-            "tags": "way,value,value_investing,investing,behavioral,finance,why",
+            "tags": "way,market,value,value_investing,investing,behavioral,finance,why",
             "recuweb_url": "http://en.recuweb.com/finance/seekingalpha.com/2015/04/are-value-investing-and-momentum-robust-anomalies",
             "resource_url": "http://www.bing.com/news/search?first=1&q=behavioral%2Bfinance&format=RSS&cc=us",
             "source_url": "http://seekingalpha.com/article/3088966-are-value-investing-and-momentum-investing-robust-anomalies"
@@ -80,36 +110,6 @@
             "recuweb_url": "http://en.recuweb.com/finance/bloombergview.com/2015/04/inequality-is-a-bipartisan-issue",
             "resource_url": "http://www.bing.com/news/search?first=1&q=behavioral%2Bfinance&format=RSS&cc=us",
             "source_url": "http://bloombergview.com/articles/2015-04-22/mohamed-el-erian-inequality-is-a-bipartisan-issue"
-        },
-        "fool.com/2015/04/the-money-mistake-you-dont-know-youre-making": {
-            "title": "The Money Mistake You Dont Know Youre Making...",
-            "snippet": "Why? And, more importantly, how does that affect your finances? Prospect theory One of the keystone theories of behavioral finance is prospect theory, first identified by Daniel Kahneman and Amos Tversky. These researchers found that people...",
-            "date": "2015-04-19",
-            "categories": "finance",
-            "tags": "daniel,theory,making,money,why,behavioral,finance,people",
-            "recuweb_url": "http://en.recuweb.com/finance/fool.com/2015/04/the-money-mistake-you-dont-know-youre-making",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=behavioral%2Bfinance&format=RSS&cc=us",
-            "source_url": "http://fool.com/investing/general/2015/04/19/the-money-mistake-you-dont-know-youre-making.aspx"
-        },
-        "wsj.com/2015/04/this-is-your-brain-on-money-how-investors-trip-themselves-up": {
-            "title": "This Is Your Brain on Money: How Investors Trip Themselves Up...",
-            "snippet": "Such foibles can be costly, experts in behavioral finance have shown. Work by academics such as Princeton Universitys Burton Malkiel and...",
-            "date": "2015-04-17",
-            "categories": "university,finance",
-            "tags": "money,behavioral,finance",
-            "recuweb_url": "http://en.recuweb.com/finance/wsj.com/2015/04/this-is-your-brain-on-money-how-investors-trip-themselves-up",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=behavioral%2Bfinance&format=RSS&cc=us",
-            "source_url": "http://wsj.com/articles/this-is-your-brain-on-money-how-investors-trip-themselves-up-1429274625?mod=WSJ_hpp_MIDDLE_Video_Third"
-        },
-        "seekingalpha.com/2015/04/behavioral-finance-strikes-again-anchoring-in-loan-markets-seeking-alpha": {
-            "title": "Behavioral Finance Strikes Again: Anchoring In Loan Markets - Seeking Alpha...",
-            "snippet": "Behavioral Finance Strikes Again: Anchoring In Loan MarketsSeeking AlphaRemarkably, this behavioral bias among borrowers is not confined to the one-off crazy person in the neighborhood. Turns out that sophisticated corporate borrowers and bank...",
-            "date": "2015-04-09",
-            "categories": "markets,behavioral-finance,finance",
-            "tags": "behavioral,behavioral_finance,finance",
-            "recuweb_url": "http://en.recuweb.com/finance/seekingalpha.com/2015/04/behavioral-finance-strikes-again-anchoring-in-loan-markets-seeking-alpha",
-            "resource_url": "http://news.google.com/?hl=en&q=behavioral%2Bfinance%2Bbehavioral%2Bfinance&output=atom&nord=1",
-            "source_url": "http://seekingalpha.com/article/3059156-behavioral-finance-strikes-again-anchoring-in-loan-markets"
         }
     }
 }
