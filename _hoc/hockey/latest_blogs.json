@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hockey",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/hockey/",
@@ -11,13 +11,23 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/hockey/hockey/blogs.json"
     },
     "items": {
+        "reddit.com/2015/04/playoff-game-thread-6-red-wings-3-at-lightning-04-29": {
+            "title": "Playoff Game Thread: 6 Red Wings (3-3) at 3 Lightning (3-3) - 04/29/2015 - 7:30 ET...",
+            "snippet": "Time 4:30 PT - 5:30 MT - 6:30 CT - 7:30 ET - 8:30 AT TV CBC, NBCSN, TVA2, FS-D, SUN Streams Listen Lightning Radio - Red Wings Radio Talk Reddit-Hockey on FreeNode Comment Stream Reddit-Stream NHL Links Preview - Box Score - Recap Live Game Stats...",
+            "date": "2015-04-29",
+            "categories": "radio,sun,hockey",
+            "tags": "game,nhl,playoff,hockey",
+            "recuweb_url": "http://en.recuweb.com/hockey/reddit.com/2015/04/playoff-game-thread-6-red-wings-3-at-lightning-04-29",
+            "resource_url": "http://www.reddit.com/search.rss?q=hockey%2Bhockey&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/hockey/comments/34buh1/playoff_game_thread_6_red_wings_33_at_3_lightning/"
+        },
         "secondcityhockey.com/2015/04/blackhawks-vs-predators-game-6-results-second-city-hockey": {
             "title": "Blackhawks vs. Predators Game 6 results - Second City Hockey...",
             "snippet": "The Blackhawks have advanced to the second round of the playoffs after beating the Predators in Game 6 on Saturday night.",
             "date": "2015-04-26",
             "author_name": "ErikaYaffe",
             "categories": "hockey",
-            "tags": "second,second_city,second_city_hockey,city,city_hockey,hockey,predators,game,blackhawks,night",
+            "tags": "second,second_city,second_city_hockey,city,city_hockey,hockey,game,blackhawks,night",
             "recuweb_url": "http://en.recuweb.com/hockey/secondcityhockey.com/2015/04/blackhawks-vs-predators-game-6-results-second-city-hockey",
             "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://secondcityhockey.com/2015/4/25/8498233/blackhawks-vs-predators-game-6-results-final-score-recap-nhl-playoffs-2015"
@@ -28,7 +38,7 @@
             "date": "2015-04-26",
             "author_name": "Kurt R.",
             "categories": "hockey,radar",
-            "tags": "hockey,per,report,former,edmonton,oilers",
+            "tags": "hockey,per,report,former",
             "recuweb_url": "http://en.recuweb.com/radar/broadstreethockey.com/2015/04/dallas-eakins-on-flyers-radar-per-report-broad-street-hockey",
             "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://broadstreethockey.com/2015/4/25/8498129/flyers-coaching-search-dallas-eakins-oilers-ron-hextall"
@@ -39,10 +49,21 @@
             "date": "2015-04-26",
             "author_name": "Dan Saraceni",
             "categories": "hockey",
-            "tags": "team,straight,night,against,hockey,game",
+            "tags": "team,night,against,hockey,islanders,game,capitals",
             "recuweb_url": "http://en.recuweb.com/hockey/lighthousehockey.com/2015/04/islanders-in-game-7-s-history-lighthouse-hockey",
             "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://lighthousehockey.com/2015/4/26/8498655/islanders-game-7-history-westfall-resch-lafontaine-ferraro-volek"
+        },
+        "secondcityhockey.com/2015/04/rockford-icehogs-win-4-1-take-commanding-2-0-series-lead": {
+            "title": "Rockford IceHogs win 4-1, take commanding 2-0 series lead...",
+            "snippet": "An error occurred. Unable to execute Javascript. Follow Second City Hockey on Twitter at 2ndCityHockey and Like us on Facebook. You can follow Brandon Cain on Twitter at BrandonMCain.",
+            "date": "2015-04-26",
+            "author_name": "Brandon M. Cain",
+            "categories": "hockey,javascript,twitter,facebook",
+            "tags": "second,second_city,second_city_hockey,city,city_hockey,hockey,series,win",
+            "recuweb_url": "http://en.recuweb.com/facebook/secondcityhockey.com/2015/04/rockford-icehogs-win-4-1-take-commanding-2-0-series-lead",
+            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://secondcityhockey.com/2015/4/26/8499547/2015-calder-cup-playoffs-chicago-blackhawks-rockford-icehogs-win-4-1-take-commanding-2-0-series-lead"
         },
         "hockeywilderness.com/2015/04/wcqf-game-6-gamethread-blues-wild-hockey-wilderness": {
             "title": "WCQF Game 6 Gamethread: Blues Wild - Hockey Wilderness...",
@@ -50,10 +71,32 @@
             "date": "2015-04-26",
             "author_name": "The Noogie",
             "categories": "hockey",
-            "tags": "thomas,hockey,wild,game",
+            "tags": "thomas,hockey,hockey_wilderness,wilderness,blues,wild,game",
             "recuweb_url": "http://en.recuweb.com/hockey/hockeywilderness.com/2015/04/wcqf-game-6-gamethread-blues-wild-hockey-wilderness",
             "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://hockeywilderness.com/2015/4/26/8500223/wcqf-game-6-gamethread-blues-wild"
+        },
+        "lighthousehockey.com/2015/04/game-6-new-york-islanders-3-en-washington-capitals-1": {
+            "title": "Game 6 - New York Islanders 3 (EN), Washington Capitals 1: There...",
+            "snippet": "In a final eight minutes of conservative, absorbing hockey by the Isles, the Caps'best chance came after the Isles failed on a clear with 5:33 left. Halak made a save of a rebound of the initial shot that hit Leddy, then Jay Beagle...",
+            "date": "2015-04-25",
+            "author_name": "Dominik",
+            "categories": "hockey",
+            "tags": "chance,capitals,york,islanders,game,hockey",
+            "recuweb_url": "http://en.recuweb.com/hockey/lighthousehockey.com/2015/04/game-6-new-york-islanders-3-en-washington-capitals-1",
+            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://lighthousehockey.com/2015/4/25/8497303/new-york-islanders-washington-capitals-game"
+        },
+        "hockeywilderness.com/2015/04/wild-push-blues-to-the-brink-of-elimination-win-game-5": {
+            "title": "Wild Push Blues to the Brink of Elimination; Win Game 5 4-1...",
+            "snippet": "Hockey Wilderness, a Minnesota Wild community. Home Fanposts Fanshots Sections Wilderness Walks Wild.... More from Hockey Wilderness. The Immaturity of the Minnesota Wild Connor McDavid Loses 2015 NHL...",
+            "date": "2015-04-25",
+            "author_name": "Joe Bouley",
+            "categories": "home,hockey",
+            "tags": "wilderness,wild,home,minnesota,minnesota_wild,hockey,hockey_wilderness,win,game,blues,nhl",
+            "recuweb_url": "http://en.recuweb.com/hockey/hockeywilderness.com/2015/04/wild-push-blues-to-the-brink-of-elimination-win-game-5",
+            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://hockeywilderness.com/2015/4/24/8495417/wild-push-blues-to-the-brink-of-elimination-win-game-5-4-1"
         },
         "capitoldistrictislander.com/2015/04/brooklyn-hockey-announces-inaugural-teams": {
             "title": "BROOKLYN HOCKEY Announces Inaugural Teams...",
@@ -61,7 +104,7 @@
             "date": "2015-04-24",
             "author_name": "John",
             "categories": "hockey,college",
-            "tags": "hockey,host,hold,college",
+            "tags": "hockey,york,hold,college",
             "recuweb_url": "http://en.recuweb.com/college/capitoldistrictislander.com/2015/04/brooklyn-hockey-announces-inaugural-teams",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=hockey%2Bhockey&rss=1&lng=en",
             "source_url": "http://capitoldistrictislander.com/2015/04/24/brooklyn-hockey-announces-inaugural-teams/"
@@ -72,54 +115,10 @@
             "date": "2015-04-24",
             "author_name": "Samer Kalaf",
             "categories": "hockey",
-            "tags": "did,today,corey,series,hockey,during,nhl",
+            "tags": "playoff,series,hockey,during,nhl",
             "recuweb_url": "http://en.recuweb.com/hockey/deadspin.com/2015/04/gary-bettman-bungles-answer-about-sexist-chants-in-hockey",
-            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=hockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://deadspin.com/gary-bettman-bungles-answer-about-sexist-chants-in-hock-1700013596"
-        },
-        "fivethirtyeight.com/2015/04/how-google-searches-can-predict-hockey-ticket-sales": {
-            "title": "How Google Searches Can Predict Hockey Ticket Sales...",
-            "snippet": "The Nashville Predators are a good team that still has trouble making money in a marginal hockey town. Frederick Breedon/Getty Images. You may have doubts, as some readers did, about whether Google searches are a...",
-            "date": "2015-04-24",
-            "author_name": "blog.explodingads.com",
-            "categories": "google,hockey",
-            "tags": "did,team,nashville,predators,hockey",
-            "recuweb_url": "http://en.recuweb.com/hockey/fivethirtyeight.com/2015/04/how-google-searches-can-predict-hockey-ticket-sales",
-            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://fivethirtyeight.com/datalab/how-google-searches-can-predict-hockey-ticket-sales/"
-        },
-        "sports.yahoo.com/2015/04/peter-chiarelli-taking-over-edmonton-hockey-ops-oilers-hit-jackpot": {
-            "title": "Peter Chiarelli taking over Edmonton hockey ops, Oilers hit jackpot...",
-            "snippet": "From Yahoo Sports: Peter Chiarelli, the general manager who built a Stanley Cup champion with the Boston Bruins before his dismissal last week, is expected to be named the new president of hockey operations for the...",
-            "date": "2015-04-24",
-            "author_name": "Greg Wyshynski",
-            "categories": "yahoo,sport,hockey",
-            "tags": "boston,general,edmonton,hockey,oilers",
-            "recuweb_url": "http://en.recuweb.com/hockey/sports.yahoo.com/2015/04/peter-chiarelli-taking-over-edmonton-hockey-ops-oilers-hit-jackpot",
-            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://sports.yahoo.com/blogs/nhl-puck-daddy/peter-chiarelli-taking-over-edmonton-hockey-ops--oilers-hit-jackpot-again-145023950.html"
-        },
-        "secondcityhockey.com/2015/04/time-for-blackhawks-to-turn-back-corey-crawford-in-net-second": {
-            "title": "Time for Blackhawks to turn back to Corey Crawford in net - Second...",
-            "snippet": "As frustrating as it may be that the Chicago Blackhawks played 40 minutes of solid hockey only to collapse in the final 20, it isn't a tremendous surprise that they ultimately came up short in Nashville in Game 5. They were...",
-            "date": "2015-04-24",
-            "author_name": "randyholt",
-            "categories": "hockey",
-            "tags": "isn,chicago,corey,back,blackhawks,second,hockey,nashville,game",
-            "recuweb_url": "http://en.recuweb.com/hockey/secondcityhockey.com/2015/04/time-for-blackhawks-to-turn-back-corey-crawford-in-net-second",
-            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://secondcityhockey.com/2015/4/24/8489151/chicago-blackhawks-corey-crawford-scott-darling-nhl-playoffs"
-        },
-        "sportswire4u.blogspot.com/2015/04/maharashtra-outplay-haryana-in-nation-hockey-a-div": {
-            "title": "Maharashtra outplay Haryana in Nation Hockey A Div...",
-            "snippet": "PUNE, APRIL 21 Hockey Gangpur-Odisha outwitted Hockey Jharkhand by 4-2 and Comptroller & Auditor General of India beat Hockey Bhopal by 4-2 in Pool B matches in the 5th Senior National Hockey Championship 2015 (Men) Div- A here today. In the Pool C...",
-            "date": "2015-04-21",
-            "author_name": "Balbir Singh",
-            "categories": "hockey",
-            "tags": "today,senior,hockey,championship,general,men",
-            "recuweb_url": "http://en.recuweb.com/hockey/sportswire4u.blogspot.com/2015/04/maharashtra-outplay-haryana-in-nation-hockey-a-div",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=hockey%2Bhockey&rss=1&lng=en",
-            "source_url": "http://sportswire4u.blogspot.com/2015/04/maharashtra-outplay-haryana-in-nation.html"
         }
     }
 }
