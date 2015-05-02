@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "punctuation",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/punctuation/",
@@ -11,62 +11,82 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/punctuation/punctuation/blogs.json"
     },
     "items": {
-        "nytimes.com/2015/04/inside-the-list-new-york-times": {
-            "title": "Inside the List - New York Times...",
-            "snippet": "New York TimesInside the ListNew York TimesBut it's certainly the most personal: Norris combines astute observations about punctuation (Commas, like nuns, often travel in pairs) and syntax (Sometimes it's easier to reconcile oneself to the dangler...",
-            "date": "2015-04-24",
-            "categories": "syntax,travel,observation,punctuation",
+        "theregister.co.uk/2015/04/use-1-capital-password-prompts-make-them-too-predictable-study": {
+            "title": "'Use 1 capital'password prompts make them too predictable study...",
+            "snippet": "When users are asked to create a secure password, most sites simply demand things like must contain 1 uppercase letter and one punctuation character. But those requirements often lead to users picking exactly 1 uppercase letter, and using it to...",
+            "date": "2015-04-27",
+            "categories": "punctuation",
             "tags": "punctuation",
-            "recuweb_url": "http://en.recuweb.com/punctuation/nytimes.com/2015/04/inside-the-list-new-york-times",
-            "resource_url": "http://news.google.com/?hl=en&q=punctuation&output=atom&nord=1",
-            "source_url": "http://nytimes.com/2015/05/03/books/review/inside-the-list.html"
-        },
-        "iwcp.co.uk/2015/04/isle-of-wight-headteacher-praised-as-school-comes-out-special-measures": {
-            "title": "Isle of Wight headteacher praised as school comes out of special measures...",
-            "snippet": "However, some maths teachers are not good enough at their sums to help children to improve, and Key Stage 2 standards in spelling, grammar and punctuation are too low. They found school leaders, including governors, were regularly checking the...",
-            "date": "2015-04-24",
-            "categories": "school,grammar,spelling,punctuation",
-            "tags": "grammar,help,punctuation",
-            "recuweb_url": "http://en.recuweb.com/punctuation/iwcp.co.uk/2015/04/isle-of-wight-headteacher-praised-as-school-comes-out-special-measures",
+            "recuweb_url": "http://en.recuweb.com/punctuation/theregister.co.uk/2015/04/use-1-capital-password-prompts-make-them-too-predictable-study",
             "resource_url": "http://www.bing.com/news/search?first=1&q=punctuation&format=RSS&cc=us",
-            "source_url": "http://iwcp.co.uk/news/news/isle-of-wight-headteacher-praised-as-school-comes-out-of-special-measures-80755.aspx"
+            "source_url": "http://theregister.co.uk/2015/04/27/password_structure_study_praetorian/"
         },
-        "theinterrobang.com/2015/04/memed-from-the-headlines-patriots-in-white-house": {
-            "title": "Memed From the Headlines: Patriots in the White House...",
-            "snippet": "interrobang, interrobang in-ter-uh-bang (often represented by?!/!?), is a nonstandard punctuation designed to combine the question mark (?) and the exclamation point (!), indicating a mixture of query and interjection, as after a rhetorical...",
+        "marketingprofs.com/2015/04/email-subject-lines-that-sell": {
+            "title": "Email Subject Lines That Sell...",
+            "snippet": "Which phrases, incentives, and punctuation marks in email subject lines inspire consumers to take action? To find out, Phrasee examined the performance of more than 700 million emails sent by retail and e-commerce brands earlier this year, primarily...",
+            "date": "2015-04-27",
+            "categories": "commerce,punctuation",
+            "tags": "phrases,punctuation",
+            "recuweb_url": "http://en.recuweb.com/punctuation/marketingprofs.com/2015/04/email-subject-lines-that-sell",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=punctuation&format=RSS&cc=us",
+            "source_url": "http://marketingprofs.com/charts/2015/27545/email-subject-lines-that-sell"
+        },
+        "deseretnews.com/2015/04/joseph-smith-papers-releases-first-vision-accounts-in-10-languages": {
+            "title": "Joseph Smith Papers releases First Vision accounts in 10 languages...",
+            "snippet": "For translation purposes, the Joseph Smith Papers team added some necessary punctuation to standardize each narrative, Waite said. Waite, along with Ben Godfrey, a product manager with the Joseph Smith Papers website, explained that each firsthand...",
+            "date": "2015-04-27",
+            "categories": "languages,punctuation",
+            "tags": "joseph,punctuation,website",
+            "recuweb_url": "http://en.recuweb.com/punctuation/deseretnews.com/2015/04/joseph-smith-papers-releases-first-vision-accounts-in-10-languages",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=punctuation&format=RSS&cc=us",
+            "source_url": "http://deseretnews.com/article/865627253/Joseph-Smith-Papers-releases-First-Vision-accounts-in-10-languages.html"
+        },
+        "theguardian.com/2015/04/madame-the-story-of-joseph-farrugia-review-an-adelaide-legend-celebrated": {
+            "title": "Madame: The Story of Joseph Farrugia review an Adelaide legend celebrated - The Guardian...",
+            "snippet": "The GuardianMadame: The Story of Joseph Farrugia review an Adelaide legend celebratedThe GuardianScherer uses small and precise movements as punctuation, Joseph's stories and gestures growing as the stories become more frenzied. There is a knowing...",
+            "date": "2015-04-27",
+            "categories": "punctuation",
+            "tags": "legend,joseph,punctuation",
+            "recuweb_url": "http://en.recuweb.com/punctuation/theguardian.com/2015/04/madame-the-story-of-joseph-farrugia-review-an-adelaide-legend-celebrated",
+            "resource_url": "http://news.google.com/?hl=en&q=punctuation%2Bpunctuation&output=atom&nord=1",
+            "source_url": "http://theguardian.com/stage/2015/apr/27/madame-the-story-of-joseph-farrugia-review"
+        },
+        "inquisitr.com/2015/04/arizona-anti-pot-group-puts-up-billboard-with-the-wrong-website": {
+            "title": "Arizona Anti-Pot Group Puts Up Billboard With The Wrong Website...",
+            "snippet": "Then, at the bottom of the billboard, is a directive to go to a website. Marijuana Harmless? Thanks to a couple of punctuation errors, however, viewers seeing the billboard if theyre alarmed at the possibility of a baby catching...",
+            "date": "2015-04-25",
+            "categories": "punctuation",
+            "tags": "website,punctuation",
+            "recuweb_url": "http://en.recuweb.com/punctuation/inquisitr.com/2015/04/arizona-anti-pot-group-puts-up-billboard-with-the-wrong-website",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=punctuation&format=RSS&cc=us",
+            "source_url": "http://inquisitr.com/2042588/arizona-anti-pot-group-puts-up-billboard-with-the-wrong-website/"
+        },
+        "washingtonpost.com/2015/04/in-between-you-&-me-a-copy-editor-explains-the-uses": {
+            "title": "In Between You & Me, a copy editor explains the uses of usage...",
+            "snippet": "Legacy accomplished. When Norris illuminates the New Yorkers close (code word for extravagant) style of punctuation, she proves flexible enough to defend a commatose sentence She smiled that stunning, wide smile by claiming...",
             "date": "2015-04-24",
             "categories": "punctuation",
-            "tags": "mark,house,punctuation",
-            "recuweb_url": "http://en.recuweb.com/punctuation/theinterrobang.com/2015/04/memed-from-the-headlines-patriots-in-white-house",
+            "tags": "word,punctuation",
+            "recuweb_url": "http://en.recuweb.com/punctuation/washingtonpost.com/2015/04/in-between-you-&-me-a-copy-editor-explains-the-uses",
             "resource_url": "http://www.bing.com/news/search?first=1&q=punctuation&format=RSS&cc=us",
-            "source_url": "http://theinterrobang.com/memed-from-the-headlines-patriots-in-the-white-house/"
+            "source_url": "http://washingtonpost.com/opinions/eats-shoots-and-punctuates/2015/04/23/70983c2a-c2b5-11e4-9271-610273846239_story.html"
         },
         "thecoast.ca/2015/04/no-final-punctuation-mark-for-parentheses-gallery-the-coast-halifax": {
             "title": "No final punctuation mark for Parentheses Gallery - The Coast Halifax...",
             "snippet": "The Coast HalifaxNo final punctuation mark for Parentheses GalleryThe Coast HalifaxThe show ain't over for (((Parentheses))) Gallery and Art Projects. Word on Gottingen Street was that the gallery was closing, especially after Big Pony's...",
             "date": "2015-04-24",
             "categories": "punctuation",
-            "tags": "street,mark,punctuation,word",
+            "tags": "street,punctuation,word",
             "recuweb_url": "http://en.recuweb.com/punctuation/thecoast.ca/2015/04/no-final-punctuation-mark-for-parentheses-gallery-the-coast-halifax",
-            "resource_url": "http://news.google.com/?hl=en&q=punctuation%2Bpunctuation&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=punctuation&output=atom&nord=1",
             "source_url": "http://thecoast.ca/ArtAttack/archives/2015/04/24/no-final-punctuation-mark-for-parentheses-gallery"
-        },
-        "baltimoretimes-online.com/2015/04/now-is-the-time-to-answer-call": {
-            "title": "Now is the time to answer the call...",
-            "snippet": "At a commemorative event two years ago, I heard a historian say that history is not a steady stream of events, but rather a series of punctuation points, like ripples from stones tossed into water. I believe that we are at the cusp of just such a...",
-            "date": "2015-04-24",
-            "categories": "events,punctuation",
-            "tags": "into,punctuation",
-            "recuweb_url": "http://en.recuweb.com/punctuation/baltimoretimes-online.com/2015/04/now-is-the-time-to-answer-call",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=punctuation&format=RSS&cc=us",
-            "source_url": "http://baltimoretimes-online.com/news/2015/apr/24/now-time-answer-call/"
         },
         "maidenhead-advertiser.co.uk/2015/04/prime-example-of-why-punctuation-matters": {
             "title": "Prime example of why punctuation matters...",
             "snippet": "I read all the statements by the election candidates last week, and one really stood out for being incomprehensible. The 150-word statement from UKIP contained four very long sentences and one comma. Because I train people in business writing I...",
             "date": "2015-04-23",
             "categories": "business,punctuation",
-            "tags": "word,example,punctuation,week,ukip",
+            "tags": "word,punctuation,week,ukip",
             "recuweb_url": "http://en.recuweb.com/punctuation/maidenhead-advertiser.co.uk/2015/04/prime-example-of-why-punctuation-matters",
             "resource_url": "http://www.bing.com/news/search?first=1&q=punctuation&format=RSS&cc=us",
             "source_url": "http://maidenhead-advertiser.co.uk/Home/Your-Views/Letters-to-the-Editor/Prime-example-of-why-punctuation-matters-23042015.htm"
@@ -76,7 +96,7 @@
             "snippet": "THIS picture shows yet another instance of a UKIP political sign being defaced in North Devon but this time it is attached to someone's house. A spray-paint protester somehow reached up to the outside of second level of this house in New Street...",
             "date": "2015-04-22",
             "categories": "punctuation",
-            "tags": "street,house,yet,ukip,punctuation",
+            "tags": "street,ukip,punctuation",
             "recuweb_url": "http://en.recuweb.com/punctuation/northdevonjournal.co.uk/2015/04/ukip-sign-on-house-defaced-by-spray-paint-protester-with-poor",
             "resource_url": "http://www.bing.com/news/search?first=1&q=punctuation&format=RSS&cc=us",
             "source_url": "http://northdevonjournal.co.uk/UKIP-sign-house-defaced-spray-paint-protester/story-26379027-detail/story.html"
@@ -86,30 +106,10 @@
             "snippet": "Bournemouth EchoPunctuation is not grammarBournemouth EchoGrammar and punctuation are completely separate constructs and should not be confused. Grammar sets the rules for forming phrases and clauses. Punctuation is used to help us understand and...",
             "date": "2015-04-19",
             "categories": "grammar,punctuation",
-            "tags": "help,rules,grammar,punctuation",
+            "tags": "phrases,punctuation",
             "recuweb_url": "http://en.recuweb.com/punctuation/bournemouthecho.co.uk/2015/04/punctuation-is-not-grammar-bournemouth-echo",
-            "resource_url": "http://news.google.com/?hl=en&q=punctuation%2Bpunctuation&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=punctuation&output=atom&nord=1",
             "source_url": "http://bournemouthecho.co.uk/yoursay/letterstotheeditor/12899306.Punctuation_is_not_grammar/"
-        },
-        "forargyll.com/2015/04/if-longjohnsilver-used-some-punctuation-and-capital-letters": {
-            "title": "If Longjohnsilver used some punctuation and capital letters...",
-            "snippet": "If the facile and juvenile remarks by a number of the SNP supporters on For Argyll are a broad example of their membership heaven help us in Scotland. It would appear that they know or care little about what actually goes on in Holyrood and what...",
-            "date": "2015-04-18",
-            "categories": "punctuation",
-            "tags": "example,help,punctuation",
-            "recuweb_url": "http://en.recuweb.com/punctuation/forargyll.com/2015/04/if-longjohnsilver-used-some-punctuation-and-capital-letters",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=punctuation&format=RSS&cc=us",
-            "source_url": "http://forargyll.com/our-visitor-stats/?cid=2907140"
-        },
-        "businessinsider.com/2015/04/16-punctuation-mistakes-that-can-make-you-look-bad": {
-            "title": "16 punctuation mistakes that can make you look bad...",
-            "snippet": "Your words are your most powerful weapons, and yet it's easy to undermine yourself in written communication by violating some very simple rules of punctuation. Before I dive deeper into this, a disclosure: I majored in English in college. I've made...",
-            "date": "2015-04-14",
-            "categories": "college,punctuation",
-            "tags": "into,rules,yet,punctuation",
-            "recuweb_url": "http://en.recuweb.com/punctuation/businessinsider.com/2015/04/16-punctuation-mistakes-that-can-make-you-look-bad",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=punctuation&format=RSS&cc=us",
-            "source_url": "http://businessinsider.com/punctuation-mistakes-that-look-bad-2015-4"
         }
     }
 }
