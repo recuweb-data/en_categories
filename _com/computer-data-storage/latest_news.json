@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "computer-data-storage",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/computer-data-storage/",
@@ -11,50 +11,29 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/computer-data-storage/computer-data-storage/blogs.json"
     },
     "items": {
-        "newsmax.com/2015/04/bbc-digital-catastrophe-could-erase-recorded-history-newsmax": {
-            "title": "BBC: Digital Catastrophe Could Erase Recorded History - Newsmax...",
-            "snippet": "BBC: Digital Catastrophe Could Erase Recorded HistoryNewsmaxThose who discount the danger of a digital dark ages argue that industrywide data storage standards will soon become commonplace. \"We're likely to see a rise in digital archiving services,\"...",
+        "firstlook.org/2015/04/encrypting-your-laptop-like-you-mean-it-the-intercept-first-look": {
+            "title": "Encrypting Your Laptop Like You Mean It - The Intercept - First Look Media...",
+            "snippet": "The Intercept - First Look MediaEncrypting Your Laptop Like You Mean ItThe Intercept - First Look MediaThis means, however, that when your computer is powered on and unlocked, whomever is sitting at it has access to all your files and data,...",
             "date": "2015-04-27",
-            "tags": "bbc,data,storage,services",
-            "recuweb_url": "http://en.recuweb.com/newsmax.com/2015/04/bbc-digital-catastrophe-could-erase-recorded-history-newsmax",
-            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage&output=atom&nord=1",
-            "source_url": "http://newsmax.com/US/digital-history-disaster-Google/2015/04/27/id/640917/"
+            "tags": "access,laptop,computer,data",
+            "recuweb_url": "http://en.recuweb.com/firstlook.org/2015/04/encrypting-your-laptop-like-you-mean-it-the-intercept-first-look",
+            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage%2Bcomputer%2Bdata%2Bstorage&output=atom&nord=1",
+            "source_url": "http://firstlook.org/theintercept/2015/04/27/encrypting-laptop-like-mean/"
         },
-        "cbronline.com/2015/04/iot-to-become-top-driver-in-data-centre-it-expansion-computer": {
-            "title": "IoT to become top driver in data centre IT expansion - Computer Business Review...",
-            "snippet": "CRN - UKIoT to become top driver in data centre IT expansionComputer Business ReviewThe study also found that in order for service providers to better monitor and manage their own data centre assets, they will have to adopt IoT technologies. Compute...",
+        "computerworld.com/2015/04/nvme-the-future-of-ssd-mac-computerworld": {
+            "title": "NVMe -- the future of the SSD Mac - Computerworld...",
+            "snippet": "ComputerworldNVMe -- the future of the SSD MacComputerworldSrouji is responsible for oversight and delivery of breakthrough custom silicon and hardware technologies including application processors, storage controllers, touch and sensors, display...",
             "date": "2015-04-27",
-            "categories": "business",
-            "tags": "business,computer,data,service",
-            "recuweb_url": "http://en.recuweb.com/business/cbronline.com/2015/04/iot-to-become-top-driver-in-data-centre-it-expansion-computer",
+            "tags": "hardware,future,computerworld,storage",
+            "recuweb_url": "http://en.recuweb.com/computerworld.com/2015/04/nvme-the-future-of-ssd-mac-computerworld",
             "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage&output=atom&nord=1",
-            "source_url": "http://cbronline.com/news/data-centre/infrastructure/iot-to-become-top-driver-in-data-centre-it-expansion-4562765"
-        },
-        "smh.com.au/2015/04/university-of-queensland-to-switch-on-flashlite-computer-process-big-data": {
-            "title": "University of Queensland to switch on FlashLite computer to process big data - Sydney Morning...",
-            "snippet": "Sydney Morning HeraldUniversity of Queensland to switch on FlashLite computer to process big dataSydney Morning HeraldInstitutions are expected to spend 1.7 billion on ICT products and services in 2015, up 7.8 per cent on last year. About 70 million...",
-            "date": "2015-04-27",
-            "categories": "university",
-            "tags": "expected,computer,data,services,million",
-            "recuweb_url": "http://en.recuweb.com/university/smh.com.au/2015/04/university-of-queensland-to-switch-on-flashlite-computer-process-big-data",
-            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage&output=atom&nord=1",
-            "source_url": "http://smh.com.au/it-pro/business-it/university-of-queensland-to-switch-on-flashlite-computer-to-process-big-data-20150427-1mtgdp.html"
-        },
-        "salon.com/2015/04/big-data-s-libertarian-lie-facebook-google-and-the-silicon-valley": {
-            "title": "Big Data's big libertarian lie: Facebook, Google and the Silicon Valley... - Salon...",
-            "snippet": "SalonBig Data's big libertarian lie: Facebook, Google and the Silicon Valley...SalonAnd when this knowledge can come to us through a machinenever mind that it's a computer program designed by very fallible human beingsit can seem like truth of the...",
-            "date": "2015-04-26",
-            "categories": "mind,facebook,google",
-            "tags": "data,google,computer",
-            "recuweb_url": "http://en.recuweb.com/google/salon.com/2015/04/big-data-s-libertarian-lie-facebook-google-and-the-silicon-valley",
-            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage&output=atom&nord=1",
-            "source_url": "http://salon.com/2015/04/26/big_datas_big_libertarian_lie_facebook_google_and_the_silicon_valley_ethical_overhaul_we_need/"
+            "source_url": "http://computerworld.com/article/2914999/apple-mac/nvme-the-future-of-the-ssd-mac.html"
         },
         "bbc.com/2015/04/cookies-on-the-bbc-website-news": {
             "title": "Cookies on the BBC website - BBC News...",
             "snippet": "BBC NewsCookies on the BBC websiteBBC NewsMost of our photos, videos, conversations, research and writings are now stored as strings of ones and noughts on local computers or in data centres distributed throughout the world. Data specialist EMC...",
             "date": "2015-04-26",
-            "tags": "distributed,computers,bbc,website,data",
+            "tags": "distributed,stored,computers,website,data",
             "recuweb_url": "http://en.recuweb.com/bbc.com/2015/04/cookies-on-the-bbc-website-news",
             "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage%2Bcomputer%2Bdata%2Bstorage&output=atom&nord=1",
             "source_url": "http://bbc.com/news/technology-32315449"
@@ -74,7 +53,7 @@
             "snippet": "The SEC accused the former CEO of the computer data storage technology company sTec Inc. of unjustly enriching himself and family members by about 267 million by selling 9 million shares of company stock in a secondary offering while knowing that...",
             "date": "2015-04-24",
             "categories": "technology",
-            "tags": "million,computer,data,storage",
+            "tags": "computer,data,storage",
             "recuweb_url": "http://en.recuweb.com/technology/therecorder.com/2015/04/litigation-department-of-the-year-white-collar-latham-&-watkins",
             "resource_url": "http://www.bing.com/news/search?first=1&q=computer%2Bdata%2Bstorage&format=RSS&cc=us",
             "source_url": "http://therecorder.com/id=1202724420707/Litigation-Department-of-the-Year-White-Collar-Latham-amp-Watkins"
@@ -83,7 +62,7 @@
             "title": "Servers Need Storage Endurance - Computerworld...",
             "snippet": "Servers Need Storage EnduranceComputerworldWe've been talking about deploying solid-state drives (SSDs) in the data center for years now, but it's never been a more exciting time to talk data center storage. Modern enterprise tools, including cloud,...",
             "date": "2015-04-24",
-            "tags": "storage,data",
+            "tags": "cloud,drives,storage,computerworld,data",
             "recuweb_url": "http://en.recuweb.com/computerworld.com/2015/04/servers-need-storage-endurance-computerworld",
             "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage%2Bcomputer%2Bdata%2Bstorage&output=atom&nord=1",
             "source_url": "http://computerworld.com/article/2914081/solid-state-drives/servers-need-storage-endurance.html"
@@ -93,19 +72,39 @@
             "snippet": "Scientific ComputingSpintronic Data Storage: Putting a New Spin on MemoryScientific ComputingIn spintronics memory applications, the spin of electrons can be controlled to encode data via the \"up\" and \"down\" binary pair of their spin. Ever since...",
             "date": "2015-04-24",
             "categories": "memory",
-            "tags": "data,data_storage,storage,memory",
+            "tags": "spin,data,data_storage,storage,computing,putting,memory",
             "recuweb_url": "http://en.recuweb.com/memory/scientificcomputing.com/2015/04/spintronic-data-storage-putting-a-new-spin-on-memory-scientific-computing",
             "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage%2Bcomputer%2Bdata%2Bstorage&output=atom&nord=1",
             "source_url": "http://scientificcomputing.com/news/2015/04/spintronic-data-storage-putting-new-spin-memory"
         },
-        "phys.org/2015/04/multi-million-eu-project-to-protect-data-against-quantum-computers": {
-            "title": "Multi-million EU project to protect data against quantum computers -...",
-            "snippet": "Multi-million EU project to protect data against quantum... cryptosystems need to be in place before big quantum computers become a reality, which is expected some time after 2025. Even if the scientists win that race quantum computers can still...",
-            "date": "2015-04-23",
-            "tags": "computers,expected,million,data",
-            "recuweb_url": "http://en.recuweb.com/phys.org/2015/04/multi-million-eu-project-to-protect-data-against-quantum-computers",
+        "sciencedaily.com/2015/04/materials-scientists-putting-new-spin-on-computing-memory": {
+            "title": "Materials scientists putting new spin on computing memory...",
+            "snippet": "Current computer data storage takes one of two main forms: hard drives or random access memories (RAM). You can think of a hard drive kind of like a record or CD player, where data is stored on one piece of material--a hard disk--and accessed by a...",
+            "date": "2015-04-22",
+            "categories": "memory",
+            "tags": "stored,kind,drives,drives-or-random,random,random-access,random-access-memories,access,access-memories,memories,main,main-forms,forms,putting,spin,computing,memory,current,computer,data,storage,hard,ram,drive,player,disk",
+            "recuweb_url": "http://en.recuweb.com/memory/sciencedaily.com/2015/04/materials-scientists-putting-new-spin-on-computing-memory",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=computer%2Bdata%2Bstorage&format=RSS&cc=us",
+            "source_url": "http://sciencedaily.com/releases/2015/04/150422122003.htm"
+        },
+        "drexel.edu/2015/04/putting-a-new-spin-on-computing-memory": {
+            "title": "Putting a New Spin on Computing Memory...",
+            "snippet": "Hard disk storage requires a read head to read and write data. Current computer data storage takes one of two main forms: hard drives or random access memories (RAM). You can think of a hard drive kind of like a record or CD player, where data is...",
+            "date": "2015-04-22",
+            "categories": "memory",
+            "tags": "kind,drives,drives-or-random,random,random-access,random-access-memories,access,access-memories,memories,main,main-forms,forms,computing,memory,spin,putting,hard,disk,storage,data,current,computer,ram,drive,player",
+            "recuweb_url": "http://en.recuweb.com/memory/drexel.edu/2015/04/putting-a-new-spin-on-computing-memory",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=computer%2Bdata%2Bstorage&format=RSS&cc=us",
+            "source_url": "http://drexel.edu/now/archive/2015/April/spintronics-memory/"
+        },
+        "computerweekly.com/2015/04/benelux-cloud-storage-grows-as-traditional-alternative": {
+            "title": "Benelux: Cloud storage grows as traditional storage alternative -...",
+            "snippet": "Benelux: Cloud storage grows as traditional storage were looking for a new solution for data storage, as our data grows annually by 100% to 120%. We wanted an alternative to expensive, traditional storage solutions for backup, and primary and...",
+            "date": "2015-04-16",
+            "tags": "wanted,looking,cloud,storage,data",
+            "recuweb_url": "http://en.recuweb.com/computerweekly.com/2015/04/benelux-cloud-storage-grows-as-traditional-alternative",
             "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage%2Bcomputer%2Bdata%2Bstorage&output=atom&nord=1",
-            "source_url": "http://phys.org/news/2015-04-multi-million-eu-quantum.html"
+            "source_url": "http://computerweekly.com/feature/Benelux-Cloud-storage-grows-as-traditional-storage-alternative"
         }
     }
 }
