@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "social-security",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/social-security/",
@@ -11,27 +11,38 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/social-security/social-security/blogs.json"
     },
     "items": {
+        "jackreidy.com/2015/04/when-should-i-take-social-security": {
+            "title": "When should I take Social Security?",
+            "snippet": "Ive been doing this blog called the RetiredGuy and I picked that name because I am a retired guy, I like being retired and I wanted to express my opinions on a variety of issues. But despite calling the blog the RetiredGuy, I usually dont address...",
+            "date": "2015-04-25",
+            "author_name": "Jack",
+            "categories": "social-security",
+            "tags": "called,social,social_security,security,should",
+            "recuweb_url": "http://en.recuweb.com/social-security/jackreidy.com/2015/04/when-should-i-take-social-security",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=social%2Bsecurity%2Bsocial%2Bsecurity&rss=1&lng=en",
+            "source_url": "http://jackreidy.com/blog/2015/04/25/take-social-security/"
+        },
+        "vox.com/2015/04/raising-social-security-s-retirement-age-is-a-disaster": {
+            "title": "Raising Social Security's retirement age is a disaster for the poor - Vox...",
+            "snippet": "There are few policies as popular with politicians, but unpopular with voters, as raising Social Security's retirement age. It's a perennial feature of bipartisan budget negotiations the Simpson-Bowles report proposed it, for...",
+            "date": "2015-04-22",
+            "author_name": "Ezra Klein",
+            "categories": "social-security",
+            "tags": "social,social_security,security,age,retirement",
+            "recuweb_url": "http://en.recuweb.com/social-security/vox.com/2015/04/raising-social-security-s-retirement-age-is-a-disaster",
+            "resource_url": "http://www.google.com/search?q=social%2Bsecurity%2Bsocial%2Bsecurity&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://vox.com/2015/4/22/8463843/social-security-retirement-age-increase-poor"
+        },
         "huffingtonpost.com/2015/04/the-surprise-issue-of-2016-election": {
             "title": "The Surprise Issue of the 2016 Election?",
             "snippet": "The 2016 election season is just beginning, but a surprise issue is already emerging among both Republican and Democratic candidates: Social Security. Some observers thought that conservative candidates would be inclined to avoid the so-called third...",
             "date": "2015-04-22",
             "author_name": "Richard (RJ) Eskow",
             "categories": "social-security",
-            "tags": "third,candidates,social,social_security,security,republican",
+            "tags": "called,candidates,social,social_security,security,election,republican",
             "recuweb_url": "http://en.recuweb.com/social-security/huffingtonpost.com/2015/04/the-surprise-issue-of-2016-election",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=social%2Bsecurity%2Bsocial%2Bsecurity&rss=1&lng=en",
             "source_url": "http://huffingtonpost.com/rj-eskow/the-surprise-issue-of-the_b_7114658.html?utm_hp_ref=politics&ir=Politics"
-        },
-        "thedailysheeple.com/2015/04/tyrannical-fascist-rogues-presenting-your-social-security": {
-            "title": "Tyrannical, Fascist Rogues Presenting Your Social Security...",
-            "snippet": "But to Social Security she's been an outlaw not because she did anything wrong but because her father was overpaid more than 13,000 in disability. Grant grew outraged when Social Security seized her 1,500 tax...",
-            "date": "2015-04-22",
-            "author_name": "Rory Hall",
-            "categories": "disability,social-security",
-            "tags": "disability,did,social,social_security,security,tax",
-            "recuweb_url": "http://en.recuweb.com/social-security/thedailysheeple.com/2015/04/tyrannical-fascist-rogues-presenting-your-social-security",
-            "resource_url": "http://www.google.com/search?q=social%2Bsecurity%2Bsocial%2Bsecurity&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://thedailysheeple.com/tyrannical-fascist-rogues-presenting-your-social-security-department_042015"
         },
         "bankrate.com/2015/04/will-my-widow-get-more-in-social-security-when-i-die": {
             "title": "Will My Widow Get More In Social Security When I Die?",
@@ -39,21 +50,10 @@
             "date": "2015-04-22",
             "author_name": "unknown",
             "categories": "taxes,social-security",
-            "tags": "received,retirement,social,social_security,security,working,dear,benefits",
+            "tags": "taxes,social,social_security,security,working,old,dear,income,retirement,benefits,age",
             "recuweb_url": "http://en.recuweb.com/social-security/bankrate.com/2015/04/will-my-widow-get-more-in-social-security-when-i-die",
             "resource_url": "http://www.google.com/search?q=social%2Bsecurity%2Bsocial%2Bsecurity&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bankrate.com/finance/retirement/will-my-widow-get-more-in-social-security.aspx"
-        },
-        "dailykos.com/2015/04/did-hillary-clinton-just-take-social-security-cuts-off-the-table": {
-            "title": "Did Hillary Clinton just take Social Security cuts off the table?",
-            "snippet": "Former Secretary of State Hillary Clinton didn't quite lay out a detailed proposal for Social Security, but in remarks at a roundtable event in New Hampshire on Monday, she did suggest that Republican proposals to \"privatize\"...",
-            "date": "2015-04-20",
-            "author_name": "rss@dailykos.com (Joan McCarter)",
-            "categories": "social-security",
-            "tags": "proposals,proposal,did,hampshire,hillary,social,social_security,security,cuts,off,republican",
-            "recuweb_url": "http://en.recuweb.com/social-security/dailykos.com/2015/04/did-hillary-clinton-just-take-social-security-cuts-off-the-table",
-            "resource_url": "http://www.google.com/search?q=social%2Bsecurity%2Bsocial%2Bsecurity&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://dailykos.com/story/2015/04/20/1379050/-Did-Hillary-Clinton-just-take-Social-Security-cuts-off-the-nbsp-table"
         },
         "jobsanger.blogspot.com/2015/04/gop-candidates-launch-a-new-attack-on-social-security": {
             "title": "GOP Candidates Launch A New Attack On Social Security...",
@@ -61,21 +61,10 @@
             "date": "2015-04-19",
             "author_name": "Ted McLaughlin",
             "categories": "social-security",
-            "tags": "fell,social,social_security,security,candidates,president,gop,republican",
+            "tags": "away,save,social,social_security,security,candidates,president,gop,republican",
             "recuweb_url": "http://en.recuweb.com/social-security/jobsanger.blogspot.com/2015/04/gop-candidates-launch-a-new-attack-on-social-security",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=social%2Bsecurity%2Bsocial%2Bsecurity&rss=1&lng=en",
             "source_url": "http://jobsanger.blogspot.com/2015/04/gop-candidates-launch-new-attack-on.html"
-        },
-        "motherjones.com/2015/04/chris-christie-s-social-security-proposal-is-cruel-and-callous": {
-            "title": "Chris Christie's Social Security Proposal is Cruel and Callous...",
-            "snippet": "So Chris Christie is going to campaign on the bold idea of reducing Social Security benefits. My guess is that Christie is going to learn that Social Security remains the third rail of American politics, and will get therefore get...",
-            "date": "2015-04-16",
-            "author_name": "Kevin Drum",
-            "categories": "social-security,politics",
-            "tags": "third,social,social_security,security,proposal,chris,chris_christie,christie,benefits",
-            "recuweb_url": "http://en.recuweb.com/politics/motherjones.com/2015/04/chris-christie-s-social-security-proposal-is-cruel-and-callous",
-            "resource_url": "http://www.google.com/search?q=social%2Bsecurity%2Bsocial%2Bsecurity&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://motherjones.com/kevin-drum/2015/04/chris-christies-social-security-proposal-cruel-and-callous"
         },
         "bankrate.com/2015/04/should-i-use-social-security-to-pay-off-second-mortgage": {
             "title": "Should I Use Social Security To Pay Off Second Mortgage...",
@@ -83,7 +72,7 @@
             "date": "2015-04-16",
             "author_name": "unknown",
             "categories": "social-security,collecting",
-            "tags": "plan,working,another,social,social_security,security,month,next,next-month,dear,pay,off",
+            "tags": "working,social,social_security,security,month,next,dear,liz,should,pay,off",
             "recuweb_url": "http://en.recuweb.com/collecting/bankrate.com/2015/04/should-i-use-social-security-to-pay-off-second-mortgage",
             "resource_url": "http://www.google.com/search?q=social%2Bsecurity%2Bsocial%2Bsecurity&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bankrate.com/finance/retirement/use-social-security-to-pay-off-second-mortgage.aspx"
@@ -94,7 +83,7 @@
             "date": "2015-04-16",
             "author_name": "rdquinn",
             "categories": "social-security,facebook",
-            "tags": "truth,social,social_security,security,proposals,gov,christie,medicare",
+            "tags": "social,social_security,security,gov,christie,medicare",
             "recuweb_url": "http://en.recuweb.com/facebook/quinnscommentary.com/2015/04/slaming-gov-christie-on-social-security-proposals",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=social%2Bsecurity%2Bsocial%2Bsecurity&rss=1&lng=en",
             "source_url": "http://quinnscommentary.com/2015/04/16/slaming-gov-christie-on-social-security-proposals/"
@@ -105,21 +94,32 @@
             "date": "2015-04-15",
             "author_name": "dachsonwheels",
             "categories": "social-security",
-            "tags": "social,social_security,security,proposal,presidential,chris,chris_christie,christie,means",
+            "tags": "social,social_security,security,presidential,chris,chris_christie,christie,republicans",
             "recuweb_url": "http://en.recuweb.com/social-security/wtimlen.wordpress.com/2015/04/christie-opens-with-a-clinker",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=social%2Bsecurity%2Bsocial%2Bsecurity&rss=1&lng=en",
             "source_url": "http://wtimlen.wordpress.com/2015/04/15/christie-opens-with-a-clinker/"
         },
-        "theblaze.com/2015/04/senators-ask-gov-t-how-many-illegals-got-social-security-theblaze": {
-            "title": "Senators Ask Gov't How Many Illegals Got Social Security - TheBlaze...",
-            "snippet": "The Social Security Administration has told Congress that more than half a million illegal immigrants have received new Social Security numbers, under President Barack Obama's 2012 executive action allowing younger...",
-            "date": "2015-04-15",
-            "author_name": "Pete Kasperowicz",
+        "progressive-charlestown.com/2015/04/save-social-security": {
+            "title": "Save Social Security...",
+            "snippet": "Keeping Social Security off the GOP chopping block By Herb Weiss in Rhode Islands Future One of the first political skirmishes to protect the nations Social Security program, 589 days before next years Presidential election, took place on March 24th...",
+            "date": "2015-04-14",
+            "author_name": "(Will Collette)",
             "categories": "social-security",
-            "tags": "action,president,barack,barack_obama,obama,social,social_security,security,received,told,gov",
-            "recuweb_url": "http://en.recuweb.com/social-security/theblaze.com/2015/04/senators-ask-gov-t-how-many-illegals-got-social-security-theblaze",
+            "tags": "next,social,social_security,security,save,off,gop,program,presidential,election",
+            "recuweb_url": "http://en.recuweb.com/social-security/progressive-charlestown.com/2015/04/save-social-security",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=social%2Bsecurity%2Bsocial%2Bsecurity&rss=1&lng=en",
+            "source_url": "http://progressive-charlestown.com/2015/04/save-social-security.html"
+        },
+        "motherjones.com/2015/04/here-s-how-republicans-handed-hillary-clinton-a-big-fat": {
+            "title": "Here's How Republicans Handed Hillary Clinton a Big Fat...",
+            "snippet": "With Hillary Clinton now officially running for president, progressives are upping the pressure on her to embrace their policy agenda, including the holy grail of expanding Social Security benefits. As I wrote recently, Sen.",
+            "date": "2015-04-13",
+            "author_name": "Pema Levy",
+            "categories": "social-security,policy",
+            "tags": "social,social_security,security,president,republicans,here,benefits",
+            "recuweb_url": "http://en.recuweb.com/policy/motherjones.com/2015/04/here-s-how-republicans-handed-hillary-clinton-a-big-fat",
             "resource_url": "http://www.google.com/search?q=social%2Bsecurity&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theblaze.com/stories/2015/04/15/senators-ask-govt-how-many-illegals-got-social-security-the-number-is-almost-unbelievable/"
+            "source_url": "http://motherjones.com/kevin-drum/2015/04/social-security-2016-campaign"
         }
     }
 }
