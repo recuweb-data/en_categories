@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "exoplanets",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/exoplanets/",
@@ -11,18 +11,6 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/exoplanets/exoplanets/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/eridanus-void-kepler-habitable-exoplanets-04-20-2015-nud": {
-            "title": "Eridanus Void, Kepler, Habitable Exoplanets 04/20/2015/NUD...",
-            "snippet": "Eridanus Void, Kepler, Habitable Exoplanets 04/20/2015/NUD Subscribe now to NUD! Space and science news for Monday April 20th, 2015 with Jerry. Watch five days a week. Today's headlines: Cold Spot suggests largest structure in Universe: A...",
-            "date": "2015-04-20",
-            "author_name": "New Universe Daily",
-            "categories": "science,exoplanets",
-            "tags": "science,exoplanets,kepler,space",
-            "recuweb_url": "http://en.recuweb.com/exoplanets/youtube.com/2015/04/eridanus-void-kepler-habitable-exoplanets-04-20-2015-nud",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=exoplanets&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=5rKRItnJ-W8&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/5rKRItnJ-W8/0.jpg"
-        },
         "dailymotion.com/2015/04/kepler-discovers-five-exoplanets": {
             "title": "Kepler Discovers Five Exoplanets...",
             "snippet": "Kepler Discovers Five ExoplanetsAuthor: IzayahByrdTags: Kepler Discovers Five Exoplanets Posted: 20 April 2015Rating:: 0...",
@@ -77,7 +65,7 @@
             "date": "2015-02-20",
             "author_name": "martin2348",
             "categories": "science,exoplanets",
-            "tags": "pdf,space,science,exoplanets,martin,tags",
+            "tags": "pdf,space,exoplanets,martin,tags",
             "recuweb_url": "http://en.recuweb.com/exoplanets/dailymotion.com/2015/02/exoplanets-space-science-series-sara-seager-pdf-download",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/exoplanets+exoplanets/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ho2xz_exoplanets-space-science-series-sara-seager-pdf-download_school",
@@ -113,7 +101,7 @@
             "date": "2015-01-08",
             "author_name": "Buzz60",
             "categories": "spaceflight,planets,exoplanets,travel",
-            "tags": "exoplanets,kepler,telescope,nasa,tags",
+            "tags": "exoplanets,planets,kepler,kepler-telescope,telescope,nasa,tags",
             "recuweb_url": "http://en.recuweb.com/travel/dailymotion.com/2015/01/nasa-creates-retro-travel-posters-for-distant-exoplanets",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/exoplanets+exoplanets/0?af=1",
             "source_url": "http://dailymotion.com/video/x2eb6lb_nasa-creates-retro-travel-posters-for-distant-exoplanets_news",
@@ -130,6 +118,18 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/exoplanets+exoplanets/0?af=1",
             "source_url": "http://dailymotion.com/video/x2e6r7u_newly-discovered-exoplanets-are-most-earth-like-ones-ever-found_travel",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2e6r7u_newly-discovered-exoplanets-are-most-earth-like-ones-ever-found_travel"
+        },
+        "dailymotion.com/2015/01/what-can-we-learn-from-exoplanets": {
+            "title": "What can we learn from exoplanets?",
+            "snippet": "The Kepler spacecraft has found over 1,000 new exoplanets?but does anyone or anything live there? SETI's Dr. Seth Shostak theorizes on what we might learn from alien planets?even if we're just: LarryKingNowTags: aliens SETI NASA kepler telescope...",
+            "date": "2015-01-07",
+            "author_name": "LarryKingNow",
+            "categories": "planets,exoplanets,spacecraft",
+            "tags": "nasa,kepler,kepler-telescope,telescope,planets,exoplanets,found,tags",
+            "recuweb_url": "http://en.recuweb.com/spacecraft/dailymotion.com/2015/01/what-can-we-learn-from-exoplanets",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/exoplanets+exoplanets/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2e5s9t_what-can-we-learn-from-exoplanets_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2e5s9t_what-can-we-learn-from-exoplanets_news"
         }
     }
 }
