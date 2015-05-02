@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "powerbook",
         "language": "en",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/powerbook/",
@@ -11,14 +11,24 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/powerbook/powerbook/blogs.json"
     },
     "items": {
+        "home.bt.com/2015/04/20-things-you-didnt-know-about-the-apple-mac": {
+            "title": "20 things you didnt know about the Apple Mac...",
+            "snippet": "PC World magazine voted it the 17 th worst tech product of all time. The road to the MacBook began in earnest in 1991 with the launch of the PowerBook range, which captured 40% of laptop sales. Its key innovation was probably the positioning of...",
+            "date": "2015-04-26",
+            "categories": "macbook,powerbook",
+            "tags": "laptop,tech,product,apple,mac,macbook,powerbook",
+            "recuweb_url": "http://en.recuweb.com/powerbook/home.bt.com/2015/04/20-things-you-didnt-know-about-the-apple-mac",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=powerbook&format=RSS&cc=us",
+            "source_url": "http://home.bt.com/tech-gadgets/computing/20-unknown-facts-about-the-mac-11363869667269"
+        },
         "time.com/2015/04/here-s-how-much-it-costs-to-be-an-apple-early": {
             "title": "Here's How Much It Costs to Be an Apple Early Adopter - TIME...",
             "snippet": "TIMEHere's How Much It Costs to Be an Apple Early AdopterTIMEI didn't consider the Macbook and Macbook Pro to be new products because both were extensions of a previous product linethe iBook and Powerbook, respectivelyand launched at the same price...",
             "date": "2015-04-24",
             "categories": "macbook,powerbook",
-            "tags": "pro,products,previous,apple,here,macbook,ibook,powerbook",
+            "tags": "pro,products,product,apple,here,macbook,powerbook",
             "recuweb_url": "http://en.recuweb.com/powerbook/time.com/2015/04/here-s-how-much-it-costs-to-be-an-apple-early",
-            "resource_url": "http://news.google.com/?hl=en&q=powerbook&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=powerbook%2Bpowerbook&output=atom&nord=1",
             "source_url": "http://time.com/money/3828674/the-cost-of-being-an-apple-early-adopter/"
         },
         "cio.com/2015/04/a-clean-install-might-fix-lingering-os-x-yosemite-problems": {
@@ -48,7 +58,7 @@
             "categories": "macbook,powerbook",
             "tags": "macbook,macbook_pro,pro,here,mac,laptop,powerbook",
             "recuweb_url": "http://en.recuweb.com/powerbook/zdnet.com/2015/04/refreshed-macbook-pro-stunningly-fast-storage-spooky-touchpad-delightful-zdnet",
-            "resource_url": "http://news.google.com/?hl=en&q=powerbook&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=powerbook%2Bpowerbook&output=atom&nord=1",
             "source_url": "http://zdnet.com/article/refreshed-macbook-pro-stunningly-fast-storage-spooky-touchpad-delightful-display/"
         },
         "foxnews.com/2015/04/apple-watch-another-jony-ive-design-triumph": {
@@ -56,7 +66,7 @@
             "snippet": "But that just turned it into a cult classic. And its been revered ever since. MacBook Air and Titanium PowerBook G4 The MacBook Air (2008) has influenced laptop design more than any single portable in the last seven years. At the time, it was a...",
             "date": "2015-04-14",
             "categories": "powerbook,macbook",
-            "tags": "laptop,powerbook,macbook,macbook_air,air,another,apple",
+            "tags": "laptop,powerbook,macbook,another,apple",
             "recuweb_url": "http://en.recuweb.com/macbook/foxnews.com/2015/04/apple-watch-another-jony-ive-design-triumph",
             "resource_url": "http://www.bing.com/news/search?first=1&q=powerbook&format=RSS&cc=us",
             "source_url": "http://foxnews.com/tech/2015/04/14/apple-watch-another-jony-ive-design-triumph/"
@@ -67,7 +77,7 @@
             "date": "2015-04-13",
             "tags": "power,well",
             "recuweb_url": "http://en.recuweb.com/azernews.az/2015/04/leyla-aliyeva-joins-presentation-of-formula-power-book-azernews",
-            "resource_url": "http://news.google.com/?hl=en&q=powerbook&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=powerbook%2Bpowerbook&output=atom&nord=1",
             "source_url": "http://azernews.az/culture/80333.html"
         },
         "geek.com/2015/04/2015-macbook-vs-2005-powerbook-g4-what-a-difference-decade-makes": {
@@ -87,7 +97,7 @@
             "categories": "powerbook",
             "tags": "laptop,powerbook,apple,macworld",
             "recuweb_url": "http://en.recuweb.com/powerbook/macworld.com/2015/03/ode-to-the-12-inch-powerbook-g4-apple-s-first-desktop",
-            "resource_url": "http://news.google.com/?hl=en&q=powerbook&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=powerbook%2Bpowerbook&output=atom&nord=1",
             "source_url": "http://macworld.com/article/2901437/ode-to-the-12-inch-powerbook-g4-apples-first-desktop-quality-laptop.html"
         },
         "macworld.com/2015/03/the-new-macbook-is-cool-but-powerbook-duo-was-cooler-macworld": {
@@ -97,18 +107,8 @@
             "categories": "powerbook,macbook",
             "tags": "laptop,only,powerbook,macbook,macworld,apple",
             "recuweb_url": "http://en.recuweb.com/macbook/macworld.com/2015/03/the-new-macbook-is-cool-but-powerbook-duo-was-cooler-macworld",
-            "resource_url": "http://news.google.com/?hl=en&q=powerbook&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=powerbook%2Bpowerbook&output=atom&nord=1",
             "source_url": "http://macworld.com/article/2897715/the-new-macbook-is-cool-but-the-powerbook-duo-was-cooler.html"
-        },
-        "macworld.com/2015/01/three-cheers-for-the-delightfully-personal-powerbook-1400": {
-            "title": "Three cheers for the delightfully personal PowerBook 1400...",
-            "snippet": "In its recent ad for the MacBook Air, Apple demonstrated how much people loved it by showing the ways in which people had personalized theirs with stickers. And although my current 2008 MacBook Pro is stickerless, my previous MacBook and iBook were...",
-            "date": "2015-01-22",
-            "categories": "macbook,powerbook",
-            "tags": "previous,macbook,macbook_pro,pro,macbook_air,air,powerbook,apple,ibook",
-            "recuweb_url": "http://en.recuweb.com/powerbook/macworld.com/2015/01/three-cheers-for-the-delightfully-personal-powerbook-1400",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=powerbook&format=RSS&cc=us",
-            "source_url": "http://macworld.com/article/2872814/three-cheers-for-the-delightfully-personal-powerbook-1400-with-bookcover.html"
         }
     }
 }
