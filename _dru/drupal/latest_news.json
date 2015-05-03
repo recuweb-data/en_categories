@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "drupal",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/drupal/",
@@ -11,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/drupal/drupal/blogs.json"
     },
     "items": {
+        "virtual-strategy.com/2015/05/komosion-to-help-australian-government-deliver-world-leading-website-platform": {
+            "title": "Komosion To Help Australian Government Deliver World-leading Website Platform...",
+            "snippet": "The Australian Government has partnered with global cloud hosting and support company Acquia to create a common web publishing platform for all agencies on the open source software, Drupal. We are excited to have been selected to join Acquia in...",
+            "date": "2015-05-02",
+            "categories": "drupal",
+            "tags": "create,web,publishing,platform,open,open-source,source,cloud,hosting,company,government,website,drupal",
+            "recuweb_url": "http://en.recuweb.com/drupal/virtual-strategy.com/2015/05/komosion-to-help-australian-government-deliver-world-leading-website-platform",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
+            "source_url": "http://virtual-strategy.com/2015/05/02/komosion-help-australian-government-deliver-world-leading-website-platform"
+        },
+        "sitepoint.com/2015/05/automated-testing-of-drupal-8-modules": {
+            "title": "Automated Testing of Drupal 8 Modules...",
+            "snippet": "In this article we are going to look at automated testing in Drupal 8. More specifically, we are going to write a few integration tests for some of the business logic we wrote in the previous Sitepoint articles on Drupal 8 module development. You...",
+            "date": "2015-05-01",
+            "categories": "business,drupal",
+            "tags": "drupal,module,development",
+            "recuweb_url": "http://en.recuweb.com/drupal/sitepoint.com/2015/05/automated-testing-of-drupal-8-modules",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
+            "source_url": "http://sitepoint.com/automated-testing-drupal-8-modules/"
+        },
+        "thestreet.com/2015/05/cignex-datamatics-presents-webinar-on-simplifying-e-commerce-content-management-&": {
+            "title": "CIGNEX Datamatics Presents Webinar On Simplifying E-commerce Content Management & Publishing...",
+            "snippet": "CIGNEX Datamatics has developed the Content Commerce Platform using Open Source technologies namely Alfresco for ECM, Drupal for WCM and Magento for E-commerce. It comes as a cloud ready solution and it has an open architecture providing...",
+            "date": "2015-05-01",
+            "categories": "commerce,management,drupal,magento",
+            "tags": "cloud,open,providing,source,content,platform,management,publishing,using,drupal",
+            "recuweb_url": "http://en.recuweb.com/magento/thestreet.com/2015/05/cignex-datamatics-presents-webinar-on-simplifying-e-commerce-content-management-&",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
+            "source_url": "http://thestreet.com/story/13135436/1/cignex-datamatics-presents-webinar-on-simplifying-e-commerce-content-management-publishing.html"
+        },
+        "opensource.com/2015/05/how-containers-will-shape-the-drupal-ecosystem": {
+            "title": "How containers will shape the Drupal ecosystem -...",
+            "snippet": "containers will shape the Drupal recently had the opportunity to interview David Strauss about how Pantheon uses containers to isolate many Drupal applications from development to production environments. His upcoming DrupalCon talk, PHP Containers...",
+            "date": "2015-05-01",
+            "categories": "php,production,environment,drupal",
+            "tags": "php,drupal,development",
+            "recuweb_url": "http://en.recuweb.com/drupal/opensource.com/2015/05/how-containers-will-shape-the-drupal-ecosystem",
+            "resource_url": "http://news.google.com/?hl=en&q=drupal&output=atom&nord=1",
+            "source_url": "http://opensource.com/business/15/5/how-containers-will-shape-drupal-ecosystem"
+        },
+        "pocketgamer.biz/2015/05/web-developer-drupal-&-php-pocket": {
+            "title": "Web Developer (Drupal & PHP) - Pocket...",
+            "snippet": "Web Developer (Drupal & PHP)Pocket will have a strong background in PHP Development, have been part of several Drupal 6/7 implementation or upgrade projects, and have experience with integrating Drupal with external API's. You will demonstrate an...",
+            "date": "2015-05-01",
+            "categories": "drupal,php",
+            "tags": "web,drupal,php,development",
+            "recuweb_url": "http://en.recuweb.com/php/pocketgamer.biz/2015/05/web-developer-drupal-&-php-pocket",
+            "resource_url": "http://news.google.com/?hl=en&q=drupal&output=atom&nord=1",
+            "source_url": "http://pocketgamer.biz/jobs/advert/391/web-developer-drupal-and-php/"
+        },
+        "threatpost.com/2015/04/assume-every-drupal-7-site-was-compromised-unless-patched-by-oct": {
+            "title": "Assume Every Drupal 7 Site Was Compromised Unless Patched By Oct. 15...",
+            "snippet": "The maintainers of the Drupal content management system are warning users that any site owners who havent patched a critical vulnerability in Drupal Core disclosed earlier this month should consider their sites to be compromised. The...",
+            "date": "2015-04-30",
+            "categories": "management,drupal",
+            "tags": "core,management,users,site,drupal,content",
+            "recuweb_url": "http://en.recuweb.com/drupal/threatpost.com/2015/04/assume-every-drupal-7-site-was-compromised-unless-patched-by-oct",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
+            "source_url": "http://threatpost.com/assume-every-drupal-7-site-was-compromised-unless-patched-by-oct-15/109095"
+        },
+        "publishersweekly.com/2015/04/at-aba-spring-forum-concerns-aired-about-kobo-winter-institute": {
+            "title": "At ABA Spring Forum Concerns Aired About Kobo, Winter Institute...",
+            "snippet": "Teicher responded that the changeover to Drupal 7 offered booksellers several mobile-friendly themes. It is, frankly, a little naive in 2015 not having a mobile-friendly website, he added. Teicher also urged booksellers to figure out how to grow...",
+            "date": "2015-04-30",
+            "categories": "institute,drupal",
+            "tags": "friendly,offered,drupal,website",
+            "recuweb_url": "http://en.recuweb.com/drupal/publishersweekly.com/2015/04/at-aba-spring-forum-concerns-aired-about-kobo-winter-institute",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
+            "source_url": "http://publishersweekly.com/pw/by-topic/industry-news/bookselling/article/66455-at-spring-forum-booksellers-express-concern-about-kobo-winter-institute.html"
+        },
+        "opensource.com/2015/04/building-better-pages-in-drupal-with-paragraphs": {
+            "title": "Building better pages in Drupal with Paragraphs -...",
+            "snippet": "better pages in Drupal with of content management systems like Drupal have a number of options that allow them to create very attractive, very usable layouts. That's one factor that drew Murray Woodman to Drupal. He co-founded Morpht, a...",
+            "date": "2015-04-30",
+            "categories": "management,drupal",
+            "tags": "create,management,drupal,content",
+            "recuweb_url": "http://en.recuweb.com/drupal/opensource.com/2015/04/building-better-pages-in-drupal-with-paragraphs",
+            "resource_url": "http://news.google.com/?hl=en&q=drupal&output=atom&nord=1",
+            "source_url": "http://opensource.com/business/15/4/interview-Murray-Woodman-Morpht"
+        },
         "federalnewsradio.com/2015/04/open-source-in-the-federal-government": {
             "title": "Open source in the federal government...",
             "snippet": "In a similar vein, there is an open source offering for content management called Drupal. Much like Red Hat, NuCivic takes Drupal and offers it as a variation on Drupal for content management. During the discussion, Hoppin talks about success he...",
             "date": "2015-04-28",
             "categories": "management,drupal",
-            "tags": "content,content-management,management,open,source,called,drupal",
+            "tags": "management,open,open-source,source,government,content,drupal",
             "recuweb_url": "http://en.recuweb.com/drupal/federalnewsradio.com/2015/04/open-source-in-the-federal-government",
             "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
             "source_url": "http://federalnewsradio.com/254/3847072/Open-source-in-the-federal-government"
-        },
-        "electronicdesign.com/2015/04/what-s-the-difference-between-json-xml-and-yaml": {
-            "title": "What's the Difference Between JSON, XML, and YAML?",
-            "snippet": "Still, many platforms utilize this for configuration information that a programmer or user generates. For example, Drupal, a content management system (CMS), is now based on Symfony, a PHP framework, that uses YAML for its configuration files. There...",
-            "date": "2015-04-28",
-            "categories": "management,json,xml,drupal,php",
-            "tags": "content,content-management,content-management-system,management,management-system,system,user,drupal,cms",
-            "recuweb_url": "http://en.recuweb.com/php/electronicdesign.com/2015/04/what-s-the-difference-between-json-xml-and-yaml",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
-            "source_url": "http://electronicdesign.com/dev-tools/whats-difference-between-json-xml-and-yaml"
-        },
-        "eweek.com/2015/04/tesla-s-website-and-twitter-account-hackedbriefly": {
-            "title": "Tesla's Website and Twitter Account HackedBriefly...",
-            "snippet": "It appears as though Tesla Motors is using the Akamai content delivery network (CDN) as its hosting provider, as well as the open-source Drupal content management system (CMS). The idea of attacking a domain registrar to redirect and attack a...",
-            "date": "2015-04-27",
-            "categories": "management,twitter,drupal",
-            "tags": "content,content-management,content-management-system,management,management-system,system,open,hosting,hosting-provider,provider,using,website,source,drupal,cms",
-            "recuweb_url": "http://en.recuweb.com/drupal/eweek.com/2015/04/tesla-s-website-and-twitter-account-hackedbriefly",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
-            "source_url": "http://eweek.com/blogs/security-watch/teslas-website-and-twitter-account-hackedbriefly.html"
-        },
-        "threatpost.com/2015/04/assume-every-drupal-7-site-was-compromised-unless-patched-by-oct": {
-            "title": "Assume Every Drupal 7 Site Was Compromised Unless Patched By Oct. 15...",
-            "snippet": "The maintainers of the Drupal content management system are warning users that any site owners who havent patched a critical vulnerability in Drupal Core disclosed earlier this month should consider their sites to be compromised. The...",
-            "date": "2015-04-24",
-            "categories": "management,drupal",
-            "tags": "core,should,content,content-management,content-management-system,management,management-system,system,users,site,drupal",
-            "recuweb_url": "http://en.recuweb.com/drupal/threatpost.com/2015/04/assume-every-drupal-7-site-was-compromised-unless-patched-by-oct",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
-            "source_url": "http://threatpost.com/assume-every-drupal-7-site-was-compromised-unless-patched-by-oct-15/109095"
         },
         "security.itbusinessnet.com/2015/04/announces-top-10-drupal-web-hosting-providers-for-2015": {
             "title": "Announces Top 10 Drupal Web Hosting Providers for 2015...",
             "snippet": ", a Drupal hosting review and resource site, today announced the top 10 Drupal web hosting providers for 2015. As is introduced, the providers are WebHostingHub, InMotion Hosting, BlueHost, JustHost, Arvixe, GreenGeeks, iPage, A2Hosting...",
             "date": "2015-04-23",
             "categories": "drupal",
-            "tags": "hosting,site,drupal,drupal_web,web,announces",
+            "tags": "hosting,web,site,drupal",
             "recuweb_url": "http://en.recuweb.com/drupal/security.itbusinessnet.com/2015/04/announces-top-10-drupal-web-hosting-providers-for-2015",
             "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
             "source_url": "http://security.itbusinessnet.com/article/DrupalHostsorg-Announces-Top-10-Drupal-Web-Hosting-Providers-for-2015-3862411"
-        },
-        "publictechnology.net/2015/04/councils-in-move-for-joint-drupal-content-management-system": {
-            "title": "Councils in move for joint Drupal content management system -...",
-            "snippet": "Councils in move for joint Drupal content management councils, which already share a number of services, are proposing to procure a hosting provider to run their CMSs on the Drupal platform to power their websites and intranets. The procurement is...",
-            "date": "2015-04-22",
-            "categories": "management,drupal",
-            "tags": "platform,hosting,hosting-provider,provider,content,content-management,management,content-management-system,management-system,system,drupal,services",
-            "recuweb_url": "http://en.recuweb.com/drupal/publictechnology.net/2015/04/councils-in-move-for-joint-drupal-content-management-system",
-            "resource_url": "http://news.google.com/?hl=en&q=drupal%2Bdrupal&output=atom&nord=1",
-            "source_url": "http://publictechnology.net/articles/news/councils-move-joint-drupal-content-management-system"
-        },
-        "sitepoint.com/2015/04/drupal-goes-social-building-a-liking-module-in": {
-            "title": "Drupal goes Social: Building a Liking Module in Drupal...",
-            "snippet": "Lets start by creating the new Drupal module. To do that we should first create a folder called likepost in the sitesallmodulescustom directory of your Drupal installation as shown below: Inside this folder, you should create a file called...",
-            "date": "2015-04-20",
-            "categories": "drupal",
-            "tags": "should,called,creating,drupal,module",
-            "recuweb_url": "http://en.recuweb.com/drupal/sitepoint.com/2015/04/drupal-goes-social-building-a-liking-module-in",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal%2Bdrupal&format=RSS&cc=us",
-            "source_url": "http://sitepoint.com/drupal-goes-social-building-liking-module-drupal/"
-        },
-        "zawya.com/2015/04/eweev-taking-part-in-drupal-worldwide-family-zawya-registration": {
-            "title": "Eweev taking part in Drupal worldwide family - Zawya (registration)...",
-            "snippet": "Eweev taking part in Drupal worldwide familyZawya (registration)Eweev, a web development company in Lebanon, announces its participation in DrupalCon 2015 in Los Angeles, USA, from May 11th till the 15th. This conference gathers, from around the...",
-            "date": "2015-04-20",
-            "categories": "drupal",
-            "tags": "conference,announces,drupal,web,development,company",
-            "recuweb_url": "http://en.recuweb.com/drupal/zawya.com/2015/04/eweev-taking-part-in-drupal-worldwide-family-zawya-registration",
-            "resource_url": "http://news.google.com/?hl=en&q=drupal%2Bdrupal&output=atom&nord=1",
-            "source_url": "http://zawya.com/story/Eweev_taking_part_in_Drupal_worldwide_family-ZAWYA20150420133206/"
-        },
-        "thonline.com/2015/04/strengthen-the-weak-points-of-popular-software": {
-            "title": "Strengthen the weak points of popular software...",
-            "snippet": "Joomla (), Drupal (), Dot Net Nuke () and Umbraco () are all equally as besieged. They are the most widely used and, therefore, hackers get better coverage if they focus their attentions on the weaknesses of the...",
-            "date": "2015-04-18",
-            "categories": "joomla,drupal",
-            "tags": "popular,joomla,drupal",
-            "recuweb_url": "http://en.recuweb.com/drupal/thonline.com/2015/04/strengthen-the-weak-points-of-popular-software",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal%2Bdrupal&format=RSS&cc=us",
-            "source_url": "http://thonline.com/news/technology/article_0035e92e-2d67-5d1f-a253-2452bf3743cf.html"
-        },
-        "prnewswire.com/2015/04/ftc-orlando-hosts-largest-educational-conference-in-florida-of-drupal-web": {
-            "title": "FTC Orlando Hosts Largest Educational Conference in Florida of Drupal Web... - PR Newswire (press...",
-            "snippet": "FTC Orlando Hosts Largest Educational Conference in Florida of Drupal Web...PR Newswire (press release)Drupal is a popular, free content management system. It is used to build everything from personal blogs to a diversity of business applications.",
-            "date": "2015-04-16",
-            "categories": "business,management,drupal",
-            "tags": "content,content-management,content-management-system,management,management-system,system,popular,drupal,drupal_web,web,conference",
-            "recuweb_url": "http://en.recuweb.com/drupal/prnewswire.com/2015/04/ftc-orlando-hosts-largest-educational-conference-in-florida-of-drupal-web",
-            "resource_url": "http://news.google.com/?hl=en&q=drupal%2Bdrupal&output=atom&nord=1",
-            "source_url": "http://prnewswire.com/news-releases/ftc-orlando-hosts-largest-educational-conference-in-florida-of-drupal-web-developers-300067014.html"
         }
     }
 }
