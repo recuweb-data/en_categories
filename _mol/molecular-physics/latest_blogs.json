@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "molecular-physics",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/molecular-physics/",
@@ -11,27 +11,27 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/molecular-physics/molecular-physics/blogs.json"
     },
     "items": {
-        "physics.stackexchange.com/2015/04/inter-molecular-interaction-physics-stack-exchange": {
-            "title": "Inter-molecular Interaction - Physics Stack Exchange...",
-            "snippet": "\"Homework-like questions should ask about a specific physics concept and show some effort to work through the problem. We want our questions to be useful to the broader community, and to future users. See our meta site...",
-            "date": "2015-04-19",
-            "author_name": "Swapnil P. Kumar",
-            "categories": "physics",
-            "tags": "questions,useful,work,physics,molecular",
-            "recuweb_url": "http://en.recuweb.com/physics/physics.stackexchange.com/2015/04/inter-molecular-interaction-physics-stack-exchange",
-            "resource_url": "http://www.google.com/search?q=molecular%2Bphysics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://physics.stackexchange.com/questions/177088/jee-main-2015-question-inter-molecular-interaction"
-        },
         "link.aps.org/2015/04/cavity-enhanced-field-free-molecular-alignment-at-a-high-repetition": {
             "title": "Cavity-enhanced field-free molecular alignment at a high repetition...",
             "snippet": "Published 14 April 2015. A frequency comb can align an ensemble of molecules 150 million times per second. See more in Physics. Click to Expand.",
             "date": "2015-04-14",
             "author_name": "Craig Benko, Linqiang Hua, Thomas K. Allison, Fran\u00e7ois Labaye, and Jun Ye",
             "categories": "molecules,physics",
-            "tags": "field,free,molecular,high,molecules,physics",
+            "tags": "field,free,molecular,high,published,molecules,physics",
             "recuweb_url": "http://en.recuweb.com/physics/link.aps.org/2015/04/cavity-enhanced-field-free-molecular-alignment-at-a-high-repetition",
             "resource_url": "http://www.google.com/search?q=molecular%2Bphysics%2Bmolecular%2Bphysics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://link.aps.org/doi/10.1103/PhysRevLett.114.153001"
+        },
+        "chemindigest.com/2015/04/physicists-predict-molecular-states-of-cold-atoms-blockdale": {
+            "title": "Physicists predict molecular states of cold atoms Blockdale...",
+            "snippet": "A research study published in the journal Nature Physics, theoretically predicted molecular states of chemical reactions that involved three atoms at ultracold temperatures. The study conducted by Yujun Wang, Research...",
+            "date": "2015-04-11",
+            "author_name": "admin",
+            "categories": "nature,physics",
+            "tags": "ultracold,states,physics,published,cold,physicists,molecular,atoms,research,chemical",
+            "recuweb_url": "http://en.recuweb.com/physics/chemindigest.com/2015/04/physicists-predict-molecular-states-of-cold-atoms-blockdale",
+            "resource_url": "http://www.google.com/search?q=molecular%2Bphysics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://chemindigest.com/physicists-predict-molecular-states-of-cold-atoms/"
         },
         "physics.aps.org/2015/04/physics-viewpoint-negative-ions-in-cold-storage": {
             "title": "Physics - Viewpoint: Negative Ions in Cold Storage...",
@@ -39,7 +39,7 @@
             "date": "2015-04-06",
             "author_name": "rss@aps.org",
             "categories": "chemistry,physics",
-            "tags": "physics,point,high,atomic,molecular",
+            "tags": "cold,physics,point,high,atomic,molecular",
             "recuweb_url": "http://en.recuweb.com/physics/physics.aps.org/2015/04/physics-viewpoint-negative-ions-in-cold-storage",
             "resource_url": "http://www.google.com/search?q=molecular%2Bphysics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://physics.aps.org/articles/v8/31"
@@ -72,9 +72,9 @@
             "date": "2015-01-02",
             "author_name": "unknown",
             "categories": "plasma-physics,physics,technology",
-            "tags": "plasma,plasma_physics,physics,international,atomic,molecular",
+            "tags": "plasma,plasma_physics,physics,quantum,atomic,molecular",
             "recuweb_url": "http://en.recuweb.com/technology/physicsworld.com/2015/01/international-conference-on-quantum-atomic-molecular",
-            "resource_url": "http://www.google.com/search?q=molecular%2Bphysics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=molecular%2Bphysics%2Bmolecular%2Bphysics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://physicsworld.com/cws/event/2015/sep/01/international-conference-on-quantum-atomic-molecular-and-plasma-physics"
         },
         "physics.aps.org/2014/12/physics-viewpoint-molecular-interferometry-makes-a-new-break": {
@@ -83,7 +83,7 @@
             "date": "2014-12-02",
             "author_name": "rss@aps.org",
             "categories": "physics,molecules",
-            "tags": "large,bio,using,molecular,physics,point,matter,molecules",
+            "tags": "large,bio,molecular,physics,point,matter,using,molecules",
             "recuweb_url": "http://en.recuweb.com/molecules/physics.aps.org/2014/12/physics-viewpoint-molecular-interferometry-makes-a-new-break",
             "resource_url": "http://www.google.com/search?q=molecular%2Bphysics%2Bmolecular%2Bphysics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://physics.aps.org/articles/v7/122"
@@ -104,21 +104,21 @@
             "date": "2014-09-30",
             "author_name": "huntsonretafalkcavadista",
             "categories": "physics",
-            "tags": "optical,optical_physics,physics,free,epub,advances,atomic,molecular,paul",
+            "tags": "optical,optical_physics,physics,free,epub,advances,atomic,molecular",
             "recuweb_url": "http://en.recuweb.com/physics/huntsonretafalkcavadista.wordpress.com/2014/09/free-epub-download-advances-in-atomic-molecular-and-optical-physics-volume",
             "resource_url": "http://en.search.wordpress.com/?q=molecular%2Bphysics%2Bmolecular%2Bphysics&f=feed&page=1",
             "source_url": "http://huntsonretafalkcavadista.wordpress.com/2014/09/30/free-epub-download-advances-in-atomic-molecular-and-optical-physics-volume-58/"
         },
-        "landdupbezemssimaluccomppe.wordpress.com/2014/08/symmetry-theory-in-molecular-physics-with-mathematica-a-new-kind-of": {
-            "title": "Symmetry Theory in Molecular Physics with Mathematica: A New Kind of Tutorial Book...",
-            "snippet": "Symmetry Theory in Molecular Physics with Mathematica: A New Kind of Tutorial Book Symmetry Theory in Molecular Physics with Mathematica: A New Kind of Tutorial Book by William McClain====...",
-            "date": "2014-08-25",
-            "author_name": "landdupbezemssimaluccomppe",
+        "dengfoseanaconsbergmothankma.wordpress.com/2014/09/rigorous-atomic-and-molecular-physics": {
+            "title": "Rigorous Atomic and Molecular Physics...",
+            "snippet": "Rigorous Atomic and Molecular Physics Rigorous Atomic and Molecular Physics by G. Velo, A.S. Wightman====Download:====Rigorous Atomic and Molecular Physics download torrent download Rigorous Atomic and Molecular Physics djvu [Download pdf book] []...",
+            "date": "2014-09-12",
+            "author_name": "dengfoseanaconsbergmothankma",
             "categories": "molecular-physics,physics",
-            "tags": "book,molecular,molecular_physics,physics,theory",
-            "recuweb_url": "http://en.recuweb.com/physics/landdupbezemssimaluccomppe.wordpress.com/2014/08/symmetry-theory-in-molecular-physics-with-mathematica-a-new-kind-of",
+            "tags": "molecular,molecular_physics,physics,atomic,djvu,pdf,book",
+            "recuweb_url": "http://en.recuweb.com/physics/dengfoseanaconsbergmothankma.wordpress.com/2014/09/rigorous-atomic-and-molecular-physics",
             "resource_url": "http://en.search.wordpress.com/?q=molecular%2Bphysics%2Bmolecular%2Bphysics&f=feed&page=1",
-            "source_url": "http://landdupbezemssimaluccomppe.wordpress.com/2014/08/25/symmetry-theory-in-molecular-physics-with-mathematica-a-new-kind-of-tutorial-book/"
+            "source_url": "http://dengfoseanaconsbergmothankma.wordpress.com/2014/09/12/rigorous-atomic-and-molecular-physics/"
         }
     }
 }
