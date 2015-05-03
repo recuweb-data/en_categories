@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "computer-data-storage",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/computer-data-storage/",
@@ -11,16 +11,26 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/computer-data-storage/computer-data-storage/blogs.json"
     },
     "items": {
-        "phys.org/2015/04/putting-a-new-spin-on-computing-memory": {
-            "title": "Putting a new spin on computing memory -...",
-            "snippet": "Current computer data storage takes one of two main forms: hard drives or random access memories (RAM). You can think of a hard drive kind of like a record or CD player, where data is stored on one piece of materiala...",
-            "date": "2015-04-22",
-            "author_name": "unknown",
+        "machineslikeus.com/2015/04/a-new-spin-on-computer-memory-machines-like": {
+            "title": "A new spin on computer memory Machines Like Us...",
+            "snippet": "Current computer data storage takes one of two main forms: hard drives or random access memories (RAM). You can think of a hard drive kind of like a record or CD player, where data is stored on one piece of material--a...",
+            "date": "2015-04-23",
+            "author_name": "NLN",
             "categories": "memory",
-            "tags": "piece,putting,spin,computing,memory,current,computer,data,storage,main,forms,hard,drives,random,access,memories,ram,drive,kind,player,stored",
-            "recuweb_url": "http://en.recuweb.com/memory/phys.org/2015/04/putting-a-new-spin-on-computing-memory",
+            "tags": "stored,stored-on-one,piece,piece-of-material,kind,random,random-access,random-access-memories,access,access-memories,memories,main,main-forms,forms,spin,computer,memory,current,data,storage,hard,drives,ram,drive,player",
+            "recuweb_url": "http://en.recuweb.com/memory/machineslikeus.com/2015/04/a-new-spin-on-computer-memory-machines-like",
             "resource_url": "http://www.google.com/search?q=computer%2Bdata%2Bstorage%2Bcomputer%2Bdata%2Bstorage&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://phys.org/news/2015-04-memory.html"
+            "source_url": "http://machineslikeus.com/news/new-spin-computer-memory"
+        },
+        "phys.org/2015/04/multi-million-eu-project-to-protect-data-against-quantum-computers": {
+            "title": "Multi-million EU project to protect data against quantum computers...",
+            "snippet": "... be in place before big quantum computers become a reality, which is expected some time after 2025. Even if the scientists win that race quantum computers can still decrypt communication that we encrypt today with current technologies if the...",
+            "date": "2015-04-23",
+            "author_name": "unknown",
+            "tags": "current,scientists,win,quantum,data,computers",
+            "recuweb_url": "http://en.recuweb.com/phys.org/2015/04/multi-million-eu-project-to-protect-data-against-quantum-computers",
+            "resource_url": "http://www.google.com/search?q=computer%2Bdata%2Bstorage%2Bcomputer%2Bdata%2Bstorage&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://phys.org/news/2015-04-multi-million-eu-quantum.html"
         },
         "eaxo542.wordpress.com/2015/04/3-pack-cd-rw-discs-700mb-80min-12x-w-jewel-cases": {
             "title": "3 Pack Cd Rw Discs 700mb 80min 12x W Jewel Cases Gold 5 Pack By Maxell Catalog Category Computer...",
@@ -57,7 +67,7 @@
             "snippet": "However, it's still a major storage medium and a new breakthrough by IBM Research and Fuji Film has produced a low-cost particulate magnetic tape with a record density of 123 billion bits of uncompressed data per square inch, which represents 88...",
             "date": "2015-04-13",
             "author_name": "David Szondy",
-            "tags": "magnetic,magnetic-tape,tape,research,breakthrough,ibm,storage,however,data",
+            "tags": "represents,magnetic,magnetic-tape,tape,ibm,storage,data",
             "recuweb_url": "http://en.recuweb.com/gizmag.com/2015/04/ibm-sets-new-tape-storage-record-gizmag",
             "resource_url": "http://www.google.com/search?q=computer%2Bdata%2Bstorage%2Bcomputer%2Bdata%2Bstorage&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://gizmag.com/ibm-tape-storage-record/36931/"
@@ -67,21 +77,20 @@
             "snippet": "Data on Tape: The Computer Hall of Fame (1951) started a new trend in data storage: magnetic tape. IBM soon began using reels of magnetic tape (similar to the audio tape of the time) for computer data storage, and the rest...",
             "date": "2015-04-10",
             "author_name": "Stephen Lawson",
-            "tags": "tape,magnetic,magnetic-tape,computer,ibm,storage,future,data",
+            "tags": "tape,magnetic,magnetic-tape,trend,computer,long,future,ibm,storage,data",
             "recuweb_url": "http://en.recuweb.com/cio.com.au/2015/04/ibm-fujifilm-show-tape-storage-still-has-a-long-future-cio",
-            "resource_url": "http://www.google.com/search?q=computer%2Bdata%2Bstorage&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=computer%2Bdata%2Bstorage%2Bcomputer%2Bdata%2Bstorage&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://cio.com.au/article/572370/ibm-fujifilm-show-tape-storage-still-has-long-future/"
         },
-        "wwpi.com/2015/04/new-hgst-active-archive-system-comes-loaded-with-data-storage": {
-            "title": "New HGST Active Archive System comes loaded with data storage...",
-            "snippet": "HGST introduced Tuesday its Active Archive System, an object storage system that enables businesses to store, retain and harness the power of data.",
-            "date": "2015-04-08",
+        "wwpi.com/2015/04/quantum-decreases-unstructured-data-storage-costs-with-new": {
+            "title": "Quantum decreases unstructured data storage costs with new...",
+            "snippet": "Quantum updates archive solutions to help users save as much as 60 percent or more on total storage costs by moving data to lower-cost tiers of storage.",
+            "date": "2015-04-07",
             "author_name": "Anna Ribeiro",
-            "categories": "business",
-            "tags": "store,data,storage",
-            "recuweb_url": "http://en.recuweb.com/business/wwpi.com/2015/04/new-hgst-active-archive-system-comes-loaded-with-data-storage",
+            "tags": "quantum,data,storage",
+            "recuweb_url": "http://en.recuweb.com/wwpi.com/2015/04/quantum-decreases-unstructured-data-storage-costs-with-new",
             "resource_url": "http://www.google.com/search?q=computer%2Bdata%2Bstorage%2Bcomputer%2Bdata%2Bstorage&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://wwpi.com/new-hgst-active-archive-system-comes-loaded-with-data-storage-object-storage-software/"
+            "source_url": "http://wwpi.com/quantum-decreases-unstructured-data-storage-costs-with-new-archive-offerings/"
         },
         "innosphere218.wordpress.com/2015/04/3-pack-cd-rw-discs-700mb-80min-4x-spindle-silver-25": {
             "title": "3 Pack Cd Rw Discs 700mb 80min 4x Spindle Silver 25 Pack By Imation Catalog Category Computer...",
@@ -103,17 +112,6 @@
             "recuweb_url": "http://en.recuweb.com/memory/innosphere218.wordpress.com/2015/04/3-pack-wrist-pillow-memory-foam-mouse-support-black-by-kensington",
             "resource_url": "http://en.search.wordpress.com/?q=computer%2Bdata%2Bstorage%2Bcomputer%2Bdata%2Bstorage&f=feed&page=1",
             "source_url": "http://innosphere218.wordpress.com/2015/04/04/3-pack-wrist-pillow-memory-foam-mouse-wrist-support-black-by-kensington-catalog-category-computer-supplies-amp-data-storage-computer-h3c0czzql-1321/"
-        },
-        "betaboston.com/2015/03/mit-data-storage-researcher-wins-alan-turing-award-1-million": {
-            "title": "MIT data storage researcher wins Alan Turing award, 1 million from...",
-            "snippet": "Michael Stonebraker, an MIT professor who did foundational research in database management systems, an industry that is now worth billions, was announced the winner of the Alan M. Turing award in computer science on...",
-            "date": "2015-03-25",
-            "author_name": "Nidhi Subbaraman",
-            "categories": "science,database,management",
-            "tags": "science,research,management,data,storage,million,computer",
-            "recuweb_url": "http://en.recuweb.com/management/betaboston.com/2015/03/mit-data-storage-researcher-wins-alan-turing-award-1-million",
-            "resource_url": "http://www.google.com/search?q=computer%2Bdata%2Bstorage%2Bcomputer%2Bdata%2Bstorage&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://betaboston.com/news/2015/03/25/mit-data-storage-researcher-wins-alan-turing-award-1-million-from-google/"
         }
     }
 }
