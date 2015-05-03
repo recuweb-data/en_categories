@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "java",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/java/",
@@ -11,27 +11,104 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/java/java/blogs.json"
     },
     "items": {
-        "blog.pluralsight.com/2015/04/learning-path-jump-into-java-pluralsight-blog": {
-            "title": "Learning Path: Jump into Java - Pluralsight blog...",
-            "snippet": "This learning path will get you up and running with the Java language, and will also introduce you to some of the tools and best practices for your Java code.",
-            "date": "2015-04-27",
-            "author_name": "Amelia White",
-            "categories": "learning,java",
-            "tags": "tools,running,into,java,language,code",
-            "recuweb_url": "http://en.recuweb.com/java/blog.pluralsight.com/2015/04/learning-path-jump-into-java-pluralsight-blog",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.pluralsight.com/learning-path-jump-into-java"
+        "thecwaftyblog.blogspot.com/2015/05/diy-teabag-dream-a-little-bigger": {
+            "title": "DIY Teabag Dream A Little Bigger...",
+            "snippet": "Does anyone else have a cafe problem? I do. This semester I got stuck having to take classes every day of the week and in doing so I have pretty much wrecked my bank account. Everyday I'd stop at Port City Java or Java Dog for breakfast and a...",
+            "date": "2015-05-02",
+            "author_name": "RaChil Luke",
+            "categories": "java",
+            "tags": "java,stop,bank,classes,cafe,problem",
+            "recuweb_url": "http://en.recuweb.com/java/thecwaftyblog.blogspot.com/2015/05/diy-teabag-dream-a-little-bigger",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=en",
+            "source_url": "http://thecwaftyblog.blogspot.com/2015/05/diy-teabag-dream-little-bigger.html"
         },
-        "javacodegeeks.com/2015/04/using-rhino-with-java-8-code-geeks": {
-            "title": "Using Rhino with Java 8 Java Code Geeks...",
-            "snippet": "Java brings Nashorn as new JavaScript implementation for JSR 223 (). While this is certainly great news (Nashorn is way faster than Rhino by directly generating Java code), it comes with some challenges:.",
-            "date": "2015-04-24",
-            "author_name": "unknown",
-            "categories": "java,javascript",
-            "tags": "code,using,java,way",
-            "recuweb_url": "http://en.recuweb.com/javascript/javacodegeeks.com/2015/04/using-rhino-with-java-8-code-geeks",
+        "androidpolice.com/2015/05/google-is-working-on-a-high-performance-java-free-app": {
+            "title": "Google Is Working On A High Performance, Java-Free App...",
+            "snippet": "Most of the standard (non-game) Android apps we use today are created with Java. Alternatives are available, like Apache Cordova and Mono for Android, but there's no doubt that Java is the only true first-class citizen.",
+            "date": "2015-05-02",
+            "author_name": "Cody Toombs",
+            "categories": "google,java",
+            "tags": "only,created,standard,free,google,working,performance,java,non,game,android,apps",
+            "recuweb_url": "http://en.recuweb.com/java/androidpolice.com/2015/05/google-is-working-on-a-high-performance-java-free-app",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://javacodegeeks.com/2015/04/using-rhino-with-java-8.html"
+            "source_url": "http://androidpolice.com/2015/05/01/google-is-working-on-a-high-performance-java-free-app-framework-for-android-based-on-dart/"
+        },
+        "stackoverflow.com/2015/05/how-to-denote-java-versions-correctly-stack-overflow": {
+            "title": "How to denote Java versions correctly? - Stack Overflow...",
+            "snippet": "I've seen three possible Java version notations, e.g. Java 8 may be written in the following ways: Java 8; Java 8 SE; java 1.8. Which is the correct one? I mean which one is usable in academic writing?. Similar problem with...",
+            "date": "2015-05-02",
+            "author_name": "petrbel",
+            "categories": "java",
+            "tags": "problem,writing,ing,written,java",
+            "recuweb_url": "http://en.recuweb.com/java/stackoverflow.com/2015/05/how-to-denote-java-versions-correctly-stack-overflow",
+            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/29999786/how-to-denote-java-versions-correctly"
+        },
+        "javacodegeeks.com/2015/05/lessons-learnt-translating-25k-line-of-c-into-java-code-geeks": {
+            "title": "Lessons Learnt Translating 25k line of C into... - Java Code Geeks...",
+            "snippet": "Daniel has been programming in Java since it was in beta. Working predominantly in the finance industry he has created real time trading and margin risk applications. He is currently a director at OpenHFT where we are...",
+            "date": "2015-05-01",
+            "author_name": "unknown",
+            "categories": "finance,java",
+            "tags": "currently,risk,created,programming,java,working,applications",
+            "recuweb_url": "http://en.recuweb.com/java/javacodegeeks.com/2015/05/lessons-learnt-translating-25k-line-of-c-into-java-code-geeks",
+            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://javacodegeeks.com/2015/05/lessons-learnt-translating-25k-line-of-c-into-java.html"
+        },
+        "stackoverflow.com/2015/05/matlab-at-run-time-in-java-file": {
+            "title": "matlab - at run time IN JAVA file...",
+            "snippet": "It looks like this is a problem with your classpath. Is \" \" in the/makesqr/for_testing folder? If so, could you try this: arcadianarcadian-desktop:/makesqr/for_testing javac -classpath...",
+            "date": "2015-05-01",
+            "author_name": "Deepak Pareek",
+            "categories": "java",
+            "tags": "run,java",
+            "recuweb_url": "http://en.recuweb.com/java/stackoverflow.com/2015/05/matlab-at-run-time-in-java-file",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/29984060/java-lang-exceptionininitializererror-at-run-time-in-java-file-in-linux-mat-lab"
+        },
+        "niiicedave.wordpress.com/2015/04/got-rid-of-some-nasty-java-adware": {
+            "title": "Got Rid of Some Nasty Java Adware...",
+            "snippet": "Recently had a technical issue with Java. Mac OS no longer supports Java because Apple considers the Java-sphere too unruly, rife with malware and viruses. However, to run old Adobe software, I need it. So I installed Java Legacy, which is Java 6,...",
+            "date": "2015-04-30",
+            "author_name": "niiicedave",
+            "categories": "viruses,java",
+            "tags": "run,technical,java,software",
+            "recuweb_url": "http://en.recuweb.com/java/niiicedave.wordpress.com/2015/04/got-rid-of-some-nasty-java-adware",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=en",
+            "source_url": "http://niiicedave.wordpress.com/2015/04/30/got-rid-of-some-nasty-java-adware/"
+        },
+        "handsinhearts.wordpress.com/2015/04/java-gravel-and-grind": {
+            "title": "Java, Java, Java (Gravel and Grind)...",
+            "snippet": "The other day I was on a photo assignment for work and was able to stop by Gravel & Grind, a new bike store and cafe in our...",
+            "date": "2015-04-30",
+            "author_name": "Maxann",
+            "categories": "java",
+            "tags": "cafe,stop,java",
+            "recuweb_url": "http://en.recuweb.com/java/handsinhearts.wordpress.com/2015/04/java-gravel-and-grind",
+            "resource_url": "http://en.search.wordpress.com/?q=java%2Bjava&f=feed&page=1",
+            "source_url": "http://handsinhearts.wordpress.com/2015/04/30/java-java-java-gravel-and-grind/"
+        },
+        "netserved.wordpress.com/2015/04/why-javascript-holds-key-to-future-of-software-development": {
+            "title": "Why Javascript holds key to future of software development?",
+            "snippet": "In the long history of programming languages, if one language can take the honor of being the most successful one so far then that language has to be Java. Java has enjoyed its unique position of being a multi-faceted language. Be it...",
+            "date": "2015-04-30",
+            "author_name": "Administrator",
+            "categories": "honor,languages,javascript,java",
+            "tags": "language,position,programming,long,key,software,development,java",
+            "recuweb_url": "http://en.recuweb.com/java/netserved.wordpress.com/2015/04/why-javascript-holds-key-to-future-of-software-development",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=en",
+            "source_url": "http://netserved.wordpress.com/2015/04/30/why-javascript-holds-key-to-future-of-software-development/"
+        },
+        "bigblog.tanbin.com/2015/04/more-afraid-of-c-than-java-python": {
+            "title": "more afraid of c than java/python...",
+            "snippet": "The more my GTD survival depend on tools or environment, the more fearful and the less confident I feel. Extreme eg: When programming Perl, php (and python) I don't rely on any complicated tool. The libraries I use tend to be simple and small.",
+            "date": "2015-04-28",
+            "author_name": "familyman",
+            "categories": "environment,java,perl,php",
+            "tags": "rely,tools,java,programming,libraries",
+            "recuweb_url": "http://en.recuweb.com/php/bigblog.tanbin.com/2015/04/more-afraid-of-c-than-java-python",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=en",
+            "source_url": "http://bigblog.tanbin.com/2015/04/more-afraid-of-c-than-javapython.html"
         },
         "infoq.com/2015/04/java-9-and-beyond-infoq": {
             "title": "Java 9 and Beyond - InfoQ...",
@@ -39,87 +116,10 @@
             "date": "2015-04-23",
             "author_name": "ExplodingAds.com",
             "categories": "java",
-            "tags": "java,security",
+            "tags": "come,java,performance",
             "recuweb_url": "http://en.recuweb.com/java/infoq.com/2015/04/java-9-and-beyond-infoq",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://infoq.com/presentations/java-9-10"
-        },
-        "springonlinetrainingcenter.wordpress.com/2015/04/learn-about-ejb3-online-training": {
-            "title": "Learn About EJB3 Online Training...",
-            "snippet": "The EJB3 online training provides the developer of Java a thorough knowledge on Enterprise Java Beans the EE Standard for the scalable, secure as well as the secure transactional business ingredients. Java online training of version of 3.1 has...",
-            "date": "2015-04-23",
-            "author_name": "iamjosephlevi",
-            "categories": "java,business",
-            "tags": "version,well,enterprise,learn,developer,java,business",
-            "recuweb_url": "http://en.recuweb.com/business/springonlinetrainingcenter.wordpress.com/2015/04/learn-about-ejb3-online-training",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=en",
-            "source_url": "http://springonlinetrainingcenter.wordpress.com/2015/04/23/learn-about-ejb3-online-training-2/"
-        },
-        "ekiras.com/2015/04/test-java-7": {
-            "title": "Test: Java_7...",
-            "snippet": "This test contains 10 questions based on Java. Each question answered correctly awards you 1 point and each incorrect answer has a penalty of points, no points are deducted for unattempted answers. Select Test Type Timed Test UnTimed Test You Get 1...",
-            "date": "2015-04-22",
-            "author_name": "(Ekansh Rastogi)",
-            "categories": "java",
-            "tags": "point,java",
-            "recuweb_url": "http://en.recuweb.com/java/ekiras.com/2015/04/test-java-7",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=en",
-            "source_url": "http://ekiras.com/2015/04/test-java-7.html"
-        },
-        "asmawoo.wordpress.com/2015/04/happy-birthday-java-is-20": {
-            "title": "HAPPY BIRTHDAY JAVA!, JAVA IS 20.",
-            "snippet": "May 23, 1995 saw the fruits of a four-year project at Sun Microsystems called Java. The new language with a C-like syntax promised the ability to write once and run anywhere through the use of virtual machines that compiled the code on the native...",
-            "date": "2015-04-20",
-            "author_name": "asmawoo",
-            "categories": "syntax,sun,fruit,java",
-            "tags": "write,run,virtual,code,language,java",
-            "recuweb_url": "http://en.recuweb.com/java/asmawoo.wordpress.com/2015/04/happy-birthday-java-is-20",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=en",
-            "source_url": "http://asmawoo.wordpress.com/2015/04/20/happy-birthday-java-java-is-20/"
-        },
-        "androidauthority.com/2015/04/java-basics-a-tutorial-for-beginners-android-authority": {
-            "title": "Java basics: a tutorial for beginners - Android Authority...",
-            "snippet": "To write your own Android app you are going to need to do some programming. The language of Android is Java, and this tutorial will help you get started.",
-            "date": "2015-04-17",
-            "author_name": "Gary Sims",
-            "categories": "java",
-            "tags": "language,app,programming,write,own,android,java,basics",
-            "recuweb_url": "http://en.recuweb.com/java/androidauthority.com/2015/04/java-basics-a-tutorial-for-beginners-android-authority",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://androidauthority.com/java-tutorial-beginners-582147/"
-        },
-        "krebsonsecurity.com/2015/04/critical-updates-for-windows-flash-java-krebs-on-security": {
-            "title": "Critical Updates for Windows, Flash, Java Krebs on Security...",
-            "snippet": "If you really need and use Java for specific Web sites or applications, take a few minutes to update this software. In the past, updating via the control panel auto-selected the installation of third-party software, so be sure to look...",
-            "date": "2015-04-14",
-            "author_name": "BrianKrebs",
-            "categories": "java",
-            "tags": "via,control,java,windows,flash,security,web,applications,software",
-            "recuweb_url": "http://en.recuweb.com/java/krebsonsecurity.com/2015/04/critical-updates-for-windows-flash-java-krebs-on-security",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://krebsonsecurity.com/2015/04/critical-updates-for-windows-flash-java/"
-        },
-        "javaworld.com/2015/03/java-the-once-and-future-king-of-internet-programming-javaworld": {
-            "title": "Java: The once and future king of Internet programming JavaWorld...",
-            "snippet": "What is Java to you? A programming language you learned in college? The lingua franca of corporate IT? Would you believe that Java is poised to dominate the next explosion of the Internet? Built for embedded computing...",
-            "date": "2015-03-24",
-            "author_name": "Cameron Laird",
-            "categories": "college,java,internet",
-            "tags": "programming,programming-language,language,future,java",
-            "recuweb_url": "http://en.recuweb.com/internet/javaworld.com/2015/03/java-the-once-and-future-king-of-internet-programming-javaworld",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://javaworld.com/article/2900842/mobile-java/java-the-once-and-future-king-of-internet-programming.html"
-        },
-        "extremetech.com/2015/03/java-now-pollutes-your-mac-with-adware-here-s-how-to": {
-            "title": "Java now pollutes your Mac with adware here's how to uninstall it...",
-            "snippet": "Do you have Java installed on your Mac? Well, you might want to rethink that decision. Recently, Oracle has begun shipping adware alongside the Java installer on OS X. While Windows users have had to suffer this...",
-            "date": "2015-03-09",
-            "author_name": "Grant Brunner",
-            "categories": "java",
-            "tags": "java,here,well,oracle,windows",
-            "recuweb_url": "http://en.recuweb.com/java/extremetech.com/2015/03/java-now-pollutes-your-mac-with-adware-here-s-how-to",
-            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://extremetech.com/internet/200604-java-now-pollutes-your-mac-with-adware-heres-how-to-uninstall-it"
         }
     }
 }
