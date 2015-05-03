@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "stock-valuation",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/stock-valuation/",
@@ -11,16 +11,36 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/stock-valuation/stock-valuation/blogs.json"
     },
     "items": {
-        "livetradingnews.com/2015/04/us-stock-valuation-extremely-high-live-trading-news": {
-            "title": "US Stock Valuation Extremely High Live Trading News...",
-            "snippet": "US stock prices are very overvalued by every metric, when viewed in the absence of GDP and earnings growth wrote an analyst Monday.",
-            "date": "2015-04-21",
-            "author_name": "Paul Ebeling",
-            "categories": "stock-valuation",
-            "tags": "analyst,metric,stock,stock_valuation,valuation,high,trading,earnings,growth",
-            "recuweb_url": "http://en.recuweb.com/stock-valuation/livetradingnews.com/2015/04/us-stock-valuation-extremely-high-live-trading-news",
+        "marketoracle.co.uk/2015/04/stock-market-valuations-maybe-i-am-crazy-the-oracle": {
+            "title": "Stock Market Valuations - Maybe I am Crazy:: The Market Oracle...",
+            "snippet": "Stock Market Valuations - Maybe I am Crazy:: The Market Oracle:: Financial Markets Analysis & Forecasting Free Website.",
+            "date": "2015-04-28",
+            "author_name": "unknown",
+            "categories": "financial-markets,markets",
+            "tags": "free,financial,market,stock,valuations",
+            "recuweb_url": "http://en.recuweb.com/markets/marketoracle.co.uk/2015/04/stock-market-valuations-maybe-i-am-crazy-the-oracle",
+            "resource_url": "http://www.google.com/search?q=stock%2Bvaluation%2Bstock%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://marketoracle.co.uk/Article50443.html"
+        },
+        "zerohedge.com/2015/04/goldman-warns-companies-to-halt-buybacks-at-record-valuations": {
+            "title": "Goldman Warns Companies To Halt Buybacks At Record Valuations...",
+            "snippet": "One month ago, Goldman warned that the biggest risk for the market was the stock buybacks hiatus due to earnings season, which in turn resulted in what was almost a modest market selloff, before someone stepped in to...",
+            "date": "2015-04-27",
+            "author_name": "Tyler Durden",
+            "tags": "almost,record,valuations,market,stock,earnings",
+            "recuweb_url": "http://en.recuweb.com/zerohedge.com/2015/04/goldman-warns-companies-to-halt-buybacks-at-record-valuations",
             "resource_url": "http://www.google.com/search?q=stock%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://livetradingnews.com/us-stock-valuation-extremely-high-103039.htm"
+            "source_url": "http://zerohedge.com/news/2015-04-27/goldman-warns-companies-halt-buybacks-record-valuations-reminds-what-happened-2007"
+        },
+        "businessinsider.com/2015/04/morgan-stanley-price-earnings-has-zero-predictive-value": {
+            "title": "Morgan Stanley: Price-earnings has 'zero predictive value...",
+            "snippet": "What does the stock market's valuation tells us about what happens next? 'ZERO'... Parker actually believes the stock market could surge thanks to a P/E that could expand to 20x before this bull market peaks. The bottom line...",
+            "date": "2015-04-27",
+            "author_name": "Sam Ro",
+            "tags": "price,earnings,value,stock,market,valuation",
+            "recuweb_url": "http://en.recuweb.com/businessinsider.com/2015/04/morgan-stanley-price-earnings-has-zero-predictive-value",
+            "resource_url": "http://www.google.com/search?q=stock%2Bvaluation%2Bstock%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://businessinsider.com/morgan-stanley-price-earnings-has-zero-predictive-value-2015-4"
         },
         "inquisitr.com/2015/04/etsy-stock-almost-doubled-3-billion-valuation-for-unique-arts": {
             "title": "Etsy Stock Almost Doubled: 3.3 Billion Valuation For Unique Arts...",
@@ -28,7 +48,7 @@
             "date": "2015-04-17",
             "author_name": "JC Torpey",
             "categories": "arts",
-            "tags": "nasdaq,valuation,etsy,stock,company,per,share,trading",
+            "tags": "share,almost,billion,valuation,stock,company,trading",
             "recuweb_url": "http://en.recuweb.com/arts/inquisitr.com/2015/04/etsy-stock-almost-doubled-3-billion-valuation-for-unique-arts",
             "resource_url": "http://www.google.com/search?q=stock%2Bvaluation%2Bstock%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://inquisitr.com/2017117/etsy-stock-almost-doubled-3-3-billion-valuation-for-unique-arts-and-crafts-marketplace/"
@@ -39,7 +59,7 @@
             "date": "2015-04-16",
             "author_name": "SeekingAlpha.com",
             "categories": "business",
-            "tags": "believe,market,stocks,stock,valuation,business,investing",
+            "tags": "market,stocks,stock,valuation,business,investing",
             "recuweb_url": "http://en.recuweb.com/business/seekingalpha.com/2015/04/mr-valuation-disagrees-with-henry-blodget-it-s-a-market-of",
             "resource_url": "http://www.google.com/search?q=stock%2Bvaluation%2Bstock%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://seekingalpha.com/article/3076086-mr-valuation-disagrees-with-henry-blodget-its-a-market-of-stocks-is-not-a-meaningless-phrase"
@@ -49,21 +69,10 @@
             "snippet": "Bloomberg Emerging-Market Stocks End Longest Rally in Decade on Valuations Bloomberg Emerging-market stocks fell, ending their longest streak of gains since January 2005, as investors bet valuations near...",
             "date": "2015-04-15",
             "author_name": "kennethcarnesi",
-            "tags": "valuations,market,stocks,fell,investors",
+            "tags": "investors,market,stocks,valuations,fell",
             "recuweb_url": "http://en.recuweb.com/kennethcarnesi.wordpress.com/2015/04/emerging-market-stocks-end-longest-rally-in-decade-on-valuations-bloomberg",
             "resource_url": "http://en.search.wordpress.com/?q=stock%2Bvaluation%2Bstock%2Bvaluation&f=feed&page=1",
             "source_url": "http://kennethcarnesi.wordpress.com/2015/04/15/emerging-market-stocks-end-longest-rally-in-decade-on-valuations-bloomberg/"
-        },
-        "moneymorning.com/2015/04/is-the-etsy-ipo-valuation-justified-money-morning": {
-            "title": "Is the Etsy IPO Valuation Justified? - Money Morning...",
-            "snippet": "Some investors believe strong sales growth makes ETSY stock a buy. Others view Etsy's enthusiastic commitment to social consciousness as a hindrance to profitability. Etsy even admitted that making money may never...",
-            "date": "2015-04-14",
-            "author_name": "Alex McGuire",
-            "categories": "consciousness",
-            "tags": "believe,strong,sales,etsy,valuation,investors,growth,stock",
-            "recuweb_url": "http://en.recuweb.com/consciousness/moneymorning.com/2015/04/is-the-etsy-ipo-valuation-justified-money-morning",
-            "resource_url": "http://www.google.com/search?q=stock%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://moneymorning.com/2015/04/14/is-the-etsy-ipo-valuation-justified/"
         },
         "seekingalpha.com/2015/04/the-right-price-for-stock-a-3-step-valuation-method": {
             "title": "The Right Price For The Right Stock - A 3-Step Stock Valuation Method...",
@@ -71,9 +80,9 @@
             "date": "2015-04-14",
             "author_name": "SeekingAlpha.com",
             "categories": "stock-valuation",
-            "tags": "price,stock,stock_valuation,valuation,investors,growth,value,appreciation",
+            "tags": "look,price,dividend,investors,stock,stock_valuation,valuation,method,value",
             "recuweb_url": "http://en.recuweb.com/stock-valuation/seekingalpha.com/2015/04/the-right-price-for-stock-a-3-step-valuation-method",
-            "resource_url": "http://www.google.com/search?q=stock%2Bvaluation%2Bstock%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=stock%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://seekingalpha.com/article/3070006-the-right-price-for-the-right-stock-a-3-step-stock-valuation-method"
         },
         "ritholtz.com/2015/04/what-metric-should-be-used-for-stock-valuations-the-big-picture": {
@@ -82,10 +91,20 @@
             "date": "2015-04-14",
             "author_name": "Barry Ritholtz",
             "categories": "stock-valuation,dividends",
-            "tags": "picture,stocks,stock_valuations,valuations,valuation,metric,into,inc,market",
+            "tags": "cap,yield,stocks,stock_valuations,valuations,valuation,metric,should,market",
             "recuweb_url": "http://en.recuweb.com/dividends/ritholtz.com/2015/04/what-metric-should-be-used-for-stock-valuations-the-big-picture",
             "resource_url": "http://www.google.com/search?q=stock%2Bvaluation%2Bstock%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://ritholtz.com/blog/2015/04/what-metric-should-be-used-for-stock-valuations/"
+        },
+        "investorplace.com/2015/04/pandora-p-stock-jumps-on-spotify-s-valuation-but-why": {
+            "title": "Pandora (P) Stock Jumps on Spotify's Valuation But Why?",
+            "snippet": "Pandora (P) stock quickly jumped in early trading Monday after Spotify scored a 8.4 billion valuation. But does Pandora deserve it?",
+            "date": "2015-04-13",
+            "author_name": "John Divine",
+            "tags": "valuation,why,stock,trading,billion",
+            "recuweb_url": "http://en.recuweb.com/investorplace.com/2015/04/pandora-p-stock-jumps-on-spotify-s-valuation-but-why",
+            "resource_url": "http://www.google.com/search?q=stock%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://investorplace.com/2015/04/pandora-p-stock-jumps-on-spotifys-8-4b-valuation-but-why/"
         },
         "reddit.com/2015/04/stock-valuation-models": {
             "title": "Stock Valuation Models...",
@@ -96,27 +115,6 @@
             "recuweb_url": "http://en.recuweb.com/stock-valuation/reddit.com/2015/04/stock-valuation-models",
             "resource_url": "http://www.reddit.com/search.rss?q=stock%2Bvaluation%2Bstock%2Bvaluation&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/StockMarket/comments/32781r/stock_valuation_models/"
-        },
-        "seekingalpha.com/2015/04/renesola-good-stock-trading-at-distressed-valuations": {
-            "title": "ReneSola - Good Stock Trading At Distressed Valuations...",
-            "snippet": "ReneSola (NYSE:SOL) is a comparatively new entrant in the solar module business. The company started out as a polysilicon manufacturer and supplier after.",
-            "date": "2015-04-10",
-            "author_name": "SeekingAlpha.com",
-            "categories": "business",
-            "tags": "stock,trading,valuations,business,company",
-            "recuweb_url": "http://en.recuweb.com/business/seekingalpha.com/2015/04/renesola-good-stock-trading-at-distressed-valuations",
-            "resource_url": "http://www.google.com/search?q=stock%2Bvaluation%2Bstock%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://seekingalpha.com/article/3060136-renesola-good-stock-trading-at-distressed-valuations"
-        },
-        "seekingalpha.com/2015/04/5-low-p-e-value-stocks-yielding-2%-or-higher-seeking": {
-            "title": "5 Low P/E Value-Stocks Yielding 2% Or Higher Seeking Alpha...",
-            "snippet": "The P/E ratio is one of the oldest valuation metrics used. It is calculated as the market value per share divided by earnings per share. A high P/E ratio infers that investors expect strong future earnings growth, or the stock is...",
-            "date": "2015-04-07",
-            "author_name": "SeekingAlpha.com",
-            "tags": "strong,ratio,seeking,seeking_alpha,alpha,stocks,stock,value,valuation,metrics,market,per,share,earnings,high,investors,growth",
-            "recuweb_url": "http://en.recuweb.com/seekingalpha.com/2015/04/5-low-p-e-value-stocks-yielding-2%-or-higher-seeking",
-            "resource_url": "http://www.google.com/search?q=stock%2Bvaluation%2Bstock%2Bvaluation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://seekingalpha.com/article/3055886-5-low-p-e-value-stocks-yielding-2-percent-or-higher"
         }
     }
 }
