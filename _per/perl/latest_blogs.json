@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "perl",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/perl/",
@@ -11,16 +11,60 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/perl/perl/blogs.json"
     },
     "items": {
-        "blogs.perl.org/2015/04/a-general-profile-photo-that-looks-in-the-camera-polettix": {
-            "title": "A general profile photo that looks in the camera polettix...",
-            "snippet": "After looking at today's issue of Perl Weekly, I remembered of a nice advice by MJD that basically boils down to: make faces look at the content, or at least not look away from it. My photo loaded on Gravatar was looking...",
-            "date": "2015-04-27",
-            "author_name": "Flavio Poletti",
+        "blogs.perl.org/2015/05/mini-cpan-pr-challenge-distros-available-in-nyc-perl-hackathon": {
+            "title": "Mini CPAN PR Challenge Distros available in NYC Perl Hackathon...",
+            "snippet": "As promised here is the list of CPAN distributions for the Mini CPAN PR Challenge at the. NYC Perl Hackathon 2015. Mini CPAN Pull Request Challenge Distros. If you are attending the hackathon and participating in the...",
+            "date": "2015-05-01",
+            "author_name": "Charlie Gonzalez",
             "categories": "perl",
-            "tags": "looking,looks,away,perl",
-            "recuweb_url": "http://en.recuweb.com/perl/blogs.perl.org/2015/04/a-general-profile-photo-that-looks-in-the-camera-polettix",
+            "tags": "hackathon,participating,here,perl",
+            "recuweb_url": "http://en.recuweb.com/perl/blogs.perl.org/2015/05/mini-cpan-pr-challenge-distros-available-in-nyc-perl-hackathon",
             "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogs.perl.org/users/polettix/2015/04/a-general-profile-photo-that-looks-in-the-camera.html"
+            "source_url": "http://blogs.perl.org/users/itcharlie/2015/05/mini-cpan-pr-challenge-distros-available-in-nyc-perl-hackathon-2015-wiki.html"
+        },
+        "blogs.perl.org/2015/05/qa-hackathon-2015-and-pause-on-plack-kenichi-perl-org": {
+            "title": "QA Hackathon 2015 and PAUSE on Plack Kenichi... - Perl. org...",
+            "snippet": "At the previous QA hackathons, I spent most of my time on improving various aspects of CPANTS. However, I usually couldn't see what I implemented there online, because it takes about a day to analyze everything. All I could...",
+            "date": "2015-05-01",
+            "author_name": "Kenichi Ishigaki",
+            "categories": "perl",
+            "tags": "because,spent,perl,org",
+            "recuweb_url": "http://en.recuweb.com/perl/blogs.perl.org/2015/05/qa-hackathon-2015-and-pause-on-plack-kenichi-perl-org",
+            "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.perl.org/users/kenichi_ishigaki/2015/05/qa-hackathon-2015-and-pause-on-plack.html"
+        },
+        "perltricks.com/2015/04/parsing-perl-5-pod-with-6": {
+            "title": "Parsing Perl 5 pod with Perl 6 -...",
+            "snippet": "I've just finished developing a Perl 5 pod parser written in Perl 6. Developing the grammar was surprisingly easy, which is a testament to Perl 6 as I'm no genius coder. With help from the folks at perl6, I did learn some...",
+            "date": "2015-04-30",
+            "author_name": "ExplodingAds.com",
+            "categories": "grammar,perl",
+            "tags": "developing,perl,written",
+            "recuweb_url": "http://en.recuweb.com/perl/perltricks.com/2015/04/parsing-perl-5-pod-with-6",
+            "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://perltricks.com/article/170/2015/4/30/Parsing-Perl-5-pod-with-Perl-6"
+        },
+        "blogs.perl.org/2015/04/you-too-can-hack-on-metacpan-at-the-2015-new-york": {
+            "title": "You Too Can Hack on MetaCPAN at the 2015 New York... - Perl. org...",
+            "snippet": "I'm happy to say that I'll be participating in the 2015 New York Perl Hackathon. I'd like to thank Bloomberg, L.P. for sponsoring me so that I can attend this event. While I'm at the hackathon, I hope to continue my work on...",
+            "date": "2015-04-29",
+            "author_name": "Olaf Alders",
+            "categories": "perl",
+            "tags": "hackathon,participating,metacpan,perl,org",
+            "recuweb_url": "http://en.recuweb.com/perl/blogs.perl.org/2015/04/you-too-can-hack-on-metacpan-at-the-2015-new-york",
+            "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.perl.org/users/olaf_alders/2015/04/you-too-can-hack-on-metacpan-at-the-2015-new-york-perl-hackathon.html"
+        },
+        "webdev965.wordpress.com/2015/04/what-should-perl-programmers-know-while-developing-in": {
+            "title": "What Should Perl Programmers Know While Developing in Perl...",
+            "snippet": "Perl is known as The Duct Tape of the Internet: The 21st century is well dominated by Web industry. Every second, there are thousands of websites being launched on the internet. There is always something happening there. If we say the web world is a...",
+            "date": "2015-04-28",
+            "author_name": "kenmiller542",
+            "categories": "internet,perl",
+            "tags": "thousands,perl,developing",
+            "recuweb_url": "http://en.recuweb.com/perl/webdev965.wordpress.com/2015/04/what-should-perl-programmers-know-while-developing-in",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=perl%2Bperl&rss=1&lng=en",
+            "source_url": "http://webdev965.wordpress.com/2015/04/28/what-should-perl-programmers-know-while-developing-in-perl/"
         },
         "blogs.perl.org/2015/04/how-i-spent-my-2015-perl-qa-hackathon-olaf-alders": {
             "title": "How I Spent My 2015 Perl QA Hackathon Olaf Alders...",
@@ -28,40 +72,29 @@
             "date": "2015-04-27",
             "author_name": "Olaf Alders",
             "categories": "hacking,perl",
-            "tags": "away,perl,hackathon,week,perl_qa_hackathon,berlin",
+            "tags": "perl,hackathon,perl_qa_hackathon,spent,berlin,metacpan",
             "recuweb_url": "http://en.recuweb.com/perl/blogs.perl.org/2015/04/how-i-spent-my-2015-perl-qa-hackathon-olaf-alders",
             "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.perl.org/users/olaf_alders/2015/04/how-i-spent-my-2015-perl-qa-hackathon.html"
         },
-        "niceperl.blogspot.com/2015/04/where-we-turn-perl-inside-out-clxxxii-stackoverflow-report": {
-            "title": "where we turn Perl inside out: (clxxxii) stackoverflow perl report...",
-            "snippet": "(clxxxii) stackoverflow perl report. This is the ten most rated questions at Stack Overflow last week. Between brackets: question score/answers count Build date: 2015-04-26 06:20:29 GMT...",
-            "date": "2015-04-26",
-            "author_name": "prz",
-            "categories": "perl",
-            "tags": "week,stack,perl,report,build",
-            "recuweb_url": "http://en.recuweb.com/perl/niceperl.blogspot.com/2015/04/where-we-turn-perl-inside-out-clxxxii-stackoverflow-report",
-            "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://niceperl.blogspot.com/2015/04/clxxxii-stackoverflow-perl-report.html"
-        },
         "blogs.perl.org/2015/04/perl-qa-hackathon-2015-lichtkind": {
             "title": "Perl QA Hackathon 2015 lichtkind...",
-            "snippet": "yeah me too.... Or lets call it insights from an imposterer. I just came becasue i like the people and I could visit my brother and maybe Berlin art galeries. (which I did). I knew the place because German Perl Workshop two...",
+            "snippet": "yeah me too.... Or lets call it insights from an imposterer. I just came because I like the people and I could visit my brother and maybe Berlin art galleries. (which I did). I knew the place because German Perl Workshop two...",
             "date": "2015-04-26",
             "author_name": "lichtkind",
             "categories": "perl",
-            "tags": "perl,perl_workshop,workshop,perl_qa_hackathon,hackathon,berlin",
+            "tags": "perl,perl_workshop,workshop,because,perl_qa_hackathon,hackathon,berlin",
             "recuweb_url": "http://en.recuweb.com/perl/blogs.perl.org/2015/04/perl-qa-hackathon-2015-lichtkind",
             "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.perl.org/users/lichtkind/2015/04/perl-qa-hackathon-2015.html"
         },
         "blogs.perl.org/2015/04/all-the-perl-books-catalogue-andrew-shitov": {
             "title": "All the Perl Books catalogue Andrew Shitov...",
-            "snippet": "Let me announce my new Perl related site devoted to all the Perl books ever published:. This is a collection of the Perl book covers, primarily from the private library of Liz and Wendy. You might have seen...",
+            "snippet": "Hi guys,. Let me announce my new Perl related site devoted to all the Perl books ever published:. This is a collection of the Perl book covers, primarily from the private library of Liz and Wendy. You might...",
             "date": "2015-04-26",
             "author_name": "Andrew Shitov",
             "categories": "perl",
-            "tags": "seen,perl",
+            "tags": "books,perl,liz",
             "recuweb_url": "http://en.recuweb.com/perl/blogs.perl.org/2015/04/all-the-perl-books-catalogue-andrew-shitov",
             "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.perl.org/users/andrew_shitov/2015/04/all-the-perl-books-catalogue.html"
@@ -72,21 +105,10 @@
             "date": "2015-04-26",
             "author_name": "Neil Bowers",
             "categories": "perl",
-            "tags": "hackathon,perl",
+            "tags": "here,hackathon,perl",
             "recuweb_url": "http://en.recuweb.com/perl/blogs.perl.org/2015/04/sponsors-for-the-qa-hackathon-neilb",
             "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.perl.org/users/neilb/2015/04/sponsors-for-the-qa-hackathon.html"
-        },
-        "dagolden.com/2015/04/perl-qa-hackathon-2015-report-david-golden": {
-            "title": "Perl QA Hackathon 2015 report David Golden...",
-            "snippet": "The Perl QA Hackathon is the one time during the year when I get to set aside concentrated time to scratch my itches about the Perl ecosystem things that have been bugging all year that I just haven't had a chance to work...",
-            "date": "2015-04-24",
-            "author_name": "dagolden",
-            "categories": "perl",
-            "tags": "perl,perl_qa_hackathon,hackathon,report",
-            "recuweb_url": "http://en.recuweb.com/perl/dagolden.com/2015/04/perl-qa-hackathon-2015-report-david-golden",
-            "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://dagolden.com/index.php/2425/perl-qa-hackathon-2015-report/"
         },
         "blogs.perl.org/2015/04/perl-qa-hackathon-2015-renormalist": {
             "title": "Perl QA Hackathon 2015 Renormalist...",
@@ -94,32 +116,10 @@
             "date": "2015-04-24",
             "author_name": "Renormalist",
             "categories": "perl",
-            "tags": "hackathon,report,perl,perl_qa_hackathon",
+            "tags": "hackathon,perl,perl_qa_hackathon",
             "recuweb_url": "http://en.recuweb.com/perl/blogs.perl.org/2015/04/perl-qa-hackathon-2015-renormalist",
             "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.perl.org/users/steffen_schwigon/2015/04/perl-qa-hackathon-2015.html"
-        },
-        "hostingkb.wordpress.com/2015/04/finding-suspicious-perl-scripts": {
-            "title": "Finding suspicious Perl scripts...",
-            "snippet": "!/usr/bin/perl The above line may need to be changed to point at your version of Perl This script attempts to find malicious files/scripts on your machine. It specifically looks for...",
-            "date": "2015-04-14",
-            "author_name": "Riyas",
-            "categories": "perl",
-            "tags": "looks,files,changed,point,perl,version",
-            "recuweb_url": "http://en.recuweb.com/perl/hostingkb.wordpress.com/2015/04/finding-suspicious-perl-scripts",
-            "resource_url": "http://en.search.wordpress.com/?q=perl%2Bperl&f=feed&page=1",
-            "source_url": "http://hostingkb.wordpress.com/2015/04/13/finding-suspicious-perl-scripts/"
-        },
-        "onionstand.blogspot.com/2015/03/how-to-add-online-code-badges-your-perl-projects": {
-            "title": "How to add online code badges to your Perl projects...",
-            "snippet": "If you hang around Github you might have seen a lot of projects adding extra information to their README files in the form of badges, like so: Not only do they make your project's Github page look cooler, they also help developers, from curious...",
-            "date": "2015-03-14",
-            "author_name": "garu",
-            "categories": "perl",
-            "tags": "files,seen,perl",
-            "recuweb_url": "http://en.recuweb.com/perl/onionstand.blogspot.com/2015/03/how-to-add-online-code-badges-your-perl-projects",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=perl%2Bperl&rss=1&lng=en",
-            "source_url": "http://onionstand.blogspot.com/2015/03/how-to-add-online-code-badges-to-your.html"
         }
     }
 }
