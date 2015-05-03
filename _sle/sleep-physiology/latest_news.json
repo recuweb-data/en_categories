@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "sleep-physiology",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/sleep-physiology/",
@@ -11,25 +11,35 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/sleep-physiology/sleep-physiology/blogs.json"
     },
     "items": {
+        "futurity.org/2015/05/how-fat-tissue-controls-brain-s-energy-levels-futurity-research-news": {
+            "title": "How fat tissue controls brain's energy levels - Futurity: Research News...",
+            "snippet": "How fat tissue controls brain's energy levelsFuturity: Research NewsThe hypothalamus is a part of the brain known to have important roles in maintaining the body's physiology, including regulating body temperature, sleep cycles, heart rate, blood...",
+            "date": "2015-05-01",
+            "categories": "physiology",
+            "tags": "important,part,brain,controls,physiology,sleep",
+            "recuweb_url": "http://en.recuweb.com/physiology/futurity.org/2015/05/how-fat-tissue-controls-brain-s-energy-levels-futurity-research-news",
+            "resource_url": "http://news.google.com/?hl=en&q=sleep%2Bphysiology&output=atom&nord=1",
+            "source_url": "http://futurity.org/body-fat-enzyme-brain-911712/"
+        },
+        "huffingtonpost.com/2015/04/why-am-i-so-bad-at-accurately-judging-my-sleep-huffington": {
+            "title": "Why Am I So Bad At Accurately Judging My Sleep? - Huffington Post...",
+            "snippet": "Why Am I So Bad At Accurately Judging My Sleep?Huffington PostKnutson cited a study, recently published in the American Journal of Physiology, that explored both subjective and objective awareness of sleep deprivation in a small group of eight...",
+            "date": "2015-04-30",
+            "categories": "physiology",
+            "tags": "american,study,why,sleep,physiology",
+            "recuweb_url": "http://en.recuweb.com/physiology/huffingtonpost.com/2015/04/why-am-i-so-bad-at-accurately-judging-my-sleep-huffington",
+            "resource_url": "http://news.google.com/?hl=en&q=sleep%2Bphysiology%2Bsleep%2Bphysiology&output=atom&nord=1",
+            "source_url": "http://huffingtonpost.com/2015/04/27/i-think-i-slept-well-but-who-knows_n_7154036.html"
+        },
         "sleepreviewmag.com/2015/04/sleep-medicine-professional-wins-american-physiological-society-award-review": {
             "title": "Sleep Medicine Professional Wins American Physiological Society Award - Sleep Review...",
             "snippet": "Sleep Medicine Professional Wins American Physiological Society AwardSleep ReviewThe American Physiological Society (APS) awarded a sleep medicine professional with its Physiology in Perspective: The Walter B. Cannon Award Lectureship. Masashi...",
             "date": "2015-04-11",
             "categories": "society,medicine,physiology",
-            "tags": "sleep,sleep_medicine,medicine,physiology",
+            "tags": "american,sleep,sleep_medicine,medicine,physiology",
             "recuweb_url": "http://en.recuweb.com/physiology/sleepreviewmag.com/2015/04/sleep-medicine-professional-wins-american-physiological-society-award-review",
-            "resource_url": "http://news.google.com/?hl=en&q=sleep%2Bphysiology&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=sleep%2Bphysiology%2Bsleep%2Bphysiology&output=atom&nord=1",
             "source_url": "http://sleepreviewmag.com/2015/04/sleep-medicine-professional-wins-american-physiological-society-award/"
-        },
-        "ccjdigital.com/2015/02/sleep-science-fleets-using-software-to-write-their-own-hos-rules": {
-            "title": "Sleep science: fleets using software to write their own HOS rules...",
-            "snippet": "In 2007, the Salt Lake City-based refrigerated carrier created its own HOS rules using sleep physiology. Drivers have to get two days of nighttime sleep every seven-day period and at least 6 hours of sleep every 24 hours to be compliant. The fleet...",
-            "date": "2015-02-25",
-            "categories": "science,physiology",
-            "tags": "every,created,sleep,science,physiology",
-            "recuweb_url": "http://en.recuweb.com/physiology/ccjdigital.com/2015/02/sleep-science-fleets-using-software-to-write-their-own-hos-rules",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sleep%2Bphysiology&format=RSS&cc=us",
-            "source_url": "http://ccjdigital.com/sleep-science-technology-helps-fleets-write-their-own-hos-rules/"
         },
         "bizjournals.com/2015/02/rest-easy-mgh-scientists-unlock-crucial-component-of-dream-sleep": {
             "title": "Rest easy - MGH scientists unlock crucial component of dream sleep...",
@@ -46,7 +56,7 @@
             "snippet": "The benefits of sleep are dependent on normal sleep physiology and patterns. Natural sleep is composed of non-rapid eye movement (NREM) sleep and rapid eye movement (REM) sleep alternating every 90 min in humans. Each stage provides different...",
             "date": "2015-02-06",
             "categories": "physiology",
-            "tags": "different,alternating,every,composed,non,benefits,neurons,rem,sleep,normal,physiology,natural,nrem,each",
+            "tags": "different,rem,sleep,normal,physiology,natural,nrem",
             "recuweb_url": "http://en.recuweb.com/physiology/medicalresearch.com/2015/02/optogenetics-pinpoint-neurons-that-drive-rem-sleep",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sleep%2Bphysiology&format=RSS&cc=us",
             "source_url": "http://medicalresearch.com/sleep-disorders/optogenetics-pinpoint-neurons-that-drive-rem-sleep/11431/"
@@ -56,20 +66,10 @@
             "snippet": "Current sleep aids do not effectively restore normal sleep physiology or timing and as a result do not fulfill the important functions of natural sleep. To develop new strategies for reproducing natural sleep, we need to understand the control of...",
             "date": "2015-02-04",
             "categories": "physiology",
-            "tags": "understand,understand-the-control,develop,develop-new,develop-new-strategies,strategies,strategies-for-reproducing,reproducing,reproducing-natural,natural,ing,result,fulfill,fulfill-the-important,important,important-functions,functions,functions-of-natural,aids,effectively,effectively-restore,restore,brain,different,mgh,sleep,current,normal,physiology",
+            "tags": "understand,understand-the-control,controls,develop,develop-new,develop-new-strategies,strategies,strategies-for-reproducing,reproducing,reproducing-natural,natural,ing,result,fulfill,fulfill-the-important,important,important-functions,functions,functions-of-natural,aids,effectively,effectively-restore,restore,brain,different,mgh,sleep,current,normal,physiology",
             "recuweb_url": "http://en.recuweb.com/physiology/news-medical.net/2015/02/mgh-mit-researchers-reveal-how-the-brain-controls-different-sleep-states",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sleep%2Bphysiology&format=RSS&cc=us",
             "source_url": "http://news-medical.net/news/20150204/MGH-MIT-researchers-reveal-how-the-brain-controls-different-sleep-states.aspx"
-        },
-        "sciencedaily.com/2015/02/neurons-important-for-induction-of-natural-rem-sleep-identified": {
-            "title": "Neurons important for induction of natural REM sleep identified...",
-            "snippet": "Natural sleep is composed of alternating cycles of non-REM and REM sleep, each of which provide different benefits. Current sleep aids do not effectively restore normal sleep physiology or timing and as a result do not fulfill the important...",
-            "date": "2015-02-03",
-            "categories": "physiology",
-            "tags": "ing,result,fulfill,fulfill-the-important,important,aids,effectively,effectively-restore,restore,each,different,benefits,composed,alternating,non,natural,neurons,rem,sleep,current,normal,physiology",
-            "recuweb_url": "http://en.recuweb.com/physiology/sciencedaily.com/2015/02/neurons-important-for-induction-of-natural-rem-sleep-identified",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sleep%2Bphysiology&format=RSS&cc=us",
-            "source_url": "http://sciencedaily.com/releases/2015/02/150203123423.htm"
         },
         "medscape.com/2014/09/fibromyalgia-the-latest-in-diagnosis-and-care": {
             "title": "Fibromyalgia: The Latest in Diagnosis and Care...",
@@ -86,7 +86,7 @@
             "snippet": "Furthermore, the same signaling molecules (cytokines) that are produced during inflammation by the immune system are involved in sleep physiology. Therefore, there is a strong connection between the immune system and sleep, and this may explain why...",
             "date": "2013-10-06",
             "categories": "molecules,physiology",
-            "tags": "between,patients,sleep,physiology",
+            "tags": "why,between,patients,sleep,physiology",
             "recuweb_url": "http://en.recuweb.com/physiology/dailyrx.com/2013/10/restless-legs-syndrome-is-common-among-arthritic-patients",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sleep%2Bphysiology&format=RSS&cc=us",
             "source_url": "http://dailyrx.com/restless-legs-syndrome-common-among-arthritic-patients"
