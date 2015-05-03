@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "java",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/java/",
@@ -11,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/java/java/blogs.json"
     },
     "items": {
-        "decorahnewspapers.com/2015/04/dragonfly-books-java-john-s-coffeehouse-to-host-acclaimed-author-benjamin": {
-            "title": "Dragonfly Books, Java John's Coffeehouse to host acclaimed author Benjamin... - Decorah Journal...",
-            "snippet": "Decorah JournalDragonfly Books, Java John's Coffeehouse to host acclaimed author Benjamin...Decorah JournalDragonfly Books and Java John's are hosting the return to Decorah of acclaimed author Benjamin Percy. Percy will talk about his new book, The...",
-            "date": "2015-04-27",
+        "arstechnica.com/2015/05/googles-dart-language-on-android-aims-for-java-free-120-fps": {
+            "title": "Googles Dart language on Android aims for Java-free, 120 FPS apps...",
+            "snippet": "Non-game Android apps are normally written in Java, but a group inside Google is experimenting with a whole new way of writing Android apps using Dart, Google's in-house Web development language. It's Android apps with no Java, a focus on speed,...",
+            "date": "2015-05-02",
+            "categories": "java,google",
+            "tags": "java,free,apps,using,web",
+            "recuweb_url": "http://en.recuweb.com/google/arstechnica.com/2015/05/googles-dart-language-on-android-aims-for-java-free-120-fps",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=us",
+            "source_url": "http://arstechnica.com/gadgets/2015/05/01/googles-dart-language-on-android-aims-for-java-free-120-fps-apps/"
+        },
+        "technical.ly/2015/05/java-tech-lead": {
+            "title": "Java Tech Lead -...",
+            "snippet": "Java Tech are looking for a Java Technical Lead for a long term contract position in Brooklyn,NY. Preferred only local candidates who can come for a F2F interview. REQUIRED SKILLS: A minimum of 8 years of experience in leading and managing...",
+            "date": "2015-05-02",
             "categories": "java",
-            "tags": "java",
-            "recuweb_url": "http://en.recuweb.com/java/decorahnewspapers.com/2015/04/dragonfly-books-java-john-s-coffeehouse-to-host-acclaimed-author-benjamin",
-            "resource_url": "http://news.google.com/?hl=en&q=java%2Bjava&output=atom&nord=1",
-            "source_url": "http://decorahnewspapers.com/Content/News/Local-News/Article/Dragonfly-Books-Java-John-s-Coffeehouse-to-host-acclaimed-author-Benjamin-Percy-April-27/2/10/37387"
+            "tags": "experience,leading,inter,java,looking",
+            "recuweb_url": "http://en.recuweb.com/java/technical.ly/2015/05/java-tech-lead",
+            "resource_url": "http://news.google.com/?hl=en&q=java&output=atom&nord=1",
+            "source_url": "http://technical.ly/job/java-tech-lead/"
         },
-        "wired.com/2015/04/google-faces-enormous-forces-in-fight-over-the-future-of-android": {
-            "title": "Google Faces Enormous Forces In Fight Over the Future of Android...",
-            "snippet": "But the roots of the probe stretch across the Atlantic and well into the past. In 2010, enterprise software giant Oracle sued Google over the way Android made use of the Java programming language. Oracle had assumed control of Java a year earlier...",
-            "date": "2015-04-27",
-            "categories": "google,java",
-            "tags": "way,into,android,enterprise,software,oracle,java",
-            "recuweb_url": "http://en.recuweb.com/java/wired.com/2015/04/google-faces-enormous-forces-in-fight-over-the-future-of-android",
+        "technical.ly/2015/05/senior-java-developer-selling": {
+            "title": "Senior Java Developer (Selling) -...",
+            "snippet": "Senior Java Developer (Selling) is a growing company dedicated to innovation and teamwork. We are currently seeking a Sr. Java Developer (Selling) for our client in the IT Services domain. We value our professionals, providing comprehensive...",
+            "date": "2015-05-02",
+            "categories": "java",
+            "tags": "java,developer,seeking,company",
+            "recuweb_url": "http://en.recuweb.com/java/technical.ly/2015/05/senior-java-developer-selling",
+            "resource_url": "http://news.google.com/?hl=en&q=java&output=atom&nord=1",
+            "source_url": "http://technical.ly/job/senior-java-developer-selling/"
+        },
+        "fairfaxtimes.com/2015/05/trace-bundy-brings-his-acoustic-guitar-to-jammin-java": {
+            "title": "Trace Bundy brings his acoustic guitar to Jammin Java...",
+            "snippet": "Trace Bundy was an engineer who followed the black-and-white rules of math and science. But when he decided to become a full-time musician, he couldnt rely on precedents or logic. I had to make a choice between teaching, which was a safe job, and...",
+            "date": "2015-05-02",
+            "categories": "teaching,science,java",
+            "tags": "job,java",
+            "recuweb_url": "http://en.recuweb.com/java/fairfaxtimes.com/2015/05/trace-bundy-brings-his-acoustic-guitar-to-jammin-java",
             "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=us",
-            "source_url": "http://wired.com/2015/04/google-faces-enormous-forces-fight-future-android/"
+            "source_url": "http://fairfaxtimes.com/article/20150501/ENTERTAINMENT/150509985/1063/trace-bundy-brings-his-acoustic-guitar-to-jammin-java&template=fairfaxTimes"
         },
-        "theregister.co.uk/2015/04/ninety-per-cent-of-java-blackhats-migrate-to-footling-flash": {
-            "title": "NINETY PER CENT of Java blackhats migrate to footling Flash...",
-            "snippet": "RSA 2015 Almost every Java-hacking blackhat is now popping Adobe Flash, after Microsoft's hard-line patch policy made it harder to target techs such as Java. The stricken scum now face a choice: work harder to find Java zero-days or abandon ship and...",
-            "date": "2015-04-27",
-            "categories": "policy,hacking,java",
-            "tags": "choice,java",
-            "recuweb_url": "http://en.recuweb.com/java/theregister.co.uk/2015/04/ninety-per-cent-of-java-blackhats-migrate-to-footling-flash",
+        "automatedtrader.net/2015/05/java-programmer-front-office": {
+            "title": "Java Programmer - Front Office...",
+            "snippet": "Top investment bank based in lower Manhattan is seeking a strong associate level core java developer to join their front-office facing credit derivatives team. This vital part of the bank's credit business is seeking an experience core java...",
+            "date": "2015-05-01",
+            "categories": "credit,business,java",
+            "tags": "credit,business,seeking,experience,developer,java",
+            "recuweb_url": "http://en.recuweb.com/java/automatedtrader.net/2015/05/java-programmer-front-office",
             "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=us",
-            "source_url": "http://theregister.co.uk/2015/04/27/ninety_percent_of_java_blackhats_now_finger_flash/"
+            "source_url": "http://automatedtrader.net/ijob/452431234237/java-programmer-_-front-office"
         },
-        "whatech.com/2015/04/software-company-anahata-announces-melbournes-retail-cloud-services": {
-            "title": "Software Company Anahata Announces Melbournes Retail Cloud Services...",
+        "digitaltrends.com/2015/05/you-can-now-create-minecraft-mods-using-java-in-visual-studio": {
+            "title": "You can now create Minecraft mods using Java in Visual Studio - Digital Trends...",
+            "snippet": "Digital TrendsYou can now create Minecraft mods using Java in Visual StudioDigital TrendsDuring its BUILD developer conference, Microsoft announced that you can now create Minecraft mods in Visual Studio using Java, thanks to a new add-in. The new...",
+            "date": "2015-05-01",
+            "categories": "java",
+            "tags": "announced,developer,using,create,java",
+            "recuweb_url": "http://en.recuweb.com/java/digitaltrends.com/2015/05/you-can-now-create-minecraft-mods-using-java-in-visual-studio",
+            "resource_url": "http://news.google.com/?hl=en&q=java&output=atom&nord=1",
+            "source_url": "http://digitaltrends.com/gaming/minecraft-modding-visual-studio-java-add-in/"
+        },
+        "marketwired.com/2015/04/azul-systems-showcases-cutting-edge-java-solutions-at-conferences-throughout-may": {
+            "title": "Azul Systems Showcases Cutting-Edge Java Solutions at Conferences Throughout May and June 2015...",
+            "snippet": "SUNNYVALE, CALIFORNIA--(Marketwired - April 30, 2015) - Azul Systems (Azul), the award-winning leader in Java runtime solutions, today announced it will be showcasing and presenting its market-leading technology at multiple shows throughout May and...",
+            "date": "2015-04-30",
+            "categories": "technology,java",
+            "tags": "leading,technology,announced,solutions,java",
+            "recuweb_url": "http://en.recuweb.com/java/marketwired.com/2015/04/azul-systems-showcases-cutting-edge-java-solutions-at-conferences-throughout-may",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=us",
+            "source_url": "http://marketwired.com/press-release/azul-systems-showcases-cutting-edge-java-solutions-conferences-throughout-may-june-2015-2014938.htm"
+        },
+        "kansan.com/2015/04/best-coffee-shop-java-break": {
+            "title": "Best Coffee Shop: Java Break...",
+            "snippet": "When the thoughts of finals become a nagging, ever-present stressor, graduate students Krishna Ghimire from Nepal and Prasad Shripathi from India suggest meditation and yoga. A free workshop tonight will allow students to learn from leading yogic...",
+            "date": "2015-04-30",
+            "categories": "students,meditation,yoga,java,coffee",
+            "tags": "leading,java,free",
+            "recuweb_url": "http://en.recuweb.com/coffee/kansan.com/2015/04/best-coffee-shop-java-break",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=us",
+            "source_url": "http://kansan.com/best-coffee-shop-java-break/image_237edca4-ef52-11e4-ac05-376270ff2acf.html"
+        },
+        "javaworld.com/2015/04/http-2-for-java-developers": {
+            "title": "HTTP/2 for Java developers...",
+            "snippet": "HTTP/2 was approved in February 2015 as the successor to the original web communication protocol. While it is in the last stages of finalization, the standard has already been implemented by early adopters such as Jetty and Netty, and will be...",
+            "date": "2015-04-30",
+            "categories": "java",
+            "tags": "web,java,developers",
+            "recuweb_url": "http://en.recuweb.com/java/javaworld.com/2015/04/http-2-for-java-developers",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=us",
+            "source_url": "http://javaworld.com/article/2916548/java-web-development/http-2-for-java-developers.html"
+        },
+        "benzinga.com/2015/04/software-company-anahata-upgrades-to-centos7-a-strategic-ict-application": {
+            "title": "Software Company Anahata Upgrades to CentOS7, a Strategic ICT Application...",
             "snippet": "This enables a reduction in upfront and ongoing licensing fees. Anahata is an Oracle Certified Partner and delivers custom software solutions based on Oracle Technology, such as Java, Java Enterprise Edition, MySQL or Oracle Database. The...",
-            "date": "2015-04-27",
+            "date": "2015-04-30",
             "categories": "database,technology,java,mysql",
-            "tags": "oracle,enterprise,solutions,software,software_company,software_company_anahata,company,company_anahata,company_anahata_announces,anahata,anahata_announces,announces,java",
-            "recuweb_url": "http://en.recuweb.com/mysql/whatech.com/2015/04/software-company-anahata-announces-melbournes-retail-cloud-services",
+            "tags": "oracle,database,technology,solutions,software,company,java",
+            "recuweb_url": "http://en.recuweb.com/mysql/benzinga.com/2015/04/software-company-anahata-upgrades-to-centos7-a-strategic-ict-application",
             "resource_url": "http://www.bing.com/news/search?first=1&q=java%2Bjava&format=RSS&cc=us",
-            "source_url": "http://whatech.com/business-software/press-release/57022-software-company-anahata-announces-melbourne-s-retail-cloud-services"
-        },
-        "streetinsider.com/2015/04/software-company-anahata-announces-an-ideal-choice-for-java-ide-in": {
-            "title": "Software Company Anahata Announces an Ideal Choice for Java IDE in 2015...",
-            "snippet": "Anahata the software development Perth company situated in Perth Australia. It focuses on assessing, planning, executing software application operations and maintains the customized ICT application. The software solutions provided by Anahata are...",
-            "date": "2015-04-27",
-            "categories": "java",
-            "tags": "solutions,application,company,java,java_ide,ide,ideal,ideal_choice,choice,software,software_company,software_company_anahata,company_anahata,company_anahata_announces,anahata,anahata_announces,announces",
-            "recuweb_url": "http://en.recuweb.com/java/streetinsider.com/2015/04/software-company-anahata-announces-an-ideal-choice-for-java-ide-in",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=us",
-            "source_url": "http://streetinsider.com/Press+Releases/Software+Company+Anahata+Announces+an+Ideal+Choice+for+Java+IDE+in+2015/10489856.html"
-        },
-        "virtual-strategy.com/2015/04/software-company-anahata-announces-an-ideal-choice-for-java-ide-in": {
-            "title": "Software Company Anahata Announces an Ideal Choice for Java IDE in 2015 - Virtual-Strategy Magazine...",
-            "snippet": "Software Company Anahata Announces an Ideal Choice for Java IDE in 2015Virtual-Strategy Magazine (press release)Anahata has announced its commitment with NetBeans IDE the reason being the updated versions of Java EE, Java and Java FX systems. As...",
-            "date": "2015-04-27",
-            "categories": "java",
-            "tags": "ide,java,java_ide,ideal,ideal_choice,choice,software,software_company,software_company_anahata,company,company_anahata,company_anahata_announces,anahata,anahata_announces,announces",
-            "recuweb_url": "http://en.recuweb.com/java/virtual-strategy.com/2015/04/software-company-anahata-announces-an-ideal-choice-for-java-ide-in",
-            "resource_url": "http://news.google.com/?hl=en&q=java%2Bjava&output=atom&nord=1",
-            "source_url": "http://virtual-strategy.com/2015/04/27/software-company-anahata-announces-ideal-choice-java-ide-2015"
-        },
-        "blogs.msdn.com/2015/04/app-v-5-on-java-virtualization-strategies": {
-            "title": "App-V 5: On Java Virtualization Strategies...",
-            "snippet": "Throughout the past 15 years, from its origins in Softricity, one of App-Vs primary use cases has been addressing complex version-dependent Java run-time ecosystems. The Application-to-Application Isolation model of App-V particularly using...",
-            "date": "2015-04-26",
-            "categories": "java",
-            "tags": "application,java",
-            "recuweb_url": "http://en.recuweb.com/java/blogs.msdn.com/2015/04/app-v-5-on-java-virtualization-strategies",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=us",
-            "source_url": "http://blogs.msdn.com/b/gladiator/archive/2015/04/26/app-v-5-on-java-virtualization-strategies.aspx"
-        },
-        "patch.com/2015/04/did-the-starbucks-glitch-delay-your-friday-night-java-jolt": {
-            "title": "Did the Starbucks Glitch Delay Your Friday Night Java Jolt? -...",
-            "snippet": "the Starbucks Glitch Delay Your Friday Night Java Jolt? said their registers are now functioning and all of their stores are open for business this morning. Starbucks posted the following statement about the coffee drama on Friday night: The point...",
-            "date": "2015-04-25",
-            "categories": "coffee,business,java",
-            "tags": "ing,business,java",
-            "recuweb_url": "http://en.recuweb.com/java/patch.com/2015/04/did-the-starbucks-glitch-delay-your-friday-night-java-jolt",
-            "resource_url": "http://news.google.com/?hl=en&q=java%2Bjava&output=atom&nord=1",
-            "source_url": "http://patch.com/california/piedmont/did-starbucks-glitch-delay-your-friday-night-java-jolt-piedmont-0"
-        },
-        "auburnpub.com/2015/04/java-with-the-gents-lends-support-to-victims-of-crime-in": {
-            "title": "Java with the Gents lends support to victims of crime in Cayuga County - Auburn Citizen...",
-            "snippet": "Auburn CitizenJava with the Gents lends support to victims of crime in Cayuga CountyAuburn CitizenJava With the Gents is the annual fundraising event held by the Child Advocacy Center of Cayuga County and SAVAR (Sexual Assault Victims Advocate...",
-            "date": "2015-04-25",
-            "categories": "java",
-            "tags": "java",
-            "recuweb_url": "http://en.recuweb.com/java/auburnpub.com/2015/04/java-with-the-gents-lends-support-to-victims-of-crime-in",
-            "resource_url": "http://news.google.com/?hl=en&q=java%2Bjava&output=atom&nord=1",
-            "source_url": "http://auburnpub.com/news/local/java-with-the-gents-lends-support-to-victims-of-crime/article_9c95540d-c434-5c5c-bca2-d3438a0df474.html"
-        },
-        "androidauthority.com/2015/04/deal-learn-the-basics-of-java-with-this-developer-course-bundle": {
-            "title": "Deal: Learn the basics of Java with this developer course bundle for 86% off...",
-            "snippet": "Finding an inexpensive and convenient way to start building apps for Android can sometimes be difficult, but thats why we have the wonderful AA Deals Store. Learn all of the Java essentials on your own time with the Java Developer Course Bundle...",
-            "date": "2015-04-24",
-            "categories": "java",
-            "tags": "developer,way,java,apps,android",
-            "recuweb_url": "http://en.recuweb.com/java/androidauthority.com/2015/04/deal-learn-the-basics-of-java-with-this-developer-course-bundle",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=us",
-            "source_url": "http://androidauthority.com/java-developer-course-bundle-deal-603778/"
+            "source_url": "http://benzinga.com/pressreleases/15/04/p5459901/software-company-anahata-upgrades-to-centos7-a-strategic-ict-applicatio"
         }
     }
 }
