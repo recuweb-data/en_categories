@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "psychology",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/psychology/",
@@ -11,93 +11,82 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/psychology/psychology/blogs.json"
     },
     "items": {
+        "psychcentral.com/2015/05/psychology-around-the-net-may-2-2015-world-of": {
+            "title": "Psychology Around the Net: May 2, 2015 World of Psychology...",
+            "snippet": "This week's Psychology Around the Net covers information about childhood bullying, emotional intelligence, learning to navigate others'personalities, and more.",
+            "date": "2015-05-02",
+            "author_name": "Alicia Sparks",
+            "categories": "learning,psychology",
+            "tags": "psychology,world,week",
+            "recuweb_url": "http://en.recuweb.com/psychology/psychcentral.com/2015/05/psychology-around-the-net-may-2-2015-world-of",
+            "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://psychcentral.com/blog/archives/2015/05/02/psychology-around-the-net-may-2-2015/"
+        },
+        "psychologytoday.com/2015/05/4-character-strengths-sustain-u2-s-success-psychology-today": {
+            "title": "4 Character Strengths Sustain U2's Success Psychology Today...",
+            "snippet": "How does U2 reflect a connection culture? One reason is the band's many character strengths that they express and appreciate in one another, such as love, humility, and appreciation of beauty and excellence.",
+            "date": "2015-05-01",
+            "author_name": "Ryan M. Niemiec Psy.D.",
+            "categories": "love,culture,psychology",
+            "tags": "another,psychology,psychology_today",
+            "recuweb_url": "http://en.recuweb.com/psychology/psychologytoday.com/2015/05/4-character-strengths-sustain-u2-s-success-psychology-today",
+            "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://psychologytoday.com/blog/what-matters-most/201505/4-character-strengths-sustain-u2-s-success"
+        },
+        "psychologytoday.com/2015/05/junk-food-gut-and-brain-psychology-today": {
+            "title": "Junk Food, Gut, and Brain Psychology Today...",
+            "snippet": "People who eat mostly whole foods, meaning minimally processed foods that don't need a label to tell you what is in it, tend to have better mental health. Why is that the case? It could be due to how these foods affect the gut.",
+            "date": "2015-05-01",
+            "author_name": "Emily Deans M.D.",
+            "categories": "foods,food,mental-health,health,psychology",
+            "tags": "better,mental,mental-health,health,brain,psychology,psychology_today,people,why",
+            "recuweb_url": "http://en.recuweb.com/psychology/psychologytoday.com/2015/05/junk-food-gut-and-brain-psychology-today",
+            "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://psychologytoday.com/blog/evolutionary-psychiatry/201505/junk-food-gut-and-brain"
+        },
+        "psychologytoday.com/2015/05/kim-kardashian-how-does-a-marriage-survive-infertility": {
+            "title": "Kim Kardashian: How Does a Marriage Survive Infertility...",
+            "snippet": "Psychology Today. Psychology Today 1991-2015 Sussex Publishers, LLC and 2002-2015 Sussex Directories, Inc. About Privacy Policy Terms...",
+            "date": "2015-05-01",
+            "author_name": "Jane Greer Ph.D.",
+            "categories": "privacy,policy,psychology,marriage",
+            "tags": "psychology,psychology_today",
+            "recuweb_url": "http://en.recuweb.com/marriage/psychologytoday.com/2015/05/kim-kardashian-how-does-a-marriage-survive-infertility",
+            "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://psychologytoday.com/blog/shrink-wrap/201505/kim-kardashian-how-does-marriage-survive-infertility"
+        },
+        "psychologytoday.com/2015/05/there-s-a-hidden-dark-side-to-being-an-entrepreneur-psychology": {
+            "title": "There's a Hidden Dark Side to Being an Entrepreneur Psychology...",
+            "snippet": "The hidden secret among many entrepreneurs is the psychological price they pay for their choices. The demands of business ownership may place entrepreneurs at a higher risk of specific mental health problems.",
+            "date": "2015-05-01",
+            "author_name": "Amy Morin",
+            "categories": "business,mental-health,health,psychology",
+            "tags": "mental,mental-health,health,problems,secret,psychological,psychology",
+            "recuweb_url": "http://en.recuweb.com/psychology/psychologytoday.com/2015/05/there-s-a-hidden-dark-side-to-being-an-entrepreneur-psychology",
+            "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://psychologytoday.com/blog/what-mentally-strong-people-dont-do/201505/theres-hidden-dark-side-being-entrepreneur"
+        },
+        "theguardian.com/2015/04/episode-6-psychology-the-guardian": {
+            "title": "Episode 6, Psychology - The Guardian...",
+            "snippet": "We know it means worldwide chaos, rising sea levels and the possible end of civilisation but we find it easier to look away. Is there anything we can do about it? In this episode we call in psychologists, social scientists and...",
+            "date": "2015-04-29",
+            "author_name": "Narrated by Aleks Krotoski and produced by Francesca Panetta, Alannah Chance, Nabeelah Shabbir, Matt Hill, Jason Phipps and sound design by Chris Wood",
+            "categories": "psychology",
+            "tags": "scientists,psychologists,look,psychology,social",
+            "recuweb_url": "http://en.recuweb.com/psychology/theguardian.com/2015/04/episode-6-psychology-the-guardian",
+            "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theguardian.com/environment/audio/2015/apr/29/podcast-biggest-story-psychology-episode6"
+        },
         "verbosestoic.wordpress.com/2015/04/myers-on-evolutionary-psychology-again": {
             "title": "Myers On Evolutionary Psychology (again).",
             "snippet": "So P.Z. Myers is going on about evolutionary psychology again. The problem, though is that like so many times before the criticisms raised against evolutionary psychology are either problems with evolution, psychology, or are just the literal...",
             "date": "2015-04-27",
             "author_name": "verbosestoic",
             "categories": "psychology",
-            "tags": "psychology",
+            "tags": "problems,problem,evolutionary,evolutionary_psychology,psychology",
             "recuweb_url": "http://en.recuweb.com/psychology/verbosestoic.wordpress.com/2015/04/myers-on-evolutionary-psychology-again",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=psychology%2Bpsychology&rss=1&lng=en",
             "source_url": "http://verbosestoic.wordpress.com/2015/04/27/myers-on-evolutionary-psychology-again/"
-        },
-        "thenextweb.com/2015/04/5-psychology-principles-every-visual-marketer-should-know": {
-            "title": "5 Psychology Principles Every Visual Marketer Should Know...",
-            "snippet": "Visual marketers need to choose images that we can identify and empathise with, but how to achieve that? Ritika Puri says psychology has the answer.",
-            "date": "2015-04-26",
-            "author_name": "Ritika Puri",
-            "categories": "psychology",
-            "tags": "identify,psychology,principles",
-            "recuweb_url": "http://en.recuweb.com/psychology/thenextweb.com/2015/04/5-psychology-principles-every-visual-marketer-should-know",
-            "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://thenextweb.com/insider/2015/04/26/5-psychology-principles-every-visual-marketer-should-know/"
-        },
-        "psychologytoday.com/2015/04/sitting-can-drain-brain-power-and-stifle-creativity-psychology-today": {
-            "title": "Sitting Can Drain Brain Power and Stifle Creativity Psychology Today...",
-            "snippet": "Sitting has become an epidemic. Not only does sitting increase health risks and obesitysitting can also stifle creative thinking and disrupt cognitive engagement.",
-            "date": "2015-04-26",
-            "author_name": "Christopher Bergland",
-            "categories": "health,psychology",
-            "tags": "health,psychology,psychology_today,brain,power",
-            "recuweb_url": "http://en.recuweb.com/psychology/psychologytoday.com/2015/04/sitting-can-drain-brain-power-and-stifle-creativity-psychology-today",
-            "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://psychologytoday.com/blog/the-athletes-way/201504/sitting-can-drain-brain-power-and-stifle-creativity"
-        },
-        "psychcentral.com/2015/04/psychology-around-the-net-april-25-2015-world-of": {
-            "title": "Psychology Around the Net: April 25, 2015 World of Psychology...",
-            "snippet": "This week's Psychology Around the Net covers how to tell if you're making a good first impression, how the smell of sweat can help spread happiness (seriously), how your stress can be passed along via DNA, and more.",
-            "date": "2015-04-25",
-            "author_name": "Alicia Sparks",
-            "categories": "happiness,psychology",
-            "tags": "happiness,psychology,world,week",
-            "recuweb_url": "http://en.recuweb.com/psychology/psychcentral.com/2015/04/psychology-around-the-net-april-25-2015-world-of",
-            "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://psychcentral.com/blog/archives/2015/04/25/psychology-around-the-net-april-25-2015/"
-        },
-        "psmag.com/2015/04/the-psychology-and-politics-of-nightclub-surveillance-video": {
-            "title": "The Psychology and the Politics of Nightclub Surveillance Video...",
-            "snippet": "Last week, pro football player Aaron Hernandez was found guilty of first-degree murder for the killing of his friend Odin Lloyd after a disagreement at a nightclub in June 2013. Surveillance video footage played an important...",
-            "date": "2015-04-23",
-            "author_name": "Lauren Kirchner",
-            "categories": "football,surveillance,psychology,politics",
-            "tags": "degree,psychology,week",
-            "recuweb_url": "http://en.recuweb.com/politics/psmag.com/2015/04/the-psychology-and-politics-of-nightclub-surveillance-video",
-            "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://psmag.com/health-and-behavior/the-psychology-and-the-politics-of-nightclub-surveillance-video"
-        },
-        "blog.bufferapp.com/2015/04/the-psychology-of-facebook-why-we-like-share-comment-buffer": {
-            "title": "The Psychology of Facebook: Why We Like, Share, Comment - Buffer...",
-            "snippet": "A study reported in Psychology Today showed that spending more time using social networks and engaging in instant message chats predicted more ability to be virtual empathic and that virtual empathy was a good indicator...",
-            "date": "2015-04-23",
-            "author_name": "Courtney Seiter",
-            "categories": "psychology,facebook",
-            "tags": "ability,using,psychology,psychology_today,why,social",
-            "recuweb_url": "http://en.recuweb.com/facebook/blog.bufferapp.com/2015/04/the-psychology-of-facebook-why-we-like-share-comment-buffer",
-            "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.bufferapp.com/psychology-of-facebook"
-        },
-        "vox.com/2015/04/the-psychology-of-why-so-many-people-bite-their-nails-vox": {
-            "title": "The psychology of why so many people bite their nails - Vox...",
-            "snippet": "\"Everybody picks and bites to a degree,\" says Fred Penzel, a psychologist who helps patients deal with nail biting, hair plucking, and other body-focused repetitive disorders. \"When it gets to the point that people are doing...",
-            "date": "2015-04-22",
-            "author_name": "Joseph Stromberg",
-            "categories": "psychology",
-            "tags": "helps,degree,why,psychology,people,psychologist",
-            "recuweb_url": "http://en.recuweb.com/psychology/vox.com/2015/04/the-psychology-of-why-so-many-people-bite-their-nails-vox",
-            "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://vox.com/2015/4/22/8464365/nail-biting"
-        },
-        "lifehacker.com/2015/04/ask-an-expert-all-about-therapy-and-psychology-lifehacker": {
-            "title": "Ask an Expert: All About Therapy and Psychology - Lifehacker...",
-            "snippet": "Say hello to Dr. Ken Carter, a professor of psychology at Oxford College, Emory University. He's a clinical psychologist who knows all about what goes into therapy as well as the common, outdated misconceptions about...",
-            "date": "2015-04-20",
-            "author_name": "Andy Orin",
-            "categories": "therapy,university,college,psychology",
-            "tags": "university,psychology,psychologist,into",
-            "recuweb_url": "http://en.recuweb.com/psychology/lifehacker.com/2015/04/ask-an-expert-all-about-therapy-and-psychology-lifehacker",
-            "resource_url": "http://www.google.com/search?q=psychology%2Bpsychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://lifehacker.com/ask-an-expert-all-about-therapy-and-psychology-1698943749"
         },
         "huffingtonpost.com/2015/04/the-psychology-and-philosophy-of-no-regrets-huffington": {
             "title": "The Psychology (And Philosophy) Of 'No Regrets'- Huffington Post...",
@@ -105,10 +94,21 @@
             "date": "2015-04-20",
             "author_name": "Farah Mohamed",
             "categories": "happiness,life,psychology",
-            "tags": "justice,happiness,any,life,psychology,american",
+            "tags": "life,psychology,american",
             "recuweb_url": "http://en.recuweb.com/psychology/huffingtonpost.com/2015/04/the-psychology-and-philosophy-of-no-regrets-huffington",
             "resource_url": "http://www.google.com/search?q=psychology&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://huffingtonpost.com/2015/04/20/psychology-philosophy-no-regrets_n_7099316.html"
+        },
+        "reverendmatthalearchive.wordpress.com/2015/04/the-psychology-of-masses": {
+            "title": "The Psychology Of The Masses...",
+            "snippet": "As White Racial Loyalists, our thinking is necessarily separate from that of the masses of our people who have thus far succumbed to the thought control of the...",
+            "date": "2015-04-15",
+            "author_name": "creativityreligionnet",
+            "categories": "psychology",
+            "tags": "psychology,people",
+            "recuweb_url": "http://en.recuweb.com/psychology/reverendmatthalearchive.wordpress.com/2015/04/the-psychology-of-masses",
+            "resource_url": "http://en.search.wordpress.com/?q=psychology%2Bpsychology&f=feed&page=1",
+            "source_url": "http://reverendmatthalearchive.wordpress.com/writings/editorials/the-psychology-of-the-masses/"
         },
         "varma-vedantham.blogspot.com/2015/04/what-is-knowledge-ch-1-part-15": {
             "title": "What is Knowledge: Ch-1. Part-15.",
@@ -116,7 +116,7 @@
             "date": "2015-04-11",
             "author_name": "Ramavarma Parameswaran",
             "categories": "physics,life,psychology",
-            "tags": "life,world,way,psychology",
+            "tags": "life,world,another,way,psychology",
             "recuweb_url": "http://en.recuweb.com/psychology/varma-vedantham.blogspot.com/2015/04/what-is-knowledge-ch-1-part-15",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=psychology%2Bpsychology&rss=1&lng=en",
             "source_url": "http://varma-vedantham.blogspot.com/2015/04/what-is-knowledge-ch-1-part-15.html"
