@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "association-football",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/association-football/",
@@ -11,49 +11,82 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/association-football/association-football/blogs.json"
     },
     "items": {
+        "pinknews.co.uk/2015/04/israeli-football-association-bans-use-of-rainbow-flag-pinknews": {
+            "title": "Israeli Football Association 'bans'use of rainbow flag PinkNews...",
+            "snippet": "The Israeli Football Association has warned teams to stick to regulations - after a pride flag was used to mark a corner during a match.",
+            "date": "2015-04-29",
+            "author_name": "Joe Williams",
+            "categories": "football",
+            "tags": "pride,pride-flag,flag,flag-was-used,match,stick,stick-to-regulations,regulations,warned,rainbow,rainbow-flag,israeli,israeli_football,israeli_football_association,football,football_association,association,bans,teams",
+            "recuweb_url": "http://en.recuweb.com/football/pinknews.co.uk/2015/04/israeli-football-association-bans-use-of-rainbow-flag-pinknews",
+            "resource_url": "http://www.google.com/search?q=association%2Bfootball%2Bassociation%2Bfootball&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://pinknews.co.uk/2015/04/29/israeli-football-association-bans-use-of-rainbow-flag/"
+        },
+        "worldwidelgbt.wordpress.com/2015/04/israeli-football-association-bans-use": {
+            "title": "Israeli Football Association bans use...",
+            "snippet": "Israeli Football Association bans use of rainbow flag - The Israeli Football Association has warned teams to stick to regulations - after a pride flag was used to...",
+            "date": "2015-04-29",
+            "author_name": "recorder169",
+            "categories": "football",
+            "tags": "pride,pride-flag,flag,flag-was-used,stick,stick-to-regulations,regulations,warned,bans,rainbow,rainbow-flag,israeli,israeli_football,israeli_football_association,football,football_association,association,teams",
+            "recuweb_url": "http://en.recuweb.com/football/worldwidelgbt.wordpress.com/2015/04/israeli-football-association-bans-use",
+            "resource_url": "http://en.search.wordpress.com/?q=association%2Bfootball%2Bassociation%2Bfootball&f=feed&page=1",
+            "source_url": "http://worldwidelgbt.wordpress.com/2015/04/29/israeli-football-association-bans-use/"
+        },
+        "abc7chicago.com/2015/04/former-south-elgin-high-school-football-player-sues-ihsa-to-protect": {
+            "title": "Former South Elgin High School football player sues IHSA to protect...",
+            "snippet": "... is suing the Illinois High School Association. WLS. Former South Elgin High School football player Alex Pierscionek is suing the Illinois High School Association in an effort to protect future student athletes from concussions.",
+            "date": "2015-04-28",
+            "author_name": "unknown",
+            "categories": "school,football",
+            "tags": "association,football",
+            "recuweb_url": "http://en.recuweb.com/football/abc7chicago.com/2015/04/former-south-elgin-high-school-football-player-sues-ihsa-to-protect",
+            "resource_url": "http://www.google.com/search?q=association%2Bfootball&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://abc7chicago.com/sports/ex-south-elgin-hs-football-player-sues-ihsa-to-protect-athletes-from-concussions/685120/"
+        },
+        "nyasatimes.com/2015/04/football-association-of-malawi-apologizes-to-northern-region": {
+            "title": "Football Association of Malawi apologizes to Northern Region...",
+            "snippet": "Football Association of Malawi (FAM) through its President Walter Nyamilandu have apologized to the sponsor of the Northern Region Football Association League sponsor Bishop Abraham Simama following irregularities...",
+            "date": "2015-04-27",
+            "author_name": "Nyasa Times",
+            "categories": "football",
+            "tags": "league,sponsor,region,football,football_association,association,ing",
+            "recuweb_url": "http://en.recuweb.com/football/nyasatimes.com/2015/04/football-association-of-malawi-apologizes-to-northern-region",
+            "resource_url": "http://www.google.com/search?q=association%2Bfootball&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://nyasatimes.com/2015/04/27/football-association-of-malawi-apologizes-to-northern-region-league-sponsor/"
+        },
+        "pinknews.co.uk/2015/04/israeli-football-association-urged-to-punish-team-for-using-rainbow": {
+            "title": "Israeli football association urged to punish team for using rainbow...",
+            "snippet": "A solicitor in Jerusalem has urged the Israeli football association to put the team on trial, after it replaced a corner flag with a rainbow flag.",
+            "date": "2015-04-27",
+            "author_name": "Joe Williams",
+            "categories": "football",
+            "tags": "flag,team,rainbow,israeli,football,association",
+            "recuweb_url": "http://en.recuweb.com/football/pinknews.co.uk/2015/04/israeli-football-association-urged-to-punish-team-for-using-rainbow",
+            "resource_url": "http://www.google.com/search?q=association%2Bfootball%2Bassociation%2Bfootball&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://pinknews.co.uk/2015/04/27/israeli-football-association-urged-to-punish-team-punished-for-using-rainbow-flag-as-a-corner/"
+        },
         "ytsports.wordpress.com/2015/04/infront-struck-new-deals-with-three-asian-football-associations": {
             "title": "Infront struck new deals with three Asian football associations...",
             "snippet": "By Inside World Football Infront Sports & Media, the Swiss-based sports marketing company recently acquired by Chinese businessman Wang Jianlin's Dalian Wanda Group, has unveiled new deals with three...",
             "date": "2015-04-21",
             "author_name": "Yutang Sports",
-            "categories": "sport,marketing,football",
-            "tags": "group,sports,world,football,asian",
+            "categories": "marketing,sport,football",
+            "tags": "group,sports,world,football,struck",
             "recuweb_url": "http://en.recuweb.com/football/ytsports.wordpress.com/2015/04/infront-struck-new-deals-with-three-asian-football-associations",
             "resource_url": "http://en.search.wordpress.com/?q=association%2Bfootball%2Bassociation%2Bfootball&f=feed&page=1",
             "source_url": "http://ytsports.wordpress.com/2015/04/21/infront-struck-new-deals-with-three-asian-football-associations/"
         },
-        "bloguin.com/2015/04/the-coach-association-game-a-lightning-quick-survey-of-college": {
-            "title": "The Coach Association Game: A Lightning-Quick Survey of College...",
-            "snippet": "What's a quick way to survey a large chunk of the landscape in both college football and basketball? Try the Coach Association Game, a self-explanatory version of the word association games you played as a kid on long...",
-            "date": "2015-04-21",
-            "author_name": "Matt Zemek",
-            "categories": "basketball,landscape,college,football",
-            "tags": "long,association,game,football,games,played",
-            "recuweb_url": "http://en.recuweb.com/football/bloguin.com/2015/04/the-coach-association-game-a-lightning-quick-survey-of-college",
-            "resource_url": "http://www.google.com/search?q=association%2Bfootball&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bloguin.com/thestudentsection/basketball/the-coach-association-game-a-lightning-quick-survey-of-college-football-and-basketball.html"
-        },
-        "theguardian.com/2015/04/chelsea-facing-striker-shortage-as-didier-drogba-suffers-ankle-injury": {
-            "title": "Chelsea facing striker shortage as Didier Drogba suffers ankle injury...",
-            "snippet": "Patrick Bamford aims high after landing Football League award. Didier Drogba has suffered an ankle injury and is a doubt for Chelsea's match against Arsenal. Photograph: REX Shutterstock/BPI. Press Association. Monday...",
-            "date": "2015-04-20",
-            "author_name": "Press Association",
-            "categories": "football",
-            "tags": "press,press_association,association,against,injury,football,football_league,league,high,photograph,monday",
-            "recuweb_url": "http://en.recuweb.com/football/theguardian.com/2015/04/chelsea-facing-striker-shortage-as-didier-drogba-suffers-ankle-injury",
-            "resource_url": "http://www.google.com/search?q=association%2Bfootball&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/football/2015/apr/20/chelsea-striker-shortage-didier-drogba-injury"
-        },
-        "militarybowl.org/2015/04/football-bowl-association-annual-meeting-celebrates-post-season": {
+        "independencebowl.org/2015/04/football-bowl-association-annual-meeting-celebrates-post-season": {
             "title": "Football Bowl Association Annual Meeting Celebrates Post Season...",
             "snippet": "The annual meeting of the Football Bowl Association (FBA) celebrated a record setting year of payouts, honored an individual for his career long contribution to post-season football and brought together representatives of the...",
             "date": "2015-04-17",
-            "author_name": "mlicursi",
+            "author_name": "Stefan Nolet",
             "categories": "football",
-            "tags": "representatives,long,football,association",
-            "recuweb_url": "http://en.recuweb.com/football/militarybowl.org/2015/04/football-bowl-association-annual-meeting-celebrates-post-season",
+            "tags": "football,association",
+            "recuweb_url": "http://en.recuweb.com/football/independencebowl.org/2015/04/football-bowl-association-annual-meeting-celebrates-post-season",
             "resource_url": "http://www.google.com/search?q=association%2Bfootball&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://militarybowl.org/football-bowl-association-annual-meeting-celebrates-post-season-football/"
+            "source_url": "http://independencebowl.org/football-bowl-association-annual-meeting-celebrates-post-season-football/"
         },
         "bwint.org/2015/04/bwi-italy-italian-football-association-listens-to-union-demands-on": {
             "title": "BWI: Italy: Italian Football Association Listens to Union Demands on...",
@@ -61,7 +94,7 @@
             "date": "2015-04-16",
             "author_name": "unknown",
             "categories": "football",
-            "tags": "world,football,football_association,association",
+            "tags": "world,stop,national,football,football_association,association",
             "recuweb_url": "http://en.recuweb.com/football/bwint.org/2015/04/bwi-italy-italian-football-association-listens-to-union-demands-on",
             "resource_url": "http://www.google.com/search?q=association%2Bfootball%2Bassociation%2Bfootball&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bwint.org/default.asp?Index=6202&Language=EN"
@@ -72,21 +105,10 @@
             "date": "2015-04-16",
             "author_name": "Yutang Sports",
             "categories": "sport,football",
-            "tags": "association,sports,football",
+            "tags": "partnership,development,association,sports,football",
             "recuweb_url": "http://en.recuweb.com/football/ytsports.wordpress.com/2015/04/brazil-guangdong-collaborates-for-grassroots-football-development",
             "resource_url": "http://en.search.wordpress.com/?q=association%2Bfootball%2Bassociation%2Bfootball&f=feed&page=1",
             "source_url": "http://ytsports.wordpress.com/2015/04/16/brazil-guangdong-collaborates-for-grassroots-football-development/"
-        },
-        "usatodayhss.com/2015/04/illinois-state-association-says-concussion-lawsuit-threatens-high": {
-            "title": "Illinois state association says concussion lawsuit 'threatens'high...",
-            "snippet": "In its 16-page motion filed in Cook County Circuit Court, the Illinois High School Association, or IHSA, says it and its 800 member schools have been proactive about improving head-injury management for the 50,000 football...",
-            "date": "2015-04-13",
-            "author_name": "jabarnett13",
-            "categories": "management,school,football",
-            "tags": "injury,school,high,association,threatens,football",
-            "recuweb_url": "http://en.recuweb.com/football/usatodayhss.com/2015/04/illinois-state-association-says-concussion-lawsuit-threatens-high",
-            "resource_url": "http://www.google.com/search?q=association%2Bfootball&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://usatodayhss.com/2015/illinois-state-association-says-concussion-lawsuit-threatens-high-school-football"
         },
         "theguardian.com/2015/04/rotherham-charged-by-football-league-with-fielding-ineligible": {
             "title": "Rotherham charged by Football League with fielding ineligible...",
@@ -94,32 +116,10 @@
             "date": "2015-04-13",
             "author_name": "Press Association",
             "categories": "football",
-            "tags": "press,press_association,association,action,monday,football,football_league,league,rotherham,game,against,photograph",
+            "tags": "association,football,football_league,league,rotherham,manager,game",
             "recuweb_url": "http://en.recuweb.com/football/theguardian.com/2015/04/rotherham-charged-by-football-league-with-fielding-ineligible",
             "resource_url": "http://www.google.com/search?q=association%2Bfootball%2Bassociation%2Bfootball&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://theguardian.com/football/2015/apr/13/rotherham-charged-football-league-fielding-ineligible-player-farrend-rawson"
-        },
-        "magruderfootball.com/2015/04/blue-and-gray": {
-            "title": "Blue and Gray...",
-            "snippet": "The Blue and Gray Football Association is a local youth sports organization designed to support the future of the Magruder High School football team. Through fundraising, the Blue []...",
-            "date": "2015-04-05",
-            "author_name": "magruderhsfootball",
-            "categories": "school,football,sport",
-            "tags": "high,school,football,association,local,sports,support,team",
-            "recuweb_url": "http://en.recuweb.com/sport/magruderfootball.com/2015/04/blue-and-gray",
-            "resource_url": "http://en.search.wordpress.com/?q=association%2Bfootball%2Bassociation%2Bfootball&f=feed&page=1",
-            "source_url": "http://magruderfootball.com/blue-and-gray-football-association/"
-        },
-        "theguardian.com/2015/03/fa-admits-disappointment-after-great-britain-olympic-football-teams": {
-            "title": "FA admits disappointment after Great Britain Olympic football teams...",
-            "snippet": "The Football Association has expressed disappointment after being forced to scrap plans to enter British men's and women's teams for the Rio 2016 Olympics after opposition from the other home nations.",
-            "date": "2015-03-31",
-            "author_name": "Press Association",
-            "categories": "home,football",
-            "tags": "home,football,football_association,association,british",
-            "recuweb_url": "http://en.recuweb.com/football/theguardian.com/2015/03/fa-admits-disappointment-after-great-britain-olympic-football-teams",
-            "resource_url": "http://www.google.com/search?q=association%2Bfootball%2Bassociation%2Bfootball&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/football/2015/mar/31/fa-disappointed-great-britain-olympic-football-teams-rio-2016"
         }
     }
 }
