@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "preferred-stock",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/preferred-stock/",
@@ -29,7 +29,7 @@
             "date": "2015-04-02",
             "author_name": "KristleWicker",
             "categories": "preferred-stock",
-            "tags": "debt,preferred,preferred_stock,stock,equity",
+            "tags": "debt,preferred,preferred_stock,stock",
             "recuweb_url": "http://en.recuweb.com/preferred-stock/dailymotion.com/2015/04/warren-buffett-on-berkshire-hathaway-lbos-private-equity-preferred-stock-debt",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/preferred+stock+preferred+stock/0?af=1",
             "source_url": "http://dailymotion.com/video/x2lln58_warren-buffett-on-berkshire-hathaway-lbos-private-equity-preferred-stock-debt-leverage_news",
@@ -41,7 +41,7 @@
             "date": "2014-09-04",
             "author_name": "Education Unlocked",
             "categories": "education,preferred-stock",
-            "tags": "education,education_unlocked,unlocked,common,preferred,preferred_stock,stock",
+            "tags": "education,common,preferred,preferred_stock,stock",
             "recuweb_url": "http://en.recuweb.com/preferred-stock/youtube.com/2014/09/preferred-stock-characteristics-and-features",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=preferred%2Bstock%2Bpreferred%2Bstock&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=xwwwpie6NX8&feature=youtube_gdata",
@@ -59,25 +59,13 @@
             "source_url": "http://youtube.com/watch?v=_9YRLp_dp6o&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/_9YRLp_dp6o/0.jpg"
         },
-        "youtube.com/2014/08/capital-stock-common-and-preferred": {
-            "title": "Capital Stock (Common Stock and Preferred Stock)...",
-            "snippet": "Capital Stock (Common Stock and Preferred Stock) This video explains the capital stock section of stockholders'equity by discussing the par value and the number of shares authorized, issued, and outstanding. From: Education Unlocked Views: 576 6...",
-            "date": "2014-08-29",
-            "author_name": "Education Unlocked",
-            "categories": "education,preferred-stock",
-            "tags": "education,education_unlocked,unlocked,equity,shares,stock,preferred,preferred_stock,common,common_stock,issued",
-            "recuweb_url": "http://en.recuweb.com/preferred-stock/youtube.com/2014/08/capital-stock-common-and-preferred",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=preferred%2Bstock&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=TZ2uWgtQXBo&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/TZ2uWgtQXBo/0.jpg"
-        },
         "youtube.com/2014/04/preferred-stock-and-common-dividend-allocations": {
             "title": "Preferred Stock and Common Stock Dividend Allocations...",
             "snippet": "Preferred Stock and Common Stock Dividend Allocations In this video, we examine how to allocated dividends that have been declared between preferred and common shares of stock. We look at both cummulative and noncummulative preferred stock and...",
             "date": "2014-04-27",
             "author_name": "Kristin Ingram",
             "categories": "preferred-stock,dividends",
-            "tags": "preferred,preferred_stock,stock,dividends,common,shares,common_stock",
+            "tags": "preferred,preferred_stock,stock,dividends,common",
             "recuweb_url": "http://en.recuweb.com/dividends/youtube.com/2014/04/preferred-stock-and-common-dividend-allocations",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=preferred%2Bstock%2Bpreferred%2Bstock&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=JBdhfrRGjJY&feature=youtube_gdata",
@@ -91,7 +79,7 @@
             "categories": "preferred-stock,education",
             "tags": "common,preferred,preferred-stock,stock,education",
             "recuweb_url": "http://en.recuweb.com/education/youtube.com/2013/11/ch-13-p-2-issue-common-and-preferred-stock",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=preferred%2Bstock&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=preferred%2Bstock%2Bpreferred%2Bstock&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=XSoRhuF7EY8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/XSoRhuF7EY8/0.jpg"
         },
@@ -106,6 +94,18 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/preferred+stock+preferred+stock/0?af=1",
             "source_url": "http://dailymotion.com/video/x16qo44_the-preferred-stock-fraud_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x16qo44_the-preferred-stock-fraud_news"
+        },
+        "youtube.com/2013/10/winans-preferred-stock-studies": {
+            "title": "Winans Preferred Stock Studies...",
+            "snippet": "Winans Preferred Stock Studies Kenneth G. Winans demonstrates his MetaStock Add-on \"Winans Prefered Stock Studies.\" Preferred stocks have historically been one of the best income investments on Wall Street, and the Winans... From: MetaStock Views:...",
+            "date": "2013-10-25",
+            "author_name": "MetaStock",
+            "categories": "preferred-stock",
+            "tags": "stock,preferred,preferred_stock",
+            "recuweb_url": "http://en.recuweb.com/preferred-stock/youtube.com/2013/10/winans-preferred-stock-studies",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=preferred%2Bstock&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=hK-lGTmTlh0&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/hK-lGTmTlh0/0.jpg"
         },
         "youtube.com/2013/07/episode-120-common-and-preferred-stock": {
             "title": "Episode 120: Common and Preferred Stock...",
@@ -125,7 +125,7 @@
             "date": "2013-06-21",
             "author_name": "Classof1",
             "categories": "preferred-stock,finance",
-            "tags": "preferred,preferred_stock,stock,issued",
+            "tags": "preferred,preferred_stock,stock",
             "recuweb_url": "http://en.recuweb.com/finance/dailymotion.com/2013/06/variable-rate-preferred-stock-finance-homework-help",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/preferred+stock+preferred+stock/0?af=1",
             "source_url": "http://dailymotion.com/video/x1140u2_variable-rate-preferred-stock-finance-homework-help-by-classof1-com_school",
