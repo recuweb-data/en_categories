@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "semantic-search",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/semantic-search/",
@@ -11,6 +11,18 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/semantic-search/semantic-search/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/05/pantros-ip-semantic-search-and-analysis-for-patents": {
+            "title": "Pantros IP Semantic Search and Analysis for Patents...",
+            "snippet": "Pantros IP Semantic Search and Analysis for PatentsAuthor: JoesphWinterTags: Pantros IP Semantic Search and Analysis for Patents Posted: 02 May 2015Rating:: 0...",
+            "date": "2015-05-02",
+            "author_name": "JoesphWinter",
+            "categories": "semantic-search",
+            "tags": "semantic,semantic_search,search",
+            "recuweb_url": "http://en.recuweb.com/semantic-search/dailymotion.com/2015/05/pantros-ip-semantic-search-and-analysis-for-patents",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/semantic+search+semantic+search/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2orgiu_pantros-ip-semantic-search-and-analysis-for-patents_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2orgiu_pantros-ip-semantic-search-and-analysis-for-patents_tech"
+        },
         "dailymotion.com/2015/04/google-knowledge-graph-new-semantic-search": {
             "title": "Google KNOWLEDGE GRAPH (NEW SEMANTIC SEARCH)...",
             "snippet": "Google KNOWLEDGE GRAPH (NEW SEMANTIC SEARCH)Author: snoremineTags: Google KNOWLEDGE GRAPH NEW SEMANTIC SEARCH Posted: 21 April 2015Rating:: 0...",
@@ -65,7 +77,7 @@
             "date": "2015-02-16",
             "author_name": "Latent Semantics",
             "categories": "web-development,semantic-search,search-engine",
-            "tags": "search,web,description,semantic,semantic_search,semantic_search_engine,search_engine,engine,cise",
+            "tags": "search,web,description,semantic,semantic_search,engine",
             "recuweb_url": "http://en.recuweb.com/search-engine/youtube.com/2015/02/cise-the-semantic-search-engine-query-development",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=semantic%2Bsearch%2Bsemantic%2Bsearch&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=7KUINxglb9E&feature=youtube_gdata",
@@ -77,23 +89,11 @@
             "date": "2015-02-09",
             "author_name": "David Amerland",
             "categories": "semantic-search",
-            "tags": "david,david_amerland,amerland,build,into,semantic,semantic_search,search",
+            "tags": "david,david_amerland,amerland,semantic,semantic_search,search",
             "recuweb_url": "http://en.recuweb.com/semantic-search/youtube.com/2015/02/serendipity-and-semantic-search",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=semantic%2Bsearch%2Bsemantic%2Bsearch&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=6rXddvyKP7M&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/6rXddvyKP7M/0.jpg"
-        },
-        "youtube.com/2015/02/introduction-to-cise-semantic-search-engine": {
-            "title": "Introduction to CISE Semantic Search Engine...",
-            "snippet": "Introduction to CISE Semantic Search Engine Find out how to build context and quality into your authoring and copy writing with the CISE Semantic Search Engine. Today's example is based on the word inbuilt linguistic algorithms... From: Latent...",
-            "date": "2015-02-08",
-            "author_name": "Latent Semantics",
-            "categories": "semantic-search,search-engine",
-            "tags": "build,into,cise,semantic,semantic_search,semantic_search_engine,search,search_engine,engine",
-            "recuweb_url": "http://en.recuweb.com/search-engine/youtube.com/2015/02/introduction-to-cise-semantic-search-engine",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=semantic%2Bsearch&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=k0k4Kt01A8Q&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/k0k4Kt01A8Q/0.jpg"
         },
         "youtube.com/2014/10/scaling-recommendations-semantic-search-&-data-analytics-with-solr": {
             "title": "Scaling Recommendations, Semantic Search, & Data Analytics with Solr...",
