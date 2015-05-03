@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "jquery",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/jquery/",
@@ -11,16 +11,49 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/jquery/jquery/blogs.json"
     },
     "items": {
-        "9lessons.info/2015/04/google-charts-with-jquery-ajax": {
-            "title": "Google Charts with Jquery Ajax -...",
-            "snippet": "How to do Google Charts with Jquery Ajax. Tutorial focused on Programming, Jquery, Ajax, PHP, Demos, Web Design, Javascript, Software and MySQL.",
-            "date": "2015-04-27",
-            "author_name": "srinivas.tamada@gmail.com (Srinivas Tamada)",
-            "categories": "jquery,google,php,javascript,mysql",
-            "tags": "web,design,jquery,google,tutorial,php,javascript",
-            "recuweb_url": "http://en.recuweb.com/mysql/9lessons.info/2015/04/google-charts-with-jquery-ajax",
-            "resource_url": "http://www.google.com/search?q=jquery&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://9lessons.info/2015/04/google-charts-with-jquery-ajax.html"
+        "mustakbil.com/2015/04/ui-front-end-developer-jobs-in-lahore-pakistan": {
+            "title": "UI/Front End Developer Jobs in Lahore, Pakistan...",
+            "snippet": "We are looking for UI developer with at least 2 years of experience to become a part of our team. Candidate must be good in jquery and can write custom jquery functions and ability to customize plugins as per the requirement. We are looking for...",
+            "date": "2015-04-29",
+            "author_name": "Mustakbil.com",
+            "categories": "jquery",
+            "tags": "ability,write,team,developer,front,front_end,front_end_developer,jquery",
+            "recuweb_url": "http://en.recuweb.com/jquery/mustakbil.com/2015/04/ui-front-end-developer-jobs-in-lahore-pakistan",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=jquery%2Bjquery&rss=1&lng=en",
+            "source_url": "http://mustakbil.com/job/124460/"
+        },
+        "blog.jquery.com/2015/04/jquery-and-released-ios-fail-safe-edition-official": {
+            "title": "jQuery and Released iOS Fail-Safe Edition Official...",
+            "snippet": "Here we are again. It's too late for April Fools, so you can believe us when we tell you that we have two new patch releases for you: jQuery and. These releases include a hot-fix for a rare bug in iOS 8.2 and 8.3.",
+            "date": "2015-04-28",
+            "author_name": "Timmy Willison",
+            "categories": "jquery",
+            "tags": "bug,releases,patch,official,ios,jquery",
+            "recuweb_url": "http://en.recuweb.com/jquery/blog.jquery.com/2015/04/jquery-and-released-ios-fail-safe-edition-official",
+            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.jquery.com/2015/04/28/jquery-1-11-3-and-2-1-4-released-ios-fail-safe-edition/"
+        },
+        "stackoverflow.com/2015/04/convert-form-data-to-javascript-object-with-jquery-stack-overflow": {
+            "title": "Convert form data to JavaScript object with jQuery - Stack Overflow...",
+            "snippet": "How do I convert all elements of my form to a JavaScript object? I'd like to have some way of automatically building a JavaScript object from my form, without having to loop over each element. I do not want a string, as returned...",
+            "date": "2015-04-28",
+            "author_name": "Yisroel",
+            "categories": "javascript,jquery",
+            "tags": "each,elements,javascript,jquery",
+            "recuweb_url": "http://en.recuweb.com/jquery/stackoverflow.com/2015/04/convert-form-data-to-javascript-object-with-jquery-stack-overflow",
+            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/1184624/convert-form-data-to-javascript-object-with-jquery"
+        },
+        "patrykwebproject.blogspot.com/2015/04/javascript-jquery-&-improving-functionality": {
+            "title": "JavaScript/jQuery & Improving Functionality...",
+            "snippet": "Introduction: In this blog entry I will describe the purpose and function of JavaScript and jQuery. I will talk about its use in web development and how they can enhance and extend functionality of websites. JavaScript & Java/Client sided vs Server...",
+            "date": "2015-04-28",
+            "author_name": "(BTEC IT L3 - Web Design)",
+            "categories": "javascript,jquery,java",
+            "tags": "development,websites,purpose,purpose-and-function,function,javascript,jquery,introduction,web,client,server",
+            "recuweb_url": "http://en.recuweb.com/java/patrykwebproject.blogspot.com/2015/04/javascript-jquery-&-improving-functionality",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=jquery%2Bjquery&rss=1&lng=en",
+            "source_url": "http://patrykwebproject.blogspot.com/2015/04/javascript-jquery.html"
         },
         "denniswebproductionproject.blogspot.com/2015/04/jquery-and-javascript": {
             "title": "JQuery and Javascript...",
@@ -28,7 +61,7 @@
             "date": "2015-04-25",
             "author_name": "dennis ly",
             "categories": "jquery,javascript",
-            "tags": "own,website,function,work,jquery,javascript,introduction",
+            "tags": "own,website,websites,purpose,purpose-and-function,function,work,jquery,javascript,introduction",
             "recuweb_url": "http://en.recuweb.com/javascript/denniswebproductionproject.blogspot.com/2015/04/jquery-and-javascript",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=jquery%2Bjquery&rss=1&lng=en",
             "source_url": "http://denniswebproductionproject.blogspot.com/2015/04/introduction-in-this-piece-of-work-i-am.html"
@@ -39,21 +72,10 @@
             "date": "2015-04-23",
             "author_name": "Rafael Xavier de Souza",
             "categories": "internationalization,jquery",
-            "tags": "release,announce,jquery,jquery_foundation,foundation,jquery_blog,announcing,globalize,official,project,library",
+            "tags": "announce,jquery,jquery_foundation,foundation,jquery_blog,announcing,globalize,official,release,project,library",
             "recuweb_url": "http://en.recuweb.com/jquery/blog.jquery.com/2015/04/announcing-globalize-1-0-official-jquery-blog",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.jquery.com/2015/04/23/announcing-globalize-1-0/"
-        },
-        "codyhouse.co/2015/04/jquery-hero-slider-codyhouse": {
-            "title": "jQuery Hero Slider CodyHouse...",
-            "snippet": "Therefore we built for you a ready-to-use jQuery slider, with some built in options like video/image backgrounds and different text alignments. In an attempt to increase user engagement, we replaced the navigation arrows...",
-            "date": "2015-04-22",
-            "author_name": "unknown",
-            "categories": "navigation,jquery",
-            "tags": "user,built,jquery,hero,slider,image,text",
-            "recuweb_url": "http://en.recuweb.com/jquery/codyhouse.co/2015/04/jquery-hero-slider-codyhouse",
-            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://codyhouse.co/gem/hero-slider/"
         },
         "blog.jquery.com/2015/04/announcing-pep-official-jquery-blog": {
             "title": "Announcing PEP Official jQuery Blog...",
@@ -61,7 +83,7 @@
             "date": "2015-04-21",
             "author_name": "Scott Gonzalez",
             "categories": "events,jquery,google",
-            "tags": "work,order,polyfill,pointer,pointer_events,events,jquery,jquery_foundation,foundation,announce,release,jquery_blog,announcing,pep,official,google",
+            "tags": "work,polyfill,pointer,pointer_events,events,jquery,jquery_foundation,foundation,announce,jquery_blog,announcing,pep,official,release,google",
             "recuweb_url": "http://en.recuweb.com/google/blog.jquery.com/2015/04/announcing-pep-official-jquery-blog",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.jquery.com/2015/04/21/announcing-pep-0-3-0/"
@@ -72,54 +94,32 @@
             "date": "2015-04-20",
             "author_name": "(Harri J. Salomaa)",
             "categories": "jquery,javascript",
-            "tags": "jquery,any,design,javascript,libraries",
+            "tags": "jquery,ing,any,client,javascript,libraries,design",
             "recuweb_url": "http://en.recuweb.com/javascript/harrisalomaa.blogspot.com/2015/04/selecting-client-side-framework-for-webbench",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=jquery%2Bjquery&rss=1&lng=en",
             "source_url": "http://harrisalomaa.blogspot.com/2015/04/selecting-client-side-framework-for.html"
         },
-        "sujaykundu.blogspot.com/2015/04/jcoverflip-image-slider": {
-            "title": "jCoverflip Image Slider...",
-            "snippet": "jCoverflip is a compact Jquery Image Slider Plugin that allows you to present featured website content in a visually appealing manner. The plugin is quick setup and is highly configurable, and can run as a Drupal Module or standalone. jCoverflip...",
-            "date": "2015-04-19",
-            "author_name": "(Sujay Kundu)",
-            "categories": "drupal,jquery",
-            "tags": "plugin,website,content,jquery,jquery_image,jquery_image_slider,image,image_slider,slider,highly",
-            "recuweb_url": "http://en.recuweb.com/jquery/sujaykundu.blogspot.com/2015/04/jcoverflip-image-slider",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=jquery%2Bjquery&rss=1&lng=en",
-            "source_url": "http://sujaykundu.blogspot.com/2015/04/jcoverflip-image-slider.html"
+        "ejohn.org/2015/04/john-resig-annotated-version-of-the-original-jquery-release": {
+            "title": "John Resig - Annotated Version of the Original jQuery Release...",
+            "snippet": "Recently I was prompted by Daniel Lamb to try and find old versions of jQuery for his jQuery Archive project. Thankfully I was able to find one in the Internet Archive from just a couple weeks after its release, in January 2006.",
+            "date": "2015-04-07",
+            "author_name": "John Resig",
+            "categories": "internet,jquery",
+            "tags": "project,version,jquery,release,original",
+            "recuweb_url": "http://en.recuweb.com/jquery/ejohn.org/2015/04/john-resig-annotated-version-of-the-original-jquery-release",
+            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ejohn.org/blog/annotated-version-of-the-original-jquery-release/"
         },
-        "hongkiat.com/2015/04/15-jquery-plugins-to-make-smart-sticky-elements-hongkiat": {
-            "title": "15 jQuery Plugins To Make Smart Sticky Elements - Hongkiat...",
-            "snippet": "Called a sticky element, this can be achieved just by using CSS, however, using this method, the effect is not reliable across multiple browsers. That is why we've put together a handful of JS libraries and jQuery plugins that will allow you to...",
-            "date": "2015-04-17",
-            "author_name": "Agus",
-            "categories": "jquery,css",
-            "tags": "libraries,jquery,css",
-            "recuweb_url": "http://en.recuweb.com/css/hongkiat.com/2015/04/15-jquery-plugins-to-make-smart-sticky-elements-hongkiat",
-            "resource_url": "http://www.google.com/search?q=jquery&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://hongkiat.com/blog/sticky-elements-jquery-plugins/"
-        },
-        "hendrixski.wordpress.com/2015/04/adding-only-the-parts-of-jquery-ui-that-you-need-into": {
-            "title": "Adding only the parts of jquery-ui that you need into your requirejs project...",
-            "snippet": "The Problem: I wanted to add sortable columns from jquery-ui to my webapp. The app is built with requirejs, backbonejs, and bootstrap. We have some functionality where a user can add attributes, and then she needs to chose the order. Sounds simple...",
-            "date": "2015-04-17",
-            "author_name": "hendrixski",
+        "blog.jquery.com/2015/03/come-help-the-jquery-foundation-official-blog": {
+            "title": "Come help the jQuery Foundation Official jQuery Blog...",
+            "snippet": "For many years now the jQuery team first, and then the jQuery Foundation as an organization, has helped developers all over the world to write simple, concise, and clean code that isn't affected by all the browser...",
+            "date": "2015-03-25",
+            "author_name": "Aurelio De Rosa",
             "categories": "jquery",
-            "tags": "order,user,built,only,jquery,into,project,simple",
-            "recuweb_url": "http://en.recuweb.com/jquery/hendrixski.wordpress.com/2015/04/adding-only-the-parts-of-jquery-ui-that-you-need-into",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=jquery%2Bjquery&rss=1&lng=en",
-            "source_url": "http://hendrixski.wordpress.com/2015/04/17/adding-only-the-parts-of-jquery-ui-that-you-need-into-your-requirejs-project/"
-        },
-        "bililite.com/2015/04/animating-arbitrary-values-with-jquery": {
-            "title": "Animating arbitrary values with jQuery...",
-            "snippet": "jQuery's animate is useful for animating CSS properties, but there are times that you want to take advantage of the bookkeeping that jQuery provides to animate, with easing functions etc. The flip plugin for Mike Alsup's cycle2 has a clever hack to...",
-            "date": "2015-04-13",
-            "author_name": "Danny",
-            "categories": "jquery,css",
-            "tags": "plugin,jquery,css,provides",
-            "recuweb_url": "http://en.recuweb.com/css/bililite.com/2015/04/animating-arbitrary-values-with-jquery",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=jquery%2Bjquery&rss=1&lng=en",
-            "source_url": "http://bililite.com/blog/2015/04/12/animating-arbitrary-values-with-jquery/"
+            "tags": "developers,world,write,simple,foundation,team,jquery,jquery_foundation,official,jquery_blog,code",
+            "recuweb_url": "http://en.recuweb.com/jquery/blog.jquery.com/2015/03/come-help-the-jquery-foundation-official-blog",
+            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.jquery.com/2015/03/25/come-help-the-jquery-foundation/"
         }
     }
 }
