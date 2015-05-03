@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "afc-ajax",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/afc-ajax/",
@@ -11,15 +11,34 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/afc-ajax/afc-ajax/blogs.json"
     },
     "items": {
-        "uefa.com/2015/04/uefa-europa-league-talking-points": {
-            "title": "UEFA Europa League talking points...",
-            "snippet": "Few believed we could get this far, said midfielder Valeriy Fedorchuk, but last-four opponents SSC Napoli will not take lightly a team with a happy knack of just doing enough and with the scalps of AFC Ajax and Olympiacos FC to their name already...",
-            "date": "2015-04-24",
+        "uefa.com/2015/05/guardiola-the-archetypal-coach-on-pitch-news": {
+            "title": "Guardiola the archetypal 'coach on the pitch'- News - -...",
+            "snippet": "the archetypal 'coach on the pitch'- News - Rossoneri struggled early on as AFC Ajax star Johan Cruyff kept losing his marker Angelo Anquilletti. Sensing the danger, Trapattoni who was marking Sjaak Swart swapped roles with Anquilletti. Cruyff...",
+            "date": "2015-05-01",
             "categories": "afc-ajax",
-            "tags": "afc,afc_ajax,ajax,team,points,uefa,uefa_europa,uefa_europa_league,europa,europa_league,league",
-            "recuweb_url": "http://en.recuweb.com/afc-ajax/uefa.com/2015/04/uefa-europa-league-talking-points",
+            "tags": "afc,afc_ajax,ajax",
+            "recuweb_url": "http://en.recuweb.com/afc-ajax/uefa.com/2015/05/guardiola-the-archetypal-coach-on-pitch-news",
+            "resource_url": "http://news.google.com/?hl=en&q=afc%2Bajax&output=atom&nord=1",
+            "source_url": "http://uefa.com/uefachampionsleague/news/newsid=2241328.html"
+        },
+        "livesoccertv.com/2015/04/dutch-league-pec-zwolle-vs-afc-ajax": {
+            "title": "Dutch League PEC Zwolle vs AFC Ajax...",
+            "snippet": "The published listings of live, re-aired, and on-demand match and program events published on this website are broadcast by the official rights holders. They are available on various platforms such as terrestrial TV, radio, cable, satellite, IPTV,...",
+            "date": "2015-04-29",
+            "categories": "events,rights,afc-ajax,radio",
+            "tags": "match,live,afc,afc_ajax,ajax,dutch,league,pec,pec_zwolle,zwolle",
+            "recuweb_url": "http://en.recuweb.com/radio/livesoccertv.com/2015/04/dutch-league-pec-zwolle-vs-afc-ajax",
             "resource_url": "http://www.bing.com/news/search?first=1&q=afc%2Bajax&format=RSS&cc=us",
-            "source_url": "http://uefa.com/uefaeuropaleague/news/newsid=2239098.html"
+            "source_url": "http://livesoccertv.com/match/1544213/dutch-league-pec-zwolle-vs-afc-ajax/"
+        },
+        "safc.com/2015/04/focus-ronald-koeman-sunderland-afc": {
+            "title": "FOCUS: Ronald Koeman - Sunderland AFC...",
+            "snippet": "Sunderland AFCFOCUS: Ronald KoemanSunderland AFCIt was astonishing feat for an attacking centre-back who was quickly snapped up by Amsterdam giants Ajax after three years at Groningen. Despite never winning a trophy in his debut season with Ajax,...",
+            "date": "2015-04-29",
+            "tags": "afc,ajax",
+            "recuweb_url": "http://en.recuweb.com/safc.com/2015/04/focus-ronald-koeman-sunderland-afc",
+            "resource_url": "http://news.google.com/?hl=en&q=afc%2Bajax&output=atom&nord=1",
+            "source_url": "http://safc.com/news/features/2015/april/focus-ronald-koeman"
         },
         "soccerladuma.co.za/2015/04/ucl-records-cr7-&-messi-have-not-yet-broken": {
             "title": "UCL Records CR7 & Messi Have Not Yet Broken...",
@@ -31,24 +50,14 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=afc%2Bajax&format=RSS&cc=us",
             "source_url": "http://soccerladuma.co.za/news/articles/categories/uefa-champions-league/champions-league-records-ronaldo-messi-have-not-yet-broken/207435"
         },
-        "adweek.com/2015/04/fubotv-has-become-the-tv-everywhere-solution-for-soccer-fans-living": {
-            "title": "fuboTV Has Become the TV Everywhere Solution for Soccer Fans Living Abroad - Lost Remote...",
-            "snippet": "Lost RemotefuboTV Has Become the TV Everywhere Solution for Soccer Fans Living AbroadLost RemotefuboTV has impressively secured deals with seven networks and clubs: beIN Sports, GolTV, BenficaTV, SportTV, Borussia Dortmund, Everton and AFC Ajax.",
-            "date": "2015-04-21",
-            "categories": "afc-ajax,sport",
-            "tags": "afc,afc_ajax,ajax,sports,clubs",
-            "recuweb_url": "http://en.recuweb.com/sport/adweek.com/2015/04/fubotv-has-become-the-tv-everywhere-solution-for-soccer-fans-living",
-            "resource_url": "http://news.google.com/?hl=en&q=afc%2Bajax%2Bafc%2Bajax&output=atom&nord=1",
-            "source_url": "http://adweek.com/lostremote/fubotv-has-become-the-tv-everywhere-solution-for-soccer-fans-living-abroad/51701"
-        },
         "globaltimes.cn/2015/04/interview-ajax-willing-to-play-active-role-in-china-s-football": {
             "title": "Interview: Ajax willing to play active role in China's football reform, says... - Global Times...",
             "snippet": "Interview: Ajax willing to play active role in China's football reform, says...Global TimesAFC Ajax is one of the leading clubs in the Dutch Eredivisie and also one of the largest and most legendary clubs in European football. Its football...",
             "date": "2015-04-10",
             "categories": "football,play",
-            "tags": "clubs,dutch,eredivisie,football,ajax,afc",
+            "tags": "dutch,eredivisie,football,ajax,afc",
             "recuweb_url": "http://en.recuweb.com/play/globaltimes.cn/2015/04/interview-ajax-willing-to-play-active-role-in-china-s-football",
-            "resource_url": "http://news.google.com/?hl=en&q=afc%2Bajax%2Bafc%2Bajax&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=afc%2Bajax&output=atom&nord=1",
             "source_url": "http://globaltimes.cn/content/916232.shtml"
         },
         "nltimes.nl/2015/04/knvb-justice-min-denounce-anti-semitic-fc-utrecht-chants-nl-times": {
@@ -61,42 +70,22 @@
             "resource_url": "http://news.google.com/?hl=en&q=afc%2Bajax%2Bafc%2Bajax&output=atom&nord=1",
             "source_url": "http://nltimes.nl/2015/04/07/knvb-justice-min-denounce-anti-semitic-fc-utrecht-chants/"
         },
-        "beurs.nl/2015/04/afc-ajax-verlengt-contract-bazoer": {
-            "title": "AFC Ajax verlengt contract Bazoer -...",
-            "snippet": "AFC Ajax verlengt contract 6 april 2015 14:17 AMSTERDAM (Dow Jones)--AFC Ajax nv () en Riechedly Bazoer hebben overeenstemming bereikt over de verlenging van het contract van de middenvelder, meldt de Amsterdamse beursgenoteerde voetbalclub...and...",
-            "date": "2015-04-06",
-            "categories": "afc-ajax",
-            "tags": "het,afc,afc_ajax,ajax,bazoer,van",
-            "recuweb_url": "http://en.recuweb.com/afc-ajax/beurs.nl/2015/04/afc-ajax-verlengt-contract-bazoer",
-            "resource_url": "http://news.google.com/?hl=en&q=afc%2Bajax%2Bafc%2Bajax&output=atom&nord=1",
-            "source_url": "http://beurs.nl/nieuws/binnenland/3702624/afc-ajax-verlengt-contract-bazoer"
-        },
         "internationallawoffice.com/2015/03/supreme-court-orders-full-assessment-of-afc-ajax-shirt": {
             "title": "Supreme Court orders full assessment of AFC Ajax shirt...",
             "snippet": "Dutch football club AFC Ajax is one of the most successful in the world. Although AFC Ajax is particularly famous for its achievements, it is also recognised for its jersey. More than 100 years ago, AFC Ajax designed a club strip consisting of white...",
             "date": "2015-03-09",
             "categories": "football,football-club,afc-ajax",
-            "tags": "club,particularly,particularly-famous,famous,achievements,successful,world,football,football-club,afc,afc_ajax,ajax,assessment,supreme,supreme_court,court,orders,shirt,dutch",
+            "tags": "club,football,afc,afc_ajax,ajax,dutch",
             "recuweb_url": "http://en.recuweb.com/afc-ajax/internationallawoffice.com/2015/03/supreme-court-orders-full-assessment-of-afc-ajax-shirt",
             "resource_url": "http://www.bing.com/news/search?first=1&q=afc%2Bajax&format=RSS&cc=us",
             "source_url": "http://internationallawoffice.com/newsletters/Detail.aspx?g=b1e33443-0900-4b46-9d77-bfb77e2354b5"
-        },
-        "internationallawoffice.com/2015/03/supreme-court-orders-full-assessment-of-afc-ajax-shirt-international-law": {
-            "title": "Supreme Court orders full assessment of AFC Ajax shirt - International Law Office (registration)...",
-            "snippet": "Supreme Court orders full assessment of AFC Ajax shirtInternational Law Office (registration)Dutch football club AFC Ajax is one of the most successful in the world. Although AFC Ajax is particularly famous for its achievements, it is also...",
-            "date": "2015-03-08",
-            "categories": "football,football-club,law,afc-ajax",
-            "tags": "particularly,particularly-famous,famous,achievements,successful,world,football,football-club,club,afc,afc_ajax,ajax,assessment,supreme,supreme_court,court,orders,shirt,dutch",
-            "recuweb_url": "http://en.recuweb.com/afc-ajax/internationallawoffice.com/2015/03/supreme-court-orders-full-assessment-of-afc-ajax-shirt-international-law",
-            "resource_url": "http://news.google.com/?hl=en&q=afc%2Bajax&output=atom&nord=1",
-            "source_url": "http://internationallawoffice.com/newsletters/detail.aspx?g=b1e33443-0900-4b46-9d77-bfb77e2354b5"
         },
         "zeenews.india.com/2015/03/afc-ajax-beat-psv-3-1-to-close-the-gap-in": {
             "title": "AFC Ajax beat PSV 3-1 to close the gap in Dutch football league...",
             "snippet": "Eindhoven: AFC Ajax narrowed the gap with Dutch football league leaders PSV Eindhoven to 11 points after a 3-1 win at the Philips Stadion here. PSV were the better team in the first half hour of the match on Sunday. But Ajax opened the scoring.",
             "date": "2015-03-02",
             "categories": "football,afc-ajax",
-            "tags": "team,match,points,football,league,afc,afc_ajax,ajax,psv,dutch,eindhoven,sunday",
+            "tags": "match,football,league,afc,afc_ajax,ajax,dutch,here,sunday",
             "recuweb_url": "http://en.recuweb.com/afc-ajax/zeenews.india.com/2015/03/afc-ajax-beat-psv-3-1-to-close-the-gap-in",
             "resource_url": "http://www.bing.com/news/search?first=1&q=afc%2Bajax&format=RSS&cc=us",
             "source_url": "http://zeenews.india.com/sports/football/afc-ajax-beat-psv-3-1-to-close-the-gap-in-dutch-football-league_1554997.html"
@@ -106,10 +95,20 @@
             "snippet": "AFC Ajax (4-3-3): Jasper Cillessen; Ricardo van Rhijn, Jo\u00ebl Veltman, Niklas Moisander, Nicolai Boilesen; Thulani Serero, Davy Klaassen, Lucas Andersen; Lasse Sch\u00f6ne, Kolbeinn Sig\u00f3rsson, Anwar El Ghazi...",
             "date": "2014-11-04",
             "categories": "afc-ajax",
-            "tags": "afc,afc_ajax,ajax,uefa,league,van",
+            "tags": "jasper,jasper_cillessen,cillessen,live,afc,afc_ajax,ajax,uefa,league",
             "recuweb_url": "http://en.recuweb.com/afc-ajax/barcablaugranes.com/2014/11/uefa-champions-league-afc-ajax-vs-fc-barcelona-live-game-thread",
             "resource_url": "http://www.bing.com/news/search?first=1&q=afc%2Bajax&format=RSS&cc=us",
             "source_url": "http://barcablaugranes.com/2014/11/5/7162869/uefa-champions-league-afc-ajax-vs-fc-barcelona-live-game-thread"
+        },
+        "thehardtackle.com/2013/07/afc-ajax-the-velvet-revolution-of-frank-de-boer": {
+            "title": "AFC Ajax The Velvet Revolution Of Frank De Boer...",
+            "snippet": "When Frank de Boer took over as the boss of his childhood club, Ajax, things were not too rosy. Here is a look at how he has revolutionized the club so far. When Frank de Boer took over as the boss of his childhood club, Ajax, things were not too...",
+            "date": "2013-07-10",
+            "categories": "afc-ajax",
+            "tags": "club,afc,afc_ajax,ajax,here",
+            "recuweb_url": "http://en.recuweb.com/afc-ajax/thehardtackle.com/2013/07/afc-ajax-the-velvet-revolution-of-frank-de-boer",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=afc%2Bajax&format=RSS&cc=us",
+            "source_url": "http://thehardtackle.com/2013/afc-ajax-frank-de-boer-velvet-revolution/"
         }
     }
 }
