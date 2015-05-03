@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "navigation",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/navigation/",
@@ -11,38 +11,104 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/navigation/navigation/blogs.json"
     },
     "items": {
-        "blog.executivebiz.com/2015/04/northrop-to-upgrade-ship-navigation-systems-for-maersk-jeanne": {
-            "title": "Northrop to Upgrade Ship Navigation Systems for Maersk; Jeanne...",
-            "snippet": "Northrop to Upgrade Ship Navigation Systems for Maersk; Jeanne Usher Comments. Published by Anna Forrester on April 27, 2015. Jeanne Usher. A Northrop Grumman business unit will perform upgrades on the radar systems and...",
-            "date": "2015-04-27",
-            "author_name": "Anna Forrester",
-            "categories": "navigation,business,radar",
-            "tags": "upgrades,upgrade,navigation,navigation_systems,systems,northrop,maersk,grumman,business,unit,radar",
-            "recuweb_url": "http://en.recuweb.com/radar/blog.executivebiz.com/2015/04/northrop-to-upgrade-ship-navigation-systems-for-maersk-jeanne",
+        "hackaday.com/2015/04/a-simple-and-inexpensive-gps-navigation-device-hackaday": {
+            "title": "A Simple And Inexpensive GPS Navigation Device Hackaday...",
+            "snippet": "There are plenty of GPS navigation units on the market today, but it's always fun to build something yourself. That's what middelbeek did with his 25 GPS device. He managed to find a few good deals on electronics...",
+            "date": "2015-04-29",
+            "author_name": "Rick Osgood",
+            "categories": "electronics,navigation",
+            "tags": "find,fun,market,gps,gps_navigation,navigation,device,build,few",
+            "recuweb_url": "http://en.recuweb.com/navigation/hackaday.com/2015/04/a-simple-and-inexpensive-gps-navigation-device-hackaday",
+            "resource_url": "http://www.google.com/search?q=navigation%2Bnavigation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://hackaday.com/2015/04/29/a-simple-and-inexpensive-gps-navigation-device/"
+        },
+        "digitaltrends.com/2015/04/apple-files-patent-for-humanized-navigation-system-digital-trends": {
+            "title": "Apple Files Patent for 'Humanized'Navigation System Digital Trends...",
+            "snippet": "Today's navigation systems can find a route to virtually anywhere, but one tech company thinks it can do better at describing that route to human drivers. Apple recently filed a patent application for a humanized navigation...",
+            "date": "2015-04-29",
+            "author_name": "Stephen Edelstein",
+            "categories": "navigation",
+            "tags": "recently,filed,filed-patent,filed-patent-application,patent,patent-application,application,company,human,drivers,systems,system,find,navigation,navigation_system,digital,apple,files,humanized",
+            "recuweb_url": "http://en.recuweb.com/navigation/digitaltrends.com/2015/04/apple-files-patent-for-humanized-navigation-system-digital-trends",
+            "resource_url": "http://www.google.com/search?q=navigation%2Bnavigation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://digitaltrends.com/cars/will-apple-bring-a-human-touch-to-future-navigation-systems/"
+        },
+        "indefinitelywild.gizmodo.com/2015/04/how-the-new-cold-war-is-improving-your-navigation": {
+            "title": "How The New Cold War Is Improving Your Navigation...",
+            "snippet": "Ever contemplated going to war with America, but been thwarted when the Great Satan switched off your access to its navigation satellites? That's potentially a real problem for China and Russiathe US controls GPSand...",
+            "date": "2015-04-29",
+            "author_name": "Wes Siler on IndefinitelyWild, shared by Alissa Walker to Gizmodo",
+            "categories": "navigation,satellites",
+            "tags": "navigation,satellites,controls",
+            "recuweb_url": "http://en.recuweb.com/satellites/indefinitelywild.gizmodo.com/2015/04/how-the-new-cold-war-is-improving-your-navigation",
+            "resource_url": "http://www.google.com/search?q=navigation%2Bnavigation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://indefinitelywild.gizmodo.com/how-the-new-cold-war-is-improving-your-navigation-1701084578"
+        },
+        "engadget.com/2015/04/tomtom-put-its-navigation-know-how-to-work-in-an-action": {
+            "title": "TomTom put its navigation know-how to work in an action cam...",
+            "snippet": "TomTom, a company best known for its GPS gadgets and a line of watches for runners and athletes, is diving deeper into action sports. Meet the Bandit camera: a GPS action cam that'll beam footage to a connected...",
+            "date": "2015-04-29",
+            "author_name": "Billy Steele",
+            "categories": "sport,navigation",
+            "tags": "cam,company,tomtom,navigation,gps",
+            "recuweb_url": "http://en.recuweb.com/navigation/engadget.com/2015/04/tomtom-put-its-navigation-know-how-to-work-in-an-action",
+            "resource_url": "http://www.google.com/search?q=navigation%2Bnavigation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://engadget.com/2015/04/29/tomtom-bandit-action-camera/"
+        },
+        "jalopnik.com/2015/04/apple-wants-to-make-navigation-like-a-friend-reading": {
+            "title": "Apple Wants To Make Navigation Like A Friend Reading You...",
+            "snippet": "Apple has filed for a patent titled Humanized Navigation Instructions for Mapping Applications. It's exactly what it sounds like, nixing voice prompts that say, turn right in 600 feet to make the next right after the McDonalds.",
+            "date": "2015-04-28",
+            "author_name": "Damon Lavrinc",
+            "categories": "navigation",
+            "tags": "next,mapping,mapping_applications,applications,humanized,humanized_navigation,humanized_navigation_instructions,navigation,navigation_instructions,instructions,filed,patent,apple,wants",
+            "recuweb_url": "http://en.recuweb.com/navigation/jalopnik.com/2015/04/apple-wants-to-make-navigation-like-a-friend-reading",
+            "resource_url": "http://www.google.com/search?q=navigation%2Bnavigation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://jalopnik.com/apple-wants-to-make-navigation-like-a-friend-reading-yo-1700721307"
+        },
+        "autoblog.com/2015/04/apple-files-patent-for-humanized-navigation-system-autoblog": {
+            "title": "Apple files patent for 'humanized'navigation system - Autoblog...",
+            "snippet": "Apple filed a patent application in April for \"Humanized Navigation Instructions for Mapping Applications.\" Its key aspect is the first word in its title, the fact that it's meant to humanize navigation systems so that they are more...",
+            "date": "2015-04-28",
+            "author_name": "Jonathon Ramsey",
+            "categories": "navigation",
+            "tags": "systems,system,mapping,mapping_applications,applications,application,humanized,navigation,instructions,filed,filed-patent,filed-patent-application,patent,patent-application,files,apple",
+            "recuweb_url": "http://en.recuweb.com/navigation/autoblog.com/2015/04/apple-files-patent-for-humanized-navigation-system-autoblog",
+            "resource_url": "http://www.google.com/search?q=navigation%2Bnavigation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://autoblog.com/2015/04/28/apple-files-patent-for-humanized-navigation-system/"
+        },
+        "theverge.com/2015/04/apple-wants-navigation-systems-to-talk-you-like-a-human-being": {
+            "title": "Apple wants navigation systems to talk to you like a human being...",
+            "snippet": "Apple has filed a patent application for what it called \"humanized navigation instructions\" in other words, navigation commands that mimic the way a real person would tell you to get around town, rather than dealing with an...",
+            "date": "2015-04-28",
+            "author_name": "Chris Ziegler",
+            "categories": "navigation",
+            "tags": "way,real,instructions,filed,filed-patent,filed-patent-application,patent,patent-application,application,humanized,systems,apple,wants,navigation",
+            "recuweb_url": "http://en.recuweb.com/navigation/theverge.com/2015/04/apple-wants-navigation-systems-to-talk-you-like-a-human-being",
+            "resource_url": "http://www.google.com/search?q=navigation%2Bnavigation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theverge.com/2015/4/28/8509089/apple-humanized-navigation-instructions-patent"
+        },
+        "cultofmac.com/2015/04/apple-wants-siri-to-give-you-navigation-instructions-like-a-human": {
+            "title": "Apple wants Siri to give you navigation instructions like a human...",
+            "snippet": "Apple Maps instructions might get a lot more 'human'soon. Photo: Apple. Getting direction from a computer sucks, but that could soon change based on a new patent filed by Apple for Humanized Navigation Instructions for...",
+            "date": "2015-04-28",
+            "author_name": "Syndication",
+            "categories": "navigation",
+            "tags": "humanized,humanized_navigation,humanized_navigation_instructions,navigation,navigation_instructions,instructions,patent,filed,maps,apple,wants,siri,human",
+            "recuweb_url": "http://en.recuweb.com/navigation/cultofmac.com/2015/04/apple-wants-siri-to-give-you-navigation-instructions-like-a-human",
+            "resource_url": "http://www.google.com/search?q=navigation%2Bnavigation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://cultofmac.com/321007/apples-latest-patent-could-humanize-navigation-instructions/"
+        },
+        "centauri-dreams.org/2015/04/dsac-paradigm-changer-for-deep-space-navigation": {
+            "title": "DSAC: Paradigm Changer for Deep Space Navigation?",
+            "snippet": "We need to improve the way we handle data tracking and deep space navigation. While the near term is always uncertain because of budgetary issues, we can still take the long view and hope that we're going to see a.",
+            "date": "2015-04-28",
+            "author_name": "Paul Gilster",
+            "categories": "navigation",
+            "tags": "issues,way,navigation",
+            "recuweb_url": "http://en.recuweb.com/navigation/centauri-dreams.org/2015/04/dsac-paradigm-changer-for-deep-space-navigation",
             "resource_url": "http://www.google.com/search?q=navigation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.executivebiz.com/2015/04/northrop-to-upgrade-ship-navigation-systems-for-maersk-jeanne-usher-comments/"
-        },
-        "ecommerce.shopify.com/2015/04/how-to-organize-mentioned-navigation-collections-shopify": {
-            "title": "How to organize mentioned navigation/collections - Shopify...",
-            "snippet": "How to organize mentioned navigation/collections. Hello! I am just getting started using Shopify and loving it. I am building an webstore for back-issue comics. This means I won't have a lot of storage per item and as soon as...",
-            "date": "2015-04-26",
-            "author_name": "Daan Kauwenberg",
-            "categories": "comics,navigation",
-            "tags": "navigation,using",
-            "recuweb_url": "http://en.recuweb.com/navigation/ecommerce.shopify.com/2015/04/how-to-organize-mentioned-navigation-collections-shopify",
-            "resource_url": "http://www.google.com/search?q=navigation%2Bnavigation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://ecommerce.shopify.com/c/shopify-discussion/t/how-to-organize-mentioned-navigation-collections-261882"
-        },
-        "noupe.com/2015/04/wordpress-fancy-site-navigation-with-the-posts-pagination": {
-            "title": "WordPress: Fancy Site Navigation With the_posts_pagination...",
-            "snippet": "It was not until WordPress 4.1 was released that creating a paginated blog navigation was a fairly cumbersome affair, which required either a certain degre.",
-            "date": "2015-04-24",
-            "author_name": "Andreas Hecht",
-            "categories": "navigation,wordpress",
-            "tags": "site,site_navigation,navigation",
-            "recuweb_url": "http://en.recuweb.com/wordpress/noupe.com/2015/04/wordpress-fancy-site-navigation-with-the-posts-pagination",
-            "resource_url": "http://www.google.com/search?q=navigation%2Bnavigation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://noupe.com/wordpress/wordpress-fancy-site-navigation-with-the_posts_pagination-91059.html"
+            "source_url": "http://centauri-dreams.org/?p=33059"
         },
         "theverge.com/2015/04/garmin-s-latest-navigation-device-has-a-built-in-dash-cam": {
             "title": "Garmin's latest navigation device has a built-in dash cam The Verge...",
@@ -50,76 +116,10 @@
             "date": "2015-04-23",
             "author_name": "Micah Singleton",
             "categories": "navigation",
-            "tags": "directions,fun,garmin,navigation,systems,system,gps",
+            "tags": "fun,dash,cam,device,garmin,navigation,car,systems,system,gps",
             "recuweb_url": "http://en.recuweb.com/navigation/theverge.com/2015/04/garmin-s-latest-navigation-device-has-a-built-in-dash-cam",
             "resource_url": "http://www.google.com/search?q=navigation%2Bnavigation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://theverge.com/2015/4/23/8484249/garmin-nuvicam-dash-cam"
-        },
-        "mappingignorance.org/2015/04/blind-navigation-medicine-mapping-ignorance": {
-            "title": "Blind navigation Medicine Mapping Ignorance...",
-            "snippet": "Other options for blind people to navigate are guide dogs, GPS devices, tactile paving and audible traffic signals. Some blind people are even skilled at echolocating objects by producing mouth clicks and listening to the...",
-            "date": "2015-04-22",
-            "author_name": "Jos\u00e9 Ram\u00f3n Alonso",
-            "categories": "medicine,ignorance,navigation",
-            "tags": "ening,even,traffic,navigate,navigation,gps",
-            "recuweb_url": "http://en.recuweb.com/navigation/mappingignorance.org/2015/04/blind-navigation-medicine-mapping-ignorance",
-            "resource_url": "http://www.google.com/search?q=navigation%2Bnavigation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://mappingignorance.org/2015/04/22/blind-navigation/"
-        },
-        "codecanyon.net/2015/04/javascript-sismo-navigation-codecanyon": {
-            "title": "JavaScript - Sismo Navigation CodeCanyon...",
-            "snippet": "Sismo Navigation v 1.0 documentation Sismo Navigation is a plugin that adds more functionality to bootstrap. Sismo Navigation allows you to create 6 different types of navigation for web ap...",
-            "date": "2015-04-19",
-            "author_name": "eloy342",
-            "categories": "navigation,javascript",
-            "tags": "web,create,adds,navigation",
-            "recuweb_url": "http://en.recuweb.com/javascript/codecanyon.net/2015/04/javascript-sismo-navigation-codecanyon",
-            "resource_url": "http://www.google.com/search?q=navigation%2Bnavigation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://codecanyon.net/item/sismo-navigation/10985032"
-        },
-        "blogs.windows.com/2015/04/navigate-the-world-with-windows-10-maps-for-phone-blog": {
-            "title": "Navigate the World with Windows 10 Maps for Phone - Windows Blog...",
-            "snippet": "This includes the best maps, aerial imagery, rich local search data, and voice guided navigation experiences from both Bing Maps and HERE maps, integrated together for the first time into a single app for Windows.",
-            "date": "2015-04-17",
-            "author_name": "Aaron Butcher",
-            "categories": "bing,navigation",
-            "tags": "app,integrated,search,maps,navigate,phone,navigation",
-            "recuweb_url": "http://en.recuweb.com/navigation/blogs.windows.com/2015/04/navigate-the-world-with-windows-10-maps-for-phone-blog",
-            "resource_url": "http://www.google.com/search?q=navigation%2Bnavigation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogs.windows.com/bloggingwindows/2015/04/17/navigate-the-world-with-windows-10-maps-for-phone/"
-        },
-        "lifehacker.com/2015/04/adds-improved-navigation-collaborative-lists": {
-            "title": "Adds Improved Navigation, Collaborative Lists, and More...",
-            "snippet": "Android/iOS/Chrome/Mac/Web: It's hard to pick a single to-do list manager we like, but has a lot to love. The service has updated all of its apps across all platforms with a slick new interface, collaborative lists, tablet...",
-            "date": "2015-04-16",
-            "author_name": "Eric Ravenscraft",
-            "categories": "love,navigation",
-            "tags": "adds,navigation,android,web",
-            "recuweb_url": "http://en.recuweb.com/navigation/lifehacker.com/2015/04/adds-improved-navigation-collaborative-lists",
-            "resource_url": "http://www.google.com/search?q=navigation%2Bnavigation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://lifehacker.com/any-do-adds-a-grid-view-improved-navigation-better-fi-1698218762"
-        },
-        "willsblogfolder.wordpress.com/2015/04/vs-youtube-ipad-app": {
-            "title": "VS YouTube IPad APP...",
-            "snippet": "YouTube as you are likely aware is a popular video sharing website. It is also an App for the IPad. Can the APP really compare to the desktop version? Well, by comparing the layout, simplicity and navigation we can acquire an understanding.",
-            "date": "2015-04-16",
-            "author_name": "xx40000xx",
-            "categories": "ipad,navigation",
-            "tags": "app,navigation",
-            "recuweb_url": "http://en.recuweb.com/navigation/willsblogfolder.wordpress.com/2015/04/vs-youtube-ipad-app",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=navigation%2Bnavigation&rss=1&lng=en",
-            "source_url": "http://willsblogfolder.wordpress.com/2015/04/16/youtube-ca-vs-youtube-ipad-app/"
-        },
-        "technologyreview.com/2015/04/researchers-use-electrodes-for-human-cruise-control": {
-            "title": "Researchers Use Electrodes for Human Cruise Control...",
-            "snippet": "Sure, you can get directions by looking at a map on your phone or listening to turn-by-turn navigation. But what if you could just walk from point A to point B in a new place without having to look at a device or even think about...",
-            "date": "2015-04-14",
-            "author_name": "unknown",
-            "categories": "navigation",
-            "tags": "even,ening,directions,phone,navigation",
-            "recuweb_url": "http://en.recuweb.com/navigation/technologyreview.com/2015/04/researchers-use-electrodes-for-human-cruise-control",
-            "resource_url": "http://www.google.com/search?q=navigation%2Bnavigation&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://technologyreview.com/news/536646/researchers-use-electrodes-for-human-cruise-control/"
         }
     }
 }
