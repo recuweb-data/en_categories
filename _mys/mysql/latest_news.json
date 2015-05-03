@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mysql",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/mysql/",
@@ -11,32 +11,52 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
     },
     "items": {
+        "news.softpedia.com/2015/05/mysql-vulnerability-allows-client-to-send-data-via-unencrypted-connection": {
+            "title": "MySQL Vulnerability Allows Client to Send Data via Unencrypted Connection...",
+            "snippet": "The glitch lies in the fact that, while MySQL servers can be configured to require an encrypted connection, there is no option to enforce the same on the client, which then delivers the query results in the clear. An attacker interposed between the...",
+            "date": "2015-05-02",
+            "categories": "mysql",
+            "tags": "attacker,same,client,data,mysql,vulnerability",
+            "recuweb_url": "http://en.recuweb.com/mysql/news.softpedia.com/2015/05/mysql-vulnerability-allows-client-to-send-data-via-unencrypted-connection",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
+            "source_url": "http://news.softpedia.com/news/MySQL-Vulnerability-Allows-Access-to-Plaintext-Information-in-the-Database-479943.shtml"
+        },
         "theregister.co.uk/2015/05/oracle-paltry-patch-opens-mysql-man-in-the-middle-diddle-register": {
             "title": "Oracle paltry patch opens MySQL man-in-the-middle diddle - The Register...",
             "snippet": "The RegisterOracle paltry patch opens MySQL man-in-the-middle diddleThe RegisterAdam Goodman of Duo Security has found a vulnerability in the 'vast majority'of Oracle MySQL databases that allows SSL to be stripped, exposing sensitive data to...",
             "date": "2015-05-01",
             "categories": "mysql",
-            "tags": "data,found,vulnerability,security,oracle,mysql,databases,ssl",
+            "tags": "data,databases,found,vulnerability,duo,duo_security,security,oracle,mysql,ssl",
             "recuweb_url": "http://en.recuweb.com/mysql/theregister.co.uk/2015/05/oracle-paltry-patch-opens-mysql-man-in-the-middle-diddle-register",
-            "resource_url": "http://news.google.com/?hl=en&q=mysql&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=mysql%2Bmysql&output=atom&nord=1",
             "source_url": "http://theregister.co.uk/2015/05/01/mysql_popped/"
         },
-        "linuxjournal.com/2015/05/when-official-debian-support-ends-who-will-save": {
-            "title": "When Official Debian Support Ends, Who Will Save You?",
-            "snippet": "For instance, complex Web applications running on Debian servers rely on a number of packages, such as PHP, MySQL and Apache. Newer versions of these packages add additional features but may not be backwardly-compatible. As a result, updating to a...",
+        "serverwatch.com/2015/05/top-10-enterprise-database-systems-to-consider-in-2015": {
+            "title": "Top 10 Enterprise Database Systems to Consider in 2015...",
+            "snippet": "MariaDB originated in 2009 as a community-driven fork of the MySQL RDBMS and is led by the original developers of MySQL, who created the fork following concerns over MySQL's acquisition by Oracle. The current stable series of MariaDB Enterprise is...",
             "date": "2015-05-01",
-            "categories": "php,mysql",
-            "tags": "result,versions,features,running,web,php,mysql,apache",
-            "recuweb_url": "http://en.recuweb.com/mysql/linuxjournal.com/2015/05/when-official-debian-support-ends-who-will-save",
+            "categories": "mysql,database",
+            "tags": "enterprise,created,mysql,database,top,mariadb,oracle",
+            "recuweb_url": "http://en.recuweb.com/database/serverwatch.com/2015/05/top-10-enterprise-database-systems-to-consider-in-2015",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
-            "source_url": "http://linuxjournal.com/node/1338700"
+            "source_url": "http://serverwatch.com/server-trends/Top-10-Enterprise-Database-Systems-in-2015.html"
+        },
+        "scmagazine.com/2015/05/vulnerability-enables-downgrading-of-mysql-ssl-tls-connections": {
+            "title": "Vulnerability enables downgrading of MySQL SSL/TLS connections...",
+            "snippet": "A researcher with Duo Security has identified a vulnerability in MySQL client libraries, as well as forks such as MariaDB and Percona, that could enable an attacker to downgrade MySQL SSL/TLS connections, according to a website created to notify...",
+            "date": "2015-05-01",
+            "categories": "mysql",
+            "tags": "created,attacker,well,client,identified,vulnerability,duo,duo_security,security,mysql,ssl,tls,connections,mariadb",
+            "recuweb_url": "http://en.recuweb.com/mysql/scmagazine.com/2015/05/vulnerability-enables-downgrading-of-mysql-ssl-tls-connections",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
+            "source_url": "http://scmagazine.com/vulnerability-enables-downgrading-of-mysql-ssltls-connections/article/412558/"
         },
         "threatpost.com/2015/04/mysql-bug-can-strip-ssl-protection-from-connections": {
             "title": "MySQL Bug Can Strip SSL Protection From Connections...",
             "snippet": "Researchers have identified a serious vulnerability in some versions of Oracles MySQL database product that allows an attacker to strip SSL/TLS connections of their security wrapping transparently. The vulnerability is the result of the way that...",
             "date": "2015-04-30",
             "categories": "mysql,database",
-            "tags": "vulnerability,result,way,security,mysql,versions,ssl,database",
+            "tags": "vulnerability,way,connections,security,attacker,mysql,identified,ssl,database,tls",
             "recuweb_url": "http://en.recuweb.com/database/threatpost.com/2015/04/mysql-bug-can-strip-ssl-protection-from-connections",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
             "source_url": "http://threatpost.com/mysql-bug-can-strip-ssl-protection-from-connections/112513"
@@ -48,7 +68,7 @@
             "categories": "mysql,memory,database",
             "tags": "way,back,popular,mysql,performance,database",
             "recuweb_url": "http://en.recuweb.com/database/informationweek.com/2015/04/mysql-cluster-an-in-memory-nosql-pioneer-informationweek",
-            "resource_url": "http://news.google.com/?hl=en&q=mysql&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=mysql%2Bmysql&output=atom&nord=1",
             "source_url": "http://informationweek.com/messages.asp?piddl_msgthreadid=22906&piddl_msgid=292001&piddl_msgtocontent=yes"
         },
         "sitepoint.com/2015/04/how-to-manually-build-docker-containers-for-wordpress": {
@@ -56,7 +76,7 @@
             "snippet": "If youd like a quick intro into Docker, you can jump back to the first article here. Every WordPress installation needs a MySQL database. To do this, we head over to Docker Hub and find a MySQL image. The Docker team already has a MySQL image ready...",
             "date": "2015-04-28",
             "categories": "wordpress,mysql,database",
-            "tags": "back,here,into,build,wordpress,mysql,database",
+            "tags": "back,into,build,mysql,database",
             "recuweb_url": "http://en.recuweb.com/database/sitepoint.com/2015/04/how-to-manually-build-docker-containers-for-wordpress",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
             "source_url": "http://sitepoint.com/how-to-manually-build-docker-containers-for-wordpress/"
@@ -66,50 +86,30 @@
             "snippet": "But the tactics we use to hack ita mix of social engineering and MySql injectionsare the same ones regularly used in the real world. To hack into Komodo, we first pinged the site to see how it was hosted and what database it was using. We found...",
             "date": "2015-04-28",
             "categories": "engineering,learning,mysql,database",
-            "tags": "site,into,mysql,database,using,found",
+            "tags": "into,same,mysql,database,using,found",
             "recuweb_url": "http://en.recuweb.com/database/motherboard.vice.com/2015/04/i-spent-a-day-learning-how-to-hack-alongside-wall-street",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
             "source_url": "http://motherboard.vice.com/read/i-spent-a-day-learning-how-to-hack-alongside-wall-streets-financial-consultants"
         },
-        "practicalecommerce.com/2015/04/how-to-install-wordpress-woocommerce-on-amazon-web-services": {
-            "title": "How to Install WordPress, WooCommerce on Amazon Web Services...",
-            "snippet": "WordPress, and in turn WooCommerce, requires a LAMP stack. This stands for Linux, Apache2, MySQL, and PHP. Using your terminal and SSH connection, you need only to type a few commands that will use a feature called the Advanced Packaging Tool...",
-            "date": "2015-04-27",
-            "categories": "web-services,wordpress,mysql,php",
-            "tags": "tool,web,wordpress,apache,mysql,php,using",
-            "recuweb_url": "http://en.recuweb.com/php/practicalecommerce.com/2015/04/how-to-install-wordpress-woocommerce-on-amazon-web-services",
+        "techcrunch.com/2015/04/solarwinds-acquires-log-management-service-papertrail-for-41m-in-cash": {
+            "title": "SolarWinds Acquires Log Management Service Papertrail For 41M In Cash...",
+            "snippet": "Papertrail allows companies to aggregate log files from a wide variety of popular products like Apache, MySQL and Heroku, as well as Ruby on Rails apps, different cloud hosting services and other standard text log files. Papertrail customers can...",
+            "date": "2015-04-28",
+            "categories": "management,mysql",
+            "tags": "well,popular,management,mysql",
+            "recuweb_url": "http://en.recuweb.com/mysql/techcrunch.com/2015/04/solarwinds-acquires-log-management-service-papertrail-for-41m-in-cash",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
-            "source_url": "http://practicalecommerce.com/articles/87321-How-to-Install-WordPress-WooCommerce-on-Amazon-Web-Services"
+            "source_url": "http://techcrunch.com/2015/04/28/solarwinds-acquires-log-management-service-papertrail-for-41m-in-cash/"
         },
         "eweek.com/2015/04/deep-engine-brings-enterprise-level-performance-to-mysql-databases-eweek": {
             "title": "Deep Engine Brings Enterprise-Level Performance to MySQL Databases - eWeek...",
             "snippet": "eWeekDeep Engine Brings Enterprise-Level Performance to MySQL DatabaseseWeekDeep Information Sciences has launched Deep Engine, a plug-and-play storage engine that brings scale and performance to MySQL databases, without the need for recoding or...",
             "date": "2015-04-24",
             "categories": "play,mysql",
-            "tags": "performance,deep,mysql,databases",
+            "tags": "performance,mysql,enterprise,databases",
             "recuweb_url": "http://en.recuweb.com/mysql/eweek.com/2015/04/deep-engine-brings-enterprise-level-performance-to-mysql-databases-eweek",
-            "resource_url": "http://news.google.com/?hl=en&q=mysql&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=mysql%2Bmysql&output=atom&nord=1",
             "source_url": "http://eweek.com/database/slideshows/deep-engine-brings-enterprise-level-performance-to-mysql-databases.html"
-        },
-        "crazyengineers.com/2015/04/sqlite-vs-mysql-better-rdbms-for-desktop-application": {
-            "title": "SQLite Vs MySQL:Better RDBMS for desktop application?",
-            "snippet": "So I am creating a Java SQL desktop is a better RDBMS?SQLite or MySQL? I Googled it and in one site it says that SQLite is an embedded RDBMS and better for desktop in several others it says that MySQL is most popular and...",
-            "date": "2015-04-23",
-            "categories": "java,sqlite,mysql",
-            "tags": "popular,site,sql,creating,mysql",
-            "recuweb_url": "http://en.recuweb.com/mysql/crazyengineers.com/2015/04/sqlite-vs-mysql-better-rdbms-for-desktop-application",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
-            "source_url": "http://crazyengineers.com/threads/sqlite-vs-mysql-better-rdbms-for-desktop-application.80217/"
-        },
-        "java.dzone.com/2015/04/deep-dive-into-mysqls-innochecksum-tool": {
-            "title": "Deep Dive Into MySQLs Innochecksum Tool...",
-            "snippet": "A checksum mismatch is an indication of corrupt pages. Being as offline tool, innochecksum cant be used on tablespace file that a MySQL server is currently using, hence you need to shutdown the server prior to running the innochecksum tool. If you...",
-            "date": "2015-04-21",
-            "categories": "mysql",
-            "tags": "running,tool,deep,into,mysql,using",
-            "recuweb_url": "http://en.recuweb.com/mysql/java.dzone.com/2015/04/deep-dive-into-mysqls-innochecksum-tool",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=us",
-            "source_url": "http://java.dzone.com/articles/deep-dive-mysql\u2019s-innochecksum"
         }
     }
 }
