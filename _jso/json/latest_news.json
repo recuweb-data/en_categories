@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "json",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/json/",
@@ -11,74 +11,84 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/json/json/blogs.json"
     },
     "items": {
-        "gamasutra.com/2015/04/improve-player-retention-reacting-to-behavior-server-scripts": {
-            "title": "Improve player retention reacting to behavior Server Scripts...",
-            "snippet": "Take this as an example. You could create a config collection in the server side to keep a simple config JSON. This would be the code for it. Every time a user opens a new game session you can check if this config has been changed or not. If it...",
-            "date": "2015-04-27",
-            "categories": "json",
-            "tags": "code,server,json",
-            "recuweb_url": "http://en.recuweb.com/json/gamasutra.com/2015/04/improve-player-retention-reacting-to-behavior-server-scripts",
+        "techienews.co.uk/2015/05/metadata-slurping-microsofts-garners-instant-attention": {
+            "title": "Metadata-slurping Microsofts garners instant attention...",
+            "snippet": "Below is the JavaScript Object Notation metadata of one of the photographs a user was uploading: The duo agrees that they have collected all the metadata extracted in the JSON file and streamed to Event Hubs for further analysis. Microsoft hasnt...",
+            "date": "2015-05-02",
+            "categories": "javascript,json",
+            "tags": "event,event_hubs,hubs,file,streamed,metadata,metadata-extracted,extracted,user,notation,slurping,microsoft,json",
+            "recuweb_url": "http://en.recuweb.com/json/techienews.co.uk/2015/05/metadata-slurping-microsofts-garners-instant-attention",
             "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
-            "source_url": "http://gamasutra.com/blogs/DavidXicota/20150427/242027/Improve_player_retention_reacting_to_behavior_Server_Scripts.php"
+            "source_url": "http://techienews.co.uk/9729566/metadata-slurping-microsofts-how-old-net-garners-instant-attention/"
         },
-        "markets.financialcontent.com/2015/04/nasa-boeing-ecodemonstrator-757-plane-come-to-shreveport-for-bug-research": {
-            "title": "NASA, Boeing ecoDemonstrator 757 Plane Come to Shreveport for Bug Research...",
-            "snippet": "Stock Market XML and JSON Data API provided by FinancialContent Services, Inc. Nasdaq quotes delayed at least 15 minutes, all others at least 20 minutes.",
-            "date": "2015-04-27",
+        "news.softpedia.com/2015/05/uget-2-0-released-with-better-bittorrent-and-metalink-support": {
+            "title": "uGet 2.0 Released with Better BitTorrent and Metalink Support...",
+            "snippet": "Some under-the-hood features were implemented in uGet 2.0, such as usage of the JSON file format for all data files, global speed control no affects all plugins, categories for each data file, ability to set priority for each downloaded file,...",
+            "date": "2015-05-02",
+            "categories": "json",
+            "tags": "file,each,json,data",
+            "recuweb_url": "http://en.recuweb.com/json/news.softpedia.com/2015/05/uget-2-0-released-with-better-bittorrent-and-metalink-support",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
+            "source_url": "http://news.softpedia.com/news/uGet-2-0-Released-with-Better-BitTorrent-and-Metalink-Support-479950.shtml"
+        },
+        "infoq.com/2015/05/azure-logic-apps": {
+            "title": "Azure Logic Apps -...",
+            "snippet": "Azure Logic requires the Dropbox action to have an understanding of the data pulled from the Twitter step. This can be done using notation known as Template Language Extensions. A first glance it looks like X-Path, but it is designed to work on JSON...",
+            "date": "2015-05-01",
+            "categories": "twitter,json",
+            "tags": "language,notation,data,json",
+            "recuweb_url": "http://en.recuweb.com/json/infoq.com/2015/05/azure-logic-apps",
+            "resource_url": "http://news.google.com/?hl=en&q=json%2Bjson&output=atom&nord=1",
+            "source_url": "http://infoq.com/news/2015/05/Azure-Logic-Apps"
+        },
+        "nakedsecurity.sophos.com/2015/05/microsoft-age-guessing-tool-goes-on-a-metadata-slurping-viral-spree": {
+            "title": "Microsoft age-guessing tool goes on a metadata-slurping, viral spree...",
+            "snippet": "We use the Event Hubs API to stream the JSON document from the web page when the user uploads a picture. Note that the picture is not saved, just the metadata extracted in the JSON file gets streamed to Event Hubs. That means that everybody who...",
+            "date": "2015-05-01",
+            "categories": "json",
+            "tags": "event,event_hubs,hubs,file,streamed,metadata,metadata-extracted,extracted,web,user,microsoft,slurping,json,document",
+            "recuweb_url": "http://en.recuweb.com/json/nakedsecurity.sophos.com/2015/05/microsoft-age-guessing-tool-goes-on-a-metadata-slurping-viral-spree",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
+            "source_url": "http://nakedsecurity.sophos.com/2015/05/01/microsoft-age-guessing-tool-goes-on-a-metadata-slurping-viral-spree/"
+        },
+        "sitepoint.com/2015/04/microsoft-edge-a-hands-on-preview": {
+            "title": "Microsoft Edge: A Hands-on Preview...",
+            "snippet": "Microsoft Edges inability to display JSON documents can be a mild inconvenience for web developers. When you visit a JSON document, Microsoft Edge runs a security check, then downloads the file. You then have to use another program like Notepad to...",
+            "date": "2015-04-30",
+            "categories": "json",
+            "tags": "file,document,web,developers,microsoft,pre,json",
+            "recuweb_url": "http://en.recuweb.com/json/sitepoint.com/2015/04/microsoft-edge-a-hands-on-preview",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
+            "source_url": "http://sitepoint.com/microsoft-edge-preview/"
+        },
+        "electronicdesign.com/2015/04/what-s-the-difference-between-json-xml-and-yaml": {
+            "title": "What's the Difference Between JSON, XML, and YAML?",
+            "snippet": "What are JSON, XML, and YAML? Text-file formats that can be used to store structured data that can be handy for embedded and Web applications. Most developers will be familiar with XML (Extensible Markup Language) and its flexible but powerful...",
+            "date": "2015-04-28",
             "categories": "json,xml",
-            "tags": "json,data",
-            "recuweb_url": "http://en.recuweb.com/xml/markets.financialcontent.com/2015/04/nasa-boeing-ecodemonstrator-757-plane-come-to-shreveport-for-bug-research",
+            "tags": "language,developers,file,file-formats,formats,between,json,xml,yaml,text,data,web",
+            "recuweb_url": "http://en.recuweb.com/xml/electronicdesign.com/2015/04/what-s-the-difference-between-json-xml-and-yaml",
             "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
-            "source_url": "http://markets.financialcontent.com/stocks/news/read?GUID=29750211"
+            "source_url": "http://electronicdesign.com/dev-tools/whats-difference-between-json-xml-and-yaml"
         },
-        "comicsbeat.com/2015/04/new-open-source-comic-smart-panels-allows-you-to": {
-            "title": "New open source Comic Smart Panels allows you to make your own animated comics...",
-            "snippet": "The files are stored in Comic Panel Definitions (CPD) files which are JSON files (with meta information about panel positions and dimensions.) While these can be read by the companion Viewer program, they should be importable to other viewing...",
+        "arcticstartup.com/2015/04/latvian-lokalise-makes-it-easier-to-get-your-app-international": {
+            "title": "Latvian Lokalise makes it easier to get your app international...",
+            "snippet": "Lokalise supports various file formats, including Apple Strings (.strings), Apple Xliff (.xliff), Android Resources (.xml), Java Properties (.properties), JSON (.json), Gettext (.po,.pot), PHP Arrays flat (.php), PHP ini (.ini), YAML (.yml), Excel...",
             "date": "2015-04-27",
-            "categories": "comics,json",
-            "tags": "read,files,open,source,json",
-            "recuweb_url": "http://en.recuweb.com/json/comicsbeat.com/2015/04/new-open-source-comic-smart-panels-allows-you-to",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
-            "source_url": "http://comicsbeat.com/new-open-source-comic-smart-panels-allows-you-to-make-your-own-animated-comics/"
-        },
-        "engineering.com/2015/04/senior-java-developer": {
-            "title": "Senior Java Developer...",
-            "snippet": "CIE color analysis), and cloud interfaces (JSON, SOAP). The role provides travel with opportunities for overseas work (around 10%) and requires the ability to work within commercial and scientific teams. Working with highly skilled application...",
-            "date": "2015-04-27",
-            "categories": "travel,java,json",
-            "tags": "application,within,json",
-            "recuweb_url": "http://en.recuweb.com/json/engineering.com/2015/04/senior-java-developer",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
-            "source_url": "http://engineering.com/ElectronicsDesign/ElectronicsDesignJobs/jobctl/ViewPost/ID/344574.aspx"
-        },
-        "businessetc.thejournal.ie/2015/04/you-can-now-see-everything-youve-ever-googled-in-one-place": {
-            "title": "You can now see everything youve ever googled in one place...",
-            "snippet": "The files are delivered in JSON format, so you will need to open them in a plain text programme or extension and even then, theyre quite ugly and will require some digging to trawl through. After that, you can decide what you want to do. If you...",
-            "date": "2015-04-27",
-            "categories": "json",
-            "tags": "open,text,files,json",
-            "recuweb_url": "http://en.recuweb.com/json/businessetc.thejournal.ie/2015/04/you-can-now-see-everything-youve-ever-googled-in-one-place",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
-            "source_url": "http://businessetc.thejournal.ie/oh-god-what-was-i-thinking-2061517-Apr2015/"
-        },
-        "pbs.org/2015/04/heres-how-you-can-see-and-delete-your-entire-google-search": {
-            "title": "Heres how you can see and delete your entire Google search history...",
-            "snippet": "You can then view the archive in the Takeout Folder of your Google Drive. You can also choose to download the list as a zip of JSON files onto your computer. Step 1: Sign into your Google account. Step 2: View your Web & App Activity Step 3...",
-            "date": "2015-04-25",
-            "categories": "google,json",
-            "tags": "files,zip,search,delete,google,json",
-            "recuweb_url": "http://en.recuweb.com/json/pbs.org/2015/04/heres-how-you-can-see-and-delete-your-entire-google-search",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
-            "source_url": "http://pbs.org/newshour/rundown/see-delete-google-history/"
+            "categories": "php,java,xml,json",
+            "tags": "android,file,file-formats,formats,xml,json,yaml",
+            "recuweb_url": "http://en.recuweb.com/json/arcticstartup.com/2015/04/latvian-lokalise-makes-it-easier-to-get-your-app-international",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=json%2Bjson&format=RSS&cc=us",
+            "source_url": "http://arcticstartup.com/2015/04/28/latvian-lokalise-makes-it-easier-to-get-your-app-international"
         },
         "programmableweb.com/2015/04/google-enables-json-search-history-downloads-programmableweb": {
             "title": "Google Enables JSON Search History Downloads - ProgrammableWeb...",
             "snippet": "ProgrammableWebGoogle Enables JSON Search History DownloadsProgrammableWebThe actual search history data is contained in a JSON file within the ZIP. Each JSON file corresponds to a date range and has a schema that describes the search events that...",
             "date": "2015-04-22",
             "categories": "events,json,google",
-            "tags": "date,search,within,data,json,google,zip",
+            "tags": "file,date,search,json,google,data,each",
             "recuweb_url": "http://en.recuweb.com/google/programmableweb.com/2015/04/google-enables-json-search-history-downloads-programmableweb",
-            "resource_url": "http://news.google.com/?hl=en&q=json&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=json%2Bjson&output=atom&nord=1",
             "source_url": "http://programmableweb.com/news/google-enables-json-search-history-downloads/2015/04/22"
         },
         "eweek.com/2015/04/google-s-jsonnet-language-generates-json": {
@@ -86,29 +96,19 @@
             "snippet": "Google has produced a new data templating language called Jsonnet, a portmanteau of JSON and sonnet, that generates JSON. Google recently introduced a new open-source configuration language for generating JSON known as Jsonnet. Google quietly...",
             "date": "2015-04-22",
             "categories": "json,google",
-            "tags": "source,configuration,configuration-language,language,recently,open,data,jsonnet,json,google",
+            "tags": "language,json,google,data",
             "recuweb_url": "http://en.recuweb.com/google/eweek.com/2015/04/google-s-jsonnet-language-generates-json",
             "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
             "source_url": "http://eweek.com/developer/googles-jsonnet-language-generates-json.html"
-        },
-        "infoq.com/2015/04/google-proposes-to-enhance-json-with-jsonnet": {
-            "title": "Google Proposes to Enhance JSON with Jsonnet...",
-            "snippet": "Google has open sourced Jsonnet, a configuration language that supersedes JSON and adds new features without breaking backwards compatibility: comments, references, arithmetic and conditional operators, array and object comprehension, imports,...",
-            "date": "2015-04-21",
-            "categories": "json,google",
-            "tags": "configuration,configuration-language,language,open,json,google,jsonnet",
-            "recuweb_url": "http://en.recuweb.com/google/infoq.com/2015/04/google-proposes-to-enhance-json-with-jsonnet",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=us",
-            "source_url": "http://infoq.com/news/2015/04/jsonnet"
         },
         "tomsguide.com/2015/04/how-to-download-or-delete-your-google-search-history-tom": {
             "title": "How to Download or Delete Your Google Search History - Tom's Guide...",
             "snippet": "Tom's GuideHow to Download or Delete Your Google Search HistoryTom's GuideA JSON Viewer application will make the data more comprehensible, but it will also take much longer to read. Between the difficulty in acquiring, reading and parsing them, the...",
             "date": "2015-04-21",
             "categories": "json,google",
-            "tags": "parsing,read,application,data,json,delete,google,search",
+            "tags": "application,json,google,search,data,between",
             "recuweb_url": "http://en.recuweb.com/google/tomsguide.com/2015/04/how-to-download-or-delete-your-google-search-history-tom",
-            "resource_url": "http://news.google.com/?hl=en&q=json&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=json%2Bjson&output=atom&nord=1",
             "source_url": "http://tomsguide.com/us/delete-google-search-history,news-20802.html"
         }
     }
