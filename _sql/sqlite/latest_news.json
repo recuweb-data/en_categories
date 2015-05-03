@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "sqlite",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/sqlite/",
@@ -11,12 +11,62 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/sqlite/sqlite/blogs.json"
     },
     "items": {
+        "i-programmer.info/2015/05/april-week-4": {
+            "title": "April Week 4...",
+            "snippet": "Meet SquiDB Thursday 23 April Yahoo has announced SquiDB, an open source SQLite database layer for Android. Android Support Library 22.1 - The Way To Write Android Apps Thursday 23 April We tend to get all excited about new versions of Android -...",
+            "date": "2015-05-02",
+            "categories": "yahoo,sqlite,database",
+            "tags": "apps,support,open,open-source,source,meet,meet_squidb,squidb,sqlite,database,android",
+            "recuweb_url": "http://en.recuweb.com/database/i-programmer.info/2015/05/april-week-4",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=us",
+            "source_url": "http://i-programmer.info/i-programmer-weekly/220-i-programmer-weekly-2015/8546-april-week-4.html"
+        },
+        "redmondmag.com/2015/05/microsoft-ushering-in-dev-ops-cloud-future-with-nano-server": {
+            "title": "Microsoft Ushering in Dev-Ops Cloud Future with Nano Server -...",
+            "snippet": "Ushering in Dev-Ops Cloud Future with Nano Server currently works with a number of platforms, including \"Chef, PHP, Nginx, Python 3.5,, GO, Redis, MySQL, OpenSSL, Java (OpenJDK), Ruby () and SQLite,\" according to a presentation slide. Microsoft and...",
+            "date": "2015-05-02",
+            "categories": "php,mysql,java,sqlite",
+            "tags": "currently,platforms,server,microsoft,mysql,java,sqlite",
+            "recuweb_url": "http://en.recuweb.com/sqlite/redmondmag.com/2015/05/microsoft-ushering-in-dev-ops-cloud-future-with-nano-server",
+            "resource_url": "http://news.google.com/?hl=en&q=sqlite&output=atom&nord=1",
+            "source_url": "http://redmondmag.com/articles/2015/05/01/nano-server-devops-future.aspx"
+        },
+        "digit.in/2015/04/handling-offline-capability-and-data-sync-in-an-android-app-part": {
+            "title": "Handling Offline Capability and Data Sync In An Android App - Part 1...",
+            "snippet": "We will discuss how to provide offline capability using content providers and local SQLite database. This will be a 2-part series; part 1 will cover the usage of content provider APIs with a local SQLite database. Android apps that rely on a...",
+            "date": "2015-04-30",
+            "categories": "sqlite,database",
+            "tags": "apps,part,using,data,android,app,sqlite,database",
+            "recuweb_url": "http://en.recuweb.com/database/digit.in/2015/04/handling-offline-capability-and-data-sync-in-an-android-app-part",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=us",
+            "source_url": "http://digit.in/apps/handling-offline-capability-and-data-sync-in-an-android-app-part-1-25942.html"
+        },
+        "androidauthority.com/2015/04/how-to-use-sqlite-store-data-for-your-android-app": {
+            "title": "How to use SQLite to store data for your Android app...",
+            "snippet": "Most Android apps will need to persist user data at sometime. There are different ways to store user data, but SQLite databases are a very convenient and speedy method of saving user (or app) data and information. SQLite is an opensource SQL...",
+            "date": "2015-04-29",
+            "categories": "sqlite",
+            "tags": "data,app,databases,apps,sqlite,android,sql",
+            "recuweb_url": "http://en.recuweb.com/sqlite/androidauthority.com/2015/04/how-to-use-sqlite-store-data-for-your-android-app",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=us",
+            "source_url": "http://androidauthority.com/use-sqlite-store-data-app-599743/"
+        },
+        "i-programmer.info/2015/04/meet-squidb-iprogrammer": {
+            "title": "Meet SquiDB - iProgrammer...",
+            "snippet": "Meet SquiDBiProgrammerSquiDB is designed to let you work with SQLite databases while still giving the power and flexibility of raw SQL. It combines features of an ORM with object-oriented SQL statement builders, so avoiding the need to have SQL...",
+            "date": "2015-04-23",
+            "categories": "sqlite",
+            "tags": "features,databases,work,meet,meet_squidb,squidb,sqlite,sql",
+            "recuweb_url": "http://en.recuweb.com/sqlite/i-programmer.info/2015/04/meet-squidb-iprogrammer",
+            "resource_url": "http://news.google.com/?hl=en&q=sqlite&output=atom&nord=1",
+            "source_url": "http://i-programmer.info/news/84-database/8517-meet-squidb.html"
+        },
         "crazyengineers.com/2015/04/sqlite-vs-mysql-better-rdbms-for-desktop-application": {
             "title": "SQLite Vs MySQL:Better RDBMS for desktop application?",
             "snippet": "So I am creating a Java SQL desktop is a better RDBMS?SQLite or MySQL? I Googled it and in one site it says that SQLite is an embedded RDBMS and better for desktop in several others it says that MySQL is most popular and...",
             "date": "2015-04-23",
             "categories": "java,sqlite,mysql",
-            "tags": "popular,better,desktop,sql,creating,application,sqlite,mysql",
+            "tags": "java,sql,creating,sqlite,mysql,application",
             "recuweb_url": "http://en.recuweb.com/mysql/crazyengineers.com/2015/04/sqlite-vs-mysql-better-rdbms-for-desktop-application",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=us",
             "source_url": "http://crazyengineers.com/threads/sqlite-vs-mysql-better-rdbms-for-desktop-application.80217/"
@@ -26,57 +76,27 @@
             "snippet": "The list of supported databases includes Oracle Database, SQL Server, MySQL, InterBase/Firebird, PostgreSQL and SQLite. Devart is a recognized vendor of database connectivity solutions for Microsoft.NET and Embarcadero Delphi development platforms...",
             "date": "2015-04-20",
             "categories": "database,mysql,sqlite",
-            "tags": "development,delphi,sql,sql_server,server,oracle,database,databases,rad,studio,devart,support,mysql,interbase,firebird,gresql,sqlite",
+            "tags": "delphi,sql,sql_server,server,oracle,database,databases,studio,support,mysql,sqlite,microsoft,development,platforms",
             "recuweb_url": "http://en.recuweb.com/sqlite/pressbox.co.uk/2015/04/devart-introduces-new-dbexpress-drivers-with-support-for-rad-studio-xe8",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=us",
             "source_url": "http://pressbox.co.uk/Computing/Devart_Introduces_New_dbExpress_Drivers_with_Support_for_RAD_Studio_XE8_1581998.html"
-        },
-        "thehostingnews.com/2015/04/devart-releases-data-access-components-for-delphi-with-support-rad-xe8": {
-            "title": "Devart Releases Data Access Components for Delphi with Support for RAD XE8 - (press release) (blog)...",
-            "snippet": "Devart Releases Data Access Components for Delphi with Support for RAD (press release) (blog)(The Hosting News) Devart updates DAC product line, which includes Delphi components for SQL Server, MySQL, Oracle, PostgreSQL, SQLite, Interbase/Firebird,...",
-            "date": "2015-04-16",
-            "categories": "mysql,sqlite",
-            "tags": "sql,sql_server,server,devart,data,data_access,access,delphi,support,rad,mysql,oracle,gresql,sqlite,interbase,firebird",
-            "recuweb_url": "http://en.recuweb.com/sqlite/thehostingnews.com/2015/04/devart-releases-data-access-components-for-delphi-with-support-rad-xe8",
-            "resource_url": "http://news.google.com/?hl=en&q=sqlite&output=atom&nord=1",
-            "source_url": "http://thehostingnews.com/devart-releases-data-access-components-for-delphi-with-support-for-rad-xe8.html"
         },
         "itjungle.com/2015/04/going-off-the-grid-with-ibm-i-mobile-apps-it-jungle": {
             "title": "Going Off the Grid with IBM i Mobile Apps - IT Jungle...",
             "snippet": "IT JungleGoing Off the Grid with IBM i Mobile AppsIT JungleCM First built the open source SQLite database directly into the client application, and added the necessary data synchronization processes to allow the apps to automatically update with the...",
             "date": "2015-04-15",
             "categories": "sqlite,database",
-            "tags": "data,application,built,source,mobile,sqlite,database",
+            "tags": "data,apps,open,open-source,source,mobile,sqlite,database,application",
             "recuweb_url": "http://en.recuweb.com/database/itjungle.com/2015/04/going-off-the-grid-with-ibm-i-mobile-apps-it-jungle",
             "resource_url": "http://news.google.com/?hl=en&q=sqlite&output=atom&nord=1",
             "source_url": "http://itjungle.com/tfh/tfh041515-story05.html"
-        },
-        "computerworld.com/2015/04/review-office-2016-for-mac-offers-a-new-interface-and-better": {
-            "title": "Review: Office 2016 for Mac offers a new interface and better features - Computerworld...",
-            "snippet": "ComputerworldReview: Office 2016 for Mac offers a new interface and better featuresComputerworldMicrosoft says that's because it's switched from its previous proprietary database to SQLite. The company also says this makes Outlook's database not...",
-            "date": "2015-04-01",
-            "categories": "database,sqlite",
-            "tags": "better,features,mac,database,sqlite",
-            "recuweb_url": "http://en.recuweb.com/sqlite/computerworld.com/2015/04/review-office-2016-for-mac-offers-a-new-interface-and-better",
-            "resource_url": "http://news.google.com/?hl=en&q=sqlite&output=atom&nord=1",
-            "source_url": "http://computerworld.com/article/2904266/review-office-2016-for-mac-offers-a-new-interface-and-better-features.html"
-        },
-        "forensicmag.com/2015/03/forensic-analysis-of-sqlite-databases-free-lists-write-ahead-log-unallocated": {
-            "title": "Forensic Analysis of SQLite Databases: Free Lists, Write Ahead Log, Unallocated Space and Carving...",
-            "snippet": "SQLite is a popular database format that is used extensively. Both iOS and Android employ SQLite as a storage format of choice, with built-in and third-party applications relying on SQLite to keep their data. A wide range of desktop and mobile Web...",
-            "date": "2015-03-17",
-            "categories": "sqlite,database",
-            "tags": "desktop,mobile,data,built,storage,popular,sqlite,databases,free,database,ios,android",
-            "recuweb_url": "http://en.recuweb.com/database/forensicmag.com/2015/03/forensic-analysis-of-sqlite-databases-free-lists-write-ahead-log-unallocated",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=us",
-            "source_url": "http://forensicmag.com/articles/2015/03/forensic-analysis-sqlite-databases-free-lists-write-ahead-log-unallocated-space-and-carving"
         },
         "visualstudiomagazine.com/2014/12/11-visual-studio-tools-to-simplify-data-access-magazine": {
             "title": "11 Visual Studio Tools to Simplify Data Access - Visual Studio Magazine...",
             "snippet": "11 Visual Studio Tools to Simplify Data AccessVisual Studio MagazineThe SQL Server Compact/SQLite Toolbox extension shown in Figure 1 provides a huge palette of features that makes light work of moving data between data sources, managing data...",
             "date": "2014-12-05",
             "categories": "sqlite",
-            "tags": "data,features,work,sqlite,studio,sql,sql_server,server,data_access,access",
+            "tags": "data,features,work,sqlite,studio,sql,sql_server,server,access",
             "recuweb_url": "http://en.recuweb.com/sqlite/visualstudiomagazine.com/2014/12/11-visual-studio-tools-to-simplify-data-access-magazine",
             "resource_url": "http://news.google.com/?hl=en&q=sqlite&output=atom&nord=1",
             "source_url": "http://visualstudiomagazine.com/articles/2014/11/01/simplify-data-access.aspx"
@@ -86,30 +106,10 @@
             "snippet": "Realm Brings SQLite Alternative to you have currently have an app that uses CoreData (on iOS) or SQLite (on Android) and want to migrate to Realm, there is definitely some work involved. It is not a drop-in change - Tim explains that CoreData and...",
             "date": "2014-10-24",
             "categories": "sqlite",
-            "tags": "work,sqlite,android,ios",
+            "tags": "work,currently,app,sqlite,android",
             "recuweb_url": "http://en.recuweb.com/sqlite/infoq.com/2014/10/realm-brings-sqlite-alternative-to-android",
             "resource_url": "http://news.google.com/?hl=en&q=sqlite&output=atom&nord=1",
             "source_url": "http://infoq.com/news/2014/10/Realm-android"
-        },
-        "gamedev.net/2014/09/sqlite-as-db-backend-for-mmorpg": {
-            "title": "sqlite as db backend for mmorpg? -...",
-            "snippet": "sqlite as db backend for mmorpg? is quite clearly not designed for the kinds of massive scalability and distributed access that a healthy MMORPG needs. Just use MySQL/MariaDB, Oracle, or SQL Server. Those are what most of the big boys use. Postgre...",
-            "date": "2014-09-15",
-            "categories": "mmorpg,sqlite,mysql",
-            "tags": "sql,sql_server,server,sqlite,access,mysql,oracle",
-            "recuweb_url": "http://en.recuweb.com/mysql/gamedev.net/2014/09/sqlite-as-db-backend-for-mmorpg",
-            "resource_url": "http://news.google.com/?hl=en&q=sqlite%2Bsqlite&output=atom&nord=1",
-            "source_url": "http://gamedev.net/topic/661000-sqlite-as-db-backend-for-mmorpg/"
-        },
-        "drdobbs.com/2014/08/ios-data-storage-core-vs-sqlite-dr-dobb": {
-            "title": "iOS Data Storage: Core Data vs. SQLite - Dr. Dobb's...",
-            "snippet": "iOS Data Storage: Core Data vs. SQLiteDr. Dobb'sOn iOS, the two main storage technologies available to developers are Core Data and SQLite. Both technologies have advantages and disadvantages depending on the amount and type of data you need to...",
-            "date": "2014-08-12",
-            "categories": "sqlite",
-            "tags": "data,storage,ios,sqlite",
-            "recuweb_url": "http://en.recuweb.com/sqlite/drdobbs.com/2014/08/ios-data-storage-core-vs-sqlite-dr-dobb",
-            "resource_url": "http://news.google.com/?hl=en&q=sqlite&output=atom&nord=1",
-            "source_url": "http://drdobbs.com/mobile/ios-data-storage-core-data-vs-sqlite/240168843"
         }
     }
 }
