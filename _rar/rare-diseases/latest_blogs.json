@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "rare-diseases",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/rare-diseases/",
@@ -11,47 +11,66 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/rare-diseases/rare-diseases/blogs.json"
     },
     "items": {
-        "bhdresearch.scienceblog.com/2015/04/findzebra-a-specialised-search-engine-for-rare-diseases-bhd": {
-            "title": "FindZebra: a specialised search engine for rare diseases BHD...",
-            "snippet": "Every doctor is taught to think of the common causes of a problem before contemplating the rare ones. This works for the majority of patients but occasionally the cause is something unusual a zebra and isn't so easy to...",
-            "date": "2015-04-24",
-            "author_name": "bhdresearch",
-            "categories": "search-engine",
-            "tags": "patients,doctor,common,problem,rare,diseases",
-            "recuweb_url": "http://en.recuweb.com/search-engine/bhdresearch.scienceblog.com/2015/04/findzebra-a-specialised-search-engine-for-rare-diseases-bhd",
-            "resource_url": "http://www.google.com/search?q=rare%2Bdiseases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bhdresearch.scienceblog.com/681/findzebra-a-specialised-search-engine-for-rare-diseases/"
-        },
-        "blog.rarediseases.org/2015/04/running-for-rare-diseases-takes-on-boston-marathon": {
-            "title": "Running for Rare Diseases Takes On Boston Marathon Rare...",
-            "snippet": "Each runner is partnered with an individual rare disease patient see their amazing stories here and this effort raises money, awareness and support for all 7,000 rare diseases. We are beyond thrilled and proud to partner...",
-            "date": "2015-04-20",
-            "author_name": "Jennifer Huron",
-            "categories": "rare-diseases,marathon",
-            "tags": "awareness,stories,rare,rare_diseases,diseases,running,each,disease",
-            "recuweb_url": "http://en.recuweb.com/marathon/blog.rarediseases.org/2015/04/running-for-rare-diseases-takes-on-boston-marathon",
+        "globalgenes.org/2015/04/belgium-netherlands-plan-joint-purchase-of-rare-disease-drugs": {
+            "title": "Belgium, Netherlands plan joint purchase of rare disease drugs...",
+            "snippet": "Belgium and the Netherlands will jointly negotiate the purchase of remedies for rare diseases with pharmaceutical groups, the Belgian health ministry said on Tuesday.",
+            "date": "2015-04-30",
+            "author_name": "Ilana Jacqueline",
+            "categories": "drugs,health",
+            "tags": "said,pharmaceutical,purchase,rare,disease,drugs,diseases,health",
+            "recuweb_url": "http://en.recuweb.com/health/globalgenes.org/2015/04/belgium-netherlands-plan-joint-purchase-of-rare-disease-drugs",
             "resource_url": "http://www.google.com/search?q=rare%2Bdiseases%2Brare%2Bdiseases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.rarediseases.org/way-to-go-boston-marathon-running-for-rare-diseases-runners/"
+            "source_url": "http://globalgenes.org/raredaily/belgium-netherlands-plan-joint-purchase-of-rare-disease-drugs/"
+        },
+        "businessinsider.com/2015/04/exclusive-pfizer-is-mystery-bidder-for-rare-disease-drugmaker-sobi": {
+            "title": "Exclusive: Pfizer is mystery bidder for rare disease drugmaker Sobi...",
+            "snippet": "NEW YORK/LONDON (Reuters) - Pfizer Inc is the mystery bidder for Swedish Orphan Biovitrum AB, the rare disease specialist which disclosed this week that a potential buyer had made a preliminary offer, people with...",
+            "date": "2015-04-30",
+            "author_name": "By Olivia Oran, Ben Hirschler and Pamela Barbaglia",
+            "tags": "potential,potential-buyer,buyer,buyer-had-made,offer,disclosed,swedish,orphan,biovitrum,inc,mystery,mystery-bidder,bidder,exclusive,pfizer,rare,disease,drugmaker,sobi,reuters,specia,week,people",
+            "recuweb_url": "http://en.recuweb.com/businessinsider.com/2015/04/exclusive-pfizer-is-mystery-bidder-for-rare-disease-drugmaker-sobi",
+            "resource_url": "http://www.google.com/search?q=rare%2Bdiseases%2Brare%2Bdiseases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://businessinsider.com/r-exclusive-pfizer-is-mystery-bidder-for-rare-disease-drugmaker-sobi---sources-2015-4"
+        },
+        "fiercepharma.com/2015/04/rare-disease-specialist-sobi-entertains-suitors-for-potential": {
+            "title": "Rare-disease specialist Sobi entertains suitors for potential...",
+            "snippet": "Orphan meds have been like catnip for drugmakers for several years, driving many an M&A deal. Now, Swedish Orphan Biovitrum might be next in line, at a price of more than 3.5 billion.",
+            "date": "2015-04-27",
+            "author_name": "Tracy Staton",
+            "tags": "biovitrum,next,potential,rare,disease,specia,sobi,orphan,swedish,billion",
+            "recuweb_url": "http://en.recuweb.com/fiercepharma.com/2015/04/rare-disease-specialist-sobi-entertains-suitors-for-potential",
+            "resource_url": "http://www.google.com/search?q=rare%2Bdiseases%2Brare%2Bdiseases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://fiercepharma.com/story/rare-disease-specialist-sobi-entertains-suitors-potential-35b-plus-deal/2015-04-27"
+        },
+        "atyrpharma.com/2015/04/atyr-pharma-appoints-rare-disease-pioneer-mark-goldberg-md-to": {
+            "title": "aTyr Pharma Appoints Rare Disease Pioneer Mark Goldberg, MD, to...",
+            "snippet": "SAN DIEGOApril 27, 2015 - aTyr Pharma (aTyr), a biotherapeutics company engaged in the discovery and development of Physiocrine-based therapeutics to address rare diseases, announced today the expansion of its Board of Directors...",
+            "date": "2015-04-27",
+            "author_name": "Johnny Kessel",
+            "tags": "announced,pharma,rare,rare_disease,disease,company,discovery,development,therapeutics,diseases",
+            "recuweb_url": "http://en.recuweb.com/atyrpharma.com/2015/04/atyr-pharma-appoints-rare-disease-pioneer-mark-goldberg-md-to",
+            "resource_url": "http://www.google.com/search?q=rare%2Bdiseases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://atyrpharma.com/atyr-pharma-appoints-rare-disease-pioneer-mark-goldberg-m-d-to-board-of-directors/"
+        },
+        "blog.rarediseases.org/2015/04/featured-on-america-s-charities-derek-gavin-talks-about-being": {
+            "title": "Featured on America's Charities: Derek Gavin talks about being a...",
+            "snippet": "Since my son's passing I have wanted to get involved in advocacy for people with rare diseases and their families. It took many years to overcome the devastating pain and emptiness of losing my son. I couldn't talk about him...",
+            "date": "2015-04-23",
+            "author_name": "Jennifer Huron",
+            "tags": "son,families,america,people,rare,diseases",
+            "recuweb_url": "http://en.recuweb.com/blog.rarediseases.org/2015/04/featured-on-america-s-charities-derek-gavin-talks-about-being",
+            "resource_url": "http://www.google.com/search?q=rare%2Bdiseases%2Brare%2Bdiseases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.rarediseases.org/featured-on-americas-charities-nords-derek-gavin-talks-about-being-a-parent-advocate-how-it-shapes-his-work/"
         },
         "fiercebiotech.com/2015/04/jeremy-levin-s-back-building-a-rare-disease-biotech-with-failed": {
             "title": "Jeremy Levin's back, building a rare-disease biotech with failed...",
             "snippet": "Former Teva CEO Jeremy Levin has taken the pilot's seat at a stealth biotech devoted to rare brain diseases and is piloting a course straight into the industry spotlight.",
             "date": "2015-04-16",
             "author_name": "John Carroll",
-            "tags": "industry,biotech,rare,disease,diseases,into",
+            "tags": "industry,former,failed,rare,disease,brain,diseases",
             "recuweb_url": "http://en.recuweb.com/fiercebiotech.com/2015/04/jeremy-levin-s-back-building-a-rare-disease-biotech-with-failed",
             "resource_url": "http://www.google.com/search?q=rare%2Bdiseases%2Brare%2Bdiseases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://fiercebiotech.com/story/jeremy-levins-back-building-rare-disease-biotech-failed-drugs/2015-04-16"
-        },
-        "wtnh.com/2015/04/north-haven-boy-raising-awareness-of-his-extremely-rare-disease": {
-            "title": "North Haven boy raising awareness of his extremely rare disease...",
-            "snippet": "NORTH HAVEN, Conn. (WTNH) A nine-year old North Haven boy has the rarest of diseases. Hunter Pageau has SMARD, Spinal Muscular Atrophy with Respiratory Distress. There are just about a dozen cases in the U.S,...",
-            "date": "2015-04-09",
-            "author_name": "Ann Nyberg-News Anchor",
-            "tags": "old,raising,raising-awareness,awareness,extremely,boy,rare,disease,diseases",
-            "recuweb_url": "http://en.recuweb.com/wtnh.com/2015/04/north-haven-boy-raising-awareness-of-his-extremely-rare-disease",
-            "resource_url": "http://www.google.com/search?q=rare%2Bdiseases%2Brare%2Bdiseases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://wtnh.com/2015/04/08/north-haven-boy-raising-awareness-of-his-extremely-rare-disease/"
         },
         "chicagobusiness.com/2015/03/horizon-pharma-buys-drugs-for-rare-diseases-health-care-news": {
             "title": "Horizon Pharma buys drugs for rare diseases - Health Care News...",
@@ -59,7 +78,7 @@
             "date": "2015-03-30",
             "author_name": "unknown",
             "categories": "health,health-care,drugs",
-            "tags": "industry,treat,therapeutics,health,care,pharma,drugs,rare,diseases,bloomberg,metabolic,pharmaceutical,offer",
+            "tags": "offer,industry,pharmaceutical,treat,billion,therapeutics,health,care,pharma,drugs,rare,diseases",
             "recuweb_url": "http://en.recuweb.com/drugs/chicagobusiness.com/2015/03/horizon-pharma-buys-drugs-for-rare-diseases-health-care-news",
             "resource_url": "http://www.google.com/search?q=rare%2Bdiseases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://chicagobusiness.com/article/20150330/NEWS03/150339995/horizon-pharma-buys-drugs-for-rare-diseases"
@@ -69,7 +88,7 @@
             "snippet": "Virginia Beach, Va. A man is running coast to coast to bring awareness to rare diseases. Noah Coughlan has dedicated the Virginia portion of his cross country run to Hampton Roads kids in the fight of their lives. Over the...",
             "date": "2015-03-23",
             "author_name": "Jessica Larche",
-            "tags": "run,noah,noah_coughlan,coughlan,man,running,awareness,runs,rare,diseases,fight",
+            "tags": "noah,noah_coughlan,coughlan,man,bring,runs,awareness,rare,diseases,run,fight",
             "recuweb_url": "http://en.recuweb.com/wtkr.com/2015/03/man-runs-coast-to-bring-awareness-rare-diseases-wtkr",
             "resource_url": "http://www.google.com/search?q=rare%2Bdiseases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://wtkr.com/2015/03/23/man-runs-coast-to-coast-to-bring-awareness-to-rare-diseases/"
@@ -80,41 +99,21 @@
             "date": "2015-03-18",
             "author_name": "unknown",
             "categories": "rare-diseases",
-            "tags": "attention,patients,common,system,rare,rare_diseases,diseases,hope,people,healthcare",
+            "tags": "patients,system,rare,rare_diseases,diseases,hope,together,people,healthcare",
             "recuweb_url": "http://en.recuweb.com/rare-diseases/njspotlight.com/2015/03/people-with-rare-diseases-hope-banding-together-will-help",
             "resource_url": "http://www.google.com/search?q=rare%2Bdiseases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://njspotlight.com/stories/15/03/18/people-with-rare-diseases-hope-banding-together-will-help-their-cause/"
         },
         "theguardian.com/2015/03/genomes-project-produces-first-diagnoses-of-rare-diseases": {
             "title": "Genomes project produces first diagnoses of rare diseases...",
-            "snippet": "Genomes project produces first diagnoses of rare diseases. Three men and their families will be eligible for personalised treatment designed to target their genetic defects. DNA. An illustration of DNA. Photograph: Alamy.",
+            "snippet": "Three men from two families are the first patients to be diagnosed with rare diseases after volunteering to have their complete genetic codes mapped as part of the groundbreaking 100,000 Genomes Project. They will now be...",
             "date": "2015-03-11",
             "author_name": "Press Association",
-            "tags": "treatment,genomes,project,rare,diseases,genetic,dna",
-            "recuweb_url": "http://en.recuweb.com/theguardian.com/2015/03/genomes-project-produces-first-diagnoses-of-rare-diseases",
+            "categories": "volunteering",
+            "tags": "genetic,part,families,patients,project,genomes,rare,diseases",
+            "recuweb_url": "http://en.recuweb.com/volunteering/theguardian.com/2015/03/genomes-project-produces-first-diagnoses-of-rare-diseases",
             "resource_url": "http://www.google.com/search?q=rare%2Bdiseases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://theguardian.com/science/2015/mar/11/genomes-project-diagnoses-rare-diseases"
-        },
-        "executiveinresidence.org/2015/03/visit-to-treatment-and-research-centre-of-rare-diseases-in-t%C3%BCbingen": {
-            "title": "Visit to Treatment and Research Centre of Rare Diseases in T\u00fcbingen, Germany...",
-            "snippet": "Highlight of my second week of executive in Residence was the visit to the first German Treatment and Research Centre of Rare Diseases in T\u00fcbingen along with Dr. []...",
-            "date": "2015-03-11",
-            "author_name": "makingmorehealth",
-            "categories": "rare-diseases",
-            "tags": "rare,rare_diseases,diseases,research,treatment",
-            "recuweb_url": "http://en.recuweb.com/rare-diseases/executiveinresidence.org/2015/03/visit-to-treatment-and-research-centre-of-rare-diseases-in-t%C3%BCbingen",
-            "resource_url": "http://en.search.wordpress.com/?q=rare%2Bdiseases%2Brare%2Bdiseases&f=feed&page=1",
-            "source_url": "http://executiveinresidence.org/2015/03/11/visit-to-treatment-and-research-centre-of-rare-diseases-in-tubingen-germany/"
-        },
-        "fox13now.com/2015/03/symposium-hopes-to-raise-awareness-of-rare-diseases-fox13now": {
-            "title": "Symposium hopes to raise awareness of rare diseases fox13now...",
-            "snippet": "I think it's a really exciting time for rare disease because frequently I think a lot of people think, 'Oh that's kind of sad and hopeless, there's nothing you can do.'But that's completely false and it's very much changed, said...",
-            "date": "2015-03-01",
-            "author_name": "Brittany Green-Miner",
-            "tags": "people,raise,raise-awareness,awareness,rare,diseases,disease,said",
-            "recuweb_url": "http://en.recuweb.com/fox13now.com/2015/03/symposium-hopes-to-raise-awareness-of-rare-diseases-fox13now",
-            "resource_url": "http://www.google.com/search?q=rare%2Bdiseases&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://fox13now.com/2015/02/28/symposium-hopes-to-raise-awareness-of-rare-diseases/"
         }
     }
 }
