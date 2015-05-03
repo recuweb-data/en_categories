@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "javascript",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/javascript/",
@@ -11,32 +11,62 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/javascript/javascript/blogs.json"
     },
     "items": {
-        "timesofmalta.com/2015/05/baltimore-police-officers-in-freddie-gray-case-to-be-charged": {
-            "title": "Baltimore police officers in Freddie Gray case to be charged...",
-            "snippet": "You need Javascript and either Adobe Flash or Html5 to view this video. You need Javascript and either Adobe Flash or Html5 to view this video. Video: Reuters Baltimore's top prosecutor has announced criminal charges against all six police...",
-            "date": "2015-05-01",
-            "categories": "javascript,html",
-            "tags": "announced,javascript",
-            "recuweb_url": "http://en.recuweb.com/html/timesofmalta.com/2015/05/baltimore-police-officers-in-freddie-gray-case-to-be-charged",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=us",
-            "source_url": "http://timesofmalta.com/articles/view/20150501/world/baltimore-police-officers-in-freddie-gray-case-to-be-charged.566371"
+        "sdtimes.com/2015/05/enterprisejs-coalition-aims-for-enterprise-and-javascript-adoption": {
+            "title": "EnterpriseJS Coalition aims for enterprise and JavaScript adoption -...",
+            "snippet": "EnterpriseJS Coalition aims for enterprise and JavaScript new organization has emerged to spearhead the use of JavaScript and in the enterprise. The EnterpriseJS Coalition is a community, content-sharing platform, and upcoming event series dedicated...",
+            "date": "2015-05-02",
+            "categories": "javascript",
+            "tags": "platform,javascript",
+            "recuweb_url": "http://en.recuweb.com/javascript/sdtimes.com/2015/05/enterprisejs-coalition-aims-for-enterprise-and-javascript-adoption",
+            "resource_url": "http://news.google.com/?hl=en&q=javascript&output=atom&nord=1",
+            "source_url": "http://sdtimes.com/enterprisejs-coalition-aims-for-enterprise-node-js-and-javascript-adoption/"
         },
-        "forbes.com/2015/05/google-forced-to-update-password-alert-after-embarrassing-weakness-exposed": {
-            "title": "Google Forced To Update Password Alert After 'Embarrassing'Weakness Exposed...",
-            "snippet": "Security expert Paul Moore tore into the Chrome browser extension, which warns a user when they are typing their Google Google password into a scam, or phishing site, with some simple JavaScript that would kill alerts as soon as they started to...",
-            "date": "2015-05-01",
-            "categories": "google,javascript",
-            "tags": "alerts,alert,password,into,google,user,browser,moore,password_alert,expert,chrome,javascript",
-            "recuweb_url": "http://en.recuweb.com/javascript/forbes.com/2015/05/google-forced-to-update-password-alert-after-embarrassing-weakness-exposed",
+        "thehackernews.com/2015/05/hacker-finds-a-simple-way-to-bypass-google-password-alert": {
+            "title": "Hacker Finds a Simple Way to Bypass Google Password Alert...",
+            "snippet": "However, security expert Paul Moore easily circumvented the technology using just seven lines of simple JavaScript code that kills phishing alerts as soon as they started to appear, defeating Googles new Password Alert extension. Google shortly...",
+            "date": "2015-05-02",
+            "categories": "technology,google,javascript",
+            "tags": "password,password_alert,alerts,code,technology,lines,moore,expert,google,google_password,google_password_alert,javascript",
+            "recuweb_url": "http://en.recuweb.com/javascript/thehackernews.com/2015/05/hacker-finds-a-simple-way-to-bypass-google-password-alert",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=us",
-            "source_url": "http://forbes.com/sites/thomasbrewster/2015/05/01/google-embarassment-over-password-alert-hack/"
+            "source_url": "http://thehackernews.com/2015/05/hack-google-password.html"
+        },
+        "ww2.kqed.org/2015/05/its-a-decadent-springtime-feast-fried-baby-artichokes-with-diy-meyer": {
+            "title": "Its a Decadent Springtime Feast: Fried Baby Artichokes With DIY Meyer Lemon Mayonnaise...",
+            "snippet": "Scrape into a serving bowl. Refrigerate, covered, until ready to use or for up to 4 days. This slideshow requires JavaScript. Snap off the tough exterior leaves from the artichokes. Cut off the top third of the artichokes and trim the stems. Cut...",
+            "date": "2015-05-02",
+            "categories": "javascript",
+            "tags": "into,javascript",
+            "recuweb_url": "http://en.recuweb.com/javascript/ww2.kqed.org/2015/05/its-a-decadent-springtime-feast-fried-baby-artichokes-with-diy-meyer",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=us",
+            "source_url": "http://ww2.kqed.org/bayareabites/2015/05/02/its-a-decadent-springtime-feast-fried-baby-artichokes-with-diy-meyer-lemon-mayonnaise/"
+        },
+        "praguepost.com/2015/05/survey-czechs-suffering-from-depression-burnout": {
+            "title": "Survey: Czechs suffering from depression, burnout...",
+            "snippet": "You need JavaScript enabled to view it. This email address is being protected from spambots. You need JavaScript enabled to view it. This email address is being protected from spambots. You need JavaScript enabled to view it.",
+            "date": "2015-05-02",
+            "categories": "javascript",
+            "tags": "javascript",
+            "recuweb_url": "http://en.recuweb.com/javascript/praguepost.com/2015/05/survey-czechs-suffering-from-depression-burnout",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=us",
+            "source_url": "http://praguepost.com/142-culture/47451-survey-czechs-suffering-from-depression-burnout"
+        },
+        "thenextweb.com/2015/05/vorlon-is-a-new-framework-from-microsoft-that-helps-you-debug": {
+            "title": "Vorlon is a new framework from Microsoft that helps you debug Javascript on remote devices...",
+            "snippet": "At Microsoft BUILD today, the company announced a new framework, Vorlon, that helps developers debug remote devices running Javascript. Vorlon is a application you run on your computer and uses a single line of code to connect to remote devices...",
+            "date": "2015-05-02",
+            "categories": "javascript",
+            "tags": "application,code,helps,helps-developers,developers,debug,announced,build,microsoft,javascript",
+            "recuweb_url": "http://en.recuweb.com/javascript/thenextweb.com/2015/05/vorlon-is-a-new-framework-from-microsoft-that-helps-you-debug",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=us",
+            "source_url": "http://thenextweb.com/dd/2015/04/30/vorlon-is-a-new-framework-from-microsoft-that-helps-you-debug-javascript-on-remote-devices/"
         },
         "theregister.co.uk/2015/05/google-password-alert-could-be-foiled-with-just-7-lines-of": {
             "title": "Google Password Alert could be foiled with just 7 lines of JavaScript - The Register...",
             "snippet": "The RegisterGoogle Password Alert could be foiled with just 7 lines of JavaScriptThe RegisterThe problem is these alerts can be shut down with minimum effort and a few lines of JavaScript planted on counterfeit sites. More specifically, Moore's...",
             "date": "2015-05-01",
             "categories": "google,javascript",
-            "tags": "sites,alerts,alert,password,password_alert,google,javascript,moore",
+            "tags": "alerts,lines,password,password_alert,google,google_password,google_password_alert,javascript,moore",
             "recuweb_url": "http://en.recuweb.com/javascript/theregister.co.uk/2015/05/google-password-alert-could-be-foiled-with-just-7-lines-of",
             "resource_url": "http://news.google.com/?hl=en&q=javascript&output=atom&nord=1",
             "source_url": "http://theregister.co.uk/2015/05/01/google_password_alert_easily_disabled_6_lines_javascript/"
@@ -46,57 +76,17 @@
             "snippet": "Continuing its overtures toward open source, Microsoft is unveiling technologies for packaging applications and remotely debugging JavaScript. One open source technology, ManifoldJS, helps developers package Web experiences into native apps for...",
             "date": "2015-05-01",
             "categories": "technology,javascript",
-            "tags": "into,native,helps,helps-developers,developers,source,debugging,microsoft,javascript,tools,web",
+            "tags": "into,helps,helps-developers,developers,open,open-source,source,technology,remotely,remotely-debugging,debugging,microsoft,javascript",
             "recuweb_url": "http://en.recuweb.com/javascript/infoworld.com/2015/05/microsoft-open-sources-javascript-tools",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=us",
             "source_url": "http://infoworld.com/article/2917441/microsoft-net/microsoft-open-sources-javascript-tools.html"
-        },
-        "betanews.com/2015/05/microsoft-reveals-code-editor-for-windows-mac-linux": {
-            "title": "Microsoft reveals Code editor for Windows, Mac, Linux...",
-            "snippet": "It can validate JavaScript files according to your preferred rules, preview Markdown files, show color preview annotations for CSS, LESS and SASS, and gives you IntelliSense, intelligent refactoring, find all references and more. Oh, and did we...",
-            "date": "2015-05-01",
-            "categories": "javascript,css",
-            "tags": "microsoft,code,javascript",
-            "recuweb_url": "http://en.recuweb.com/css/betanews.com/2015/05/microsoft-reveals-code-editor-for-windows-mac-linux",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=us",
-            "source_url": "http://betanews.com/2015/05/01/microsoft-reveals-code-editor-for-windows-mac-linux/"
-        },
-        "makeuseof.com/2015/05/the-advanced-chrome-settings-you-should-be-using": {
-            "title": "The Advanced Chrome Settings You Should Be Using...",
-            "snippet": "The Content Settings button displays a pop-up screen where you can change settings for Cookies, Images, JavaScript, Automatic Downloads, and much more. Each of these allows you to Manage Exceptions which is helpful for those sites which you want to...",
-            "date": "2015-05-01",
-            "categories": "javascript",
-            "tags": "sites,advanced,chrome,using,javascript",
-            "recuweb_url": "http://en.recuweb.com/javascript/makeuseof.com/2015/05/the-advanced-chrome-settings-you-should-be-using",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=us",
-            "source_url": "http://makeuseof.com/tag/the-advanced-chrome-settings-you-should-be-using/"
-        },
-        "blogs.msdn.com/2015/05/tools-for-apache-cordova-in-visual-studio-2015-rc": {
-            "title": "Tools for Apache Cordova in Visual Studio 2015 RC...",
-            "snippet": "With support for native device capabilities (e.g. camera, accelerometer, contact), offline scenarios and popular JavaScript frameworks (e.g. Angular, React and Backbone), the Tools for Apache Cordova contain everything web developers need for...",
-            "date": "2015-05-01",
-            "categories": "javascript",
-            "tags": "web,developers,native,tools,javascript,frameworks",
-            "recuweb_url": "http://en.recuweb.com/javascript/blogs.msdn.com/2015/05/tools-for-apache-cordova-in-visual-studio-2015-rc",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=us",
-            "source_url": "http://blogs.msdn.com/b/visualstudio/archive/2015/05/01/tools-for-apache-cordova-in-visual-studio-2015-rc.aspx"
-        },
-        "thenextweb.com/2015/05/vorlon-is-a-new-framework-from-microsoft-that-helps-you-debug": {
-            "title": "Vorlon is a new framework from Microsoft that helps you debug Javascript on remote devices...",
-            "snippet": "At Microsoft BUILD today, the company announced a new framework, Vorlon, that helps developers debug remote devices running Javascript. Vorlon is a application you run on your computer and uses a single line of code to connect to remote devices...",
-            "date": "2015-05-01",
-            "categories": "javascript",
-            "tags": "application,helps,helps-developers,developers,announced,microsoft,javascript,code",
-            "recuweb_url": "http://en.recuweb.com/javascript/thenextweb.com/2015/05/vorlon-is-a-new-framework-from-microsoft-that-helps-you-debug",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=us",
-            "source_url": "http://thenextweb.com/dd/2015/04/30/vorlon-is-a-new-framework-from-microsoft-that-helps-you-debug-javascript-on-remote-devices/"
         },
         "sitepoint.com/2015/04/enhance-your-javascript-debugging-with-cross-browser-source-maps": {
             "title": "Enhance Your JavaScript Debugging with Cross-Browser Source Maps...",
             "snippet": "As a JavaScript developer, Im sure youve already been falling into this scenario: something goes wrong with the production version of your code, and debugging it directly from the production server is a nightmare simply because it has been...",
             "date": "2015-04-30",
             "categories": "production,javascript",
-            "tags": "debugging,something,version,into,browser,source,javascript,code",
+            "tags": "debugging,something,version,code,into,source,javascript",
             "recuweb_url": "http://en.recuweb.com/javascript/sitepoint.com/2015/04/enhance-your-javascript-debugging-with-cross-browser-source-maps",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=us",
             "source_url": "http://sitepoint.com/enhance-your-javascript-debugging-with-cross-browser-source-maps/"
@@ -106,10 +96,20 @@
             "snippet": "How Netflix modularized their JavaScript CodebaseTechTargetSeveral years ago, Netflix decided to refactor its main client application to JavaScript from C. This approach promised a more consistent user interface (UI) and allowed Netflix to innovate...",
             "date": "2015-04-30",
             "categories": "javascript",
-            "tags": "user,application,javascript,netflix",
+            "tags": "application,javascript,netflix",
             "recuweb_url": "http://en.recuweb.com/javascript/theserverside.com/2015/04/how-netflix-modularized-their-javascript-codebase-techtarget",
             "resource_url": "http://news.google.com/?hl=en&q=javascript&output=atom&nord=1",
             "source_url": "http://theserverside.com/tip/How-Netflix-modularized-their-JavaScript-Codebase"
+        },
+        "blogs.msdn.com/2015/04/why-we-made-and-how-to-use-it-debug-your-javascript": {
+            "title": "Why we made and how to use it to debug your JavaScript remotely...",
+            "snippet": "Today at//BUILD/2015 we announced an open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. I had the opportunity to create with the help of some talented engineers and tech evangelists...",
+            "date": "2015-04-29",
+            "categories": "javascript",
+            "tags": "help,remotely,remotely-debugging,debugging,announced,open,open-source,source,debug,javascript,build,platform",
+            "recuweb_url": "http://en.recuweb.com/javascript/blogs.msdn.com/2015/04/why-we-made-and-how-to-use-it-debug-your-javascript",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=us",
+            "source_url": "http://blogs.msdn.com/b/eternalcoding/archive/2015/04/30/why-we-made-vorlon-js-and-how-to-use-it-to-debug-your-javascript-remotely.aspx"
         }
     }
 }
