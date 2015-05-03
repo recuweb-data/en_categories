@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mysql",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/mysql/",
@@ -11,6 +11,42 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/05/installing-php-mysql-and-phpmyadmin-on-windows-server-2008-r2": {
+            "title": "Installing PHP MySQL and PHPMyAdmin on Windows Server 2008 R2...",
+            "snippet": "Installing PHP MySQL and PHPMyAdmin on Windows Server 2008 R2Author: AlfordOtisTags: Installing PHP MySQL and PHPMyAdmin on Windows Server 2008 R2 Posted: 02 May 2015Rating:: 0...",
+            "date": "2015-05-02",
+            "author_name": "AlfordOtis",
+            "categories": "php,mysql",
+            "tags": "php,mysql",
+            "recuweb_url": "http://en.recuweb.com/mysql/dailymotion.com/2015/05/installing-php-mysql-and-phpmyadmin-on-windows-server-2008-r2",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mysql/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2osa9b_installing-php-mysql-and-phpmyadmin-on-windows-server-2008-r2_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2osa9b_installing-php-mysql-and-phpmyadmin-on-windows-server-2008-r2_tech"
+        },
+        "dailymotion.com/2015/05/mysql-programming-minimum-displaying-the-lowest-value-in-a-column-using": {
+            "title": "MySQL Programming Minimum displaying the lowest value in a column using MySQL Workbench how to...",
+            "snippet": "MySQL Programming Minimum displaying the lowest value in a column using MySQL Workbench how toAuthor: HampArvelTags: MySQL Programming Minimum displaying the lowest value in a column using Workbench how to Posted: 01 May 2015Rating:: 0...",
+            "date": "2015-05-01",
+            "author_name": "HampArvel",
+            "categories": "mysql",
+            "tags": "mysql,mysql_workbench,workbench,using,mysql_programming,programming,toauthor,hamparveltags",
+            "recuweb_url": "http://en.recuweb.com/mysql/dailymotion.com/2015/05/mysql-programming-minimum-displaying-the-lowest-value-in-a-column-using",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mysql+mysql/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2oqmh3_mysql-programming-minimum-displaying-the-lowest-value-in-a-column-using-mysql-workbench-how-to_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2oqmh3_mysql-programming-minimum-displaying-the-lowest-value-in-a-column-using-mysql-workbench-how-to_lifestyle"
+        },
+        "dailymotion.com/2015/05/mysql-programming-top-or-limit-limiting-the-number-of-records-displayed": {
+            "title": "MySQL Programming Top or Limit limiting the number of records displayed using MySQL Workbench...",
+            "snippet": "MySQL Programming Top or Limit limiting the number of records displayed using MySQL WorkbenchAuthor: HampArvelTags: MySQL Programming Top or Limit limiting the number of records displayed using Workbench Posted: 01 May 2015Rating:: 0...",
+            "date": "2015-05-01",
+            "author_name": "HampArvel",
+            "categories": "mysql",
+            "tags": "mysql,mysql_workbench,workbench,using,mysql_programming,programming,hamparveltags",
+            "recuweb_url": "http://en.recuweb.com/mysql/dailymotion.com/2015/05/mysql-programming-top-or-limit-limiting-the-number-of-records-displayed",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mysql+mysql/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2oqmgt_mysql-programming-top-or-limit-limiting-the-number-of-records-displayed-using-mysql-workbench_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2oqmgt_mysql-programming-top-or-limit-limiting-the-number-of-records-displayed-using-mysql-workbench_lifestyle"
+        },
         "dailymotion.com/2015/04/mysql-innovation-day-new-optimizer-features-in-5-6": {
             "title": "MySQL Innovation Day: New Optimizer Features in MySQL 5.6...",
             "snippet": "MySQL Innovation Day: New Optimizer Features in MySQL: DillonColeyTags: MySQL Innovation Day: New Optimizer Features in 5.6 Posted: 30 April 2015Rating:: 0...",
@@ -19,21 +55,21 @@
             "categories": "mysql",
             "tags": "mysql",
             "recuweb_url": "http://en.recuweb.com/mysql/dailymotion.com/2015/04/mysql-innovation-day-new-optimizer-features-in-5-6",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mysql/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mysql+mysql/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ohe6i_mysql-innovation-day-new-optimizer-features-in-mysql-5-6_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2ohe6i_mysql-innovation-day-new-optimizer-features-in-mysql-5-6_tech"
         },
-        "dailymotion.com/2015/04/mysql-programming-atan2-arc-tangent-2-math-function-using-workbench-sql": {
-            "title": "MySQL Programming ATAN2 Arc Tangent 2 Math Function using MySQL Workbench SQL Programming how to...",
-            "snippet": "MySQL Programming ATAN2 Arc Tangent 2 Math Function using MySQL Workbench SQL Programming how toAuthor: DerrekGraemeTags: MySQL Programming ATAN2 Arc Tangent 2 Math Function using Workbench SQL how to Posted: 27 April 2015Rating:: 0...",
-            "date": "2015-04-27",
-            "author_name": "DerrekGraeme",
+        "dailymotion.com/2015/04/mysql-programming-subdate-subtract-date-function-using-workbench-sql-how-to": {
+            "title": "MySQL Programming SUBDATE SUBTRACT DATE FUNCTION using MySQL Workbench SQL Programming how to...",
+            "snippet": "MySQL Programming SUBDATE SUBTRACT DATE FUNCTION using MySQL Workbench SQL Programming how toAuthor: VioletWrightTags: MySQL Programming SUBDATE SUBTRACT DATE FUNCTION using Workbench SQL how to Posted: 28 April 2015Rating:: 0...",
+            "date": "2015-04-28",
+            "author_name": "VioletWright",
             "categories": "mysql",
-            "tags": "workbench,workbench_sql,sql,mysql,mysql_workbench,mysql_workbench_sql,workbench_sql_programming,sql_programming,programming,function,mysql_programming,using,toauthor",
-            "recuweb_url": "http://en.recuweb.com/mysql/dailymotion.com/2015/04/mysql-programming-atan2-arc-tangent-2-math-function-using-workbench-sql",
+            "tags": "workbench,workbench_sql,sql,mysql,mysql_workbench,mysql_workbench_sql,workbench_sql_programming,sql_programming,programming,mysql_programming,function,using,toauthor",
+            "recuweb_url": "http://en.recuweb.com/mysql/dailymotion.com/2015/04/mysql-programming-subdate-subtract-date-function-using-workbench-sql-how-to",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mysql+mysql/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2o3czw_mysql-programming-atan2-arc-tangent-2-math-function-using-mysql-workbench-sql-programming-how-to_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o3czw_mysql-programming-atan2-arc-tangent-2-math-function-using-mysql-workbench-sql-programming-how-to_lifestyle"
+            "source_url": "http://dailymotion.com/video/x2o9dum_mysql-programming-subdate-subtract-date-function-using-mysql-workbench-sql-programming-how-to_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o9dum_mysql-programming-subdate-subtract-date-function-using-mysql-workbench-sql-programming-how-to_lifestyle"
         },
         "dailymotion.com/2015/04/mysql-programming-ucase-upper-case-string-function-using-workbench-sql": {
             "title": "MySQL Programming UCASE Upper Case String Function using MySQL Workbench SQL Programming how to...",
@@ -65,23 +101,11 @@
             "date": "2015-03-21",
             "author_name": "MD786",
             "categories": "mysql,php",
-            "tags": "mysql,mysql_essential,essential,mysql_essential_training,essential_training,training,php,tags",
+            "tags": "mysql,php",
             "recuweb_url": "http://en.recuweb.com/php/dailymotion.com/2015/03/configuring-mysql-php-with-essential-training",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mysql+mysql/0?af=1",
             "source_url": "http://dailymotion.com/video/x2k6n6v_configuring-mysql-php-with-mysql-essential-training_school",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2k6n6v_configuring-mysql-php-with-mysql-essential-training_school"
-        },
-        "dailymotion.com/2015/03/installing-mysql-php-with-essential-training": {
-            "title": "Installing MySQL - PHP with MySQL Essential Training...",
-            "snippet": "PHP with MySQL Essential: MD786Tags: PHP with MySQL Essential Training Posted: 21 March 2015Rating:: 0...",
-            "date": "2015-03-21",
-            "author_name": "MD786",
-            "categories": "mysql,php",
-            "tags": "mysql,mysql_essential,essential,mysql_essential_training,essential_training,training,php,tags",
-            "recuweb_url": "http://en.recuweb.com/php/dailymotion.com/2015/03/installing-mysql-php-with-essential-training",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mysql+mysql/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2k5to8_installing-mysql-php-with-mysql-essential-training_school",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2k5to8_installing-mysql-php-with-mysql-essential-training_school"
         },
         "dailymotion.com/2015/03/hl-dbexporter-mysql-to-oracle-full-download-postgresql-a-1-0": {
             "title": "HL-DBExporter (MySQL to Oracle) Full Download (hl-dbexporter postgresql a mysql 1.0)...",
@@ -101,35 +125,11 @@
             "date": "2015-02-19",
             "author_name": "Stagg_Jill_197242",
             "categories": "mysql",
-            "tags": "build,build-reports,reports,browse,bit,bit-navicat,navicat,navicat-for-mysql,mysql,free,create,databases,run,sql,queries",
+            "tags": "mysql,free,sql",
             "recuweb_url": "http://en.recuweb.com/mysql/dailymotion.com/2015/02/navicat-for-mysql-32-bit-key-gen-free-2015",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mysql+mysql/0?af=1",
             "source_url": "http://dailymotion.com/video/x2hklhp_navicat-for-mysql-32-bit-key-gen-navicat-for-mysql-free-2015_auto",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2hklhp_navicat-for-mysql-32-bit-key-gen-navicat-for-mysql-free-2015_auto"
-        },
-        "dailymotion.com/2015/02/navicat-for-mysql-32-bit-crack-serial": {
-            "title": "Navicat for MySQL (32-bit) Crack (navicat for mysql serial)...",
-            "snippet": ". Click Link: Navicat for MySQL (32-bit) [SERIAL] 2014. Navicat for MySQL (32-bit) navicat for mysql 32 bit navicat for mysql 32/64 bit Create and browse MySQL databases, run SQL queries, or build reports. (Review) Another significant truth is to...",
-            "date": "2015-02-17",
-            "author_name": "freecalklopas19884",
-            "categories": "mysql",
-            "tags": "build,build-reports,reports,browse,bit,bit-navicat,navicat,navicat-for-mysql,mysql,crack,create,databases,run,sql,queries",
-            "recuweb_url": "http://en.recuweb.com/mysql/dailymotion.com/2015/02/navicat-for-mysql-32-bit-crack-serial",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mysql+mysql/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2hdcbv_navicat-for-mysql-32-bit-crack-navicat-for-mysql-serial_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2hdcbv_navicat-for-mysql-32-bit-crack-navicat-for-mysql-serial_lifestyle"
-        },
-        "dailymotion.com/2015/02/navicat-for-mysql-64-bit-keygen-tutorial": {
-            "title": "Navicat for MySQL (64-bit) Keygen (navicat for mysql tutorial)...",
-            "snippet": "CLICK HERE: Create and browse MySQL databases, run SQL queries, or build reports. (Link) Navicat for MySQL (64-bit) navicat for mysql 64 bit free download navicat for mysql 64 bit navicat for mysql 64 bit full navicat for mysql 64 bit crack navicat...",
-            "date": "2015-02-04",
-            "author_name": "tranergimost197429",
-            "categories": "mysql",
-            "tags": "bit,crack,navicat,bit-navicat,navicat-for-mysql,mysql,free,build,build-reports,reports,browse,create,databases,run,sql,queries",
-            "recuweb_url": "http://en.recuweb.com/mysql/dailymotion.com/2015/02/navicat-for-mysql-64-bit-keygen-tutorial",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mysql+mysql/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2gcfxk_navicat-for-mysql-64-bit-keygen-navicat-for-mysql-tutorial_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2gcfxk_navicat-for-mysql-64-bit-keygen-navicat-for-mysql-tutorial_lifestyle"
         }
     }
 }
