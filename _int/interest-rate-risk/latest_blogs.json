@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "interest-rate-risk",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/interest-rate-risk/",
@@ -11,26 +11,37 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/interest-rate-risk/interest-rate-risk/blogs.json"
     },
     "items": {
+        "bankerandtradesman.com/2015/04/interest-rate-risk-looms-banker-&-tradesman": {
+            "title": "Interest Rate Risk Looms - Banker & Tradesman...",
+            "snippet": "Until very recently, the Federal Reserve's rumblings about an interest rate hike have much resembled a game of football between Lucy van Pelt and Charlie Brown, but the Fed finally ditched the patient language this spring...",
+            "date": "2015-04-26",
+            "author_name": "Laura Alix",
+            "categories": "football,interest-rate-risk",
+            "tags": "spring,hike,game,between,federal,federal_reserve,reserve,recently,interest,interest_rate,interest_rate_risk,rate,rate_risk,risk",
+            "recuweb_url": "http://en.recuweb.com/interest-rate-risk/bankerandtradesman.com/2015/04/interest-rate-risk-looms-banker-&-tradesman",
+            "resource_url": "http://www.google.com/search?q=interest%2Brate%2Brisk%2Binterest%2Brate%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://bankerandtradesman.com/news163723.html"
+        },
         "bis.org/2015/04/ultra-low-or-negative-interest-rates-what-they-mean-for-financial": {
             "title": "Ultra-low or negative interest rates: what they mean for financial...",
             "snippet": "are now being paid to borrow. For their part, investors are currently not compensated for taking interest rate risk (Graph 1). There is no precedent in economic history for negative nominal interest rates, even during the Great...",
             "date": "2015-04-24",
             "author_name": "unknown",
-            "tags": "currently,taking,financial,interest,rates,investors,rate,risk",
+            "tags": "even,investors,low,interest,rates,financial,rate,risk,economic",
             "recuweb_url": "http://en.recuweb.com/bis.org/2015/04/ultra-low-or-negative-interest-rates-what-they-mean-for-financial",
             "resource_url": "http://www.google.com/search?q=interest%2Brate%2Brisk%2Binterest%2Brate%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bis.org/speeches/sp150424.pdf"
         },
-        "investopedia.com/2015/04/what-are-the-risks-involved-with-swaps-investopedia": {
-            "title": "What are the risks involved with swaps? - Investopedia...",
-            "snippet": "The main risks associated with interest rate swaps, which are the most common type of swap, are interest rate risk and counterparty risk. An interest rate swap is an agreement between two parties to exchange cash flows at a future specific...",
-            "date": "2015-04-24",
-            "author_name": "Investopedia",
-            "categories": "cash-flows",
-            "tags": "exchange,type,risks,risk,interest,rate,between",
-            "recuweb_url": "http://en.recuweb.com/cash-flows/investopedia.com/2015/04/what-are-the-risks-involved-with-swaps-investopedia",
+        "etftrends.com/2015/04/fixed-income-etfs-that-beat-interest-rate-risk-etf-trends": {
+            "title": "Fixed-Income ETFs That Beat Interest Rate Risk ETF Trends...",
+            "snippet": "Ahead of the Federal Reserve interest rate hike, fixed-income investors are beginning to think about ways to position their portfolios. One way to help protect a portfolio from rate risks is through interest-rate-hedged exchange...",
+            "date": "2015-04-23",
+            "author_name": "Max Chen",
+            "categories": "interest-rate-risk",
+            "tags": "hedged,portfolios,investors,ways,federal,federal_reserve,reserve,income,etfs,interest,interest_rate,interest_rate_risk,rate,rate_risk,risks,etf,etf_trends,trends,fixed,hike",
+            "recuweb_url": "http://en.recuweb.com/interest-rate-risk/etftrends.com/2015/04/fixed-income-etfs-that-beat-interest-rate-risk-etf-trends",
             "resource_url": "http://www.google.com/search?q=interest%2Brate%2Brisk%2Binterest%2Brate%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://investopedia.com/ask/answers/042415/what-are-risks-involved-swaps.asp"
+            "source_url": "http://etftrends.com/2015/04/fixed-income-etfs-that-beat-interest-rate-risk/"
         },
         "etftrends.com/2015/04/how-to-generate-income-and-damp-rate-risk-with-etfs-etf": {
             "title": "How to Generate Income and Damp Rate Risk With ETFs ETF Trends...",
@@ -38,48 +49,28 @@
             "date": "2015-04-22",
             "author_name": "Todd Shriber",
             "categories": "asset-management,management,wealth-management",
-            "tags": "asset,management,wealth,rate,hedged,etfs,risk,interest,rate_risk,etf,income",
+            "tags": "asset,management,rate,hedged,etfs,risk,interest,rate_risk,etf,etf_trends,trends,income",
             "recuweb_url": "http://en.recuweb.com/wealth-management/etftrends.com/2015/04/how-to-generate-income-and-damp-rate-risk-with-etfs-etf",
             "resource_url": "http://www.google.com/search?q=interest%2Brate%2Brisk%2Binterest%2Brate%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://etftrends.com/2015/04/how-to-generate-income-and-damp-rate-risk-with-etfs/"
         },
-        "investopedia.com/2015/04/how-is-the-risk-free-rate-of-interest-used-to-calculate": {
-            "title": "How is the risk-free rate of interest used to calculate other types of...",
-            "snippet": "The risk-free rate for bonds is used for pricing the yield spread as the difference between the interest rate on a bond and the risk-free rate. For loans, the risk premium is the interest rate banks charge their customers minus the risk-free rate.",
-            "date": "2015-04-16",
-            "author_name": "Investopedia",
-            "tags": "bonds,yield,types,risk,rate,interest,between,loans",
-            "recuweb_url": "http://en.recuweb.com/investopedia.com/2015/04/how-is-the-risk-free-rate-of-interest-used-to-calculate",
+        "freefincal.com/2015/04/understanding-interest-rate-risk-in-debt-mutual-funds": {
+            "title": "Understanding Interest Rate Risk in Debt Mutual Funds...",
+            "snippet": "Investors can understand the extent of interest rate risk in debt mutual funds using a metric called the modified duration.",
+            "date": "2015-04-21",
+            "author_name": "freefincal",
+            "categories": "interest-rate-risk",
+            "tags": "duration,understand,debt,funds,interest,interest_rate,interest_rate_risk,rate,rate_risk,risk,investors",
+            "recuweb_url": "http://en.recuweb.com/interest-rate-risk/freefincal.com/2015/04/understanding-interest-rate-risk-in-debt-mutual-funds",
             "resource_url": "http://www.google.com/search?q=interest%2Brate%2Brisk%2Binterest%2Brate%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://investopedia.com/ask/answers/041615/how-riskfree-rate-interest-used-calculate-other-types-interest-rates-or-loans.asp"
-        },
-        "federalregister.gov/2015/04/interest-rate-risk-vendor-questionnaire-federal-register": {
-            "title": "Interest-Rate-Risk Vendor Questionnaire - Federal Register...",
-            "snippet": "Currently, the OCC is soliciting comment concerning its proposed information collection entitled, Interest Rate Risk Vendor Questionnaire. It also is giving notice that it has sent the collection to OMB for review.",
-            "date": "2015-04-15",
-            "author_name": "Treasury Department",
-            "tags": "information,federal,risk,interest,rate,currently,occ",
-            "recuweb_url": "http://en.recuweb.com/federalregister.gov/2015/04/interest-rate-risk-vendor-questionnaire-federal-register",
-            "resource_url": "http://www.google.com/search?q=interest%2Brate%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://federalregister.gov/articles/2015/04/15/2015-08612/proposed-agency-information-collection-activities-submission-for-omb-review-interest-rate-risk"
-        },
-        "bankrate.com/2015/04/gauging-rate-risk-for-your-libor-based-arm": {
-            "title": "Gauging rate risk for your Libor-based ARM -...",
-            "snippet": "Dear Dr. Don, I have a rental home with an adjustable-rate mortgage adjusting every August. The rate is based on the Libor, or London Interbank Offered Rate. When the Federal Reserve begins to raise interest rates, will the...",
-            "date": "2015-04-10",
-            "author_name": "unknown",
-            "categories": "home",
-            "tags": "raise,federal,federal_reserve,reserve,rate,adjustable,risk,mortgage,interest,rates",
-            "recuweb_url": "http://en.recuweb.com/home/bankrate.com/2015/04/gauging-rate-risk-for-your-libor-based-arm",
-            "resource_url": "http://www.google.com/search?q=interest%2Brate%2Brisk%2Binterest%2Brate%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bankrate.com/finance/mortgages/gauging-rate-risk-for-your-libor-based-arm.aspx"
+            "source_url": "http://freefincal.com/understanding-interest-rate-risk-in-debt-mutual-funds/"
         },
         "investopedia.com/2015/04/what-types-of-investors-are-susceptible-to-interest-rate-risk": {
             "title": "What types of investors are susceptible to interest rate risk?",
             "snippet": "Bond investors, specifically those who invest in long-term fixed-rate bonds, are more directly susceptible to interest rate risk. This is because of the close relationship between interest rates and bond prices. When interest rates rise, bond...",
             "date": "2015-04-09",
             "author_name": "Investopedia",
-            "tags": "bonds,term,fixed,long,types,investors,interest,rate,risk,between,rates,rise",
+            "tags": "between,fixed,investors,interest,rate,risk,bonds,rates,rise",
             "recuweb_url": "http://en.recuweb.com/investopedia.com/2015/04/what-types-of-investors-are-susceptible-to-interest-rate-risk",
             "resource_url": "http://www.google.com/search?q=interest%2Brate%2Brisk%2Binterest%2Brate%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://investopedia.com/ask/answers/040915/what-types-investors-are-susceptible-interest-rate-risk.asp"
@@ -90,7 +81,7 @@
             "date": "2015-04-03",
             "author_name": "mscheibach@banknews.com",
             "categories": "interest-rate-risk,risk-management,management",
-            "tags": "slow,rate,forecast,recently,asset,focus,article,interest,interest_rate,interest_rate_risk,rate_risk,risk,management,occ",
+            "tags": "rate,forecast,recently,published,asset,focus,article,interest,interest_rate,interest_rate_risk,rate_risk,risk,management",
             "recuweb_url": "http://en.recuweb.com/management/banknews.com/2015/04/effective-interest-rate-risk-management",
             "resource_url": "http://www.google.com/search?q=interest%2Brate%2Brisk%2Binterest%2Brate%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://banknews.com/blog/2015/04/effective-interest-rate-risk-management/"
@@ -99,11 +90,22 @@
             "title": "Bond ETF reactions to interest rates...",
             "snippet": "So, I understand the mechanics of buying an individual bond, and its relation to interest rates. However, its unclear to me how it works in an ETF, which has many bonds with many different maturity dates. In an environment where I expect interest...",
             "date": "2015-04-02",
-            "categories": "environment,mechanics",
-            "tags": "environment,buying,bonds,etf,interest,rates,however",
-            "recuweb_url": "http://en.recuweb.com/mechanics/reddit.com/2015/04/bond-etf-reactions-to-interest-rates",
+            "categories": "mechanics,environment",
+            "tags": "bonds,bond,different,understand,etf,interest,rates,however,environment",
+            "recuweb_url": "http://en.recuweb.com/environment/reddit.com/2015/04/bond-etf-reactions-to-interest-rates",
             "resource_url": "http://www.reddit.com/search.rss?q=interest%2Brate%2Brisk%2Binterest%2Brate%2Brisk&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/investing/comments/315048/bond_etf_reactions_to_interest_rates/"
+        },
+        "valuewalk.com/2015/03/de-risking-goes-beyond-interest-rate-risk-gmo-valuewalk": {
+            "title": "De-Risking Goes Beyond Interest Rate Risk: GMO - ValueWalk...",
+            "snippet": "One of the most talked about themes among pension plan managers over the last several years has been the de-risking of their portfolios, with a primary focus on interest rate risk. And for those who have implemented a glide...",
+            "date": "2015-03-21",
+            "author_name": "VW Staff",
+            "categories": "pension,interest-rate-risk",
+            "tags": "primary,focus,portfolios,managers,interest,interest_rate,interest_rate_risk,rate,rate_risk,risk",
+            "recuweb_url": "http://en.recuweb.com/interest-rate-risk/valuewalk.com/2015/03/de-risking-goes-beyond-interest-rate-risk-gmo-valuewalk",
+            "resource_url": "http://www.google.com/search?q=interest%2Brate%2Brisk%2Binterest%2Brate%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://valuewalk.com/2015/03/de-risking-valuation-gmo/"
         },
         "etftrends.com/2015/03/building-the-case-for-hedging-interest-rate-risk-power-of": {
             "title": "Building The Case for Hedging Interest Rate Risk: The Power of...",
@@ -111,7 +113,7 @@
             "date": "2015-03-11",
             "author_name": "Simeon Hyman",
             "categories": "interest-rate-risk",
-            "tags": "floating,article,bonds,interest,interest_rate,interest_rate_risk,rate,rate_risk,risk,market,forecast,however,short,duration",
+            "tags": "duration,market,forecast,article,hedging,hedging_interest,hedging_interest_rate,interest,interest_rate,interest_rate_risk,rate,rate_risk,risk,bonds,however",
             "recuweb_url": "http://en.recuweb.com/interest-rate-risk/etftrends.com/2015/03/building-the-case-for-hedging-interest-rate-risk-power-of",
             "resource_url": "http://www.google.com/search?q=interest%2Brate%2Brisk%2Binterest%2Brate%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://etftrends.com/2015/03/building-the-case-for-hedging-interest-rate-risk-the-power-of-zero-duration/"
