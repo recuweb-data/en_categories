@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "sepsis",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/sepsis/",
@@ -11,35 +11,85 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/sepsis/sepsis/blogs.json"
     },
     "items": {
+        "streetinsider.com/2015/05/sepsis-alliance-announces-2015-heroes": {
+            "title": "Sepsis Alliance Announces 2015 Sepsis Heroes...",
+            "snippet": "Carolinas HealthCare System - developed a Sepsis Collaborative to improve recognition of sepsis and reduce mortality. These individuals and organizations will be recognized at the Sepsis Heroes gala on September 17, 2015, in New York City.",
+            "date": "2015-05-01",
+            "categories": "sepsis",
+            "tags": "mortality,improve,recognition,sepsis",
+            "recuweb_url": "http://en.recuweb.com/sepsis/streetinsider.com/2015/05/sepsis-alliance-announces-2015-heroes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sepsis&format=RSS&cc=us",
+            "source_url": "http://streetinsider.com/Press+Releases/Sepsis+Alliance+Announces+2015+Sepsis+Heroes/10510705.html"
+        },
+        "dailymail.co.uk/2015/04/bbc-w1a-s-jason-watkins-tells-of-agony-over-death-daughter": {
+            "title": "BBC W1A's Jason Watkins tells of agony over death of daughter from sepsis - Daily Mail...",
+            "snippet": "Daily MailBBC W1A's Jason Watkins tells of agony over death of daughter from sepsisDaily MailThe star of the BBC spoof W1A has told of his agony at losing his two-year-old daughter to sepsis after doctors failed to diagnose her condition because it...",
+            "date": "2015-04-30",
+            "categories": "death,sepsis",
+            "tags": "condition,death,sepsis",
+            "recuweb_url": "http://en.recuweb.com/sepsis/dailymail.co.uk/2015/04/bbc-w1a-s-jason-watkins-tells-of-agony-over-death-daughter",
+            "resource_url": "http://news.google.com/?hl=en&q=sepsis&output=atom&nord=1",
+            "source_url": "http://dailymail.co.uk/news/article-3062299/Star-BBC-spoof-W1A-tells-agony-death-two-year-old-daughter-flu-masked-symptoms-fatal-sepsis-doctors.html"
+        },
+        "genomeweb.com/2015/04/immunexpress-to-submit-molecular-immune-response-sepsis-assay-fda-in-genomeweb": {
+            "title": "Immunexpress to Submit Molecular 'Immune Response'Sepsis Assay to FDA in... - GenomeWeb...",
+            "snippet": "Immunexpress to Submit Molecular 'Immune Response'Sepsis Assay to FDA in...GenomeWebHaving just wrapped up a key clinical trial of its first sepsis assay in around 200 ICU patients, Immunexpress plans to submit the test in May to the US Food and...",
+            "date": "2015-04-30",
+            "categories": "sepsis,food",
+            "tags": "test,key,clinical,sepsis,response,patients",
+            "recuweb_url": "http://en.recuweb.com/food/genomeweb.com/2015/04/immunexpress-to-submit-molecular-immune-response-sepsis-assay-fda-in-genomeweb",
+            "resource_url": "http://news.google.com/?hl=en&q=sepsis&output=atom&nord=1",
+            "source_url": "http://genomeweb.com/infectious-disease/immunexpress-submit-molecular-immune-response-sepsis-assay-fda-may"
+        },
+        "familypracticenews.com/2015/04/inpatient-cirrhosis-mortality-has-dropped-except-when-patients-had-sepsis": {
+            "title": "Inpatient cirrhosis mortality has dropped, except when patients had sepsis...",
+            "snippet": "Key clinical point: Hospital mortality among cirrhosis patients has fallen markedly, but not when they also had sepsis. Major finding: Inpatient mortality fell by 41%, but risk of death among cirrhosis patients who had sepsis rose by 22%. Data...",
+            "date": "2015-04-30",
+            "categories": "death,sepsis",
+            "tags": "death,patients,mortality,clinical,sepsis,key,hospital,major",
+            "recuweb_url": "http://en.recuweb.com/sepsis/familypracticenews.com/2015/04/inpatient-cirrhosis-mortality-has-dropped-except-when-patients-had-sepsis",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sepsis&format=RSS&cc=us",
+            "source_url": "http://familypracticenews.com/home/article/inpatient-cirrhosis-mortality-has-dropped-except-when-patients-had-sepsis/7c6c1e298be72b838a71ea5dfbfdebce.html"
+        },
+        "medscape.com/2015/04/use-of-the-serum-bacterial-antigen-test-for-detection-group-b": {
+            "title": "Use of the Serum Bacterial Antigen Test for the Detection of Group B Streptococcal Neonatal Sepsis...",
+            "snippet": "The Revised Guidelines from the Centers for Disease Control for the Prevention of Perinatal Group B Streptococcal Disease were presented in the Morbidity and Mortality Weekly Report. An algorithm for evaluation of Group B Streptococcal sepsis...",
+            "date": "2015-04-29",
+            "categories": "sepsis,prevention",
+            "tags": "evaluation,mortality,disease,neonatal,neonatal_sepsis,sepsis,serum,test,detection,morbidity",
+            "recuweb_url": "http://en.recuweb.com/prevention/medscape.com/2015/04/use-of-the-serum-bacterial-antigen-test-for-detection-group-b",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sepsis&format=RSS&cc=us",
+            "source_url": "http://medscape.com/viewarticle/842845"
+        },
+        "nature.com/2015/04/sepsis-revising-definitions-of": {
+            "title": "Sepsis: Revising definitions of sepsis -...",
+            "snippet": "Sepsis: Revising definitions of traditional definition of sepsis requires the presence of at least two systemic inflammatory response syndrome (SIRS) criteria in addition to a suspected or proven infection. A recent large retrospective study,...",
+            "date": "2015-04-28",
+            "categories": "sepsis",
+            "tags": "suspected,response,sepsis",
+            "recuweb_url": "http://en.recuweb.com/sepsis/nature.com/2015/04/sepsis-revising-definitions-of",
+            "resource_url": "http://news.google.com/?hl=en&q=sepsis&output=atom&nord=1",
+            "source_url": "http://nature.com/articles/nrneph.2015.66"
+        },
         "theargus.co.uk/2015/04/call-for-review-of-sepsis-treatment-the-argus": {
             "title": "Call for review of Sepsis treatment - The Argus...",
             "snippet": "The ArgusCall for review of Sepsis treatmentThe ArgusA major overhaul is needed into how hospitals identify and treat a life-threatening disease, a leading doctor has warned. Sepsis, known as the silent killer, affects thousands of people every year...",
             "date": "2015-04-27",
             "categories": "life,sepsis",
-            "tags": "leading,threatening,disease,into,hospitals,life,sepsis",
+            "tags": "disease,major,sepsis",
             "recuweb_url": "http://en.recuweb.com/sepsis/theargus.co.uk/2015/04/call-for-review-of-sepsis-treatment-the-argus",
-            "resource_url": "http://news.google.com/?hl=en&q=sepsis&output=atom&nord=1",
-            "source_url": "http://theargus.co.uk/news/12915145.Call_for_review_of_Sepsis_treatment/?ref=rss"
+            "resource_url": "http://news.google.com/?hl=en&q=sepsis%2Bsepsis&output=atom&nord=1",
+            "source_url": "http://theargus.co.uk/news/12915145.Call_for_review_of_Sepsis_treatment/"
         },
         "7thspace.com/2015/04/clinical-evaluation-of-commercial-nucleic-acid-amplification-tests-in-patients": {
             "title": "Clinical evaluation of commercial nucleic acid amplification tests in patients with suspected...",
             "snippet": "Sepsis is a serious medical condition requiring timely administered, appropriate antibiotic therapy. Blood culture is regarded as the gold standard for aetiological diagnosis of sepsis, but it suffers from low sensitivity and long turnaround time.",
             "date": "2015-04-27",
             "categories": "culture,therapy,sepsis",
-            "tags": "therapy,medical,suspected,clinical,sepsis",
+            "tags": "therapy,medical,condition,evaluation,patients,suspected,clinical,sepsis",
             "recuweb_url": "http://en.recuweb.com/sepsis/7thspace.com/2015/04/clinical-evaluation-of-commercial-nucleic-acid-amplification-tests-in-patients",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sepsis&format=RSS&cc=us",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sepsis%2Bsepsis&format=RSS&cc=us",
             "source_url": "http://7thspace.com/headlines/507353/clinical_evaluation_of_commercial_nucleic_acid_amplification_tests_in_patients_with_suspected_sepsis.html"
-        },
-        "4-traders.com/2015/04/premier-sepsis-mortality-ratio-down-45%-1m-savings": {
-            "title": "Premier: Sepsis mortality ratio down 45%, 1M savings...",
-            "snippet": "The Premier partner worked with a multi-disciplinary hospital task force to address the gaps in care between current practice and leading practice in sepsis care. The team identified early recognition of sepsis signs as vital along with the...",
-            "date": "2015-04-27",
-            "categories": "sepsis",
-            "tags": "recognition,hospital,care,leading,mortality,down,sepsis",
-            "recuweb_url": "http://en.recuweb.com/sepsis/4-traders.com/2015/04/premier-sepsis-mortality-ratio-down-45%-1m-savings",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sepsis&format=RSS&cc=us",
-            "source_url": "http://4-traders.com/PREMIER-INC-14383011/news/Premier--Sepsis-mortality-ratio-down-45-1M-savings-20264221/"
         },
         "biomedcentral.com/2015/04/recognizing-and-managing-sepsis-what-needs-to-be-done": {
             "title": "Recognizing and managing sepsis: what needs to be done?",
@@ -56,60 +106,10 @@
             "snippet": "How can we improve sepsis recognition and management? In a forum article published today in BMC Medicine, experts in sepsis care explore this issue, highlighting special considerations in different patient groups. This blog takes a look at the...",
             "date": "2015-04-27",
             "categories": "medicine,management,sepsis",
-            "tags": "patient,care,medicine,recognition,management,sepsis",
+            "tags": "patient,care,medicine,recognition,management,improve,detection,sepsis",
             "recuweb_url": "http://en.recuweb.com/sepsis/blogs.biomedcentral.com/2015/04/sepsis-care-the-importance-of-rapid-detection-and-management",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sepsis&format=RSS&cc=us",
             "source_url": "http://blogs.biomedcentral.com/on-medicine/2015/04/27/sepsis-care-importance-rapid-detection-management/"
-        },
-        "dailymail.co.uk/2015/04/teen-struck-down-by-mystery-illness-gets-prom-brought-to": {
-            "title": "Teen struck down by mystery illness gets prom brought to her hospital bed with the help of some...",
-            "snippet": "The teen was hospitalized on Monday with what was initially thought to be a stomach bug that turned into sepsis, a life-threatening complication of an infection. Catrece said the sepsis attacked Hurd's muscles and her heart, and she has not been...",
-            "date": "2015-04-27",
-            "categories": "life,sepsis",
-            "tags": "threatening,threatening-complication,complication,infection,life,into,down,hospital,sepsis",
-            "recuweb_url": "http://en.recuweb.com/sepsis/dailymail.co.uk/2015/04/teen-struck-down-by-mystery-illness-gets-prom-brought-to",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sepsis&format=RSS&cc=us",
-            "source_url": "http://dailymail.co.uk/news/article-3056522/Nebraska-hospital-brings-prom-sick-teen-s-bedside.html"
-        },
-        "fiercehealthcare.com/2015/04/how-main-line-health-cut-sepsis-mortality-rates-by-55%": {
-            "title": "How Main Line Health cut sepsis mortality rates by 55%...",
-            "snippet": "Hospitals that seek to reduce the threat of sepsis can learn from the success of one Philadelphia system that cut sepsis mortality by 55 percent, Hospitals & Health Networks Daily reports. Main Line Health, a five-hospital, community-based...",
-            "date": "2015-04-24",
-            "categories": "health,sepsis",
-            "tags": "health,health_networks,networks,mortality,cut,main,main_line,line,sepsis,hospitals,hospital",
-            "recuweb_url": "http://en.recuweb.com/sepsis/fiercehealthcare.com/2015/04/how-main-line-health-cut-sepsis-mortality-rates-by-55%",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sepsis&format=RSS&cc=us",
-            "source_url": "http://fiercehealthcare.com/story/how-main-line-health-cut-sepsis-mortality-rates-55/2015-04-24"
-        },
-        "hhnmag.com/2015/04/reducing-sepsis-mortality-hospitals-&-health-networks": {
-            "title": "Reducing Sepsis Mortality - Hospitals & Health Networks...",
-            "snippet": "Reducing Sepsis MortalityHospitals & Health NetworksWe knew other leading health care organizations were participating in \"surviving sepsis campaigns,\" and we were committed to learning best practices. Main Line was poised to integrate this clinical...",
-            "date": "2015-04-23",
-            "categories": "learning,health,health-care,sepsis",
-            "tags": "clinical,main,main_line,line,leading,health,care,sepsis,health_networks,networks,mortality,hospitals",
-            "recuweb_url": "http://en.recuweb.com/sepsis/hhnmag.com/2015/04/reducing-sepsis-mortality-hospitals-&-health-networks",
-            "resource_url": "http://news.google.com/?hl=en&q=sepsis&output=atom&nord=1",
-            "source_url": "http://hhnmag.com/display/HHN-news-article.dhtml?dcrPath=/templatedata/HF_Common/NewsArticle/data/HHN/Daily/2015/April/Patient-Safety-Reducing-Sepsis-Murphy"
-        },
-        "thestreet.com/2015/04/epicast-report-sepsis-epidemiology-forecast-to-2023": {
-            "title": "EpiCast Report: Sepsis - Epidemiology Forecast To 2023...",
-            "snippet": "NEW YORK, April 21, 2015/PRNewswire/-- EpiCast Report: Sepsis - Epidemiology Forecast to 2023 SummarySepsis is a life-threatening complication arising from an infection; it occurs when the body's response to the infection damages its own tissues and...",
-            "date": "2015-04-21",
-            "categories": "life,epidemiology,sepsis",
-            "tags": "infection,threatening,threatening-complication,complication,life,epidemiology,epidemiology_forecast,forecast,epicast,epicast_report,report,sepsis",
-            "recuweb_url": "http://en.recuweb.com/sepsis/thestreet.com/2015/04/epicast-report-sepsis-epidemiology-forecast-to-2023",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sepsis&format=RSS&cc=us",
-            "source_url": "http://thestreet.com/story/13120741/1/epicast-report-sepsis--epidemiology-forecast-to-2023.html"
-        },
-        "prnewswire.com/2015/04/epicast-report-sepsis-epidemiology-forecast-to-2023-pr-newswire-press-release": {
-            "title": "EpiCast Report: Sepsis - Epidemiology Forecast to 2023 - PR Newswire (press release)...",
-            "snippet": "EpiCast Report: Sepsis - Epidemiology Forecast to 2023PR Newswire (press release)Throughout the forecast period, the US will have the highest number of diagnosed incident cases of sepsis in the 6MM. the sepsis mortality cases will increase from...",
-            "date": "2015-04-21",
-            "categories": "epidemiology,sepsis",
-            "tags": "mortality,forecast,epidemiology,epidemiology_forecast,epicast,epicast_report,report,sepsis",
-            "recuweb_url": "http://en.recuweb.com/sepsis/prnewswire.com/2015/04/epicast-report-sepsis-epidemiology-forecast-to-2023-pr-newswire-press-release",
-            "resource_url": "http://news.google.com/?hl=en&q=sepsis&output=atom&nord=1",
-            "source_url": "http://prnewswire.com/news-releases/epicast-report-sepsis---epidemiology-forecast-to-2023-300069634.html"
         }
     }
 }
