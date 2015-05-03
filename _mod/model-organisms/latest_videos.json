@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "model-organisms",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/model-organisms/",
@@ -11,6 +11,18 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/model-organisms/model-organisms/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/studying-huntington-s-disease-using-model-organisms": {
+            "title": "Studying Huntington's Disease Using Model Organisms...",
+            "snippet": "Studying Huntington's Disease Using Model OrganismsAuthor: LazaroArmandoTags: Studying Huntingtons Disease Using Model Organisms Posted: 27 April 2015Rating:: 0...",
+            "date": "2015-04-27",
+            "author_name": "LazaroArmando",
+            "categories": "model-organisms,organisms",
+            "tags": "studying,using,model,model_organisms,organisms",
+            "recuweb_url": "http://en.recuweb.com/organisms/dailymotion.com/2015/04/studying-huntington-s-disease-using-model-organisms",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/model+organisms+model+organisms/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2o6y0a_studying-huntington-s-disease-using-model-organisms_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o6y0a_studying-huntington-s-disease-using-model-organisms_tech"
+        },
         "dailymotion.com/2015/04/model-organisms-yeast-professor-rhona-borts": {
             "title": "Model Organisms - Yeast - Professor Rhona Borts...",
             "snippet": "Model Organisms - Yeast - Professor Rhona BortsAuthor: CyrusChappellTags: Model Organisms - Yeast Professor Rhona Borts Posted: 22 April 2015Rating:: 0...",
@@ -49,11 +61,11 @@
         },
         "youtube.com/2015/01/4-weird-lab-animals": {
             "title": "4 Weird Lab Animals...",
-            "snippet": "4 Weird Lab Animals Why do scientists try to learn about/people/by studying creatures that none of us could ever be mistaken for? Learn about model organisms, and why they're so helpful for us. Hosted by:... From: SciShow Views: 385909 9639 ratings...",
+            "snippet": "4 Weird Lab Animals Why do scientists try to learn about/people/by studying creatures that none of us could ever be mistaken for? Learn about model organisms, and why they're so helpful for us. Hosted by:... From: SciShow Views: 387941 9659 ratings...",
             "date": "2015-01-05",
             "author_name": "SciShow",
             "categories": "model-organisms,organisms,animals",
-            "tags": "why,model,model-organisms,organisms,scientists,learn,lab",
+            "tags": "why,model,model-organisms,organisms,studying,scientists,learn,lab",
             "recuweb_url": "http://en.recuweb.com/animals/youtube.com/2015/01/4-weird-lab-animals",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=model%2Borganisms%2Bmodel%2Borganisms&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=v4ePpLoS6xw&feature=youtube_gdata",
@@ -113,23 +125,11 @@
             "date": "2014-02-11",
             "author_name": "1MaginAZN",
             "categories": "model-organisms,organisms,society",
-            "tags": "research,model,model-organisms,organisms,organism,why",
+            "tags": "research,using,model,model-organisms,organisms,organism,why",
             "recuweb_url": "http://en.recuweb.com/society/youtube.com/2014/02/society-s-got-it-backwards-a-model-organism-psa",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=model%2Borganisms%2Bmodel%2Borganisms&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=UMuWUdIC9x4&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/UMuWUdIC9x4/0.jpg"
-        },
-        "youtube.com/2013/11/dnastar-rna-seq-assembly-and-analysis-for-non-model-organisms-webinar": {
-            "title": "DNASTAR - RNA-Seq Assembly and Analysis for Non-Model Organisms Webinar...",
-            "snippet": "DNASTAR - RNA-Seq Assembly and Analysis for Non-Model Organisms Webinar In this webinar, DNASTAR's Venkatesh Balakrishnan demonstrates a de novo transcriptome workflow. Learn how RNA-Seq data is assembled in DNASTAR's SeqMan NGen application and...",
-            "date": "2013-11-21",
-            "author_name": "DNASTARInc",
-            "categories": "model-organisms,organisms",
-            "tags": "model,model_organisms,organisms,learn",
-            "recuweb_url": "http://en.recuweb.com/organisms/youtube.com/2013/11/dnastar-rna-seq-assembly-and-analysis-for-non-model-organisms-webinar",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=model%2Borganisms%2Bmodel%2Borganisms&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=T4jTx1Ub_X0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/T4jTx1Ub_X0/0.jpg"
         }
     }
 }
