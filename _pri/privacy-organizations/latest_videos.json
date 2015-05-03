@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "privacy-organizations",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/privacy-organizations/",
@@ -65,7 +65,7 @@
             "date": "2014-06-20",
             "author_name": "Iron Mountain",
             "categories": "privacy,marketing",
-            "tags": "privacy,healthcare,organizations,information",
+            "tags": "privacy,healthcare,healthcare_organizations,organizations,information",
             "recuweb_url": "http://en.recuweb.com/marketing/youtube.com/2014/06/secure-it-asset-disposition-for-healthcare-organizations-ep-39-healthcaretalks",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=privacy%2Borganizations%2Bprivacy%2Borganizations&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=II9KCZkUFtE&feature=youtube_gdata",
@@ -79,7 +79,7 @@
             "categories": "technology,environment,privacy",
             "tags": "risks,within,healthcare,information,technology,security,privacy,organizations,cyber",
             "recuweb_url": "http://en.recuweb.com/privacy/youtube.com/2014/02/sensato-we-help-healthcare-organizations-make-sense-of-hipaa-cyber-security",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=privacy%2Borganizations&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=privacy%2Borganizations%2Bprivacy%2Borganizations&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=DJswfLu8dv0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/DJswfLu8dv0/0.jpg"
         },
@@ -89,7 +89,7 @@
             "date": "2013-11-26",
             "author_name": "Axiomatics AB",
             "categories": "privacy,science,technology",
-            "tags": "information,organizations,privacy,science,technology",
+            "tags": "information,organizations,privacy,technology",
             "recuweb_url": "http://en.recuweb.com/technology/youtube.com/2013/11/privacy-regulations-a-complex-authorization-challenge-for-today-s-organizations",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=privacy%2Borganizations%2Bprivacy%2Borganizations&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=nLEOnda1JBk&feature=youtube_gdata",
@@ -101,11 +101,23 @@
             "date": "2013-09-23",
             "author_name": "NYMITY",
             "categories": "privacy,management,evidence",
-            "tags": "privacy,management,organizations,scalable,nymity,data",
+            "tags": "privacy,management,organizations,nymity,data",
             "recuweb_url": "http://en.recuweb.com/evidence/youtube.com/2013/09/nymity-data-privacy-accountability-scorecard",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=privacy%2Borganizations&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=kZCG4Ellewc&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/kZCG4Ellewc/0.jpg"
+        },
+        "youtube.com/2013/07/managing-the-insider-threat-to-phi-privacy-&-security-risks": {
+            "title": "Managing the Insider Threat to PHI: Privacy & Security Risks For Healthcare Organizations...",
+            "snippet": "Managing the Insider Threat to PHI: Privacy & Security Risks For Healthcare Organizations How an Integrated Compliance Solution Can Reduce Privacy & Security Risks For Healthcare Organizations - ID Experts Webinar Webinar: July 24th, 2013...",
+            "date": "2013-07-31",
+            "author_name": "ID Experts",
+            "categories": "privacy",
+            "tags": "webinar,security,risks,healthcare,healthcare_organizations,organizations,privacy",
+            "recuweb_url": "http://en.recuweb.com/privacy/youtube.com/2013/07/managing-the-insider-threat-to-phi-privacy-&-security-risks",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=privacy%2Borganizations&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=VmbF42dKv3Y&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/VmbF42dKv3Y/0.jpg"
         },
         "youtube.com/2011/10/how-organizations-can-ensure-customer-privacy-kirsten-martin": {
             "title": "How Organizations Can Ensure Customer Privacy - Kirsten Martin...",
@@ -118,18 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=privacy%2Borganizations%2Bprivacy%2Borganizations&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=QH2DVQ_6xl8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/QH2DVQ_6xl8/0.jpg"
-        },
-        "youtube.com/2009/08/scalable-privacy-friendly-client-cloud-computing": {
-            "title": "Scalable Privacy-Friendly Client Cloud Computing...",
-            "snippet": "Scalable Privacy-Friendly Client Cloud Computing Carl Hewitt, Emeritus in the Electrical Engineering and Computer Science department at MIT, talks about Organizations of Restricted Generality (ORGs). ORGs is an architecture providing foundations...",
-            "date": "2009-08-27",
-            "author_name": "Stanford",
-            "categories": "science,engineering,privacy",
-            "tags": "science,scalable,privacy,organizations",
-            "recuweb_url": "http://en.recuweb.com/privacy/youtube.com/2009/08/scalable-privacy-friendly-client-cloud-computing",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=privacy%2Borganizations&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=Le8WhRS3TNg&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Le8WhRS3TNg/0.jpg"
         }
     }
 }
