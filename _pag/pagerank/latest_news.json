@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pagerank",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/pagerank/",
@@ -11,35 +11,35 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/pagerank/pagerank/blogs.json"
     },
     "items": {
-        "forbes.com/2015/04/10-things-to-do-before-you-hit-publish-forbes": {
-            "title": "10 Things To Do Before You Hit 'Publish'- Forbes...",
-            "snippet": "Forbes10 Things To Do Before You Hit 'Publish'ForbesBuying or selling links that pass PageRank. This includes exchanging money for links, or posts that contain links; exchanging goods or services for links; or sending someone a free product in...",
-            "date": "2015-04-27",
+        "slate.com/2015/04/the-dangers-of-letting-algorithms-decide-who-is-eligible-for-welfare": {
+            "title": "The Dangers of Letting Algorithms Decide Who Is Eligible for Welfare - Slate Magazine...",
+            "snippet": "Slate MagazineThe Dangers of Letting Algorithms Decide Who Is Eligible for WelfareSlate MagazineGoogle's much-debated PageRank algorithm, for example, calculates the relative importance of Web sources by counting the number and quality of links to...",
+            "date": "2015-04-30",
             "categories": "pagerank",
-            "tags": "free,pagerank",
-            "recuweb_url": "http://en.recuweb.com/pagerank/forbes.com/2015/04/10-things-to-do-before-you-hit-publish-forbes",
-            "resource_url": "http://news.google.com/?hl=en&q=pagerank%2Bpagerank&output=atom&nord=1",
-            "source_url": "http://forbes.com/sites/denispinsky/2015/04/27/before-you-publish/"
+            "tags": "quality,importance,algorithm,pagerank,web",
+            "recuweb_url": "http://en.recuweb.com/pagerank/slate.com/2015/04/the-dangers-of-letting-algorithms-decide-who-is-eligible-for-welfare",
+            "resource_url": "http://news.google.com/?hl=en&q=pagerank&output=atom&nord=1",
+            "source_url": "http://slate.com/articles/technology/future_tense/2015/04/the_dangers_of_letting_algorithms_enforce_policy.html"
         },
-        "iphone.sys-con.com/2015/04/career-relevance-in-the-devops-age-by-theebizwizard-devopssummit": {
-            "title": "Career Relevance in the DevOps Age By TheEbizWizard DevOpsSummit...",
-            "snippet": "The PageRank based methodology they use to extract influencers on a particular topic (tweets mentioning InternetofThings or IoT in this case) takes into account the number and quality of contextual references that a user receives.",
-            "date": "2015-04-27",
-            "categories": "pagerank",
-            "tags": "quality,into,pagerank",
-            "recuweb_url": "http://en.recuweb.com/pagerank/iphone.sys-con.com/2015/04/career-relevance-in-the-devops-age-by-theebizwizard-devopssummit",
+        "gizmodo.com/2015/04/the-most-important-wikipedia-pages-from-first-open-wiki-ranking": {
+            "title": "The Most Important Wikipedia Pages, From the First Open Wiki Ranking...",
+            "snippet": "It uses a series of metricsincluding harmonic centrality, PageRank and page viewsto measure the importance of each page. You can read about the technicalities here, but you want to see the top ten, right? At the time of writing, they are (ranked...",
+            "date": "2015-04-28",
+            "categories": "wiki,pagerank",
+            "tags": "writing,top,here,importance,each,page,ranking,pagerank",
+            "recuweb_url": "http://en.recuweb.com/pagerank/gizmodo.com/2015/04/the-most-important-wikipedia-pages-from-first-open-wiki-ranking",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=us",
-            "source_url": "http://iphone.sys-con.com/node/3329079"
+            "source_url": "http://gizmodo.com/the-most-important-wikipedia-pages-from-the-first-open-1700609062"
         },
-        "searchengineland.com/2015/04/when-disavowing-links-at-the-domain-level-don-t-let": {
-            "title": "When Disavowing Links At The Domain Level, Don't Let Your Machete Turn Into... - Search Engine Land...",
-            "snippet": "Search Engine LandWhen Disavowing Links At The Domain Level, Don't Let Your Machete Turn Into...Search Engine LandSecond, most links are nofollowed across major social networks, so they aren't passing PageRank anyway. Third, if somehow you do find a...",
+        "calvinayre.com/2015/04/seo-tip-of-the-week-offsite-trust-optimisation-getting-links": {
+            "title": "SEO Tip of the Week: Offsite Trust Optimisation: Getting links from trusted domains...",
+            "snippet": "Does it actually make any difference? Having done a lot of research by hanging out with the black hat crowd, its fairly obvious there is a split out between PageRank and user engagement affecting rankings. Spammers will do things like reinstate...",
             "date": "2015-04-27",
-            "categories": "social-network,search-engine,pagerank",
-            "tags": "find,search,search_engine,engine,into,pagerank",
-            "recuweb_url": "http://en.recuweb.com/pagerank/searchengineland.com/2015/04/when-disavowing-links-at-the-domain-level-don-t-let",
-            "resource_url": "http://news.google.com/?hl=en&q=pagerank%2Bpagerank&output=atom&nord=1",
-            "source_url": "http://searchengineland.com/disavowing-links-domain-level-dont-let-machete-turn-guillotine-219301"
+            "categories": "pagerank",
+            "tags": "things,any,pagerank",
+            "recuweb_url": "http://en.recuweb.com/pagerank/calvinayre.com/2015/04/seo-tip-of-the-week-offsite-trust-optimisation-getting-links",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=us",
+            "source_url": "http://calvinayre.com/2015/04/28/business/nick-garner-seo-tip-of-the-week-getting-links-from-trusted-domains-video/"
         },
         "dailyherald.com/2015/04/how-to-see-everything-you-ve-ever-googled-if-re-so": {
             "title": "How to see everything you've ever Googled (if you're so brave) - Chicago Daily Herald...",
@@ -51,16 +51,6 @@
             "resource_url": "http://news.google.com/?hl=en&q=pagerank%2Bpagerank&output=atom&nord=1",
             "source_url": "http://dailyherald.com/article/20150425/business/150429167/"
         },
-        "investopedia.com/2015/04/the-story-behind-google-s-success-investopedia": {
-            "title": "The Story Behind Google's Success - Investopedia...",
-            "snippet": "The Story Behind Google's SuccessInvestopediaAll of these pieces came together in a pagerank that decided where a site would display on a specific query. Using this scoring approach, Google was able to serve up more accurate results than many of the...",
-            "date": "2015-04-24",
-            "categories": "google,pagerank",
-            "tags": "results,site,google,success,pagerank",
-            "recuweb_url": "http://en.recuweb.com/pagerank/investopedia.com/2015/04/the-story-behind-google-s-success-investopedia",
-            "resource_url": "http://news.google.com/?hl=en&q=pagerank%2Bpagerank&output=atom&nord=1",
-            "source_url": "http://investopedia.com/articles/personal-finance/042415/story-behind-googles-success.asp"
-        },
         "itnews.sk/2015/04/google-upravuje-pagerank-zv%C3%BDhodnen%C3%A9-bud%C3%BA-str%C3%A1nky-s-mobilnou-verziou": {
             "title": "Google upravuje PageRank, zv\u00fdhodnen\u00e9 bud\u00fa str\u00e1nky s mobilnou verziou -...",
             "snippet": "upravuje PageRank, zv\u00fdhodnen\u00e9 bud\u00fa str\u00e1nky s mobilnou \u00e1le viac ud\u00ed pou\u00edva na pr\u00edstup na internet mobiln\u00e9 zariadenia. A t\u00edto pou\u00edvatelia chc\u00fa pri vyhad\u00e1van\u00ed z\u00edska o najrelevantnejie a najaktu\u00e1lnejie. Google u vo febru\u00e1ri ozn\u00e1mil, e...",
@@ -71,45 +61,55 @@
             "resource_url": "http://news.google.com/?hl=en&q=pagerank&output=atom&nord=1",
             "source_url": "http://itnews.sk/spravy/internet/2015-04-22/c168630-google-upravuje-pagerank-zvyhodnene-budu-stranky-s-mobilnou-verziou"
         },
-        "searchenginejournal.com/2015/04/is-your-web-marketing-team-irrelevant-12-red-flags-to-look": {
-            "title": "Is Your Web Marketing Team Irrelevant? 12 Red Flags to Look For...",
-            "snippet": "A good SEO will keep going back to find out what didnt work and make it better. 12. They Still Tout PageRank as a Measure of Success PageRank as a metric of success has officially died. Google has announced they are no longer updating the public...",
-            "date": "2015-04-21",
-            "categories": "pagerank,marketing,google",
-            "tags": "success,pagerank,back,find,web,marketing,team,seo,google",
-            "recuweb_url": "http://en.recuweb.com/google/searchenginejournal.com/2015/04/is-your-web-marketing-team-irrelevant-12-red-flags-to-look",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=us",
-            "source_url": "http://searchenginejournal.com/web-marketing-team-irrelevant-12-red-flags-look/129897/"
-        },
         "washingtonpost.com/2015/04/how-to-see-everything-youve-ever-googled-if-youre-so-brave": {
             "title": "How to see everything youve ever Googled (if youre so brave)...",
             "snippet": "Thats because Googles pagerank algorithm is designed to surface the results that it thinks youll find most relevant; everything else effectively gets buried. Thats obviously a really useful service, particularly when youre searching...",
             "date": "2015-04-20",
             "categories": "pagerank",
-            "tags": "service,everything,everything-else,everything-else-effectively,else,else-effectively,effectively,algorithm,algorithm-is-designed,designed,designed-to-surface,surface,surface-the-results,results,find,find-most-relevant,relevant,brave,ever,googled,because,pagerank",
+            "tags": "youre,service,everything,everything-else,everything-else-effectively,else,else-effectively,effectively,algorithm,algorithm-is-designed,designed,designed-to-surface,surface,surface-the-results,results,find,find-most-relevant,relevant,brave,ever,googled,because,pagerank",
             "recuweb_url": "http://en.recuweb.com/pagerank/washingtonpost.com/2015/04/how-to-see-everything-youve-ever-googled-if-youre-so-brave",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=us",
             "source_url": "http://washingtonpost.com/news/the-intersect/wp/2015/04/20/how-to-see-everything-youve-ever-googled-if-youre-so-brave/"
-        },
-        "searchenginejournal.com/2015/04/in-2014-how-important-is-an-h1-tag-for-seo-search": {
-            "title": "In 2014, How Important is an H1 Tag for SEO? - Search Engine Journal...",
-            "snippet": "Search Engine JournalIn 2014, How Important is an H1 Tag for SEO?Search Engine JournalThe lost opportunity in this argument is that both sides tend to focus on the direct relationship between an H1 tag and its ability to help a page rank by...",
-            "date": "2015-04-20",
-            "categories": "pagerank,search-engine",
-            "tags": "page,page-rank,rank,search,search_engine,engine,seo",
-            "recuweb_url": "http://en.recuweb.com/search-engine/searchenginejournal.com/2015/04/in-2014-how-important-is-an-h1-tag-for-seo-search",
-            "resource_url": "http://news.google.com/?hl=en&q=pagerank&output=atom&nord=1",
-            "source_url": "http://searchenginejournal.com/in-2014-how-important-is-an-h1-tag-for-seo/"
         },
         "technologyreview.com/2015/03/pagerank-algorithm-reveals-world-s-all-time-top-soccer-team-mit": {
             "title": "Pagerank Algorithm Reveals World's All-Time Top Soccer Team - MIT Technology Review (blog)...",
             "snippet": "Pagerank Algorithm Reveals World's All-Time Top Soccer TeamMIT Technology Review (blog)Today, Verica Lazova and Lasko Basnarkov at Cyril and Methodius University in Macedonia have found another use for the Pagerank algorithm. These guys have used it...",
             "date": "2015-03-13",
             "categories": "university,technology,pagerank",
-            "tags": "team,pagerank,algorithm,world",
+            "tags": "top,pagerank,algorithm,world",
             "recuweb_url": "http://en.recuweb.com/pagerank/technologyreview.com/2015/03/pagerank-algorithm-reveals-world-s-all-time-top-soccer-team-mit",
             "resource_url": "http://news.google.com/?hl=en&q=pagerank&output=atom&nord=1",
             "source_url": "http://technologyreview.com/view/535861/pagerank-algorithm-reveals-worlds-all-time-top-soccer-team/"
+        },
+        "webpronews.com/2014/11/google-we-dont-plan-on-updating-pagerank-again": {
+            "title": "Google: We Dont Plan On Updating PageRank Again...",
+            "snippet": "The writing has been on the wall for quite some time, but if youre still clinging to any shred of hope that Google will be updating Toolbar PageRank again, its probably time to give it up. Do you think Toolbar PageRank should go away, or do you...",
+            "date": "2014-11-24",
+            "categories": "pagerank,google",
+            "tags": "should,away,probably,toolbar,toolbar_pagerank,pagerank,updating,youre,any,writing,pagerank_again,again,google",
+            "recuweb_url": "http://en.recuweb.com/google/webpronews.com/2014/11/google-we-dont-plan-on-updating-pagerank-again",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=us",
+            "source_url": "http://webpronews.com/google-we-dont-plan-on-updating-pagerank-again-2014-11"
+        },
+        "searchenginewatch.com/2014/10/pagerank-dead-what-will-replace-the-green-standard": {
+            "title": "PageRank Dead? What Will Replace the Green Standard?",
+            "snippet": "The first time that SEOs were faced with the prospect of PageRank going away was a year ago, when Matt Cuts suggested that there would be no further updates in 2013. Source: Later that same month, Cutts indicated the pipeline that pushes...",
+            "date": "2014-10-20",
+            "categories": "pagerank",
+            "tags": "away,pagerank",
+            "recuweb_url": "http://en.recuweb.com/pagerank/searchenginewatch.com/2014/10/pagerank-dead-what-will-replace-the-green-standard",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=us",
+            "source_url": "http://searchenginewatch.com/sew/how-to/2376451/pagerank-dead-what-will-replace-the-green-standard"
+        },
+        "searchenginejournal.com/2014/10/google-will-probably-not-be-updating-toolbar-pagerank-again-john-mueller": {
+            "title": "Google Will (Probably) Not Be Updating Toolbar PageRank Again, John Mueller... - Search Engine...",
+            "snippet": "Google Will (Probably) Not Be Updating Toolbar PageRank Again, John Mueller...Search Engine JournalToolbar PageRank is something that we have not updated for about a year now, and we're probably not going to be updating it going forward we have a...",
+            "date": "2014-10-09",
+            "categories": "pagerank,search-engine,google",
+            "tags": "probably,updating,pagerank,search,search_engine,engine,toolbar,toolbar_pagerank,pagerank_again,again,google",
+            "recuweb_url": "http://en.recuweb.com/google/searchenginejournal.com/2014/10/google-will-probably-not-be-updating-toolbar-pagerank-again-john-mueller",
+            "resource_url": "http://news.google.com/?hl=en&q=pagerank&output=atom&nord=1",
+            "source_url": "http://searchenginejournal.com/google-will-probably-updating-toolbar-pagerank-john-mueller-confirms/117691/"
         }
     }
 }
