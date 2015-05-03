@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "php",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/php/",
@@ -17,35 +17,11 @@
             "date": "2015-04-27",
             "author_name": "MichalBrien",
             "categories": "jquery,php",
-            "tags": "website,using,php,tutorial",
+            "tags": "php,tutorial",
             "recuweb_url": "http://en.recuweb.com/php/dailymotion.com/2015/04/jquery-ajax-php-tutorial-swap-out-page-content-on-your-website",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/php+php/0?af=1",
             "source_url": "http://dailymotion.com/video/x2o3q75_jquery-ajax-php-tutorial-swap-out-page-content-on-your-website-using-php_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2o3q75_jquery-ajax-php-tutorial-swap-out-page-content-on-your-website-using-php_tech"
-        },
-        "youtube.com/2015/04/create-your-own-php-mail-wrapper": {
-            "title": "Create Your Own PHP Mail Wrapper...",
-            "snippet": "Create Your Own PHP Mail Wrapper Make sending email easy within your application by using this mail wrapper. It allows us to send email in PHP by choosing a view (template), data we want to send, and a closure to define who... From: phpacademy...",
-            "date": "2015-04-23",
-            "author_name": "phpacademy",
-            "categories": "php",
-            "tags": "data,using,create,php",
-            "recuweb_url": "http://en.recuweb.com/php/youtube.com/2015/04/create-your-own-php-mail-wrapper",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=nXV1NlU24mY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/nXV1NlU24mY/0.jpg"
-        },
-        "youtube.com/2015/03/advanced-php-programming-with-mysql-tutorial-part-16-the-photograph-class": {
-            "title": "Advanced PHP Programming with MySQL Tutorial - Part 16: The Photograph Class(part - 1)...",
-            "snippet": "Advanced PHP Programming with MySQL Tutorial - Part 16: The Photograph Class(part - 1) Advanced PHP Programming with mysql Tutorial For Complete Playlist Click Here: From: Rahul Bhatia Views: 110 0 ratings Time: 24:28 More in Education...",
-            "date": "2015-03-13",
-            "author_name": "Rahul Bhatia",
-            "categories": "play,mysql,php,education",
-            "tags": "tutorial,mysql,php,programming,part,education",
-            "recuweb_url": "http://en.recuweb.com/education/youtube.com/2015/03/advanced-php-programming-with-mysql-tutorial-part-16-the-photograph-class",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=xJO_kdZzre8&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/xJO_kdZzre8/0.jpg"
         },
         "youtube.com/2015/02/php-top-down-programming-logic-part-6": {
             "title": "PHP - Top Down Programming Logic - Part 6...",
@@ -101,11 +77,35 @@
             "date": "2014-12-05",
             "author_name": "nethuestechnologies",
             "categories": "php",
-            "tags": "create,php",
+            "tags": "development,php",
             "recuweb_url": "http://en.recuweb.com/php/dailymotion.com/2014/12/php-development-india-outsource-company",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/php+php/0?af=1",
             "source_url": "http://dailymotion.com/video/x2btkcg_php-development-india-outsource-php-development-company_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2btkcg_php-development-india-outsource-php-development-company_tech"
+        },
+        "youtube.com/2014/08/php-application-biblioth%C3%A8que-1": {
+            "title": "PHP: Application biblioth\u00e8que (1)...",
+            "snippet": "PHP: Application biblioth\u00e8que (1) PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. As of January 2013, PHP was ins... From: jiya patel Views: 14 0 ratings Time: 11:21 More...",
+            "date": "2014-08-13",
+            "author_name": "jiya patel",
+            "categories": "web-development,php",
+            "tags": "programming,language,web,development,php",
+            "recuweb_url": "http://en.recuweb.com/php/youtube.com/2014/08/php-application-biblioth%C3%A8que-1",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=tLS4nykulQE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/tLS4nykulQE/0.jpg"
+        },
+        "youtube.com/2014/08/logical-operators-in-php": {
+            "title": "Logical Operators in Php...",
+            "snippet": "Logical Operators in Php Logical Operators in Php Php operat\u00f6rler Php and Mysql Course Php tutorials, Php g\u00f6rsel eitim seti Array Data Structure,PHP (Programming Language),Array Dat... From: Learn by TechnoLab Views: 5 0 ratings Time: 01:33 More...",
+            "date": "2014-08-06",
+            "author_name": "Learn by TechnoLab",
+            "categories": "mysql,php",
+            "tags": "array,programming,programming_language,language,array_data,array_data_structure,data,data_structure,structure,g\u00f6rsel,mysql,course,php,tutorials,seti,learn,technolab",
+            "recuweb_url": "http://en.recuweb.com/php/youtube.com/2014/08/logical-operators-in-php",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=7n8Y71fFbJg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/7n8Y71fFbJg/0.jpg"
         },
         "youtube.com/2014/08/multi-dimension-arrays-in-php": {
             "title": "Multi Dimension arrays in PHP...",
@@ -113,23 +113,23 @@
             "date": "2014-08-06",
             "author_name": "Learn by TechnoLab",
             "categories": "mysql,php",
-            "tags": "arrays,data,programming,mysql,php,learn",
+            "tags": "arrays,array_data,array_data_type,data,data_type,type,programming,programming_language,language,array_data_structure,data_structure,structure,g\u00f6rsel,mysql,mysql_course,mysql_course_php,course,course_php,php,tutorials,seti,learn,technolab",
             "recuweb_url": "http://en.recuweb.com/php/youtube.com/2014/08/multi-dimension-arrays-in-php",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=H_o_5iiXLrM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/H_o_5iiXLrM/0.jpg"
         },
-        "dailymotion.com/2014/07/hublaa-autoliker-script-download-free-php": {
-            "title": "Hublaa Autoliker Script Download Free - Download Hublaa php Script Free...",
-            "snippet": "Website Used On Our Video Demo: abdullah-rahimoon-3Tags: PHP Script autolikerfacebook facebookautoliker autoliker autolikerscript phpscript Posted: 21 July 2014Rating:: 0...",
-            "date": "2014-07-21",
-            "author_name": "abdullah-rahimoon-3",
-            "categories": "php",
-            "tags": "website,php",
-            "recuweb_url": "http://en.recuweb.com/php/dailymotion.com/2014/07/hublaa-autoliker-script-download-free-php",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/php/0?af=1",
-            "source_url": "http://dailymotion.com/video/x21vbin_hublaa-autoliker-script-download-free-download-hublaa-php-script-free_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x21vbin_hublaa-autoliker-script-download-free-download-hublaa-php-script-free_tech"
+        "youtube.com/2014/08/while-structure-in-php": {
+            "title": "While Structure in PHP...",
+            "snippet": "While Structure in PHP While Structure in PHP Php and Mysql Course Php tutorials, Php g\u00f6rsel eitim seti Array Data Structure,PHP (Programming Language),Array Data Type,Operator,PH... From: Learn by TechnoLab Views: 4 0 ratings Time: 07:12 More in...",
+            "date": "2014-08-06",
+            "author_name": "Learn by TechnoLab",
+            "categories": "mysql,php",
+            "tags": "array,array_data,array_data_type,data,data_type,type,programming,programming_language,language,array_data_structure,data_structure,structure,g\u00f6rsel,mysql,mysql_course,mysql_course_php,course,course_php,php,tutorials,seti,learn,technolab",
+            "recuweb_url": "http://en.recuweb.com/php/youtube.com/2014/08/while-structure-in-php",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=LSQq43RQNWU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/LSQq43RQNWU/0.jpg"
         }
     }
 }
