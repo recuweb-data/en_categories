@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "fixed-income-market",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/fixed-income-market/",
@@ -11,16 +11,48 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/fixed-income-market/fixed-income-market/blogs.json"
     },
     "items": {
-        "etftrends.com/2015/04/fixed-income-etfs-that-beat-interest-rate-risk-etf-trends": {
-            "title": "Fixed-Income ETFs That Beat Interest Rate Risk ETF Trends...",
-            "snippet": "Peyton Studebaker, Managing Director and Portfolio Management at Caprin Asset Management, argues that the use of ETFs as part of fixed-income portfolio is helpful in navigating the bond markets and in responding to a...",
-            "date": "2015-04-23",
-            "author_name": "Max Chen",
-            "categories": "asset-management,management,interest-rate-risk,markets",
-            "tags": "management,portfolio,income,income_etfs,etfs,interest,rate,risk,etf,etf_trends,trends,fixed,bond,markets",
-            "recuweb_url": "http://en.recuweb.com/markets/etftrends.com/2015/04/fixed-income-etfs-that-beat-interest-rate-risk-etf-trends",
+        "etftrends.com/2015/04/aggregate-bond-etfs-to-establish-a-fixed-income-portfolio-s-core": {
+            "title": "Aggregate Bond ETFs to Establish a Fixed-Income Portfolio's Core...",
+            "snippet": "AGG's underlying index includes a broad mix of fixed-rate, investment-grade government, corporate and securitized bonds that are weighted by float-adjusted market capitalization. Consequently, the portfolio tilts towards...",
+            "date": "2015-04-27",
+            "author_name": "Tom Lydon",
+            "tags": "towards,corporate,income,income_portfolio,portfolio,bonds,bond_etfs,etfs,fixed,investment,grade,government,market",
+            "recuweb_url": "http://en.recuweb.com/etftrends.com/2015/04/aggregate-bond-etfs-to-establish-a-fixed-income-portfolio-s-core",
             "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bmarket%2Bfixed%2Bincome%2Bmarket&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://etftrends.com/2015/04/fixed-income-etfs-that-beat-interest-rate-risk/"
+            "source_url": "http://etftrends.com/2015/04/aggregate-bond-etfs-to-establish-a-fixed-income-portfolios-core/"
+        },
+        "canadiansecuritieslaw.com/2015/04/osc-report-and-staff-notice-on-canadian-fixed-income-market": {
+            "title": "OSC Report and Staff Notice on Canadian Fixed Income Market...",
+            "snippet": "Simon Romano - On April 23, 2015, the Ontario Securities Commission (OSC) released its report on the Canadian fixed income market and published OSC St.",
+            "date": "2015-04-27",
+            "author_name": "Stikeman Elliott LLP",
+            "categories": "fixed-income,fixed-income-market",
+            "tags": "published,released,ontario,ontario_securities,ontario_securities_commission,securities,securities_commission,commission,canadian,canadian_fixed,canadian_fixed_income,fixed,fixed_income,fixed_income_market,income,income_market,market,staff,staff_notice,notice,osc,osc_report,report",
+            "recuweb_url": "http://en.recuweb.com/fixed-income-market/canadiansecuritieslaw.com/2015/04/osc-report-and-staff-notice-on-canadian-fixed-income-market",
+            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bmarket%2Bfixed%2Bincome%2Bmarket&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://canadiansecuritieslaw.com/2015/04/articles/continuous-timely-disclosure/osc-report-and-staff-notice-on-canadian-fixed-income-market-released-today/"
+        },
+        "investopedia.com/2015/04/fixed-income-etfs-emerging-markets-local-debt-pfem": {
+            "title": "Fixed Income ETFs: Emerging Markets Local Debt (PFEM)...",
+            "snippet": "What you need to know if you are considering trading PowerShares Fundamental Emerging Markets Local Debt ETF.",
+            "date": "2015-04-24",
+            "author_name": "Dan Moskowitz",
+            "categories": "markets,fixed-income",
+            "tags": "emerging,emerging_markets,markets,debt,fixed,fixed_income,income,etfs,etf",
+            "recuweb_url": "http://en.recuweb.com/fixed-income/investopedia.com/2015/04/fixed-income-etfs-emerging-markets-local-debt-pfem",
+            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bmarket%2Bfixed%2Bincome%2Bmarket&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://investopedia.com/articles/investing/042415/fixed-income-etfs-emerging-markets-local-debt.asp"
+        },
+        "marketsmedia.com/2015/04/canadian-regulators-push-for-bond-market-transparency-markets": {
+            "title": "Canadian Regulators Push for Bond-Market Transparency - Markets...",
+            "snippet": "The Ontario Securities Commission has published a report on the Canadian fixed income market and has set out the steps it will take to enhance the transparency and regulation of fixed income markets. According to the...",
+            "date": "2015-04-24",
+            "author_name": "steve",
+            "categories": "markets",
+            "tags": "steps,enhance,transparency,published,ontario,ontario_securities,ontario_securities_commission,securities,securities_commission,commission,markets,canadian,regulators,bond,report,fixed,income",
+            "recuweb_url": "http://en.recuweb.com/markets/marketsmedia.com/2015/04/canadian-regulators-push-for-bond-market-transparency-markets",
+            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bmarket%2Bfixed%2Bincome%2Bmarket&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://marketsmedia.com/canadian-regulators-push-for-bond-market-transparency/"
         },
         "investmentexecutive.com/2015/04/osc-eyes-fairness-in-fixed-income-markets-investment-executive": {
             "title": "OSC eyes fairness in fixed income markets - Investment Executive...",
@@ -28,43 +60,21 @@
             "date": "2015-04-23",
             "author_name": "James Langton",
             "categories": "markets",
-            "tags": "ontario,ontario_securities,securities,investor,transparency,investment,osc,fixed,income,markets,market,canadian",
+            "tags": "ontario,ontario_securities,securities,efforts,investor,transparency,investment,osc,fixed,income,markets,market,regulators,canadian",
             "recuweb_url": "http://en.recuweb.com/markets/investmentexecutive.com/2015/04/osc-eyes-fairness-in-fixed-income-markets-investment-executive",
-            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bmarket%2Bfixed%2Bincome%2Bmarket&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bmarket&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://investmentexecutive.com/-/osc-eyes-fairness-in-fixed-income-markets"
         },
-        "automatedtrader.net/2015/04/marketaxess-launches-pricing-tool-for-european-fixed-income": {
-            "title": "MarketAxess launches pricing tool for European fixed income...",
-            "snippet": "The development of this benchmarking tool follows the launch in February of Axess All, the first intra-day trade tape for European fixed income markets. Rick McVey, Chairman and CEO of MarketAxess, said: \"By providing...",
-            "date": "2015-04-22",
-            "author_name": "unknown",
-            "categories": "markets",
-            "tags": "trade,launches,development,tool,pricing,european,fixed,income,markets",
-            "recuweb_url": "http://en.recuweb.com/markets/automatedtrader.net/2015/04/marketaxess-launches-pricing-tool-for-european-fixed-income",
-            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bmarket&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://automatedtrader.net/news/at/153660/marketaxess-launches-pricing-tool-for-european-fixed-income"
-        },
-        "ceps.be/2015/04/liquidity-in-european-fixed-income-markets-what-does-the-future": {
-            "title": "Liquidity in European fixed income markets: What does the future...",
-            "snippet": "Liquidity in fixed income secondary markets has given so far mixed feelings. While liquidity in most sovereign and some corporate bond secondary markets is good, most fixed income instruments have still a limited secondary market liquidity.",
-            "date": "2015-04-16",
-            "author_name": "karin.lenk@ceps.eu",
-            "categories": "markets",
-            "tags": "secondary,liquidity,european,fixed,income,markets,market,corporate,bond,instruments",
-            "recuweb_url": "http://en.recuweb.com/markets/ceps.be/2015/04/liquidity-in-european-fixed-income-markets-what-does-the-future",
-            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bmarket%2Bfixed%2Bincome%2Bmarket&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://ceps.be/events/liquidity-european-fixed-income-markets-what-does-future-hold"
-        },
-        "globenewswire.com/2015/04/thomson-reuters-price-challenge-tool-adds-accuracy": {
-            "title": "Thomson Reuters Price Challenge Tool Adds Accuracy and...",
-            "snippet": "Thomson Reuters Price Challenge Tool Adds Accuracy and Transparency to Fixed Income Market. AskTRPS Enhancement Allows Users to Raise Evaluated Pricing Inquiries via Customer Interface...",
-            "date": "2015-04-16",
+        "mondovisione.com/2015/04/ontario-securities-commission-publishes-report-on-canadian": {
+            "title": "Ontario Securities Commission Publishes Report On Canadian...",
+            "snippet": "Today the Ontario Securities Commission (OSC) published The Canadian Fixed Income Market Report and OSC Staff Notice 21-708 - OSC Staff Report on the Canadian Fixed Income Market and Next Steps to Enhance...",
+            "date": "2015-04-23",
             "author_name": "unknown",
             "categories": "fixed-income,fixed-income-market",
-            "tags": "pricing,fixed,fixed_income,fixed_income_market,income,income_market,market,tool,transparency",
-            "recuweb_url": "http://en.recuweb.com/fixed-income-market/globenewswire.com/2015/04/thomson-reuters-price-challenge-tool-adds-accuracy",
-            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bmarket%2Bfixed%2Bincome%2Bmarket&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://globenewswire.com/news-release/2015/04/16/725380/10129331/en/Thomson-Reuters-Price-Challenge-Tool-Adds-Accuracy-and-Transparency-to-Fixed-Income-Market.html"
+            "tags": "steps,canadian,canadian_fixed,canadian_fixed_income,fixed,fixed_income,fixed_income_market,income,income_market,market,staff,report,notice,ontario,ontario_securities,ontario_securities_commission,securities,securities_commission,commission,osc,published,enhance",
+            "recuweb_url": "http://en.recuweb.com/fixed-income-market/mondovisione.com/2015/04/ontario-securities-commission-publishes-report-on-canadian",
+            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bmarket&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://mondovisione.com/media-and-resources/news/ontario-securities-commission-publishes-report-on-canadian-fixed-income-market-a/"
         },
         "investopedia.com/2015/04/how-should-fixed-income-investors-prepare-for-a-bear-market": {
             "title": "How should fixed-income investors prepare for a bear market?",
@@ -72,7 +82,7 @@
             "date": "2015-04-14",
             "author_name": "Investopedia",
             "categories": "markets",
-            "tags": "exposure,fixed,income,markets,instruments",
+            "tags": "exposure,instruments,safer,should,fixed,income,markets,growth",
             "recuweb_url": "http://en.recuweb.com/markets/investopedia.com/2015/04/how-should-fixed-income-investors-prepare-for-a-bear-market",
             "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bmarket%2Bfixed%2Bincome%2Bmarket&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://investopedia.com/ask/answers/041415/how-should-fixedincome-investors-prepare-bear-market.asp"
@@ -82,42 +92,30 @@
             "snippet": "There are now 30 fixed income platforms operating, with more in development, as bond market liquidity issues spark an explosion in new initiatives.",
             "date": "2015-04-13",
             "author_name": "Financial News",
-            "tags": "liquidity,development,launches,fixed,income,market,bond",
+            "tags": "into,fixed,income,market,bond,liquidity",
             "recuweb_url": "http://en.recuweb.com/efinancialnews.com/2015/04/bondcube-launches-into-crowded-fixed-income-market",
             "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bmarket%2Bfixed%2Bincome%2Bmarket&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://efinancialnews.com/story/2015-04-14/bondcube-launches-fixed-income-platform-into-crowded-market"
-        },
-        "investopedia.com/2015/04/which-factors-most-influence-fixed-income-securities-investopedia": {
-            "title": "Which factors most influence fixed income securities? - Investopedia...",
-            "snippet": "The main factors that impact the prices of fixed income securities include interest rate changes, default or credit risk, and secondary market liquidity risk. Fixed income securities are loans made by an investor to a government or corporate...",
-            "date": "2015-04-10",
-            "author_name": "Investopedia",
-            "categories": "liquidity-risk,credit",
-            "tags": "investor,government,liquidity,risk,secondary,interest,fixed,income,securities,investopedia,rate,changes,credit,market,corporate",
-            "recuweb_url": "http://en.recuweb.com/credit/investopedia.com/2015/04/which-factors-most-influence-fixed-income-securities-investopedia",
-            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bmarket%2Bfixed%2Bincome%2Bmarket&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://investopedia.com/ask/answers/041015/which-factors-most-influence-fixed-income-securities.asp"
-        },
-        "marketsmedia.com/2015/04/all-to-trading-emerges-in-fixed-income-markets-media": {
-            "title": "All-to-All Trading Emerges in Fixed Income - Markets Media...",
-            "snippet": "Since 2008, there has been an increase in electronic trading of fixed income securities, along with a decrease in inventory held by larger dealers and banks. If we look at some of the subtle changes in market structure that...",
-            "date": "2015-04-06",
-            "author_name": "steve",
-            "categories": "markets,fixed-income",
-            "tags": "changes,trading,markets,market,fixed,fixed_income,income,securities",
-            "recuweb_url": "http://en.recuweb.com/fixed-income/marketsmedia.com/2015/04/all-to-trading-emerges-in-fixed-income-markets-media",
-            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bmarket&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://marketsmedia.com/all-to-all-trading-emerges-in-fixed-income/"
         },
         "reddit.com/2015/04/evaluate-my-etf-portfolio-am-i-in-the-right-direction": {
             "title": "Evaluate my ETF portfolio? Am I in the right direction?",
             "snippet": "TFSA with Questrade; 25 years old with a fairly high risk tolerance Canadian Equities: XIC (25%) American Equities: XUS (25%) International Equities: XEF (20%) Emerging Markets: XEC (10%) REITs: ZRE (10%) Bonds/Fixed Income: XBB (10%) Total...",
             "date": "2015-04-01",
             "categories": "fixed-income,markets",
-            "tags": "fixed,fixed_income,income,emerging,emerging_markets,markets,canadian,high,risk,etf,portfolio,bonds",
+            "tags": "fixed,fixed_income,income,emerging,emerging_markets,markets,equities,canadian,high,risk,etf,portfolio,bonds",
             "recuweb_url": "http://en.recuweb.com/markets/reddit.com/2015/04/evaluate-my-etf-portfolio-am-i-in-the-right-direction",
             "resource_url": "http://www.reddit.com/search.rss?q=fixed%2Bincome%2Bmarket%2Bfixed%2Bincome%2Bmarket&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/PersonalFinanceCanada/comments/313d49/evaluate_my_etf_portfolio_am_i_in_the_right/"
+        },
+        "reddit.com/2015/03/fixed-income-for-parents-requirement-help": {
+            "title": "Fixed Income for parents requirement help.",
+            "snippet": "Parents are self employed and planning on retiring soon. They have 500k to invest and up until now, have been in pretty aggressive equities. I suggested they should put more into fixed income and safer investments as they cant weather down markets...",
+            "date": "2015-03-20",
+            "categories": "fixed-income,markets",
+            "tags": "safer,investments,should,into,equities,help,fixed,fixed_income,income,markets",
+            "recuweb_url": "http://en.recuweb.com/markets/reddit.com/2015/03/fixed-income-for-parents-requirement-help",
+            "resource_url": "http://www.reddit.com/search.rss?q=fixed%2Bincome%2Bmarket%2Bfixed%2Bincome%2Bmarket&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/investing/comments/2znk7c/fixed_income_for_parents_requirement_help/"
         }
     }
 }
