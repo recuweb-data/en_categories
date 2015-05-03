@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "culture",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/culture/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/culture/culture/blogs.json"
     },
     "items": {
+        "guampdn.com/2015/05/baby-joe-shares-his-culture-with-teammates-pacific-daily-news": {
+            "title": "'Baby'Joe shares his culture with teammates - Pacific Daily News...",
+            "snippet": "Pacific Daily News'Baby'Joe shares his culture with teammatesPacific Daily News\"I could do other things, but I want to show support for my culture,\" says Joe. \"I will never forget my roots.\" As a well-known fighter, his visibility does a lot to...",
+            "date": "2015-05-02",
+            "categories": "culture",
+            "tags": "want,support,daily,culture",
+            "recuweb_url": "http://en.recuweb.com/culture/guampdn.com/2015/05/baby-joe-shares-his-culture-with-teammates-pacific-daily-news",
+            "resource_url": "http://news.google.com/?hl=en&q=culture&output=atom&nord=1",
+            "source_url": "http://guampdn.com/article/20150503/LIFESTYLE/305030016/-Baby-Joe-shares-his-culture-teammates"
+        },
         "listverse.com/2015/05/10-unexpected-ways-american-culture-translates-overseas": {
             "title": "10 Unexpected Ways American Culture Translates Overseas...",
             "snippet": "Everyone knows that the United States greatest export is its culture. American products, fashion, and movies are consumed all over the world, and our celebrities are beloved by many, with Hollywood movies grossing billions and American musicians...",
@@ -21,24 +31,14 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=culture&format=RSS&cc=us",
             "source_url": "http://listverse.com/2015/05/02/10-unexpected-ways-american-culture-translates-overseas/"
         },
-        "todayszaman.com/2015/05/2015-triennial-in-ny-asks-daring-questions-on-contemporary-culture": {
-            "title": "2015 Triennial in NY asks daring questions on contemporary culture...",
-            "snippet": "Confronting the brutal historical facts of many countries is among the hottest current debates in the international arena, including Turkey. Turkish contemporary artist Asl \u00c7avuolu delves into this very subject through her depiction of mass...",
-            "date": "2015-05-02",
-            "categories": "culture",
-            "tags": "into,international,culture",
-            "recuweb_url": "http://en.recuweb.com/culture/todayszaman.com/2015/05/2015-triennial-in-ny-asks-daring-questions-on-contemporary-culture",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=culture&format=RSS&cc=us",
-            "source_url": "http://todayszaman.com/arts-culture_2015-triennial-in-ny-asks-daring-questions-on-contemporary-culture_379514.html"
-        },
         "buckyandsully.buffalonews.com/2015/05/addition-of-a-db-fits-into-new-culture-buffalo-news": {
             "title": "Addition of a DB fits into new culture - Buffalo News...",
             "snippet": "Buffalo NewsAddition of a DB fits into new cultureBuffalo NewsAs Jim Kelly took the stage to announce the Bills'first draft pick Friday night in Chicago, the crowd gave him a rousing round of applause and chanted his name as his wife, Jill, stood to...",
             "date": "2015-05-02",
             "categories": "culture",
-            "tags": "night,into,culture",
+            "tags": "night,culture",
             "recuweb_url": "http://en.recuweb.com/culture/buckyandsully.buffalonews.com/2015/05/addition-of-a-db-fits-into-new-culture-buffalo-news",
-            "resource_url": "http://news.google.com/?hl=en&q=culture&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=culture%2Bculture&output=atom&nord=1",
             "source_url": "http://buckyandsully.buffalonews.com/2015/05/02/addition-of-a-db-fits-into-new-culture/"
         },
         "helenair.com/2015/05/culture-in-the-kitchen-food-from-foreign-lands-made-by-helena": {
@@ -46,9 +46,9 @@
             "snippet": "Helena Independent RecordCulture in the kitchen: Food from foreign lands made by Helena handsHelena Independent RecordFor both women, cooking foods from other cultures is about more than pleasing or piquing the palate. I took a pilgrimage to India...",
             "date": "2015-05-02",
             "categories": "cooking,foods,food,kitchen,culture",
-            "tags": "cultures,culture",
+            "tags": "culture",
             "recuweb_url": "http://en.recuweb.com/culture/helenair.com/2015/05/culture-in-the-kitchen-food-from-foreign-lands-made-by-helena",
-            "resource_url": "http://news.google.com/?hl=en&q=culture&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=culture%2Bculture&output=atom&nord=1",
             "source_url": "http://helenair.com/culture-in-the-kitchen-food-from-foreign-lands-made-by/article_5ea907fc-53f2-5ceb-ac8b-03eb36edcdf8.html"
         },
         "dailymail.co.uk/2015/05/eden-hazard-is-the-world-s-third-best-player-but-english": {
@@ -58,7 +58,7 @@
             "categories": "football,culture",
             "tags": "world,daily,daily_mail,mail,culture",
             "recuweb_url": "http://en.recuweb.com/culture/dailymail.co.uk/2015/05/eden-hazard-is-the-world-s-third-best-player-but-english",
-            "resource_url": "http://news.google.com/?hl=en&q=culture&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=culture%2Bculture&output=atom&nord=1",
             "source_url": "http://dailymail.co.uk/sport/football/article-3065218/Eden-Hazard-world-s-best-player-English-culture-stop-replicating-success-Cristiano-Ronaldo-Lionel-Messi-warns-Jose-Mourinho.html"
         },
         "dailymail.co.uk/2015/05/floyd-mayweather-is-fighting-our-culture-claims-rapper-50-cent-daily": {
@@ -66,9 +66,9 @@
             "snippet": "Daily MailFloyd Mayweather is fighting our culture, claims rapper 50 CentDaily MailFloyd Mayweather is not only fighting Manny Pacquiao but the whole of modern culture, according to hip-hop mogul and close friend 50 Cent. The rapper, real name...",
             "date": "2015-05-02",
             "categories": "culture",
-            "tags": "whole,only,daily,daily_mail,mail,culture",
+            "tags": "whole,modern,only,daily,daily_mail,mail,culture",
             "recuweb_url": "http://en.recuweb.com/culture/dailymail.co.uk/2015/05/floyd-mayweather-is-fighting-our-culture-claims-rapper-50-cent-daily",
-            "resource_url": "http://news.google.com/?hl=en&q=culture&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=culture%2Bculture&output=atom&nord=1",
             "source_url": "http://dailymail.co.uk/sport/boxing/article-3064969/Floyd-Mayweather-fighting-culture-claims-rapper-50-Cent.html"
         },
         "fox4kc.com/2015/05/irish-culture-enthusiasts-use-native-game-to-support-families-in": {
@@ -76,9 +76,9 @@
             "snippet": "culture enthusiasts use native game to support families in CITY, Mo. It's a sport that dates back to old world Europe. A group of Irish culture enthusiasts want to use Irish road bowling to help the families of fallen first responders. One strong...",
             "date": "2015-05-02",
             "categories": "culture",
-            "tags": "world,culture,city",
+            "tags": "help,want,back,world,support,culture,city",
             "recuweb_url": "http://en.recuweb.com/culture/fox4kc.com/2015/05/irish-culture-enthusiasts-use-native-game-to-support-families-in",
-            "resource_url": "http://news.google.com/?hl=en&q=culture&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=culture%2Bculture&output=atom&nord=1",
             "source_url": "http://fox4kc.com/2015/05/02/irish-culture-enthusiasts-use-native-game-to-support-families-in-need/"
         },
         "news.asiaone.com/2015/05/maid-culture-gets-warm-welcome-in-mexico": {
@@ -101,15 +101,15 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=culture&format=RSS&cc=us",
             "source_url": "http://theguardian.com/culture/2015/may/02/holland-festival-amsterdam-bids-to-lure-britons"
         },
-        "bloomberg.com/2015/05/prime-minister-abe-says-risk-averse-culture-stifles-innovation-bloomberg": {
-            "title": "Prime Minister Abe Says Risk-Averse Culture Stifles Innovation - Bloomberg...",
-            "snippet": "TODAYonlinePrime Minister Abe Says Risk-Averse Culture Stifles InnovationBloombergAn aversion to risk has hindered Japan's attempts to replicate Silicon Valley's success as a hub of innovation, Prime Minister Shinzo Abe said during his visit to the...",
+        "stuff.co.nz/2015/05/new-series-find-me-a-maori-bride-opens-doors-to-culture": {
+            "title": "New series Find me a Maori Bride opens doors to culture -...",
+            "snippet": "series Find me a Maori Bride opens doors to TV's new comedy-drama follows modern day Maori men as they learn the ins and outs of their culture in a bid to find a Maori bride and claim a hefty inheritance - a tough task considering they barely think...",
             "date": "2015-05-02",
-            "categories": "culture",
-            "tags": "culture",
-            "recuweb_url": "http://en.recuweb.com/culture/bloomberg.com/2015/05/prime-minister-abe-says-risk-averse-culture-stifles-innovation-bloomberg",
-            "resource_url": "http://news.google.com/?hl=en&q=culture&output=atom&nord=1",
-            "source_url": "http://bloomberg.com/news/articles/2015-05-02/prime-minister-abe-says-risk-averse-culture-stifles-innovation"
+            "categories": "comedy,culture",
+            "tags": "learn,modern,culture",
+            "recuweb_url": "http://en.recuweb.com/culture/stuff.co.nz/2015/05/new-series-find-me-a-maori-bride-opens-doors-to-culture",
+            "resource_url": "http://news.google.com/?hl=en&q=culture%2Bculture&output=atom&nord=1",
+            "source_url": "http://stuff.co.nz/entertainment/tv-radio/68089782/new-series-find-me-a-maori-bride-opens-doors-to-culture"
         }
     }
 }
