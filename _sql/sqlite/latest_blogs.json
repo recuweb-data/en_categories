@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "sqlite",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/sqlite/",
@@ -11,47 +11,47 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/sqlite/sqlite/blogs.json"
     },
     "items": {
-        "github.com/2015/04/yahoo-squidb-github": {
-            "title": "yahoo/squidb GitHub...",
-            "snippet": "SquiDB is a SQLite database layer for Android. Contribute to squidb development by creating an account on GitHub.",
-            "date": "2015-04-23",
-            "author_name": "WhatCall.com",
-            "categories": "yahoo,sqlite,database",
-            "tags": "github,sqlite,database,android,contribute,development,creating",
-            "recuweb_url": "http://en.recuweb.com/database/github.com/2015/04/yahoo-squidb-github",
-            "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://github.com/yahoo/squidb"
-        },
-        "stackoverflow.com/2015/04/angularjs-insert-username-password-into-sqlite-on-login-if-not-exist": {
-            "title": "angularjs - insert username password into sqlite on login If not exist...",
-            "snippet": "ngCordova Supports a plugin called \"cordovaSQLite\". Go through this its actually very simple. Once Installed use this tutorial Blog...",
-            "date": "2015-04-22",
-            "author_name": "Sajith Estia",
+        "securityfocus.com/2015/04/mdvsa-2015-217-sqlite3-securityfocus": {
+            "title": "MDVSA-2015:217 sqlite3 - SecurityFocus...",
+            "snippet": "Problem Description: Multiple vulnerabilities has been found and corrected in sqlite3: SQLite before does not properly implement the dequoting of collation-sequence names, which allows context-dependent attackers to...",
+            "date": "2015-04-30",
+            "author_name": "unknown",
             "categories": "sqlite",
-            "tags": "into,sqlite,tutorial",
-            "recuweb_url": "http://en.recuweb.com/sqlite/stackoverflow.com/2015/04/angularjs-insert-username-password-into-sqlite-on-login-if-not-exist",
+            "tags": "names,sqlite",
+            "recuweb_url": "http://en.recuweb.com/sqlite/securityfocus.com/2015/04/mdvsa-2015-217-sqlite3-securityfocus",
             "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://stackoverflow.com/questions/29805610/insert-username-password-into-sqlite-on-login-if-not-exist"
+            "source_url": "http://securityfocus.com/archive/1/535406"
         },
-        "github.com/2015/04/almost-react-native-sqlite-github": {
-            "title": "almost/react-native-sqlite GitHub...",
-            "snippet": "SQLite3 bindings for React Native. Contribute to react-native-sqlite development by creating an account on GitHub.",
-            "date": "2015-04-18",
-            "author_name": "Onadvertise",
-            "categories": "sqlite",
-            "tags": "almost,sqlite,github,contribute,development,creating",
-            "recuweb_url": "http://en.recuweb.com/sqlite/github.com/2015/04/almost-react-native-sqlite-github",
+        "decibel.ni.com/2015/04/community-rylabs-sqlite-database-library-national-instruments": {
+            "title": "Community: RyLabs SQLite Database Library - National Instruments...",
+            "snippet": "Overview. The RyLabs SQLite Database Library is a compact library that wraps the functionality of the SQLite database engine in LabVIEW. The database library implements a cross-platform, serverless and self-contained...",
+            "date": "2015-04-28",
+            "author_name": "web.community@ni.com",
+            "categories": "sqlite,database",
+            "tags": "library,engine,compact,sqlite,sqlite_database,database",
+            "recuweb_url": "http://en.recuweb.com/database/decibel.ni.com/2015/04/community-rylabs-sqlite-database-library-national-instruments",
             "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://github.com/almost/react-native-sqlite"
+            "source_url": "http://decibel.ni.com/content/docs/DOC-42205"
+        },
+        "stackoverflow.com/2015/04/sqlite3-bash-passing-variables-to-a-string-for-sqlite-stack-overflow": {
+            "title": "sqlite3 - BASH, passing variables to a string for sqlite - Stack Overflow...",
+            "snippet": "Mixed up the variable artistid with the field 'artist_id'in the sql statement. 4th line from the bottom I believe. Moral: use meaningful variable names and lay off the caffeine.",
+            "date": "2015-04-27",
+            "author_name": "DerekOS",
+            "categories": "sqlite",
+            "tags": "names,off,sqlite,sql,statement",
+            "recuweb_url": "http://en.recuweb.com/sqlite/stackoverflow.com/2015/04/sqlite3-bash-passing-variables-to-a-string-for-sqlite-stack-overflow",
+            "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/29903918/bash-passing-variables-to-a-string-for-sqlite"
         },
         "lcamtuf.blogspot.com/2015/04/lcamtuf-s-blog-finding-bugs-in-sqlite-the-easy-way": {
             "title": "lcamtuf's blog: Finding bugs in SQLite, the easy way...",
-            "snippet": "At the same time, because of its versatility, SQLite sometimes finds use as the mechanism behind SQL-style query APIs that are exposed between privileged execution contexts and less-trusted code. For an example, look no...",
+            "snippet": "SQLite is probably the most popular embedded database in use today; it is also known for being exceptionally well-tested and robust. In contrast to traditional SQL solutions, it does not rely on the usual network-based...",
             "date": "2015-04-14",
             "author_name": "Michal Zalewski",
-            "categories": "sqlite",
-            "tags": "code,between,because,easy,sqlite,sql",
-            "recuweb_url": "http://en.recuweb.com/sqlite/lcamtuf.blogspot.com/2015/04/lcamtuf-s-blog-finding-bugs-in-sqlite-the-easy-way",
+            "categories": "sqlite,database",
+            "tags": "rely,probably,popular,embedded,easy,way,sqlite,database,sql,solutions",
+            "recuweb_url": "http://en.recuweb.com/database/lcamtuf.blogspot.com/2015/04/lcamtuf-s-blog-finding-bugs-in-sqlite-the-easy-way",
             "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://lcamtuf.blogspot.com/2015/04/finding-bugs-in-sqlite-easy-way.html"
         },
@@ -61,7 +61,7 @@
             "date": "2015-03-28",
             "author_name": "charles leifer",
             "categories": "sqlite",
-            "tags": "extension,server,sqlite",
+            "tags": "extension,server,meet,sqlite",
             "recuweb_url": "http://en.recuweb.com/sqlite/charlesleifer.com/2015/03/charles-leifer-meet-scout-a-search-server-powered-by-sqlite",
             "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://charlesleifer.com/blog/meet-scout-a-search-server-powered-by-sqlite/"
@@ -71,7 +71,7 @@
             "snippet": "So, with great power comes great responsibility. Good thing it was only my laptop. Yum was giving me some weird errors that dependencies with sqlite can not be resolved. After some google and searching, I came by post that suggested (they were...",
             "date": "2015-03-26",
             "categories": "google,sqlite",
-            "tags": "sqlite",
+            "tags": "giving,power,sqlite",
             "recuweb_url": "http://en.recuweb.com/sqlite/reddit.com/2015/03/tifu-by-removing-sqlite",
             "resource_url": "http://www.reddit.com/search.rss?q=sqlite%2Bsqlite&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/linux/comments/30cz60/tifu_by_removing_sqlite/"
@@ -82,7 +82,7 @@
             "date": "2015-03-15",
             "author_name": "ramblingcookiemonster",
             "categories": "sqlite",
-            "tags": "jim,sqlite",
+            "tags": "probably,providers,jim,sqlite",
             "recuweb_url": "http://en.recuweb.com/sqlite/ramblingcookiemonster.wordpress.com/2015/03/sqlite-and-powershell-rambling-cookie-monster",
             "resource_url": "http://www.google.com/search?q=sqlite&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://ramblingcookiemonster.wordpress.com/2015/03/15/sqlite-and-powershell/"
@@ -93,7 +93,7 @@
             "date": "2015-02-26",
             "author_name": "Omar Nour",
             "categories": "sqlite",
-            "tags": "choice,easy,sqlite,sqlite_expert,expert,professional,portable,databases,development",
+            "tags": "easy,sqlite,portable,databases,development",
             "recuweb_url": "http://en.recuweb.com/sqlite/baltagy1.blogspot.com/2015/02/sqlite-expert-professional-portable",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=sqlite%2Bsqlite&rss=1&lng=en",
             "source_url": "http://baltagy1.blogspot.com/2015/02/sqlite-expert-professional-v3571.html"
@@ -104,7 +104,7 @@
             "date": "2015-02-11",
             "author_name": "Derek Jensen",
             "categories": "meat,sqlite,database",
-            "tags": "down,code,tutorial,introduction,sqlite,sql,database",
+            "tags": "down,code,tutorial,introduction,sqlite,sql,database,engine",
             "recuweb_url": "http://en.recuweb.com/database/code.tutsplus.com/2015/02/an-introduction-to-and-sqlite-tuts-code-tutorial",
             "resource_url": "http://www.google.com/search?q=sqlite&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://code.tutsplus.com/tutorials/an-introduction-to-xamarinforms-and-sqlite--cms-23020"
@@ -115,7 +115,7 @@
             "date": "2015-01-07",
             "author_name": "Jim",
             "categories": "sqlite",
-            "tags": "almost,down,jim,sqlite",
+            "tags": "discuss,down,week,jim,sqlite",
             "recuweb_url": "http://en.recuweb.com/sqlite/blogs.gnome.org/2015/01/sqlite-vacuum-and-auto-jim-nelson-yorba",
             "resource_url": "http://www.google.com/search?q=sqlite&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.gnome.org/jnelson/2015/01/06/sqlite-vacuum-and-auto_vacuum/"
