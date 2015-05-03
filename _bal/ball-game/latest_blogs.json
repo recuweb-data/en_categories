@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ball-game",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/ball-game/",
@@ -11,66 +11,87 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/ball-game/ball-game/blogs.json"
     },
     "items": {
-        "gaslampball.com/2015/04/game-20-preview-04-26-padres-vs-dodgers-gaslamp-ball": {
-            "title": "Game 20 Preview: 04/26 Padres vs. Dodgers - Gaslamp Ball...",
-            "snippet": "The Padres have one last chance, this afternoon, to prevent a sweep at the hands of the Dodgers and salvage a win in this three-game set. Brandon Morrow goes to the hill in the series finale, looking for success in his first...",
-            "date": "2015-04-26",
-            "author_name": "jodes0405",
-            "tags": "looking,hill,ball,game",
-            "recuweb_url": "http://en.recuweb.com/gaslampball.com/2015/04/game-20-preview-04-26-padres-vs-dodgers-gaslamp-ball",
+        "camdendepot.blogspot.com/2015/04/camden-depot-watching-a-strange-ballgame-in-baltimore": {
+            "title": "Camden Depot: Watching a Strange Ballgame in Baltimore...",
+            "snippet": "If a baseball game is played, but no one is there to see it, did it actually happen? In the case of yesterday's game it does, because despite the fact that the Baltimore Orioles and the Chicago White Sox played the first ever...",
+            "date": "2015-04-30",
+            "author_name": "Nate Delong",
+            "categories": "baseball",
+            "tags": "played,ever,chicago,white,white_sox,sox,yesterday,baseball,ballgame,ing,camden,bal,ore,game,orioles",
+            "recuweb_url": "http://en.recuweb.com/baseball/camdendepot.blogspot.com/2015/04/camden-depot-watching-a-strange-ballgame-in-baltimore",
             "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://gaslampball.com/2015/4/26/8499901/game-20-preview-04-26-padres-vs-dodgers"
+            "source_url": "http://camdendepot.blogspot.com/2015/04/watching-strange-ballgame-in-baltimore.html"
         },
-        "drjeanandfriends.blogspot.com/2015/04/take-me-out-to-the-ball-game-dr-jean-&-friends": {
-            "title": "TAKE ME OUT TO THE BALL GAME - Dr. Jean & Friends Blog...",
-            "snippet": "It's springtime and off we go to a College of Charleston baseball game this evening. (I think I'm looking forward to the popcorn and hotdog more than the game, but don't tell anyone!) Many of my students played T-ball this time...",
-            "date": "2015-04-25",
-            "author_name": "Jean",
-            "categories": "students,ball-game,college,baseball",
-            "tags": "looking,evening,spring,ball,ball_game,game,off,baseball,played",
-            "recuweb_url": "http://en.recuweb.com/baseball/drjeanandfriends.blogspot.com/2015/04/take-me-out-to-the-ball-game-dr-jean-&-friends",
+        "southsidesox.com/2015/04/fanless-ballgame-in-baltimore-initially-intriguing-ultimately": {
+            "title": "Fanless ballgame in Baltimore initially intriguing, ultimately...",
+            "snippet": "During the fifth inning of Wednesday's White Sox-Orioles game, Everth Cabrera fouled off a pitch to the left side. He didn't track it, nor did Jeff Samardzija. Hawk Harrelson must have. \"And another foul ball into the seats,\" the...",
+            "date": "2015-04-30",
+            "author_name": "Jim Margalus",
+            "tags": "into,another,foul,white,white_sox,sox,inning,ballgame,bal,ore,during,orioles,game,off,ball",
+            "recuweb_url": "http://en.recuweb.com/southsidesox.com/2015/04/fanless-ballgame-in-baltimore-initially-intriguing-ultimately",
+            "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://southsidesox.com/2015/4/30/8519599/fanless-ballgame-in-baltimore-initially-intriguing-ultimately"
+        },
+        "fitnessista.com/2015/04/from-the-ballgame-to-club-fitnessista": {
+            "title": "From the ballgame, to the club - The Fitnessista...",
+            "snippet": "Hi friends! How's the morning going? Hope that you had a great day yesterday! Ours was packed with fun activities: a baseball game, BODYPUMP, a birthday party (the Pilot and Liv went while I taught) and a great date night.",
+            "date": "2015-04-30",
+            "author_name": "Fitnessista",
+            "categories": "baseball",
+            "tags": "great,night,party,baseball,fun,yesterday,ballgame,game",
+            "recuweb_url": "http://en.recuweb.com/baseball/fitnessista.com/2015/04/from-the-ballgame-to-club-fitnessista",
+            "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://fitnessista.com/2015/04/from-the-ballgame-to-the-club/"
+        },
+        "thechive.com/2015/04/baltimore-orioles-have-no-fans-in-attendance-9-photos-thechive": {
+            "title": "Baltimore Orioles have no fans in attendance (9 Photos): theCHIVE...",
+            "snippet": "Have you ever gone to a ball game and thought it was a little too crowded or a little too loud? Today, for the first time in the history of Major League Baseball a game is being played with no one in attendance. 2. Due to...",
+            "date": "2015-04-29",
+            "author_name": "Jeff",
+            "categories": "baseball",
+            "tags": "played,major,major_league,major_league_baseball,league,league_baseball,baseball,ever,bal,ore,orioles,fans,ball,game",
+            "recuweb_url": "http://en.recuweb.com/baseball/thechive.com/2015/04/baltimore-orioles-have-no-fans-in-attendance-9-photos-thechive",
             "resource_url": "http://www.google.com/search?q=ball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://drjeanandfriends.blogspot.com/2015/04/take-me-out-to-ball-game.html"
+            "source_url": "http://thechive.com/2015/04/29/the-orioles-are-playing-the-first-zero-fan-game-ever-right-now-9-photos/"
         },
-        "blog.owu.edu/2015/04/the-transcript-ryan-missler-s-last-ball-game": {
-            "title": "The Transcript Ryan Missler's last ball game...",
-            "snippet": "When Ryan Missler hit a home run, it went farther than people were ready for. At home in a practice game, he knocked a ball into the middle of Route 23, a record, then broke it by hitting the ball past 23. At Wittenberg, the ball...",
-            "date": "2015-04-23",
-            "author_name": "Spenser Hickey",
-            "categories": "home",
-            "tags": "into,home,hit,run,ball,game,people",
-            "recuweb_url": "http://en.recuweb.com/home/blog.owu.edu/2015/04/the-transcript-ryan-missler-s-last-ball-game",
+        "warontherocks.com/2015/04/isil-s-small-ball-warfare-an-effective-way-to-get-back": {
+            "title": "ISIL's Small Ball Warfare: An Effective Way to Get Back into a...",
+            "snippet": "1 May 2015. Ensign Bobby Fisk's Three Lessons of Muscat Love: Great Games, Baseball, and Jameson. 28 Apr 2015... ISIL's Small Ball Warfare: An Effective Way to Get Back into a Ballgame. Craig Whiteside. April 29, 2015 in Analysis...",
+            "date": "2015-04-29",
+            "author_name": "Craig Whiteside",
+            "categories": "love,baseball",
+            "tags": "great,games,into,ball,back,baseball,ballgame",
+            "recuweb_url": "http://en.recuweb.com/baseball/warontherocks.com/2015/04/isil-s-small-ball-warfare-an-effective-way-to-get-back",
             "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.owu.edu/transcript/2015/04/23/ryan-misslers-last-ball-game/"
+            "source_url": "http://warontherocks.com/2015/04/isils-small-ball-warfare-an-effective-way-to-get-back-into-a-ballgame/"
         },
-        "foxsports.com/2015/04/texas-qb-apologizes-to-boy-hit-in-face-by-ball-during": {
-            "title": "Texas QB apologizes to boy hit in face by ball during spring game...",
-            "snippet": "During Texas'spring game on Saturday, junior quarterback Tyrone Swoopes showed off his arm strength in the third quarter when he threw the ball into the stands and right into a elementary school-age boy's face.",
-            "date": "2015-04-22",
-            "author_name": "unknown",
-            "categories": "school",
-            "tags": "face,into,stands,quarter,during,spring,hit,ball,game,off",
-            "recuweb_url": "http://en.recuweb.com/school/foxsports.com/2015/04/texas-qb-apologizes-to-boy-hit-in-face-by-ball-during",
+        "wkrn.com/2015/04/locked-out-orioles-fans-booted-from-ballgame-amid-unrest-wkrn": {
+            "title": "Locked Out: Orioles fans booted from ballgame amid unrest WKRN...",
+            "snippet": "On this day, 30000 Orioles fans had been muted. The wild applause had been silenced. There were no fans to stand for a standing ovation.",
+            "date": "2015-04-29",
+            "author_name": "The Associated Press",
+            "tags": "orioles,fans,ballgame",
+            "recuweb_url": "http://en.recuweb.com/wkrn.com/2015/04/locked-out-orioles-fans-booted-from-ballgame-amid-unrest-wkrn",
             "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://foxsports.com/southwest/story/texas-longhorns-charlie-strong-tyrone-swoopes-041815"
+            "source_url": "http://wkrn.com/2015/04/29/orioles-white-sox-to-experience-the-sounds-of-silence/"
         },
-        "businessinsider.com/2015/04/a-woman-was-injured-at-an-mlb-game-when-foul-ball": {
-            "title": "A woman was injured at an MLB game when a foul ball hit her in the...",
-            "snippet": "A woman standing behind home plate at PNC Park in Pittsburgh was injured when a foul ball pushed the protective netting back and struck her in the back of the head. The incident occurred in the second inning when Starlin...",
-            "date": "2015-04-21",
-            "author_name": "Cork Gaines",
-            "categories": "home",
-            "tags": "occurred,second,second-inning,inning,back,struck,head,injured,foul,pnc,pnc_park,park,woman,behind,behind-home,behind-home-plate,home,home-plate,plate,hit,mlb,game,ball,pittsburgh,starlin",
-            "recuweb_url": "http://en.recuweb.com/home/businessinsider.com/2015/04/a-woman-was-injured-at-an-mlb-game-when-foul-ball",
+        "pjmedia.com/2015/04/no-fans-allowed-to-watch-ballgame-in-baltimore-pj-tatler-media": {
+            "title": "No fans allowed to watch ballgame in Baltimore PJ Tatler - PJ Media...",
+            "snippet": "For the first time in Major League Baseball history, a game that counts in the standings will be played in a stadium devoid of any fans. The Baltimore Orioles, after consulting with the office of the commissioner and state and city...",
+            "date": "2015-04-28",
+            "author_name": "Rick Moran",
+            "categories": "baseball",
+            "tags": "played,any,major,major_league,major_league_baseball,league,league_baseball,baseball,fans,ballgame,bal,ore,game,orioles",
+            "recuweb_url": "http://en.recuweb.com/baseball/pjmedia.com/2015/04/no-fans-allowed-to-watch-ballgame-in-baltimore-pj-tatler-media",
             "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://businessinsider.com/pittsburgh-pirates-fan-foul-ball-net-2015-4"
+            "source_url": "http://pjmedia.com/tatler/2015/04/28/riots-force-orioles-white-sox-game-to-be-played-in-empty-stadium/"
         },
         "pittsburgh.cbslocal.com/2015/04/fan-struck-by-foul-ball-at-pnc-park-cbs-pittsburgh": {
             "title": "Fan Struck By Foul Ball At PNC Park CBS Pittsburgh...",
             "snippet": "A fan watching the Pirates game Monday night in the stands of PNC Park was injured when she was struck in the head by a foul ball.",
             "date": "2015-04-21",
             "author_name": "hlang84",
-            "tags": "injured,struck,head,head-by-foul,foul,pnc,pnc_park,park,night,stands,ing,fan,ball,pittsburgh,pirates,game,monday",
+            "tags": "head,head-by-foul,foul,pnc,pnc_park,park,night,stands,ing,fan,ball,pittsburgh,pirates,game,monday",
             "recuweb_url": "http://en.recuweb.com/pittsburgh.cbslocal.com/2015/04/fan-struck-by-foul-ball-at-pnc-park-cbs-pittsburgh",
             "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://pittsburgh.cbslocal.com/2015/04/20/fan-struck-by-foul-ball-at-pnc-park/"
@@ -80,7 +101,7 @@
             "snippet": "An extremely scary moment occurred at the Pirates-Cubs game at PNC Park on Monday evening. Starlin Castro was at the plate to start the top of the second inning and A.J. Burnett was pitching, when this happened:...",
             "date": "2015-04-21",
             "author_name": "Bill Hanstock",
-            "tags": "second,second-inning,inning,plate,starlin,starlin_castro,castro,pnc,pnc_park,park,extremely,extremely-scary,extremely-scary-moment,scary,scary-moment,scary-moment-occurred,moment,moment-occurred,occurred,stretcher,hit,hit-in-head,head,head-by-foul,foul,fan,ball,pirates,game,off,cubs,monday,evening,start",
+            "tags": "happened,inning,plate,starlin,starlin_castro,castro,pnc,pnc_park,park,extremely,extremely-scary,extremely-scary-moment,scary,scary-moment,scary-moment-occurred,moment,moment-occurred,occurred,stretcher,head,head-by-foul,foul,fan,hit,ball,pirates,game,off,cubs,monday,start",
             "recuweb_url": "http://en.recuweb.com/sbnation.com/2015/04/fan-hit-in-head-by-foul-ball-at-pirates-game-taken",
             "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://sbnation.com/2015/4/20/8459775/fan-hit-in-head-by-foul-ball-pirates-game-pnc-park-video"
@@ -91,31 +112,10 @@
             "date": "2015-04-21",
             "author_name": "WGN Web Desk",
             "categories": "home",
-            "tags": "starlin,starlin_castro,castro,behind,behind-home,behind-home-plate,home,home-plate,plate,hit,back,head,night,against,chicago,pittsburgh,hit-in-head,head-by-foul,foul,woman,ball,cubs,pirates,game,monday,fan,off,bat",
+            "tags": "starlin,starlin_castro,castro,bat,head,night,fan,home,plate,chicago,pittsburgh,head-by-foul,foul,hit,ball,cubs,pirates,game,monday,back,off",
             "recuweb_url": "http://en.recuweb.com/home/wgntv.com/2015/04/woman-hit-in-head-by-foul-ball-at-cubs-pirates-game",
             "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://wgntv.com/2015/04/21/woman-hit-in-head-by-foul-ball-at-cubs-pirates-game/"
-        },
-        "huffingtonpost.com/2015/04/richard-branson-becomes-a-human-bowling-ball-during-chicago": {
-            "title": "Richard Branson Becomes A Human Bowling Ball During Chicago...",
-            "snippet": "Meet the world's most valuable bowling ball. Billionaire businessman and noted thrill-seeker Richard Branson became a human bowling ball on Wednesday night as part of a stunt during a game between the Chicago Bulls...",
-            "date": "2015-04-16",
-            "author_name": "Ed Mazza",
-            "tags": "chicago,night,during,ball,world,wednesday,game",
-            "recuweb_url": "http://en.recuweb.com/huffingtonpost.com/2015/04/richard-branson-becomes-a-human-bowling-ball-during-chicago",
-            "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://huffingtonpost.com/2015/04/16/richard-branson-bowling-ball_n_7076046.html"
-        },
-        "dailyfinance.com/2015/04/live-streaming-is-a-whole-new-ball-game-dailyfinance": {
-            "title": "Live Streaming Is a Whole New Ball Game - DailyFinance...",
-            "snippet": "Major League Baseball denies that it will ban fans from recording and live streaming games. But better technology and apps make the concept more likely.",
-            "date": "2015-04-10",
-            "author_name": "Rick Aristotle Munarriz",
-            "categories": "technology,baseball,ball-game",
-            "tags": "major,major_league,major_league_baseball,league,league_baseball,baseball,ball,ball_game,game,fans,games",
-            "recuweb_url": "http://en.recuweb.com/ball-game/dailyfinance.com/2015/04/live-streaming-is-a-whole-new-ball-game-dailyfinance",
-            "resource_url": "http://www.google.com/search?q=ball%2Bgame%2Bball%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://dailyfinance.com/2015/04/10/live-streaming-whole-new-ball-game/"
         }
     }
 }
