@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "solar-energy",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/solar-energy/",
@@ -11,38 +11,69 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/solar-energy/solar-energy/blogs.json"
     },
     "items": {
-        "arkansasonline.com/2015/04/tesla-signs-wal-mart-in-solar-energy-storage-push-arkansas-online": {
-            "title": "Tesla signs Wal-Mart in solar, energy-storage push - Arkansas Online...",
-            "snippet": "Customers typically buy the batteries to store energy from solar panels, using them when electricity from the grid is most expensive or the sun isn't shining. With Tesla's gigafactory for battery production under construction in...",
-            "date": "2015-04-26",
-            "author_name": "DANA HULL BLOOMBERG NEWS",
-            "categories": "production,construction,sun",
-            "tags": "battery,shining,grid,expensive,sun,typically,tesla,solar,energy,customers,panels,using,electricity",
-            "recuweb_url": "http://en.recuweb.com/sun/arkansasonline.com/2015/04/tesla-signs-wal-mart-in-solar-energy-storage-push-arkansas-online",
+        "theequitykicker.com/2015/05/electricity-storage-costs-on-the-cusp-of-a-precipitous-fall": {
+            "title": "Electricity storage costs on the cusp of a precipitous fall...",
+            "snippet": "Elon Musks announcement of Tesla Energy and the Tesla Powercell (combined solar cell and battery) is the big news today, but its best understood in the context of longer term changes in the electricity industry. Two days ago I wrote about...",
+            "date": "2015-05-01",
+            "author_name": "Nic Brisbourne",
+            "tags": "term,tesla,tesla_energy,energy,elon,electricity,storage,announcement,solar,battery,industry",
+            "recuweb_url": "http://en.recuweb.com/theequitykicker.com/2015/05/electricity-storage-costs-on-the-cusp-of-a-precipitous-fall",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=solar%2Benergy%2Bsolar%2Benergy&rss=1&lng=en",
+            "source_url": "http://theequitykicker.com/2015/05/01/electricity-storage-costs-on-the-cusp-of-a-precipitous-fall/"
+        },
+        "ocregister.com/2015/04/batteries-to-store-solar-energy-could-presage-independence": {
+            "title": "Batteries to store solar energy could presage independence from...",
+            "snippet": "Bridging the gap with batteries &8\u00d3 or any other way to store electricity &8\u00d3 has long been considered the linchpin to mass adoption of solar power. \"This is a physics problem. How do I store an electron from the sun...",
+            "date": "2015-04-30",
+            "author_name": "By AARON ORLOWSKI",
+            "categories": "physics,sun",
+            "tags": "long,considered,any,batteries,store,solar,energy,electricity,power,sun",
+            "recuweb_url": "http://en.recuweb.com/sun/ocregister.com/2015/04/batteries-to-store-solar-energy-could-presage-independence",
             "resource_url": "http://www.google.com/search?q=solar%2Benergy%2Bsolar%2Benergy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://arkansasonline.com/news/2015/apr/26/tesla-signs-wal-mart-in-solar-energy-st/"
+            "source_url": "http://ocregister.com/articles/solar-659955-batteries-electricity.html"
+        },
+        "cnbc.com/2015/04/like-shale-oil-solar-power-is-shaking-up-global-energy": {
+            "title": "Like shale oil, solar power is shaking up global energy -...",
+            "snippet": "A worker cleans the panels in a solar power park run by the Costa Rican Electricity Institute (ICE) as the power company has managed to produce all of the electricity for the nation from renewable energy sources for more than...",
+            "date": "2015-04-27",
+            "author_name": "unknown",
+            "categories": "institute",
+            "tags": "electricity,run,oil,solar,power,energy,panels,company,renewable",
+            "recuweb_url": "http://en.recuweb.com/institute/cnbc.com/2015/04/like-shale-oil-solar-power-is-shaking-up-global-energy",
+            "resource_url": "http://www.google.com/search?q=solar%2Benergy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://cnbc.com/id/102621070"
+        },
+        "earthtechling.com/2015/04/china-solar-power-surges-leaves-entire-world-earthtechling": {
+            "title": "China Solar Power Surges: Leaves Entire World... - EarthTechling...",
+            "snippet": "China issued an update on its solar progress this week and made every other solar-seeking country around the world feel kind of pathetic. The National Energy Board said GW was installed in the first quarter of 2015.",
+            "date": "2015-04-26",
+            "author_name": "Pete Danko",
+            "tags": "national,energy,kind,update,solar,solar_power,power",
+            "recuweb_url": "http://en.recuweb.com/earthtechling.com/2015/04/china-solar-power-surges-leaves-entire-world-earthtechling",
+            "resource_url": "http://www.google.com/search?q=solar%2Benergy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://earthtechling.com/2015/04/china-solar-power-surges/"
         },
         "welovesolarpower.com/2015/04/everything-you-need-to-know-about-solar-energy": {
             "title": "Everything You Need to Know About Solar Energy...",
             "snippet": "by USDAgov Have you considered converting your home or office to solar power? Using solar energy can save you considerably and is significantly less damaging to the environment than burning fossil fuels. This article will answer your questions and...",
             "date": "2015-04-24",
             "author_name": "SunPower",
-            "categories": "environment,home,solar-energy",
-            "tags": "environment,fossil,fossil-fuels,fuels,office,solar,solar_energy,energy,power,using",
-            "recuweb_url": "http://en.recuweb.com/solar-energy/welovesolarpower.com/2015/04/everything-you-need-to-know-about-solar-energy",
+            "categories": "environment,solar-energy,home",
+            "tags": "significantly,considered,solar,solar_energy,energy,home,power,using",
+            "recuweb_url": "http://en.recuweb.com/home/welovesolarpower.com/2015/04/everything-you-need-to-know-about-solar-energy",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=solar%2Benergy%2Bsolar%2Benergy&rss=1&lng=en",
             "source_url": "http://welovesolarpower.com/everything-you-need-to-know-about-solar-energy-6/"
         },
-        "investopedia.com/2015/04/how-to-profit-from-solar-energy-tan-fslr-scty-spwr-sune": {
-            "title": "How To Profit From Solar Energy (TAN,FSLR,SCTY,SPWR,SUNE...",
-            "snippet": "Once regarded as too expensive and inefficient, solar energy is now becoming a more viable option for consumers and businesses alike. Alternative energy sources are typically more in demand when the price of fossil fuels is high, but there...",
-            "date": "2015-04-23",
-            "author_name": "Adam Hayes",
-            "categories": "business,solar-energy",
-            "tags": "typically,demand,fossil,fossil-fuels,fuels,high,becoming,consumers,businesses,expensive,solar,solar_energy,energy,alternative",
-            "recuweb_url": "http://en.recuweb.com/solar-energy/investopedia.com/2015/04/how-to-profit-from-solar-energy-tan-fslr-scty-spwr-sune",
+        "grist.org/2015/04/who-should-profit-from-solar-energy-grist": {
+            "title": "Who should profit from solar energy? Grist...",
+            "snippet": "In the ongoing wars over solar energy, one power company is consistently painted as the archetypal, mustache-twirling nemesis of clean electricity: Arizona Public Service. So you might be surprised to learn that this same...",
+            "date": "2015-04-24",
+            "author_name": "Tim McDonnell",
+            "categories": "twirling",
+            "tags": "surprised,surprised-to-learn,learn,same,arizona,arizona_public,arizona_public_service,public,public_service,service,twirling,twirling-nemesis,nemesis,nemesis-of-clean,clean,consistently,consistently-painted,painted,archetypal,ongoing,ongoing-wars,wars,solar,energy,power,company,mustache,electricity",
+            "recuweb_url": "http://en.recuweb.com/twirling/grist.org/2015/04/who-should-profit-from-solar-energy-grist",
             "resource_url": "http://www.google.com/search?q=solar%2Benergy%2Bsolar%2Benergy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://investopedia.com/articles/personal-finance/042315/how-profit-solar-energy.asp"
+            "source_url": "http://grist.org/business-technology/who-should-profit-from-solar-energy/"
         },
         "motherjones.com/2015/04/there-s-a-fight-brewing-over-who-profits-from-solar-power": {
             "title": "There's a Fight Brewing Over Who Profits From Solar Power Mother...",
@@ -50,7 +81,7 @@
             "date": "2015-04-23",
             "author_name": "Tim McDonnell",
             "categories": "twirling",
-            "tags": "public,solar,solar_power,power,energy,company,electricity",
+            "tags": "surprised,surprised-to-learn,learn,same,arizona,arizona_public,arizona_public_service,public,public_service,service,twirling,twirling-nemesis,nemesis,nemesis-of-clean,clean,consistently,consistently-painted,painted,archetypal,ongoing,ongoing-wars,wars,solar,solar_power,power,energy,company,mustache,electricity",
             "recuweb_url": "http://en.recuweb.com/twirling/motherjones.com/2015/04/there-s-a-fight-brewing-over-who-profits-from-solar-power",
             "resource_url": "http://www.google.com/search?q=solar%2Benergy%2Bsolar%2Benergy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://motherjones.com/environment/2015/04/new-front-solar-wars-who-owns-panels-your-roof"
@@ -60,7 +91,7 @@
             "snippet": "In Hawaii, 12 percent of homes have some kind of solar energy, by far the highest rate for any place in the US at the moment. In fact, that rate is growing too quicklysolar customers are dumping so much energy back onto the...",
             "date": "2015-04-22",
             "author_name": "Alissa Walker",
-            "tags": "customers,any,place,homes,solar,solar_power,power,battery,tesla,energy",
+            "tags": "growing,any,kind,solar,solar_power,power,battery,tesla,homes,energy",
             "recuweb_url": "http://en.recuweb.com/gizmodo.com/2015/04/tesla-s-new-battery-could-solve-one-of-solar-power-biggest",
             "resource_url": "http://www.google.com/search?q=solar%2Benergy%2Bsolar%2Benergy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://gizmodo.com/teslas-new-battery-could-solve-one-of-solar-powers-bigg-1699555784"
@@ -71,7 +102,7 @@
             "date": "2015-04-21",
             "author_name": "Mrs. Green",
             "categories": "sustainability,business",
-            "tags": "alternative,environmental,becoming,businesses,solar,energy",
+            "tags": "term,alternative,impact,national,solar,energy,businesses,long",
             "recuweb_url": "http://en.recuweb.com/business/mrsgreensworld.com/2015/04/nows-the-perfect-time-to-go-solar",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=solar%2Benergy%2Bsolar%2Benergy&rss=1&lng=en",
             "source_url": "http://mrsgreensworld.com/2015/04/21/nows-the-perfect-time-to-go-solar/"
@@ -81,42 +112,10 @@
             "snippet": "Solar power is proving it can compete without government subsidies. And that means the main criticism of solarcost competitivenessis history.",
             "date": "2015-04-21",
             "author_name": "unknown",
-            "tags": "without,energy,solar,power,government",
+            "tags": "finally,energy,solar,power",
             "recuweb_url": "http://en.recuweb.com/cnbc.com/2015/04/the-big-energy-debate-that-solar-power-has-finally-won",
             "resource_url": "http://www.google.com/search?q=solar%2Benergy%2Bsolar%2Benergy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://cnbc.com/id/102602378"
-        },
-        "theverge.com/2015/04/ev-owners-in-san-francisco-can-now-recharge-their-cars-off": {
-            "title": "EV owners in San Francisco can now recharge their cars off the grid...",
-            "snippet": "As of today, electric vehicle owners in San Francisco can revitalize their car's battery at any of three off-the-grid charging stations powered entirely by solar energy. For free. The Level 2 charging stations are the work of a...",
-            "date": "2015-04-17",
-            "author_name": "Chris Welch",
-            "tags": "work,grid,battery,any,off,san,solar,energy",
-            "recuweb_url": "http://en.recuweb.com/theverge.com/2015/04/ev-owners-in-san-francisco-can-now-recharge-their-cars-off",
-            "resource_url": "http://www.google.com/search?q=solar%2Benergy%2Bsolar%2Benergy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theverge.com/2015/4/17/8447873/san-francisco-launches-solar-ev-charging-stations"
-        },
-        "melendreza.wordpress.com/2015/04/should-the-government-subsidize-solar": {
-            "title": "Should the Government Subsidize Solar?",
-            "snippet": "Renewable solar energy technology and equipment are in heavy demand right now. Solar panels are becoming more and more common with consumers, and that is why there exists the question of whether or not the United States government should subsidize...",
-            "date": "2015-04-09",
-            "author_name": "melendreza",
-            "categories": "technology",
-            "tags": "becoming,consumers,demand,government,solar,energy,panels",
-            "recuweb_url": "http://en.recuweb.com/technology/melendreza.wordpress.com/2015/04/should-the-government-subsidize-solar",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=solar%2Benergy%2Bsolar%2Benergy&rss=1&lng=en",
-            "source_url": "http://melendreza.wordpress.com/2015/04/09/should-the-government-subsidize-solar/"
-        },
-        "tencandles.com/2015/04/solar-energy-can-benefit-you-and-the-environment": {
-            "title": "Solar Energy Can Benefit You And The Environment...",
-            "snippet": "Do you know much about solar energy? Solar energy uses energy from the sun and converts it into electricity you can use. Besides, solar panels will allow you to preserve the environment. For anyone who is curious about solar energy, there are tips...",
-            "date": "2015-04-07",
-            "author_name": "admin",
-            "categories": "environment,sun,solar-energy",
-            "tags": "environment,sun,into,solar,solar_energy,energy,electricity,panels",
-            "recuweb_url": "http://en.recuweb.com/solar-energy/tencandles.com/2015/04/solar-energy-can-benefit-you-and-the-environment",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=solar%2Benergy%2Bsolar%2Benergy&rss=1&lng=en",
-            "source_url": "http://tencandles.com/solar-energy/solar-energy-can-benefit-you-and-the-environment-2/"
         }
     }
 }
