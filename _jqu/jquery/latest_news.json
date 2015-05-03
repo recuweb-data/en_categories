@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "jquery",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/jquery/",
@@ -11,65 +11,85 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/jquery/jquery/blogs.json"
     },
     "items": {
-        "scmagazineuk.com/2015/04/taking-a-trip-of-discovery-into-the-unknown": {
-            "title": "Taking a trip of discovery into the unknown...",
-            "snippet": "In fact, jQuery, the world's most used JavaScript library, has been attacked several times. Another area of vulnerability is in broken SSL certificates that can potentially allow attackers to perform man-in-the-middle attacks or can fail to prevent...",
-            "date": "2015-04-27",
-            "categories": "jquery,javascript",
-            "tags": "into,jquery,javascript,library",
-            "recuweb_url": "http://en.recuweb.com/javascript/scmagazineuk.com/2015/04/taking-a-trip-of-discovery-into-the-unknown",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
-            "source_url": "http://scmagazineuk.com/taking-a-trip-of-discovery-into-the-unknown/article/411210/"
-        },
-        "phpmagazin.de/2015/04/jquery-foundation-ver%C3%B6ffentlicht-globalize-1-0-php-magazin": {
-            "title": "jQuery Foundation ver\u00f6ffentlicht Globalize 1.0 - php magazin...",
-            "snippet": "php magazinjQuery Foundation ver\u00f6ffentlicht Globalize magazinBis zur gerade erschienen Version 1.0 der Internationalisierungs-Library Globalize hat es zwar eine ganze Weile gedauert, daf\u00fcr bringt die von der jQuery Foundation ver\u00f6ffentlichte...",
-            "date": "2015-04-27",
-            "categories": "php,jquery",
-            "tags": "foundation,jquery,jquery_foundation,globalize,version,library",
-            "recuweb_url": "http://en.recuweb.com/jquery/phpmagazin.de/2015/04/jquery-foundation-ver%C3%B6ffentlicht-globalize-1-0-php-magazin",
+        "technical.ly/2015/05/front-end-developer": {
+            "title": "Front End Developer -...",
+            "snippet": "Front End day-to-day responsibilities will include coding in JavaScript (using jQuery, Coffeescript, and Angular), crafting web pages with HTML5 and CSS3, and helping us push the envelope in web and mobile usability and design. As our front-end...",
+            "date": "2015-05-02",
+            "categories": "javascript,jquery,html,css",
+            "tags": "web,mobile,design,coding,javascript,using,jquery,html",
+            "recuweb_url": "http://en.recuweb.com/css/technical.ly/2015/05/front-end-developer",
             "resource_url": "http://news.google.com/?hl=en&q=jquery&output=atom&nord=1",
-            "source_url": "http://phpmagazin.de/news/jquery-foundation-globalize-1-0-179468"
+            "source_url": "http://technical.ly/job/front-end-developer-23/"
         },
-        "web.developpez.com/2015/04/globalize-1-0-l-outil-d-internationalisation-de-jquery-rendez-vous": {
-            "title": "Globalize 1.0: l'outil d'internationalisation de jQuery, rendez-vous vos... -...",
-            "snippet": "Globalize 1.0: l'outil d'internationalisation de jQuery, rendez-vous vos... est le projet d'internationalisation (i18n) de jQuery. Un tel projet a pour objectif de pallier aux probl\u00e8mes d'affichage des dates, des nombres, des devises, pourcentage...",
-            "date": "2015-04-26",
+        "digitaljournal.com/2015/05/shieldui-expands-component-offering": {
+            "title": "ShieldUI Expands Component Offering...",
+            "snippet": "May 1, 2015/PRZen/SEATTLE -- ShieldUI is proud to announce a number of major additions to its UI component Suite. Its jQuery Grid component received a major feature update, by allowing grouping of records. This feature allows manual as well as...",
+            "date": "2015-05-01",
             "categories": "jquery",
-            "tags": "est,outil,globalize,jquery",
-            "recuweb_url": "http://en.recuweb.com/jquery/web.developpez.com/2015/04/globalize-1-0-l-outil-d-internationalisation-de-jquery-rendez-vous",
-            "resource_url": "http://news.google.com/?hl=en&q=jquery%2Bjquery&output=atom&nord=1",
-            "source_url": "http://web.developpez.com/actu/84341/Globalize-1-0-l-outil-d-internationalisation-de-jQuery-rendez-vous-vos-applications-accessibles-a-tous/"
-        },
-        "thenextweb.com/2015/04/10%-off-select-lifetime-deals-this-weekend-only": {
-            "title": "10% off select lifetime deals, this weekend only!",
-            "snippet": "JavaScript and jQuery. Its not just for beginners browse Train Simples library to discover a wide range of courses for every skill level, with new ones added frequently. And best of all, you can watch and learn at your own pace online...",
-            "date": "2015-04-25",
-            "categories": "life,javascript,jquery",
-            "tags": "learn,library,only,off,life,javascript,jquery",
-            "recuweb_url": "http://en.recuweb.com/jquery/thenextweb.com/2015/04/10%-off-select-lifetime-deals-this-weekend-only",
+            "tags": "manual,well,update,jquery",
+            "recuweb_url": "http://en.recuweb.com/jquery/digitaljournal.com/2015/05/shieldui-expands-component-offering",
             "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
-            "source_url": "http://thenextweb.com/offers/2015/04/25/10-off-select-lifetime-deals-this-weekend-only/"
+            "source_url": "http://digitaljournal.com/pr/2541137"
+        },
+        "threatpost.com/2015/04/more-trouble-for-jquery-as-second-compromise-reported": {
+            "title": "More Trouble For jQuery As Second Compromise Reported...",
+            "snippet": "Update A day after a compromise of the jQuery website was disclosed, the open source JavaScript library is dealing with a second attack. JQuery Foundation board member Ralph Whitbeck confirmed via email to Threatpost that a new compromise was under...",
+            "date": "2015-04-30",
+            "categories": "jquery,javascript",
+            "tags": "via,jquery,jquery_foundation,foundation,source,update,javascript",
+            "recuweb_url": "http://en.recuweb.com/javascript/threatpost.com/2015/04/more-trouble-for-jquery-as-second-compromise-reported",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
+            "source_url": "http://threatpost.com/more-trouble-for-jquery-as-second-compromise-reported/108510"
+        },
+        "sitepoint.com/2015/04/using-jquery-interactions-in-your-wordpress-admin": {
+            "title": "Using jQuery Interactions in Your WordPress Admin...",
+            "snippet": "Throughout this tutorial I will be outlining how you can leverage the jQuery Interactions libraries to create more interactive and easy to manage admin areas and elements. We will start off with an explanation of what these interactions are along...",
+            "date": "2015-04-30",
+            "categories": "wordpress,jquery",
+            "tags": "off,along,interactive,manage,libraries,jquery,using,tutorial,create",
+            "recuweb_url": "http://en.recuweb.com/jquery/sitepoint.com/2015/04/using-jquery-interactions-in-your-wordpress-admin",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
+            "source_url": "http://sitepoint.com/using-jquery-interactions-in-your-wordpress-admin/"
+        },
+        "phpmagazin.de/2015/04/jquery-und-ver%C3%B6ffentlicht-php-magazin": {
+            "title": "jQuery und ver\u00f6ffentlicht - php magazin...",
+            "snippet": "jQuery und ver\u00f6ffentlichtphp magazinGleich zwei neue Patch-Releases sind von jQuery erschienen. Die Versionen und, die Timmy Willison im jQuery-Blog vorgestellt hat, sollen insbesondere einen Bug in iOS 8.2 und 8.3 fixen. Dabei handelt es sich um...",
+            "date": "2015-04-29",
+            "categories": "php,jquery",
+            "tags": "jquery",
+            "recuweb_url": "http://en.recuweb.com/jquery/phpmagazin.de/2015/04/jquery-und-ver%C3%B6ffentlicht-php-magazin",
+            "resource_url": "http://news.google.com/?hl=en&q=jquery&output=atom&nord=1",
+            "source_url": "http://phpmagazin.de/news/jquery-1-11-3-2-1-4-179519"
+        },
+        "itworld.com/2015/04/jquery-s-creator-annotates-his-original-source-code-itworld": {
+            "title": "jQuery's creator annotates his original source code - ITworld...",
+            "snippet": "ITworldjQuery's creator annotates his original source codeITworldSince its release in January 2006, jQuery has become one of the most popular JavaScript libraries, currently used by more than half the top million web sites in the world. Knowing how...",
+            "date": "2015-04-29",
+            "categories": "jquery,javascript",
+            "tags": "web,release,source,jquery,code,javascript,libraries",
+            "recuweb_url": "http://en.recuweb.com/javascript/itworld.com/2015/04/jquery-s-creator-annotates-his-original-source-code-itworld",
+            "resource_url": "http://news.google.com/?hl=en&q=jquery&output=atom&nord=1",
+            "source_url": "http://itworld.com/article/2915599/open-source-tools/jquery-s-creator-annotates-his-original-source-code.html"
+        },
+        "techspot.com/2015/04/92%-off-kickstart-your-coding-career-with-the-interactive-bootcamp": {
+            "title": "92% off: Kickstart your coding career with the Interactive Coding Bootcamp...",
+            "snippet": "Code Manual's Interactive Coding Bootcamp provides over 30 hours of web development training content. Create your own apps using HTML, Javascript, JQuery, Ruby on Rails, and, with more to learn as you go along. You'll receive live instruction via...",
+            "date": "2015-04-27",
+            "categories": "web-development,html,javascript,jquery",
+            "tags": "via,learn,along,using,web,provides,code,manual,interactive,coding,off,create,html,javascript,jquery",
+            "recuweb_url": "http://en.recuweb.com/jquery/techspot.com/2015/04/92%-off-kickstart-your-coding-career-with-the-interactive-bootcamp",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
+            "source_url": "http://techspot.com/news/60486-92-off-kickstart-coding-career-interactive-coding-bootcamp.html"
         },
         "javascript.developpez.com/2015/04/pep-polyfill-pointer-events-de-google-est-repris-par-jquery-afin": {
             "title": "PEP: polyfill Pointer Events de Google est repris par jQuery afin de... -...",
             "snippet": "PEP: polyfill Pointer Events de Google est repris par jQuery afin de... y a quelques mois, l'\u00e9quipe jQuery annon\u00e7ait que l'\u00e9quipe Polymer de Google leur avait transf\u00e9r\u00e9 le d\u00e9veloppement du polyfill Pointer Events afin de maintenir l'outil car...",
             "date": "2015-04-25",
             "categories": "events,google,jquery",
-            "tags": "outil,est,jquery",
+            "tags": "jquery",
             "recuweb_url": "http://en.recuweb.com/jquery/javascript.developpez.com/2015/04/pep-polyfill-pointer-events-de-google-est-repris-par-jquery-afin",
-            "resource_url": "http://news.google.com/?hl=en&q=jquery%2Bjquery&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=jquery&output=atom&nord=1",
             "source_url": "http://javascript.developpez.com/actu/84339/PEP-0-3-0-polyfill-Pointer-Events-de-Google-est-repris-par-jQuery-afin-de-maintenir-l-outil-de-normalisation-des-evenements/"
-        },
-        "geeky-gadgets.com/2015/04/interactive-coding-bootcamp-for-39-save-92%": {
-            "title": "Interactive Coding Bootcamp For 39, Save 92%...",
-            "snippet": "The course features HTML, CSS, Javascript, jQuery & frameworks like AngularJS training, plus Ruby on Rails,, e-commerce, databases & more. You can now get the Interactive Coding Bootcamp for 39 and save 92% off the normal retail price of 499 with...",
-            "date": "2015-04-24",
-            "categories": "html,css,javascript,jquery,commerce",
-            "tags": "off,course,html,css,javascript,jquery",
-            "recuweb_url": "http://en.recuweb.com/commerce/geeky-gadgets.com/2015/04/interactive-coding-bootcamp-for-39-save-92%",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
-            "source_url": "http://geeky-gadgets.com/interactive-coding-bootcamp-for-39-save-92/"
         },
         "mediaite.com/2015/04/the-14-most-important-media-reporters-in-america": {
             "title": "The 14 Most Important Media Reporters in America...",
@@ -81,34 +101,14 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
             "source_url": "http://mediaite.com/online/the-14-most-important-media-reporters/"
         },
-        "searchenginepeople.com/2015/04/20-basic-html-&-css-tricks-marketers-should-know": {
-            "title": "20 Basic HTML & CSS Tricks Marketers Should Know...",
-            "snippet": "If there's no errors we can proceed with the form as usual!//The ID of the submit button on the form (in our example) was 'get-quote'so we bind our listener to that jQuery(get-quote).click(function()//Declare and reset our error value each time...",
-            "date": "2015-04-23",
-            "categories": "css,html,jquery",
-            "tags": "css,html,jquery",
-            "recuweb_url": "http://en.recuweb.com/jquery/searchenginepeople.com/2015/04/20-basic-html-&-css-tricks-marketers-should-know",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
-            "source_url": "http://searchenginepeople.com/blog/150450955-know-basic-html-css.html"
-        },
-        "4-traders.com/2015/04/business-machines-jquery-foundation-launches-globalize-v-1-0": {
-            "title": "Business Machines: jQuery Foundation Launches Globalize v 1.0...",
-            "snippet": "The jQuery Foundation today announces the immediate availability of version 1.0 of its highly-anticipated Globalize project. Globalize provides developers with always up-to-date global number formatting and parsing, date and time formatting and...",
-            "date": "2015-04-23",
-            "categories": "jquery,business",
-            "tags": "provides,provides-developers,developers,highly,announces,announces-the-immediate,immediate,immediate-availability,availability,jquery,jquery_foundation,foundation,jquery_foundation_launches,foundation_launches,foundation_launches_globalize,launches,launches_globalize,globalize,version,anticipated,project",
-            "recuweb_url": "http://en.recuweb.com/business/4-traders.com/2015/04/business-machines-jquery-foundation-launches-globalize-v-1-0",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
-            "source_url": "http://4-traders.com/INTERNATIONAL-BUSINESS-MA-4828/news/Business-Machines--jQuery-Foundation-Launches-Globalize-v-10-20246062/"
-        },
         "hostreview.com/2015/04/jquery-foundation-launches-globalize-v-1-0-press-release": {
             "title": "JQuery Foundation Launches Globalize V 1.0 - (press release)...",
             "snippet": "JQuery Foundation Launches Globalize V (press release)Walnut, CA. (PRWEB) April 23, 2015 - The jQuery Foundation today announces the immediate availability of version 1.0 of its highly-anticipated Globalize project. Globalize provides developers...",
             "date": "2015-04-23",
             "categories": "jquery",
-            "tags": "provides,provides-developers,developers,highly,announces,announces-the-immediate,immediate,immediate-availability,availability,jquery,jquery_foundation,foundation,jquery_foundation_launches,foundation_launches,foundation_launches_globalize,launches,launches_globalize,globalize,version,anticipated,project",
+            "tags": "provides,jquery,jquery_foundation,foundation,release,version",
             "recuweb_url": "http://en.recuweb.com/jquery/hostreview.com/2015/04/jquery-foundation-launches-globalize-v-1-0-press-release",
-            "resource_url": "http://news.google.com/?hl=en&q=jquery%2Bjquery&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=jquery&output=atom&nord=1",
             "source_url": "http://hostreview.com/news/150423-jquery-foundation-launches-globalize-v-10"
         }
     }
