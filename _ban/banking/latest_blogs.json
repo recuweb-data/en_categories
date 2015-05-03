@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "banking",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/banking/",
@@ -11,38 +11,49 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/banking/banking/blogs.json"
     },
     "items": {
+        "bankersadda.com/2015/05/bankers-adda-sbi-po-2015-banking-awareness-quiz": {
+            "title": "Bankers Adda: SBI PO 2015: Banking Awareness Quiz...",
+            "snippet": "SBI PO 2015: Banking Awareness Quiz. 1. Credit risk to the bank is high from which of these cards? (A) Debit cards. (B) Credit cards. (C) ATM cards. (D) All the above. (E) None of these. 2. Depreciation of an asset occurs due to. (A) Fire in the...",
+            "date": "2015-05-02",
+            "author_name": "Shruti",
+            "categories": "banking,credit",
+            "tags": "banking,bank",
+            "recuweb_url": "http://en.recuweb.com/credit/bankersadda.com/2015/05/bankers-adda-sbi-po-2015-banking-awareness-quiz",
+            "resource_url": "http://www.google.com/search?q=banking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://bankersadda.com/2015/05/sbi-po-2015-banking-awareness-quiz.html"
+        },
+        "fool.co.uk/2015/05/lloyds-banking-group-plc-surges-4%-despite-660m-loss-on-tsb": {
+            "title": "Lloyds Banking Group PLC Surges 4% Despite 660m Loss On TSB...",
+            "snippet": "Shares in the part-nationalised bank, Lloyds Banking Group PLC (LON: LLOY), are firmer despite making a loss on its sale of TSB Banking Group PLC (LON:TSB).",
+            "date": "2015-05-01",
+            "author_name": "Peter Stephens",
+            "categories": "banking",
+            "tags": "banking,banking_group,banking_group_plc,group,group_plc,plc,lloyds,lloyds_banking,lloyds_banking_group,part,shares,bank,lon,lloy",
+            "recuweb_url": "http://en.recuweb.com/banking/fool.co.uk/2015/05/lloyds-banking-group-plc-surges-4%-despite-660m-loss-on-tsb",
+            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://fool.co.uk/investing/2015/05/01/lloyds-banking-group-plc-surges-4-despite-660m-loss-on-tsb-banking-group-plc/"
+        },
+        "opensource.com/2015/04/an-open-standard-api-could-revolutionize-the-banking-industry": {
+            "title": "An open standard API could revolutionize the banking industry...",
+            "snippet": "The United Kingdom government has commissioned a study of the feasibility of UK banks giving customers the ability to share their transactional data with third parties via an open standard API. First mentioned alongside the...",
+            "date": "2015-04-30",
+            "author_name": "ExplodingAds.com",
+            "categories": "banking",
+            "tags": "share,banking,banks",
+            "recuweb_url": "http://en.recuweb.com/banking/opensource.com/2015/04/an-open-standard-api-could-revolutionize-the-banking-industry",
+            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://opensource.com/business/15/4/open-standard-api-banking"
+        },
         "fool.co.uk/2015/04/the-lloyds-banking-group-plc-share-price-recovery-has-stalled": {
             "title": "The Lloyds Banking Group PLC Share Price Recovery Has Stalled...",
             "snippet": "Investors in Lloyds Banking Group (LSE: LLOY) (NYSE:) had a rare old time in 2012 and 2013 when the share price more than tripled from 27p to 87p. It's not often an institution of this size turns into a three-bagger.",
             "date": "2015-04-30",
             "author_name": "Harvey Jones",
             "categories": "banking",
-            "tags": "into,share,banking,group,investors,nyse",
+            "tags": "into,share,price,lloyds,lloyds_banking,lloyds_banking_group,banking,banking_group,group,banking_group_plc,group_plc,plc,investors,lloy,nyse",
             "recuweb_url": "http://en.recuweb.com/banking/fool.co.uk/2015/04/the-lloyds-banking-group-plc-share-price-recovery-has-stalled",
             "resource_url": "http://www.google.com/search?q=banking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://fool.co.uk/investing/2015/04/30/the-lloyds-banking-group-plc-share-price-recovery-has-stalled-buy-now-before-it-roars-back-to-life/"
-        },
-        "sputniknews.com/2015/04/warning-of-catastrophe-over-barring-russia-from-banking-system": {
-            "title": "Warning of Catastrophe Over Barring Russia From Banking System...",
-            "snippet": "Cutting Russia out of the global banking payment system SWIFT could turn into a catastrophe for the overall system of payments in Europe, according to the head of public affairs at UniCredit Group, Italy, Giuseppe...",
-            "date": "2015-04-30",
-            "author_name": "unknown",
-            "categories": "banking",
-            "tags": "group,payments,into,global,banking,banking_system,system,europe,head",
-            "recuweb_url": "http://en.recuweb.com/banking/sputniknews.com/2015/04/warning-of-catastrophe-over-barring-russia-from-banking-system",
-            "resource_url": "http://www.google.com/search?q=banking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://sputniknews.com/russia/20150430/1021558789.html"
-        },
-        "gizmag.com/2015/04/nao-lends-a-robotic-hand-in-banking-customer-service-gizmag": {
-            "title": "NAO lends a robotic hand in banking customer service - Gizmag...",
-            "snippet": "Aldebaran Robotics'diminutive NAO robot recently completed an internship at the Mitsubishi UFJ bank in central Tokyo. Working in customer service, the robo...",
-            "date": "2015-04-29",
-            "author_name": "Stephen Clemenger",
-            "categories": "robotics,banking",
-            "tags": "customer,hand,banking,bank,central,working",
-            "recuweb_url": "http://en.recuweb.com/banking/gizmag.com/2015/04/nao-lends-a-robotic-hand-in-banking-customer-service-gizmag",
-            "resource_url": "http://www.google.com/search?q=banking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://gizmag.com/japan-nao-robot-bank-customer-service/37053/"
         },
         "ecb.europa.eu/2015/04/optimal-supervisory-architecture-and-financial-integration-in": {
             "title": "Optimal supervisory architecture and financial integration in a...",
@@ -50,76 +61,65 @@
             "date": "2015-04-28",
             "author_name": "unknown",
             "categories": "banking",
-            "tags": "european,european_central,european_central_bank,central,central_bank,bank,working,financial,banking,union,jean",
+            "tags": "bank,financial,banking",
             "recuweb_url": "http://en.recuweb.com/banking/ecb.europa.eu/2015/04/optimal-supervisory-architecture-and-financial-integration-in",
-            "resource_url": "http://www.google.com/search?q=banking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://ecb.europa.eu/pub/pdf/scpwps/ecbwp1786.en.pdf"
+        },
+        "villalobostonya.wordpress.com/2015/04/the-banking-concept-of-education": {
+            "title": "The Banking Concept of Education...",
+            "snippet": "The reading The Banking Concept of Education talked about education and how it is associated with banking. Banking is associated with education by the process it is taught in, and received. When going into a bank the customer is the depositor they...",
+            "date": "2015-04-28",
+            "author_name": "villalobostonya",
+            "categories": "education,banking",
+            "tags": "into,banking,bank",
+            "recuweb_url": "http://en.recuweb.com/banking/villalobostonya.wordpress.com/2015/04/the-banking-concept-of-education",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=banking%2Bbanking&rss=1&lng=en",
+            "source_url": "http://villalobostonya.wordpress.com/2015/04/28/the-banking-concept-of-education/"
+        },
+        "recode.net/2015/04/the-changing-face-of-consumer-banking-re-code": {
+            "title": "The Changing Face of Consumer Banking Re/code...",
+            "snippet": "More than 20 years ago, Bill Gates famously dismissed banks as dinosaurs that would soon be extinct from the modern marketplace. While our banking system has yet to fossilize, today we have access to many alternatives to...",
+            "date": "2015-04-28",
+            "author_name": "Tiago Soromenho",
+            "categories": "banking",
+            "tags": "system,banking,banks",
+            "recuweb_url": "http://en.recuweb.com/banking/recode.net/2015/04/the-changing-face-of-consumer-banking-re-code",
+            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://recode.net/2015/04/28/the-changing-face-of-consumer-banking/"
+        },
+        "theguardian.com/2015/04/deutsche-bank-to-slash-investment-banking-assets-and-float": {
+            "title": "Deutsche Bank to slash investment banking assets and float...",
+            "snippet": "In the wake of a Libor-rigging fine, Germany's largest bank is under pressure from investors to follow rivals by culling unprofitable operations.",
+            "date": "2015-04-27",
+            "author_name": "Reuters",
+            "categories": "banking",
+            "tags": "investors,bank,banking",
+            "recuweb_url": "http://en.recuweb.com/banking/theguardian.com/2015/04/deutsche-bank-to-slash-investment-banking-assets-and-float",
+            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theguardian.com/business/2015/apr/27/deutsche-bank-to-slash-investment-banking-assets-and-float-postbank"
+        },
+        "theguardian.com/2015/04/hsbc-relocation-here-s-how-the-bank-will-decide-whether-or": {
+            "title": "HSBC relocation: here's how the bank will decide whether (or not) to...",
+            "snippet": "The Hong Kong and Shanghai Banking Corporation building in Hong Kong, right, where daily trading volume in HSBC shares was the second-highest recorded after the news of its review. Photograph: Alex Hofford/EPA.",
+            "date": "2015-04-27",
+            "author_name": "Jill Treanor",
+            "categories": "banking",
+            "tags": "daily,banking,bank,shares",
+            "recuweb_url": "http://en.recuweb.com/banking/theguardian.com/2015/04/hsbc-relocation-here-s-how-the-bank-will-decide-whether-or",
+            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theguardian.com/business/2015/apr/27/hsbc-relocation-how-the-bank-will-decide-whether-or-not-to-leave-uk"
         },
         "nbcbayarea.com/2015/04/is-umbilical-cord-blood-banking-worth-the-cost-nbc-bay-area": {
             "title": "Is Umbilical Cord Blood Banking Worth the Cost? NBC Bay Area...",
-            "snippet": "Private cord blood banks say your newborn's umbilical cord blood is an insurance policy against future disease. A new push in California advocates parents to donate that cord blood instead.",
+            "snippet": "Private cord blood banks say your newborn's umbilical cord blood is an insurance policy against future disease. A new push in California advocates parents to donate that cord blood instead. NBC Bay Area Investigative...",
             "date": "2015-04-27",
             "author_name": "VICKY NGUYEN, and LIZA MEAKand JEREMY CARROLL",
             "categories": "insurance,policy,banking",
-            "tags": "future,banking,cost,banks",
+            "tags": "banking,private,banks",
             "recuweb_url": "http://en.recuweb.com/banking/nbcbayarea.com/2015/04/is-umbilical-cord-blood-banking-worth-the-cost-nbc-bay-area",
-            "resource_url": "http://www.google.com/search?q=banking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://nbcbayarea.com/investigations/Is-Umbilical-Cord-Blood-Banking-Worth-the-Cost-301242771.html"
-        },
-        "express.co.uk/2015/04/arsene-wenger-banking-on-olivier-giroud-s-animal-instincts-to-beat": {
-            "title": "Arsene Wenger banking on Olivier Giroud's 'animal'instincts to beat...",
-            "snippet": "So, with that other prize fighter, Diego Costa, ko'd by injury, Wenger is banking on Giroud to provide the knockout blows he very nearly administered himself when the two managers clashed at Stamford Bridge last year.",
-            "date": "2015-04-25",
-            "author_name": "unknown",
-            "categories": "banking",
-            "tags": "banking",
-            "recuweb_url": "http://en.recuweb.com/banking/express.co.uk/2015/04/arsene-wenger-banking-on-olivier-giroud-s-animal-instincts-to-beat",
-            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://express.co.uk/sport/football/572926/Arsenal-Arsene-Wenger-Olivier-Giroud-animal-instincts-beat-Chelsea"
-        },
-        "bankrate.com/2015/04/would-you-pay-to-use-a-banking-app-bankrate-inc": {
-            "title": "Would you pay to use a banking app? Bankrate, Inc.",
-            "snippet": "A recent survey finds that many mobile banking users say their apps are so important, they would be willing to pay a monthly fee to continue using them.",
-            "date": "2015-04-25",
-            "author_name": "Claes Bell",
-            "categories": "banking",
-            "tags": "users,survey,mobile,banking,inc",
-            "recuweb_url": "http://en.recuweb.com/banking/bankrate.com/2015/04/would-you-pay-to-use-a-banking-app-bankrate-inc",
-            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bankrate.com/financing/banking/would-you-pay-to-use-a-banking-app/"
-        },
-        "theguardian.com/2015/04/fintech-revolutionaries-storm-the-barricades-of-traditional-banking": {
-            "title": "Fintech revolutionaries storm the barricades of traditional banking...",
-            "snippet": "Fintech revolutionaries storm the barricades of traditional banking. The world's hungriest entrepreneurial and tech talent are in the vanguard of a financial insurgency and investors are backing them, writes Jon Card.",
-            "date": "2015-04-24",
-            "author_name": "Jon Card",
-            "categories": "banking",
-            "tags": "investors,banking,financial",
-            "recuweb_url": "http://en.recuweb.com/banking/theguardian.com/2015/04/fintech-revolutionaries-storm-the-barricades-of-traditional-banking",
-            "resource_url": "http://www.google.com/search?q=banking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/small-business-network/2015/apr/24/fintech-traditional-banking-tech-investors"
-        },
-        "bitcoinmagazine.com/2015/04/5-revelations-about-bitcoin-from-the-ing-2015-mobile-banking-survey": {
-            "title": "5 Revelations about Bitcoin from the ING 2015 Mobile Banking Survey...",
-            "snippet": "ING Bank hired global research firm, Ipsos, to survey 14,829 Internet users from 13 European countries, the United States and Australia. ING asked participants about mobile banking, payments and digital currency, such as...",
-            "date": "2015-04-23",
-            "author_name": "Jeffrey Maxim",
-            "categories": "banking,internet",
-            "tags": "payments,digital,mobile,united,united_states,states,survey,bank,global,banking,bitcoin,users,european,australia",
-            "recuweb_url": "http://en.recuweb.com/internet/bitcoinmagazine.com/2015/04/5-revelations-about-bitcoin-from-the-ing-2015-mobile-banking-survey",
-            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bitcoinmagazine.com/20136/5-revelations-bitcoin-ing-2015-mobile-banking-survey/"
-        },
-        "coindesk.com/2015/04/bitcoin-exchange-itbit-seeks-bank-license-with-ex-fdic-chair": {
-            "title": "Bitcoin Exchange ItBit Seeks Bank License With Ex-FDIC Chair's...",
-            "snippet": "ItBit has filed an application for a state banking license in New York. In statements to CoinDesk, New York State Department of Financial Services (NYDFS) spokesman Matthew Anderson confirmed the filing. ItBit may be...",
-            "date": "2015-04-23",
-            "author_name": "Stan Higgins",
-            "categories": "financial-services,banking",
-            "tags": "financial,services,york,chair,bitcoin,bank,banking",
-            "recuweb_url": "http://en.recuweb.com/banking/coindesk.com/2015/04/bitcoin-exchange-itbit-seeks-bank-license-with-ex-fdic-chair",
-            "resource_url": "http://www.google.com/search?q=banking%2Bbanking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://coindesk.com/bitcoin-exchange-itbit-seeks-bank-license-with-ex-fdic-chairs-support/"
         }
     }
 }
