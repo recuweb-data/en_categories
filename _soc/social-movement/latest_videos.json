@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "social-movement",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/social-movement/",
@@ -11,13 +11,25 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/social-movement/social-movement/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/art-a-vehicle-for-social-movement-priyesh-trivedi-tedxbitsgoa": {
+            "title": "Art: A Vehicle for Social Movement Priyesh Trivedi TEDxBITSGoa...",
+            "snippet": "Art: A Vehicle for Social Movement Priyesh Trivedi TEDxBITSGoa Priyesh Trivedi is a visual artist from Mumbai, who is the creator of the immensely popular series of Adarsh Balak sketches. He connects with all the goody-two-shoes of this generation,...",
+            "date": "2015-04-28",
+            "author_name": "TEDx Talks",
+            "categories": "social-movement",
+            "tags": "series,social,social_movement,movement",
+            "recuweb_url": "http://en.recuweb.com/social-movement/youtube.com/2015/04/art-a-vehicle-for-social-movement-priyesh-trivedi-tedxbitsgoa",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=social%2Bmovement&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=3XRm8zzlO0g&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/3XRm8zzlO0g/0.jpg"
+        },
         "dailymotion.com/2015/04/social-movement-intro": {
             "title": "Social Movement Intro...",
             "snippet": "Social Movement IntroAuthor: DavidaKraussTags: Social Movement Intro Posted: 23 April 2015Rating:: 0...",
             "date": "2015-04-23",
             "author_name": "DavidaKrauss",
             "categories": "social-movement",
-            "tags": "social,movement",
+            "tags": "social,social_movement,movement",
             "recuweb_url": "http://en.recuweb.com/social-movement/dailymotion.com/2015/04/social-movement-intro",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/social+movement+social+movement/0?af=1",
             "source_url": "http://dailymotion.com/video/x2nmun2_social-movement-intro_school",
@@ -96,7 +108,7 @@
             "snippet": "Ryerson Social Justice Week 2012: RSU President Rodney Diverlus on building a movementAuthor: TomasStevensonTags: Ryerson Social Justice Week 2012: RSU President Rodney Diverlus on building a movement Posted: 11 April 2015Rating:: 0...",
             "date": "2015-04-11",
             "author_name": "TomasStevenson",
-            "tags": "movement,social,social_justice,justice,movementauthor",
+            "tags": "movement,social,justice,movementauthor",
             "recuweb_url": "http://en.recuweb.com/dailymotion.com/2015/04/ryerson-social-justice-week-2012-rsu-president-rodney-diverlus-on-building",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/social+movement+social+movement/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mbdcu_ryerson-social-justice-week-2012-rsu-president-rodney-diverlus-on-building-a-movement_news",
@@ -113,17 +125,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/social+movement+social+movement/0?af=1",
             "source_url": "http://dailymotion.com/video/x2lpzn8_tools-for-a-movement-of-leaders-tactics-history-of-social-movements_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2lpzn8_tools-for-a-movement-of-leaders-tactics-history-of-social-movements_lifestyle"
-        },
-        "dailymotion.com/2015/04/congressman-john-lewis-speaks-of-the-social-justice-movement": {
-            "title": "Congressman John Lewis Speaks of the Social Justice Movement...",
-            "snippet": "Congressman John Lewis Speaks of the Social Justice MovementAuthor: HunterBohannonTags: Congressman John Lewis Speaks of the Social Justice Movement Posted: 02 April 2015Rating:: 0...",
-            "date": "2015-04-02",
-            "author_name": "HunterBohannon",
-            "tags": "social,social_justice,justice,movementauthor,movement",
-            "recuweb_url": "http://en.recuweb.com/dailymotion.com/2015/04/congressman-john-lewis-speaks-of-the-social-justice-movement",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/social+movement+social+movement/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2llrow_congressman-john-lewis-speaks-of-the-social-justice-movement_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2llrow_congressman-john-lewis-speaks-of-the-social-justice-movement_lifestyle"
         }
     }
 }
