@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "json",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/json/",
@@ -11,16 +11,38 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/json/json/blogs.json"
     },
     "items": {
-        "blogs.mathworks.com/2015/04/parsing-json-files-matlab-central-blogs-mathworks": {
-            "title": "Parsing JSON files - MATLAB Central Blogs - MathWorks...",
-            "snippet": "Recently, I've been working quite a bit with JSON files. I needed a way to read the files and parse out some content. With structured files like these, it's not terribly difficult to find tags and extract out information. But it does take...",
-            "date": "2015-04-24",
-            "author_name": "Jiro Doke",
-            "categories": "json",
-            "tags": "information,working,quite,parsing,json,files,recently,read",
-            "recuweb_url": "http://en.recuweb.com/json/blogs.mathworks.com/2015/04/parsing-json-files-matlab-central-blogs-mathworks",
+        "liberidu.com/2015/05/howto-building-a-json-database-api-1": {
+            "title": "HOWTO: Building a JSON Database API (1)...",
+            "snippet": "Finding a decent JSON service wasn't that easy. Most, like twitter, need an authentication somehow and I wasn't in for a lot of issues before even getting started. In the end, with a bit of searching, website Programmable Web...",
+            "date": "2015-05-01",
+            "author_name": "Marco Gralike",
+            "categories": "twitter,json,database",
+            "tags": "web,bit,twitter,service,json,json_database,json_database_api,database,database_api,api,howto,building",
+            "recuweb_url": "http://en.recuweb.com/database/liberidu.com/2015/05/howto-building-a-json-database-api-1",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogs.mathworks.com/pick/2015/04/24/parsing-json-files/"
+            "source_url": "http://liberidu.com/blog/2015/05/01/howto-building-a-json-database-api/"
+        },
+        "liberidu.com/2015/05/howto-building-a-json-database-api-2": {
+            "title": "HOWTO: Building a JSON Database API (2)...",
+            "snippet": "After creating the initial structures to scrape some JSON content of Wikipedia, as mentioned in HOWTO: Building a JSON Database API (1), it is now time to create some views and accompanying PL/SQL code.",
+            "date": "2015-05-01",
+            "author_name": "Marco Gralike",
+            "categories": "json,database",
+            "tags": "content,creating,structures,json,json_database,json_database_api,database,database_api,api,howto,building,sql,code",
+            "recuweb_url": "http://en.recuweb.com/database/liberidu.com/2015/05/howto-building-a-json-database-api-2",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://liberidu.com/blog/2015/05/01/howto-building-a-json-database-api-2/"
+        },
+        "stackoverflow.com/2015/04/json-convert-form-data-to-javascript-object-with-jquery-stack": {
+            "title": "json - Convert form data to JavaScript object with jQuery - Stack...",
+            "snippet": "How do I convert all elements of my form to a JavaScript object? I'd like to have some way of automatically building a JavaScript object from my form, without having to loop over each element. I do not want a string, as returned...",
+            "date": "2015-04-28",
+            "author_name": "Yisroel",
+            "categories": "json,javascript,jquery",
+            "tags": "want,building,object,json,data,javascript,each",
+            "recuweb_url": "http://en.recuweb.com/jquery/stackoverflow.com/2015/04/json-convert-form-data-to-javascript-object-with-jquery-stack",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/1184624/convert-form-data-to-javascript-object-with-jquery"
         },
         "theburningmonk.com/2015/04/binary-and-json-benchmarks-updated": {
             "title": "Binary and Json benchmarks updated...",
@@ -28,7 +50,7 @@
             "date": "2015-04-23",
             "author_name": "theburningmonk",
             "categories": "json",
-            "tags": "produced,should,json,here",
+            "tags": "produced,json,here",
             "recuweb_url": "http://en.recuweb.com/json/theburningmonk.com/2015/04/binary-and-json-benchmarks-updated",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://theburningmonk.com/2015/04/binary-and-json-benchmarks-updated-2/"
@@ -39,7 +61,7 @@
             "date": "2015-04-20",
             "author_name": "kevinquillen",
             "categories": "json,drupal,database",
-            "tags": "json,data,database,version",
+            "tags": "type,json,data,database,version",
             "recuweb_url": "http://en.recuweb.com/database/drupal.org/2015/04/json-jsonb-field",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://drupal.org/project/jsonb"
@@ -50,20 +72,31 @@
             "date": "2015-04-20",
             "author_name": "Open Source Programs Office",
             "categories": "json",
-            "tags": "quietly,released,jsonnet,language,json,configuration,data",
+            "tags": "configuration,quietly,released,jsonnet,language,json,data",
             "recuweb_url": "http://en.recuweb.com/json/google-opensource.blogspot.com/2015/04/jsonnet-a-more-elegant-language-for-composing-json",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://google-opensource.blogspot.com/2015/04/jsonnet-more-elegant-language-for.html"
         },
-        "dgielis.blogspot.com/2015/04/dimitri-gielis-blog-oracle-application-express-apex-json": {
-            "title": "Dimitri Gielis Blog (Oracle Application Express - APEX): JSON for...",
-            "snippet": "If you're interested to read more about how to manipulate JSON in the database, have a look at the documentation, it contains a wealth on information with great examples. As you can basically query the JSON with SQL you...",
+        "blog.netspi.com/2015/04/playing-with-content-type-xxe-on-json-endpoints-netspi-blog": {
+            "title": "Playing with Content-Type XXE on JSON Endpoints - NetSPI Blog...",
+            "snippet": "Many web and mobile applications rely on web services communication for client-server interaction. Most common data formats for web services are XML, whether SOAP or RESTful, and JSON. While a web service may be...",
+            "date": "2015-04-20",
+            "author_name": "ExplodingAds.com",
+            "categories": "json,xml",
+            "tags": "service,server,applications,json,type,content,web,data,formats,xml",
+            "recuweb_url": "http://en.recuweb.com/xml/blog.netspi.com/2015/04/playing-with-content-type-xxe-on-json-endpoints-netspi-blog",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.netspi.com/playing-content-type-xxe-json-endpoints/"
+        },
+        "dgielis.blogspot.com/2015/04/json-for-apex-developers-part-3-querying-in-oracle-db-12c": {
+            "title": "JSON for APEX Developers (part 3): Querying JSON in Oracle DB 12c...",
+            "snippet": "In previous blog posts I talked about JSON for APEX Developers: Generate nested JSON from SQL with ORDS and APEX 5 JSON for APEX Developers (part 1) JSON for APEX Developers (part 2) In this post I want to show how you store and query JSON data...",
             "date": "2015-04-17",
             "author_name": "Dimitri Gielis",
-            "categories": "database,json",
-            "tags": "basically,information,database,interested,application,json,read,sql",
-            "recuweb_url": "http://en.recuweb.com/json/dgielis.blogspot.com/2015/04/dimitri-gielis-blog-oracle-application-express-apex-json",
-            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "categories": "json",
+            "tags": "want,store,developers,json,part,querying,sql,data",
+            "recuweb_url": "http://en.recuweb.com/json/dgielis.blogspot.com/2015/04/json-for-apex-developers-part-3-querying-in-oracle-db-12c",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=json%2Bjson&rss=1&lng=en",
             "source_url": "http://dgielis.blogspot.com/2015/04/json-for-apex-developers-part-3.html"
         },
         "blog.najmanowicz.com/2015/04/rapid-api-prototyping-for-sitecore-with-powershell-extensions": {
@@ -72,7 +105,7 @@
             "date": "2015-04-13",
             "author_name": "Adam Najmanowicz",
             "categories": "html,json,xml",
-            "tags": "describes,api,json,xml,available",
+            "tags": "describes,extensions,api,json,xml,available",
             "recuweb_url": "http://en.recuweb.com/xml/blog.najmanowicz.com/2015/04/rapid-api-prototyping-for-sitecore-with-powershell-extensions",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=json%2Bjson&rss=1&lng=en",
             "source_url": "http://blog.najmanowicz.com/2015/04/13/rapid-api-prototyping-for-sitecore-with-powershell-extensions/"
@@ -83,43 +116,10 @@
             "date": "2015-04-10",
             "author_name": "Dag Wanvik",
             "categories": "mysql,json",
-            "tags": "introduced,json,json_data,data,release",
+            "tags": "documents,using,introduced,creating,json,querying,data,release,part",
             "recuweb_url": "http://en.recuweb.com/json/mysqlserverteam.com/2015/04/json-labs-release-functions-part-2-querying-data",
             "resource_url": "http://www.google.com/search?q=json&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://mysqlserverteam.com/mysql-5-7-lab-release-json-functions-part-2-querying-json-data/"
-        },
-        "threatpost.com/2015/04/critical-vulnerabilities-affecting-json-web-token-libraries": {
-            "title": "Critical Vulnerabilities Affecting JSON Web Token Libraries...",
-            "snippet": "Critical vulnerabilities exist in several JSON Web Token (JWT) libraries namely the JavaScript and PHP versions that could let an attacker bypass the verification step. Tim McLean, a Canadian security researcher who...",
-            "date": "2015-04-01",
-            "author_name": "Chris Brook",
-            "categories": "json,javascript,php",
-            "tags": "step,json,web",
-            "recuweb_url": "http://en.recuweb.com/php/threatpost.com/2015/04/critical-vulnerabilities-affecting-json-web-token-libraries",
-            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://threatpost.com/critical-vulnerabilities-affect-json-web-token-libraries/111943"
-        },
-        "clipizdecon.wordpress.com/2015/03/download-game-vba-json-library": {
-            "title": "Download game vba json library...",
-            "snippet": "DOWNLOAD I have a json like below: {\"sentences\": Role-playing Games; more (21) Mathematics; Cross Validated (stats) Theoretical Computer Science; Physics. Have difficulty with the downloads, If you are interested []...",
-            "date": "2015-03-26",
-            "author_name": "clipizdecon",
-            "categories": "science,json,mathematics,physics",
-            "tags": "interested,difficulty,computer,game,json,role",
-            "recuweb_url": "http://en.recuweb.com/physics/clipizdecon.wordpress.com/2015/03/download-game-vba-json-library",
-            "resource_url": "http://en.search.wordpress.com/?q=json%2Bjson&f=feed&page=1",
-            "source_url": "http://clipizdecon.wordpress.com/2015/03/26/download-game-vba-json-library/"
-        },
-        "tbray.org/2015/03/ongoing-by-tim-bray-rfc-7493-the-i-json-message-format": {
-            "title": "ongoing by Tim Bray RFC 7493: The I-JSON Message Format...",
-            "snippet": "Back story Basically, RFC 7159 is the JSON RFC; it describes the existing panoply of JSON specs, and also more-or-less unifies the (small) incompatibilities between them. The history is here, from which I quote: If you're...",
-            "date": "2015-03-23",
-            "author_name": "Tim Bray",
-            "categories": "json",
-            "tags": "between,describes,json,format,basically,here",
-            "recuweb_url": "http://en.recuweb.com/json/tbray.org/2015/03/ongoing-by-tim-bray-rfc-7493-the-i-json-message-format",
-            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://tbray.org/ongoing/When/201x/2015/03/23/i-json"
         }
     }
 }
