@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "public-health",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/public-health/",
@@ -11,45 +11,85 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/public-health/public-health/blogs.json"
     },
     "items": {
-        "hsph.harvard.edu/2015/05/better-communication-less-violence-hsph-news": {
-            "title": "Better communication, less violence - HSPH News...",
-            "snippet": "HSPH NewsBetter communication, less violenceHSPH NewsSteven Hafner is constantly asking the question why? And at Harvard T.H. Chan School of Public Health he's directing that question to the issue of violence against Native American women. They...",
+        "bostonglobe.com/2015/05/conley-says-gun-violence-prevention-will-improve-public-health-boston-globe": {
+            "title": "Conley says gun violence prevention will improve public health - Boston Globe (subscription)...",
+            "snippet": "Boston Globe (subscription)Conley says gun violence prevention will improve public healthBoston Globe (subscription)The preventable harm caused by gun violence, and particularly handgun violence, is a public safety issue, a public health issue, and,...",
+            "date": "2015-05-02",
+            "categories": "prevention,health",
+            "tags": "improve,public,health",
+            "recuweb_url": "http://en.recuweb.com/health/bostonglobe.com/2015/05/conley-says-gun-violence-prevention-will-improve-public-health-boston-globe",
+            "resource_url": "http://news.google.com/?hl=en&q=public%2Bhealth%2Bpublic%2Bhealth&output=atom&nord=1",
+            "source_url": "http://bostonglobe.com/metro/2015/05/01/suffolk-conley-tells-doctors-group-that-gun-violence-prevention-will-improve-public-health/MGNfF6ACDaxXdyqFbmMiUP/story.html"
+        },
+        "businessinsider.com/2015/05/evidence-is-growing-that-vitamins-and-supplements-could-be-dangerous-to": {
+            "title": "Evidence is growing that vitamins and supplements could be dangerous to public health...",
+            "snippet": "Vitamins are good for you, so you should take vitamin supplements to support better health. I mean, it says so right there on the package. Bayer's One a Day pill for women, for example, supports bone strength, heart health, immunity and so on,...",
+            "date": "2015-05-02",
+            "categories": "evidence,health",
+            "tags": "dangerous,evidence,public,health",
+            "recuweb_url": "http://en.recuweb.com/health/businessinsider.com/2015/05/evidence-is-growing-that-vitamins-and-supplements-could-be-dangerous-to",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=public%2Bhealth&format=RSS&cc=us",
+            "source_url": "http://businessinsider.com/vitamins-and-supplements-fda-healthy-2015-5"
+        },
+        "kirklandreporter.com/2015/05/king-county-public-health-director-receives-statewide-leadership-award-kirkland-reporter": {
+            "title": "King County Public Health director receives statewide leadership award - Kirkland Reporter...",
+            "snippet": "King County Public Health director receives statewide leadership awardKirkland ReporterPublic Health - Seattle & King County Public Health works to protect and improve the health and well-being of all people in King County and to eliminate health...",
+            "date": "2015-05-02",
+            "categories": "health,leadership,public-health",
+            "tags": "people,improve,health,director,public,public_health",
+            "recuweb_url": "http://en.recuweb.com/public-health/kirklandreporter.com/2015/05/king-county-public-health-director-receives-statewide-leadership-award-kirkland-reporter",
+            "resource_url": "http://news.google.com/?hl=en&q=public%2Bhealth%2Bpublic%2Bhealth&output=atom&nord=1",
+            "source_url": "http://kirklandreporter.com/news/302222211.html"
+        },
+        "thinkprogress.org/2015/05/synthetic-marijuana-is-a-public-health-disaster-legalizing-the-real-thing": {
+            "title": "Synthetic Marijuana Is A Public Health Disaster. Legalizing The Real Thing... - ThinkProgress...",
+            "snippet": "Synthetic Marijuana Is A Public Health Disaster. Legalizing The Real Thing...ThinkProgressAcross the country, people are dying from using untested, dangerous drugs that attempt to mimic marijuana. Ironically, there's evidence that the public health...",
+            "date": "2015-05-02",
+            "categories": "evidence,drugs,public-health,health",
+            "tags": "evidence,dangerous,marijuana,people,public,public_health,health",
+            "recuweb_url": "http://en.recuweb.com/health/thinkprogress.org/2015/05/synthetic-marijuana-is-a-public-health-disaster-legalizing-the-real-thing",
+            "resource_url": "http://news.google.com/?hl=en&q=public%2Bhealth%2Bpublic%2Bhealth&output=atom&nord=1",
+            "source_url": "http://thinkprogress.org/health/2015/05/02/3653713/synthetic-marijuana-health-risk/"
+        },
+        "ngrguardiannews.com/2015/05/how-healthcare-providers-are-killing-public-health-laboratories-for-their-selfish": {
+            "title": "How Healthcare Providers Are Killing Public Health Laboratories For Their Selfish Interests...",
+            "snippet": "The National President of the Association of Medical Laboratory Scientists of Nigeria (AMLSN) Mr Toyosi Raheem, a medical laboratory scientist, in this interview throws more light on why misdiagnosis still exists in medical laboratory practice, and...",
+            "date": "2015-05-02",
+            "categories": "public-health,health",
+            "tags": "public,public_health,health,why",
+            "recuweb_url": "http://en.recuweb.com/health/ngrguardiannews.com/2015/05/how-healthcare-providers-are-killing-public-health-laboratories-for-their-selfish",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=public%2Bhealth&format=RSS&cc=us",
+            "source_url": "http://ngrguardiannews.com/2015/05/how-healthcare-providers-are-killing-public-health-laboratories-for-their-selfish-interests/"
+        },
+        "indystar.com/2015/05/abuse-of-painkillers-called-nation-s-single-biggest-public-health-concern": {
+            "title": "Abuse of painkillers called nation's 'single biggest public health concern'- Indianapolis Star...",
+            "snippet": "Indianapolis StarAbuse of painkillers called nation's 'single biggest public health concern'Indianapolis StarThe CDC has called Indiana's HIV outbreak the tip of the iceberg for the nation's drug abuse problem. \"This is our nation's single biggest...",
             "date": "2015-05-01",
-            "categories": "public-health,health,school",
-            "tags": "public,public_health,health,hsph,hsph_news,why",
-            "recuweb_url": "http://en.recuweb.com/school/hsph.harvard.edu/2015/05/better-communication-less-violence-hsph-news",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bhealth&output=atom&nord=1",
-            "source_url": "http://hsph.harvard.edu/news/features/better-communication-less-violence/"
+            "categories": "health",
+            "tags": "public,health",
+            "recuweb_url": "http://en.recuweb.com/health/indystar.com/2015/05/abuse-of-painkillers-called-nation-s-single-biggest-public-health-concern",
+            "resource_url": "http://news.google.com/?hl=en&q=public%2Bhealth%2Bpublic%2Bhealth&output=atom&nord=1",
+            "source_url": "http://indystar.com/story/news/2015/05/01/abuse-painkillers-called-nations-single-biggest-public-health-concern/26739727/"
         },
         "timescall.com/2015/05/boulder-county-public-health-to-hold-anthrax-exposure-response-exercise-longmont": {
             "title": "Boulder County Public Health to hold anthrax-exposure response exercise - Longmont Times-Call...",
             "snippet": "Boulder County Public Health to hold anthrax-exposure response exerciseLongmont Times-CallShe said procedures to provide medications as rapidly as possible after large numbers of people have been exposed to anthrax or other dangerous diseases are...",
             "date": "2015-05-01",
             "categories": "public-health,health",
-            "tags": "possible,public,public_health,health",
+            "tags": "possible,people,dangerous,public,public_health,health",
             "recuweb_url": "http://en.recuweb.com/health/timescall.com/2015/05/boulder-county-public-health-to-hold-anthrax-exposure-response-exercise-longmont",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bhealth&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=public%2Bhealth%2Bpublic%2Bhealth&output=atom&nord=1",
             "source_url": "http://timescall.com/longmont-local-news/ci_28024204/boulder-county-public-health-hold-anthrax-exposure-response"
         },
-        "guampdn.com/2015/05/public-health-recalled-mucinex-cold-relief-medicine-was-sold-on-guam": {
-            "title": "Public Health: Recalled MUCINEX cold-relief medicine was sold on Guam...",
-            "snippet": "The island's health department issued a press release today stating that bottles of a cold relief medicine that may not have the correct corresponding drug facts label have been sold at Kmart, Guam Rexall Drug Pharmacy and at Pay-Less in Agana,...",
+        "kuam.com/2015/05/public-health-drafts-medicinal-marijuana-policy": {
+            "title": "Public Health drafts medicinal marijuana policy...",
+            "snippet": "While we're still a long way from seeing its complete implementation on Guam, the Department of Public Health has completed the first draft of the rules and regulations needed for medicinal marijuana on Guam. Agency director James Gillan says over...",
             "date": "2015-05-01",
-            "categories": "medicine,public-health,health",
-            "tags": "department,medicine,public,public_health,health",
-            "recuweb_url": "http://en.recuweb.com/health/guampdn.com/2015/05/public-health-recalled-mucinex-cold-relief-medicine-was-sold-on-guam",
+            "categories": "public-health,health,policy",
+            "tags": "marijuana,long,public,public_health,health,policy,director",
+            "recuweb_url": "http://en.recuweb.com/policy/kuam.com/2015/05/public-health-drafts-medicinal-marijuana-policy",
             "resource_url": "http://www.bing.com/news/search?first=1&q=public%2Bhealth&format=RSS&cc=us",
-            "source_url": "http://guampdn.com/article/20150501/NEWS/150501007/Public-Health-Recalled-MUCINEX-cold-relief-medicine-sold-Guam"
-        },
-        "thehindubusinessline.com/2015/05/when-public-health-and-private-interests-cross-paths": {
-            "title": "When public health and private interests cross paths...",
-            "snippet": "A little over a week ago, the day Parliament passed the Bill on transgender rights, another private member Bill was to come up. The Prevention and Management of Conflict of Interest Bill (2015), introduced in the Rajya Sabha by Dr EM Sudarsana...",
-            "date": "2015-05-01",
-            "categories": "rights,health,prevention,management",
-            "tags": "week,public,health",
-            "recuweb_url": "http://en.recuweb.com/management/thehindubusinessline.com/2015/05/when-public-health-and-private-interests-cross-paths",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=public%2Bhealth&format=RSS&cc=us",
-            "source_url": "http://thehindubusinessline.com/features/pulse/when-public-health-and-private-interests-cross-paths/article7162083.ece"
+            "source_url": "http://kuam.com/story/28949195/2015/05/01/public-health-drafts-medicinal-marijuana-policy"
         },
         "torontosun.com/2015/04/app-working-to-solve-ottawa-public-health-vaccination-data-backlog": {
             "title": "App working to solve Ottawa Public Health vaccination data backlog...",
@@ -66,50 +106,10 @@
             "snippet": "HSPH NewsMichael Reich honored for advancing public health in JapanHSPH NewsHarvard University Professor Michael Robin Reich is awarded the Order of the Rising Sun, Gold Rays with Neck Ribbon for his outstanding contribution to the promotion of...",
             "date": "2015-04-30",
             "categories": "sun,university,health",
-            "tags": "hsph,hsph_news,public,health",
-            "recuweb_url": "http://en.recuweb.com/health/hsph.harvard.edu/2015/04/michael-reich-honored-for-advancing-public-health-in-japan-hsph-news",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bhealth&output=atom&nord=1",
-            "source_url": "http://hsph.harvard.edu/news/press-releases/michael-reich-honored-for-advancing-public-health-in-japan/"
-        },
-        "adn.com/2015/04/new-campaign-addresses-public-health-aspects-of-alaska-s-legal-pot": {
-            "title": "New campaign addresses public health aspects of Alaska's legal pot - Alaska Dispatch News...",
-            "snippet": "Alaska Dispatch NewsNew campaign addresses public health aspects of Alaska's legal potAlaska Dispatch NewsThe Alaska Department of Health and Social Services is rolling out an ad campaign geared toward informing the public of health risks associated...",
-            "date": "2015-04-30",
-            "categories": "health",
-            "tags": "department,public,health",
-            "recuweb_url": "http://en.recuweb.com/health/adn.com/2015/04/new-campaign-addresses-public-health-aspects-of-alaska-s-legal-pot",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bhealth&output=atom&nord=1",
-            "source_url": "http://adn.com/article/20150429/new-campaign-addresses-public-health-aspects-alaskas-legal-pot"
-        },
-        "thinkprogress.org/2015/04/one-vaccine-just-scored-an-amazing-public-health-victory-in-two": {
-            "title": "One Vaccine Just Scored An Amazing Public Health Victory In Two Continents - ThinkProgress...",
-            "snippet": "ThinkProgressOne Vaccine Just Scored An Amazing Public Health Victory In Two ContinentsThinkProgressPublic health experts are celebrating some good news this week: Rubella, a contagious virus that can cause serious health defects in unborn children,...",
-            "date": "2015-04-30",
-            "categories": "public-health,health,continents",
-            "tags": "week,public,public_health,health",
-            "recuweb_url": "http://en.recuweb.com/continents/thinkprogress.org/2015/04/one-vaccine-just-scored-an-amazing-public-health-victory-in-two",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bhealth&output=atom&nord=1",
-            "source_url": "http://thinkprogress.org/health/2015/04/30/3652997/rubella-eliminated-americas/"
-        },
-        "mountainhome.af.mil/2015/04/public-health-booth-educates-gunfighter-community": {
-            "title": "Public Health Booth Educates Gunfighter Community...",
-            "snippet": "4/30/2015 - MOUNTAIN HOME AIR FORCE BASE, Idaho -- The 366th Aerospace Medicine Squadron Public Health flight educated Base Exchange patrons with a public health information booth the week of April 10. The flight acted in support of the National...",
-            "date": "2015-04-30",
-            "categories": "medicine,public-health,health,home",
-            "tags": "week,medicine,public,public_health,health",
-            "recuweb_url": "http://en.recuweb.com/home/mountainhome.af.mil/2015/04/public-health-booth-educates-gunfighter-community",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=public%2Bhealth&format=RSS&cc=us",
-            "source_url": "http://mountainhome.af.mil/news/story.asp?id=123446775"
-        },
-        "philly.com/2015/04/public-health-in-practice-a-wash-interview-with-timothy-hayden-blog": {
-            "title": "Public health in practice: A WASH interview with Timothy Hayden - (blog)...",
-            "snippet": "(blog)Public health in practice: A WASH interview with Timothy Hayden (blog)Last month, Timothy Hayden returned to Australia (where I'm currently based) after coordinating the WASH activities Aspen Medical for four remote Ebola Treatment Units in...",
-            "date": "2015-04-30",
-            "categories": "health",
             "tags": "public,health",
-            "recuweb_url": "http://en.recuweb.com/health/philly.com/2015/04/public-health-in-practice-a-wash-interview-with-timothy-hayden-blog",
-            "resource_url": "http://news.google.com/?hl=en&q=public%2Bhealth&output=atom&nord=1",
-            "source_url": "http://philly.com/philly/blogs/public_health/Public-health-in-practice-A-WASH-interview-with-Timothy-Hayden.html"
+            "recuweb_url": "http://en.recuweb.com/health/hsph.harvard.edu/2015/04/michael-reich-honored-for-advancing-public-health-in-japan-hsph-news",
+            "resource_url": "http://news.google.com/?hl=en&q=public%2Bhealth%2Bpublic%2Bhealth&output=atom&nord=1",
+            "source_url": "http://hsph.harvard.edu/news/press-releases/michael-reich-honored-for-advancing-public-health-in-japan/"
         }
     }
 }
