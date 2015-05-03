@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "dokuwiki",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/dokuwiki/",
@@ -11,27 +11,27 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/blogs.json"
     },
     "items": {
-        "forum.dokuwiki.org/2015/04/navigation-window-and-search-bar-missing-after-changes-to-acl": {
-            "title": "Navigation Window and Search Bar Missing after Changes to ACL...",
-            "snippet": "We use Dokuwiki for our library system intranet and though I've updated it several times over the past year I've just started to look at the other Admin features, particularly users, groups and the ACL. The original ACL rules...",
-            "date": "2015-04-16",
-            "author_name": "no_email@example.com (boyerd)",
-            "categories": "navigation,dokuwiki",
-            "tags": "users,look,updated,library,system,dokuwiki",
-            "recuweb_url": "http://en.recuweb.com/dokuwiki/forum.dokuwiki.org/2015/04/navigation-window-and-search-bar-missing-after-changes-to-acl",
-            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://forum.dokuwiki.org/post/47965"
+        "forum.dokuwiki.org/2015/04/text-size-for-footnotes-dokuwiki-user-forum": {
+            "title": "Text size for footnotes - DokuWiki User Forum...",
+            "snippet": "lib/tpl/dokuwiki/css/so, in your conf/(if there isn't, create it), you could copy and paste this./______footnotes at the bottom of the page______/.dokuwiki border-top: 1px solid...",
+            "date": "2015-04-25",
+            "author_name": "no_email@example.com (InWikiVeritas)",
+            "categories": "dokuwiki,css",
+            "tags": "page,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,create",
+            "recuweb_url": "http://en.recuweb.com/css/forum.dokuwiki.org/2015/04/text-size-for-footnotes-dokuwiki-user-forum",
+            "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://forum.dokuwiki.org/thread/12507"
         },
-        "forum.dokuwiki.org/2015/04/how-to-convert-a-latex-publication-into-dokuwiki": {
-            "title": "How to convert a LaTeX publication into a DokuWiki? - DokuWiki...",
-            "snippet": "At my institute we have a bigger publication (500 pages including illustrations), which we would like to transfer to the DokuWiki platform. Currently the publication is saved in LaTeX and has been used for book printing and...",
-            "date": "2015-04-15",
-            "author_name": "no_email@example.com (ChriGI)",
-            "categories": "institute,dokuwiki",
-            "tags": "convert,dokuwiki,pages,platform",
-            "recuweb_url": "http://en.recuweb.com/dokuwiki/forum.dokuwiki.org/2015/04/how-to-convert-a-latex-publication-into-dokuwiki",
+        "forum.dokuwiki.org/2015/04/please-confirm-these-features-of-dokuwiki-user-forum": {
+            "title": "Please confirm these features of DokuWiki - DokuWiki User Forum...",
+            "snippet": "Subject: Please confirm these features of DokuWiki. Can DW do: 1) Tagging of articles (), search will find things based on the tags present 2) Import/Export articles in CSV for example 3) Create XML...",
+            "date": "2015-04-19",
+            "author_name": "no_email@example.com (Adamantium)",
+            "categories": "xml,dokuwiki",
+            "tags": "create,example,things,user,forum,please,dokuwiki",
+            "recuweb_url": "http://en.recuweb.com/dokuwiki/forum.dokuwiki.org/2015/04/please-confirm-these-features-of-dokuwiki-user-forum",
             "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://forum.dokuwiki.org/post/47948;?unb855sess=suu79cj8urk3brkd84uqonm7l4"
+            "source_url": "http://forum.dokuwiki.org/thread/12489"
         },
         "forum.dokuwiki.org/2015/04/cdn-plugins-for-dokuwiki-user-forum": {
             "title": "CDN plugins for DokuWIKI - DokuWiki User Forum...",
@@ -61,7 +61,7 @@
             "date": "2015-04-11",
             "author_name": "no_email@example.com (Torpedo)",
             "categories": "dokuwiki,wordpress",
-            "tags": "users,user,theme,convert,project,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user_forum,forum,wordpress,read",
+            "tags": "users,user,help,convert,project,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user_forum,forum,read",
             "recuweb_url": "http://en.recuweb.com/wordpress/forum.dokuwiki.org/2015/04/vote-on-your-favourite-dokuwiki-user-forum",
             "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://forum.dokuwiki.org/thread/12459"
@@ -74,8 +74,19 @@
             "categories": "dokuwiki",
             "tags": "setup,provide,step,installed,dokuwiki,user,faq",
             "recuweb_url": "http://en.recuweb.com/dokuwiki/forum.dokuwiki.org/2015/04/migration-of-the-dokuwiki-from-windows-xp-to-7-user",
-            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://forum.dokuwiki.org/post/47938"
+        },
+        "forum.dokuwiki.org/2015/04/how-to-convert-a-latex-publication-into-dokuwiki": {
+            "title": "How to convert a LaTeX publication into a DokuWiki? - DokuWiki...",
+            "snippet": "At my institute we have a bigger publication (500 pages including illustrations), which we would like to transfer to the DokuWiki platform. Currently the publication is saved in LaTeX and has been used for book printing and...",
+            "date": "2015-04-07",
+            "author_name": "no_email@example.com (ChriGI)",
+            "categories": "institute,dokuwiki",
+            "tags": "convert,dokuwiki,pages,platform",
+            "recuweb_url": "http://en.recuweb.com/dokuwiki/forum.dokuwiki.org/2015/04/how-to-convert-a-latex-publication-into-dokuwiki",
+            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://forum.dokuwiki.org/thread/12454"
         },
         "charmie11.wordpress.com/2015/04/dokuwiki-on-ubuntu": {
             "title": "DokuWiki on Ubuntu...",
@@ -88,38 +99,27 @@
             "resource_url": "http://en.search.wordpress.com/?q=dokuwiki%2Bdokuwiki&f=feed&page=1",
             "source_url": "http://charmie11.wordpress.com/2015/04/06/dokuwiki-on-ubuntu-14-04/"
         },
-        "forum.dokuwiki.org/2015/04/header-footer-edit-on-page-dokuwiki-user-forum": {
-            "title": "Header footer edit on page - DokuWiki User Forum...",
-            "snippet": "Greetings. Never had a wiki before, but this seem to be in active development and with a bunch of nice fellas in the forum so I hope it is a keeper.;-) New setup, default theme, I find it good enough. I do of course aim to change...",
-            "date": "2015-04-06",
-            "author_name": "no_email@example.com (sancaya)",
-            "categories": "dokuwiki,wiki",
-            "tags": "theme,forum,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,page,wiki,setup",
-            "recuweb_url": "http://en.recuweb.com/wiki/forum.dokuwiki.org/2015/04/header-footer-edit-on-page-dokuwiki-user-forum",
-            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://forum.dokuwiki.org/thread/12447;?unb855sess=avcircm86dfo5ggf0s64ab1pj3"
-        },
         "securityfocus.com/2015/03/mdvsa-2015-185-dokuwiki-securityfocus": {
             "title": "MDVSA-2015:185 dokuwiki - SecurityFocus...",
             "snippet": "Updated dokuwiki packages fix security vulnerabilities: inc/in DokuWiki before 2014-05-05a only checks for access to the root namespace, which allows remote attackers to access arbitrary images via a media...",
             "date": "2015-03-31",
             "author_name": "unknown",
             "categories": "dokuwiki",
-            "tags": "access,only,dokuwiki,updated",
+            "tags": "access,only,dokuwiki",
             "recuweb_url": "http://en.recuweb.com/dokuwiki/securityfocus.com/2015/03/mdvsa-2015-185-dokuwiki-securityfocus",
-            "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://securityfocus.com/archive/1/535151"
         },
         "forum.dokuwiki.org/2015/03/user-permission-errors-for-dokuwiki-forum": {
             "title": "User Permission Errors for - DokuWiki User Forum...",
             "snippet": "Hi all, I am doing a fresh dokuwiki install on a debian 7 linux system, with the latest debian 7 dokuwiki package (deb7u1). Following the instructions from the Dokuwiki website, when I go to...",
-            "date": "2015-03-26",
+            "date": "2015-03-27",
             "author_name": "no_email@example.com (turnermm)",
             "categories": "dokuwiki",
-            "tags": "ing,system,install,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,package,website",
+            "tags": "ing,install,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,package,website",
             "recuweb_url": "http://en.recuweb.com/dokuwiki/forum.dokuwiki.org/2015/03/user-permission-errors-for-dokuwiki-forum",
             "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://forum.dokuwiki.org/thread/12415"
+            "source_url": "http://forum.dokuwiki.org/thread/12415;?unb855sess=sn780porttj7tckouahhdhtgq3"
         }
     }
 }
