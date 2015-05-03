@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "events",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/events/",
@@ -11,114 +11,115 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/events/events/blogs.json"
     },
     "items": {
-        "cracked.com/2015/04/18-historic-events-that-were-nothing-like-you-picture": {
-            "title": "18 Historic Events That Were Nothing Like You Picture Them...",
-            "snippet": "Whether through Hollywood conjurings, wrong teachings, or bad word-of-mouth, we've gained some pretty faulty knowledge when it comes to history. Thankfully, here at Cracked we pride ourselves on debunking all that...",
-            "date": "2015-04-27",
+        "hackaday.com/2015/05/hackaday-events-ny-la-sf": {
+            "title": "Hackaday Events: NY, LA, SF, LA Hackaday...",
+            "snippet": "We are doing a lot this spring to get people elbow-deep in hardware hacking. We have so many live events coming up that we're going to be doing Saturday morning recaps to keep you informed. Here are the upcoming...",
+            "date": "2015-05-02",
+            "author_name": "Mike Szczys",
+            "categories": "hacking,events",
+            "tags": "keep,coming,live,lot,spring,people,events,saturday",
+            "recuweb_url": "http://en.recuweb.com/events/hackaday.com/2015/05/hackaday-events-ny-la-sf",
+            "resource_url": "http://www.google.com/search?q=events%2Bevents&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://hackaday.com/2015/05/02/hackaday-events-ny-la-sf-la/"
+        },
+        "nofilmschool.com/2015/05/the-easiest-way-to-make-extra-money-as-a-filmmaker-try": {
+            "title": "The Easiest Way to Make Extra Money As a Filmmaker? Try...",
+            "snippet": "Freelance filmmaking and steady income rarely go hand in hand. If you find yourself in a pinch and need some extra cash, shooting live events might be the best way to go.",
+            "date": "2015-05-02",
+            "author_name": "Robert Hardy",
+            "categories": "events",
+            "tags": "live,find,hand,events",
+            "recuweb_url": "http://en.recuweb.com/events/nofilmschool.com/2015/05/the-easiest-way-to-make-extra-money-as-a-filmmaker-try",
+            "resource_url": "http://www.google.com/search?q=events&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://nofilmschool.com/2015/05/easiest-way-make-money-filmmaker-try-shooting-live-events"
+        },
+        "nbcmontana.com/2015/05/bozeman-officers-arrest-man-following-bizarre-string-of-events": {
+            "title": "Bozeman officers arrest man following bizarre string of events...",
+            "snippet": "A man is in jail in Bozeman after a series of reportedly bizarre incidents around town that have police concerned. According to Bozeman Police, officers received several calls about a man they identified as Swaran Singh over...",
+            "date": "2015-05-01",
             "author_name": "unknown",
-            "categories": "teaching,events",
-            "tags": "here,wrong,historic,events,picture",
-            "recuweb_url": "http://en.recuweb.com/events/cracked.com/2015/04/18-historic-events-that-were-nothing-like-you-picture",
-            "resource_url": "http://www.google.com/search?q=events%2Bevents&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://cracked.com/photoplasty_1446_18-moments-in-history-youre-picturing-incorrectly/"
-        },
-        "staugustine.com/2015/04/special-events-venue-restrictions-proposed-for-st-augustine": {
-            "title": "Special events venue restrictions proposed for St. Augustine - The St...",
-            "snippet": "Zoning code rules and a definition for special events venues will come before the St. Augustine City Commission today via the first reading of an ordinance. The ordinance needs two readings before adoption, and the second...",
-            "date": "2015-04-27",
-            "author_name": "SHELDON GARDNER",
             "categories": "events",
-            "tags": "city,events,second",
-            "recuweb_url": "http://en.recuweb.com/events/staugustine.com/2015/04/special-events-venue-restrictions-proposed-for-st-augustine",
-            "resource_url": "http://www.google.com/search?q=events%2Bevents&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://staugustine.com/news/local-news/2015-04-26/special-events-venue-restrictions-proposed-st-augustine"
+            "tags": "officers,police,arrest,events,series",
+            "recuweb_url": "http://en.recuweb.com/events/nbcmontana.com/2015/05/bozeman-officers-arrest-man-following-bizarre-string-of-events",
+            "resource_url": "http://www.google.com/search?q=events&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://nbcmontana.com/news/bozeman-officers-arrest-man-following-bizarre-string-of-events/32681198"
         },
-        "planetizen.com/2015/04/leadership-change-at-ciclavia-to-target-goal-of-more-frequent": {
-            "title": "Leadership Change at CicLAvia to Target Goal of More Frequent...",
-            "snippet": "Aaron Paley, the founder of CicLAvia in Los Angeles, announces a change in leadership and describes the future of the game-changing eventa good read for anyone interested in open-streets, cultural events, and urban...",
-            "date": "2015-04-26",
-            "author_name": "Planetizen",
-            "categories": "leadership,events",
-            "tags": "open,change,game,events",
-            "recuweb_url": "http://en.recuweb.com/events/planetizen.com/2015/04/leadership-change-at-ciclavia-to-target-goal-of-more-frequent",
+        "howtogeek.com/2015/05/how-to-add-events-apple-calendar-using-plain-language": {
+            "title": "How to Add Events to Apple Calendar Using Plain Language...",
+            "snippet": "One of the annoying things about calendar software is that adding events usually requires tabbing or tapping from text box to text box. Apple Calendar, however, let's you type simple sentences in plain language and the...",
+            "date": "2015-05-01",
+            "author_name": "Matt Klein",
+            "categories": "events",
+            "tags": "things,events,however",
+            "recuweb_url": "http://en.recuweb.com/events/howtogeek.com/2015/05/how-to-add-events-apple-calendar-using-plain-language",
             "resource_url": "http://www.google.com/search?q=events%2Bevents&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://planetizen.com/node/76098"
+            "source_url": "http://howtogeek.com/216050/how-to-add-events-to-apple-calendar-using-plain-language/"
         },
-        "techglimpse.com/2015/04/trai-try-rallying-against-ill-practice": {
-            "title": "TRAI: Try rallying against ill-practice!",
-            "snippet": "I usually prefer delivering current events. Events fresh out of the oven, piping hot, served-but-too-hot-to-be-dug- this one here has been lying here on the table for quite some time now and everybody has dug into it and have had their fill on their...",
-            "date": "2015-04-25",
-            "author_name": "Rebecca Nanda",
-            "categories": "rallying,events",
-            "tags": "everybody,into,here,events",
-            "recuweb_url": "http://en.recuweb.com/events/techglimpse.com/2015/04/trai-try-rallying-against-ill-practice",
+        "wrestlinginc.com/2015/05/new-wwe-weekend-main-events-after-daniel-bryan-pulled-dolph": {
+            "title": "New WWE Weekend Main Events After Daniel Bryan Pulled, Dolph...",
+            "snippet": "With Daniel Bryan being pulled from this weekend's WWE live events, Dean Ambrose vs. Luke Harper in a street fight now headlines tonight's live event at the Oncenter War Memorial Arena in Syracuse, NY, Saturday's show...",
+            "date": "2015-05-01",
+            "author_name": "unknown",
+            "categories": "events",
+            "tags": "show,war,live,events,tonight,street,pulled,weekend,saturday",
+            "recuweb_url": "http://en.recuweb.com/events/wrestlinginc.com/2015/05/new-wwe-weekend-main-events-after-daniel-bryan-pulled-dolph",
+            "resource_url": "http://www.google.com/search?q=events%2Bevents&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://wrestlinginc.com/wi/news/2015/0501/592910/new-wwe-weekend-main-events-after-daniel-bryan-pulled/"
+        },
+        "astoriaparkalliance.blogspot.com/2015/05/sweep-2015-may-09-astoria-park-queens": {
+            "title": "Sweep 2015 - May 09 Astoria Park Queens...",
+            "snippet": "Riverkeeper Sweep 2015: Sign up now for one of 100 cleanup sites, NYC to Albany/news-events/events/rvk-events/sweep2015 Astoria Park Shoreline Cleanup by Land (Queens) Riverkeeper Sweep 2015 Saturday, May 9, 2015 from 12:00 PM to 3:00 PM Queens, New...",
+            "date": "2015-05-01",
+            "author_name": "Astoria Park Alliance",
+            "categories": "events",
+            "tags": "albany,events,saturday",
+            "recuweb_url": "http://en.recuweb.com/events/astoriaparkalliance.blogspot.com/2015/05/sweep-2015-may-09-astoria-park-queens",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=events%2Bevents&rss=1&lng=en",
-            "source_url": "http://techglimpse.com/trai-net-neutrality-india-prices/?utm_source=flipboard&utm_medium=flipboard_rss&utm_campaign=techglimpse"
+            "source_url": "http://astoriaparkalliance.blogspot.com/2015/04/riverkeeperorg-sweep-2015-may-09.html"
         },
-        "codecanyon.net/2015/04/chronosly-event-calendar-wordpress-plugin-codecanyon": {
-            "title": "Chronosly Event Calendar WordPress Plugin - CodeCanyon...",
-            "snippet": "Chronosly WordPress Events Calendar Plugin Whatever your programming level, Chronosly, one of the best WordPress events calendar plugin, is designed to suit all users, newbies, designers, and soft...",
-            "date": "2015-04-24",
-            "author_name": "heimsveldipbn",
-            "categories": "wordpress,events",
-            "tags": "calendar,events",
-            "recuweb_url": "http://en.recuweb.com/events/codecanyon.net/2015/04/chronosly-event-calendar-wordpress-plugin-codecanyon",
-            "resource_url": "http://www.google.com/search?q=events%2Bevents&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://codecanyon.net/item/chronosly-event-calendar-wordpress-plugin/8493796"
-        },
-        "steelers.com/2015/04/labriola-on-non-events-of-the-past-week-pittsburgh-steelers": {
-            "title": "Labriola on non-events of the past week - Pittsburgh Steelers...",
-            "snippet": "Apparently, three recent non-events taking place over the past week, or to frame it in the context of where we are on the NFL calendar, three different non-events taking place some five complete months before a game that...",
-            "date": "2015-04-24",
-            "author_name": "Bob Labriola",
-            "categories": "events",
-            "tags": "game,week,recent,events,calendar",
-            "recuweb_url": "http://en.recuweb.com/events/steelers.com/2015/04/labriola-on-non-events-of-the-past-week-pittsburgh-steelers",
-            "resource_url": "http://www.google.com/search?q=events%2Bevents&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://steelers.com/news/article-1/Labriola-on-non-events-of-the-past-week/69f330ce-2221-4b55-8a02-34b6f66eee18"
-        },
-        "ritholtz.com/2015/04/succinct-summations-of-week-s-events-the-big-picture": {
-            "title": "Succinct Summations of Week's Events The Big Picture...",
-            "snippet": "(Very) succinct summations for week ending April 24th: Positives: 1. The S&P 500 made a new all-time high. 2. Mortgage applications rose 5% w/o/w. 3.",
-            "date": "2015-04-24",
+        "ritholtz.com/2015/05/succinct-summation-of-week-s-events-the-big-picture": {
+            "title": "Succinct Summation of Week's Events The Big Picture...",
+            "snippet": "Succinct Summations week ending May 1st Positives: 1. Initial jobless claims plunged to 262k vs the 290k expected, the lowest reading in 15 years. 2.",
+            "date": "2015-05-01",
             "author_name": "Barry Ritholtz",
             "categories": "events",
-            "tags": "week,events,picture",
-            "recuweb_url": "http://en.recuweb.com/events/ritholtz.com/2015/04/succinct-summations-of-week-s-events-the-big-picture",
-            "resource_url": "http://www.google.com/search?q=events&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://ritholtz.com/blog/2015/04/succinct-summations-of-weeks-events-4-24-15/"
-        },
-        "eastbayexpress.com/2015/04/this-weekend-s-top-five-events-culture-spy-east-bay-express": {
-            "title": "This Weekend's Top Five Events Culture Spy East Bay Express...",
-            "snippet": "At 300 Jefferson St., Oakland, where City Limits once resided, an eerie black hole now sits behind the gallery's glass door. The walls and floors are veiled in a thin grey fabric and natural light is blocked out from all possible...",
-            "date": "2015-04-24",
-            "author_name": "Sarah Burke",
-            "categories": "events,culture",
-            "tags": "possible,city,top,events,east,weekend",
-            "recuweb_url": "http://en.recuweb.com/culture/eastbayexpress.com/2015/04/this-weekend-s-top-five-events-culture-spy-east-bay-express",
+            "tags": "expected,events",
+            "recuweb_url": "http://en.recuweb.com/events/ritholtz.com/2015/05/succinct-summation-of-week-s-events-the-big-picture",
             "resource_url": "http://www.google.com/search?q=events%2Bevents&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://eastbayexpress.com/CultureSpyBlog/archives/2015/04/24/this-weekends-top-five-events"
+            "source_url": "http://ritholtz.com/blog/2015/05/succinct-summation-of-weeks-events-5-1-15/"
         },
-        "visitdublin.com/2015/04/what-s-on-dublin-events-this-spring-in-visit": {
-            "title": "What's On Dublin Events this Spring What's On in Dublin Visit...",
-            "snippet": "Discover the A to Z of Dublin! Find out what's happening, from exciting springtime events, free gigs and concerts to top restaurants and bars.",
-            "date": "2015-04-24",
-            "author_name": "unknown",
+        "theblaze.com/2015/05/the-events-that-transpire-after-cops-pull-couple-over-leaves": {
+            "title": "The Events That Transpire After Cops Pull Couple Over Leaves...",
+            "snippet": "Two Michigan officers pulled over a couple in Royal Oak last month and immediately ordered the driver and passenger to step out of the vehicle but this was no ordinary traffic stop. Dashcam footage released by the police...",
+            "date": "2015-05-01",
+            "author_name": "Oliver Darcy",
             "categories": "events",
-            "tags": "top,happening,events,find,free",
-            "recuweb_url": "http://en.recuweb.com/events/visitdublin.com/2015/04/what-s-on-dublin-events-this-spring-in-visit",
-            "resource_url": "http://www.google.com/search?q=events&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://visitdublin.com/dublin-a-to-z/results/?c0=459&c1=459&ty=10001"
+            "tags": "police,officers,pulled,couple,events",
+            "recuweb_url": "http://en.recuweb.com/events/theblaze.com/2015/05/the-events-that-transpire-after-cops-pull-couple-over-leaves",
+            "resource_url": "http://www.google.com/search?q=events%2Bevents&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theblaze.com/stories/2015/05/01/the-events-that-transpire-after-cops-pull-couple-over-leaves-woman-absolutely-stunned-oh-my-god/"
         },
-        "bestrafemich21.tumblr.com/2015/04/fionagoddess-american-horror-story-rewatch-s01ep11": {
-            "title": "fionagoddess: American Horror Story Rewatch S01Ep11 -...",
-            "snippet": "fionagoddess: American Horror Story Rewatch small S01Ep11 - Birth b The evil. Its a force just like any other, Violet. Pure physics. Real and powerful. Created by events. Events that unleash psychic energy into the environment,...",
-            "date": "2015-04-24",
-            "categories": "environment,physics,events",
-            "tags": "into,events",
-            "recuweb_url": "http://en.recuweb.com/events/bestrafemich21.tumblr.com/2015/04/fionagoddess-american-horror-story-rewatch-s01ep11",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=events%2Bevents&rss=1&lng=en",
-            "source_url": "http://bestrafemich21.tumblr.com/post/117279791313"
+        "artsbeat.blogs.nytimes.com/2015/04/moma-to-offer-free-events-for-seniors": {
+            "title": "MoMA to Offer Free Events for Seniors -...",
+            "snippet": "A new program at the Museum of Modern Art will include free screenings, online courses and other events for New York City residents 65 and older.",
+            "date": "2015-04-30",
+            "author_name": "By Randy Kennedy",
+            "categories": "events",
+            "tags": "york,city,free,art,events",
+            "recuweb_url": "http://en.recuweb.com/events/artsbeat.blogs.nytimes.com/2015/04/moma-to-offer-free-events-for-seniors",
+            "resource_url": "http://www.google.com/search?q=events%2Bevents&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://artsbeat.blogs.nytimes.com/2015/04/30/moma-to-offer-free-events-for-seniors/"
+        },
+        "uwishunu.com/2015/04/tonight-picks-opening-night-for-morgan-s-pier-dining-out-life": {
+            "title": "Tonight Picks: Opening Night For Morgan's Pier, Dining Out For Life...",
+            "snippet": "Tonight Picks: Opening Night For Morgan's Pier, Dining Out For Life, Philadelphia Science Festival Events, HOGTour Pub Crawl In South Philly, Free Yoga At Race Street Pier And More. Posted by Jillian Wilson. Filed in:...",
+            "date": "2015-04-30",
+            "author_name": "Jillian Wilson",
+            "categories": "yoga,science,events,life",
+            "tags": "free,street,festival,events,tonight",
+            "recuweb_url": "http://en.recuweb.com/life/uwishunu.com/2015/04/tonight-picks-opening-night-for-morgan-s-pier-dining-out-life",
+            "resource_url": "http://www.google.com/search?q=events%2Bevents&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://uwishunu.com/2015/04/tonight-picks-opening-night-for-morgans-pier-dining-out-for-life-philadelphia-science-festival-events-hogtour-pub-crawl-in-south-philly-free-yoga-at-race-street-pier-and-more/"
         }
     }
 }
