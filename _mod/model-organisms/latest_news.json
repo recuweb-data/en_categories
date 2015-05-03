@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "model-organisms",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/model-organisms/",
@@ -11,105 +11,105 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/model-organisms/model-organisms/blogs.json"
     },
     "items": {
+        "utsandiego.com/2015/05/how-do-we-age-u-t-san-diego": {
+            "title": "How do we age? - U-T San Diego...",
+            "snippet": "U-T San DiegoHow do we age?U-T San DiegoEpigenetic changes have previously been associated with aging in model organisms. The scientists, led by the Salk's Juan Carlos Izpis\u00faa Belmonte, are developing epigenetic editing approaches to reverse these...",
+            "date": "2015-05-02",
+            "categories": "organisms",
+            "tags": "approaches,changes,aging,model,organisms,scientists",
+            "recuweb_url": "http://en.recuweb.com/organisms/utsandiego.com/2015/05/how-do-we-age-u-t-san-diego",
+            "resource_url": "http://news.google.com/?hl=en&q=model%2Borganisms%2Bmodel%2Borganisms&output=atom&nord=1",
+            "source_url": "http://utsandiego.com/news/2015/apr/30/aging-belmonte-zhang/"
+        },
+        "med.stanford.edu/2015/05/making-biotechnology-interactive-with-games-remote-control-labs-stanford-medical-center": {
+            "title": "Making biotechnology interactive with games, remote-control labs - Stanford Medical Center Report...",
+            "snippet": "Stanford Medical Center ReportMaking biotechnology interactive with games, remote-control labsStanford Medical Center ReportRiedel-Kruse also used the light-sensitive Euglena as the model organisms in a class he taught on biotic game design. Nate...",
+            "date": "2015-05-01",
+            "categories": "biotechnology,organisms",
+            "tags": "center,report,model,organisms",
+            "recuweb_url": "http://en.recuweb.com/organisms/med.stanford.edu/2015/05/making-biotechnology-interactive-with-games-remote-control-labs-stanford-medical-center",
+            "resource_url": "http://news.google.com/?hl=en&q=model%2Borganisms%2Bmodel%2Borganisms&output=atom&nord=1",
+            "source_url": "http://med.stanford.edu/news/all-news/2015/05/making-biotechnology-interactive-with-games-remote-control-labs.html"
+        },
+        "statesmanjournal.com/2015/05/oyster-growers-win-permit-for-pesticide-spray-in-wa-bay-statesman": {
+            "title": "Oyster growers win permit for pesticide spray in WA bay - Statesman Journal...",
+            "snippet": "Statesman JournalOyster growers win permit for pesticide spray in WA bayStatesman JournalThe EPA cited lack of studies to show long-term effects on some organisms as well as uncertainty on modeling approaches and other concerns due to an initial...",
+            "date": "2015-05-01",
+            "categories": "organisms",
+            "tags": "approaches,organisms",
+            "recuweb_url": "http://en.recuweb.com/organisms/statesmanjournal.com/2015/05/oyster-growers-win-permit-for-pesticide-spray-in-wa-bay-statesman",
+            "resource_url": "http://news.google.com/?hl=en&q=model%2Borganisms%2Bmodel%2Borganisms&output=atom&nord=1",
+            "source_url": "http://statesmanjournal.com/story/tech/science/environment/2015/05/01/oyster-growers-win-permit-for-imidacloprid-spray-in-washington-bay/26698111/"
+        },
+        "theabingtonjournal.com/2015/04/clarks-summit-resident-michael-terwilliger-presents-research-at-national-conference": {
+            "title": "Clarks Summit resident Michael Terwilliger presents research at National Conference...",
+            "snippet": "Terwilligers research, titled Different Mechanisms For The Recognition Of tRNAHis In The Absence Of G-1 In Model Organisms A. Castellanii, T. Brucei, And S. Cerevisiae, was supervised by Tammy Tobin, Professor of Biology at Susquehanna.",
+            "date": "2015-04-28",
+            "categories": "model-organisms,organisms,biology",
+            "tags": "model,model_organisms,organisms,research,cerevisiae,professor,biology",
+            "recuweb_url": "http://en.recuweb.com/biology/theabingtonjournal.com/2015/04/clarks-summit-resident-michael-terwilliger-presents-research-at-national-conference",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=model%2Borganisms&format=RSS&cc=us",
+            "source_url": "http://theabingtonjournal.com/news/local-news-news/153159109/Clarks-Summit-resident-presents-research-at-National-Conference"
+        },
+        "skidmorenews.com/2015/04/investigating-the-brain-current-neuroscience-research-at-skidmore-college": {
+            "title": "Investigating the Brain: Current Neuroscience Research at Skidmore College...",
+            "snippet": "Perhaps one of Dr. Possidentes most intriguing model organisms is the Alzheimers fly, which expresses the amyloid beta peptide known to be involved in AD progression. Recently, in a collaboration with University College London and the Cambridge...",
+            "date": "2015-04-28",
+            "categories": "university,college,organisms",
+            "tags": "college,collaboration,research,model,organisms",
+            "recuweb_url": "http://en.recuweb.com/organisms/skidmorenews.com/2015/04/investigating-the-brain-current-neuroscience-research-at-skidmore-college",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=model%2Borganisms&format=RSS&cc=us",
+            "source_url": "http://skidmorenews.com/?p=7926"
+        },
         "sciencedaily.com/2015/04/3-d-image-of-live-embryo-turning-itself-inside-out": {
             "title": "3-D image of live embryo turning itself inside out...",
             "snippet": "Since analyses in animal model organisms mostly concentrate on cell shape changes that happen within an invaginating region, the model could be used to make those analyses far more accurate. The power of this mathematical model is that we can...",
             "date": "2015-04-27",
             "categories": "organisms",
-            "tags": "power,mathematical,analyses,analyses-far,far,far-more-accurate,accurate,mostly,mostly-concentrate,concentrate,concentrate-on-cell,cell,cell-shape,cell-shape-changes,shape,shape-changes,changes,changes-that-happen,happen,happen-within,within,within-an-invaginating,invaginating,invaginating-region,region,analyses-in-animal,animal,live,embryo,turning,inside,inside-out,model,organisms",
+            "tags": "far,changes,live,inside,model,organisms",
             "recuweb_url": "http://en.recuweb.com/organisms/sciencedaily.com/2015/04/3-d-image-of-live-embryo-turning-itself-inside-out",
             "resource_url": "http://www.bing.com/news/search?first=1&q=model%2Borganisms&format=RSS&cc=us",
             "source_url": "http://sciencedaily.com/releases/2015/04/150427082851.htm"
-        },
-        "csmonitor.com/2015/04/chinese-researchers-alter-embryo-dna-do-results-cross-ethical-tripwires": {
-            "title": "Chinese researchers alter embryo DNA: Do results cross ethical tripwires?",
-            "snippet": "N.Y. The new tool for editing genomes is valuable for basic research with model organisms, such as fruit flies, to understand how genes, individually and in groups, function and the interplay between various components of a genome, notes the...",
-            "date": "2015-04-27",
-            "categories": "fruit,organisms",
-            "tags": "function,between,results,researchers,embryo,dna,research,model,organisms",
-            "recuweb_url": "http://en.recuweb.com/organisms/csmonitor.com/2015/04/chinese-researchers-alter-embryo-dna-do-results-cross-ethical-tripwires",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=model%2Borganisms&format=RSS&cc=us",
-            "source_url": "http://csmonitor.com/Science/2015/0424/Chinese-researchers-alter-embryo-DNA-Do-results-cross-ethical-tripwires"
-        },
-        "scienceblog.com/2015/04/embryos-caught-turning-themselves-upside-down-and-inside-out": {
-            "title": "Embryos caught turning themselves upside down and inside out...",
-            "snippet": "Since analyses in animal model organisms mostly concentrate on cell shape changes that happen within an invaginating region, the model could be used to make those analyses far more accurate. The power of this mathematical model is that we can...",
-            "date": "2015-04-27",
-            "categories": "organisms",
-            "tags": "power,mathematical,analyses,analyses-far,far,far-more-accurate,accurate,mostly,mostly-concentrate,concentrate,concentrate-on-cell,cell,cell-shape,cell-shape-changes,shape,shape-changes,changes,changes-that-happen,happen,happen-within,within,within-an-invaginating,invaginating,invaginating-region,region,analyses-in-animal,animal,turning,upside,down,down-and-inside,inside,inside-out,model,organisms",
-            "recuweb_url": "http://en.recuweb.com/organisms/scienceblog.com/2015/04/embryos-caught-turning-themselves-upside-down-and-inside-out",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=model%2Borganisms&format=RSS&cc=us",
-            "source_url": "http://scienceblog.com/78040/embryos-caught-turning-themselves-upside-down-and-inside-out/"
-        },
-        "nature.com/2015/04/the-oncogene-erg-a-key-factor-in-prostate-cancer": {
-            "title": "The oncogene ERG: a key factor in prostate cancer -...",
-            "snippet": "The oncogene ERG: a key factor in prostate in several vertebrate model organisms shows that ETS proteins are nuclear DNA-binding phosphoproteins that act as activators or repressors of transcription. The ETS transcription factors are required for...",
-            "date": "2015-04-27",
-            "categories": "transcription,cancer,organisms",
-            "tags": "model,organisms,dna",
-            "recuweb_url": "http://en.recuweb.com/organisms/nature.com/2015/04/the-oncogene-erg-a-key-factor-in-prostate-cancer",
-            "resource_url": "http://news.google.com/?hl=en&q=model%2Borganisms&output=atom&nord=1",
-            "source_url": "http://nature.com/onc/journal/vaop/ncurrent/full/onc2015109a.html"
-        },
-        "phys.org/2015/04/upside-down-and-inside-out": {
-            "title": "Upside down and inside out...",
-            "snippet": "Since analyses in animal model organisms mostly concentrate on cell shape changes that happen within an invaginating region, the model could be used to make those analyses far more accurate. The power of this mathematical model is that we can...",
-            "date": "2015-04-27",
-            "categories": "organisms",
-            "tags": "power,mathematical,analyses,analyses-far,far,far-more-accurate,accurate,mostly,mostly-concentrate,concentrate,concentrate-on-cell,cell,cell-shape,cell-shape-changes,shape,shape-changes,changes,changes-that-happen,happen,happen-within,within,within-an-invaginating,invaginating,invaginating-region,region,analyses-in-animal,animal,down,down-and-inside,inside,inside-out,upside,model,organisms",
-            "recuweb_url": "http://en.recuweb.com/organisms/phys.org/2015/04/upside-down-and-inside-out",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=model%2Borganisms&format=RSS&cc=us",
-            "source_url": "http://phys.org/news/2015-04-upside.html"
-        },
-        "7thspace.com/2015/04/co-regulation-of-translation-in-protein-complexes": {
-            "title": "Co-regulation of translation in protein complexes...",
-            "snippet": "Conclusions: Similar results obtained for distantly related model organisms, Saccharomyces cerevisiae and Homo sapiens, suggest that the phenomenon of translational co-regulation applies to the variety of living organisms and concerns many...",
-            "date": "2015-04-24",
-            "categories": "organisms",
-            "tags": "variety,results,model,organisms",
-            "recuweb_url": "http://en.recuweb.com/organisms/7thspace.com/2015/04/co-regulation-of-translation-in-protein-complexes",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=model%2Borganisms&format=RSS&cc=us",
-            "source_url": "http://7thspace.com/headlines/507197/co_regulation_of_translation_in_protein_complexes.html"
-        },
-        "sciencemag.org/2015/04/the-mutagenic-chain-reaction-a-method-for-converting-heterozygous-to-science": {
-            "title": "The mutagenic chain reaction: A method for converting heterozygous to... - Science Magazine...",
-            "snippet": "The mutagenic chain reaction: A method for converting heterozygous to...Science Magazine (subscription)It is often desirable to generate recessive loss-of-function mutations in emergent model organisms; however, identifying such mutations in the...",
-            "date": "2015-04-23",
-            "categories": "science,organisms",
-            "tags": "function,science,model,organisms",
-            "recuweb_url": "http://en.recuweb.com/organisms/sciencemag.org/2015/04/the-mutagenic-chain-reaction-a-method-for-converting-heterozygous-to-science",
-            "resource_url": "http://news.google.com/?hl=en&q=model%2Borganisms&output=atom&nord=1",
-            "source_url": "http://sciencemag.org/content/348/6233/442.full"
         },
         "ecnmag.com/2015/04/duke-unc-collaboration-trying-to-fix-human-ailments-at-molecular-level": {
             "title": "Duke/UNC collaboration trying to fix human ailments at molecular level...",
             "snippet": "Gersbach has been using a popular new technology -- which goes by the cumbersome acronym CRISPR/Cas9 -- to change the DNA sequence of model organisms and human cells. Thus far, he has reprogrammed this bacterial-based system to correct the genetic...",
             "date": "2015-04-22",
             "categories": "technology,organisms",
-            "tags": "genetic,human,using,technology,molecular,dna,model,organisms,far",
+            "tags": "genetic,human,cells,technology,collaboration,molecular,using,model,organisms,far",
             "recuweb_url": "http://en.recuweb.com/organisms/ecnmag.com/2015/04/duke-unc-collaboration-trying-to-fix-human-ailments-at-molecular-level",
             "resource_url": "http://www.bing.com/news/search?first=1&q=model%2Borganisms&format=RSS&cc=us",
             "source_url": "http://ecnmag.com/news/2015/04/duke-unc-collaboration-trying-fix-human-ailments-molecular-level"
         },
-        "news-medical.net/2015/04/winners-of-gsa-poster-awards-announced-at-fungal-genetics-conference": {
-            "title": "Winners of GSA poster awards announced at Fungal Genetics Conference...",
-            "snippet": "The Society typically awards such prizes several times a year at each of their conferences on genetic research focused on a variety of model organisms. Ivan Liachko was the recipient of a 2015 GSA DeLill Nasser Award for Professional Development...",
-            "date": "2015-04-22",
-            "categories": "society,organisms",
-            "tags": "variety,society,research,model,organisms",
-            "recuweb_url": "http://en.recuweb.com/organisms/news-medical.net/2015/04/winners-of-gsa-poster-awards-announced-at-fungal-genetics-conference",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=model%2Borganisms&format=RSS&cc=us",
-            "source_url": "http://news-medical.net/news/20150422/Winners-of-GSA-poster-awards-announced-at-Fungal-Genetics-Conference.aspx"
+        "nature.com/2015/04/model-organisms-100-s-cerevisiae-genomes": {
+            "title": "Model organisms 100 S. cerevisiae genomes -...",
+            "snippet": "Model organisms 100 S. cerevisiae et al. present a new 100-genomes strains resource for the model organism Saccharomyces cerevisiae. For a selected 93 strains, representing a diversity of geographical and environmental origins, the authors report...",
+            "date": "2015-04-17",
+            "categories": "organisms",
+            "tags": "report,cerevisiae,model,organisms,organism",
+            "recuweb_url": "http://en.recuweb.com/organisms/nature.com/2015/04/model-organisms-100-s-cerevisiae-genomes",
+            "resource_url": "http://news.google.com/?hl=en&q=model%2Borganisms%2Bmodel%2Borganisms&output=atom&nord=1",
+            "source_url": "http://nature.com/articles/nrg3948"
         },
-        "thestreet.com/2015/04/scientists-at-the-j-craig-venter-institute-publish-paper-outlining-efficient": {
-            "title": "Scientists At The J. Craig Venter Institute Publish Paper Outlining Efficient Synthetic Biology...",
-            "snippet": "there have not been efficient tools for large scale DNA delivery that can enable effective genetic engineering methodology in diatoms like those that exist for two main synthetic biology model organisms, Escherichia coli (E. coli) and...",
-            "date": "2015-04-21",
-            "categories": "biology,engineering,institute,organisms",
-            "tags": "genetic,scientists,dna,model,organisms,coli",
-            "recuweb_url": "http://en.recuweb.com/organisms/thestreet.com/2015/04/scientists-at-the-j-craig-venter-institute-publish-paper-outlining-efficient",
+        "phys.org/2014/03/visual-introductions-to-model-organisms-help-researchers-prepare-for-the-lab": {
+            "title": "Visual introductions to model organisms help researchers prepare for the lab...",
+            "snippet": "As discussed in the Model Organisms II video An Introduction to the Chick: Gallus gallus domesticus, chick embryos are frequently used for cancer research. For example, transplanted human cancer cells can be used to establish tumors in the...",
+            "date": "2014-03-26",
+            "categories": "cancer,tumor,model-organisms,organisms",
+            "tags": "human,cells,model,model_organisms,organisms,discussed,researchers,lab,research",
+            "recuweb_url": "http://en.recuweb.com/organisms/phys.org/2014/03/visual-introductions-to-model-organisms-help-researchers-prepare-for-the-lab",
             "resource_url": "http://www.bing.com/news/search?first=1&q=model%2Borganisms&format=RSS&cc=us",
-            "source_url": "http://thestreet.com/story/13119764/1/scientists-at-the-j-craig-venter-institute-publish-paper-outlining-efficient-synthetic-biology-methods-to-genetically-engineer-microalgae.html"
+            "source_url": "http://phys.org/news/2014-03-visual-introductions-lab.html"
+        },
+        "blogs.nasa.gov/2013/11/model-organisms-shining-examples-for-simple-effective-biology-research": {
+            "title": "Model Organisms: Shining Examples for Simple, Effective Biology Research...",
+            "snippet": "In todays A Lab Aloft blog entry Camille Alleyne, Ed.D., assistant program scientist for the International Space Station Program Science Office, shares with readers the role of model organisms in microgravity research. Have you ever thought about...",
+            "date": "2013-11-13",
+            "categories": "science,biology,model-organisms,organisms",
+            "tags": "ever,international,international_space,space,space_station,station,science,scientist,lab,biology,research,model,model_organisms,organisms",
+            "recuweb_url": "http://en.recuweb.com/organisms/blogs.nasa.gov/2013/11/model-organisms-shining-examples-for-simple-effective-biology-research",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=model%2Borganisms&format=RSS&cc=us",
+            "source_url": "http://blogs.nasa.gov/ISS_Science_Blog/2013/11/13/model-organisms-shining-examples-for-simple-effective-biology-research/"
         }
     }
 }
