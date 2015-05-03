@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "css",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/css/",
@@ -11,6 +11,50 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/css/css/blogs.json"
     },
     "items": {
+        "circlecube.com/2015/05/cyclomatic-complexity-logic-in-css-wizardry-oocss-front-end-architecture-performance": {
+            "title": "Cyclomatic Complexity: Logic in CSS CSS Wizardry CSS, OOCSS, front-end architecture, performance...",
+            "snippet": "I recently hit upon a way of thinking that made me realise that CSS does include logic, and the fact that its rarely viewed as such is probably also why we end up with such poor CSS at all.I found myself explaining compound selectors to a client as...",
+            "date": "2015-05-01",
+            "author_name": "Evan Mullins",
+            "categories": "css",
+            "tags": "selectors,way,css",
+            "recuweb_url": "http://en.recuweb.com/css/circlecube.com/2015/05/cyclomatic-complexity-logic-in-css-wizardry-oocss-front-end-architecture-performance",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=css%2Bcss&rss=1&lng=en",
+            "source_url": "http://circlecube.com/2015/05/cyclomatic-complexity-logic-in-css-css-wizardry-css-oocss-front-end-architecture-performance-and-more-by-harry-roberts/"
+        },
+        "blogs.adobe.com/2015/04/an-introduction-to-graphical-effects-in-css-adobe-dreamweaver": {
+            "title": "An Introduction To Graphical Effects in CSS: Adobe Dreamweaver...",
+            "snippet": "Over the past couple of years, CSS has gotten a set of new properties that allow us to create quite advanced graphical effects right in the browsers, using a few lines of code, and without having to resort to graphics editors to...",
+            "date": "2015-04-29",
+            "author_name": "Sara Soueidan",
+            "categories": "css",
+            "tags": "lines,properties,effects,couple,css,code",
+            "recuweb_url": "http://en.recuweb.com/css/blogs.adobe.com/2015/04/an-introduction-to-graphical-effects-in-css-adobe-dreamweaver",
+            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.adobe.com/dreamweaver/2015/04/an-introduction-to-graphical-effects-in-css.html"
+        },
+        "analogarrangements.wordpress.com/2015/04/web-design-resources": {
+            "title": "Web Design Resources...",
+            "snippet": "The first resource I find really helpful is this CSS checker, which can find errors in just CSS or CSS and HTML code for you. If youre one missed parenthesis or semicolon away from perfect code, this can save you hours of painstaking scrolling. Then...",
+            "date": "2015-04-29",
+            "author_name": "Abby",
+            "categories": "css,html",
+            "tags": "find,web,css,html,code",
+            "recuweb_url": "http://en.recuweb.com/html/analogarrangements.wordpress.com/2015/04/web-design-resources",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=css%2Bcss&rss=1&lng=en",
+            "source_url": "http://analogarrangements.wordpress.com/2015/04/29/web-design-resources/"
+        },
+        "schneide.wordpress.com/2015/04/the-typography-of-source-code": {
+            "title": "The typography of source code...",
+            "snippet": "Take a look at the following source code, can you guess which language this is written in? Its CSS. CSS has a typical layout with a minimal indentation depth where a group of selectors embraces lines of attribute/value pairs. Take a look: As with...",
+            "date": "2015-04-26",
+            "author_name": "jenslukowski",
+            "categories": "css",
+            "tags": "selectors,lines,language,written,code,css,layout",
+            "recuweb_url": "http://en.recuweb.com/css/schneide.wordpress.com/2015/04/the-typography-of-source-code",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=css%2Bcss&rss=1&lng=en",
+            "source_url": "http://schneide.wordpress.com/2015/04/26/the-typography-of-source-code/"
+        },
         "webdesigncoloradodenver.com/2015/04/css-the-lacking-guide": {
             "title": "CSS: The Lacking Guide...",
             "snippet": "Html Css CSS: The Missing Guide html css just click on the picture below for more data. ISBN13: 9780596802448 Condition: New Notes: Brand name NEW FROM PUBLISHER! one hundred% Fulfillment Assure. Monitoring provided on most orders. Get with...",
@@ -28,21 +72,10 @@
             "date": "2015-04-24",
             "author_name": "Robin Rendle",
             "categories": "property,css",
-            "tags": "css,tricks",
+            "tags": "own,property,css,tricks",
             "recuweb_url": "http://en.recuweb.com/css/css-tricks.com/2015/04/chaining-multiple-blend-modes-css-tricks",
             "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://css-tricks.com/chaining-multiple-blend-modes/"
-        },
-        "designmodo.com/2015/04/create-an-svg-animation-using-css-and-javascript-designmodo": {
-            "title": "Create an SVG Animation using CSS and JavaScript - Designmodo...",
-            "snippet": "I am going to show you how you can animation SVG using CSS and JavaScript using some icons, text and vector graphics that I created on Adobe Illustrator.",
-            "date": "2015-04-24",
-            "author_name": "Sam Norton",
-            "categories": "css,javascript",
-            "tags": "text,graphics,create,css,javascript",
-            "recuweb_url": "http://en.recuweb.com/javascript/designmodo.com/2015/04/create-an-svg-animation-using-css-and-javascript-designmodo",
-            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://designmodo.com/svg-animation/"
         },
         "hongkiat.com/2015/04/30-cool-css-animations-you-have-to-see-hongkiat": {
             "title": "30 Cool CSS Animations You Have To See - Hongkiat...",
@@ -50,21 +83,10 @@
             "date": "2015-04-22",
             "author_name": "Agus",
             "categories": "css",
-            "tags": "text,css",
+            "tags": "things,effects,css",
             "recuweb_url": "http://en.recuweb.com/css/hongkiat.com/2015/04/30-cool-css-animations-you-have-to-see-hongkiat",
             "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://hongkiat.com/blog/creative-css-animations/"
-        },
-        "css-tricks.com/2015/04/where-style-guides-fit-into-process-css-tricks": {
-            "title": "Where Style Guides Fit Into Process CSS-Tricks...",
-            "snippet": "Brad Frost was showing me some slides from one of his talks recently. He had some graphics that demonstrated different approaches to where a style guide can fit into a team's process. As you might imagine, it's a matter of...",
-            "date": "2015-04-20",
-            "author_name": "Chris Coyier",
-            "categories": "css",
-            "tags": "graphics,style,guide,into,css,tricks",
-            "recuweb_url": "http://en.recuweb.com/css/css-tricks.com/2015/04/where-style-guides-fit-into-process-css-tricks",
-            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://css-tricks.com/where-style-guides-fit-into-process/"
         },
         "css-tricks.com/2015/04/html-vs-body-in-css-tricks": {
             "title": "HTML vs Body in CSS CSS-Tricks...",
@@ -72,7 +94,7 @@
             "date": "2015-04-17",
             "author_name": "Geoff Graham",
             "categories": "css,html",
-            "tags": "into,well,should,written,css,html,tricks",
+            "tags": "into,well,should,written,properties,css,html,tricks",
             "recuweb_url": "http://en.recuweb.com/html/css-tricks.com/2015/04/html-vs-body-in-css-tricks",
             "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://css-tricks.com/html-vs-body-in-css/"
@@ -83,7 +105,7 @@
             "date": "2015-04-15",
             "author_name": "satyasingh9089",
             "categories": "web-development,html,css,php",
-            "tags": "web,web_development,development,language,learn,weve,html,css,php",
+            "tags": "couple,web,development,language,learn,html,css",
             "recuweb_url": "http://en.recuweb.com/php/synapseindiacurrentopening.wordpress.com/2015/04/which-web-development-language-is-useful-to-learn-synapseindia-current-openings",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=css%2Bcss&rss=1&lng=en",
             "source_url": "http://synapseindiacurrentopening.wordpress.com/2015/04/15/which-web-development-language-is-useful-to-learn-synapseindia-current-openings/"
@@ -93,32 +115,10 @@
             "snippet": "Hello, my friend, Damian, has written a book for people whod like to learn HTML5 and CSS3 from scratch. Its free and available for both reading on the web as well as in most popular formats (PDF, ePub, mobi). You can read or download it here: Enjoy!",
             "date": "2015-04-14",
             "categories": "html,css",
-            "tags": "here,web,well,learn,written,code,html,css,people",
+            "tags": "here,well,available,learn,written,code,html,css,web",
             "recuweb_url": "http://en.recuweb.com/css/reddit.com/2015/04/free-e-book-how-to-code-in-html5-and-css3",
             "resource_url": "http://www.reddit.com/search.rss?q=css%2Bcss&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/learnprogramming/comments/32jq5q/free_ebook_how_to_code_in_html5_and_css3/"
-        },
-        "kulkarnisoftware.com/2015/04/future-of-web-development-services-in-glasgow-html5-css3": {
-            "title": "Future of Web Development Services in Glasgow: HTML5 CSS3...",
-            "snippet": "Future of Web Development Services in Glasgow: HTML5 and CSS3 These days, everybody is aware of the importance of Hyper Text Mark-up Language (HTML) and Cascading Style Sheets (CSS) in web development. HTML is used to create web pages. It is simple...",
-            "date": "2015-04-14",
-            "author_name": "Ashish Kulkarni",
-            "categories": "web-development,html,css",
-            "tags": "create,web,pages,web_development,development,style,text,services,future,html,css,language",
-            "recuweb_url": "http://en.recuweb.com/css/kulkarnisoftware.com/2015/04/future-of-web-development-services-in-glasgow-html5-css3",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=css%2Bcss&rss=1&lng=en",
-            "source_url": "http://kulkarnisoftware.com/blog/future-of-web-development-services-in-glasgow-html5-and-css3/"
-        },
-        "gomakethings.com/2015/04/automating-css-and-js-cache-busting-with-gulp-wordpress": {
-            "title": "Automating CSS and JS cache-busting with Gulp and WordPress...",
-            "snippet": "I serve my CSS and JavaScript files with far-future expires headers. This tells browsers to hold on to them for a really long time (in my case, a year), so that theres a few less assets to download on all visits and pages loads after the first. The...",
-            "date": "2015-04-13",
-            "author_name": "Chris Ferdinandi",
-            "categories": "css,wordpress,javascript",
-            "tags": "pages,long,future,css,javascript,hold",
-            "recuweb_url": "http://en.recuweb.com/javascript/gomakethings.com/2015/04/automating-css-and-js-cache-busting-with-gulp-wordpress",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=css%2Bcss&rss=1&lng=en",
-            "source_url": "http://gomakethings.com/automating-css-and-js-cache-busting-with-gulp-and-wordpress/"
         }
     }
 }
