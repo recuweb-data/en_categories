@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hacking",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/hacking/",
@@ -11,71 +11,60 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/hacking/hacking/blogs.json"
     },
     "items": {
-        "theverge.com/2015/04/automakers-are-trying-to-stop-you-from-hacking-your-car": {
-            "title": "Automakers are trying to stop you from hacking your car The Verge...",
-            "snippet": "Last September, a New York-based company named Autel got an unpleasant surprise. It had made a diagnostic tool for figuring out what was wrong with a car and what parts were needed to fix it but a...",
-            "date": "2015-04-24",
-            "author_name": "Russell Brandom",
+        "tripwire.com/2015/05/hacking-aviation-technology-vulnerability-disclosure": {
+            "title": "Hacking Aviation Technology: Vulnerability Disclosure and the...",
+            "snippet": "Hacking Aviation Technology: Vulnerability Disclosure and the Aviation Industry. You know what I don't want to talk about any more? Responsible disclosure. The problem is that, as old as that discussion is for information...",
+            "date": "2015-05-01",
+            "author_name": "Tim Erlin",
+            "categories": "hacking,technology",
+            "tags": "old,any,vulnerability,hacking,information",
+            "recuweb_url": "http://en.recuweb.com/technology/tripwire.com/2015/05/hacking-aviation-technology-vulnerability-disclosure",
+            "resource_url": "http://www.google.com/search?q=hacking%2Bhacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://tripwire.com/state-of-security/security-data-protection/security-hardening/hacking-aviation-technology-vulnerability-disclosure-and-the-aviation-industry/"
+        },
+        "thehackernews.com/2015/04/hacking-wordpress-website-with-just-a-single-comment": {
+            "title": "Hacking WordPress Website with Just a Single Comment...",
+            "snippet": "Yes, you heard it right. The WordPress CMS used by Millions of website is vulnerable to a zero-day flaw that could allow hackers to remote code execution on the Web server in order to take full control of it. The vulnerability...",
+            "date": "2015-04-28",
+            "author_name": "noreply@blogger.com (Swati Khandelwal)",
+            "categories": "wordpress,hacking",
+            "tags": "code,zero,hacking,hackers,vulnerability",
+            "recuweb_url": "http://en.recuweb.com/hacking/thehackernews.com/2015/04/hacking-wordpress-website-with-just-a-single-comment",
+            "resource_url": "http://www.google.com/search?q=hacking%2Bhacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://thehackernews.com/2015/04/WordPress-vulnerability.html"
+        },
+        "fox2now.com/2015/04/hacking-barn-owls-at-the-world-bird-sanctuary": {
+            "title": "Hacking barn owls at the World Bird Sanctuary...",
+            "snippet": "WILDWOOD, MO (KTVI) You know what a computer hacker does, but hacking is also a term used in the animal kingdom. Fox 2's Lisa Hart joins us live from the World Bird Sanctuary in Valley Park, where they are hacking...",
+            "date": "2015-04-28",
+            "author_name": "Staff Writer",
             "categories": "hacking",
-            "tags": "hacking,tool",
-            "recuweb_url": "http://en.recuweb.com/hacking/theverge.com/2015/04/automakers-are-trying-to-stop-you-from-hacking-your-car",
-            "resource_url": "http://www.google.com/search?q=hacking%2Bhacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theverge.com/2015/4/24/8490359/general-motors-eff-copyright-fight-dmca"
-        },
-        "nakedsecurity.sophos.com/2015/04/nigerian-accused-of-hacking-bank-computer-to-steal-340-million": {
-            "title": "Nigerian accused of hacking bank computer to steal 340 million...",
-            "snippet": "A Nigerian man has been charged with hacking into a bank server and siphoning out more than N68 billion (over 340 million).",
-            "date": "2015-04-24",
-            "author_name": "John Hawes",
-            "categories": "hacking",
-            "tags": "into,server,charged,hacking,computer",
-            "recuweb_url": "http://en.recuweb.com/hacking/nakedsecurity.sophos.com/2015/04/nigerian-accused-of-hacking-bank-computer-to-steal-340-million",
-            "resource_url": "http://www.google.com/search?q=hacking%2Bhacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://nakedsecurity.sophos.com/2015/04/24/nigerian-accused-of-hacking-bank-computer-to-steal-340-million/"
-        },
-        "whotv.com/2015/04/police-warn-of-new-facebook-hacking-method": {
-            "title": "Police Warn of New Facebook Hacking Method...",
-            "snippet": "Last Thursday, Liz Huebsch, reported her personal information was hacked after a conversation she had on Facebook with a friend. However, Huebsch later learned the hacker disguised itself as her Facebook friend to...",
-            "date": "2015-04-23",
-            "author_name": "Jodi Whitworth",
-            "categories": "facebook,hacking",
-            "tags": "personal,hacked,facebook,hacking,however,hacker",
-            "recuweb_url": "http://en.recuweb.com/hacking/whotv.com/2015/04/police-warn-of-new-facebook-hacking-method",
-            "resource_url": "http://www.google.com/search?q=hacking%2Bhacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://whotv.com/2015/04/23/police-warn-of-new-facebook-hacking-method/"
-        },
-        "wreg.com/2015/04/bug-in-apps-could-open-apple-devices-to-hacking": {
-            "title": "Bug in apps could open Apple devices to hacking...",
-            "snippet": "Cybersecurity firm SourceDNA discovered that an oversight in a particular version of the AFNetworking software, which is used by 100,000 apps for iPhones, iPods and iPads, would allow hackers to easily bypass the SSL...",
-            "date": "2015-04-21",
-            "author_name": "Eryn Taylor",
-            "categories": "hacking,ipod,ipad",
-            "tags": "open,hacking,hackers",
-            "recuweb_url": "http://en.recuweb.com/ipad/wreg.com/2015/04/bug-in-apps-could-open-apple-devices-to-hacking",
+            "tags": "hacker,hacking,computer",
+            "recuweb_url": "http://en.recuweb.com/hacking/fox2now.com/2015/04/hacking-barn-owls-at-the-world-bird-sanctuary",
             "resource_url": "http://www.google.com/search?q=hacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://wreg.com/2015/04/21/bug-in-apps-could-open-apple-devices-to-hacking/"
+            "source_url": "http://fox2now.com/2015/04/28/hacking-barn-owls-at-the-world-bird-sanctuary/"
         },
-        "theguardian.com/2015/04/piers-morgan-questioned-for-a-second-time-over-phone-hacking": {
-            "title": "Piers Morgan questioned for a second time over phone-hacking...",
-            "snippet": "Former Mirror editor, who is now a TV host and editor-at-large of Mail Online in the US, has always denied he was personally involved in hacking.",
-            "date": "2015-04-21",
-            "author_name": "Mark Sweney and Jane Martinson",
+        "github.com/2015/04/eight-lessons-learned-hacking-on-github-pages-for-six-months": {
+            "title": "Eight lessons learned hacking on GitHub Pages for six months...",
+            "snippet": "Believe it or not, just over a year ago, GitHub Pages, the documentation hosting service that powers nearly three-quarters of a million sites, was little more than a 100-line shell script. Today, it's a fully independent, feature-rich...",
+            "date": "2015-04-27",
+            "author_name": "unknown",
             "categories": "hacking",
-            "tags": "involved,host,phone,second,hacking",
-            "recuweb_url": "http://en.recuweb.com/hacking/theguardian.com/2015/04/piers-morgan-questioned-for-a-second-time-over-phone-hacking",
+            "tags": "service,hacking",
+            "recuweb_url": "http://en.recuweb.com/hacking/github.com/2015/04/eight-lessons-learned-hacking-on-github-pages-for-six-months",
             "resource_url": "http://www.google.com/search?q=hacking%2Bhacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/media/2015/apr/21/piers-morgan-phone-hacking-mirror"
+            "source_url": "http://github.com/blog/1992-eight-lessons-learned-hacking-on-github-pages-for-six-months"
         },
-        "theguardian.com/2015/04/united-airlines-bars-security-researcher-from-flight-after-tweet": {
-            "title": "United Airlines bars security researcher from flight after tweet about...",
-            "snippet": "United Airlines bars security researcher from flight after tweet about hacking. Chris Roberts was prevented from boarding flight from Colorado to San Francisco following joking post that said he could get oxygen masks to...",
-            "date": "2015-04-19",
-            "author_name": "Associated Press in Washington",
-            "categories": "hacking",
-            "tags": "san,san_francisco,francisco,hacking",
-            "recuweb_url": "http://en.recuweb.com/hacking/theguardian.com/2015/04/united-airlines-bars-security-researcher-from-flight-after-tweet",
-            "resource_url": "http://www.google.com/search?q=hacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/business/2015/apr/19/united-airlines-security-researcher-chris-roberts-hacking"
+        "businessinsider.com/2015/04/how-the-tesla-hack-happened-business-insider": {
+            "title": "How the Tesla hack happened - Business Insider...",
+            "snippet": "In general, hacking is a precise and honed skill that requires a deep understanding of computer networks and code. But sometimes literally zero code is required whatsoever, and hackers can use only a computer, phone, and...",
+            "date": "2015-04-27",
+            "author_name": "Cale Guthrie Weissman",
+            "categories": "business,hacking",
+            "tags": "zero,code,business,business_insider,insider,hack,general,hacking,computer,hackers,only,phone",
+            "recuweb_url": "http://en.recuweb.com/hacking/businessinsider.com/2015/04/how-the-tesla-hack-happened-business-insider",
+            "resource_url": "http://www.google.com/search?q=hacking%2Bhacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://businessinsider.com/how-the-tesla-hack-happened-2015-4"
         },
         "boingboing.net/2015/04/sony-pirated-ebooks-on-hacking": {
             "title": "Sony pirated ebooks on hacking...",
@@ -83,7 +72,7 @@
             "date": "2015-04-18",
             "author_name": "Cory Doctorow",
             "categories": "ebook,hacking",
-            "tags": "cyber,next,sony,hacking",
+            "tags": "hacking,servers",
             "recuweb_url": "http://en.recuweb.com/hacking/boingboing.net/2015/04/sony-pirated-ebooks-on-hacking",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=hacking%2Bhacking&rss=1&lng=en",
             "source_url": "http://boingboing.net/2015/04/18/sony-pirated-ebooks-on-hacking.html"
@@ -93,7 +82,7 @@
             "snippet": "This isn't a debate about the prevalence of hacking. There are plenty of threads on that, and my opinion will not be included here. However, in those thread, I frequently see people say \"He even admitted to hacking.\" Of course he did. If you accuse...",
             "date": "2015-04-17",
             "categories": "hacking",
-            "tags": "even,hacking,however,people",
+            "tags": "even,here,someone,hacking,people",
             "recuweb_url": "http://en.recuweb.com/hacking/reddit.com/2015/04/admitting-to-hacking-does-not-actually-mean-someone-is",
             "resource_url": "http://www.reddit.com/search.rss?q=hacking%2Bhacking&sort=relevance&show=all&syntax=plain",
             "source_url": "http://reddit.com/r/GlobalOffensive/comments/32xfwm/admitting_to_hacking_does_not_actually_mean/"
@@ -104,21 +93,32 @@
             "date": "2015-04-17",
             "author_name": "Amul Kalia",
             "categories": "hacking",
-            "tags": "using,charged,justice,hacking,computer",
+            "tags": "old,hacking,florida,computer,using",
             "recuweb_url": "http://en.recuweb.com/hacking/eff.org/2015/04/is-this-justice-charging-an-eighth-grader-with-a-felony",
-            "resource_url": "http://www.google.com/search?q=hacking%2Bhacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=hacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://eff.org/deeplinks/2015/04/justice-charging-eight-grader-felony-hacking"
         },
-        "theguardian.com/2015/04/wikileaks-republishes-all-sony-hacking-scandal-documents": {
-            "title": "WikiLeaks republishes all Sony hacking scandal documents...",
-            "snippet": "Julian Assange says data 'belongs in the public domain'and says hacked files shed light on extent of cooperation between government and Hollywood.",
-            "date": "2015-04-17",
-            "author_name": "Sam Thielman in New York",
-            "categories": "hacking",
-            "tags": "hacked,government,sony,hacking",
-            "recuweb_url": "http://en.recuweb.com/hacking/theguardian.com/2015/04/wikileaks-republishes-all-sony-hacking-scandal-documents",
-            "resource_url": "http://www.google.com/search?q=hacking%2Bhacking&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/technology/2015/apr/16/wikileaks-documents-sony-hacking-school"
+        "adriennescatholiccorner.blogspot.com/2015/04/hacking-for-hackings-sake": {
+            "title": "Hacking for hackings sake...",
+            "snippet": "guilty. Just a quickie before moving on with the painting of my office. I read Stop Hacking Your Life over at the Art of Manliness and it really struck a nerve. I can't seem to boil an egg anymore without looking up the bestest way to boil an egg.",
+            "date": "2015-04-15",
+            "author_name": "Adrienne",
+            "categories": "life,painting,hacking",
+            "tags": "looking,way,life,hacking",
+            "recuweb_url": "http://en.recuweb.com/hacking/adriennescatholiccorner.blogspot.com/2015/04/hacking-for-hackings-sake",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=hacking%2Bhacking&rss=1&lng=en",
+            "source_url": "http://adriennescatholiccorner.blogspot.com/2015/04/hacking-for-hackings-sake.html"
+        },
+        "issiscorner.blogspot.com/2015/04/von-ahn-s-mind": {
+            "title": "Von Ahn's Mind...",
+            "snippet": "I think the video was created to show the positive effects of hacking. Hacking can be against hacking. If someone hacks you, hack them back. It is a universal way of language almost. Hacking reveals the physical aspects of the internet, it shows...",
+            "date": "2015-04-15",
+            "author_name": "Issi's Corner",
+            "categories": "mind,hacking,internet",
+            "tags": "way,against,hacking,someone,hacks,hack,internet",
+            "recuweb_url": "http://en.recuweb.com/internet/issiscorner.blogspot.com/2015/04/von-ahn-s-mind",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=hacking%2Bhacking&rss=1&lng=en",
+            "source_url": "http://issiscorner.blogspot.com/2015/04/von-ahns-mind.html"
         }
     }
 }
