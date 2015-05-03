@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "card-game",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/card-game/",
@@ -11,27 +11,94 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/card-game/card-game/blogs.json"
     },
     "items": {
+        "tabletopgamingnews.com/2015/05/just-desserts-a-new-card-game-from-looney-labs-tabletop": {
+            "title": "Just Desserts, a new card game from Looney Labs Tabletop...",
+            "snippet": "Looney Labs has released Just Desserts, their new card game of yummy cakes, cookies, ice cream, and pie (and other good-to-eat things as well). Players play as waiters in a restaurant and are trying to serve the customers...",
+            "date": "2015-05-01",
+            "author_name": "Polar_Bear",
+            "categories": "play,ice-cream,desserts",
+            "tags": "play,trying,tabletop,card,game,players",
+            "recuweb_url": "http://en.recuweb.com/desserts/tabletopgamingnews.com/2015/05/just-desserts-a-new-card-game-from-looney-labs-tabletop",
+            "resource_url": "http://www.google.com/search?q=card%2Bgame%2Bcard%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://tabletopgamingnews.com/just-desserts-a-new-card-game-from-looney-labs/"
+        },
+        "tabletopgamingnews.com/2015/05/puppy-zombie-card-game-up-on-kickstarter-tabletop-gaming-news": {
+            "title": "Puppy Zombie Card Game Up On Kickstarter Tabletop Gaming News...",
+            "snippet": "Puppy Zombie is a new card game that's up on Kickstarter and looking for some funding. The game is one of pure survival. Players draw cards from the top of the central deck, hoping to not get a zombie puppy. If they do, then...",
+            "date": "2015-05-01",
+            "author_name": "Polar_Bear",
+            "categories": "card-game",
+            "tags": "deck,cards,card,looking,card_game,game,kickstarter,tabletop,gaming,players",
+            "recuweb_url": "http://en.recuweb.com/card-game/tabletopgamingnews.com/2015/05/puppy-zombie-card-game-up-on-kickstarter-tabletop-gaming-news",
+            "resource_url": "http://www.google.com/search?q=card%2Bgame%2Bcard%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://tabletopgamingnews.com/puppy-zombie-card-game-up-on-kickstarter/"
+        },
+        "danielsolisblog.blogspot.com/2015/04/daniel-solis-177-free-card-game-icons": {
+            "title": "Daniel Solis: 177 Free Card Game Icons...",
+            "snippet": "So I redesigned some new icons for basic spaces in card games like the Deck, Discard Pile, Hand, Tableau, Trick, and Exile. From there, I made icons for every combination of \"Move from A to B\" and \"Swap between A and B.\"...",
+            "date": "2015-04-30",
+            "author_name": "Daniel Solis",
+            "categories": "card-game",
+            "tags": "free,card,card_game,game,games,deck",
+            "recuweb_url": "http://en.recuweb.com/card-game/danielsolisblog.blogspot.com/2015/04/daniel-solis-177-free-card-game-icons",
+            "resource_url": "http://www.google.com/search?q=card%2Bgame%2Bcard%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://danielsolisblog.blogspot.com/2015/04/177-free-card-game-icons.html"
+        },
+        "laughingsquid.com/2015/04/cpu-wars-a-card-game-based-on-the-most-important": {
+            "title": "'CPU Wars', A Card Game Based on the Most Important...",
+            "snippet": "CPU Wars is a card game based on the most important achievements in computing and server history. The game puts different computer processors against each other with strategy and special booster cards like the ability to...",
+            "date": "2015-04-27",
+            "author_name": "Glen Tickle",
+            "categories": "card-game",
+            "tags": "computer,each,cards,card,card_game,game,cpu,cpu_wars,wars",
+            "recuweb_url": "http://en.recuweb.com/card-game/laughingsquid.com/2015/04/cpu-wars-a-card-game-based-on-the-most-important",
+            "resource_url": "http://www.google.com/search?q=card%2Bgame%2Bcard%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://laughingsquid.com/cpu-wars-a-card-game-based-on-the-most-important-achievements-in-computing-history/"
+        },
+        "codereview.stackexchange.com/2015/04/java-bridge-card-game-code-review-stack-exchange": {
+            "title": "java - Bridge Card Game - Code Review Stack Exchange...",
+            "snippet": "For right now I am trying to tackle writing each of the classes needed to run the game. If you're unfamiliar with bridge the short explanation is as follows: you start with a 52 card deck, shuffled w/no jokers. There will be four...",
+            "date": "2015-04-26",
+            "author_name": "n0tion",
+            "categories": "card-game,java",
+            "tags": "trying,each,card,card_game,game,deck",
+            "recuweb_url": "http://en.recuweb.com/java/codereview.stackexchange.com/2015/04/java-bridge-card-game-code-review-stack-exchange",
+            "resource_url": "http://www.google.com/search?q=card%2Bgame%2Bcard%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://codereview.stackexchange.com/questions/87992/bridge-card-game"
+        },
+        "dudeiwantthat.com/2015/04/cpu-wars-card-game": {
+            "title": "CPU Wars Card Game...",
+            "snippet": "No one appreciates your knowledge and skills until they need you to fix their own IT systems, do they? But at least with these 2 decks of the CPU Wars card game you can show off your encyclopedic understanding of desktop...",
+            "date": "2015-04-25",
+            "author_name": "unknown",
+            "categories": "card-game",
+            "tags": "show,off,cpu,cpu_wars,wars,least,skills,card,card_game,game",
+            "recuweb_url": "http://en.recuweb.com/card-game/dudeiwantthat.com/2015/04/cpu-wars-card-game",
+            "resource_url": "http://www.google.com/search?q=card%2Bgame%2Bcard%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://dudeiwantthat.com/exclusives/cpu-wars-card-game.asp"
+        },
+        "equestriadaily.com/2015/04/equestria-daily-possible-major-spoiler-in-mlp-card-game": {
+            "title": "Equestria Daily: Possible Major Spoiler in MLP Card Game?",
+            "snippet": "Several of you have sent this in and even if it isn't a spoiler it's a really cool looking card! It also matches up with a teaser from Enterplay so it looks to be a legit card at the least! Check on after the break for the card in question.",
+            "date": "2015-04-25",
+            "author_name": "Calpain",
+            "categories": "card-game",
+            "tags": "break,least,cool,looking,card,card_game,game,major",
+            "recuweb_url": "http://en.recuweb.com/card-game/equestriadaily.com/2015/04/equestria-daily-possible-major-spoiler-in-mlp-card-game",
+            "resource_url": "http://www.google.com/search?q=card%2Bgame%2Bcard%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://equestriadaily.com/2015/04/possible-major-spoiler-in-mlp-card-game.html"
+        },
         "youtube.com/2015/04/first-look-at-the-witcher-3-s-card-game-gwent-1080p": {
             "title": "First Look at The Witcher 3's Card Game Gwent - 1080p/60fps...",
             "snippet": "In this extended gameplay clip from our three-part feature on The Witcher 3, we show highlights of your first game of Gwent - a brand new collectible card ga...",
             "date": "2015-04-25",
             "author_name": "Syndication",
             "categories": "gameplay,card-game",
-            "tags": "brand,brand-new,brand-new-collectible,collectible,highlights,part,part-feature,feature,gameplay,gameplay-clip,clip,card,card_game,card_game_gwent,game,game_gwent,gwent,look,witcher,fps,show",
+            "tags": "brand,brand-new,brand-new-collectible,collectible,show,show-highlights,highlights,part,part-feature,feature,gameplay,gameplay-clip,clip,card,card_game,card_game_gwent,game,game_gwent,gwent,look,witcher,fps",
             "recuweb_url": "http://en.recuweb.com/card-game/youtube.com/2015/04/first-look-at-the-witcher-3-s-card-game-gwent-1080p",
-            "resource_url": "http://www.google.com/search?q=card%2Bgame%2Bcard%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=card%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://youtube.com/watch?v=Kof4_9K7zak",
             "img_url": "http://img.youtube.com/vi/Kof4_9K7zak/0.jpg"
-        },
-        "siliconera.com/2015/04/monster-hunter-spirits-takes-the-hunt-to-arcades-in-japan": {
-            "title": "Monster Hunter Spirits Takes The Hunt To Arcades In Japan This...",
-            "snippet": "Capcom and Marvelous are teaming up to make Monster Hunter Spirits, an arcade card game that aims to expand Monster Hunter's appeal among more audiences. The developers have announced that the game will launch...",
-            "date": "2015-04-22",
-            "author_name": "Sato",
-            "tags": "card,game",
-            "recuweb_url": "http://en.recuweb.com/siliconera.com/2015/04/monster-hunter-spirits-takes-the-hunt-to-arcades-in-japan",
-            "resource_url": "http://www.google.com/search?q=card%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://siliconera.com/2015/04/22/monster-hunter-spirits-takes-the-hunt-to-arcades-in-japan-this-june/"
         },
         "schwitzsplinters.blogspot.com/2015/04/rules-of-war-the-card-game-with-deck-management": {
             "title": "Rules of War, the Card Game, with Deck Management...",
@@ -39,7 +106,7 @@
             "date": "2015-04-22",
             "author_name": "Eric Schwitzgebel",
             "categories": "management,card-game",
-            "tags": "rules,old,card,card_game,game,games",
+            "tags": "deck,card,card_game,game,games",
             "recuweb_url": "http://en.recuweb.com/card-game/schwitzsplinters.blogspot.com/2015/04/rules-of-war-the-card-game-with-deck-management",
             "resource_url": "http://www.google.com/search?q=card%2Bgame%2Bcard%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://schwitzsplinters.blogspot.com/2015/04/rules-of-war-card-game-with-deck.html"
@@ -50,73 +117,10 @@
             "date": "2015-04-15",
             "author_name": "Jon Fingas",
             "categories": "play",
-            "tags": "gaming,card,game,free",
+            "tags": "gaming,card,game,free,play",
             "recuweb_url": "http://en.recuweb.com/play/engadget.com/2015/04/blizzard-s-hearthstone-card-game-lands-on-your-smartphone",
             "resource_url": "http://www.google.com/search?q=card%2Bgame%2Bcard%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://engadget.com/2015/04/14/hearthstone-for-smartphones/"
-        },
-        "destructoid.com/2015/04/ion-implements-an-old-idea-i-had-for-a-chemistry-card": {
-            "title": "Ion implements an old idea I had for a chemistry card game...",
-            "snippet": "I have to applaud Genius Games. I've had the idea for a card game based on ionic bonding kicking around in my head for years now, always wi...",
-            "date": "2015-04-14",
-            "author_name": "Darren Nakamura",
-            "categories": "chemistry",
-            "tags": "games,old,ion,chemistry,card,game,head",
-            "recuweb_url": "http://en.recuweb.com/chemistry/destructoid.com/2015/04/ion-implements-an-old-idea-i-had-for-a-chemistry-card",
-            "resource_url": "http://www.google.com/search?q=card%2Bgame%2Bcard%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://destructoid.com/ion-implements-an-old-idea-i-had-for-a-chemistry-card-game-290454.phtml"
-        },
-        "realitieswatch.com/2015/04/10-creepy-illuminati-card-game-predicting-the-future-since-1994": {
-            "title": "10 Creepy Illuminati Card Game: Predicting The Future Since 1994.",
-            "snippet": "The Illuminati game is a standalone card game made by Steve Jackson Games (SJG). It was printed in 1994. The game looks normal at first look but as soon as you check the cards, you begin to realize that the what...",
-            "date": "2015-04-12",
-            "author_name": "Realities Watch",
-            "categories": "card-game",
-            "tags": "check,look,games,cards,card_game,game",
-            "recuweb_url": "http://en.recuweb.com/card-game/realitieswatch.com/2015/04/10-creepy-illuminati-card-game-predicting-the-future-since-1994",
-            "resource_url": "http://www.google.com/search?q=card%2Bgame%2Bcard%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://realitieswatch.com/10-creepy-illuminati-card-game-predicting-the-future-since-1994/"
-        },
-        "reddit.com/2015/04/ruling-now-official-patrick-chapin-gets-game-loss-for-not-revealing": {
-            "title": "Ruling now official, Patrick Chapin gets game-loss for not revealing card.",
-            "snippet": "After activating Ajani, Mentor of Heroes, Patrick failed to reveal his chosen card before putting it on the table. Due to the card physically touching his hand the judge rules it as a drawn card and issues a game loss. submitted by jantheman1234 to...",
-            "date": "2015-04-10",
-            "tags": "rules,table,ruling,gets,game,card,physically,judge",
-            "recuweb_url": "http://en.recuweb.com/reddit.com/2015/04/ruling-now-official-patrick-chapin-gets-game-loss-for-not-revealing",
-            "resource_url": "http://www.reddit.com/search.rss?q=card%2Bgame%2Bcard%2Bgame&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/magicTCG/comments/324o98/ruling_now_official_patrick_chapin_gets_gameloss/"
-        },
-        "dailydot.com/2015/04/mtg-and-poker-to-compete-for-largest-ever-card-game-tourney": {
-            "title": "MTG and Poker to compete for largest-ever card game tourney on...",
-            "snippet": "Poker is the king of card games. The world record for largest card game tournament8,773 playerswas set by the World Series of Poker's Main Event during the Texas Hold 'Em revival back in 2006. This year, the World...",
-            "date": "2015-04-09",
-            "author_name": "frgrbrgr@gmail.com (Ferguson Mitchell)",
-            "categories": "poker",
-            "tags": "card,game,games,during",
-            "recuweb_url": "http://en.recuweb.com/poker/dailydot.com/2015/04/mtg-and-poker-to-compete-for-largest-ever-card-game-tourney",
-            "resource_url": "http://www.google.com/search?q=card%2Bgame%2Bcard%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://dailydot.com/esports/magic-poker-the-colossus/"
-        },
-        "dailydot.com/2015/04/crowdfunded-card-game-highlights-female-scientists": {
-            "title": "Crowdfunded card game highlights female scientists and their...",
-            "snippet": "The game will include 48 cards and is meant for people ages 7 and up. To win the game, a player must form three labs, each of which requires four cards of the same color. The scientists featured in the game include Cecilia...",
-            "date": "2015-04-03",
-            "author_name": "lisa@dailydot.com (Lisa Granshaw)",
-            "tags": "highlights,cards,game,people,form",
-            "recuweb_url": "http://en.recuweb.com/dailydot.com/2015/04/crowdfunded-card-game-highlights-female-scientists",
-            "resource_url": "http://www.google.com/search?q=card%2Bgame%2Bcard%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://dailydot.com/geek/indiegogo-female-scientists-card-game/"
-        },
-        "toucharcade.com/2015/04/final-fantasy-8-card-game-triple-triad-hits-the-japanese-app": {
-            "title": "'Final Fantasy 8'Card Game 'Triple Triad'Hits The Japanese App...",
-            "snippet": "Triple Triad is a sort of collectible card game within a game that appeared in Final Fantasy 8. In that game, you could challenge almost anyone to a game, earning valuable cards if you won. It's a bit like Othello with numbers,...",
-            "date": "2015-04-01",
-            "author_name": "Shaun Musgrave",
-            "categories": "card-game",
-            "tags": "collectible,cards,card_game,game,final,fantasy",
-            "recuweb_url": "http://en.recuweb.com/card-game/toucharcade.com/2015/04/final-fantasy-8-card-game-triple-triad-hits-the-japanese-app",
-            "resource_url": "http://www.google.com/search?q=card%2Bgame&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://toucharcade.com/2015/04/01/final-fantasy-8-card-game-triple-triad-hits-the-japanese-app-store/"
         }
     }
 }
