@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "accounting",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150504"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/accounting/",
@@ -11,50 +11,90 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/accounting/accounting/blogs.json"
     },
     "items": {
-        "straitstimes.com/2015/05/ahpetc-appoints-external-accounting-firm-to-clean-up-accounts": {
-            "title": "AHPETC appoints external accounting firm to clean up accounts...",
-            "snippet": "SINGAPORE - The Aljunied-Hougang-Punggol East Town Council (AHPETC) has appointed an external accounting firm to help it clean up its earlier accounts, chairman Sylvia Lim announced in an update on the town council's website on Saturday. The firm...",
-            "date": "2015-05-02",
-            "tags": "website,town,town_council,council,firm,help,clean,earlier,appointed,appointed-an-external,external,punggol,punggol_east,punggol_east_town,east,east_town,east_town_council,firm-to-clean,ahpetc,ing,aljunied,hougang",
-            "recuweb_url": "http://en.recuweb.com/straitstimes.com/2015/05/ahpetc-appoints-external-accounting-firm-to-clean-up-accounts",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=accounting&format=RSS&cc=us",
-            "source_url": "http://straitstimes.com/news/singapore/more-singapore-stories/story/ahpetc-appoints-external-accounting-firm-clean-accounts-"
-        },
-        "channelnewsasia.com/2015/05/ahpetc-hires-external-accounting-firm-to-clean-up-earlier-audits-channel": {
-            "title": "AHPETC hires external accounting firm to clean up earlier audits - Channel News Asia...",
-            "snippet": "Channel News AsiaAHPETC hires external accounting firm to clean up earlier auditsChannel News AsiaSINGAPORE: The Aljunied-Hougang-Punggol East Town Council (AHPETC) has appointed an external accounting firm to assist in cleaning up its earlier...",
-            "date": "2015-05-02",
-            "categories": "cleaning",
-            "tags": "firm,earlier,appointed,appointed-an-external,external,punggol,punggol_east,punggol_east_town,east,east_town,east_town_council,town,town_council,council,firm-to-clean,clean,ahpetc,ing,aljunied,hougang",
-            "recuweb_url": "http://en.recuweb.com/cleaning/channelnewsasia.com/2015/05/ahpetc-hires-external-accounting-firm-to-clean-up-earlier-audits-channel",
+        "thehindubusinessline.com/2015/05/investors-should-be-informed-of-impact-new-accounting-norms-hindu-business": {
+            "title": "'Investors should be informed of impact of new accounting norms'- Hindu Business Line...",
+            "snippet": "'Investors should be informed of impact of new accounting norms'Hindu Business LineThe Ministry of Corporate Affairs (MCA) has notified the Companies (Indian Accounting Standards) Rules, 2015, to facilitate convergence of Indian accounting practices...",
+            "date": "2015-05-03",
+            "categories": "business",
+            "tags": "business,ing,companies,standards",
+            "recuweb_url": "http://en.recuweb.com/business/thehindubusinessline.com/2015/05/investors-should-be-informed-of-impact-new-accounting-norms-hindu-business",
             "resource_url": "http://news.google.com/?hl=en&q=accounting%2Baccounting&output=atom&nord=1",
-            "source_url": "http://channelnewsasia.com/news/singapore/ahpetc-hires-external/1820678.html"
+            "source_url": "http://thehindubusinessline.com/companies/investors-should-be-informed-of-impact-of-new-accounting-norms/article7167312.ece"
+        },
+        "hutchnews.com/2015/05/student-s-an-artist-but-accounting-is-in-her-future-hutchinson": {
+            "title": "Student's an artist, but accounting is in her future - Hutchinson News...",
+            "snippet": "Hutchinson NewsStudent's an artist, but accounting is in her futureHutchinson NewsShe isn't majoring in art, though, and she isn't heading to Lawrence. She hopes to major in accounting and obtain a bachelor's degree from Kansas State University,...",
+            "date": "2015-05-03",
+            "categories": "university",
+            "tags": "state,ing",
+            "recuweb_url": "http://en.recuweb.com/university/hutchnews.com/2015/05/student-s-an-artist-but-accounting-is-in-her-future-hutchinson",
+            "resource_url": "http://news.google.com/?hl=en&q=accounting%2Baccounting&output=atom&nord=1",
+            "source_url": "http://hutchnews.com/news/local_state_news/student-s-an-artist-but-accounting-is-in-her-future/article_9b1cfea0-ae37-534f-99fa-fc30aed621f9.html"
+        },
+        "profit.ndtv.com/2015/05/united-spirits-may-have-to-restate-accounts-report": {
+            "title": "United Spirits May Have to Restate Accounts: Report...",
+            "snippet": "While the Securities and Exchange Board of India (Sebi) and accounting regulator ICAI (Institute of Chartered Accountants of India), among others, are looking into the entire case, which also involves allegations of fund diversion from USL to some...",
+            "date": "2015-05-03",
+            "categories": "institute",
+            "tags": "fund,into,ing",
+            "recuweb_url": "http://en.recuweb.com/institute/profit.ndtv.com/2015/05/united-spirits-may-have-to-restate-accounts-report",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=accounting&format=RSS&cc=us",
+            "source_url": "http://profit.ndtv.com/news/corporates/article-united-spirits-may-have-to-restate-accounts-760148"
+        },
+        "news.asiaone.com/2015/05/wp-town-council-appoints-external-accounting-firm": {
+            "title": "WP town council appoints external accounting firm...",
+            "snippet": "The Aljunied-Hougang-Punggol East Town Council (AHPETC) has hired an external accounting firm to help it clean up its past accounts, said its chairman Sylvia Lim in a statement yesterday. The firm will also advise AHPETC, which is run by the...",
+            "date": "2015-05-03",
+            "tags": "firm,help,ing",
+            "recuweb_url": "http://en.recuweb.com/news.asiaone.com/2015/05/wp-town-council-appoints-external-accounting-firm",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=accounting&format=RSS&cc=us",
+            "source_url": "http://news.asiaone.com/news/singapore/wp-town-council-appoints-external-accounting-firm"
+        },
+        "tampabay.com/2015/05/what-one-woman-learned-on-her-rise-to-ceo": {
+            "title": "What one woman learned on her rise to CEO...",
+            "snippet": "When Cathy Engelbert started at Deloitte nearly 30 years ago, she was hard-pressed to find many female mentors among the accounting firm's leadership. Only 7 percent of Deloitte's partners and principals were women at the time, a statistic that...",
+            "date": "2015-05-03",
+            "categories": "leadership",
+            "tags": "nearly,ing,firm",
+            "recuweb_url": "http://en.recuweb.com/leadership/tampabay.com/2015/05/what-one-woman-learned-on-her-rise-to-ceo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=accounting&format=RSS&cc=us",
+            "source_url": "http://tampabay.com/incoming/what-one-woman-learned-on-her-rise-to-ceo/2228118"
+        },
+        "news.fullerton.edu/2015/05/accounting-professors-honored-for-their-innovative-course-design-csuf-news": {
+            "title": "Accounting Professors Honored for Their Innovative Course Design - CSUF News...",
+            "snippet": "CSUF NewsAccounting Professors Honored for Their Innovative Course DesignCSUF NewsRandy Hoffman, Betty Chavis and Glen Hatton of Cal State Fullerton's Accounting Department will receive the 2015 Jim Bullock Award for Innovations in Management...",
+            "date": "2015-05-02",
+            "categories": "management",
+            "tags": "state,professors,ing",
+            "recuweb_url": "http://en.recuweb.com/management/news.fullerton.edu/2015/05/accounting-professors-honored-for-their-innovative-course-design-csuf-news",
+            "resource_url": "http://news.google.com/?hl=en&q=accounting&output=atom&nord=1",
+            "source_url": "http://news.fullerton.edu/2015su/Hybrid-Courses-Earn-National-Honor.aspx"
+        },
+        "dawn.com/2015/05/who-cares-that-ipos-lack-accounting-standards-nobody-really": {
+            "title": "Who cares that IPOs lack accounting standards? Nobody, really...",
+            "snippet": "NEW YORK: Would you buy stock in a company that doesnt regularly record its debits and credits? Or one that admits it lacks accounting skills? How about one that couldnt account for some of its expenses? Apparently you would. About 30 per cent of...",
+            "date": "2015-05-02",
+            "categories": "credit",
+            "tags": "stock,company,debits,credits,ing,standards",
+            "recuweb_url": "http://en.recuweb.com/credit/dawn.com/2015/05/who-cares-that-ipos-lack-accounting-standards-nobody-really",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=accounting&format=RSS&cc=us",
+            "source_url": "http://dawn.com/news/1179656/who-cares-that-ipos-lack-accounting-standards-nobody-really"
         },
         "accountingtoday.com/2015/05/accounting-today-may-2015-digital-edition": {
             "title": "Accounting Today May 2015 Digital Edition...",
             "snippet": "Check out the digital edition of the May 2015 issue of Accounting Today. The issue includes articles on topics such as the tax and business issues surrounding patchwork marijuana legalization; how to manage staff who work remotely; how M&A fits into...",
             "date": "2015-05-01",
             "categories": "business",
-            "tags": "into,work,tax,edition,ing,business",
+            "tags": "into,work,tax,ing,business",
             "recuweb_url": "http://en.recuweb.com/business/accountingtoday.com/2015/05/accounting-today-may-2015-digital-edition",
             "resource_url": "http://www.bing.com/news/search?first=1&q=accounting%2Baccounting&format=RSS&cc=us",
             "source_url": "http://accountingtoday.com/news/audit-accounting/accounting-today-may-2015-digital-edition-74490-1.html"
-        },
-        "bizjournals.com/2015/05/anadarko-names-new-execs-houston-business-journal": {
-            "title": "Anadarko names new execs - Houston Business Journal...",
-            "snippet": "Anadarko names new execsHouston Business JournalAnadarko Petroleum Corp. (NYSE: APC) earlier this week named Christopher Champion as vice president, chief accounting officer and controller. The company also promoted Darrell Hollek to executive vice...",
-            "date": "2015-05-01",
-            "categories": "business",
-            "tags": "executive,company,officer,earlier,business,ing",
-            "recuweb_url": "http://en.recuweb.com/business/bizjournals.com/2015/05/anadarko-names-new-execs-houston-business-journal",
-            "resource_url": "http://news.google.com/?hl=en&q=accounting&output=atom&nord=1",
-            "source_url": "http://bizjournals.com/houston/news/2015/05/01/anadarko-names-new-execs.html"
         },
         "valuewalk.com/2015/05/bubbly-shares-surge-for-companies-with-weak-accounting-systems": {
             "title": "Bubbly? Shares Surge For Companies With Weak Accounting Systems...",
             "snippet": "The share prices of nearly 32 companies from GrubHub to GoPro Inc (NASDAQ:GPRO) that reported material weaknesses in their accounting systems last year have surged by an average of 42% since their stock debuts, reveals a Proskauer Rose study.",
             "date": "2015-05-01",
-            "tags": "ing",
+            "tags": "stock,nearly,companies,ing",
             "recuweb_url": "http://en.recuweb.com/valuewalk.com/2015/05/bubbly-shares-surge-for-companies-with-weak-accounting-systems",
             "resource_url": "http://www.bing.com/news/search?first=1&q=accounting&format=RSS&cc=us",
             "source_url": "http://valuewalk.com/2015/05/ipos-accounting-systems/"
@@ -64,50 +104,10 @@
             "snippet": "The Illinois CPA Societys inaugural Jumpstart to Accounting program welcomed more than 100 college students and professors from more than 30 colleges and universities across the state of Illinois on April 24. The new conference, targeting college...",
             "date": "2015-05-01",
             "categories": "college,students,society",
-            "tags": "college,cpa,ing",
+            "tags": "state,professors,cpa,ing",
             "recuweb_url": "http://en.recuweb.com/society/cpapracticeadvisor.com/2015/05/conference-introduces-college-students-to-accounting-careers",
             "resource_url": "http://www.bing.com/news/search?first=1&q=accounting&format=RSS&cc=us",
             "source_url": "http://cpapracticeadvisor.com/news/12070411/conference-introduces-college-students-to-accounting-careers"
-        },
-        "accountingtoday.com/2015/05/irs-officer-busted-for-identity-theft-and-fraud-accounting-today": {
-            "title": "IRS Officer Busted for Identity Theft and Fraud - Accounting Today...",
-            "snippet": "IRS Officer Busted for Identity Theft and FraudAccounting TodayAn Internal Revenue Service revenue officer has been indicted for committing mail and wire fraud, filing false tax returns, identity theft and perjury. James Brewer, a 38-year-old Staten...",
-            "date": "2015-05-01",
-            "categories": "perjury",
-            "tags": "tax,officer,service,ing",
-            "recuweb_url": "http://en.recuweb.com/perjury/accountingtoday.com/2015/05/irs-officer-busted-for-identity-theft-and-fraud-accounting-today",
-            "resource_url": "http://news.google.com/?hl=en&q=accounting&output=atom&nord=1",
-            "source_url": "http://accountingtoday.com/news/tax-practice/irs-officer-busted-for-identity-theft-and-fraud-74474-1.html"
-        },
-        "hartfordbusiness.com/2015/05/j-morrissey-&-co-adds-to-accounting-and-finance-group": {
-            "title": "J. Morrissey & Co. adds to accounting and finance group...",
-            "snippet": "The accounting and finance group at J. Morrissey & Co., an executive search, staffing and consulting firm with offices in Windsor, Shelton and Springfield, has added accounting professionals Nick Riccardo and Erik Morrissey as executive recruiters.",
-            "date": "2015-05-01",
-            "categories": "finance",
-            "tags": "executive,firm,finance,ing",
-            "recuweb_url": "http://en.recuweb.com/finance/hartfordbusiness.com/2015/05/j-morrissey-&-co-adds-to-accounting-and-finance-group",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=accounting&format=RSS&cc=us",
-            "source_url": "http://hartfordbusiness.com/article/20150501/MOVERSSHAKERS/150429911/j-morrissey--co-adds-to-accounting-and-finance-group"
-        },
-        "whsv.com/2015/05/learn-about-the-demand-for-accounting-finance-specialists-whsv": {
-            "title": "Learn About the Demand for Accounting Finance Specialists - WHSV...",
-            "snippet": "WHSVLearn About the Demand for Accounting Finance SpecialistsWHSV\"The wonderful thing about any type of business degree or accounting degree, whether it's just a community college associate degree, there is always demand. There is always going to be...",
-            "date": "2015-05-01",
-            "categories": "college,finance,business",
-            "tags": "college,finance,ing,business",
-            "recuweb_url": "http://en.recuweb.com/business/whsv.com/2015/05/learn-about-the-demand-for-accounting-finance-specialists-whsv",
-            "resource_url": "http://news.google.com/?hl=en&q=accounting&output=atom&nord=1",
-            "source_url": "http://whsv.com/home/headlines/Learn-About-the-Demand-for-Account-Finance-Specialists-301726461.html"
-        },
-        "profit.ndtv.com/2015/05/mallya-usl-row-accounting-regulator-seeks-details-from-sebi-on-auditors": {
-            "title": "Mallya-USL Row: Accounting Regulator Seeks Details from Sebi on Auditors'Role - NDTV...",
-            "snippet": "NDTVMallya-USL Row: Accounting Regulator Seeks Details from Sebi on Auditors'RoleNDTVNew Delhi: Accounting regulator ICAI has sought details from markets watchdog Sebi on role of auditors in the alleged financial irregularities at United Spirits,...",
-            "date": "2015-05-01",
-            "categories": "markets",
-            "tags": "ing,financial",
-            "recuweb_url": "http://en.recuweb.com/markets/profit.ndtv.com/2015/05/mallya-usl-row-accounting-regulator-seeks-details-from-sebi-on-auditors",
-            "resource_url": "http://news.google.com/?hl=en&q=accounting%2Baccounting&output=atom&nord=1",
-            "source_url": "http://profit.ndtv.com/news/corporates/article-mallya-usl-row-accounting-regulator-seeks-details-from-sebi-on-auditors-role-759871"
         }
     }
 }
