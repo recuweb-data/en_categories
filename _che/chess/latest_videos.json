@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "chess",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/chess/",
@@ -11,53 +11,77 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/chess/chess/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/04/why-bobby-fisher-quit-chess": {
-            "title": "Why Bobby Fisher quit chess...",
-            "snippet": "Why Bobby Fisher quit chessAuthor: worldchessTags: Why Bobby Fisher quit chess Posted: 27 April 2015Rating:: 0...",
-            "date": "2015-04-27",
+        "youtube.com/2015/04/a-cool-endgame-lesson-blitz-chess": {
+            "title": "A COOL ENDGAME LESSON (Blitz Chess)...",
+            "snippet": "A COOL ENDGAME LESSON (Blitz Chess) Use coupon code \"HUTCH\" for 5% off Scuf Controllers: Want some gear? From: Hutch Views: 21961 875 ratings Time: 14:20 More in People & Blogs...",
+            "date": "2015-04-30",
+            "author_name": "Hutch",
+            "categories": "chess",
+            "tags": "gear,scuf,scuf_controllers,controllers,off,coupon,coupon-code,coupon-code-hutch,code,code-hutch,hutch,blitz,blitz_chess,chess,want,people",
+            "recuweb_url": "http://en.recuweb.com/chess/youtube.com/2015/04/a-cool-endgame-lesson-blitz-chess",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=chess%2Bchess&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=yuCRsboA0Wg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/yuCRsboA0Wg/0.jpg"
+        },
+        "dailymotion.com/2015/04/world-chess-boxing-championships": {
+            "title": "World Chess Boxing Championships...",
+            "snippet": "World Chess Boxing ChampionshipsAuthor: worldchessTags: World Chess Boxing Championships Posted: 30 April 2015Rating:: 0...",
+            "date": "2015-04-30",
+            "author_name": "worldchess",
+            "categories": "chess,boxing",
+            "tags": "world,world_chess,chess,championshipsauthor,championships,worldchesstags",
+            "recuweb_url": "http://en.recuweb.com/boxing/dailymotion.com/2015/04/world-chess-boxing-championships",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/chess/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2ohrch_world-chess-boxing-championships_videogames",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ohrch_world-chess-boxing-championships_videogames"
+        },
+        "youtube.com/2015/04/i-m-getting-better-yay-blitz-chess": {
+            "title": "I'M GETTING BETTER YAY!! (Blitz Chess)...",
+            "snippet": "I'M GETTING BETTER YAY!! (Blitz Chess) Use coupon code \"HUTCH\" for 5% off Scuf Controllers: Want some gear? From: Hutch Views: 22078 898 ratings Time: 11:11 More in People & Blogs...",
+            "date": "2015-04-28",
+            "author_name": "Hutch",
+            "categories": "chess",
+            "tags": "gear,scuf,scuf_controllers,controllers,off,coupon,coupon-code,coupon-code-hutch,code,code-hutch,hutch,blitz,blitz_chess,chess,want,people",
+            "recuweb_url": "http://en.recuweb.com/chess/youtube.com/2015/04/i-m-getting-better-yay-blitz-chess",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=chess%2Bchess&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=hrAr8hGd5UY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/hrAr8hGd5UY/0.jpg"
+        },
+        "youtube.com/2015/04/mayweather-vs-pacquiao-a-game-of-chess-maypac-may-2nd": {
+            "title": "Mayweather vs. Pacquiao: A Game of Chess MayPac - May 2nd...",
+            "snippet": "Mayweather vs. Pacquiao: A Game of Chess MayPac - May 2nd. The fight of the century is going to be full of strategy and mental aptitude. Don't miss Mayweather vs. Pacquiao. Live Saturday, May 2nd at 9p ET/6p PT on pay-per-view. Showtime... From:...",
+            "date": "2015-04-28",
+            "author_name": "shosports",
+            "categories": "chess",
+            "tags": "chess,game",
+            "recuweb_url": "http://en.recuweb.com/chess/youtube.com/2015/04/mayweather-vs-pacquiao-a-game-of-chess-maypac-may-2nd",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=chess%2Bchess&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=FMc73BlVvaU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/FMc73BlVvaU/0.jpg"
+        },
+        "youtube.com/2015/04/battle-of-the-legends-kasparov-vs-short-day-2": {
+            "title": "Battle of the Legends: Kasparov vs. Short, Day 2 -...",
+            "snippet": "Battle of the Legends: Kasparov vs. Short, Day 2 - On April 25-26, former World Chess Champion Garry Kasparov and famed English Grandmaster Nigel Short will play a series of blitz and rapid games at the Chess Club and Scholastic Center of Saint...",
+            "date": "2015-04-26",
+            "author_name": "Chess Club and Scholastic Center of Saint Louis",
+            "categories": "chess,play",
+            "tags": "chess,blitz,world",
+            "recuweb_url": "http://en.recuweb.com/play/youtube.com/2015/04/battle-of-the-legends-kasparov-vs-short-day-2",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=chess&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=LJJONV97p2o&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/LJJONV97p2o/0.jpg"
+        },
+        "dailymotion.com/2015/04/world-chess-championships": {
+            "title": "World Chess Championships...",
+            "snippet": "World Chess ChampionshipsAuthor: worldchessTags: World Chess Championships Posted: 25 April 2015Rating:: 0...",
+            "date": "2015-04-25",
             "author_name": "worldchess",
             "categories": "chess",
-            "tags": "chess,worldchesstags",
-            "recuweb_url": "http://en.recuweb.com/chess/dailymotion.com/2015/04/why-bobby-fisher-quit-chess",
+            "tags": "world,world_chess,chess,championshipsauthor,championships,worldchesstags",
+            "recuweb_url": "http://en.recuweb.com/chess/dailymotion.com/2015/04/world-chess-championships",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/chess/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2o50da_why-bobby-fisher-quit-chess_videogames",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o50da_why-bobby-fisher-quit-chess_videogames"
-        },
-        "youtube.com/2015/04/chess-game-review-7-1600-vs-1650": {
-            "title": "Chess Game Review 7 - 1600 vs 1650...",
-            "snippet": "Chess Game Review 7 - 1600 vs 1650 I picked a chess game at random from my friends list to review. I share my thoughts on the game which was between a player with a rating of approximately 1600 and the other with a rating of... From: ChessNetwork...",
-            "date": "2015-04-25",
-            "author_name": "ChessNetwork",
-            "categories": "chess",
-            "tags": "game,chess,chessnetwork",
-            "recuweb_url": "http://en.recuweb.com/chess/youtube.com/2015/04/chess-game-review-7-1600-vs-1650",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=chess%2Bchess&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=TD9uxLJnsKk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/TD9uxLJnsKk/0.jpg"
-        },
-        "youtube.com/2015/04/shamkir-chess-2015-round-7-carlsen-vs-kramnik": {
-            "title": "Shamkir Chess 2015 Round 7 Carlsen vs Kramnik...",
-            "snippet": "Shamkir Chess 2015 Round 7 Carlsen vs Kramnik Daniel King analyses the game Carlsen vs Kramnik from round 7 of Shamkir Chess 2015. Support Power Play Chess via PayPal... From: PowerPlayChess Views: 9866 283 ratings Time: 13:33 More in Sports...",
-            "date": "2015-04-25",
-            "author_name": "PowerPlayChess",
-            "categories": "play,chess,sport",
-            "tags": "support,support_power,support_power_play,power,power_play,power_play_chess,powerplaychess,play,play_chess,chess,daniel,daniel-king,daniel-king-analyses,king,king-analyses,analyses,analyses-the-game,game,shamkir,shamkir_chess,round,kramnik,via,paypal,sports",
-            "recuweb_url": "http://en.recuweb.com/sport/youtube.com/2015/04/shamkir-chess-2015-round-7-carlsen-vs-kramnik",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=chess%2Bchess&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=IvVelkefd5g&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/IvVelkefd5g/0.jpg"
-        },
-        "dailymotion.com/2015/04/teryn-schaefer-reporter-us-chess-championships-2015": {
-            "title": "Teryn Schaefer_Reporter_US Chess Championships 2015...",
-            "snippet": "Teryn Schaefer_Reporter_US Chess Championships 2015Author: worldchessTags: Teryn Schaefer_Reporter_US Chess Championships 2015 Posted: 25 April 2015Rating:: 0...",
-            "date": "2015-04-25",
-            "author_name": "worldchess",
-            "categories": "chess",
-            "tags": "chess,worldchesstags",
-            "recuweb_url": "http://en.recuweb.com/chess/dailymotion.com/2015/04/teryn-schaefer-reporter-us-chess-championships-2015",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/chess/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2nxcez_teryn-schaefer-reporter-us-chess-championships-2015_videogames",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nxcez_teryn-schaefer-reporter-us-chess-championships-2015_videogames"
+            "source_url": "http://dailymotion.com/video/x2nw267_world-chess-championships_videogames",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nw267_world-chess-championships_videogames"
         },
         "dailymotion.com/2015/04/extreme-amazing-super-chess": {
             "title": "Extreme Amazing Super-Chess! (Chess.)...",
@@ -71,41 +95,17 @@
             "source_url": "http://dailymotion.com/video/x2nsxh5_extreme-amazing-super-chess-chess_fun",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2nsxh5_extreme-amazing-super-chess-chess_fun"
         },
-        "youtube.com/2015/04/falling-for-stupid-traps-blitz-chess": {
-            "title": "FALLING FOR STUPID TRAPS (Blitz Chess)...",
-            "snippet": "FALLING FOR STUPID TRAPS (Blitz Chess) Use coupon code \"HUTCH\" for 5% off Scuf Controllers: Want some gear? From: Hutch Views: 20917 775 ratings Time: 16:37 More in People & Blogs...",
-            "date": "2015-04-24",
-            "author_name": "Hutch",
-            "categories": "chess",
-            "tags": "chess",
-            "recuweb_url": "http://en.recuweb.com/chess/youtube.com/2015/04/falling-for-stupid-traps-blitz-chess",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=chess%2Bchess&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=EtS1BPEnSUY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/EtS1BPEnSUY/0.jpg"
-        },
-        "youtube.com/2015/04/shamkir-chess-2015-round-6-kramnik-vs-caruana": {
-            "title": "Shamkir Chess 2015 Round 6 Kramnik vs Caruana...",
-            "snippet": "Shamkir Chess 2015 Round 6 Kramnik vs Caruana Daniel King analyses the game Kramnik vs Caruana from round 6 of Shamkir Chess 2015. Support Power Play Chess via PayPal... From: PowerPlayChess Views: 9240 201 ratings Time: 13:01 More in Sports...",
+        "dailymotion.com/2015/04/miniclip-chess-2007": {
+            "title": "Miniclip Chess 2007...",
+            "snippet": "Miniclip Chess 2007Author: ErnestinaStewardTags: Miniclip Chess 2007 Posted: 23 April 2015Rating:: 0...",
             "date": "2015-04-23",
-            "author_name": "PowerPlayChess",
-            "categories": "play,chess,sport",
-            "tags": "support,support_power,support_power_play,power,power_play,power_play_chess,powerplaychess,play,play_chess,chess,daniel,daniel-king,daniel-king-analyses,king,king-analyses,analyses,analyses-the-game,game,shamkir,shamkir_chess,round,kramnik,via,paypal,sports",
-            "recuweb_url": "http://en.recuweb.com/sport/youtube.com/2015/04/shamkir-chess-2015-round-6-kramnik-vs-caruana",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=chess%2Bchess&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=hcXE-UqzT_A&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/hcXE-UqzT_A/0.jpg"
-        },
-        "dailymotion.com/2015/04/arctic-chess-city-walk": {
-            "title": "Arctic Chess: City Walk...",
-            "snippet": "Arctic Chess: City WalkAuthor: RohanSidney7Tags: Arctic Chess: City Walk Posted: 22 April 2015Rating:: 0...",
-            "date": "2015-04-22",
-            "author_name": "RohanSidney7",
+            "author_name": "ErnestinaSteward",
             "categories": "chess",
             "tags": "chess",
-            "recuweb_url": "http://en.recuweb.com/chess/dailymotion.com/2015/04/arctic-chess-city-walk",
+            "recuweb_url": "http://en.recuweb.com/chess/dailymotion.com/2015/04/miniclip-chess-2007",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/chess/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2nk0jw_arctic-chess-city-walk_videogames",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nk0jw_arctic-chess-city-walk_videogames"
+            "source_url": "http://dailymotion.com/video/x2nn4rk_miniclip-chess-2007_videogames",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nn4rk_miniclip-chess-2007_videogames"
         },
         "youtube.com/2015/04/horde-chess-with-commentary-2-pieces": {
             "title": "Horde chess with commentary 2 (Pieces)...",
@@ -113,23 +113,23 @@
             "date": "2015-04-22",
             "author_name": "ChessNetwork",
             "categories": "chess",
-            "tags": "chess,chessnetwork",
+            "tags": "chess",
             "recuweb_url": "http://en.recuweb.com/chess/youtube.com/2015/04/horde-chess-with-commentary-2-pieces",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=chess%2Bchess&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=I8N80b_XRYI&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/I8N80b_XRYI/0.jpg"
         },
-        "dailymotion.com/2015/04/ajedrez-chess-gambito-evans": {
-            "title": "Ajedrez Chess Gambito Evans...",
-            "snippet": "Ajedrez Chess Gambito EvansAuthor: DandreGeeTags: Ajedrez Chess Gambito Evans Posted: 20 April 2015Rating:: 0...",
+        "youtube.com/2015/04/fabiano-caruana-vs-magnus-carlsen-2015-gashimov-memorial-chess-tournament": {
+            "title": "Fabiano Caruana vs Magnus Carlsen - 2015 Gashimov Memorial Chess Tournament...",
+            "snippet": "Fabiano Caruana vs Magnus Carlsen - 2015 Gashimov Memorial Chess Tournament This is a 3rd round game from the 2015 Gashimov Memorial chess tournament between the world's top 2 ranked players, Fabiano Caruana and Magnus Carlsen. This 2nd annual...",
             "date": "2015-04-20",
-            "author_name": "DandreGee",
+            "author_name": "ChessNetwork",
             "categories": "chess",
-            "tags": "chess",
-            "recuweb_url": "http://en.recuweb.com/chess/dailymotion.com/2015/04/ajedrez-chess-gambito-evans",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/chess/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2nakcb_ajedrez-chess-gambito-evans_videogames",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nakcb_ajedrez-chess-gambito-evans_videogames"
+            "tags": "chess,world,game",
+            "recuweb_url": "http://en.recuweb.com/chess/youtube.com/2015/04/fabiano-caruana-vs-magnus-carlsen-2015-gashimov-memorial-chess-tournament",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=chess%2Bchess&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=dZQ4LDlwX14&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/dZQ4LDlwX14/0.jpg"
         }
     }
 }
