@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "postgresql",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/postgresql/",
@@ -11,103 +11,103 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
     },
     "items": {
-        "benzinga.com/2015/04/fujitsu-enhances-snapec-series-of-integrated-ec-solutions-for-the-omnichannel": {
-            "title": "Fujitsu Enhances SNAPEC Series of Integrated EC Solutions for the Omnichannel Retail Era...",
-            "snippet": "In addition, for the existing FUJITSU Business Application SNAPEC-EX offering, which integrates the three services of e-commerce website operations, promotions, and marketing, enhanced functions have been added, such as support for the PostgreSQL...",
+        "lxer.com/2015/05/fedora-22-beta-for-power-released-lxer-press-release": {
+            "title": "Fedora 22 Beta for POWER Released - LXer (press release)...",
+            "snippet": "Fedora 22 Beta for POWER ReleasedLXer (press release)The Fedora 22 release adds onto that work with a database server role based on PostgreSQL. - Cockpit Updates: The Cockpit Web-based management application has been updated to the latest upstream...",
+            "date": "2015-05-01",
+            "categories": "management,database",
+            "tags": "management,web,server,release,press,press-release,released,database,gresql",
+            "recuweb_url": "http://en.recuweb.com/database/lxer.com/2015/05/fedora-22-beta-for-power-released-lxer-press-release",
+            "resource_url": "http://news.google.com/?hl=en&q=postgresql%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://lxer.com/module/newswire/view/213654/"
+        },
+        "appdevelopermagazine.com/2015/05/hashicorp-launches-vault-security-platform-for-cloud-environments": {
+            "title": "HashiCorp Launches Vault Security Platform for Cloud Environments...",
+            "snippet": "Within Vault, data is split into multiple backends. For example, when you write data to secret/foo, it is communicating with a different secret backend than when you read a PostgreSQL credential from postgresql/creds. Each backend is given a...",
+            "date": "2015-05-01",
+            "categories": "environment",
+            "tags": "into,cloud,security,data,gresql",
+            "recuweb_url": "http://en.recuweb.com/environment/appdevelopermagazine.com/2015/05/hashicorp-launches-vault-security-platform-for-cloud-environments",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
+            "source_url": "http://appdevelopermagazine.com/2703/2015/5/1/HashiCorp-Launches-Vault-Security-Platform-for-Cloud-Environments/"
+        },
+        "serverwatch.com/2015/05/top-10-enterprise-database-systems-to-consider-in-2015": {
+            "title": "Top 10 Enterprise Database Systems to Consider in 2015...",
+            "snippet": "PostgreSQL, or simply Postgres, is an open-source object-relational database management system (ORDBMS) that hides in such interesting places as online gaming applications, data center automation suites and domain registries. PostgreSQL also enjoys...",
+            "date": "2015-05-01",
+            "categories": "places,management,database",
+            "tags": "management,management-system,systems,source,open,enterprise,database,gresql,gres,relational,data",
+            "recuweb_url": "http://en.recuweb.com/database/serverwatch.com/2015/05/top-10-enterprise-database-systems-to-consider-in-2015",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
+            "source_url": "http://serverwatch.com/server-trends/Top-10-Enterprise-Database-Systems-in-2015.html"
+        },
+        "benzinga.com/2015/04/17a-4-s-dataparser-for-jabber-now-supports-the-latest-cisco": {
+            "title": "17a-4's DataParser for Jabber Now Supports the Latest Cisco Version 10.6...",
+            "snippet": "The software allows users to enable a unified compliance policy and procedure for all regulated content. The Jabber module leverages the PostgreSQL or Oracle database through Open Data Base Connectivity (ODBC) to allow for the collection and...",
+            "date": "2015-04-30",
+            "categories": "database,policy",
+            "tags": "open,data,database,software,supports,gresql,oracle",
+            "recuweb_url": "http://en.recuweb.com/policy/benzinga.com/2015/04/17a-4-s-dataparser-for-jabber-now-supports-the-latest-cisco",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
+            "source_url": "http://benzinga.com/pressreleases/15/04/p5459676/17a-4s-dataparser-for-jabber-now-supports-the-latest-cisco-version-10-6"
+        },
+        "searchdatamanagement.techtarget.com/2015/04/which-relational-dbms-is-best-for-your-company-techtarget": {
+            "title": "Which relational DBMS is best for your company? - TechTarget...",
+            "snippet": "TechTargetWhich relational DBMS is best for your company?TechTargetMySQL is owned by Oracle, while PostgreSQL evolved from the University California-Berkeley Ingres project, which was one of the earliest relational database systems. Although it is...",
+            "date": "2015-04-30",
+            "categories": "university,database",
+            "tags": "relational,oracle,gresql,database,systems",
+            "recuweb_url": "http://en.recuweb.com/database/searchdatamanagement.techtarget.com/2015/04/which-relational-dbms-is-best-for-your-company-techtarget",
+            "resource_url": "http://news.google.com/?hl=en&q=postgresql%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://searchdatamanagement.techtarget.com/feature/Which-relational-DBMS-is-best-for-your-company"
+        },
+        "fiercecio.com/2015/04/enterprisedb-eyes-enterprise-market-with-partnership-lenovo": {
+            "title": "EnterpriseDB eyes enterprise market with partnership with Lenovo...",
+            "snippet": "Created by EnterpriseDB, Postgres Plus is based on the well-established open source PostgreSQL database management system, but with added enhancements designed specifically to give it enterprise-class performance, security and manageability. The...",
+            "date": "2015-04-29",
+            "categories": "management,database",
+            "tags": "security,enterprise,management,management-system,open,source,gres,gresql,database",
+            "recuweb_url": "http://en.recuweb.com/database/fiercecio.com/2015/04/enterprisedb-eyes-enterprise-market-with-partnership-lenovo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
+            "source_url": "http://fiercecio.com/story/enterprisedb-eyes-enterprise-market-partnership-lenovo/2015-04-29"
+        },
+        "virtual-strategy.com/2015/04/first-annual-pgconf-silicon-valley-postgresql-conference-call-for-speakers-virtual": {
+            "title": "First Annual PGConf Silicon Valley PostgreSQL Conference Call for Speakers... - Virtual-Strategy...",
+            "snippet": "First Annual PGConf Silicon Valley PostgreSQL Conference Call for Speakers...Virtual-Strategy Magazine (press release)SAN FRANCISCO, CA -- (Marketwired) -- 04/29/15 -- Citus Data, creators of solutions to scale out and extend the analytics...",
+            "date": "2015-04-29",
+            "tags": "creators,creators-of-solutions,solutions,solutions-to-scale,scale,scale-out,analytics,citus,citus_data,data,san,san_francisco,francisco,press,press-release,release,gresql,gresql_conference,gresql_conference_call,conference,conference_call,annual,annual_pgconf,annual_pgconf_silicon,pgconf,pgconf_silicon,pgconf_silicon_valley,silicon,silicon_valley,valley,speakers,marketwired",
+            "recuweb_url": "http://en.recuweb.com/virtual-strategy.com/2015/04/first-annual-pgconf-silicon-valley-postgresql-conference-call-for-speakers-virtual",
+            "resource_url": "http://news.google.com/?hl=en&q=postgresql%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://virtual-strategy.com/2015/04/29/first-annual-pgconf-silicon-valley-postgresql-conference-call-speakers-now-open"
+        },
+        "marketwired.com/2015/04/first-annual-pgconf-silicon-valley-postgresql-conference-call-for-speakers-now": {
+            "title": "First Annual PGConf Silicon Valley PostgreSQL Conference Call for Speakers Now Open...",
+            "snippet": "SAN FRANCISCO, CA--(Marketwired - Apr 29, 2015) - Citus Data, creators of solutions to scale out and extend the analytics capabilities of PostgreSQL, today announced that a Call for Speakers for the first annual PGConf Silicon Valley, a technical...",
+            "date": "2015-04-29",
+            "tags": "pgconf,pgconf_silicon,pgconf_silicon_valley,silicon,silicon_valley,valley,annual,creators,creators-of-solutions,solutions,solutions-to-scale,scale,scale-out,analytics,citus,citus_data,data,san,san_francisco,francisco,gresql,gresql_conference,gresql_conference_call,conference,conference_call,annual_pgconf,annual_pgconf_silicon,speakers,open,marketwired",
+            "recuweb_url": "http://en.recuweb.com/marketwired.com/2015/04/first-annual-pgconf-silicon-valley-postgresql-conference-call-for-speakers-now",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
+            "source_url": "http://marketwired.com/press-release/first-annual-pgconf-silicon-valley-postgresql-conference-call-for-speakers-now-open-2014470.htm"
+        },
+        "betanews.com/2015/04/free-service-combines-cloud-data-integration-and-backup": {
+            "title": "Free service combines cloud data integration and backup...",
+            "snippet": "Skyvia supports a wide range of database systems including SQL Server, MySQL and PostgreSQL; popular CRM systems, Salesforce, Dynamics CRM, Zoho CRM and SugarCRM; plus data storage services including Dropbox, FTP, Box and Google Drive. Skyvia...",
+            "date": "2015-04-28",
+            "categories": "google,database,mysql",
+            "tags": "google,storage,services,sql,server,systems,supports,cloud,free,data,database,mysql,gresql",
+            "recuweb_url": "http://en.recuweb.com/mysql/betanews.com/2015/04/free-service-combines-cloud-data-integration-and-backup",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
+            "source_url": "http://betanews.com/2015/04/28/free-service-combines-cloud-data-integration-and-backup/"
+        },
+        "techgage.com/2015/04/debian-8-jessie-released-the-road-to-systemd-is-complete": {
+            "title": "Debian 8 Jessie Released: The Road To systemd Is Complete...",
+            "snippet": "You can see both the GNOME and KDE implementations below: Other key software packages include Apache, GIMP, Iceweasel and Icedove, LibreOffice, MariaDB, MySQL, PostgreSQL, PHP, Python and...",
             "date": "2015-04-27",
-            "categories": "marketing,commerce,business",
-            "tags": "support,added,website,services,application,solutions,gresql",
-            "recuweb_url": "http://en.recuweb.com/business/benzinga.com/2015/04/fujitsu-enhances-snapec-series-of-integrated-ec-solutions-for-the-omnichannel",
+            "categories": "mysql,php",
+            "tags": "software,released,key,mysql,gresql,php,python",
+            "recuweb_url": "http://en.recuweb.com/php/techgage.com/2015/04/debian-8-jessie-released-the-road-to-systemd-is-complete",
             "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
-            "source_url": "http://benzinga.com/pressreleases/15/04/a5445690/fujitsu-enhances-snapec-series-of-integrated-ec-solutions-for-the-omnic"
-        },
-        "markets.financialcontent.com/2015/04/gartner-names-itapp-a-2015-cool-vendor-in-cloud-management": {
-            "title": "Gartner Names ITapp a 2015 Cool Vendor in Cloud Management...",
-            "snippet": "Another feature that speeds time-to-value is its Enterprise IT app store that offers out-of-the-box content for compute, storage and network services as well as application services including Apache, PostgreSQL, Cassandra, MySQL, SQL Server, and...",
-            "date": "2015-04-27",
-            "categories": "management,mysql",
-            "tags": "sql,sql_server,server,services,application,management,vendor,enterprise,gresql,mysql",
-            "recuweb_url": "http://en.recuweb.com/mysql/markets.financialcontent.com/2015/04/gartner-names-itapp-a-2015-cool-vendor-in-cloud-management",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
-            "source_url": "http://markets.financialcontent.com/stocks/news/read?GUID=29749516"
-        },
-        "lxer.com/2015/04/debian-8-is-released": {
-            "title": "Debian 8 is released...",
-            "snippet": "KDE Plasma Workspaces and KDE Applications LibreOffice Linux MariaDB and MySQL Nagios OpenJDK 7u75 Perl PHP PostgreSQL Python and Samba Tomcat and Xen...",
-            "date": "2015-04-26",
-            "categories": "perl,php,mysql",
-            "tags": "gresql,python,php,mysql,linux",
-            "recuweb_url": "http://en.recuweb.com/mysql/lxer.com/2015/04/debian-8-is-released",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
-            "source_url": "http://lxer.com/module/newswire/view/213401/index.html"
-        },
-        "infoq.com/2015/04/scaling-microservices-at-gilt-with-scala-docker-and-aws": {
-            "title": "Scaling Microservices at Gilt with Scala, Docker and AWS...",
-            "snippet": "Its our own self-imposed denial of service attack, every day... The website was originally built in 2007 as a monolithic Ruby on Rails application with a PostgreSQL database. As traffic increased a memcached caching layer was added, and certain...",
-            "date": "2015-04-26",
-            "categories": "database",
-            "tags": "added,application,website,gresql,database",
-            "recuweb_url": "http://en.recuweb.com/database/infoq.com/2015/04/scaling-microservices-at-gilt-with-scala-docker-and-aws",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
-            "source_url": "http://infoq.com/news/2015/04/scaling-microservices-gilt"
-        },
-        "gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th": {
-            "title": "Call for Papers, PostgreSQL Session 7, September, 24th...",
-            "snippet": "After six successful sessions dedicated to the new features of PostgreSQL 9.0 (February 2011), to PostGIS (June 2011 & September 2014), to replication systems (February 2012), to migration from Oracle to PostgreSQL (October 2012), and to...",
-            "date": "2015-04-22",
-            "tags": "systems,features,gresql,gis,oracle",
-            "recuweb_url": "http://en.recuweb.com/gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
-            "source_url": "http://gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th/"
-        },
-        "4-traders.com/2015/04/lenovo-enterprisedb-and-its-partner-to-promote-postgres-for-the-enterprise": {
-            "title": "Lenovo: EnterpriseDB and Its Partner Lenovo to Promote Postgres for the Enterprise...",
-            "snippet": "mission-critical workloads. Postgres Plus from EDB extends open source PostgreSQL with enterprise-class performance, security and manageability enhancements.",
-            "date": "2015-04-22",
-            "tags": "security,security-and-manageability,manageability,manageability-enhancements,enhancements,class,class-performance,performance,enterprise,extends,extends-open,extends-open-source,open,open-source,source,gres,partner,lenovo,enterprisedb,promote,edb,gresql",
-            "recuweb_url": "http://en.recuweb.com/4-traders.com/2015/04/lenovo-enterprisedb-and-its-partner-to-promote-postgres-for-the-enterprise",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
-            "source_url": "http://4-traders.com/LENOVO-GROUP-LIMITED-1412726/news/Lenovo--EnterpriseDB-and-Its-Partner-Lenovo-to-Promote-Postgres-for-the-Enterprise-20238018/"
-        },
-        "pressbox.co.uk/2015/04/devart-introduces-new-dbexpress-drivers-with-support-for-rad-studio-xe8": {
-            "title": "Devart Introduces New dbExpress Drivers with Support for RAD Studio XE8...",
-            "snippet": "The list of supported databases includes Oracle Database, SQL Server, MySQL, InterBase/Firebird, PostgreSQL and SQLite. Devart is a recognized vendor of database connectivity solutions for Microsoft.NET and Embarcadero Delphi development platforms...",
-            "date": "2015-04-20",
-            "categories": "database,mysql,sqlite",
-            "tags": "delphi,solutions,vendor,sql,sql_server,server,oracle,database,studio,support,databases,mysql,gresql",
-            "recuweb_url": "http://en.recuweb.com/sqlite/pressbox.co.uk/2015/04/devart-introduces-new-dbexpress-drivers-with-support-for-rad-studio-xe8",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
-            "source_url": "http://pressbox.co.uk/Computing/Devart_Introduces_New_dbExpress_Drivers_with_Support_for_RAD_Studio_XE8_1581998.html"
-        },
-        "bloomberg.com/2015/04/enterprisedb-and-its-partner-lenovo-to-promote-postgres-for-the-enterprise": {
-            "title": "EnterpriseDB and Its Partner Lenovo to Promote Postgres for the Enterprise...",
-            "snippet": "Postgres Plus from EDB extends open source PostgreSQL with enterprise-class performance, security and manageability enhancements. Traditional databases are the most expensive component of the server, operating system and database infrastructure...",
-            "date": "2015-04-20",
-            "categories": "database",
-            "tags": "server,security,security-and-manageability,manageability,manageability-enhancements,enhancements,class,class-performance,performance,enterprise,extends,extends-open,extends-open-source,open,open-source,source,gres,partner,lenovo,enterprisedb,promote,edb,gresql,databases,database",
-            "recuweb_url": "http://en.recuweb.com/database/bloomberg.com/2015/04/enterprisedb-and-its-partner-lenovo-to-promote-postgres-for-the-enterprise",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
-            "source_url": "http://bloomberg.com/article/2015-04-21/abZ.3BQB42JY.html"
-        },
-        "andhranews.net/2015/04/enterprisedb-releases-new-postgres-enterprise-manager": {
-            "title": "EnterpriseDB Releases New Postgres Enterprise Manager...",
-            "snippet": "Market-leading Monitoring Tool for Postgres Plus and PostgreSQL Features Greater Customization and Expanded Analysis and Reporting EnterpriseDB (EDB), the leading worldwide provider of enterprise-class Postgres products and database compatibility...",
-            "date": "2015-04-14",
-            "categories": "database",
-            "tags": "gres,enterprise,enterprisedb,gresql,features,edb,class,database",
-            "recuweb_url": "http://en.recuweb.com/database/andhranews.net/2015/04/enterprisedb-releases-new-postgres-enterprise-manager",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=us",
-            "source_url": "http://andhranews.net/Intl/Web/59-129.asp"
-        },
-        "theplatform.net/2015/04/etsy-shows-how-to-be-just-crafty-enough-with-systems": {
-            "title": "Etsy Shows How To Be Just Crafty Enough With Systems - The Platform...",
-            "snippet": "Etsy Shows How To Be Just Crafty Enough With SystemsThe PlatformBack in 2007, when Etsy was still young, the company used Ubuntu Server Linux as its main platform, PostgreSQL as its database, and PHP and Python as its two programming languages. Most...",
-            "date": "2015-04-08",
-            "categories": "languages,database,php",
-            "tags": "programming,server,linux,systems,gresql,database,php,python",
-            "recuweb_url": "http://en.recuweb.com/php/theplatform.net/2015/04/etsy-shows-how-to-be-just-crafty-enough-with-systems",
-            "resource_url": "http://news.google.com/?hl=en&q=postgresql&output=atom&nord=1",
-            "source_url": "http://theplatform.net/2015/04/07/etsy-shows-how-to-be-just-crafty-enough-with-platforms/"
+            "source_url": "http://techgage.com/news/debian-8-jessie-released-the-road-to-systemd-is-complete/"
         }
     }
 }
