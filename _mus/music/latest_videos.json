@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "music",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/music/",
@@ -11,41 +11,65 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/music/music/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/queens-&-kings-music-video-teaser-ft-fingazz": {
-            "title": "\"Queens & Kings\" Music Video Teaser (ft. Fingazz)...",
-            "snippet": "\"Queens & Kings\" Music Video Teaser (ft. Fingazz) Watch the full video here: Hey guys something a little different this week! Just helping to support an up and coming musician doing his thing... From: WilldaBeast Adams Views: 42114 1330 ratings...",
-            "date": "2015-04-30",
-            "author_name": "WilldaBeast Adams",
-            "categories": "music,music-video",
-            "tags": "little,music,music_video",
-            "recuweb_url": "http://en.recuweb.com/music-video/youtube.com/2015/04/queens-&-kings-music-video-teaser-ft-fingazz",
+        "youtube.com/2015/05/exo-call-me-baby-music-bank-k-chart-1": {
+            "title": "EXO - CALL ME BABY Music Bank K-Chart 1/...",
+            "snippet": "EXO - CALL ME BABY Music Bank K-Chart 1/EXO - CALL ME BABY ------------------------------------------------ Subscribe KBS World Official YouTube: ------------------------------------------------ KBS... From: KBS World TV Views: 26930 1292 ratings...",
+            "date": "2015-05-02",
+            "author_name": "KBS World TV",
+            "categories": "music",
+            "tags": "subscribe,kbs,official,youtube,baby,music,music_bank,bank,exo",
+            "recuweb_url": "http://en.recuweb.com/music/youtube.com/2015/05/exo-call-me-baby-music-bank-k-chart-1",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=music&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=rtwxkep9qWU&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/rtwxkep9qWU/0.jpg"
+            "source_url": "http://youtube.com/watch?v=ASzKCSiIu54&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/ASzKCSiIu54/0.jpg"
+        },
+        "youtube.com/2015/05/150501-the-ark-light-music-bank": {
+            "title": "150501 THE ARK () - The Light () Music Bank...",
+            "snippet": "150501 THE ARK () - The Light () Music Bank THE ARK () - The Light () 150501 KBS Music Bank Live Performance Subscribe & Follow me on Twitter, Facebook My Twitter: My Facebook: httpsw... From: Skpb K-Music Live Banned Views: 23303 760 ratings Time:...",
+            "date": "2015-05-01",
+            "author_name": "Skpb K-Music Live [Banned]",
+            "categories": "music,facebook,twitter",
+            "tags": "music,subscribe,music_bank,bank,kbs",
+            "recuweb_url": "http://en.recuweb.com/twitter/youtube.com/2015/05/150501-the-ark-light-music-bank",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=music&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=__UQimxfwbQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/__UQimxfwbQ/0.jpg"
+        },
+        "youtube.com/2015/05/kevin-gates-pourin-the-syrup-official-music-video": {
+            "title": "Kevin Gates - Pourin The Syrup (Official Music Video)...",
+            "snippet": "Kevin Gates - Pourin The Syrup (Official Music Video) Download Luca Brasi 2: A Gangsta Grillz Special Edition iTunes: Google Play: Spotify: Follow... From: kevingatesTV Views: 70697 2905 ratings Time: 03:50 More in Music...",
+            "date": "2015-05-01",
+            "author_name": "kevingatesTV",
+            "categories": "google,play,music,music-video",
+            "tags": "official,official_music,official_music_video,music,music_video,itunes",
+            "recuweb_url": "http://en.recuweb.com/music-video/youtube.com/2015/05/kevin-gates-pourin-the-syrup-official-music-video",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=music&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=sbNtCoJqA7Y&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/sbNtCoJqA7Y/0.jpg"
+        },
+        "youtube.com/2015/04/8-hour-deep-sleep-music-relaxing-meditation-sleeping-relaxation-2010": {
+            "title": "8 Hour Deep Sleep Music: Relaxing Music, Meditation Music, Sleeping Music, Relaxation Music 2010...",
+            "snippet": "8 Hour Deep Sleep Music: Relaxing Music, Meditation Music, Sleeping Music, Relaxation Music 2010 Yellow Brick Cinema's Sleep Music is the most relaxing music to help you achieve deep sleep. Our background music for sleep will help you fall asleep,...",
+            "date": "2015-04-30",
+            "author_name": "YellowBrickCinema",
+            "categories": "music,meditation",
+            "tags": "music,sleep,relaxing,sleep_music,relaxation,relaxation_music,sleeping,sleeping_music,meditation,meditation_music,hour",
+            "recuweb_url": "http://en.recuweb.com/meditation/youtube.com/2015/04/8-hour-deep-sleep-music-relaxing-meditation-sleeping-relaxation-2010",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=music&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=E3aWwbIvXmc&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/E3aWwbIvXmc/0.jpg"
         },
         "youtube.com/2015/04/exo-front-runner-stage-call-me-baby-kbs-music": {
             "title": "EXO_Front-Runner Stage 'CALL ME BABY'_KBS MUSIC...",
-            "snippet": "EXO_Front-Runner Stage 'CALL ME BABY'_KBS MUSIC Download on iTunes: KOR CHN Stream on... From: SMTOWN Views: 145772 10143 ratings Time: 03:45 More in Music...",
+            "snippet": "EXO_Front-Runner Stage 'CALL ME BABY'_KBS MUSIC Download on iTunes: KOR CHN Stream on... From: SMTOWN Views: 219482 12442 ratings Time: 03:45 More in Music...",
             "date": "2015-04-30",
             "author_name": "SMTOWN",
             "categories": "music",
-            "tags": "music,itunes",
+            "tags": "kbs,music,baby,exo,itunes",
             "recuweb_url": "http://en.recuweb.com/music/youtube.com/2015/04/exo-front-runner-stage-call-me-baby-kbs-music",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=music&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=NSsJiq_KcyQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/NSsJiq_KcyQ/0.jpg"
-        },
-        "youtube.com/2015/04/in-hearts-wake-badlands-official-music-video": {
-            "title": "In Hearts Wake - Badlands (Official Music Video)...",
-            "snippet": "In Hearts Wake - Badlands (Official Music Video) 'Badlands'is taken from In Hearts Wake's album 'Skydancer'- Out May 2015 via UNFD/Rise Purchase Skydancer on iTunes - CD/Vinyl & Merch Bundles - From: riserecords Views: 38503 1909 ratings Time: 04:33...",
-            "date": "2015-04-30",
-            "author_name": "riserecords",
-            "categories": "music,music-video",
-            "tags": "album,official,official_music,official_music_video,music,music_video,itunes",
-            "recuweb_url": "http://en.recuweb.com/music-video/youtube.com/2015/04/in-hearts-wake-badlands-official-music-video",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=music&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=nbEm3JG2IWo&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/nbEm3JG2IWo/0.jpg"
         },
         "youtube.com/2015/04/8-hour-relaxing-sleep-music-dream-relaxation-meditation-sleeping-2008": {
             "title": "8 Hour Relaxing Sleep Music: Dream Music, Relaxation Music, Meditation Music, Sleeping Music 2008...",
@@ -59,13 +83,25 @@
             "source_url": "http://youtube.com/watch?v=sCfsCLjEB08&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/sCfsCLjEB08/0.jpg"
         },
+        "youtube.com/2015/04/821-lobby-wshh-exclusive-official-music-video": {
+            "title": "821 Lobby (WSHH Exclusive - Official Music Video)...",
+            "snippet": "821 \"Lobby\" (WSHH Exclusive - Official Music Video) The official WorldStarHipHop premiere of 821's \"Lobby\" music video. The Jamaica Queens, NY group consists of Hoedy, C-Black & KK DaDon. Follow 821: httpsinstagram. From: WORLDSTARHIPHOP Views:...",
+            "date": "2015-04-29",
+            "author_name": "WORLDSTARHIPHOP",
+            "categories": "music,music-video",
+            "tags": "music,music_video,official,official_music,official_music_video",
+            "recuweb_url": "http://en.recuweb.com/music-video/youtube.com/2015/04/821-lobby-wshh-exclusive-official-music-video",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=music&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=148fNT-4HxY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/148fNT-4HxY/0.jpg"
+        },
         "youtube.com/2015/04/april-favourites-makeup-style-music-etc": {
             "title": "APRIL FAVOURITES! Makeup, Style, Music etc!",
-            "snippet": "APRIL FAVOURITES! Makeup, Style, Music etc! I have a little chat through my favourite things of the month! My Second Channel Vlogs: MY SOCIAL MEDIA My Vlog channel! - From: beautycrush Views: 128734 6412 ratings Time: 10:35 More in Howto & Style...",
+            "snippet": "APRIL FAVOURITES! Makeup, Style, Music etc! I have a little chat through my favourite things of the month! My Second Channel Vlogs: MY SOCIAL MEDIA My Vlog channel! - From: beautycrush Views: 145333 6895 ratings Time: 10:35 More in Howto & Style...",
             "date": "2015-04-29",
             "author_name": "beautycrush",
             "categories": "social-media,music",
-            "tags": "little,music",
+            "tags": "music",
             "recuweb_url": "http://en.recuweb.com/music/youtube.com/2015/04/april-favourites-makeup-style-music-etc",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=music&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=OmzPt38noxo&feature=youtube_gdata",
@@ -77,59 +113,23 @@
             "date": "2015-04-29",
             "author_name": "AwesomenessTV",
             "categories": "radio,music,stars,iphone",
-            "tags": "music",
+            "tags": "youtube,music",
             "recuweb_url": "http://en.recuweb.com/iphone/youtube.com/2015/04/disney-stars-whats-on-my-iphone-at-radio-music-awards-2015",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=music&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=blZpu98FV3c&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/blZpu98FV3c/0.jpg"
         },
-        "youtube.com/2015/04/headhunterz-&-crystal-lake-live-your-life-w&w-ultra-music-festival": {
-            "title": "Headhunterz & Crystal Lake - Live Your Life W&W Live Ultra Music Festival 2015...",
-            "snippet": "Headhunterz & Crystal Lake - Live Your Life W&W Live Ultra Music Festival 2015 W&W playing Headhunterz & Crystal Lake - Live Your Life at Ultra Music Festival 2015. Available on DOORN Records May 25. Subscribe to Spinnin'TV now: Follow... From:...",
+        "youtube.com/2015/04/jacky-gosee-haq-new-official-music-2015": {
+            "title": "JACKY GOSEE HAQ NEW! Official Music 2015...",
+            "snippet": "JACKY GOSEE \"HAQ\" \"\" NEW! Official Music 2015 Jacky Gosee new single HAQ is HAQ. Produced by Evangadi. From: jacky gosee Views: 49317 531 ratings Time: 05:39 More in Music...",
             "date": "2015-04-29",
-            "author_name": "Spinnin' Records",
-            "categories": "music,life",
-            "tags": "music,live,life",
-            "recuweb_url": "http://en.recuweb.com/life/youtube.com/2015/04/headhunterz-&-crystal-lake-live-your-life-w&w-ultra-music-festival",
+            "author_name": "jacky gosee",
+            "categories": "music",
+            "tags": "official,official_music,music",
+            "recuweb_url": "http://en.recuweb.com/music/youtube.com/2015/04/jacky-gosee-haq-new-official-music-2015",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=music&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=bMCKCL7zIYI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/bMCKCL7zIYI/0.jpg"
-        },
-        "youtube.com/2015/04/jos%C3%A9-gonz%C3%A1lez-npr-music-tiny-desk-concert": {
-            "title": "Jos\u00e9 Gonz\u00e1lez: NPR Music Tiny Desk Concert...",
-            "snippet": "Jos\u00e9 Gonz\u00e1lez: NPR Music Tiny Desk Concert There's a quiet and a calm from Jos\u00e9 Gonz\u00e1lez that amplify his words. This has never been truer than on his new album, Vestiges & Claws. The songs are full of abstract imagery more paintings... From:...",
-            "date": "2015-04-29",
-            "author_name": "NPR Music",
-            "categories": "painting,music",
-            "tags": "album,music",
-            "recuweb_url": "http://en.recuweb.com/music/youtube.com/2015/04/jos%C3%A9-gonz%C3%A1lez-npr-music-tiny-desk-concert",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=music&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=Ag-OIlEN00M&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Ag-OIlEN00M/0.jpg"
-        },
-        "youtube.com/2015/04/nia-sioux-star-in-your-own-life-official-music-video": {
-            "title": "Nia Sioux 'Star In Your Own Life'Official Music Video...",
-            "snippet": "Nia Sioux 'Star In Your Own Life'Official Music Video The wait is over! Nia Sioux 'Star In Your Own Life'Official Music Video is now live! Download Nia Sioux 'Star In Your Own Life'Remix on Itunes Now Directed &... From: Nia Sioux Frazier Views:...",
-            "date": "2015-04-29",
-            "author_name": "Nia Sioux Frazier",
-            "categories": "music,music-video,life",
-            "tags": "official,official_music,official_music_video,music,music_video,life,live,itunes",
-            "recuweb_url": "http://en.recuweb.com/life/youtube.com/2015/04/nia-sioux-star-in-your-own-life-official-music-video",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=music&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=rNHsJQM9sY0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/rNHsJQM9sY0/0.jpg"
-        },
-        "youtube.com/2015/04/8-hour-sleeping-music-relaxing-meditation-relaxation-deep-sleep-2006": {
-            "title": "8 Hour Sleeping Music: Relaxing Music, Meditation Music, Relaxation Music, Deep Sleep 2006...",
-            "snippet": "8 Hour Sleeping Music: Relaxing Music, Meditation Music, Relaxation Music, Deep Sleep 2006 Yellow Brick Cinema's Sleep Music is the most relaxing music to help you achieve deep sleep. Our background music for sleep will help you fall asleep,...",
-            "date": "2015-04-28",
-            "author_name": "YellowBrickCinema",
-            "categories": "music,meditation",
-            "tags": "music,sleep,relaxing,sleep_music,relaxation,relaxation_music,meditation,meditation_music,hour,sleeping,sleeping_music",
-            "recuweb_url": "http://en.recuweb.com/meditation/youtube.com/2015/04/8-hour-sleeping-music-relaxing-meditation-relaxation-deep-sleep-2006",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=music&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=CaZpms7rEWc&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/CaZpms7rEWc/0.jpg"
+            "source_url": "http://youtube.com/watch?v=IX1kANAajQg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/IX1kANAajQg/0.jpg"
         }
     }
 }
