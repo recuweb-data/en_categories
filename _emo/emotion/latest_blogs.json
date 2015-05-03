@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "emotion",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/emotion/",
@@ -11,16 +11,92 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/emotion/emotion/blogs.json"
     },
     "items": {
-        "ino.com/2015/04/emotion-free-trading": {
-            "title": "Emotion Free Trading...",
-            "snippet": "Larry Levin reveals techniques for traders like you to help you control your emotions and transform you into a disciplined, emotion-free trader. It is the most important concept you can learn in order to be a successful trader.",
-            "date": "2015-04-26",
-            "author_name": "Jeremy Lutz",
+        "blogs.edweek.org/2015/04/an-emotion-revolution-in-american-education-finding-common": {
+            "title": "An Emotion Revolution in American Education - Finding Common...",
+            "snippet": "Today's guest bloggers are Marc A. Brackett, Diana Divecha, and Robin S. Stern from the Yale Center for Emotional Intelligence. There is a quiet kind of revolution taking place in classrooms across the country. More and more...",
+            "date": "2015-04-30",
+            "author_name": "Peter DeWitt",
+            "categories": "education,emotion",
+            "tags": "kind,taking,emotional,emotion",
+            "recuweb_url": "http://en.recuweb.com/emotion/blogs.edweek.org/2015/04/an-emotion-revolution-in-american-education-finding-common",
+            "resource_url": "http://www.google.com/search?q=emotion%2Bemotion&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.edweek.org/edweek/finding_common_ground/2015/04/an_emotion_revolution_in_american_education.html"
+        },
+        "blogs.forrester.com/2015/04/federal-agencies-must-focus-on-emotion-to-create-great": {
+            "title": "Federal Agencies Must Focus On Emotion To Create Great...",
+            "snippet": "As my colleague Megan Burns writes in her new CX Index report, Emotion is the biggest lever you have to pull to improve CX. In fact, organizations at the top of the CX Index elicited positive emotions about 20 times as often...",
+            "date": "2015-04-30",
+            "author_name": "Rick Parrish",
             "categories": "emotion",
-            "tags": "learn,help,control,emotions,into",
-            "recuweb_url": "http://en.recuweb.com/emotion/ino.com/2015/04/emotion-free-trading",
+            "tags": "positive,emotions,great",
+            "recuweb_url": "http://en.recuweb.com/emotion/blogs.forrester.com/2015/04/federal-agencies-must-focus-on-emotion-to-create-great",
+            "resource_url": "http://www.google.com/search?q=emotion%2Bemotion&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.forrester.com/rick_parrish/15-04-30-federal_agencies_must_focus_on_emotion_to_create_great_government_customer_experiences"
+        },
+        "themuse.jezebel.com/2015/04/jdavey-captures-restless-emotion-in-strong-anticipation-video": {
+            "title": "JDavey Captures Restless Emotion In 'Strong Anticipation'Video...",
+            "snippet": "L.A. duo JDavey released this solid, succinct music video for their throbber Strong Anticipation. It's not even a full two minutes and immediately beckons a replay after coming to an abrupt breathy, distorted close. The visual...",
+            "date": "2015-04-30",
+            "author_name": "Clover Hope on The Muse, shared by Ellie Shechet to Jezebel",
+            "categories": "music,music-video,emotion",
+            "tags": "even,music,strong,emotion",
+            "recuweb_url": "http://en.recuweb.com/emotion/themuse.jezebel.com/2015/04/jdavey-captures-restless-emotion-in-strong-anticipation-video",
+            "resource_url": "http://www.google.com/search?q=emotion%2Bemotion&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://themuse.jezebel.com/j-davey-captures-restless-emotion-in-strong-anticipatio-1701303183"
+        },
+        "reddit.com/2015/04/why-do-we-feel-emotions-more-strongly-in-the-chest": {
+            "title": "Why do we feel emotions more strongly in the chest?",
+            "snippet": "Or more specifically, the heart. For millennia, humans have associated loss, love, fear, grief and even rage with the heart. Why is that so? If the brain is the seat of consciousness, shouldn't we feel emotions more strongly in our heads? What...",
+            "date": "2015-04-30",
+            "categories": "consciousness,emotion,love",
+            "tags": "even,heart,emotions",
+            "recuweb_url": "http://en.recuweb.com/love/reddit.com/2015/04/why-do-we-feel-emotions-more-strongly-in-the-chest",
+            "resource_url": "http://www.reddit.com/search.rss?q=emotion%2Bemotion&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/askscience/comments/34cxuu/why_do_we_feel_emotions_more_strongly_in_the_chest/"
+        },
+        "blogs.wsj.com/2015/04/microsoft-awarded-patent-for-emotion-detecting-eyeglasses-digits": {
+            "title": "Microsoft Awarded Patent for Emotion Detecting Eyeglasses - Digits...",
+            "snippet": "Microsoft's patent for a wearable emotion detection feedback system was filed in October 2012, and awarded earlier this week, according to a public filing by the U.S. patent office. It's unclear whether Microsoft is serious...",
+            "date": "2015-04-29",
+            "author_name": "Amir Mizroch",
+            "categories": "emotion",
+            "tags": "whether,awarded,detection,system,emotion,microsoft",
+            "recuweb_url": "http://en.recuweb.com/emotion/blogs.wsj.com/2015/04/microsoft-awarded-patent-for-emotion-detecting-eyeglasses-digits",
+            "resource_url": "http://www.google.com/search?q=emotion%2Bemotion&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.wsj.com/digits/2015/04/29/microsoft-awarded-patent-for-emotion-detecting-eyeglasses/"
+        },
+        "huffingtonpost.com/2015/04/surfing-the-tides-of-emotion-are-you-willing-to-get-wet": {
+            "title": "Surfing the Tides of Emotion: Are You Willing to Get Wet? Lara...",
+            "snippet": "With practice we can learn that fighting the waves of emotion does not serve us and we are more able to mindfully choose the most effective responses to the tides of life....",
+            "date": "2015-04-29",
+            "author_name": "Lara Fielding",
+            "categories": "life,mind,surfing,emotion",
+            "tags": "life,able,learn,fighting,emotion",
+            "recuweb_url": "http://en.recuweb.com/emotion/huffingtonpost.com/2015/04/surfing-the-tides-of-emotion-are-you-willing-to-get-wet",
+            "resource_url": "http://www.google.com/search?q=emotion%2Bemotion&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://huffingtonpost.com/lara-fielding/surfing-the-tides-of-emot_b_7166662.html"
+        },
+        "natsinsider.com/2015/04/can-nats-channel-last-night-s-emotion-into-something-insider": {
+            "title": "Can Nats channel last night's emotion into something? Nats Insider...",
+            "snippet": "Now, emotion only takes you so far. The Nationals need Cole to pitch well in his debut tonight. They need to be far more productive at the plate than they've been. They need their bullpen to put up zeroes for a change.",
+            "date": "2015-04-28",
+            "author_name": "Mark Zuckerman",
+            "categories": "emotion",
+            "tags": "tonight,night,emotion,change",
+            "recuweb_url": "http://en.recuweb.com/emotion/natsinsider.com/2015/04/can-nats-channel-last-night-s-emotion-into-something-insider",
             "resource_url": "http://www.google.com/search?q=emotion&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://ino.com/blog/2015/04/emotion-free-trading/"
+            "source_url": "http://natsinsider.com/2015/04/28/can-nats-channel-last-nights-emotion-into-something/"
+        },
+        "popsugar.com/2015/04/robert-downey-jr-emotional-interview-with-jimmy-fallon-popsugar": {
+            "title": "Robert Downey Jr. Emotional Interview With Jimmy Fallon - PopSugar...",
+            "snippet": "Robert Downey Jr. proved that he is incredibly in touch with his emotions during an appearance on The Tonight Show Starring Jimmy Fallon on Monday. The two played a game in which they had to alter their conversation...",
+            "date": "2015-04-28",
+            "author_name": "Caitlin-Hacker",
+            "categories": "emotion",
+            "tags": "game,tonight,show,during,emotional,inter,emotions",
+            "recuweb_url": "http://en.recuweb.com/emotion/popsugar.com/2015/04/robert-downey-jr-emotional-interview-with-jimmy-fallon-popsugar",
+            "resource_url": "http://www.google.com/search?q=emotion%2Bemotion&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://popsugar.com/celebrity/Robert-Downey-Jr-Emotional-Interview-Jimmy-Fallon-37367102"
         },
         "unijoke.blogspot.com/2015/04/do-emotions-have-to-reason": {
             "title": "Do emotions have to have reason?",
@@ -28,7 +104,7 @@
             "date": "2015-04-26",
             "author_name": "Voltuzi",
             "categories": "emotion",
-            "tags": "hand,emotions,emotion",
+            "tags": "emotions,emotion",
             "recuweb_url": "http://en.recuweb.com/emotion/unijoke.blogspot.com/2015/04/do-emotions-have-to-reason",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=emotion%2Bemotion&rss=1&lng=en",
             "source_url": "http://unijoke.blogspot.com/2015/04/do-emotions-have-to-have-reason.html"
@@ -38,88 +114,11 @@
             "snippet": "Carly Rae Jepsen Talks New Album 'Emotion'in 'Notion'Mag! Carly Rae Jepsen shows off her gorgeous eyes on the cover of Notion magazine's May 2015 music issue, out on newsstands now! Here's what the 29-year-old...",
             "date": "2015-04-25",
             "author_name": "Just Jared",
-            "categories": "emotion,music",
-            "tags": "off,album,emotion,shows,music,here,old",
-            "recuweb_url": "http://en.recuweb.com/music/justjared.com/2015/04/carly-rae-jepsen-talks-new-album-emotion-in-notion-mag",
+            "categories": "music,emotion",
+            "tags": "music,emotion,shows,here,old",
+            "recuweb_url": "http://en.recuweb.com/emotion/justjared.com/2015/04/carly-rae-jepsen-talks-new-album-emotion-in-notion-mag",
             "resource_url": "http://www.google.com/search?q=emotion%2Bemotion&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://justjared.com/2015/04/25/carly-rae-jepsen-talks-new-album-emotion-in-notion-mag/"
-        },
-        "hollywoodreporter.com/2015/04/cinemacon-robert-zemeckis-on-exhilarating-and-terrifying": {
-            "title": "CinemaCon: Robert Zemeckis on \"Exhilarating and Terrifying...",
-            "snippet": "Inventive filmmaker Robert Zemeckis, who pioneered digital 3D with his The Polar Express and Beowulf, now is using the power of depth to convey Petit's experience and emotions both simultaneously exhilarating and...",
-            "date": "2015-04-22",
-            "author_name": "Carolyn Giardina",
-            "categories": "emotion",
-            "tags": "emotions",
-            "recuweb_url": "http://en.recuweb.com/emotion/hollywoodreporter.com/2015/04/cinemacon-robert-zemeckis-on-exhilarating-and-terrifying",
-            "resource_url": "http://www.google.com/search?q=emotion%2Bemotion&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://hollywoodreporter.com/behind-screen/cinemacon-robert-zemeckis-exhilarating-terrifying-790896"
-        },
-        "pixable.com/2015/04/telephone-for-feelings": {
-            "title": "Telephone For Feelings...",
-            "snippet": "Forget long chats on the telephone trying to describe how you feel. This new technology called Ultrahaptics can transmit your raw emotion through air.",
-            "date": "2015-04-22",
-            "author_name": "Mariel Loveland",
-            "categories": "technology,telephone,emotion",
-            "tags": "feelings,emotion",
-            "recuweb_url": "http://en.recuweb.com/emotion/pixable.com/2015/04/telephone-for-feelings",
-            "resource_url": "http://www.google.com/search?q=emotion&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://pixable.com/article/ultrahaptics-telephone-for-feelings-91617"
-        },
-        "theguardian.com/2015/04/calm-down-dear-the-dark-side-of-emotional-intelligence-dean": {
-            "title": "Calm down dear: the dark side of 'emotional intelligence'Dean...",
-            "snippet": "Nigel Short says women aren't hard wired for chess but they do have great emotional intelligence. Why could this be seen as even more insulting?",
-            "date": "2015-04-21",
-            "author_name": "Dean Burnett",
-            "categories": "chess",
-            "tags": "seen,emotional,intelligence,why",
-            "recuweb_url": "http://en.recuweb.com/chess/theguardian.com/2015/04/calm-down-dear-the-dark-side-of-emotional-intelligence-dean",
-            "resource_url": "http://www.google.com/search?q=emotion%2Bemotion&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/science/brain-flapping/2015/apr/21/calm-down-dear-emotional-intelligence-psychology"
-        },
-        "hbr.org/2015/04/emotional-intelligence-doesn-t-translate-across-borders-hbr": {
-            "title": "Emotional Intelligence Doesn't Translate Across Borders - HBR...",
-            "snippet": "One of the greatest assets we have as natives of a culture is our ability to quickly read another person's emotions. Over time we learn how to understand whether our colleagues are truly interested in a project or just giving it...",
-            "date": "2015-04-20",
-            "author_name": "Andy Molinsky",
-            "categories": "culture,borders,emotion",
-            "tags": "learn,another,emotional,intelligence,ability,person,emotions",
-            "recuweb_url": "http://en.recuweb.com/emotion/hbr.org/2015/04/emotional-intelligence-doesn-t-translate-across-borders-hbr",
-            "resource_url": "http://www.google.com/search?q=emotion%2Bemotion&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://hbr.org/2015/04/emotional-intelligence-doesnt-translate-across-borders"
-        },
-        "well.blogs.nytimes.com/2015/04/tylenol-may-blunt-emotions-and-not-just-pain": {
-            "title": "Tylenol May Blunt Emotions, and Not Just Pain -...",
-            "snippet": "Acetaminophen (Tylenol) is a popular pain reliever, but it may also blunt emotions, both positive and negative, a new study shows.",
-            "date": "2015-04-20",
-            "author_name": "By Nicholas Bakalar",
-            "categories": "emotion",
-            "tags": "positive,pain,pain-reliever,reliever,tylenol,emotions,acetaminophen,study,shows",
-            "recuweb_url": "http://en.recuweb.com/emotion/well.blogs.nytimes.com/2015/04/tylenol-may-blunt-emotions-and-not-just-pain",
-            "resource_url": "http://www.google.com/search?q=emotion&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://well.blogs.nytimes.com/2015/04/20/tylenol-may-blunt-emotions-and-not-just-pain/"
-        },
-        "theguardian.com/2015/04/from-the-heart-readers-photos-on-theme-of-emotion": {
-            "title": "From the heart: readers'photos on the theme of emotion...",
-            "snippet": "For last week's photography assignment in the Observer New Review we asked you to share your photos on the theme of emotion via GuardianWitness. Here's a selection of our favourites.",
-            "date": "2015-04-18",
-            "author_name": "Guardian readers and Tom Stevens",
-            "categories": "photography,emotion",
-            "tags": "emotion,here",
-            "recuweb_url": "http://en.recuweb.com/emotion/theguardian.com/2015/04/from-the-heart-readers-photos-on-theme-of-emotion",
-            "resource_url": "http://www.google.com/search?q=emotion&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/artanddesign/guardianwitness-blog/gallery/2015/apr/18/from-the-heart-readers-photos-on-the-theme-of-emotion"
-        },
-        "theguardian.com/2015/04/paracetamol-may-dull-emotions-as-well-physical-pain-new-study": {
-            "title": "Paracetamol may dull emotions as well as physical pain, new study...",
-            "snippet": "... dull our emotional responses more generally. Rather than just being a pain reliever, acetaminophen can be seen as an all-purpose emotion reliever, said Geoffrey Durso, a social psychologist at Ohio State University.",
-            "date": "2015-04-14",
-            "author_name": "Ian Sample, science editor",
-            "categories": "university,emotion",
-            "tags": "acetaminophen,seen,pain,pain-reliever,reliever,physical,emotions,emotion,study,emotional,responses,said",
-            "recuweb_url": "http://en.recuweb.com/emotion/theguardian.com/2015/04/paracetamol-may-dull-emotions-as-well-physical-pain-new-study",
-            "resource_url": "http://www.google.com/search?q=emotion%2Bemotion&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theguardian.com/science/2015/apr/14/paracetamol-may-dull-emotions-as-well-as-physical-pain-new-study-shows"
         }
     }
 }
