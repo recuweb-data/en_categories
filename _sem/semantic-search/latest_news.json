@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "semantic-search",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/semantic-search/",
@@ -11,103 +11,103 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/semantic-search/semantic-search/blogs.json"
     },
     "items": {
-        "searchenginejournal.com/2015/04/seo-101-make-your-site-stand-out-in-serps-with-rich": {
-            "title": "SEO 101: Make Your Site Stand Out in SERPs With Rich Snippet Mark-Up...",
-            "snippet": "By adding schema markup to your site, you are identifying data on your website that is valuable to search engines and semantic search. By implementing structured data (input form) to your pages, you can help search engines to identify and serve up...",
-            "date": "2015-04-25",
-            "tags": "pages,input,website,mark,data,search,semantic",
-            "recuweb_url": "http://en.recuweb.com/searchenginejournal.com/2015/04/seo-101-make-your-site-stand-out-in-serps-with-rich",
+        "stategazette.com/2015/05/google-gets-inside-our-heads-state-gazette-blog": {
+            "title": "Google gets inside our heads - State Gazette (blog)...",
+            "snippet": "Google gets inside our headsState Gazette (blog)The former option is referred to as a \"long-tail keyword\" and it's more conversational in nature, which search marketers refer to as \"semantic SEO.\" Semantic or conversational SEO, and the idea of...",
+            "date": "2015-05-02",
+            "categories": "nature,google",
+            "tags": "marketers,semantic,long,google,search",
+            "recuweb_url": "http://en.recuweb.com/google/stategazette.com/2015/05/google-gets-inside-our-heads-state-gazette-blog",
+            "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
+            "source_url": "http://stategazette.com/blogs/1736/entry/62221/"
+        },
+        "iamwire.com/2015/05/talview-a-startup-trying-to-revolutionise-how-hiring-processes-are-done": {
+            "title": "Talview: A Startup Trying to Revolutionise How Hiring Processes Are Done...",
+            "snippet": "We are working on an exciting line of products and features which will leverage advanced NLP, strong AI and Semantic Search methodologies to find the best fit talent in the shortest possible time, said Tom Jose, Cofounder & CMO, Talview.",
+            "date": "2015-05-01",
+            "categories": "semantic-search",
+            "tags": "find,semantic,semantic_search,search,nlp",
+            "recuweb_url": "http://en.recuweb.com/semantic-search/iamwire.com/2015/05/talview-a-startup-trying-to-revolutionise-how-hiring-processes-are-done",
             "resource_url": "http://www.bing.com/news/search?first=1&q=semantic%2Bsearch&format=RSS&cc=us",
-            "source_url": "http://searchenginejournal.com/seo-101-make-site-stand-serps-rich-snippet-mark/129552/"
+            "source_url": "http://iamwire.com/2015/05/talview-startup-revolutionise-hiring-processes/115652"
+        },
+        "news.ucsb.edu/2015/04/exploring-the-data-universe-ucsb-current": {
+            "title": "Exploring the Data Universe - The UCSB Current...",
+            "snippet": "The UCSB CurrentExploring the Data UniverseThe UCSB CurrentA specialist in semantics and ontology as they relate to the ability to search the Internet and retrieve, translate and name geographic phenomena based on their location, Janowicz came to...",
+            "date": "2015-04-30",
+            "categories": "semantics,internet",
+            "tags": "data,search",
+            "recuweb_url": "http://en.recuweb.com/internet/news.ucsb.edu/2015/04/exploring-the-data-universe-ucsb-current",
+            "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
+            "source_url": "http://news.ucsb.edu/2015/015382/exploring-data-universe"
+        },
+        "newswire.ca/2015/04/sprylogics-breakingsports-app-now-delivering-the-fastest-sports-news-on-apple": {
+            "title": "Sprylogics'BreakingSports App now Delivering the Fastest Sports News on the Apple Watch...",
+            "snippet": "TORONTO, April 30, 2015/CNW/- Sprylogics International Corp. (Sprylogics or the Company) (TSXV: SPY), a technology provider of semantic search, machine learned language and Natural Language Processing (NLP) is pleased to announce that its...",
+            "date": "2015-04-30",
+            "categories": "technology,sport",
+            "tags": "technology,semantic,search,nlp",
+            "recuweb_url": "http://en.recuweb.com/sport/newswire.ca/2015/04/sprylogics-breakingsports-app-now-delivering-the-fastest-sports-news-on-apple",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=semantic%2Bsearch&format=RSS&cc=us",
+            "source_url": "http://newswire.ca/en/story/1527565/sprylogics-breakingsports-app-now-delivering-the-fastest-sports-news-on-the-apple-watch"
+        },
+        "medianama.com/2015/04/google-now-will-display-data-from-apps-like-cleartrip-runkeeper-quikr": {
+            "title": "Google Now will now display data from apps like Cleartrip, RunKeeper, Quikr, Foodpanda among 66...",
+            "snippet": "Semantic-search tech with knowledge base Google Now was released in 2012 and was previously codenamed Majel after Star Trek creator American actress and producer Majel Barrett, who was the well known voice of computer systems in the Star Trek...",
+            "date": "2015-04-29",
+            "categories": "google",
+            "tags": "ledge,tech,google,data,semantic,search",
+            "recuweb_url": "http://en.recuweb.com/google/medianama.com/2015/04/google-now-will-display-data-from-apps-like-cleartrip-runkeeper-quikr",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=semantic%2Bsearch&format=RSS&cc=us",
+            "source_url": "http://medianama.com/2015/04/223-google-now-will-now-display-data-from-apps-like-cleartrip-runkeeper-quikr-foodpanda-among-66-others/"
+        },
+        "smh.com.au/2015/04/google-maps-co-founder-lars-rasmussen-quits-facebook-to-launch": {
+            "title": "Google Maps co-founder Lars Rasmussen quits Facebook to launch a music... - Sydney Morning Herald...",
+            "snippet": "Sydney Morning HeraldGoogle Maps co-founder Lars Rasmussen quits Facebook to launch a music...Sydney Morning HeraldAt Facebook, Rasmussen first worked on launching Graph Search, a semantic search engine that gave users an easier way to find posts...",
+            "date": "2015-04-28",
+            "categories": "music,google,facebook",
+            "tags": "way,find,graph,search,google,semantic,engine",
+            "recuweb_url": "http://en.recuweb.com/facebook/smh.com.au/2015/04/google-maps-co-founder-lars-rasmussen-quits-facebook-to-launch",
+            "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
+            "source_url": "http://smh.com.au/digital-life/digital-life-news/google-maps-cofounder-lars-rasmussen-quits-facebook-to-launch-a-music-startup-with-partner-elomida-visviki-20150429-1mv5kx.html"
+        },
+        "theguardian.com/2015/04/visual-browsing-there-s-a-critical-gap-between-how-we-see": {
+            "title": "Visual browsing: there's a critical gap between how we see and how we search - The Guardian...",
+            "snippet": "The GuardianVisual browsing: there's a critical gap between how we see and how we searchThe GuardianSemantic search is a step towards solving this problem but it's reliant on the understanding and eloquence of the user to find what you're looking...",
+            "date": "2015-04-28",
+            "tags": "looking,find,between,browsing,search",
+            "recuweb_url": "http://en.recuweb.com/theguardian.com/2015/04/visual-browsing-there-s-a-critical-gap-between-how-we-see",
+            "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
+            "source_url": "http://theguardian.com/media-network/2015/apr/28/visual-browsing-search-revolution"
+        },
+        "data-informed.com/2015/04/why-media-companies-organize-data-with-semantic-search": {
+            "title": "Why Media Companies Organize Data with Semantic Search...",
+            "snippet": "How many times a day do we utter, or hear someone else utter, the phrase, Google it? Its hard to imagine that a phrase so ubiquitous and universally understood has been around for less than two decades. The word Google has become synonymous...",
+            "date": "2015-04-28",
+            "categories": "semantic-search,google",
+            "tags": "semantic,semantic_search,search,data,google",
+            "recuweb_url": "http://en.recuweb.com/google/data-informed.com/2015/04/why-media-companies-organize-data-with-semantic-search",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=semantic%2Bsearch&format=RSS&cc=us",
+            "source_url": "http://data-informed.com/why-media-companies-organize-data-with-semantic-search/"
         },
         "opensource.com/2015/04/sourcegraph-a-free-code-search-tool-for-open-source-developers": {
             "title": "Sourcegraph: A free code search tool for open source developers -...",
             "snippet": ": A free code search tool for open source developers is a code search engine and browsing tool that semantically indexes all the open source code available on the web. You can search for code by repository, package, or function and click on fully...",
             "date": "2015-04-22",
-            "tags": "search,engine,web",
+            "tags": "browsing,search,engine,web",
             "recuweb_url": "http://en.recuweb.com/opensource.com/2015/04/sourcegraph-a-free-code-search-tool-for-open-source-developers",
             "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
             "source_url": "http://opensource.com/business/15/4/better-software-with-sourcegraph"
-        },
-        "newswire.ca/2015/04/sprylogics-breakingsports-app-integrates-live-feeds": {
-            "title": "Sprylogics'BreakingSports App Integrates Live Feeds...",
-            "snippet": "TORONTO, April 20, 2015/CNW/- Sprylogics International Corp. (Sprylogics or the Company) (TSXV: SPY), a technology provider of semantic search and local mobile search for consumers and businesses, is pleased to announce that its ground breaking...",
-            "date": "2015-04-20",
-            "categories": "business,technology",
-            "tags": "technology,company,semantic,search",
-            "recuweb_url": "http://en.recuweb.com/technology/newswire.ca/2015/04/sprylogics-breakingsports-app-integrates-live-feeds",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=semantic%2Bsearch&format=RSS&cc=us",
-            "source_url": "http://newswire.ca/en/story/1520625/sprylogics-breakingsports-app-integrates-live-feeds"
-        },
-        "forbes.com/2015/04/how-google-search-results-will-evolve-throughout-2015-forbes": {
-            "title": "How Google Search Results Will Evolve Throughout 2015 - Forbes...",
-            "snippet": "ForbesHow Google Search Results Will Evolve Throughout 2015ForbesSince Google uses a process of semantic search to actively understand the intent behind user queries, Google is working to theoretically answer any simple question a user could input,...",
-            "date": "2015-04-16",
-            "categories": "google",
-            "tags": "working,input,queries,google,search,results,semantic",
-            "recuweb_url": "http://en.recuweb.com/google/forbes.com/2015/04/how-google-search-results-will-evolve-throughout-2015-forbes",
-            "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
-            "source_url": "http://forbes.com/sites/jaysondemers/2015/04/16/how-google-search-results-will-evolve-throughout-2015/"
-        },
-        "lightreading.com/2015/04/dish-embraces-netflix-adds-rovi-voice-light-reading": {
-            "title": "Dish Embraces Netflix, Adds Rovi Voice - Light Reading...",
-            "snippet": "Digital TrendsDish Embraces Netflix, Adds Rovi VoiceLight ReadingThe pay-TV vendor paid 62 million in cash in 2014 to acquire semantic search specialist Veveo, whose platform is the underlying technology for Rovi's natural-language spoken-voice...",
-            "date": "2015-04-15",
-            "categories": "technology",
-            "tags": "natural,technology,million,digital,semantic,search",
-            "recuweb_url": "http://en.recuweb.com/technology/lightreading.com/2015/04/dish-embraces-netflix-adds-rovi-voice-light-reading",
-            "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
-            "source_url": "http://lightreading.com/video/ott/dish-embraces-netflix-adds-rovi-voice/d/d-id/715097"
-        },
-        "hospitalitynet.org/2015/04/findmycarrots-fmc-revamps-website-to-offer-white-label-new-era-of": {
-            "title": "FindMyCarrots (FmC) Revamps Website to Offer White Label New Era of... - Hospitality Net...",
-            "snippet": "FindMyCarrots (FmC) Revamps Website to Offer White Label New Era of...Hospitality NetThe Bangalore based company has developed the next-generation semantic search engine using big data and machine learning. FmC has reviewed close to a million web...",
-            "date": "2015-04-01",
-            "categories": "learning",
-            "tags": "million,company,hospitality,net,website,semantic,search,engine,data,web",
-            "recuweb_url": "http://en.recuweb.com/learning/hospitalitynet.org/2015/04/findmycarrots-fmc-revamps-website-to-offer-white-label-new-era-of",
-            "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
-            "source_url": "http://hospitalitynet.org/news/4069713.html"
         },
         "inc.com/2015/03/the-rapid-evolution-of-semantic-search": {
             "title": "The Rapid Evolution of Semantic Search...",
             "snippet": "Have you ever paused long enough between keystrokes to think about how strange it is--or possibly creepy--that Google knows so much about you? The world's most powerful search engine has a way of knowing exactly what you're looking for with...",
             "date": "2015-03-23",
             "categories": "semantic-search,google",
-            "tags": "looking,semantic,semantic_search,search,google,engine",
+            "tags": "looking,way,long,between,semantic,semantic_search,search,google,engine",
             "recuweb_url": "http://en.recuweb.com/google/inc.com/2015/03/the-rapid-evolution-of-semantic-search",
             "resource_url": "http://www.bing.com/news/search?first=1&q=semantic%2Bsearch&format=RSS&cc=us",
             "source_url": "http://inc.com/samuel-edwards/the-rapid-evolution-of-semantic-search.html"
-        },
-        "hospitalitynet.org/2015/03/the-impact-of-semantic-search-will-have-on-future-hospitality": {
-            "title": "The Impact of Semantic Search Will Have On the Future of Hospitality and Travel - Hospitality Net...",
-            "snippet": "The Impact of Semantic Search Will Have On the Future of Hospitality and TravelHospitality NetSearching, searching and more searching. This endless search seems to be the norm these days when looking for a hotel or flight. The introduction of...",
-            "date": "2015-03-06",
-            "categories": "semantic-search,travel",
-            "tags": "introduction,looking,semantic,semantic_search,search,hospitality,travel,net",
-            "recuweb_url": "http://en.recuweb.com/travel/hospitalitynet.org/2015/03/the-impact-of-semantic-search-will-have-on-future-hospitality",
-            "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
-            "source_url": "http://hospitalitynet.org/news/4069378.html"
-        },
-        "ipwatchdog.com/2015/03/lexisnexis-totalpatent-launches-improved-version-of-semantic-search": {
-            "title": "LexisNexis TotalPatent Launches Improved Version of Semantic Search -...",
-            "snippet": "LexisNexis TotalPatent Launches Improved Version of Semantic, Pa., March 4, 2015 Reed Technology and Information Services Inc. (Reed Tech), a LexisNexis company, today announced the advancement of the innovative semantic search technology used to...",
-            "date": "2015-03-05",
-            "categories": "technology,semantic-search",
-            "tags": "technology,tech,semantic,semantic_search,search,company",
-            "recuweb_url": "http://en.recuweb.com/semantic-search/ipwatchdog.com/2015/03/lexisnexis-totalpatent-launches-improved-version-of-semantic-search",
-            "resource_url": "http://news.google.com/?hl=en&q=semantic%2Bsearch&output=atom&nord=1",
-            "source_url": "http://ipwatchdog.com/2015/03/05/lexisnexis-totalpatent-semantic-search/id=55426/"
-        },
-        "skift.com/2015/01/megatrend-for-2015-natural-semantic-search-brings-quality-choices-to-travelers": {
-            "title": "Megatrend For 2015: Natural Semantic Search Brings Quality Choices to Travelers...",
-            "snippet": "Semantic search is leading the charge towards seamless travel planning and has been a boon for the travel industry, especially for smaller companies whove set out to compete with the legacy search giants. Its been working too. According to...",
-            "date": "2015-01-30",
-            "categories": "travel,semantic-search",
-            "tags": "working,travel,natural,semantic,semantic_search,search,quality",
-            "recuweb_url": "http://en.recuweb.com/semantic-search/skift.com/2015/01/megatrend-for-2015-natural-semantic-search-brings-quality-choices-to-travelers",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=semantic%2Bsearch&format=RSS&cc=us",
-            "source_url": "http://skift.com/2015/01/30/megatrend-for-2015-natural-semantic-search-brings-quality-choices-to-travelers/"
         }
     }
 }
