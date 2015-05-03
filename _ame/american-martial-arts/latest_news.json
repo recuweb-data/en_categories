@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "american-martial-arts",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/american-martial-arts/",
@@ -11,34 +11,74 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/american-martial-arts/american-martial-arts/blogs.json"
     },
     "items": {
-        "rawstory.com/2015/04/albuquerque-police-seek-martial-arts-champ-jon-jones-over-hit": {
-            "title": "Albuquerque police seek martial arts champ Jon Jones over hit-and-run... - Raw Story...",
-            "snippet": "Raw StoryAlbuquerque police seek martial arts champ Jon Jones over hit-and-run...Raw StoryPolice in Albuquerque, New Mexico, want to question mixed martial arts star Jon Jones over his possible involvement in a hit-and-run accident early on Sunday...",
-            "date": "2015-04-27",
+        "blogs.wsj.com/2015/05/10-lessons-for-expats-from-the-fx-series-americans-wall-street": {
+            "title": "10 Lessons for Expats From the FX Series 'The Americans'- Wall Street Journal (blog)...",
+            "snippet": "Wall Street Journal (blog)10 Lessons for Expats From the FX Series 'The Americans'Wall Street Journal (blog)I lack similar martial arts training, but I have definitely developed a thicker skin from living overseas. You'll need this toughness to...",
+            "date": "2015-05-02",
             "categories": "arts",
-            "tags": "mixed,martial,arts,star",
-            "recuweb_url": "http://en.recuweb.com/arts/rawstory.com/2015/04/albuquerque-police-seek-martial-arts-champ-jon-jones-over-hit",
-            "resource_url": "http://news.google.com/?hl=en&q=american%2Bmartial%2Barts%2Bamerican%2Bmartial%2Barts&output=atom&nord=1",
-            "source_url": "http://rawstory.com/2015/04/albuquerque-police-seek-martial-arts-champ-jon-jones-over-hit-and-run-involving-pregnant-woman/"
+            "tags": "lack,series,americans,martial,arts",
+            "recuweb_url": "http://en.recuweb.com/arts/blogs.wsj.com/2015/05/10-lessons-for-expats-from-the-fx-series-americans-wall-street",
+            "resource_url": "http://news.google.com/?hl=en&q=american%2Bmartial%2Barts&output=atom&nord=1",
+            "source_url": "http://blogs.wsj.com/expat/2015/05/02/10-lessons-for-expats-from-the-fx-series-the-americans/"
         },
-        "sherdog.com/2015/04/sherdog-s-official-mixed-martial-arts-rankings": {
-            "title": "Sherdog's Official Mixed Martial Arts Rankings -...",
-            "snippet": "'s Official Mixed Martial Arts Johnson was a heavy favorite in his title defense against Kyoji Horiguchi, but no one could have predicted the ending to UFC 186. After four-plus rounds of dominating Horiguchi on the mat, 125-pound kingpin Johnson...",
+        "msnbc.com/2015/05/5-reasons-to-watch-the-floyd-mayweather-manny-pacquiao-fight-msnbc": {
+            "title": "5 reasons to watch the Floyd Mayweather-Manny Pacquiao fight - MSNBC...",
+            "snippet": "MSNBC5 reasons to watch the Floyd Mayweather-Manny Pacquiao fightMSNBCThe lack of marquee stars, coupled with the rise of mixed martial arts, has put a real damper on enthusiasm for the sweet science. It's hard to believe that a century ago boxing,...",
+            "date": "2015-05-02",
+            "categories": "boxing,science,stars,arts",
+            "tags": "hard,mixed,lack,martial,arts",
+            "recuweb_url": "http://en.recuweb.com/arts/msnbc.com/2015/05/5-reasons-to-watch-the-floyd-mayweather-manny-pacquiao-fight-msnbc",
+            "resource_url": "http://news.google.com/?hl=en&q=american%2Bmartial%2Barts&output=atom&nord=1",
+            "source_url": "http://msnbc.com/msnbc/5-reasons-watch-the-floyd-mayweather-manny-pacquiao-fight"
+        },
+        "hollywoodreporter.com/2015/05/rep-sheet-roundup-trevor-noah-signs-with-pmkbnc-hollywood-reporter": {
+            "title": "Rep Sheet Roundup: Trevor Noah Signs With PMKBNC - Hollywood Reporter...",
+            "snippet": "Hollywood ReporterRep Sheet Roundup: Trevor Noah Signs With PMKBNCHollywood ReporterIn addition to formidable martial arts skills (which she prominently displays on the show), Cheng also is fluent in Cantonese and Mandarin. After college she... Reed...",
+            "date": "2015-05-02",
+            "categories": "college,arts",
+            "tags": "hollywood,martial,arts",
+            "recuweb_url": "http://en.recuweb.com/arts/hollywoodreporter.com/2015/05/rep-sheet-roundup-trevor-noah-signs-with-pmkbnc-hollywood-reporter",
+            "resource_url": "http://news.google.com/?hl=en&q=american%2Bmartial%2Barts&output=atom&nord=1",
+            "source_url": "http://hollywoodreporter.com/news/rep-sheet-roundup-trevor-noah-792936"
+        },
+        "indiewire.com/2015/04/jackie-chan-on-why-hollywood-isn-t-producing-good-martial-arts": {
+            "title": "Jackie Chan on Why Hollywood Isn't Producing Good Martial Arts Films Anymore - Indie Wire...",
+            "snippet": "Indie WireJackie Chan on Why Hollywood Isn't Producing Good Martial Arts Films AnymoreIndie WireThe world's best known martial arts star spoke to press in Udine, Italy about his new film \"Dragon Blade\" and his wish to be the Asian Robert De Niro,...",
+            "date": "2015-04-30",
+            "categories": "martial-arts,arts,films",
+            "tags": "asian,star,martial,martial_arts,arts,hollywood,world",
+            "recuweb_url": "http://en.recuweb.com/films/indiewire.com/2015/04/jackie-chan-on-why-hollywood-isn-t-producing-good-martial-arts",
+            "resource_url": "http://news.google.com/?hl=en&q=american%2Bmartial%2Barts&output=atom&nord=1",
+            "source_url": "http://indiewire.com/article/jackie-chan-on-why-hollywood-isnt-producing-good-martial-arts-films-anymore-20150428"
+        },
+        "scnow.com/2015/04/the-karate-kid-eight-year-old-hammond-racking-up-martial-arts": {
+            "title": "The Karate Kid: Eight-year old Hammond racking up martial arts awards - SCNow...",
+            "snippet": "SCNowThe Karate Kid: Eight-year old Hammond racking up martial arts awardsSCNowHammond has competed in several regional PPPKF Circuit events of the years, winning the weapons division awards in Kata, weapons, and sparring. She is now competing in a...",
+            "date": "2015-04-30",
+            "categories": "events,karate,arts",
+            "tags": "sparring,karate,martial,arts",
+            "recuweb_url": "http://en.recuweb.com/arts/scnow.com/2015/04/the-karate-kid-eight-year-old-hammond-racking-up-martial-arts",
+            "resource_url": "http://news.google.com/?hl=en&q=american%2Bmartial%2Barts&output=atom&nord=1",
+            "source_url": "http://scnow.com/starandenterprise/news/article_492ea2cc-ee94-11e4-857b-7766118ff9d1.html"
+        },
+        "patch.com/2015/04/bethel-small-business-spotlight-karate-america-academy-of-martial-arts": {
+            "title": "Bethel Small Business Spotlight: Karate America - Bethel Academy of Martial Arts -...",
+            "snippet": "Small Business Spotlight: Karate America - Bethel Academy of Martial local business has a story worth sharing with the community. And that's the belief behind this exciting series to shine the spotlight on all our favorite local businesses, and to...",
             "date": "2015-04-27",
-            "categories": "mixed-martial-arts,martial-arts,arts",
-            "tags": "defense,mixed,mixed_martial,mixed_martial_arts,martial,martial_arts,arts",
-            "recuweb_url": "http://en.recuweb.com/arts/sherdog.com/2015/04/sherdog-s-official-mixed-martial-arts-rankings",
+            "categories": "belief,business,martial-arts,arts,academy,karate",
+            "tags": "series,martial,martial_arts,arts,academy,karate,america",
+            "recuweb_url": "http://en.recuweb.com/karate/patch.com/2015/04/bethel-small-business-spotlight-karate-america-academy-of-martial-arts",
             "resource_url": "http://news.google.com/?hl=en&q=american%2Bmartial%2Barts%2Bamerican%2Bmartial%2Barts&output=atom&nord=1",
-            "source_url": "http://sherdog.com/news/rankings/1/Sherdogs-Official-Mixed-Martial-Arts-Rankings-85289"
+            "source_url": "http://patch.com/connecticut/bethel/bethel-small-business-spotlight-karate-america-bethel-academy-martial-arts-0"
         },
         "dailyamerican.com/2015/04/miller-s-martial-arts-students-raise-1k-for-cancer-benefit-daily": {
             "title": "Miller's Martial Arts students raise 1K for cancer benefit - Daily American Online...",
             "snippet": "Daily American OnlineMiller's Martial Arts students raise 1K for cancer benefitDaily American OnlineStudents of Miller's Martial Arts, located along Scalp Avenue in Johnstown, participated in a change challenge, collecting 1, in loose change that...",
             "date": "2015-04-23",
             "categories": "cancer,students,martial-arts,arts,collecting",
-            "tags": "american,daily,students,raise,martial,martial_arts,arts",
+            "tags": "american,daily,raise,martial,martial_arts,arts",
             "recuweb_url": "http://en.recuweb.com/collecting/dailyamerican.com/2015/04/miller-s-martial-arts-students-raise-1k-for-cancer-benefit-daily",
-            "resource_url": "http://news.google.com/?hl=en&q=american%2Bmartial%2Barts%2Bamerican%2Bmartial%2Barts&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=american%2Bmartial%2Barts&output=atom&nord=1",
             "source_url": "http://dailyamerican.com/miller-s-martial-arts-students-raise-k-for-cancer-benefit/image_9806ff54-e956-11e4-9689-8358ca03c48d.html"
         },
         "abs-cbnnews.com/2015/04/balisong-book-writer-receives-award": {
@@ -68,48 +108,8 @@
             "categories": "culture,arts",
             "tags": "asian,american,daily,martial,arts",
             "recuweb_url": "http://en.recuweb.com/arts/iowastatedaily.com/2015/04/asian-culture-night-offers-chance-to-learn-martial-arts-origami-iowa",
-            "resource_url": "http://news.google.com/?hl=en&q=american%2Bmartial%2Barts%2Bamerican%2Bmartial%2Barts&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=american%2Bmartial%2Barts&output=atom&nord=1",
             "source_url": "http://iowastatedaily.com/news/student_life/article_3ab63ff0-e7cf-11e4-8a78-7347e1179d2f.html"
-        },
-        "stevenspointjournal.com/2015/04/martial-artists-train-in-advance-techniques-stevenspointjournal": {
-            "title": "Martial artists train in advance techniques - Stevenspointjournal...",
-            "snippet": "StevenspointjournalMartial artists train in advance techniquesStevenspointjournalThe seminar was attended by black belt students from University of Wisconsin-Stevens Point Taekwondo Club, Stevens Taekwondo Academy, American Taekwondo and Fitness of...",
-            "date": "2015-04-21",
-            "categories": "taekwondo,academy,students,university",
-            "tags": "american,taekwondo,academy,students,martial",
-            "recuweb_url": "http://en.recuweb.com/university/stevenspointjournal.com/2015/04/martial-artists-train-in-advance-techniques-stevenspointjournal",
-            "resource_url": "http://news.google.com/?hl=en&q=american%2Bmartial%2Barts%2Bamerican%2Bmartial%2Barts&output=atom&nord=1",
-            "source_url": "http://stevenspointjournal.com/story/life/2015/04/20/martial-artists-train-advance-techniques/26105569/"
-        },
-        "philstar.com/2015/04/another-hollywood-film-in-manila": {
-            "title": "Another Hollywood film in Manila...",
-            "snippet": "Directing Showdown in Manila is Fil-American martial arts actor Mark Dacascos with principal photography by Rudy Harbon. The international cast includes Dacascos, Cary-Hiroyuki Tagawa, Oliver Gruner, Casper Van Dien, Matthias Hues, Cynthia...",
-            "date": "2015-04-17",
-            "categories": "photography,arts",
-            "tags": "tagawa,american,martial,arts,actor,cary",
-            "recuweb_url": "http://en.recuweb.com/arts/philstar.com/2015/04/another-hollywood-film-in-manila",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=american%2Bmartial%2Barts&format=RSS&cc=us",
-            "source_url": "http://philstar.com/entertainment/2015/04/18/1445009/another-hollywood-film-manila"
-        },
-        "gazette.net/2015/04/martial-arts-master-gets-hall-of-fame-spot": {
-            "title": "Martial arts master gets hall of fame spot...",
-            "snippet": "Master Gracie Quinones of Swedesboro, N.J., commented, Sir, you more than deserve that honor. It honors me to have you as my American martial arts role model. God Bless you and the role model you have become. Jenkins reputation also has been...",
-            "date": "2015-04-17",
-            "categories": "honor,arts",
-            "tags": "reputation,role,role-model,model,god,god_bless,bless,honors,master,gracie,fame,fame-spot,spot,master-gets,gets,martial,arts,hall,american,jenkins",
-            "recuweb_url": "http://en.recuweb.com/arts/gazette.net/2015/04/martial-arts-master-gets-hall-of-fame-spot",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=american%2Bmartial%2Barts&format=RSS&cc=us",
-            "source_url": "http://gazette.net/article/20150417/NEWS/150419409/1103/Martial-arts-master-gets-hall-of-fame-spot&template=southernMaryland"
-        },
-        "somdnews.com/2015/04/martial-arts-master-gets-hall-of-fame-spot-so-md-news": {
-            "title": "Martial arts master gets hall of fame spot - So Md News...",
-            "snippet": "So Md NewsMartial arts master gets hall of fame spotSo Md NewsIt honors me to have you as my American martial arts role model. God Bless you and the role model you have become. Jenkins'reputation also has been noticed by local entities. In March,...",
-            "date": "2015-04-17",
-            "categories": "arts,honor",
-            "tags": "reputation,role,role-model,model,god,god_bless,bless,fame,fame-spot,spot,master,master-gets,gets,martial,arts,hall,honors,american,jenkins",
-            "recuweb_url": "http://en.recuweb.com/honor/somdnews.com/2015/04/martial-arts-master-gets-hall-of-fame-spot-so-md-news",
-            "resource_url": "http://news.google.com/?hl=en&q=american%2Bmartial%2Barts%2Bamerican%2Bmartial%2Barts&output=atom&nord=1",
-            "source_url": "http://somdnews.com/article/20150417/NEWS/150419409/1066/martial-arts-master-gets-hall-of-fame-spot&template=southernMaryland"
         }
     }
 }
