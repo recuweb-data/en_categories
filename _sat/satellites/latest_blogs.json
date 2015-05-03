@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "satellites",
         "language": "en",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/satellites/",
@@ -11,16 +11,60 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/satellites/satellites/blogs.json"
     },
     "items": {
-        "spacefellowship.com/2015/04/arianespace-launches-thor-7-and-sicral-2-satellites-international": {
-            "title": "Arianespace launches Thor 7 and Sicral 2 satellites International...",
-            "snippet": "A dual-payload success for Europe: Arianespace's Ariane 5 gives a lift to the THOR 7 and SICRAL 2 satellites. Arianespace extended Ariane 5's track record of success with another.",
-            "date": "2015-04-27",
-            "author_name": "Klaus Schmidt",
+        "loworbitsats.wordpress.com/2015/05/hello-world-unbeknownst-to-you-saith-the-low-orbiting-satellite": {
+            "title": "\"Hello world!\" Unbeknownst to you, saith to the Low Orbiting Satellite.",
+            "snippet": "There does not seem to be the multitude of blogs about the ever-growing number of Low Orbit Satellites orbiting us and watching our every move! (just kidding, if...",
+            "date": "2015-05-01",
+            "author_name": "LOSt",
             "categories": "satellites",
-            "tags": "track,success,lift,arianespace,launches,thor,sicral,satellites,europe,ariane",
-            "recuweb_url": "http://en.recuweb.com/satellites/spacefellowship.com/2015/04/arianespace-launches-thor-7-and-sicral-2-satellites-international",
+            "tags": "ing,orbit,satellites,number,satellite,world",
+            "recuweb_url": "http://en.recuweb.com/satellites/loworbitsats.wordpress.com/2015/05/hello-world-unbeknownst-to-you-saith-the-low-orbiting-satellite",
+            "resource_url": "http://en.search.wordpress.com/?q=satellites&f=feed&page=1",
+            "source_url": "http://loworbitsats.wordpress.com/2015/05/01/hello-world-unbeknownst-to-you-saith-to-the-low-orbiting-satellite/"
+        },
+        "ogj.com/2015/04/oil-production-starts-from-kizomba-satellites-phase-2-offshore": {
+            "title": "Oil production starts from Kizomba Satellites Phase 2 offshore...",
+            "snippet": "Esso Exploration Angola (Block 15) Ltd., a subsidiary of ExxonMobil Corp., has started oil production ahead of schedule at the Kizomba Satellites Phase 2 project, 150 km offshore Angola in 1350 m of water.",
+            "date": "2015-04-30",
+            "author_name": "unknown",
+            "categories": "production,exploration,satellites",
+            "tags": "offshore,started,oil,ahead,corp,exploration,satellites",
+            "recuweb_url": "http://en.recuweb.com/satellites/ogj.com/2015/04/oil-production-starts-from-kizomba-satellites-phase-2-offshore",
             "resource_url": "http://www.google.com/search?q=satellites%2Bsatellites&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://spacefellowship.com/news/art44261/arianespace-launches-thor-7-and-sicral-2-satellites.html"
+            "source_url": "http://ogj.com/articles/2015/04/oil-production-starts-from-kizomba-satellites-phase-2-offshore-angola.html"
+        },
+        "phys.org/2015/04/what-can-we-do-with-unwanted-satellites": {
+            "title": "What can we do with unwanted satellites? -...",
+            "snippet": "There are thousands of satellites in Earth orbit, of varying age and usefulness. At some point they reach the end of their lives, at which point they become floating junk. What do we do with them then?",
+            "date": "2015-04-30",
+            "author_name": "unknown",
+            "categories": "satellites,earth",
+            "tags": "satellites,earth,orbit",
+            "recuweb_url": "http://en.recuweb.com/earth/phys.org/2015/04/what-can-we-do-with-unwanted-satellites",
+            "resource_url": "http://www.google.com/search?q=satellites%2Bsatellites&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://phys.org/news/2015-04-unwanted-satellites.html"
+        },
+        "spaceflightnow.com/2015/04/photos-telecom-satellites-blast-off-from-the-jungle-spaceflight-now": {
+            "title": "Photos: Telecom satellites blast off from the jungle Spaceflight Now...",
+            "snippet": "Look back on Sunday's launch of an Ariane 5 rocket from Europe's jungle spaceport in French Guiana with two communications satellites for a commercial Norwegian telecom operator and Franco-Italian military authorities.",
+            "date": "2015-04-28",
+            "author_name": "Stephen Clark",
+            "categories": "satellites,spaceflight",
+            "tags": "operator,commercial,communications,guiana,off,satellites,spaceflight,sunday,launch,ariane,rocket,norwegian",
+            "recuweb_url": "http://en.recuweb.com/spaceflight/spaceflightnow.com/2015/04/photos-telecom-satellites-blast-off-from-the-jungle-spaceflight-now",
+            "resource_url": "http://www.google.com/search?q=satellites%2Bsatellites&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://spaceflightnow.com/2015/04/28/photos-telecom-satellites-blast-off-from-the-jungle/"
+        },
+        "spaceflightnow.com/2015/04/ariane-5-sends-thor-7-and-sicral-2-satellites-into-orbit": {
+            "title": "Ariane 5 sends Thor 7 and Sicral 2 satellites into orbit Spaceflight...",
+            "snippet": "Blasting into space atop an Ariane 5 launcher, two communications satellites started missions Sunday to beam broadband services to ships, airplanes and offshore oil rigs for a commercial Norwegian operator and relay...",
+            "date": "2015-04-26",
+            "author_name": "Stephen Clark",
+            "categories": "satellites,spaceflight",
+            "tags": "operator,offshore,oil,commercial,started,communications,ariane,thor,sicral,satellites,into,orbit,spaceflight,space,sunday,norwegian",
+            "recuweb_url": "http://en.recuweb.com/spaceflight/spaceflightnow.com/2015/04/ariane-5-sends-thor-7-and-sicral-2-satellites-into-orbit",
+            "resource_url": "http://www.google.com/search?q=satellites%2Bsatellites&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://spaceflightnow.com/2015/04/26/ariane-5-sends-thor-7-and-sicral-2-satellites-into-orbit/"
         },
         "spaceflightnow.com/2015/04/live-coverage-two-satellites-lift-off-aboard-ariane-5-spaceflight-now": {
             "title": "Live coverage: Two satellites lift off aboard Ariane 5 Spaceflight Now...",
@@ -28,7 +72,7 @@
             "date": "2015-04-24",
             "author_name": "Stephen Clark",
             "categories": "satellites,spaceflight,twitter",
-            "tags": "page,coverage,lift,lift-off,off,aboard,satellites,ariane,spaceflight,launch,rocket,thor,sicral,communications,twitter",
+            "tags": "coverage,off,satellites,ariane,spaceflight,launch,rocket,thor,sicral,communications",
             "recuweb_url": "http://en.recuweb.com/twitter/spaceflightnow.com/2015/04/live-coverage-two-satellites-lift-off-aboard-ariane-5-spaceflight-now",
             "resource_url": "http://www.google.com/search?q=satellites%2Bsatellites&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://spaceflightnow.com/2015/04/24/va222-mission-status-center/"
@@ -49,7 +93,7 @@
             "date": "2015-04-21",
             "author_name": "news@military-inc.com(Brendan McGarry)",
             "categories": "spacecraft,satellites",
-            "tags": "track,spacecraft,space,program,part,general,images,satellites,launched",
+            "tags": "corp,spacecraft,built,space,program,part,satellites,launched",
             "recuweb_url": "http://en.recuweb.com/satellites/defensetech.org/2015/04/general-touts-images-from-neighborhood-watch-satellites",
             "resource_url": "http://www.google.com/search?q=satellites%2Bsatellites&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://defensetech.org/2015/04/21/general-touts-images-from-neighborhood-watch-satellites/"
@@ -60,7 +104,7 @@
             "date": "2015-04-21",
             "author_name": "Stephen Clark",
             "categories": "spacecraft,satellites,credit,earth",
-            "tags": "spacecraft,next,concept,satellites,program,artist,satellite,launched,nasa,launch,earth",
+            "tags": "spacecraft,concept,long,satellites,planned,term,program,artist,satellite,launched,nasa,launch,next,earth,ing",
             "recuweb_url": "http://en.recuweb.com/earth/spaceflightnow.com/2015/04/multiple-satellites-planned-in-long-term-landsat-program",
             "resource_url": "http://www.google.com/search?q=satellites%2Bsatellites&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://spaceflightnow.com/2015/04/21/multiple-satellites-planned-in-long-term-landsat-program/"
@@ -71,54 +115,10 @@
             "date": "2015-04-21",
             "author_name": "(rebeccalately)",
             "categories": "love,ebook",
-            "tags": "next,purchased,book,satellite,trilogy,part",
+            "tags": "recently,purchased,book,satellite,trilogy,part,however,next",
             "recuweb_url": "http://en.recuweb.com/ebook/rebeccalately.com/2015/04/rebecca-reads-the-satellite-trilogy-part-1",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=satellites%2Bsatellites&rss=1&lng=en",
             "source_url": "http://rebeccalately.com/2015/04/rebecca-reads-satellite-trilogy-part-1.html"
-        },
-        "nasaspaceflight.com/2015/04/satellites-supply-line-sending-spacecraft-to-kourou": {
-            "title": "Satellites Supply Line Sending spacecraft to Kourou...",
-            "snippet": "Two more satellites destined for a ride into space have completed assembly ahead of being lofted by Arianespace rockets. Europe's Sentinel-2A was transported by truck from IABG's facilities to Munich airport for a Antonov...",
-            "date": "2015-04-20",
-            "author_name": "Chris Bergin",
-            "categories": "spacecraft,satellites",
-            "tags": "spacecraft,satellites,kourou,into,space,arianespace,europe",
-            "recuweb_url": "http://en.recuweb.com/satellites/nasaspaceflight.com/2015/04/satellites-supply-line-sending-spacecraft-to-kourou",
-            "resource_url": "http://www.google.com/search?q=satellites%2Bsatellites&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://nasaspaceflight.com/2015/04/satellite-line-spacecraft-to-kourou/"
-        },
-        "arrl.org/2015/04/fox-1c-and-1d-satellites-to-include-l-band-uplink-1e": {
-            "title": "Fox-1C and 1D Satellites to Include L-Band Uplink; Fox-1E to Have...",
-            "snippet": "AMSAT Vice President-Engineering Jerry Buxton, N0JY, has announced plans to incorporate an L-band receiver in the Fox-1C and Fox-1D satellites. This will allow ground controllers to select the normal U/V configuration or...",
-            "date": "2015-04-20",
-            "author_name": "unknown",
-            "categories": "engineering,satellites",
-            "tags": "ground,announced,plans,satellites",
-            "recuweb_url": "http://en.recuweb.com/satellites/arrl.org/2015/04/fox-1c-and-1d-satellites-to-include-l-band-uplink-1e",
-            "resource_url": "http://www.google.com/search?q=satellites%2Bsatellites&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://arrl.org/news/fox-1c-and-1d-satellites-to-include-l-band-uplink-fox-1e-to-have-linear-transponder"
-        },
-        "engadget.com/2015/04/here-s-the-next-rocket-that-will-carry-us-satellites-into": {
-            "title": "Here's the next rocket that will carry US satellites into space...",
-            "snippet": "That's Vulcan, ULA's newly unveiled launch system for satellites and similar payloads. The two-stage vehicle is designed to be the \"most cost-efficient\" rocket of its kind, helped in no small part by new recovery tech (Sensible...",
-            "date": "2015-04-20",
-            "author_name": "Jon Fingas",
-            "categories": "satellites",
-            "tags": "small,part,cost,next,here,rocket,satellites,into,space,launch",
-            "recuweb_url": "http://en.recuweb.com/satellites/engadget.com/2015/04/here-s-the-next-rocket-that-will-carry-us-satellites-into",
-            "resource_url": "http://www.google.com/search?q=satellites%2Bsatellites&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://engadget.com/2015/04/20/united-launch-alliance-vulcan-rocket/"
-        },
-        "planet.com/2015/04/blast-off-planet-labs-satellites-successfully-launched-aboard": {
-            "title": "Blast Off! Planet Labs Satellites Successfully Launched Aboard...",
-            "snippet": "And we have lift off! Today at 4:10pm EDT, fourteen Dove satellites (Flock 1e) were launched on the SpaceX Falcon 9 rocket from Cape Canaveral. This...",
-            "date": "2015-04-15",
-            "author_name": "Rachel Holm",
-            "categories": "satellites",
-            "tags": "spacex,falcon,lift,lift-off,off,launched,aboard,satellites,success,edt,rocket",
-            "recuweb_url": "http://en.recuweb.com/satellites/planet.com/2015/04/blast-off-planet-labs-satellites-successfully-launched-aboard",
-            "resource_url": "http://www.google.com/search?q=satellites%2Bsatellites&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://planet.com/pulse/blast-off-planet-labs-satellites-successfully-launched-aboard-dragon-capsule/"
         }
     }
 }
