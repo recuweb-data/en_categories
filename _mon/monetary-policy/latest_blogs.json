@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "monetary-policy",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/monetary-policy/",
@@ -11,38 +11,38 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/monetary-policy/monetary-policy/blogs.json"
     },
     "items": {
+        "centralbanknews.info/2015/05/this-week-in-monetary-policy-australia-georgia-poland-albania": {
+            "title": "This week in monetary policy: Australia, Georgia, Poland, Albania...",
+            "snippet": "This week, May 4 through May 9, central banks from eight countries or jurisdictions are scheduled to decide on monetary policy: Australia, Georgia, Poland, Albania, Romania, the Czech Republic, Malaysia and Norway.",
+            "date": "2015-05-03",
+            "author_name": "centralbanknews.info",
+            "categories": "policy",
+            "tags": "republic,monetary,policy,central,banks",
+            "recuweb_url": "http://en.recuweb.com/policy/centralbanknews.info/2015/05/this-week-in-monetary-policy-australia-georgia-poland-albania",
+            "resource_url": "http://www.google.com/search?q=monetary%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://centralbanknews.info/2015/05/this-week-in-monetary-policy-australia.html"
+        },
         "blogs.reuters.com/2015/05/monetary-policy-new-t-shirt-needed-reuters": {
             "title": "Monetary policy: New T-shirt needed? - Reuters...",
             "snippet": "San Francisco Fed President John Williams believes deeply that monetary policy is data-dependent, so much so that he has printed the mantra on T-shirts that he is giving away coast to coast. On Friday at Chapman University...",
             "date": "2015-05-01",
             "author_name": "Ann Saphir",
             "categories": "university,policy",
-            "tags": "data,san,francisco,fed,president,john,williams,monetary,policy,reuters,friday",
+            "tags": "shirt,printed,data,san,francisco,fed,president,john,williams,monetary,policy,reuters,dependent,friday",
             "recuweb_url": "http://en.recuweb.com/policy/blogs.reuters.com/2015/05/monetary-policy-new-t-shirt-needed-reuters",
-            "resource_url": "http://www.google.com/search?q=monetary%2Bpolicy%2Bmonetary%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=monetary%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.reuters.com/macroscope/2015/05/01/monetary-policy-new-t-shirt-needed/"
         },
-        "ogbloggyjohnson.blogspot.com/2015/04/federal-reserve-blog": {
-            "title": "Federal Reserve Blog...",
-            "snippet": "The Federal Reserve is a bad thing. Here is why: The Federal Reserve is a central bank that implements monetary policy. Monetary policy is how the Federal Reaerve creates and destroys money and the rate at which it is put into the system. The...",
+        "zerohedge.com/2015/04/25-years-of-us-monetary-policy-explained-in-1-cartoon-zero": {
+            "title": "25 Years Of US Monetary Policy Explained (In 1 Cartoon) Zero...",
+            "snippet": "While Bernanke claims that \"Fed actions didn't favor Wall Street over Main Street,\" we suspect the following chart clarifies the effect of his and his predecessors actions on the average American... h/t FedPorn.",
             "date": "2015-04-30",
-            "author_name": "(Cody Boehner)",
-            "categories": "policy",
-            "tags": "money,rate,federal,federal_reserve,reserve,central,bank,monetary,policy",
-            "recuweb_url": "http://en.recuweb.com/policy/ogbloggyjohnson.blogspot.com/2015/04/federal-reserve-blog",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=monetary%2Bpolicy%2Bmonetary%2Bpolicy&rss=1&lng=en",
-            "source_url": "http://ogbloggyjohnson.blogspot.com/2015/04/federal-reserve-blog.html"
-        },
-        "bis.org/2015/04/prolonged-reserves-accumulation-credit-booms-asset-prices": {
-            "title": "Prolonged reserves accumulation, credit booms, asset prices and...",
-            "snippet": "Prolonged reserves accumulation, credit booms, asset prices and monetary policy in Asia... Policy implications are also drawn. JEL classification: F41, F32... Keywords: foreign exchange reserves accumulation, monetary and financial stability...",
-            "date": "2015-04-30",
-            "author_name": "unknown",
-            "categories": "credit,policy",
-            "tags": "financial,asset,asset-prices,prices,monetary,policy",
-            "recuweb_url": "http://en.recuweb.com/policy/bis.org/2015/04/prolonged-reserves-accumulation-credit-booms-asset-prices",
-            "resource_url": "http://www.google.com/search?q=monetary%2Bpolicy%2Bmonetary%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bis.org/publ/work500.htm"
+            "author_name": "Tyler Durden",
+            "categories": "monetary-policy,policy",
+            "tags": "ing,fed,monetary,monetary_policy,policy,zero,bernanke",
+            "recuweb_url": "http://en.recuweb.com/policy/zerohedge.com/2015/04/25-years-of-us-monetary-policy-explained-in-1-cartoon-zero",
+            "resource_url": "http://www.google.com/search?q=monetary%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://zerohedge.com/news/2015-04-30/25-years-us-monetary-policy-explained-1-cartoon"
         },
         "zerohedge.com/2015/04/the-third-and-final-transformation-of-monetary-policy-zero-hedge": {
             "title": "The Third And Final Transformation Of Monetary Policy Zero Hedge...",
@@ -50,65 +50,32 @@
             "date": "2015-04-29",
             "author_name": "Tyler Durden",
             "categories": "law,monetary-policy,policy",
-            "tags": "monetary,monetary_policy,policy,john,zero,zero_hedge,hedge,submitted,via",
+            "tags": "monetary,monetary_policy,policy,john,zero,thoughts",
             "recuweb_url": "http://en.recuweb.com/policy/zerohedge.com/2015/04/the-third-and-final-transformation-of-monetary-policy-zero-hedge",
-            "resource_url": "http://www.google.com/search?q=monetary%2Bpolicy%2Bmonetary%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=monetary%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://zerohedge.com/news/2015-04-29/third-and-final-transformation-monetary-policy"
         },
-        "zerohedge.com/2015/04/japan-proves-monetary-policy-is-nothing-but-destructive-zero-hedge": {
-            "title": "Japan Proves Monetary Policy Is Nothing But Destructive Zero Hedge...",
-            "snippet": "Submitted by Jeffrey Snider via Alhambra Investment Partners, Japan continues to provide the best refutation of monetary policy as anything other than destructive. With its economy stripped bare of dynamic essentials after...",
+        "blogs.reuters.com/2015/04/data-isn-t-as-objective-the-fed-might-have-you-believe": {
+            "title": "Data isn't as objective as the Fed might have you believe - Reuters...",
+            "snippet": "Fed officials say they will be data-dependent when it comes to making monetary policy. San Francisco Fed President John Williams feels so strongly about it, he's even printed up a T-shirt to get that message across. But truth...",
             "date": "2015-04-28",
-            "author_name": "Tyler Durden",
-            "categories": "monetary-policy,policy,economy",
-            "tags": "provide,japan,monetary,monetary_policy,policy,zero,zero_hedge,hedge,submitted,via,economy",
-            "recuweb_url": "http://en.recuweb.com/economy/zerohedge.com/2015/04/japan-proves-monetary-policy-is-nothing-but-destructive-zero-hedge",
-            "resource_url": "http://www.google.com/search?q=monetary%2Bpolicy%2Bmonetary%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://zerohedge.com/news/2015-04-28/japan-proves-monetary-policy-nothing-destructive"
-        },
-        "zerohedge.com/2015/04/boston-fed-admits-there-is-no-exit-suggests-qe-become-normal": {
-            "title": "Boston Fed Admits There Is No Exit, Suggests QE Become \"Normal...",
-            "snippet": "With this primary monetary policy tool therefore rendered ineffective, in November 2008 the Federal Reserve started to use its balance sheet as an alternative policy tool when it began the large-scale asset purchases.",
-            "date": "2015-04-27",
-            "author_name": "Tyler Durden",
-            "categories": "balance-sheet,policy",
-            "tags": "asset,tool,federal,federal_reserve,reserve,fed,exit,monetary,policy",
-            "recuweb_url": "http://en.recuweb.com/policy/zerohedge.com/2015/04/boston-fed-admits-there-is-no-exit-suggests-qe-become-normal",
-            "resource_url": "http://www.google.com/search?q=monetary%2Bpolicy%2Bmonetary%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://zerohedge.com/news/2015-04-26/boston-fed-admits-there-no-exit-suggests-qe-become-normal-monetary-policy"
-        },
-        "investopedia.com/2015/04/how-is-free-enterprise-affected-by-monetary-policy-investopedia": {
-            "title": "How is free enterprise affected by monetary policy? - Investopedia...",
-            "snippet": "Monetary policy is concerned with the quality, quantity and function of money instruments in an economy. Perhaps the best way to think of it is as a highly regulated market for a specific asset: money. Government monetary policies affect nearly...",
-            "date": "2015-04-27",
-            "author_name": "Investopedia",
-            "categories": "policy,economy",
-            "tags": "asset,money,free,monetary,policy,economy,market,government",
-            "recuweb_url": "http://en.recuweb.com/economy/investopedia.com/2015/04/how-is-free-enterprise-affected-by-monetary-policy-investopedia",
-            "resource_url": "http://www.google.com/search?q=monetary%2Bpolicy%2Bmonetary%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://investopedia.com/ask/answers/042715/how-free-enterprise-affected-monetary-policy.asp"
-        },
-        "businessinsider.com/2015/04/it-s-still-unclear-how-much-good-easy-monetary-policy-is": {
-            "title": "It's still unclear how much good easy monetary policy is doing for the...",
-            "snippet": "LONDON (Reuters) - Most central banks have been easing policy since the start of the year and are set to do more, but it still isn't clear whether that new activism, which has pushed stock markets to record highs, will help the...",
-            "date": "2015-04-26",
-            "author_name": "By Ross Finley",
-            "categories": "markets,activism,policy",
-            "tags": "markets,whether,banks,easing,monetary,policy,reuters,central",
-            "recuweb_url": "http://en.recuweb.com/policy/businessinsider.com/2015/04/it-s-still-unclear-how-much-good-easy-monetary-policy-is",
-            "resource_url": "http://www.google.com/search?q=monetary%2Bpolicy%2Bmonetary%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://businessinsider.com/r-more-central-banks-meet-but-ability-to-pilot-economies-in-doubt-2015-4"
-        },
-        "bradford-delong.com/2015/04/weekend-reading-ben-bernanke-monetary-policy-in-the-future": {
-            "title": "Weekend Reading: Ben Bernanke: Monetary Policy in the Future...",
-            "snippet": "Ben Bernanke: Monetary Policy in the Future: \"The FOMC has given the public extensive guidance... setting a symmetrical inflation target of 2 percent and reporting each quarter FOMC participants'estimates of the...",
-            "date": "2015-04-25",
-            "author_name": "J. Bradford DeLong",
-            "categories": "monetary-policy,policy,inflation",
-            "tags": "setting,monetary,monetary_policy,policy,ben,ben_bernanke,bernanke,inflation",
-            "recuweb_url": "http://en.recuweb.com/inflation/bradford-delong.com/2015/04/weekend-reading-ben-bernanke-monetary-policy-in-the-future",
+            "author_name": "Ann Saphir",
+            "categories": "policy",
+            "tags": "shirt,message,even,printed,president,john,williams,san,francisco,dependent,officials,data,fed,reuters,monetary,policy",
+            "recuweb_url": "http://en.recuweb.com/policy/blogs.reuters.com/2015/04/data-isn-t-as-objective-the-fed-might-have-you-believe",
             "resource_url": "http://www.google.com/search?q=monetary%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bradford-delong.com/2015/04/weekend-reading-ben-bernanke-monetary-policy-in-the-future.html"
+            "source_url": "http://blogs.reuters.com/macroscope/2015/04/28/fed-data/"
+        },
+        "bis.org/2015/04/dimitar-bogov-addressing-structural-rigidities-in-view-of-monetary": {
+            "title": "Dimitar Bogov: Addressing structural rigidities in view of monetary...",
+            "snippet": "Address by Mr Dimitar Bogov, Governor of the National Bank of the Republic of Macedonia, at the 4th Research Conference \"Addressing structural rigidities in view of monetary policy transmission effectiveness\", Skopje,...",
+            "date": "2015-04-24",
+            "author_name": "unknown",
+            "categories": "policy",
+            "tags": "transmission,structural,research,bank,monetary,governor,republic,policy",
+            "recuweb_url": "http://en.recuweb.com/policy/bis.org/2015/04/dimitar-bogov-addressing-structural-rigidities-in-view-of-monetary",
+            "resource_url": "http://www.google.com/search?q=monetary%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://bis.org/review/r150429c.htm?ql=1"
         },
         "economistsview.typepad.com/2015/04/economist-s-view-labor-market-slack-and-monetary-policy": {
             "title": "Economist's View: 'Labor Market Slack and Monetary Policy'...",
@@ -116,10 +83,43 @@
             "date": "2015-04-20",
             "author_name": "Mark Thoma",
             "categories": "monetary-policy,policy",
-            "tags": "monetary,monetary_policy,policy,market,fed,david",
+            "tags": "recession,recovery,paper,monetary,monetary_policy,policy,labor,market,let,fed,david",
             "recuweb_url": "http://en.recuweb.com/policy/economistsview.typepad.com/2015/04/economist-s-view-labor-market-slack-and-monetary-policy",
-            "resource_url": "http://www.google.com/search?q=monetary%2Bpolicy%2Bmonetary%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=monetary%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://economistsview.typepad.com/economistsview/2015/04/labor-market-slack-and-monetary-policy.html"
+        },
+        "bis.org/2015/04/daniel-mminele-the-monetary-policy-outlook-for-south-africa": {
+            "title": "Daniel Mminele: The monetary policy outlook for South Africa...",
+            "snippet": "Let me start by thanking J P Morgan for the opportunity to share some thoughts on South Africa's monetary policy outlook. As you are aware, heightened uncertainty is one of the defining characteristics of the monetary policy...",
+            "date": "2015-04-19",
+            "author_name": "unknown",
+            "categories": "policy",
+            "tags": "thoughts,south,monetary,policy,let",
+            "recuweb_url": "http://en.recuweb.com/policy/bis.org/2015/04/daniel-mminele-the-monetary-policy-outlook-for-south-africa",
+            "resource_url": "http://www.google.com/search?q=monetary%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://bis.org/review/r150429e.htm?ql=1"
+        },
+        "economicsfinanceblog.wordpress.com/2015/04/unemployment-and-monetary-policy-understanding-the-relationship": {
+            "title": "Unemployment and Monetary Policy: Understanding the Relationship...",
+            "snippet": "By Michael Acampora Following the Great Recession various measures of unemployment are sending different signals about the labor market, particularly if the labor market is impacted by cyclical weakness...",
+            "date": "2015-04-17",
+            "author_name": "ecofi",
+            "categories": "unemployment,monetary-policy,policy",
+            "tags": "labor,recession,ing,monetary,monetary_policy,policy,market",
+            "recuweb_url": "http://en.recuweb.com/policy/economicsfinanceblog.wordpress.com/2015/04/unemployment-and-monetary-policy-understanding-the-relationship",
+            "resource_url": "http://en.search.wordpress.com/?q=monetary%2Bpolicy&f=feed&page=1",
+            "source_url": "http://economicsfinanceblog.wordpress.com/2015/04/16/unemployment-and-monetary-policy-understanding-the-relationship/"
+        },
+        "blogs.wsj.com/2015/04/ecb-constancio-eurozone-monetary-policy-needs-to-stay": {
+            "title": "ECB Constancio: Eurozone Monetary Policy Needs to Stay...",
+            "snippet": "Vitor Constancio, vice president of the European Central Bank, said Thursday that economic recovery in Europe remains \"gradual and moderate,\" underscoring the need for loose monetary policy in the eurozone for the...",
+            "date": "2015-04-16",
+            "author_name": "Harriet Torry",
+            "categories": "monetary-policy,policy",
+            "tags": "remains,recovery,central,central_bank,bank,president,monetary,monetary_policy,policy,said,economic",
+            "recuweb_url": "http://en.recuweb.com/policy/blogs.wsj.com/2015/04/ecb-constancio-eurozone-monetary-policy-needs-to-stay",
+            "resource_url": "http://www.google.com/search?q=monetary%2Bpolicy&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.wsj.com/economics/2015/04/16/ecb-constancio-eurozone-monetary-policy-needs-to-stay-accommodative/"
         }
     }
 }
