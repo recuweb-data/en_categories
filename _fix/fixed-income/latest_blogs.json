@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "fixed-income",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/fixed-income/",
@@ -11,37 +11,47 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/fixed-income/fixed-income/blogs.json"
     },
     "items": {
-        "seekingalpha.com/2015/05/q1-2015-401-k-seeking-alpha": {
-            "title": "Q1 2015 401(k) Seeking Alpha...",
-            "snippet": "For the first quarter of 2015, the Navigator Fixed Income portfolio lost% (net of fees) compared to a% gain for the Barclay's Capital Intermediate.",
-            "date": "2015-05-01",
-            "author_name": "SeekingAlpha.com",
-            "categories": "fixed-income",
-            "tags": "capital,net,fixed,fixed_income,income,seeking,seeking_alpha,alpha,portfolio",
-            "recuweb_url": "http://en.recuweb.com/fixed-income/seekingalpha.com/2015/05/q1-2015-401-k-seeking-alpha",
-            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bfixed%2Bincome&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://seekingalpha.com/article/3127136-q1-2015-401-k"
+        "automatedtrader.net/2015/04/fixed-income-leaders-summit-2015-survey-says-radical-change": {
+            "title": "Fixed Income Leaders Summit 2015: Survey says radical change...",
+            "snippet": "Fixed Income Leaders surveys over 50 senior fixed income buy side traders, to offer an industry benchmark around key challenges: regulation; liquidity and technology.",
+            "date": "2015-04-30",
+            "author_name": "unknown",
+            "categories": "technology,fixed-income",
+            "tags": "liquidity,fixed,fixed_income,income,leaders,senior",
+            "recuweb_url": "http://en.recuweb.com/fixed-income/automatedtrader.net/2015/04/fixed-income-leaders-summit-2015-survey-says-radical-change",
+            "resource_url": "http://www.google.com/search?q=fixed%2Bincome&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://automatedtrader.net/news/at/153708/fixed-income-leaders-summit-2015-survey-says-radical-change"
+        },
+        "fool.ca/2015/04/3-dividend-stocks-i-d-buy-with-an-extra-10-000": {
+            "title": "3 Dividend Stocks I'd Buy With an Extra 10,000 The Motley Fool...",
+            "snippet": "The idea is that even though fixed-income securities are taxed at a higher rate than stocks, low bond yields mean you're not saving that much money from the taxman by holding them in registered accounts. In fact, you could...",
+            "date": "2015-04-29",
+            "author_name": "Robert Baillieul",
+            "tags": "saving,money,bond,taxed,taxed-at-higher,higher,motley,motley_fool,fool,dividend,stocks,fixed,income,securities,rate",
+            "recuweb_url": "http://en.recuweb.com/fool.ca/2015/04/3-dividend-stocks-i-d-buy-with-an-extra-10-000",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bfixed%2Bincome&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://fool.ca/2015/04/29/3-dividend-stocks-id-buy-with-an-extra-10000/"
+        },
+        "globenewswire.com/2015/04/sprott-adds-fixed-income-specialist-mark-wisniewski": {
+            "title": "Sprott Adds Fixed Income Specialist Mark Wisniewski...",
+            "snippet": "TORONTO, April 29, 2015 (GLOBE NEWSWIRE) -- Sprott Asset Management LP (\"Sprott\") is pleased to announce that Mark Wisniewski has joined the firm as Senior Portfolio Manager. Mr. Wisniewski is a fixed income...",
+            "date": "2015-04-29",
+            "author_name": "unknown",
+            "categories": "asset-management,management,fixed-income",
+            "tags": "senior,portfolio,manager,asset,asset_management,management,fixed,fixed_income,income",
+            "recuweb_url": "http://en.recuweb.com/fixed-income/globenewswire.com/2015/04/sprott-adds-fixed-income-specialist-mark-wisniewski",
+            "resource_url": "http://www.google.com/search?q=fixed%2Bincome&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://globenewswire.com/news-release/2015/04/29/730057/10131463/en/Sprott-Adds-Fixed-Income-Specialist-Mark-Wisniewski.html"
         },
         "etftrends.com/2015/04/aggregate-bond-etfs-to-establish-a-fixed-income-portfolio-s-core": {
             "title": "Aggregate Bond ETFs to Establish a Fixed-Income Portfolio's Core...",
             "snippet": "Investors who want to build a fixed-income portfolio can lay a solid core foundation with a high-quality and broad mix of debt assets through an aggregate bond index-based exchange traded funds. For example, the iShares...",
             "date": "2015-04-27",
             "author_name": "Tom Lydon",
-            "tags": "exchange,funds,assets,bond,lay,income,income_portfolio,portfolio,etfs,fixed,investors,high,debt",
+            "tags": "exchange,funds,assets,bond,lay,income,income_portfolio,portfolio,etfs,fixed,high,debt",
             "recuweb_url": "http://en.recuweb.com/etftrends.com/2015/04/aggregate-bond-etfs-to-establish-a-fixed-income-portfolio-s-core",
-            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bfixed%2Bincome&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://etftrends.com/2015/04/aggregate-bond-etfs-to-establish-a-fixed-income-portfolios-core/"
-        },
-        "canadiansecuritieslaw.com/2015/04/osc-report-and-staff-notice-on-canadian-fixed-income-market": {
-            "title": "OSC Report and Staff Notice on Canadian Fixed Income Market...",
-            "snippet": "Simon Romano - On April 23, 2015, the Ontario Securities Commission (OSC) released its report on the Canadian fixed income market and published OSC St.",
-            "date": "2015-04-27",
-            "author_name": "Stikeman Elliott LLP",
-            "categories": "fixed-income,fixed-income-market",
-            "tags": "report,securities,fixed,fixed_income,income,market",
-            "recuweb_url": "http://en.recuweb.com/fixed-income-market/canadiansecuritieslaw.com/2015/04/osc-report-and-staff-notice-on-canadian-fixed-income-market",
             "resource_url": "http://www.google.com/search?q=fixed%2Bincome&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://canadiansecuritieslaw.com/2015/04/articles/continuous-timely-disclosure/osc-report-and-staff-notice-on-canadian-fixed-income-market-released-today/"
+            "source_url": "http://etftrends.com/2015/04/aggregate-bond-etfs-to-establish-a-fixed-income-portfolios-core/"
         },
         "investopedia.com/2015/04/fixed-income-etfs-emerging-markets-local-debt-pfem": {
             "title": "Fixed Income ETFs: Emerging Markets Local Debt (PFEM)...",
@@ -49,9 +59,9 @@
             "date": "2015-04-24",
             "author_name": "Dan Moskowitz",
             "categories": "markets,fixed-income",
-            "tags": "trading,markets,debt,fixed,fixed_income,income,income_etfs,etfs,etf",
+            "tags": "trading,fundamental,markets,debt,fixed,fixed_income,income,etfs",
             "recuweb_url": "http://en.recuweb.com/fixed-income/investopedia.com/2015/04/fixed-income-etfs-emerging-markets-local-debt-pfem",
-            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bfixed%2Bincome&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=fixed%2Bincome&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://investopedia.com/articles/investing/042415/fixed-income-etfs-emerging-markets-local-debt.asp"
         },
         "seekingalpha.com/2015/04/citigroup-s-c-q1-2015-results-fixed-income-investor-review": {
@@ -60,42 +70,41 @@
             "date": "2015-04-24",
             "author_name": "SeekingAlpha.com",
             "categories": "fixed-income",
-            "tags": "fixed,fixed_income,income,investor,head",
+            "tags": "fixed,fixed_income,fixed_income_investor,income,income_investor,investor,head",
             "recuweb_url": "http://en.recuweb.com/fixed-income/seekingalpha.com/2015/04/citigroup-s-c-q1-2015-results-fixed-income-investor-review",
-            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bfixed%2Bincome&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=fixed%2Bincome&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://seekingalpha.com/article/3097916-citigroups-c-q1-2015-results-fixed-income-investor-review-transcript"
         },
-        "etftrends.com/2015/04/fixed-income-etfs-that-beat-interest-rate-risk-etf-trends": {
-            "title": "Fixed-Income ETFs That Beat Interest Rate Risk ETF Trends...",
-            "snippet": "Ahead of the Federal Reserve interest rate hike, fixed-income investors are beginning to think about ways to position their portfolios. One way to help protect a portfolio from rate risks is through interest-rate-hedged exchange...",
+        "fool.ca/2015/04/attention-savers-5-stocks-that-belong-in-your-tfsa-the-motley": {
+            "title": "Attention Savers: 5 Stocks That Belong in Your TFSA The Motley...",
+            "snippet": "For those able to contribute the maximum, the new limits would create additional tax savings of about 112 at the top marginal rate this year, assuming the money is invested in a fixed-income security earning 5% per annum.",
             "date": "2015-04-23",
-            "author_name": "Max Chen",
-            "categories": "interest-rate-risk",
-            "tags": "exchange,rate,risks,risk,interest,way,protect,investors,beginning,portfolios,portfolio,income,income_etfs,etfs,etf,fixed",
-            "recuweb_url": "http://en.recuweb.com/interest-rate-risk/etftrends.com/2015/04/fixed-income-etfs-that-beat-interest-rate-risk-etf-trends",
-            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bfixed%2Bincome&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://etftrends.com/2015/04/fixed-income-etfs-that-beat-interest-rate-risk/"
+            "author_name": "Robert Baillieul",
+            "tags": "money,tfsa,motley,stocks,rate,fixed,income",
+            "recuweb_url": "http://en.recuweb.com/fool.ca/2015/04/attention-savers-5-stocks-that-belong-in-your-tfsa-the-motley",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bfixed%2Bincome&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://fool.ca/2015/04/23/attention-savers-5-stocks-that-belong-in-your-tfsa/"
+        },
+        "fool.ca/2015/04/5-tfsa-mistakes-you-don-t-know-re-making-the-motley": {
+            "title": "5 TFSA Mistakes You Don't Know You're Making The Motley Fool...",
+            "snippet": "Financial experts will argue that you should always keep your fixed-income investments inside your TFSA. After all, because interest is taxed at a higher rate than dividends and capital gains, it follows that fixed-income...",
+            "date": "2015-04-22",
+            "author_name": "Robert Baillieul",
+            "categories": "dividends",
+            "tags": "interest,taxed,taxed-at-higher,higher,investments,experts,motley,motley_fool,fool,tfsa,financial,fixed,income,rate,capital",
+            "recuweb_url": "http://en.recuweb.com/dividends/fool.ca/2015/04/5-tfsa-mistakes-you-don-t-know-re-making-the-motley",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bfixed%2Bincome&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://fool.ca/2015/04/22/5-tfsa-mistakes-you-dont-know-youre-making/"
         },
         "lindahobbs81.wordpress.com/2015/04/jpmorgan-profit-rises-as-fixed-income-trading-rebounds": {
             "title": "JPMorgan profit rises as fixed-income trading rebounds...",
             "snippet": "(Reuters) - JPMorgan Chase & Co, the biggest U.S. bank by assets, reported a better-than-expected quarterly profit after a decision by the Swiss central bank to remove a...",
             "date": "2015-04-15",
             "author_name": "lindahobbs81",
-            "tags": "bank,quarterly,quarterly-profit,profit,reported,bank-by-assets,assets,chase,trading,trading-rebounds,rebounds,profit-rises,rises,jpmorgan,fixed,income,reuters",
+            "tags": "bank,assets,trading,fixed,income",
             "recuweb_url": "http://en.recuweb.com/lindahobbs81.wordpress.com/2015/04/jpmorgan-profit-rises-as-fixed-income-trading-rebounds",
-            "resource_url": "http://en.search.wordpress.com/?q=fixed%2Bincome%2Bfixed%2Bincome&f=feed&page=1",
+            "resource_url": "http://en.search.wordpress.com/?q=fixed%2Bincome&f=feed&page=1",
             "source_url": "http://lindahobbs81.wordpress.com/2015/04/15/jpmorgan-profit-rises-as-fixed-income-trading-rebounds/"
-        },
-        "businessinsider.com/2015/04/jpmorgan-profit-rises-as-fixed-income-trading-rebounds-business": {
-            "title": "JPMorgan profit rises as fixed-income trading rebounds - Business...",
-            "snippet": "(Reuters) - JPMorgan Chase & Co, the biggest U.S. bank by assets, reported a 12.2 percent rise in quarterly profit as revenue from fixed-income trading rebounded. The bank's net income rose to billion, or per...",
-            "date": "2015-04-14",
-            "author_name": "unknown",
-            "categories": "business",
-            "tags": "net,trading,quarterly,quarterly-profit,profit,reported,bank,bank-by-assets,assets,chase,trading-rebounds,rebounds,profit-rises,rises,jpmorgan,fixed,income,business,reuters,billion",
-            "recuweb_url": "http://en.recuweb.com/business/businessinsider.com/2015/04/jpmorgan-profit-rises-as-fixed-income-trading-rebounds-business",
-            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bfixed%2Bincome&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://businessinsider.com/r-jpmorgan-profit-rises-as-fixed-income-trading-rebounds-2015-4"
         },
         "investopedia.com/2015/04/which-factors-most-influence-fixed-income-securities-investopedia": {
             "title": "Which factors most influence fixed income securities? - Investopedia...",
@@ -103,21 +112,10 @@
             "date": "2015-04-10",
             "author_name": "Investopedia",
             "categories": "credit",
-            "tags": "loans,investor,interest,interest-rate,rate,changes,fixed,income,securities,risk,market,liquidity,corporate",
+            "tags": "investor,government,corporate,interest,fixed,income,securities,rate,risk,market,liquidity",
             "recuweb_url": "http://en.recuweb.com/credit/investopedia.com/2015/04/which-factors-most-influence-fixed-income-securities-investopedia",
-            "resource_url": "http://www.google.com/search?q=fixed%2Bincome%2Bfixed%2Bincome&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://investopedia.com/ask/answers/041015/which-factors-most-influence-fixed-income-securities.asp"
-        },
-        "zacks.com/2015/04/state-street-s-new-ssga-head-to-focus-on-fixed-income": {
-            "title": "State Street's New SSGA Head to Focus on Fixed Income - April 7...",
-            "snippet": "The new head of State Street's (STT) asset management division SSGA, Mr. Ron O'Hanley, plans to heighten the focus on fixed income products.",
-            "date": "2015-04-07",
-            "author_name": "Zacks Equity Research",
-            "categories": "fixed-income,management",
-            "tags": "head,fixed,fixed_income,income,asset,management,products",
-            "recuweb_url": "http://en.recuweb.com/management/zacks.com/2015/04/state-street-s-new-ssga-head-to-focus-on-fixed-income",
             "resource_url": "http://www.google.com/search?q=fixed%2Bincome&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://zacks.com/stock/news/169983/state-streets-new-ssga-head-to-focus-on-fixed-income"
+            "source_url": "http://investopedia.com/ask/answers/041015/which-factors-most-influence-fixed-income-securities.asp"
         }
     }
 }
