@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "css",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/css/",
@@ -11,6 +11,26 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/css/css/blogs.json"
     },
     "items": {
+        "techtimes.com/2015/05/mozilla-makes-new-firefox-features-available-only-to-https-sites-good": {
+            "title": "Mozilla Makes New Firefox Features Available Only To HTTPS Sites: Good Move But A Premature One...",
+            "snippet": "That would allow things like CSS and other rendering features to still be used by insecure websites, since the page can draw effects on its own. But it would still restrict qualitatively new features, such as access to new hardware capabilities.",
+            "date": "2015-05-03",
+            "categories": "css",
+            "tags": "css",
+            "recuweb_url": "http://en.recuweb.com/css/techtimes.com/2015/05/mozilla-makes-new-firefox-features-available-only-to-https-sites-good",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=css&format=RSS&cc=us",
+            "source_url": "http://techtimes.com/articles/50260/20150503/mozilla-makes-new-firefox-features-available-only-to-https-sites-good-move-but-a-premature-one.htm"
+        },
+        "wdio.com/2015/05/umd-and-css-sweep-in-baseball-softball-wins-umac-tournament-wdio": {
+            "title": "UMD and CSS Sweep in Baseball, CSS Softball Wins UMAC Tournament - WDIO-TV...",
+            "snippet": "WDIO-TVUMD and CSS Sweep in Baseball, CSS Softball Wins UMAC TournamentWDIO-TVDuluth, MN -- It's been one of the best seasons for UMD baseball and head coach Bob Rients, as the Bulldogs finished the regualr season with a 26-10 conference record...",
+            "date": "2015-05-03",
+            "categories": "baseball,css",
+            "tags": "conference,conference-record,record,finished,finished-the-regualr,regualr,regualr-season,seasons,bob,bob_rients,rients,baseball,baseball-and-head,head,head-coach,coach,css,css_softball,css_softball_wins,softball,softball_wins,softball_wins_umac,wins,wins_umac,umac,wins_umac_tournament,umac_tournament,tournament,css_sweep,sweep,umd,bulldogs",
+            "recuweb_url": "http://en.recuweb.com/css/wdio.com/2015/05/umd-and-css-sweep-in-baseball-softball-wins-umac-tournament-wdio",
+            "resource_url": "http://news.google.com/?hl=en&q=css&output=atom&nord=1",
+            "source_url": "http://wdio.com/article/stories/s3784543.shtml"
+        },
         "nation.com.pk/2015/05/fpsc-announces-css-exams-result-the-nation": {
             "title": "FPSC announces CSS exams result - The Nation...",
             "snippet": "FPSC announces CSS exams resultThe NationA press release of the FPSC issued on Friday, said that the roll numbers and names of 377 candidates who have finally qualified the CSS competitive examination 2014 have been announced. Out of 377 qualified...",
@@ -24,29 +44,39 @@
         "betanews.com/2015/05/microsoft-reveals-code-editor-for-windows-mac-linux": {
             "title": "Microsoft reveals Code editor for Windows, Mac, Linux...",
             "snippet": "It can validate JavaScript files according to your preferred rules, preview Markdown files, show color preview annotations for CSS, LESS and SASS, and gives you IntelliSense, intelligent refactoring, find all references and more. Oh, and did we...",
-            "date": "2015-05-01",
+            "date": "2015-05-02",
             "categories": "javascript,css",
-            "tags": "code,javascript,css",
+            "tags": "css",
             "recuweb_url": "http://en.recuweb.com/css/betanews.com/2015/05/microsoft-reveals-code-editor-for-windows-mac-linux",
             "resource_url": "http://www.bing.com/news/search?first=1&q=css&format=RSS&cc=us",
             "source_url": "http://betanews.com/2015/05/01/microsoft-reveals-code-editor-for-windows-mac-linux/"
         },
-        "pcmag.com/2015/05/mozilla-to-limit-new-firefox-features-secure-sites": {
-            "title": "Mozilla to Limit New Firefox Features to Secure Sites...",
-            "snippet": "For example, one definition of 'new'could be 'features that cannot be polyfilled,'Barnes wrote. That would allow things like CSS and other rendering features to still be used by insecure websites, since the page can draw effects on its own. But...",
-            "date": "2015-05-01",
-            "categories": "css",
-            "tags": "css",
-            "recuweb_url": "http://en.recuweb.com/css/pcmag.com/2015/05/mozilla-to-limit-new-firefox-features-secure-sites",
+        "northlandsnewscenter.com/2015/05/saints-win-umac-return-to-ncaa-play": {
+            "title": "Saints Win UMAC, Return to NCAA Play...",
+            "snippet": "Duluth, MN () The St. Scholastica (CSS) softball team won three straight games to win its second straight Upper Midwest Athletic Conference (UMAC) title, and a bid to the NCAA tournament. After defeating Northwestern and Minnesota Morris...",
+            "date": "2015-05-02",
+            "categories": "play,css",
+            "tags": "athletic,conference,softball,umac,duluth,css,tournament",
+            "recuweb_url": "http://en.recuweb.com/css/northlandsnewscenter.com/2015/05/saints-win-umac-return-to-ncaa-play",
             "resource_url": "http://www.bing.com/news/search?first=1&q=css&format=RSS&cc=us",
-            "source_url": "http://pcmag.com/article2/0,2817,2483549,00.asp"
+            "source_url": "http://northlandsnewscenter.com/sports/css-saints/Saints-Win-UMAC-Return-to-NCAA-Play-302326801.html?vid=a"
+        },
+        "wdio.com/2015/05/umd-and-css-sweep-in-baseball-softball-wins-umac-tournament": {
+            "title": "UMD and CSS Sweep in Baseball, CSS Softball Wins UMAC Tournament...",
+            "snippet": "Duluth, MN -- It's been one of the best seasons for UMD baseball and head coach Bob Rients, as the Bulldogs finished the regualr season with a 26-10 conference record grabbing two more conference wins on Saturday. UMD finishes with the fourth seed...",
+            "date": "2015-05-02",
+            "categories": "baseball,css",
+            "tags": "conference,conference-record,record,wins,finished,finished-the-regualr,regualr,regualr-season,seasons,bob,bob_rients,rients,baseball,baseball-and-head,head,head-coach,coach,css,css_softball,css_softball_wins,softball,softball_wins,softball_wins_umac,wins_umac,wins_umac_tournament,umac,umac_tournament,tournament,css_sweep,sweep,umd,duluth,bulldogs",
+            "recuweb_url": "http://en.recuweb.com/css/wdio.com/2015/05/umd-and-css-sweep-in-baseball-softball-wins-umac-tournament",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=css&format=RSS&cc=us",
+            "source_url": "http://wdio.com/article/stories/S3784543.shtml"
         },
         "virtual-strategy.com/2015/04/css-inc-launches-its-latest-pure-cloud-zero-footprint-web-based": {
             "title": "CSS, Inc., Launches its latest \"Pure Cloud\" zero-footprint web-based Debt Management & Collections...",
             "snippet": "WOODLAND HILLS, Calif., April 30, 2015/PRNewswire-iReach/-- Collection Solutions Software, Inc., IMPACT! HD 2.0, the ARM industry's leading & most robust Debt Collections & Compliance platform, today announced the launch of IMPACT! HD 2.0 Express...",
             "date": "2015-04-30",
             "categories": "management,css",
-            "tags": "announced,pure,css,web,industry",
+            "tags": "announced,css,industry",
             "recuweb_url": "http://en.recuweb.com/css/virtual-strategy.com/2015/04/css-inc-launches-its-latest-pure-cloud-zero-footprint-web-based",
             "resource_url": "http://www.bing.com/news/search?first=1&q=css&format=RSS&cc=us",
             "source_url": "http://virtual-strategy.com/2015/04/30/css-inc-launches-its-latest-pure-cloud-zero-footprint-web-based-debt-management-collectio"
@@ -61,32 +91,12 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=css&format=RSS&cc=us",
             "source_url": "http://venturebeat.com/2015/04/30/personalization-becomes-accessible-reality-for-all-golfers-with-unique-kickstarter-campaign/"
         },
-        "tkbsen.in/2015/04/central-govt-offers-to-send-css-officers-on-deputation-north-east": {
-            "title": "Central govt offers to send CSS officers on deputation to North-East states - The Sen Times Online...",
-            "snippet": "The Sen Times Online NewspaperCentral govt offers to send CSS officers on deputation to North-East statesThe Sen Times Online NewspaperThe state governments may like to utilise the experience of the Central Secretariat Service (CSS) officers at...",
-            "date": "2015-04-29",
-            "categories": "css",
-            "tags": "service,css",
-            "recuweb_url": "http://en.recuweb.com/css/tkbsen.in/2015/04/central-govt-offers-to-send-css-officers-on-deputation-north-east",
-            "resource_url": "http://news.google.com/?hl=en&q=css%2Bcss&output=atom&nord=1",
-            "source_url": "http://tkbsen.in/2015/04/central-govt-offers-to-send-css-officers-on-deputation-to-north-east-states/"
-        },
-        "greaterkashmir.com/2015/04/centre-assures-maximum-allocation-under-css-for-farmers": {
-            "title": "Centre assures maximum allocation under CSS for farmers -...",
-            "snippet": "Centre assures maximum allocation under CSS for Delhi, Apr 28: Minister for Agriculture, Ghulam Nabi Lone Hanjura today called on Union Agriculture Minister Radha Mohan Singh at New Delhi to discuss various schemes and specialized projects in...",
-            "date": "2015-04-28",
-            "categories": "css",
-            "tags": "css",
-            "recuweb_url": "http://en.recuweb.com/css/greaterkashmir.com/2015/04/centre-assures-maximum-allocation-under-css-for-farmers",
-            "resource_url": "http://news.google.com/?hl=en&q=css&output=atom&nord=1",
-            "source_url": "http://greaterkashmir.com/news/2015/Apr/29/centre-assures-maximum-allocation-under-css-for-farmers-40.asp"
-        },
         "thenewstribe.com/2015/04/fpsc-issues-the-allocation-of-seats-for-css-2014-news-tribe": {
             "title": "FPSC Issues The Allocation Of Seats For CSS 2014 - News Tribe...",
             "snippet": "News TribeFPSC Issues The Allocation Of Seats For CSS 2014News TribeISLAMABAD Federal Public Service Commission confirms the allocation of seats for different groups of competitive examination held in the year 2014 on Monday. The total number of...",
             "date": "2015-04-28",
             "categories": "css",
-            "tags": "competitive,competitive-examination,examination,service,css,fpsc",
+            "tags": "competitive,competitive-examination,examination,css,fpsc",
             "recuweb_url": "http://en.recuweb.com/css/thenewstribe.com/2015/04/fpsc-issues-the-allocation-of-seats-for-css-2014-news-tribe",
             "resource_url": "http://news.google.com/?hl=en&q=css&output=atom&nord=1",
             "source_url": "http://thenewstribe.com/2015/04/28/fpsc-issues-the-allocation-of-seats-for-css-2014/"
@@ -96,20 +106,10 @@
             "snippet": "Gallery; CSS Work Force job fair draws hundreds Hundreds of hopeful job-seekers filled Murray Athletic Center of Elmira College Tuesday. More than 100 employers had booths set up in the athletic center. Check out this story on: http...",
             "date": "2015-04-28",
             "categories": "college,css",
-            "tags": "css",
+            "tags": "athletic,css",
             "recuweb_url": "http://en.recuweb.com/css/stargazette.com/2015/04/gallery-css-work-force-job-fair-draws-hundreds",
             "resource_url": "http://www.bing.com/news/search?first=1&q=css&format=RSS&cc=us",
             "source_url": "http://stargazette.com/picture-gallery/news/2015/04/28/gallery-css-work-force-job-fair-draws-hundreds/26536543/"
-        },
-        "sitepoint.com/2015/04/layout-secret-weapon-1-the-css-table-property": {
-            "title": "Layout Secret Weapon 1: The CSS Table Property...",
-            "snippet": "Right now Flexbox is arguably THE hot new thing for layout building. Flexbox's almost miraculous abilities to adapt to the available space has left many of us wide-eyed with possibility. Nevertheless it can not solve all your layout problems and...",
-            "date": "2015-04-28",
-            "categories": "css,property",
-            "tags": "layout,css,building",
-            "recuweb_url": "http://en.recuweb.com/property/sitepoint.com/2015/04/layout-secret-weapon-1-the-css-table-property",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=css&format=RSS&cc=us",
-            "source_url": "http://sitepoint.com/solving-layout-problems-css-table-property/"
         }
     }
 }
