@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "government-spending",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/government-spending/",
@@ -11,24 +11,54 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/government-spending/government-spending/blogs.json"
     },
     "items": {
-        "nytimes.com/2015/05/algerian-entrepreneurs-see-opportunity-in-oil-price-plunge": {
-            "title": "Algerian Entrepreneurs See Opportunity in Oil-Price Plunge...",
-            "snippet": "According to the International Monetary Fund, government spending jumped by 50 percent and civil servants salaries grew at nearly the same rate in 2011. Once you get low oil prices, the system doesnt work anymore, and it creates series of...",
-            "date": "2015-05-02",
-            "tags": "international,fund,government,spending",
-            "recuweb_url": "http://en.recuweb.com/nytimes.com/2015/05/algerian-entrepreneurs-see-opportunity-in-oil-price-plunge",
+        "nzherald.co.nz/2015/05/battling-bill-grant-robertson-s-big-job-creating-an-economic-policy": {
+            "title": "Battling Bill: Grant Robertson's big job - creating an economic policy...",
+            "snippet": "Mr English has downplayed the missed target as being like a diet in which the goal is to lose 10kg but you lose only 9.8 kg, and said the discipline of having the target had constrained Government spending. But Labour's finance spokesman, Grant...",
+            "date": "2015-05-03",
+            "categories": "finance,policy",
+            "tags": "said,economic,job,bill,government,spending,labour",
+            "recuweb_url": "http://en.recuweb.com/policy/nzherald.co.nz/2015/05/battling-bill-grant-robertson-s-big-job-creating-an-economic-policy",
             "resource_url": "http://www.bing.com/news/search?first=1&q=government%2Bspending&format=RSS&cc=us",
-            "source_url": "http://nytimes.com/2015/05/03/world/africa/algerian-entrepreneurs-see-opportunity-in-oil-price-plunge.html"
+            "source_url": "http://nzherald.co.nz/economy/news/article.cfm?c_id=34&objectid=11442658"
         },
-        "lusakatimes.com/2015/05/government-spending-us-2-4-million-to-market-tourism-sector-on": {
-            "title": "Government spending US 2.4 million to market tourism sector on the... - Lusaka Times...",
-            "snippet": "Lusaka TimesGovernment spending US 2.4 million to market tourism sector on the...Lusaka TimesMr Mwansa said South Africa is spending US 180 million to market tourism sector on the international market. He said that the Government was doing a lot in...",
+        "knoxnews.com/2015/05/lawmakers-reimburse-state-after-double-dipping-accusations": {
+            "title": "Lawmakers reimburse state after double-dipping'accusations...",
+            "snippet": "Ketron, who chairs the Senate Republican Caucus and for years was chairman of the Fiscal Review Committee that oversees state government spending, wrote the state a check for 17,553 covering six trips over the past six years, according to...",
+            "date": "2015-05-03",
+            "tags": "wrote,state,senate,fiscal,government,spending",
+            "recuweb_url": "http://en.recuweb.com/knoxnews.com/2015/05/lawmakers-reimburse-state-after-double-dipping-accusations",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=government%2Bspending&format=RSS&cc=us",
+            "source_url": "http://knoxnews.com/news/state/lawmakers-reimburse-state-after-doubledipping-accusations_37744267"
+        },
+        "newsmax.com/2015/05/poll-democrats-republicans-disagree-on-nation-s-biggest-issue": {
+            "title": "Poll: Democrats, Republicans Disagree on Nation's Biggest Issue...",
+            "snippet": "Among Republicans, the other top priorities were: The deficit and government spending, 24 per Job creation and economic growth, 21 per Religious and moral values 12 percent. Among Democrats, the other priorities were: Health care, 17 percent...",
+            "date": "2015-05-03",
+            "categories": "economic-growth,health",
+            "tags": "economic,deficit,government,spending,per,job",
+            "recuweb_url": "http://en.recuweb.com/health/newsmax.com/2015/05/poll-democrats-republicans-disagree-on-nation-s-biggest-issue",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=government%2Bspending&format=RSS&cc=us",
+            "source_url": "http://newsmax.com/Politics/poll-republican-democrat-disagree/2015/05/03/id/642287/"
+        },
+        "finance.townhall.com/2015/05/construction-spending-once-again-defies-expectations-much-weaker-than-expected-four": {
+            "title": "Construction Spending Once Again Defies Expectations Much Weaker Than Expected; Four Reasons...",
+            "snippet": "Public construction was down for a third straight month to its lowest level since February 2014. State and local government spending, the much larger portion of public construction, dropped in both February and March while Federal Government...",
             "date": "2015-05-02",
-            "categories": "tourism",
-            "tags": "said,market,international,government,spending",
-            "recuweb_url": "http://en.recuweb.com/tourism/lusakatimes.com/2015/05/government-spending-us-2-4-million-to-market-tourism-sector-on",
+            "categories": "construction",
+            "tags": "federal,government,dropped,public,local,spending,state",
+            "recuweb_url": "http://en.recuweb.com/construction/finance.townhall.com/2015/05/construction-spending-once-again-defies-expectations-much-weaker-than-expected-four",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=government%2Bspending&format=RSS&cc=us",
+            "source_url": "http://finance.townhall.com/columnists/mikeshedlock/2015/05/03/construction-spending-once-again-defies-expectations-much-weaker-than-expected-four-reasons-economists-perplexed-n1993341"
+        },
+        "sfgate.com/2015/05/figures-on-government-spending-and-debt-sfgate": {
+            "title": "Figures on government spending and debt - SFGate...",
+            "snippet": "Figures on government spending and debtSFGateWASHINGTON (AP) Figures on government spending and debt (last six digits are eliminated). The government's fiscal year runs Oct. 1 through Sept. 30. Total public debt subject to limit April 30,...",
+            "date": "2015-05-02",
+            "categories": "public-debt",
+            "tags": "public,government,spending,fiscal",
+            "recuweb_url": "http://en.recuweb.com/public-debt/sfgate.com/2015/05/figures-on-government-spending-and-debt-sfgate",
             "resource_url": "http://news.google.com/?hl=en&q=government%2Bspending&output=atom&nord=1",
-            "source_url": "http://lusakatimes.com/2015/05/02/government-spending-us-2-4-million-to-market-tourism-sector-on-the-international-market/"
+            "source_url": "http://sfgate.com/business/article/Figures-on-government-spending-and-debt-6236631.php"
         },
         "calgaryherald.com/2015/05/milke-don-t-define-compassion-by-government-spending-calgary-herald": {
             "title": "Milke: Don't define compassion by government spending - Calgary Herald...",
@@ -36,7 +66,7 @@
             "date": "2015-05-02",
             "tags": "local,local-historian,local-historian-mused,historian,historian-mused,mused,mused-that-modern,modern,modern-governments,governments,government,governments-have-become,enamoured,unfettered,unfettered-market,market,market-of-purely,purely,purely-economic,economic,edmonton,edmonton_journal,journal,recent,recent-column,column,define,define-compassion,compassion,milke,spending",
             "recuweb_url": "http://en.recuweb.com/calgaryherald.com/2015/05/milke-don-t-define-compassion-by-government-spending-calgary-herald",
-            "resource_url": "http://news.google.com/?hl=en&q=government%2Bspending%2Bgovernment%2Bspending&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=government%2Bspending&output=atom&nord=1",
             "source_url": "http://calgaryherald.com/opinion/columnists/milke-dont-define-compassion-by-government-spending"
         },
         "vancouversun.com/2015/05/milke-dont-define-compassion-by-government-spending": {
@@ -44,69 +74,38 @@
             "snippet": "In a recent column in the Edmonton Journal, a local historian mused that modern governments have become too enamoured with the unfettered market of purely economic conservatism. He then equated higher taxes and more government spending with...",
             "date": "2015-05-02",
             "categories": "taxes",
-            "tags": "higher,higher-taxes,taxes,local,local-historian,local-historian-mused,historian,historian-mused,mused,mused-that-modern,modern,modern-governments,governments,government,governments-have-become,enamoured,unfettered,unfettered-market,market,market-of-purely,purely,purely-economic,economic,edmonton,edmonton_journal,journal,recent,recent-column,column,define,define-compassion,compassion,milke,spending",
+            "tags": "local,local-historian,local-historian-mused,historian,historian-mused,mused,mused-that-modern,modern,modern-governments,governments,government,governments-have-become,enamoured,unfettered,unfettered-market,market,market-of-purely,purely,purely-economic,economic,edmonton,edmonton_journal,journal,recent,recent-column,column,define,define-compassion,compassion,milke,spending",
             "recuweb_url": "http://en.recuweb.com/taxes/vancouversun.com/2015/05/milke-dont-define-compassion-by-government-spending",
             "resource_url": "http://www.bing.com/news/search?first=1&q=government%2Bspending&format=RSS&cc=us",
             "source_url": "http://vancouversun.com/opinion/columnists/Milke+define+compassion+government+spending/11023710/story.html"
         },
-        "defence.pk/2015/05/obamas-no-growth-jobs-recovery-economy-gives-up-the-ghost": {
-            "title": "Obamas No Growth, No Jobs, No Recovery Economy Gives Up The Ghost...",
-            "snippet": "From the BEA release: The deceleration in real GDP growth in the first quarter reflected a deceleration in PCE, downturns in exports, in nonresidential fixed investment, and in state and local government spending, and a deceleration in residential...",
+        "post-gazette.com/2015/05/more-tax-dollars-should-go-to-military-spending-which-keeps": {
+            "title": "More tax dollars should go to military spending, which keeps us free and safe...",
+            "snippet": "To the Raging Granny who wrote about the government spending too much money on the military (We Focus on the Military While Bridges Crumble, April 6): I see she likes using the freedom of speech and freedom of the press that our country provides.",
             "date": "2015-05-02",
-            "categories": "economy",
-            "tags": "state,local,recovery,economy,government,spending",
-            "recuweb_url": "http://en.recuweb.com/economy/defence.pk/2015/05/obamas-no-growth-jobs-recovery-economy-gives-up-the-ghost",
+            "tags": "using,money,wrote,tax,spending,government",
+            "recuweb_url": "http://en.recuweb.com/post-gazette.com/2015/05/more-tax-dollars-should-go-to-military-spending-which-keeps",
             "resource_url": "http://www.bing.com/news/search?first=1&q=government%2Bspending&format=RSS&cc=us",
-            "source_url": "http://defence.pk/threads/obama\u2019s-\u201cno-growth-no-jobs-no-recovery\u201d-economy-gives-up-the-ghost.373187/"
+            "source_url": "http://post-gazette.com/opinion/letters/2015/05/03/More-tax-dollars-should-go-to-military-spending-which-keeps-us-free-and-safe/stories/201505030168"
+        },
+        "journalinquirer.com/2015/05/oh-no-spending-cap-is-in-danger-of-working-journal-inquirer": {
+            "title": "Oh, no! Spending cap is in danger of working - Journal Inquirer...",
+            "snippet": "Oh, no! Spending cap is in danger of workingJournal InquirerListen to the growing complaints about the state constitutional amendment purporting to restrain state government spending: The damned thing is actually starting to get in the way of...",
+            "date": "2015-05-02",
+            "tags": "state,journal,spending,government",
+            "recuweb_url": "http://en.recuweb.com/journalinquirer.com/2015/05/oh-no-spending-cap-is-in-danger-of-working-journal-inquirer",
+            "resource_url": "http://news.google.com/?hl=en&q=government%2Bspending&output=atom&nord=1",
+            "source_url": "http://journalinquirer.com/opinion/chris_powell/oh-no-spending-cap-is-in-danger-of-working/article_62dee9c6-f00a-11e4-afcc-e33b3b2e0d24.html"
         },
         "telegraph.co.uk/2015/05/did-new-labour-spend-too-much-in-government": {
             "title": "Did New Labour spend too much in government? -...",
             "snippet": "New Labour spend too much in government? budgets have been slashed, yet crime rates have dropped. Councils have been forced to cut back spending, yet confidence in local government is booming. Overall spending was trimmed back yet the economy is in...",
             "date": "2015-05-01",
             "categories": "economy",
-            "tags": "economy,local,cut,government,spending",
+            "tags": "local,cut,dropped,labour,government,spending",
             "recuweb_url": "http://en.recuweb.com/economy/telegraph.co.uk/2015/05/did-new-labour-spend-too-much-in-government",
-            "resource_url": "http://news.google.com/?hl=en&q=government%2Bspending%2Bgovernment%2Bspending&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=government%2Bspending&output=atom&nord=1",
             "source_url": "http://telegraph.co.uk/news/general-election-2015/11576801/Did-New-Labour-spend-too-much-in-government.html"
-        },
-        "ldnews.com/2015/05/figures-on-government-spending-and-debt": {
-            "title": "Figures on government spending and debt...",
-            "snippet": "WASHINGTON (AP) Figures on government spending and debt (last six digits are eliminated). The government's fiscal year runs Oct. 1 through Sept. 30. Total public debt subject to limit April 30 18,112,975 Statutory debt limit 18,113,000 Total...",
-            "date": "2015-05-01",
-            "categories": "public-debt",
-            "tags": "debt,limit,public,public-debt,public-debt-subject,debt-subject,subject,subject-to-limit,runs,digits,digits-are-eliminated,eliminated,figures,government,spending,fiscal,oct,sept,total",
-            "recuweb_url": "http://en.recuweb.com/public-debt/ldnews.com/2015/05/figures-on-government-spending-and-debt",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=government%2Bspending&format=RSS&cc=us",
-            "source_url": "http://ldnews.com/sports/ci_28029525/figures-government-spending-and-debt"
-        },
-        "sfgate.com/2015/05/figures-on-government-spending-and-debt-sfgate": {
-            "title": "Figures on government spending and debt - SFGate...",
-            "snippet": "Figures on government spending and debtSFGateWASHINGTON (AP) Figures on government spending and debt (last six digits are eliminated). The government's fiscal year runs Oct. 1 through Sept. 30. Total public debt subject to limit April 30,...",
-            "date": "2015-05-01",
-            "categories": "public-debt",
-            "tags": "public,public-debt,public-debt-subject,debt,debt-subject,subject,subject-to-limit,limit,runs,digits,digits-are-eliminated,eliminated,figures,government,spending,fiscal,oct,sept,total",
-            "recuweb_url": "http://en.recuweb.com/public-debt/sfgate.com/2015/05/figures-on-government-spending-and-debt-sfgate",
-            "resource_url": "http://news.google.com/?hl=en&q=government%2Bspending%2Bgovernment%2Bspending&output=atom&nord=1",
-            "source_url": "http://sfgate.com/business/article/Figures-on-government-spending-and-debt-6236631.php"
-        },
-        "hastingstribune.com/2015/05/foley-state-s-future-depends-on-tax-relief": {
-            "title": "Foley: State's future depends on tax relief...",
-            "snippet": "Tax relief and tighter government spending are the keys to Nebraska's future success, according to Lt. Gov. Mike Foley. Foley spoke at the weekly meeting Friday of the Hastings Noon Rotary at Mary Lanning Healthcare, giving an update on the 2015...",
-            "date": "2015-05-01",
-            "tags": "tax,state,government,spending",
-            "recuweb_url": "http://en.recuweb.com/hastingstribune.com/2015/05/foley-state-s-future-depends-on-tax-relief",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=government%2Bspending&format=RSS&cc=us",
-            "source_url": "http://hastingstribune.com/may/news0502foley.php"
-        },
-        "qconline.com/2015/05/letter-cut-government-spending-repeal-prevailing-wage-laws-quad-cities-online": {
-            "title": "Letter: Cut government spending, repeal prevailing wage laws - Quad-Cities Online...",
-            "snippet": "Letter: Cut government spending, repeal prevailing wage lawsQuad-Cities OnlineSince April 7 those who opposed the school sales tax referendum have been asked, \"Where are your solutions to the problem?\" Everyone opposed to higher taxes should offer...",
-            "date": "2015-05-01",
-            "categories": "taxes,school",
-            "tags": "higher,higher-taxes,taxes,tax,cut,government,spending",
-            "recuweb_url": "http://en.recuweb.com/school/qconline.com/2015/05/letter-cut-government-spending-repeal-prevailing-wage-laws-quad-cities-online",
-            "resource_url": "http://news.google.com/?hl=en&q=government%2Bspending%2Bgovernment%2Bspending&output=atom&nord=1",
-            "source_url": "http://qconline.com/opinion/letters/letter-cut-government-spending-repeal-prevailing-wage-laws/article_8e4939ad-e5be-5f0a-be11-6668005d19c0.html"
         }
     }
 }
