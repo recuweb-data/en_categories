@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "blogs",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/blogs/",
@@ -11,97 +11,37 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/blogs/blogs/blogs.json"
     },
     "items": {
-        "anmyr.blogspot.com/2015/05/streetstyle-may-2015-part-3": {
-            "title": "Streetstyle May 2015 - Part 3...",
-            "snippet": "Fashion is not only what is born on the catwalks. Fashion is particularly that which is worn on the streets of the world. Be inspired by the outfits of four fashion bloggers. Information about brands on the blogs. The blogs are linked on the name.",
-            "date": "2015-05-02",
-            "author_name": "(Ann M.)",
-            "tags": "brands,inspired,outfits,fashion,fashion-bloggers,bloggers,particularly,worn,streets,world,only,born,catwalks,streetstyle,streetstyle_may,part,information",
-            "recuweb_url": "http://en.recuweb.com/anmyr.blogspot.com/2015/05/streetstyle-may-2015-part-3",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=blogs%2Bblogs&rss=1&lng=en",
-            "source_url": "http://anmyr.blogspot.com/2015/05/streetstyle-may-2015-part-3.html"
-        },
         "blogs.msdn.com/2015/05/bringing-clang-to-windows-visual-c-team-blog-site-home": {
             "title": "Bringing Clang to Windows - Visual C Team Blog - Site Home...",
             "snippet": "As you may know, Visual Studio now supports building Android and iOS applications using Clang. We realize the need of our users to write cross-platform apps and we know that C offers massive benefits in the...",
             "date": "2015-05-01",
             "author_name": "Raman Sharma",
             "categories": "home",
-            "tags": "write,cross,using,team",
+            "tags": "platform,write,using,site,home,team,cross",
             "recuweb_url": "http://en.recuweb.com/home/blogs.msdn.com/2015/05/bringing-clang-to-windows-visual-c-team-blog-site-home",
-            "resource_url": "http://www.google.com/search?q=blogs%2Bblogs&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=blogs&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.msdn.com/b/vcblog/archive/2015/05/01/bringing-clang-to-windows.aspx"
         },
-        "anmyr.blogspot.com/2015/05/streetstyle-april-may-2015-part-1": {
-            "title": "Streetstyle April/May 2015 - Part 1...",
-            "snippet": "Fashion is not only what is born on the catwalks. Fashion is particularly that which is worn on the streets of the world. Be inspired by the outfits of six fashion bloggers. Information about brands on the blogs. The blogs are linked on the name.",
-            "date": "2015-05-01",
-            "author_name": "(Ann M.)",
-            "tags": "brands,inspired,outfits,outfits-of-six,fashion,fashion-bloggers,bloggers,particularly,worn,streets,world,only,born,catwalks,streetstyle,streetstyle_april,part,information",
-            "recuweb_url": "http://en.recuweb.com/anmyr.blogspot.com/2015/05/streetstyle-april-may-2015-part-1",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=blogs%2Bblogs&rss=1&lng=en",
-            "source_url": "http://anmyr.blogspot.com/2015/05/streetstyle-aprilmay-2015-part-1.html"
+        "blogs.adobe.com/2012/06/shadow-typekit-localhost-workflow-adobe-edge-blogs": {
+            "title": "Shadow Typekit localhost workflow Adobe Edge... - Adobe Blogs...",
+            "snippet": "E.g., if your site is at localhost/akishnan/meridien/, before it sends the URL to Shadow devices, it replaces localhost with the IP address of the machine where Shadow is running. This is necessary because...",
+            "date": "2012-06-05",
+            "author_name": "akishnan",
+            "tags": "because,localhost,site",
+            "recuweb_url": "http://en.recuweb.com/blogs.adobe.com/2012/06/shadow-typekit-localhost-workflow-adobe-edge-blogs",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bblogs&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.adobe.com/edgeinspect/2012/06/04/shadow-typekit-localhost-workflow/"
         },
-        "anmyr.blogspot.com/2015/05/streetstyle-may-2015-part-2": {
-            "title": "Streetstyle May 2015 - Part 2...",
-            "snippet": "Fashion is not only what is born on the catwalks. Fashion is particularly that which is worn on the streets of the world. Be inspired by the outfits of six fashion bloggers. Information about brands on the blogs. The blogs are linked on the name.",
-            "date": "2015-05-01",
-            "author_name": "(Ann M.)",
-            "tags": "brands,inspired,outfits,outfits-of-six,fashion,fashion-bloggers,bloggers,particularly,worn,streets,world,only,born,catwalks,streetstyle,streetstyle_may,part,information",
-            "recuweb_url": "http://en.recuweb.com/anmyr.blogspot.com/2015/05/streetstyle-may-2015-part-2",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=blogs%2Bblogs&rss=1&lng=en",
-            "source_url": "http://anmyr.blogspot.com/2015/05/streetstyle-may-2015-part-2.html"
-        },
-        "surveymonkey.com/2015/04/april-is-national-poetry-month-celebrating-poems-&-communities": {
-            "title": "April is National Poetry Month: Celebrating Poems & Communities...",
-            "snippet": "Please welcome Dan Neeves, a librarian specializing in Information Services and Interlibrary Loan at Siouxland Libraries, who guest blogs about just that. The mic is all yours, Dan! Our community is within the Cathedral...",
-            "date": "2015-04-29",
-            "author_name": "Jason Miller",
-            "tags": "guest,information,services,dan",
-            "recuweb_url": "http://en.recuweb.com/surveymonkey.com/2015/04/april-is-national-poetry-month-celebrating-poems-&-communities",
-            "resource_url": "http://www.google.com/search?q=blogs%2Bblogs&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://surveymonkey.com/blog/2015/04/29/april-is-national-poetry-month-celebrating-poems-communities-with-data/"
-        },
-        "blog.twitter.com/2015/04/accelerating-direct-response-advertising-welcoming-twitter-blogs": {
-            "title": "Accelerating direct response advertising welcoming... - Twitter Blogs...",
-            "snippet": "We're pleased to announce that we've reached an agreement to acquire TellApart (tellapart), a leading marketing technology company providing retailers and e-commerce advertisers with unique cross-device retargeting...",
-            "date": "2015-04-28",
-            "author_name": "unknown",
-            "categories": "commerce,marketing,technology,twitter",
-            "tags": "cross,twitter",
-            "recuweb_url": "http://en.recuweb.com/twitter/blog.twitter.com/2015/04/accelerating-direct-response-advertising-welcoming-twitter-blogs",
-            "resource_url": "http://www.google.com/search?q=blogs%2Bblogs&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.twitter.com/2015/accelerating-direct-response-advertising-welcoming-tellapart-to-twitter"
-        },
-        "anmyr.blogspot.com/2015/04/streetstyle-april-2015-part-2": {
-            "title": "Streetstyle April 2015 - Part 2...",
-            "snippet": "Fashion is not only what is born on the catwalks. Fashion is particularly that which is worn on the streets of the world. Be inspired by the outfits of six fashion bloggers. Information about brands on the blogs. The blogs are linked to the name.",
-            "date": "2015-04-28",
-            "author_name": "(Ann M.)",
-            "tags": "brands,inspired,outfits,outfits-of-six,fashion,fashion-bloggers,bloggers,particularly,worn,streets,world,only,born,catwalks,streetstyle,streetstyle_april,part,information",
-            "recuweb_url": "http://en.recuweb.com/anmyr.blogspot.com/2015/04/streetstyle-april-2015-part-2",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=blogs%2Bblogs&rss=1&lng=en",
-            "source_url": "http://anmyr.blogspot.com/2015/04/streetstyle-april-2015-part-2.html"
-        },
-        "anmyr.blogspot.com/2015/04/streetstyle-april-2015-part-3": {
-            "title": "Streetstyle April 2015 - Part 3...",
-            "snippet": "Fashion is not only what is born on the catwalks. Fashion is particularly that which is worn on the streets of the world. Be inspired by the outfits of six fashion bloggers. Information about brands on the blogs. The blogs are linked to the name.",
-            "date": "2015-04-28",
-            "author_name": "(Ann M.)",
-            "tags": "brands,inspired,outfits,outfits-of-six,fashion,fashion-bloggers,bloggers,particularly,worn,streets,world,only,born,catwalks,streetstyle,streetstyle_april,part,information",
-            "recuweb_url": "http://en.recuweb.com/anmyr.blogspot.com/2015/04/streetstyle-april-2015-part-3",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=blogs%2Bblogs&rss=1&lng=en",
-            "source_url": "http://anmyr.blogspot.com/2015/04/streetstyle-april-2015-part-3.html"
-        },
-        "manicxmusic.tumblr.com/2015/04/imjustboutthatactionboss-any-blogs-that-are-good-really-just-cool-peoples-or": {
-            "title": "imjustboutthatactionboss Any blogs that are good really, just cool peoples blogs or blogs that...",
-            "snippet": "imjustboutthatactionboss Any blogs that are good really, just cool peoples blogs or blogs that post pop culture stuff, music and film blogs maybe?",
-            "date": "2015-04-28",
-            "categories": "music,culture",
-            "tags": "music,culture",
-            "recuweb_url": "http://en.recuweb.com/culture/manicxmusic.tumblr.com/2015/04/imjustboutthatactionboss-any-blogs-that-are-good-really-just-cool-peoples-or",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=blogs%2Bblogs&rss=1&lng=en",
-            "source_url": "http://manicxmusic.tumblr.com/post/117638386241"
+        "blog.techwheels.net/2012/02/send-email-from-localhost-wamp-server-using-sendmail": {
+            "title": "Send email from localhost/WAMP Server using sendmail...",
+            "snippet": "'s Technology Blog... So an alternate and much less efficient (slower, but negligible low-speed for development platform (WAMP/localhost)) solution can be implemented, as below: Solution. This solution...",
+            "date": "2012-02-07",
+            "author_name": "admin",
+            "categories": "technology",
+            "tags": "below,platform,using,localhost",
+            "recuweb_url": "http://en.recuweb.com/technology/blog.techwheels.net/2012/02/send-email-from-localhost-wamp-server-using-sendmail",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bblogs&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.techwheels.net/send-email-from-localhost-wamp-server-using-sendmail/"
         }
     }
 }
