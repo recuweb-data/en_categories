@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "jquery",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/jquery/",
@@ -11,32 +11,12 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/jquery/jquery/blogs.json"
     },
     "items": {
-        "technical.ly/2015/05/front-end-developer": {
-            "title": "Front End Developer -...",
-            "snippet": "Front End day-to-day responsibilities will include coding in JavaScript (using jQuery, Coffeescript, and Angular), crafting web pages with HTML5 and CSS3, and helping us push the envelope in web and mobile usability and design. As our front-end...",
-            "date": "2015-05-02",
-            "categories": "javascript,jquery,html,css",
-            "tags": "web,mobile,design,coding,javascript,using,jquery,html",
-            "recuweb_url": "http://en.recuweb.com/css/technical.ly/2015/05/front-end-developer",
-            "resource_url": "http://news.google.com/?hl=en&q=jquery&output=atom&nord=1",
-            "source_url": "http://technical.ly/job/front-end-developer-23/"
-        },
-        "digitaljournal.com/2015/05/shieldui-expands-component-offering": {
-            "title": "ShieldUI Expands Component Offering...",
-            "snippet": "May 1, 2015/PRZen/SEATTLE -- ShieldUI is proud to announce a number of major additions to its UI component Suite. Its jQuery Grid component received a major feature update, by allowing grouping of records. This feature allows manual as well as...",
-            "date": "2015-05-01",
-            "categories": "jquery",
-            "tags": "manual,well,update,jquery",
-            "recuweb_url": "http://en.recuweb.com/jquery/digitaljournal.com/2015/05/shieldui-expands-component-offering",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
-            "source_url": "http://digitaljournal.com/pr/2541137"
-        },
         "threatpost.com/2015/04/more-trouble-for-jquery-as-second-compromise-reported": {
             "title": "More Trouble For jQuery As Second Compromise Reported...",
             "snippet": "Update A day after a compromise of the jQuery website was disclosed, the open source JavaScript library is dealing with a second attack. JQuery Foundation board member Ralph Whitbeck confirmed via email to Threatpost that a new compromise was under...",
             "date": "2015-04-30",
             "categories": "jquery,javascript",
-            "tags": "via,jquery,jquery_foundation,foundation,source,update,javascript",
+            "tags": "via,jquery,jquery_foundation,foundation,source,website,javascript",
             "recuweb_url": "http://en.recuweb.com/javascript/threatpost.com/2015/04/more-trouble-for-jquery-as-second-compromise-reported",
             "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
             "source_url": "http://threatpost.com/more-trouble-for-jquery-as-second-compromise-reported/108510"
@@ -46,7 +26,7 @@
             "snippet": "Throughout this tutorial I will be outlining how you can leverage the jQuery Interactions libraries to create more interactive and easy to manage admin areas and elements. We will start off with an explanation of what these interactions are along...",
             "date": "2015-04-30",
             "categories": "wordpress,jquery",
-            "tags": "off,along,interactive,manage,libraries,jquery,using,tutorial,create",
+            "tags": "off,along,easy,manage,libraries,jquery,using,tutorial,create,interactive",
             "recuweb_url": "http://en.recuweb.com/jquery/sitepoint.com/2015/04/using-jquery-interactions-in-your-wordpress-admin",
             "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
             "source_url": "http://sitepoint.com/using-jquery-interactions-in-your-wordpress-admin/"
@@ -66,7 +46,7 @@
             "snippet": "ITworldjQuery's creator annotates his original source codeITworldSince its release in January 2006, jQuery has become one of the most popular JavaScript libraries, currently used by more than half the top million web sites in the world. Knowing how...",
             "date": "2015-04-29",
             "categories": "jquery,javascript",
-            "tags": "web,release,source,jquery,code,javascript,libraries",
+            "tags": "web,release,creator,source,code,jquery,javascript,libraries",
             "recuweb_url": "http://en.recuweb.com/javascript/itworld.com/2015/04/jquery-s-creator-annotates-his-original-source-code-itworld",
             "resource_url": "http://news.google.com/?hl=en&q=jquery&output=atom&nord=1",
             "source_url": "http://itworld.com/article/2915599/open-source-tools/jquery-s-creator-annotates-his-original-source-code.html"
@@ -76,40 +56,60 @@
             "snippet": "Code Manual's Interactive Coding Bootcamp provides over 30 hours of web development training content. Create your own apps using HTML, Javascript, JQuery, Ruby on Rails, and, with more to learn as you go along. You'll receive live instruction via...",
             "date": "2015-04-27",
             "categories": "web-development,html,javascript,jquery",
-            "tags": "via,learn,along,using,web,provides,code,manual,interactive,coding,off,create,html,javascript,jquery",
+            "tags": "via,along,using,web,training,provides,code,interactive,off,content,create,html,javascript,jquery,learn",
             "recuweb_url": "http://en.recuweb.com/jquery/techspot.com/2015/04/92%-off-kickstart-your-coding-career-with-the-interactive-bootcamp",
             "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
             "source_url": "http://techspot.com/news/60486-92-off-kickstart-coding-career-interactive-coding-bootcamp.html"
         },
-        "javascript.developpez.com/2015/04/pep-polyfill-pointer-events-de-google-est-repris-par-jquery-afin": {
-            "title": "PEP: polyfill Pointer Events de Google est repris par jQuery afin de... -...",
-            "snippet": "PEP: polyfill Pointer Events de Google est repris par jQuery afin de... y a quelques mois, l'\u00e9quipe jQuery annon\u00e7ait que l'\u00e9quipe Polymer de Google leur avait transf\u00e9r\u00e9 le d\u00e9veloppement du polyfill Pointer Events afin de maintenir l'outil car...",
-            "date": "2015-04-25",
-            "categories": "events,google,jquery",
-            "tags": "jquery",
-            "recuweb_url": "http://en.recuweb.com/jquery/javascript.developpez.com/2015/04/pep-polyfill-pointer-events-de-google-est-repris-par-jquery-afin",
-            "resource_url": "http://news.google.com/?hl=en&q=jquery&output=atom&nord=1",
-            "source_url": "http://javascript.developpez.com/actu/84339/PEP-0-3-0-polyfill-Pointer-Events-de-Google-est-repris-par-jQuery-afin-de-maintenir-l-outil-de-normalisation-des-evenements/"
-        },
-        "mediaite.com/2015/04/the-14-most-important-media-reporters-in-america": {
-            "title": "The 14 Most Important Media Reporters in America...",
+        "mediaite.com/2015/04/from-colbert-to-mchale-watch-the-last-9-nerd-prom-speeches": {
+            "title": "From Colbert to McHale: Watch the Last 9 Nerd Prom Speeches...",
             "snippet": "To use our slideshows you need to enable javascript. There's no cross domain hackery or tracking voodoo, it's just some sweet jQuery animations. Please, think of the animations. In the meantime, enjoy the html version below. I guess. If that's your...",
             "date": "2015-04-24",
             "categories": "javascript,jquery,html",
-            "tags": "mean,slideshows,javascript,jquery,html,version",
-            "recuweb_url": "http://en.recuweb.com/html/mediaite.com/2015/04/the-14-most-important-media-reporters-in-america",
+            "tags": "version,mean,slideshows,javascript,jquery,html",
+            "recuweb_url": "http://en.recuweb.com/html/mediaite.com/2015/04/from-colbert-to-mchale-watch-the-last-9-nerd-prom-speeches",
             "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
-            "source_url": "http://mediaite.com/online/the-14-most-important-media-reporters/"
+            "source_url": "http://mediaite.com/tv/from-colbert-to-mchale-watch-the-last-9-nerd-prom-speeches/"
         },
         "hostreview.com/2015/04/jquery-foundation-launches-globalize-v-1-0-press-release": {
             "title": "JQuery Foundation Launches Globalize V 1.0 - (press release)...",
             "snippet": "JQuery Foundation Launches Globalize V (press release)Walnut, CA. (PRWEB) April 23, 2015 - The jQuery Foundation today announces the immediate availability of version 1.0 of its highly-anticipated Globalize project. Globalize provides developers...",
             "date": "2015-04-23",
             "categories": "jquery",
-            "tags": "provides,jquery,jquery_foundation,foundation,release,version",
+            "tags": "provides,provides-developers,developers,highly,announces,announces-the-immediate,immediate,immediate-availability,availability,availability-of-version,version,jquery,jquery_foundation,foundation,release,jquery_foundation_launches,foundation_launches,foundation_launches_globalize,launches,launches_globalize,globalize,anticipated,project",
             "recuweb_url": "http://en.recuweb.com/jquery/hostreview.com/2015/04/jquery-foundation-launches-globalize-v-1-0-press-release",
             "resource_url": "http://news.google.com/?hl=en&q=jquery&output=atom&nord=1",
             "source_url": "http://hostreview.com/news/150423-jquery-foundation-launches-globalize-v-10"
+        },
+        "cad.digitalmedianet.com/2015/04/jquery-foundation-launches-globalize-v-1-0": {
+            "title": "jQuery Foundation Launches Globalize v 1.0...",
+            "snippet": "The jQuery Foundation today announces the immediate availability of version 1.0 of its highly-anticipated Globalize project. Globalize provides developers with always up-to-date global number formatting and parsing, date and time formatting and...",
+            "date": "2015-04-23",
+            "categories": "jquery",
+            "tags": "provides,provides-developers,developers,highly,announces,announces-the-immediate,immediate,immediate-availability,availability,availability-of-version,version,jquery,jquery_foundation,foundation,jquery_foundation_launches,foundation_launches,foundation_launches_globalize,launches,launches_globalize,globalize,anticipated,project",
+            "recuweb_url": "http://en.recuweb.com/jquery/cad.digitalmedianet.com/2015/04/jquery-foundation-launches-globalize-v-1-0",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=us",
+            "source_url": "http://cad.digitalmedianet.com/articles/viewarticle.jsp?id=3862059"
+        },
+        "linuxexpres.cz/2015/04/jquery-9-funkce-jako-parametr-linuxexpres": {
+            "title": "jQuery (9) funkce jako parametr - LinuxEXPRES...",
+            "snippet": "jQuery (9) funkce jako parametrLinuxEXPRESP\u00edklad piad\u00ed k dal\u00edmu pouit\u00ed do promnn\u00e9 a instanci jQuery s vyfiltrovan\u00fdmi objekty odkaz. Nejprve si definujeme funkci myFilter(), kter\u00e1 bude zajiovat filtraci. V tomto p\u00edpad funguje tak, e prvn\u00ed...",
+            "date": "2015-04-21",
+            "categories": "jquery",
+            "tags": "jquery",
+            "recuweb_url": "http://en.recuweb.com/jquery/linuxexpres.cz/2015/04/jquery-9-funkce-jako-parametr-linuxexpres",
+            "resource_url": "http://news.google.com/?hl=en&q=jquery&output=atom&nord=1",
+            "source_url": "http://linuxexpres.cz/software/jquery-9-funkce-jako-parametr"
+        },
+        "jobs.electronicsweekly.com/2015/04/full-stack-web-developer-javascript-angularjs-jquery-html5": {
+            "title": "Full-stack Web Developer (JavaScript, AngularJS, jQuery, HTML5) -...",
+            "snippet": "Full-stack Web Developer (JavaScript, AngularJS, jQuery, HTML5) have an amazing opportunity for an experienced full-stack web developer to join my client in Berlin, Germany. The company's main product is an innovative software solution that allows...",
+            "date": "2015-04-14",
+            "categories": "javascript,jquery,html",
+            "tags": "product,software,web,amazing,javascript,jquery,html",
+            "recuweb_url": "http://en.recuweb.com/html/jobs.electronicsweekly.com/2015/04/full-stack-web-developer-javascript-angularjs-jquery-html5",
+            "resource_url": "http://news.google.com/?hl=en&q=jquery&output=atom&nord=1",
+            "source_url": "http://jobs.electronicsweekly.com/job/1401419104/full-stack-web-developer-javascript-angularjs-jquery-html5-/"
         }
     }
 }
