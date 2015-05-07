@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "drupal",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/drupal/",
@@ -16,7 +16,7 @@
             "snippet": "The Australian Government has partnered with global cloud hosting and support company Acquia to create a common web publishing platform for all agencies on the open source software, Drupal. We are excited to have been selected to join Acquia in...",
             "date": "2015-05-02",
             "categories": "drupal",
-            "tags": "create,web,publishing,platform,open,open-source,source,cloud,hosting,company,government,website,drupal",
+            "tags": "create,web,platform,open,open-source,source,cloud,hosting,company,government,website,drupal",
             "recuweb_url": "http://en.recuweb.com/drupal/virtual-strategy.com/2015/05/komosion-to-help-australian-government-deliver-world-leading-website-platform",
             "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
             "source_url": "http://virtual-strategy.com/2015/05/02/komosion-help-australian-government-deliver-world-leading-website-platform"
@@ -31,22 +31,12 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
             "source_url": "http://sitepoint.com/automated-testing-drupal-8-modules/"
         },
-        "thestreet.com/2015/05/cignex-datamatics-presents-webinar-on-simplifying-e-commerce-content-management-&": {
-            "title": "CIGNEX Datamatics Presents Webinar On Simplifying E-commerce Content Management & Publishing...",
-            "snippet": "CIGNEX Datamatics has developed the Content Commerce Platform using Open Source technologies namely Alfresco for ECM, Drupal for WCM and Magento for E-commerce. It comes as a cloud ready solution and it has an open architecture providing...",
-            "date": "2015-05-01",
-            "categories": "commerce,management,drupal,magento",
-            "tags": "cloud,open,providing,source,content,platform,management,publishing,using,drupal",
-            "recuweb_url": "http://en.recuweb.com/magento/thestreet.com/2015/05/cignex-datamatics-presents-webinar-on-simplifying-e-commerce-content-management-&",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
-            "source_url": "http://thestreet.com/story/13135436/1/cignex-datamatics-presents-webinar-on-simplifying-e-commerce-content-management-publishing.html"
-        },
         "opensource.com/2015/05/how-containers-will-shape-the-drupal-ecosystem": {
             "title": "How containers will shape the Drupal ecosystem -...",
             "snippet": "containers will shape the Drupal recently had the opportunity to interview David Strauss about how Pantheon uses containers to isolate many Drupal applications from development to production environments. His upcoming DrupalCon talk, PHP Containers...",
             "date": "2015-05-01",
             "categories": "php,production,environment,drupal",
-            "tags": "php,drupal,development",
+            "tags": "php,drupal,development,drupalcon",
             "recuweb_url": "http://en.recuweb.com/drupal/opensource.com/2015/05/how-containers-will-shape-the-drupal-ecosystem",
             "resource_url": "http://news.google.com/?hl=en&q=drupal&output=atom&nord=1",
             "source_url": "http://opensource.com/business/15/5/how-containers-will-shape-drupal-ecosystem"
@@ -56,7 +46,7 @@
             "snippet": "Web Developer (Drupal & PHP)Pocket will have a strong background in PHP Development, have been part of several Drupal 6/7 implementation or upgrade projects, and have experience with integrating Drupal with external API's. You will demonstrate an...",
             "date": "2015-05-01",
             "categories": "drupal,php",
-            "tags": "web,drupal,php,development",
+            "tags": "part,web,drupal,php,development",
             "recuweb_url": "http://en.recuweb.com/php/pocketgamer.biz/2015/05/web-developer-drupal-&-php-pocket",
             "resource_url": "http://news.google.com/?hl=en&q=drupal&output=atom&nord=1",
             "source_url": "http://pocketgamer.biz/jobs/advert/391/web-developer-drupal-and-php/"
@@ -66,20 +56,10 @@
             "snippet": "The maintainers of the Drupal content management system are warning users that any site owners who havent patched a critical vulnerability in Drupal Core disclosed earlier this month should consider their sites to be compromised. The...",
             "date": "2015-04-30",
             "categories": "management,drupal",
-            "tags": "core,management,users,site,drupal,content",
+            "tags": "core,management,system,users,site,drupal,content",
             "recuweb_url": "http://en.recuweb.com/drupal/threatpost.com/2015/04/assume-every-drupal-7-site-was-compromised-unless-patched-by-oct",
             "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
             "source_url": "http://threatpost.com/assume-every-drupal-7-site-was-compromised-unless-patched-by-oct-15/109095"
-        },
-        "publishersweekly.com/2015/04/at-aba-spring-forum-concerns-aired-about-kobo-winter-institute": {
-            "title": "At ABA Spring Forum Concerns Aired About Kobo, Winter Institute...",
-            "snippet": "Teicher responded that the changeover to Drupal 7 offered booksellers several mobile-friendly themes. It is, frankly, a little naive in 2015 not having a mobile-friendly website, he added. Teicher also urged booksellers to figure out how to grow...",
-            "date": "2015-04-30",
-            "categories": "institute,drupal",
-            "tags": "friendly,offered,drupal,website",
-            "recuweb_url": "http://en.recuweb.com/drupal/publishersweekly.com/2015/04/at-aba-spring-forum-concerns-aired-about-kobo-winter-institute",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
-            "source_url": "http://publishersweekly.com/pw/by-topic/industry-news/bookselling/article/66455-at-spring-forum-booksellers-express-concern-about-kobo-winter-institute.html"
         },
         "opensource.com/2015/04/building-better-pages-in-drupal-with-paragraphs": {
             "title": "Building better pages in Drupal with Paragraphs -...",
@@ -106,10 +86,30 @@
             "snippet": ", a Drupal hosting review and resource site, today announced the top 10 Drupal web hosting providers for 2015. As is introduced, the providers are WebHostingHub, InMotion Hosting, BlueHost, JustHost, Arvixe, GreenGeeks, iPage, A2Hosting...",
             "date": "2015-04-23",
             "categories": "drupal",
-            "tags": "hosting,web,site,drupal",
+            "tags": "hosting,web,site,drupal,announces",
             "recuweb_url": "http://en.recuweb.com/drupal/security.itbusinessnet.com/2015/04/announces-top-10-drupal-web-hosting-providers-for-2015",
             "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=us",
             "source_url": "http://security.itbusinessnet.com/article/DrupalHostsorg-Announces-Top-10-Drupal-Web-Hosting-Providers-for-2015-3862411"
+        },
+        "sourcingfocus.com/2015/04/hammersmith-and-fulham-to-move-drupal-content-management-system": {
+            "title": "Hammersmith and Fulham to Move to Drupal Content Management System -...",
+            "snippet": "Hammersmith and Fulham to Move to Drupal Content Management London Borough of Hammersmith and Fulham is close to tender for a shared content management system (CMS) on the Drupal platform. Due to take place via the G-Cloud framework and in...",
+            "date": "2015-04-22",
+            "categories": "management,drupal",
+            "tags": "management,system,drupal,content,cms,platform,cloud",
+            "recuweb_url": "http://en.recuweb.com/drupal/sourcingfocus.com/2015/04/hammersmith-and-fulham-to-move-drupal-content-management-system",
+            "resource_url": "http://news.google.com/?hl=en&q=drupal&output=atom&nord=1",
+            "source_url": "http://sourcingfocus.com/site/newsitem/hammersmith_and_fulham_to_move_to_drupal_content_management_system/"
+        },
+        "zawya.com/2015/04/eweev-taking-part-in-drupal-worldwide-family-zawya-registration": {
+            "title": "Eweev taking part in Drupal worldwide family - Zawya (registration)...",
+            "snippet": "Eweev taking part in Drupal worldwide familyZawya (registration)Eweev, a web development company in Lebanon, announces its participation in DrupalCon 2015 in Los Angeles, USA, from May 11th till the 15th. This conference gathers, from around the...",
+            "date": "2015-04-20",
+            "categories": "drupal",
+            "tags": "announces,company,web,part,drupal,development,drupalcon",
+            "recuweb_url": "http://en.recuweb.com/drupal/zawya.com/2015/04/eweev-taking-part-in-drupal-worldwide-family-zawya-registration",
+            "resource_url": "http://news.google.com/?hl=en&q=drupal&output=atom&nord=1",
+            "source_url": "http://zawya.com/story/Eweev_taking_part_in_Drupal_worldwide_family-ZAWYA20150420133206/"
         }
     }
 }
