@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "circadian-rhythm",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/circadian-rhythm/",
@@ -11,20 +11,11 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/circadian-rhythm/circadian-rhythm/blogs.json"
     },
     "items": {
-        "7thspace.com/2015/05/a-comparison-of-high-throughput-techniques-for-assaying-circadian-rhythms-in": {
-            "title": "A comparison of high-throughput techniques for assaying circadian rhythms in... - 7thSpace...",
-            "snippet": "A comparison of high-throughput techniques for assaying circadian rhythms in...7thSpace Interactive (press release)Over the last two decades, the development of high-throughput techniques has enabled us to probe the plant circadian clock, a key...",
-            "date": "2015-05-02",
-            "tags": "circadian,rhythms,clock",
-            "recuweb_url": "http://en.recuweb.com/7thspace.com/2015/05/a-comparison-of-high-throughput-techniques-for-assaying-circadian-rhythms-in",
-            "resource_url": "http://news.google.com/?hl=en&q=circadian%2Brhythm%2Bcircadian%2Brhythm&output=atom&nord=1",
-            "source_url": "http://7thspace.com/headlines/507802/a_comparison_of_high_throughput_techniques_for_assaying_circadian_rhythms_in_plants.html"
-        },
         "irishtimes.com/2015/04/when-it-comes-to-arthritis-treatment-timing-is-of-the-essence": {
             "title": "When it comes to arthritis treatment, timing is of the essence - Irish Times...",
             "snippet": "Irish TimesWhen it comes to arthritis treatment, timing is of the essenceIrish TimesOur bodies run to a 24-hour circadian rhythm. Many bodily functions switch on and off in a co-ordinated way to match this wake-sleep rhythm. It makes sense to try...",
             "date": "2015-04-30",
-            "tags": "switch,off,bodies,treatment,circadian,rhythm,sleep",
+            "tags": "wake,switch,bodies,treatment,hour,circadian,rhythm,sleep",
             "recuweb_url": "http://en.recuweb.com/irishtimes.com/2015/04/when-it-comes-to-arthritis-treatment-timing-is-of-the-essence",
             "resource_url": "http://news.google.com/?hl=en&q=circadian%2Brhythm&output=atom&nord=1",
             "source_url": "http://irishtimes.com/news/science/when-it-comes-to-arthritis-treatment-timing-is-of-the-essence-1.2190762"
@@ -43,7 +34,7 @@
             "snippet": "This research is really about the importance of the circadian rhythm to our general well-being. Weve taken an important step towards being able to reset our internal clocks and improve the health of thousands as a result. Ideally our bodies...",
             "date": "2015-04-29",
             "categories": "health",
-            "tags": "bodies,important,important-step,important-step-towards,step,step-towards,step-towards-being,towards,towards-being,towards-being-able,able,reset,internal,clocks,clock,health,general,general-well,well,research,research-is-really,really,importance,molecular,switch,internal_body,internal_body_clock,bodys,body_clock,reset_button,button,circadian,rhythm,weve",
+            "tags": "bodies,important,important-step,important-step-towards,step,step-towards,step-towards-being,towards,towards-being,towards-being-able,able,reset,internal,clocks,clock,health,result,general,general-well,well,research,research-is-really,really,importance,molecular,switch,internal_body,internal_body_clock,bodys,body_clock,reset_button,button,circadian,rhythm,weve",
             "recuweb_url": "http://en.recuweb.com/health/inquisitr.com/2015/04/bodys-reset-button-discovered-molecular-switch-that-synchronizes-internal-body-clock",
             "resource_url": "http://www.bing.com/news/search?first=1&q=circadian%2Brhythm&format=RSS&cc=us",
             "source_url": "http://inquisitr.com/2051561/bodys-reset-button-discovered-molecular-switch-that-synchronizes-internal-body-clock-has-been-found-new-treatments-for-old-diseases/"
@@ -71,7 +62,7 @@
             "title": "Uncovering The Molecular Reset Button of the Bodys Master Clock...",
             "snippet": "For many years scientists have understood that light exposure effects a group of never cells within the brain called the suprachiasmatic nucleus, which in turn sets the bodys circadian rhythm, allowing us to compensate for jet lag symptoms in a...",
             "date": "2015-04-28",
-            "tags": "jet,lag,bodys,brain,clock,molecular,reset,reset_button,button,circadian,rhythm",
+            "tags": "jet,lag,turn,bodys,within,brain,called,clock,molecular,reset,reset_button,button,circadian,rhythm",
             "recuweb_url": "http://en.recuweb.com/genengnews.com/2015/04/uncovering-the-molecular-reset-button-of-bodys-master-clock",
             "resource_url": "http://www.bing.com/news/search?first=1&q=circadian%2Brhythm&format=RSS&cc=us",
             "source_url": "http://genengnews.com/gen-news-highlights/uncovering-the-molecular-reset-button-of-the-body-s-master-clock/81251201/"
@@ -99,10 +90,20 @@
             "snippet": "MedPage TodayIs Circadian Rhythm the Rhythm of Life?MedPage TodayCircadian rhythms in mammals are generated by a brain clock located in the SCN of the anterior hypothalamus, and this research expands on earlier work examining how SCN communicates...",
             "date": "2015-04-26",
             "categories": "circadian-rhythm,life",
-            "tags": "research,brain,clock,circadian,circadian_rhythm,rhythms",
+            "tags": "research,brain,clock,circadian,circadian_rhythm,rhythms,scn",
             "recuweb_url": "http://en.recuweb.com/life/medpagetoday.com/2015/04/is-circadian-rhythm-the-of-life-medpage-today",
-            "resource_url": "http://news.google.com/?hl=en&q=circadian%2Brhythm%2Bcircadian%2Brhythm&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=circadian%2Brhythm&output=atom&nord=1",
             "source_url": "http://medpagetoday.com/Endocrinology/Infertility/51203"
+        },
+        "medscape.com/2015/04/sleep-wake-disorder-drug-hetlioz-gets-nod-in-europe": {
+            "title": "Sleep-Wake Disorder Drug Hetlioz Gets Nod in Europe...",
+            "snippet": "The European Medicines Agency (EMA) has recommended marketing authorization for tasimelteon (Hetlioz), a melatonin-receptor agonist, for the treatment of adults with a chronic circadian rhythm condition called non24-hour sleep-wake disorder...",
+            "date": "2015-04-24",
+            "categories": "marketing",
+            "tags": "wake,called,treatment,sleep,circadian,rhythm,hour",
+            "recuweb_url": "http://en.recuweb.com/marketing/medscape.com/2015/04/sleep-wake-disorder-drug-hetlioz-gets-nod-in-europe",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=circadian%2Brhythm&format=RSS&cc=us",
+            "source_url": "http://medscape.com/viewarticle/843694"
         }
     }
 }
