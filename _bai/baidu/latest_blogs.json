@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "baidu",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/baidu/",
@@ -11,27 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/baidu/baidu/blogs.json"
     },
     "items": {
-        "benzinga.com/2015/05/cicc-downgrades-baidu-to-hold-inc-nasdaq-bidu": {
-            "title": "CICC Downgrades Baidu To Hold - Baidu, Inc. (NASDAQ:BIDU...",
-            "snippet": "CICC downgraded Baidu Inc (ADR) (NASDAQ: BIDU) from Buy to Hold. The price target for Baidu has been lowered from to. Baidu shares have...",
-            "date": "2015-05-01",
-            "author_name": "Monica Gerson",
+        "seekingalpha.com/2015/05/baidu-rain-go-away-inc-nasdaq-bidu-seeking": {
+            "title": "Baidu: Rain Rain Go Away - Baidu, Inc. (NASDAQ:BIDU) Seeking...",
+            "snippet": "Baidu's (NASDAQ:BIDU) 1Q15 underscores my prior concern regarding its ability to monetize mobile as ad dollar shifts towards other fast growing ad platforms.",
+            "date": "2015-05-02",
+            "author_name": "SeekingAlpha.com",
             "categories": "baidu",
-            "tags": "downgrades,downgrades_baidu,baidu,hold,inc,nasdaq,bidu,downgraded,adr,price,target,lowered,shares",
-            "recuweb_url": "http://en.recuweb.com/baidu/benzinga.com/2015/05/cicc-downgrades-baidu-to-hold-inc-nasdaq-bidu",
-            "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://benzinga.com/analyst-ratings/downgrades/15/05/5467074/cicc-downgrades-baidu-to-hold"
-        },
-        "benzinga.com/2015/05/jefferies-downgrades-baidu-inc-nasdaq-bidu-benzinga": {
-            "title": "Jefferies Downgrades Baidu - Baidu, Inc. (NASDAQ:BIDU) Benzinga...",
-            "snippet": "In a report published Friday, analysts at Jefferies downgraded Baidu Inc (ADR) (NASDAQ: BIDU) from Buy to Hold. The price target was also lowered from 253...",
-            "date": "2015-05-01",
-            "author_name": "Jim Swanson",
-            "categories": "baidu",
-            "tags": "analysts,jefferies,downgrades,downgrades_baidu,baidu,inc,nasdaq,bidu,report,friday,downgraded,adr,hold,price,target,lowered",
-            "recuweb_url": "http://en.recuweb.com/baidu/benzinga.com/2015/05/jefferies-downgrades-baidu-inc-nasdaq-bidu-benzinga",
-            "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://benzinga.com/analyst-ratings/analyst-color/15/05/5467163/jefferies-downgrades-baidu"
+            "tags": "fast,baidu,inc,nasdaq,bidu,seeking,mobile",
+            "recuweb_url": "http://en.recuweb.com/baidu/seekingalpha.com/2015/05/baidu-rain-go-away-inc-nasdaq-bidu-seeking",
+            "resource_url": "http://www.google.com/search?q=baidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://seekingalpha.com/article/3127566-baidu-rain-rain-go-away"
         },
         "seekingalpha.com/2015/04/baidu-s-bidu-ceo-robin-li-on-q1-2015-results-earnings": {
             "title": "Baidu's (BIDU) CEO Robin Li on Q1 2015 Results - Earnings Call...",
@@ -39,32 +28,54 @@
             "date": "2015-04-30",
             "author_name": "SeekingAlpha.com",
             "categories": "baidu",
-            "tags": "earnings,baidu,bidu,results,inc,nasdaq",
+            "tags": "earnings,robin,baidu,bidu,results,inc,nasdaq",
             "recuweb_url": "http://en.recuweb.com/baidu/seekingalpha.com/2015/04/baidu-s-bidu-ceo-robin-li-on-q1-2015-results-earnings",
-            "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=baidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://seekingalpha.com/article/3119926-baidus-bidu-ceo-robin-li-on-q1-2015-results-earnings-call-transcript"
+        },
+        "techinasia.com/2015/04/baidu-q1-earnings-miss-estimates-but-mobile-revenues-rise": {
+            "title": "Baidu Q1 earnings miss estimates, but mobile revenues rise...",
+            "snippet": "Chinese search giant Baidu released its latest earnings report today, and the numbers are less than stellar. Operating profit, excluding share-based compensation expenses, came in at RMB 2.4 billion (US394.6 million),...",
+            "date": "2015-04-30",
+            "author_name": "Tech in Asia",
+            "categories": "baidu",
+            "tags": "share,rise,baidu,earnings,mobile,chinese,search,giant,report,profit",
+            "recuweb_url": "http://en.recuweb.com/baidu/techinasia.com/2015/04/baidu-q1-earnings-miss-estimates-but-mobile-revenues-rise",
+            "resource_url": "http://www.google.com/search?q=baidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://techinasia.com/baidu-q1-earnings-estimates-mobile-revenues-rise/"
         },
         "techcrunch.com/2015/04/baidu-sees-revenue-growth-and-profit-slump-in-q1-2015": {
             "title": "Baidu Sees Revenue Growth And Profit Slump In Q1 2015...",
             "snippet": "Baidu, China's largest Internet search and maps provider, continues to see slowing business as it adapts to the rise of mobile. The company's latest Q1 2015 financial report continued an ongoing decline in revenue growth...",
             "date": "2015-04-30",
-            "author_name": "Jon Russell",
+            "author_name": "techcrunch.com",
             "categories": "business,baidu,internet",
-            "tags": "revenue,provider,baidu,profit,china,internet,search,mobile,company,financial,report",
+            "tags": "decline,business,rise,maps,provider,largest,baidu,revenue,growth,profit,china,internet,search,mobile,company,financial,report",
             "recuweb_url": "http://en.recuweb.com/internet/techcrunch.com/2015/04/baidu-sees-revenue-growth-and-profit-slump-in-q1-2015",
-            "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=baidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://techcrunch.com/2015/04/29/baidu-q1-2015/"
         },
-        "benzinga.com/2015/04/bai-do-s-and-don-ts-from-baidu-earnings-inc": {
-            "title": "Bai-Do's And Bai-Don'ts From Baidu Earnings - Baidu, Inc...",
-            "snippet": "Shares of Baidu Inc (ADR) (NASDAQ: BIDU) tumbled Thursday morning, after the company reported its first quarter financial results Wednesday afternoon....",
+        "techinasia.com/2015/04/baidu-wants-to-rescue-nepal-s-damaged-world-heritage-sites-in": {
+            "title": "Baidu wants to rescue Nepal's damaged world heritage sites in...",
+            "snippet": "Nepal has had to rebuild parts of its World Heritage sites after quakes before, but following this most recent disaster, Chinese search giant Baidu has apparently resolved to help reconstruct them digitally so that they can be...",
             "date": "2015-04-30",
-            "author_name": "Javier Hasse",
+            "author_name": "C. Custer",
             "categories": "baidu",
-            "tags": "reported,quarter,financial,results,baidu,earnings,inc,shares,adr,nasdaq,bidu,thursday,morning,company,wednesday",
-            "recuweb_url": "http://en.recuweb.com/baidu/benzinga.com/2015/04/bai-do-s-and-don-ts-from-baidu-earnings-inc",
-            "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://benzinga.com/analyst-ratings/analyst-color/15/04/5462981/bai-dos-and-bai-donts-from-baidu-earnings"
+            "tags": "help,digitally,recent,world,baidu,nepal,chinese,search,giant",
+            "recuweb_url": "http://en.recuweb.com/baidu/techinasia.com/2015/04/baidu-wants-to-rescue-nepal-s-damaged-world-heritage-sites-in",
+            "resource_url": "http://www.google.com/search?q=baidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://techinasia.com/baidu-rescue-nepals-damaged-world-heritage-sites-crowdsourced-3d/"
+        },
+        "businessinsider.com/2015/04/china-search-engine-baidu-reports-slip-in-q1-profit-business-insider": {
+            "title": "China search engine Baidu reports slip in Q1 profit - Business Insider...",
+            "snippet": "San Francisco (AFP) - Chinese search giant Baidu reported its first-quarter profit slipped, despite revenue jumping more than a third on strong use of smartphones to access the service. Revenue for the quarter that ended on...",
+            "date": "2015-04-30",
+            "author_name": "unknown",
+            "categories": "business,baidu",
+            "tags": "third,strong,profit,reported,business,reports,china,search,engine,baidu,chinese,giant,quarter,revenue",
+            "recuweb_url": "http://en.recuweb.com/baidu/businessinsider.com/2015/04/china-search-engine-baidu-reports-slip-in-q1-profit-business-insider",
+            "resource_url": "http://www.google.com/search?q=baidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://businessinsider.com/afp-china-search-engine-baidu-reports-slip-in-q1-profit-2015-4"
         },
         "247wallst.com/2015/04/baidu-q1-earnings-preview-nasdaq-bidu-24-7-wall-st": {
             "title": "Baidu Q1 Earnings Preview (NASDAQ: BIDU) - 24/7 Wall St.",
@@ -72,54 +83,43 @@
             "date": "2015-04-29",
             "author_name": "Paul Ausick",
             "categories": "internet,markets,baidu",
-            "tags": "earnings,provider,chinese,internet,results,reports,report,baidu,inc,pre,nasdaq,bidu,wall,quarter,wednesday,search,ads",
+            "tags": "share,provider,chinese,internet,results,markets,reports,report,baidu,baidu_inc,inc,earnings,pre,nasdaq,bidu,wall,quarter,search",
             "recuweb_url": "http://en.recuweb.com/baidu/247wallst.com/2015/04/baidu-q1-earnings-preview-nasdaq-bidu-24-7-wall-st",
-            "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=baidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://247wallst.com/technology-3/2015/04/29/what-to-look-for-in-baidu-earnings/"
         },
-        "phys.org/2015/04/china-search-engine-baidu-reports-slip-in-q1-profit": {
-            "title": "China search engine Baidu reports slip in Q1 profit -...",
-            "snippet": "Chinese search giant Baidu on Wednesday reported its first-quarter profit slipped, despite revenue jumping more than a third on strong use of smartphones to access the service.",
-            "date": "2015-04-29",
-            "author_name": "unknown",
+        "paulfrank2015.wordpress.com/2015/04/baidu-space-after-8-years-from-glory-to-end": {
+            "title": "Baidu space after 8 years, from glory to end...",
+            "snippet": "As members of the family of Baidu Baidu space, within a period of eight years from glory to decline so far considered the exposure ages of application by...",
+            "date": "2015-04-08",
+            "author_name": "juliawats",
             "categories": "baidu",
-            "tags": "revenue,quarter,profit,reported,reports,china,search,engine,baidu,chinese,wednesday",
-            "recuweb_url": "http://en.recuweb.com/baidu/phys.org/2015/04/china-search-engine-baidu-reports-slip-in-q1-profit",
-            "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://phys.org/news/2015-04-baidu-revenue-climbs-profit.html"
+            "tags": "decline,baidu",
+            "recuweb_url": "http://en.recuweb.com/baidu/paulfrank2015.wordpress.com/2015/04/baidu-space-after-8-years-from-glory-to-end",
+            "resource_url": "http://en.search.wordpress.com/?q=baidu&f=feed&page=1",
+            "source_url": "http://paulfrank2015.wordpress.com/2015/04/08/baidu-space-after-8-years-from-glory-to-end/"
         },
-        "seekingalpha.com/2015/04/baidu-does-the-800lb-gorilla-need-a-map-inc-nasdaq": {
-            "title": "Baidu: Does The 800lb Gorilla Need A Map? - Baidu, Inc. (NASDAQ...",
-            "snippet": "Bloomberg reported that Baidu (NASDAQ:BIDU) is considering a bid for Nokia's mapping unit, HERE, with another potential bidder being Alibaba (NYSE:BABA).",
-            "date": "2015-04-28",
-            "author_name": "SeekingAlpha.com",
-            "categories": "baidu",
-            "tags": "reported,baidu,inc,nasdaq,bidu",
-            "recuweb_url": "http://en.recuweb.com/baidu/seekingalpha.com/2015/04/baidu-does-the-800lb-gorilla-need-a-map-inc-nasdaq",
+        "cloudnewsasia.com/2015/03/is-baidu-a-copycat-robin-li-explains-the-biggest-difference-between": {
+            "title": "Is Baidu a copycat? Robin Li explains the biggest difference between Baidu and Google...",
+            "snippet": "Chinese search engine Baidu has been the king of Chinas search game for a long time, since well before Google decided to leave the Chinese market. But given []...",
+            "date": "2015-03-01",
+            "author_name": "agilecat.cloud",
+            "categories": "baidu,google",
+            "tags": "baidu,robin,chinese,search,engine,market",
+            "recuweb_url": "http://en.recuweb.com/google/cloudnewsasia.com/2015/03/is-baidu-a-copycat-robin-li-explains-the-biggest-difference-between",
+            "resource_url": "http://en.search.wordpress.com/?q=baidu&f=feed&page=1",
+            "source_url": "http://cloudnewsasia.com/2015/03/01/is-baidu-a-copycat-robin-li-explains-the-biggest-difference-between-baidu-and-google-cloud-cloudcomputing-baidu-china/"
+        },
+        "gigaom.com/2015/01/baidu-built-a-supercomputer-for-deep-learning-gigaom": {
+            "title": "Baidu built a supercomputer for deep learning Gigaom...",
+            "snippet": "Chinese search engine company Baidu says it has built the world's most-accurate computer vision system, dubbed Deep Image, which runs on a supercomputer optimized for deep learning algorithms. Baidu claims a...",
+            "date": "2015-01-15",
+            "author_name": "Derrick Harris",
+            "categories": "learning,baidu",
+            "tags": "image,world,baidu,chinese,search,engine,company",
+            "recuweb_url": "http://en.recuweb.com/baidu/gigaom.com/2015/01/baidu-built-a-supercomputer-for-deep-learning-gigaom",
             "resource_url": "http://www.google.com/search?q=baidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://seekingalpha.com/article/3103836-baidu-does-the-800lb-gorilla-need-a-map"
-        },
-        "fullprocracked.com/2015/04/baidu-antivirus-2015-with-product-key-download-free": {
-            "title": "Baidu Antivirus 2015 with Product Key Download Free...",
-            "snippet": "Baidu Antivirus 2015 with Product Key is a free antivirus that provides protection against viruses and other pests from the internet. Uses three different antivirus engines - Avira Antivirus engine, Baidu Baidu Antivirus Engine and Cloud Security.",
-            "date": "2015-04-28",
-            "author_name": "(Pro App)",
-            "categories": "internet,viruses,baidu",
-            "tags": "engine,antivirus,internet,baidu,baidu_antivirus,free",
-            "recuweb_url": "http://en.recuweb.com/baidu/fullprocracked.com/2015/04/baidu-antivirus-2015-with-product-key-download-free",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=baidu%2Bbaidu&rss=1&lng=en",
-            "source_url": "http://fullprocracked.com/2015/04/baidu-antivirus-2015-543122701-with.html"
-        },
-        "zacks.com/2015/04/will-baidu-bidu-disappoint-earnings-estimates-this-season": {
-            "title": "Will Baidu (BIDU) Disappoint Earnings Estimates this Season...",
-            "snippet": "Baidu, Inc. (BIDU) is set to report first-quarter 2015 results on Apr 29. Last quarter, the company posted a 9.4% negative earnings surprise.",
-            "date": "2015-04-27",
-            "author_name": "Zacks Equity Research",
-            "categories": "baidu",
-            "tags": "earnings,results,ates,baidu,bidu,inc,report,quarter,company",
-            "recuweb_url": "http://en.recuweb.com/baidu/zacks.com/2015/04/will-baidu-bidu-disappoint-earnings-estimates-this-season",
-            "resource_url": "http://www.google.com/search?q=baidu%2Bbaidu&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://zacks.com/stock/news/172393/will-baidu-bidu-disappoint-earnings-estimates-this-season"
+            "source_url": "http://gigaom.com/2015/01/14/baidu-has-built-a-supercomputer-for-deep-learning/"
         }
     }
 }
