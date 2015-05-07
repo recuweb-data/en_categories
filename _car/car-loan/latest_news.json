@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "car-loan",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/car-loan/",
@@ -11,15 +11,43 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/car-loan/car-loan/blogs.json"
     },
     "items": {
-        "reviewjournal.com/2015/05/30-biggest-dos-and-donts-when-buying-a-car": {
-            "title": "30 biggest dos and donts when buying a car...",
-            "snippet": "While some credit scoring models dont count all car loan inquiries in a short period of time, not all have this buffer. 16. Dont Neglect Research Do your homework. Preparation is not the fun part of buying a car, but it might be the most important.",
-            "date": "2015-05-02",
-            "categories": "credit",
-            "tags": "buying,car,credit,loan",
-            "recuweb_url": "http://en.recuweb.com/credit/reviewjournal.com/2015/05/30-biggest-dos-and-donts-when-buying-a-car",
+        "gobankingrates.com/2015/05/5-things-everyone-gets-wrong-about-personal-loans": {
+            "title": "5 Things Everyone Gets Wrong About Personal Loans...",
+            "snippet": "Unsecured personal loans only require a signature as a guarantee of payment, whereas a secured personal loan also requires some sort of collateral much like a mortgage or car loan does. The advantage of unsecured loans, of course, is that there are...",
+            "date": "2015-05-03",
+            "tags": "only,payment,things,loans,loan,car",
+            "recuweb_url": "http://en.recuweb.com/gobankingrates.com/2015/05/5-things-everyone-gets-wrong-about-personal-loans",
             "resource_url": "http://www.bing.com/news/search?first=1&q=car%2Bloan&format=RSS&cc=us",
-            "source_url": "http://reviewjournal.com/business/money/30-biggest-dos-and-don-ts-when-buying-car"
+            "source_url": "http://gobankingrates.com/personal-finance/5-things-everyone-gets-wrong-personal-loans/"
+        },
+        "rismedia.com/2015/05/good-debt-vs-bad": {
+            "title": "Good Debt vs. Bad Debt...",
+            "snippet": "A student loan, for example, is a necessary debt to fund your education, which builds earnings potential. A car loan for transportation to get you to your job is another example but again, borrowing excessively for a luxury car tips the scales to...",
+            "date": "2015-05-03",
+            "categories": "luxury,education",
+            "tags": "job,potential,debt,bad,student,loan,car",
+            "recuweb_url": "http://en.recuweb.com/education/rismedia.com/2015/05/good-debt-vs-bad",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=car%2Bloan&format=RSS&cc=us",
+            "source_url": "http://rismedia.com/2015-05-03/good-debt-vs-bad-debt/"
+        },
+        "huffingtonpost.com/2015/05/parents-can-t-afford-to-ignore-their-child-s-student-loan": {
+            "title": "Parents Can't Afford to Ignore Their Child's Student Loan Status...",
+            "snippet": "A bad credit rating can affect your childs future ability to get a mortgage, car loan, credit card, or approval to rent a home or apartment. Remember, if you co-signed the student loan agreement, any payment default could negatively affect your...",
+            "date": "2015-05-03",
+            "categories": "home,student-loan,credit",
+            "tags": "payment,signed,student,loan,bad,credit,car",
+            "recuweb_url": "http://en.recuweb.com/credit/huffingtonpost.com/2015/05/parents-can-t-afford-to-ignore-their-child-s-student-loan",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=car%2Bloan&format=RSS&cc=us",
+            "source_url": "http://huffingtonpost.com/stephen-dash/parents-cant-afford-to-ig_b_7199520.html"
+        },
+        "thelinkpaper.ca/2015/05/we-answer-your-questions-debt-and-bankruptcy": {
+            "title": "We Answer Your Questions Debt And Bankruptcy...",
+            "snippet": "Q: I co-signed a debt for my friend on a car loan which he is not paying and the bank is calling me to pay off that debt. What are my options? A: First of all you have to understand that whenever you sign a guarantee on a loan or co-sign somebody...",
+            "date": "2015-05-03",
+            "tags": "bank,debt,signed,bankruptcy,car,loan",
+            "recuweb_url": "http://en.recuweb.com/thelinkpaper.ca/2015/05/we-answer-your-questions-debt-and-bankruptcy",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=car%2Bloan&format=RSS&cc=us",
+            "source_url": "http://thelinkpaper.ca/?p=46492"
         },
         "ecreditdaily.com/2015/05/average-new-car-loan-hits-record-long-term-in-april": {
             "title": "Average New-Car Loan Hits Record Long Term in April...",
@@ -35,30 +63,10 @@
             "title": "Fiat Chrysler, GM sales rose 6%, Ford up 5.4% in April...",
             "snippet": "The average new car loan issued in April was 67.8 months -- the longest average new car loan term in history, said Jessica Caldwell, an industry analyst with. In many cases, car shoppers are financing vehicles with higher transaction prices...",
             "date": "2015-05-01",
-            "tags": "shoppers,vehicles,vehicles-with-higher,higher,prices,cases,analyst,jessica,jessica_caldwell,caldwell,term,longest,longest-average,longest-average-new,average,average-new,issued,sales,fiat,fiat_chrysler,chrysler,ford,car,loan,said",
+            "tags": "vehicles,prices,term,average,sales,fiat,fiat_chrysler,chrysler,ford,car,loan",
             "recuweb_url": "http://en.recuweb.com/freep.com/2015/05/fiat-chrysler-gm-sales-rose-6%-ford-up-5-4%-in",
             "resource_url": "http://www.bing.com/news/search?first=1&q=car%2Bloan&format=RSS&cc=us",
             "source_url": "http://freep.com/story/money/cars/2015/05/01/fiatchrysler-ford-general-motors-sales/26691323/"
-        },
-        "wsj.com/2015/05/luxury-cars-drive-auto-sales-higher": {
-            "title": "Luxury Cars Drive Auto Sales Higher...",
-            "snippet": "senior auto analyst Jessica Caldwell said the average new car loan issued in April was 67.8 monthsthe longest average new car loan term in history. In many cases, car shoppers are applying this trend to finance vehicles with higher...",
-            "date": "2015-05-01",
-            "categories": "luxury,finance",
-            "tags": "vehicles,vehicles-with-higher,higher,shoppers,cases,term,longest,longest-average,longest-average-new,average,average-new,issued,said,jessica,jessica_caldwell,caldwell,auto,analyst,cars,sales,car,loan,finance",
-            "recuweb_url": "http://en.recuweb.com/finance/wsj.com/2015/05/luxury-cars-drive-auto-sales-higher",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=car%2Bloan&format=RSS&cc=us",
-            "source_url": "http://wsj.com/articles/chrysler-sales-rise-5-8-in-april-1430484083?mod=pls_whats_news_us_business_f"
-        },
-        "cistranfinance.com/2015/04/rosbank-joins-state-car-loan-subsidy-program-cistran-finance": {
-            "title": "Rosbank joins state car-loan subsidy program - CISTran Finance...",
-            "snippet": "Rosbank joins state car-loan subsidy programCISTran FinanceWe have traditionally participated in car-loan-subsidizing state programs since 2009 and welcome the fact that car lending has received state support again, Andrey Sokolskiy, head of retail...",
-            "date": "2015-04-30",
-            "categories": "finance",
-            "tags": "lending,finance,car,loan",
-            "recuweb_url": "http://en.recuweb.com/finance/cistranfinance.com/2015/04/rosbank-joins-state-car-loan-subsidy-program-cistran-finance",
-            "resource_url": "http://news.google.com/?hl=en&q=car%2Bloan&output=atom&nord=1",
-            "source_url": "http://cistranfinance.com/news/rosbank-joins-state-car-loan-subsidy-program/6748/"
         },
         "autocreditexpress.com/2015/04/what-to-look-for-in-your-auto-loan-contract-credit-express": {
             "title": "What to Look for in Your Auto Loan Contract - Auto Credit Express (blog)...",
@@ -67,7 +75,7 @@
             "categories": "credit",
             "tags": "small,auto,loan,credit,credit_express,express,auto_credit,auto_credit_express,buying,car",
             "recuweb_url": "http://en.recuweb.com/credit/autocreditexpress.com/2015/04/what-to-look-for-in-your-auto-loan-contract-credit-express",
-            "resource_url": "http://news.google.com/?hl=en&q=car%2Bloan%2Bcar%2Bloan&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=car%2Bloan&output=atom&nord=1",
             "source_url": "http://autocreditexpress.com/blog/what-to-look-for-in-your-auto-loan-contract/"
         },
         "dallasnews.com/2015/04/impact-investing-takes-the-bite-out-of-auto-loan-sharks-dallas": {
@@ -75,9 +83,9 @@
             "snippet": "'Impact investing'takes the bite out of auto loan sharksDallas Morning NewsMichelle Corson, founder of On the Road Lending, pools investors'money to finance cars for the low-income at decent rates. For a single mom with a menial job, that means...",
             "date": "2015-04-29",
             "categories": "finance",
-            "tags": "cars,low,lending,auto,loan,finance",
+            "tags": "job,cars,low,auto,loan,finance",
             "recuweb_url": "http://en.recuweb.com/finance/dallasnews.com/2015/04/impact-investing-takes-the-bite-out-of-auto-loan-sharks-dallas",
-            "resource_url": "http://news.google.com/?hl=en&q=car%2Bloan%2Bcar%2Bloan&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=car%2Bloan&output=atom&nord=1",
             "source_url": "http://dallasnews.com/business/columnists/cheryl-hall/20150428-impact-investing-takes-the-bite-out-of-auto-loan-sharks.ece"
         },
         "autocreditexpress.com/2015/04/can-i-get-a-car-loan-if-am-on-disability-auto": {
@@ -87,25 +95,15 @@
             "categories": "credit,car-loan,disability",
             "tags": "only,buying,auto,auto_credit,auto_credit_express,credit,credit_express,express,car,car_loan,loan",
             "recuweb_url": "http://en.recuweb.com/disability/autocreditexpress.com/2015/04/can-i-get-a-car-loan-if-am-on-disability-auto",
-            "resource_url": "http://news.google.com/?hl=en&q=car%2Bloan%2Bcar%2Bloan&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=car%2Bloan&output=atom&nord=1",
             "source_url": "http://autocreditexpress.com/blog/can-i-get-a-car-loan-if-i-am-on-disability/"
-        },
-        "indianexpress.com/2015/04/haryana-mlas-get-hike-in-housing-car-loans-on-demand": {
-            "title": "Haryana MLAs get hike in housing, car loans on demand - The Indian Express...",
-            "snippet": "Haryana MLAs get hike in housing, car loans on demandThe Indian ExpressAt an event to distribute free laptops to the MLAs, Congress legislator from Hassanpur Udai Bhan demanded the upper limit of car and housing loans for the legislators be doubled.",
-            "date": "2015-04-28",
-            "categories": "housing",
-            "tags": "free,express,car,loans",
-            "recuweb_url": "http://en.recuweb.com/housing/indianexpress.com/2015/04/haryana-mlas-get-hike-in-housing-car-loans-on-demand",
-            "resource_url": "http://news.google.com/?hl=en&q=car%2Bloan%2Bcar%2Bloan&output=atom&nord=1",
-            "source_url": "http://indianexpress.com/article/india/india-others/haryana-mlas-get-hike-in-housing-car-loans-on-demand/"
         },
         "mkweb.co.uk/2015/04/free-electric-car-loan-to-milton-keynes-businesses": {
             "title": "Free electric car loan to Milton Keynes businesses...",
             "snippet": "Milton Keynes Council's electric vehicle partner Chargemaster Plc is offering a free electric vehicle loan service to Milton Keynes businesses. Chargemaster has a small fleet of electric vehicles (EV) that can be loaned to companies (and their...",
             "date": "2015-04-27",
             "categories": "business",
-            "tags": "small,vehicles,free,car,loan",
+            "tags": "small,vehicles,car,loan",
             "recuweb_url": "http://en.recuweb.com/business/mkweb.co.uk/2015/04/free-electric-car-loan-to-milton-keynes-businesses",
             "resource_url": "http://www.bing.com/news/search?first=1&q=car%2Bloan&format=RSS&cc=us",
             "source_url": "http://mkweb.co.uk/Free-electric-car-loan-Milton-Keynes-businesses/story-26395794-detail/story.html"
