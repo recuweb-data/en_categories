@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "microformat",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/microformat/",
@@ -11,26 +11,6 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/microformat/microformat/blogs.json"
     },
     "items": {
-        "searchenginejournal.com/2015/04/seo-101-make-your-site-stand-out-in-serps-with-rich": {
-            "title": "SEO 101: Make Your Site Stand Out in SERPs With Rich Snippet Mark-Up - Search Engine Journal...",
-            "snippet": "Search Engine JournalSEO 101: Make Your Site Stand Out in SERPs With Rich Snippet Mark-UpSearch Engine Journal1. Pick a Mark-Up Format. Google suggests using microdata, but microdata, microformats, and RDFa are the three accepted formats. 2. Mark up...",
-            "date": "2015-04-25",
-            "categories": "search-engine,google,microformat",
-            "tags": "using,engine,engine_journal,journal,search,search_engine,search_engine_journal,rich,seo,formats,google,microdata,microformats,rdfa",
-            "recuweb_url": "http://en.recuweb.com/microformat/searchenginejournal.com/2015/04/seo-101-make-your-site-stand-out-in-serps-with-rich",
-            "resource_url": "http://news.google.com/?hl=en&q=microformat%2Bmicroformat&output=atom&nord=1",
-            "source_url": "http://searchenginejournal.com/seo-101-make-site-stand-serps-rich-snippet-mark/129552/"
-        },
-        "webpronews.com/2015/04/bing-new-image-search-means-more-traffic-for-you-webpronews": {
-            "title": "Bing: New Image Search Means More Traffic For You - WebProNews...",
-            "snippet": "WebProNewsBing: New Image Search Means More Traffic For YouWebProNewsBing says to use and OpenGraph, but notes that Microdata, Microformats, and RDFa are also supported. When Bing crawlers fetch your page content, these schemas are utilized to...",
-            "date": "2015-04-10",
-            "categories": "bing,microformat",
-            "tags": "page,content,supported,image,search,traffic,microdata,microformats,rdfa",
-            "recuweb_url": "http://en.recuweb.com/microformat/webpronews.com/2015/04/bing-new-image-search-means-more-traffic-for-you-webpronews",
-            "resource_url": "http://news.google.com/?hl=en&q=microformat%2Bmicroformat&output=atom&nord=1",
-            "source_url": "http://webpronews.com/bing-new-image-search-means-more-traffic-for-you-2015-04"
-        },
         "turn-on.de/2015/04/macbook-2015-alle-infos-zum-release-und-erste-tests-turn-on": {
             "title": "MacBook 2015: Alle Infos zum Release und erste Tests - TURN ON...",
             "snippet": "TURN ONMacBook 2015: Alle Infos zum Release und erste TestsTURN ONNeben dem kombinierten Audio-Port verf\u00fcgt der Flachmann lediglich \u00fcber einen USB-C-Anschluss im Micro-Format wof\u00fcr Apple-Nutzer aber keine passende Peripherie haben, weshalb...",
@@ -46,7 +26,7 @@
             "snippet": "Short answer: There arent any. Fifth Third has launched the first of what will be 20 or so small branches it calls microformat branches. Yes, they are smaller, at maybe 2,000 square feet instead of 4,000. But the most notable thing is the lack of...",
             "date": "2013-09-24",
             "categories": "microformat",
-            "tags": "microformat",
+            "tags": "microformat,launched",
             "recuweb_url": "http://en.recuweb.com/microformat/bizjournals.com/2013/09/where-did-the-tellers-go-fifth-third-launches-new-branch-concept",
             "resource_url": "http://www.bing.com/news/search?first=1&q=microformat&format=RSS&cc=us",
             "source_url": "http://bizjournals.com/cincinnati/blog/2013/09/where-did-the-tellers-go-fifth-third.html"
@@ -56,17 +36,27 @@
             "snippet": "Employing Microformats & Structured Data For Enhanced Search Engine VisibilitySearch Engine LandWith the introduction of the vocabulary, much attention has been focused on the benefits of employing structured data for improved visibility in the...",
             "date": "2011-09-29",
             "categories": "vocabulary,search-engine,microformat",
-            "tags": "structured,data,search,search_engine,engine,microformats",
+            "tags": "structured,data,search,search_engine,engine,land,microformats",
             "recuweb_url": "http://en.recuweb.com/microformat/searchengineland.com/2011/09/employing-microformats-&-structured-data-for-enhanced-search-engine-visibility-land",
             "resource_url": "http://news.google.com/?hl=en&q=microformat&output=atom&nord=1",
             "source_url": "http://searchengineland.com/employing-microformats-structured-data-for-enhanced-search-engine-visibility-94122"
+        },
+        "devproconnections.com/2011/08/better-mobile-website-development-using-the-jquery-library-devproconnections": {
+            "title": "Better Mobile Website Development Using the jQuery Mobile Library - DevProconnections...",
+            "snippet": "Better Mobile Website Development Using the jQuery Mobile LibraryDevProconnectionsIn this regard, HTML5 data-xxx attributes are different from microformats. A microformat is still a special HTML markup, but it has a general scope and is not limited,...",
+            "date": "2011-08-08",
+            "categories": "microformat,jquery,html",
+            "tags": "microformats,development,using,html,data,markup",
+            "recuweb_url": "http://en.recuweb.com/html/devproconnections.com/2011/08/better-mobile-website-development-using-the-jquery-library-devproconnections",
+            "resource_url": "http://news.google.com/?hl=en&q=en%2Blocalhost%2Bcom%2Bmicroformat&output=atom&nord=1",
+            "source_url": "http://devproconnections.com/mobile-development/better-mobile-website-development-using-jquery-mobile-library"
         },
         "sitepoint.com/2010/10/seo-strategies-microformats-in-web-development-sitepoint-blog": {
             "title": "SEO Strategies: Microformats in Web Development - SitePoint (blog)...",
             "snippet": "SEO Strategies: Microformats in Web DevelopmentSitePoint (blog)None of these microformats are very complex; they simply rely on a few conventions with respect to the classes applied to certain elements in the markup, and the ways in which those...",
             "date": "2010-10-05",
             "categories": "web-development,microformat",
-            "tags": "few,elements,markup,web,seo,microformats",
+            "tags": "few,elements,markup,web,development,seo,microformats",
             "recuweb_url": "http://en.recuweb.com/microformat/sitepoint.com/2010/10/seo-strategies-microformats-in-web-development-sitepoint-blog",
             "resource_url": "http://news.google.com/?hl=en&q=microformat&output=atom&nord=1",
             "source_url": "http://sitepoint.com/including-microformats-in-web-development/"
@@ -76,9 +66,9 @@
             "snippet": "Tools to Use and Learn hCard Format Learning MicroformatsSearch Engine JournalI won't try to describe why to use it. Quite a few people have done a great job detailing what hCard microformat is and why people should consider using it. One of the...",
             "date": "2010-01-04",
             "categories": "microformat,learning,search-engine",
-            "tags": "microformats,people,should,using,few,describe,format,engine,search,search_engine,search_engine_journal,engine_journal,journal",
+            "tags": "microformats,people,should,using,few,describe,format,engine,search,search_engine",
             "recuweb_url": "http://en.recuweb.com/search-engine/searchenginejournal.com/2010/01/tools-to-use-and-learn-hcard-format-learning-microformats-search-engine",
-            "resource_url": "http://news.google.com/?hl=en&q=microformat%2Bmicroformat&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=microformat&output=atom&nord=1",
             "source_url": "http://searchenginejournal.com/tools-to-use-and-learn-hcard-format-learning-microformats/15875/"
         },
         "pbs.org/2009/10/hnews-microformat-for-news-adopted-by-aol-and-townnews": {
@@ -86,7 +76,7 @@
             "snippet": "We are on the cusp of something exciting. Thousands of news articles marked up with with hNews, a microformat for news content funded by the Knight Foundation, will soon start populating the Internet. Last week, hNews became an official draft...",
             "date": "2009-10-21",
             "categories": "microformat,internet",
-            "tags": "soon,microformat,content,hnews,hnews_microformat,internet",
+            "tags": "soon,microformat,content,hnews,hnews_microformat",
             "recuweb_url": "http://en.recuweb.com/internet/pbs.org/2009/10/hnews-microformat-for-news-adopted-by-aol-and-townnews",
             "resource_url": "http://www.bing.com/news/search?first=1&q=microformat&format=RSS&cc=us",
             "source_url": "http://pbs.org/idealab/2009/10/hnews-microformat-for-news-adopted-by-aol-and-townnews294"
@@ -105,11 +95,21 @@
             "title": "AP, Media Standards Trust Propose News Microformat...",
             "snippet": "The Media Standards Trust and the Associated Press news agency want to establish a new industry-wide microformat for online news to increase readership and therefore revenue by improving search engine ranking and making content easier to find.",
             "date": "2009-07-09",
-            "categories": "microformat",
-            "tags": "content,microformat,associated,associated_press,press,standards,standards_trust,trust,search,engine",
-            "recuweb_url": "http://en.recuweb.com/microformat/gigaom.com/2009/07/ap-media-standards-trust-propose-news-microformat",
+            "categories": "microformat,search-engine",
+            "tags": "microformat,search,engine,content,associated,associated_press,press,standards,standards_trust,trust",
+            "recuweb_url": "http://en.recuweb.com/search-engine/gigaom.com/2009/07/ap-media-standards-trust-propose-news-microformat",
             "resource_url": "http://www.bing.com/news/search?first=1&q=microformat&format=RSS&cc=us",
             "source_url": "http://gigaom.com/2009/07/10/419-ap-media-standards-trust-propose-news-microformat/"
+        },
+        "searchengineland.com/2009/05/google-search-now-supports-microformats-and-adds-rich-snippets-to-engine": {
+            "title": "Google Search Now Supports Microformats and Adds Rich Snippets to Search... - Search Engine Land...",
+            "snippet": "Google Search Now Supports Microformats and Adds Rich Snippets to Search...Search Engine Land (blog)Today at Searchology, Google has launched a search results enhancement called rich snippets that uses meta data from web pages (from microformats...",
+            "date": "2009-05-12",
+            "categories": "microformat,google",
+            "tags": "launched,search,engine,land,rich,snippets,microformats,google,data,web,pages",
+            "recuweb_url": "http://en.recuweb.com/google/searchengineland.com/2009/05/google-search-now-supports-microformats-and-adds-rich-snippets-to-engine",
+            "resource_url": "http://news.google.com/?hl=en&q=microformat&output=atom&nord=1",
+            "source_url": "http://searchengineland.com/google-search-now-supports-microformats-and-adds-rich-snippets-to-search-results-19055"
         }
     }
 }
