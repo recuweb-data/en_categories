@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "computer-hardware",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/computer-hardware/",
@@ -11,81 +11,90 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/computer-hardware/computer-hardware/blogs.json"
     },
     "items": {
-        "pressandguide.com/2015/05/dearborn-resident-business-leader-joins-ceo-organization": {
-            "title": "Dearborn resident, business leader joins CEO organization...",
-            "snippet": "Prior to AcuMax, Hawreluk provided consulting services to businesses in the areas of productivity; human resource management; lean manufacturing; and computer hardware/software sales. Hawreluk earned a bachelors degree from the University of...",
-            "date": "2015-05-02",
-            "categories": "management,business,productivity,university",
-            "tags": "provided,services,business,computer,hardware,software",
-            "recuweb_url": "http://en.recuweb.com/university/pressandguide.com/2015/05/dearborn-resident-business-leader-joins-ceo-organization",
+        "phys.org/2015/05/mumblehard-targets-servers-running-linux-and-bsd": {
+            "title": "Mumblehard targets servers running Linux and BSD...",
+            "snippet": "The main components, said Ars Technica's Dan Goodin, are written in Perl and obfuscated inside a custom packer written in assembly, a programming language which corresponds to the native machine code of the computer hardware it runs on. Some of the...",
+            "date": "2015-05-04",
+            "categories": "perl",
+            "tags": "runs,programming,programming-language,language,corresponds,native,native-machine,native-machine-code,machine,machine-code,code,obfuscated,obfuscated-inside,obfuscated-inside-custom,inside,inside-custom,inside-custom-packer,custom,custom-packer,packer,written,written-in-assembly,assembly,main,main-components,components,servers,linux,said,perl,computer,hardware",
+            "recuweb_url": "http://en.recuweb.com/perl/phys.org/2015/05/mumblehard-targets-servers-running-linux-and-bsd",
             "resource_url": "http://www.bing.com/news/search?first=1&q=computer%2Bhardware&format=RSS&cc=us",
-            "source_url": "http://pressandguide.com/articles/2015/05/02/news/doc554141783444b892734525.txt"
+            "source_url": "http://phys.org/news/2015-05-mumblehard-servers-linux-bsd.html"
+        },
+        "marketwired.com/2015/05/pfu-systems-named-best-security-product-solution-for-canada-in-2015": {
+            "title": "PFU Systems Named Best Security Product/Solution for Canada in 2015 Annual Info Security Products...",
+            "snippet": "sells and maintains computer hardware, imaging scanners, peripheral products, enterprise software, systems and network security solutions.",
+            "date": "2015-05-04",
+            "tags": "solutions,solution,products,computer,hardware,software,network",
+            "recuweb_url": "http://en.recuweb.com/marketwired.com/2015/05/pfu-systems-named-best-security-product-solution-for-canada-in-2015",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=computer%2Bhardware&format=RSS&cc=us",
+            "source_url": "http://marketwired.com/press-release/pfu-systems-named-best-security-product-solution-canada-2015-annual-info-security-products-2015811.htm"
+        },
+        "cnn.com/2015/05/the-next-big-thing-in-tech-desktop-computer-yes-really-cnn": {
+            "title": "The next big thing in tech: The desktop computer (yes, really) - CNN...",
+            "snippet": "CNNThe next big thing in tech: The desktop computer (yes, really)CNN\"Initially I thought we're going to take Android, put it on a smartphone processor and how hard could it be?\" he said. \"And when we went into hardware how hard could that be? We're...",
+            "date": "2015-05-04",
+            "tags": "said,desktop,computer,hardware",
+            "recuweb_url": "http://en.recuweb.com/cnn.com/2015/05/the-next-big-thing-in-tech-desktop-computer-yes-really-cnn",
+            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bhardware&output=atom&nord=1",
+            "source_url": "http://cnn.com/2015/05/04/tech/mci-endless-computer-desktop-pc-emerging-markets/"
+        },
+        "thehindu.com/2015/05/career-guidance-and-opportunities": {
+            "title": "Career guidance and opportunities...",
+            "snippet": "You should contact: Email: The Tamil Nadu Open University (TNOU) () offers the 44-credit Diploma in Computer Hardware Servicing (DCHS) that has been well received by the hardware exponents for its linkage to the...",
+            "date": "2015-05-03",
+            "categories": "computer-hardware,university,credit",
+            "tags": "computer,computer_hardware,hardware,guidance",
+            "recuweb_url": "http://en.recuweb.com/credit/thehindu.com/2015/05/career-guidance-and-opportunities",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=computer%2Bhardware&format=RSS&cc=us",
+            "source_url": "http://thehindu.com/features/education/careers/career-guidance-and-opportunities/article7164841.ece"
+        },
+        "efytimes.com/2015/05/msi-launches-the-prestige-series-laptops": {
+            "title": "MSI Launches The Prestige Series Laptops...",
+            "snippet": "Sunday, May 03, 2015: MSI Computer Corp, a leading manufacturer of computer hardware products and solutions, unveils the Prestige Series laptops with True Color Technology for mobile executives, creative professionals and multimedia lovers.",
+            "date": "2015-05-03",
+            "categories": "technology",
+            "tags": "professionals,technology,products,solutions,msi,computer,hardware",
+            "recuweb_url": "http://en.recuweb.com/technology/efytimes.com/2015/05/msi-launches-the-prestige-series-laptops",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=computer%2Bhardware&format=RSS&cc=us",
+            "source_url": "http://efytimes.com/e1/fullnews.asp?edid=166160"
         },
         "arstechnica.com/2015/05/spam-blasting-malware-infects-thousands-of-linux-and-freebsd-servers": {
             "title": "Spam-blasting malware infects thousands of Linux and FreeBSD servers...",
             "snippet": "These two main components are written in Perl and they're obfuscated inside a custom packer that's written in assembly, a low-level programming language that closely corresponds to the native machine code of the computer hardware it runs on. Some of...",
             "date": "2015-05-02",
             "categories": "perl",
-            "tags": "level,components,computer,hardware",
+            "tags": "runs,level,programming,programming-language,language,corresponds,native,native-machine,native-machine-code,machine,machine-code,code,written,written-in-assembly,assembly,obfuscated,obfuscated-inside,obfuscated-inside-custom,inside,inside-custom,inside-custom-packer,custom,custom-packer,packer,main,main-components,components,linux,servers,perl,computer,hardware",
             "recuweb_url": "http://en.recuweb.com/perl/arstechnica.com/2015/05/spam-blasting-malware-infects-thousands-of-linux-and-freebsd-servers",
             "resource_url": "http://www.bing.com/news/search?first=1&q=computer%2Bhardware&format=RSS&cc=us",
             "source_url": "http://arstechnica.com/security/2015/04/30/spam-blasting-malware-infects-thousands-of-linux-and-freebsd-servers/"
-        },
-        "newindianexpress.com/2015/05/sensitise-people-on-cyber-crimes": {
-            "title": "'Sensitise People on Cyber Crimes'...",
-            "snippet": "Cyber crimes are fast growing and attacks on computer hardware and software have become a common occurrence. Cyber crimes were once committed by individuals or small groups. Now, there are criminal organisations which operate on fraud, theft,...",
-            "date": "2015-05-01",
-            "tags": "computer,hardware,software",
-            "recuweb_url": "http://en.recuweb.com/newindianexpress.com/2015/05/sensitise-people-on-cyber-crimes",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=computer%2Bhardware&format=RSS&cc=us",
-            "source_url": "http://newindianexpress.com/cities/chennai/Sensitise-People-on-Cyber-Crimes/2015/05/02/article2792662.ece"
         },
         "jagranjosh.com/2015/05/nielit-notified-admission-in-computer-hardware-networking-and-maintenance-courses-2015": {
             "title": "NIELIT Notified Admission in Computer Hardware, Networking and Maintenance Courses 2015...",
             "snippet": "National Institute of Electronics and Information Technology (NIELIT) invited applications for admission in Computer Hardware, Networking and Maintenance Courses (CHM O&A level). Eligible candidates can apply for the admission through the prescribed...",
             "date": "2015-05-01",
             "categories": "technology,institute,computer-hardware,electronics",
-            "tags": "level,computer,computer_hardware,hardware,networking",
+            "tags": "level,technology,computer,computer_hardware,hardware,networking",
             "recuweb_url": "http://en.recuweb.com/electronics/jagranjosh.com/2015/05/nielit-notified-admission-in-computer-hardware-networking-and-maintenance-courses-2015",
             "resource_url": "http://www.bing.com/news/search?first=1&q=computer%2Bhardware&format=RSS&cc=us",
             "source_url": "http://jagranjosh.com/articles/nielit-notified-admission-in-computer-hardware-networking-and-maintenance-courses-2015-1430477178-1"
-        },
-        "thehindu.com/2015/05/placement-training-for-unemployed": {
-            "title": "Placement, training for unemployed...",
-            "snippet": "Krishna district Employment Exchange will arrange for unemployed youth with DGI&T and NCVT certification, training in Tally,, computer hardware and spoken English and provided placement services. Those interested should contact District...",
-            "date": "2015-05-01",
-            "categories": "employment",
-            "tags": "should,provided,services,computer,hardware",
-            "recuweb_url": "http://en.recuweb.com/employment/thehindu.com/2015/05/placement-training-for-unemployed",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=computer%2Bhardware&format=RSS&cc=us",
-            "source_url": "http://thehindu.com/todays-paper/tp-national/tp-andhrapradesh/placement-training-for-unemployed/article7163963.ece"
         },
         "engineering.com/2015/04/quantum-computer-maker-begins-hardware-simulations": {
             "title": "Quantum Computer Maker Begins Hardware Simulations -...",
             "snippet": "Computer Maker Begins Hardware, a company considered to be at the forefront of quantum computer engineering, has partnered with ANSYS to run multi-physics simulations on its super-computing hardware. According to ANYSYS, D-Wave is using an entire...",
             "date": "2015-04-30",
             "categories": "physics,engineering",
-            "tags": "using,company,computer,hardware",
+            "tags": "computer,hardware",
             "recuweb_url": "http://en.recuweb.com/engineering/engineering.com/2015/04/quantum-computer-maker-begins-hardware-simulations",
             "resource_url": "http://news.google.com/?hl=en&q=computer%2Bhardware&output=atom&nord=1",
             "source_url": "http://engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/10042/Quantum-Computer-Maker-Begins-Hardware-Simulations.aspx"
-        },
-        "computerworld.com/2015/04/pc-prices-to-go-up-later-this-year-gartner-warns-computerworld": {
-            "title": "PC prices to go up later this year, Gartner warns - Computerworld...",
-            "snippet": "ComputerworldPC prices to go up later this year, Gartner warnsComputerworldThe PC price increases will likely affect Windows PCs the most. That's because more storage, memory and hardware features go into Windows PCs than competitors like...",
-            "date": "2015-04-29",
-            "categories": "memory",
-            "tags": "memory,storage,increases,hardware",
-            "recuweb_url": "http://en.recuweb.com/memory/computerworld.com/2015/04/pc-prices-to-go-up-later-this-year-gartner-warns-computerworld",
-            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bhardware&output=atom&nord=1",
-            "source_url": "http://computerworld.com/article/2916485/computer-hardware/pc-prices-to-go-up-later-this-year-gartner-warns.html"
         },
         "benzinga.com/2015/04/computer-hardware-rental-services-procurement-category-market-research-benzinga": {
             "title": "Computer Hardware Rental Services Procurement Category Market Research... - Benzinga...",
             "snippet": "Computer Hardware Rental Services Procurement Category Market Research...BenzingaFor these reasons and to help procurement professionals make better buying decisions faster, business intelligence firm IBISWorld has updated a report on the...",
             "date": "2015-04-25",
             "categories": "business,computer-hardware",
-            "tags": "report,business,procurement,buying,computer,computer_hardware,computer_hardware_rental,hardware,hardware_rental,hardware_rental_services,rental,rental_services,rental_services_procurement,services,services_procurement,services_procurement_category,procurement_category,procurement_category_market,category,category_market,category_market_research,market,market_research,research,ibisworld",
+            "tags": "report,procurement,professionals,computer,computer_hardware,computer_hardware_rental,hardware,hardware_rental,hardware_rental_services,rental,rental_services,rental_services_procurement,services,services_procurement,services_procurement_category,procurement_category,procurement_category_market,category,category_market,category_market_research,market,market_research,research,ibisworld",
             "recuweb_url": "http://en.recuweb.com/computer-hardware/benzinga.com/2015/04/computer-hardware-rental-services-procurement-category-market-research-benzinga",
             "resource_url": "http://news.google.com/?hl=en&q=computer%2Bhardware&output=atom&nord=1",
             "source_url": "http://benzinga.com/pressreleases/15/04/p5443093/computer-hardware-rental-services-procurement-category-market-research-"
@@ -99,15 +108,6 @@
             "recuweb_url": "http://en.recuweb.com/computer-hardware/itbusinessnet.com/2015/04/computer-hardware-rental-services-procurement-category-market-research-report-from-ibisworld",
             "resource_url": "http://www.bing.com/news/search?first=1&q=computer%2Bhardware&format=RSS&cc=us",
             "source_url": "http://itbusinessnet.com/article/Computer-Hardware-Rental-Services-Procurement-Category-Market-Research-Report-from-IBISWorld-has-Been-Updated-3865062"
-        },
-        "baltic-course.com/2015/04/computer-hardware-dealer-also-latvia-increases-turnover-but-reduces-profit-in": {
-            "title": "Computer hardware dealer Also Latvia increases turnover, but reduces profit in... - The Baltic...",
-            "snippet": "Computer hardware dealer Also Latvia increases turnover, but reduces profit in...The Baltic CourseComputer hardware dealer Also Latvia increased its turnover by 28% in 2014, while the company's profit reduced by 15%, according to \" \" data, cites...",
-            "date": "2015-04-23",
-            "tags": "company,increases,computer,hardware",
-            "recuweb_url": "http://en.recuweb.com/baltic-course.com/2015/04/computer-hardware-dealer-also-latvia-increases-turnover-but-reduces-profit-in",
-            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bhardware&output=atom&nord=1",
-            "source_url": "http://baltic-course.com/eng/Technology/?doc=105364"
         }
     }
 }
