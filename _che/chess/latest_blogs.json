@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "chess",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/chess/",
@@ -11,49 +11,27 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/chess/chess/blogs.json"
     },
     "items": {
-        "toucharcade.com/2015/05/microgue-review-touch-arcade": {
-            "title": "MicRogue Review Touch Arcade...",
-            "snippet": "For example, there's the ninja, which moves like the knight in chess, i.e. 3 blocks in one direction, and one in the other. Enemies will pursue you in your general direction. So once you figure out how they operate and how they...",
-            "date": "2015-05-01",
-            "author_name": "Carter Dotson",
-            "categories": "chess",
-            "tags": "knight,chess",
-            "recuweb_url": "http://en.recuweb.com/chess/toucharcade.com/2015/05/microgue-review-touch-arcade",
-            "resource_url": "http://www.google.com/search?q=chess%2Bchess&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://toucharcade.com/2015/05/01/microgue-review/"
-        },
-        "chessdom.com/2015/04/11th-copenhagen-chess-challenge-live-chessdom": {
+        "chessdom.com/2015/05/11th-copenhagen-chess-challenge-live-chessdom": {
             "title": "11th Copenhagen Chess Challenge LIVE! Chessdom...",
             "snippet": "The 11th Copenhagen Chess Festival is taking place from 29th April to 3rd May, 2015, in Ballerup, a Danish town, seat of the Ballerup Municipality, in the Region Hovedstaden. The event is a 9-round Swiss tournament with...",
-            "date": "2015-04-30",
+            "date": "2015-05-03",
             "author_name": "videnova",
             "categories": "chess",
-            "tags": "chess,challenge,live,chessdom,round,tournament",
-            "recuweb_url": "http://en.recuweb.com/chess/chessdom.com/2015/04/11th-copenhagen-chess-challenge-live-chessdom",
-            "resource_url": "http://www.google.com/search?q=chess%2Bchess&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "tags": "event,taking,taking-place,place,chess,live,chessdom,round,swiss,tournament",
+            "recuweb_url": "http://en.recuweb.com/chess/chessdom.com/2015/05/11th-copenhagen-chess-challenge-live-chessdom",
+            "resource_url": "http://www.google.com/search?q=chess&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://chessdom.com/11th-copenhagen-chess-challenge/"
         },
-        "chessdom.com/2015/04/european-senior-chess-2015-live-chessdom": {
-            "title": "European Senior Chess 2015 LIVE! Chessdom...",
-            "snippet": "The 15th European Senior Chess Championships for Men and Women are held in Eretria, Greece, from 28th April untill 8th May, 2015. The official venue is the conference center of the 4-star Eretria Village Hotel, which is...",
-            "date": "2015-04-29",
-            "author_name": "chessdom",
+        "chessdom.com/2015/05/african-individual-chess-championship-2015-live-chessdom": {
+            "title": "African Individual Chess Championship 2015 LIVE! Chessdom...",
+            "snippet": "The African Individual Chess Championship is taking place from 2-10th May, 2015, in Cairo, the capital of Egypt and the second-largest city in Africa. The event is a 9-round Swiss tournament with the participation of 32 players...",
+            "date": "2015-05-03",
+            "author_name": "videnova",
             "categories": "chess",
-            "tags": "center,championships,chess,live,chessdom,men,women",
-            "recuweb_url": "http://en.recuweb.com/chess/chessdom.com/2015/04/european-senior-chess-2015-live-chessdom",
-            "resource_url": "http://www.google.com/search?q=chess%2Bchess&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://chessdom.com/european-senior-chess-2015-live/"
-        },
-        "csmaia.blogspot.com/2015/04/blog-challenge-6": {
-            "title": "Blog Challenge 6...",
-            "snippet": "What soldier at war did to relax 100 years ago. 1914-1918 Soldiers that had a rest from fighting played games like card games. You can play card games with about 5 or 6 people or by youself. Some soldiers played board games like chess, chess is a...",
-            "date": "2015-04-28",
-            "author_name": "Maia @ Carlton",
-            "categories": "play,chess",
-            "tags": "played,games,fighting,challenge,play,people,chess",
-            "recuweb_url": "http://en.recuweb.com/chess/csmaia.blogspot.com/2015/04/blog-challenge-6",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=chess%2Bchess&rss=1&lng=en",
-            "source_url": "http://csmaia.blogspot.com/2015/04/blog-challenge-6.html"
+            "tags": "event,taking,taking-place,place,chess,chess_championship,championship,live,chessdom,round,swiss,tournament,players",
+            "recuweb_url": "http://en.recuweb.com/chess/chessdom.com/2015/05/african-individual-chess-championship-2015-live-chessdom",
+            "resource_url": "http://www.google.com/search?q=chess&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://chessdom.com/african-individual-chess-championship-2015-live/"
         },
         "chessdom.com/2015/04/georgia-takes-gold-in-women-s-world-team-chess-championship": {
             "title": "Georgia takes gold in Women's World Team Chess Championship...",
@@ -61,32 +39,10 @@
             "date": "2015-04-28",
             "author_name": "Goran",
             "categories": "chess",
-            "tags": "world,team,chess,chess_championship,championship,women,fide,champion,game,match",
+            "tags": "world,chess,chess_championship,championship,women,fide,champion,game",
             "recuweb_url": "http://en.recuweb.com/chess/chessdom.com/2015/04/georgia-takes-gold-in-women-s-world-team-chess-championship",
             "resource_url": "http://www.google.com/search?q=chess&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://chessdom.com/georgia-takes-gold-in-womens-world-team-chess-championship/"
-        },
-        "chess.com/2015/04/the-deadly-attacks-of-romantic-chess": {
-            "title": "The Deadly Attacks Of Romantic Chess -...",
-            "snippet": "This series is all about attacking chess and combinations and fun. And all of them are in puzzle form (some easy, some difficult) so you can see how your tactical IQ stands up to the old, sometimes forgotten greats. And, if you...",
-            "date": "2015-04-28",
-            "author_name": "unknown",
-            "categories": "chess",
-            "tags": "old,series,chess",
-            "recuweb_url": "http://en.recuweb.com/chess/chess.com/2015/04/the-deadly-attacks-of-romantic-chess",
-            "resource_url": "http://www.google.com/search?q=chess%2Bchess&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://chess.com/article/view/classic-combinations-part-3"
-        },
-        "thechessmind.net/2015/04/the-grand-chess-tour": {
-            "title": "The Grand Chess Tour...",
-            "snippet": "This came out in St. Louis on Friday, the day before the Kasparov-Short match started. Wholly independent of FIDE (though one presumes they will still rate the tournaments), a lucrative three-tournament series will begin this year featuring nine...",
-            "date": "2015-04-28",
-            "author_name": "Dennis Monokroussos",
-            "categories": "chess",
-            "tags": "series,tournament,grand,chess,tour,friday,kasparov,short,match,fide",
-            "recuweb_url": "http://en.recuweb.com/chess/thechessmind.net/2015/04/the-grand-chess-tour",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=chess%2Bchess&rss=1&lng=en",
-            "source_url": "http://thechessmind.net/blog/2015/4/28/the-grand-chess-tour.html"
         },
         "businessinsider.com/2015/04/the-world-s-top-chess-players-have-just-formed-a-new": {
             "title": "The world's top chess players have just formed a new 1 million...",
@@ -94,9 +50,9 @@
             "date": "2015-04-27",
             "author_name": "Matthew DeBord",
             "categories": "chess",
-            "tags": "won,world,champion,magnus,magnus_carlsen,carlsen,any,top,chess,players",
+            "tags": "world,champion,magnus,magnus_carlsen,carlsen,current,any,top,chess,players",
             "recuweb_url": "http://en.recuweb.com/chess/businessinsider.com/2015/04/the-world-s-top-chess-players-have-just-formed-a-new",
-            "resource_url": "http://www.google.com/search?q=chess%2Bchess&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=chess&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://businessinsider.com/the-worlds-top-chess-players-have-just-formed-a-new-1-million-professional-tour-2015-4"
         },
         "chessdom.com/2015/04/shamkir-chess-2015-live-chessdom": {
@@ -105,21 +61,65 @@
             "date": "2015-04-26",
             "author_name": "videnova",
             "categories": "chess",
-            "tags": "live,games,chess,chessdom",
+            "tags": "computer,chess,live,chessdom,games",
             "recuweb_url": "http://en.recuweb.com/chess/chessdom.com/2015/04/shamkir-chess-2015-live-chessdom",
-            "resource_url": "http://www.google.com/search?q=chess%2Bchess&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=chess&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://chessdom.com/shamkir-chess-2015-live/"
         },
-        "tartajubow.blogspot.com/2015/04/articles-on-psychology-and-chess": {
-            "title": "Articles on Psychology and Chess...",
-            "snippet": "Psychologists who studied more than 100 chess players say the game attracts sensation-seekers with a thirst for action and adventure on a par with skydivers, scuba divers, mountaineers and skiers. When men win a game, the experts say, the rise of...",
+        "rockpapershotgun.com/2015/04/not-chess-warhammer-40-000-regicide-gameplay-trailer-rock": {
+            "title": "Not Chess Warhammer 40,000: Regicide Gameplay Trailer Rock...",
+            "snippet": "The 'Chess'wodged in the middle of its name when Warhammer 40,000: Regicide official site was announced made us grown, roll our eyes, bite our lip, stomp our feet, and refuse to eat our vegetables. Surely even the...",
             "date": "2015-04-24",
-            "author_name": "Tartajubow",
-            "categories": "adventure,psychology,chess",
-            "tags": "men,chess,players,game",
-            "recuweb_url": "http://en.recuweb.com/chess/tartajubow.blogspot.com/2015/04/articles-on-psychology-and-chess",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=chess%2Bchess&rss=1&lng=en",
-            "source_url": "http://tartajubow.blogspot.com/2015/04/articles-on-psychology-and-chess.html"
+            "author_name": "Alice O'Connor",
+            "categories": "gameplay,chess",
+            "tags": "even,chess",
+            "recuweb_url": "http://en.recuweb.com/chess/rockpapershotgun.com/2015/04/not-chess-warhammer-40-000-regicide-gameplay-trailer-rock",
+            "resource_url": "http://www.google.com/search?q=chess&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://rockpapershotgun.com/2015/04/24/not-chess-warhammer-40000-regicide-gameplay-trailer/"
+        },
+        "huffingtonpost.com/2015/04/chess-grandmaster-says-there-is-gender-inequality-in-the-game": {
+            "title": "Chess Grandmaster Says There Is Gender Inequality In The Game...",
+            "snippet": "British chess grandmaster Nigel Short is responding to criticism after recently arguing that inherent differences in men's and women's brains may explain why there are fewer female chess champions than males ones.",
+            "date": "2015-04-23",
+            "author_name": "James Gerken",
+            "categories": "chess",
+            "tags": "champions,ones,why,recently,men,nigel,short,chess,grandmaster,game,women",
+            "recuweb_url": "http://en.recuweb.com/chess/huffingtonpost.com/2015/04/chess-grandmaster-says-there-is-gender-inequality-in-the-game",
+            "resource_url": "http://www.google.com/search?q=chess&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://huffingtonpost.com/2015/04/23/nigel-short-chess-men-women_n_7128204.html"
+        },
+        "theguardian.com/2015/02/chess-is-a-wonderful-game-but-it-s-no-life-coach": {
+            "title": "Chess is a wonderful game, but it's no life coach Stephen Moss...",
+            "snippet": "Spain is making chess compulsory in schools but even as an avid player, I can't quite endorse the lofty claims made for it.",
+            "date": "2015-02-17",
+            "author_name": "Stephen Moss",
+            "categories": "school,life,chess",
+            "tags": "schools,even,player,life,chess,game",
+            "recuweb_url": "http://en.recuweb.com/chess/theguardian.com/2015/02/chess-is-a-wonderful-game-but-it-s-no-life-coach",
+            "resource_url": "http://www.google.com/search?q=chess&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theguardian.com/commentisfree/2015/feb/17/chess-wonderful-game-peculiar-life-spain-schools"
+        },
+        "olia941.wordpress.com/2015/01/chess-men-game": {
+            "title": "Chess Men - Chess Game...",
+            "snippet": "ViewChess Men - Chess Game- Get Best Deal- Show All Prices- Check All Deals- Go to CP ToysChallenge your mind with a game of Chess. 32 classic Staunton []...",
+            "date": "2015-01-03",
+            "author_name": "obenyroq",
+            "categories": "mind,chess",
+            "tags": "chess,game,men",
+            "recuweb_url": "http://en.recuweb.com/chess/olia941.wordpress.com/2015/01/chess-men-game",
+            "resource_url": "http://en.search.wordpress.com/?q=chess&f=feed&page=1",
+            "source_url": "http://olia941.wordpress.com/2015/01/03/chess-men-chess-game/"
+        },
+        "erikbern.com/2014/11/deep-learning-for-chess-erik-bernhardsson": {
+            "title": "Deep learning for chess Erik Bernhardsson...",
+            "snippet": "I've been meaning to learn Theano for a while and I've also wanted to build a chess AI at some point. So why not combine the two? That's what I thought, and I ended up spending way too much time on it. I actually built most of...",
+            "date": "2014-11-29",
+            "author_name": "erikbern",
+            "categories": "learning,chess",
+            "tags": "spending,why,build,learning,chess",
+            "recuweb_url": "http://en.recuweb.com/chess/erikbern.com/2014/11/deep-learning-for-chess-erik-bernhardsson",
+            "resource_url": "http://www.google.com/search?q=chess&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://erikbern.com/2014/11/29/deep-learning-for-chess/"
         }
     }
 }
