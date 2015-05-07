@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mathematics",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/mathematics/",
@@ -11,27 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/mathematics/mathematics/blogs.json"
     },
     "items": {
-        "newshub.agilent.com/2015/04/puzzles-for-the-prince-of-mathematics-agilent-technologies-blog": {
-            "title": "Puzzles for the Prince of Mathematics Agilent Technologies Blog...",
-            "snippet": "Today is the birthday of the greatest mathematician since antiquity, Carl Friedrich Gauss, who was born April 30, 1777. To celebrate, I am sharing a couple of mind-bending mathematics puzzles. According to popular lore,...",
-            "date": "2015-04-30",
-            "author_name": "Russell Lee",
-            "categories": "mind,mathematics",
-            "tags": "popular,mathematician,mathematics,celebrate",
-            "recuweb_url": "http://en.recuweb.com/mathematics/newshub.agilent.com/2015/04/puzzles-for-the-prince-of-mathematics-agilent-technologies-blog",
-            "resource_url": "http://www.google.com/search?q=mathematics%2Bmathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://newshub.agilent.com/2015/04/30/puzzles-for-the-prince-of-mathematics/"
-        },
-        "motls.blogspot.com/2015/04/dijkgraaf-on-quantum-physics-gifts-to-mathematics-the-reference": {
-            "title": "Dijkgraaf on quantum physics'gifts to mathematics - The Reference...",
-            "snippet": "The title was \"The Unreasonable Effectiveness of Quantum Physics in Modern Mathematics\" and Robbert covered lots of cute mathematical legends, numerology, and things that many people find exciting, as well some more...",
+        "theguardian.com/2015/04/qs-world-university-rankings-2015-mathematics-higher-education": {
+            "title": "QS world university rankings 2015: mathematics Higher Education...",
+            "snippet": "The top 100 universities in the world for mathematics, as ranked by higher education data specialists QS.",
             "date": "2015-04-29",
-            "author_name": "Lubo\u0161 Motl",
-            "categories": "mathematics,physics,numerology",
-            "tags": "things,people,mathematical,modern,mathematics,find",
-            "recuweb_url": "http://en.recuweb.com/numerology/motls.blogspot.com/2015/04/dijkgraaf-on-quantum-physics-gifts-to-mathematics-the-reference",
+            "author_name": "Guardian Staff",
+            "categories": "higher-education,education,university,mathematics",
+            "tags": "education,world,university,mathematics",
+            "recuweb_url": "http://en.recuweb.com/mathematics/theguardian.com/2015/04/qs-world-university-rankings-2015-mathematics-higher-education",
             "resource_url": "http://www.google.com/search?q=mathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://motls.blogspot.com/2015/04/dijkgraaf-on-quantum-physics-gifts-to.html"
+            "source_url": "http://theguardian.com/higher-education-network/ng-interactive/2015/apr/29/qs-world-university-rankings-2015-mathematics"
         },
         "phys.org/2015/04/mathematics-reveals-how-fluid-flow-affects-bacteria": {
             "title": "Mathematics reveals how fluid flow affects bacteria -...",
@@ -39,32 +28,10 @@
             "date": "2015-04-28",
             "author_name": "unknown",
             "categories": "food,mathematics,university",
-            "tags": "mathematical,mathematics,researchers,university",
+            "tags": "search,mathematics,researchers,university,mathematical",
             "recuweb_url": "http://en.recuweb.com/university/phys.org/2015/04/mathematics-reveals-how-fluid-flow-affects-bacteria",
-            "resource_url": "http://www.google.com/search?q=mathematics%2Bmathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=mathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://phys.org/news/2015-04-mathematics-reveals-fluid-affects-bacteria.html"
-        },
-        "jamesgarypbi.wordpress.com/2015/04/billings-equity-african-american-students-mathematics": {
-            "title": "Billings Equity African American Students Mathematics...",
-            "snippet": "What do I know? African American students are performing poorly in school mathematics, and have been for some length of time. One of the possible reasons is that there is a disconnect between the language they they speak at home and the language...",
-            "date": "2015-04-23",
-            "author_name": "garymilstead",
-            "categories": "home,students,mathematics,school",
-            "tags": "home,american,students,mathematics,school",
-            "recuweb_url": "http://en.recuweb.com/school/jamesgarypbi.wordpress.com/2015/04/billings-equity-african-american-students-mathematics",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=mathematics%2Bmathematics&rss=1&lng=en",
-            "source_url": "http://jamesgarypbi.wordpress.com/2015/04/23/billings-equity-african-american-students-mathematics/"
-        },
-        "ieet.org/2015/04/how-evolution-gave-us-mathematics": {
-            "title": "How Evolution Gave Us Mathematics...",
-            "snippet": "THIS IS MY RESPONSE TO THE EDGE QUESTION OF A FEW YEARS BACK: WHAT SCIENTIFIC IDEA IS READY FOR RETIREMENT? MY ANSWER: The intrinsic beauty and elegance of mathematics allows it to describe...",
-            "date": "2015-04-23",
-            "author_name": "krisnotaro@gmail.com",
-            "categories": "mathematics",
-            "tags": "beauty,idea,question,mathematics,answer",
-            "recuweb_url": "http://en.recuweb.com/mathematics/ieet.org/2015/04/how-evolution-gave-us-mathematics",
-            "resource_url": "http://www.google.com/search?q=mathematics%2Bmathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://ieet.org/index.php/IEET/more/benford20150423"
         },
         "phys.org/2015/04/mechanical-cloaks-of-invisibilitywithout-complicated-mathematics": {
             "title": "Mechanical cloaks of invisibilitywithout complicated mathematics...",
@@ -72,54 +39,87 @@
             "date": "2015-04-23",
             "author_name": "unknown",
             "categories": "institute,mechanics,mathematics,technology",
-            "tags": "mathematical,mathematics,researchers,technology",
+            "tags": "results,institute,mathematics,researchers,technology,mathematical",
             "recuweb_url": "http://en.recuweb.com/technology/phys.org/2015/04/mechanical-cloaks-of-invisibilitywithout-complicated-mathematics",
-            "resource_url": "http://www.google.com/search?q=mathematics%2Bmathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=mathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://phys.org/news/2015-04-mechanical-cloaks-invisibilitywithout-complicated-mathematics.html"
         },
-        "willatworklearning.com/2015/04/research-on-mathematics-education-for-us-first-graders": {
-            "title": "Research on Mathematics Education for US First Graders...",
-            "snippet": "A recent research review (by Paul L. Morgan, George Farkas, and Steve Maczuga) finds that teacher-directed mathematics instruction in first grade is superior to other methods for students with \"math difficulties.\" Specifically...",
-            "date": "2015-04-23",
-            "author_name": "Will Thalheimer",
-            "categories": "mathematics,education,students",
-            "tags": "math,instruction,grade,research,mathematics,education,students",
-            "recuweb_url": "http://en.recuweb.com/students/willatworklearning.com/2015/04/research-on-mathematics-education-for-us-first-graders",
-            "resource_url": "http://www.google.com/search?q=mathematics%2Bmathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://willatworklearning.com/2015/04/research-on-mathematics-education-for-us-first-graders.html"
-        },
-        "scientiasalon.wordpress.com/2015/04/smolin-on-mathematics-scientia-salon": {
-            "title": "Smolin on mathematics Scientia Salon...",
-            "snippet": "Smolin begins by acknowledging that some version of mathematical Platonism the idea that mathematics is the study of a timeless but real realm of mathematical objects, is common among mathematicians (and, I would...",
-            "date": "2015-04-21",
-            "author_name": "Massimo",
-            "categories": "mathematics",
-            "tags": "mathematical,idea,mathematics",
-            "recuweb_url": "http://en.recuweb.com/mathematics/scientiasalon.wordpress.com/2015/04/smolin-on-mathematics-scientia-salon",
-            "resource_url": "http://www.google.com/search?q=mathematics%2Bmathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://scientiasalon.wordpress.com/2015/04/21/smolin-on-mathematics/"
-        },
-        "akwadefender.blogspot.com/2015/04/why-students-fail-mathematics-in-nigeria": {
-            "title": "Why students fail Mathematics In Nigeria...",
-            "snippet": "Why Students Fail Mathematics Mathematics is not every students best subject. The statistics of mass failures churned out in qualifying examinations across the country can attest to this fact. However, there are still quite a number who have...",
-            "date": "2015-04-21",
-            "author_name": "(Efukikata Efet)",
-            "categories": "students,mathematics",
-            "tags": "statistics,across,students,mathematics,why",
-            "recuweb_url": "http://en.recuweb.com/mathematics/akwadefender.blogspot.com/2015/04/why-students-fail-mathematics-in-nigeria",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=mathematics%2Bmathematics&rss=1&lng=en",
-            "source_url": "http://akwadefender.blogspot.com/2015/04/why-students-fail-mathematics.html"
-        },
-        "getschooled.blog.ajc.com/2015/04/state-s-most-challenging-high-school-gwinnett-of": {
-            "title": "State's most challenging high school: Gwinnett School of...",
+        "getschooled.blog.ajc.com/2015/04/gwinnett-school-of-mathematics-science-and-get-schooled": {
+            "title": "Gwinnett School of Mathematics, Science and... - Get Schooled...",
             "snippet": "The Gwinnett School of Mathematics, Science and Technology emerges Georgia's most challenging high school on a new ranking. (AJC Photo). For the past 17 years, the Post's education columnist Jay Mathews ranks...",
             "date": "2015-04-20",
             "author_name": "Maureen Downey",
-            "categories": "school,mathematics,science,technology,education",
-            "tags": "school,state,high,mathematics,science,technology,education",
-            "recuweb_url": "http://en.recuweb.com/education/getschooled.blog.ajc.com/2015/04/state-s-most-challenging-high-school-gwinnett-of",
+            "categories": "education,school,mathematics,science,technology",
+            "tags": "education,photo,school,mathematics,science,technology,high",
+            "recuweb_url": "http://en.recuweb.com/technology/getschooled.blog.ajc.com/2015/04/gwinnett-school-of-mathematics-science-and-get-schooled",
             "resource_url": "http://www.google.com/search?q=mathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://getschooled.blog.ajc.com/2015/04/19/states-most-challenging-high-school-gwinnett-school-of-mathematics-science-and-technology/"
+        },
+        "globalresearch.ca/2015/04/5-000-silver-the-mathematics-of-a-potential-price-surge-global": {
+            "title": "5,000 Silver? The Mathematics of a Potential Price Surge Global...",
+            "snippet": "To refresh your memory, let's do some basic mathematics. The U.S. purportedly has 262 million ounces of gold. (As a side note, if you understand how much gold China has imported just over the last six years and compare...",
+            "date": "2015-04-17",
+            "author_name": "Bill Holter",
+            "categories": "memory,mathematics",
+            "tags": "mathematics",
+            "recuweb_url": "http://en.recuweb.com/mathematics/globalresearch.ca/2015/04/5-000-silver-the-mathematics-of-a-potential-price-surge-global",
+            "resource_url": "http://www.google.com/search?q=mathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://globalresearch.ca/5000-silver-the-mathematics-of-a-potential-price-surge/5443477"
+        },
+        "news.stanford.edu/2015/04/stanford-professor-designs-mathematics-and-mindset-boost": {
+            "title": "Stanford professor designs mathematics and mindset boost for...",
+            "snippet": "Stanford professor designs mathematics and mindset boost for teachers and students across the nation. The \"Week of Inspirational Math\" curriculum will be available for free online. It includes videos and math tasks, and is...",
+            "date": "2015-04-17",
+            "author_name": "unknown",
+            "categories": "students,mathematics",
+            "tags": "math,curriculum,teachers,students,professor,mathematics,across",
+            "recuweb_url": "http://en.recuweb.com/mathematics/news.stanford.edu/2015/04/stanford-professor-designs-mathematics-and-mindset-boost",
+            "resource_url": "http://www.google.com/search?q=mathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://news.stanford.edu/news/2015/april/math-week-boaler-041715.html"
+        },
+        "scientificamerican.com/2015/04/mathematicians-chase-moonshine-s-shadow-scientific-american": {
+            "title": "Mathematicians Chase Moonshine's Shadow - Scientific American...",
+            "snippet": "McKay, of Concordia University in Montreal, happened to pick up a mathematics paper in a completely different field, involving something called the j-function, one of the most fundamental objects in number theory. Strangely...",
+            "date": "2015-04-07",
+            "author_name": "unknown",
+            "categories": "university,mathematics",
+            "tags": "fundamental,theory,called,university,mathematics",
+            "recuweb_url": "http://en.recuweb.com/mathematics/scientificamerican.com/2015/04/mathematicians-chase-moonshine-s-shadow-scientific-american",
+            "resource_url": "http://www.google.com/search?q=mathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://scientificamerican.com/article/mathematicians-chase-moonshine-s-shadow/"
+        },
+        "whitehouse.gov/2015/03/president-obama-honors-outstanding-science-mathematics": {
+            "title": "President Obama Honors Outstanding Science, Mathematics, and...",
+            "snippet": "WASHINGTON, DC - President Obama today named fourteen individuals and one organization as the newest recipients of the Presidential Award for Excellence in Science, Mathematics, and Engineering Mentoring...",
+            "date": "2015-03-27",
+            "author_name": "The White House",
+            "categories": "engineering,honor,science,mathematics",
+            "tags": "engineering,award,recipients,president,outstanding,science,mathematics",
+            "recuweb_url": "http://en.recuweb.com/mathematics/whitehouse.gov/2015/03/president-obama-honors-outstanding-science-mathematics",
+            "resource_url": "http://www.google.com/search?q=mathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://whitehouse.gov/the-press-office/2015/03/27/president-obama-honors-outstanding-science-mathematics-and-engineering-m"
+        },
+        "ocw.mit.edu/2015/01/topics-in-mathematics-with-applications-finance-mit": {
+            "title": "Topics in Mathematics with Applications in Finance - MIT...",
+            "snippet": "The purpose of the class is to expose undergraduate and graduate students to the mathematical concepts and techniques used in the financial industry. Mathematics lectures are mixed with lectures illustrating the corresponding application in...",
+            "date": "2015-01-05",
+            "author_name": "Xia, Jake",
+            "categories": "students,mathematics,finance",
+            "tags": "industry,purpose,graduate,students,mathematics,application,mit,mathematical",
+            "recuweb_url": "http://en.recuweb.com/finance/ocw.mit.edu/2015/01/topics-in-mathematics-with-applications-finance-mit",
+            "resource_url": "http://www.google.com/search?q=mathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/"
+        },
+        "stackoverflow.com/2012/10/loading-php-form-search-results-on-page-load-stack-overflow": {
+            "title": "Loading php form search results on page load - Stack Overflow...",
+            "snippet": "method=\"post\" select name=\"choice\" id=\"choice\" option value=\"Biology\"Biology/option option value=\"Chemistry\"Chemistry/option option value=\"Computer Science\"Computer Science/option option value=\"Mathematics\" Mathematics/option option...",
+            "date": "2012-10-22",
+            "author_name": "user1766841",
+            "categories": "science,php,mathematics",
+            "tags": "science,search,results,mathematics",
+            "recuweb_url": "http://en.recuweb.com/mathematics/stackoverflow.com/2012/10/loading-php-form-search-results-on-page-load-stack-overflow",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bmathematics&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/13021542/loading-php-form-search-results-on-page-load"
         }
     }
 }
