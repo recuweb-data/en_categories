@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ebook",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/ebook/",
@@ -11,44 +11,34 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/ebook/ebook/blogs.json"
     },
     "items": {
-        "broadwayworld.com/2015/05/connie-corcoran-wilson-finishes-3rd-book-in-hellfire-series": {
-            "title": "Connie Corcoran Wilson Finishes 3rd Book in 'Hellfire'Series...",
-            "snippet": "To celebrate the launch of the new ebook, the author is offering this Kindle edition to fans for free on May 2-4, while also while also making readers aware of the first two books in the Hellfire & Damnation series. Connie (Corcoran) Wilson's...",
-            "date": "2015-05-02",
+        "concordmonitor.com/2015/05/new-hampshire-novel-becomes-kindle-ebook-concord-monitor": {
+            "title": "New Hampshire novel becomes Kindle ebook - Concord Monitor...",
+            "snippet": "New Hampshire novel becomes Kindle ebookConcord MonitorThe Cheerleader, a novel by Laconia native Ruth MacDougall, was recently published in ebook form for Kindle. Published in 1973, this coming-of-age story set in 1950s New Hampshire. It tells the...",
+            "date": "2015-05-03",
             "categories": "ebook",
-            "tags": "readers,aware,books,book,fans,ebook,kindle,free",
-            "recuweb_url": "http://en.recuweb.com/ebook/broadwayworld.com/2015/05/connie-corcoran-wilson-finishes-3rd-book-in-hellfire-series",
+            "tags": "kindle,ebook",
+            "recuweb_url": "http://en.recuweb.com/ebook/concordmonitor.com/2015/05/new-hampshire-novel-becomes-kindle-ebook-concord-monitor",
+            "resource_url": "http://news.google.com/?hl=en&q=ebook&output=atom&nord=1",
+            "source_url": "http://concordmonitor.com/home/16658428-95/new-hampshire-novel-becomes-kindle-ebook"
+        },
+        "broadwayworld.com/2015/05/teto-peck-s-new-book-a-shadow-of-the-light-is": {
+            "title": "Teto Peck's New Book 'A Shadow of the Light'Is a Profound, Science Fiction Work That Opens a Window...",
+            "snippet": "Page Publishing knows that authors need to be free to create - not bogged down with complicated business issues like eBook conversion, establishing wholesale accounts, insurance, shipping, taxes and the like. Its roster of authors can leave behind...",
+            "date": "2015-05-03",
+            "categories": "taxes,business,science,ebook,insurance",
+            "tags": "authors,business,page,book,free,ebook",
+            "recuweb_url": "http://en.recuweb.com/insurance/broadwayworld.com/2015/05/teto-peck-s-new-book-a-shadow-of-the-light-is",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ebook&format=RSS&cc=us",
-            "source_url": "http://broadwayworld.com/bwwbooks/article/Connie-Corcoran-Wilson-Finishes-3rd-Book-in-Hellfire-Series-20150430"
+            "source_url": "http://broadwayworld.com/bwwbooks/article/Teto-Pecks-New-Book-A-Shadow-of-the-Light-Is-a-Profound-Science-Fiction-Work-That-Opens-a-Window-in-the-World-of-Fantasy-Mystery-and-Magic-20150503"
         },
-        "gizmodo.com.au/2015/05/gps-ebook-reader-lets-the-book-take-place-wherever-is-located": {
-            "title": "GPS Ebook Reader Lets The Book Take Place Wherever The Reader Is Located - Gizmodo Australia...",
-            "snippet": "Gizmodo AustraliaGPS Ebook Reader Lets The Book Take Place Wherever The Reader Is LocatedGizmodo AustraliaAnd don't feel left out if you're not in Brazil and can't get your hands on the Trip Book Smiles. The story is also available as a free...",
-            "date": "2015-05-02",
-            "categories": "ebook",
-            "tags": "available,book,hands,feel,feel-left,left,ebook,reader,lets,book_take,book_take_place,place,place_wherever,wherever,gps,reader_is_located,located,free",
-            "recuweb_url": "http://en.recuweb.com/ebook/gizmodo.com.au/2015/05/gps-ebook-reader-lets-the-book-take-place-wherever-is-located",
-            "resource_url": "http://news.google.com/?hl=en&q=ebook%2Bebook&output=atom&nord=1",
-            "source_url": "http://gizmodo.com.au/2015/05/gps-ebook-reader-lets-the-book-take-place-wherever-the-reader-is-located/"
-        },
-        "canadianreviewer.com/2015/05/kobo-glo-hd-ebook-reader-canadian-reviewer": {
-            "title": "Kobo Glo HD eBook reader - Canadian Reviewer...",
-            "snippet": "Canadian ReviewerKobo Glo HD eBook readerCanadian ReviewerKobo has been pushing the state of the art in e-Ink eBook reader technology and design. While rival Amazon's Kindle Paperwhite has received nominal updates and minor tweaks, the Kobo Glo HD...",
-            "date": "2015-05-02",
-            "categories": "technology,ebook",
-            "tags": "kindle,reader,ebook,amazon",
-            "recuweb_url": "http://en.recuweb.com/ebook/canadianreviewer.com/2015/05/kobo-glo-hd-ebook-reader-canadian-reviewer",
-            "resource_url": "http://news.google.com/?hl=en&q=ebook%2Bebook&output=atom&nord=1",
-            "source_url": "http://canadianreviewer.com/cr/2015/4/30/review-kobo-glo-hd-ebook-reader.html"
-        },
-        "winonadailynews.com/2015/05/winona-library-to-host-ebook-app-class-may-7": {
-            "title": "Winona library to host eBook app class May 7...",
-            "snippet": "Did you know that you can read eBooks and listen to eAudiobooks right from your smartphone or tablet? Did know that you can do it for free from the library? Learn how to get these eBooks and audiobooks on your device on Thursday, May 7 at 6 p.m. in...",
+        "winonadailynews.com/2015/05/winona-library-to-host-ebook-app-class-may-7-daily-news": {
+            "title": "Winona library to host eBook app class May 7 - Winona Daily News...",
+            "snippet": "Winona library to host eBook app class May 7Winona Daily NewsDid you know that you can read eBooks and listen to eAudiobooks right from your smartphone or tablet? Did know that you can do it for free from the library? Learn how to get these eBooks...",
             "date": "2015-05-02",
             "categories": "ebook",
             "tags": "ebooks,free",
-            "recuweb_url": "http://en.recuweb.com/ebook/winonadailynews.com/2015/05/winona-library-to-host-ebook-app-class-may-7",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ebook&format=RSS&cc=us",
+            "recuweb_url": "http://en.recuweb.com/ebook/winonadailynews.com/2015/05/winona-library-to-host-ebook-app-class-may-7-daily-news",
+            "resource_url": "http://news.google.com/?hl=en&q=ebook&output=atom&nord=1",
             "source_url": "http://winonadailynews.com/news/briefs/winona-library-to-host-ebook-app-class-may/article_12df1805-c21a-5373-80a1-9919f6806e9f.html"
         },
         "news.softpedia.com/2015/05/calibre-ebook-converter-brings-new-features": {
@@ -56,7 +46,7 @@
             "snippet": "It's been a while since we last saw so many new features being added to Calibre, but they don't bring any major changes. However, users will notice some of the improvements because they affect the interface and the connectivity with devices. The...",
             "date": "2015-05-01",
             "categories": "ebook",
-            "tags": "brings,any,major,ebook",
+            "tags": "because,brings,any,major,ebook",
             "recuweb_url": "http://en.recuweb.com/ebook/news.softpedia.com/2015/05/calibre-ebook-converter-brings-new-features",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ebook&format=RSS&cc=us",
             "source_url": "http://news.softpedia.com/news/Calibre-2-27-eBook-Converter-Brings-New-Features-479890.shtml"
@@ -66,39 +56,39 @@
             "snippet": "Current Affairs April 2015 eBook brought to you by coves all the important current affairs of the month April 2015 which are relevant for the competitive exams. It will help the candidates while preparing for competitive exams like IAS/PCS...",
             "date": "2015-05-01",
             "categories": "ebook",
-            "tags": "ebook",
+            "tags": "important,ebook",
             "recuweb_url": "http://en.recuweb.com/ebook/jagranjosh.com/2015/05/current-affairs-april-2015-ebook",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ebook&format=RSS&cc=us",
             "source_url": "http://jagranjosh.com/current-affairs/current-affairs-april-2015-ebook-1430482770-1"
         },
-        "zdnet.com/2015/05/executive-s-guide-to-leading-innovation-free-ebook-zdnet": {
-            "title": "Executive's guide to leading innovation (free ebook) - ZDNet...",
-            "snippet": "ZDNetExecutive's guide to leading innovation (free ebook)ZDNetThe heat is on for business leaders to deliver value to their companies through innovation. And they're well aware of it. In the latest Tech Pro Research survey, 71 percent of respondents...",
+        "zdnet.com/2015/05/executive-s-guide-to-leading-innovation-free-ebook": {
+            "title": "Executive's guide to leading innovation (free ebook)...",
+            "snippet": "The heat is on for business leaders to deliver value to their companies through innovation. And they're well aware of it. In the latest Tech Pro Research survey, 71 percent of respondents said that innovation was very important for the success of...",
             "date": "2015-05-01",
             "categories": "business,ebook",
-            "tags": "aware,business,guide,free,ebook",
-            "recuweb_url": "http://en.recuweb.com/ebook/zdnet.com/2015/05/executive-s-guide-to-leading-innovation-free-ebook-zdnet",
-            "resource_url": "http://news.google.com/?hl=en&q=ebook%2Bebook&output=atom&nord=1",
+            "tags": "said,important,business,free,ebook",
+            "recuweb_url": "http://en.recuweb.com/ebook/zdnet.com/2015/05/executive-s-guide-to-leading-innovation-free-ebook",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ebook&format=RSS&cc=us",
             "source_url": "http://zdnet.com/article/executives-guide-to-leading-innovation-free-ebook/"
         },
-        "gizmodo.com/2015/05/gps-ereader-lets-the-book-take-place-wherever-reader-is-located": {
-            "title": "GPS eReader Lets the Book Take Place Wherever the Reader Is Located...",
-            "snippet": "So its not like any eBook could be loaded and instantly customized to the readers localeat least yet. Maybe one day when someone in Minnesota picks up A Tale of Two Cities it might actually be about Minneapolis and St. Paul. And dont feel left...",
+        "blogs.msdn.com/2015/05/free-ebook-introducing-windows-10-for-it-professionals-preview-edition": {
+            "title": "Free ebook: Introducing Windows 10 for IT Professionals, Preview Edition...",
+            "snippet": "Please give us feedback about our books! We can't respond to you (because we don't collect any personal information), but we take your feedback very seriously. No joke. If you need to reach our Support team, write. To let us know...",
             "date": "2015-05-01",
             "categories": "ebook",
-            "tags": "feel,feel-left,left,readers,reader,yet,any,reader_is_located,located,book,book_take,book_take_place,place,place_wherever,wherever,lets,gps,ebook",
-            "recuweb_url": "http://en.recuweb.com/ebook/gizmodo.com/2015/05/gps-ereader-lets-the-book-take-place-wherever-reader-is-located",
+            "tags": "any,because,free,ebook",
+            "recuweb_url": "http://en.recuweb.com/ebook/blogs.msdn.com/2015/05/free-ebook-introducing-windows-10-for-it-professionals-preview-edition",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ebook&format=RSS&cc=us",
-            "source_url": "http://gizmodo.com/gps-ereader-lets-the-book-take-place-wherever-the-reade-1701465135"
+            "source_url": "http://blogs.msdn.com/b/microsoft_press/archive/2015/05/01/free-ebook-introducing-windows-10-for-it-professionals-preview-edition.aspx"
         },
         "smh.com.au/2015/05/hands-on-review-amazon-kindle-voyage-ebook-reader-sydney-morning-herald": {
             "title": "Hands on review: Amazon Kindle Voyage eBook reader - Sydney Morning Herald...",
             "snippet": "Sydney Morning HeraldHands on review: Amazon Kindle Voyage eBook readerSydney Morning HeraldThinner than ever, yet blessed with a sharper screen, Voyage is Amazon's slickest Kindle yet. With the rise of tablets and smartphones, not everyone sees the...",
             "date": "2015-05-01",
             "categories": "ebook",
-            "tags": "yet,amazon,kindle,hands,ebook,reader",
+            "tags": "amazon,kindle,ebook,reader",
             "recuweb_url": "http://en.recuweb.com/ebook/smh.com.au/2015/05/hands-on-review-amazon-kindle-voyage-ebook-reader-sydney-morning-herald",
-            "resource_url": "http://news.google.com/?hl=en&q=ebook%2Bebook&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=ebook&output=atom&nord=1",
             "source_url": "http://smh.com.au/digital-life/computers/gadgets-on-the-go/hands-on-review-amazon-kindle-voyage-ebook-reader-20150501-1mxmps.html"
         },
         "talkingnewmedia.com/2015/05/the-white-house-announces-250-million-ebook-initiative": {
@@ -106,10 +96,20 @@
             "snippet": "The Obama administration today announced a new eBook initiative designed to make 10,000 free eBooks available through non-profits and libraries. The effort brings together major publishers in a program valued at 250 million. Macmillan, Simon &...",
             "date": "2015-05-01",
             "categories": "ebook",
-            "tags": "brings,major,available,designed,ebooks,free",
+            "tags": "brings,major,publishers,available,ebooks,free",
             "recuweb_url": "http://en.recuweb.com/ebook/talkingnewmedia.com/2015/05/the-white-house-announces-250-million-ebook-initiative",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ebook&format=RSS&cc=us",
             "source_url": "http://talkingnewmedia.com/2015/05/01/white-house-announces-ebook-initiative/"
+        },
+        "fandompost.com/2015/05/build-your-anime-blog-ebook-now-available": {
+            "title": "Build Your Anime Blog eBook Now Available...",
+            "snippet": "I got the chance to meet Chris in person at Anime Boston 2015, when he was holding his annual Fandom Post panel. His speaking style is a lot like his writing styleauthoritative in its anime knowledge, but open to audience input and suggestion.",
+            "date": "2015-05-01",
+            "categories": "ebook,fandom",
+            "tags": "ebook,available",
+            "recuweb_url": "http://en.recuweb.com/fandom/fandompost.com/2015/05/build-your-anime-blog-ebook-now-available",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ebook&format=RSS&cc=us",
+            "source_url": "http://fandompost.com/2015/05/01/build-your-anime-blog-ebook-now-available/"
         }
     }
 }
