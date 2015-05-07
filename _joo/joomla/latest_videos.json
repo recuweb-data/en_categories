@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "joomla",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/joomla/",
@@ -11,6 +11,18 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/joomla/joomla/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/05/chapter-2-instal-joomla-on-localhost": {
+            "title": "Chapter 2 Instal Joomla on localhost...",
+            "snippet": "Chapter 2 Instal Joomla on localhostAuthor: AnScalesTags: Chapter 2 Instal Joomla on localhost Posted: 02 May 2015Rating:: 0...",
+            "date": "2015-05-02",
+            "author_name": "AnScales",
+            "categories": "joomla",
+            "tags": "joomla",
+            "recuweb_url": "http://en.recuweb.com/joomla/dailymotion.com/2015/05/chapter-2-instal-joomla-on-localhost",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/en+localhost+com+joomla/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2or9s0_chapter-2-instal-joomla-on-localhost_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2or9s0_chapter-2-instal-joomla-on-localhost_lifestyle"
+        },
         "dailymotion.com/2015/04/joomla-2-5-tutorial-overview": {
             "title": "Joomla! 2.5 Tutorial - Overview...",
             "snippet": "Joomla! 2.5 Tutorial - OverviewAuthor: NolanSmithsonTags: Joomla 2.5 Tutorial - Overview Posted: 21 April 2015Rating:: 0...",
@@ -34,18 +46,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/joomla/0?af=1",
             "source_url": "http://dailymotion.com/video/x2n1qyi_joomla-2-5-content-scroll-module_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2n1qyi_joomla-2-5-content-scroll-module_tech"
-        },
-        "dailymotion.com/2015/04/joomla-tutorial-how-to-create-an-rss-feed-in-2-5": {
-            "title": "Joomla Tutorial: How to create an RSS Feed in Joomla 2.5 Daniel Williams at Quantus Creative...",
-            "snippet": "Joomla Tutorial: How to create an RSS Feed in Joomla 2.5 Daniel Williams at Quantus CreativeAuthor: LolitaCowlesTags: Joomla Tutorial: How to create an RSS Feed in 2.5 Daniel Williams at Quantus Creative Posted: 15 April 2015Rating:: 0...",
-            "date": "2015-04-15",
-            "author_name": "LolitaCowles",
-            "categories": "joomla",
-            "tags": "joomla,tutorial",
-            "recuweb_url": "http://en.recuweb.com/joomla/dailymotion.com/2015/04/joomla-tutorial-how-to-create-an-rss-feed-in-2-5",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/joomla+joomla/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2msfgx_joomla-tutorial-how-to-create-an-rss-feed-in-joomla-2-5-daniel-williams-at-quantus-creative_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2msfgx_joomla-tutorial-how-to-create-an-rss-feed-in-joomla-2-5-daniel-williams-at-quantus-creative_tech"
         },
         "dailymotion.com/2015/04/joomla-1-7-ja-facebook-like-box-module": {
             "title": "Joomla! 1.7 - JA Facebook Like Box Module...",
@@ -127,7 +127,7 @@
             "categories": "joomla",
             "tags": "joomla,cms",
             "recuweb_url": "http://en.recuweb.com/joomla/youtube.com/2015/02/joomla-3-4-new-features-animation",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=joomla%2Bjoomla&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=joomla&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=EfsOibCaQ-k&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/EfsOibCaQ-k/0.jpg"
         }
