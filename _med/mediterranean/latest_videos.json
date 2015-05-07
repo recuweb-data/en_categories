@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mediterranean",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/mediterranean/",
@@ -11,27 +11,15 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/mediterranean/mediterranean/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/05/mediterranean-climate-ecosystems-oceans": {
-            "title": "Mediterranean-Climate Ecosystems: Oceans and Mediterranean Climate...",
-            "snippet": "Mediterranean-Climate Ecosystems: Oceans and Mediterranean ClimateAuthor: KeltonEliezerTags: Mediterranean-Climate Ecosystems: Oceans and Mediterranean Climate Posted: 02 May 2015Rating:: 0...",
-            "date": "2015-05-01",
-            "author_name": "KeltonEliezer",
-            "categories": "mediterranean",
-            "tags": "mediterranean",
-            "recuweb_url": "http://en.recuweb.com/mediterranean/dailymotion.com/2015/05/mediterranean-climate-ecosystems-oceans",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mediterranean+mediterranean/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2or1gj_mediterranean-climate-ecosystems-oceans-and-mediterranean-climate_school",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2or1gj_mediterranean-climate-ecosystems-oceans-and-mediterranean-climate_school"
-        },
         "youtube.com/2015/04/boat-full-of-migrants-capsizes-in-mediterranean-sea-killing-hundreds": {
             "title": "Boat Full Of Migrants Capsizes In Mediterranean Sea Killing Hundreds...",
             "snippet": "Boat Full Of Migrants Capsizes In Mediterranean Sea Killing Hundreds \"When the Italian Coast Guard first got a call Saturday night from a fishing boat alerting it to a large vessel carrying migrants in the Mediterranean between the Libyan coast and...",
             "date": "2015-04-22",
             "author_name": "The Young Turks",
             "categories": "fishing,mediterranean",
-            "tags": "coast,boat,carrying,carrying-migrants,migrants,italian,capsizes,mediterranean,mediterranean_sea,sea,hundreds,libyan",
+            "tags": "boat,migrants,capsizes,mediterranean,mediterranean_sea,sea",
             "recuweb_url": "http://en.recuweb.com/mediterranean/youtube.com/2015/04/boat-full-of-migrants-capsizes-in-mediterranean-sea-killing-hundreds",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mediterranean%2Bmediterranean&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mediterranean&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=QtXRBlB57S4&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/QtXRBlB57S4/0.jpg"
         },
@@ -41,23 +29,11 @@
             "date": "2015-04-22",
             "author_name": "AJ+",
             "categories": "mediterranean",
-            "tags": "mediterranean,mediterranean_sea,sea,migrants,world",
+            "tags": "mediterranean,mediterranean_sea,sea,migrants,died,world,europe",
             "recuweb_url": "http://en.recuweb.com/mediterranean/youtube.com/2015/04/why-is-the-mediterranean-sea-world-s-deadliest-crossing",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mediterranean%2Bmediterranean&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mediterranean&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=BUB8Km_2Bns&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/BUB8Km_2Bns/0.jpg"
-        },
-        "youtube.com/2015/04/boat-sinking-mediterranean-s-worst-tragedy-sees-hundreds-of-migrants-drown": {
-            "title": "Boat sinking: Mediterranean's worst boat tragedy sees hundreds of migrants drown off Libyan coast...",
-            "snippet": "Boat sinking: Mediterranean's worst boat tragedy sees hundreds of migrants drown off Libyan coast Rescue boats searched Mediterranean waters Sunday for survivors and bodies from a boat that capsized while carrying migrants from Libya to Italy.",
-            "date": "2015-04-20",
-            "author_name": "TomoNews US",
-            "categories": "mediterranean",
-            "tags": "carrying,carrying-migrants,migrants,worst,boat-tragedy,tragedy,hundreds,mediterranean,libyan,coast,rescue,sunday,libya,italy",
-            "recuweb_url": "http://en.recuweb.com/mediterranean/youtube.com/2015/04/boat-sinking-mediterranean-s-worst-tragedy-sees-hundreds-of-migrants-drown",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mediterranean%2Bmediterranean&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=1LqOrl_mZoI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/1LqOrl_mZoI/0.jpg"
         },
         "youtube.com/2015/04/migrant-boat-capsizes-in-mediterranean": {
             "title": "Migrant boat capsizes in Mediterranean...",
@@ -71,27 +47,15 @@
             "source_url": "http://youtube.com/watch?v=QEDsY9nkdKo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/QEDsY9nkdKo/0.jpg"
         },
-        "youtube.com/2015/04/700-migrants-feared-dead-in-mediterranean-shipwreck": {
-            "title": "700 Migrants Feared Dead in Mediterranean Shipwreck...",
-            "snippet": "700 Migrants Feared Dead in Mediterranean Shipwreck A major rescue operation is under way in the Mediterranean after as many as 700 migrants are feared to have drowned on Sunday, in what could prove to be the worst disaster yet involving migrants...",
-            "date": "2015-04-19",
-            "author_name": "wochit News",
-            "categories": "mediterranean",
-            "tags": "worst,migrants,feared,rescue,mediterranean,shipwreck,dead,sunday",
-            "recuweb_url": "http://en.recuweb.com/mediterranean/youtube.com/2015/04/700-migrants-feared-dead-in-mediterranean-shipwreck",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mediterranean%2Bmediterranean&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=ZdttEIuteig&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/ZdttEIuteig/0.jpg"
-        },
         "youtube.com/2015/04/700-migrants-feared-dead-boat-capsizes-sinks-in-mediterranean-hollande-traffickers": {
             "title": "700 Migrants feared Dead: Boat Capsizes Sinks in Mediterranean, Hollande: Traffickers Are...",
             "snippet": "700 Migrants feared Dead: Boat Capsizes Sinks in Mediterranean, Hollande: Traffickers Are Terrorists SHIPWRECK: Migrants'ship headed for Italy capsizes north of Libya Hollande says EU 'must act'after migrant boat tragedy (CBC) A boat believed to be...",
             "date": "2015-04-19",
             "author_name": "YouFirstNews",
             "categories": "mediterranean",
-            "tags": "boat,migrants,boat-tragedy,tragedy,capsizes,libya,shipwreck,feared,dead,mediterranean,italy",
+            "tags": "boat,migrants,capsizes,mediterranean,italy",
             "recuweb_url": "http://en.recuweb.com/mediterranean/youtube.com/2015/04/700-migrants-feared-dead-boat-capsizes-sinks-in-mediterranean-hollande-traffickers",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mediterranean%2Bmediterranean&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mediterranean&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=SmkM9zUV-o4&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/SmkM9zUV-o4/0.jpg"
         },
@@ -107,29 +71,65 @@
             "source_url": "http://dailymotion.com/video/x2mvb3x_slimming-world-coronation-chicken-mediterranean-cous-cous-make-it-mondays_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2mvb3x_slimming-world-coronation-chicken-mediterranean-cous-cous-make-it-mondays_lifestyle"
         },
-        "dailymotion.com/2015/04/how-to-make-a-fresh-italian-pasta-salad": {
-            "title": "How To Make A Fresh Italian Pasta Salad...",
-            "snippet": "This instructional video teaches you how to make a fresh italian pasta Videojug's industry leaders as they help you through this: scoffTags: pasta recipes mediterranean pasta salad salad recipes mediterranean pasta mediterranean pasta salad recipe...",
-            "date": "2015-04-15",
-            "author_name": "scoff",
-            "categories": "pasta,mediterranean",
-            "tags": "mediterranean,salad,recipe,italian",
-            "recuweb_url": "http://en.recuweb.com/mediterranean/dailymotion.com/2015/04/how-to-make-a-fresh-italian-pasta-salad",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mediterranean+mediterranean/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mccoa_how-to-make-a-fresh-italian-pasta-salad_lifestyle",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mccoa_how-to-make-a-fresh-italian-pasta-salad_lifestyle"
-        },
         "dailymotion.com/2015/04/how-to-make-a-mediterranean-feta-salad": {
             "title": "How To Make A Mediterranean Feta Salad...",
             "snippet": "In this episode of Bridal Bites, Sarah Thomas-Lane shows you how to make a feta salad with pomegranate dressing to share with your guests on the big: daterateTags: healthy recipe buffet Pomegranate Dressing food guests wedding meal Mediterranean...",
             "date": "2015-04-13",
             "author_name": "daterate",
             "categories": "food,mediterranean",
-            "tags": "recipe,salad,mediterranean",
+            "tags": "food,shows,salad,episode,mediterranean",
             "recuweb_url": "http://en.recuweb.com/mediterranean/dailymotion.com/2015/04/how-to-make-a-mediterranean-feta-salad",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mediterranean/0?af=1",
             "source_url": "http://dailymotion.com/video/x2makbq_how-to-make-a-mediterranean-feta-salad_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2makbq_how-to-make-a-mediterranean-feta-salad_lifestyle"
+        },
+        "dailymotion.com/2015/04/how-to-make-a-mediterranean-leek-salad": {
+            "title": "How To Make A Mediterranean Leek Salad...",
+            "snippet": "Looking for a way to liven up your leeks? In this episode of Rosie's Brixton Kitchen Rosie Birkett shows you how to make French style cold leeks with a mustard: scoffTags: salad vegetarian french food spanish food gorgonzola almonds vinaigrette...",
+            "date": "2015-04-13",
+            "author_name": "scoff",
+            "categories": "food,kitchen,mediterranean",
+            "tags": "salad,food,shows,episode,mediterranean",
+            "recuweb_url": "http://en.recuweb.com/mediterranean/dailymotion.com/2015/04/how-to-make-a-mediterranean-leek-salad",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mediterranean/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2mc65u_how-to-make-a-mediterranean-leek-salad_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mc65u_how-to-make-a-mediterranean-leek-salad_lifestyle"
+        },
+        "dailymotion.com/2015/04/orlando-florida-mediterranean-garden-courtyard-villa-estate": {
+            "title": "Orlando Florida Mediterranean Garden Courtyard Villa Estate...",
+            "snippet": "Orlando Florida Mediterranean Garden Courtyard Villa EstateAuthor: KarineYeagerTags: Orlando Florida Mediterranean Garden Courtyard Villa Estate Posted: 04 April 2015Rating:: 0...",
+            "date": "2015-04-04",
+            "author_name": "KarineYeager",
+            "categories": "mediterranean",
+            "tags": "mediterranean",
+            "recuweb_url": "http://en.recuweb.com/mediterranean/dailymotion.com/2015/04/orlando-florida-mediterranean-garden-courtyard-villa-estate",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mediterranean/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2lpfbd_orlando-florida-mediterranean-garden-courtyard-villa-estate_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lpfbd_orlando-florida-mediterranean-garden-courtyard-villa-estate_lifestyle"
+        },
+        "dailymotion.com/2015/04/mediterranean-millionaire-get-250-cash-for-watching-this-video-today": {
+            "title": "Mediterranean Millionaire - Get 250 Cash For Watching This Video Today!",
+            "snippet": "\"Mediterranean Millionaire\" - Get 250 Cash For Watching This Video Today!Author: RaneeSaxonTags: Mediterranean Millionaire - Get 250 Cash For Watching This Video Today Posted: 03 April 2015Rating:: 0...",
+            "date": "2015-04-03",
+            "author_name": "RaneeSaxon",
+            "categories": "mediterranean",
+            "tags": "mediterranean",
+            "recuweb_url": "http://en.recuweb.com/mediterranean/dailymotion.com/2015/04/mediterranean-millionaire-get-250-cash-for-watching-this-video-today",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/mediterranean/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2lmkif_mediterranean-millionaire-get-250-cash-for-watching-this-video-today_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lmkif_mediterranean-millionaire-get-250-cash-for-watching-this-video-today_lifestyle"
+        },
+        "youtube.com/2015/02/italy-s-mediterranean-mass-grave-europe-or-die-episode-4": {
+            "title": "Italy's Mediterranean Mass Grave: Europe or Die (Episode 4/4)...",
+            "snippet": "Italy's Mediterranean Mass Grave: Europe or Die (Episode 4/4) Since 2000, more than 27000 migrants and refugees have died attempting the perilous journey to Europe. With an unprecedented number of people breaking through its heavily barricaded...",
+            "date": "2015-02-16",
+            "author_name": "VICE News",
+            "categories": "mediterranean",
+            "tags": "migrants,died,mediterranean,italy,europe,episode",
+            "recuweb_url": "http://en.recuweb.com/mediterranean/youtube.com/2015/02/italy-s-mediterranean-mass-grave-europe-or-die-episode-4",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mediterranean&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=opbSFGlAefQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/opbSFGlAefQ/0.jpg"
         }
     }
 }
