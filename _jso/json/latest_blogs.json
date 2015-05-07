@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "json",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/json/",
@@ -11,27 +11,27 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/json/json/blogs.json"
     },
     "items": {
+        "stackoverflow.com/2015/05/mvc-fill-from-model-using-json-on": {
+            "title": "mvc - MVC Fill from model using JSON on...",
+            "snippet": "I want fill EditorFor fields that contain information about room and save data if it changed. For choosing a particular room in the list data in fields changed. My view: (model=model.",
+            "date": "2015-05-02",
+            "author_name": "Sergey Svezentsev",
+            "categories": "json",
+            "tags": "information,want,using,json,data",
+            "recuweb_url": "http://en.recuweb.com/json/stackoverflow.com/2015/05/mvc-fill-from-model-using-json-on",
+            "resource_url": "http://www.google.com/search?q=json&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/30007055/mvc-fill-html-editorfor-from-model-using-json-on-change-html-dropdownlistfor"
+        },
         "liberidu.com/2015/05/howto-building-a-json-database-api-1": {
             "title": "HOWTO: Building a JSON Database API (1)...",
             "snippet": "Finding a decent JSON service wasn't that easy. Most, like twitter, need an authentication somehow and I wasn't in for a lot of issues before even getting started. In the end, with a bit of searching, website Programmable Web...",
             "date": "2015-05-01",
             "author_name": "Marco Gralike",
             "categories": "twitter,json,database",
-            "tags": "web,bit,twitter,service,json,json_database,json_database_api,database,database_api,api,howto,building",
+            "tags": "web,bit,json,database,api,building,website",
             "recuweb_url": "http://en.recuweb.com/database/liberidu.com/2015/05/howto-building-a-json-database-api-1",
-            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=json&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://liberidu.com/blog/2015/05/01/howto-building-a-json-database-api/"
-        },
-        "liberidu.com/2015/05/howto-building-a-json-database-api-2": {
-            "title": "HOWTO: Building a JSON Database API (2)...",
-            "snippet": "After creating the initial structures to scrape some JSON content of Wikipedia, as mentioned in HOWTO: Building a JSON Database API (1), it is now time to create some views and accompanying PL/SQL code.",
-            "date": "2015-05-01",
-            "author_name": "Marco Gralike",
-            "categories": "json,database",
-            "tags": "content,creating,structures,json,json_database,json_database_api,database,database_api,api,howto,building,sql,code",
-            "recuweb_url": "http://en.recuweb.com/database/liberidu.com/2015/05/howto-building-a-json-database-api-2",
-            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://liberidu.com/blog/2015/05/01/howto-building-a-json-database-api-2/"
         },
         "stackoverflow.com/2015/04/json-convert-form-data-to-javascript-object-with-jquery-stack": {
             "title": "json - Convert form data to JavaScript object with jQuery - Stack...",
@@ -39,21 +39,32 @@
             "date": "2015-04-28",
             "author_name": "Yisroel",
             "categories": "json,javascript,jquery",
-            "tags": "want,building,object,json,data,javascript,each",
+            "tags": "want,building,object,json,data,javascript,jquery,each",
             "recuweb_url": "http://en.recuweb.com/jquery/stackoverflow.com/2015/04/json-convert-form-data-to-javascript-object-with-jquery-stack",
-            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=json&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://stackoverflow.com/questions/1184624/convert-form-data-to-javascript-object-with-jquery"
         },
-        "theburningmonk.com/2015/04/binary-and-json-benchmarks-updated": {
-            "title": "Binary and Json benchmarks updated...",
-            "snippet": "DISCLAIMER: as always, you should benchmark against your payload and use case, the benchmark numbers I have produced here is unlikely to be.",
+        "pypi.python.org/2015/04/cattle-python-package-index": {
+            "title": "cattle: Python Package Index...",
+            "snippet": "export CATTLE_URL=localhost:8080/v1 cattle --help curl -s localhost:8080/v1/widgets?foo=bar cattle list-widget --foo=bar curl -s -X POST localhost:8080/v1/widgets -H 'Content-Type: application/json'-d...",
             "date": "2015-04-23",
-            "author_name": "theburningmonk",
+            "author_name": "unknown",
             "categories": "json",
-            "tags": "produced,json,here",
-            "recuweb_url": "http://en.recuweb.com/json/theburningmonk.com/2015/04/binary-and-json-benchmarks-updated",
-            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://theburningmonk.com/2015/04/binary-and-json-benchmarks-updated-2/"
+            "tags": "curl,localhost,type,application,json",
+            "recuweb_url": "http://en.recuweb.com/json/pypi.python.org/2015/04/cattle-python-package-index",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://pypi.python.org/pypi/cattle/0.4.0"
+        },
+        "github.com/2015/04/brson-httptest-github": {
+            "title": "brson/httptest GitHub...",
+            "snippet": "It seems a tuple is a Modifier. Add the tuple to Ok(Response::with((status::Ok, payload))), execute cargo run, curl some JSON. curl localhost:3000 \"msg\":\"Hello, World\". Blam! We're sending JSON. Time for another...",
+            "date": "2015-04-22",
+            "author_name": "Onadvertise",
+            "categories": "json",
+            "tags": "curl,curl-localhost,localhost,response,json",
+            "recuweb_url": "http://en.recuweb.com/json/github.com/2015/04/brson-httptest-github",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://github.com/brson/httptest"
         },
         "drupal.org/2015/04/json-jsonb-field": {
             "title": "JSON/JSONB Field...",
@@ -63,7 +74,7 @@
             "categories": "json,drupal,database",
             "tags": "type,json,data,database,version",
             "recuweb_url": "http://en.recuweb.com/database/drupal.org/2015/04/json-jsonb-field",
-            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=json&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://drupal.org/project/jsonb"
         },
         "google-opensource.blogspot.com/2015/04/jsonnet-a-more-elegant-language-for-composing-json": {
@@ -72,43 +83,10 @@
             "date": "2015-04-20",
             "author_name": "Open Source Programs Office",
             "categories": "json",
-            "tags": "configuration,quietly,released,jsonnet,language,json,data",
+            "tags": "programming,simple,configuration,quietly,released,jsonnet,language,json,data",
             "recuweb_url": "http://en.recuweb.com/json/google-opensource.blogspot.com/2015/04/jsonnet-a-more-elegant-language-for-composing-json",
-            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=json&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://google-opensource.blogspot.com/2015/04/jsonnet-more-elegant-language-for.html"
-        },
-        "blog.netspi.com/2015/04/playing-with-content-type-xxe-on-json-endpoints-netspi-blog": {
-            "title": "Playing with Content-Type XXE on JSON Endpoints - NetSPI Blog...",
-            "snippet": "Many web and mobile applications rely on web services communication for client-server interaction. Most common data formats for web services are XML, whether SOAP or RESTful, and JSON. While a web service may be...",
-            "date": "2015-04-20",
-            "author_name": "ExplodingAds.com",
-            "categories": "json,xml",
-            "tags": "service,server,applications,json,type,content,web,data,formats,xml",
-            "recuweb_url": "http://en.recuweb.com/xml/blog.netspi.com/2015/04/playing-with-content-type-xxe-on-json-endpoints-netspi-blog",
-            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.netspi.com/playing-content-type-xxe-json-endpoints/"
-        },
-        "dgielis.blogspot.com/2015/04/json-for-apex-developers-part-3-querying-in-oracle-db-12c": {
-            "title": "JSON for APEX Developers (part 3): Querying JSON in Oracle DB 12c...",
-            "snippet": "In previous blog posts I talked about JSON for APEX Developers: Generate nested JSON from SQL with ORDS and APEX 5 JSON for APEX Developers (part 1) JSON for APEX Developers (part 2) In this post I want to show how you store and query JSON data...",
-            "date": "2015-04-17",
-            "author_name": "Dimitri Gielis",
-            "categories": "json",
-            "tags": "want,store,developers,json,part,querying,sql,data",
-            "recuweb_url": "http://en.recuweb.com/json/dgielis.blogspot.com/2015/04/json-for-apex-developers-part-3-querying-in-oracle-db-12c",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=json%2Bjson&rss=1&lng=en",
-            "source_url": "http://dgielis.blogspot.com/2015/04/json-for-apex-developers-part-3.html"
-        },
-        "blog.najmanowicz.com/2015/04/rapid-api-prototyping-for-sitecore-with-powershell-extensions": {
-            "title": "Rapid API prototyping for Sitecore with PowerShell Extensions...",
-            "snippet": "This post describes how you can deliver JSON/XML/HTML APIs quickly with Sitecore PowerShell Extensions. Technically this was also available earlier but the API was not refined to the state it is now. As Sitecore is constantly progressing from...",
-            "date": "2015-04-13",
-            "author_name": "Adam Najmanowicz",
-            "categories": "html,json,xml",
-            "tags": "describes,extensions,api,json,xml,available",
-            "recuweb_url": "http://en.recuweb.com/xml/blog.najmanowicz.com/2015/04/rapid-api-prototyping-for-sitecore-with-powershell-extensions",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=json%2Bjson&rss=1&lng=en",
-            "source_url": "http://blog.najmanowicz.com/2015/04/13/rapid-api-prototyping-for-sitecore-with-powershell-extensions/"
         },
         "mysqlserverteam.com/2015/04/json-labs-release-functions-part-2-querying-data": {
             "title": "JSON Labs Release: JSON Functions, Part 2 Querying JSON Data...",
@@ -116,10 +94,32 @@
             "date": "2015-04-10",
             "author_name": "Dag Wanvik",
             "categories": "mysql,json",
-            "tags": "documents,using,introduced,creating,json,querying,data,release,part",
+            "tags": "using,introduced,functions,json,json_data,data,release",
             "recuweb_url": "http://en.recuweb.com/json/mysqlserverteam.com/2015/04/json-labs-release-functions-part-2-querying-data",
             "resource_url": "http://www.google.com/search?q=json&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://mysqlserverteam.com/mysql-5-7-lab-release-json-functions-part-2-querying-json-data/"
+        },
+        "threatpost.com/2015/04/critical-vulnerabilities-affecting-json-web-token-libraries": {
+            "title": "Critical Vulnerabilities Affecting JSON Web Token Libraries...",
+            "snippet": "Critical vulnerabilities exist in several JSON Web Token (JWT) libraries namely the JavaScript and PHP versions that could let an attacker bypass the verification step. Tim McLean, a Canadian security researcher who...",
+            "date": "2015-04-01",
+            "author_name": "Chris Brook",
+            "categories": "json,javascript,php",
+            "tags": "json,web,javascript",
+            "recuweb_url": "http://en.recuweb.com/php/threatpost.com/2015/04/critical-vulnerabilities-affecting-json-web-token-libraries",
+            "resource_url": "http://www.google.com/search?q=json&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://threatpost.com/critical-vulnerabilities-affect-json-web-token-libraries/111943"
+        },
+        "ahmedzubayr.wordpress.com/2015/03/using-curl-to-send-json-data-an-api": {
+            "title": "Using curl to send JSON data to an API.",
+            "snippet": "Using curl to send JSON data to an is a very simple command to send JSON data to your -H \"Content-Type: application/json\" -d '\"firstname\":\"ahmed\",\"lastname\":\"zzzz\"'localhost:3000/loginAbove command...",
+            "date": "2015-03-31",
+            "author_name": "Ahmed",
+            "categories": "json,json\"",
+            "tags": "simple,curl,using,json,data,api,type,application,localhost",
+            "recuweb_url": "http://en.recuweb.com/json%22/ahmedzubayr.wordpress.com/2015/03/using-curl-to-send-json-data-an-api",
+            "resource_url": "http://en.search.wordpress.com/?q=en%2Blocalhost%2Bcom%2Bjson&f=feed&page=1",
+            "source_url": "http://ahmedzubayr.wordpress.com/2015/03/31/using-curl-to-send-json-data-to-an-api/"
         }
     }
 }
