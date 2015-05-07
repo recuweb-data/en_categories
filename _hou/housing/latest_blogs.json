@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "housing",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/housing/",
@@ -11,16 +11,60 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/housing/housing/blogs.json"
     },
     "items": {
-        "archdaily.com/2015/05/50-housing-units-bruther-archdaily": {
-            "title": "50 Housing Units/Bruther ArchDaily...",
-            "snippet": "Location to be used only as a reference. It could indicate city/country but not exact address. Cite: \"50 Housing Units/Bruther\" 02 May 2015. ArchDaily. Accessed 02 May 2015....",
-            "date": "2015-05-02",
+        "seekingalpha.com/2015/05/china-housing-dragging-on-the-economy-but-for-how-long": {
+            "title": "China: Housing Dragging On The Economy, But For How Long...",
+            "snippet": "Following the release of unofficial housing price survey data for April, there have been some media coverage suggesting that the drag on the overall economy.",
+            "date": "2015-05-03",
+            "author_name": "SeekingAlpha.com",
+            "categories": "economy,housing",
+            "tags": "survey,data,housing,long",
+            "recuweb_url": "http://en.recuweb.com/housing/seekingalpha.com/2015/05/china-housing-dragging-on-the-economy-but-for-how-long",
+            "resource_url": "http://www.google.com/search?q=housing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://seekingalpha.com/article/3132656-china-housing-dragging-on-the-economy-but-for-how-long"
+        },
+        "archdaily.com/2015/05/public-housing-vpo-in-ciudad-real-rojo-fern%C3%A1ndez-shaw": {
+            "title": "Public Housing VPO in Ciudad Real/Rojo/Fern\u00e1ndez-Shaw...",
+            "snippet": "This is a public housing project of 74 units in Ciudad Real, on one of the new development areas of the city, near where the ring road will be constructed and, therefore, at its boundary. The project is confronted to the suburban...",
+            "date": "2015-05-03",
             "author_name": "AD Editorial Team",
             "categories": "housing",
-            "tags": "city,housing,units",
+            "tags": "city,units,public,real,housing",
+            "recuweb_url": "http://en.recuweb.com/housing/archdaily.com/2015/05/public-housing-vpo-in-ciudad-real-rojo-fern%C3%A1ndez-shaw",
+            "resource_url": "http://www.google.com/search?q=housing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://archdaily.com/625698/public-housing-vpo-in-ciudad-real-rojo-fernandez-shaw/"
+        },
+        "archdaily.com/2015/05/50-housing-units-bruther-archdaily": {
+            "title": "50 Housing Units/Bruther ArchDaily...",
+            "snippet": "From the architect. The problem in the understanding of inhabitation is that it is perceived as purely utilitarian. Perceiving it as such, is to deny it of all the structural aspects it has on one's perception and thus on one's way of...",
+            "date": "2015-05-02",
+            "author_name": "AD Editorial Team",
+            "categories": "perception,housing",
+            "tags": "housing,units",
             "recuweb_url": "http://en.recuweb.com/housing/archdaily.com/2015/05/50-housing-units-bruther-archdaily",
             "resource_url": "http://www.google.com/search?q=housing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://archdaily.com/625109/50-housing-units-bruther/"
+        },
+        "stuff.co.nz/2015/05/auckland-s-housing-bubble-expected-to-spread": {
+            "title": "Auckland's housing \"bubble\" expected to spread...",
+            "snippet": "Greenaway-McGrevy and fellow researcher Peter Phillips have found that Auckland is in the midst of a housing \"bubble\" similar to the 2003 2007 bubble that ended with the Global Financial Crisis. READ MORE: Property...",
+            "date": "2015-05-02",
+            "author_name": "David Lomas",
+            "categories": "housing,property",
+            "tags": "crisis,bubble,housing,property",
+            "recuweb_url": "http://en.recuweb.com/property/stuff.co.nz/2015/05/auckland-s-housing-bubble-expected-to-spread",
+            "resource_url": "http://www.google.com/search?q=housing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stuff.co.nz/business/money/68222217/aucklands-housing-bubble-expected-to-spread"
+        },
+        "calculatedriskblog.com/2015/05/calculated-risk-lawler-on-housing-vacancy-survey": {
+            "title": "Calculated Risk: Lawler on Housing Vacancy Survey: More...",
+            "snippet": "Earlier this week the Census Bureau released its Residential Vacancies and Homeownership Report (commonly referred to as the Housing Vacancy Survey, or HVS) for the first quarter of 2015, and while the results were not...",
+            "date": "2015-05-02",
+            "author_name": "Bill McBride",
+            "categories": "housing",
+            "tags": "report,census,housing,survey",
+            "recuweb_url": "http://en.recuweb.com/housing/calculatedriskblog.com/2015/05/calculated-risk-lawler-on-housing-vacancy-survey",
+            "resource_url": "http://www.google.com/search?q=housing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://calculatedriskblog.com/2015/05/lawler-on-housing-vacancy-survey-more.html"
         },
         "realtormag.realtor.org/2015/05/15-hottest-housing-markets-right-now-realtor-magazine": {
             "title": "15 Hottest Housing Markets Right Now Realtor Magazine...",
@@ -28,98 +72,54 @@
             "date": "2015-05-01",
             "author_name": "unknown",
             "categories": "housing,markets",
-            "tags": "prices,percent,realtor,realtor_magazine,magazine,hottest,housing,markets,market,report",
+            "tags": "homes,hottest,housing,markets,market,report,prices",
             "recuweb_url": "http://en.recuweb.com/markets/realtormag.realtor.org/2015/05/15-hottest-housing-markets-right-now-realtor-magazine",
-            "resource_url": "http://www.google.com/search?q=housing%2Bhousing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=housing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://realtormag.realtor.org/daily-news/2015/05/01/15-hottest-housing-markets-right-now"
         },
-        "spokesman.com/2015/05/affordable-housing-for-spokane-s-poor-woefully-scarce-spokesman": {
-            "title": "Affordable housing for Spokane's poor woefully scarce - Spokesman...",
-            "snippet": "A separate report focusing on the city of Spokane, prepared by a Gonzaga law student, concludes that around 6,000 households which could qualify for housing vouchers or subsidized housing aren't receiving them, in part...",
+        "theyeshivaworld.com/2015/05/more-americans-spending-at-least-half-their-pay-on-housing": {
+            "title": "More Americans Spending at Least Half Their Pay on Housing The...",
+            "snippet": "For more than one in four renters, housing and utilities consume at least half their family income, according to an analysis of Census data by Enterprise Community Partners, a nonprofit that helps finance affordable housing.",
             "date": "2015-05-01",
-            "author_name": "unknown",
-            "categories": "law,housing",
-            "tags": "households,report,city,affordable,housing",
-            "recuweb_url": "http://en.recuweb.com/housing/spokesman.com/2015/05/affordable-housing-for-spokane-s-poor-woefully-scarce-spokesman",
+            "author_name": "Y.W. Editor",
+            "categories": "finance,housing",
+            "tags": "community,data,analysis,utilities,least,half,renters,pay,housing,family,income,census,affordable",
+            "recuweb_url": "http://en.recuweb.com/housing/theyeshivaworld.com/2015/05/more-americans-spending-at-least-half-their-pay-on-housing",
             "resource_url": "http://www.google.com/search?q=housing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://spokesman.com/stories/2015/may/01/affordable-housing-for-spokanes-poor-woefully/"
+            "source_url": "http://theyeshivaworld.com/news/headlines-breaking-stories/306618/more-americans-spending-at-least-half-their-pay-on-housing.html"
         },
-        "nola.com/2015/05/st-bernard-offers-resident-help-to-pay-power-bills-parish-housing": {
-            "title": "St. Bernard offers resident help to pay power bills, parish housing...",
-            "snippet": "St. Bernard Parish's Department of Housing and Redevelopment on Monday (May 4) will take calls from low-income households interested in help to pay power bills. The department said residents must call to set up...",
-            "date": "2015-05-01",
-            "author_name": "Benjamin Alexander-Bloch, NOLA.com | The Times-Picayune",
+        "theguardian.com/2015/04/housing-policies-in-the-general-election-what-do-experts-think": {
+            "title": "Housing policies in the general election what do the experts think...",
+            "snippet": "We asked a series of housing experts for their views on the policies on offer in the 2015 election manifestos.",
+            "date": "2015-04-23",
+            "author_name": "Guardian Staff",
             "categories": "housing",
-            "tags": "department,residents,households,help,pay,housing,low,income",
-            "recuweb_url": "http://en.recuweb.com/housing/nola.com/2015/05/st-bernard-offers-resident-help-to-pay-power-bills-parish-housing",
-            "resource_url": "http://www.google.com/search?q=housing%2Bhousing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://nola.com/politics/index.ssf/2015/05/st_bernard_energy_assistance_a.html"
+            "tags": "election,housing",
+            "recuweb_url": "http://en.recuweb.com/housing/theguardian.com/2015/04/housing-policies-in-the-general-election-what-do-experts-think",
+            "resource_url": "http://www.google.com/search?q=housing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theguardian.com/housing-network/2015/apr/23/housing-policies-election-2015-experts"
         },
-        "phys.org/2015/05/study-indicates-housing-market-cycles-have-become-longer": {
-            "title": "Study indicates housing market cycles have become longer -...",
-            "snippet": "A statistical analysis of data from 20 industrial countries covering the period 1970 to 2012 suggests housing market pricing cyclesnormal, boom and bust phaseshave become longer over the last four decades.",
-            "date": "2015-05-01",
-            "author_name": "unknown",
+        "prepchapters.org/2015/03/the-federal-housing-administration-next-crisis": {
+            "title": "The Federal Housing Administration, the Next Housing Crisis?",
+            "snippet": "The Federal Housing Administration, the Next Housing Crisis? The Hill March 16, 2015 Two oversight hearings on the Federal Housing Administration (FHA) have helped shed light on an agency...",
+            "date": "2015-03-17",
+            "author_name": "PREP",
             "categories": "housing",
-            "tags": "boom,data,housing,market,analysis",
-            "recuweb_url": "http://en.recuweb.com/housing/phys.org/2015/05/study-indicates-housing-market-cycles-have-become-longer",
-            "resource_url": "http://www.google.com/search?q=housing%2Bhousing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://phys.org/news/2015-05-housing-longer.html"
+            "tags": "housing,crisis",
+            "recuweb_url": "http://en.recuweb.com/housing/prepchapters.org/2015/03/the-federal-housing-administration-next-crisis",
+            "resource_url": "http://en.search.wordpress.com/?q=housing&f=feed&page=1",
+            "source_url": "http://prepchapters.org/2015/03/17/the-federal-housing-administration-the-next-housing-crisis/"
         },
-        "business.financialpost.com/2015/04/cmhc-says-regina-winnipeg-are-the-riskiest-housing-markets-in": {
-            "title": "CMHC says Regina, Winnipeg are the riskiest housing markets in...",
-            "snippet": "Compared with these two housing hot beds, Vancouver, the most expensive market in the country, and Toronto are seen as low risk even as average home prices soar past 1.4 million.",
-            "date": "2015-04-30",
-            "author_name": "Garry Marr",
-            "categories": "home,markets,housing",
-            "tags": "even,home,prices,markets,market,housing,compared,low",
-            "recuweb_url": "http://en.recuweb.com/housing/business.financialpost.com/2015/04/cmhc-says-regina-winnipeg-are-the-riskiest-housing-markets-in",
-            "resource_url": "http://www.google.com/search?q=housing%2Bhousing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://business.financialpost.com/personal-finance/mortgages-real-estate/cmhc-says-regina-winnipeg-are-the-riskiest-housing-markets-in-canada"
-        },
-        "economistsview.typepad.com/2015/04/economist-s-view-video-demystifying-the-chinese-housing-boom": {
-            "title": "Economist's View: Video: Demystifying the Chinese Housing Boom...",
-            "snippet": "Video: Demystifying the Chinese Housing Boom.... A Partial Solution to Income Inequality Was Monetary Policy Loose During the Housing Boom? It Takes A Regime Shift to Raise an Economy It's Already Priced Into the...",
-            "date": "2015-04-30",
-            "author_name": "Mark Thoma",
-            "categories": "housing,monetary-policy,policy,economy",
-            "tags": "housing,boom,income,during,economist",
-            "recuweb_url": "http://en.recuweb.com/economy/economistsview.typepad.com/2015/04/economist-s-view-video-demystifying-the-chinese-housing-boom",
-            "resource_url": "http://www.google.com/search?q=housing%2Bhousing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://economistsview.typepad.com/economistsview/2015/04/-demystifying-the-chinese-housing-boom.html"
-        },
-        "realtormag.realtor.org/2015/04/the-best-kept-secret-in-rural-housing-realtor-magazine": {
-            "title": "The Best-Kept Secret in Rural Housing Realtor Magazine...",
-            "snippet": "The U.S. Department of Agriculture Rural Housing Service's Section 502 direct loan program is a longstanding loan product that's intended to help relatively low-income households get safe and affordable financing.",
-            "date": "2015-04-30",
-            "author_name": "unknown",
+        "andywinterbht.wordpress.com/2015/03/it-s-a-strange-state-of-affairs-where-some-social-landlords": {
+            "title": "It's a strange state of affairs where some social landlords aren't interested in social housing...",
+            "snippet": "Yesterday I wrote about affordability in housing, and how the use of the word 'affordable'has been so corrupted in recent times, meaning rents at 80% of the...",
+            "date": "2015-03-15",
+            "author_name": "Andy Winter BHT",
             "categories": "housing",
-            "tags": "households,safe,help,relatively,housing,realtor,realtor_magazine,magazine,department,low,income,affordable,financing",
-            "recuweb_url": "http://en.recuweb.com/housing/realtormag.realtor.org/2015/04/the-best-kept-secret-in-rural-housing-realtor-magazine",
-            "resource_url": "http://www.google.com/search?q=housing%2Bhousing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://realtormag.realtor.org/daily-news/2015/04/30/best-kept-secret-in-rural-housing"
-        },
-        "realtormag.realtor.org/2015/04/this-is-no-housing-bubble-realtor-magazine": {
-            "title": ": 'This Is No Housing Bubble'Realtor Magazine...",
-            "snippet": "During the peak years of the housing bubble, from 2003 to 2005, the data on supply versus price appreciation looked very similar to what we are seeing now, writes Jonathan Smoke, 's chief economist, in recent...",
-            "date": "2015-04-29",
-            "author_name": "unknown",
-            "categories": "housing",
-            "tags": "economist,data,realtor,realtor_magazine,magazine,housing,during",
-            "recuweb_url": "http://en.recuweb.com/housing/realtormag.realtor.org/2015/04/this-is-no-housing-bubble-realtor-magazine",
-            "resource_url": "http://www.google.com/search?q=housing%2Bhousing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://realtormag.realtor.org/daily-news/2015/04/29/realtorcom-no-housing-bubble"
-        },
-        "blog.corelogic.com.au/2015/04/some-ideas-about-measuring-the-relativity-of-housing-costs": {
-            "title": "Some ideas about measuring the relativity of housing costs...",
-            "snippet": "Measuring the cost of housing and housing affordability is such an abstract idea because it is not a one size fits all measure and there are so many factors which contribute to affordability or unaffordability. Most of the common measures have one...",
-            "date": "2015-04-29",
-            "author_name": "Cameron Kusher",
-            "categories": "housing",
-            "tags": "costs,housing",
-            "recuweb_url": "http://en.recuweb.com/housing/blog.corelogic.com.au/2015/04/some-ideas-about-measuring-the-relativity-of-housing-costs",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=housing%2Bhousing&rss=1&lng=en",
-            "source_url": "http://blog.corelogic.com.au/2015/04/some-ideas-about-measuring-the-relativity-of-housing-costs/"
+            "tags": "rents,affordability,housing,affordable",
+            "recuweb_url": "http://en.recuweb.com/housing/andywinterbht.wordpress.com/2015/03/it-s-a-strange-state-of-affairs-where-some-social-landlords",
+            "resource_url": "http://en.search.wordpress.com/?q=housing&f=feed&page=1",
+            "source_url": "http://andywinterbht.wordpress.com/2015/03/15/its-a-strange-state-of-affairs-where-some-social-landlords-arent-interested-in-social-housing/"
         }
     }
 }
