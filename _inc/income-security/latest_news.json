@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "income-security",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/income-security/",
@@ -11,25 +11,64 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/income-security/income-security/blogs.json"
     },
     "items": {
-        "thinkprogress.org/2015/05/bernie-sanders-plans-to-dramatically-alter-social-security-thinkprogress": {
-            "title": "Bernie Sanders Plans To Dramatically Alter Social Security - ThinkProgress...",
-            "snippet": "ThinkProgressBernie Sanders Plans To Dramatically Alter Social SecurityThinkProgressBernie Sanders (I-VT) announced his candidacy for the presidency on Thursday with the goal of promoting progressive polices to reduce income inequality, climate...",
-            "date": "2015-05-02",
-            "categories": "social-security",
-            "tags": "plans,social,social_security,security,income",
-            "recuweb_url": "http://en.recuweb.com/social-security/thinkprogress.org/2015/05/bernie-sanders-plans-to-dramatically-alter-social-security-thinkprogress",
+        "wtsp.com/2015/05/1-in-4-renters-use-half-their-pay-for-housing-costs": {
+            "title": "1 in 4 renters use half their pay for housing costs - WTSP 10 News...",
+            "snippet": "WTSP 10 News1 in 4 renters use half their pay for housing costsWTSP 10 NewsThe lost income forced them out of a three-bedroom house and eventually into a hotel, where vouchers over the course of five months helped them save for a security deposit...",
+            "date": "2015-05-03",
+            "categories": "housing",
+            "tags": "pay,housing,income,security",
+            "recuweb_url": "http://en.recuweb.com/housing/wtsp.com/2015/05/1-in-4-renters-use-half-their-pay-for-housing-costs",
             "resource_url": "http://news.google.com/?hl=en&q=income%2Bsecurity&output=atom&nord=1",
-            "source_url": "http://thinkprogress.org/economy/2015/05/02/3653792/bernie-sanders-plans-dramatically-alter-social-security/"
+            "source_url": "http://wtsp.com/story/news/2015/05/03/rental-costs/26835095/"
         },
-        "tiftongazette.com/2015/05/house-adopts-compromise-gop-budget-targeting-obamacare-tifton-gazette": {
-            "title": "House adopts compromise GOP budget targeting 'Obamacare'- Tifton Gazette...",
-            "snippet": "House adopts compromise GOP budget targeting 'Obamacare'Tifton GazetteWhite House budget director Shaun Donovan dissected the measure in a blog post that noted 600 billion in cuts from \"income security\" programs like nutrition assistance, cash...",
-            "date": "2015-05-02",
-            "categories": "income-security",
-            "tags": "income,security,programs",
-            "recuweb_url": "http://en.recuweb.com/income-security/tiftongazette.com/2015/05/house-adopts-compromise-gop-budget-targeting-obamacare-tifton-gazette",
+        "investmentnews.com/2015/05/an-adviser-s-retirement-income-software-toolbox-investmentnews": {
+            "title": "An adviser's retirement income software toolbox - InvestmentNews...",
+            "snippet": "InvestmentNewsAn adviser's retirement income software toolboxInvestmentNewsWe have, in effect, a living-standard machine, said Mr. Kotlikoff, president of Economic Security Planning Inc. The software can handle many what if scenarios, such as a...",
+            "date": "2015-05-03",
+            "tags": "economic,security,planning,president,retirement,income,said",
+            "recuweb_url": "http://en.recuweb.com/investmentnews.com/2015/05/an-adviser-s-retirement-income-software-toolbox-investmentnews",
             "resource_url": "http://news.google.com/?hl=en&q=income%2Bsecurity&output=atom&nord=1",
-            "source_url": "http://tiftongazette.com/news/house-adopts-compromise-gop-budget-targeting-obamacare/article_5ce5b016-f034-11e4-b229-7faeed5a0ef0.html"
+            "source_url": "http://investmentnews.com/article/20150503/REG/150509991/an-advisers-retirement-income-software-toolbox"
+        },
+        "risingkashmir.com/2015/05/banks-to-roll-out-social-security-schemes": {
+            "title": "Banks to roll out social security schemes...",
+            "snippet": "Such a convenient delivery mechanism of the schemes is expected to address the situation of very low coverage of life/accident insurance and old age income security products in the country, said Zaffar Ahmad. Both the Chairpersons advised the stake...",
+            "date": "2015-05-03",
+            "categories": "insurance,life",
+            "tags": "insurance,old,age,schemes,address,low,social,security,income,said",
+            "recuweb_url": "http://en.recuweb.com/life/risingkashmir.com/2015/05/banks-to-roll-out-social-security-schemes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=income%2Bsecurity&format=RSS&cc=us",
+            "source_url": "http://risingkashmir.com/banks-to-roll-out-social-security-schemes/"
+        },
+        "businessinsider.in/2015/05/here-s-how-much-income-is-taxed-around-the-world-businessinsider": {
+            "title": "Here's how much income is taxed around the world - Businessinsider India...",
+            "snippet": "Businessinsider IndiaHere's how much income is taxed around the worldBusinessinsider IndiaThis is a combination of personal income taxes with both employer and employee paid payroll and social security taxes, minus any cash benefits received by the...",
+            "date": "2015-05-03",
+            "categories": "taxes",
+            "tags": "benefits,taxes,employee,paid,here,income,social,security",
+            "recuweb_url": "http://en.recuweb.com/taxes/businessinsider.in/2015/05/here-s-how-much-income-is-taxed-around-the-world-businessinsider",
+            "resource_url": "http://news.google.com/?hl=en&q=income%2Bsecurity&output=atom&nord=1",
+            "source_url": "http://businessinsider.in/Heres-how-much-income-is-taxed-around-the-world/articleshow/47140632.cms"
+        },
+        "punemirror.in/2015/05/modi-govt-plans-mega-launch-of-insurance-and-pension-schemes": {
+            "title": "Modi govt plans mega launch of insurance and pension schemes...",
+            "snippet": "The Atal Pension Yojana (APY) will address old-age income security needs. The pension scheme will focus on the unorganised sector and provide subscribers a fixed minimum pension of Rs 1,000, 2,000, 3,000, 4,000 or 5,000 per month starting at age...",
+            "date": "2015-05-03",
+            "categories": "pension,insurance",
+            "tags": "age,focus,address,old,plans,insurance,schemes,income,security",
+            "recuweb_url": "http://en.recuweb.com/insurance/punemirror.in/2015/05/modi-govt-plans-mega-launch-of-insurance-and-pension-schemes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=income%2Bsecurity&format=RSS&cc=us",
+            "source_url": "http://punemirror.in/news/india/Modi-govt-plans-mega-launch-of-insurance-and-pension-schemes/articleshow/47141952.cms"
+        },
+        "expressnews.com/2015/05/the-other-enemy-of-401-k-plans-and-your-retirement-san": {
+            "title": "The other enemy of 401(k) plans (and your retirement) - San Antonio Express-News...",
+            "snippet": "The other enemy of 401(k) plans (and your retirement)San Antonio Express-NewsWe experience the taxation of Social Security benefits as a tax on money withdrawn from our retirement plans. Many middle-income retirees now are paying taxes on those...",
+            "date": "2015-05-03",
+            "categories": "taxes,social-security,taxation",
+            "tags": "taxes,tax,retirement,plans,benefits,money,social,social_security,security,income,retirees",
+            "recuweb_url": "http://en.recuweb.com/taxation/expressnews.com/2015/05/the-other-enemy-of-401-k-plans-and-your-retirement-san",
+            "resource_url": "http://news.google.com/?hl=en&q=income%2Bsecurity&output=atom&nord=1",
+            "source_url": "http://expressnews.com/business/article/The-other-enemy-of-401-k-plans-and-your-6239514.php"
         },
         "krugman.blogs.nytimes.com/2015/05/poverty-policy-truths": {
             "title": "Poverty Policy Truths...",
@@ -41,26 +80,6 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=income%2Bsecurity&format=RSS&cc=us",
             "source_url": "http://krugman.blogs.nytimes.com/2015/05/02/poverty-policy-truths/"
         },
-        "insurancenewsnet.com/2015/05/health-care-costs-will-devour-social-security-income-insurance-news-net": {
-            "title": "Health Care Costs Will Devour Social Security Income - Insurance News Net...",
-            "snippet": "Care Costs Will Devour Social Security IncomeInsurance News NetThere's real doubt among some people that Social Security income will not be around when they retire but perhaps not for the reasons they think. Indeed, without reform, the Old-Age and...",
-            "date": "2015-05-01",
-            "categories": "social-security,insurance,health,health-care",
-            "tags": "social,social_security,security,people,insurance,health,social_security_income,security_income,income,old,age",
-            "recuweb_url": "http://en.recuweb.com/health-care/insurancenewsnet.com/2015/05/health-care-costs-will-devour-social-security-income-insurance-news-net",
-            "resource_url": "http://news.google.com/?hl=en&q=income%2Bsecurity&output=atom&nord=1",
-            "source_url": "http://insurancenewsnet.com/innarticle/2015/05/01/health-care-costs-will-devour-social-security-income-a-617672.html"
-        },
-        "law360.com/2015/05/high-court-told-to-block-clinic-from-suing-health-plans": {
-            "title": "High Court Told To Block Clinic From Suing Health Plans...",
-            "snippet": "In an April 24 petition for writ of certiorari, United argued it has no obligation to pay benefits under the Employee Retirement Income Security Act because it is only the third-party claims administrator not the plan, the plan administrator or...",
-            "date": "2015-05-01",
-            "categories": "income-security,health",
-            "tags": "plans,employee,employee_retirement,employee_retirement_income,retirement,retirement_income,retirement_income_security,income,income_security,income_security_act,security,security_act,act,health,benefits",
-            "recuweb_url": "http://en.recuweb.com/health/law360.com/2015/05/high-court-told-to-block-clinic-from-suing-health-plans",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=income%2Bsecurity&format=RSS&cc=us",
-            "source_url": "http://law360.com/articles/650822/high-court-told-to-block-clinic-from-suing-health-plans"
-        },
         "opensecrets.org/2015/05/major-financial-players-lobby-around-obamas-investment-rules": {
             "title": "Major Financial Players Lobby Around Obamas Investment Rules...",
             "snippet": "At the heart of the debate is whether or not current standards and definitions in the 41-year-old Employee Retirement Income Security Act adequately address a retirement investment landscape that has changed drastically in four decades. According to...",
@@ -71,24 +90,14 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=income%2Bsecurity&format=RSS&cc=us",
             "source_url": "http://opensecrets.org/news/2015/05/major-financial-players-lobby-around-obamas-investment-rules/"
         },
-        "economictimes.indiatimes.com/2015/05/pm-narendra-modi-to-launch-three-social-security-schemes-on-may": {
-            "title": "PM Narendra Modi to launch three social security schemes on May 9...",
-            "snippet": "Theconvenient delivery mechanism of the schemes is expected to address the situation of very low coverage of life or accident insurance and old age income security products in the country. PMSBY will offer a renewable one year accidental death...",
-            "date": "2015-05-01",
-            "categories": "death,life,insurance",
-            "tags": "address,low,insurance,old,age,social,security,income",
-            "recuweb_url": "http://en.recuweb.com/insurance/economictimes.indiatimes.com/2015/05/pm-narendra-modi-to-launch-three-social-security-schemes-on-may",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=income%2Bsecurity&format=RSS&cc=us",
-            "source_url": "http://economictimes.indiatimes.com/news/economy/policy/pm-narendra-modi-to-launch-three-social-security-schemes-on-may-9/articleshow/47116455.cms"
-        },
         "azcentral.com/2015/05/planning-can-ease-social-security-tax-for-upscale-retirees": {
             "title": "Planning can ease Social Security tax for upscale retirees -...",
             "snippet": "can ease Social Security tax for upscale week's article about income taxes and Social Security benefits elicited some solid feedback from readers. The focus of the story was that while Social Security benefits are tax-free for many recipients,...",
             "date": "2015-05-01",
             "categories": "taxes,social-security",
-            "tags": "free,taxes,social,social_security,security,income,benefits",
+            "tags": "recipients,benefits,taxes,focus,retirees,social,social_security,security,planning,income",
             "recuweb_url": "http://en.recuweb.com/social-security/azcentral.com/2015/05/planning-can-ease-social-security-tax-for-upscale-retirees",
-            "resource_url": "http://news.google.com/?hl=en&q=income%2Bsecurity%2Bincome%2Bsecurity&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=income%2Bsecurity&output=atom&nord=1",
             "source_url": "http://azcentral.com/story/money/business/consumer/2015/05/01/planning-can-ease-social-security-tax-upscale-retirees/26730015/"
         },
         "courthousenews.com/2015/05/railroads-fight-new-california-labor-law": {
@@ -96,20 +105,10 @@
             "snippet": "The plaintiffs maintain the state sick leave law is preempted by the federal Railroad Unemployment Insurance Act, the Railway Labor Act and the Employee Retirement Income Security Act. The sick leave benefits the railroads'employees have vary by...",
             "date": "2015-05-01",
             "categories": "income-security,unemployment,insurance,law",
-            "tags": "employee,employee_retirement,employee_retirement_income,retirement,retirement_income,retirement_income_security,income,income_security,income_security_act,security,security_act,act,insurance,federal,law,benefits",
+            "tags": "benefits,employee,employee_retirement,employee_retirement_income,retirement,retirement_income,retirement_income_security,income,income_security,income_security_act,security,security_act,act,insurance,federal,law",
             "recuweb_url": "http://en.recuweb.com/law/courthousenews.com/2015/05/railroads-fight-new-california-labor-law",
             "resource_url": "http://www.bing.com/news/search?first=1&q=income%2Bsecurity&format=RSS&cc=us",
             "source_url": "http://courthousenews.com/2015/05/01/railroads-fight-new-california-labor-law.htm"
-        },
-        "usatoday.com/2015/04/for-some-social-security-taxes-can-really-pile-up-usa-today": {
-            "title": "For some Social Security taxes can really pile up - USA TODAY...",
-            "snippet": "USA TODAYFor some Social Security taxes can really pile upUSA TODAYNow that income-tax season has come and gone, plenty of seniors probably could benefit from a refresher course in Social Security tax basics. So could people in their 50s and early...",
-            "date": "2015-04-30",
-            "categories": "taxes,social-security",
-            "tags": "people,taxes,social,social_security,security,income",
-            "recuweb_url": "http://en.recuweb.com/social-security/usatoday.com/2015/04/for-some-social-security-taxes-can-really-pile-up-usa-today",
-            "resource_url": "http://news.google.com/?hl=en&q=income%2Bsecurity&output=atom&nord=1",
-            "source_url": "http://usatoday.com/story/money/personalfinance/2015/04/29/affluent-retirees-taxes-can-apply-social-security/26600659/"
         }
     }
 }
