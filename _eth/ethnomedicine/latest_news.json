@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ethnomedicine",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/ethnomedicine/",
@@ -11,14 +11,24 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/ethnomedicine/ethnomedicine/blogs.json"
     },
     "items": {
+        "video.nationalgeographic.com/2015/05/ecologist-sees-rain-forest-through-villagers-eyes": {
+            "title": "Ecologist Sees Rain Forest Through Villagers'Eyes...",
+            "snippet": "His team also plans to distribute an ethnomedicine recipe book that will preserve vital local knowledge about indigenous plant treatments. Click here to read more about Chris Golden and his work. The Explorers Project chronicles the work of...",
+            "date": "2015-05-02",
+            "categories": "ethnomedicine",
+            "tags": "project,here,plant,treatments,ethnomedicine",
+            "recuweb_url": "http://en.recuweb.com/ethnomedicine/video.nationalgeographic.com/2015/05/ecologist-sees-rain-forest-through-villagers-eyes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ethnomedicine&format=RSS&cc=us",
+            "source_url": "http://video.nationalgeographic.com/video/explorers-project/140814-explorers-golden"
+        },
         "jhnewsandguide.com/2015/04/business-briefs-april-15-jackson-hole-news&guide": {
             "title": "Business Briefs, April 15 - Jackson Hole News&Guide...",
             "snippet": "Business Briefs, April 15Jackson Hole News&GuideThe Teton residents are James Powell, research associate at the Institute for Ethnomedicine; John Stennis, associate at Gilday Architects; Katie Wilson, project manager for Vera Iconica Architecture;...",
             "date": "2015-04-15",
             "categories": "business,institute,ethnomedicine",
-            "tags": "jackson,hole,research,institute,ethnomedicine",
+            "tags": "project,research,jackson,hole,institute,ethnomedicine",
             "recuweb_url": "http://en.recuweb.com/ethnomedicine/jhnewsandguide.com/2015/04/business-briefs-april-15-jackson-hole-news&guide",
-            "resource_url": "http://news.google.com/?hl=en&q=ethnomedicine%2Bethnomedicine&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=ethnomedicine&output=atom&nord=1",
             "source_url": "http://jhnewsandguide.com/news/business/business_briefs/business-briefs-april/article_a671d1dd-2dd0-568b-b291-098f01061368.html"
         },
         "sunnewsonline.com/2015/04/take-pumpkin-kick-anaemia-daily-sun": {
@@ -28,25 +38,15 @@
             "categories": "ethnomedicine,medicine,sun",
             "tags": "medicine",
             "recuweb_url": "http://en.recuweb.com/sun/sunnewsonline.com/2015/04/take-pumpkin-kick-anaemia-daily-sun",
-            "resource_url": "http://news.google.com/?hl=en&q=ethnomedicine%2Bethnomedicine&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=ethnomedicine&output=atom&nord=1",
             "source_url": "http://sunnewsonline.com/new/?p=113462"
-        },
-        "in.newshub.org/2015/04/folk-medicine-can-cure-dreaded-diseases": {
-            "title": "'Folk medicine can cure dreaded diseases'-...",
-            "snippet": "'Folk medicine can cure dreaded diseases'Srikakulam district is a treasure trove of folk and ethnomedicines which can cure many dreaded diseases with affordable expenses, according to senior academician and expert in medicinal plants. Ramarao...",
-            "date": "2015-04-06",
-            "categories": "medicine,plants",
-            "tags": "senior,senior-academician,academician,academician-and-expert,expert,district,district-is-treasure,treasure,treasure-trove,trove,trove-of-folk,folk,folk-and-ethnomedicines,ethnomedicines,cure,cure-many-dreaded,dreaded,dreaded-diseases,diseases,diseases-with-affordable,affordable,affordable-expenses,expenses,medicine,medicine-can-cure,cure-dreaded,cure-dreaded-diseases,medicinal,plants",
-            "recuweb_url": "http://en.recuweb.com/plants/in.newshub.org/2015/04/folk-medicine-can-cure-dreaded-diseases",
-            "resource_url": "http://news.google.com/?hl=en&q=ethnomedicine%2Bethnomedicine&output=atom&nord=1",
-            "source_url": "http://in.newshub.org/folk-medicine-can-cure-dreaded-diseases-14958109.html"
         },
         "thehindu.com/2015/04/folk-medicine-can-cure-dreaded-diseases-the-hindu": {
             "title": "'Folk medicine can cure dreaded diseases'- The Hindu...",
             "snippet": "The Hindu'Folk medicine can cure dreaded diseases'The HinduSrikakulam district is a treasure trove of folk and ethnomedicines which can cure many dreaded diseases with affordable expenses, according to senior academician and expert in medicinal...",
             "date": "2015-04-06",
             "categories": "medicine",
-            "tags": "senior,senior-academician,academician,academician-and-expert,expert,district,district-is-treasure,treasure,treasure-trove,trove,trove-of-folk,folk,folk-and-ethnomedicines,ethnomedicines,cure,cure-many-dreaded,dreaded,dreaded-diseases,diseases,diseases-with-affordable,affordable,affordable-expenses,expenses,medicine,medicine-can-cure,cure-dreaded,cure-dreaded-diseases,medicinal",
+            "tags": "diseases,medicine,medicinal",
             "recuweb_url": "http://en.recuweb.com/medicine/thehindu.com/2015/04/folk-medicine-can-cure-dreaded-diseases-the-hindu",
             "resource_url": "http://news.google.com/?hl=en&q=ethnomedicine&output=atom&nord=1",
             "source_url": "http://thehindu.com/news/national/andhra-pradesh/folk-medicine-can-cure-dreaded-diseases/article7071736.ece"
@@ -56,9 +56,9 @@
             "snippet": "The New YorkerA Loss for WordsThe New YorkerHis students Michael Balick, now the director of economic botany at the New York Botanical Garden, and Paul Alan Cox, the executive director of the Institute for Ethnomedicine, in Jackson Hole, Wyoming,...",
             "date": "2015-03-23",
             "categories": "students,institute,ethnomedicine",
-            "tags": "jackson,hole,director,paul,paul_alan,paul_alan_cox,alan,alan_cox,cox,york,york_botanical,york_botanical_garden,botanical,botanical_garden,garden,economic,botany,institute,ethnomedicine,wyoming",
+            "tags": "jackson,hole,director,paul,paul_alan,paul_alan_cox,alan,alan_cox,cox,economic,botany,institute,ethnomedicine,wyoming",
             "recuweb_url": "http://en.recuweb.com/ethnomedicine/newyorker.com/2015/03/a-loss-for-words-the-new-yorker",
-            "resource_url": "http://news.google.com/?hl=en&q=ethnomedicine%2Bethnomedicine&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=ethnomedicine&output=atom&nord=1",
             "source_url": "http://newyorker.com/magazine/2015/03/30/a-loss-for-words"
         },
         "theaustralian.com.au/2015/03/algal-bloom-linked-to-motor-neurone-disease-the-australian-blog": {
@@ -76,7 +76,7 @@
             "snippet": "There is, after all, no known cause for Lou Gehrigs disease: Some 90 to 95 percent of ALS patients... director of the nonprofit Institute of Ethnomedicine in Wyoming, which focuses on treatments for ALS and other neurodegenerative diseases.",
             "date": "2014-12-13",
             "categories": "institute,ethnomedicine",
-            "tags": "diseases,focuses,director,nonprofit,lou,cause,disease,algae,blooms,als,institute,ethnomedicine,wyoming",
+            "tags": "diseases,focuses,treatments,director,nonprofit,lou,cause,disease,algae,blooms,als,institute,ethnomedicine,wyoming",
             "recuweb_url": "http://en.recuweb.com/ethnomedicine/medcitynews.com/2014/12/could-algae-blooms-cause-lou-gehrigs-disease",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ethnomedicine&format=RSS&cc=us",
             "source_url": "http://medcitynews.com/2014/12/algae-blooms-cause-lou-gehrigs-disease/"
@@ -106,7 +106,7 @@
             "snippet": "Harrison Ford seems to be doing great while accepting the ALS Ice... The 71-year-old actor said he was nominated by a leader in research for ALS at The Institute for EthnoMedicine in Jackson, Wyoming and then proceeded to nominate other various...",
             "date": "2014-08-27",
             "categories": "institute,ethnomedicine",
-            "tags": "institute,said,als,ice,ice_bucket,ice_bucket_challenge,bucket,bucket_challenge,challenge,research,ethnomedicine,jackson,wyoming",
+            "tags": "institute,said,research,als,ice,ice_bucket,ice_bucket_challenge,bucket,bucket_challenge,challenge,ethnomedicine,jackson,wyoming",
             "recuweb_url": "http://en.recuweb.com/ethnomedicine/justjared.com/2014/08/harrison-ford-&-star-wars-cast-take-on-the-als-ice",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ethnomedicine&format=RSS&cc=us",
             "source_url": "http://justjared.com/2014/08/27/harrison-ford-star-wars-cast-take-on-the-als-ice-bucket-challenge/"
