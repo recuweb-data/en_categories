@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "cycling",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/cycling/",
@@ -11,27 +11,38 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/cycling/cycling/blogs.json"
     },
     "items": {
+        "theawesomer.com/2015/05/dzr-cycling-shoes-the-awesomer": {
+            "title": "DZR Cycling Shoes - The Awesomer...",
+            "snippet": "DZR makes cycling shoes with casual designs. The shoes have thick gumsoles that have slots for optional Shimano or Crank Brothers cleats. Some of the shoes have waterproof uppers while the high tops have ankle protection.",
+            "date": "2015-05-02",
+            "author_name": "Lambert V.",
+            "categories": "cycling",
+            "tags": "shoes,ankle,crank,cycling,cycling_shoes",
+            "recuweb_url": "http://en.recuweb.com/cycling/theawesomer.com/2015/05/dzr-cycling-shoes-the-awesomer",
+            "resource_url": "http://www.google.com/search?q=cycling&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theawesomer.com/dzr-cycling-shoes/318518/"
+        },
         "gizmag.com/2015/05/the-limits-cycling-power-meter-may-be-simplest-cheapest-one-yet": {
             "title": "The Limits cycling power meter may be the simplest, cheapest one yet...",
             "snippet": "Most cycling power meters take the form of a device that's either added to or built into one crank arm, and they can cost anywhere from around US1000 to o...",
             "date": "2015-05-01",
             "author_name": "Ben Coxworth",
             "categories": "cycling",
-            "tags": "cycling",
+            "tags": "into,crank,power,cycling",
             "recuweb_url": "http://en.recuweb.com/cycling/gizmag.com/2015/05/the-limits-cycling-power-meter-may-be-simplest-cheapest-one-yet",
-            "resource_url": "http://www.google.com/search?q=cycling%2Bcycling&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=cycling&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://gizmag.com/limits-pedal-cycling-power-meter/37287/"
         },
-        "selectism.com/2015/05/yorgo&co-martell-cycling-cognac-flask-2015-selectism": {
-            "title": "Yorgo&Co \"Martell\" Cycling Cognac Flask 2015 Selectism...",
-            "snippet": "Designer and art director Yorgo Tloupas combines his love of cycling, design and cognac in the Martell Flask. Origianlly displayed at last month's Salone del Mobile and featured in the wallpaper Handmade exhibition, the...",
-            "date": "2015-05-01",
-            "author_name": "Sam Del Rowe",
-            "categories": "love,cycling",
-            "tags": "cycling",
-            "recuweb_url": "http://en.recuweb.com/cycling/selectism.com/2015/05/yorgo&co-martell-cycling-cognac-flask-2015-selectism",
+        "bicycling.com/2015/04/derek-bouchard-hall-named-ceo-at-usa-cycling-bicycling": {
+            "title": "Derek Bouchard-Hall Named CEO at USA Cycling Bicycling...",
+            "snippet": "USA Cycling, the governing body for competitive cycling in the US, announced this morning that it has named Derek Bouchard-Hall as the organization's next CEO. He will replace Steve Johnson, who will retire after nine...",
+            "date": "2015-04-30",
+            "author_name": "gregkaplan",
+            "categories": "cycling",
+            "tags": "next,competitive,usa,usa_cycling,cycling,bicycling",
+            "recuweb_url": "http://en.recuweb.com/cycling/bicycling.com/2015/04/derek-bouchard-hall-named-ceo-at-usa-cycling-bicycling",
             "resource_url": "http://www.google.com/search?q=cycling&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://selectism.com/2015/05/01/cognac-flask-cycling-martell-yorgoco/"
+            "source_url": "http://bicycling.com/racing/usa-cycling/derek-bouchard-hall-named-ceo-usa-cycling"
         },
         "bikerumor.com/2015/04/soc15-bontrager-adds-ant-transmitr-remote-control-for-lights": {
             "title": "SOC15: Bontrager adds ANT Transmitr remote control for lights...",
@@ -39,87 +50,76 @@
             "date": "2015-04-30",
             "author_name": "editor@bikerumor.com (Bikerumor.com / Tyler Benedict)",
             "categories": "cycling",
-            "tags": "cycling,bicycle",
+            "tags": "future,adds,cycling",
             "recuweb_url": "http://en.recuweb.com/cycling/bikerumor.com/2015/04/soc15-bontrager-adds-ant-transmitr-remote-control-for-lights",
             "resource_url": "http://www.google.com/search?q=cycling&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bikerumor.com/2015/04/29/soc15-bontrager-adds-ant-transmitr-remote-control-for-lights-now-cycling-computers-more-in-future/"
         },
-        "anello-grande.blogspot.com/2015/04/top-10-tips-for-riding-in-california-via-global-cycling-network": {
-            "title": "Top 10 Tips For Riding In California via: Global Cycling Network on YouTube...",
-            "snippet": "After spending some some quality time in the saddle, here are our top 10 tips for riding in California. Top 10 Tips For Riding In California via: Global Cycling Network on YouTube Published on Apr 30, 2015 Did we mention we've been to California?",
-            "date": "2015-04-30",
-            "author_name": "GSoroos",
+        "theguardian.com/2015/04/cycling-near-misses-your-stories-cities-the-guardian": {
+            "title": "Cycling 'near misses'your stories Cities The Guardian...",
+            "snippet": "Lack of awareness, poor infrastructure and even outright aggression can make the UK roads a dangerous place to cycle at times. Our readers shared their experiences of close shaves. London cyclists. Cyclists tackle a busy...",
+            "date": "2015-04-20",
+            "author_name": "Guardian readers and Francesca Perry",
             "categories": "cycling",
-            "tags": "published,tips,here,global,global_cycling,global_cycling_network,cycling,cycling_network,network,riding,via,youtube,apr",
-            "recuweb_url": "http://en.recuweb.com/cycling/anello-grande.blogspot.com/2015/04/top-10-tips-for-riding-in-california-via-global-cycling-network",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=cycling%2Bcycling&rss=1&lng=en",
-            "source_url": "http://anello-grande.blogspot.com/2015/04/top-10-tips-for-riding-in-california.html"
-        },
-        "bikeportland.org/2015/04/off-road-cycling-plan-gets-council-nod-bureau-of-planning": {
-            "title": "Off-Road Cycling Plan gets Council nod, Bureau of Planning will...",
-            "snippet": "A few minutes ago at their weekly meeting, Portland City Council voted in favor of a motion to fund the Off-Road Cycling Master Plan. During a discussion of an agenda item about the City's Spring Budget Monitoring Process...",
-            "date": "2015-04-29",
-            "author_name": "Jonathan Maus (Publisher/Editor)",
-            "categories": "cycling",
-            "tags": "budget,item,road,cycling,off,minutes,city,during",
-            "recuweb_url": "http://en.recuweb.com/cycling/bikeportland.org/2015/04/off-road-cycling-plan-gets-council-nod-bureau-of-planning",
+            "tags": "cycle,infrastructure,guardian,cycling,lack,london,cyc",
+            "recuweb_url": "http://en.recuweb.com/cycling/theguardian.com/2015/04/cycling-near-misses-your-stories-cities-the-guardian",
             "resource_url": "http://www.google.com/search?q=cycling&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bikeportland.org/2015/04/29/off-road-cycling-plan-gets-funded-bureau-planning-will-take-lead-142491"
+            "source_url": "http://theguardian.com/cities/2015/apr/20/cycling-near-misses-awareness-infrastructure-aggression-uk-roads"
         },
-        "ktla.com/2015/04/get-fit-with-5-high-tech-spin-studio-vie2-cycling-ktla": {
-            "title": "Get Fit With 5: High-Tech Spin Studio- Vie2 Cycling KTLA...",
-            "snippet": "Get Fit With 5: High-Tech Spin Studio- Vie2 Cycling. Posted 7:04 AM, April 28, 2015, by Nancy Cruz, Updated at 10:10am, April 28, 2015... Vie2 Cycling 1708 19th Street Santa Monica, CA 90404 310-464-1288...",
-            "date": "2015-04-28",
-            "author_name": "nancycruzktla",
+        "theguardian.com/2015/04/pedal-power-why-london-is-ahead-of-the-pack-on-cycling": {
+            "title": "Pedal power: why London is ahead of the pack on cycling Public...",
+            "snippet": "London has seen huge innovation in cycling infrastructure, but a lack of funding for sustainable transport schemes could hold back the rest of the UK.",
+            "date": "2015-04-01",
+            "author_name": "Lawrence Wakefield",
             "categories": "cycling",
-            "tags": "cycling,fit,high",
-            "recuweb_url": "http://en.recuweb.com/cycling/ktla.com/2015/04/get-fit-with-5-high-tech-spin-studio-vie2-cycling-ktla",
-            "resource_url": "http://www.google.com/search?q=cycling%2Bcycling&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://ktla.com/2015/04/28/get-fit-with-5-high-tech-spin-studio-vie2-cycling/"
+            "tags": "lack,funding,transport,schemes,ahead,power,london,cycling,infrastructure",
+            "recuweb_url": "http://en.recuweb.com/cycling/theguardian.com/2015/04/pedal-power-why-london-is-ahead-of-the-pack-on-cycling",
+            "resource_url": "http://www.google.com/search?q=cycling&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://theguardian.com/public-leaders-network/2015/apr/01/pedal-power-london-cycling-infrastructure-sustainable-transport"
         },
-        "progressivecyclecoaching.wordpress.com/2015/04/how-professional-cycle-trainers-can-improve-your-cycling-performance": {
-            "title": "How Professional Cycle Trainers can Improve Your Cycling Performance?",
-            "snippet": "The over busy life of people has left them with absolutely no time for exercises and they hardly get to visit a fitness center. And even if they manage to visit one, they usually fall short of time and have to hurry for work. Maintaining a healthy...",
-            "date": "2015-04-28",
-            "author_name": "progressivecyclecoaching",
-            "categories": "life,cycling",
-            "tags": "work,life,cycling,performance,professional,cycle",
-            "recuweb_url": "http://en.recuweb.com/cycling/progressivecyclecoaching.wordpress.com/2015/04/how-professional-cycle-trainers-can-improve-your-cycling-performance",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=cycling%2Bcycling&rss=1&lng=en",
-            "source_url": "http://progressivecyclecoaching.wordpress.com/2015/04/28/how-professional-cycle-trainers-can-improve-your-cycling-performance/"
+        "angelasellers33.wordpress.com/2015/03/cycling-and-re": {
+            "title": "Cycling and Re-cycling...",
+            "snippet": "Cycling and Re-cycling Angela Sellers The Spa is little more than an oversized village, pretty; tall trees everywhere as in all Spas. The old Grand Hotel stands []...",
+            "date": "2015-03-11",
+            "author_name": "angelasellers33",
+            "categories": "cycling,spas",
+            "tags": "cycling",
+            "recuweb_url": "http://en.recuweb.com/spas/angelasellers33.wordpress.com/2015/03/cycling-and-re",
+            "resource_url": "http://en.search.wordpress.com/?q=cycling&f=feed&page=1",
+            "source_url": "http://angelasellers33.wordpress.com/2015/03/11/cycling-and-re-cycling/"
         },
-        "anello-grande.blogspot.com/2015/04/how-to-service-cartridge-wheel-bearings-via-global-cycling-network-on": {
-            "title": "How To Service Cartridge Wheel Bearings via: Global Cycling Network on YouTube...",
-            "snippet": "Servicing your cartridge bearing hubs can be done yourself with the right tools. Here's how to do it! Published on Apr 27, 2015 You'll find cartridge or sealed bearing hubs on a lot of mid-high range wheels these days. If you have the right tools,...",
-            "date": "2015-04-27",
-            "author_name": "GSoroos",
+        "sportsgrid.com/2015/02/sexist-cycling-poster-gets-the-bum-s-rush-sportsgrid": {
+            "title": "'Sexist'Cycling Poster Gets The Bum's Rush SportsGrid...",
+            "snippet": "At first glance (and second, and third, and fourth repeat as necessary) this poster may seem rather benign just a curious cyclist attempting to cop a pinch of a hostess's bottom. It's the fantasy of sixth-grade boys...",
+            "date": "2015-02-26",
+            "author_name": "Rick Chandler",
             "categories": "cycling",
-            "tags": "high,find,global,global_cycling,global_cycling_network,cycling,cycling_network,network,via,youtube,here,published,apr",
-            "recuweb_url": "http://en.recuweb.com/cycling/anello-grande.blogspot.com/2015/04/how-to-service-cartridge-wheel-bearings-via-global-cycling-network-on",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=cycling%2Bcycling&rss=1&lng=en",
-            "source_url": "http://anello-grande.blogspot.com/2015/04/how-to-service-cartridge-wheel-bearings.html"
+            "tags": "cycling,cyc",
+            "recuweb_url": "http://en.recuweb.com/cycling/sportsgrid.com/2015/02/sexist-cycling-poster-gets-the-bum-s-rush-sportsgrid",
+            "resource_url": "http://www.google.com/search?q=cycling&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://sportsgrid.com/other-sports/is-this-poster-sexist-belgian-cycling-race-forced-to-um-pull-it/"
         },
-        "bikepgh.org/2015/04/bike-pittsburgh-major-force-s-newest-youth-cycling-club": {
-            "title": "Bike Pittsburgh Major Force: Pittsburgh's Newest Youth Cycling Club...",
-            "snippet": "Our friends at Pittsburgh Major Taylor Cycling Club (PMTCC) are starting a new youth cycling team called Major Force. Major Force is a program for teenaged youth to learn how to bike for transportation and for exercise.",
-            "date": "2015-04-24",
-            "author_name": "Ngani",
+        "4cyclefatlosssolutioncarbcyclingproduct.wordpress.com/2014/11/4-cycle-fat-loss-solution-carb-cycling-product": {
+            "title": "4 Cycle Fat Loss Solution - Carb Cycling Product...",
+            "snippet": "4 Cycle Fat Loss Solution - Carb Cycling Product 4 cycle fat loss solution 4 cycle fat loss solution pdf 4 cycle fat loss solution review 4 cycle fat loss solution...",
+            "date": "2014-11-23",
+            "author_name": "narinadijk",
             "categories": "cycling",
-            "tags": "cycling,bike,team",
-            "recuweb_url": "http://en.recuweb.com/cycling/bikepgh.org/2015/04/bike-pittsburgh-major-force-s-newest-youth-cycling-club",
-            "resource_url": "http://www.google.com/search?q=cycling%2Bcycling&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bikepgh.org/2015/04/24/major-force-pittsburghs-newest-youth-cycling-club/"
+            "tags": "cycle,cycling,pdf",
+            "recuweb_url": "http://en.recuweb.com/cycling/4cyclefatlosssolutioncarbcyclingproduct.wordpress.com/2014/11/4-cycle-fat-loss-solution-carb-cycling-product",
+            "resource_url": "http://en.search.wordpress.com/?q=cycling&f=feed&page=1",
+            "source_url": "http://4cyclefatlosssolutioncarbcyclingproduct.wordpress.com/2014/11/23/4-cycle-fat-loss-solution-carb-cycling-product/"
         },
-        "anello-grande.blogspot.com/2015/04/training-around-work-or-study-how-to-train-with-limited-time": {
-            "title": "Training Around Work Or Study - How To Train With Limited Time via: Global Cycling Network on...",
-            "snippet": "Training Around Work Or Study - How To Train With Limited Time via: Global Cycling Network on YouTube Published on Apr 24, 2015 Most of us have to fit riding our bikes around work or study. Matt juggled a full time job and racing to a high level for...",
-            "date": "2015-04-24",
-            "author_name": "GSoroos",
+        "cycling74.com/2014/10/endless-midi-encoder-to-osc-idiron-cycling-74": {
+            "title": "Endless MIDI Encoder to OSC idiron - Cycling '74...",
+            "snippet": "Set your OSC address: default is (localhost), outputting on port 8000, receiving on port 7001. Click the knob to enter listening mode for your MIDI input and OSC destination: Twiddle something on your MIDI controller then something...",
+            "date": "2014-10-28",
+            "author_name": "idiron",
             "categories": "cycling",
-            "tags": "racing,work,fit,youtube,published,global,global_cycling,global_cycling_network,cycling,cycling_network,network,via,training,apr,riding",
-            "recuweb_url": "http://en.recuweb.com/cycling/anello-grande.blogspot.com/2015/04/training-around-work-or-study-how-to-train-with-limited-time",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=cycling%2Bcycling&rss=1&lng=en",
-            "source_url": "http://anello-grande.blogspot.com/2015/04/training-around-work-or-study-how-to.html"
+            "tags": "cycling",
+            "recuweb_url": "http://en.recuweb.com/cycling/cycling74.com/2014/10/endless-midi-encoder-to-osc-idiron-cycling-74",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bcycling&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://cycling74.com/toolbox/endless-midi-encoder-to-osc/"
         }
     }
 }
