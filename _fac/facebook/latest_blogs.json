@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "facebook",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/facebook/",
@@ -11,6 +11,17 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/facebook/facebook/blogs.json"
     },
     "items": {
+        "thenextweb.com/2015/05/facebook-tests-giving-some-news-feed-control-to-users": {
+            "title": "Facebook Tests Giving Some News Feed Control to Users...",
+            "snippet": "In recent years, Facebook has been increasingly strict about controlling what users see in their News Feeds and the order in which they see it much to the annoyance of some. Now in a new experiment it's giving up a little of...",
+            "date": "2015-05-03",
+            "author_name": "Martin Bryant",
+            "categories": "facebook",
+            "tags": "order,feed,facebook,control,users",
+            "recuweb_url": "http://en.recuweb.com/facebook/thenextweb.com/2015/05/facebook-tests-giving-some-news-feed-control-to-users",
+            "resource_url": "http://www.google.com/search?q=facebook&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://thenextweb.com/facebook/2015/05/03/facebook-tests-giving-users-more-control-over-their-news-feeds-but-its-a-gamble/"
+        },
         "seevskti.wordpress.com/2015/05/are-facebook-reviews-beneficial-for-your-businesses": {
             "title": "Are Facebook Reviews Beneficial For Your Businesses?",
             "snippet": "Are Facebook Reviews Beneficial For Your Businesses? This is a techno-geek world where everything is just a click away. The launching of a product, unveiling of a showroom, new []...",
@@ -19,19 +30,30 @@
             "categories": "business,facebook",
             "tags": "world,everything,facebook",
             "recuweb_url": "http://en.recuweb.com/facebook/seevskti.wordpress.com/2015/05/are-facebook-reviews-beneficial-for-your-businesses",
-            "resource_url": "http://en.search.wordpress.com/?q=facebook%2Bfacebook&f=feed&page=1",
+            "resource_url": "http://en.search.wordpress.com/?q=facebook&f=feed&page=1",
             "source_url": "http://seevskti.wordpress.com/2015/05/02/are-facebook-reviews-beneficial-for-your-businesses/"
         },
-        "clydelayug.wordpress.com/2015/05/connect-with-others": {
-            "title": "Connect with others.",
-            "snippet": "All of us needs social life. There is internet where we all of access can access and we can even communicate with each other. There is one site that is really famous right now. I think almost all of us have account for this site. Its facebook.",
+        "ktla.com/2015/05/dave-goldberg-husband-of-facebook-coo-sheryl-sandberg-dies": {
+            "title": "Dave Goldberg, Husband of Facebook COO Sheryl Sandberg, Dies...",
+            "snippet": "Sheryl Sandberg, chief operating officer of Facebook, and her husband David Goldberg, CEO of SurveyMonkey, attend the Allen & Company Sun Valley Conference on July 9, 2014 in Sun Valley, Idaho. (Credit: Scott...",
             "date": "2015-05-02",
-            "author_name": "clydelayug",
-            "categories": "internet,life,facebook",
-            "tags": "site,really,access,even,social,facebook",
-            "recuweb_url": "http://en.recuweb.com/facebook/clydelayug.wordpress.com/2015/05/connect-with-others",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=facebook%2Bfacebook&rss=1&lng=en",
-            "source_url": "http://clydelayug.wordpress.com/2015/05/02/connect-with-others/"
+            "author_name": "johnmorenoktla",
+            "categories": "sun,facebook,credit",
+            "tags": "valley,company,conference,david,david_goldberg,goldberg,husband,officer,chief,ope,sheryl,sheryl_sandberg,sandberg,facebook,facebook_coo,coo,dave,dave_goldberg,dies,ceo,surveymonkey",
+            "recuweb_url": "http://en.recuweb.com/credit/ktla.com/2015/05/dave-goldberg-husband-of-facebook-coo-sheryl-sandberg-dies",
+            "resource_url": "http://www.google.com/search?q=facebook&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ktla.com/2015/05/02/dave-goldberg-husband-of-facebook-coo-sheryl-sandberg-dies-suddenly/"
+        },
+        "blogs.wsj.com/2015/05/surveymonkey-ceo-dave-goldberg-dies-suddenly-at-47-digits": {
+            "title": "SurveyMonkey CEO Dave Goldberg Dies Suddenly at 47 - Digits...",
+            "snippet": "Dave Goldberg, chief executive of SurveyMonkey and husband of Facebook FB% Chief Operating Officer Sheryl Sandberg, died suddenly Friday night. Goldberg's brother posted the news on his Facebook page...",
+            "date": "2015-05-02",
+            "author_name": "Deepa Seetharaman",
+            "categories": "facebook",
+            "tags": "died,died-suddenly,suddenly,officer,sheryl,sheryl_sandberg,sandberg,chief,ope,husband,dave,dave_goldberg,goldberg,surveymonkey,ceo,dies,executive,facebook,page",
+            "recuweb_url": "http://en.recuweb.com/facebook/blogs.wsj.com/2015/05/surveymonkey-ceo-dave-goldberg-dies-suddenly-at-47-digits",
+            "resource_url": "http://www.google.com/search?q=facebook&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blogs.wsj.com/digits/2015/05/02/surveymonkey-ceo-dave-goldberg-dies-suddenly/"
         },
         "venturebeat.com/2015/05/why-facebook-has-to-buy-meerkat-venturebeat-social-by-ruth": {
             "title": "Why Facebook has to buy Meerkat VentureBeat Social by Ruth...",
@@ -39,87 +61,64 @@
             "date": "2015-05-02",
             "author_name": "Ruth Reader",
             "categories": "facebook,twitter",
-            "tags": "social,facebook,twitter",
+            "tags": "meerkat,social,why,facebook",
             "recuweb_url": "http://en.recuweb.com/twitter/venturebeat.com/2015/05/why-facebook-has-to-buy-meerkat-venturebeat-social-by-ruth",
-            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=facebook&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://venturebeat.com/2015/05/01/why-facebook-has-to-buy-meerkat/"
         },
-        "naturalnews.com/2015/05/facebook-beta-testing-online-publisher-kill-switch-will-sites": {
-            "title": "Facebook beta testing online publisher \"kill switch\" - will sites be...",
-            "snippet": "(NaturalNews) Over the last several days, Facebook has been beta testing a \"kill switch\" that caused articles from online publishers to be blocked from social sharing. Complaints poured in to Natural News and other...",
-            "date": "2015-05-01",
-            "author_name": "By Mike Adams, NaturalNews Editor",
+        "reddit.com/2015/04/part-2-i-am-being-hacked-wtf-something-think-my-computer": {
+            "title": "Part 2 I am being hacked - WTF? (something something I think my computer is being used to send...",
+            "snippet": "I'm a total noob but I'm really interested in figuring this out. My first post is here I have verizon for Internet and TV. But using netcat I saw all of these google/verizon network connections. Any idea what these are for? My facebook was also...",
+            "date": "2015-04-27",
+            "categories": "google,internet,facebook",
+            "tags": "network,saw,google,here,really,using,any,facebook",
+            "recuweb_url": "http://en.recuweb.com/facebook/reddit.com/2015/04/part-2-i-am-being-hacked-wtf-something-think-my-computer",
+            "resource_url": "http://www.reddit.com/search.rss?q=en%2Blocalhost%2Bcom%2Bfacebook&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/AskNetsec/comments/33z7wu/part_2_i_am_being_hacked_wtf_something_something/"
+        },
+        "selenaday.wordpress.com/2015/04/to-facebook-or-not-that-is-the-question": {
+            "title": "To Facebook or not to Facebook, that is the Question...",
+            "snippet": "Yesterday I saw a picture post on Facebook from a mother we had stayed with in Romania of her young son on a tractor. What really touched me []...",
+            "date": "2015-04-08",
+            "author_name": "selenaday",
             "categories": "facebook",
-            "tags": "sites,publishers,facebook,articles,social,sharing",
-            "recuweb_url": "http://en.recuweb.com/facebook/naturalnews.com/2015/05/facebook-beta-testing-online-publisher-kill-switch-will-sites",
-            "resource_url": "http://www.google.com/search?q=facebook&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://naturalnews.com/049565_Facebook_censorship_kill_switch.html"
+            "tags": "really,saw,facebook",
+            "recuweb_url": "http://en.recuweb.com/facebook/selenaday.wordpress.com/2015/04/to-facebook-or-not-that-is-the-question",
+            "resource_url": "http://en.search.wordpress.com/?q=facebook&f=feed&page=1",
+            "source_url": "http://selenaday.wordpress.com/2015/04/08/to-facebook-or-not-to-facebook-that-is-the-question/"
         },
-        "engadget.com/2015/05/facebook-lets-you-choose-what-to-share-with-3rd-party-apps": {
-            "title": "Facebook lets you choose what to share with 3rd party apps...",
-            "snippet": "For ages, whenever you've wanted to use your Facebook credentials to log into a third party app like Foursquare or Candy Crush, you've had to give the app access to any and all data that FB has on you. There's simply been...",
-            "date": "2015-05-01",
-            "author_name": "Andrew Tarantola",
-            "categories": "candy,facebook",
-            "tags": "app,access,any,data,third,party,wanted,choose,facebook,share,apps",
-            "recuweb_url": "http://en.recuweb.com/facebook/engadget.com/2015/05/facebook-lets-you-choose-what-to-share-with-3rd-party-apps",
-            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://engadget.com/2015/05/01/facebook-lets-you-choose-what-you-share-with-3rd-party-apps/"
+        "amazingwwworld.wordpress.com/2015/03/facebook-video-is-driving-youtube-off": {
+            "title": "Facebook Video Is Driving YouTube Off Facebook...",
+            "snippet": "Facebook page owners uploaded more videos direct to Facebook than posting YouTube videos for the first time ever in: on - web learning...",
+            "date": "2015-03-20",
+            "author_name": "C. M. Elias",
+            "categories": "learning,facebook",
+            "tags": "page,facebook,driving,ing",
+            "recuweb_url": "http://en.recuweb.com/facebook/amazingwwworld.wordpress.com/2015/03/facebook-video-is-driving-youtube-off",
+            "resource_url": "http://en.search.wordpress.com/?q=facebook&f=feed&page=1",
+            "source_url": "http://amazingwwworld.wordpress.com/2015/03/20/facebook-video-is-driving-youtube-off-facebook/"
         },
-        "leecj279blog.wordpress.com/2015/05/an-in-depth-look-at-facebook-analytics": {
-            "title": "An In Depth Look at Facebook Analytics...",
-            "snippet": "What is Analytics? Analytics is a term, when used in the context of digital marketing, that refers to optimizing all aspects of your strategy to get the most ROI (Return on Investment). There are numerous platforms that do this, but they all pretty...",
-            "date": "2015-05-01",
-            "author_name": "leedefrates",
-            "categories": "marketing,facebook",
-            "tags": "facebook",
-            "recuweb_url": "http://en.recuweb.com/facebook/leecj279blog.wordpress.com/2015/05/an-in-depth-look-at-facebook-analytics",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=facebook%2Bfacebook&rss=1&lng=en",
-            "source_url": "http://leecj279blog.wordpress.com/2015/05/01/an-in-depth-look-at-facebook-analytics/"
-        },
-        "techhints.in/2015/05/how-to-save-facebook-videos-your-pc-and-smartphone-for-free": {
-            "title": "How To Save Facebook Videos To Your PC And smartphone For Free.",
-            "snippet": "How To Save Facebook Videos Online To Your PC And smartphone For Free. There are many ways via which you can easily download and share videos from different sort of video sharing sites like Vimeo, Dailymotion and YouTube. But what about Facebook?",
-            "date": "2015-05-01",
-            "author_name": "(Mahesh Dandyala)",
+        "amazingwwworld.wordpress.com/2015/02/how-to-see-facebook-page-unlikes-in-insights": {
+            "title": "How to see Facebook Page unlikes in Facebook Insights...",
+            "snippet": "Learn how to see Facebook Page unlikes using Facebook Insights. This will let you see how many fans unlike your Facebook Page and their unlike:...",
+            "date": "2015-02-23",
+            "author_name": "C. M. Elias",
             "categories": "facebook",
-            "tags": "sharing,sites,facebook,share",
-            "recuweb_url": "http://en.recuweb.com/facebook/techhints.in/2015/05/how-to-save-facebook-videos-your-pc-and-smartphone-for-free",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=facebook%2Bfacebook&rss=1&lng=en",
-            "source_url": "http://techhints.in/2015/05/how-to-save-facebook-videos-to-your-pc-and-smartphone.html"
+            "tags": "let,facebook,page,learn,using",
+            "recuweb_url": "http://en.recuweb.com/facebook/amazingwwworld.wordpress.com/2015/02/how-to-see-facebook-page-unlikes-in-insights",
+            "resource_url": "http://en.search.wordpress.com/?q=facebook&f=feed&page=1",
+            "source_url": "http://amazingwwworld.wordpress.com/2015/02/23/how-to-see-facebook-page-unlikes-in-facebook-insights/"
         },
-        "engadget.com/2015/05/join-us-for-an-apple-watch-q&a-on-facebook-update": {
-            "title": "Join us for an Apple Watch Q&A on Facebook! (update: it's over!)...",
-            "snippet": "We've employed our very own Deputy Managing Editor James Trew, who's been playing with one for about a week to answer your questions in a Facebook Q&A. For the next hour, post a question in the thread below and we'll...",
-            "date": "2015-05-01",
-            "author_name": "John Colucci",
-            "categories": "facebook",
-            "tags": "own,facebook,week",
-            "recuweb_url": "http://en.recuweb.com/facebook/engadget.com/2015/05/join-us-for-an-apple-watch-q&a-on-facebook-update",
-            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://engadget.com/2015/05/01/apple-watch-qa-facebook/"
-        },
-        "jezebel.com/2015/05/man-arrested-after-liking-his-own-wanted-poster-on-facebook": {
-            "title": "Man Arrested After 'Liking'His Own Wanted Poster On Facebook...",
-            "snippet": "A Montana man who had two warrants out for his arrest could not resist the temptation of liking his own wanted poster on Facebook. Could we really blame him? He was obviously seduced by the image of his own mug...",
-            "date": "2015-05-01",
-            "author_name": "Marie Lodi",
-            "categories": "facebook",
-            "tags": "own,really,ing,wanted,man,man_arrested,arrested,facebook,montana",
-            "recuweb_url": "http://en.recuweb.com/facebook/jezebel.com/2015/05/man-arrested-after-liking-his-own-wanted-poster-on-facebook",
-            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://jezebel.com/man-arrested-after-liking-his-own-wanted-poster-on-face-1701418718"
-        },
-        "ktla.com/2015/05/montana-man-arrested-after-liking-his-wanted-poster-on-facebook": {
-            "title": "Montana Man Arrested After 'Liking'His Wanted Poster on Facebook...",
-            "snippet": "A Montana man was arrested after he apparently liked his most wanted poster on a Crimestoppers Facebook page. Levi Charles Reardon initially liked his photo on the Great Falls/Cascade County Crimestoppers...",
-            "date": "2015-05-01",
-            "author_name": "KTLA 5",
-            "categories": "facebook",
-            "tags": "wanted,man,arrested,apparently,montana,man_arrested,ing,facebook",
-            "recuweb_url": "http://en.recuweb.com/facebook/ktla.com/2015/05/montana-man-arrested-after-liking-his-wanted-poster-on-facebook",
-            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://ktla.com/2015/05/01/montana-man-arrested-after-liking-his-wanted-poster-on-facebook/"
+        "drupal.stackexchange.com/2015/01/language-detection-url-domain-on-localhost-drupal-answers": {
+            "title": "Language detection URL domain on localhost - Drupal Answers...",
+            "snippet": "I tried to configure the English URL as localhost/but this does not work. I deleted the path prefixes of both... Sign up or log in. Sign up using Google. Sign up using Facebook. Sign up using Stack Exchange...",
+            "date": "2015-01-31",
+            "author_name": "ThuleNB",
+            "categories": "drupal,google,facebook",
+            "tags": "log,using,google,facebook",
+            "recuweb_url": "http://en.recuweb.com/facebook/drupal.stackexchange.com/2015/01/language-detection-url-domain-on-localhost-drupal-answers",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bfacebook&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://drupal.stackexchange.com/questions/146020/language-detection-url-domain-on-localhost"
         }
     }
 }
