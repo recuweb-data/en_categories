@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "boardsports",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/boardsports/",
@@ -17,7 +17,7 @@
             "date": "2015-03-29",
             "author_name": "Matthias Koch",
             "categories": "travel,windsurfing,boardsports,sport",
-            "tags": "windsurfing,board,sports",
+            "tags": "board,board-sports,sports",
             "recuweb_url": "http://en.recuweb.com/sport/youtube.com/2015/03/great-board-sports-year-2014",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=boardsports&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=yGaFM6JPJnw&feature=youtube_gdata",
@@ -31,7 +31,7 @@
             "categories": "boardsports,cleaning",
             "tags": "epic,board,accessories,epic_boardsports,epic_boardsports_accessories,boardsports,boardsports_accessories,apparel,beach,epicboardsfltags",
             "recuweb_url": "http://en.recuweb.com/cleaning/dailymotion.com/2015/01/epic-boardsports-accessories",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/boardsports+boardsports/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/boardsports/0?af=1",
             "source_url": "http://dailymotion.com/video/x2eryca_epic-boardsports-accessories_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2eryca_epic-boardsports-accessories_sport"
         },
@@ -43,7 +43,7 @@
             "categories": "boardsports,water-sports,sport",
             "tags": "website,epic,epic_boardsports,boardsports,epic_boardsports_accessories,boardsports_accessories,accessories,outdoor,water,sports,equipment,apparel,beach,epicboardsfltags",
             "recuweb_url": "http://en.recuweb.com/sport/dailymotion.com/2014/12/get-best-outdoor-water-sports-equipment",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/boardsports+boardsports/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/boardsports/0?af=1",
             "source_url": "http://dailymotion.com/video/x2dp1de_get-best-outdoor-water-sports-equipment_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2dp1de_get-best-outdoor-water-sports-equipment_sport"
         },
@@ -53,9 +53,9 @@
             "date": "2014-12-22",
             "author_name": "epicboardsfl",
             "categories": "water-sports,sport,boardsports",
-            "tags": "website,outdoor,water,sports,equipment,accessories,epic,epic_boardsports,boardsports,epicboardsfltags",
+            "tags": "website,offer,outdoor,water,sports,equipment,accessories,epic,epic_boardsports,boardsports,epicboardsfltags",
             "recuweb_url": "http://en.recuweb.com/boardsports/dailymotion.com/2014/12/welcome-to-epic-boardsports",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/boardsports+boardsports/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/boardsports/0?af=1",
             "source_url": "http://dailymotion.com/video/x2d439p_welcome-to-epic-boardsports_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2d439p_welcome-to-epic-boardsports_sport"
         },
@@ -67,9 +67,21 @@
             "categories": "extreme-sport,sport,boardsports,events",
             "tags": "skate,board,boardsports",
             "recuweb_url": "http://en.recuweb.com/events/dailymotion.com/2014/11/2014-eurosima-events",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/boardsports+boardsports/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/boardsports/0?af=1",
             "source_url": "http://dailymotion.com/video/x2b1anb_2014-eurosima-events_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2b1anb_2014-eurosima-events_sport"
+        },
+        "youtube.com/2014/08/jhabea-try-out-other-board-sports-aside-from-surfing-aha": {
+            "title": "Jhabea try out other board sports aside from surfing AHA!",
+            "snippet": "Jhabea try out other board sports aside from surfing AHA! Aside from surfing, what else is there to do in Baler? Teen couple Jhake Vargas and Bea Binene try out other awesome board sports that Baler has to offer! (Date aired: August 3, 2014)...",
+            "date": "2014-08-07",
+            "author_name": "GMA Public Affairs",
+            "categories": "boardsports,sport,surfing",
+            "tags": "offer,board,board-sports,sports,couple",
+            "recuweb_url": "http://en.recuweb.com/surfing/youtube.com/2014/08/jhabea-try-out-other-board-sports-aside-from-surfing-aha",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=boardsports&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=0E6WGDxn9JM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/0E6WGDxn9JM/0.jpg"
         },
         "youtube.com/2014/06/lamin-cassama-riot-boardsports": {
             "title": "Lamin Cassama Riot Boardsports...",
@@ -77,23 +89,11 @@
             "date": "2014-06-27",
             "author_name": "FnukProd",
             "categories": "boardsports",
-            "tags": "skate,boardsports",
+            "tags": "skate,couple,boardsports",
             "recuweb_url": "http://en.recuweb.com/boardsports/youtube.com/2014/06/lamin-cassama-riot-boardsports",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=boardsports%2Bboardsports&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=boardsports&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=yhZ1ww4XxbI&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/yhZ1ww4XxbI/0.jpg"
-        },
-        "youtube.com/2014/04/sam-bittner-&-brad-muise-fl-board-sports-04": {
-            "title": "Sam Bittner & Brad Muise.::. FL Board Sports 04...",
-            "snippet": "Sam Bittner & Brad Muise.::. FL Board Sports 04 On this month's edition of the FLBS Podcast, we are joined via Skype in Hawaii by Sam Bittner. Sam is the organizer of the American Windsurfing Tour and shares how the fledgling tour got started...",
-            "date": "2014-04-17",
-            "author_name": "FingerLakes1.com, Inc.",
-            "categories": "windsurfing,boardsports,sport",
-            "tags": "windsurfing,board,board_sports,sports",
-            "recuweb_url": "http://en.recuweb.com/sport/youtube.com/2014/04/sam-bittner-&-brad-muise-fl-board-sports-04",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=boardsports%2Bboardsports&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=LKn3IfnZqZM&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/LKn3IfnZqZM/0.jpg"
         },
         "youtube.com/2014/04/action-board-sports-atlas-longboard-trucks-overview": {
             "title": "Action Board Sports Atlas Longboard Trucks Overview...",
@@ -103,7 +103,7 @@
             "categories": "boardsports,sport",
             "tags": "action,action_board,action_board_sports,board,board_sports,sports",
             "recuweb_url": "http://en.recuweb.com/sport/youtube.com/2014/04/action-board-sports-atlas-longboard-trucks-overview",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=boardsports%2Bboardsports&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=boardsports&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=REW1Rh8Nc4o&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/REW1Rh8Nc4o/0.jpg"
         },
@@ -115,7 +115,7 @@
             "categories": "boardsports,sport",
             "tags": "action,action_board,action_board_sports,board,board_sports,sports",
             "recuweb_url": "http://en.recuweb.com/sport/youtube.com/2014/02/action-board-sports-2013-recap",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=boardsports%2Bboardsports&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=boardsports&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=tjRNqBYw5Hk&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/tjRNqBYw5Hk/0.jpg"
         },
