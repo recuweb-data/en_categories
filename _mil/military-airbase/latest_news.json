@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "military-airbase",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/military-airbase/",
@@ -11,100 +11,102 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/military-airbase/military-airbase/blogs.json"
     },
     "items": {
-        "reuters.com/2015/05/air-strikes-kill-civilians-in-yemeni-capital": {
-            "title": "Air strikes kill civilians in Yemeni capital...",
+        "af.reuters.com/2015/05/airliner-diverted-to-uae-airbase-after-bomb-warning-news-agency-reuters": {
+            "title": "Airliner diverted to UAE airbase after bomb warning - news agency - Reuters Africa...",
+            "snippet": "eTurboNewsAirliner diverted to UAE airbase after bomb warning - news agencyReuters AfricaDUBAI (Reuters) - An Air Arabia airliner flying from Kuwait to the United Arab Emirates was diverted to a UAE military airbase on Sunday after a passenger...",
+            "date": "2015-05-03",
+            "tags": "passenger,diverted,united,united_arab,united_arab_emirates,arab,arab_emirates,emirates,airliner,airliner-flying,flying,air,air_arabia,arabia,reuters,agency,bomb,bomb-warning,warning,uae,airbase,kuwait,military,sunday",
+            "recuweb_url": "http://en.recuweb.com/af.reuters.com/2015/05/airliner-diverted-to-uae-airbase-after-bomb-warning-news-agency-reuters",
+            "resource_url": "http://news.google.com/?hl=en&q=military%2Bairbase&output=atom&nord=1",
+            "source_url": "http://af.reuters.com/article/worldNews/idAFKBN0NO0TC20150503"
+        },
+        "news.yahoo.com/2015/05/airliner-diverted-to-uae-airbase-after-bomb-warning-news-agency": {
+            "title": "Airliner diverted to UAE airbase after bomb warning: news agency...",
+            "snippet": "DUBAI (Reuters) - An Air Arabia airliner flying from Kuwait to the United Arab Emirates was diverted to a UAE military airbase on Sunday after a passenger warned the plane was about to explode, the UAE state news agency WAM reported. The aircraft...",
+            "date": "2015-05-03",
+            "categories": "aircraft",
+            "tags": "agency,passenger,diverted,united,united_arab,united_arab_emirates,arab,arab_emirates,emirates,airliner,airliner-flying,flying,air,air_arabia,arabia,bomb,bomb-warning,warning,uae,airbase,reuters,kuwait,military,sunday,reported,aircraft",
+            "recuweb_url": "http://en.recuweb.com/aircraft/news.yahoo.com/2015/05/airliner-diverted-to-uae-airbase-after-bomb-warning-news-agency",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=military%2Bairbase&format=RSS&cc=us",
+            "source_url": "http://news.yahoo.com/airliner-diverted-uae-airbase-bomb-warning-news-agency-211533861.html"
+        },
+        "dnaindia.com/2015/05/heavy-clashes-in-aden-airport-alliance-accused-of-cluster-bomb-use": {
+            "title": "Heavy clashes in Aden airport, alliance accused of cluster bomb use...",
+            "snippet": "In overnight fighting, warplanes from the coalition struck Sanaa's al Dulaimi military airbase, residents of the Houthi-controlled capital said. The aircraft also targeted a camp of forces loyal to former president Ali Abdullah Saleh, an ally of...",
+            "date": "2015-05-03",
+            "categories": "aircraft",
+            "tags": "ally,ali,ali_abdullah,ali_abdullah_saleh,abdullah,abdullah_saleh,saleh,aircraft,aircraft-also-targeted,targeted,targeted-camp,camp,camp-of-forces,forces,forces-loyal,loyal,loyal-to-former,former,former-president,president,controlled,controlled-capital,controlled-capital-said,capital,capital-said,said,residents,coalition,coalition-struck,struck,overnight,overnight-fighting,fighting,alliance,accused,cluster,bomb,clashes,heavy,aden,airport,warplanes,sanaa,dulaimi,military,airbase,houthi",
+            "recuweb_url": "http://en.recuweb.com/aircraft/dnaindia.com/2015/05/heavy-clashes-in-aden-airport-alliance-accused-of-cluster-bomb-use",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=military%2Bairbase&format=RSS&cc=us",
+            "source_url": "http://dnaindia.com/world/report-heavy-clashes-in-aden-airport-alliance-accused-of-cluster-bomb-use-2082949"
+        },
+        "dhakatribune.com/2015/05/residents-saudi-led-alliance-hits-airbase-in-yemens-sanaa": {
+            "title": "Residents: Saudi-led alliance hits airbase in Yemens Sanaa...",
+            "snippet": "Warplanes from a Saudi-led coalition struck Sanaas al Dulaimi military airbase overnight, residents of the Houthi-controlled Yemeni capital said yesterday. The Saudi-led coalition has been carrying out air strikes in Yemen since late March against...",
+            "date": "2015-05-03",
+            "tags": "led,led-coalition,coalition,air,strikes,capital,capital-said,said,residents,led-coalition-struck,coalition-struck,struck,yemen,sanaas,led-alliance,led-alliance-hits,alliance,alliance-hits,hits,saudi,airbase,warplanes,dulaimi,military,overnight,houthi,controlled,yemeni,against",
+            "recuweb_url": "http://en.recuweb.com/dhakatribune.com/2015/05/residents-saudi-led-alliance-hits-airbase-in-yemens-sanaa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=military%2Bairbase&format=RSS&cc=us",
+            "source_url": "http://dhakatribune.com/world/2015/may/04/residents-saudi-led-alliance-hits-airbase-yemens-sanaa"
+        },
+        "tasnimnews.com/2015/05/saudi-led-air-strikes-kill-more-civilians-in-yemeni-capital": {
+            "title": "Saudi-Led Air Strikes Kill More Civilians in Yemeni Capital...",
             "snippet": "It said casualties included woman and children. Warplanes also struck a military airbase near the capital. Saba said medics had rushed to Sawan to try to rescue residents trapped under the rubble of homes. The strikes came days after jets bombed the...",
-            "date": "2015-05-02",
-            "tags": "strikes,jets,under,said,capital,struck,casualties,civilians,air,yemeni,warplanes,military,airbase",
-            "recuweb_url": "http://en.recuweb.com/reuters.com/2015/05/air-strikes-kill-civilians-in-yemeni-capital",
+            "date": "2015-05-03",
+            "tags": "strikes,residents,said,capital,struck,casualties,yemeni,led,air,saudi,warplanes,military,airbase",
+            "recuweb_url": "http://en.recuweb.com/tasnimnews.com/2015/05/saudi-led-air-strikes-kill-more-civilians-in-yemeni-capital",
             "resource_url": "http://www.bing.com/news/search?first=1&q=military%2Bairbase&format=RSS&cc=us",
-            "source_url": "http://reuters.com/article/2015/05/02/us-yemen-security-strikes-idUSKBN0NM3MM20150502"
+            "source_url": "http://tasnimnews.com/english/Home/Single/728712"
         },
-        "havasunews.com/2015/05/havasu-s-dr-nelson-to-retire-after-44-years-today-news": {
-            "title": "Havasu's Dr. Nelson to retire after 44 years - Today's News-Herald...",
-            "snippet": "Today's News-HeraldHavasu's Dr. Nelson to retire after 44 yearsToday's News-HeraldHe served as a medic with the 633rd Combat Support Group at a U.S. airbase in South Vietnam. Casualties would come in amid the hum of military helicopters, and Nelson...",
-            "date": "2015-05-01",
-            "tags": "support,group,airbase,casualties,military,helicopters",
-            "recuweb_url": "http://en.recuweb.com/havasunews.com/2015/05/havasu-s-dr-nelson-to-retire-after-44-years-today-news",
-            "resource_url": "http://news.google.com/?hl=en&q=military%2Bairbase&output=atom&nord=1",
-            "source_url": "http://havasunews.com/news/havasu-s-dr-nelson-to-retire-after-years/article_21bf0a02-efc9-11e4-9302-ef560a42cb4c.html"
+        "channelnewsasia.com/2015/05/saudi-led-alliance-hits-airbase-in-yemen-s-sanaa-residents": {
+            "title": "Saudi-led alliance hits airbase in Yemen's Sanaa: Residents...",
+            "snippet": "ADEN/CAIRO: Warplanes from a Saudi-led coalition struck Sanaa's al Dulaimi military airbase overnight, residents of the Houthi-controlled Yemeni capital said on Sunday. The aircraft also targeted a camp of forces loyal to former president Ali...",
+            "date": "2015-05-03",
+            "categories": "aircraft",
+            "tags": "aircraft,aircraft-also-targeted,targeted,targeted-camp,camp,camp-of-forces,forces,forces-loyal,loyal,loyal-to-former,former,former-president,president,capital,capital-said,said,residents,led,led-coalition,led-coalition-struck,coalition,coalition-struck,struck,led-alliance,led-alliance-hits,alliance,alliance-hits,hits,saudi,airbase,yemen,sanaa,aden,cairo,warplanes,dulaimi,military,overnight,houthi,controlled,yemeni,sunday,ali",
+            "recuweb_url": "http://en.recuweb.com/aircraft/channelnewsasia.com/2015/05/saudi-led-alliance-hits-airbase-in-yemen-s-sanaa-residents",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=military%2Bairbase&format=RSS&cc=us",
+            "source_url": "http://channelnewsasia.com/news/world/saudi-led-alliance-hits/1822520.html"
         },
-        "businessinsider.com/2015/04/these-are-the-assad-s-regime-5-biggest-military-goals-in": {
-            "title": "These are the Assad's regime's 5 biggest military goals in the Syrian Civil War - Business Insider...",
-            "snippet": "Business InsiderThese are the Assad's regime's 5 biggest military goals in the Syrian Civil WarBusiness InsiderDamascus is also key terrain from a military perspective due to the high number of airbases, military installations, and elite SAA units...",
-            "date": "2015-04-30",
+        "businessinsider.com/2015/05/saudi-led-alliance-hits-airbase-in-yemen-s-sanaa-residents-business": {
+            "title": "Saudi-led alliance hits airbase in Yemen's Sanaa: residents - Business Insider...",
+            "snippet": "Business InsiderSaudi-led alliance hits airbase in Yemen's Sanaa: residentsBusiness InsiderADEN/CAIRO (Reuters) - Warplanes from a Saudi-led coalition struck Sanaa's al Dulaimi military airbase overnight, residents of the Houthi-controlled Yemeni...",
+            "date": "2015-05-03",
             "categories": "business",
-            "tags": "airbases,syrian,syrian_civil,civil,insider,syrian_civil_war,civil_war,war,military",
-            "recuweb_url": "http://en.recuweb.com/business/businessinsider.com/2015/04/these-are-the-assad-s-regime-5-biggest-military-goals-in",
+            "tags": "residents,led,led-coalition,led-coalition-struck,coalition,coalition-struck,struck,insider,led-alliance,led-alliance-hits,alliance,alliance-hits,hits,saudi,airbase,yemen,sanaa,cairo,reuters,warplanes,dulaimi,military,overnight,houthi,controlled,yemeni",
+            "recuweb_url": "http://en.recuweb.com/business/businessinsider.com/2015/05/saudi-led-alliance-hits-airbase-in-yemen-s-sanaa-residents-business",
             "resource_url": "http://news.google.com/?hl=en&q=military%2Bairbase&output=atom&nord=1",
-            "source_url": "http://businessinsider.com/these-are-the-assads-regimes-4-biggest-military-goals-in-the-syrian-civil-war-2015-4"
+            "source_url": "http://businessinsider.com/r-saudi-led-alliance-hits-airbase-in-yemens-sanaa-residents--2015-5"
         },
-        "gulfnews.com/2015/04/uk-scrambles-jets-as-russian-planes-and-ships-spotted": {
-            "title": "UK scrambles jets as Russian planes and ships spotted...",
-            "snippet": "The planes were launched from the Lossiemouth military airbase in northern Scotland. Britains Royal Navy earlier kept track of three Russian ships, including a destroyer, after they entered the English Channel, according to the defence ministry.",
-            "date": "2015-04-29",
-            "tags": "defence,ministry,launched,jets,russian,military,airbase",
-            "recuweb_url": "http://en.recuweb.com/gulfnews.com/2015/04/uk-scrambles-jets-as-russian-planes-and-ships-spotted",
+        "maritime-executive.com/2015/05/yemen-alliance-accused-of-cluster-bomb-use": {
+            "title": "Yemen: Alliance Accused of Cluster Bomb Use...",
+            "snippet": "In overnight fighting, warplanes from the coalition struck Sanaa's al Dulaimi military airbase, residents of the Houthi-controlled capital said. The aircraft also targeted a camp of forces loyal to former president Ali Abdullah Saleh, an ally of...",
+            "date": "2015-05-03",
+            "categories": "aircraft",
+            "tags": "ally,ali,ali_abdullah,ali_abdullah_saleh,abdullah,abdullah_saleh,saleh,aircraft,aircraft-also-targeted,targeted,targeted-camp,camp,camp-of-forces,forces,forces-loyal,loyal,loyal-to-former,former,former-president,president,controlled,controlled-capital,controlled-capital-said,capital,capital-said,said,residents,coalition,coalition-struck,struck,overnight,overnight-fighting,fighting,cluster,bomb,alliance,accused,yemen,warplanes,sanaa,dulaimi,military,airbase,houthi",
+            "recuweb_url": "http://en.recuweb.com/aircraft/maritime-executive.com/2015/05/yemen-alliance-accused-of-cluster-bomb-use",
             "resource_url": "http://www.bing.com/news/search?first=1&q=military%2Bairbase&format=RSS&cc=us",
-            "source_url": "http://gulfnews.com/news/europe/uk/uk-scrambles-jets-as-russian-planes-and-ships-spotted-1.1501303"
+            "source_url": "http://maritime-executive.com/article/yemen-alliance-accused-of-cluster-bomb-use"
         },
-        "strategypage.com/2015/04/warplanes-hiding-desert-falcons-from-iran": {
-            "title": "Warplanes: Hiding Desert Falcons From Iran...",
-            "snippet": "April 28, 2015: At the end of March new images released by Google Earth showed something new in the UAE (United Arab Emirates); a new military airbase far from the coast and 80 kilometers from the nearest settlement. The 3,000 meter long airbase was...",
-            "date": "2015-04-28",
-            "categories": "google,earth",
-            "tags": "something,warplanes,military,airbase",
-            "recuweb_url": "http://en.recuweb.com/earth/strategypage.com/2015/04/warplanes-hiding-desert-falcons-from-iran",
+        "arabianbusiness.com/2015/05/yemen-small-arab-force-reported-in-aden-saudi-issues-denial": {
+            "title": "Yemen: Small Arab force reported in Aden, Saudi issues denial...",
+            "snippet": "In overnight fighting, warplanes from the coalition struck Sanaa's al Dulaimi military airbase, residents of the Houthi-controlled capital said. The aircraft also targeted a camp of forces loyal to former president Ali Abdullah Saleh, an ally of...",
+            "date": "2015-05-03",
+            "categories": "aircraft",
+            "tags": "ally,ali,ali_abdullah,ali_abdullah_saleh,abdullah,abdullah_saleh,saleh,aircraft,aircraft-also-targeted,targeted,targeted-camp,camp,camp-of-forces,forces,forces-loyal,loyal,loyal-to-former,former,former-president,president,controlled,controlled-capital,controlled-capital-said,capital,capital-said,said,residents,coalition,coalition-struck,struck,overnight,overnight-fighting,fighting,force,reported,arab,yemen,aden,saudi,warplanes,sanaa,dulaimi,military,airbase,houthi",
+            "recuweb_url": "http://en.recuweb.com/aircraft/arabianbusiness.com/2015/05/yemen-small-arab-force-reported-in-aden-saudi-issues-denial",
             "resource_url": "http://www.bing.com/news/search?first=1&q=military%2Bairbase&format=RSS&cc=us",
-            "source_url": "http://strategypage.com/htmw/htairfo/articles/20150428.aspx"
+            "source_url": "http://arabianbusiness.com/yemen-small-arab-force-reported-in-aden-saudi-issues-denial-591421.html"
         },
-        "presstv.ir/2015/04/38-killed-in-yemen-clashes": {
-            "title": "38 killed in Yemen clashes...",
-            "snippet": "AFP Saudi aerial assaults also struck al-Anad military airbase north of Aden, which is now under the control of Ansarullah fighters. The oil-rich eastern province of Ma'rib also witnessed fierce fighting between Houthis and al-Qaeda militants. On...",
-            "date": "2015-04-25",
-            "tags": "under,struck,saudi,yemen,clashes,military,airbase,houthis",
-            "recuweb_url": "http://en.recuweb.com/presstv.ir/2015/04/38-killed-in-yemen-clashes",
+        "dailystar.com.lb/2015/05/limited-saudi-led-force-on-ground-in-yemen": {
+            "title": "Limited Saudi-led force on ground in Yemen...",
+            "snippet": "Saudi Arabia denied it was using cluster munitions earlier in the campaign. In overnight fighting, coalition warplanes struck Sanaas Al-Dulaimi military airbase, residents said. The aircraft also targeted a camp of forces loyal to Saleh in Arhab...",
+            "date": "2015-05-03",
+            "categories": "aircraft",
+            "tags": "aircraft,aircraft-also-targeted,targeted,targeted-camp,camp,camp-of-forces,forces,forces-loyal,loyal,residents,said,coalition,warplanes,struck,overnight,overnight-fighting,fighting,using,cluster,saudi,arabia,led,force,yemen,sanaas,dulaimi,military,airbase,saleh",
+            "recuweb_url": "http://en.recuweb.com/aircraft/dailystar.com.lb/2015/05/limited-saudi-led-force-on-ground-in-yemen",
             "resource_url": "http://www.bing.com/news/search?first=1&q=military%2Bairbase&format=RSS&cc=us",
-            "source_url": "http://presstv.ir/Detail/2015/04/25/408008/Yemen-Hadi-Houthi-Ansaralluah-Aden-Daleh-Saudi-Airstrike"
-        },
-        "thestar.com/2015/04/un-report-details-casualties-of-yemen-conflict": {
-            "title": "UN report details casualties of Yemen conflict...",
-            "snippet": "The rights group blamed Houthis forces for putting civilians at risk, saying that the factory is about 100 metres from a military airbase controlled by Houthis. On Friday, airstrikes continued with warplanes bombing civilian sites suspected of being...",
-            "date": "2015-04-24",
-            "categories": "rights",
-            "tags": "airstrikes,warplanes,civilians,saying,group,casualties,yemen,houthis,military,airbase",
-            "recuweb_url": "http://en.recuweb.com/rights/thestar.com/2015/04/un-report-details-casualties-of-yemen-conflict",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=military%2Bairbase&format=RSS&cc=us",
-            "source_url": "http://thestar.com/news/world/2015/04/24/un-report-details-casualties-of-yemen-conflict.html"
-        },
-        "aviationtoday.com/2015/04/russian-helicopters-to-showcase-at-mexico-aerospace-fair": {
-            "title": "Russian Helicopters to Showcase at Mexico Aerospace Fair...",
-            "snippet": "At Mexico's Aerospace Fair 2015, scheduled for April 22-25 at Military Airbase No. 1 in Santa Luc\u00eda, Mexico, Russian Helicopters will showcase its latest commercial helicopters and update regional partners on plans for developing its maintenance...",
-            "date": "2015-04-23",
-            "categories": "military-airbase",
-            "tags": "helicopters,military,military_airbase,airbase,russian",
-            "recuweb_url": "http://en.recuweb.com/military-airbase/aviationtoday.com/2015/04/russian-helicopters-to-showcase-at-mexico-aerospace-fair",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=military%2Bairbase&format=RSS&cc=us",
-            "source_url": "http://aviationtoday.com/the-checklist/Russian-Helicopters-to-Showcase-at-Mexico-Aerospace-Fair_84845.html"
-        },
-        "pakobserver.net/2015/04/salman-nawaz-discuss-plan-for-yemen-stability": {
-            "title": "Salman, Nawaz discuss plan for Yemen stability...",
-            "snippet": "The official Saudi Press Agency said the Pakistani delegation arrived at a military airbase where they were received by Deputy Crown Prince and Interior Minister Mohammed bin Nayef and Defence Minister Prince Mohammed bin Salman who also holds the...",
-            "date": "2015-04-23",
-            "tags": "defence,said,saudi,yemen,military,airbase",
-            "recuweb_url": "http://en.recuweb.com/pakobserver.net/2015/04/salman-nawaz-discuss-plan-for-yemen-stability",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=military%2Bairbase&format=RSS&cc=us",
-            "source_url": "http://pakobserver.net/detailnews.asp?id=262609"
-        },
-        "news.az/2015/04/cekuta-visit-military-airbase-in-azerbaijan-photos": {
-            "title": "Cekuta visit Military Airbase in Azerbaijan - PHOTOS -...",
-            "snippet": "visit Military Airbase in Azerbaijan - Ambassador of U.S. to Azerbaijan Robert Cekuta has today visited the Military Airbase in Kurdamir. reports with reference to the Embassy that Cekuta met with Ministry of Defense pilots and professionals. With...",
-            "date": "2015-04-14",
-            "categories": "military-airbase",
-            "tags": "reports,military,military_airbase,airbase,ministry",
-            "recuweb_url": "http://en.recuweb.com/military-airbase/news.az/2015/04/cekuta-visit-military-airbase-in-azerbaijan-photos",
-            "resource_url": "http://news.google.com/?hl=en&q=military%2Bairbase&output=atom&nord=1",
-            "source_url": "http://news.az/articles/politics/97077"
+            "source_url": "http://dailystar.com.lb/News/Middle-East/2015/May-04/296691-limited-saudi-led-force-on-ground-in-yemen.ashx"
         }
     }
 }
