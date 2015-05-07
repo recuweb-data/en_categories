@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "home-automation",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/home-automation/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/home-automation/home-automation/blogs.json"
     },
     "items": {
+        "dallasnews.com/2015/05/these-bulbs-can-put-on-a-show-boost-your-wi-fi": {
+            "title": "These bulbs can put on a show, boost your Wi-Fi, and play your music...",
+            "snippet": "Today were looking at bulbs from two companies. The bulbs are controlled from a smartphone or tablet and are not part of a hub-based home automation system. The ilumi Color Tunable LED Smartbulbs dont need a hub instead they are controlled using...",
+            "date": "2015-05-02",
+            "categories": "play,music,home",
+            "tags": "hub,using,smartphone,bulbs,companies,home,automation,system",
+            "recuweb_url": "http://en.recuweb.com/home/dallasnews.com/2015/05/these-bulbs-can-put-on-a-show-boost-your-wi-fi",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
+            "source_url": "http://dallasnews.com/business/technology/headlines/20150502-these-bulbs-can-put-on-a-show-boost-your-wi-fi-and-play-your-music.ece"
+        },
         "pcmag.com/2015/05/the-best-smart-bulbs-for-home-automation-pc-magazine": {
             "title": "The Best Smart Bulbs for Home Automation - PC Magazine...",
             "snippet": "The Best Smart Bulbs for Home AutomationPC MagazineFor instance, most smart bulbs connect to your smartphone through a separate bridge or home automation hub, like the popular Philips Hue family. Other bulbs cut out the middle man and connect to...",
@@ -18,7 +28,7 @@
             "categories": "home,home-automation",
             "tags": "bulbs,smart,smartphone,home,home_automation,automation,hub",
             "recuweb_url": "http://en.recuweb.com/home-automation/pcmag.com/2015/05/the-best-smart-bulbs-for-home-automation-pc-magazine",
-            "resource_url": "http://news.google.com/?hl=en&q=home%2Bautomation%2Bhome%2Bautomation&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=home%2Bautomation&output=atom&nord=1",
             "source_url": "http://pcmag.com/article2/0,2817,2483488,00.asp"
         },
         "cepro.com/2015/05/zipato-s-modular-home-automation-system-the-best-smart-platform-cepro": {
@@ -28,7 +38,7 @@
             "categories": "home,home-automation",
             "tags": "control,security,system,smart,smart_home,smart_home_platform,home,home_platform,platform,modular,modular_home,modular_home_automation,home_automation,home_automation_system,automation,automation_system,zipato,wave,hub",
             "recuweb_url": "http://en.recuweb.com/home-automation/cepro.com/2015/05/zipato-s-modular-home-automation-system-the-best-smart-platform-cepro",
-            "resource_url": "http://news.google.com/?hl=en&q=home%2Bautomation%2Bhome%2Bautomation&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=home%2Bautomation&output=atom&nord=1",
             "source_url": "http://cepro.com/article/zipatos_modular_home_automation_system_the_best_smart_home_platform/"
         },
         "cepro.com/2015/05/zipatos-modular-home-automation-system-the-best-smart-platform": {
@@ -39,34 +49,34 @@
             "tags": "company,smart,smart_home,smart_home_platform,home,home_platform,platform,zipato,modular,modular_home,modular_home_automation,home_automation,home_automation_system,automation,automation_system,system",
             "recuweb_url": "http://en.recuweb.com/home-automation/cepro.com/2015/05/zipatos-modular-home-automation-system-the-best-smart-platform",
             "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
-            "source_url": "http://cepro.com/article/zipatos_modular_home_automation_system_the_best_smart_home_platform/K5"
+            "source_url": "http://cepro.com/article/zipatos_modular_home_automation_system_the_best_smart_home_platform/K309"
         },
         "wmpoweruser.com/2015/04/insteons-home-automation-system-to-integrate-with-windows-10-soon": {
             "title": "Insteons home automation system to integrate with Windows 10 soon...",
             "snippet": "Insteon, one of the major home automation companies out there today announced that the company will be integrating its services to Windows 10 thanks to the Alljoyn SDK. Developers accessing the Windows 10 SDK for AllJoyn will have access to...",
             "date": "2015-04-30",
             "categories": "home",
-            "tags": "company,system,home,automation",
+            "tags": "companies,company,system,insteon,home,automation",
             "recuweb_url": "http://en.recuweb.com/home/wmpoweruser.com/2015/04/insteons-home-automation-system-to-integrate-with-windows-10-soon",
             "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
             "source_url": "http://wmpoweruser.com/insteons-home-automation-system-to-integrate-with-windows-10-soon/"
         },
-        "securityinfowatch.com/2015/04/smart-home-automation-system-revenues-to-reach-34b-in-2020-report": {
-            "title": "Smart home automation system revenues to reach 34B in 2020, report finds - SecurityInfoWatch...",
-            "snippet": "SecurityInfoWatchSmart home automation system revenues to reach 34B in 2020, report findsSecurityInfoWatchAccording to a new report from ABI Research, global revenues from smart home automation systems are projected to grow at a compound annual...",
-            "date": "2015-04-29",
+        "gizmag.com/2015/04/ottobox-learns-your-schedule-to-lower-electricity-bills": {
+            "title": "Ottobox learns your schedule to lower your electricity bills...",
+            "snippet": "Ottobox is a smart home automation device that its makers claim could reduce your electricity bills by up to 50 percent. It does this by monitoring the appliances plugged into your wall sockets, and turning them off when they're not in use. The...",
+            "date": "2015-04-30",
             "categories": "home",
-            "tags": "system,smart,home,automation",
-            "recuweb_url": "http://en.recuweb.com/home/securityinfowatch.com/2015/04/smart-home-automation-system-revenues-to-reach-34b-in-2020-report",
-            "resource_url": "http://news.google.com/?hl=en&q=home%2Bautomation%2Bhome%2Bautomation&output=atom&nord=1",
-            "source_url": "http://securityinfowatch.com/news/12069148/smart-home-automation-system-revenues-to-reach-34b-in-2020-new-abi-research-report-finds"
+            "tags": "smart,home,automation,device,percent",
+            "recuweb_url": "http://en.recuweb.com/home/gizmag.com/2015/04/ottobox-learns-your-schedule-to-lower-electricity-bills",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
+            "source_url": "http://gizmag.com/ottobox-schedule-electricity-bills/37216/"
         },
         "makeuseof.com/2015/04/which-smart-hub-for-home-automation-is-best": {
             "title": "Which Smart Hub for Home Automation Is Best for You?",
             "snippet": "Smart homes are on the up and up. For a while, people thought of the idea as nothing more than a gimmick some people still think that way but recent product releases have shown that smart home automation is starting to live up to its promises.",
             "date": "2015-04-29",
             "categories": "home,home-automation",
-            "tags": "people,smart,homes,home,home_automation,automation,hub",
+            "tags": "live,smart,homes,home,home_automation,automation,hub",
             "recuweb_url": "http://en.recuweb.com/home-automation/makeuseof.com/2015/04/which-smart-hub-for-home-automation-is-best",
             "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
             "source_url": "http://makeuseof.com/tag/smart-hubs-solution-going-automate-home/"
@@ -76,9 +86,9 @@
             "snippet": "AnandTechBelkin WeMo and Ubiquiti mFi Home Automation Platforms ReviewAnandTechThe Internet of Things (IoT) concept has gained a lot of traction over the last couple of years. One of the main applications of IoT lies in the home automation space.",
             "date": "2015-04-28",
             "categories": "internet,home,home-automation",
-            "tags": "internet,home,home_automation,automation",
+            "tags": "main,internet,home,home_automation,automation,things",
             "recuweb_url": "http://en.recuweb.com/home-automation/anandtech.com/2015/04/belkin-wemo-and-ubiquiti-mfi-home-automation-platforms-review-anandtech",
-            "resource_url": "http://news.google.com/?hl=en&q=home%2Bautomation%2Bhome%2Bautomation&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=home%2Bautomation&output=atom&nord=1",
             "source_url": "http://anandtech.com/show/9162/belkin-wemo-and-ubiquiti-mfi-home-automation-platforms-review"
         },
         "geeky-gadgets.com/2015/04/hook-budget-home-automation-system-video": {
@@ -86,30 +96,20 @@
             "snippet": "A new budget home automation system has been created by Hack-a-Joe Labs that has been designed to enable you to control your homes electrical outlets and light bulbs via the Internet using a single hook. The new home automation system is available...",
             "date": "2015-04-28",
             "categories": "home,home-automation,internet",
-            "tags": "system,control,homes,light,bulbs,home,home_automation,home_automation_system,automation,automation_system,hack,internet",
+            "tags": "system,using,control,homes,bulbs,joe,home,home_automation,home_automation_system,automation,automation_system,hack,internet",
             "recuweb_url": "http://en.recuweb.com/internet/geeky-gadgets.com/2015/04/hook-budget-home-automation-system-video",
             "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
             "source_url": "http://geeky-gadgets.com/hook-budget-home-automation-system-28-04-2015/"
         },
-        "techrockies.com/2015/04/soap-launches-home-automation-app": {
-            "title": "Soap Launches Home Automation App...",
-            "snippet": "Colorado Springs-based Soap Inc., a startup developing home automation technology, said it has launched a new app on the App store, which lets users control home devices from their smartphone. The company said its Soap Home app lets users control...",
-            "date": "2015-04-27",
-            "categories": "home,home-automation,technology",
-            "tags": "control,home,company,smartphone,home_automation,automation",
-            "recuweb_url": "http://en.recuweb.com/technology/techrockies.com/2015/04/soap-launches-home-automation-app",
+        "securityinfowatch.com/2015/04/smart-home-automation-system-revenues-to-reach-34b-in-2020-report": {
+            "title": "Smart home automation system revenues to reach 34B in 2020, report finds...",
+            "snippet": "Global revenues from smart home automation systems are projected to grow at a compound annual growth rate (CAGR) of 21 percent over the next five years, with revenues reaching 34 billion in 2020, according to ABI Research. Photo credit: (Image...",
+            "date": "2015-04-28",
+            "categories": "home,credit",
+            "tags": "percent,system,smart,home,automation",
+            "recuweb_url": "http://en.recuweb.com/credit/securityinfowatch.com/2015/04/smart-home-automation-system-revenues-to-reach-34b-in-2020-report",
             "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
-            "source_url": "http://techrockies.com/soap-launches-home-automation-app/s-0059959.html"
-        },
-        "macobserver.com/2015/04/three-scenarios-for-home-automation": {
-            "title": "Three Scenarios for Home Automation...",
-            "snippet": "Whenever I tell people that my hobby is home automation, they stop and think about it for a while with a troubled look on their faces. Oh, thats interesting! they say with a nod. But all the while I can tell they're asking themselves, What the heck...",
-            "date": "2015-04-25",
-            "categories": "home,home-automation",
-            "tags": "people,home,home_automation,automation",
-            "recuweb_url": "http://en.recuweb.com/home-automation/macobserver.com/2015/04/three-scenarios-for-home-automation",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=home%2Bautomation&format=RSS&cc=us",
-            "source_url": "http://macobserver.com/tmo/article/introduction-to-home-automation"
+            "source_url": "http://securityinfowatch.com/news/12069148/smart-home-automation-system-revenues-to-reach-34b-in-2020-new-abi-research-report-finds"
         }
     }
 }
