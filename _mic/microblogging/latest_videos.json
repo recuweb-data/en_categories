@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "microblogging",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/microblogging/",
@@ -11,18 +11,6 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/microblogging/microblogging/blogs.json"
     },
     "items": {
-        "youtube.com/2015/01/micro-blogging-site-twitter-launches-group-chat-and-video-feature": {
-            "title": "Micro-blogging site Twitter launches group chat and video feature...",
-            "snippet": "Micro-blogging site Twitter launches group chat and video feature Micro-blogging site Twitter launches group chat and video feature to ramp up use of the one-to-many messaging service. From: Zee News Views: 276 2 ratings Time: 01:45 More in News &...",
-            "date": "2015-01-29",
-            "author_name": "Zee News",
-            "categories": "twitter",
-            "tags": "service,site",
-            "recuweb_url": "http://en.recuweb.com/twitter/youtube.com/2015/01/micro-blogging-site-twitter-launches-group-chat-and-video-feature",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblogging%2Bmicroblogging&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=TXsEq1VpBzs&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/TXsEq1VpBzs/0.jpg"
-        },
         "youtube.com/2014/12/shahrukh-khan-s-new-activity-on-microblogging-site-tentalize": {
             "title": "Shahrukh Khan's New Activity On Microblogging Site TENTALIZE...",
             "snippet": "Shahrukh Khan's New Activity On Microblogging Site TENTALIZE Subscribe NOW To Our Network Channels:- ZoomDekho - Telly Talk India - Shahrukh Khan's New Activity On Microblogging Site. Catch the latest bollywood... From: ZoomDekho Views: 1749 19...",
@@ -31,7 +19,7 @@
             "categories": "microblogging",
             "tags": "bollywood,microblogging,microblogging_site,site,telly,telly_talk,telly_talk_india,talk,talk_india,india,network,network_channels,channels,tentalize,khan,subscribe,zoomdekho,catch",
             "recuweb_url": "http://en.recuweb.com/microblogging/youtube.com/2014/12/shahrukh-khan-s-new-activity-on-microblogging-site-tentalize",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblogging%2Bmicroblogging&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblogging&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=obwI2nHz3Mw&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/obwI2nHz3Mw/0.jpg"
         },
@@ -43,7 +31,7 @@
             "categories": "microblogging",
             "tags": "microblogging,microblogging_site,site,telly,telly_talk,telly_talk_india,talk,talk_india,india,network,network_channels,channels,tentalize,subscribe,zoomdekho,catch",
             "recuweb_url": "http://en.recuweb.com/microblogging/youtube.com/2014/12/shraddha-kapoor-uses-microblogging-site-to-show-concern-for-alia-bhatt",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblogging%2Bmicroblogging&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblogging&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=aCJH5BFco9I&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/aCJH5BFco9I/0.jpg"
         },
@@ -53,7 +41,7 @@
             "date": "2014-09-22",
             "author_name": "ZoomDekho",
             "categories": "microblogging",
-            "tags": "bollywood,microblogging,site,khan,subscribe,zoomdekho",
+            "tags": "bollywood,microblogging,microblogging-site,site,khan,subscribe,zoomdekho",
             "recuweb_url": "http://en.recuweb.com/microblogging/youtube.com/2014/09/aamir-khan-smartly-makes-a-mistake-on-his-microblogging-site-bollywood",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblogging&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=hSJWc9UArg0&feature=youtube_gdata",
@@ -61,27 +49,15 @@
         },
         "youtube.com/2014/03/cimba-cross-cloud-microblogging": {
             "title": "Cimba -- cross-cloud microblogging.",
-            "snippet": "Cimba -- cross-cloud microblogging. Interoperability demo for the CrossCloud project - The video showcases two users, each using their preferred client. The clients are used only as UI to allow them to... From: d3iutu Views: 317 7 ratings Time:...",
+            "snippet": "Cimba -- cross-cloud microblogging. Interoperability demo for the CrossCloud project - The video showcases two users, each using their preferred client. The clients are used only as UI to allow them to... From: d3iutu Views: 327 7 ratings Time:...",
             "date": "2014-03-18",
             "author_name": "d3iutu",
             "categories": "microblogging",
-            "tags": "users,microblogging,project",
+            "tags": "using,users,microblogging,project",
             "recuweb_url": "http://en.recuweb.com/microblogging/youtube.com/2014/03/cimba-cross-cloud-microblogging",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblogging%2Bmicroblogging&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblogging&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=z0_XaJ97rF0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/z0_XaJ97rF0/0.jpg"
-        },
-        "youtube.com/2013/08/grande-social-microblogging-gsm": {
-            "title": "Grande Social Microblogging (GSM)...",
-            "snippet": "Grande Social Microblogging (GSM) Grande Social Microblogging. From: Henry Scratch Views: 195 2 ratings Time: 01:53 More in People & Blogs...",
-            "date": "2013-08-30",
-            "author_name": "Henry Scratch",
-            "categories": "microblogging",
-            "tags": "social,social_microblogging,microblogging,people",
-            "recuweb_url": "http://en.recuweb.com/microblogging/youtube.com/2013/08/grande-social-microblogging-gsm",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblogging%2Bmicroblogging&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=rvdatHSPe2s&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/rvdatHSPe2s/0.jpg"
         },
         "youtube.com/2013/07/features-users-php-social-microblogging": {
             "title": "Features users - PHP Social Microblogging...",
@@ -91,7 +67,7 @@
             "categories": "php,microblogging",
             "tags": "miguel,miguel_vasquez,vasquez,php,php_social,php_social_microblogging,social,social_microblogging,microblogging,users,people",
             "recuweb_url": "http://en.recuweb.com/microblogging/youtube.com/2013/07/features-users-php-social-microblogging",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblogging%2Bmicroblogging&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblogging&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=FR1sQYnD7qk&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/FR1sQYnD7qk/0.jpg"
         },
@@ -103,7 +79,7 @@
             "categories": "php,microblogging",
             "tags": "miguel,miguel_vasquez,vasquez,php,php_social,php_social_microblogging,social,social_microblogging,microblogging,people",
             "recuweb_url": "http://en.recuweb.com/microblogging/youtube.com/2013/07/installation-php-social-microblogging",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblogging%2Bmicroblogging&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblogging&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=Oq7OVNvjaCE&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/Oq7OVNvjaCE/0.jpg"
         },
@@ -115,7 +91,7 @@
             "categories": "microblogging,humanities,internet,yahoo",
             "tags": "microblogging,project",
             "recuweb_url": "http://en.recuweb.com/yahoo/dailymotion.com/2013/06/top-tech-stories-of-the-day-nintendo-says-their-powerhouse-franchises",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/microblogging+microblogging/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/microblogging/0?af=1",
             "source_url": "http://dailymotion.com/video/x10v7xb_top-tech-stories-of-the-day-nintendo-says-their-powerhouse-franchises-will-ignite-holiday-sales_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x10v7xb_top-tech-stories-of-the-day-nintendo-says-their-powerhouse-franchises-will-ignite-holiday-sales_tech"
         },
@@ -125,11 +101,35 @@
             "date": "2013-06-07",
             "author_name": "EECS at Michigan",
             "categories": "microblogging",
-            "tags": "users,service,people,microblogging",
+            "tags": "users,people,microblogging",
             "recuweb_url": "http://en.recuweb.com/microblogging/youtube.com/2013/06/shout-a-censorship-resistant-microblogging-app-for-android",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblogging&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=a0s1Lar7Nws&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/a0s1Lar7Nws/0.jpg"
+        },
+        "youtube.com/2013/05/01-how-to-make-a-free-microblogging-website": {
+            "title": "01 How To Make A Free Microblogging Website...",
+            "snippet": "01 How To Make A Free Microblogging Website Learn how to make a free microblogging website using. From: Geek School Views: 272 0 ratings Time: 08:22 More in Education...",
+            "date": "2013-05-08",
+            "author_name": "Geek School",
+            "categories": "school,microblogging,education",
+            "tags": "microblogging,website,using",
+            "recuweb_url": "http://en.recuweb.com/education/youtube.com/2013/05/01-how-to-make-a-free-microblogging-website",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblogging&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=H5hDpUhUgj4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/H5hDpUhUgj4/0.jpg"
+        },
+        "youtube.com/2013/04/how-to-create-a-twitter-like-microblogging-website-part": {
+            "title": "How to create a twitter-like microblogging website Part I...",
+            "snippet": "How to create a twitter-like microblogging website Part I How to create a twitter-like microblogging website Part I This video shows how to create a microblogging site like twitter for your class,college or simply for you and your friends. The...",
+            "date": "2013-04-29",
+            "author_name": "letsbegeeks",
+            "categories": "college,twitter,microblogging",
+            "tags": "microblogging,microblogging-site,site,website",
+            "recuweb_url": "http://en.recuweb.com/microblogging/youtube.com/2013/04/how-to-create-a-twitter-like-microblogging-website-part",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblogging&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=F0G4ICxc5_k&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/F0G4ICxc5_k/0.jpg"
         }
     }
 }
