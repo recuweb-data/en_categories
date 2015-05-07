@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "css",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/css/",
@@ -11,16 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/css/css/blogs.json"
     },
     "items": {
-        "circlecube.com/2015/05/cyclomatic-complexity-logic-in-css-wizardry-oocss-front-end-architecture-performance": {
-            "title": "Cyclomatic Complexity: Logic in CSS CSS Wizardry CSS, OOCSS, front-end architecture, performance...",
-            "snippet": "I recently hit upon a way of thinking that made me realise that CSS does include logic, and the fact that its rarely viewed as such is probably also why we end up with such poor CSS at all.I found myself explaining compound selectors to a client as...",
-            "date": "2015-05-01",
-            "author_name": "Evan Mullins",
-            "categories": "css",
-            "tags": "selectors,way,css",
-            "recuweb_url": "http://en.recuweb.com/css/circlecube.com/2015/05/cyclomatic-complexity-logic-in-css-wizardry-oocss-front-end-architecture-performance",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=css%2Bcss&rss=1&lng=en",
-            "source_url": "http://circlecube.com/2015/05/cyclomatic-complexity-logic-in-css-css-wizardry-css-oocss-front-end-architecture-performance-and-more-by-harry-roberts/"
+        "woit.club/2015/05/serving-static-files-in-express": {
+            "title": "Serving static files in Express...",
+            "snippet": "Serving static files in Express Serving files, such as images, CSS, JavaScript and other static files is accomplished with the help of a built-in middleware in Express -. Pass...",
+            "date": "2015-05-04",
+            "author_name": "jenezis",
+            "categories": "css,javascript",
+            "tags": "files,built,express,css,javascript",
+            "recuweb_url": "http://en.recuweb.com/javascript/woit.club/2015/05/serving-static-files-in-express",
+            "resource_url": "http://en.search.wordpress.com/?q=en%2Blocalhost%2Bcom%2Bcss&f=feed&page=1",
+            "source_url": "http://woit.club/2015/05/04/serving-static-files-in-express/"
         },
         "blogs.adobe.com/2015/04/an-introduction-to-graphical-effects-in-css-adobe-dreamweaver": {
             "title": "An Introduction To Graphical Effects in CSS: Adobe Dreamweaver...",
@@ -28,54 +28,10 @@
             "date": "2015-04-29",
             "author_name": "Sara Soueidan",
             "categories": "css",
-            "tags": "lines,properties,effects,couple,css,code",
+            "tags": "without,using,code,properties,effects,css",
             "recuweb_url": "http://en.recuweb.com/css/blogs.adobe.com/2015/04/an-introduction-to-graphical-effects-in-css-adobe-dreamweaver",
-            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=css&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.adobe.com/dreamweaver/2015/04/an-introduction-to-graphical-effects-in-css.html"
-        },
-        "analogarrangements.wordpress.com/2015/04/web-design-resources": {
-            "title": "Web Design Resources...",
-            "snippet": "The first resource I find really helpful is this CSS checker, which can find errors in just CSS or CSS and HTML code for you. If youre one missed parenthesis or semicolon away from perfect code, this can save you hours of painstaking scrolling. Then...",
-            "date": "2015-04-29",
-            "author_name": "Abby",
-            "categories": "css,html",
-            "tags": "find,web,css,html,code",
-            "recuweb_url": "http://en.recuweb.com/html/analogarrangements.wordpress.com/2015/04/web-design-resources",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=css%2Bcss&rss=1&lng=en",
-            "source_url": "http://analogarrangements.wordpress.com/2015/04/29/web-design-resources/"
-        },
-        "schneide.wordpress.com/2015/04/the-typography-of-source-code": {
-            "title": "The typography of source code...",
-            "snippet": "Take a look at the following source code, can you guess which language this is written in? Its CSS. CSS has a typical layout with a minimal indentation depth where a group of selectors embraces lines of attribute/value pairs. Take a look: As with...",
-            "date": "2015-04-26",
-            "author_name": "jenslukowski",
-            "categories": "css",
-            "tags": "selectors,lines,language,written,code,css,layout",
-            "recuweb_url": "http://en.recuweb.com/css/schneide.wordpress.com/2015/04/the-typography-of-source-code",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=css%2Bcss&rss=1&lng=en",
-            "source_url": "http://schneide.wordpress.com/2015/04/26/the-typography-of-source-code/"
-        },
-        "webdesigncoloradodenver.com/2015/04/css-the-lacking-guide": {
-            "title": "CSS: The Lacking Guide...",
-            "snippet": "Html Css CSS: The Missing Guide html css just click on the picture below for more data. ISBN13: 9780596802448 Condition: New Notes: Brand name NEW FROM PUBLISHER! one hundred% Fulfillment Assure. Monitoring provided on most orders. Get with...",
-            "date": "2015-04-25",
-            "author_name": "admin",
-            "categories": "html,css",
-            "tags": "guide,html,css",
-            "recuweb_url": "http://en.recuweb.com/css/webdesigncoloradodenver.com/2015/04/css-the-lacking-guide",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=css%2Bcss&rss=1&lng=en",
-            "source_url": "http://webdesigncoloradodenver.com/web-design/html-css/css-the-lacking-guide/"
-        },
-        "css-tricks.com/2015/04/chaining-multiple-blend-modes-css-tricks": {
-            "title": "Chaining Multiple Blend Modes CSS-Tricks...",
-            "snippet": "The background-blend-mode CSS property is nifty in lots of ways. It gives developers the ability to blend one background-image with its own background-colo.",
-            "date": "2015-04-24",
-            "author_name": "Robin Rendle",
-            "categories": "property,css",
-            "tags": "own,property,css,tricks",
-            "recuweb_url": "http://en.recuweb.com/css/css-tricks.com/2015/04/chaining-multiple-blend-modes-css-tricks",
-            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://css-tricks.com/chaining-multiple-blend-modes/"
         },
         "hongkiat.com/2015/04/30-cool-css-animations-you-have-to-see-hongkiat": {
             "title": "30 Cool CSS Animations You Have To See - Hongkiat...",
@@ -85,7 +41,7 @@
             "categories": "css",
             "tags": "things,effects,css",
             "recuweb_url": "http://en.recuweb.com/css/hongkiat.com/2015/04/30-cool-css-animations-you-have-to-see-hongkiat",
-            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=css&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://hongkiat.com/blog/creative-css-animations/"
         },
         "css-tricks.com/2015/04/html-vs-body-in-css-tricks": {
@@ -94,31 +50,76 @@
             "date": "2015-04-17",
             "author_name": "Geoff Graham",
             "categories": "css,html",
-            "tags": "into,well,should,written,properties,css,html,tricks",
+            "tags": "inline,properties,css,html,tricks",
             "recuweb_url": "http://en.recuweb.com/html/css-tricks.com/2015/04/html-vs-body-in-css-tricks",
-            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=css&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://css-tricks.com/html-vs-body-in-css/"
         },
-        "synapseindiacurrentopening.wordpress.com/2015/04/which-web-development-language-is-useful-to-learn-synapseindia-current-openings": {
-            "title": "Which Web Development Language is Useful to Learn? SynapseIndia Current Openings...",
-            "snippet": "Weve all heard the terms HTML, CSS, PHP and ASP, just to specify a couple, and likely have some thought of the relationship between these scripts and the act of web development, however with regards to settling on a choice with respect to which...",
-            "date": "2015-04-15",
-            "author_name": "satyasingh9089",
-            "categories": "web-development,html,css,php",
-            "tags": "couple,web,development,language,learn,html,css",
-            "recuweb_url": "http://en.recuweb.com/php/synapseindiacurrentopening.wordpress.com/2015/04/which-web-development-language-is-useful-to-learn-synapseindia-current-openings",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=css%2Bcss&rss=1&lng=en",
-            "source_url": "http://synapseindiacurrentopening.wordpress.com/2015/04/15/which-web-development-language-is-useful-to-learn-synapseindia-current-openings/"
+        "cssreset.com/2015/04/how-to-keep-the-footer-at-bottom-of-page-with-css": {
+            "title": "How To Keep The Footer At The Bottom of the Page with CSS...",
+            "snippet": "This tutorial demonstrates how to keep the footer at the bottom of the page on short documents or pages with little content, using CSS and HTML.",
+            "date": "2015-04-12",
+            "author_name": "Joss",
+            "categories": "css,html",
+            "tags": "page,css,tutorial,using,html",
+            "recuweb_url": "http://en.recuweb.com/html/cssreset.com/2015/04/how-to-keep-the-footer-at-bottom-of-page-with-css",
+            "resource_url": "http://www.google.com/search?q=css&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://cssreset.com/how-to-keep-footer-at-bottom-of-page-with-css/"
         },
-        "reddit.com/2015/04/free-e-book-how-to-code-in-html5-and-css3": {
-            "title": "Free e-book: How to Code in HTML5 and CSS3...",
-            "snippet": "Hello, my friend, Damian, has written a book for people whod like to learn HTML5 and CSS3 from scratch. Its free and available for both reading on the web as well as in most popular formats (PDF, ePub, mobi). You can read or download it here: Enjoy!",
-            "date": "2015-04-14",
-            "categories": "html,css",
-            "tags": "here,well,available,learn,written,code,html,css,web",
-            "recuweb_url": "http://en.recuweb.com/css/reddit.com/2015/04/free-e-book-how-to-code-in-html5-and-css3",
-            "resource_url": "http://www.reddit.com/search.rss?q=css%2Bcss&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/learnprogramming/comments/32jq5q/free_ebook_how_to_code_in_html5_and_css3/"
+        "css-tricks.com/2015/04/starting-a-refactor-with-css-dig-tricks": {
+            "title": "Starting a Refactor with CSS Dig CSS-Tricks...",
+            "snippet": "The following is a guest post by Tom Genoni. Tom built an open source Chrome Extension for analyzing CSS. I'll let him introduce it. It's a new web project. You're starting from scratch. The front end is going to be clean and...",
+            "date": "2015-04-03",
+            "author_name": "Guest Author",
+            "categories": "css",
+            "tags": "web,built,ing,guest,css,tricks,source",
+            "recuweb_url": "http://en.recuweb.com/css/css-tricks.com/2015/04/starting-a-refactor-with-css-dig-tricks",
+            "resource_url": "http://www.google.com/search?q=css&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://css-tricks.com/starting-a-refactor-with-css-dig/"
+        },
+        "css-tricks.com/2015/04/bem-101-css-tricks": {
+            "title": "BEM 101 CSS-Tricks...",
+            "snippet": "The following is a collaborative post by guest Joe Richardson, Robin Rendle, and a bunch of the CSS-Tricks staff. Joe wanted to do a post about BEM, which.",
+            "date": "2015-04-02",
+            "author_name": "Robin Rendle",
+            "categories": "css",
+            "tags": "guest,ing,css,tricks",
+            "recuweb_url": "http://en.recuweb.com/css/css-tricks.com/2015/04/bem-101-css-tricks",
+            "resource_url": "http://www.google.com/search?q=css&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://css-tricks.com/bem-101/"
+        },
+        "aprogramadayblog.wordpress.com/2015/02/rotating-image-with-css": {
+            "title": "Rotating Image with CSS...",
+            "snippet": "I'm learning HTML5 and CSS and I got so excited that I could do simple animation without using JavaScript. I was going to post an image being rotated []...",
+            "date": "2015-02-08",
+            "author_name": "rickas27",
+            "categories": "learning,css,html,javascript",
+            "tags": "without,using,css,html,javascript",
+            "recuweb_url": "http://en.recuweb.com/javascript/aprogramadayblog.wordpress.com/2015/02/rotating-image-with-css",
+            "resource_url": "http://en.search.wordpress.com/?q=css&f=feed&page=1",
+            "source_url": "http://aprogramadayblog.wordpress.com/2015/02/08/rotating-image-with-css/"
+        },
+        "css-tricks.com/2015/01/a-complete-guide-to-flexbox-css-tricks": {
+            "title": "A Complete Guide to Flexbox CSS-Tricks...",
+            "snippet": "display. This defines a flex container; inline or block depending on the given value. It enables a flex context for all its direct children..container display: flex;/or inline-flex/. Note that CSS columns have no effect on a flex...",
+            "date": "2015-01-09",
+            "author_name": "Chris Coyier",
+            "categories": "css",
+            "tags": "inline,css,tricks",
+            "recuweb_url": "http://en.recuweb.com/css/css-tricks.com/2015/01/a-complete-guide-to-flexbox-css-tricks",
+            "resource_url": "http://www.google.com/search?q=css&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+        },
+        "css-tricks.com/2014/12/css-just-try-and-do-a-good-job-tricks": {
+            "title": "CSS: Just Try and Do a Good Job CSS-Tricks...",
+            "snippet": "Have you ever worried that you're approaching CSS all wrong? That you're missing out on some new approach that makes everything easier and better? That you wish you were more confident about the state of your CSS?",
+            "date": "2014-12-29",
+            "author_name": "Chris Coyier",
+            "categories": "css",
+            "tags": "job,css,tricks",
+            "recuweb_url": "http://en.recuweb.com/css/css-tricks.com/2014/12/css-just-try-and-do-a-good-job-tricks",
+            "resource_url": "http://www.google.com/search?q=css&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://css-tricks.com/just-try-and-do-a-good-job/"
         }
     }
 }
