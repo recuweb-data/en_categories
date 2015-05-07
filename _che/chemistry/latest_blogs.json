@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "chemistry",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/chemistry/",
@@ -11,15 +11,26 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/chemistry/chemistry/blogs.json"
     },
     "items": {
+        "lynnwoodtoday.com/2015/05/public-invited-to-review-school-district-s-english-ap-chemistry": {
+            "title": "Public invited to review school district's English, AP chemistry...",
+            "snippet": "Edmonds School District Review teams, comprised of teachers, administrators and district staff, have finished the first phase in the selection of new English Language Arts and AP Chemistry materials for the district's middle...",
+            "date": "2015-05-03",
+            "author_name": "lynnwoodtoday",
+            "categories": "chemistry,arts,school",
+            "tags": "chemistry,staff,school,teams",
+            "recuweb_url": "http://en.recuweb.com/school/lynnwoodtoday.com/2015/05/public-invited-to-review-school-district-s-english-ap-chemistry",
+            "resource_url": "http://www.google.com/search?q=chemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://lynnwoodtoday.com/public-invited-to-review-school-districts-english-ap-chemistry-materials/"
+        },
         "phys.org/2015/05/researchers-probe-chemistry-topography-and-mechanics-with-one": {
             "title": "Researchers probe chemistry, topography and mechanics with one...",
             "snippet": "For a 500-nanometer-deep polymeric thin film made of polystyrene (lighter) and poly-2-vinylpyridine (darker), one multimodal instrument imaged, from left, surface topography, elasticity of the bulk material and buried chemical...",
             "date": "2015-05-01",
             "author_name": "unknown",
             "categories": "topography,mechanics,chemistry",
-            "tags": "chemical,surface,topography,instrument,film,topography-and-mechanics,mechanics,probe,chemistry",
+            "tags": "chemical,film,chemistry",
             "recuweb_url": "http://en.recuweb.com/chemistry/phys.org/2015/05/researchers-probe-chemistry-topography-and-mechanics-with-one",
-            "resource_url": "http://www.google.com/search?q=chemistry%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=chemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://phys.org/news/2015-05-probe-chemistry-topography-mechanics-instrument.html"
         },
         "gizmag.com/2015/04/1927-nobel-prize-in-chemistry-medal-up-for-auction-gizmag": {
@@ -28,7 +39,7 @@
             "date": "2015-04-30",
             "author_name": "David Szondy",
             "categories": "chemistry",
-            "tags": "chemistry,german",
+            "tags": "chemistry",
             "recuweb_url": "http://en.recuweb.com/chemistry/gizmag.com/2015/04/1927-nobel-prize-in-chemistry-medal-up-for-auction-gizmag",
             "resource_url": "http://www.google.com/search?q=chemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://gizmag.com/nobel-prize-chemistry-1927-medallion-auction/37230/"
@@ -39,7 +50,7 @@
             "date": "2015-04-28",
             "author_name": "unknown",
             "categories": "disciplines,chemistry",
-            "tags": "soon,chemistry",
+            "tags": "discovery,chemistry",
             "recuweb_url": "http://en.recuweb.com/chemistry/dateline.ucdavis.edu/2015/04/chemistry-discovery-complex-in-the-works-dateline-uc-davis",
             "resource_url": "http://www.google.com/search?q=chemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://dateline.ucdavis.edu/dl_detail.lasso?id=15166"
@@ -49,11 +60,22 @@
             "snippet": "Hot vents on the seabed could have spontaneously produced the organic molecules necessary for life, according to a model which shows how the surfaces of mineral particles inside hydrothermal vents have similar chemical...",
             "date": "2015-04-28",
             "author_name": "News Staff",
-            "categories": "molecules,life,chemistry",
-            "tags": "inside,chemical,necessary,life,chemistry",
-            "recuweb_url": "http://en.recuweb.com/chemistry/science20.com/2015/04/origin-of-life-chemistry-seabed-hot-vents-provide-a-clue",
+            "categories": "molecules,chemistry,life",
+            "tags": "chemical,chemistry,life",
+            "recuweb_url": "http://en.recuweb.com/life/science20.com/2015/04/origin-of-life-chemistry-seabed-hot-vents-provide-a-clue",
             "resource_url": "http://www.google.com/search?q=chemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://science20.com/news_articles/origin_of_life_chemistry_of_seabed_hot_vents_provide_a_clue-155135"
+        },
+        "cenblog.org/2015/04/university-of-utah-chemistry-fire-the-safety-zone-central-science": {
+            "title": "University of Utah chemistry fire The Safety Zone - CENtral Science...",
+            "snippet": "Salt Lake City media reported a fire in the Henry Eyring Chemistry Building at the University of Utah on April 16. Here's what chemistry department chair.",
+            "date": "2015-04-28",
+            "author_name": "Jyllian Kemsley",
+            "categories": "chemistry,science,university",
+            "tags": "chemistry,building,fire,science,university,here",
+            "recuweb_url": "http://en.recuweb.com/university/cenblog.org/2015/04/university-of-utah-chemistry-fire-the-safety-zone-central-science",
+            "resource_url": "http://www.google.com/search?q=chemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://cenblog.org/the-safety-zone/2015/04/university-of-utah-chemistry-fire/"
         },
         "phys.org/2015/04/video-the-chemistry-of-avengers": {
             "title": "Video: The chemistry of The Avengers -...",
@@ -61,65 +83,43 @@
             "date": "2015-04-28",
             "author_name": "unknown",
             "categories": "chemistry",
-            "tags": "here,chemistry,week",
+            "tags": "here,chemistry,reactions",
             "recuweb_url": "http://en.recuweb.com/chemistry/phys.org/2015/04/video-the-chemistry-of-avengers",
             "resource_url": "http://www.google.com/search?q=chemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://phys.org/news/2015-04-video-chemistry-avengers.html"
         },
-        "compoundchem.com/2015/04/this-week-in-chemistry-3d-holograms-&-170-year-old-champagne": {
-            "title": "This Week in Chemistry 3D Holograms, & 170-Year Old Champagne...",
-            "snippet": "Here's the weekly summary of both new chemistry research and studies that have been in the news. This week features the most accurate clock ever created, analysis of 170-year old champagne, a new method for generating...",
-            "date": "2015-04-26",
-            "author_name": "Compound Interest",
+        "notonlychemistry.wordpress.com/2015/03/the-chemistry-of-guinness": {
+            "title": "The chemistry of Guinness...",
+            "snippet": "Dear imaginary readers, i found this amazing explanatory image on the \"Chemical and Engineering\" news website a couple of days ago. It is perfect to celebrate St. Patrick...",
+            "date": "2015-03-17",
+            "author_name": "aliceughi",
+            "categories": "engineering,chemistry",
+            "tags": "image,chemical,chemistry",
+            "recuweb_url": "http://en.recuweb.com/chemistry/notonlychemistry.wordpress.com/2015/03/the-chemistry-of-guinness",
+            "resource_url": "http://en.search.wordpress.com/?q=chemistry&f=feed&page=1",
+            "source_url": "http://notonlychemistry.wordpress.com/2015/03/17/the-chemistry-of-guinness/"
+        },
+        "ecmarchitect.com/2013/08/cmis-an-open-api-for-managing-content-ecm-architect": {
+            "title": "CMIS: An open API for managing content ECM Architect...",
+            "snippet": "For example, I've got the Apache Chemistry InMemory Repository deployed to a local Tomcat server. I can fire up OpenCMIS Workbench and connect to the server using its service URL, http://localhost:8080/chemistry/browser...",
+            "date": "2013-08-21",
+            "author_name": "jpotts",
             "categories": "chemistry",
-            "tags": "analysis,week,ever,research,chemistry,here",
-            "recuweb_url": "http://en.recuweb.com/chemistry/compoundchem.com/2015/04/this-week-in-chemistry-3d-holograms-&-170-year-old-champagne",
-            "resource_url": "http://www.google.com/search?q=chemistry%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://compoundchem.com/2015/04/26/twic26042015/"
+            "tags": "connect,service,fire,chemistry",
+            "recuweb_url": "http://en.recuweb.com/chemistry/ecmarchitect.com/2013/08/cmis-an-open-api-for-managing-content-ecm-architect",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://ecmarchitect.com/archives/2013/08/20/3515"
         },
-        "cen.acs.org/2015/04/basf-celebrates-chemistry-in-style-chemical-&-engineering-news": {
-            "title": "BASF Celebrates Chemistry In Style Chemical & Engineering News...",
-            "snippet": "In an event that at times felt more like a wedding than the anniversary of the founding of a major chemical company, leaders of German industry and politics gathered in Ludwigshafen to toast the success that is BASF, the...",
-            "date": "2015-04-24",
-            "author_name": "Alex Scott",
-            "categories": "politics,engineering,chemistry",
-            "tags": "chemical,basf,chemistry,german",
-            "recuweb_url": "http://en.recuweb.com/chemistry/cen.acs.org/2015/04/basf-celebrates-chemistry-in-style-chemical-&-engineering-news",
-            "resource_url": "http://www.google.com/search?q=chemistry%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://cen.acs.org/articles/93/web/2015/04/BASF-Celebrates-Chemistry-Style.html"
-        },
-        "blogs.princeton.edu/2015/04/decoding-the-cell-s-genetic-filing-system-nature-chemistry": {
-            "title": "Decoding the Cell's Genetic Filing System (Nature Chemistry...",
-            "snippet": "Muir recognized the value of introducing chemical approaches to epigenetics to complement early contributions that came mainly from molecular biologists and geneticists. If epigenetics was like a play, he said, molecular...",
-            "date": "2015-04-22",
-            "author_name": "Catherine Zandonella",
-            "categories": "nature,chemistry",
-            "tags": "molecular,chemical,chemistry",
-            "recuweb_url": "http://en.recuweb.com/chemistry/blogs.princeton.edu/2015/04/decoding-the-cell-s-genetic-filing-system-nature-chemistry",
-            "resource_url": "http://www.google.com/search?q=chemistry%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogs.princeton.edu/research/2015/04/22/decoding-the-cells-genetic-filing-system-nature-chemistry/"
-        },
-        "compoundchem.com/2015/04/compound-interest-the-chemistry-of-gin-and-tonic": {
-            "title": "Compound Interest - The Chemistry of Gin (And Tonic!)...",
-            "snippet": "For the fifth in the 'Alcohol Chemistry'series, we turn to gin. As with other types of alcohol, there are a huge number of different chemical compounds present, but it's possible to identify a range of significant chemical...",
-            "date": "2015-04-21",
-            "author_name": "Compound Interest",
-            "categories": "chemistry",
-            "tags": "chemical,chemistry,interest,series",
-            "recuweb_url": "http://en.recuweb.com/chemistry/compoundchem.com/2015/04/compound-interest-the-chemistry-of-gin-and-tonic",
-            "resource_url": "http://www.google.com/search?q=chemistry%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://compoundchem.com/2015/04/21/gin/"
-        },
-        "oamendoimazul.blogspot.com/2015/04/the-chemistry-bs": {
-            "title": "The Chemistry BS...",
-            "snippet": "Did I ever mention I don't believe in chemistry? Chemistry is the charlatan's excuse for having nothing good to offer, while making you give him everything. Forcing imbalanced relationships, clouding defects, numbing judgment, it's no surprise these...",
-            "date": "2015-04-20",
-            "author_name": "Antonio",
-            "categories": "relationships,chemistry",
-            "tags": "ever,chemistry",
-            "recuweb_url": "http://en.recuweb.com/chemistry/oamendoimazul.blogspot.com/2015/04/the-chemistry-bs",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=chemistry%2Bchemistry&rss=1&lng=en",
-            "source_url": "http://oamendoimazul.blogspot.com/2015/04/the-chemistry-bs.html"
+        "stackoverflow.com/2012/10/loading-php-form-search-results-on-page-load-stack-overflow": {
+            "title": "Loading php form search results on page load - Stack Overflow...",
+            "snippet": "method=\"post\" select name=\"choice\" id=\"choice\" option value=\"Biology\"Biology/option option value=\"Chemistry\"Chemistry/option option value=\"Computer Science\"Computer Science/option option value=\"Mathematics\" Mathematics/option option...",
+            "date": "2012-10-22",
+            "author_name": "user1766841",
+            "categories": "science,php,mathematics",
+            "tags": "science,search",
+            "recuweb_url": "http://en.recuweb.com/mathematics/stackoverflow.com/2012/10/loading-php-form-search-results-on-page-load-stack-overflow",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bchemistry&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/13021542/loading-php-form-search-results-on-page-load"
         }
     }
 }
