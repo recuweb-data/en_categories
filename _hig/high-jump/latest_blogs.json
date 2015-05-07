@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "high-jump",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/high-jump/",
@@ -11,16 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/high-jump/high-jump/blogs.json"
     },
     "items": {
-        "championshipproductions.com/2015/05/work-on-the-high-jump-with-cliff-rovelto-championship-productions": {
-            "title": "Work on the High Jump with Cliff Rovelto! - Championship Productions...",
-            "snippet": "USA Track & Field master coach Cliff Rovelto presents three drills that train athletes to be better high jumpers. These drills will improve the penultimate.",
+        "mcrecord.com/2015/05/koetter-sets-school-record-in-high-jump-usa-boys-win-melrose": {
+            "title": "Koetter sets school record in high jump; USA boys win in Melrose...",
+            "snippet": "Upsala Swanville Area (USA) track senior Stephanie Koetter had quite the week for the Patriots. Koetter finished first in the high jump in three separate meets, but more impressively broke the school record in the event.",
             "date": "2015-05-01",
-            "author_name": "Kevin Fitzpatrick",
-            "categories": "production,high-jump",
-            "tags": "improve,coach,usa,track,championship,high,high_jump,jump,field",
-            "recuweb_url": "http://en.recuweb.com/high-jump/championshipproductions.com/2015/05/work-on-the-high-jump-with-cliff-rovelto-championship-productions",
-            "resource_url": "http://www.google.com/search?q=high%2Bjump%2Bhigh%2Bjump&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://championshipproductions.com/news/2015/05/01/work-on-the-high-jump-with-cliff-rovelto/"
+            "author_name": "Tyler Ohmann",
+            "categories": "school",
+            "tags": "event,quite,week,sets,school,record,high,jump,track,senior",
+            "recuweb_url": "http://en.recuweb.com/school/mcrecord.com/2015/05/koetter-sets-school-record-in-high-jump-usa-boys-win-melrose",
+            "resource_url": "http://www.google.com/search?q=high%2Bjump&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://mcrecord.com/2015/05/01/koetter-sets-school-record-in-high-jump-usa-boys-win-in-melrose/"
         },
         "highjump.com/2015/04/mehadrin-dairy-selects-highjump-mobile-route-management-system": {
             "title": "Mehadrin Dairy Selects HighJump Mobile Route Management System...",
@@ -30,8 +30,18 @@
             "categories": "management",
             "tags": "delivery,announced,global,global-provider,provider,provider-of-supply,supply,supply-chain,supply-chain-management,chain,chain-management,chain-management-software,management,management-software,software,highjump",
             "recuweb_url": "http://en.recuweb.com/management/highjump.com/2015/04/mehadrin-dairy-selects-highjump-mobile-route-management-system",
-            "resource_url": "http://www.google.com/search?q=high%2Bjump%2Bhigh%2Bjump&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=high%2Bjump&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://highjump.com/blog/featured/mehadrin-dairy-selects-highjump-mobile-route-management-system/"
+        },
+        "illegalargumentexception.blogspot.com/2015/04/centos-6-redirecting-snmp-traps-from-low-ports-to-high": {
+            "title": "CentOS 6.6: redirecting SNMP traps from low ports to high ports with...",
+            "snippet": "The above rules are not applied to localhost. If you want to enable that too it is easiest to add an outbound rule: iptables --table nat --insert OUTPUT --protocol udp --out-interface lo --dport 162 --jump REDIRECT --to-ports 1162.",
+            "date": "2015-04-27",
+            "author_name": "McDowell",
+            "tags": "want,above,high,jump",
+            "recuweb_url": "http://en.recuweb.com/illegalargumentexception.blogspot.com/2015/04/centos-6-redirecting-snmp-traps-from-low-ports-to-high",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bhigh%2Bjump&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://illegalargumentexception.blogspot.com/2015/04/centos-66-redirecting-traffic-from-low.html"
         },
         "ftw.usatoday.com/2015/04/three-men-jump-impossibly-high-during-insane-box-showdown": {
             "title": "Three men jump impossibly high during insane box jump showdown...",
@@ -39,9 +49,9 @@
             "date": "2015-04-27",
             "author_name": "Mike Foss",
             "categories": "internet",
-            "tags": "off,men,during,jump,high,jumping",
+            "tags": "off,above,during,men,jump,high,jumping",
             "recuweb_url": "http://en.recuweb.com/internet/ftw.usatoday.com/2015/04/three-men-jump-impossibly-high-during-insane-box-showdown",
-            "resource_url": "http://en.search.wordpress.com/?q=high%2Bjump%2Bhigh%2Bjump&f=feed&page=1",
+            "resource_url": "http://en.search.wordpress.com/?q=high%2Bjump&f=feed&page=1",
             "source_url": "http://ftw.usatoday.com/2015/04/three-men-jump-impossibly-high-during-insane-box-jump-showdown/"
         },
         "morganstatebears.com/2015/04/mason-sets-new-penn-relays-high-jump-college-record": {
@@ -50,30 +60,19 @@
             "date": "2015-04-25",
             "author_name": "unknown",
             "categories": "college,high-jump,school",
-            "tags": "field,during,state,record,sets,high,high_jump,jump,school",
+            "tags": "field,during,mason,state,record,sets,high,high_jump,jump,freshman,school",
             "recuweb_url": "http://en.recuweb.com/school/morganstatebears.com/2015/04/mason-sets-new-penn-relays-high-jump-college-record",
             "resource_url": "http://www.google.com/search?q=high%2Bjump&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://morganstatebears.com/news/2015/4/24/SB_0424155708.aspx?path=wtrkout"
-        },
-        "fleetowner.com/2015/04/highjump-releases-new-tms-solution-technology-content": {
-            "title": "HighJump releases new TMS solution Technology content from...",
-            "snippet": "HighJump, a provider of supply chain management software, has released a new TMS solution. The new software is a feature-rich transportation management solution serving the transportation needs of the shipper and...",
-            "date": "2015-04-24",
-            "author_name": "unknown",
-            "categories": "management,technology",
-            "tags": "management,solution,software,provider,provider-of-supply,supply,supply-chain,supply-chain-management,chain,chain-management,chain-management-software,management-software,highjump",
-            "recuweb_url": "http://en.recuweb.com/technology/fleetowner.com/2015/04/highjump-releases-new-tms-solution-technology-content",
-            "resource_url": "http://www.google.com/search?q=high%2Bjump%2Bhigh%2Bjump&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://fleetowner.com/technology/highjump-releases-new-tms-solution"
         },
         "logisticsviewpoints.com/2015/04/highjump-s-elevate-conference-a-corporate-coalescence": {
             "title": "HighJump's Elevate Conference: A Corporate Coalescence...",
             "snippet": "Today HighJump is wrapping up its 2015 user conference the first since HighJump and Accellos merged into a single entity. The conference has around 650 attendees. And the new HighJump is now a substantially larger...",
             "date": "2015-04-22",
             "author_name": "Clint Reiser",
-            "tags": "into,highjump",
+            "tags": "conference,into,highjump",
             "recuweb_url": "http://en.recuweb.com/logisticsviewpoints.com/2015/04/highjump-s-elevate-conference-a-corporate-coalescence",
-            "resource_url": "http://www.google.com/search?q=high%2Bjump%2Bhigh%2Bjump&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=high%2Bjump&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://logisticsviewpoints.com/2015/04/22/highjumps-elevate-conference-a-corporate-coalescence/"
         },
         "highjump.com/2015/04/highjump-announces-upcoming-release-of-the-one": {
@@ -82,9 +81,9 @@
             "date": "2015-04-22",
             "author_name": "Katie Wolfe",
             "categories": "management",
-            "tags": "next,solution,announced,release,global,global-provider,provider,provider-of-supply,supply,supply-chain,supply-chain-management,chain,chain-management,chain-management-software,management,management-software,software,highjump",
+            "tags": "next,advanced,announced,release,global,global-provider,provider,provider-of-supply,supply,supply-chain,supply-chain-management,chain,chain-management,chain-management-software,management,management-software,software,highjump",
             "recuweb_url": "http://en.recuweb.com/management/highjump.com/2015/04/highjump-announces-upcoming-release-of-the-one",
-            "resource_url": "http://www.google.com/search?q=high%2Bjump%2Bhigh%2Bjump&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=high%2Bjump&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://highjump.com/blog/uncategorized/highjump-announces-upcoming-release-of-the-highjump-one-platform/"
         },
         "highjump.com/2015/04/next-story-superior-beverage-case-study-improving-inventory-control": {
@@ -102,9 +101,9 @@
             "snippet": "There's a new all-time record holder in the women's high jump, and she comes with a familiar surname.",
             "date": "2015-04-22",
             "author_name": "Cam Smith",
-            "tags": "comes,women,high,record,jump",
+            "tags": "high,record,women,jump",
             "recuweb_url": "http://en.recuweb.com/usatodayhss.com/2015/04/randall-cunningham-s-daughter-is-new-national-female-prep-high",
-            "resource_url": "http://www.google.com/search?q=high%2Bjump%2Bhigh%2Bjump&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=high%2Bjump&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://usatodayhss.com/2015/randall-cunninghams-daughter-is-new-national-female-prep-high-jump-record-holder"
         },
         "highjumpchicago.org/2015/04/celebrating-a-quarter-century-of-high-jumps-jump": {
@@ -115,7 +114,7 @@
             "categories": "high-jump",
             "tags": "high,release",
             "recuweb_url": "http://en.recuweb.com/high-jump/highjumpchicago.org/2015/04/celebrating-a-quarter-century-of-high-jumps-jump",
-            "resource_url": "http://www.google.com/search?q=high%2Bjump%2Bhigh%2Bjump&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=high%2Bjump&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://highjumpchicago.org/celebrating-a-quarter-century-of-high-jumps/"
         }
     }
