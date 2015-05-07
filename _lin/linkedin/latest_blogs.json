@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "linkedin",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/linkedin/",
@@ -11,35 +11,14 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/linkedin/linkedin/blogs.json"
     },
     "items": {
-        "blog.proresource.com/2015/05/how-to-promote-your-webinar-on-linkedin": {
-            "title": "How to Promote Your Webinar on LinkedIn...",
-            "snippet": "62% of B2B companies use webinars, according to B2B Content Marketing: 2015 Benchmarks, Budgets and Trends North America. The report also says that 64% of respondents have indicated that the webinar is one of the more effective tactics, second...",
-            "date": "2015-05-01",
-            "author_name": "Katherine Drotos",
-            "categories": "marketing",
-            "tags": "companies,edin,report,second",
-            "recuweb_url": "http://en.recuweb.com/marketing/blog.proresource.com/2015/05/how-to-promote-your-webinar-on-linkedin",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=linkedin%2Blinkedin&rss=1&lng=en",
-            "source_url": "http://blog.proresource.com/how-to-promote-your-webinar-on-linkedin/"
-        },
-        "zerohedge.com/2015/04/linkedin-crashes-25%-after-missing-revenues-cutting-outlook": {
-            "title": "LInkedIn Crashes 25% After Missing Revenues, Cutting Outlook...",
-            "snippet": "LNKD has collapsed 27% on the back of missed revenues and lowered outlooks for Q2 and 2015 drastically. What is most dramatic - just as was seen with YELP and TWTR is the velocity of repricing which indicates just how...",
-            "date": "2015-04-30",
-            "author_name": "Tyler Durden",
-            "tags": "outlook,edin,crashes,lnkd,lowered,yelp,twtr",
-            "recuweb_url": "http://en.recuweb.com/zerohedge.com/2015/04/linkedin-crashes-25%-after-missing-revenues-cutting-outlook",
-            "resource_url": "http://www.google.com/search?q=linkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://zerohedge.com/news/2015-04-30/linkedin-crashes-25-after-missing-revenues-cutting-outlook"
-        },
         "blog.linkedin.com/2015/04/linkedin-s-q1-2015-earnings-official-blog": {
             "title": "LinkedIn's Q1 2015 Earnings Official LinkedIn Blog...",
             "snippet": "We'll also be providing updates from the earnings call on StockTwits starting at 2pm Pacific Time today. Today, we reported our financial results for the first quarter 2015. LinkedIn demonstrated continued solid growth during...",
             "date": "2015-04-30",
             "author_name": "Steve Sordello",
-            "tags": "during,financial,results,earnings,official,edin,reported,quarter",
+            "tags": "growth,reported,financial,results,earnings,official,edin,quarter",
             "recuweb_url": "http://en.recuweb.com/blog.linkedin.com/2015/04/linkedin-s-q1-2015-earnings-official-blog",
-            "resource_url": "http://www.google.com/search?q=linkedin%2Blinkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=linkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blog.linkedin.com/2015/04/30/linkedins-q1-2015-earnings/"
         },
         "businessinsider.com/2015/04/linkedin-earnings-business-insider": {
@@ -48,74 +27,94 @@
             "date": "2015-04-30",
             "author_name": "Jillian D'Onfro",
             "categories": "business",
-            "tags": "hours,weak,released,business,business_insider,insider,edin,earnings,stock,down,guidance,quarter,million",
+            "tags": "beat,down,released,business,edin,edin_earnings,earnings,stock,weak,guidance,revenue,quarter,million,expectations",
             "recuweb_url": "http://en.recuweb.com/business/businessinsider.com/2015/04/linkedin-earnings-business-insider",
-            "resource_url": "http://www.google.com/search?q=linkedin%2Blinkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=linkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://businessinsider.com/linkedin-earnings-2015-4"
         },
-        "techcrunch.com/2015/04/linkedin-q1-beats-street-on-sales-of-638m-eps": {
-            "title": "LinkedIn Q1 Beats Street On Sales Of 638M, EPS Of...",
+        "recode.net/2015/04/linkedin-earnings-push-stock-down-more-than-25-percent-re-code": {
+            "title": "LinkedIn Earnings Push Stock Down More Than 25 Percent Re/code...",
+            "snippet": "LinkedIn won't make as much money next quarter as people expected. Wall Street's reaction was predictably poor.",
+            "date": "2015-04-30",
+            "author_name": "Kurt Wagner",
+            "tags": "people,expected,edin,edin_earnings,earnings,push,stock,down,quarter",
+            "recuweb_url": "http://en.recuweb.com/recode.net/2015/04/linkedin-earnings-push-stock-down-more-than-25-percent-re-code",
+            "resource_url": "http://www.google.com/search?q=linkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://recode.net/2015/04/30/linkedin-stock-plummets-in-after-hours-trading-following-revised-guidance/"
+        },
+        "techcrunch.com/2015/04/linkedin-q1-beats-on-sales-of-638m-eps-shares-tank": {
+            "title": "LinkedIn Q1 Beats On Sales Of 638M, EPS Of, Shares Tank...",
             "snippet": "After Facebook and Twitter reported mixed results this week, LinkedIn today was the latest of the social networks to report its Q1 earnings. The company, which has over 350 million users globally, posted sales of 638 million,...",
             "date": "2015-04-30",
             "author_name": "Ingrid Lunden",
             "categories": "facebook,twitter",
-            "tags": "sales,users,results,street,edin,twitter,reported,week,social,report,earnings,company,million",
-            "recuweb_url": "http://en.recuweb.com/twitter/techcrunch.com/2015/04/linkedin-q1-beats-street-on-sales-of-638m-eps",
-            "resource_url": "http://www.google.com/search?q=linkedin%2Blinkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://techcrunch.com/2015/04/30/linkedin-q1/?ncid=rss"
+            "tags": "users,reported,results,shares,sales,edin,week,social,report,earnings,company,million",
+            "recuweb_url": "http://en.recuweb.com/twitter/techcrunch.com/2015/04/linkedin-q1-beats-on-sales-of-638m-eps-shares-tank",
+            "resource_url": "http://www.google.com/search?q=linkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://techcrunch.com/2015/04/30/linkedin-q1/"
         },
-        "blog.linkedin.com/2015/04/why-i-publish-on-linkedin-inspire-the-next-generation-of-leaders": {
-            "title": "Why I Publish on LinkedIn: Inspire the Next Generation of Leaders...",
-            "snippet": "In the final post of a three-part series, LinkedIn asks members to share why they publish on LinkedIn. Janet Matta is the Career Development Manager at UTS-University of Technology, Sydney, helping.",
-            "date": "2015-04-30",
-            "author_name": "Janet Matta",
-            "categories": "university,technology",
-            "tags": "career,development,share,why,edin,helping",
-            "recuweb_url": "http://en.recuweb.com/technology/blog.linkedin.com/2015/04/why-i-publish-on-linkedin-inspire-the-next-generation-of-leaders",
-            "resource_url": "http://www.google.com/search?q=linkedin%2Blinkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.linkedin.com/2015/04/30/why-i-publish-on-linkedin-inspire-the-next-generation-of-leaders/"
+        "businessinsider.com/2015/04/what-to-put-on-your-linkedin-profile-if-you-re-unemployed": {
+            "title": "What to put on your LinkedIn profile if you're unemployed - Business...",
+            "snippet": "Your LinkedIn professional headline is one of the first things recruiters and hiring managers will see upon scanning your profile and sometimes it is the only section they will read. When setting up your profile, you may have...",
+            "date": "2015-04-24",
+            "author_name": "Kathleen Elkins",
+            "categories": "business",
+            "tags": "profile,only,edin,business,professional",
+            "recuweb_url": "http://en.recuweb.com/business/businessinsider.com/2015/04/what-to-put-on-your-linkedin-profile-if-you-re-unemployed",
+            "resource_url": "http://www.google.com/search?q=linkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://businessinsider.com/linkedin-profile-unemployed-2015-4"
         },
-        "businessinsider.com/2015/04/linkedin-s-reid-hoffman-management-advice-business-insider": {
-            "title": "LinkedIn's Reid Hoffman management advice - Business Insider...",
-            "snippet": "The trust between employers and employees is broken, and it's causing companies to lose their most valuable people at dangerous rates, LinkedIn cofounder and chairman Reid Hoffman says. In the book \"The Alliance:...",
-            "date": "2015-04-29",
-            "author_name": "Richard Feloni",
-            "categories": "business,management",
-            "tags": "companies,lose,people,between,business,business_insider,insider,edin",
-            "recuweb_url": "http://en.recuweb.com/management/businessinsider.com/2015/04/linkedin-s-reid-hoffman-management-advice-business-insider",
-            "resource_url": "http://www.google.com/search?q=linkedin%2Blinkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://businessinsider.com/linkedin-reid-hoffman-management-advice-2015-4"
+        "techcrunch.com/2015/04/linkedin-raises-its-game-in-social-media-with-elevate-an-app": {
+            "title": "LinkedIn Raises Its Game In Social Media With Elevate, An App To...",
+            "snippet": "LinkedIn, the social platform with 350 million users where people network for business deals, new jobs, news, and soon to learn a thing or two, is now tapping another business area: social media management. Today, the...",
+            "date": "2015-04-13",
+            "author_name": "Ingrid Lunden",
+            "categories": "management,social-media,business",
+            "tags": "another,soon,users,people,edin,social,elevate,app,million,network,business,area",
+            "recuweb_url": "http://en.recuweb.com/business/techcrunch.com/2015/04/linkedin-raises-its-game-in-social-media-with-elevate-an-app",
+            "resource_url": "http://www.google.com/search?q=linkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://techcrunch.com/2015/04/12/linkedin-elevate/"
         },
-        "blog.linkedin.com/2015/04/how-to-succeed-with-the-new-norms-work-linkedin-blog": {
-            "title": "How to Succeed with the New Norms Work... - LinkedIn Blog...",
-            "snippet": "How you present yourself as a professional is your essential ticket to success. We took a look at today's workplace norms and found that your professional brand is visible in many different places from who's in your network...",
-            "date": "2015-04-29",
-            "author_name": "Catherine Fisher",
-            "categories": "places,workplace",
-            "tags": "different,norms,edin,edin_blog,norms_work,work,professional,success,found,network",
-            "recuweb_url": "http://en.recuweb.com/workplace/blog.linkedin.com/2015/04/how-to-succeed-with-the-new-norms-work-linkedin-blog",
-            "resource_url": "http://www.google.com/search?q=linkedin%2Blinkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.linkedin.com/2015/04/29/how-to-succeed-with-the-new-norms-work/"
+        "blog.linkedin.com/2015/04/introducing-linkedin-elevate-helping-companies-empower": {
+            "title": "Introducing LinkedIn Elevate: Helping Companies Empower Their...",
+            "snippet": "For example, when a LinkedIn member shares six pieces of content, on average, they receive six profile views and make two new connections, which helps them strengthen their professional brands. At the same time, the...",
+            "date": "2015-04-13",
+            "author_name": "Will Sun",
+            "tags": "profile,content,edin,elevate,shares,helps,professional",
+            "recuweb_url": "http://en.recuweb.com/blog.linkedin.com/2015/04/introducing-linkedin-elevate-helping-companies-empower",
+            "resource_url": "http://www.google.com/search?q=linkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.linkedin.com/2015/04/13/elevate/"
         },
-        "blog.linkedin.com/2015/04/the-linkedin-guide-to-perfect-workselfie-official-blog": {
-            "title": "The LinkedIn Guide to the Perfect WorkSelfie Official LinkedIn Blog...",
-            "snippet": "To celebrate the launch of LinkedIn's New Norms Work research, I've been asked to step in as their WorkSelfie expert. My challenge? Proving that in the era of smartphones, webcams and selfie sticks, everyone has the...",
-            "date": "2015-04-29",
-            "author_name": "Lee Coles",
-            "tags": "norms,norms_work,work,edin,edin_blog,official",
-            "recuweb_url": "http://en.recuweb.com/blog.linkedin.com/2015/04/the-linkedin-guide-to-perfect-workselfie-official-blog",
-            "resource_url": "http://www.google.com/search?q=linkedin%2Blinkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blog.linkedin.com/2015/04/29/linkedin-guide-to-the-perfect-workselfie/"
+        "blog.linkedin.com/2015/04/welcome-to-the-linkedin-family-official-blog": {
+            "title": "Welcome to the LinkedIn Family,! Official LinkedIn Blog...",
+            "snippet": "As the head of content products at LinkedIn, I spend a lot of time thinking about how the access to information and knowledge can be used to make professionals more productive and successful. The fact that I had to take a...",
+            "date": "2015-04-09",
+            "author_name": "Ryan Roslansky",
+            "tags": "professionals,information,lot,content,products,edin,official",
+            "recuweb_url": "http://en.recuweb.com/blog.linkedin.com/2015/04/welcome-to-the-linkedin-family-official-blog",
+            "resource_url": "http://www.google.com/search?q=linkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.linkedin.com/2015/04/09/lynda-joins-linkedin/"
         },
-        "adsworldnews.blogspot.com/2015/04/9-ways-to-advertise-on-linkedin": {
-            "title": "9 Ways to Advertise on LinkedIn...",
-            "snippet": "Entrepreneur 9 Ways to Advertise on LinkedInEntrepreneurIn this edited excerpt, the author describes the nine different ways you can advertise on LinkedIn. LinkedIn provides an affordable way to get your message out to a targeted audience using many...",
-            "date": "2015-04-28",
-            "author_name": "Mike Powers",
-            "tags": "different,edin",
-            "recuweb_url": "http://en.recuweb.com/adsworldnews.blogspot.com/2015/04/9-ways-to-advertise-on-linkedin",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=linkedin%2Blinkedin&rss=1&lng=en",
-            "source_url": "http://adsworldnews.blogspot.com/2015/04/9-ways-to-advertise-on-linkedin.html"
+        "techcrunch.com/2015/04/linkedin-buys-to-add-predictive-insights-its-products": {
+            "title": "LinkedIn Buys To Add Predictive Insights To Its Products...",
+            "snippet": "LinkedIn, the social network for professionals with nearly 350 million users, has been making a push into the area of anticipatory computing, where it predicts what kind of information you need to know, when you need it.",
+            "date": "2015-04-02",
+            "author_name": "Ingrid Lunden",
+            "tags": "information,push,into,area,professionals,nearly,edin,edin_buys,buys,products,social,network,million,users",
+            "recuweb_url": "http://en.recuweb.com/techcrunch.com/2015/04/linkedin-buys-to-add-predictive-insights-its-products",
+            "resource_url": "http://www.google.com/search?q=linkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://techcrunch.com/2015/04/02/linkedin-buys-refresh-io-to-add-more-predictive-insights-to-its-products/"
+        },
+        "techcrunch.com/2015/03/linkedin-buys-careerify-to-build-out-its-big-data-recruitment": {
+            "title": "LinkedIn Buys Careerify To Build Out Its Big Data Recruitment...",
+            "snippet": "LinkedIn has made another acquisition to build out its big data recruitment business. It's acquired Careerify, a startup based out of Toronto, Canada, that focuses on software for businesses to hire people. Two of Careerify's...",
+            "date": "2015-03-16",
+            "author_name": "Ingrid Lunden",
+            "categories": "business,recruitment",
+            "tags": "business,people,another,edin,edin_buys,buys",
+            "recuweb_url": "http://en.recuweb.com/recruitment/techcrunch.com/2015/03/linkedin-buys-careerify-to-build-out-its-big-data-recruitment",
+            "resource_url": "http://www.google.com/search?q=linkedin&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://techcrunch.com/2015/03/16/linkedin-buys-carreerify-to-build-out-its-recruitment-business/"
         }
     }
 }
