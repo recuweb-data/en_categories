@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "computer-data-storage",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/computer-data-storage/",
@@ -11,42 +11,14 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/computer-data-storage/computer-data-storage/blogs.json"
     },
     "items": {
-        "theregister.co.uk/2015/05/one-bit-to-rule-them-all-forget-it-old-storage-types": {
-            "title": "One bit to rule them all? Forget it old storage types never die - The Register...",
-            "snippet": "The RegisterOne bit to rule them all? Forget it old storage types never dieThe RegisterBlock storage doesn't understand files. It only understands reading and writing blocks of data of the exact size it's configured, not what that data represents,...",
-            "date": "2015-05-02",
-            "tags": "understand,storage,data",
-            "recuweb_url": "http://en.recuweb.com/theregister.co.uk/2015/05/one-bit-to-rule-them-all-forget-it-old-storage-types",
-            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage%2Bcomputer%2Bdata%2Bstorage&output=atom&nord=1",
-            "source_url": "http://theregister.co.uk/2015/05/01/bits_on_a_disk/"
-        },
-        "ktar.com/2015/05/tips-for-extending-the-life-of-ssds": {
-            "title": "Tips for extending the life of SSDs -...",
-            "snippet": "for extending the life of: I purchased a Windows computer with SSD storage for the performance, but I understand that maintaining them is different than a regular hard drive. What do I need to know? Solid State Drives (SSDs) are a great way to...",
-            "date": "2015-05-02",
-            "categories": "life",
-            "tags": "way,drives,understand,computer,storage,hard,drive",
-            "recuweb_url": "http://en.recuweb.com/life/ktar.com/2015/05/tips-for-extending-the-life-of-ssds",
+        "consumerreports.org/2015/05/no-brainer-backups": {
+            "title": "No-brainer backups -...",
+            "snippet": "backing up is crucial to protecting the data you store on your computer, from financial information to precious photo memories. There's no... If you decide to use an external hard drive, choose one that's got double the storage of your...",
+            "date": "2015-05-03",
+            "tags": "choose,hard,hard-drive,drive,memories,data,computer,storage",
+            "recuweb_url": "http://en.recuweb.com/consumerreports.org/2015/05/no-brainer-backups",
             "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage&output=atom&nord=1",
-            "source_url": "http://ktar.com/153/1829842/Tips-for-extending-the-life-of-SSDs"
-        },
-        "nytimes.com/2015/05/why-the-nsa-isn-t-howling-over-restrictions-new-york-times": {
-            "title": "Why the NSA Isn't Howling Over Restrictions - New York Times...",
-            "snippet": "Why the NSA Isn't Howling Over RestrictionsNew York TimesThe. cast the widest possible net for call data by forcing the major phone companies, under a secret court order, to pour their data directly into government computers. But what the government...",
-            "date": "2015-05-02",
-            "tags": "computers,under,phone,companies,data",
-            "recuweb_url": "http://en.recuweb.com/nytimes.com/2015/05/why-the-nsa-isn-t-howling-over-restrictions-new-york-times",
-            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage%2Bcomputer%2Bdata%2Bstorage&output=atom&nord=1",
-            "source_url": "http://nytimes.com/2015/05/02/us/politics/giving-in-a-little-on-national-security-agency-data-collection.html"
-        },
-        "wfla.com/2015/05/win-500-cash-wfla": {
-            "title": "Win 500 Cash! - WFLA...",
-            "snippet": "WFLAWin 500 Cash!WFLAWFLA's computer is the official time-keeping device for this Promotion..... (g) are not responsible for the inability to select winners because of postal failure, equipment failure, or data storage failure; and (h) are released...",
-            "date": "2015-05-02",
-            "tags": "equipment,because,official,computer,data,storage",
-            "recuweb_url": "http://en.recuweb.com/wfla.com/2015/05/win-500-cash-wfla",
-            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage&output=atom&nord=1",
-            "source_url": "http://wfla.com/story/28959578/win-500-cash"
+            "source_url": "http://consumerreports.org/cro/news/2015/05/no-brainer-backups/index.htm"
         },
         "tdn.com/2015/05/feds-auditor-warrants-reveal-computer-records-searches-longview-daily-news": {
             "title": "Feds'auditor warrants reveal computer, records searches - Longview Daily News...",
@@ -54,56 +26,87 @@
             "date": "2015-05-01",
             "tags": "computers,computer,data,storage",
             "recuweb_url": "http://en.recuweb.com/tdn.com/2015/05/feds-auditor-warrants-reveal-computer-records-searches-longview-daily-news",
-            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage%2Bcomputer%2Bdata%2Bstorage&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage&output=atom&nord=1",
             "source_url": "http://tdn.com/news/state-and-regional/washington/feds-auditor-warrants-reveal-computer-records-searches/article_89779902-a448-50b2-bcb0-e2ceec4e387c.html"
-        },
-        "computerweekly.com/2015/05/software-defined-storage-not-for-us-says-nimble-ceo-blog": {
-            "title": "Software-defined storage: Not for us says Nimble Storage CEO - (blog)...",
-            "snippet": "Software-defined storage: Not for us says Nimble Storage (blog)Separating software from hardware is an emerging trend in data storage. Under the phrase software-defined storage it has been at the forefront of vendor hype in recent years. The appeal...",
-            "date": "2015-05-01",
-            "tags": "hardware,storage,data,under",
-            "recuweb_url": "http://en.recuweb.com/computerweekly.com/2015/05/software-defined-storage-not-for-us-says-nimble-ceo-blog",
-            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage&output=atom&nord=1",
-            "source_url": "http://computerweekly.com/blogs/StorageBuzz/2015/05/software-defined-storage-not-f.html"
-        },
-        "huffingtonpost.com/2015/05/states-struggle-to-pay-for-police-body-cameras-huffington": {
-            "title": "States Struggle To Pay For Police Body Cameras - Huffington Post...",
-            "snippet": "Huffington PostStates Struggle To Pay For Police Body CamerasHuffington PostBut recently, data storage problems came to a head, and for a few weeks, the department was forced to use DVDs to store video because it ran out of computer server space.",
-            "date": "2015-05-01",
-            "tags": "store,because,states,data,storage,computer",
-            "recuweb_url": "http://en.recuweb.com/huffingtonpost.com/2015/05/states-struggle-to-pay-for-police-body-cameras-huffington",
-            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage&output=atom&nord=1",
-            "source_url": "http://huffingtonpost.com/2015/05/01/police-body-cameras_n_7188874.html"
         },
         "spacedaily.com/2015/04/drexel-materials-scientists-putting-a-new-spin-on-computing-memory": {
             "title": "Drexel materials scientists putting a new spin on computing memory...",
             "snippet": "Current computer data storage takes one of two main forms: hard drives or random access memories (RAM). You can think of a hard drive kind of like a record or CD player, where data is stored on one piece of material--a hard disk--and accessed by a...",
             "date": "2015-04-30",
             "categories": "memory",
-            "tags": "drives,memory,computer,data,storage,hard,ram,drive,disk",
+            "tags": "hard,hard-disk,disk,materials,hard-drive,drive,memories,putting,spin,computing,memory,computer,data,storage",
             "recuweb_url": "http://en.recuweb.com/memory/spacedaily.com/2015/04/drexel-materials-scientists-putting-a-new-spin-on-computing-memory",
             "resource_url": "http://www.bing.com/news/search?first=1&q=computer%2Bdata%2Bstorage&format=RSS&cc=us",
             "source_url": "http://spacedaily.com/reports/Drexel_materials_scientists_putting_a_new_spin_on_computing_memory_999.html"
         },
         "cpapracticeadvisor.com/2015/04/missouri-and-north-dakota-create-sales-use-tax-exemptions-for-data": {
             "title": "Missouri and North Dakota Create Sales and Use Tax Exemptions for Data... -...",
-            "snippet": "and North Dakota Create Sales and Use Tax Exemptions for Data... machinery, equipment, computers used in an expanding data storage center, and all retail sales of tangible personal property for the purpose of constructing, repairing, or remodeling...",
+            "snippet": "and North Dakota Create Sales and Use Tax Exemptions for Data... first exemption is for all machinery, equipment, computers, electrical energy, gas, water, and other utilities, including telecommunication and Internet services, used in new data...",
             "date": "2015-04-29",
-            "categories": "property",
-            "tags": "retail,retail-sales,sales,sales-of-tangible,tangible,tangible-personal,tangible-personal-property,personal,personal-property,property,purpose,computers,computers-used,expanding,tax,tax_exemptions,exemptions,north,north_dakota,north_dakota_create,dakota,dakota_create,dakota_create_sales,create,create_sales,missouri,data,machinery,equipment,storage,center",
-            "recuweb_url": "http://en.recuweb.com/property/cpapracticeadvisor.com/2015/04/missouri-and-north-dakota-create-sales-use-tax-exemptions-for-data",
-            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage%2Bcomputer%2Bdata%2Bstorage&output=atom&nord=1",
+            "categories": "telecommunication,internet",
+            "tags": "tax,create,sales,data,computers,internet,services",
+            "recuweb_url": "http://en.recuweb.com/internet/cpapracticeadvisor.com/2015/04/missouri-and-north-dakota-create-sales-use-tax-exemptions-for-data",
+            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage&output=atom&nord=1",
             "source_url": "http://cpapracticeadvisor.com/news/11939017/missouri-and-north-dakota-create-sales-and-use-tax-exemptions-for-data-storage-centers"
         },
-        "prnewswire.com/2015/04/missouri-and-north-dakota-create-sales-use-tax-exemptions-for-new": {
-            "title": "Missouri and North Dakota Create Sales and Use Tax Exemptions for New and... - PR Newswire (press...",
-            "snippet": "Missouri and North Dakota Create Sales and Use Tax Exemptions for New and...PR Newswire (press release)All machinery, equipment, computers used in an expanding data storage center, and all retail sales of tangible personal property for the purpose...",
-            "date": "2015-04-27",
-            "categories": "property",
-            "tags": "retail,retail-sales,sales,sales-of-tangible,tangible,tangible-personal,tangible-personal-property,personal,personal-property,property,purpose,computers,computers-used,expanding,tax,tax_exemptions,exemptions,north,north_dakota,north_dakota_create,dakota,dakota_create,dakota_create_sales,create,create_sales,missouri,machinery,equipment,data,storage,center",
-            "recuweb_url": "http://en.recuweb.com/property/prnewswire.com/2015/04/missouri-and-north-dakota-create-sales-use-tax-exemptions-for-new",
-            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage%2Bcomputer%2Bdata%2Bstorage&output=atom&nord=1",
-            "source_url": "http://prnewswire.com/news-releases/missouri-and-north-dakota-create-sales-and-use-tax-exemptions-for-new-and-expanding-data-storage-centers-300072871.html"
+        "therecorder.com/2015/04/litigation-department-of-the-year-white-collar-latham-&-watkins": {
+            "title": "Litigation Department of the Year, White Collar: Latham & Watkins...",
+            "snippet": "The SEC accused the former CEO of the computer data storage technology company sTec Inc. of unjustly enriching himself and family members by about 267 million by selling 9 million shares of company stock in a secondary offering while knowing that...",
+            "date": "2015-04-24",
+            "categories": "technology",
+            "tags": "computer,data,storage",
+            "recuweb_url": "http://en.recuweb.com/technology/therecorder.com/2015/04/litigation-department-of-the-year-white-collar-latham-&-watkins",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=computer%2Bdata%2Bstorage&format=RSS&cc=us",
+            "source_url": "http://therecorder.com/id=1202724420707/Litigation-Department-of-the-Year-White-Collar-Latham-amp-Watkins"
+        },
+        "computerworld.com/2015/04/servers-need-storage-endurance-computerworld": {
+            "title": "Servers Need Storage Endurance - Computerworld...",
+            "snippet": "Servers Need Storage EnduranceComputerworldMost desktop and laptop users aren't running their computer 24/7, constantly shuffling data across the I/O pipeline the way a server does. Installing a client SSD in a server will deliver the IOPS, but not...",
+            "date": "2015-04-24",
+            "tags": "storage,computer,data",
+            "recuweb_url": "http://en.recuweb.com/computerworld.com/2015/04/servers-need-storage-endurance-computerworld",
+            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage&output=atom&nord=1",
+            "source_url": "http://computerworld.com/article/2914081/solid-state-drives/servers-need-storage-endurance.html"
+        },
+        "scientificcomputing.com/2015/04/spintronic-data-storage-putting-a-new-spin-on-memory-scientific-computing": {
+            "title": "Spintronic Data Storage: Putting a New Spin on Memory - Scientific Computing...",
+            "snippet": "Scientific ComputingSpintronic Data Storage: Putting a New Spin on MemoryScientific ComputingIn spintronics memory applications, the spin of electrons can be controlled to encode data via the \"up\" and \"down\" binary pair of their spin. Ever since...",
+            "date": "2015-04-24",
+            "categories": "memory",
+            "tags": "spin,memory,data,data_storage,storage,computing,putting",
+            "recuweb_url": "http://en.recuweb.com/memory/scientificcomputing.com/2015/04/spintronic-data-storage-putting-a-new-spin-on-memory-scientific-computing",
+            "resource_url": "http://news.google.com/?hl=en&q=computer%2Bdata%2Bstorage&output=atom&nord=1",
+            "source_url": "http://scientificcomputing.com/news/2015/04/spintronic-data-storage-putting-new-spin-memory"
+        },
+        "connectmidmissouri.com/2015/04/governor-signs-bill-to-give-tax-breaks-data-centers": {
+            "title": "Governor signs bill to give tax breaks to data centers...",
+            "snippet": "JEFFERSON CITY, MO. -- Governor Jay Nixon signed legislation on Thursday to provide incentives for computer data storage centers that create jobs. Senate Bill 149 creates a state and local sales and use tax exemption for construction materials,...",
+            "date": "2015-04-09",
+            "categories": "construction",
+            "tags": "sales,tax,materials,create,data,computer,storage",
+            "recuweb_url": "http://en.recuweb.com/construction/connectmidmissouri.com/2015/04/governor-signs-bill-to-give-tax-breaks-data-centers",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=computer%2Bdata%2Bstorage&format=RSS&cc=us",
+            "source_url": "http://connectmidmissouri.com/news/story.aspx?id=1189137"
+        },
+        "databasejournal.com/2015/03/mysql-fuzzy-text-searching-using-the-soundex-function-database-journal": {
+            "title": "MySQL Fuzzy Text Searching Using the SOUNDEX Function - Database Journal...",
+            "snippet": "MySQL Fuzzy Text Searching Using the SOUNDEX FunctionDatabase Journal... matching, as it's known in computer science, is performed by algorithms that find strings that match a pattern approximately rather than exactly. It would seem that the best...",
+            "date": "2015-03-09",
+            "categories": "database,mysql,science",
+            "tags": "using,computer",
+            "recuweb_url": "http://en.recuweb.com/science/databasejournal.com/2015/03/mysql-fuzzy-text-searching-using-the-soundex-function-database-journal",
+            "resource_url": "http://news.google.com/?hl=en&q=en%2Blocalhost%2Bcom%2Bcomputer%2Bdata%2Bstorage&output=atom&nord=1",
+            "source_url": "http://databasejournal.com/features/mysql/mysql-fuzzy-text-searching-using-the-soundex-function.html"
+        },
+        "datacenterjournal.com/2014/11/is-computer-data-storage-complex-it-depends": {
+            "title": "Is Computer Data Storage Complex? It Depends...",
+            "snippet": "I often get asked, or, told that computer data storage is complex with so many options to choose from, apples to oranges comparison among other things. On a recent trip to Europe while being interviewed by a Dutch journalist in Nijkerk Holland at a...",
+            "date": "2014-11-18",
+            "categories": "computer-data-storage",
+            "tags": "choose,computer,computer_data,computer_data_storage,data,data_storage,storage",
+            "recuweb_url": "http://en.recuweb.com/computer-data-storage/datacenterjournal.com/2014/11/is-computer-data-storage-complex-it-depends",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=computer%2Bdata%2Bstorage&format=RSS&cc=us",
+            "source_url": "http://datacenterjournal.com/dcj-expert-blogs/computer-data-storage-complex-depends/"
         }
     }
 }
