@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "beach-volleyball",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/beach-volleyball/",
@@ -11,12 +11,42 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/beach-volleyball/beach-volleyball/blogs.json"
     },
     "items": {
+        "bernews.com/2015/05/bermuda-start-competing-in-continental-cup": {
+            "title": "Bermuda Start Competing In Continental Cup...",
+            "snippet": "Bermuda began taking part in the Eastern Caribbean Volleyball Associations Beach Volleyball Continental Cup in Antigua. The Continental Cup is the 2016 Olympic Qualifying Tournament for Beach Volleyball. Bermuda is being represented by the teams of...",
+            "date": "2015-05-03",
+            "categories": "beach-volleyball,volleyball",
+            "tags": "represented,teams,beach,beach_volleyball,volleyball,olympic,tournament,continental,caribbean,start",
+            "recuweb_url": "http://en.recuweb.com/volleyball/bernews.com/2015/05/bermuda-start-competing-in-continental-cup",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=beach%2Bvolleyball&format=RSS&cc=us",
+            "source_url": "http://bernews.com/2015/05/bermuda-go-continental-cup-opener/"
+        },
+        "jamaica-gleaner.com/2015/05/ja-t&t-clash-today-at-beach-volleyball-champs-jamaica-gleaner-subscription": {
+            "title": "Ja, T&T clash today at beach volleyball champs - Jamaica Gleaner (subscription)...",
+            "snippet": "Ja, T&T clash today at beach volleyball champsJamaica Gleaner (subscription)Team Jamaica's women have all to play for in today's semi-final clash against Caribbean rivals Trinidad and Tobago. Both teams will square off at 1 p.m. for a place in this...",
+            "date": "2015-05-03",
+            "categories": "play,volleyball",
+            "tags": "teams,team,off,final,women,play,jamaica,gleaner,jamaica_gleaner,beach,volleyball,subscription,caribbean,trinidad,tobago",
+            "recuweb_url": "http://en.recuweb.com/volleyball/jamaica-gleaner.com/2015/05/ja-t&t-clash-today-at-beach-volleyball-champs-jamaica-gleaner-subscription",
+            "resource_url": "http://news.google.com/?hl=en&q=beach%2Bvolleyball&output=atom&nord=1",
+            "source_url": "http://jamaica-gleaner.com/article/sports/20150503/ja-tt-clash-today-beach-volleyball-champs"
+        },
+        "boxscorenews.com/2015/05/st-lucia-the-only-unbeaten-team-at-ecva-beach-volleyball-qualifier": {
+            "title": "St. Lucia the only unbeaten team at ECVA Beach Volleyball qualifier - Boxscore...",
+            "snippet": "BoxscoreSt. Lucia the only unbeaten team at ECVA Beach Volleyball qualifierBoxscoreSt. Lucia, represented by the teams of Lisa Dala Noel/Kerin Neptune and Casimie/Jamilla Lansiquot, is the only country without losses after two days of competition at...",
+            "date": "2015-05-03",
+            "categories": "beach-volleyball,volleyball",
+            "tags": "represented,teams,team,beach,beach_volleyball,volleyball,qualifier",
+            "recuweb_url": "http://en.recuweb.com/volleyball/boxscorenews.com/2015/05/st-lucia-the-only-unbeaten-team-at-ecva-beach-volleyball-qualifier",
+            "resource_url": "http://news.google.com/?hl=en&q=beach%2Bvolleyball&output=atom&nord=1",
+            "source_url": "http://boxscorenews.com/st-lucia-the-only-unbeaten-team-at-ecva-beach-volleyball-qualifier-p121622-68.htm"
+        },
         "guampdn.com/2015/05/beach-volleyball-for-youths-tomorrow": {
             "title": "Beach volleyball for youths tomorrow...",
             "snippet": "While some of the island may be occupied with two pugilists duking it out far away, the Guam Volleyball Federation is looking to draw the younger generation of volleyball lovers to its inaugural Two-Person 14U Beach Volleyball Tournament tomorrow at...",
             "date": "2015-05-02",
             "categories": "volleyball",
-            "tags": "volleyball,tournament,tomorrow,inaugural,beach",
+            "tags": "volleyball,tournament,tomorrow,inaugural,federation,beach",
             "recuweb_url": "http://en.recuweb.com/volleyball/guampdn.com/2015/05/beach-volleyball-for-youths-tomorrow",
             "resource_url": "http://www.bing.com/news/search?first=1&q=beach%2Bvolleyball&format=RSS&cc=us",
             "source_url": "http://guampdn.com/article/20150502/SPORTS/305020017/Beach-volleyball-youths-tomorrow"
@@ -26,90 +56,60 @@
             "snippet": "First day wins for Ja teams at Beach Volleyball tourneyJamaica Gleaner (subscription)inaugural Continental Women's Beach Volleyball Tournament and Women's Olympic Qualifiers, at the Ocho Rios Bay Beach in St. Ann yesterday, where a total of 16...",
             "date": "2015-05-02",
             "categories": "beach-volleyball,volleyball",
-            "tags": "total,beach,olympic,qualifiers,tournament,women,beach_volleyball,volleyball,tourney,inaugural",
+            "tags": "ocho,ocho_rios,ocho_rios_bay,rios,rios_bay,rios_bay_beach,bay,bay_beach,beach,olympic,olympic_qualifiers,qualifiers,tournament,continental,women,gleaner,jamaica,jamaica_gleaner,beach_volleyball,volleyball,teams,subscription,inaugural,yesterday",
             "recuweb_url": "http://en.recuweb.com/volleyball/jamaica-gleaner.com/2015/05/first-day-wins-for-ja-teams-at-beach-volleyball-tourney-jamaica",
-            "resource_url": "http://news.google.com/?hl=en&q=beach%2Bvolleyball%2Bbeach%2Bvolleyball&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=beach%2Bvolleyball&output=atom&nord=1",
             "source_url": "http://jamaica-gleaner.com/article/sports/20150502/first-day-wins-ja-teams-beach-volleyball-tourney"
+        },
+        "jamaicaobserver.com/2015/05/jamaica-off-to-good-start-in-caribbean-beach-volleyball-olympic-qualifiers": {
+            "title": "Jamaica off to good start in Caribbean Beach Volleyball Olympic Qualifiers...",
+            "snippet": "THE Caribbean Zonal Volleyball Association (CAZOVA) Women's Beach Olympic Qualifier served off in a colourful environment of electronic advertising boards, feather banners, and clear blue skies at the Ocho Rios Bay Beach yesterday. Forty-eight...",
+            "date": "2015-05-02",
+            "categories": "environment,volleyball,beach-volleyball",
+            "tags": "ocho,ocho_rios,ocho_rios_bay,rios,rios_bay,rios_bay_beach,bay,bay_beach,beach,blue,off,olympic,olympic_qualifiers,qualifiers,caribbean,caribbean_zonal,zonal,volleyball,beach_volleyball,start,jamaica,cazova,women,yesterday",
+            "recuweb_url": "http://en.recuweb.com/beach-volleyball/jamaicaobserver.com/2015/05/jamaica-off-to-good-start-in-caribbean-beach-volleyball-olympic-qualifiers",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=beach%2Bvolleyball&format=RSS&cc=us",
+            "source_url": "http://jamaicaobserver.com/sport/Jamaica-off-to-good-start-in-Caribbean-Beach-Volleyball-Olympic-Qualifiers_18863414"
+        },
+        "boxscorenews.com/2015/05/vanuatuan-beach-volleyball-pair-continues-fuzhou-form-in-vietnam": {
+            "title": "Vanuatuan beach volleyball pair continues Fuzhou form in Vietnam...",
+            "snippet": "FIVB: Ha Long, Vietnam, May 2, 2015 Vanuatus Miller Pata and Linline Matautu continued their strong form from the Fuzhou Open, the opening FIVB Beach Volleyball World Tour event at the Asian Volleyball Confederations Ha Long Open in Vietnam.",
+            "date": "2015-05-02",
+            "categories": "beach-volleyball,volleyball",
+            "tags": "beach,beach-volleyball,volleyball,world,tour,opening,fivb,long",
+            "recuweb_url": "http://en.recuweb.com/volleyball/boxscorenews.com/2015/05/vanuatuan-beach-volleyball-pair-continues-fuzhou-form-in-vietnam",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=beach%2Bvolleyball&format=RSS&cc=us",
+            "source_url": "http://boxscorenews.com/vanuatuan-beach-volleyball-pair-continues-fuzhou-form-in-vietnam-p121528-68.htm"
+        },
+        "trinidadexpress.com/2015/05/volleyball-to-honour-nancy-joseph": {
+            "title": "Volleyball to honour Nancy Joseph...",
+            "snippet": "THE Trinidad and Tobago Volleyball Federation (TTVF) will be paying tribute to Nancy Joseph during the Beach Volleyball Olympic Male Qualifier this weekend at Saith Park, Chaguanas. The tournament is the opening leg of CAZOVA (Caribbean Zonal...",
+            "date": "2015-05-02",
+            "categories": "volleyball",
+            "tags": "caribbean,caribbean_zonal,zonal,tournament,opening,olympic,male,qualifier,beach,tobago,volleyball,trinidad,federation,cazova",
+            "recuweb_url": "http://en.recuweb.com/volleyball/trinidadexpress.com/2015/05/volleyball-to-honour-nancy-joseph",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=beach%2Bvolleyball&format=RSS&cc=us",
+            "source_url": "http://trinidadexpress.com/sports/-Volleyball-to-honour-Nancy-Joseph-302322481.html"
         },
         "allafrica.com/2015/05/nigeria-beach-volleyball-team-begin-battle-for-aag-slot-tomorrow-daily": {
             "title": "Nigeria Beach Volleyball Team Begin Battle for AAG Slot Tomorrow - Daily Trust...",
             "snippet": "Nigeria Beach Volleyball Team Begin Battle for AAG Slot TomorrowDaily TrustThe Nigerian Beach Volleyball team to the Zone 3 All African Games qualifiers will begin battle to pick one of the two slots in both the Male and Female category tomorrow.",
             "date": "2015-05-01",
             "categories": "beach-volleyball,volleyball",
-            "tags": "tomorrow,qualifiers,games,beach,beach_volleyball,volleyball,team",
+            "tags": "tomorrow,qualifiers,games,beach,beach_volleyball,volleyball,team,male",
             "recuweb_url": "http://en.recuweb.com/volleyball/allafrica.com/2015/05/nigeria-beach-volleyball-team-begin-battle-for-aag-slot-tomorrow-daily",
-            "resource_url": "http://news.google.com/?hl=en&q=beach%2Bvolleyball%2Bbeach%2Bvolleyball&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=beach%2Bvolleyball&output=atom&nord=1",
             "source_url": "http://allafrica.com/stories/201505010861.html"
-        },
-        "onlyagame.wbur.org/2015/05/sand-volleyballs-popularity-spikes-upward": {
-            "title": "Sand Volleyballs Popularity Spikes Upward...",
-            "snippet": "That summer, U.S. fans watching the Athens Olympics saw a young athletic duo from California dominate their beach volleyball competition en route to a gold medal. Misty May-Treanor and Kerri Walsh-Jennings repeated in 2008 in Beijing. Four years...",
-            "date": "2015-05-01",
-            "categories": "volleyball",
-            "tags": "kerri,kerri_walsh,walsh,gold,gold-medal,medal,volleyballs,volleyball,beach,jennings,beijing",
-            "recuweb_url": "http://en.recuweb.com/volleyball/onlyagame.wbur.org/2015/05/sand-volleyballs-popularity-spikes-upward",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=beach%2Bvolleyball&format=RSS&cc=us",
-            "source_url": "http://onlyagame.wbur.org/2015/05/02/sand-volleyball-ncaa-olympics"
-        },
-        "philstar.com/2015/05/ue-rtu-duel-in-finals-of-pistay-dayat-beach-volleyball": {
-            "title": "UE, RTU duel in finals of Pistay Dayat beach volleyball...",
-            "snippet": "LINGAYEN, Philippines Holding twice-to-beat advantages in the semifinal round, University of the East and Rizal Technological University didnt waste any time in stamping their class against their less-experienced opponents to arrange an all-Metro...",
-            "date": "2015-05-01",
-            "categories": "volleyball,university",
-            "tags": "dayat,beach,volleyball,university",
-            "recuweb_url": "http://en.recuweb.com/university/philstar.com/2015/05/ue-rtu-duel-in-finals-of-pistay-dayat-beach-volleyball",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=beach%2Bvolleyball&format=RSS&cc=us",
-            "source_url": "http://philstar.com/sports/2015/05/02/1450309/ue-rtu-duel-finals-pistay-dayat-beach-volleyball"
-        },
-        "boxscorenews.com/2015/04/canada-s-broder-valjas-lead-world-beach-volleyball-ranking-after-fuzhou": {
-            "title": "Canada's Broder/Valjas lead World Beach Volleyball ranking after Fuzhou Open...",
-            "snippet": "FIVB: Lausanne, Switzerland, April 29, 2015 - Victory at the FIVB Beach Volleyball Fuzhou Open has taken Jamie Lynn Broder and Kristina Valjas to the top of the 2015 FIVB World Tour Ranking for women. The Canadian pair earned 500 points at the...",
-            "date": "2015-04-29",
-            "categories": "beach-volleyball,volleyball",
-            "tags": "world,tour,women,kristina,jamie,beach,beach_volleyball,volleyball,canada,broder,valjas,fivb",
-            "recuweb_url": "http://en.recuweb.com/volleyball/boxscorenews.com/2015/04/canada-s-broder-valjas-lead-world-beach-volleyball-ranking-after-fuzhou",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=beach%2Bvolleyball&format=RSS&cc=us",
-            "source_url": "http://boxscorenews.com/canadas-brodervaljas-lead-world-beach-volleyball-ranking-after-fuzhou-ope-p121083-324.htm"
         },
         "bettingpro.com/2015/04/fivb-beach-volleyball-2015-schedule": {
             "title": "FIVB Beach Volleyball 2015 Schedule...",
             "snippet": "Canadians Jamie Lyn Broder and Kristina Valjas defeated Germany's Chantal Laboureur and Julia Sude 21-17 23-21 in the women's final to win their first ever gold medal in the World Tour. Americans April Ross and Kerri Walsh Jennings took home the...",
             "date": "2015-04-29",
             "categories": "home,beach-volleyball,volleyball",
-            "tags": "kerri,kerri_walsh,walsh,jennings,world,tour,gold,gold-medal,medal,women,kristina,valjas,jamie,broder,fivb,fivb_beach,fivb_beach_volleyball,beach,beach_volleyball,volleyball,germany",
+            "tags": "world,tour,final,women,fivb,fivb_beach,fivb_beach_volleyball,beach,beach_volleyball,volleyball,germany",
             "recuweb_url": "http://en.recuweb.com/volleyball/bettingpro.com/2015/04/fivb-beach-volleyball-2015-schedule",
             "resource_url": "http://www.bing.com/news/search?first=1&q=beach%2Bvolleyball&format=RSS&cc=us",
             "source_url": "http://bettingpro.com/category/volleyball/fivb-beach-volleyball-2015-schedule-201504290043/"
-        },
-        "news-press.com/2015/04/kids-events-in-southwest-florida": {
-            "title": "Kids events in Southwest Florida...",
-            "snippet": "Bonita Springs Recreation Center, 26740 Pine Ave., Bonita Springs, 992-2556. Tsunami Beach Volleyball Beach volleyball team leagues and training for youth girls and boys. Weekly camps, clinics, lessons and more. 6-8 p.m. 20...",
-            "date": "2015-04-29",
-            "categories": "beach-volleyball,volleyball,recreation,events",
-            "tags": "training,youth,beach,beach_volleyball,volleyball,team,weekly",
-            "recuweb_url": "http://en.recuweb.com/events/news-press.com/2015/04/kids-events-in-southwest-florida",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=beach%2Bvolleyball%2Bbeach%2Bvolleyball&format=RSS&cc=us",
-            "source_url": "http://news-press.com/story/entertainment/2015/04/30/kids-events-southwest-florida/26571151/"
-        },
-        "philstar.com/2015/04/pista-y-dayat-ladies-beach-volleyball-tourney-fires-off-philippine-star": {
-            "title": "Pista'y Dayat Ladies Beach Volleyball tourney fires off - Philippine Star...",
-            "snippet": "Pista'y Dayat Ladies Beach Volleyball tourney fires offPhilippine StarFormer PSC Commissioner Tisha Abundo was in attendance during the PSA Weekly forum in Shakey's Malate to promote the Pista'y Dayat Ladies Beach Volleyball Tournament to be set...",
-            "date": "2015-04-29",
-            "categories": "beach-volleyball,volleyball",
-            "tags": "tournament,weekly,tourney,dayat,beach,beach_volleyball,volleyball",
-            "recuweb_url": "http://en.recuweb.com/volleyball/philstar.com/2015/04/pista-y-dayat-ladies-beach-volleyball-tourney-fires-off-philippine-star",
-            "resource_url": "http://news.google.com/?hl=en&q=beach%2Bvolleyball%2Bbeach%2Bvolleyball&output=atom&nord=1",
-            "source_url": "http://philstar.com/sports/2015/04/29/1449263/pistay-dayat-ladies-beach-volleyball-tourney-fires"
-        },
-        "krem.com/2015/04/beach-volleyball-courts-heading-to-spokane-valley": {
-            "title": "Beach volleyball courts heading to Spokane Valley...",
-            "snippet": "SPOKANE VALLEY, Wash. Spokane Valley may soon become a beach volleyball destination. It is the first phase of the Browns Park Master Plan. Crews are working on adding a total of 16 courts, right across from University High School. Officials expect...",
-            "date": "2015-04-28",
-            "categories": "university,school,volleyball",
-            "tags": "university,high,total,beach,volleyball",
-            "recuweb_url": "http://en.recuweb.com/volleyball/krem.com/2015/04/beach-volleyball-courts-heading-to-spokane-valley",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=beach%2Bvolleyball&format=RSS&cc=us",
-            "source_url": "http://krem.com/story/news/local/spokane-county/2015/04/28/beach-volleyball-courts-spokane-valley/26507431/"
         }
     }
 }
