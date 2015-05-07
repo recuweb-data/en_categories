@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "javascript",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/javascript/",
@@ -11,16 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/javascript/javascript/blogs.json"
     },
     "items": {
-        "webdesigncoloradodenver.com/2015/05/javascript-the-good-components": {
-            "title": "JavaScript: The Good Components...",
-            "snippet": "Javascript JavaScript: The Good Parts javascript simply click on the image under for a lot more details. javascript Most programming languages contain very good and bad parts, but JavaScript has far more than its reveal of the negative, obtaining...",
-            "date": "2015-05-02",
-            "author_name": "admin",
-            "categories": "languages,javascript",
-            "tags": "programming,languages,parts,lot,javascript,simply",
-            "recuweb_url": "http://en.recuweb.com/javascript/webdesigncoloradodenver.com/2015/05/javascript-the-good-components",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=javascript%2Bjavascript&rss=1&lng=en",
-            "source_url": "http://webdesigncoloradodenver.com/web-design/javascript/javascript-the-good-components/"
+        "woit.club/2015/05/serving-static-files-in-express": {
+            "title": "Serving static files in Express...",
+            "snippet": "Serving static files in Express Serving files, such as images, CSS, JavaScript and other static files is accomplished with the help of a built-in middleware in Express -. Pass...",
+            "date": "2015-05-04",
+            "author_name": "jenezis",
+            "categories": "css,javascript",
+            "tags": "css,javascript,help",
+            "recuweb_url": "http://en.recuweb.com/javascript/woit.club/2015/05/serving-static-files-in-express",
+            "resource_url": "http://en.search.wordpress.com/?q=en%2Blocalhost%2Bcom%2Bjavascript&f=feed&page=1",
+            "source_url": "http://woit.club/2015/05/04/serving-static-files-in-express/"
         },
         "hongkiat.com/2015/04/choosing-the-right-javascript-mvc-framework-infographic": {
             "title": "Choosing the Right JavaScript MVC Framework Infographic...",
@@ -28,32 +28,10 @@
             "date": "2015-04-30",
             "author_name": "Thoriq Firdaus",
             "categories": "javascript",
-            "tags": "libraries,easily,few,popular,javascript,framework,build,web,application,using",
+            "tags": "few,javascript,framework,build,web,application,using",
             "recuweb_url": "http://en.recuweb.com/javascript/hongkiat.com/2015/04/choosing-the-right-javascript-mvc-framework-infographic",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://hongkiat.com/blog/choosing-right-javascript-mvc-framework/"
-        },
-        "davidwalsh.name/2015/04/preventing-side-effects-in-javascript-david-walsh": {
-            "title": "Preventing Side Effects in JavaScript - David Walsh...",
-            "snippet": "JavaScript is very dynamic these days but I still see a lot of legacy code, whether it be for optimal backward compatibility or simply that the code hasn't been maintained. One of the practices that makes me cringe is coding that...",
-            "date": "2015-04-28",
-            "author_name": "David Walsh",
-            "categories": "javascript",
-            "tags": "simply,lot,days,javascript,code",
-            "recuweb_url": "http://en.recuweb.com/javascript/davidwalsh.name/2015/04/preventing-side-effects-in-javascript-david-walsh",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://davidwalsh.name/preventing-sideeffects-javascript"
-        },
-        "vainolo.com/2015/04/javascript-tutorial-part-4-object-creation-and-prototype-chains": {
-            "title": "JavaScript Tutorial Part 4: Object Creation and Prototype Chains...",
-            "snippet": "The term Object-Oriented programming (OOP) has been greatly overused, and JavaScript is not one of the exceptions. For someone who comes from many years programming in Java, learning JavaScript made me realize that the correct name for the paradigm...",
-            "date": "2015-04-27",
-            "author_name": "vainolo",
-            "categories": "javascript,java,learning",
-            "tags": "programming,prototype,object,javascript,tutorial,part,learning",
-            "recuweb_url": "http://en.recuweb.com/learning/vainolo.com/2015/04/javascript-tutorial-part-4-object-creation-and-prototype-chains",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=javascript%2Bjavascript&rss=1&lng=en",
-            "source_url": "http://vainolo.com/2015/04/27/javascript-tutorial-part-4-object-creation-and-prototype-chains/"
         },
         "googleonlinesecurity.blogspot.com/2015/04/a-javascript-based-ddos-attack-as-seen-by-safe-browsing": {
             "title": "A Javascript-based DDoS Attack as seen by Safe Browsing...",
@@ -61,65 +39,87 @@
             "date": "2015-04-24",
             "author_name": "Google Security PR",
             "categories": "learning,javascript",
-            "tags": "web,machine,learning,user,content,javascript",
+            "tags": "user,page,content,ddos,javascript,web",
             "recuweb_url": "http://en.recuweb.com/javascript/googleonlinesecurity.blogspot.com/2015/04/a-javascript-based-ddos-attack-as-seen-by-safe-browsing",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://googleonlinesecurity.blogspot.com/2015/04/a-javascript-based-ddos-attack-as-seen.html"
         },
-        "dev.opera.com/2015/04/electronics-for-the-javascript-developer-using-wi-fi": {
-            "title": "Electronics for the JavaScript Developer using Wi-Fi...",
-            "snippet": "Then we will learn how to control these devices and access the sensor data using JavaScript! In this article we will explore two platforms: Spark for Wi-Fi and TI Sensor Tag for BLE with practical examples. At any time, you can...",
-            "date": "2015-04-21",
-            "author_name": "Sayanee Basu",
-            "categories": "javascript,electronics",
-            "tags": "article,devices,using,javascript,developer,learn,any",
-            "recuweb_url": "http://en.recuweb.com/electronics/dev.opera.com/2015/04/electronics-for-the-javascript-developer-using-wi-fi",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://dev.opera.com/articles/wifi-ble-javascript/"
+        "monitis.com/2015/04/best-ways-to-learn-javascript-today-monitis": {
+            "title": "Best ways to learn JavaScript today - Monitis...",
+            "snippet": "JavaScript has emerged in the past couple years as the de facto expression of next generation web technologies, and a critical component of HTML5 technologies along with CSS and JQuery. JavaScript is really ubiquitous...",
+            "date": "2015-04-02",
+            "author_name": "Ralph Eck",
+            "categories": "javascript,html,css,jquery",
+            "tags": "technologies,technologies-along,along,critical,critical-component,component,emerged,couple,couple-years,facto,facto-expression,expression,expression-of-next,next,next-generation,generation,learn,javascript,monitis,web,html,css,jquery",
+            "recuweb_url": "http://en.recuweb.com/jquery/monitis.com/2015/04/best-ways-to-learn-javascript-today-monitis",
+            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://monitis.com/blog/2015/04/02/best-ways-to-learn-javascript-today/"
         },
-        "amoyerblog.wordpress.com/2015/04/inquiries-about-jquery": {
-            "title": "Inquiries about jQuery...",
-            "snippet": "Keep hearing about jQuery and have no idea what it is? Im here to help. jQuery is a the most popular JavaScript Library, meaning that it is a collection of functions of JavaScript. JavaScript is a language that tell things in a code how to function,...",
-            "date": "2015-04-21",
-            "author_name": "April Moyer",
-            "categories": "javascript,jquery",
-            "tags": "functions,language,things,javascript,popular,here,help,code",
-            "recuweb_url": "http://en.recuweb.com/jquery/amoyerblog.wordpress.com/2015/04/inquiries-about-jquery",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=javascript%2Bjavascript&rss=1&lng=en",
-            "source_url": "http://amoyerblog.wordpress.com/2015/04/21/inquiries-about-jquery/"
-        },
-        "debugmode.net/2015/04/11-things-about-javascript-functions-that-net-developers-should-know-part": {
-            "title": "11 things about JavaScript functions that.NET developers should know: Part 2...",
-            "snippet": "Read full article on the Infragistics blog This is the second part of the series in 11 Things about JavaScript Functions that.NET Developers Should Know. In part 1 we discussed the following topics, JavaScript functions as an expression JavaScript...",
-            "date": "2015-04-17",
-            "author_name": "Dhananjay Kumar",
+        "stackoverflow.com/2015/03/javascript-slider-run-in-offline-localhost-but-not-online-server": {
+            "title": "javascript - Slider run in offline/localhost but not run in online/server...",
+            "snippet": "I write a JavaScript code for slider. This code run in localhost or offline. But it is not run in online or my server. I use this code. please help me. I try but not solve it. where is my wrong?",
+            "date": "2015-03-29",
+            "author_name": "Fahim Foysal Kamal",
             "categories": "javascript",
-            "tags": "functions,developers,part,series,article,things,javascript",
-            "recuweb_url": "http://en.recuweb.com/javascript/debugmode.net/2015/04/11-things-about-javascript-functions-that-net-developers-should-know-part",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=javascript%2Bjavascript&rss=1&lng=en",
-            "source_url": "http://debugmode.net/2015/04/17/11-things-about-javascript-functions-that-net-developers-should-know-part-2/"
+            "tags": "wrong,run,server,localhost,javascript,code,help",
+            "recuweb_url": "http://en.recuweb.com/javascript/stackoverflow.com/2015/03/javascript-slider-run-in-offline-localhost-but-not-online-server",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bjavascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/29324924/slider-run-in-offline-localhost-but-not-run-in-online-server"
         },
-        "cmpfun.blogspot.com/2015/04/function-of-javascript": {
-            "title": "Function of Javascript...",
-            "snippet": "Javascript: JavaScript is the programming language of HTML and the Web. Here some codes of javascript Function. How to Run the code: 1:Open the Notepad or Notepad or any software 2: Copy any code and paste 3: And save with anyname.html e.g 4: Open...",
-            "date": "2015-04-17",
-            "author_name": "(sheikh hunny)",
+        "monitis.com/2015/03/top-5-javascript-tools-you-shouldn-t-be-without-monitis": {
+            "title": "Top 5 JavaScript tools you shouldn't be without - Monitis...",
+            "snippet": "JavaScript has emerged in the past couple years as the de facto expression of next generation web technologies, and a critical component of HTML5 technologies along with CSS and JQuery.",
+            "date": "2015-03-18",
+            "author_name": "Ralph Eck",
+            "categories": "javascript,html,css,jquery",
+            "tags": "technologies,technologies-along,along,critical,critical-component,component,emerged,couple,couple-years,facto,facto-expression,expression,expression-of-next,next,next-generation,generation,tools,javascript,monitis,web,html,css,jquery",
+            "recuweb_url": "http://en.recuweb.com/jquery/monitis.com/2015/03/top-5-javascript-tools-you-shouldn-t-be-without-monitis",
+            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://monitis.com/blog/2015/03/18/top-5-javascript-tools-you-shouldnt-be-without/"
+        },
+        "blog.scrapinghub.com/2015/03/handling-javascript-in-scrapy-with-splash": {
+            "title": "Handling JavaScript in Scrapy with Splash...",
+            "snippet": "A common problem when developing spiders is dealing with sites that use a heavy amount of JavaScript. Its not uncommon for a page to require JavaScript to be []...",
+            "date": "2015-03-02",
+            "author_name": "Richard Dowinton",
+            "categories": "javascript",
+            "tags": "page,common,problem,sites,javascript",
+            "recuweb_url": "http://en.recuweb.com/javascript/blog.scrapinghub.com/2015/03/handling-javascript-in-scrapy-with-splash",
+            "resource_url": "http://en.search.wordpress.com/?q=en%2Blocalhost%2Bcom%2Bjavascript&f=feed&page=1",
+            "source_url": "http://blog.scrapinghub.com/2015/03/02/handling-javascript-in-scrapy-with-splash/"
+        },
+        "superuser.com/2015/02/bash-how-to-configure-linux-display-webpage-at-localhost-127-0": {
+            "title": "bash - How to configure linux to display webpage at localhost 127.0...",
+            "snippet": "Part 2 -- after I make my.html file and embed it with javascript to detect button pushes, etc., how can I communicate javascript actions into terminal commands on the pi? I know this is convoluted, so I appreciate any bits of...",
+            "date": "2015-02-18",
+            "author_name": "jake9115",
             "categories": "html,javascript",
-            "tags": "any,programming,language,javascript,web,here,run,code,open",
-            "recuweb_url": "http://en.recuweb.com/javascript/cmpfun.blogspot.com/2015/04/function-of-javascript",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=javascript%2Bjavascript&rss=1&lng=en",
-            "source_url": "http://cmpfun.blogspot.com/2015/04/function-of-javascript.html"
+            "tags": "html,linux,localhost,javascript,into",
+            "recuweb_url": "http://en.recuweb.com/javascript/superuser.com/2015/02/bash-how-to-configure-linux-display-webpage-at-localhost-127-0",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bjavascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://superuser.com/questions/879570/how-to-configure-linux-to-display-webpage-at-localhost-127-0-0-1-that-allows-jav"
         },
-        "greggalipeau.com/2015/04/dynamically-add-css-and-javascript-to-brand-sharepoint": {
-            "title": "Dynamically Add CSS and JavaScript to Brand SharePoint...",
-            "snippet": "How do we add CSS and JavaScript to SharePoint 2013? Well, we have a few ways: Alternate CSS good choice, but it only allows one more CSS. What if you want to add multiple? Maybe a CDN reference? Well, we cant do it with this choice. Customize the...",
-            "date": "2015-04-15",
-            "author_name": "ggalipeau",
-            "categories": "css,javascript",
-            "tags": "only,few,javascript",
-            "recuweb_url": "http://en.recuweb.com/javascript/greggalipeau.com/2015/04/dynamically-add-css-and-javascript-to-brand-sharepoint",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=javascript%2Bjavascript&rss=1&lng=en",
-            "source_url": "http://greggalipeau.com/dynamically-add-css-and-javascript-to-brand-sharepoint/"
+        "stackoverflow.com/2015/01/javascript-working-in-localhost-but-not-when-hosted-stack-overflow": {
+            "title": "javascript working in localhost but not when hosted? - Stack Overflow...",
+            "snippet": "is pretty cheesy because nobody seems to agree on what onload actually means. i would recommend you use (\"DOMContentLoaded\", function()//code);. Another thing u should be...",
+            "date": "2015-01-22",
+            "author_name": "Jesse",
+            "categories": "javascript",
+            "tags": "because,means,stack,stack_overflow,overflow,localhost,javascript,code",
+            "recuweb_url": "http://en.recuweb.com/javascript/stackoverflow.com/2015/01/javascript-working-in-localhost-but-not-when-hosted-stack-overflow",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bjavascript&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/28082156/javascript-working-in-localhost-but-not-when-hosted"
+        },
+        "tableauanalytics.wordpress.com/2015/01/my-new-tableau-development": {
+            "title": "My New TABLEAU DEVELOPMENT...",
+            "snippet": "script type='text/javascript'src='localhost/javascripts/api/'/scriptdiv class='tableauPlaceholder'style='width: 1024px; height: 661px;'/div...",
+            "date": "2015-01-11",
+            "author_name": "jaipalreddyd",
+            "categories": "javascript",
+            "tags": "localhost",
+            "recuweb_url": "http://en.recuweb.com/javascript/tableauanalytics.wordpress.com/2015/01/my-new-tableau-development",
+            "resource_url": "http://en.search.wordpress.com/?q=en%2Blocalhost%2Bcom%2Bjavascript&f=feed&page=1",
+            "source_url": "http://tableauanalytics.wordpress.com/2015/01/11/my-new-tableau-development/"
         }
     }
 }
