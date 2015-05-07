@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "magento",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/magento/",
@@ -29,7 +29,7 @@
             "date": "2015-04-11",
             "author_name": "connect-adrianlynch",
             "categories": "magento",
-            "tags": "magento,magento-extension,extension,visit,add,extension-allows,connect,adrianlynchtags",
+            "tags": "magento,magento-extension,extension,visit,extension-allows,connect,adrianlynchtags",
             "recuweb_url": "http://en.recuweb.com/magento/dailymotion.com/2015/04/magento-ajax-cart-extension",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/magento/0?af=1",
             "source_url": "http://dailymotion.com/video/x2md1cg_magento-ajax-cart-extension_tech",
@@ -41,7 +41,7 @@
             "date": "2015-03-29",
             "author_name": "connect-adrianlynch",
             "categories": "magento",
-            "tags": "product,magento,extension,visit,page,connect,adrianlynchtags",
+            "tags": "product,magento,extension,visit,magento_product,connect,adrianlynchtags",
             "recuweb_url": "http://en.recuweb.com/magento/dailymotion.com/2015/03/magento-product-attachments-extension",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/magento/0?af=1",
             "source_url": "http://dailymotion.com/video/x2l0f1h_magento-product-attachments-extension_tech",
@@ -53,7 +53,7 @@
             "date": "2015-03-17",
             "author_name": "fmeextension",
             "categories": "magento",
-            "tags": "details,details-visit,visit,admin,products,web,store,extension,fme,magento",
+            "tags": "details,details-visit,visit,products,web,store,extension,fme,magento",
             "recuweb_url": "http://en.recuweb.com/magento/dailymotion.com/2015/03/fme-s-cost-price-extension-for-magento",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/magento/0?af=1",
             "source_url": "http://dailymotion.com/video/x2jqbdo_fme-s-cost-price-extension-for-magento_tech",
@@ -65,23 +65,11 @@
             "date": "2015-02-17",
             "author_name": "BlueFishTX",
             "categories": "environment,magento",
-            "tags": "tutorial,magento,community,edition",
+            "tags": "running,magento",
             "recuweb_url": "http://en.recuweb.com/magento/youtube.com/2015/02/magento-community-edition-part-1-installing-sample-data",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=magento&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=3E-Ez67-NbU&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/3E-Ez67-NbU/0.jpg"
-        },
-        "dailymotion.com/2015/02/magento-admin-panel-training-tutorial-how-to-add-products-in": {
-            "title": "Magento Admin Panel Training Tutorial - How to Add Products in Magento...",
-            "snippet": "ATAK Interactive offers free training videos for Magento Community Edition. This video is on the topic of Admin Panel Training; Adding Products: AtakinteractiveTags: Posted: 09 February 2015Rating:: 0...",
-            "date": "2015-02-09",
-            "author_name": "Atakinteractive",
-            "categories": "magento",
-            "tags": "adding,products,admin,community,edition,add,magento,tutorial",
-            "recuweb_url": "http://en.recuweb.com/magento/dailymotion.com/2015/02/magento-admin-panel-training-tutorial-how-to-add-products-in",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/magento+magento/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2graj0_magento-admin-panel-training-tutorial-how-to-add-products-in-magento_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2graj0_magento-admin-panel-training-tutorial-how-to-add-products-in-magento_tech"
         },
         "dailymotion.com/2015/01/magento-extension-xml-auto-import": {
             "title": "Magento Extension XML Auto Import...",
@@ -89,7 +77,7 @@
             "date": "2015-01-29",
             "author_name": "evirtualtechnology",
             "categories": "magento,xml",
-            "tags": "product,images,store,web,magento,extension,features",
+            "tags": "product,images,each,store,web,magento,extension",
             "recuweb_url": "http://en.recuweb.com/xml/dailymotion.com/2015/01/magento-extension-xml-auto-import",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/magento/0?af=1",
             "source_url": "http://dailymotion.com/video/x2fwtbz_magento-extension-xml-auto-import_tech",
@@ -119,17 +107,29 @@
             "source_url": "http://dailymotion.com/video/x2e6sdz_magento-photo-gallery-extension_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2e6sdz_magento-photo-gallery-extension_tech"
         },
-        "dailymotion.com/2014/12/magento-contact-form-extension": {
-            "title": "Magento Contact Form Extension -...",
-            "snippet": "Rating: 5/5, Magento Contact Form- US In stock. Build in for adding contact page easily. Avail Features of Contact Us form as a separate page. Animated popup for Contact Us. Dynamically configurable fields. Contact inquiry report. Configurable...",
-            "date": "2014-12-02",
+        "dailymotion.com/2014/12/magento-product-sold-count-extension": {
+            "title": "Magento Product Sold Count Extension -...",
+            "snippet": "Product Sold Count Sales Counter Magento Extension - US 10.0, Rating 5/5. Product Sales Counter Extension helps to display sale count for each products in their: velanapp1Tags: Posted: 04 December 2014Rating:: 0...",
+            "date": "2014-12-04",
             "author_name": "velanapp1",
             "categories": "magento",
-            "tags": "page,features,adding,magento,extension",
-            "recuweb_url": "http://en.recuweb.com/magento/dailymotion.com/2014/12/magento-contact-form-extension",
+            "tags": "each,products,product,magento,magento_product,extension",
+            "recuweb_url": "http://en.recuweb.com/magento/dailymotion.com/2014/12/magento-product-sold-count-extension",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/magento/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2bjz6k_magento-contact-form-extension-store-velanapps-com_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2bjz6k_magento-contact-form-extension-store-velanapps-com_tech"
+            "source_url": "http://dailymotion.com/video/x2bq104_magento-product-sold-count-extension-store-velanapps-com_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2bq104_magento-product-sold-count-extension-store-velanapps-com_tech"
+        },
+        "youtube.com/2014/11/aws-re-invent-2014-web304-running-and-scaling-magento-on": {
+            "title": "AWS re:Invent 2014 (WEB304) Running and Scaling Magento on AWS...",
+            "snippet": "AWS re:Invent 2014 (WEB304) Running and Scaling Magento on AWS Magento is a leading open source, eCommerce platform used by many global brands. However, architecting your Magento platform to grow with your business can sometimes be a challenge.",
+            "date": "2014-11-18",
+            "author_name": "Amazon Web Services",
+            "categories": "business,magento",
+            "tags": "magento,web,running",
+            "recuweb_url": "http://en.recuweb.com/magento/youtube.com/2014/11/aws-re-invent-2014-web304-running-and-scaling-magento-on",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=magento&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=0hVymqegs9Y&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/0hVymqegs9Y/0.jpg"
         }
     }
 }
