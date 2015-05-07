@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "jquery",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/jquery/",
@@ -11,30 +11,6 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/jquery/jquery/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/04/jquery-tutorial-make-a-slider-1-3": {
-            "title": "jQuery Tutorial: Make a jQuery Slider (1/3)...",
-            "snippet": "jQuery Tutorial: Make a jQuery Slider (1/3)Author: AnalisaCurleyTags: jQuery Tutorial: Make a Slider 13 Posted: 30 April 2015Rating:: 0...",
-            "date": "2015-04-30",
-            "author_name": "AnalisaCurley",
-            "categories": "jquery",
-            "tags": "jquery,slider,tutorial",
-            "recuweb_url": "http://en.recuweb.com/jquery/dailymotion.com/2015/04/jquery-tutorial-make-a-slider-1-3",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/jquery+jquery/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2olmrx_jquery-tutorial-make-a-jquery-slider-1-3_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2olmrx_jquery-tutorial-make-a-jquery-slider-1-3_tech"
-        },
-        "dailymotion.com/2015/04/jquery-carousel-slider-tutorial-introduction-pt-1-5": {
-            "title": "Jquery carousel slider tutorial, Jquery Slider tutorial Introduction - Pt.1/5...",
-            "snippet": "Jquery carousel slider tutorial, Jquery Slider tutorial Introduction - Pt.1/5Author: SheaFrickTags: Jquery carousel slider tutorial Slider Introduction - Pt.1 5 Posted: 25 April 2015Rating:: 0...",
-            "date": "2015-04-25",
-            "author_name": "SheaFrick",
-            "categories": "jquery",
-            "tags": "slider,tutorial,jquery",
-            "recuweb_url": "http://en.recuweb.com/jquery/dailymotion.com/2015/04/jquery-carousel-slider-tutorial-introduction-pt-1-5",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/jquery+jquery/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2ny021_jquery-carousel-slider-tutorial-jquery-slider-tutorial-introduction-pt-1-5_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ny021_jquery-carousel-slider-tutorial-jquery-slider-tutorial-introduction-pt-1-5_tech"
-        },
         "dailymotion.com/2015/04/simple-jquery-slideshow-tutorial": {
             "title": "Simple jQuery Slideshow Tutorial...",
             "snippet": "Simple jQuery Slideshow TutorialAuthor: EveliaHardmanTags: Simple jQuery Slideshow Tutorial Posted: 10 April 2015Rating:: 0...",
@@ -47,27 +23,15 @@
             "source_url": "http://dailymotion.com/video/x2m7hr7_simple-jquery-slideshow-tutorial_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2m7hr7_simple-jquery-slideshow-tutorial_tech"
         },
-        "youtube.com/2015/04/jquery-each-function": {
-            "title": "jQuery each function...",
-            "snippet": "jQuery each function Link for all dot net and sql server video tutorial playlists Link for slides, code samples and text version of the video csha... From: kudvenkat Views: 1707 22 ratings Time: 15:38 More in Education...",
-            "date": "2015-04-08",
-            "author_name": "kudvenkat",
-            "categories": "play,jquery,education",
-            "tags": "code,code-samples,samples,samples-and-text,text,text-version,version,slides,dot,dot-net,net,net-and-sql,sql,sql-server,sql-server-video,server,server-video,server-video-tutorial,tutorial,tutorial-play,play,jquery,kudvenkat,education",
-            "recuweb_url": "http://en.recuweb.com/education/youtube.com/2015/04/jquery-each-function",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=jquery&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=2G4nooOPj1U&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/2G4nooOPj1U/0.jpg"
-        },
         "youtube.com/2015/03/what-is-jquery": {
             "title": "What is jQuery...",
-            "snippet": "What is jQuery Link for all dot net and sql server video tutorial playlists Link for slides, code samples and text version of the video csharp-video-tutoria... From: kudvenkat Views: 15132 114 ratings Time: 17:12 More in Education...",
+            "snippet": "What is jQuery Link for all dot net and sql server video tutorial playlists Link for slides, code samples and text version of the video csharp-video-tutoria... From: kudvenkat Views: 15638 115 ratings Time: 17:12 More in Education...",
             "date": "2015-03-17",
             "author_name": "kudvenkat",
             "categories": "play,jquery,education",
-            "tags": "code,code-samples,samples,samples-and-text,text,text-version,version,slides,dot,dot-net,net,net-and-sql,sql,sql-server,sql-server-video,server,server-video,server-video-tutorial,tutorial,tutorial-play,play,jquery,kudvenkat,education",
+            "tags": "tutorial,jquery",
             "recuweb_url": "http://en.recuweb.com/education/youtube.com/2015/03/what-is-jquery",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=jquery%2Bjquery&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=jquery&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=a59kOE2Ma1Q&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/a59kOE2Ma1Q/0.jpg"
         },
@@ -77,11 +41,23 @@
             "date": "2015-01-17",
             "author_name": "Javascript Planet",
             "categories": "javascript,jquery",
-            "tags": "page,jquery",
+            "tags": "javascript,page,jquery",
             "recuweb_url": "http://en.recuweb.com/jquery/youtube.com/2015/01/zero-to-hero-with-jquery",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=jquery%2Bjquery&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=jquery&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=ELRNFtFxIs8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/ELRNFtFxIs8/0.jpg"
+        },
+        "dailymotion.com/2015/01/grab-students-attention-with-attractive-html5-and-jquery-flipbook": {
+            "title": "Grab Students Attention with Attractive HTML5 and jQuery Flipbook...",
+            "snippet": "HTML5 and jQuery flipbook makers are easy to use tools to bring life to the static teaching material. They can make your strong teaching content more: alice-chan2Tags: html5 flipbook book pageflip maker digital flipbook creator Posted: 06 January...",
+            "date": "2015-01-06",
+            "author_name": "alice-chan2",
+            "categories": "teaching,life,jquery,html,students",
+            "tags": "flipbook,book,digital,content,jquery,jquery_flipbook,html,alice,chan,tags",
+            "recuweb_url": "http://en.recuweb.com/students/dailymotion.com/2015/01/grab-students-attention-with-attractive-html5-and-jquery-flipbook",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/jquery/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2e3sde_grab-students-attention-with-attractive-html5-and-jquery-flipbook_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2e3sde_grab-students-attention-with-attractive-html5-and-jquery-flipbook_tech"
         },
         "dailymotion.com/2015/01/wonderful-free-jquery-image-gallery-pub-html5": {
             "title": "Wonderful Free jQuery Image Gallery - PUB HTML5...",
@@ -89,7 +65,7 @@
             "date": "2015-01-05",
             "author_name": "pub20141122",
             "categories": "html,jquery",
-            "tags": "page,fascinating,pub,pub_html,html,jquery",
+            "tags": "page,fascinating,pub,pub_html,html,jquery,free",
             "recuweb_url": "http://en.recuweb.com/jquery/dailymotion.com/2015/01/wonderful-free-jquery-image-gallery-pub-html5",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/jquery/0?af=1",
             "source_url": "http://dailymotion.com/video/x2e15io_wonderful-free-jquery-image-gallery-pub-html5_tech",
@@ -101,7 +77,7 @@
             "date": "2014-12-19",
             "author_name": "Pub2014112233",
             "categories": "html,jquery",
-            "tags": "pub,pub_html,html,digital,page,jquery",
+            "tags": "pub,pub_html,html,digital,page,plugin,jquery,learn",
             "recuweb_url": "http://en.recuweb.com/jquery/dailymotion.com/2014/12/pubhtml5-a-jquery-plugin-to-showcase-your-web-designs",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/jquery/0?af=1",
             "source_url": "http://dailymotion.com/video/x2cvfqo_pubhtml5-a-jquery-plugin-to-showcase-your-web-designs_tech",
@@ -113,7 +89,7 @@
             "date": "2014-12-19",
             "author_name": "Pub2014112233",
             "categories": "html,jquery",
-            "tags": "digital,create,flipbook,maker,pub,pub_html,html,jquery,tags",
+            "tags": "digital,book,create,flipbook,maker,pub,pub_html,html,jquery,tags",
             "recuweb_url": "http://en.recuweb.com/jquery/dailymotion.com/2014/12/jquery-books-templates-of-flipbook-making",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/jquery/0?af=1",
             "source_url": "http://dailymotion.com/video/x2cvg28_jquery-books-templates-of-flipbook-making_tech",
@@ -125,11 +101,35 @@
             "date": "2014-12-17",
             "author_name": "alice-chan2",
             "categories": "html,jquery",
-            "tags": "pub,pub_html,html,flipbook,maker,jquery,create,fascinating,digital,tags",
+            "tags": "pub,pub_html,html,flipbook,maker,interactive,jquery,jquery_flipbook,create,fascinating,digital,alice,chan,tags",
             "recuweb_url": "http://en.recuweb.com/jquery/dailymotion.com/2014/12/jquery-flipbook-software-create-fascinating-digital-product-catalog",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/jquery/0?af=1",
             "source_url": "http://dailymotion.com/video/x2cqqpx_jquery-flipbook-software-create-fascinating-digital-product-catalog_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2cqqpx_jquery-flipbook-software-create-fascinating-digital-product-catalog_tech"
+        },
+        "dailymotion.com/2014/12/beautiful-jquery-flipbook-plugin-for-enhancing-website-content": {
+            "title": "Beautiful jQuery FlipBook Plugin for Enhancing Website Content...",
+            "snippet": "From: With PUB HTMlL5, you can create amazing digital publication with beautiful layout and interactive multimedia: carinaelevenTags: jquery flipbook plugin enhance content tutorial how to Posted: 16 December 2014Rating:: 0...",
+            "date": "2014-12-16",
+            "author_name": "carinaeleven",
+            "categories": "jquery",
+            "tags": "jquery,jquery_flipbook,flipbook,plugin,content,tutorial,create,digital,interactive,pub",
+            "recuweb_url": "http://en.recuweb.com/jquery/dailymotion.com/2014/12/beautiful-jquery-flipbook-plugin-for-enhancing-website-content",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/jquery/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2cmyv9_beautiful-jquery-flipbook-plugin-for-enhancing-website-content_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2cmyv9_beautiful-jquery-flipbook-plugin-for-enhancing-website-content_tech"
+        },
+        "dailymotion.com/2014/10/javascript-training-tutorial-testing-jquery": {
+            "title": "JavaScript Training Tutorial Testing jQuery...",
+            "snippet": "Learn about JavaScript at. Get the complete tutorial FREE at Visit us today!Author: teachucompTags: Posted: 30 October 2014Rating:: 0...",
+            "date": "2014-10-30",
+            "author_name": "teachucomp",
+            "categories": "javascript,jquery",
+            "tags": "tutorial,javascript,jquery,learn,free",
+            "recuweb_url": "http://en.recuweb.com/jquery/dailymotion.com/2014/10/javascript-training-tutorial-testing-jquery",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/jquery/0?af=1",
+            "source_url": "http://dailymotion.com/video/x28yq1c_javascript-training-tutorial-testing-jquery_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x28yq1c_javascript-training-tutorial-testing-jquery_tech"
         }
     }
 }
