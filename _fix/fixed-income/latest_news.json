@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "fixed-income",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/fixed-income/",
@@ -11,31 +11,60 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/fixed-income/fixed-income/blogs.json"
     },
     "items": {
-        "investorplace.com/2015/05/stocks-trim-weekly-losses-with-a-bullish-friday": {
-            "title": "Stocks Trim Weekly Losses With a Bullish Friday...",
-            "snippet": "Combined with the selloff in eurozone bonds, it seems the fixed income market is beginning to price in a lift in both global GDP growth and inflation, with bond-market derived inflation expectations rising to levels not seen since December. Im...",
-            "date": "2015-05-02",
-            "categories": "inflation",
-            "tags": "market,bonds,growth,global,stocks,fixed,income",
-            "recuweb_url": "http://en.recuweb.com/inflation/investorplace.com/2015/05/stocks-trim-weekly-losses-with-a-bullish-friday",
+        "seekingalpha.com/2015/05/a-dividend-growth-leaders-portfolio-with-17-5%-rate": {
+            "title": "A Dividend Growth Leaders Portfolio With A 17.5% Dividend Growth Rate...",
+            "snippet": "Many contributors have suggested that such stocks tend to be more reliable income growth providers than bonds or other fixed income investments. I believe that argument and it has persuaded me, and I'm sure other SA readers, to focus investments...",
+            "date": "2015-05-03",
+            "tags": "growth,bonds,stocks,rate,portfolio,income,fixed",
+            "recuweb_url": "http://en.recuweb.com/seekingalpha.com/2015/05/a-dividend-growth-leaders-portfolio-with-17-5%-rate",
             "resource_url": "http://www.bing.com/news/search?first=1&q=fixed%2Bincome&format=RSS&cc=us",
-            "source_url": "http://investorplace.com/2015/05/stocks-trim-weekly-losses-payrolls-loom-next-week/"
+            "source_url": "http://seekingalpha.com/article/3132676-a-dividend-growth-leaders-portfolio-with-a-17_5-percent-dividend-growth-rate"
         },
-        "fool.com/2015/05/the-best-way-to-invest-money-in-bank-stocks": {
-            "title": "The Best Way to Invest Money in Bank Stocks...",
-            "snippet": "This means a mere 10% decline in the value of a lender's assets, which consist largely of loans and fixed-income securities, can completely wipe out its capital base. And second, banks are run by humans, who are prone to a variety of behavioral...",
-            "date": "2015-05-02",
-            "tags": "value,stocks,fixed,income,securities,capital",
-            "recuweb_url": "http://en.recuweb.com/fool.com/2015/05/the-best-way-to-invest-money-in-bank-stocks",
+        "thenationonlineng.net/2015/05/guinness-nigeria-launches-n10bn-commercial-paper-programme": {
+            "title": "Guinness Nigeria launches N10bn commercial paper programme...",
+            "snippet": "Also in attendance were officials of FMDQ OTC, a Securities and Exchange Commission licensed over-the-counter market operator for fixed income securities. Also speaking at the event, Kobby Bentsi-Enchill, Head Debt Capital Markets, of Stanbic...",
+            "date": "2015-05-03",
+            "categories": "debt-capital,capital-market,markets",
+            "tags": "head,debt,debt_capital,debt_capital_markets,capital,capital_markets,markets,market,securities,fixed,income",
+            "recuweb_url": "http://en.recuweb.com/markets/thenationonlineng.net/2015/05/guinness-nigeria-launches-n10bn-commercial-paper-programme",
             "resource_url": "http://www.bing.com/news/search?first=1&q=fixed%2Bincome&format=RSS&cc=us",
-            "source_url": "http://fool.com/investing/general/2015/05/02/the-best-way-to-invest-money-in-bank-stocks.aspx"
+            "source_url": "http://thenationonlineng.net/new/guinness-nigeria-launches-n10bn-commercial-paper-programme/"
+        },
+        "theguardian.com/2015/05/not-saving-early-for-college-tuition-is-everyone-s-problem-here": {
+            "title": "Not saving early for college tuition is everyone's problem. Here's why...",
+            "snippet": "Rick Rieder, chief investment officer of fundamental fixed income at BlackRock, Inc, has several good reasons for why this matters. Given that BlackRock, as one of the worlds largest asset management companies, is hardly a bastion of...",
+            "date": "2015-05-03",
+            "categories": "asset-management,management,college",
+            "tags": "asset,management,investment,everyone,fixed,income",
+            "recuweb_url": "http://en.recuweb.com/college/theguardian.com/2015/05/not-saving-early-for-college-tuition-is-everyone-s-problem-here",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fixed%2Bincome&format=RSS&cc=us",
+            "source_url": "http://theguardian.com/money/us-money-blog/2015/may/03/college-costs-tuition-saving-education"
+        },
+        "investing.com/2015/05/the-end-is-near-part-2-everyone-piles-into-junk-bonds": {
+            "title": "The End Is Near, Part 2: Everyone Piles Into Junk Bonds...",
+            "snippet": "High-yield is the best performer in U.S. fixed-income in the year so far, after chalking up positive returns in April to outperform investment-grade and Treasuries. High-yield debt has returned 3.8% in the year so far, according to the Bank of...",
+            "date": "2015-05-03",
+            "tags": "investment,returns,everyone,bonds,high,fixed,income,debt",
+            "recuweb_url": "http://en.recuweb.com/investing.com/2015/05/the-end-is-near-part-2-everyone-piles-into-junk-bonds",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fixed%2Bincome&format=RSS&cc=us",
+            "source_url": "http://investing.com/analysis/the-end-is-near,-part-2:-everyone-piles-into-junk-bonds-250419"
+        },
+        "wsj.com/2015/05/trading-in-greek-government-bonds-slows-to-a-trickle": {
+            "title": "Trading in Greek Government Bonds Slows to a Trickle...",
+            "snippet": "Greece is too binary to get involved in, since bonds will either rally sharply if an agreement with creditors is reached or plunge if Greece defaults, said Ariel Bezalel, a fixed-income fund manager at Jupiter Asset Management, which oversees 32...",
+            "date": "2015-05-03",
+            "categories": "asset-management,management",
+            "tags": "asset,management,fund,fund-manager,manager,bonds,fixed,income",
+            "recuweb_url": "http://en.recuweb.com/management/wsj.com/2015/05/trading-in-greek-government-bonds-slows-to-a-trickle",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fixed%2Bincome&format=RSS&cc=us",
+            "source_url": "http://wsj.com/articles/trading-in-greek-government-bonds-slows-to-a-trickle-1430684909"
         },
         "wealthmanagement.com/2015/05/alternative-fixed-income-products-in-high-demand-among-advisors": {
             "title": "Alternative Fixed Income Products In High Demand Among Advisors...",
             "snippet": "Alternative fixed income products are in high demand among financial advisors looking to improve clients'risk-adjusted returns and protect portfolios from interest rate risk, according to a new Cerulli Associates report. In fact, non-traditional...",
             "date": "2015-05-01",
             "categories": "interest-rate-risk,fixed-income",
-            "tags": "associates,risk,high,financial,fixed,fixed_income,income",
+            "tags": "rate,risk,returns,high,fixed,fixed_income,income",
             "recuweb_url": "http://en.recuweb.com/fixed-income/wealthmanagement.com/2015/05/alternative-fixed-income-products-in-high-demand-among-advisors",
             "resource_url": "http://www.bing.com/news/search?first=1&q=fixed%2Bincome&format=RSS&cc=us",
             "source_url": "http://wealthmanagement.com/blog/alternative-fixed-income-products-high-demand-among-advisors"
@@ -45,7 +74,7 @@
             "snippet": "Recently, he has been shifting the 2.8 billion fund more toward stocks, currently 46% of the fund, while paring back the fixed-income holdings to 11%. The rest of the portfolio is in master limited partnerships, real estate investment trusts, and...",
             "date": "2015-05-01",
             "categories": "real-estate",
-            "tags": "investment,holdings,fund,billion,stocks,manager,income,growth,fixed,portfolio",
+            "tags": "investment,holdings,fund,stocks,manager,income,growth,fixed,portfolio",
             "recuweb_url": "http://en.recuweb.com/real-estate/online.barrons.com/2015/05/at-westwood-income-opportunity-a-manager-goes-for-growth",
             "resource_url": "http://www.bing.com/news/search?first=1&q=fixed%2Bincome&format=RSS&cc=us",
             "source_url": "http://online.barrons.com/articles/at-westwood-income-opportunity-a-manager-goes-for-growth-1430531998"
@@ -54,58 +83,29 @@
             "title": "Fidelity appoints Sajiv Vaid as fixed income fund manager - Funds Europe Magazine...",
             "snippet": "Funds Europe MagazineFidelity appoints Sajiv Vaid as fixed income fund managerFunds Europe MagazineFidelity Worldwide Investment is expanding its fixed income investment team with the appointment of Sajiv Vaid. Vaid will join Fidelity in August from...",
             "date": "2015-05-01",
-            "tags": "investment,fund,manager,fixed,income",
+            "tags": "investment,fund,fund-manager,manager,fixed,income",
             "recuweb_url": "http://en.recuweb.com/funds-europe.com/2015/05/fidelity-appoints-sajiv-vaid-as-fixed-income-fund-manager-funds-europe",
             "resource_url": "http://news.google.com/?hl=en&q=fixed%2Bincome&output=atom&nord=1",
             "source_url": "http://funds-europe.com/home/news/15624-fidelity-appoints-sajiv-vaid-as-fixed-income-fund-manager"
-        },
-        "seekingalpha.com/2015/05/high-yield-leads-fixed-income-in-2015-seeking-alpha": {
-            "title": "High-yield leads fixed income in 2015 - Seeking Alpha...",
-            "snippet": "High-yield leads fixed income in 2015Seeking AlphaJunk bonds have returned a total of 3.8% year-to-date, according to BAML vs. 1.7% for investment-grade and 1.3% for Treasurys. In April, high-yield had a total return of 1.2%, while both...",
-            "date": "2015-05-01",
-            "tags": "investment,bonds,high,fixed,income",
-            "recuweb_url": "http://en.recuweb.com/seekingalpha.com/2015/05/high-yield-leads-fixed-income-in-2015-seeking-alpha",
-            "resource_url": "http://news.google.com/?hl=en&q=fixed%2Bincome&output=atom&nord=1",
-            "source_url": "http://seekingalpha.com/news/2479016-high-yield-leads-fixed-income-in-2015"
         },
         "wealthmanagement.com/2015/05/liquidity-gap-in-u-s-corporate-debt-market-driving-growth-of": {
             "title": "Liquidity Gap In U.S. Corporate Debt Market Driving Growth Of Electronic Fixed... -...",
             "snippet": "Liquidity Gap In U.S. Corporate Debt Market Driving Growth Of Electronic Fixed... managers are so alarmed about the size of their fixed income holdings and the ability to lay off risk in times of market stress that they are exploring any and all...",
             "date": "2015-05-01",
-            "tags": "market,holdings,risk,corporate,debt,growth,fixed,liquidity,income",
+            "tags": "market,holdings,risk,debt,growth,fixed,income",
             "recuweb_url": "http://en.recuweb.com/wealthmanagement.com/2015/05/liquidity-gap-in-u-s-corporate-debt-market-driving-growth-of",
             "resource_url": "http://news.google.com/?hl=en&q=fixed%2Bincome&output=atom&nord=1",
             "source_url": "http://wealthmanagement.com/fixed-income/liquidity-gap-us-corporate-debt-market-driving-growth-electronic-fixed-income-platforms"
         },
-        "business.financialpost.com/2015/05/should-we-be-worried-this-300-billion-man-is-dumping-stocks": {
-            "title": "Should we be worried? This 300-billion man is dumping stocks and buying bonds...",
-            "snippet": "TD Asset Management Inc. says the bull market in stocks is nearing an end and is moving into the safety of fixed income to avoid mounting economic and political risks. Morgan Stanley is calling for continued strength in U.S. stocks despite risks...",
-            "date": "2015-05-01",
-            "categories": "asset-management,management",
-            "tags": "stocks,market,management,billion,bonds,fixed,income",
-            "recuweb_url": "http://en.recuweb.com/management/business.financialpost.com/2015/05/should-we-be-worried-this-300-billion-man-is-dumping-stocks",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=fixed%2Bincome&format=RSS&cc=us",
-            "source_url": "http://business.financialpost.com/investing/should-we-be-worried-tds-300-billion-man-is-dumping-stocks-and-buying-bonds"
-        },
-        "businessinsider.com/2015/05/the-calm-on-global-financial-markets-masks-a-growing-threat-business": {
-            "title": "The calm on global financial markets masks a growing threat - Business Insider...",
-            "snippet": "Business InsiderThe calm on global financial markets masks a growing threatBusiness Insider\"Shrinking dealer balance sheets coupled with bond market growth have led to a significant worsening of fixed income liquidity, especially in corporate...",
-            "date": "2015-05-01",
-            "categories": "balance-sheet,business,markets",
-            "tags": "corporate,markets,growth,business,global,financial,fixed,income,liquidity",
-            "recuweb_url": "http://en.recuweb.com/markets/businessinsider.com/2015/05/the-calm-on-global-financial-markets-masks-a-growing-threat-business",
-            "resource_url": "http://news.google.com/?hl=en&q=fixed%2Bincome%2Bfixed%2Bincome&output=atom&nord=1",
-            "source_url": "http://businessinsider.com/r-shrinking-liquidity-exposes-markets-to-crunch--2015-5"
-        },
-        "blogs.wsj.com/2015/04/committed-cuny-in-talks-on-new-private-equity-allocation": {
-            "title": "Committed: CUNY in Talks on New Private Equity Allocation...",
-            "snippet": "A draft version of a new investment policy for CUNY calls for a new 10% target to private equity. A cut to fixed incomes target allocation is among changes that have been recommended. Cambridge Associates LLC, a consultant to the endowment...",
+        "seekingalpha.com/2015/04/morgan-stanley-s-ms-semi-annual-fixed-income-investor-conference-call": {
+            "title": "Morgan Stanley's (MS) Semi-Annual Fixed Income Investor Conference Call... - Seeking Alpha...",
+            "snippet": "Morgan Stanley's (MS) Semi-Annual Fixed Income Investor Conference Call...Seeking AlphaGood morning. This is Kathleen McCabe, Head of Investor Relations at Morgan Stanley. Welcome to our fixed income investor conference call. Today's presentation...",
             "date": "2015-04-30",
-            "categories": "policy",
-            "tags": "associates,investment,fixed",
-            "recuweb_url": "http://en.recuweb.com/policy/blogs.wsj.com/2015/04/committed-cuny-in-talks-on-new-private-equity-allocation",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=fixed%2Bincome&format=RSS&cc=us",
-            "source_url": "http://blogs.wsj.com/privateequity/2015/05/01/committed-cuny-in-talks-on-new-private-equity-allocation/"
+            "categories": "fixed-income",
+            "tags": "conference,fixed,fixed_income,income,head",
+            "recuweb_url": "http://en.recuweb.com/fixed-income/seekingalpha.com/2015/04/morgan-stanley-s-ms-semi-annual-fixed-income-investor-conference-call",
+            "resource_url": "http://news.google.com/?hl=en&q=fixed%2Bincome&output=atom&nord=1",
+            "source_url": "http://seekingalpha.com/article/3121786-morgan-stanleys-ms-semi-annual-fixed-income-investor-conference-call-transcript"
         }
     }
 }
