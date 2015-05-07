@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "genealogy",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/genealogy/",
@@ -11,6 +11,18 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/genealogy/genealogy/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/genealogy-armenia-6-artists-5-continents": {
+            "title": "Genealogy (Armenia): 6 artists, 5 continents...",
+            "snippet": "Genealogy (Armenia): 6 artists, 5 continents Powered by: Genealogy consists of six singers who were internally selected by the Public Television of Armenia to sing Face The Shadow in Vienna, a powerful anthem... From: Eurovision Song Contest Views:...",
+            "date": "2015-04-30",
+            "author_name": "Eurovision Song Contest",
+            "categories": "television,genealogy,continents",
+            "tags": "genealogy",
+            "recuweb_url": "http://en.recuweb.com/continents/youtube.com/2015/04/genealogy-armenia-6-artists-5-continents",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=genealogy&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=xj-pqYFkO_M&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/xj-pqYFkO_M/0.jpg"
+        },
         "dailymotion.com/2015/04/how-to-do-everything-genealogy-fourth-edition-by-george-g-morgan": {
             "title": "How to Do Everything Genealogy, Fourth Edition by George G. Morgan Downlaod ePub...",
             "snippet": "Here: Thanks for watching we hope you enjoy this short video: haroldplamencoTags: Posted: 29 April 2015Rating:: 0...",
@@ -47,18 +59,6 @@
             "source_url": "http://dailymotion.com/video/x2n2nxr_native-american-genealogy-overview_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2n2nxr_native-american-genealogy-overview_lifestyle"
         },
-        "youtube.com/2015/04/genealogy-armenia-eurovision-gave-an-opportunity-to-fulfill-a-cultural-bridge": {
-            "title": "Genealogy (Armenia): Eurovision gave an opportunity to fulfill a cultural bridge.",
-            "snippet": "Genealogy (Armenia): Eurovision gave an opportunity to fulfill a cultural bridge. Genealogy consists of six singers who were internally selected by the Public Television of Armenia to sing Face The Shadow in Vienna, a powerful anthem about peace,...",
-            "date": "2015-04-16",
-            "author_name": "Eurovision Song Contest",
-            "categories": "television,genealogy",
-            "tags": "cultural,genealogy",
-            "recuweb_url": "http://en.recuweb.com/genealogy/youtube.com/2015/04/genealogy-armenia-eurovision-gave-an-opportunity-to-fulfill-a-cultural-bridge",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=genealogy%2Bgenealogy&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=rMLUuCh4H4Q&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/rMLUuCh4H4Q/0.jpg"
-        },
         "dailymotion.com/2015/04/how-long-has-genealogy-been-around-defined": {
             "title": "How long has genealogy been around?: Genealogy Defined...",
             "snippet": "How long has genealogy been around?: Genealogy DefinedAuthor: twopointfourTags: kinship and descent cultural studies cultural anthropology Posted: 15 April 2015Rating:: 0...",
@@ -67,7 +67,7 @@
             "categories": "cultural-anthropology,anthropology,genealogy",
             "tags": "kinship,kinship-and-descent,descent,descent-cultural,descent-cultural-studies,cultural,cultural-studies,cultural-studies-cultural,studies,studies-cultural,studies-cultural-anthropology,cultural-anthropology,anthropology,genealogy,genealogy_definedauthor,definedauthor,genealogy_defined,defined",
             "recuweb_url": "http://en.recuweb.com/genealogy/dailymotion.com/2015/04/how-long-has-genealogy-been-around-defined",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/genealogy+genealogy/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/genealogy/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mg36o_how-long-has-genealogy-been-around-genealogy-defined_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2mg36o_how-long-has-genealogy-been-around-genealogy-defined_lifestyle"
         },
@@ -103,7 +103,7 @@
             "categories": "cultural-anthropology,anthropology,genealogy,science",
             "tags": "kinship,kinship-and-descent,descent,descent-cultural,descent-cultural-studies,cultural,cultural-studies,cultural-studies-cultural,studies,studies-cultural,studies-cultural-anthropology,cultural-anthropology,anthropology,genealogy,genealogy_definedauthor,definedauthor,genealogy_defined,defined,tohealthtags",
             "recuweb_url": "http://en.recuweb.com/science/dailymotion.com/2015/04/is-genealogy-a-science-defined",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/genealogy+genealogy/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/genealogy/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mb5xm_is-genealogy-a-science-genealogy-defined_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2mb5xm_is-genealogy-a-science-genealogy-defined_lifestyle"
         },
@@ -127,7 +127,7 @@
             "categories": "genealogy",
             "tags": "dna,dna-kinship,kinship,kinship-and-descent,descent,descent-genetic,descent-genetic-genealogy,genetics,genetic-genealogy-genetics,genealogy,genealogy-genetics,defined,definedauthor,tohealthtags",
             "recuweb_url": "http://en.recuweb.com/genealogy/dailymotion.com/2015/04/is-there-a-governing-body-of-genetic-genealogy-defined",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/genealogy+genealogy/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/genealogy/0?af=1",
             "source_url": "http://dailymotion.com/video/x2maxzf_is-there-a-governing-body-of-genetic-genealogy-genetic-genealogy-defined_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2maxzf_is-there-a-governing-body-of-genetic-genealogy-genetic-genealogy-defined_lifestyle"
         }
