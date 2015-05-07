@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "awstats",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/awstats/",
@@ -25,7 +25,7 @@
             "title": "How to Block Entire Countries from Accessing Your Website...",
             "snippet": "Here is a screenshot of Awstats telling me that China is responsible for the second-largest volume of traffic to a certain web forum I manage. This is just for January 2015. While it is certainly possible that Chinese people may find the content of...",
             "date": "2015-04-22",
-            "tags": "find,possible,traffic,website,awstats,web,people",
+            "tags": "find,possible,web,website,awstats,traffic,people",
             "recuweb_url": "http://en.recuweb.com/sitepoint.com/2015/04/how-to-block-entire-countries-from-accessing-your-website",
             "resource_url": "http://www.bing.com/news/search?first=1&q=awstats&format=RSS&cc=us",
             "source_url": "http://sitepoint.com/how-to-block-entire-countries-from-accessing-website/"
@@ -38,15 +38,6 @@
             "recuweb_url": "http://en.recuweb.com/bignewsnetwork.com/2015/04/awstats-rawlog-plugin-logfile-parameter-input-validation-vulnerability",
             "resource_url": "http://www.bing.com/news/search?first=1&q=awstats&format=RSS&cc=us",
             "source_url": "http://bignewsnetwork.com/index.php/sid/232176583"
-        },
-        "net-security.org/2015/04/debian-security-advisory-awstats-dsa-1058-1": {
-            "title": "Debian Security Advisory - awstats (DSA 1058-1)...",
-            "snippet": "Debian GNU/Linux 3.1 alias sarge - ----- Source archives: Size/MD5 checksum: 591 bc33a94cbf5cb3fe89922f312434d0d6...",
-            "date": "2015-04-16",
-            "tags": "awstats,linux,source",
-            "recuweb_url": "http://en.recuweb.com/net-security.org/2015/04/debian-security-advisory-awstats-dsa-1058-1",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=awstats%2Bawstats&format=RSS&cc=us",
-            "source_url": "http://net-security.org/advisory.php?id=6271"
         },
         "fayerwayer.com/2014/06/awstats-la-alternativa-libre-a-google-analytics-fayerwayer": {
             "title": "Awstats, la alternativa libre a Google Analytics - FayerWayer...",
@@ -63,7 +54,7 @@
             "snippet": "Understanding your website's traffic: AWStats vs Google Analytics Visitor NumbersPC Tech Magazine (blog)The main difference between Google Analytics, AWStats and Webalizer is that Google Analytics gathers visitor information via some JavaScript code...",
             "date": "2013-03-23",
             "categories": "google,javascript",
-            "tags": "information,via,google,google_analytics,analytics,traffic,website,awstats",
+            "tags": "information,via,google,google_analytics,analytics,website,traffic,awstats",
             "recuweb_url": "http://en.recuweb.com/javascript/blogs.pctechmag.com/2013/03/understanding-your-website-s-traffic-awstats-vs-google-analytics-visitor-numbers",
             "resource_url": "http://news.google.com/?hl=en&q=awstats&output=atom&nord=1",
             "source_url": "http://blogs.pctechmag.com/2013/03/understanding-your-websites-traffic-awstats-vs-webalizer-vs-google-analytics-visitor-numbers/"
@@ -82,7 +73,7 @@
             "title": "How To Install, Secure, And Automate AWStats (CentOS/RHEL) - Linux Today...",
             "snippet": "How To Install, Secure, And Automate AWStats (CentOS/RHEL)Linux Today\"AWStats is a free and very powerful tool that generates advanced web, streaming, ftp or mail server statistics, graphically. It can analyze log files from all major server tools...",
             "date": "2011-07-25",
-            "tags": "server,tools,analyze,analyze-log,analyze-log-files,log,log-files,files,ftp,mail,statistics,linux,awstats,advanced,install,centos,web",
+            "tags": "server,tools,analyze,analyze-log,analyze-log-files,log,log-files,files,ftp,mail,statistics,awstats,advanced,web,streaming",
             "recuweb_url": "http://en.recuweb.com/linuxtoday.com/2011/07/how-to-install-secure-and-automate-awstats-centos-rhel-linux-today",
             "resource_url": "http://news.google.com/?hl=en&q=awstats&output=atom&nord=1",
             "source_url": "http://linuxtoday.com/it_management/2011072700839OSHLRH"
@@ -91,7 +82,7 @@
             "title": "Get website metrics with AWStats...",
             "snippet": "Vincent Danen shows you how to set up the AWStats log file analysis program on FTP and mail servers and use the information to gain valuable insight on visitors to your website. Log file analysis is interesting. Seriously, who doesn't want to know...",
             "date": "2010-08-23",
-            "tags": "want,file,file-analysis,analysis,mail,servers,information,website,log,awstats,ftp",
+            "tags": "file,file-analysis,analysis,mail,servers,information,website,log,program,awstats,ftp",
             "recuweb_url": "http://en.recuweb.com/techrepublic.com/2010/08/get-website-metrics-with-awstats",
             "resource_url": "http://www.bing.com/news/search?first=1&q=awstats&format=RSS&cc=us",
             "source_url": "http://techrepublic.com/blog/linux-and-open-source/get-website-metrics-with-awstats/"
@@ -101,10 +92,19 @@
             "snippet": "There are many different log analysis apps. I like AWStats. It's a free, open-source app that analyzes measurements that are useful for e-commerce sites. It works with logs generated by Apache and Microsoft IIS, the two most popular Web servers.",
             "date": "2007-10-14",
             "categories": "commerce",
-            "tags": "source,log,analysis,awstats,apache,web,servers",
+            "tags": "source,log,analysis,awstats,open,apache,web,servers",
             "recuweb_url": "http://en.recuweb.com/commerce/pcworld.com/2007/10/measure-your-e-commerce-site-s-performance",
             "resource_url": "http://www.bing.com/news/search?first=1&q=awstats&format=RSS&cc=us",
             "source_url": "http://pcworld.com/article/138363/article.html"
+        },
+        "streamingmedia.com/2007/05/analyzing-streaming-media-server-log-files": {
+            "title": "Analyzing Streaming Media Server Log Files...",
+            "snippet": "Given the number of streaming media providers out there... and we'll look at two that are at opposite ends of the spectrum: AWStats and Sawmill. AWStats is an open source log-processing solution that can be configured to analyze streaming stats.",
+            "date": "2007-05-23",
+            "tags": "analyze,streaming,open,source,log,server,files,awstats,stats",
+            "recuweb_url": "http://en.recuweb.com/streamingmedia.com/2007/05/analyzing-streaming-media-server-log-files",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=awstats&format=RSS&cc=us",
+            "source_url": "http://streamingmedia.com/Articles/Editorial/Featured-Articles/Analyzing-Streaming-Media-Server-Log-Files-64944.aspx"
         }
     }
 }
