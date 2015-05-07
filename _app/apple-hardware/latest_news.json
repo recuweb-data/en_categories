@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "apple-hardware",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/apple-hardware/",
@@ -11,22 +11,12 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/apple-hardware/apple-hardware/blogs.json"
     },
     "items": {
-        "news.investors.com/2015/05/9-chip-stocks-riding-on-apple-watch-investor-s-business-daily": {
-            "title": "9 chip stocks riding on Apple Watch - Investor's Business Daily...",
-            "snippet": "Investor's Business Daily9 chip stocks riding on Apple WatchInvestor's Business Daily\"It is fairly typical for a first-generation product rollout to have a higher retail price vs. hardware cost,\" IHS analyst Kevin Keller said in a statement. \"While...",
-            "date": "2015-05-01",
-            "categories": "business",
-            "tags": "said,rollout,retail,retail-price,price,business,apple,hardware,cost,ihs",
-            "recuweb_url": "http://en.recuweb.com/business/news.investors.com/2015/05/9-chip-stocks-riding-on-apple-watch-investor-s-business-daily",
-            "resource_url": "http://news.google.com/?hl=en&q=apple%2Bhardware&output=atom&nord=1",
-            "source_url": "http://news.investors.com/technology-click/050115-750613-brcm-nxpi-sndk-stm-idti-adi-mu-chips-found-in-apple-watch.htm"
-        },
         "pymnts.com/2015/05/apple-and-ibm-want-to-hand-ipads-millions-of-japanese-seniors": {
             "title": "Apple And IBM Want To Hand iPads To Millions Of Japanese Seniors...",
             "snippet": "The two companies announced a deal with Japan Post Group, Japans largest health and life insurance company, to provide Apple hardware and IBM software to serve the needs of Japans elderly which already represent almost a quarter of the population...",
             "date": "2015-05-01",
             "categories": "health,life,insurance,ipad",
-            "tags": "population,needs,provide,announced,ipads,apple,apple_and_ibm,ibm,hardware,software",
+            "tags": "population,needs,provide,company,announced,ipads,apple,apple_and_ibm,ibm,hardware,software",
             "recuweb_url": "http://en.recuweb.com/ipad/pymnts.com/2015/05/apple-and-ibm-want-to-hand-ipads-millions-of-japanese-seniors",
             "resource_url": "http://www.bing.com/news/search?first=1&q=apple%2Bhardware&format=RSS&cc=us",
             "source_url": "http://pymnts.com/news/2015/apple-and-ibm-want-to-hand-ipads-to-millions-of-japanese-seniors/"
@@ -46,7 +36,7 @@
             "snippet": "Besides, the software and services tend to lock customers into Apple hardware thats how things worked for IBM for decades, in the heyday of the mainframe business. IBM is engaged in a footrace. It is trying to accelerate a strategic transition to...",
             "date": "2015-05-01",
             "categories": "business",
-            "tags": "business,things,market,apple,ibm,japan,software,hardware",
+            "tags": "business,things,apple,ibm,japan,software,hardware",
             "recuweb_url": "http://en.recuweb.com/business/bits.blogs.nytimes.com/2015/05/apple-ibm-and-japan-post-see-profit-in-the-old-age",
             "resource_url": "http://www.bing.com/news/search?first=1&q=apple%2Bhardware&format=RSS&cc=us",
             "source_url": "http://bits.blogs.nytimes.com/2015/04/30/apple-ibm-and-japan-post-see-profit-in-the-old-age-market/"
@@ -61,23 +51,24 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=apple%2Bhardware&format=RSS&cc=us",
             "source_url": "http://techcrunch.com/2015/04/30/apple-ibm-japan-post/"
         },
-        "reuters.com/2015/04/apple-watch-has-lowest-hardware-cost-to-price-ihs-reuters": {
-            "title": "Apple Watch has lowest hardware cost to price: IHS - Reuters...",
-            "snippet": "ReutersApple Watch has lowest hardware cost to price: IHSReuters(Reuters) - Apple Inc's Watch has the lowest ratio of hardware costs to retail price across any Apple phone, according to a preliminary estimate by research firm IHS after a teardown...",
+        "yahoo.com/2015/04/apple-watch-has-lowest-hardware-cost-to-price-ihs-yahoo-news": {
+            "title": "Apple Watch has lowest hardware cost to price: IHS - Yahoo News UK...",
+            "snippet": "Yahoo News UKApple Watch has lowest hardware cost to price: IHSYahoo News UK(Reuters) - Apple Inc's Watch has the lowest ratio of hardware costs to retail price across any Apple product, according to a preliminary estimate by research firm IHS after...",
             "date": "2015-04-30",
-            "tags": "cost,retail,retail-price,price,apple,hardware,ihs,inc,phone",
-            "recuweb_url": "http://en.recuweb.com/reuters.com/2015/04/apple-watch-has-lowest-hardware-cost-to-price-ihs-reuters",
-            "resource_url": "http://news.google.com/?hl=en&q=apple%2Bhardware%2Bapple%2Bhardware&output=atom&nord=1",
-            "source_url": "http://reuters.com/article/2015/04/30/us-apple-watch-idUSKBN0NL2FO20150430"
+            "categories": "yahoo",
+            "tags": "costs,retail,price,any,lowest,ratio,apple,hardware,ihs,inc",
+            "recuweb_url": "http://en.recuweb.com/yahoo/yahoo.com/2015/04/apple-watch-has-lowest-hardware-cost-to-price-ihs-yahoo-news",
+            "resource_url": "http://news.google.com/?hl=en&q=apple%2Bhardware&output=atom&nord=1",
+            "source_url": "http://yahoo.com/tech/s/apple-watch-lowest-hardware-cost-price-ihs-185648982--finance.html"
         },
         "mobileidworld.com/2015/04/hardware-defect-may-have-delayed-apple-watch-rollout-mobile-id-world": {
             "title": "Hardware Defect May Have Delayed Apple Watch Rollout - Mobile ID World...",
             "snippet": "Business InsiderHardware Defect May Have Delayed Apple Watch RolloutMobile ID WorldHardware Defect May Have Delayed Apple Watch Rollout A hardware defect may be behind the Apple Watch's slow rollout at least to some extent. According to a Bloomberg...",
             "date": "2015-04-30",
             "categories": "business",
-            "tags": "rollout,delayed,apple,business,mobile,hardware",
+            "tags": "delayed,apple,business,mobile,hardware",
             "recuweb_url": "http://en.recuweb.com/business/mobileidworld.com/2015/04/hardware-defect-may-have-delayed-apple-watch-rollout-mobile-id-world",
-            "resource_url": "http://news.google.com/?hl=en&q=apple%2Bhardware%2Bapple%2Bhardware&output=atom&nord=1",
+            "resource_url": "http://news.google.com/?hl=en&q=apple%2Bhardware&output=atom&nord=1",
             "source_url": "http://mobileidworld.com/hardware-defect-may-have-delayed-apple-watch-rollout-4304/"
         },
         "makeuseof.com/2015/04/macbook-air-overheating-5-things": {
@@ -90,24 +81,35 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=apple%2Bhardware&format=RSS&cc=us",
             "source_url": "http://makeuseof.com/tag/macbook-air-overheating-5-things-can/"
         },
+        "businesswire.com/2015/04/new-apple-watch-has-lowest-ratio-of-hardware-costs-to-retail": {
+            "title": "New Apple Watch Has Lowest Ratio of Hardware Costs to Retail Price, IHS... - Business Wire (press...",
+            "snippet": "Business Wire (press release)New Apple Watch Has Lowest Ratio of Hardware Costs to Retail Price, IHS...Business Wire (press release)The much-anticipated new Apple Watch has the lowest hardware costs compared to retail price of any Apple phone IHS...",
+            "date": "2015-04-30",
+            "categories": "business",
+            "tags": "costs,retail,price,any,lowest,release,business,hardware,ratio,apple,ihs,phone",
+            "recuweb_url": "http://en.recuweb.com/business/businesswire.com/2015/04/new-apple-watch-has-lowest-ratio-of-hardware-costs-to-retail",
+            "resource_url": "http://news.google.com/?hl=en&q=apple%2Bhardware&output=atom&nord=1",
+            "source_url": "http://businesswire.com/news/home/20150430006412/en/Apple-Watch-Lowest-Ratio-Hardware-Costs-Retail"
+        },
         "appleinsider.com/2015/04/third-party-ipad-software-to-blame-in-delay-of-american-airlines": {
             "title": "Third-party iPad software to blame in delay of American Airlines planes...",
             "snippet": "American Airlines on Wednesday said it identified an issue that delayed some 70 planes on Tuesday after crew iPads crashed, blaming the kerfuffle on mismanaged third-party software, not Apple hardware. That's why it was not system-wide or a fleet...",
             "date": "2015-04-29",
             "categories": "ipad",
-            "tags": "system,said,delayed,ipads,software,tuesday,apple,hardware",
+            "tags": "system,delayed,american,american_airlines,airlines,ipads,software,tuesday,apple,hardware",
             "recuweb_url": "http://en.recuweb.com/ipad/appleinsider.com/2015/04/third-party-ipad-software-to-blame-in-delay-of-american-airlines",
             "resource_url": "http://www.bing.com/news/search?first=1&q=apple%2Bhardware&format=RSS&cc=us",
             "source_url": "http://appleinsider.com/articles/15/04/29/software-to-blame-in-ipad-glitch-that-grounded-american-airlines-planes"
         },
-        "seekingalpha.com/2015/04/tim-cook-s-touch-reduces-china-risk-for-apple": {
-            "title": "Tim Cook's Touch Reduces China Risk For Apple...",
-            "snippet": "In contrast, Mac sales worldwide grew 16%. So these results have shown that the full suite of Apple hardware, software and retail is expanding rapidly in China. Figures from Kantar for the three months up to end-February had shown iOS market share...",
+        "theinquirer.net/2015/04/ipad-software-glitch-grounds-several-dozen-american-airlines-flights": {
+            "title": "iPad software glitch grounds 'several dozen'American Airlines flights...",
+            "snippet": "For some, they've returned to the gate for WiFi to fix. Our pilot manuals are on these devices, the company added, highlighting its reliance on the Apple hardware. One passenger aboard American Airlines flight 1654 from Dallas to Austin told...",
             "date": "2015-04-29",
-            "tags": "market,retail,sales,touch,apple,mac,hardware,software,ios",
-            "recuweb_url": "http://en.recuweb.com/seekingalpha.com/2015/04/tim-cook-s-touch-reduces-china-risk-for-apple",
+            "categories": "ipad",
+            "tags": "company,pilot,devices,american,american_airlines,airlines,ipad,software,apple,hardware",
+            "recuweb_url": "http://en.recuweb.com/ipad/theinquirer.net/2015/04/ipad-software-glitch-grounds-several-dozen-american-airlines-flights",
             "resource_url": "http://www.bing.com/news/search?first=1&q=apple%2Bhardware&format=RSS&cc=us",
-            "source_url": "http://seekingalpha.com/article/3115726-tim-cooks-touch-reduces-china-risk-for-apple"
+            "source_url": "http://theinquirer.net/inquirer/news/2406325/ipad-software-glitch-grounds-several-dozen-american-airlines-flights"
         }
     }
 }
