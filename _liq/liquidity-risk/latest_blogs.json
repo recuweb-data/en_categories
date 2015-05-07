@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "liquidity-risk",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/liquidity-risk/",
@@ -11,16 +11,15 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/liquidity-risk/liquidity-risk/blogs.json"
     },
     "items": {
-        "wolfstreet.com/2015/03/central-banks-warn-liquidity-may-evaporate-when-investors": {
-            "title": "Central Banks Warn: Liquidity May Evaporate When Investors...",
-            "snippet": "And yesterday, the Bank of England Financial Policy Committee released the statement of its March 24 meeting that was jam-packed with warnings about market liquidity risks and potential sharp adjustments in financial...",
-            "date": "2015-03-27",
-            "author_name": "Wolf Richter",
-            "categories": "policy",
-            "tags": "meeting,financial,liquidity,investors,banks,bank,market,risks,potential",
-            "recuweb_url": "http://en.recuweb.com/policy/wolfstreet.com/2015/03/central-banks-warn-liquidity-may-evaporate-when-investors",
-            "resource_url": "http://www.google.com/search?q=liquidity%2Brisk%2Bliquidity%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://wolfstreet.com/2015/03/27/bond-market-liquidity-risk-central-bank-warnings/"
+        "fool.com.au/2015/04/this-is-how-you-beat-the-lowest-ever-yields-in-human": {
+            "title": "This is how you beat the lowest ever yields in human history Motley...",
+            "snippet": "He has investments in many sectors, many companies. Diversification greatly lowers individual company risk. 2) Liquidity. Should he suddenly need the money (highly unlikely, given his cash balances), he can sell the shares...",
+            "date": "2015-04-29",
+            "author_name": "Bruce Jackson",
+            "tags": "sell,shares,money,company,risk,liquidity,ely,cash",
+            "recuweb_url": "http://en.recuweb.com/fool.com.au/2015/04/this-is-how-you-beat-the-lowest-ever-yields-in-human",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bliquidity%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://fool.com.au/2015/04/29/this-is-how-you-beat-the-lowest-ever-yields-in-human-history/"
         },
         "seekingalpha.com/2015/03/looksmart-clickable-is-gaining-traction-but-overshadowed": {
             "title": "LookSmart: Clickable Is Gaining Traction But Overshadowed By...",
@@ -28,9 +27,9 @@
             "date": "2015-03-26",
             "author_name": "SeekingAlpha.com",
             "categories": "capital-management,management",
-            "tags": "long,back,point,capital,management,funds,risks,liquidity",
+            "tags": "long,capital,management,funds,risks,liquidity",
             "recuweb_url": "http://en.recuweb.com/management/seekingalpha.com/2015/03/looksmart-clickable-is-gaining-traction-but-overshadowed",
-            "resource_url": "http://www.google.com/search?q=liquidity%2Brisk%2Bliquidity%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=liquidity%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://seekingalpha.com/article/3029096-looksmart-clickable-is-gaining-traction-but-overshadowed-by-near-term-liquidity-risk"
         },
         "zerohedge.com/2015/03/profound-shift-in-liquidity-risk-may-imperil-market-function-new": {
@@ -39,9 +38,9 @@
             "date": "2015-03-25",
             "author_name": "Tyler Durden",
             "categories": "markets,liquidity-risk",
-            "tags": "bond,bond-markets,markets,market,lack,liquidity,risk",
+            "tags": "bond,bond-markets,markets,market,lack,liquidity,risk,treasury",
             "recuweb_url": "http://en.recuweb.com/liquidity-risk/zerohedge.com/2015/03/profound-shift-in-liquidity-risk-may-imperil-market-function-new",
-            "resource_url": "http://www.google.com/search?q=liquidity%2Brisk%2Bliquidity%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=liquidity%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://zerohedge.com/news/2015-03-24/profound-shift-liquidity-risk-may-imperil-market-function-new-report-says"
         },
         "businessinsider.com/2015/02/fed-on-liquidity-risks-business-insider": {
@@ -50,9 +49,9 @@
             "date": "2015-02-18",
             "author_name": "Myles Udland",
             "categories": "business",
-            "tags": "increasing,role,bond,funds,reserve,fed,liquidity,risks,meeting,financial",
+            "tags": "increasing,role,bond,funds,financial,liquidity,risks",
             "recuweb_url": "http://en.recuweb.com/business/businessinsider.com/2015/02/fed-on-liquidity-risks-business-insider",
-            "resource_url": "http://www.google.com/search?q=liquidity%2Brisk%2Bliquidity%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=liquidity%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://businessinsider.com/fed-on-liquidity-risks-2015-2"
         },
         "visualrisk.com/2015/01/liquidity-risk-management-practices-visual": {
@@ -60,20 +59,30 @@
             "snippet": "With financial institutions under increased scrutiny from regulators to shore up their capital bases and funding channels, liquidity risk management is receiving increased attention from regional financial institutions. Visual Risk...",
             "date": "2015-01-23",
             "author_name": "admin",
-            "categories": "liquidity-risk,management",
-            "tags": "receiving,institutions,institutions-under,under,risk,liquidity,liquidity_risk,management,financial,capital",
+            "categories": "financial-institutions,liquidity-risk,management",
+            "tags": "financial,receiving,risk,liquidity,liquidity_risk,management,capital",
             "recuweb_url": "http://en.recuweb.com/management/visualrisk.com/2015/01/liquidity-risk-management-practices-visual",
             "resource_url": "http://www.google.com/search?q=liquidity%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://visualrisk.com/liquidity/"
+        },
+        "fool.ca/2015/01/bombardier-inc-shares-crushed-26%-is-this-a-buying-opportunity": {
+            "title": "Bombardier Inc. Shares Crushed 26%; Is This A Buying Opportunity...",
+            "snippet": "But the big concern is that by pausing this program, the company risks running out of money. According to Joseph Nadol of JP Morgan, liquidity is now the key issue for the stock..... localhost 24 queries in seconds.",
+            "date": "2015-01-16",
+            "author_name": "Nelson Smith",
+            "tags": "stock,money,shares,company,risks,liquidity",
+            "recuweb_url": "http://en.recuweb.com/fool.ca/2015/01/bombardier-inc-shares-crushed-26%-is-this-a-buying-opportunity",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bliquidity%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://fool.ca/2015/01/16/bombardier-inc-shares-crushed-26-is-this-a-buying-opportunity/"
         },
         "investopedia.com/2014/12/what-is-liquidity-risk-investopedia": {
             "title": "What is liquidity risk? - Investopedia...",
             "snippet": "Liquidity risk has different meanings in different contexts. In investing terms, bondholders face varying liquidity risks based on the likelihood that they may have to sell a bond below its listed value. This type of liquidity risk can actually...",
             "date": "2014-12-18",
             "author_name": "Investopedia",
-            "tags": "bond,liquidity,risks",
+            "tags": "sell,bond,liquidity,risks",
             "recuweb_url": "http://en.recuweb.com/investopedia.com/2014/12/what-is-liquidity-risk-investopedia",
-            "resource_url": "http://www.google.com/search?q=liquidity%2Brisk%2Bliquidity%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=liquidity%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://investopedia.com/ask/answers/121814/what-liquidity-risk.asp"
         },
         "followpioneer.com/2014/12/could-bank-regulations-bring-unintended-consequences-for-investors": {
@@ -82,9 +91,9 @@
             "date": "2014-12-11",
             "author_name": "Mike Temple",
             "categories": "markets,banking",
-            "tags": "bond,bond-markets,markets,industry,effect,bank,investors,risk,banking,liquidity",
+            "tags": "bond,bond-markets,markets,industry,effect,bank,bring,investors,risk,banking,liquidity",
             "recuweb_url": "http://en.recuweb.com/banking/followpioneer.com/2014/12/could-bank-regulations-bring-unintended-consequences-for-investors",
-            "resource_url": "http://en.search.wordpress.com/?q=liquidity%2Brisk%2Bliquidity%2Brisk&f=feed&page=1",
+            "resource_url": "http://en.search.wordpress.com/?q=liquidity%2Brisk&f=feed&page=1",
             "source_url": "http://followpioneer.com/2014/12/11/could-bank-regulations-bring-unintended-consequences-for-investors/"
         },
         "bis.org/2014/12/liquidity-risk-and-the-credit-crunch-of-2007-2008-evidence": {
@@ -93,31 +102,21 @@
             "date": "2014-12-10",
             "author_name": "unknown",
             "categories": "credit,liquidity-risk,evidence",
-            "tags": "effect,credit,banks,crisis,liquidity,liquidity_risk,risk,recent,financial",
+            "tags": "effect,credit,financial,liquidity,liquidity_risk,risk",
             "recuweb_url": "http://en.recuweb.com/evidence/bis.org/2014/12/liquidity-risk-and-the-credit-crunch-of-2007-2008-evidence",
             "resource_url": "http://www.google.com/search?q=liquidity%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bis.org/publ/work473.htm"
         },
-        "bankrate.com/2014/12/is-there-liquidity-risk-in-your-funds-bankrate-inc": {
-            "title": "Is there liquidity risk in your funds? Bankrate, Inc.",
-            "snippet": "Market makers have edged back from their traditional role as providers of liquidity in the bond market. Recent reports indicate that this could be bad.",
-            "date": "2014-12-04",
-            "author_name": "Sheyna Steiner",
-            "tags": "reports,bond,role,back,funds,liquidity,risk,market,recent",
-            "recuweb_url": "http://en.recuweb.com/bankrate.com/2014/12/is-there-liquidity-risk-in-your-funds-bankrate-inc",
-            "resource_url": "http://www.google.com/search?q=liquidity%2Brisk%2Bliquidity%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://bankrate.com/financing/investing/is-there-liquidity-risk-in-your-funds/"
-        },
-        "rbi.org.in/2014/11/lcr-liquidity-risk-monitoring-tools-and-reserve-bank-of": {
-            "title": "(LCR), Liquidity Risk Monitoring Tools and LCR - Reserve Bank of...",
-            "snippet": "dated June 9, 2014 on 'Basel III Framework on Liquidity Standards Liquidity Coverage Ratio (LCR), Liquidity Risk Monitoring Tools and LCR Disclosure Standards', the following assets have...",
-            "date": "2014-11-28",
-            "author_name": "unknown",
-            "categories": "liquidity-risk",
-            "tags": "liquidity,reserve,bank,liquidity_risk,risk",
-            "recuweb_url": "http://en.recuweb.com/liquidity-risk/rbi.org.in/2014/11/lcr-liquidity-risk-monitoring-tools-and-reserve-bank-of",
-            "resource_url": "http://www.google.com/search?q=liquidity%2Brisk%2Bliquidity%2Brisk&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://rbi.org.in/scripts/NotificationUser.aspx?Id=9369&Mode=0"
+        "usajobsopening.wordpress.com/2014/11/rn-cm-pacu-peds-picu-nicu-up-to-6000-mo-bring": {
+            "title": "RN CM PACU PEDS PICU NICU Up to 6000 mo Bring Home...",
+            "snippet": "Stamford, CT - Director Treasury Liquidity Risk Oversight Role Summary/Purpose This role is responsible for risk management oversight specifically related to liquidity risk, including but not limited to...",
+            "date": "2014-11-01",
+            "author_name": "unitedstatesjob",
+            "categories": "liquidity-risk,home,management",
+            "tags": "role,treasury,liquidity,liquidity_risk,risk,bring,management",
+            "recuweb_url": "http://en.recuweb.com/management/usajobsopening.wordpress.com/2014/11/rn-cm-pacu-peds-picu-nicu-up-to-6000-mo-bring",
+            "resource_url": "http://en.search.wordpress.com/?q=en%2Blocalhost%2Bcom%2Bliquidity%2Brisk&f=feed&page=1",
+            "source_url": "http://usajobsopening.wordpress.com/2014/11/01/rn-cm-pacu-peds-picu-nicu-up-to-6000-mo-bring-home-2/"
         }
     }
 }
