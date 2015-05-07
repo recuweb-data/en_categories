@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "medical-robots",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/medical-robots/",
@@ -11,15 +11,27 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/medical-robots/medical-robots/blogs.json"
     },
     "items": {
+        "youtube.com/2015/05/robot-hospital-couriers-at-ucsf-medical-center-cnbc": {
+            "title": "Robot Hospital Couriers At UCSF Medical Center CNBC...",
+            "snippet": "Robot Hospital Couriers At UCSF Medical Center CNBC UCSF Medical Center uses robots as couriers, transporting everything from food and linen to pharmaceuticals throughout the hospital. Subscribe to CNBC: About... From: CNBC Views: 49 1 ratings Time:...",
+            "date": "2015-05-02",
+            "author_name": "CNBC",
+            "categories": "food",
+            "tags": "hospital,medical,medical_center,center,robots",
+            "recuweb_url": "http://en.recuweb.com/food/youtube.com/2015/05/robot-hospital-couriers-at-ucsf-medical-center-cnbc",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=medical%2Brobots&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=An1kTXbmq1k&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/An1kTXbmq1k/0.jpg"
+        },
         "dailymotion.com/2015/04/agv-robots-at-rush-university-medical-center": {
             "title": "AGV Robots at Rush University Medical Center...",
             "snippet": "AGV Robots at Rush University Medical CenterAuthor: MurrayToyTags: AGV Robots at Rush University Medical Center Posted: 07 April 2015Rating:: 0...",
             "date": "2015-04-07",
             "author_name": "MurrayToy",
             "categories": "university",
-            "tags": "university,medical,robots",
+            "tags": "university,medical,medical_center,center,robots",
             "recuweb_url": "http://en.recuweb.com/university/dailymotion.com/2015/04/agv-robots-at-rush-university-medical-center",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/medical+robots+medical+robots/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/en+localhost+com+medical+robots/0?af=1",
             "source_url": "http://dailymotion.com/video/x2m01ox_agv-robots-at-rush-university-medical-center_auto",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2m01ox_agv-robots-at-rush-university-medical-center_auto"
         },
@@ -29,9 +41,9 @@
             "date": "2015-03-16",
             "author_name": "Prime Minister's Office of Japan",
             "categories": "technology,medical-robots,university",
-            "tags": "technology,medical,treatment,patients,medical_robots,robots,university",
+            "tags": "technology,medical,treatment,medical_robots,robots,university",
             "recuweb_url": "http://en.recuweb.com/university/youtube.com/2015/03/deploy-pioneering-medical-robots-in-germany",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=medical%2Brobots%2Bmedical%2Brobots&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=medical%2Brobots&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=jn94x3yApqA&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/jn94x3yApqA/0.jpg"
         },
@@ -43,7 +55,7 @@
             "categories": "medical-robots",
             "tags": "medical,medical_robots,robots",
             "recuweb_url": "http://en.recuweb.com/medical-robots/youtube.com/2014/10/vts-16-1-medical-robots-final-version",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=medical%2Brobots%2Bmedical%2Brobots&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=medical%2Brobots&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=nPgQsMdWg_8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/nPgQsMdWg_8/0.jpg"
         },
@@ -55,7 +67,7 @@
             "categories": "medical-robots",
             "tags": "medical,medical_robots,robots",
             "recuweb_url": "http://en.recuweb.com/medical-robots/dailymotion.com/2014/07/worldwide-forecast-of-medical-robots-industry-to-2018",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/medical+robots+medical+robots/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/en+localhost+com+medical+robots/0?af=1",
             "source_url": "http://dailymotion.com/video/x22dcaf_worldwide-forecast-of-medical-robots-industry-to-2018_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x22dcaf_worldwide-forecast-of-medical-robots-industry-to-2018_news"
         },
@@ -67,7 +79,7 @@
             "categories": "medical-robots",
             "tags": "robots,robots-can-perform,perform,perform-minimally,perform-minimally-invasive,minimally,minimally-invasive,minimally-invasive-surgeries,invasive,invasive-surgeries,surgeries,shows,shows-how-snake,snake,howard,howard_choset,choset,carnegie,carnegie_mellon,mellon,world,world_economic,world_economic_forum,economic,economic_forum,forum,wired,wired_live,live,ideas,discussion,medical,medical_robots,frontier,roboticist",
             "recuweb_url": "http://en.recuweb.com/medical-robots/youtube.com/2014/02/the-new-frontier-of-medical-robots-a-world-economic-forum-discussion",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=medical%2Brobots%2Bmedical%2Brobots&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=medical%2Brobots&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=sZQTcDcUImA&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/sZQTcDcUImA/0.jpg"
         },
@@ -79,32 +91,9 @@
             "categories": "medical-robots,surgery",
             "tags": "wired,carnegie,carnegie_mellon,mellon,robots,robots-can-perform,perform,perform-minimally,perform-minimally-invasive,minimally,minimally-invasive,minimally-invasive-surgeries,invasive,invasive-surgeries,surgeries,shows,shows-how-snake,snake,howard,howard_choset,choset,world,world_economic,world_economic_forum,economic,economic_forum,forum,medical,medical_robots,frontier,wired_live,live,discussion,roboticist,ideas",
             "recuweb_url": "http://en.recuweb.com/surgery/dailymotion.com/2014/02/wired-live-the-new-frontier-of-medical-robots",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/medical+robots+medical+robots/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/en+localhost+com+medical+robots/0?af=1",
             "source_url": "http://dailymotion.com/video/x1cknxq_wired-live-the-new-frontier-of-medical-robots_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1cknxq_wired-live-the-new-frontier-of-medical-robots_tech"
-        },
-        "youtube.com/2014/01/ces-day-1-takanori-shibata-and-medical-robots": {
-            "title": "CES Day 1: Takanori Shibata and Medical Robots...",
-            "snippet": "CES Day 1: Takanori Shibata and Medical Robots Takanori Shibata shows Robothespian and attendees at CES his medical device robot Paro. While it may only look like a stuffed animal, Paro is covered in tactile sensors and is FDA approved... From:...",
-            "date": "2014-01-08",
-            "author_name": "IEEEorg",
-            "categories": "medical-robots",
-            "tags": "medical,device,robots,medical_robots,shows",
-            "recuweb_url": "http://en.recuweb.com/medical-robots/youtube.com/2014/01/ces-day-1-takanori-shibata-and-medical-robots",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=medical%2Brobots%2Bmedical%2Brobots&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=Uief0zpLTf0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Uief0zpLTf0/0.jpg"
-        },
-        "dailymotion.com/2013/11/doctors-beamed-up-by-robots": {
-            "title": "Doctors beamed up by robots...",
-            "snippet": "Thanks to new remote-controlled robots, introduced in hospitals across California and some other US states, doctors are now able to beam themselves into patients rooms and offer medical advice during physician can log into the device by using a...",
-            "date": "2013-11-20",
-            "author_name": "euronews-en",
-            "tags": "patients,medical,device,using,doctors,robots",
-            "recuweb_url": "http://en.recuweb.com/dailymotion.com/2013/11/doctors-beamed-up-by-robots",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/medical+robots/0?af=1",
-            "source_url": "http://dailymotion.com/video/x17f5do_doctors-beamed-up-by-robots_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x17f5do_doctors-beamed-up-by-robots_news"
         },
         "dailymotion.com/2013/11/robots-assist-doctors-at-mercy-san-juan-hospital": {
             "title": "Robots assist doctors at Mercy San Juan Hospital...",
@@ -112,15 +101,15 @@
             "date": "2013-11-20",
             "author_name": "KCRA",
             "categories": "medical-robots,medical-treatments",
-            "tags": "robots,doctors,medical,treatment,using",
+            "tags": "robots,medical,treatment,hospital",
             "recuweb_url": "http://en.recuweb.com/medical-treatments/dailymotion.com/2013/11/robots-assist-doctors-at-mercy-san-juan-hospital",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/medical+robots+medical+robots/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/medical+robots/0?af=1",
             "source_url": "http://dailymotion.com/video/x17fi3e_robots-assist-doctors-at-mercy-san-juan-hospital_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x17fi3e_robots-assist-doctors-at-mercy-san-juan-hospital_news"
         },
         "youtube.com/2013/11/robots-in-the-medical-field": {
             "title": "Robots in the Medical Field...",
-            "snippet": "Robots in the Medical Field My YouTube presentation for my Technology in the Global Arena class. From: Andre Abreu Views: 147 1 ratings Time: 11:40 More in Science & Technology...",
+            "snippet": "Robots in the Medical Field My YouTube presentation for my Technology in the Global Arena class. From: Andre Abreu Views: 151 1 ratings Time: 11:40 More in Science & Technology...",
             "date": "2013-11-07",
             "author_name": "Andre Abreu",
             "categories": "technology,science",
@@ -129,6 +118,18 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=medical%2Brobots&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
             "source_url": "http://youtube.com/watch?v=8DlOPH9IJEk&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/8DlOPH9IJEk/0.jpg"
+        },
+        "youtube.com/2013/10/medical-robots-in-action-ivar-mendez-at-tedxtoronto": {
+            "title": "Medical robots in action: Ivar Mendez at TEDxToronto...",
+            "snippet": "Medical robots in action: Ivar Mendez at TEDxToronto The fifth annual TEDxToronto conference took place on September 26, 2013 at The Royal Conservatory of Music. For our 2013 TEDxToronto Conference, all talks, performances and demos were rooted...",
+            "date": "2013-10-16",
+            "author_name": "TEDx Talks",
+            "categories": "music",
+            "tags": "robots,medical",
+            "recuweb_url": "http://en.recuweb.com/music/youtube.com/2013/10/medical-robots-in-action-ivar-mendez-at-tedxtoronto",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=medical%2Brobots&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=FQU2w-OPz90&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/FQU2w-OPz90/0.jpg"
         }
     }
 }
