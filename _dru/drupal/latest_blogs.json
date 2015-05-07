@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "drupal",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/drupal/",
@@ -17,98 +17,21 @@
             "date": "2015-04-27",
             "author_name": "Jeff Geerling",
             "categories": "life,drupal",
-            "tags": "form,thousands,making,drupal,module,sites",
+            "tags": "thousands,mac,making,drupal,module,sites",
             "recuweb_url": "http://en.recuweb.com/drupal/midwesternmac.com/2015/04/honeypot-for-drupal-8-3-years-in-the-making-midwestern-mac",
-            "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=drupal&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://midwesternmac.com/blogs/jeff-geerling/honeypot-drupal-8-3-years"
         },
-        "robmayzes.wordpress.com/2015/04/amateur-web-development-and-drupal": {
-            "title": "Amateur Web Development and Drupal...",
-            "snippet": "Today Ive been busy working on our MVP (minimum viable product another term for a prototype used in lean development, where the idea is to create a basic version of your product to start testing it with customers ASAP). Although I have a small...",
-            "date": "2015-04-25",
-            "author_name": "Rob Mayzes",
-            "categories": "web-development,drupal",
-            "tags": "small,testing,working,web,development,drupal,create",
-            "recuweb_url": "http://en.recuweb.com/drupal/robmayzes.wordpress.com/2015/04/amateur-web-development-and-drupal",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://robmayzes.wordpress.com/2015/04/25/amateur-web-development-and-drupal/"
-        },
-        "zyxware.com/2015/04/drupal-how-to-create-a-custom-plugin-for-ckeditor-in-6": {
-            "title": "Drupal How to create a custom plugin for CKEditor in Drupal 6?",
-            "snippet": "Tweet Adding extra plugins to the CKEditor is like extending Drupal by installing new modules. Plugins can be used to add more functionalities to the CKEditor. In this article I will be explaining how to create a simple custom plugin and how to...",
-            "date": "2015-04-24",
-            "author_name": "Sreelal MU",
-            "categories": "drupal",
-            "tags": "article,add,modules,tweet,drupal,create",
-            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/drupal-how-to-create-a-custom-plugin-for-ckeditor-in-6",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://zyxware.com/articles/4040/drupal-how-to-create-a-custom-plugin-for-ckeditor-in-drupal-6"
-        },
-        "zyxware.com/2015/04/drupal-how-to-implement-confirmation-form-in-7": {
-            "title": "Drupal How to implement confirmation form in Drupal 7...",
-            "snippet": "Tweet Confirmation form is useful in cases where we do some action that needs confirmation from the user. Drupal provides a function called confirm_form() that provides a confirmation form. The confirm form contains a confirm button for confirming...",
-            "date": "2015-04-24",
-            "author_name": "Sarath Mohan",
-            "categories": "drupal",
-            "tags": "form,called,user,cases,tweet,drupal",
-            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/drupal-how-to-implement-confirmation-form-in-7",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://zyxware.com/articles/4039/drupal-how-to-implement-confirmation-form-in-drupal-7"
-        },
-        "zyxware.com/2015/04/drupal-how-to-remove-view-results-duplicates-programmatically": {
-            "title": "Drupal How to remove view results duplicates programmatically?",
-            "snippet": "Tweet My Drupal 7 view result is displaying a few records multiple times. How can I get rid of these duplicates?. The immediate solution that comes to our mind will be applying GROUP BY or DISTINCT by enabling views aggregation settings and simply...",
-            "date": "2015-04-24",
-            "author_name": "Deepa N",
-            "categories": "mind,drupal",
-            "tags": "solution,comes,applying,few,tweet,drupal",
-            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/drupal-how-to-remove-view-results-duplicates-programmatically",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://zyxware.com/articles/4289/solved-drupal-7-views-how-to-remove-duplicates-programmatically"
-        },
-        "zyxware.com/2015/04/solveddrupal-pdoexception-sqlstatehy000-general-error-1366-incorrect-string-value-xe2x81x842": {
-            "title": "SOLVEDDrupal PDOException: SQLSTATEHY000: General error: 1366 Incorrect string value: 'xE2x81x842...",
-            "snippet": "Tweet In one of the Drupal sites were working on, the members of the site frequently found that the nodes they had created were crashing. They would enter content into the node fields and try to save the node. The node would appear to save with...",
-            "date": "2015-04-18",
-            "author_name": "Binny Thomas",
-            "categories": "drupal",
-            "tags": "try,sites,working,solveddrupal,tweet,drupal,site,content",
-            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/solveddrupal-pdoexception-sqlstatehy000-general-error-1366-incorrect-string-value-xe2x81x842",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://zyxware.com/articles/4803/solved-drupal-pdoexception-sqlstate-hy000-general-error-1366-incorrect-string-value-xe2-x81-x842-t"
-        },
-        "zyxware.com/2015/04/solveddrupal-organic-groups-cannot-see-the-that-user-and-admin-belongs": {
-            "title": "SOLVEDDrupal Organic Groups Cannot see the groups that user and admin belongs...",
-            "snippet": "Tweet A number of Drupal users using the Drupal Organic Gropus module reported that they could not see groups that they belong to and also the groups the administrator belonged to. If you are facing the same issue with Drupal Organic Groups in your...",
-            "date": "2015-04-16",
-            "author_name": "Webmaster",
-            "categories": "drupal",
-            "tags": "number,users,solveddrupal,tweet,drupal,using,module",
-            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/solveddrupal-organic-groups-cannot-see-the-that-user-and-admin-belongs",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://zyxware.com/node/3512"
-        },
-        "zyxware.com/2015/04/drupal-how-to-upload-images-amazon-s3-via-code-in": {
-            "title": "Drupal How to upload images to Amazon S3 via code in Drupal...",
-            "snippet": "Tweet This article is on how to add images to Amazon S3 in a drupal site(D7) via code. For this, download drupal module Amazon S3 (). The purpose of this module is to get the file (the file which define all s3 functions defined in Amazon) After...",
+        "sugithk.wordpress.com/2015/04/setup-a-drupal-website-with-drush-ubuntu": {
+            "title": "Setup a drupal website with Drush - Ubuntu...",
+            "snippet": "sudo apt-get install drush cd/var/www/html/mkdir drupal drush dl cd mv.. mv.gitignore.. mv.htaccess.. cd.. rmdir help - drush help site-install drush site-install --db-url=mysqlroot:rootlocalhost:port/db_name --account-name=admin...",
             "date": "2015-04-14",
-            "author_name": "Chithra K",
-            "categories": "drupal",
-            "tags": "code,article,add,drupal,tweet,site,module",
-            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/drupal-how-to-upload-images-amazon-s3-via-code-in",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://zyxware.com/articles/4802/drupal-upload-images-to-amazon-s3-via-code-in-drupal-7"
-        },
-        "zyxware.com/2015/04/how-to-add-conditional-css-for-internet-explorer": {
-            "title": "How to add conditional css for Internet Explorer?",
-            "snippet": "Tweet Some alignment issues occurring in IE may be a test for your patience. We had once worked in a Drupal 6 site, and the design look well every where, but there is a small alignment problem shown up in IE. Applying a conditional style sheet saved...",
-            "date": "2015-04-10",
-            "author_name": "Meera L",
-            "categories": "internet,css,drupal",
-            "tags": "small,design,look,every,add,tweet,drupal,site,applying",
-            "recuweb_url": "http://en.recuweb.com/drupal/zyxware.com/2015/04/how-to-add-conditional-css-for-internet-explorer",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=en",
-            "source_url": "http://zyxware.com/articles/3653/how-to-add-conditional-css-for-internet-explorer"
+            "author_name": "sugithk",
+            "categories": "drupal,html",
+            "tags": "install,help,drupal,website,www,htaccess,site",
+            "recuweb_url": "http://en.recuweb.com/html/sugithk.wordpress.com/2015/04/setup-a-drupal-website-with-drush-ubuntu",
+            "resource_url": "http://en.search.wordpress.com/?q=en%2Blocalhost%2Bcom%2Bdrupal&f=feed&page=1",
+            "source_url": "http://sugithk.wordpress.com/2015/04/14/setup-a-drupal-website-with-drush-ubuntu/"
         },
         "drupal.org/2015/04/new-try-drupal-program": {
             "title": "New Try Drupal Program...",
@@ -116,10 +39,86 @@
             "date": "2015-04-10",
             "author_name": "clacina",
             "categories": "drupal",
-            "tags": "try,called,grow,drupal",
+            "tags": "called,drupal",
             "recuweb_url": "http://en.recuweb.com/drupal/drupal.org/2015/04/new-try-drupal-program",
-            "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=drupal&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://drupal.org/news/new-try-drupal-program"
+        },
+        "drupal.org/2015/03/drupal-and-released": {
+            "title": "Drupal and released...",
+            "snippet": "Upgrading your existing Drupal 7 and 6 sites is strongly recommended. There are no new features or non-security-related bug fixes in these releases. For more information about the Drupal 7.x release series, consult the...",
+            "date": "2015-03-18",
+            "author_name": "David_Rothstein",
+            "categories": "drupal",
+            "tags": "features,sites,drupal",
+            "recuweb_url": "http://en.recuweb.com/drupal/drupal.org/2015/03/drupal-and-released",
+            "resource_url": "http://www.google.com/search?q=drupal&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://drupal.org/drupal-7.35"
+        },
+        "reddit.com/2015/02/drupal-7-x-and-htaccess-blocking-by-cookie-values-testing": {
+            "title": "Drupal 7.x and HTACCESS: Blocking by cookie values, testing with Firebug vs. Chrome's Tools...",
+            "snippet": "This is a tricky one so I'm hoping some people who know their HTACCESS code can chime in and shine some light on this dark issue... Long story short, I'm trying to use HTACCESS to... Validate that \"my cookie\" exists and if it doesn't, create it.",
+            "date": "2015-02-14",
+            "categories": "drupal",
+            "tags": "code,testing,drupal,htaccess,create",
+            "recuweb_url": "http://en.recuweb.com/drupal/reddit.com/2015/02/drupal-7-x-and-htaccess-blocking-by-cookie-values-testing",
+            "resource_url": "http://www.reddit.com/search.rss?q=en%2Blocalhost%2Bcom%2Bdrupal&sort=relevance&show=all&syntax=plain",
+            "source_url": "http://reddit.com/r/drupal/comments/2vuf0l/drupal_7x_and_htaccess_blocking_by_cookie_values/"
+        },
+        "vivek1109990.wordpress.com/2015/02/getting-started-with-drupal-8": {
+            "title": "Getting Started with Drupal 8...",
+            "snippet": "Installing Drupal 8 Install and configure WAMP/LAMP. Download Drupal 8. Extract it in www or htdocs dir. Open Phpmyadmin (localhost/phpmyadmin). create a database of any name (drupal8). Open localhost/drupal8, drupal8 is the name of...",
+            "date": "2015-02-11",
+            "author_name": "viveksaurabh75",
+            "categories": "database,drupal",
+            "tags": "any,open,www,drupal,installing,install,localhost,create",
+            "recuweb_url": "http://en.recuweb.com/drupal/vivek1109990.wordpress.com/2015/02/getting-started-with-drupal-8",
+            "resource_url": "http://en.search.wordpress.com/?q=en%2Blocalhost%2Bcom%2Bdrupal&f=feed&page=1",
+            "source_url": "http://vivek1109990.wordpress.com/2015/02/11/getting-started-with-drupal-8/"
+        },
+        "tingnacilaw1976.wordpress.com/2015/01/drupal-essential-training": {
+            "title": "Drupal Essential Training...",
+            "snippet": "Drupal Essential Training Download Drupal Essential Training Drupal Essential Training - Drupal Essential Training covers all the important aspects of installing, configuring, customizing, and maintaining a Drupal-powered website. Drupal Components...",
+            "date": "2015-01-28",
+            "author_name": "parjunkrafor1972",
+            "categories": "drupal",
+            "tags": "installing,drupal,website",
+            "recuweb_url": "http://en.recuweb.com/drupal/tingnacilaw1976.wordpress.com/2015/01/drupal-essential-training",
+            "resource_url": "http://en.search.wordpress.com/?q=drupal&f=feed&page=1",
+            "source_url": "http://tingnacilaw1976.wordpress.com/2015/01/28/drupal-essential-training/"
+        },
+        "synapseindiaphpdevelopment18.wordpress.com/2015/01/synapseindia-php-development-florida-drupalcamp-2014-puts-the-spotlight-on-drupal": {
+            "title": "SynapseIndia Php Development-Florida DrupalCamp 2014 Puts the Spotlight on Drupal 8...",
+            "snippet": "Want to learn what's on tap with Drupal 8? Maybe spend a little time in a warm and sunny place? Then Florida DrupalCamp 2014 might be just the...",
+            "date": "2015-01-19",
+            "author_name": "intelboss",
+            "categories": "php,drupal",
+            "tags": "place,learn,php,development,drupal",
+            "recuweb_url": "http://en.recuweb.com/drupal/synapseindiaphpdevelopment18.wordpress.com/2015/01/synapseindia-php-development-florida-drupalcamp-2014-puts-the-spotlight-on-drupal",
+            "resource_url": "http://en.search.wordpress.com/?q=drupal&f=feed&page=1",
+            "source_url": "http://synapseindiaphpdevelopment18.wordpress.com/2015/01/19/synapseindia-php-development-florida-drupalcamp-2014-puts-the-spotlight-on-drupal-8/"
+        },
+        "conocimientoplus.wordpress.com/2014/12/updating-themes-to-drupal-8-1-main-changes": {
+            "title": "Updating themes to Drupal 8 1 - Main changes...",
+            "snippet": "Update for Drupal 8 themes Updating themes to Drupal 8 1 - Main changes Updating themes to Drupal 8 2 - Folder structure and Twig Updating themes to Drupal 8 3...",
+            "date": "2014-12-29",
+            "author_name": "Valentin S\u00e1nchez",
+            "categories": "drupal",
+            "tags": "drupal",
+            "recuweb_url": "http://en.recuweb.com/drupal/conocimientoplus.wordpress.com/2014/12/updating-themes-to-drupal-8-1-main-changes",
+            "resource_url": "http://en.search.wordpress.com/?q=drupal&f=feed&page=1",
+            "source_url": "http://conocimientoplus.wordpress.com/2014/12/29/updating-drupal-7-themes-to-drupal-8-1-main-changes/"
+        },
+        "saranteb.wordpress.com/2014/12/inspiration-log-4-post-9": {
+            "title": "Inspiration Log 4: Post 9...",
+            "snippet": "I continued scrolling through the Spider website to find more topics to learn about and I stumbled upon one about what is known as Drupal titled \"Enhancing []...",
+            "date": "2014-12-05",
+            "author_name": "saranteb",
+            "categories": "drupal",
+            "tags": "learn,website,drupal",
+            "recuweb_url": "http://en.recuweb.com/drupal/saranteb.wordpress.com/2014/12/inspiration-log-4-post-9",
+            "resource_url": "http://en.search.wordpress.com/?q=drupal&f=feed&page=1",
+            "source_url": "http://saranteb.wordpress.com/2014/12/05/inspiration-log-4-post-9/"
         }
     }
 }
