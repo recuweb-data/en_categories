@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "java",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/java/",
@@ -11,16 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/java/java/blogs.json"
     },
     "items": {
-        "thecwaftyblog.blogspot.com/2015/05/diy-teabag-dream-a-little-bigger": {
-            "title": "DIY Teabag Dream A Little Bigger...",
-            "snippet": "Does anyone else have a cafe problem? I do. This semester I got stuck having to take classes every day of the week and in doing so I have pretty much wrecked my bank account. Everyday I'd stop at Port City Java or Java Dog for breakfast and a...",
-            "date": "2015-05-02",
-            "author_name": "RaChil Luke",
+        "pratapsatve.wordpress.com/2015/05/install-openfire-on-centos-6-x86-64": {
+            "title": "Install OpenFire on CentOS 6.6 x86_64...",
+            "snippet": "Hi, Now we are looking for chatserver. OpenFire is best solution in open source. Lets see installation of openfire on centos 6.6 x86_64 First you require java installed on server 1.",
+            "date": "2015-05-18",
+            "author_name": "pratap470",
             "categories": "java",
-            "tags": "java,stop,bank,classes,cafe,problem",
-            "recuweb_url": "http://en.recuweb.com/java/thecwaftyblog.blogspot.com/2015/05/diy-teabag-dream-a-little-bigger",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=en",
-            "source_url": "http://thecwaftyblog.blogspot.com/2015/05/diy-teabag-dream-little-bigger.html"
+            "tags": "installed,server,installation,open,install,java",
+            "recuweb_url": "http://en.recuweb.com/java/pratapsatve.wordpress.com/2015/05/install-openfire-on-centos-6-x86-64",
+            "resource_url": "http://en.search.wordpress.com/?q=en%2Blocalhost%2Bcom%2Bjava&f=feed&page=1",
+            "source_url": "http://pratapsatve.wordpress.com/?p=188"
         },
         "androidpolice.com/2015/05/google-is-working-on-a-high-performance-java-free-app": {
             "title": "Google Is Working On A High Performance, Java-Free App...",
@@ -28,54 +28,32 @@
             "date": "2015-05-02",
             "author_name": "Cody Toombs",
             "categories": "google,java",
-            "tags": "only,created,standard,free,google,working,performance,java,non,game,android,apps",
+            "tags": "apps,standard,free,google,working,performance,java,non,game,android,alternatives",
             "recuweb_url": "http://en.recuweb.com/java/androidpolice.com/2015/05/google-is-working-on-a-high-performance-java-free-app",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://androidpolice.com/2015/05/01/google-is-working-on-a-high-performance-java-free-app-framework-for-android-based-on-dart/"
         },
-        "stackoverflow.com/2015/05/how-to-denote-java-versions-correctly-stack-overflow": {
-            "title": "How to denote Java versions correctly? - Stack Overflow...",
-            "snippet": "I've seen three possible Java version notations, e.g. Java 8 may be written in the following ways: Java 8; Java 8 SE; java 1.8. Which is the correct one? I mean which one is usable in academic writing?. Similar problem with...",
+        "java.dzone.com/2015/05/top-5-java-performance-metrics-to-capture-in-enterprise": {
+            "title": "Top 5 Java Performance Metrics to Capture in Enterprise...",
+            "snippet": "Steven Haines is a technical architect at Piksel, currently working onsite at Disney in Orlando. He is the founder of, an online education website, and has written hundreds of Java-related articles as well as three...",
             "date": "2015-05-02",
-            "author_name": "petrbel",
-            "categories": "java",
-            "tags": "problem,writing,ing,written,java",
-            "recuweb_url": "http://en.recuweb.com/java/stackoverflow.com/2015/05/how-to-denote-java-versions-correctly-stack-overflow",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://stackoverflow.com/questions/29999786/how-to-denote-java-versions-correctly"
-        },
-        "javacodegeeks.com/2015/05/lessons-learnt-translating-25k-line-of-c-into-java-code-geeks": {
-            "title": "Lessons Learnt Translating 25k line of C into... - Java Code Geeks...",
-            "snippet": "Daniel has been programming in Java since it was in beta. Working predominantly in the finance industry he has created real time trading and margin risk applications. He is currently a director at OpenHFT where we are...",
-            "date": "2015-05-01",
-            "author_name": "unknown",
-            "categories": "finance,java",
-            "tags": "currently,risk,created,programming,java,working,applications",
-            "recuweb_url": "http://en.recuweb.com/java/javacodegeeks.com/2015/05/lessons-learnt-translating-25k-line-of-c-into-java-code-geeks",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://javacodegeeks.com/2015/05/lessons-learnt-translating-25k-line-of-c-into-java.html"
-        },
-        "stackoverflow.com/2015/05/matlab-at-run-time-in-java-file": {
-            "title": "matlab - at run time IN JAVA file...",
-            "snippet": "It looks like this is a problem with your classpath. Is \" \" in the/makesqr/for_testing folder? If so, could you try this: arcadianarcadian-desktop:/makesqr/for_testing javac -classpath...",
-            "date": "2015-05-01",
-            "author_name": "Deepak Pareek",
-            "categories": "java",
-            "tags": "run,java",
-            "recuweb_url": "http://en.recuweb.com/java/stackoverflow.com/2015/05/matlab-at-run-time-in-java-file",
+            "author_name": "steven.haines",
+            "categories": "education,java",
+            "tags": "well,written,currently,working,java,performance",
+            "recuweb_url": "http://en.recuweb.com/java/java.dzone.com/2015/05/top-5-java-performance-metrics-to-capture-in-enterprise",
             "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://stackoverflow.com/questions/29984060/java-lang-exceptionininitializererror-at-run-time-in-java-file-in-linux-mat-lab"
+            "source_url": "http://java.dzone.com/articles/top-5-java-performance-metrics"
         },
-        "niiicedave.wordpress.com/2015/04/got-rid-of-some-nasty-java-adware": {
-            "title": "Got Rid of Some Nasty Java Adware...",
-            "snippet": "Recently had a technical issue with Java. Mac OS no longer supports Java because Apple considers the Java-sphere too unruly, rife with malware and viruses. However, to run old Adobe software, I need it. So I installed Java Legacy, which is Java 6,...",
+        "winterbe.com/2015/04/java-8-concurrency-tutorial-synchronization-and-locks-benjamin": {
+            "title": "Java 8 Concurrency Tutorial: Synchronization and Locks - Benjamin...",
+            "snippet": "Learn multi-threaded programming with Java 8 by example: This tutorial covers Synchronization, Locks and Semaphores.",
             "date": "2015-04-30",
-            "author_name": "niiicedave",
-            "categories": "viruses,java",
-            "tags": "run,technical,java,software",
-            "recuweb_url": "http://en.recuweb.com/java/niiicedave.wordpress.com/2015/04/got-rid-of-some-nasty-java-adware",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=en",
-            "source_url": "http://niiicedave.wordpress.com/2015/04/30/got-rid-of-some-nasty-java-adware/"
+            "author_name": "Benjamin Winterberg",
+            "categories": "java",
+            "tags": "tutorial,covers,example,programming,java,learn",
+            "recuweb_url": "http://en.recuweb.com/java/winterbe.com/2015/04/java-8-concurrency-tutorial-synchronization-and-locks-benjamin",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/"
         },
         "handsinhearts.wordpress.com/2015/04/java-gravel-and-grind": {
             "title": "Java, Java, Java (Gravel and Grind)...",
@@ -83,43 +61,65 @@
             "date": "2015-04-30",
             "author_name": "Maxann",
             "categories": "java",
-            "tags": "cafe,stop,java",
+            "tags": "store,cafe,java",
             "recuweb_url": "http://en.recuweb.com/java/handsinhearts.wordpress.com/2015/04/java-gravel-and-grind",
-            "resource_url": "http://en.search.wordpress.com/?q=java%2Bjava&f=feed&page=1",
+            "resource_url": "http://en.search.wordpress.com/?q=java&f=feed&page=1",
             "source_url": "http://handsinhearts.wordpress.com/2015/04/30/java-java-java-gravel-and-grind/"
         },
-        "netserved.wordpress.com/2015/04/why-javascript-holds-key-to-future-of-software-development": {
-            "title": "Why Javascript holds key to future of software development?",
-            "snippet": "In the long history of programming languages, if one language can take the honor of being the most successful one so far then that language has to be Java. Java has enjoyed its unique position of being a multi-faceted language. Be it...",
-            "date": "2015-04-30",
-            "author_name": "Administrator",
-            "categories": "honor,languages,javascript,java",
-            "tags": "language,position,programming,long,key,software,development,java",
-            "recuweb_url": "http://en.recuweb.com/java/netserved.wordpress.com/2015/04/why-javascript-holds-key-to-future-of-software-development",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=en",
-            "source_url": "http://netserved.wordpress.com/2015/04/30/why-javascript-holds-key-to-future-of-software-development/"
-        },
-        "bigblog.tanbin.com/2015/04/more-afraid-of-c-than-java-python": {
-            "title": "more afraid of c than java/python...",
-            "snippet": "The more my GTD survival depend on tools or environment, the more fearful and the less confident I feel. Extreme eg: When programming Perl, php (and python) I don't rely on any complicated tool. The libraries I use tend to be simple and small.",
-            "date": "2015-04-28",
-            "author_name": "familyman",
-            "categories": "environment,java,perl,php",
-            "tags": "rely,tools,java,programming,libraries",
-            "recuweb_url": "http://en.recuweb.com/php/bigblog.tanbin.com/2015/04/more-afraid-of-c-than-java-python",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=en",
-            "source_url": "http://bigblog.tanbin.com/2015/04/more-afraid-of-c-than-javapython.html"
-        },
-        "infoq.com/2015/04/java-9-and-beyond-infoq": {
-            "title": "Java 9 and Beyond - InfoQ...",
-            "snippet": "Mark Reinhold keynotes on Java 9's impact and features platform module system, security, performance, maintenance-, and speculates on what might come after that, including the Java VM.",
-            "date": "2015-04-23",
-            "author_name": "ExplodingAds.com",
+        "stackoverflow.com/2015/04/java-facing-error-publishing-to-tomcat-v6-0-server-at-localhost": {
+            "title": "java - Facing \"error publishing to Tomcat v6.0 server at localhost has...",
+            "snippet": "you don't have the file file on your conf folder from tomcat. I suggest you to check if you change your configuration of tomcat. I have tomcat 7 and this file isn't on my conf folder. Also you can try download a newer...",
+            "date": "2015-04-16",
+            "author_name": "techsavvy",
             "categories": "java",
-            "tags": "come,java,performance",
-            "recuweb_url": "http://en.recuweb.com/java/infoq.com/2015/04/java-9-and-beyond-infoq",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://infoq.com/presentations/java-9-10"
+            "tags": "suggest,server,java",
+            "recuweb_url": "http://en.recuweb.com/java/stackoverflow.com/2015/04/java-facing-error-publishing-to-tomcat-v6-0-server-at-localhost",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bjava&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://stackoverflow.com/questions/29680204/facing-error-publishing-to-tomcat-v6-0-server-at-localhost-has-encountered-a-fa"
+        },
+        "chipamoglitana.wordpress.com/2015/04/crawljax-03-on-kali-vm": {
+            "title": "Crawljax-03 on Kali VM...",
+            "snippet": "rootlocalhost: tar -xzvf include/[..] rootlocalhost: mv/opt rootlocalhost: cd/opt/rootlocalhost:/opt/rootlocalhost:/opt/update-alternatives --install/usr/bin/java java/opt/bin/java 1 rootlocalhost:/opt/update-alternatives --install/usr/bin/javac...",
+            "date": "2015-04-14",
+            "author_name": "Dejajue",
+            "categories": "java",
+            "tags": "update,alternatives,install,java",
+            "recuweb_url": "http://en.recuweb.com/java/chipamoglitana.wordpress.com/2015/04/crawljax-03-on-kali-vm",
+            "resource_url": "http://en.search.wordpress.com/?q=en%2Blocalhost%2Bcom%2Bjava&f=feed&page=1",
+            "source_url": "http://chipamoglitana.wordpress.com/2015/04/14/crawljax-03-on-kali-vm/"
+        },
+        "krebsonsecurity.com/2015/04/critical-updates-for-windows-flash-java-krebs-on-security": {
+            "title": "Critical Updates for Windows, Flash, Java Krebs on Security...",
+            "snippet": "If you really need and use Java for specific Web sites or applications, take a few minutes to update this software. In the past, updating via the control panel auto-selected the installation of third-party software, so be sure to look...",
+            "date": "2015-04-14",
+            "author_name": "BrianKrebs",
+            "categories": "java",
+            "tags": "software,installation,few,update,applications,java,updates,web",
+            "recuweb_url": "http://en.recuweb.com/java/krebsonsecurity.com/2015/04/critical-updates-for-windows-flash-java-krebs-on-security",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://krebsonsecurity.com/2015/04/critical-updates-for-windows-flash-java/"
+        },
+        "javaworld.com/2015/04/little-known-real-time-standard-impacts-broad-span-of-java": {
+            "title": "Little-known real-time standard impacts broad span of Java...",
+            "snippet": "Real-time Specification for Java 2.0, currently in public review, has implications for mobile computing, massive scaling, and embedded programming for IoT.",
+            "date": "2015-04-07",
+            "author_name": "Cameron Laird",
+            "categories": "java",
+            "tags": "embedded,programming,computing,currently,standard,real,java",
+            "recuweb_url": "http://en.recuweb.com/java/javaworld.com/2015/04/little-known-real-time-standard-impacts-broad-span-of-java",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://javaworld.com/article/2906981/java-app-dev/little-known-real-time-standard-impacts-broad-span-of-java-applications.html"
+        },
+        "javaworld.com/2015/03/java-the-once-and-future-king-of-internet-programming-javaworld": {
+            "title": "Java: The once and future king of Internet programming JavaWorld...",
+            "snippet": "What is Java to you? A programming language you learned in college? The lingua franca of corporate IT? Would you believe that Java is poised to dominate the next explosion of the Internet? Built for embedded computing...",
+            "date": "2015-03-24",
+            "author_name": "Cameron Laird",
+            "categories": "college,java,internet",
+            "tags": "embedded,computing,programming,language,king,java",
+            "recuweb_url": "http://en.recuweb.com/internet/javaworld.com/2015/03/java-the-once-and-future-king-of-internet-programming-javaworld",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://javaworld.com/article/2900842/mobile-java/java-the-once-and-future-king-of-internet-programming.html"
         }
     }
 }
