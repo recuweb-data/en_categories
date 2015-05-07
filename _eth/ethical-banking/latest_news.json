@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ethical-banking",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/ethical-banking/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/ethical-banking/ethical-banking/blogs.json"
     },
     "items": {
+        "nytimes.com/2015/04/sarah-dahlgren-new-york-fed-s-top-bank-supervisor-to-leave": {
+            "title": "Sarah Dahlgren, New York Fed's Top Bank Supervisor, to Leave - New York Times...",
+            "snippet": "Sarah Dahlgren, New York Fed's Top Bank Supervisor, to LeaveNew York TimesMs. Dahlgren appeared to share Mr. Dudley's desire to clean up the ethical culture of Wall Street after a long series of banking scandals. The job of the leader is to...",
+            "date": "2015-04-30",
+            "categories": "culture,banking",
+            "tags": "job,street,culture,bank,ethical,banking",
+            "recuweb_url": "http://en.recuweb.com/banking/nytimes.com/2015/04/sarah-dahlgren-new-york-fed-s-top-bank-supervisor-to-leave",
+            "resource_url": "http://news.google.com/?hl=en&q=ethical%2Bbanking&output=atom&nord=1",
+            "source_url": "http://nytimes.com/2015/05/01/business/dealbook/sarah-dahlgren-new-york-feds-top-bank-supervisor-to-leave.html"
+        },
         "scmp.com/2015/04/to-improve-banking-standards-bankers-themselves-must-choose-ethics-over-south": {
             "title": "To improve banking standards, bankers themselves must choose ethics over... - South China Morning...",
             "snippet": "South China Morning Post (subscription)To improve banking standards, bankers themselves must choose ethics over...South China Morning Post (subscription)I was really encouraged by the implicit acceptance, in putting the thorny subject of ethical...",
@@ -60,16 +70,6 @@
             "recuweb_url": "http://en.recuweb.com/banking/huffingtonpost.co.uk/2014/03/is-ethical-banking-an-oxymoron",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ethical%2Bbanking&format=RSS&cc=us",
             "source_url": "http://huffingtonpost.co.uk/ian-middleton/ethical-banking_b_4874216.html"
-        },
-        "dorsetecho.co.uk/2014/02/first-dorset-credit-union-s-open-day-in-dorchester-celebrates-ethical": {
-            "title": "First Dorset Credit Union's open day in Dorchester celebrates ethical banking...",
-            "snippet": "ETHICAL banking was at the heart of an open day for the First Dorset Credit Union. People from across the county came to celebrate its success at the Dorchester headquarters in High East Street. The union has snapped up a 125 year lease on the...",
-            "date": "2014-02-26",
-            "categories": "credit,banking",
-            "tags": "high,street,ethical,banking",
-            "recuweb_url": "http://en.recuweb.com/banking/dorsetecho.co.uk/2014/02/first-dorset-credit-union-s-open-day-in-dorchester-celebrates-ethical",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ethical%2Bbanking%2Bethical%2Bbanking&format=RSS&cc=us",
-            "source_url": "http://dorsetecho.co.uk/news/11037361.First_Dorset_Credit_Union_s_open_day_in_Dorchester_celebrates_ethical_banking/"
         },
         "huffingtonpost.com/2013/10/of-bitcoins-and-ethical-banking": {
             "title": "Of Bitcoins and Ethical Banking...",
