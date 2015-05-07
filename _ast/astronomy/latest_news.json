@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "astronomy",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/astronomy/",
@@ -11,35 +11,95 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/astronomy/astronomy/blogs.json"
     },
     "items": {
-        "gainesville.com/2015/05/10-things-you-need-to-know-for-saturday-may-2": {
-            "title": "10 things you need to know for Saturday, May 2...",
-            "snippet": "() tonights Moonlight Walk, stroll through the gardens on a walkway illuminated at night with twinkle lights, lanterns and 1500 luminaries, also telescopes provided by the Alachua Astronomy Club for viewing the moon...",
-            "date": "2015-05-02",
-            "categories": "moon,astronomy",
-            "tags": "astronomy,telescopes,night",
-            "recuweb_url": "http://en.recuweb.com/astronomy/gainesville.com/2015/05/10-things-you-need-to-know-for-saturday-may-2",
+        "theguardian.com/2015/05/halley-s-eclipse-a-coup-for-newtonian-prediction-and-the-selling": {
+            "title": "Halley's Eclipse: a coup for Newtonian prediction and the selling of science...",
+            "snippet": "Edmond Halleys second, corrected map of the 1715 eclipse, produced after the event. Photograph: Institute of Astronomy Library/University of Cambridge In 1715, 300 years ago today, a total solar eclipse was visible across a broad band of England.",
+            "date": "2015-05-03",
+            "categories": "astronomy,science,institute,university",
+            "tags": "astronomy,science,institute,university",
+            "recuweb_url": "http://en.recuweb.com/university/theguardian.com/2015/05/halley-s-eclipse-a-coup-for-newtonian-prediction-and-the-selling",
             "resource_url": "http://www.bing.com/news/search?first=1&q=astronomy&format=RSS&cc=us",
-            "source_url": "http://gainesville.com/article/20150502/ARTICLES/150509964/-1/entertainment"
+            "source_url": "http://theguardian.com/science/the-h-word/2015/may/03/halleys-eclipse-newtonian-selling-science-history"
         },
-        "astronomynow.com/2015/05/2-may-2015-in-news-high-school-researchers-discover-pulsar": {
-            "title": "2 May 2015 in News: High school researchers discover pulsar with widest orbit... - Astronomy Now...",
-            "snippet": "May 2015 in News: High school researchers discover pulsar with widest orbit...Astronomy Now OnlinePulsars are some of the most extreme objects in the universe, said Joe Swiggum, a graduate student in physics and astronomy at West Virginia...",
-            "date": "2015-05-02",
-            "categories": "physics,school,astronomy",
-            "tags": "physics,school,high,astronomy,said",
-            "recuweb_url": "http://en.recuweb.com/astronomy/astronomynow.com/2015/05/2-may-2015-in-news-high-school-researchers-discover-pulsar",
-            "resource_url": "http://news.google.com/?hl=en&q=astronomy%2Bastronomy&output=atom&nord=1",
+        "astronomynow.com/2015/05/high-school-researchers-discover-pulsar-with-widest-orbit-ever-detected": {
+            "title": "High school researchers discover pulsar with widest orbit ever detected...",
+            "snippet": "Pulsars are some of the most extreme objects in the universe, said Joe Swiggum, a graduate student in physics and astronomy at West Virginia University in Morgantown and lead author on a paper accepted for publication in the Astrophysical Journal...",
+            "date": "2015-05-03",
+            "categories": "university,physics,school,astronomy",
+            "tags": "west,university,school,high,said,astronomy",
+            "recuweb_url": "http://en.recuweb.com/astronomy/astronomynow.com/2015/05/high-school-researchers-discover-pulsar-with-widest-orbit-ever-detected",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=astronomy&format=RSS&cc=us",
             "source_url": "http://astronomynow.com/2015/05/02/high-school-researchers-discover-pulsar-with-widest-orbit-ever-detected/"
         },
-        "fall-river.wickedlocal.com/2015/05/bcc-planning-fun-astronomy-day-activities-for-adults-kids": {
+        "motherboard.vice.com/2015/05/how-astronomers-imaged-an-alien-lava-lake-from-earth": {
+            "title": "How Astronomers Imaged an Alien Lava Lake From Earth...",
+            "snippet": "In 1610, Galileo Galilei became the first person to glimpse the four largest moons of Jupiter, using a single lens refracting telescopeone of the most basic tools in astronomy. Now, over 400 years later, a team of astronomers has used the...",
+            "date": "2015-05-03",
+            "categories": "moons,moon,earth,astronomy",
+            "tags": "astronomers,refracting,basic,using,jupiter,lens,astronomy",
+            "recuweb_url": "http://en.recuweb.com/astronomy/motherboard.vice.com/2015/05/how-astronomers-imaged-an-alien-lava-lake-from-earth",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=astronomy&format=RSS&cc=us",
+            "source_url": "http://motherboard.vice.com/read/how-astronomers-imaged-an-alien-lava-lake-from-earth"
+        },
+        "redorbit.com/2015/05/new-exoplanet-too-big-for-its-star": {
+            "title": "New exoplanet too big for its star how did it get there?",
+            "snippet": "It must have formed further out and migrated in, but our theories cant explain how this happened, said researcher George Zhou from the Research School of Astrophysics and Astronomy (RSAA). Astronomers have found more than 1,800 extrasolar planets...",
+            "date": "2015-05-03",
+            "categories": "planets,school,astronomy",
+            "tags": "planets,found,research,research_school,school,george,george_zhou,zhou,said,said-researcher,researcher,formed,formed-further,formed-further-out,further,further-out,star,astrophysics,astronomy,astronomers",
+            "recuweb_url": "http://en.recuweb.com/astronomy/redorbit.com/2015/05/new-exoplanet-too-big-for-its-star",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=astronomy&format=RSS&cc=us",
+            "source_url": "http://redorbit.com/news/space/1113383230/new-exoplanet-too-big-for-its-star-\u2013-how-did-it-get-there-050315/"
+        },
+        "zeenews.india.com/2015/05/observational-astronomy-institute-to-come-up-in-wb-s-purulia": {
+            "title": "Observational astronomy institute to come up in WB's Purulia...",
+            "snippet": "New Delhi: Eastern India's first observational astronomy institute would come up in the Ayodhya Hills of Purulia district of West Bengal, Science and Technology Minister Harsh Vardhan has said. He said that the SN Bose National Centre for Basic...",
+            "date": "2015-05-03",
+            "categories": "technology,institute,astronomy,science",
+            "tags": "national,said,technology,west,institute,astronomy,science,basic",
+            "recuweb_url": "http://en.recuweb.com/science/zeenews.india.com/2015/05/observational-astronomy-institute-to-come-up-in-wb-s-purulia",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=astronomy&format=RSS&cc=us",
+            "source_url": "http://zeenews.india.com/news/science/observational-astronomy-institute-to-come-up-in-wbs-purulia_1589440.html"
+        },
+        "ahwatukee.com/2015/05/things-i-tell-my-mom-why-does-everyone-including-me-like": {
+            "title": "Things I Tell My Mom: Why does everyone, including me, like astronomy so... - Ahwatukee Foothills...",
+            "snippet": "Ahwatukee Foothills NewsThings I Tell My Mom: Why does everyone, including me, like astronomy so...Ahwatukee Foothills NewsWith this deep-seeded love of astronomy, you may be asking yourself how I became a biologist? In my senior year of high...",
+            "date": "2015-05-03",
+            "categories": "love,astronomy",
+            "tags": "high,astronomy",
+            "recuweb_url": "http://en.recuweb.com/astronomy/ahwatukee.com/2015/05/things-i-tell-my-mom-why-does-everyone-including-me-like",
+            "resource_url": "http://news.google.com/?hl=en&q=astronomy&output=atom&nord=1",
+            "source_url": "http://ahwatukee.com/columns/article_ca90239e-f011-11e4-ab9f-67e966d8755f.html"
+        },
+        "slate.com/2015/05/waxing-crescent-ceres": {
+            "title": "Waxing Crescent Ceres...",
+            "snippet": "Try this 3D anaglyph of Ceres, too. It really makes that double impact crater in the middle pop. Phil Plait Phil Plait writes Slates Bad Astronomy blog and is an astronomer, public speaker, science evangelizer, and author of Death From the Skies!",
+            "date": "2015-05-03",
+            "categories": "science,astronomy,death",
+            "tags": "science,astronomy,phil",
+            "recuweb_url": "http://en.recuweb.com/death/slate.com/2015/05/waxing-crescent-ceres",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=astronomy&format=RSS&cc=us",
+            "source_url": "http://slate.com/blogs/bad_astronomy/2015/05/03/ceres_dawn_science_mission_begins.html"
+        },
+        "jewishbusinessnews.com/2015/05/puffed-up-planet-orbiting-small-star-discovered-by-australian-astronomers": {
+            "title": "Puffed Up Planet Orbiting Small Star Discovered by Australian Astronomers...",
+            "snippet": "We have found a small star, with a giant planet the size of Jupiter, orbiting very closely, said researcher George Zhou from the Research School of Astrophysics and Astronomy at The Australian National University. It must have formed further out...",
+            "date": "2015-05-03",
+            "categories": "university,school,astronomy",
+            "tags": "formed,formed-further,formed-further-out,further,further-out,national,university,research,research_school,school,george,george_zhou,zhou,said,said-researcher,researcher,found,star,astronomers,jupiter,astrophysics,astronomy",
+            "recuweb_url": "http://en.recuweb.com/astronomy/jewishbusinessnews.com/2015/05/puffed-up-planet-orbiting-small-star-discovered-by-australian-astronomers",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=astronomy&format=RSS&cc=us",
+            "source_url": "http://jewishbusinessnews.com/2015/05/03/puffed-up-planet-orbiting-small-star-discovered-by-australian-astronomers/"
+        },
+        "heraldnews.com/2015/05/bcc-planning-fun-astronomy-day-activities-for-adults-kids": {
             "title": "BCC planning fun Astronomy Day activities for adults, kids...",
             "snippet": "FALL RIVER If you dont know where to find the Big Dipper, the Milky Way, or the center of our galaxy when you look up into the night sky, then youll never truly know your way around the Earths neighborhood. The Bristol Community College...",
             "date": "2015-05-02",
             "categories": "college,astronomy,earth",
             "tags": "way,center,galaxy,look,look-up-into,into,into-the-night,night,night-sky,sky,milky,milky_way,dipper,find,fall,fall_river,river,activities,activities-for-adults,adults,astronomy,astronomy_day,planning,planning-fun,fun,bcc,kids",
-            "recuweb_url": "http://en.recuweb.com/earth/fall-river.wickedlocal.com/2015/05/bcc-planning-fun-astronomy-day-activities-for-adults-kids",
+            "recuweb_url": "http://en.recuweb.com/earth/heraldnews.com/2015/05/bcc-planning-fun-astronomy-day-activities-for-adults-kids",
             "resource_url": "http://www.bing.com/news/search?first=1&q=astronomy&format=RSS&cc=us",
-            "source_url": "http://fall-river.wickedlocal.com/article/20150501/NEWS/150509151"
+            "source_url": "http://heraldnews.com/article/20150501/NEWS/150509151/1994/NEWS"
         },
         "heraldnews.com/2015/05/bcc-planning-fun-astronomy-day-activities-for-adults-kids-fall-river": {
             "title": "BCC planning fun Astronomy Day activities for adults, kids - Fall River Herald News...",
@@ -50,66 +110,6 @@
             "recuweb_url": "http://en.recuweb.com/astronomy/heraldnews.com/2015/05/bcc-planning-fun-astronomy-day-activities-for-adults-kids-fall-river",
             "resource_url": "http://news.google.com/?hl=en&q=astronomy&output=atom&nord=1",
             "source_url": "http://heraldnews.com/article/20150501/NEWS/150509151"
-        },
-        "slate.com/2015/05/crash-course-astronomy-mars": {
-            "title": "Crash Course Astronomy: Mars...",
-            "snippet": "The chances of anything coming from Mars are a million to one, he said. But sometimes, truth is cooler than fiction. The planet Mars may not have wild Victorian civilizations with any princesses named Dejah Thoris, but it has a lot of other amazing...",
-            "date": "2015-05-02",
-            "categories": "astronomy",
-            "tags": "said,coming,crash,crash_course,crash_course_astronomy,course,course_astronomy,astronomy,mars,planet",
-            "recuweb_url": "http://en.recuweb.com/astronomy/slate.com/2015/05/crash-course-astronomy-mars",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=astronomy&format=RSS&cc=us",
-            "source_url": "http://slate.com/blogs/bad_astronomy/2015/05/02/crash_course_astronomy_mars.html"
-        },
-        "esciencenews.com/2015/05/uh-led-team-successfully-observes-the-solar-eclipse-over-arctic": {
-            "title": "UH-led team successfully observes the solar eclipse over the Arctic...",
-            "snippet": "The international Solar Wind Sherpas team, led by Dr. Shadia Habbal of the University of Hawaii at Manoa Institute for Astronomy, braved Arctic weather to successfully observe the total solar eclipse of March 20 from Longyearbyen on the island of...",
-            "date": "2015-05-02",
-            "categories": "institute,university,astronomy",
-            "tags": "success,team,international,astronomy",
-            "recuweb_url": "http://en.recuweb.com/astronomy/esciencenews.com/2015/05/uh-led-team-successfully-observes-the-solar-eclipse-over-arctic",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=astronomy&format=RSS&cc=us",
-            "source_url": "http://esciencenews.com/articles/2015/05/02/uh.led.team.successfully.observes.solar.eclipse.over.arctic"
-        },
-        "astronomynow.com/2015/05/1-may-2015-in-news-jodrell-bank-to-be-headquarters": {
-            "title": "1 May 2015 in News: Jodrell Bank to be headquarters for world's largest radio... - Astronomy Now...",
-            "snippet": "Astronomy Now Online1 May 2015 in News: Jodrell Bank to be headquarters for world's largest radio...Astronomy Now OnlineMartin Barstow, President of the Royal Astronomical Society offered his congratulations: I'm delighted that the UK has won this...",
-            "date": "2015-05-01",
-            "categories": "society,radio,astronomy",
-            "tags": "astronomy",
-            "recuweb_url": "http://en.recuweb.com/astronomy/astronomynow.com/2015/05/1-may-2015-in-news-jodrell-bank-to-be-headquarters",
-            "resource_url": "http://news.google.com/?hl=en&q=astronomy&output=atom&nord=1",
-            "source_url": "http://astronomynow.com/2015/05/01/jodrell-bank-to-be-headquarters-for-worlds-largest-radio-telescope/"
-        },
-        "exeterexpressandecho.co.uk/2015/05/astronomy-and-space-column-russian-spacecraft-plummeting-to-earth-passes": {
-            "title": "Astronomy and Space column: Russian spacecraft 'plummeting to Earth'passes over Exeter...",
-            "snippet": "We are used to hearing all the success stories coming from NASA and the European Space Agency these days, but we should remember that while it's great that Curiosity, Rosetta, New Horizons and other space missions are a terrific success, space is...",
-            "date": "2015-05-01",
-            "categories": "space-missions,astronomy,spacecraft,earth",
-            "tags": "missions,success,coming,astronomy",
-            "recuweb_url": "http://en.recuweb.com/earth/exeterexpressandecho.co.uk/2015/05/astronomy-and-space-column-russian-spacecraft-plummeting-to-earth-passes",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=astronomy&format=RSS&cc=us",
-            "source_url": "http://exeterexpressandecho.co.uk/Astronomy-Space-column-look-skies-Exeter-week/story-26424994-detail/story.html"
-        },
-        "sciencedaily.com/2015/05/health-benefits-of-coffee-can-act-as-an-antioxidant": {
-            "title": "Health benefits of coffee: Coffee can act as an antioxidant...",
-            "snippet": "Chief Chemist of Illycaff\u00e8, Dr Luciano Navarini, approached Monash physicist Dr Gordon Troup, School of Physics and Astronomy, and his team in 2012 to conduct the research using state-of-the-art EPR (Electron Paramagnetic Resonance) Spectroscopy.",
-            "date": "2015-05-01",
-            "categories": "coffee,health,school,physics,astronomy",
-            "tags": "research,using,team,school,physics,astronomy,spectroscopy",
-            "recuweb_url": "http://en.recuweb.com/astronomy/sciencedaily.com/2015/05/health-benefits-of-coffee-can-act-as-an-antioxidant",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=astronomy&format=RSS&cc=us",
-            "source_url": "http://sciencedaily.com/releases/2015/05/150501100001.htm"
-        },
-        "astronomy.com/2015/05/new-exoplanet-too-big-for-its-star-astronomy-magazine": {
-            "title": "New exoplanet too big for its star - Astronomy Magazine...",
-            "snippet": "Astronomy MagazineNew exoplanet too big for its starAstronomy MagazineWe have found a small star, with a giant planet the size of Jupiter, orbiting very closely, said George Zhou from the Research School of Astrophysics and Astronomy at the...",
-            "date": "2015-05-01",
-            "categories": "school,astronomy",
-            "tags": "research,school,planet,astronomy,said",
-            "recuweb_url": "http://en.recuweb.com/astronomy/astronomy.com/2015/05/new-exoplanet-too-big-for-its-star-astronomy-magazine",
-            "resource_url": "http://news.google.com/?hl=en&q=astronomy&output=atom&nord=1",
-            "source_url": "http://astronomy.com/news/2015/05/new-exoplanet-too-big-for-its-star"
         }
     }
 }
