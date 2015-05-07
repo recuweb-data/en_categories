@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "database",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/database/",
@@ -11,16 +11,16 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/database/database/blogs.json"
     },
     "items": {
-        "bennettadelson.wordpress.com/2015/05/my-data-day-at-build-azure-elastic-databases-search-iot-stream": {
-            "title": "My Data Day at Build Azure Elastic Databases, Azure Search, IoT, Azure Stream Analytics, and more...",
-            "snippet": "This post is by Jeff Mlakar, a member of the Business Intelligence Team at Bennett Adelson. Follow us BIatBA and JeffMlakar Today was Day 2 for me at Microsoft Build. And it was all about DATA. From the new Azure SQL Database Elastic Databases, to...",
-            "date": "2015-05-01",
-            "author_name": "Rich Deken",
-            "categories": "database,business",
-            "tags": "azure,azure_sql,azure_sql_database,sql,sql_database,database,elastic,databases,microsoft,build,business,search,data",
-            "recuweb_url": "http://en.recuweb.com/business/bennettadelson.wordpress.com/2015/05/my-data-day-at-build-azure-elastic-databases-search-iot-stream",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=database%2Bdatabase&rss=1&lng=en",
-            "source_url": "http://bennettadelson.wordpress.com/2015/05/01/my-data-day-at-build-azure-elastic-databases-azure-search-iot-azure-stream-analytics-and-more/"
+        "arnoldit.com/2015/05/microsoft-and-its-play-in-the-document-database-sector-stephen-e": {
+            "title": "Microsoft and Its Play in the Document Database Sector: Stephen E...",
+            "snippet": "The number of companies offering alternatives to Oracle's traditional database management system continues to go up. The most notable anti-Oracle outfit may be Microsoft, or, the new post-Ballmer Microsoft. A number of...",
+            "date": "2015-05-03",
+            "author_name": "Stephen E. Arnold",
+            "categories": "management,database,play",
+            "tags": "management,database,microsoft,offering",
+            "recuweb_url": "http://en.recuweb.com/play/arnoldit.com/2015/05/microsoft-and-its-play-in-the-document-database-sector-stephen-e",
+            "resource_url": "http://www.google.com/search?q=database&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://arnoldit.com/wordpress/2015/05/03/microsoft-and-its-play-in-the-document-database-sector/"
         },
         "blogs.technet.com/2015/05/new-support-policy-for-repaired-exchange-databases": {
             "title": "New Support Policy for Repaired Exchange Databases - Exchange...",
@@ -28,43 +28,10 @@
             "date": "2015-05-01",
             "author_name": "The Exchange Team",
             "categories": "policy,database",
-            "tags": "microsoft,support,should,available,repair,effort,databases,database",
+            "tags": "microsoft,support,should,only,repair,effort,databases,database",
             "recuweb_url": "http://en.recuweb.com/database/blogs.technet.com/2015/05/new-support-policy-for-repaired-exchange-databases",
-            "resource_url": "http://www.google.com/search?q=database%2Bdatabase&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=database&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.technet.com/b/exchange/archive/2015/05/01/new-support-policy-for-repaired-exchange-databases.aspx"
-        },
-        "boltsfromtheblue.com/2015/04/final-2015-nfl-mock-draft-database-san-diego-chargers-bolts": {
-            "title": "Final 2015 NFL Mock Draft Database: San Diego Chargers - Bolts...",
-            "snippet": "Richard Wade takes a look at whom the mock drafts think the San Diego Chargers will select in the draft.",
-            "date": "2015-04-30",
-            "author_name": "Richard Wade",
-            "categories": "database",
-            "tags": "database",
-            "recuweb_url": "http://en.recuweb.com/database/boltsfromtheblue.com/2015/04/final-2015-nfl-mock-draft-database-san-diego-chargers-bolts",
-            "resource_url": "http://www.google.com/search?q=database&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://boltsfromtheblue.com/2015/4/30/8521591/final-2015-nfl-mock-draft-database-san-diego-chargers"
-        },
-        "blogs.msdn.com/2015/04/announcing-transparent-data-encryption-for-azure-sql-database": {
-            "title": "Announcing Transparent Data Encryption for Azure SQL Database...",
-            "snippet": "Available today, SQL Database Transparent Data Encryption (preview) protects your data and helps you meet compliance requirements by encrypting your database, associated backups, and transaction log files at rest...",
-            "date": "2015-04-29",
-            "author_name": "Jack Richins",
-            "categories": "database",
-            "tags": "log,requirements,sql,sql_database,database,data,azure,azure_sql,azure_sql_database,available",
-            "recuweb_url": "http://en.recuweb.com/database/blogs.msdn.com/2015/04/announcing-transparent-data-encryption-for-azure-sql-database",
-            "resource_url": "http://www.google.com/search?q=database%2Bdatabase&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://blogs.msdn.com/b/sqlsecurity/archive/2015/04/29/announcing-transparent-data-encryption-for-azure-sql-database.aspx"
-        },
-        "daysofourtrailers.blogspot.com/2015/04/days-of-our-trailers-a-brady-campaign-gun-owner-data-base": {
-            "title": "Days of our Trailers: A Brady Campaign 'Gun Owner Data Base'?",
-            "snippet": "worked in the organizing department doing outreach to victim/survivors of gun violence Led the department in adding names of gun owners to data base Worked closely with communications department to connect with...",
-            "date": "2015-04-29",
-            "author_name": "Thirdpower",
-            "categories": "database",
-            "tags": "department,owner,data",
-            "recuweb_url": "http://en.recuweb.com/database/daysofourtrailers.blogspot.com/2015/04/days-of-our-trailers-a-brady-campaign-gun-owner-data-base",
-            "resource_url": "http://www.google.com/search?q=database&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://daysofourtrailers.blogspot.com/2015/04/a-brady-campaign-gun-owner-data-base.html"
         },
         "blogs.technet.com/2015/04/microsoft-announces-azure-sql-database-elastic-technet-blogs": {
             "title": "Microsoft Announces Azure SQL Database elastic... - TechNet Blogs...",
@@ -72,9 +39,9 @@
             "date": "2015-04-29",
             "author_name": "T.K. Ranga Rengarajan",
             "categories": "database",
-            "tags": "azure,azure_sql,sql,data,offering,offering-to-support,support,azure_sql_database,sql_database,database,microsoft,microsoft_announces,announces,elastic,saas,applications",
+            "tags": "managed,azure,sql,data,support,sql_database,database,microsoft,microsoft_announces,announces,elastic,offering,saas,applications",
             "recuweb_url": "http://en.recuweb.com/database/blogs.technet.com/2015/04/microsoft-announces-azure-sql-database-elastic-technet-blogs",
-            "resource_url": "http://www.google.com/search?q=database%2Bdatabase&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=database&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://blogs.technet.com/b/dataplatforminsider/archive/2015/04/29/microsoft-announces-azure-sql-database-elastic-database-azure-sql-data-warehouse-azure-data-lake.aspx"
         },
         "techcrunch.com/2015/04/microsoft-announces-elastic-sql-database-pools-for-azure": {
@@ -83,43 +50,74 @@
             "date": "2015-04-29",
             "author_name": "Frederic Lardinois",
             "categories": "database",
-            "tags": "keeping,independent,software,microsoft,microsoft_announces,announces,elastic,sql,sql_database,database,azure,databases",
+            "tags": "independent,software,hundreds,thousands,microsoft,microsoft_announces,announces,elastic,sql,sql_database,database,azure,databases",
             "recuweb_url": "http://en.recuweb.com/database/techcrunch.com/2015/04/microsoft-announces-elastic-sql-database-pools-for-azure",
-            "resource_url": "http://www.google.com/search?q=database%2Bdatabase&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=database&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://techcrunch.com/2015/04/29/microsoft-announces-elastic-sql-database-pools-for-azure/"
         },
-        "higheredjobs.com/2015/04/database-manager-higheredjobs": {
-            "title": "Database Manager - HigherEdJobs...",
-            "snippet": "Bryn Athyn College is seeking a Database Manager (DM) to begin July 1, 2015. The DM is a full-time, exempt, benefit-eligible position reporting directly to the Director of Admissions. The DM's role is to ensure the integrity of...",
-            "date": "2015-04-27",
-            "author_name": "rss@higheredjobs.com (HigherEdJobs)",
-            "categories": "college,database",
-            "tags": "reporting,database",
-            "recuweb_url": "http://en.recuweb.com/database/higheredjobs.com/2015/04/database-manager-higheredjobs",
-            "resource_url": "http://www.google.com/search?q=database%2Bdatabase&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://higheredjobs.com/details.cfm?JobCode=176055816"
+        "venturebeat.com/2015/04/centurylink-is-acquiring-cloud-database-startup-orchestrate": {
+            "title": "CenturyLink is acquiring cloud-database startup Orchestrate...",
+            "snippet": "Cloud and telecommunications provider CenturyLink is planning to announce tomorrow that it has acquired Orchestrate, a startup with a fully managed cloud database for storing and serving up information, VentureBeat has...",
+            "date": "2015-04-20",
+            "author_name": "Jordan Novet",
+            "categories": "telecommunication,database",
+            "tags": "information,managed,database",
+            "recuweb_url": "http://en.recuweb.com/database/venturebeat.com/2015/04/centurylink-is-acquiring-cloud-database-startup-orchestrate",
+            "resource_url": "http://www.google.com/search?q=database&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://venturebeat.com/2015/04/20/centurylink-is-acquiring-cloud-database-startup-orchestrate/"
         },
-        "swcwhatsnew.blogspot.com/2015/04/database-of-the-week": {
-            "title": "Database of the Week...",
-            "snippet": "Career Guidance Center Fergusons Career Guidance Center Database Are you interested in knowing some key facts and educational requirements for a particular career? Do you wonder about future job prospects and how much you might be paid to do the...",
-            "date": "2015-04-27",
-            "author_name": "book stacks",
-            "categories": "database",
-            "tags": "requirements,guidance,database,week",
-            "recuweb_url": "http://en.recuweb.com/database/swcwhatsnew.blogspot.com/2015/04/database-of-the-week",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=database%2Bdatabase&rss=1&lng=en",
-            "source_url": "http://swcwhatsnew.blogspot.com/2015/04/database-of-week_27.html"
+        "stglibrary.wordpress.com/2015/04/resolved-ebscohost-databases-are-down-suppliers-working-to-fix": {
+            "title": "Resolved EBSCOhost databases are down - suppliers are working to fix it...",
+            "snippet": "This issue has now been resolved We are currently experiencing issues with accessing the databases provided by EBSCO such as CINAHL and AMED. The suppliers are aware of the []...",
+            "date": "2015-04-17",
+            "author_name": "stglibrary",
+            "tags": "working,databases",
+            "recuweb_url": "http://en.recuweb.com/stglibrary.wordpress.com/2015/04/resolved-ebscohost-databases-are-down-suppliers-working-to-fix",
+            "resource_url": "http://en.search.wordpress.com/?q=database&f=feed&page=1",
+            "source_url": "http://stglibrary.wordpress.com/2015/04/17/ebscohost-databases-are-down-suppliers-are-working-to-fix-it/"
         },
-        "geekwire.com/2015/04/starbucks-back-in-business-internal-report-blames-deleted-database": {
-            "title": "Starbucks back in business: Internal report blames deleted database...",
-            "snippet": "Starbucks sign Good news, Starbucks fans: The coffee giant's stores are open again. Bad news: The coffee isn't free anymore. The Seattle-based coffee company says it has resolved a point-of-sale computer outage that...",
-            "date": "2015-04-25",
-            "author_name": "Todd Bishop",
-            "categories": "coffee,business,database",
-            "tags": "business,back,database",
-            "recuweb_url": "http://en.recuweb.com/database/geekwire.com/2015/04/starbucks-back-in-business-internal-report-blames-deleted-database",
-            "resource_url": "http://www.google.com/search?q=database%2Bdatabase&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://geekwire.com/2015/starbucks-back-in-business-internal-report-blames-deleted-database-table-indicates-outage-was-global/"
+        "superuser.com/2015/04/osx-mysqladmin-create-database-connect-to-server-at-localhost": {
+            "title": "OSX: mysqladmin create database: connect to server at 'localhost'...",
+            "snippet": "I'm trying to create database in mySQL on OSX using the command line: mysqladmin create database. Getting: mysqladmin: connect to server at 'localhost'failed error: 'Access denied for user 'User-312''localhost'(using...",
+            "date": "2015-04-01",
+            "author_name": "Andrew",
+            "categories": "database,mysql",
+            "tags": "using,connect,server,database,localhost,mysql,access",
+            "recuweb_url": "http://en.recuweb.com/mysql/superuser.com/2015/04/osx-mysqladmin-create-database-connect-to-server-at-localhost",
+            "resource_url": "http://www.google.com/search?q=en%2Blocalhost%2Bcom%2Bdatabase&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://superuser.com/questions/896541/osx-mysqladmin-create-database-connect-to-server-at-localhost-failed"
+        },
+        "forensicconnect.wordpress.com/2015/03/state-has-dna-databases-from-cradle-to-jail": {
+            "title": "State has DNA databases from cradle to jail...",
+            "snippet": "In 2015, genes have many uses. Soon after every baby in California is born, a hospital worker extracts and logs its genetic information. It will be tested for diseases...",
+            "date": "2015-03-05",
+            "author_name": "ForensicConnect",
+            "tags": "information,state,dna,databases",
+            "recuweb_url": "http://en.recuweb.com/forensicconnect.wordpress.com/2015/03/state-has-dna-databases-from-cradle-to-jail",
+            "resource_url": "http://en.search.wordpress.com/?q=database&f=feed&page=1",
+            "source_url": "http://forensicconnect.wordpress.com/2015/03/05/state-has-dna-databases-from-cradle-to-jail/"
+        },
+        "visualstudiomagazine.com/2015/03/crouching-manager-hidden-database-visual-studio-magazine": {
+            "title": "Crouching Manager, Hidden Database -- Visual Studio Magazine...",
+            "snippet": "Crouching Manager, Hidden Database. If there's one life lesson to be learned here, it's that just because a manager knows how to write code, it doesn't mean that they should be allowed to write code. By Mark Bowytz; 03/02/...",
+            "date": "2015-03-02",
+            "author_name": "unknown",
+            "categories": "life,database",
+            "tags": "should,here,database",
+            "recuweb_url": "http://en.recuweb.com/database/visualstudiomagazine.com/2015/03/crouching-manager-hidden-database-visual-studio-magazine",
+            "resource_url": "http://www.google.com/search?q=database&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://visualstudiomagazine.com/articles/2015/03/01/crouching-manager-hidden-database.aspx"
+        },
+        "forensicconnect.wordpress.com/2015/02/dutch-dna-database-makes-25-000th-criminal-hit": {
+            "title": "Dutch DNA database makes 25,000th criminal hit...",
+            "snippet": "The Netherlands DNA database made its 25,000th match last night. It involved a match between evidence found in the Netherlands and a person whose DNA profile is in []...",
+            "date": "2015-02-26",
+            "author_name": "ForensicConnect",
+            "categories": "evidence,database",
+            "tags": "dna,database",
+            "recuweb_url": "http://en.recuweb.com/database/forensicconnect.wordpress.com/2015/02/dutch-dna-database-makes-25-000th-criminal-hit",
+            "resource_url": "http://en.search.wordpress.com/?q=database&f=feed&page=1",
+            "source_url": "http://forensicconnect.wordpress.com/2015/02/26/dutch-dna-database-makes-25000th-criminal-hit/"
         }
     }
 }
