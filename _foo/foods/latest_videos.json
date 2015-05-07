@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "foods",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/foods/",
@@ -11,29 +11,89 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/foods/foods/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/05/fermented-foods-and-beverages": {
+            "title": "Fermented Foods and Beverages...",
+            "snippet": "Fermented Foods and BeveragesAuthor: EleniThibodeauTags: Fermented Foods and Beverages Posted: 03 May 2015Rating:: 0...",
+            "date": "2015-05-03",
+            "author_name": "EleniThibodeau",
+            "categories": "foods,food,beverages",
+            "tags": "foods",
+            "recuweb_url": "http://en.recuweb.com/beverages/dailymotion.com/2015/05/fermented-foods-and-beverages",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/foods/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2owpy8_fermented-foods-and-beverages_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2owpy8_fermented-foods-and-beverages_news"
+        },
+        "youtube.com/2015/05/foods-of-taiwan": {
+            "title": "Foods of Taiwan...",
+            "snippet": "Foods of Taiwan Sharing with you some footages from my travel to Taipei. Had a blast! GET MY COOKBOOK here: Check out helenKIT Your cooking inspiration: http://hele... From: Helen's Recipes (Vietnamese Food) Views: 9377 539 ratings Time: 01:58 More...",
+            "date": "2015-05-03",
+            "author_name": "Helen's Recipes (Vietnamese Food)",
+            "categories": "food,cooking,travel,foods",
+            "tags": "foods,here",
+            "recuweb_url": "http://en.recuweb.com/foods/youtube.com/2015/05/foods-of-taiwan",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=foods&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
+            "source_url": "http://youtube.com/watch?v=dA2_xQ2UPhA&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/dA2_xQ2UPhA/0.jpg"
+        },
+        "dailymotion.com/2015/05/six-deadly-foods-for-dogs": {
+            "title": "Six deadly foods for dogs...",
+            "snippet": "Six deadly foods for dogsAuthor: YolondaWhitsonTags: Six deadly foods for dogs Posted: 03 May 2015Rating:: 0...",
+            "date": "2015-05-03",
+            "author_name": "YolondaWhitson",
+            "categories": "foods,food",
+            "tags": "foods",
+            "recuweb_url": "http://en.recuweb.com/food/dailymotion.com/2015/05/six-deadly-foods-for-dogs",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/foods/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2ox8r0_six-deadly-foods-for-dogs_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ox8r0_six-deadly-foods-for-dogs_news"
+        },
+        "dailymotion.com/2015/05/the-truth-about-fat-burning-foods": {
+            "title": "The Truth About Fat Burning Foods...",
+            "snippet": "The Truth About Fat Burning FoodsAuthor: atstraightTags: The Truth About Fat Burning Foods Posted: 03 May 2015Rating:: 0...",
+            "date": "2015-05-03",
+            "author_name": "atstraight",
+            "categories": "foods,food",
+            "tags": "fat,foodsauthor,foods",
+            "recuweb_url": "http://en.recuweb.com/food/dailymotion.com/2015/05/the-truth-about-fat-burning-foods",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/foods/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2ow2f5_the-truth-about-fat-burning-foods_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ow2f5_the-truth-about-fat-burning-foods_news"
+        },
+        "dailymotion.com/2015/05/wpahs-news-foods-that-heal-lung-damage": {
+            "title": "WPAHS News: Foods that heal lung damage...",
+            "snippet": "WPAHS News: Foods that heal lung damageAuthor: DemianYair1Tags: WPAHS News: Foods that heal lung damage Posted: 03 May 2015Rating:: 0...",
+            "date": "2015-05-03",
+            "author_name": "DemianYair1",
+            "categories": "foods,food",
+            "tags": "foods",
+            "recuweb_url": "http://en.recuweb.com/food/dailymotion.com/2015/05/wpahs-news-foods-that-heal-lung-damage",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/foods/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2ox605_wpahs-news-foods-that-heal-lung-damage_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ox605_wpahs-news-foods-that-heal-lung-damage_news"
+        },
         "dailymotion.com/2015/05/fatty-foods-may-harm-men-more-than-women-toi": {
             "title": "Fatty Foods May Harm Men More Than Women - TOI...",
             "snippet": "Fatty Foods May Harm Men More Than WomenWomen who love fatty foods can take solace from a study that suggests gorging on high-fat meals may make men more vulnerable to diseases than to Times Of India's Youtube channel here: Subscribe to Bombay Times...",
             "date": "2015-05-02",
             "author_name": "thetimesofindia",
             "categories": "love,foods,food",
-            "tags": "fat,foods",
+            "tags": "here,fat,foods",
             "recuweb_url": "http://en.recuweb.com/food/dailymotion.com/2015/05/fatty-foods-may-harm-men-more-than-women-toi",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/foods/0?af=1",
             "source_url": "http://dailymotion.com/video/x2orbhn_fatty-foods-may-harm-men-more-than-women-toi_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2orbhn_fatty-foods-may-harm-men-more-than-women-toi_news"
         },
-        "dailymotion.com/2015/05/the-truth-about-fat-burning-foods-you-must-check-facts-&": {
-            "title": "The Truth About Fat Burning Foods... You MUST Check The Facts & Truth About Fat Burning Foods...",
-            "snippet": "The Truth About Fat Burning Foods... You MUST Check The Facts & Truth About Fat Burning FoodsAuthor: Foot-factsTags: The Truth About Fat Burning Foods... You MUST Check Facts Posted: 02 May 2015Rating:: 0...",
+        "dailymotion.com/2015/05/gm-foods-and-climate-change": {
+            "title": "GM Foods and Climate Change...",
+            "snippet": "GM Foods and Climate ChangeAuthor: concernbugbearTags: GM Foods and Climate Change Posted: 02 May 2015Rating:: 0...",
             "date": "2015-05-02",
-            "author_name": "Foot-facts",
-            "categories": "foods,food",
-            "tags": "fat,burning,foodsauthor,foods",
-            "recuweb_url": "http://en.recuweb.com/food/dailymotion.com/2015/05/the-truth-about-fat-burning-foods-you-must-check-facts-&",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/foods+foods/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2oun3k_the-truth-about-fat-burning-foods-you-must-check-the-facts-truth-about-fat-burning-foods_fun",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2oun3k_the-truth-about-fat-burning-foods-you-must-check-the-facts-truth-about-fat-burning-foods_fun"
+            "author_name": "concernbugbear",
+            "categories": "climate-change,foods,food",
+            "tags": "change,foods",
+            "recuweb_url": "http://en.recuweb.com/food/dailymotion.com/2015/05/gm-foods-and-climate-change",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/foods/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2ov9i3_gm-foods-and-climate-change_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ov9i3_gm-foods-and-climate-change_news"
         },
         "dailymotion.com/2015/04/5-poisonous-foods-that-humans-eat": {
             "title": "5 Poisonous Foods That Humans Eat...",
@@ -59,77 +119,17 @@
             "source_url": "http://dailymotion.com/video/x2okr7i_kevin-trudeau-7-foods-you-should-never-eat-bpa-cla_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2okr7i_kevin-trudeau-7-foods-you-should-never-eat-bpa-cla_news"
         },
-        "youtube.com/2015/04/top-10-insane-foods-that-make-eating-your-veggies": {
-            "title": "Top 10 Insane Foods That Make Eating Your Veggies As A Child Easy...",
-            "snippet": "Top 10 Insane Foods That Make Eating Your Veggies As A Child Easy Top 10 Insane Foods That Make Eating Your Veggies As A Child Easy International cuisines may seem repulsive to foreigners, but within bizarre foods'countries of origin, they're...",
-            "date": "2015-04-30",
-            "author_name": "TopTenz",
-            "categories": "foods,food",
-            "tags": "foods",
-            "recuweb_url": "http://en.recuweb.com/food/youtube.com/2015/04/top-10-insane-foods-that-make-eating-your-veggies",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=foods%2Bfoods&hl=en&lang=en&lr=en&orderby=relevance_lang_en",
-            "source_url": "http://youtube.com/watch?v=4BWX4AvqhdQ&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/4BWX4AvqhdQ/0.jpg"
-        },
         "dailymotion.com/2015/04/we-are-change-manitoba-label-gmo-foods": {
             "title": "We Are Change Manitoba: Label GMO Foods...",
             "snippet": "We Are Change Manitoba: Label GMO FoodsAuthor: AntonyRuthTags: We Are Change Manitoba: Label GMO Foods Posted: 30 April 2015Rating:: 0...",
             "date": "2015-04-30",
             "author_name": "AntonyRuth",
             "categories": "foods,food",
-            "tags": "foodsauthor,foods",
+            "tags": "foodsauthor,foods,change",
             "recuweb_url": "http://en.recuweb.com/food/dailymotion.com/2015/04/we-are-change-manitoba-label-gmo-foods",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/foods/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ok6jp_we-are-change-manitoba-label-gmo-foods_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2ok6jp_we-are-change-manitoba-label-gmo-foods_news"
-        },
-        "dailymotion.com/2015/04/fat-reduction-through-foods-that-reduce": {
-            "title": "Fat Reduction Through Foods That Reduce Fat...",
-            "snippet": "Visit for more infoAuthor: roosevelt-coneyTags: healthy foods calorie burning fat burning weight loss diets nutrition health lifestyle Posted: 29 April 2015Rating:: 0...",
-            "date": "2015-04-29",
-            "author_name": "roosevelt-coney",
-            "categories": "foods,food,health,lifestyle",
-            "tags": "foods,burning,fat",
-            "recuweb_url": "http://en.recuweb.com/lifestyle/dailymotion.com/2015/04/fat-reduction-through-foods-that-reduce",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/foods/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2of2ii_fat-reduction-through-foods-that-reduce-fat_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2of2ii_fat-reduction-through-foods-that-reduce-fat_news"
-        },
-        "dailymotion.com/2015/04/hot-hemp-foods-on-today-show": {
-            "title": "Hot Hemp Foods on Today Show...",
-            "snippet": "Hot Hemp Foods on Today ShowAuthor: SamsonDionTags: Hot Hemp Foods on Today Show Posted: 29 April 2015Rating:: 0...",
-            "date": "2015-04-29",
-            "author_name": "SamsonDion",
-            "categories": "foods,food",
-            "tags": "foods",
-            "recuweb_url": "http://en.recuweb.com/food/dailymotion.com/2015/04/hot-hemp-foods-on-today-show",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/foods/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2og9ko_hot-hemp-foods-on-today-show_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2og9ko_hot-hemp-foods-on-today-show_news"
-        },
-        "dailymotion.com/2015/04/shuanghui-buys-smithfield-foods-for-billion": {
-            "title": "Shuanghui Buys Smithfield Foods for Billion...",
-            "snippet": "Shuanghui Buys Smithfield Foods for BillionAuthor: HesterYanceyTags: Shuanghui Buys Smithfield Foods for Billion Posted: 29 April 2015Rating:: 0...",
-            "date": "2015-04-29",
-            "author_name": "HesterYancey",
-            "categories": "foods,food",
-            "tags": "foods",
-            "recuweb_url": "http://en.recuweb.com/food/dailymotion.com/2015/04/shuanghui-buys-smithfield-foods-for-billion",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/foods/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2ogzhj_shuanghui-buys-smithfield-foods-for-4-72-billion_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ogzhj_shuanghui-buys-smithfield-foods-for-4-72-billion_news"
-        },
-        "dailymotion.com/2015/04/co-ops-in-the-clouds-marketing-mountain-foods": {
-            "title": "Co-ops in the Clouds: Marketing Mountain Foods...",
-            "snippet": "Co-ops in the Clouds: Marketing Mountain FoodsAuthor: absenttubeTags: Co-ops in the Clouds: Marketing Mountain Foods Posted: 28 April 2015Rating:: 0...",
-            "date": "2015-04-28",
-            "author_name": "absenttube",
-            "categories": "marketing,foods,food",
-            "tags": "foodsauthor,foods",
-            "recuweb_url": "http://en.recuweb.com/food/dailymotion.com/2015/04/co-ops-in-the-clouds-marketing-mountain-foods",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/en/search/foods/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2oar7c_co-ops-in-the-clouds-marketing-mountain-foods_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2oar7c_co-ops-in-the-clouds-marketing-mountain-foods_news"
         }
     }
 }
