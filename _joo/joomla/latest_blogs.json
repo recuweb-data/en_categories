@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "joomla",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/joomla/",
@@ -11,60 +11,27 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/joomla/joomla/blogs.json"
     },
     "items": {
-        "magazine.joomla.org/2015/05/10-reasons-why-you-should-go-to-joomladay-minnesota-2015": {
-            "title": "10 Reasons Why You Should Go to JoomlaDay Minnesota 2015...",
-            "snippet": "... to Joomla! Joomla! is an award-winning open source CMS for building powerful websites.... Joomla! for Business. Joomla! is a extremely customizable and adaptable for Enterprise, SMBs, NPOs and beyond. Read more.",
-            "date": "2015-05-01",
-            "author_name": "no_reply_magazine@joomla.org (Mike \"Demo\" Demopoulos)",
-            "categories": "joomla,business",
-            "tags": "winning,open,open-source,source,reasons,why,should,joomla,award,cms,websites,business",
-            "recuweb_url": "http://en.recuweb.com/business/magazine.joomla.org/2015/05/10-reasons-why-you-should-go-to-joomladay-minnesota-2015",
-            "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://magazine.joomla.org/issues/issue-may-2015/item/2714-10-reasons-why-you-should-go-to-joomladay-minnesota-2015"
-        },
-        "magazine.joomla.org/2015/05/joomla-is-the-perfect-solution-community-magazine": {
-            "title": "Joomla! Is the Perfect Solution - Joomla! Community Magazine...",
-            "snippet": "I hope this article can help both you and me. I have been working with Joomla! for some time now, and I've improved my knowledge of it since vers...",
-            "date": "2015-05-01",
-            "author_name": "no_reply_magazine@joomla.org (Diogo Jesus)",
+        "docs.joomla.org/2015/04/portal-administrators-joomla-documentation": {
+            "title": "Portal:Administrators - Joomla! Documentation...",
+            "snippet": "The intention is that the list of topics you see below should be task-orientated and not a \"feature list\" for Joomla! website administration. These items should address real and common activities that an Administrator will need to...",
+            "date": "2015-04-29",
+            "author_name": "Dextercowley",
             "categories": "joomla",
-            "tags": "ledge,help,community,community_magazine,magazine,solution,joomla",
-            "recuweb_url": "http://en.recuweb.com/joomla/magazine.joomla.org/2015/05/joomla-is-the-perfect-solution-community-magazine",
-            "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://magazine.joomla.org/issues/issue-may-2015/item/2732-joomla-is-the-perfect-solution"
+            "tags": "website,feature,portal,joomla,documentation",
+            "recuweb_url": "http://en.recuweb.com/joomla/docs.joomla.org/2015/04/portal-administrators-joomla-documentation",
+            "resource_url": "http://www.google.com/search?q=joomla&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://docs.joomla.org/Portal:Administrators"
         },
-        "magazine.joomla.org/2015/05/calling-all-joomla-3-migration-experts-storytellers-and-enthusiasts": {
-            "title": "Calling all Joomla! 3 Migration Experts, Storytellers and Enthusiasts!",
-            "snippet": "Pass your expert Migration knowledge on! Do you have expert Joomla! 3 Migration advice? How about a great story on the client from hell and migr...",
-            "date": "2015-05-01",
-            "author_name": "no_reply_magazine@joomla.org (Constance Lippert)",
+        "longervogue.wordpress.com/2015/04/how-to-install-joomla-3-on-mac": {
+            "title": "How to install Joomla 3 on mac...",
+            "snippet": "This is not a professional tutorial to teach the basic procedures and steps, but a post to share all the troubleshooting and criticize this unstable and mad Joomla...",
+            "date": "2015-04-13",
+            "author_name": "Snowyn",
             "categories": "joomla",
-            "tags": "great,ledge,joomla",
-            "recuweb_url": "http://en.recuweb.com/joomla/magazine.joomla.org/2015/05/calling-all-joomla-3-migration-experts-storytellers-and-enthusiasts",
-            "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://magazine.joomla.org/issues/issue-may-2015/item/2706-calling-all-joomla-3-migration-experts-joomla-3-migration-storytellers-and-joomla-3-migration-enthusiasts"
-        },
-        "magazine.joomla.org/2015/05/leadership-highlights-may-2015-joomla-community-magazine": {
-            "title": "Leadership Highlights May 2015 - Joomla! Community Magazine...",
-            "snippet": "It's been awhile since the last leadership update was published in the Joomla Community Magazine. But that certainly doesn't mean nothing is happening...",
-            "date": "2015-05-01",
-            "author_name": "no_reply_magazine@joomla.org (Marijke Stuivenberg)",
-            "categories": "leadership,joomla",
-            "tags": "nothing,published,community,community_magazine,magazine,joomla",
-            "recuweb_url": "http://en.recuweb.com/joomla/magazine.joomla.org/2015/05/leadership-highlights-may-2015-joomla-community-magazine",
-            "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://magazine.joomla.org/issues/issue-may-2015/item/2734-leadership-highlights-may-2015"
-        },
-        "magazine.joomla.org/2015/05/vel-programming-volunteers-needed-joomla-community": {
-            "title": "VEL Programming Volunteers Needed - Joomla! Community...",
-            "snippet": "The Joomla Vulnerable Extension List, is a public list published by of reported plugins, extensions, modules and/or templates from 3rd part...",
-            "date": "2015-05-01",
-            "author_name": "no_reply_magazine@joomla.org (Phil DeGruy)",
-            "categories": "joomla",
-            "tags": "templates,published,joomla,community",
-            "recuweb_url": "http://en.recuweb.com/joomla/magazine.joomla.org/2015/05/vel-programming-volunteers-needed-joomla-community",
-            "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://magazine.joomla.org/issues/issue-may-2015/item/2704-vel-programming-volunteers-needed"
+            "tags": "install,joomla,tutorial",
+            "recuweb_url": "http://en.recuweb.com/joomla/longervogue.wordpress.com/2015/04/how-to-install-joomla-3-on-mac",
+            "resource_url": "http://en.search.wordpress.com/?q=en%2Blocalhost%2Bcom%2Bjoomla&f=feed&page=1",
+            "source_url": "http://longervogue.wordpress.com/2015/04/13/how-to-install-joomla-3-on-mac/"
         },
         "docs.joomla.org/2015/04/portal-beginners-joomla-documentation": {
             "title": "Portal:Beginners - Joomla! Documentation...",
@@ -72,10 +39,21 @@
             "date": "2015-04-11",
             "author_name": "Hutchy68",
             "categories": "joomla",
-            "tags": "joomla,web,site",
+            "tags": "started,portal,joomla,documentation,web,site",
             "recuweb_url": "http://en.recuweb.com/joomla/docs.joomla.org/2015/04/portal-beginners-joomla-documentation",
             "resource_url": "http://www.google.com/search?q=joomla&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://docs.joomla.org/Portal:Beginners"
+        },
+        "web701rebekah.wordpress.com/2015/04/joomla-vs-silverstripe": {
+            "title": "Joomla vs SilverStripe...",
+            "snippet": "In class on the 30th I started by installing Joomla using WPI (Web Platform Installer). I can access Joomla by opening my browser and typing in localhost:80/joomal_30 Todd told []...",
+            "date": "2015-04-07",
+            "author_name": "rebekahrossiter",
+            "categories": "joomla",
+            "tags": "localhost,web,platform,started,joomla,using",
+            "recuweb_url": "http://en.recuweb.com/joomla/web701rebekah.wordpress.com/2015/04/joomla-vs-silverstripe",
+            "resource_url": "http://en.search.wordpress.com/?q=en%2Blocalhost%2Bcom%2Bjoomla&f=feed&page=1",
+            "source_url": "http://web701rebekah.wordpress.com/2015/04/07/joomla-vs-silverstripe/"
         },
         "joomlaworks.net/2015/04/sayonara-joomla-lts-joomlaworks": {
             "title": "Sayonara Joomla LTS! - JoomlaWorks...",
@@ -83,42 +61,65 @@
             "date": "2015-04-03",
             "author_name": "nospam@joomlaworks.net (Fotis)",
             "categories": "joomla",
-            "tags": "joomla,releases",
+            "tags": "decided,joomla,releases",
             "recuweb_url": "http://en.recuweb.com/joomla/joomlaworks.net/2015/04/sayonara-joomla-lts-joomlaworks",
-            "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=joomla&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://joomlaworks.net/blog/item/190-sayonara-joomla-lts+[PLM=0]+GET+http-"
         },
-        "joomla.org/2015/03/joomla-and-glip-enter-collaboration-partnership": {
-            "title": "Joomla! and Glip Enter Collaboration Partnership...",
-            "snippet": "New York, NY, - March 30th, 2015 Joomla!, one of the world's most popular open source content management systems (CMS), is proud to announce its partnership with Glipthe business messaging app with built-in...",
-            "date": "2015-03-31",
-            "author_name": "jessica.dunbar@community.joomla.org (Parth Lawate)",
-            "categories": "business,management,joomla",
-            "tags": "business,proud,proud-to-announce,announce,management,open,open-source,source,joomla,popular,content,cms",
-            "recuweb_url": "http://en.recuweb.com/joomla/joomla.org/2015/03/joomla-and-glip-enter-collaboration-partnership",
-            "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://joomla.org/announcements/general-news/5588-joomla-and-glip-enter-collaboration-partnership.html"
+        "community.joomla.org/2015/03/promote-joomla-3-4-community-portal": {
+            "title": "Promote Joomla! 3.4 Joomla! Community Portal...",
+            "snippet": "Are you interested in helping spread the word about Joomla and our latest 3.4 release? We'd love your help! It's fun and easy to do. It's also a great opportunity to make friends from around the world, gain experience working...",
+            "date": "2015-03-30",
+            "author_name": "mike.veeckmans@community.joomla.org (Mike Veeckmans)",
+            "categories": "love,joomla",
+            "tags": "help,helping,community,portal,joomla,release",
+            "recuweb_url": "http://en.recuweb.com/joomla/community.joomla.org/2015/03/promote-joomla-3-4-community-portal",
+            "resource_url": "http://www.google.com/search?q=joomla&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://community.joomla.org/blogs/community/1849-joomla-34-marketing-material.html"
         },
-        "problognews.com/2015/03/wordpress-vs-drupal-joomla": {
-            "title": "WordPress vs. Drupal vs. Joomla...",
-            "snippet": "Planning to write a blog or build a website and unsure whether you should use WordPress, Drupal or Joomla for your CMS (Content Management System)? Each platform has big pros and cons. WordPress, Drupal and Joomla are currently the three leaders in...",
-            "date": "2015-03-16",
-            "author_name": "Jacob Masters",
-            "categories": "management,wordpress,drupal,joomla",
-            "tags": "platform,content,management,system,should,wordpress,drupal,joomla,cms",
-            "recuweb_url": "http://en.recuweb.com/joomla/problognews.com/2015/03/wordpress-vs-drupal-joomla",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=joomla%2Bjoomla&rss=1&lng=en",
-            "source_url": "http://problognews.com/2015/03/wordpress-vs-drupal-vs-joomla/"
+        "joomla.org/2015/02/joomla-3-4-release-candidate-released": {
+            "title": "Joomla! 3.4 Release Candidate Released...",
+            "snippet": "The Joomla! Project is pleased to announce the availability of the Joomla! 3.4 Release Candidate. Community members are asked to download and install the package in order to provide quality assurance for the forthcoming...",
+            "date": "2015-02-17",
+            "author_name": "george.wilson@community.joomla.org (George Wilson)",
+            "categories": "joomla",
+            "tags": "order,quality,release,pleased,announce,availability,joomla,project,community,install",
+            "recuweb_url": "http://en.recuweb.com/joomla/joomla.org/2015/02/joomla-3-4-release-candidate-released",
+            "resource_url": "http://www.google.com/search?q=joomla&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://joomla.org/announcements/release-news/5585-joomla-3-4-rc-released.html"
         },
-        "reddit.com/2015/02/i-will-probably-lose-my-job": {
-            "title": "I will probably lose my job after this...",
-            "snippet": "So, i did some decent minor websites with Joomla, life was good and i was lucky enough to find a job of modifying a web made in Joomla. I did it and it was all ok, but suddenly some weird text appeared in the google snippet from the website. The...",
-            "date": "2015-02-28",
-            "categories": "google,life,joomla",
-            "tags": "find,job,websites,joomla,web",
-            "recuweb_url": "http://en.recuweb.com/joomla/reddit.com/2015/02/i-will-probably-lose-my-job",
-            "resource_url": "http://www.reddit.com/search.rss?q=joomla%2Bjoomla&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/joomla/comments/2xf8rh/i_will_probably_lose_my_job_after_this/"
+        "aasifiqbaal.wordpress.com/2015/02/joomla-on-xampp": {
+            "title": "Joomla on Xampp...",
+            "snippet": "Step 1:: Step 2: Unzip Joomla to the XAMPP folder. Step 3: Starting the Joomla installation. Now I am going to convert the big pile of files you've just extracted into...",
+            "date": "2015-02-11",
+            "author_name": "Aasif Iqbaal Ovee",
+            "categories": "joomla,xampp",
+            "tags": "joomla,installation,into",
+            "recuweb_url": "http://en.recuweb.com/xampp/aasifiqbaal.wordpress.com/2015/02/joomla-on-xampp",
+            "resource_url": "http://en.search.wordpress.com/?q=en%2Blocalhost%2Bcom%2Bjoomla&f=feed&page=1",
+            "source_url": "http://aasifiqbaal.wordpress.com/2015/02/11/joomla-on-xampp/"
+        },
+        "backlixoket.wordpress.com/2015/01/pdf-download-joomla-2-5": {
+            "title": "Pdf download joomla 2 5...",
+            "snippet": "DOWNLOAD PHP5, Joomla! 1. 5, Phoca PDF component with installed font, Virtue. Mart1. 1, Virtue. Mart IDn. R Addon: Phoca PDF Content Plugin Download. Phoca PDF System Plugin...",
+            "date": "2015-01-19",
+            "author_name": "backlixoket",
+            "categories": "joomla,php,virtue",
+            "tags": "system,content,installed,joomla",
+            "recuweb_url": "http://en.recuweb.com/virtue/backlixoket.wordpress.com/2015/01/pdf-download-joomla-2-5",
+            "resource_url": "http://en.search.wordpress.com/?q=joomla&f=feed&page=1",
+            "source_url": "http://backlixoket.wordpress.com/2015/01/19/pdf-download-joomla-2-5/"
+        },
+        "innewsmyanmar.wordpress.com/2014/11/three-pinguins-at-the-beach-rolling-together": {
+            "title": "Three Pinguins at the beach rolling together...",
+            "snippet": "Joomla Community Magazine November 2014The November issue of the Joomla Community Magazine is here! Our stories this month: Editors Introduction Wheels Up JWC14! Feature Stories There is...",
+            "date": "2014-11-22",
+            "author_name": "aungkhamkyaw",
+            "categories": "joomla",
+            "tags": "feature,here,joomla,community,magazine",
+            "recuweb_url": "http://en.recuweb.com/joomla/innewsmyanmar.wordpress.com/2014/11/three-pinguins-at-the-beach-rolling-together",
+            "resource_url": "http://en.search.wordpress.com/?q=joomla&f=feed&page=1",
+            "source_url": "http://innewsmyanmar.wordpress.com/2014/11/22/three-pinguins-at-the-beach-rolling-together/"
         }
     }
 }
