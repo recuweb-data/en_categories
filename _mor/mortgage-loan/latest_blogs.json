@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mortgage-loan",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/mortgage-loan/",
@@ -11,47 +11,37 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/mortgage-loan/mortgage-loan/blogs.json"
     },
     "items": {
-        "investopedia.com/2015/05/getting-a-mortgage-for-non-u-s-citizens-investopedia": {
-            "title": "Getting A Mortgage For Non U.S. Citizens - Investopedia...",
-            "snippet": "Many banks and mortgage companies offer conventional and FHA home loans to non-U.S. citizens, if they can verify their work history and financial status.",
-            "date": "2015-05-01",
-            "author_name": "Daniel Kurt",
-            "categories": "home",
-            "tags": "financial,offer,banks,getting,mortgage,investopedia,fha,home,loans",
-            "recuweb_url": "http://en.recuweb.com/home/investopedia.com/2015/05/getting-a-mortgage-for-non-u-s-citizens-investopedia",
-            "resource_url": "http://www.google.com/search?q=mortgage%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://investopedia.com/articles/personal-finance/050115/getting-mortgage-non-us-citizens.asp"
-        },
         "bankrate.com/2015/04/mortgage-analysis-rates-rise-even-in-a-weak-economy-bankrate": {
             "title": "Mortgage Analysis: Rates Rise, Even In A Weak Economy Bankrate...",
             "snippet": "Weekly national mortgage survey. Results of 's April 29, 2015, weekly national survey of large lenders and the effect on monthly payments for a 165,000 loan:...",
             "date": "2015-04-30",
             "author_name": "unknown",
             "categories": "economy",
-            "tags": "even,rates,rise,mortgage,loan",
+            "tags": "lenders,monthly,payments,even,rates,mortgage,loan",
             "recuweb_url": "http://en.recuweb.com/economy/bankrate.com/2015/04/mortgage-analysis-rates-rise-even-in-a-weak-economy-bankrate",
-            "resource_url": "http://www.google.com/search?q=mortgage%2Bloan%2Bmortgage%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=mortgage%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://bankrate.com/finance/mortgages/mortgage-analysis-043015.aspx"
+        },
+        "blog.credit.com/2015/04/a-guide-to-getting-mortgage-after-you-ve-had-loan-modification": {
+            "title": "A Guide to Getting a Mortgage After You've Had a Loan Modification...",
+            "snippet": "If you've had a home loan modification, you'll need to meet certain requirements to be eligible for a new mortgage.",
+            "date": "2015-04-29",
+            "author_name": "unknown",
+            "categories": "home",
+            "tags": "loan,mortgage,home,meet",
+            "recuweb_url": "http://en.recuweb.com/home/blog.credit.com/2015/04/a-guide-to-getting-mortgage-after-you-ve-had-loan-modification",
+            "resource_url": "http://www.google.com/search?q=mortgage%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://blog.credit.com/2015/04/a-guide-to-getting-a-mortgage-after-youve-had-a-loan-modification-115272/"
         },
         "consumerist.com/2015/04/executives-&-loan-officers-must-pay-600k-for-being-part-of": {
             "title": "Executives & Loan Officers Must Pay 600K For Being Part Of Illegal...",
             "snippet": "Nearly five months after Wells Fargo and JPMorgan Chase agreed to pay more than 35 million including 11.1 million in redress to affected consumers for their part in an illegal mortgage kickback scheme, the purported...",
             "date": "2015-04-29",
             "author_name": "Ashlee Kieler",
-            "tags": "consumers,part,months,loan,mortgage",
+            "tags": "scheme,consumers,part,illegal,loan,loan_officers,officers,mortgage",
             "recuweb_url": "http://en.recuweb.com/consumerist.com/2015/04/executives-&-loan-officers-must-pay-600k-for-being-part-of",
-            "resource_url": "http://www.google.com/search?q=mortgage%2Bloan%2Bmortgage%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=mortgage%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://consumerist.com/2015/04/29/executives-loan-officers-must-pay-600k-for-being-part-of-illegal-mortgage-kickback-scheme/"
-        },
-        "housingwire.com/2015/04/first-time-buyer-gse-mortgage-loans-are-getting-far-riskier-2015": {
-            "title": "First-time buyer GSE mortgage loans are getting far riskier 2015-04...",
-            "snippet": "The First-Time Buyer Mortgage Risk Index for agency mortgages stood at a series record of%, up 0.1 percentage point from the average over the prior three months and up 0.5 percentage point from a year earlier.",
-            "date": "2015-04-24",
-            "author_name": "tgarrison@housingwire.com (Trey Garrison)",
-            "tags": "months,point,mortgages,mortgage,index,getting,loans,earlier",
-            "recuweb_url": "http://en.recuweb.com/housingwire.com/2015/04/first-time-buyer-gse-mortgage-loans-are-getting-far-riskier-2015",
-            "resource_url": "http://www.google.com/search?q=mortgage%2Bloan%2Bmortgage%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://housingwire.com/articles/33671-first-time-buyer-gse-mortgage-loans-are-getting-far-riskier"
         },
         "higheredjobs.com/2015/04/mortgage-loan-originator-higheredjobs": {
             "title": "Mortgage Loan Originator - HigherEdJobs...",
@@ -59,7 +49,7 @@
             "date": "2015-04-23",
             "author_name": "rss@higheredjobs.com (HigherEdJobs)",
             "categories": "university,credit,mortgage-loan,school",
-            "tags": "credit,department,mortgage,mortgage_loan,loan,originator",
+            "tags": "mortgage,mortgage_loan,loan,originator",
             "recuweb_url": "http://en.recuweb.com/school/higheredjobs.com/2015/04/mortgage-loan-originator-higheredjobs",
             "resource_url": "http://www.google.com/search?q=mortgage%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://higheredjobs.com/details.cfm?JobCode=176053742"
@@ -69,20 +59,10 @@
             "snippet": "quickengrab If you thought that we were done with lawsuits related to the mortgage meltdown, think again. The U.S. Dept. of Justice is suing Quicken Loans, alleging that the lender improperly underwrote hundreds of...",
             "date": "2015-04-23",
             "author_name": "Chris Morran",
-            "tags": "alleging,lender,lender-improperly,improperly,underwrote,quicken,quicken_loans,loans,related,sues,mortgages,mortgage,justice",
+            "tags": "lender,loans,mortgages,mortgage",
             "recuweb_url": "http://en.recuweb.com/consumerist.com/2015/04/doj-sues-quicken-loans-over-improperly-underwritten-mortgages",
-            "resource_url": "http://www.google.com/search?q=mortgage%2Bloan%2Bmortgage%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=mortgage%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://consumerist.com/2015/04/23/doj-sues-quicken-loans-over-improperly-underwritten-mortgages/"
-        },
-        "crainsdetroit.com/2015/04/feds-sue-quicken-loans-alleging-improper-fha-mortgage-lending": {
-            "title": "Feds sue Quicken Loans, alleging improper FHA mortgage lending...",
-            "snippet": "The U.S. Department of Justice sued Quicken Loans Inc. on Thursday in U.S. District Court in Detroit, alleging the Detroit-based mortgage lender improperly originated and underwrote federally insured mortgage loans.",
-            "date": "2015-04-23",
-            "author_name": "unknown",
-            "tags": "lender,lender-improperly,improperly,underwrote,alleging,quicken,quicken_loans,loans,fha,mortgage,lending,department,justice,sued,thursday,detroit",
-            "recuweb_url": "http://en.recuweb.com/crainsdetroit.com/2015/04/feds-sue-quicken-loans-alleging-improper-fha-mortgage-lending",
-            "resource_url": "http://www.google.com/search?q=mortgage%2Bloan%2Bmortgage%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://crainsdetroit.com/article/20150423/NEWS/150429904/feds-sue-detroit-based-quicken-loans-alleging-improper-fha-mortgage"
         },
         "247wallst.com/2015/04/mortgage-loan-rates-slip-as-home-purchases-heat-up-24-7": {
             "title": "Mortgage Loan Rates Slip as Home Purchases Heat Up - 24/7 Wall St.",
@@ -90,10 +70,20 @@
             "date": "2015-04-22",
             "author_name": "Paul Ausick",
             "categories": "home,mortgage-loan",
-            "tags": "index,report,home,mortgage,mortgage_loan,loan,rates",
+            "tags": "group,applications,home,mortgage,mortgage_loan,loan,rates",
             "recuweb_url": "http://en.recuweb.com/mortgage-loan/247wallst.com/2015/04/mortgage-loan-rates-slip-as-home-purchases-heat-up-24-7",
-            "resource_url": "http://www.google.com/search?q=mortgage%2Bloan%2Bmortgage%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=mortgage%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://247wallst.com/housing/2015/04/22/mortgage-loan-rates-slip-as-home-purchases-heat-up/"
+        },
+        "housingwire.com/2015/04/loan-officer-indicted-for-six-counts-of-mortgage-fraud-2015-04": {
+            "title": "Loan officer indicted for six counts of mortgage fraud 2015-04-20...",
+            "snippet": "A mortgage loan officer in California was indicted by a federal grand jury on six counts of bank fraud relating to a mortgage fraud scheme wherein he allegedly submitted false and fraudulent loan applications to lenders.",
+            "date": "2015-04-20",
+            "author_name": "tgarrison@housingwire.com (Trey Garrison)",
+            "tags": "applications,lenders,scheme,bank,loan,officer,mortgage",
+            "recuweb_url": "http://en.recuweb.com/housingwire.com/2015/04/loan-officer-indicted-for-six-counts-of-mortgage-fraud-2015-04",
+            "resource_url": "http://www.google.com/search?q=mortgage%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://housingwire.com/articles/33618-loan-officer-indicted-for-six-counts-of-mortgage-fraud"
         },
         "crainsdetroit.com/2015/04/zero-down-no-fees-new-mortgage-program-will-help-homebuyers": {
             "title": "Zero down, no fees: New mortgage program will help homebuyers...",
@@ -101,7 +91,7 @@
             "date": "2015-04-17",
             "author_name": "unknown",
             "categories": "home",
-            "tags": "offer,terms,detroit,land,bank,authority,mortgages,down,mortgage,percent,home,loans",
+            "tags": "terms,land,bank,down,mortgage,mortgages,home,loans",
             "recuweb_url": "http://en.recuweb.com/home/crainsdetroit.com/2015/04/zero-down-no-fees-new-mortgage-program-will-help-homebuyers",
             "resource_url": "http://www.google.com/search?q=mortgage%2Bloan&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://crainsdetroit.com/article/20150416/BLOG017/150419875/zero-down-no-fees-new-mortgage-program-will-help-homebuyers"
@@ -112,10 +102,21 @@
             "date": "2015-03-23",
             "author_name": "sw0123",
             "categories": "mortgage-loan",
-            "tags": "products,mortgages,mortgage,loans,below",
+            "tags": "available,mortgage,mortgage_loans,loans,rate,mortgages,below",
             "recuweb_url": "http://en.recuweb.com/mortgage-loan/sandybarronrealtor.wordpress.com/2015/03/types-of-mortgage-loans",
-            "resource_url": "http://en.search.wordpress.com/?q=mortgage%2Bloan%2Bmortgage%2Bloan&f=feed&page=1",
+            "resource_url": "http://en.search.wordpress.com/?q=mortgage%2Bloan&f=feed&page=1",
             "source_url": "http://sandybarronrealtor.wordpress.com/2015/03/23/types-of-mortgage-loans/"
+        },
+        "genevievedundalli239.wordpress.com/2015/03/mortgage-loans-and-refinancing-in-2007": {
+            "title": "Mortgage Loans And Mortgage Refinancing In 2007...",
+            "snippet": "Get one preferably a copy from each of the three bureau companies, Equifax, Experian, and Transunion. Or you can purchase from an all-in-one site that offers all 3 []...",
+            "date": "2015-03-01",
+            "author_name": "genevievedundalli",
+            "categories": "mortgage-loan,refinancing",
+            "tags": "mortgage,mortgage_loans,loans,refinancing",
+            "recuweb_url": "http://en.recuweb.com/refinancing/genevievedundalli239.wordpress.com/2015/03/mortgage-loans-and-refinancing-in-2007",
+            "resource_url": "http://en.search.wordpress.com/?q=mortgage%2Bloan&f=feed&page=1",
+            "source_url": "http://genevievedundalli239.wordpress.com/2015/03/01/mortgage-loans-and-mortgage-refinancing-in-2007/"
         }
     }
 }
