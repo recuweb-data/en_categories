@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "financial-economics",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/financial-economics/",
@@ -11,42 +11,32 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/financial-economics/financial-economics/blogs.json"
     },
     "items": {
+        "nypost.com/2015/05/study-reveals-valuable-purpose-of-naked-short-selling": {
+            "title": "Study reveals valuable purpose of naked short selling...",
+            "snippet": "Veljko Fotak of the University of Buffalo and the University of Oklahomas Pradeep Yadav and published by the Journal of Financial Economics. Spikes in the number of fails came after Lehman and other firms announced they had hit an iceberg, the...",
+            "date": "2015-05-03",
+            "categories": "financial-economics,university",
+            "tags": "announced,fails,financial,financial_economics,economics,published,short,selling,study,university,journal,lehman",
+            "recuweb_url": "http://en.recuweb.com/university/nypost.com/2015/05/study-reveals-valuable-purpose-of-naked-short-selling",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Beconomics&format=RSS&cc=us",
+            "source_url": "http://nypost.com/2015/05/03/study-reveals-valuable-purpose-of-naked-short-selling/"
+        },
         "economist.com/2015/05/finance-and-economics-the-economist-blog": {
             "title": "Finance and economics - The Economist (blog)...",
             "snippet": "The Economist (blog)Finance and economicsThe Economist (blog)BOTH financiers and economists still get the blame for the 2007-2009 financial crisis: the first group for causing it and the second for not predicting it. As it turns out, the two issues...",
             "date": "2015-05-02",
             "categories": "finance",
-            "tags": "group,predicting,finance,economics,financial",
+            "tags": "group,finance,economics,financial",
             "recuweb_url": "http://en.recuweb.com/finance/economist.com/2015/05/finance-and-economics-the-economist-blog",
             "resource_url": "http://news.google.com/?hl=en&q=financial%2Beconomics&output=atom&nord=1",
             "source_url": "http://economist.com/blogs/buttonwood/2015/05/finance-and-economics"
-        },
-        "usnews.com/2015/05/conservatives-make-baltimore-riots-a-case-for-welfare-reform": {
-            "title": "Conservatives Make Baltimore Riots a Case for Welfare Reform...",
-            "snippet": "Robert Barbera, co-director of Johns Hopkins'Center for Financial Economics, points to a recent study that shows 73 percent of recipients of public assistance nationally belong to households in which at least one member works, often in industries...",
-            "date": "2015-05-01",
-            "categories": "financial-economics",
-            "tags": "works,study,financial,financial_economics,economics",
-            "recuweb_url": "http://en.recuweb.com/financial-economics/usnews.com/2015/05/conservatives-make-baltimore-riots-a-case-for-welfare-reform",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Beconomics&format=RSS&cc=us",
-            "source_url": "http://usnews.com/news/articles/2015/05/01/conservatives-see-baltimore-as-proof-welfare-fails"
-        },
-        "manchester.ac.uk/2015/05/financial-economics-msc": {
-            "title": "Financial Economics MSc...",
-            "snippet": "In addition to the normal supporting documents, applicants for the MSc Financial Economics must also supply the following: A brief description of any macro & micro-economics/econometrics/mathematics/statistics courses taken on your undergraduate...",
-            "date": "2015-05-01",
-            "categories": "financial-economics,mathematics",
-            "tags": "statistics,msc,financial,financial_economics,economics,ing",
-            "recuweb_url": "http://en.recuweb.com/mathematics/manchester.ac.uk/2015/05/financial-economics-msc",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Beconomics%2Bfinancial%2Beconomics&format=RSS&cc=us",
-            "source_url": "http://manchester.ac.uk/study/masters/courses/list/07946/financial-economics-msc/"
         },
         "seekingalpha.com/2015/05/quantitative-momentum-and-trend-following-with-etfs": {
             "title": "Quantitative Momentum And Trend-Following With ETFs...",
             "snippet": "But over time many academics became more open to evidence of persistent market inefficiency. A new group arose within financial economics, the behavioral finance school, suggesting that investors did not behave in the purely rational way assumed...",
             "date": "2015-05-01",
             "categories": "evidence,finance,school",
-            "tags": "group,within,market,ing,financial,economics,finance,school",
+            "tags": "group,within,market,financial,economics,finance,school",
             "recuweb_url": "http://en.recuweb.com/school/seekingalpha.com/2015/05/quantitative-momentum-and-trend-following-with-etfs",
             "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Beconomics&format=RSS&cc=us",
             "source_url": "http://seekingalpha.com/article/3128266-quantitative-momentum-and-trend-following-with-etfs"
@@ -56,60 +46,70 @@
             "snippet": "The Executive MBA is ranked 21st worldwide in the FT's ranking of EMBAs (Oct 2014). The Oxford MSc in Financial Economics is ranked 7th in the world in the FT ranking of Masters in Finance programmes (Jun 2014). In the UK university league tables it...",
             "date": "2015-05-01",
             "categories": "university,financial-economics,business,school,finance",
-            "tags": "world,financial,financial_economics,economics,msc,business,business_school,school,finance",
+            "tags": "university,world,financial,financial_economics,economics,msc,said,business,school,oxford,finance",
             "recuweb_url": "http://en.recuweb.com/finance/globenewswire.com/2015/05/said-business-school-university-of-oxford-student-will-match-20-000",
             "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Beconomics&format=RSS&cc=us",
             "source_url": "http://globenewswire.com/news-release/2015/05/01/731250/10132129/en/Said-Business-School-University-of-Oxford-Student-Will-Match-20-000-for-Nepal-Earthquake-Fundraising-Campaign.html"
+        },
+        "bloomberg.com/2015/04/ecbs-irish-governor-honohan-said-to-plan-resignation": {
+            "title": "ECBs Irish Governor Honohan Said to Plan Resignation...",
+            "snippet": "In the 1980s, Honohan worked as an adviser to the late former Prime Minister Garret FitzGerald, who had taught him at university, and spent a decade at the World Bank before returning to teach financial economics as a professor at Trinity College...",
+            "date": "2015-04-30",
+            "categories": "college,university",
+            "tags": "trinity,professor,world,world_bank,bank,spent,decade,university,governor,honohan,said,financial,economics",
+            "recuweb_url": "http://en.recuweb.com/university/bloomberg.com/2015/04/ecbs-irish-governor-honohan-said-to-plan-resignation",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Beconomics&format=RSS&cc=us",
+            "source_url": "http://bloomberg.com/news/articles/2015-04-30/ecb-s-irish-governor-honohan-said-to-plan-resignation-statement"
         },
         "irishtimes.com/2015/04/patrick-honohan-to-step-down-as-central-bank-governor": {
             "title": "Patrick Honohan to step down as Central Bank governor...",
             "snippet": "He previously held the post of Professor of International Financial Economics and Development in Trinity, having spent almost a decade before that at the World Bank as senior advisor on financial sector policy. Seen as a safe pair of hands and a...",
             "date": "2015-04-30",
             "categories": "policy,financial-economics",
-            "tags": "world,international,financial,financial_economics,economics,down,professor",
+            "tags": "world,world_bank,bank,spent,decade,international,financial,financial_economics,economics,honohan,governor,professor,trinity",
             "recuweb_url": "http://en.recuweb.com/financial-economics/irishtimes.com/2015/04/patrick-honohan-to-step-down-as-central-bank-governor",
             "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Beconomics&format=RSS&cc=us",
             "source_url": "http://irishtimes.com/business/financial-services/patrick-honohan-to-step-down-as-central-bank-governor-1.2195633"
         },
-        "finchannel.com/2015/04/predicting-a-companys-stock-return-through-trade-credit-links": {
-            "title": "Predicting a companys stock return, through trade credit links...",
-            "snippet": "The findings were launched in a publication in the Journal of Financial Economics titled, Trade Credit and Cross-Country Predictable Firm Returns which was authored by Professor Tarun Ramadorai and Sumudu W. Watugala at Sa\u00efd Business School...",
+        "washingtonpost.com/2015/04/economic-scars-deepening-by-the-day-as-baltimore-deals-with-unrest": {
+            "title": "Economic scars deepening by the day as Baltimore deals with unrest fallout...",
+            "snippet": "Baltimore, in the eyes of a 30-year resident Steven C. Isberg, associate professor of financial economics at the University of Baltimores Merrick School of Business, said the city cant afford an overload of negativity as it tries to build a...",
             "date": "2015-04-29",
-            "categories": "business,school,credit,financial-economics",
-            "tags": "business,business_school,school,professor,credit,financial,financial_economics,economics,predicting,journal",
-            "recuweb_url": "http://en.recuweb.com/financial-economics/finchannel.com/2015/04/predicting-a-companys-stock-return-through-trade-credit-links",
+            "categories": "school,university,business",
+            "tags": "said,build,school,professor,economics,financial,university,business",
+            "recuweb_url": "http://en.recuweb.com/business/washingtonpost.com/2015/04/economic-scars-deepening-by-the-day-as-baltimore-deals-with-unrest",
             "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Beconomics&format=RSS&cc=us",
-            "source_url": "http://finchannel.com/index.php/business/item/43304-predicting-a-company-s-stock-return-through-trade-credit-links"
+            "source_url": "http://washingtonpost.com/local/md-politics/economic-scars-deepening-by-the-day-as-baltimore-deals-with-unrest-fallout/2015/04/29/cee985a0-ee97-11e4-a55f-38924fca94f9_story.html"
         },
         "reurope.com/2015/04/study-clears-traders-failing-to-deliver-for-collapse-of-lehman-brothers": {
             "title": "Study clears traders failing to deliver for collapse of Lehman Brothers in financial crash...",
             "snippet": "The paper, Fails-to-Deliver-Short Selling, and Market Quality, published in the Journal of Financial Economics saw the researchers analyse 1,492 NYSE stocks over a 42-month period from January 2005 to June 2008. For robustness they also looked at...",
             "date": "2015-04-28",
             "categories": "financial-economics",
-            "tags": "period,stocks,financial,financial_economics,economics,published,market,study,journal",
+            "tags": "period,stocks,financial,financial_economics,economics,published,market,short,selling,lehman,study,fails,journal",
             "recuweb_url": "http://en.recuweb.com/financial-economics/reurope.com/2015/04/study-clears-traders-failing-to-deliver-for-collapse-of-lehman-brothers",
             "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Beconomics&format=RSS&cc=us",
             "source_url": "http://reurope.com/2015/04/28/study-clears-traders-failing-to-deliver-for-collapse-of-lehman-brothers-in-financial-crash/"
-        },
-        "royalgazette.com/2015/04/youth-living-a-life-of-entitlement": {
-            "title": "Youth living a life of entitlement...",
-            "snippet": "In reality the coloured people are being killed every day economically and we do not even realise it because we are not alive to the truth of financial economics. We are so caught up in the false social life which is found in the bars and social...",
-            "date": "2015-04-26",
-            "categories": "life",
-            "tags": "social,life,financial,economics",
-            "recuweb_url": "http://en.recuweb.com/life/royalgazette.com/2015/04/youth-living-a-life-of-entitlement",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Beconomics&format=RSS&cc=us",
-            "source_url": "http://royalgazette.com/article/20150427/COMMENT03/150429763&source=RSS"
         },
         "valuewalk.com/2015/04/credit-suisse-does-it-pay-to-be-bad": {
             "title": "Credit Suisse: Does It Pay To Be Bad?",
             "snippet": "A study published within the 2009 Journal of Financial Economics, written by H. Hong and M. Kacperczyk and entitled, The price of sin: The effects of social norms on markets examined sin stocks traded in the USA over the period 19262006.",
             "date": "2015-04-23",
             "categories": "markets,financial-economics,credit",
-            "tags": "period,social,markets,stocks,financial,financial_economics,economics,study,published,within,credit,journal",
+            "tags": "period,stocks,financial,financial_economics,economics,study,published,within,journal",
             "recuweb_url": "http://en.recuweb.com/credit/valuewalk.com/2015/04/credit-suisse-does-it-pay-to-be-bad",
             "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Beconomics&format=RSS&cc=us",
             "source_url": "http://valuewalk.com/2015/04/credit-suisse-sin/"
+        },
+        "leaprate.com/2015/04/safecharge-names-ali-khwaja-group-cfo": {
+            "title": "SafeCharge names Ali Khwaja Group CFO...",
+            "snippet": "Prior to Berenberg, Mr. Khwaja was a Technology Analyst at UBS. He is an alumnus of University of Oxford where was a Rhodes Scholar and received an MSc in Financial Economics. SafeCharge also announced expansion of its main Board by creating the...",
+            "date": "2015-04-22",
+            "categories": "financial-economics,technology,university",
+            "tags": "announced,financial,financial_economics,economics,group,university,oxford,msc",
+            "recuweb_url": "http://en.recuweb.com/university/leaprate.com/2015/04/safecharge-names-ali-khwaja-group-cfo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=financial%2Beconomics&format=RSS&cc=us",
+            "source_url": "http://leaprate.com/2015/04/safecharge-names-ali-khwaja-group-cfo/"
         }
     }
 }
