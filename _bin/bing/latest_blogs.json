@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "bing",
         "language": "en",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://en.recuweb.com/bing/",
@@ -11,15 +11,26 @@
         "graph:blogs": "http://en.recuweb.com/graph/v1.0/bing/bing/blogs.json"
     },
     "items": {
+        "bostinno.streetwise.co/2015/04/bing-s-howoldrobot-boston-sports-age-estimates-bill-belichick": {
+            "title": "Bing's HowOldRobot's Boston Sports Age Estimates: Bill Belichick...",
+            "snippet": "Bing's (or is it Microsoft's?) latest device to help undermine the productivity of the American workforce went...",
+            "date": "2015-04-30",
+            "author_name": "Hayden Bird",
+            "categories": "productivity,sport,bing",
+            "tags": "went,sports,bing,microsoft,american",
+            "recuweb_url": "http://en.recuweb.com/bing/bostinno.streetwise.co/2015/04/bing-s-howoldrobot-boston-sports-age-estimates-bill-belichick",
+            "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://bostinno.streetwise.co/2015/04/30/bings-howoldrobots-boston-sports-age-estimates-bill-belichick-larry-bird-babe-ruth-included-photos/"
+        },
         "searchenginewatch.com/2015/04/is-the-yahoo-bing-network-emerging-from-google-s-shadow-sew": {
             "title": "Is the Yahoo Bing Network Emerging From Google's Shadow? SEW...",
             "snippet": "There are more compelling reasons than ever to test the Yahoo Bing Network for your search marketing efforts.",
             "date": "2015-04-30",
             "author_name": "Richard Stokes",
             "categories": "marketing,yahoo,bing,google",
-            "tags": "search,bing,ever,test,google",
+            "tags": "yahoo,bing,ever,test,google,search",
             "recuweb_url": "http://en.recuweb.com/google/searchenginewatch.com/2015/04/is-the-yahoo-bing-network-emerging-from-google-s-shadow-sew",
-            "resource_url": "http://www.google.com/search?q=bing%2Bbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://searchenginewatch.com/sew/how-to/2406401/is-the-yahoo-bing-network-emerging-from-google-s-shadow"
         },
         "digitaltrends.com/2015/04/microsoft-s-bing-maps-updated-with-new-transit-data-digital-trends": {
@@ -28,29 +39,18 @@
             "date": "2015-04-29",
             "author_name": "Jon Martindale",
             "categories": "bing",
-            "tags": "updated,transit,transit-coverage,coverage,bing,bing_maps,maps,data,digital,digital_trends,trends,microsoft,world,windows",
+            "tags": "later,updated,transit,transit-coverage,coverage,bing,bing_maps,maps,data,microsoft,world,windows",
             "recuweb_url": "http://en.recuweb.com/bing/digitaltrends.com/2015/04/microsoft-s-bing-maps-updated-with-new-transit-data-digital-trends",
-            "resource_url": "http://www.google.com/search?q=bing%2Bbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://digitaltrends.com/computing/microsoft-bingmaps-update-transit/"
-        },
-        "searchengineland.com/2015/04/searchcap-twitter-on-google-bing-maps-transit-search-behavior": {
-            "title": "SearchCap Twitter On Google Bing Maps Transit Search Behavior...",
-            "snippet": "Below is what happened in search today, as reported on Search Engine Land and from other places across the web.",
-            "date": "2015-04-29",
-            "author_name": "Barry Schwartz",
-            "categories": "places,search-engine,twitter,google,bing",
-            "tags": "web,search,search_engine,search_engine_land,engine,engine_land,land,google,bing,bing_maps,maps,transit",
-            "recuweb_url": "http://en.recuweb.com/bing/searchengineland.com/2015/04/searchcap-twitter-on-google-bing-maps-transit-search-behavior",
             "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://searchengineland.com/searchcap-twitter-on-google-bing-maps-transit-search-behavior-study-219972"
+            "source_url": "http://digitaltrends.com/computing/microsoft-bingmaps-update-transit/"
         },
         "winbeta.org/2015/04/bing-maps-extends-its-transit-coverage-to-over-3000-agencies": {
             "title": "Bing Maps extends its transit coverage to over 3000 transit agencies...",
-            "snippet": "Microsoft is slowly transitioning Bing from its traditional desktop search origins, into a diversified platform with many extensions to varied types of searches. Microsoft would like to move Bing pa.",
+            "snippet": "Microsoft is slowly transitioning Bing from its traditional desktop search origins, into a diversified platform with many extensions to varied types of searches. Microsoft would like to move Bing past the days of urging users to...",
             "date": "2015-04-28",
             "author_name": "Kareem Anderson",
             "categories": "bing",
-            "tags": "move,platform,search,transit,transit-agencies,agencies,transit-coverage,coverage,bing,bing_maps,maps,microsoft",
+            "tags": "extensions,searches,search,transit,transit-coverage,coverage,bing,bing_maps,maps,microsoft,users",
             "recuweb_url": "http://en.recuweb.com/bing/winbeta.org/2015/04/bing-maps-extends-its-transit-coverage-to-over-3000-agencies",
             "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://winbeta.org/news/bing-maps-extends-its-transit-coverage-over-3000-transit-agencies"
@@ -61,31 +61,10 @@
             "date": "2015-04-28",
             "author_name": "Barry Schwartz",
             "categories": "search-engine,bing",
-            "tags": "test,recipes,search,search-results,results,answers,search_engine,search_engine_land,engine,engine_land,land,bing,data",
+            "tags": "test,results,answers,search,search_engine,engine,bing,data",
             "recuweb_url": "http://en.recuweb.com/bing/searchengineland.com/2015/04/bing-testing-recipe-data-in-search-snippets-engine-land",
             "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://searchengineland.com/bing-testing-recipe-data-in-search-snippets-219855"
-        },
-        "digitaltrends.com/2015/04/sufrace-3-preorders-get-2-000-bing-rewards-points-digital-trends": {
-            "title": "Sufrace 3 preorders get 2,000 Bing rewards points Digital Trends...",
-            "snippet": "It's almost time for Microsoft's more affordable Surface 3 to hit the market, and in an attempt to attract more buyers to its new hybrid device Microsoft is offering an additional incentive for Bing Rewards members to the tune of...",
-            "date": "2015-04-28",
-            "author_name": "Dave LeClair",
-            "categories": "bing",
-            "tags": "almost,digital,digital_trends,trends,bing,microsoft,device",
-            "recuweb_url": "http://en.recuweb.com/bing/digitaltrends.com/2015/04/sufrace-3-preorders-get-2-000-bing-rewards-points-digital-trends",
-            "resource_url": "http://www.google.com/search?q=bing%2Bbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://digitaltrends.com/computing/microsoft-offering-2000-bing-rewards-points-on-surface-3-preorders/"
-        },
-        "cfensi.wordpress.com/2015/04/fan-bingbing-to-star-in-china-s-first-motion-capture-feature": {
-            "title": "Fan Bingbing to star in China's first Motion Capture feature Cfensi...",
-            "snippet": "Fan Bingbing is the first actor confirmed for director Guo Jingming's next ambitious project, a motion capture feature film of his fantasy series Legend of Ravaging Dynasties. The series, China's bestselling...",
-            "date": "2015-04-27",
-            "author_name": "idarklight",
-            "tags": "next,star,fan,china",
-            "recuweb_url": "http://en.recuweb.com/cfensi.wordpress.com/2015/04/fan-bingbing-to-star-in-china-s-first-motion-capture-feature",
-            "resource_url": "http://www.google.com/search?q=bing%2Bbing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
-            "source_url": "http://cfensi.wordpress.com/2015/04/27/fan-bingbing-to-star-in-chinas-first-motion-capture-feature/"
         },
         "searchengineland.com/2015/04/bing-providing-detailed-answers-from-third-party-web-sites-like": {
             "title": "Bing Providing Detailed Answers From Third-Party Web Sites Like...",
@@ -93,31 +72,54 @@
             "date": "2015-04-24",
             "author_name": "Barry Schwartz",
             "categories": "bing,google",
-            "tags": "answers,web,detailed,search,search-results,results,bing,google",
+            "tags": "answers,web,top,bing,search,results,google",
             "recuweb_url": "http://en.recuweb.com/google/searchengineland.com/2015/04/bing-providing-detailed-answers-from-third-party-web-sites-like",
             "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
             "source_url": "http://searchengineland.com/bing-providing-detailed-answers-from-third-party-web-sites-like-google-219727"
         },
-        "explorationofmusic.wordpress.com/2015/04/bing-crosby-the-first-pop-star-revised": {
-            "title": "Bing Crosby: The First Pop Star (Revised)...",
-            "snippet": "The voice of Bing Crosby has been heard by more people than the voice of any other human being who ever lived. Decca Records It is incredible to imagine music today without technology from soundboards to microphones to personal players but at the...",
-            "date": "2015-04-24",
-            "author_name": "Kiana Cole",
-            "categories": "music,technology,bing",
-            "tags": "ever,pop,star,bing,bing_crosby,crosby",
-            "recuweb_url": "http://en.recuweb.com/bing/explorationofmusic.wordpress.com/2015/04/bing-crosby-the-first-pop-star-revised",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=bing%2Bbing&rss=1&lng=en",
-            "source_url": "http://explorationofmusic.wordpress.com/2015/04/24/bing-crosby-the-first-pop-star-revised/"
-        },
-        "reddit.com/2015/04/ysk-that-in-europe-openstreetmap-is-far-more-detailed": {
-            "title": "YSK That in Europe OpenStreetMap is far more detailed than both Google Maps or Bing Maps in most...",
-            "snippet": "Compare for yourself with this handy tool here. submitted by tinyp to YouShouldKnow [link] [120 comments]...",
-            "date": "2015-04-24",
+        "bgr.com/2015/04/bing-has-become-relevant": {
+            "title": "Bing has become relevant -...",
+            "snippet": "For a long time, it looked like Bing would just go down in history as a failed attempt by Microsoft to compete with Google. But recently something strange has happened: Instead of continuing down the road to Zunedom, Bing...",
+            "date": "2015-04-17",
+            "author_name": "Brad Reed",
             "categories": "bing,google",
-            "tags": "bing,bing_maps,maps,google,far,detailed",
-            "recuweb_url": "http://en.recuweb.com/google/reddit.com/2015/04/ysk-that-in-europe-openstreetmap-is-far-more-detailed",
-            "resource_url": "http://www.reddit.com/search.rss?q=bing%2Bbing&sort=relevance&show=all&syntax=plain",
-            "source_url": "http://reddit.com/r/YouShouldKnow/comments/33qlg7/ysk_that_in_europe_openstreetmap_is_far_more/"
+            "tags": "down,something,bing,microsoft,google,instead",
+            "recuweb_url": "http://en.recuweb.com/google/bgr.com/2015/04/bing-has-become-relevant",
+            "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://bgr.com/2015/04/16/bing-vs-google-vs-yahoo-market-share/"
+        },
+        "searchengineland.com/2015/04/bing-reaches-20-percent-search-market-share-milestone-in": {
+            "title": "Bing Reaches 20 Percent Search Market Share Milestone In US...",
+            "snippet": "Bing has hit 20 percent market share in the US according to new data from comScore. The slow and steady gains resulting in today's milestone have come mostly at the expense of Search Alliance partner Yahoo. Indeed the...",
+            "date": "2015-04-16",
+            "author_name": "Greg Sterling",
+            "categories": "bing,yahoo",
+            "tags": "search,steady,data,market,share,bing,yahoo",
+            "recuweb_url": "http://en.recuweb.com/yahoo/searchengineland.com/2015/04/bing-reaches-20-percent-search-market-share-milestone-in",
+            "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://searchengineland.com/bing-reaches-20-percent-search-milestone-in-us-market-218574"
+        },
+        "venturebeat.com/2015/04/bing-on-android-and-ios-now-lets-you-find-more-images": {
+            "title": "Bing on Android and iOS now lets you find more images without...",
+            "snippet": "Microsoft today updated Bing for Android and iOS with a new image search interface. You can try out the new experience now using the mobile browsers on your Android phone or iPhone. Microsoft describes the new image...",
+            "date": "2015-04-16",
+            "author_name": "Emil Protalinski",
+            "categories": "bing,iphone",
+            "tags": "using,updated,bing,microsoft,search",
+            "recuweb_url": "http://en.recuweb.com/iphone/venturebeat.com/2015/04/bing-on-android-and-ios-now-lets-you-find-more-images",
+            "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://venturebeat.com/2015/04/16/bing-for-android-and-ios-now-lets-you-find-more-images-without-typing/"
+        },
+        "engadget.com/2015/01/bing-and-yahoo-went-down-but-hackers-weren-t-to-blame": {
+            "title": "Bing and Yahoo went down but hackers weren't to blame - Engadget...",
+            "snippet": "Notice that Bing and Yahoo searches were down earlier today? Or maybe Siri and Cortana? No, it wasn't the result of a hack -- it was something less nefarious according to Reuters'sources. Apparently Microsoft issued a bad...",
+            "date": "2015-01-03",
+            "author_name": "Timothy J. Seppala",
+            "categories": "bing,yahoo",
+            "tags": "microsoft,something,searches,down,went,bing,yahoo,cortana",
+            "recuweb_url": "http://en.recuweb.com/yahoo/engadget.com/2015/01/bing-and-yahoo-went-down-but-hackers-weren-t-to-blame",
+            "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=en&lr=lang_en&nord=1",
+            "source_url": "http://engadget.com/2015/01/03/bing-yahoo-outage/"
         }
     }
 }
